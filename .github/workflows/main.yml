@@ -50,7 +50,7 @@ jobs:
         run: |
           git add --all
           git commit -m "Arxiv自动更新 @ $(date '+%Y-%m-%d %H:%M:%S') ${{ env.TZ }}"
-          git push --force origin main
+          git push --force origin master
       # ============================================
       # TODO [√] 更新 mkdocs
       # ============================================
