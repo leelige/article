@@ -3,7 +3,7 @@ name: Run Arxiv Papers Daily
 on:
   workflow_dispatch:
   schedule:
-    - cron: "2 1 3 0 *"
+    - cron: "0 8 * * *"
   push:
     branches: [main]
 
