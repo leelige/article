@@ -1,0 +1,8 @@
+"Multi Interest Recommendation":
+  "Multi Interest": '(all:multi+OR+all:Multi)+AND+(all:interest+OR+all:Interest)+AND+(all:recommendation+OR+all:Recommendation)'
+
+"Group Recommendation":
+  "Group": '(all:group+OR+all:Group)+AND+(all:recommendation+OR+all:Recommendation)'
+  
+"Graph Neural Network":
+  "GNN": '(all:Graph+OR+all:graph)+AND+(all:neural+OR+all:Neural)+AND+(all:network+OR+all:Network)'
