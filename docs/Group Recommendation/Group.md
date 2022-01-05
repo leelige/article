@@ -2,7 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-01-01 20:10:48**|**Understanding Public Opinion on Using Hydroxychloroquine for COVID-19   Treatment via Social Media**|Thuy T. Do et.al.|[2201.00237v1](http://arxiv.org/abs/2201.00237v1)|null|
+|**2022-01-04 04:29:23**|**On the Persistence of Higher-Order Interactions in Real-World   Hypergraphs**|Hyunjin Choo et.al.|[2201.00972v1](http://arxiv.org/abs/2201.00972v1)|[link](https://github.com/jin-choo/persistence)|
+|**2022-01-01 20:10:48**|**Understanding Public Opinion on Using Hydroxychloroquine for COVID-19   Treatment via Social Media**|Thuy T. Do et.al.|[2201.00237v1](http://arxiv.org/abs/2201.00237v1)|[link](https://github.com/thuydt02/hcq)|
 |**2021-12-28 15:54:55**|**Rank-1 Similarity Matrix Decomposition For Modeling Changes in Antivirus   Consensus Through Time**|Robert J. Joyce et.al.|[2201.00757v1](http://arxiv.org/abs/2201.00757v1)|null|
 |**2021-12-25 07:25:55**|**Modeling Multi-granularity User Intent Evolving via Heterogeneous Graph   Neural Networks for Session-based Recommendation**|Jiayan Guo et.al.|[2112.13197v2](http://arxiv.org/abs/2112.13197v2)|[link](https://github.com/SpaceLearner/SessionRec-pytorch)|
 |**2021-12-23 15:44:43**|**Revisiting, Benchmarking and Exploring API Recommendation: How Far Are   We?**|Yun Peng et.al.|[2112.12653v1](http://arxiv.org/abs/2112.12653v1)|null|
@@ -31,4 +32,3 @@
 |**2021-11-11 19:40:51**|**Personalized multi-faceted trust modeling to determine trust links in   social media and its potential for misinformation management**|Alexandre Parmentier et.al.|[2111.06440v1](http://arxiv.org/abs/2111.06440v1)|null|
 |**2021-11-03 17:44:06**|**Can I use this publicly available dataset to build commercial AI   software? Most likely not**|Gopi Krishnan Rajbahadur et.al.|[2111.02374v2](http://arxiv.org/abs/2111.02374v2)|null|
 |**2021-11-03 08:38:10**|**The Impact of Batch Learning in Stochastic Bandits**|Danil Provodin et.al.|[2111.02071v1](http://arxiv.org/abs/2111.02071v1)|[link](https://github.com/danilprov/batch-bandits)|
-|**2021-11-02 19:48:28**|**First-principles calculation of the electronic and optical properties of   Gd$_{2}$FeCrO$_{6}$ double perovskite: Effect of Hubbard U parameter**|Subrata Das et.al.|[2111.01864v1](http://arxiv.org/abs/2111.01864v1)|null|

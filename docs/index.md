@@ -1,5 +1,77 @@
 # arxiv-daily
- 自动更新 @ 2022-01-04 21:50:37 Asia/Shanghai
+ 自动更新 @ 2022-01-05 16:06:31 Asia/Shanghai
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-01-04 05:34:02**|**DigNet: Digging Clues from Local-Global Interactive Graph for   Aspect-level Sentiment Classification**|Bowen Xing et.al.|[2201.00989v1](http://arxiv.org/abs/2201.00989v1)|null|
+|**2022-01-03 16:11:46**|**Multivariate Time Series Regression with Graph Neural Networks**|Stefan Bloemheuvel et.al.|[2201.00818v1](http://arxiv.org/abs/2201.00818v1)|null|
+|**2022-01-03 15:47:40**|**A Cluster-Based Trip Prediction Graph Neural Network Model for Bike   Sharing Systems**|Bárbara Tavares et.al.|[2201.00720v1](http://arxiv.org/abs/2201.00720v1)|[link](https://github.com/barbara20901/cluster-link-prediction)|
+|**2022-01-03 14:14:28**|**Neural combinatorial optimization beyond the TSP: Existing architectures   under-represent graph structure**|Matteo Boffa et.al.|[2201.00668v1](http://arxiv.org/abs/2201.00668v1)|null|
+|**2022-01-03 13:04:54**|**Semi-supervised Stance Detection of Tweets Via Distant Network   Supervision**|Subhabrata Dutta et.al.|[2201.00614v1](http://arxiv.org/abs/2201.00614v1)|[link](https://github.com/annon-arch/sands)|
+|**2022-01-03 07:37:40**|**Graph Neural Networks: a bibliometrics overview**|Abdalsamad Keramatfar et.al.|[2201.01188v1](http://arxiv.org/abs/2201.01188v1)|null|
+|**2022-01-03 06:16:30**|**KerGNNs: Interpretable Graph Neural Networks with Graph Kernels**|Aosong Feng et.al.|[2201.00491v1](http://arxiv.org/abs/2201.00491v1)|null|
+|**2022-01-03 02:15:20**|**Two-level Graph Neural Network**|Xing Ai et.al.|[2201.01190v1](http://arxiv.org/abs/2201.01190v1)|null|
+|**2022-01-02 14:38:28**|**Semi-Supervised Graph Attention Networks for Event Representation   Learning**|Joao Pedro Rodrigues Mattos et.al.|[2201.00363v1](http://arxiv.org/abs/2201.00363v1)|[link](https://github.com/joaopedromattos/gnee)|
+|**2022-01-02 12:33:10**|**Rxn Hypergraph: a Hypergraph Attention Model for Chemical Reaction   Representation**|Mohammadamin Tavakoli et.al.|[2201.01196v1](http://arxiv.org/abs/2201.01196v1)|null|
+|**2022-01-01 19:00:26**|**Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels**|Enyan Dai et.al.|[2201.00232v1](http://arxiv.org/abs/2201.00232v1)|null|
+|**2022-01-01 04:59:49**|**Toward the Analysis of Graph Neural Networks**|Thanh-Dat Nguyen et.al.|[2201.00115v1](http://arxiv.org/abs/2201.00115v1)|null|
+|**2021-12-31 16:12:23**|**Scalable Deep Graph Clustering with Random-walk based Self-supervised   Learning**|Xiang Li et.al.|[2112.15530v1](http://arxiv.org/abs/2112.15530v1)|null|
+|**2021-12-31 09:05:37**|**Intention Adaptive Graph Neural Network for Category-aware Session-based   Recommendation**|Chuan Cui et.al.|[2112.15352v1](http://arxiv.org/abs/2112.15352v1)|null|
+|**2021-12-31 08:32:30**|**Distributed Hybrid CPU and GPU training for Graph Neural Networks on   Billion-Scale Graphs**|Da Zheng et.al.|[2112.15345v1](http://arxiv.org/abs/2112.15345v1)|null|
+|**2021-12-31 07:31:20**|**Temporal aware Multi-Interest Graph Neural Network For Session-based   Recommendation**|Qi Shen et.al.|[2112.15328v1](http://arxiv.org/abs/2112.15328v1)|null|
+|**2021-12-31 02:21:27**|**Echo state graph neural networks with analogue random resistor arrays**|Shaocong Wang et.al.|[2112.15270v1](http://arxiv.org/abs/2112.15270v1)|null|
+|**2021-12-30 15:22:35**|**Deconfounded Training for Graph Neural Networks**|Yongduo Sui et.al.|[2112.15089v1](http://arxiv.org/abs/2112.15089v1)|null|
+|**2021-12-30 13:48:58**|**TextRGNN: Residual Graph Neural Networks for Text Classification**|Jiayuan Chen et.al.|[2112.15060v1](http://arxiv.org/abs/2112.15060v1)|null|
+|**2021-12-30 11:00:00**|**Measuring and Sampling: A Metric-guided Subgraph Learning Framework for   Graph Neural Network**|Jiyang Bai et.al.|[2112.15015v1](http://arxiv.org/abs/2112.15015v1)|null|
+|**2021-12-30 06:29:21**|**Are we really making much progress? Revisiting, benchmarking, and   refining heterogeneous graph neural networks**|Qingsong Lv et.al.|[2112.14936v1](http://arxiv.org/abs/2112.14936v1)|null|
+|**2021-12-30 02:57:36**|**Motif Graph Neural Network**|Xuexin Chen et.al.|[2112.14900v1](http://arxiv.org/abs/2112.14900v1)|null|
+|**2021-12-29 20:50:59**|**UCoDe: Unified Community Detection with Graph Convolutional Networks**|Atefeh Moradan et.al.|[2112.14822v1](http://arxiv.org/abs/2112.14822v1)|null|
+|**2021-12-29 19:09:42**|**Graph Neural Networks for Communication Networks: Context, Use Cases and   Opportunities**|José Suárez-Varela et.al.|[2112.14792v1](http://arxiv.org/abs/2112.14792v1)|null|
+|**2021-12-29 19:06:29**|**PowerGraph: Using neural networks and principal components to   multivariate statistical power trade-offs**|Ajinkya K Mulay et.al.|[2201.00719v1](http://arxiv.org/abs/2201.00719v1)|null|
+|**2021-12-29 14:55:29**|**Mobility Edge in the Anderson model on partially disordered random   regular graphs**|O. Valba et.al.|[2112.14585v1](http://arxiv.org/abs/2112.14585v1)|null|
+|**2021-12-29 13:06:12**|**Designing the Topology of Graph Neural Networks: A Novel Feature Fusion   Perspective**|Lanning Wei et.al.|[2112.14531v1](http://arxiv.org/abs/2112.14531v1)|null|
+|**2021-12-29 07:55:29**|**Deformable Graph Convolutional Networks**|Jinyoung Park et.al.|[2112.14438v1](http://arxiv.org/abs/2112.14438v1)|null|
+|**2021-12-29 07:32:01**|**Leveraging Large-scale Computational Database and Deep Learning for   Accurate Prediction of Material Properties**|Pin Chen et.al.|[2112.14429v1](http://arxiv.org/abs/2112.14429v1)|null|
+|**2021-12-28 02:36:19**|**Frame invariance and scalability of neural operators for partial   differential equations**|Muhammad I. Zafar et.al.|[2112.14769v1](http://arxiv.org/abs/2112.14769v1)|null|
+
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-01-04 04:29:23**|**On the Persistence of Higher-Order Interactions in Real-World   Hypergraphs**|Hyunjin Choo et.al.|[2201.00972v1](http://arxiv.org/abs/2201.00972v1)|[link](https://github.com/jin-choo/persistence)|
+|**2022-01-01 20:10:48**|**Understanding Public Opinion on Using Hydroxychloroquine for COVID-19   Treatment via Social Media**|Thuy T. Do et.al.|[2201.00237v1](http://arxiv.org/abs/2201.00237v1)|[link](https://github.com/thuydt02/hcq)|
+|**2021-12-28 15:54:55**|**Rank-1 Similarity Matrix Decomposition For Modeling Changes in Antivirus   Consensus Through Time**|Robert J. Joyce et.al.|[2201.00757v1](http://arxiv.org/abs/2201.00757v1)|null|
+|**2021-12-25 07:25:55**|**Modeling Multi-granularity User Intent Evolving via Heterogeneous Graph   Neural Networks for Session-based Recommendation**|Jiayan Guo et.al.|[2112.13197v2](http://arxiv.org/abs/2112.13197v2)|[link](https://github.com/SpaceLearner/SessionRec-pytorch)|
+|**2021-12-23 15:44:43**|**Revisiting, Benchmarking and Exploring API Recommendation: How Far Are   We?**|Yun Peng et.al.|[2112.12653v1](http://arxiv.org/abs/2112.12653v1)|null|
+|**2021-12-23 11:02:57**|**Comprehensive Movie Recommendation System**|Hrisav Bhowmick et.al.|[2112.12463v1](http://arxiv.org/abs/2112.12463v1)|null|
+|**2021-12-22 21:05:24**|**Analysis of animal-related electric outages using species distribution   models and community science data**|Mei-Ling E. Feng et.al.|[2112.12791v1](http://arxiv.org/abs/2112.12791v1)|null|
+|**2021-12-22 05:33:15**|**Beyond Low Earth Orbit: Biomonitoring, Artificial Intelligence, and   Precision Space Health**|Ryan T. Scott et.al.|[2112.12554v1](http://arxiv.org/abs/2112.12554v1)|null|
+|**2021-12-22 05:18:26**|**Beyond Low Earth Orbit: Biological Research, Artificial Intelligence,   and Self-Driving Labs**|Lauren M. Sanders et.al.|[2112.12582v1](http://arxiv.org/abs/2112.12582v1)|null|
+|**2021-12-20 22:03:39**|**Nu Tools: Exploring Practical Roles for Neutrinos in Nuclear Energy and   Security**|Oluwatomi Akindele et.al.|[2112.12593v1](http://arxiv.org/abs/2112.12593v1)|null|
+|**2021-12-20 17:05:32**|**Improved Topic modeling in Twitter through Community Pooling**|Federico Albanese et.al.|[2201.00690v1](http://arxiv.org/abs/2201.00690v1)|null|
+|**2021-12-20 14:29:25**|**Covariate adjustment in multi-armed, possibly factorial experiments**|Anqi Zhao et.al.|[2112.10557v1](http://arxiv.org/abs/2112.10557v1)|null|
+|**2021-12-17 11:08:45**|**Product Information Browsing Support System Using Analytic Hierarchy   Process**|Weijian Li et.al.|[2112.09435v1](http://arxiv.org/abs/2112.09435v1)|null|
+|**2021-12-15 16:18:39**|**Exposure Inequality in People Recommender Systems: The Long-Term Effects**|Francesco Fabbri et.al.|[2112.08237v1](http://arxiv.org/abs/2112.08237v1)|null|
+|**2021-12-14 04:47:12**|**Birds Eye View Social Distancing Analysis System**|Zhengye Yang et.al.|[2112.07159v1](http://arxiv.org/abs/2112.07159v1)|null|
+|**2021-12-07 12:57:05**|**Cross-domain User Preference Learning for Cold-start Recommendation**|Huiling Zhou et.al.|[2112.03667v1](http://arxiv.org/abs/2112.03667v1)|null|
+|**2021-12-06 05:10:01**|**Learning Reinforced Dynamic Representations for Sequential   Recommendation**|Weiqi Shao et.al.|[2112.02787v1](http://arxiv.org/abs/2112.02787v1)|null|
+|**2021-12-04 08:10:06**|**Self-supervised Graph Learning for Occasional Group Recommendation**|Bowen Hao et.al.|[2112.02274v1](http://arxiv.org/abs/2112.02274v1)|null|
+|**2021-12-03 16:09:34**|**A network analysis of decision strategies of human experts in steel   manufacturing**|Daniel Christopher Merten et.al.|[2112.01991v1](http://arxiv.org/abs/2112.01991v1)|null|
+|**2021-12-02 11:51:13**|**Conversational Agents in Therapeutic Interventions for   Neurodevelopmental Disorders: A Survey**|Fabio Catania et.al.|[2112.01146v1](http://arxiv.org/abs/2112.01146v1)|null|
+|**2021-11-29 16:35:38**|**Advancing Artificial Intelligence and Machine Learning in the U.S.   Government Through Improved Public Competitions**|Ezekiel J. Maier et.al.|[2112.01275v1](http://arxiv.org/abs/2112.01275v1)|null|
+|**2021-11-29 11:29:43**|**What Drives Readership? An Online Study on User Interface Types and   Popularity Bias Mitigation in News Article Recommendations**|Emanuel Lacic et.al.|[2111.14467v1](http://arxiv.org/abs/2111.14467v1)|null|
+|**2021-11-27 20:36:08**|**Forecasting Daily COVID-19 Related Calls in VA Health Care System:   Predictive Model Development**|Weipeng Zhou et.al.|[2111.13980v2](http://arxiv.org/abs/2111.13980v2)|null|
+|**2021-11-23 17:46:28**|**Demystifying Ten Big Ideas and Rules Every Fire Scientist & Engineer   Should Know About Blackbox, Whitebox & Causal Artificial Intelligence**|M. Z. Naser et.al.|[2111.13756v1](http://arxiv.org/abs/2111.13756v1)|null|
+|**2021-11-19 23:25:38**|**Towards Return Parity in Markov Decision Processes**|Jianfeng Chi et.al.|[2111.10476v1](http://arxiv.org/abs/2111.10476v1)|null|
+|**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v1](http://arxiv.org/abs/2111.08862v1)|null|
+|**2021-11-16 22:43:16**|**Compressive Features in Offline Reinforcement Learning for Recommender   Systems**|Hung Nguyen et.al.|[2111.08817v1](http://arxiv.org/abs/2111.08817v1)|null|
+|**2021-11-11 19:40:51**|**Personalized multi-faceted trust modeling to determine trust links in   social media and its potential for misinformation management**|Alexandre Parmentier et.al.|[2111.06440v1](http://arxiv.org/abs/2111.06440v1)|null|
+|**2021-11-03 17:44:06**|**Can I use this publicly available dataset to build commercial AI   software? Most likely not**|Gopi Krishnan Rajbahadur et.al.|[2111.02374v2](http://arxiv.org/abs/2111.02374v2)|null|
+|**2021-11-03 08:38:10**|**The Impact of Batch Learning in Stochastic Bandits**|Danil Provodin et.al.|[2111.02071v1](http://arxiv.org/abs/2111.02071v1)|[link](https://github.com/danilprov/batch-bandits)|
 
 ## Multi Interest Recommendation
 
@@ -36,75 +108,3 @@
 |**2021-09-11 13:30:08**|**Existence conditions for hidden feedback loops in online recommender   systems**|Anton S. Khritankov et.al.|[2109.05278v2](http://arxiv.org/abs/2109.05278v2)|[link](https://github.com/prog-autom/bandit-loops)|
 |**2021-09-11 11:41:07**|**CauseRec: Counterfactual User Sequence Synthesis for Sequential   Recommendation**|Shengyu Zhang et.al.|[2109.05261v1](http://arxiv.org/abs/2109.05261v1)|null|
 |**2021-09-05 21:38:05**|**Recommendation Fairness: From Static to Dynamic**|Dell Zhang et.al.|[2109.03150v3](http://arxiv.org/abs/2109.03150v3)|null|
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-01-03 15:47:40**|**A Cluster-Based Trip Prediction Graph Neural Network Model for Bike   Sharing Systems**|Bárbara Tavares et.al.|[2201.00720v1](http://arxiv.org/abs/2201.00720v1)|null|
-|**2022-01-03 14:14:28**|**Neural combinatorial optimization beyond the TSP: Existing architectures   under-represent graph structure**|Matteo Boffa et.al.|[2201.00668v1](http://arxiv.org/abs/2201.00668v1)|null|
-|**2022-01-03 13:04:54**|**Semi-supervised Stance Detection of Tweets Via Distant Network   Supervision**|Subhabrata Dutta et.al.|[2201.00614v1](http://arxiv.org/abs/2201.00614v1)|null|
-|**2022-01-03 06:16:30**|**KerGNNs: Interpretable Graph Neural Networks with Graph Kernels**|Aosong Feng et.al.|[2201.00491v1](http://arxiv.org/abs/2201.00491v1)|null|
-|**2022-01-02 14:38:28**|**Semi-Supervised Graph Attention Networks for Event Representation   Learning**|Joao Pedro Rodrigues Mattos et.al.|[2201.00363v1](http://arxiv.org/abs/2201.00363v1)|null|
-|**2022-01-01 19:00:26**|**Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels**|Enyan Dai et.al.|[2201.00232v1](http://arxiv.org/abs/2201.00232v1)|null|
-|**2022-01-01 04:59:49**|**Toward the Analysis of Graph Neural Networks**|Thanh-Dat Nguyen et.al.|[2201.00115v1](http://arxiv.org/abs/2201.00115v1)|null|
-|**2021-12-31 16:12:23**|**Scalable Deep Graph Clustering with Random-walk based Self-supervised   Learning**|Xiang Li et.al.|[2112.15530v1](http://arxiv.org/abs/2112.15530v1)|null|
-|**2021-12-31 09:05:37**|**Intention Adaptive Graph Neural Network for Category-aware Session-based   Recommendation**|Chuan Cui et.al.|[2112.15352v1](http://arxiv.org/abs/2112.15352v1)|null|
-|**2021-12-31 08:32:30**|**Distributed Hybrid CPU and GPU training for Graph Neural Networks on   Billion-Scale Graphs**|Da Zheng et.al.|[2112.15345v1](http://arxiv.org/abs/2112.15345v1)|null|
-|**2021-12-31 07:31:20**|**Temporal aware Multi-Interest Graph Neural Network For Session-based   Recommendation**|Qi Shen et.al.|[2112.15328v1](http://arxiv.org/abs/2112.15328v1)|null|
-|**2021-12-31 02:21:27**|**Echo state graph neural networks with analogue random resistor arrays**|Shaocong Wang et.al.|[2112.15270v1](http://arxiv.org/abs/2112.15270v1)|null|
-|**2021-12-30 15:22:35**|**Deconfounded Training for Graph Neural Networks**|Yongduo Sui et.al.|[2112.15089v1](http://arxiv.org/abs/2112.15089v1)|null|
-|**2021-12-30 13:48:58**|**TextRGNN: Residual Graph Neural Networks for Text Classification**|Jiayuan Chen et.al.|[2112.15060v1](http://arxiv.org/abs/2112.15060v1)|null|
-|**2021-12-30 11:00:00**|**Measuring and Sampling: A Metric-guided Subgraph Learning Framework for   Graph Neural Network**|Jiyang Bai et.al.|[2112.15015v1](http://arxiv.org/abs/2112.15015v1)|null|
-|**2021-12-30 06:29:21**|**Are we really making much progress? Revisiting, benchmarking, and   refining heterogeneous graph neural networks**|Qingsong Lv et.al.|[2112.14936v1](http://arxiv.org/abs/2112.14936v1)|null|
-|**2021-12-30 02:57:36**|**Motif Graph Neural Network**|Xuexin Chen et.al.|[2112.14900v1](http://arxiv.org/abs/2112.14900v1)|null|
-|**2021-12-29 20:50:59**|**UCoDe: Unified Community Detection with Graph Convolutional Networks**|Atefeh Moradan et.al.|[2112.14822v1](http://arxiv.org/abs/2112.14822v1)|null|
-|**2021-12-29 19:09:42**|**Graph Neural Networks for Communication Networks: Context, Use Cases and   Opportunities**|José Suárez-Varela et.al.|[2112.14792v1](http://arxiv.org/abs/2112.14792v1)|null|
-|**2021-12-29 19:06:29**|**PowerGraph: Using neural networks and principal components to   multivariate statistical power trade-offs**|Ajinkya K Mulay et.al.|[2201.00719v1](http://arxiv.org/abs/2201.00719v1)|null|
-|**2021-12-29 14:55:29**|**Mobility Edge in the Anderson model on partially disordered random   regular graphs**|O. Valba et.al.|[2112.14585v1](http://arxiv.org/abs/2112.14585v1)|null|
-|**2021-12-29 13:06:12**|**Designing the Topology of Graph Neural Networks: A Novel Feature Fusion   Perspective**|Lanning Wei et.al.|[2112.14531v1](http://arxiv.org/abs/2112.14531v1)|null|
-|**2021-12-29 07:55:29**|**Deformable Graph Convolutional Networks**|Jinyoung Park et.al.|[2112.14438v1](http://arxiv.org/abs/2112.14438v1)|null|
-|**2021-12-29 07:32:01**|**Leveraging Large-scale Computational Database and Deep Learning for   Accurate Prediction of Material Properties**|Pin Chen et.al.|[2112.14429v1](http://arxiv.org/abs/2112.14429v1)|null|
-|**2021-12-28 02:36:19**|**Frame invariance and scalability of neural operators for partial   differential equations**|Muhammad I. Zafar et.al.|[2112.14769v1](http://arxiv.org/abs/2112.14769v1)|null|
-|**2021-12-28 02:30:11**|**Online Adversarial Distillation for Graph Neural Networks**|Can Wang et.al.|[2112.13966v1](http://arxiv.org/abs/2112.13966v1)|null|
-|**2021-12-27 14:27:58**|**Graph Collaborative Reasoning**|Hanxiong Chen et.al.|[2112.13705v2](http://arxiv.org/abs/2112.13705v2)|null|
-|**2021-12-27 09:33:22**|**Learn Layer-wise Connections in Graph Neural Networks**|Lanning Wei et.al.|[2112.13585v1](http://arxiv.org/abs/2112.13585v1)|null|
-|**2021-12-27 04:52:11**|**Block Modeling-Guided Graph Convolutional Neural Networks**|Dongxiao He et.al.|[2112.13507v2](http://arxiv.org/abs/2112.13507v2)|[link](https://github.com/hedongxiao-tju/BM-GCN)|
-|**2021-12-26 14:38:17**|**Attributed Graph Neural Networks for Recommendation Systems on   Large-Scale and Sparse Graph**|Yifei Zhao et.al.|[2112.13389v1](http://arxiv.org/abs/2112.13389v1)|null|
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-01-01 20:10:48**|**Understanding Public Opinion on Using Hydroxychloroquine for COVID-19   Treatment via Social Media**|Thuy T. Do et.al.|[2201.00237v1](http://arxiv.org/abs/2201.00237v1)|null|
-|**2021-12-28 15:54:55**|**Rank-1 Similarity Matrix Decomposition For Modeling Changes in Antivirus   Consensus Through Time**|Robert J. Joyce et.al.|[2201.00757v1](http://arxiv.org/abs/2201.00757v1)|null|
-|**2021-12-25 07:25:55**|**Modeling Multi-granularity User Intent Evolving via Heterogeneous Graph   Neural Networks for Session-based Recommendation**|Jiayan Guo et.al.|[2112.13197v2](http://arxiv.org/abs/2112.13197v2)|[link](https://github.com/SpaceLearner/SessionRec-pytorch)|
-|**2021-12-23 15:44:43**|**Revisiting, Benchmarking and Exploring API Recommendation: How Far Are   We?**|Yun Peng et.al.|[2112.12653v1](http://arxiv.org/abs/2112.12653v1)|null|
-|**2021-12-23 11:02:57**|**Comprehensive Movie Recommendation System**|Hrisav Bhowmick et.al.|[2112.12463v1](http://arxiv.org/abs/2112.12463v1)|null|
-|**2021-12-22 21:05:24**|**Analysis of animal-related electric outages using species distribution   models and community science data**|Mei-Ling E. Feng et.al.|[2112.12791v1](http://arxiv.org/abs/2112.12791v1)|null|
-|**2021-12-22 05:33:15**|**Beyond Low Earth Orbit: Biomonitoring, Artificial Intelligence, and   Precision Space Health**|Ryan T. Scott et.al.|[2112.12554v1](http://arxiv.org/abs/2112.12554v1)|null|
-|**2021-12-22 05:18:26**|**Beyond Low Earth Orbit: Biological Research, Artificial Intelligence,   and Self-Driving Labs**|Lauren M. Sanders et.al.|[2112.12582v1](http://arxiv.org/abs/2112.12582v1)|null|
-|**2021-12-20 22:03:39**|**Nu Tools: Exploring Practical Roles for Neutrinos in Nuclear Energy and   Security**|Oluwatomi Akindele et.al.|[2112.12593v1](http://arxiv.org/abs/2112.12593v1)|null|
-|**2021-12-20 17:05:32**|**Improved Topic modeling in Twitter through Community Pooling**|Federico Albanese et.al.|[2201.00690v1](http://arxiv.org/abs/2201.00690v1)|null|
-|**2021-12-20 14:29:25**|**Covariate adjustment in multi-armed, possibly factorial experiments**|Anqi Zhao et.al.|[2112.10557v1](http://arxiv.org/abs/2112.10557v1)|null|
-|**2021-12-17 11:08:45**|**Product Information Browsing Support System Using Analytic Hierarchy   Process**|Weijian Li et.al.|[2112.09435v1](http://arxiv.org/abs/2112.09435v1)|null|
-|**2021-12-15 16:18:39**|**Exposure Inequality in People Recommender Systems: The Long-Term Effects**|Francesco Fabbri et.al.|[2112.08237v1](http://arxiv.org/abs/2112.08237v1)|null|
-|**2021-12-14 04:47:12**|**Birds Eye View Social Distancing Analysis System**|Zhengye Yang et.al.|[2112.07159v1](http://arxiv.org/abs/2112.07159v1)|null|
-|**2021-12-07 12:57:05**|**Cross-domain User Preference Learning for Cold-start Recommendation**|Huiling Zhou et.al.|[2112.03667v1](http://arxiv.org/abs/2112.03667v1)|null|
-|**2021-12-06 05:10:01**|**Learning Reinforced Dynamic Representations for Sequential   Recommendation**|Weiqi Shao et.al.|[2112.02787v1](http://arxiv.org/abs/2112.02787v1)|null|
-|**2021-12-04 08:10:06**|**Self-supervised Graph Learning for Occasional Group Recommendation**|Bowen Hao et.al.|[2112.02274v1](http://arxiv.org/abs/2112.02274v1)|null|
-|**2021-12-03 16:09:34**|**A network analysis of decision strategies of human experts in steel   manufacturing**|Daniel Christopher Merten et.al.|[2112.01991v1](http://arxiv.org/abs/2112.01991v1)|null|
-|**2021-12-02 11:51:13**|**Conversational Agents in Therapeutic Interventions for   Neurodevelopmental Disorders: A Survey**|Fabio Catania et.al.|[2112.01146v1](http://arxiv.org/abs/2112.01146v1)|null|
-|**2021-11-29 16:35:38**|**Advancing Artificial Intelligence and Machine Learning in the U.S.   Government Through Improved Public Competitions**|Ezekiel J. Maier et.al.|[2112.01275v1](http://arxiv.org/abs/2112.01275v1)|null|
-|**2021-11-29 11:29:43**|**What Drives Readership? An Online Study on User Interface Types and   Popularity Bias Mitigation in News Article Recommendations**|Emanuel Lacic et.al.|[2111.14467v1](http://arxiv.org/abs/2111.14467v1)|null|
-|**2021-11-27 20:36:08**|**Forecasting Daily COVID-19 Related Calls in VA Health Care System:   Predictive Model Development**|Weipeng Zhou et.al.|[2111.13980v2](http://arxiv.org/abs/2111.13980v2)|null|
-|**2021-11-23 17:46:28**|**Demystifying Ten Big Ideas and Rules Every Fire Scientist & Engineer   Should Know About Blackbox, Whitebox & Causal Artificial Intelligence**|M. Z. Naser et.al.|[2111.13756v1](http://arxiv.org/abs/2111.13756v1)|null|
-|**2021-11-19 23:25:38**|**Towards Return Parity in Markov Decision Processes**|Jianfeng Chi et.al.|[2111.10476v1](http://arxiv.org/abs/2111.10476v1)|null|
-|**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v1](http://arxiv.org/abs/2111.08862v1)|null|
-|**2021-11-16 22:43:16**|**Compressive Features in Offline Reinforcement Learning for Recommender   Systems**|Hung Nguyen et.al.|[2111.08817v1](http://arxiv.org/abs/2111.08817v1)|null|
-|**2021-11-11 19:40:51**|**Personalized multi-faceted trust modeling to determine trust links in   social media and its potential for misinformation management**|Alexandre Parmentier et.al.|[2111.06440v1](http://arxiv.org/abs/2111.06440v1)|null|
-|**2021-11-03 17:44:06**|**Can I use this publicly available dataset to build commercial AI   software? Most likely not**|Gopi Krishnan Rajbahadur et.al.|[2111.02374v2](http://arxiv.org/abs/2111.02374v2)|null|
-|**2021-11-03 08:38:10**|**The Impact of Batch Learning in Stochastic Bandits**|Danil Provodin et.al.|[2111.02071v1](http://arxiv.org/abs/2111.02071v1)|[link](https://github.com/danilprov/batch-bandits)|
-|**2021-11-02 19:48:28**|**First-principles calculation of the electronic and optical properties of   Gd$_{2}$FeCrO$_{6}$ double perovskite: Effect of Hubbard U parameter**|Subrata Das et.al.|[2111.01864v1](http://arxiv.org/abs/2111.01864v1)|null|
