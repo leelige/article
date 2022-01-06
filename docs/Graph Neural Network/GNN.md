@@ -2,11 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-05 18:47:07**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou et.al.|[2201.01760v1](http://arxiv.org/abs/2201.01760v1)|null|
+|**2022-01-05 02:14:57**|**Towards Similarity-Aware Time-Series Classification**|Daochen Zha et.al.|[2201.01413v1](http://arxiv.org/abs/2201.01413v1)|[link](https://github.com/daochenzha/simtsc)|
+|**2022-01-04 23:52:24**|**Efficient-Dyn: Dynamic Graph Representation Learning via Event-based   Temporal Sparse Attention Network**|Yan Pang et.al.|[2201.01384v1](http://arxiv.org/abs/2201.01384v1)|null|
+|**2022-01-04 23:24:00**|**Graph Decipher: A transparent dual-attention graph neural network to   understand the message-passing mechanism for the node classification**|Yan Pang et.al.|[2201.01381v1](http://arxiv.org/abs/2201.01381v1)|null|
 |**2022-01-04 05:34:02**|**DigNet: Digging Clues from Local-Global Interactive Graph for   Aspect-level Sentiment Classification**|Bowen Xing et.al.|[2201.00989v1](http://arxiv.org/abs/2201.00989v1)|null|
 |**2022-01-03 16:11:46**|**Multivariate Time Series Regression with Graph Neural Networks**|Stefan Bloemheuvel et.al.|[2201.00818v1](http://arxiv.org/abs/2201.00818v1)|null|
 |**2022-01-03 15:47:40**|**A Cluster-Based Trip Prediction Graph Neural Network Model for Bike   Sharing Systems**|Bárbara Tavares et.al.|[2201.00720v1](http://arxiv.org/abs/2201.00720v1)|[link](https://github.com/barbara20901/cluster-link-prediction)|
 |**2022-01-03 14:14:28**|**Neural combinatorial optimization beyond the TSP: Existing architectures   under-represent graph structure**|Matteo Boffa et.al.|[2201.00668v1](http://arxiv.org/abs/2201.00668v1)|null|
-|**2022-01-03 13:04:54**|**Semi-supervised Stance Detection of Tweets Via Distant Network   Supervision**|Subhabrata Dutta et.al.|[2201.00614v1](http://arxiv.org/abs/2201.00614v1)|[link](https://github.com/annon-arch/sands)|
+|**2022-01-03 13:04:54**|**Semi-supervised Stance Detection of Tweets Via Distant Network   Supervision**|Subhabrata Dutta et.al.|[2201.00614v2](http://arxiv.org/abs/2201.00614v2)|[link](https://github.com/annon-arch/sands)|
 |**2022-01-03 07:37:40**|**Graph Neural Networks: a bibliometrics overview**|Abdalsamad Keramatfar et.al.|[2201.01188v1](http://arxiv.org/abs/2201.01188v1)|null|
 |**2022-01-03 06:16:30**|**KerGNNs: Interpretable Graph Neural Networks with Graph Kernels**|Aosong Feng et.al.|[2201.00491v1](http://arxiv.org/abs/2201.00491v1)|null|
 |**2022-01-03 02:15:20**|**Two-level Graph Neural Network**|Xing Ai et.al.|[2201.01190v1](http://arxiv.org/abs/2201.01190v1)|null|
@@ -28,7 +32,3 @@
 |**2021-12-29 19:09:42**|**Graph Neural Networks for Communication Networks: Context, Use Cases and   Opportunities**|José Suárez-Varela et.al.|[2112.14792v1](http://arxiv.org/abs/2112.14792v1)|null|
 |**2021-12-29 19:06:29**|**PowerGraph: Using neural networks and principal components to   multivariate statistical power trade-offs**|Ajinkya K Mulay et.al.|[2201.00719v1](http://arxiv.org/abs/2201.00719v1)|null|
 |**2021-12-29 14:55:29**|**Mobility Edge in the Anderson model on partially disordered random   regular graphs**|O. Valba et.al.|[2112.14585v1](http://arxiv.org/abs/2112.14585v1)|null|
-|**2021-12-29 13:06:12**|**Designing the Topology of Graph Neural Networks: A Novel Feature Fusion   Perspective**|Lanning Wei et.al.|[2112.14531v1](http://arxiv.org/abs/2112.14531v1)|null|
-|**2021-12-29 07:55:29**|**Deformable Graph Convolutional Networks**|Jinyoung Park et.al.|[2112.14438v1](http://arxiv.org/abs/2112.14438v1)|null|
-|**2021-12-29 07:32:01**|**Leveraging Large-scale Computational Database and Deep Learning for   Accurate Prediction of Material Properties**|Pin Chen et.al.|[2112.14429v1](http://arxiv.org/abs/2112.14429v1)|null|
-|**2021-12-28 02:36:19**|**Frame invariance and scalability of neural operators for partial   differential equations**|Muhammad I. Zafar et.al.|[2112.14769v1](http://arxiv.org/abs/2112.14769v1)|null|

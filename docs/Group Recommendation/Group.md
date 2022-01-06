@@ -3,12 +3,12 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-01-04 04:29:23**|**On the Persistence of Higher-Order Interactions in Real-World   Hypergraphs**|Hyunjin Choo et.al.|[2201.00972v1](http://arxiv.org/abs/2201.00972v1)|[link](https://github.com/jin-choo/persistence)|
-|**2022-01-01 20:10:48**|**Understanding Public Opinion on Using Hydroxychloroquine for COVID-19   Treatment via Social Media**|Thuy T. Do et.al.|[2201.00237v1](http://arxiv.org/abs/2201.00237v1)|[link](https://github.com/thuydt02/hcq)|
+|**2022-01-01 20:10:48**|**Understanding Public Opinion on Using Hydroxychloroquine for COVID-19   Treatment via Social Media**|Thuy T. Do et.al.|[2201.00237v1](http://arxiv.org/abs/2201.00237v1)|[link](https://github.com/thuydt02/HCQ_Tweet_Dataset)|
 |**2021-12-28 15:54:55**|**Rank-1 Similarity Matrix Decomposition For Modeling Changes in Antivirus   Consensus Through Time**|Robert J. Joyce et.al.|[2201.00757v1](http://arxiv.org/abs/2201.00757v1)|null|
 |**2021-12-25 07:25:55**|**Modeling Multi-granularity User Intent Evolving via Heterogeneous Graph   Neural Networks for Session-based Recommendation**|Jiayan Guo et.al.|[2112.13197v2](http://arxiv.org/abs/2112.13197v2)|[link](https://github.com/SpaceLearner/SessionRec-pytorch)|
-|**2021-12-23 15:44:43**|**Revisiting, Benchmarking and Exploring API Recommendation: How Far Are   We?**|Yun Peng et.al.|[2112.12653v1](http://arxiv.org/abs/2112.12653v1)|null|
+|**2021-12-23 15:44:43**|**Revisiting, Benchmarking and Exploring API Recommendation: How Far Are   We?**|Yun Peng et.al.|[2112.12653v1](http://arxiv.org/abs/2112.12653v1)|[link](https://github.com/JohnnyPeng18/APIBench)|
 |**2021-12-23 11:02:57**|**Comprehensive Movie Recommendation System**|Hrisav Bhowmick et.al.|[2112.12463v1](http://arxiv.org/abs/2112.12463v1)|null|
-|**2021-12-22 21:05:24**|**Analysis of animal-related electric outages using species distribution   models and community science data**|Mei-Ling E. Feng et.al.|[2112.12791v1](http://arxiv.org/abs/2112.12791v1)|null|
+|**2021-12-22 21:05:24**|**Analysis of animal-related electric outages using species distribution   models and community science data**|Mei-Ling E. Feng et.al.|[2112.12791v1](http://arxiv.org/abs/2112.12791v1)|[link](https://github.com/mefeng7/Bird_Outages_MA)|
 |**2021-12-22 05:33:15**|**Beyond Low Earth Orbit: Biomonitoring, Artificial Intelligence, and   Precision Space Health**|Ryan T. Scott et.al.|[2112.12554v1](http://arxiv.org/abs/2112.12554v1)|null|
 |**2021-12-22 05:18:26**|**Beyond Low Earth Orbit: Biological Research, Artificial Intelligence,   and Self-Driving Labs**|Lauren M. Sanders et.al.|[2112.12582v1](http://arxiv.org/abs/2112.12582v1)|null|
 |**2021-12-20 22:03:39**|**Nu Tools: Exploring Practical Roles for Neutrinos in Nuclear Energy and   Security**|Oluwatomi Akindele et.al.|[2112.12593v1](http://arxiv.org/abs/2112.12593v1)|null|
