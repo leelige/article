@@ -2,8 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-07 16:48:07**|**MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs**|Qiaoyu Tan et.al.|[2201.02534v1](http://arxiv.org/abs/2201.02534v1)|null|
+|**2022-01-07 03:12:37**|**Multi-Behavior Enhanced Recommendation with Cross-Interaction   Collaborative Relation Modeling**|Lianghao Xia et.al.|[2201.02307v1](http://arxiv.org/abs/2201.02307v1)|[link](https://github.com/akaxlh/gnmr)|
 |**2022-01-06 14:53:30**|**BERN2: an advanced neural biomedical named entity recognition and   normalization tool**|Mujeen Sung et.al.|[2201.02080v1](http://arxiv.org/abs/2201.02080v1)|[link](https://github.com/dmis-lab/bern2)|
-|**2022-01-06 10:07:49**|**Skip Vectors for RDF Data: Extraction Based on the Complexity of Feature   Patterns**|Yota Minami et.al.|[2201.01996v1](http://arxiv.org/abs/2201.01996v1)|null|
+|**2022-01-06 10:07:49**|**Skip Vectors for RDF Data: Extraction Based on the Complexity of Feature   Patterns**|Yota Minami et.al.|[2201.01996v2](http://arxiv.org/abs/2201.01996v2)|null|
 |**2022-01-05 21:11:23**|**Planted Dense Subgraphs in Dense Random Graphs Can Be Recovered using   Graph-based Machine Learning**|Itay Levinas et.al.|[2201.01825v1](http://arxiv.org/abs/2201.01825v1)|[link](https://github.com/louzounlab/pygon)|
 |**2022-01-05 18:47:07**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou et.al.|[2201.01760v1](http://arxiv.org/abs/2201.01760v1)|null|
 |**2022-01-05 02:14:57**|**Towards Similarity-Aware Time-Series Classification**|Daochen Zha et.al.|[2201.01413v2](http://arxiv.org/abs/2201.01413v2)|[link](https://github.com/daochenzha/simtsc)|
@@ -30,5 +32,3 @@
 |**2021-12-30 15:22:35**|**Deconfounded Training for Graph Neural Networks**|Yongduo Sui et.al.|[2112.15089v1](http://arxiv.org/abs/2112.15089v1)|null|
 |**2021-12-30 13:48:58**|**TextRGNN: Residual Graph Neural Networks for Text Classification**|Jiayuan Chen et.al.|[2112.15060v1](http://arxiv.org/abs/2112.15060v1)|null|
 |**2021-12-30 11:00:00**|**Measuring and Sampling: A Metric-guided Subgraph Learning Framework for   Graph Neural Network**|Jiyang Bai et.al.|[2112.15015v1](http://arxiv.org/abs/2112.15015v1)|null|
-|**2021-12-30 06:29:21**|**Are we really making much progress? Revisiting, benchmarking, and   refining heterogeneous graph neural networks**|Qingsong Lv et.al.|[2112.14936v1](http://arxiv.org/abs/2112.14936v1)|null|
-|**2021-12-30 02:57:36**|**Motif Graph Neural Network**|Xuexin Chen et.al.|[2112.14900v1](http://arxiv.org/abs/2112.14900v1)|null|
