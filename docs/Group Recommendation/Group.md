@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-11 09:52:56**|**Rubin-Euclid Derived Data Products: Initial Recommendations**|Leanne P. Guy et.al.|[2201.03862v1](http://arxiv.org/abs/2201.03862v1)|null|
 |**2022-01-07 02:26:45**|**New designs for Bayesian adaptive cluster-randomized trials**|Junwei Shen et.al.|[2201.02301v1](http://arxiv.org/abs/2201.02301v1)|null|
 |**2022-01-04 04:29:23**|**On the Persistence of Higher-Order Interactions in Real-World   Hypergraphs**|Hyunjin Choo et.al.|[2201.00972v1](http://arxiv.org/abs/2201.00972v1)|[link](https://github.com/jin-choo/persistence)|
 |**2022-01-01 20:10:48**|**Understanding Public Opinion on Using Hydroxychloroquine for COVID-19   Treatment via Social Media**|Thuy T. Do et.al.|[2201.00237v1](http://arxiv.org/abs/2201.00237v1)|[link](https://github.com/thuydt02/HCQ_Tweet_Dataset)|
@@ -31,4 +32,3 @@
 |**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v1](http://arxiv.org/abs/2111.08862v1)|null|
 |**2021-11-16 22:43:16**|**Compressive Features in Offline Reinforcement Learning for Recommender   Systems**|Hung Nguyen et.al.|[2111.08817v1](http://arxiv.org/abs/2111.08817v1)|null|
 |**2021-11-11 19:40:51**|**Personalized multi-faceted trust modeling to determine trust links in   social media and its potential for misinformation management**|Alexandre Parmentier et.al.|[2111.06440v1](http://arxiv.org/abs/2111.06440v1)|null|
-|**2021-11-03 17:44:06**|**Can I use this publicly available dataset to build commercial AI   software? Most likely not**|Gopi Krishnan Rajbahadur et.al.|[2111.02374v2](http://arxiv.org/abs/2111.02374v2)|null|
