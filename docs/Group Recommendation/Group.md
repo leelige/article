@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-12 11:49:13**|**Differentiating Geographic Movement Described in Text Documents**|Scott Pezanowski et.al.|[2201.04427v1](http://arxiv.org/abs/2201.04427v1)|null|
 |**2022-01-11 09:52:56**|**Rubin-Euclid Derived Data Products: Initial Recommendations**|Leanne P. Guy et.al.|[2201.03862v1](http://arxiv.org/abs/2201.03862v1)|null|
 |**2022-01-07 02:26:45**|**New designs for Bayesian adaptive cluster-randomized trials**|Junwei Shen et.al.|[2201.02301v1](http://arxiv.org/abs/2201.02301v1)|null|
 |**2022-01-04 04:29:23**|**On the Persistence of Higher-Order Interactions in Real-World   Hypergraphs**|Hyunjin Choo et.al.|[2201.00972v1](http://arxiv.org/abs/2201.00972v1)|[link](https://github.com/jin-choo/persistence)|
@@ -20,7 +21,8 @@
 |**2021-12-15 16:18:39**|**Exposure Inequality in People Recommender Systems: The Long-Term Effects**|Francesco Fabbri et.al.|[2112.08237v1](http://arxiv.org/abs/2112.08237v1)|null|
 |**2021-12-14 04:47:12**|**Birds Eye View Social Distancing Analysis System**|Zhengye Yang et.al.|[2112.07159v1](http://arxiv.org/abs/2112.07159v1)|null|
 |**2021-12-07 12:57:05**|**Cross-domain User Preference Learning for Cold-start Recommendation**|Huiling Zhou et.al.|[2112.03667v1](http://arxiv.org/abs/2112.03667v1)|null|
-|**2021-12-06 05:10:01**|**Learning Reinforced Dynamic Representations for Sequential   Recommendation**|Weiqi Shao et.al.|[2112.02787v1](http://arxiv.org/abs/2112.02787v1)|null|
+|**2021-12-06 06:54:33**|**user behavior understanding in real world settings**|Weiqi Shao et.al.|[2112.02812v2](http://arxiv.org/abs/2112.02812v2)|null|
+|**2021-12-06 05:10:01**|**Gumble Softmax For User Behavior Modeling**|Weiqi Shao et.al.|[2112.02787v2](http://arxiv.org/abs/2112.02787v2)|null|
 |**2021-12-04 08:10:06**|**Self-supervised Graph Learning for Occasional Group Recommendation**|Bowen Hao et.al.|[2112.02274v1](http://arxiv.org/abs/2112.02274v1)|null|
 |**2021-12-03 16:09:34**|**A network analysis of decision strategies of human experts in steel   manufacturing**|Daniel Christopher Merten et.al.|[2112.01991v1](http://arxiv.org/abs/2112.01991v1)|null|
 |**2021-12-02 11:51:13**|**Conversational Agents in Therapeutic Interventions for   Neurodevelopmental Disorders: A Survey**|Fabio Catania et.al.|[2112.01146v1](http://arxiv.org/abs/2112.01146v1)|null|
@@ -30,5 +32,3 @@
 |**2021-11-23 17:46:28**|**Demystifying Ten Big Ideas and Rules Every Fire Scientist & Engineer   Should Know About Blackbox, Whitebox & Causal Artificial Intelligence**|M. Z. Naser et.al.|[2111.13756v1](http://arxiv.org/abs/2111.13756v1)|null|
 |**2021-11-19 23:25:38**|**Towards Return Parity in Markov Decision Processes**|Jianfeng Chi et.al.|[2111.10476v1](http://arxiv.org/abs/2111.10476v1)|null|
 |**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v1](http://arxiv.org/abs/2111.08862v1)|null|
-|**2021-11-16 22:43:16**|**Compressive Features in Offline Reinforcement Learning for Recommender   Systems**|Hung Nguyen et.al.|[2111.08817v1](http://arxiv.org/abs/2111.08817v1)|null|
-|**2021-11-11 19:40:51**|**Personalized multi-faceted trust modeling to determine trust links in   social media and its potential for misinformation management**|Alexandre Parmentier et.al.|[2111.06440v1](http://arxiv.org/abs/2111.06440v1)|null|
