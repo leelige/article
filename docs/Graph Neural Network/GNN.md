@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-13 14:27:51**|**Motif-based mean-field approximation of interacting particles on   clustered networks**|Kai Cui et.al.|[2201.04999v1](http://arxiv.org/abs/2201.04999v1)|null|
+|**2022-01-13 08:04:10**|**Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series   Forecasting**|Ling Chen et.al.|[2201.04828v1](http://arxiv.org/abs/2201.04828v1)|[link](https://github.com/shangzongjiang/magnn)|
+|**2022-01-12 19:56:56**|**Sub-diffusive Thouless time scaling in the Anderson model on random   regular graphs**|Luis Colmenarez et.al.|[2201.04673v1](http://arxiv.org/abs/2201.04673v1)|null|
+|**2022-01-12 19:52:29**|**How Can Graph Neural Networks Help Document Retrieval: A Case Study on   CORD19 with Concept Map Generation**|Hejie Cui et.al.|[2201.04672v1](http://arxiv.org/abs/2201.04672v1)|[link](https://github.com/HennyJie/GNN-DocRetrieval)|
 |**2022-01-12 18:28:39**|**GraphVAMPNet, using graph neural networks and variational approach to   markov processes for dynamical modeling of biomolecules**|Mahdi Ghorbani et.al.|[2201.04609v1](http://arxiv.org/abs/2201.04609v1)|null|
 |**2022-01-12 16:05:19**|**Structure and position-aware graph neural network for airway labeling**|Weiyi Xie et.al.|[2201.04532v1](http://arxiv.org/abs/2201.04532v1)|[link](https://github.com/DIAGNijmegen/spgnn.Theproposedalgorithmisalsopubliclyavailableathttps://grand-challenge.org/algorithms/airway-anatomical-labeling/)|
 |**2022-01-12 05:55:32**|**Knee Cartilage Defect Assessment by Graph Representation and Surface   Convolution**|Zixu Zhuang et.al.|[2201.04318v1](http://arxiv.org/abs/2201.04318v1)|null|
@@ -9,6 +13,7 @@
 |**2022-01-11 20:53:15**|**Neural Capacitance: A New Perspective of Neural Network Selection via   Edge Dynamics**|Chunheng Jiang et.al.|[2201.04194v1](http://arxiv.org/abs/2201.04194v1)|null|
 |**2022-01-11 16:58:20**|**State Estimation in Electric Power Systems Leveraging Graph Neural   Networks**|Ognjen Kundacina et.al.|[2201.04056v1](http://arxiv.org/abs/2201.04056v1)|null|
 |**2022-01-11 01:16:58**|**Graph Neural Network Aided Expectation Propagation Detector for MU-MIMO   Systems**|Alva Kosasih et.al.|[2201.03731v1](http://arxiv.org/abs/2201.03731v1)|null|
+|**2022-01-11 00:10:28**|**Quasi-Framelets: Another Improvement to GraphNeural Networks**|Mengxi Yang et.al.|[2201.04728v1](http://arxiv.org/abs/2201.04728v1)|null|
 |**2022-01-10 22:44:30**|**FairEdit: Preserving Fairness in Graph Neural Networks through Greedy   Graph Editing**|Donald Loveland et.al.|[2201.03681v2](http://arxiv.org/abs/2201.03681v2)|[link](https://github.com/royull/fairedit)|
 |**2022-01-10 22:19:14**|**Neuroplastic graph attention networks for nuclei segmentation in   histopathology images**|Yoav Alon et.al.|[2201.03669v1](http://arxiv.org/abs/2201.03669v1)|null|
 |**2022-01-10 17:26:18**|**Disentangled Graph Neural Networks for Session-based Recommendation**|Ansong Li et.al.|[2201.03482v2](http://arxiv.org/abs/2201.03482v2)|null|
@@ -27,8 +32,3 @@
 |**2022-01-06 10:07:49**|**Skip Vectors for RDF Data: Extraction Based on the Complexity of Feature   Patterns**|Yota Minami et.al.|[2201.01996v2](http://arxiv.org/abs/2201.01996v2)|null|
 |**2022-01-05 21:11:23**|**Planted Dense Subgraphs in Dense Random Graphs Can Be Recovered using   Graph-based Machine Learning**|Itay Levinas et.al.|[2201.01825v1](http://arxiv.org/abs/2201.01825v1)|[link](https://github.com/louzounlab/pygon)|
 |**2022-01-05 18:47:07**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou et.al.|[2201.01760v1](http://arxiv.org/abs/2201.01760v1)|null|
-|**2022-01-05 02:14:57**|**Towards Similarity-Aware Time-Series Classification**|Daochen Zha et.al.|[2201.01413v2](http://arxiv.org/abs/2201.01413v2)|[link](https://github.com/daochenzha/simtsc)|
-|**2022-01-04 23:52:24**|**Efficient-Dyn: Dynamic Graph Representation Learning via Event-based   Temporal Sparse Attention Network**|Yan Pang et.al.|[2201.01384v1](http://arxiv.org/abs/2201.01384v1)|null|
-|**2022-01-04 23:24:00**|**Graph Decipher: A transparent dual-attention graph neural network to   understand the message-passing mechanism for the node classification**|Yan Pang et.al.|[2201.01381v1](http://arxiv.org/abs/2201.01381v1)|null|
-|**2022-01-04 08:40:08**|**Graph Neural Networks for Double-Strand DNA Breaks Prediction**|XU Wang et.al.|[2201.01855v1](http://arxiv.org/abs/2201.01855v1)|null|
-|**2022-01-04 05:34:02**|**DigNet: Digging Clues from Local-Global Interactive Graph for   Aspect-level Sentiment Classification**|Bowen Xing et.al.|[2201.00989v1](http://arxiv.org/abs/2201.00989v1)|null|

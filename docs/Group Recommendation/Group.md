@@ -21,7 +21,7 @@
 |**2021-12-15 16:18:39**|**Exposure Inequality in People Recommender Systems: The Long-Term Effects**|Francesco Fabbri et.al.|[2112.08237v1](http://arxiv.org/abs/2112.08237v1)|null|
 |**2021-12-14 04:47:12**|**Birds Eye View Social Distancing Analysis System**|Zhengye Yang et.al.|[2112.07159v1](http://arxiv.org/abs/2112.07159v1)|null|
 |**2021-12-07 12:57:05**|**Cross-domain User Preference Learning for Cold-start Recommendation**|Huiling Zhou et.al.|[2112.03667v1](http://arxiv.org/abs/2112.03667v1)|null|
-|**2021-12-06 06:54:33**|**user behavior understanding in real world settings**|Weiqi Shao et.al.|[2112.02812v2](http://arxiv.org/abs/2112.02812v2)|null|
+|**2021-12-06 06:54:33**|**User behavior understanding in real world settings**|Weiqi Shao et.al.|[2112.02812v3](http://arxiv.org/abs/2112.02812v3)|null|
 |**2021-12-06 05:10:01**|**Gumble Softmax For User Behavior Modeling**|Weiqi Shao et.al.|[2112.02787v2](http://arxiv.org/abs/2112.02787v2)|null|
 |**2021-12-04 08:10:06**|**Self-supervised Graph Learning for Occasional Group Recommendation**|Bowen Hao et.al.|[2112.02274v1](http://arxiv.org/abs/2112.02274v1)|null|
 |**2021-12-03 16:09:34**|**A network analysis of decision strategies of human experts in steel   manufacturing**|Daniel Christopher Merten et.al.|[2112.01991v1](http://arxiv.org/abs/2112.01991v1)|null|
