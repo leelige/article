@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-18 09:36:27**|**Unveiling music genre structure through common-interest communities**|Zhiheng Jiang et.al.|[2201.06842v1](http://arxiv.org/abs/2201.06842v1)|null|
+|**2022-01-18 08:43:34**|**Recommendation Unlearning**|Chong Chen et.al.|[2201.06820v1](http://arxiv.org/abs/2201.06820v1)|[link](https://github.com/chenchongthu/Recommendation-Unlearning)|
+|**2022-01-16 16:29:40**|**Bayesian Promised Persuasion: Dynamic Forward-Looking Multiagent   Delegation with Informational Burning**|Tao Zhang et.al.|[2201.06081v1](http://arxiv.org/abs/2201.06081v1)|null|
 |**2022-01-12 11:49:13**|**Differentiating Geographic Movement Described in Text Documents**|Scott Pezanowski et.al.|[2201.04427v1](http://arxiv.org/abs/2201.04427v1)|null|
 |**2022-01-11 09:52:56**|**Rubin-Euclid Derived Data Products: Initial Recommendations**|Leanne P. Guy et.al.|[2201.03862v1](http://arxiv.org/abs/2201.03862v1)|null|
 |**2022-01-07 02:26:45**|**New designs for Bayesian adaptive cluster-randomized trials**|Junwei Shen et.al.|[2201.02301v1](http://arxiv.org/abs/2201.02301v1)|null|
@@ -29,6 +32,3 @@
 |**2021-11-29 16:35:38**|**Advancing Artificial Intelligence and Machine Learning in the U.S.   Government Through Improved Public Competitions**|Ezekiel J. Maier et.al.|[2112.01275v1](http://arxiv.org/abs/2112.01275v1)|null|
 |**2021-11-29 11:29:43**|**What Drives Readership? An Online Study on User Interface Types and   Popularity Bias Mitigation in News Article Recommendations**|Emanuel Lacic et.al.|[2111.14467v1](http://arxiv.org/abs/2111.14467v1)|null|
 |**2021-11-27 20:36:08**|**Forecasting Daily COVID-19 Related Calls in VA Health Care System:   Predictive Model Development**|Weipeng Zhou et.al.|[2111.13980v2](http://arxiv.org/abs/2111.13980v2)|null|
-|**2021-11-23 17:46:28**|**Demystifying Ten Big Ideas and Rules Every Fire Scientist & Engineer   Should Know About Blackbox, Whitebox & Causal Artificial Intelligence**|M. Z. Naser et.al.|[2111.13756v1](http://arxiv.org/abs/2111.13756v1)|null|
-|**2021-11-19 23:25:38**|**Towards Return Parity in Markov Decision Processes**|Jianfeng Chi et.al.|[2111.10476v1](http://arxiv.org/abs/2111.10476v1)|null|
-|**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v1](http://arxiv.org/abs/2111.08862v1)|null|
