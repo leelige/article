@@ -2,9 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-20 18:28:22**|**Prediction of the electron density of states for crystalline compounds   with Atomistic Line Graph Neural Networks (ALIGNN)**|Prathik R Kaundinya et.al.|[2201.08348v1](http://arxiv.org/abs/2201.08348v1)|null|
+|**2022-01-20 14:07:13**|**An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging**|Shiqi Gong et.al.|[2201.08187v1](http://arxiv.org/abs/2201.08187v1)|null|
+|**2022-01-20 01:49:30**|**Informative Pseudo-Labeling for Graph Neural Networks with Few Labels**|Yayong Li et.al.|[2201.07951v1](http://arxiv.org/abs/2201.07951v1)|null|
+|**2022-01-20 01:03:00**|**GASCN: Graph Attention Shape Completion Network**|Haojie Huang et.al.|[2201.07937v1](http://arxiv.org/abs/2201.07937v1)|null|
+|**2022-01-19 20:52:42**|**Decoupling the Depth and Scope of Graph Neural Networks**|Hanqing Zeng et.al.|[2201.07858v1](http://arxiv.org/abs/2201.07858v1)|[link](https://github.com/facebookresearch/shaDow_GNN)|
 |**2022-01-19 18:21:38**|**A Full $w$CDM Analysis of KiDS-1000 Weak Lensing Maps using Deep   Learning**|Janis Fluri et.al.|[2201.07771v1](http://arxiv.org/abs/2201.07771v1)|null|
 |**2022-01-19 16:50:29**|**Debiased Graph Neural Networks with Agnostic Label Selection Bias**|Shaohua Fan et.al.|[2201.07708v1](http://arxiv.org/abs/2201.07708v1)|null|
-|**2022-01-19 11:29:02**|**GNN-based Android Malware Detection with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v1](http://arxiv.org/abs/2201.07537v1)|null|
+|**2022-01-19 14:44:36**|**Cognitive Explainers of Graph Neural Networks Based on Medical Concepts**|Yingni Wang et.al.|[2201.07798v1](http://arxiv.org/abs/2201.07798v1)|null|
+|**2022-01-19 11:29:02**|**Graph Neural Network-based Android Malware Classification with Jumping   Knowledge**|Wai Weng Lo et.al.|[2201.07537v2](http://arxiv.org/abs/2201.07537v2)|null|
 |**2022-01-18 17:18:26**|**Incompleteness of graph convolutional neural networks for points clouds   in three dimensions**|Sergey N. Pozdnyakov et.al.|[2201.07136v1](http://arxiv.org/abs/2201.07136v1)|null|
 |**2022-01-18 16:04:35**|**A Short Tutorial on The Weisfeiler-Lehman Test And Its Variants**|Ningyuan Huang et.al.|[2201.07083v1](http://arxiv.org/abs/2201.07083v1)|null|
 |**2022-01-18 11:28:36**|**Mining Fine-grained Semantics via Graph Neural Networks for   Evidence-based Fake News Detection**|Weizhi Xu et.al.|[2201.06885v1](http://arxiv.org/abs/2201.06885v1)|null|
@@ -26,9 +32,3 @@
 |**2022-01-14 03:49:30**|**Structure Enhanced Graph Neural Networks for Link Prediction**|Baole Ai et.al.|[2201.05293v1](http://arxiv.org/abs/2201.05293v1)|null|
 |**2022-01-13 16:35:45**|**Decompositional Quantum Graph Neural Network**|Xing Ai et.al.|[2201.05158v1](http://arxiv.org/abs/2201.05158v1)|null|
 |**2022-01-13 14:27:51**|**Motif-based mean-field approximation of interacting particles on   clustered networks**|Kai Cui et.al.|[2201.04999v2](http://arxiv.org/abs/2201.04999v2)|null|
-|**2022-01-13 08:04:10**|**Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series   Forecasting**|Ling Chen et.al.|[2201.04828v1](http://arxiv.org/abs/2201.04828v1)|[link](https://github.com/shangzongjiang/magnn)|
-|**2022-01-12 19:56:56**|**Sub-diffusive Thouless time scaling in the Anderson model on random   regular graphs**|Luis Colmenarez et.al.|[2201.04673v1](http://arxiv.org/abs/2201.04673v1)|null|
-|**2022-01-12 19:52:29**|**How Can Graph Neural Networks Help Document Retrieval: A Case Study on   CORD19 with Concept Map Generation**|Hejie Cui et.al.|[2201.04672v1](http://arxiv.org/abs/2201.04672v1)|[link](https://github.com/hennyjie/gnn-docretrieval)|
-|**2022-01-12 18:28:39**|**GraphVAMPNet, using graph neural networks and variational approach to   markov processes for dynamical modeling of biomolecules**|Mahdi Ghorbani et.al.|[2201.04609v1](http://arxiv.org/abs/2201.04609v1)|null|
-|**2022-01-12 16:05:19**|**Structure and position-aware graph neural network for airway labeling**|Weiyi Xie et.al.|[2201.04532v1](http://arxiv.org/abs/2201.04532v1)|[link](https://github.com/DIAGNijmegen/spgnn.Theproposedalgorithmisalsopubliclyavailableathttps://grand-challenge.org/algorithms/airway-anatomical-labeling/)|
-|**2022-01-12 05:55:32**|**Knee Cartilage Defect Assessment by Graph Representation and Surface   Convolution**|Zixu Zhuang et.al.|[2201.04318v1](http://arxiv.org/abs/2201.04318v1)|null|
