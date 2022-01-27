@@ -2,10 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-01-25 17:37:34**|**What's Wrong with Deep Learning in Tree Search for Combinatorial   Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|null|
-|**2022-01-25 15:25:21**|**Towards Cross-Disaster Building Damage Assessment with Graph   Convolutional Networks**|Ali Ismail et.al.|[2201.10395v1](http://arxiv.org/abs/2201.10395v1)|null|
-|**2022-01-25 15:19:30**|**BLDNet: A Semi-supervised Change Detection Building Damage Framework   using Graph Convolutional Networks and Urban Domain Knowledge**|Ali Ismail et.al.|[2201.10389v1](http://arxiv.org/abs/2201.10389v1)|null|
-|**2022-01-25 14:03:57**|**ML4CO-KIDA: Knowledge Inheritance in Data Aggregation**|Zixuan Cao et.al.|[2201.10328v1](http://arxiv.org/abs/2201.10328v1)|[link](https://github.com/megvii-research/NeurIPS2021-ML4CO-KIDA})|
+|**2022-01-26 18:29:00**|**Combining optimal path search with task-dependent learning in a neural   network**|Tomas Kulvicius et.al.|[2201.11104v1](http://arxiv.org/abs/2201.11104v1)|null|
+|**2022-01-26 17:45:32**|**What makes us humans: Differences in the critical dynamics underlying   the human and fruit-fly connectome**|Géza Ódor et.al.|[2201.11084v1](http://arxiv.org/abs/2201.11084v1)|null|
+|**2022-01-26 14:01:32**|**On the Power of Gradual Network Alignment Using Dual-Perception   Similarities**|Jin-Duk Park et.al.|[2201.10945v1](http://arxiv.org/abs/2201.10945v1)|null|
+|**2022-01-26 07:12:01**|**Causality and Correlation Graph Modeling for Effective and Explainable   Session-based Recommendation**|Cong Geng et.al.|[2201.10782v1](http://arxiv.org/abs/2201.10782v1)|null|
+|**2022-01-26 05:07:17**|**Graph Neural Networks with Dynamic and Static Representations for Social   Recommendation**|Junfa Lin et.al.|[2201.10751v1](http://arxiv.org/abs/2201.10751v1)|null|
+|**2022-01-25 17:37:34**|**What's Wrong with Deep Learning in Tree Search for Combinatorial   Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|[link](https://github.com/maxiboether/mis-benchmark-framework)|
+|**2022-01-25 15:25:21**|**Towards Cross-Disaster Building Damage Assessment with Graph   Convolutional Networks**|Ali Ismail et.al.|[2201.10395v1](http://arxiv.org/abs/2201.10395v1)|[link](https://gitlab.com/awadailab/sage-project)|
+|**2022-01-25 15:19:30**|**BLDNet: A Semi-supervised Change Detection Building Damage Framework   using Graph Convolutional Networks and Urban Domain Knowledge**|Ali Ismail et.al.|[2201.10389v1](http://arxiv.org/abs/2201.10389v1)|[link](https://gitlab.com/awadailab/gcn-remote-sensing)|
+|**2022-01-25 14:03:57**|**ML4CO-KIDA: Knowledge Inheritance in Data Aggregation**|Zixuan Cao et.al.|[2201.10328v1](http://arxiv.org/abs/2201.10328v1)|[link](https://github.com/megvii-research/neurips2021-ml4co-kida)|
 |**2022-01-25 13:26:35**|**Unboxing the graph: Neural Relational Inference for Mobility Prediction**|Mathias Niemann Tygesen et.al.|[2201.10307v1](http://arxiv.org/abs/2201.10307v1)|null|
 |**2022-01-25 07:02:58**|**Convergence of Invariant Graph Networks**|Chen Cai et.al.|[2201.10129v1](http://arxiv.org/abs/2201.10129v1)|null|
 |**2022-01-25 06:18:50**|**PowerGear: Early-Stage Power Estimation in FPGA HLS via Heterogeneous   Edge-Centric GNNs**|Zhe Lin et.al.|[2201.10114v1](http://arxiv.org/abs/2201.10114v1)|null|
@@ -27,8 +32,3 @@
 |**2022-01-23 06:08:18**|**Hardware/Software Co-Programmable Framework for Computational SSDs to   Accelerate Deep Learning Service on Large-Scale Graphs**|Miryeong Kwon et.al.|[2201.09189v1](http://arxiv.org/abs/2201.09189v1)|null|
 |**2022-01-22 17:30:46**|**HiSTGNN: Hierarchical Spatio-temporal Graph Neural Networks for Weather   Forecasting**|Minbo Ma et.al.|[2201.09101v1](http://arxiv.org/abs/2201.09101v1)|null|
 |**2022-01-22 15:16:24**|**A Multi-modal Fusion Framework Based on Multi-task Correlation Learning   for Cancer Prognosis Prediction**|Kaiwen Tan et.al.|[2201.10353v1](http://arxiv.org/abs/2201.10353v1)|null|
-|**2022-01-22 11:07:21**|**Bi-CLKT: Bi-Graph Contrastive Learning based Knowledge Tracing**|Xiangyu Song et.al.|[2201.09020v1](http://arxiv.org/abs/2201.09020v1)|null|
-|**2022-01-22 06:25:56**|**Chinese Word Segmentation with Heterogeneous Graph Neural Network**|Xuemei Tang et.al.|[2201.08975v1](http://arxiv.org/abs/2201.08975v1)|null|
-|**2022-01-22 00:47:41**|**Overcoming Oversmoothness in Graph Convolutional Networks via Hybrid   Scattering Networks**|Frederik Wenkel et.al.|[2201.08932v1](http://arxiv.org/abs/2201.08932v1)|null|
-|**2022-01-21 23:02:47**|**Enabling Flexibility for Sparse Tensor Acceleration via Heterogeneity**|Eric Qin et.al.|[2201.08916v1](http://arxiv.org/abs/2201.08916v1)|null|
-|**2022-01-21 19:00:05**|**GreaseLM: Graph REASoning Enhanced Language Models for Question   Answering**|Xikun Zhang et.al.|[2201.08860v1](http://arxiv.org/abs/2201.08860v1)|[link](https://github.com/snap-stanford/greaselm)|
