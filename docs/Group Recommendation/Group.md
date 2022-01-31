@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-28 05:14:37**|**Consistent Collaborative Filtering via Tensor Decomposition**|Shiwen Zhao et.al.|[2201.11936v1](http://arxiv.org/abs/2201.11936v1)|null|
 |**2022-01-25 11:42:24**|**Diversity in the Music Listening Experience: Insights from Focus Group   Interviews**|Lorenzo Porcaro et.al.|[2201.10249v1](http://arxiv.org/abs/2201.10249v1)|null|
 |**2022-01-21 09:52:42**|**Consumer Fairness in Recommender Systems: Contextualizing Definitions   and Mitigations**|Ludovico Boratto et.al.|[2201.08614v1](http://arxiv.org/abs/2201.08614v1)|[link](https://github.com/jackmedda/c-fairness-recsys)|
 |**2022-01-18 09:36:27**|**Unveiling music genre structure through common-interest communities**|Zhiheng Jiang et.al.|[2201.06842v1](http://arxiv.org/abs/2201.06842v1)|null|
@@ -31,4 +32,3 @@
 |**2021-12-04 08:10:06**|**Self-supervised Graph Learning for Occasional Group Recommendation**|Bowen Hao et.al.|[2112.02274v1](http://arxiv.org/abs/2112.02274v1)|null|
 |**2021-12-03 16:09:34**|**A network analysis of decision strategies of human experts in steel   manufacturing**|Daniel Christopher Merten et.al.|[2112.01991v1](http://arxiv.org/abs/2112.01991v1)|null|
 |**2021-12-02 11:51:13**|**Conversational Agents in Therapeutic Interventions for   Neurodevelopmental Disorders: A Survey**|Fabio Catania et.al.|[2112.01146v1](http://arxiv.org/abs/2112.01146v1)|null|
-|**2021-11-29 16:35:38**|**Advancing Artificial Intelligence and Machine Learning in the U.S.   Government Through Improved Public Competitions**|Ezekiel J. Maier et.al.|[2112.01275v1](http://arxiv.org/abs/2112.01275v1)|null|

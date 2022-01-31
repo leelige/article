@@ -8,7 +8,7 @@
 |**2021-12-16 09:12:33**|**GIMIRec: Global Interaction Information Aware Multi-Interest Framework   for Sequential Recommendation**|Jie Zhang et.al.|[2112.08717v1](http://arxiv.org/abs/2112.08717v1)|null|
 |**2021-12-16 06:48:31**|**MAVE: A Product Dataset for Multi-source Attribute Value Extraction**|Li Yang et.al.|[2112.08663v1](http://arxiv.org/abs/2112.08663v1)|[link](https://github.com/google-research-datasets/mave)|
 |**2021-12-06 05:10:01**|**Gumble Softmax For User Behavior Modeling**|Weiqi Shao et.al.|[2112.02787v2](http://arxiv.org/abs/2112.02787v2)|null|
-|**2021-11-30 02:10:02**|**MISS: Multi-Interest Self-Supervised Learning Framework for   Click-Through Rate Prediction**|Wei Guo et.al.|[2111.15068v1](http://arxiv.org/abs/2111.15068v1)|null|
+|**2021-11-30 02:10:02**|**MISS: Multi-Interest Self-Supervised Learning Framework for   Click-Through Rate Prediction**|Wei Guo et.al.|[2111.15068v2](http://arxiv.org/abs/2111.15068v2)|null|
 |**2021-11-29 17:50:22**|**Dynamic Inference**|Aolin Xu et.al.|[2111.14746v2](http://arxiv.org/abs/2111.14746v2)|null|
 |**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v1](http://arxiv.org/abs/2111.08862v1)|null|
 |**2021-11-10 09:05:52**|**Conversational Recommendation: Theoretical Model and Complexity Analysis**|Tommaso Di Noia et.al.|[2111.05578v2](http://arxiv.org/abs/2111.05578v2)|null|
