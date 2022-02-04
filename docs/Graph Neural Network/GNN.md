@@ -2,6 +2,9 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-03 17:42:04**|**Skeleton-Based Action Segmentation with Multi-Stage Spatial-Temporal   Graph Convolutional Neural Networks**|Benjamin Filtjens et.al.|[2202.01727v1](http://arxiv.org/abs/2202.01727v1)|[link](https://github.com/benjaminfiltjens/ms-gcn)|
+|**2022-02-03 14:24:12**|**Graph Coloring with Physics-Inspired Graph Neural Networks**|Martin J. A. Schuetz et.al.|[2202.01606v1](http://arxiv.org/abs/2202.01606v1)|null|
+|**2022-02-03 02:46:16**|**Learning Mechanically Driven Emergent Behavior with Message Passing   Neural Networks**|Peerasait Prachaseree et.al.|[2202.01380v1](http://arxiv.org/abs/2202.01380v1)|[link](https://github.com/pprachas/abc_dataset)|
 |**2022-02-01 23:48:40**|**A Graph Based Neural Network Approach to Immune Profiling of Multiplexed   Tissue Samples**|Natalia Garcia Martin et.al.|[2202.00813v1](http://arxiv.org/abs/2202.00813v1)|null|
 |**2022-02-01 23:32:33**|**Gromov-Wasserstein Discrepancy with Local Differential Privacy for   Distributed Structural Graphs**|Hongwei Jin et.al.|[2202.00808v1](http://arxiv.org/abs/2202.00808v1)|null|
 |**2022-02-01 20:33:15**|**Investigating Transfer Learning in Graph Neural Networks**|Nishai Kooverjee et.al.|[2202.00740v1](http://arxiv.org/abs/2202.00740v1)|null|
@@ -10,7 +13,7 @@
 |**2022-02-01 18:37:53**|**Stability and Generalization Capabilities of Message Passing Graph   Neural Networks**|Sohir Maskey et.al.|[2202.00645v1](http://arxiv.org/abs/2202.00645v1)|null|
 |**2022-02-01 16:21:01**|**Molecular Graph Representation Learning via Heterogeneous Motif Graph   Construction**|Zhaoning Yu et.al.|[2202.00529v1](http://arxiv.org/abs/2202.00529v1)|null|
 |**2022-02-01 16:11:21**|**MotifExplainer: a Motif-based Graph Neural Network Explainer**|Zhaoning Yu et.al.|[2202.00519v1](http://arxiv.org/abs/2202.00519v1)|null|
-|**2022-02-01 14:51:38**|**Few-Bit Backward: Quantized Gradients of Activation Functions for Memory   Footprint Reduction**|Georgii Novikov et.al.|[2202.00441v1](http://arxiv.org/abs/2202.00441v1)|[link](https://github.com/SkoltechAI/fewbit)|
+|**2022-02-01 14:51:38**|**Few-Bit Backward: Quantized Gradients of Activation Functions for Memory   Footprint Reduction**|Georgii Novikov et.al.|[2202.00441v2](http://arxiv.org/abs/2202.00441v2)|[link](https://github.com/SkoltechAI/fewbit)|
 |**2022-02-01 14:15:32**|**Memory-based Message Passing: Decoupling the Message for Propogation   from Discrimination**|Jie Chen et.al.|[2202.00423v1](http://arxiv.org/abs/2202.00423v1)|null|
 |**2022-02-01 13:39:00**|**Dimensionality Reduction Meets Message Passing for Graph Node Embeddings**|Krzysztof Sadowski et.al.|[2202.00408v2](http://arxiv.org/abs/2202.00408v2)|[link](https://github.com/ksadowski13/PCAPass)|
 |**2022-02-01 10:38:14**|**Time and space generalized diffusion equation on graphs/networks**|Fernando Diaz-Diaz et.al.|[2202.00318v1](http://arxiv.org/abs/2202.00318v1)|null|
@@ -29,6 +32,3 @@
 |**2022-01-30 17:21:24**|**A Theoretical Comparison of Graph Neural Network Extensions**|Pál András Papp et.al.|[2201.12884v1](http://arxiv.org/abs/2201.12884v1)|null|
 |**2022-01-30 16:53:11**|**DeepCatra: Learning Flow- and Graph-based Behaviors for Android Malware   Detection**|Yafei Wu et.al.|[2201.12876v1](http://arxiv.org/abs/2201.12876v1)|[link](https://github.com/shijiansj/deepcatra)|
 |**2022-01-30 16:43:40**|**Discovering Invariant Rationales for Graph Neural Networks**|Ying-Xin Wu et.al.|[2201.12872v1](http://arxiv.org/abs/2201.12872v1)|[link](https://github.com/wuyxin/dir-gnn)|
-|**2022-01-30 15:22:29**|**On Recoverability of Graph Neural Network Representations**|Maxim Fishman et.al.|[2201.12843v1](http://arxiv.org/abs/2201.12843v1)|[link](https://github.com/anonymous1252022/recoverability)|
-|**2022-01-30 14:14:15**|**Hyperbolic Neural Networks for Molecular Generation**|Eric Qu et.al.|[2201.12825v1](http://arxiv.org/abs/2201.12825v1)|[link](https://github.com/yhzq/hjtgan)|
-|**2022-01-30 10:09:43**|**Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent   Decision-Making in Mixed Traffic Environments**|Qi Liu et.al.|[2201.12776v1](http://arxiv.org/abs/2201.12776v1)|[link](https://github.com/jacklinkk/torchgrl)|
