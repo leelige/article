@@ -2,15 +2,19 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-04 18:44:21**|**Rediscovering orbital mechanics with machine learning**|Pablo Lemos et.al.|[2202.02306v1](http://arxiv.org/abs/2202.02306v1)|null|
+|**2022-02-04 18:29:49**|**Graph-Coupled Oscillator Networks**|T. Konstantin Rusch et.al.|[2202.02296v1](http://arxiv.org/abs/2202.02296v1)|null|
+|**2022-02-04 03:38:56**|**Multi-task graph neural networks for simultaneous prediction of global   and atomic properties in ferromagnetic systems**|Massimiliano Lupo Pasini et.al.|[2202.01954v1](http://arxiv.org/abs/2202.01954v1)|null|
 |**2022-02-03 17:42:04**|**Skeleton-Based Action Segmentation with Multi-Stage Spatial-Temporal   Graph Convolutional Neural Networks**|Benjamin Filtjens et.al.|[2202.01727v1](http://arxiv.org/abs/2202.01727v1)|[link](https://github.com/benjaminfiltjens/ms-gcn)|
 |**2022-02-03 14:24:12**|**Graph Coloring with Physics-Inspired Graph Neural Networks**|Martin J. A. Schuetz et.al.|[2202.01606v1](http://arxiv.org/abs/2202.01606v1)|null|
 |**2022-02-03 02:46:16**|**Learning Mechanically Driven Emergent Behavior with Message Passing   Neural Networks**|Peerasait Prachaseree et.al.|[2202.01380v1](http://arxiv.org/abs/2202.01380v1)|[link](https://github.com/pprachas/abc_dataset)|
+|**2022-02-03 02:37:45**|**Dynamic Virtual Network Embedding Algorithm based on Graph Convolution   Neural Network and Reinforcement Learning**|Peiying Zhang et.al.|[2202.02140v1](http://arxiv.org/abs/2202.02140v1)|null|
 |**2022-02-01 23:48:40**|**A Graph Based Neural Network Approach to Immune Profiling of Multiplexed   Tissue Samples**|Natalia Garcia Martin et.al.|[2202.00813v1](http://arxiv.org/abs/2202.00813v1)|null|
 |**2022-02-01 23:32:33**|**Gromov-Wasserstein Discrepancy with Local Differential Privacy for   Distributed Structural Graphs**|Hongwei Jin et.al.|[2202.00808v1](http://arxiv.org/abs/2202.00808v1)|null|
 |**2022-02-01 20:33:15**|**Investigating Transfer Learning in Graph Neural Networks**|Nishai Kooverjee et.al.|[2202.00740v1](http://arxiv.org/abs/2202.00740v1)|null|
 |**2022-02-01 19:56:39**|**Physical Design using Differentiable Learned Simulators**|Kelsey R. Allen et.al.|[2202.00728v1](http://arxiv.org/abs/2202.00728v1)|null|
 |**2022-02-01 18:56:15**|**Questions for Flat-Minima Optimization of Modern Neural Networks**|Jean Kaddour et.al.|[2202.00661v2](http://arxiv.org/abs/2202.00661v2)|null|
-|**2022-02-01 18:37:53**|**Stability and Generalization Capabilities of Message Passing Graph   Neural Networks**|Sohir Maskey et.al.|[2202.00645v1](http://arxiv.org/abs/2202.00645v1)|null|
+|**2022-02-01 18:37:53**|**Stability and Generalization Capabilities of Message Passing Graph   Neural Networks**|Sohir Maskey et.al.|[2202.00645v2](http://arxiv.org/abs/2202.00645v2)|null|
 |**2022-02-01 16:21:01**|**Molecular Graph Representation Learning via Heterogeneous Motif Graph   Construction**|Zhaoning Yu et.al.|[2202.00529v1](http://arxiv.org/abs/2202.00529v1)|null|
 |**2022-02-01 16:11:21**|**MotifExplainer: a Motif-based Graph Neural Network Explainer**|Zhaoning Yu et.al.|[2202.00519v1](http://arxiv.org/abs/2202.00519v1)|null|
 |**2022-02-01 14:51:38**|**Few-Bit Backward: Quantized Gradients of Activation Functions for Memory   Footprint Reduction**|Georgii Novikov et.al.|[2202.00441v2](http://arxiv.org/abs/2202.00441v2)|[link](https://github.com/SkoltechAI/fewbit)|
@@ -28,7 +32,3 @@
 |**2022-01-31 12:43:22**|**Learning on Arbitrary Graph Topologies via Predictive Coding**|Tommaso Salvatori et.al.|[2201.13180v1](http://arxiv.org/abs/2201.13180v1)|null|
 |**2022-01-31 07:07:51**|**Learning Robust Representation through Graph Adversarial Contrastive   Learning**|Jiayan Guo et.al.|[2201.13025v1](http://arxiv.org/abs/2201.13025v1)|null|
 |**2022-01-31 04:15:42**|**GSN: A Universal Graph Neural Network Inspired by Spring Network**|Guanyu Cui et.al.|[2201.12994v1](http://arxiv.org/abs/2201.12994v1)|null|
-|**2022-01-31 03:59:48**|**Interpretable and Generalizable Graph Learning via Stochastic Attention   Mechanism**|Siqi Miao et.al.|[2201.12987v1](http://arxiv.org/abs/2201.12987v1)|[link](https://github.com/Graph-COM/GSAT)|
-|**2022-01-30 17:21:24**|**A Theoretical Comparison of Graph Neural Network Extensions**|Pál András Papp et.al.|[2201.12884v1](http://arxiv.org/abs/2201.12884v1)|null|
-|**2022-01-30 16:53:11**|**DeepCatra: Learning Flow- and Graph-based Behaviors for Android Malware   Detection**|Yafei Wu et.al.|[2201.12876v1](http://arxiv.org/abs/2201.12876v1)|[link](https://github.com/shijiansj/deepcatra)|
-|**2022-01-30 16:43:40**|**Discovering Invariant Rationales for Graph Neural Networks**|Ying-Xin Wu et.al.|[2201.12872v1](http://arxiv.org/abs/2201.12872v1)|[link](https://github.com/wuyxin/dir-gnn)|
