@@ -2,11 +2,12 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-06 03:48:52**|**Triangle Graph Interest Network for Click-through Rate Prediction**|Wensen Jiang et.al.|[2202.02698v1](http://arxiv.org/abs/2202.02698v1)|[link](https://github.com/alibaba/tgin)|
 |**2022-02-01 06:52:40**|**Sequential Search with Off-Policy Reinforcement Learning**|Dadong Miao et.al.|[2202.00245v1](http://arxiv.org/abs/2202.00245v1)|null|
 |**2022-01-31 05:50:57**|**Speed-ANN: Low-Latency and High-Accuracy Nearest Neighbor Search via   Intra-Query Parallelism**|Zhen Peng et.al.|[2201.13007v1](http://arxiv.org/abs/2201.13007v1)|null|
 |**2021-12-31 07:31:20**|**Temporal aware Multi-Interest Graph Neural Network For Session-based   Recommendation**|Qi Shen et.al.|[2112.15328v1](http://arxiv.org/abs/2112.15328v1)|null|
 |**2021-12-31 03:54:37**|**Modelling of Bi-directional Spatio-Temporal Dependence and Users'   Dynamic Preferences for Missing POI Check-in Identification**|Dongbo Xi et.al.|[2112.15285v1](http://arxiv.org/abs/2112.15285v1)|null|
-|**2021-12-22 10:28:25**|**Multi-Choice Questions based Multi-Interest Policy Learning for   Conversational Recommendation**|Yiming Zhang et.al.|[2112.11775v1](http://arxiv.org/abs/2112.11775v1)|null|
+|**2021-12-22 10:28:25**|**Multiple Choice Questions based Multi-Interest Policy Learning for   Conversational Recommendation**|Yiming Zhang et.al.|[2112.11775v2](http://arxiv.org/abs/2112.11775v2)|null|
 |**2021-12-16 09:12:33**|**GIMIRec: Global Interaction Information Aware Multi-Interest Framework   for Sequential Recommendation**|Jie Zhang et.al.|[2112.08717v1](http://arxiv.org/abs/2112.08717v1)|null|
 |**2021-12-16 06:48:31**|**MAVE: A Product Dataset for Multi-source Attribute Value Extraction**|Li Yang et.al.|[2112.08663v1](http://arxiv.org/abs/2112.08663v1)|[link](https://github.com/google-research-datasets/mave)|
 |**2021-12-06 05:10:01**|**Gumble Softmax For User Behavior Modeling**|Weiqi Shao et.al.|[2112.02787v2](http://arxiv.org/abs/2112.02787v2)|null|
@@ -31,4 +32,3 @@
 |**2021-09-26 16:58:14**|**Why Do We Click: Visual Impression-aware News Recommendation**|Jiahao Xun et.al.|[2109.12651v1](http://arxiv.org/abs/2109.12651v1)|[link](https://github.com/jiahaoxun/imrec)|
 |**2021-09-26 07:10:45**|**DemiNet: Dependency-Aware Multi-Interest Network with Self-Supervised   Graph Learning for Click-Through Rate Prediction**|Yule Wang et.al.|[2109.12512v1](http://arxiv.org/abs/2109.12512v1)|null|
 |**2021-09-24 11:55:10**|**Multi-behavior Graph Contextual Aware Network for Session-based   Recommendation**|Qi Shen et.al.|[2109.11903v1](http://arxiv.org/abs/2109.11903v1)|null|
-|**2021-09-11 13:30:08**|**Existence conditions for hidden feedback loops in online recommender   systems**|Anton S. Khritankov et.al.|[2109.05278v2](http://arxiv.org/abs/2109.05278v2)|[link](https://github.com/prog-autom/bandit-loops)|
