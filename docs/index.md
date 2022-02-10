@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-02-09 16:07:12 Asia/Shanghai
+ 自动更新 @ 2022-02-10 16:06:41 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -19,7 +19,7 @@
 |**2021-11-30 02:10:02**|**MISS: Multi-Interest Self-Supervised Learning Framework for   Click-Through Rate Prediction**|Wei Guo et.al.|[2111.15068v2](http://arxiv.org/abs/2111.15068v2)|null|
 |**2021-11-29 17:50:22**|**Dynamic Inference**|Aolin Xu et.al.|[2111.14746v2](http://arxiv.org/abs/2111.14746v2)|null|
 |**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v1](http://arxiv.org/abs/2111.08862v1)|null|
-|**2021-11-10 09:05:52**|**Conversational Recommendation: Theoretical Model and Complexity Analysis**|Tommaso Di Noia et.al.|[2111.05578v2](http://arxiv.org/abs/2111.05578v2)|null|
+|**2021-11-10 09:05:52**|**Conversational Recommendation: Theoretical Model and Complexity Analysis**|Tommaso Di Noia et.al.|[2111.05578v3](http://arxiv.org/abs/2111.05578v3)|null|
 |**2021-11-09 11:56:38**|**Neural News Recommendation with Event Extraction**|Songqiao Han et.al.|[2111.05068v2](http://arxiv.org/abs/2111.05068v2)|null|
 |**2021-10-26 00:48:23**|**Privacy-Preserving Multi-Target Multi-Domain Recommender Systems with   Assisted AutoEncoders**|Enmao Diao et.al.|[2110.13340v1](http://arxiv.org/abs/2110.13340v1)|null|
 |**2021-10-26 00:21:15**|**Multi-Agent Advisor Q-Learning**|Sriram Ganapathi Subramanian et.al.|[2111.00345v2](http://arxiv.org/abs/2111.00345v2)|null|
@@ -78,6 +78,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-09 17:25:02**|**Neural Sheaf Diffusion: A Topological Perspective on Heterophily and   Oversmoothing in GNNs**|Cristian Bodnar et.al.|[2202.04579v1](http://arxiv.org/abs/2202.04579v1)|null|
+|**2022-02-09 15:47:07**|**A Multimodal Canonical-Correlated Graph Neural Network for   Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v1](http://arxiv.org/abs/2202.04528v1)|null|
+|**2022-02-09 14:36:36**|**CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph   Convolutional Neural Networks and Multi-Head Self-Attention**|Julian Schmidt et.al.|[2202.04488v1](http://arxiv.org/abs/2202.04488v1)|[link](https://github.com/schmidt-ju/crat-pred)|
+|**2022-02-08 23:00:26**|**FMP: Toward Fair Graph Message Passing against Topology Bias**|Zhimeng Jiang et.al.|[2202.04187v1](http://arxiv.org/abs/2202.04187v1)|null|
+|**2022-02-08 20:52:08**|**Simplified Graph Convolution with Heterophily**|Sudhanshu Chanpuriya et.al.|[2202.04139v1](http://arxiv.org/abs/2202.04139v1)|null|
 |**2022-02-08 12:15:39**|**Learning to Predict Graphs with Fused Gromov-Wasserstein Barycenters**|Luc Brogat-Motte et.al.|[2202.03813v1](http://arxiv.org/abs/2202.03813v1)|null|
 |**2022-02-08 10:06:51**|**Modeling Structure with Undirected Neural Networks**|Tsvetomila Mihaylova et.al.|[2202.03760v1](http://arxiv.org/abs/2202.03760v1)|null|
 |**2022-02-08 03:26:34**|**Bandit Sampling for Multiplex Networks**|Cenk Baykal et.al.|[2202.03621v1](http://arxiv.org/abs/2202.03621v1)|null|
@@ -103,8 +108,3 @@
 |**2022-02-04 21:14:21**|**Deep Dynamic Effective Connectivity Estimation from Multivariate Time   Series**|Usman Mahmood et.al.|[2202.02393v1](http://arxiv.org/abs/2202.02393v1)|null|
 |**2022-02-04 20:58:54**|**Using Large-scale Heterogeneous Graph Representation Learning for Code   Review Recommendations**|Jiyang Zhang et.al.|[2202.02385v1](http://arxiv.org/abs/2202.02385v1)|null|
 |**2022-02-04 20:00:51**|**Marius++: Large-Scale Training of Graph Neural Networks on a Single   Machine**|Roger Waleffe et.al.|[2202.02365v1](http://arxiv.org/abs/2202.02365v1)|null|
-|**2022-02-04 18:44:21**|**Rediscovering orbital mechanics with machine learning**|Pablo Lemos et.al.|[2202.02306v1](http://arxiv.org/abs/2202.02306v1)|null|
-|**2022-02-04 18:29:49**|**Graph-Coupled Oscillator Networks**|T. Konstantin Rusch et.al.|[2202.02296v1](http://arxiv.org/abs/2202.02296v1)|null|
-|**2022-02-04 09:11:13**|**Convolutional Neural Networks on Graphs with Chebyshev Approximation,   Revisited**|Mingguo He et.al.|[2202.03580v1](http://arxiv.org/abs/2202.03580v1)|null|
-|**2022-02-04 03:38:56**|**Multi-task graph neural networks for simultaneous prediction of global   and atomic properties in ferromagnetic systems**|Massimiliano Lupo Pasini et.al.|[2202.01954v1](http://arxiv.org/abs/2202.01954v1)|null|
-|**2022-02-03 17:42:04**|**Skeleton-Based Action Segmentation with Multi-Stage Spatial-Temporal   Graph Convolutional Neural Networks**|Benjamin Filtjens et.al.|[2202.01727v1](http://arxiv.org/abs/2202.01727v1)|[link](https://github.com/benjaminfiltjens/ms-gcn)|
