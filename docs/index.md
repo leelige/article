@@ -1,41 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-02-10 16:06:41 Asia/Shanghai
-
-## Multi Interest Recommendation
-
-### Multi Interest
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-02-08 04:59:56**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
-|**2022-02-06 03:48:52**|**Triangle Graph Interest Network for Click-through Rate Prediction**|Wensen Jiang et.al.|[2202.02698v1](http://arxiv.org/abs/2202.02698v1)|[link](https://github.com/alibaba/tgin)|
-|**2022-02-01 06:52:40**|**Sequential Search with Off-Policy Reinforcement Learning**|Dadong Miao et.al.|[2202.00245v1](http://arxiv.org/abs/2202.00245v1)|null|
-|**2022-01-31 05:50:57**|**Speed-ANN: Low-Latency and High-Accuracy Nearest Neighbor Search via   Intra-Query Parallelism**|Zhen Peng et.al.|[2201.13007v1](http://arxiv.org/abs/2201.13007v1)|null|
-|**2021-12-31 07:31:20**|**Temporal aware Multi-Interest Graph Neural Network For Session-based   Recommendation**|Qi Shen et.al.|[2112.15328v1](http://arxiv.org/abs/2112.15328v1)|null|
-|**2021-12-31 03:54:37**|**Modelling of Bi-directional Spatio-Temporal Dependence and Users'   Dynamic Preferences for Missing POI Check-in Identification**|Dongbo Xi et.al.|[2112.15285v1](http://arxiv.org/abs/2112.15285v1)|null|
-|**2021-12-22 10:28:25**|**Multiple Choice Questions based Multi-Interest Policy Learning for   Conversational Recommendation**|Yiming Zhang et.al.|[2112.11775v2](http://arxiv.org/abs/2112.11775v2)|null|
-|**2021-12-16 09:12:33**|**GIMIRec: Global Interaction Information Aware Multi-Interest Framework   for Sequential Recommendation**|Jie Zhang et.al.|[2112.08717v1](http://arxiv.org/abs/2112.08717v1)|null|
-|**2021-12-16 06:48:31**|**MAVE: A Product Dataset for Multi-source Attribute Value Extraction**|Li Yang et.al.|[2112.08663v1](http://arxiv.org/abs/2112.08663v1)|[link](https://github.com/google-research-datasets/mave)|
-|**2021-12-06 05:10:01**|**Gumble Softmax For User Behavior Modeling**|Weiqi Shao et.al.|[2112.02787v2](http://arxiv.org/abs/2112.02787v2)|null|
-|**2021-11-30 02:10:02**|**MISS: Multi-Interest Self-Supervised Learning Framework for   Click-Through Rate Prediction**|Wei Guo et.al.|[2111.15068v2](http://arxiv.org/abs/2111.15068v2)|null|
-|**2021-11-29 17:50:22**|**Dynamic Inference**|Aolin Xu et.al.|[2111.14746v2](http://arxiv.org/abs/2111.14746v2)|null|
-|**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v1](http://arxiv.org/abs/2111.08862v1)|null|
-|**2021-11-10 09:05:52**|**Conversational Recommendation: Theoretical Model and Complexity Analysis**|Tommaso Di Noia et.al.|[2111.05578v3](http://arxiv.org/abs/2111.05578v3)|null|
-|**2021-11-09 11:56:38**|**Neural News Recommendation with Event Extraction**|Songqiao Han et.al.|[2111.05068v2](http://arxiv.org/abs/2111.05068v2)|null|
-|**2021-10-26 00:48:23**|**Privacy-Preserving Multi-Target Multi-Domain Recommender Systems with   Assisted AutoEncoders**|Enmao Diao et.al.|[2110.13340v1](http://arxiv.org/abs/2110.13340v1)|null|
-|**2021-10-26 00:21:15**|**Multi-Agent Advisor Q-Learning**|Sriram Ganapathi Subramanian et.al.|[2111.00345v2](http://arxiv.org/abs/2111.00345v2)|null|
-|**2021-10-22 03:28:21**|**MIC: Model-agnostic Integrated Cross-channel Recommenders**|Yujie Lu et.al.|[2110.11570v1](http://arxiv.org/abs/2110.11570v1)|null|
-|**2021-10-19 18:59:02**|**MultiHead MultiModal Deep Interest Recommendation Network**|Mingbao Yang et.al.|[2110.10205v1](http://arxiv.org/abs/2110.10205v1)|null|
-|**2021-10-19 13:17:18**|**Plasma environment effects on K lines of astrophysical interest. V.   Universal formulae for ionization potential and K-threshold shifts**|P. Palmeri et.al.|[2110.09957v1](http://arxiv.org/abs/2110.09957v1)|null|
-|**2021-10-19 01:14:08**|**Multilevel Stochastic Optimization for Imputation in Massive Medical   Data Records**|Xiaoyu Wang et.al.|[2110.09680v1](http://arxiv.org/abs/2110.09680v1)|null|
-|**2021-10-13 03:49:45**|**SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair   Recommendation in Hundreds of Travel Scenarios**|Qijie Shen et.al.|[2110.06475v2](http://arxiv.org/abs/2110.06475v2)|null|
-|**2021-10-08 09:54:43**|**Multiplex Behavioral Relation Learning for Recommendation via Memory   Augmented Transformer Network**|Lianghao Xia et.al.|[2110.04002v1](http://arxiv.org/abs/2110.04002v1)|[link](https://github.com/akaxlh/matn)|
-|**2021-10-08 05:46:55**|**Multi-trends Enhanced Dynamic Micro-video Recommendation**|Yujie Lu et.al.|[2110.03902v1](http://arxiv.org/abs/2110.03902v1)|null|
-|**2021-10-07 13:32:04**|**Recent Advances in Heterogeneous Relation Learning for Recommendation**|Chao Huang et.al.|[2110.03455v1](http://arxiv.org/abs/2110.03455v1)|null|
-|**2021-10-05 21:30:53**|**Live Multi-Streaming and Donation Recommendations via Coupled   Donation-Response Tensor Factorization**|Hsu-Chao Lai et.al.|[2110.06117v1](http://arxiv.org/abs/2110.06117v1)|null|
-|**2021-10-01 22:54:47**|**Multi-Agent Algorithmic Recourse**|Andrew O'Brien et.al.|[2110.00673v1](http://arxiv.org/abs/2110.00673v1)|null|
-|**2021-09-27 09:17:53**|**ICMT: Item Cluster-Wise Multi-Objective Training for Long-Tail   Recommendation**|Yule Wang et.al.|[2109.12887v2](http://arxiv.org/abs/2109.12887v2)|null|
-|**2021-09-26 16:58:14**|**Why Do We Click: Visual Impression-aware News Recommendation**|Jiahao Xun et.al.|[2109.12651v1](http://arxiv.org/abs/2109.12651v1)|[link](https://github.com/jiahaoxun/imrec)|
-|**2021-09-26 07:10:45**|**DemiNet: Dependency-Aware Multi-Interest Network with Self-Supervised   Graph Learning for Click-Through Rate Prediction**|Yule Wang et.al.|[2109.12512v1](http://arxiv.org/abs/2109.12512v1)|null|
+ 自动更新 @ 2022-02-11 16:05:39 Asia/Shanghai
 
 ## Group Recommendation
 
@@ -78,13 +42,18 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-10 10:06:22**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v1](http://arxiv.org/abs/2202.04936v1)|[link](https://github.com/bzho3923/magnet)|
+|**2022-02-10 09:06:52**|**Instance-wise algorithm configuration with graph neural networks**|Romeo Valentin et.al.|[2202.04910v1](http://arxiv.org/abs/2202.04910v1)|[link](https://github.com/romeov/ml4co-competition)|
+|**2022-02-10 04:01:40**|**Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**|Xin Liu et.al.|[2202.04822v1](http://arxiv.org/abs/2202.04822v1)|null|
+|**2022-02-09 21:21:48**|**Graph Neural Network for Cell Tracking in Microscopy Videos**|Tal Ben-Haim et.al.|[2202.04731v1](http://arxiv.org/abs/2202.04731v1)|null|
 |**2022-02-09 17:25:02**|**Neural Sheaf Diffusion: A Topological Perspective on Heterophily and   Oversmoothing in GNNs**|Cristian Bodnar et.al.|[2202.04579v1](http://arxiv.org/abs/2202.04579v1)|null|
 |**2022-02-09 15:47:07**|**A Multimodal Canonical-Correlated Graph Neural Network for   Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v1](http://arxiv.org/abs/2202.04528v1)|null|
-|**2022-02-09 14:36:36**|**CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph   Convolutional Neural Networks and Multi-Head Self-Attention**|Julian Schmidt et.al.|[2202.04488v1](http://arxiv.org/abs/2202.04488v1)|[link](https://github.com/schmidt-ju/crat-pred)|
+|**2022-02-09 14:36:36**|**CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph   Convolutional Neural Networks and Multi-Head Self-Attention**|Julian Schmidt et.al.|[2202.04488v2](http://arxiv.org/abs/2202.04488v2)|[link](https://github.com/schmidt-ju/crat-pred)|
 |**2022-02-08 23:00:26**|**FMP: Toward Fair Graph Message Passing against Topology Bias**|Zhimeng Jiang et.al.|[2202.04187v1](http://arxiv.org/abs/2202.04187v1)|null|
 |**2022-02-08 20:52:08**|**Simplified Graph Convolution with Heterophily**|Sudhanshu Chanpuriya et.al.|[2202.04139v1](http://arxiv.org/abs/2202.04139v1)|null|
 |**2022-02-08 12:15:39**|**Learning to Predict Graphs with Fused Gromov-Wasserstein Barycenters**|Luc Brogat-Motte et.al.|[2202.03813v1](http://arxiv.org/abs/2202.03813v1)|null|
 |**2022-02-08 10:06:51**|**Modeling Structure with Undirected Neural Networks**|Tsvetomila Mihaylova et.al.|[2202.03760v1](http://arxiv.org/abs/2202.03760v1)|null|
+|**2022-02-08 08:21:20**|**Boosting Graph Neural Networks by Injecting Pooling in Message Passing**|Hyeokjin Kwon et.al.|[2202.04768v1](http://arxiv.org/abs/2202.04768v1)|null|
 |**2022-02-08 03:26:34**|**Bandit Sampling for Multiplex Networks**|Cenk Baykal et.al.|[2202.03621v1](http://arxiv.org/abs/2202.03621v1)|null|
 |**2022-02-07 22:01:58**|**Structured Time Series Prediction without Structural Prior**|Darko Drakulic et.al.|[2202.03539v1](http://arxiv.org/abs/2202.03539v1)|null|
 |**2022-02-07 18:55:46**|**PopNet: Real-Time Population-Level Disease Prediction with Data Latency**|Junyi Gao et.al.|[2202.03415v1](http://arxiv.org/abs/2202.03415v1)|[link](https://github.com/v1xerunt/popnet)|
@@ -103,8 +72,39 @@
 |**2022-02-05 05:53:31**|**Weisfeiler-Lehman meets Gromov-Wasserstein**|Samantha Chen et.al.|[2202.02495v1](http://arxiv.org/abs/2202.02495v1)|null|
 |**2022-02-05 02:51:16**|**MarkovGNN: Graph Neural Networks on Markov Diffusion**|Md. Khaledur Rahman et.al.|[2202.02470v1](http://arxiv.org/abs/2202.02470v1)|[link](https://github.com/hipgraph/markovgnn)|
 |**2022-02-05 02:31:01**|**Handling Distribution Shifts on Graphs: An Invariance Perspective**|Qitian Wu et.al.|[2202.02466v1](http://arxiv.org/abs/2202.02466v1)|null|
-|**2022-02-05 01:26:38**|**A Universal Graph Deep Learning Interatomic Potential for the Periodic   Table**|Chi Chen et.al.|[2202.02450v1](http://arxiv.org/abs/2202.02450v1)|null|
-|**2022-02-04 23:35:53**|**Neural Logic Analogy Learning**|Yujia Fan et.al.|[2202.02436v1](http://arxiv.org/abs/2202.02436v1)|null|
-|**2022-02-04 21:14:21**|**Deep Dynamic Effective Connectivity Estimation from Multivariate Time   Series**|Usman Mahmood et.al.|[2202.02393v1](http://arxiv.org/abs/2202.02393v1)|null|
-|**2022-02-04 20:58:54**|**Using Large-scale Heterogeneous Graph Representation Learning for Code   Review Recommendations**|Jiyang Zhang et.al.|[2202.02385v1](http://arxiv.org/abs/2202.02385v1)|null|
-|**2022-02-04 20:00:51**|**Marius++: Large-Scale Training of Graph Neural Networks on a Single   Machine**|Roger Waleffe et.al.|[2202.02365v1](http://arxiv.org/abs/2202.02365v1)|null|
+
+## Multi Interest Recommendation
+
+### Multi Interest
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-02-08 04:59:56**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
+|**2022-02-06 03:48:52**|**Triangle Graph Interest Network for Click-through Rate Prediction**|Wensen Jiang et.al.|[2202.02698v1](http://arxiv.org/abs/2202.02698v1)|[link](https://github.com/alibaba/tgin)|
+|**2022-02-01 06:52:40**|**Sequential Search with Off-Policy Reinforcement Learning**|Dadong Miao et.al.|[2202.00245v1](http://arxiv.org/abs/2202.00245v1)|null|
+|**2022-01-31 05:50:57**|**Speed-ANN: Low-Latency and High-Accuracy Nearest Neighbor Search via   Intra-Query Parallelism**|Zhen Peng et.al.|[2201.13007v1](http://arxiv.org/abs/2201.13007v1)|null|
+|**2022-01-12 13:38:33**|**Best Arm Identification with a Fixed Budget under a Small Gap**|Masahiro Kato et.al.|[2201.04469v4](http://arxiv.org/abs/2201.04469v4)|null|
+|**2021-12-31 07:31:20**|**Temporal aware Multi-Interest Graph Neural Network For Session-based   Recommendation**|Qi Shen et.al.|[2112.15328v1](http://arxiv.org/abs/2112.15328v1)|null|
+|**2021-12-31 03:54:37**|**Modelling of Bi-directional Spatio-Temporal Dependence and Users'   Dynamic Preferences for Missing POI Check-in Identification**|Dongbo Xi et.al.|[2112.15285v1](http://arxiv.org/abs/2112.15285v1)|null|
+|**2021-12-22 10:28:25**|**Multiple Choice Questions based Multi-Interest Policy Learning for   Conversational Recommendation**|Yiming Zhang et.al.|[2112.11775v2](http://arxiv.org/abs/2112.11775v2)|null|
+|**2021-12-16 09:12:33**|**GIMIRec: Global Interaction Information Aware Multi-Interest Framework   for Sequential Recommendation**|Jie Zhang et.al.|[2112.08717v1](http://arxiv.org/abs/2112.08717v1)|null|
+|**2021-12-16 06:48:31**|**MAVE: A Product Dataset for Multi-source Attribute Value Extraction**|Li Yang et.al.|[2112.08663v1](http://arxiv.org/abs/2112.08663v1)|[link](https://github.com/google-research-datasets/mave)|
+|**2021-12-06 05:10:01**|**Gumble Softmax For User Behavior Modeling**|Weiqi Shao et.al.|[2112.02787v2](http://arxiv.org/abs/2112.02787v2)|null|
+|**2021-11-30 02:10:02**|**MISS: Multi-Interest Self-Supervised Learning Framework for   Click-Through Rate Prediction**|Wei Guo et.al.|[2111.15068v2](http://arxiv.org/abs/2111.15068v2)|null|
+|**2021-11-29 17:50:22**|**Dynamic Inference**|Aolin Xu et.al.|[2111.14746v2](http://arxiv.org/abs/2111.14746v2)|null|
+|**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v1](http://arxiv.org/abs/2111.08862v1)|null|
+|**2021-11-10 09:05:52**|**Conversational Recommendation: Theoretical Model and Complexity Analysis**|Tommaso Di Noia et.al.|[2111.05578v3](http://arxiv.org/abs/2111.05578v3)|null|
+|**2021-11-09 11:56:38**|**Neural News Recommendation with Event Extraction**|Songqiao Han et.al.|[2111.05068v2](http://arxiv.org/abs/2111.05068v2)|null|
+|**2021-10-26 00:48:23**|**Privacy-Preserving Multi-Target Multi-Domain Recommender Systems with   Assisted AutoEncoders**|Enmao Diao et.al.|[2110.13340v2](http://arxiv.org/abs/2110.13340v2)|null|
+|**2021-10-26 00:21:15**|**Multi-Agent Advisor Q-Learning**|Sriram Ganapathi Subramanian et.al.|[2111.00345v2](http://arxiv.org/abs/2111.00345v2)|null|
+|**2021-10-22 03:28:21**|**MIC: Model-agnostic Integrated Cross-channel Recommenders**|Yujie Lu et.al.|[2110.11570v1](http://arxiv.org/abs/2110.11570v1)|null|
+|**2021-10-19 18:59:02**|**MultiHead MultiModal Deep Interest Recommendation Network**|Mingbao Yang et.al.|[2110.10205v1](http://arxiv.org/abs/2110.10205v1)|null|
+|**2021-10-19 13:17:18**|**Plasma environment effects on K lines of astrophysical interest. V.   Universal formulae for ionization potential and K-threshold shifts**|P. Palmeri et.al.|[2110.09957v1](http://arxiv.org/abs/2110.09957v1)|null|
+|**2021-10-19 01:14:08**|**Multilevel Stochastic Optimization for Imputation in Massive Medical   Data Records**|Xiaoyu Wang et.al.|[2110.09680v1](http://arxiv.org/abs/2110.09680v1)|null|
+|**2021-10-13 03:49:45**|**SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair   Recommendation in Hundreds of Travel Scenarios**|Qijie Shen et.al.|[2110.06475v2](http://arxiv.org/abs/2110.06475v2)|null|
+|**2021-10-08 09:54:43**|**Multiplex Behavioral Relation Learning for Recommendation via Memory   Augmented Transformer Network**|Lianghao Xia et.al.|[2110.04002v1](http://arxiv.org/abs/2110.04002v1)|[link](https://github.com/akaxlh/matn)|
+|**2021-10-08 05:46:55**|**Multi-trends Enhanced Dynamic Micro-video Recommendation**|Yujie Lu et.al.|[2110.03902v1](http://arxiv.org/abs/2110.03902v1)|null|
+|**2021-10-07 13:32:04**|**Recent Advances in Heterogeneous Relation Learning for Recommendation**|Chao Huang et.al.|[2110.03455v1](http://arxiv.org/abs/2110.03455v1)|null|
+|**2021-10-05 21:30:53**|**Live Multi-Streaming and Donation Recommendations via Coupled   Donation-Response Tensor Factorization**|Hsu-Chao Lai et.al.|[2110.06117v1](http://arxiv.org/abs/2110.06117v1)|null|
+|**2021-10-01 22:54:47**|**Multi-Agent Algorithmic Recourse**|Andrew O'Brien et.al.|[2110.00673v1](http://arxiv.org/abs/2110.00673v1)|null|
+|**2021-09-27 09:17:53**|**ICMT: Item Cluster-Wise Multi-Objective Training for Long-Tail   Recommendation**|Yule Wang et.al.|[2109.12887v2](http://arxiv.org/abs/2109.12887v2)|null|
+|**2021-09-26 16:58:14**|**Why Do We Click: Visual Impression-aware News Recommendation**|Jiahao Xun et.al.|[2109.12651v1](http://arxiv.org/abs/2109.12651v1)|[link](https://github.com/jiahaoxun/imrec)|

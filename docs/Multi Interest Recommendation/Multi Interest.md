@@ -6,6 +6,7 @@
 |**2022-02-06 03:48:52**|**Triangle Graph Interest Network for Click-through Rate Prediction**|Wensen Jiang et.al.|[2202.02698v1](http://arxiv.org/abs/2202.02698v1)|[link](https://github.com/alibaba/tgin)|
 |**2022-02-01 06:52:40**|**Sequential Search with Off-Policy Reinforcement Learning**|Dadong Miao et.al.|[2202.00245v1](http://arxiv.org/abs/2202.00245v1)|null|
 |**2022-01-31 05:50:57**|**Speed-ANN: Low-Latency and High-Accuracy Nearest Neighbor Search via   Intra-Query Parallelism**|Zhen Peng et.al.|[2201.13007v1](http://arxiv.org/abs/2201.13007v1)|null|
+|**2022-01-12 13:38:33**|**Best Arm Identification with a Fixed Budget under a Small Gap**|Masahiro Kato et.al.|[2201.04469v4](http://arxiv.org/abs/2201.04469v4)|null|
 |**2021-12-31 07:31:20**|**Temporal aware Multi-Interest Graph Neural Network For Session-based   Recommendation**|Qi Shen et.al.|[2112.15328v1](http://arxiv.org/abs/2112.15328v1)|null|
 |**2021-12-31 03:54:37**|**Modelling of Bi-directional Spatio-Temporal Dependence and Users'   Dynamic Preferences for Missing POI Check-in Identification**|Dongbo Xi et.al.|[2112.15285v1](http://arxiv.org/abs/2112.15285v1)|null|
 |**2021-12-22 10:28:25**|**Multiple Choice Questions based Multi-Interest Policy Learning for   Conversational Recommendation**|Yiming Zhang et.al.|[2112.11775v2](http://arxiv.org/abs/2112.11775v2)|null|
@@ -17,7 +18,7 @@
 |**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v1](http://arxiv.org/abs/2111.08862v1)|null|
 |**2021-11-10 09:05:52**|**Conversational Recommendation: Theoretical Model and Complexity Analysis**|Tommaso Di Noia et.al.|[2111.05578v3](http://arxiv.org/abs/2111.05578v3)|null|
 |**2021-11-09 11:56:38**|**Neural News Recommendation with Event Extraction**|Songqiao Han et.al.|[2111.05068v2](http://arxiv.org/abs/2111.05068v2)|null|
-|**2021-10-26 00:48:23**|**Privacy-Preserving Multi-Target Multi-Domain Recommender Systems with   Assisted AutoEncoders**|Enmao Diao et.al.|[2110.13340v1](http://arxiv.org/abs/2110.13340v1)|null|
+|**2021-10-26 00:48:23**|**Privacy-Preserving Multi-Target Multi-Domain Recommender Systems with   Assisted AutoEncoders**|Enmao Diao et.al.|[2110.13340v2](http://arxiv.org/abs/2110.13340v2)|null|
 |**2021-10-26 00:21:15**|**Multi-Agent Advisor Q-Learning**|Sriram Ganapathi Subramanian et.al.|[2111.00345v2](http://arxiv.org/abs/2111.00345v2)|null|
 |**2021-10-22 03:28:21**|**MIC: Model-agnostic Integrated Cross-channel Recommenders**|Yujie Lu et.al.|[2110.11570v1](http://arxiv.org/abs/2110.11570v1)|null|
 |**2021-10-19 18:59:02**|**MultiHead MultiModal Deep Interest Recommendation Network**|Mingbao Yang et.al.|[2110.10205v1](http://arxiv.org/abs/2110.10205v1)|null|
@@ -31,4 +32,3 @@
 |**2021-10-01 22:54:47**|**Multi-Agent Algorithmic Recourse**|Andrew O'Brien et.al.|[2110.00673v1](http://arxiv.org/abs/2110.00673v1)|null|
 |**2021-09-27 09:17:53**|**ICMT: Item Cluster-Wise Multi-Objective Training for Long-Tail   Recommendation**|Yule Wang et.al.|[2109.12887v2](http://arxiv.org/abs/2109.12887v2)|null|
 |**2021-09-26 16:58:14**|**Why Do We Click: Visual Impression-aware News Recommendation**|Jiahao Xun et.al.|[2109.12651v1](http://arxiv.org/abs/2109.12651v1)|[link](https://github.com/jiahaoxun/imrec)|
-|**2021-09-26 07:10:45**|**DemiNet: Dependency-Aware Multi-Interest Network with Self-Supervised   Graph Learning for Click-Through Rate Prediction**|Yule Wang et.al.|[2109.12512v1](http://arxiv.org/abs/2109.12512v1)|null|
