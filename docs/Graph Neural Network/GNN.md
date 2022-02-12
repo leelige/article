@@ -13,7 +13,7 @@
 |**2022-02-08 20:52:08**|**Simplified Graph Convolution with Heterophily**|Sudhanshu Chanpuriya et.al.|[2202.04139v1](http://arxiv.org/abs/2202.04139v1)|null|
 |**2022-02-08 12:15:39**|**Learning to Predict Graphs with Fused Gromov-Wasserstein Barycenters**|Luc Brogat-Motte et.al.|[2202.03813v1](http://arxiv.org/abs/2202.03813v1)|null|
 |**2022-02-08 10:06:51**|**Modeling Structure with Undirected Neural Networks**|Tsvetomila Mihaylova et.al.|[2202.03760v1](http://arxiv.org/abs/2202.03760v1)|null|
-|**2022-02-08 08:21:20**|**Boosting Graph Neural Networks by Injecting Pooling in Message Passing**|Hyeokjin Kwon et.al.|[2202.04768v1](http://arxiv.org/abs/2202.04768v1)|null|
+|**2022-02-08 08:21:20**|**Boosting Graph Neural Networks by Injecting Pooling in Message Passing**|Hyeokjin Kwon et.al.|[2202.04768v1](http://arxiv.org/abs/2202.04768v1)|[link](https://github.com/hookhy/bi-mp)|
 |**2022-02-08 03:26:34**|**Bandit Sampling for Multiplex Networks**|Cenk Baykal et.al.|[2202.03621v1](http://arxiv.org/abs/2202.03621v1)|null|
 |**2022-02-07 22:01:58**|**Structured Time Series Prediction without Structural Prior**|Darko Drakulic et.al.|[2202.03539v1](http://arxiv.org/abs/2202.03539v1)|null|
 |**2022-02-07 18:55:46**|**PopNet: Real-Time Population-Level Disease Prediction with Data Latency**|Junyi Gao et.al.|[2202.03415v1](http://arxiv.org/abs/2202.03415v1)|[link](https://github.com/v1xerunt/popnet)|
