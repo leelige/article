@@ -2,6 +2,9 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-11 18:21:18**|**Overhead Image Factors for Underwater Sonar-based SLAM**|John McConnell et.al.|[2202.05811v1](http://arxiv.org/abs/2202.05811v1)|null|
+|**2022-02-11 09:45:11**|**From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale   Contrastive Learning Approach**|Yu Zheng et.al.|[2202.05525v1](http://arxiv.org/abs/2202.05525v1)|null|
+|**2022-02-10 21:26:11**|**Factored World Models for Zero-Shot Generalization in Robotic   Manipulation**|Ondrej Biza et.al.|[2202.05333v1](http://arxiv.org/abs/2202.05333v1)|null|
 |**2022-02-10 10:06:22**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v1](http://arxiv.org/abs/2202.04936v1)|[link](https://github.com/bzho3923/magnet)|
 |**2022-02-10 09:06:52**|**Instance-wise algorithm configuration with graph neural networks**|Romeo Valentin et.al.|[2202.04910v1](http://arxiv.org/abs/2202.04910v1)|[link](https://github.com/romeov/ml4co-competition)|
 |**2022-02-10 04:01:40**|**Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**|Xin Liu et.al.|[2202.04822v1](http://arxiv.org/abs/2202.04822v1)|null|
@@ -17,7 +20,7 @@
 |**2022-02-08 03:26:34**|**Bandit Sampling for Multiplex Networks**|Cenk Baykal et.al.|[2202.03621v1](http://arxiv.org/abs/2202.03621v1)|null|
 |**2022-02-07 22:01:58**|**Structured Time Series Prediction without Structural Prior**|Darko Drakulic et.al.|[2202.03539v1](http://arxiv.org/abs/2202.03539v1)|null|
 |**2022-02-07 18:55:46**|**PopNet: Real-Time Population-Level Disease Prediction with Data Latency**|Junyi Gao et.al.|[2202.03415v1](http://arxiv.org/abs/2202.03415v1)|[link](https://github.com/v1xerunt/popnet)|
-|**2022-02-07 18:29:39**|**Large-scale Personalized Video Game Recommendation via Social-aware   Contextualized Graph Neural Network**|Liangwei Yang et.al.|[2202.03392v1](http://arxiv.org/abs/2202.03392v1)|null|
+|**2022-02-07 18:29:39**|**Large-scale Personalized Video Game Recommendation via Social-aware   Contextualized Graph Neural Network**|Liangwei Yang et.al.|[2202.03392v2](http://arxiv.org/abs/2202.03392v2)|null|
 |**2022-02-07 16:38:36**|**Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors   to Sequences**|Meng Liu et.al.|[2202.03341v1](http://arxiv.org/abs/2202.03341v1)|[link](https://github.com/divelab/neighbor2seq)|
 |**2022-02-07 15:22:16**|**Jet Flavour Tagging for Future Colliders with Fast Simulation**|Franco Bedeschi et.al.|[2202.03285v1](http://arxiv.org/abs/2202.03285v1)|null|
 |**2022-02-07 14:37:50**|**A Variational Edge Partition Model for Supervised Graph Representation   Learning**|Yilin He et.al.|[2202.03233v2](http://arxiv.org/abs/2202.03233v2)|null|
@@ -29,6 +32,3 @@
 |**2022-02-05 15:16:40**|**Differentially Private Graph Classification with GNNs**|Tamara T. Mueller et.al.|[2202.02575v2](http://arxiv.org/abs/2202.02575v2)|null|
 |**2022-02-05 10:46:11**|**Graph Neural Network with Curriculum Learning for Imbalanced Node   Classification**|Xiaohe Li et.al.|[2202.02529v1](http://arxiv.org/abs/2202.02529v1)|null|
 |**2022-02-05 09:28:40**|**A rigorous stochastic theory for spike pattern formation in recurrent   neural networks with arbitrary connection topologies**|Maik Schünemann et.al.|[2202.02520v1](http://arxiv.org/abs/2202.02520v1)|null|
-|**2022-02-05 05:53:31**|**Weisfeiler-Lehman meets Gromov-Wasserstein**|Samantha Chen et.al.|[2202.02495v1](http://arxiv.org/abs/2202.02495v1)|null|
-|**2022-02-05 02:51:16**|**MarkovGNN: Graph Neural Networks on Markov Diffusion**|Md. Khaledur Rahman et.al.|[2202.02470v1](http://arxiv.org/abs/2202.02470v1)|[link](https://github.com/hipgraph/markovgnn)|
-|**2022-02-05 02:31:01**|**Handling Distribution Shifts on Graphs: An Invariance Perspective**|Qitian Wu et.al.|[2202.02466v1](http://arxiv.org/abs/2202.02466v1)|null|
