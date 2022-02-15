@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-13 05:20:48**|**Ticketing System: A Descriptive Research on the Use of Ticketing System   for Project Management and Issue Tracking in IT Companies**|Kent Darryl Aglibar et.al.|[2202.06213v1](http://arxiv.org/abs/2202.06213v1)|null|
 |**2022-02-10 20:39:13**|**Audio Matters Too: How Audial Avatar Customization Enhances Visual   Avatar Customization**|Dominic Kao et.al.|[2202.05315v1](http://arxiv.org/abs/2202.05315v1)|null|
 |**2022-02-08 04:59:56**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
 |**2022-02-04 22:27:49**|**Generalized Causal Tree for Uplift Modeling**|Preetam Nandy et.al.|[2202.02416v1](http://arxiv.org/abs/2202.02416v1)|null|
@@ -31,4 +32,3 @@
 |**2021-12-22 05:18:26**|**Beyond Low Earth Orbit: Biological Research, Artificial Intelligence,   and Self-Driving Labs**|Lauren M. Sanders et.al.|[2112.12582v1](http://arxiv.org/abs/2112.12582v1)|null|
 |**2021-12-20 22:03:39**|**Nu Tools: Exploring Practical Roles for Neutrinos in Nuclear Energy and   Security**|Oluwatomi Akindele et.al.|[2112.12593v1](http://arxiv.org/abs/2112.12593v1)|null|
 |**2021-12-20 17:05:32**|**Improved Topic modeling in Twitter through Community Pooling**|Federico Albanese et.al.|[2201.00690v1](http://arxiv.org/abs/2201.00690v1)|null|
-|**2021-12-20 14:29:25**|**Covariate adjustment in multi-armed, possibly factorial experiments**|Anqi Zhao et.al.|[2112.10557v1](http://arxiv.org/abs/2112.10557v1)|null|
