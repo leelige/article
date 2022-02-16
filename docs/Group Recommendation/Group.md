@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-15 12:14:45**|**IF-City: Intelligible Fair City Planning to Measure, Explain and   Mitigate Inequality**|Yan Lyu et.al.|[2202.07349v1](http://arxiv.org/abs/2202.07349v1)|null|
+|**2022-02-15 04:53:24**|**Pruning Networks with Cross-Layer Ranking & k-Reciprocal Nearest Filters**|Mingbao Lin et.al.|[2202.07190v1](http://arxiv.org/abs/2202.07190v1)|[link](https://github.com/lmbxmu/clr-rnf)|
 |**2022-02-13 05:20:48**|**Ticketing System: A Descriptive Research on the Use of Ticketing System   for Project Management and Issue Tracking in IT Companies**|Kent Darryl Aglibar et.al.|[2202.06213v1](http://arxiv.org/abs/2202.06213v1)|null|
 |**2022-02-10 20:39:13**|**Audio Matters Too: How Audial Avatar Customization Enhances Visual   Avatar Customization**|Dominic Kao et.al.|[2202.05315v1](http://arxiv.org/abs/2202.05315v1)|null|
 |**2022-02-08 04:59:56**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
@@ -30,5 +32,3 @@
 |**2021-12-22 21:05:24**|**Analysis of animal-related electric outages using species distribution   models and community science data**|Mei-Ling E. Feng et.al.|[2112.12791v1](http://arxiv.org/abs/2112.12791v1)|[link](https://github.com/mefeng7/Bird_Outages_MA)|
 |**2021-12-22 05:33:15**|**Beyond Low Earth Orbit: Biomonitoring, Artificial Intelligence, and   Precision Space Health**|Ryan T. Scott et.al.|[2112.12554v1](http://arxiv.org/abs/2112.12554v1)|null|
 |**2021-12-22 05:18:26**|**Beyond Low Earth Orbit: Biological Research, Artificial Intelligence,   and Self-Driving Labs**|Lauren M. Sanders et.al.|[2112.12582v1](http://arxiv.org/abs/2112.12582v1)|null|
-|**2021-12-20 22:03:39**|**Nu Tools: Exploring Practical Roles for Neutrinos in Nuclear Energy and   Security**|Oluwatomi Akindele et.al.|[2112.12593v1](http://arxiv.org/abs/2112.12593v1)|null|
-|**2021-12-20 17:05:32**|**Improved Topic modeling in Twitter through Community Pooling**|Federico Albanese et.al.|[2201.00690v1](http://arxiv.org/abs/2201.00690v1)|null|
