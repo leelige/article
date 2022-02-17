@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-16 18:39:17**|**Nuclear Data to Reduce Uncertainties in Reactor Antineutrino   Measurements: Summary Report of the Workshop on Nuclear Data for Reactor   Antineutrino Measurements (WoNDRAM)**|Catherine Romano et.al.|[2202.08241v1](http://arxiv.org/abs/2202.08241v1)|null|
+|**2022-02-15 23:16:36**|**Recommendations for extending the GFF3 specification for improved   interoperability of genomic data**|Surya Saha et.al.|[2202.07782v1](http://arxiv.org/abs/2202.07782v1)|[link](https://github.com/NAL-i5K/AgBioData_GFF3_recommendation)toprovidefeedbackviaissuesorpullrequests)|
 |**2022-02-15 12:14:45**|**IF-City: Intelligible Fair City Planning to Measure, Explain and   Mitigate Inequality**|Yan Lyu et.al.|[2202.07349v1](http://arxiv.org/abs/2202.07349v1)|null|
 |**2022-02-15 04:53:24**|**Pruning Networks with Cross-Layer Ranking & k-Reciprocal Nearest Filters**|Mingbao Lin et.al.|[2202.07190v1](http://arxiv.org/abs/2202.07190v1)|[link](https://github.com/lmbxmu/clr-rnf)|
 |**2022-02-13 05:20:48**|**Ticketing System: A Descriptive Research on the Use of Ticketing System   for Project Management and Issue Tracking in IT Companies**|Kent Darryl Aglibar et.al.|[2202.06213v1](http://arxiv.org/abs/2202.06213v1)|null|
@@ -30,5 +32,3 @@
 |**2021-12-23 15:44:43**|**Revisiting, Benchmarking and Exploring API Recommendation: How Far Are   We?**|Yun Peng et.al.|[2112.12653v1](http://arxiv.org/abs/2112.12653v1)|[link](https://github.com/JohnnyPeng18/APIBench)|
 |**2021-12-23 11:02:57**|**Comprehensive Movie Recommendation System**|Hrisav Bhowmick et.al.|[2112.12463v1](http://arxiv.org/abs/2112.12463v1)|null|
 |**2021-12-22 21:05:24**|**Analysis of animal-related electric outages using species distribution   models and community science data**|Mei-Ling E. Feng et.al.|[2112.12791v1](http://arxiv.org/abs/2112.12791v1)|[link](https://github.com/mefeng7/Bird_Outages_MA)|
-|**2021-12-22 05:33:15**|**Beyond Low Earth Orbit: Biomonitoring, Artificial Intelligence, and   Precision Space Health**|Ryan T. Scott et.al.|[2112.12554v1](http://arxiv.org/abs/2112.12554v1)|null|
-|**2021-12-22 05:18:26**|**Beyond Low Earth Orbit: Biological Research, Artificial Intelligence,   and Self-Driving Labs**|Lauren M. Sanders et.al.|[2112.12582v1](http://arxiv.org/abs/2112.12582v1)|null|
