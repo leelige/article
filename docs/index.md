@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-02-23 16:07:08 Asia/Shanghai
+ 自动更新 @ 2022-02-24 16:07:32 Asia/Shanghai
 
 ## Group Recommendation
 
@@ -20,7 +20,7 @@
 |**2022-02-04 15:39:45**|**HL-LHC Computing Review Stage 2, Common Software Projects: Data Science   Tools for Analysis**|Jim Pivarski et.al.|[2202.02194v1](http://arxiv.org/abs/2202.02194v1)|null|
 |**2022-02-04 09:57:13**|**Twitter Referral Behaviours on News Consumption with Ensemble Clustering   of Click-Stream Data in Turkish Media**|Didem Makaroglu et.al.|[2202.02056v1](http://arxiv.org/abs/2202.02056v1)|null|
 |**2022-02-03 14:41:39**|**Measuring Disparate Outcomes of Content Recommendation Algorithms with   Distributional Inequality Metrics**|Tomo Lazovich et.al.|[2202.01615v1](http://arxiv.org/abs/2202.01615v1)|null|
-|**2022-01-31 18:00:54**|**Neural Collaborative Filtering Bandits via Meta Learning**|{Yikun Ban et.al.|[2201.13395v1](http://arxiv.org/abs/2201.13395v1)|null|
+|**2022-01-31 18:00:54**|**Neural Collaborative Filtering Bandits via Meta Learning**|Yikun Ban et.al.|[2201.13395v2](http://arxiv.org/abs/2201.13395v2)|null|
 |**2022-01-31 07:33:56**|**Predicting Cancer Treatments Induced Cardiotoxicity of Breast Cancer   Patients**|Sicheng Zhou et.al.|[2201.13036v1](http://arxiv.org/abs/2201.13036v1)|null|
 |**2022-01-30 21:39:10**|**Combining Covariate Adjustment with Group Sequential and Information   Adaptive Designs to Improve Randomized Trial Efficiency**|Kelly Van Lancker et.al.|[2201.12921v1](http://arxiv.org/abs/2201.12921v1)|null|
 |**2022-01-28 05:14:37**|**Consistent Collaborative Filtering via Tensor Decomposition**|Shiwen Zhao et.al.|[2201.11936v1](http://arxiv.org/abs/2201.11936v1)|null|
