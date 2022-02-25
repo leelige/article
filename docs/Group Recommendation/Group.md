@@ -2,6 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-23 03:58:46**|**Deep Reinforcement Learning: Opportunities and Challenges**|Yuxi Li et.al.|[2202.11296v1](http://arxiv.org/abs/2202.11296v1)|null|
+|**2022-02-22 20:41:55**|**"You have to prove the threat is real": Understanding the needs of   Female Journalists and Activists to Document and Report Online Harassment**|Nitesh Goyal et.al.|[2202.11168v1](http://arxiv.org/abs/2202.11168v1)|null|
+|**2022-02-21 03:41:06**|**Fuzzy Cluster Analysis: Application to Determining Metallicities for   Very Metal-poor Stars**|Haining Li et.al.|[2202.09973v1](http://arxiv.org/abs/2202.09973v1)|null|
+|**2022-02-20 03:57:50**|**Online Platforms and the Fair Exposure Problem Under Homophily**|Jakob Schoeffer et.al.|[2202.09727v1](http://arxiv.org/abs/2202.09727v1)|[link](https://github.com/jfinocchiaro/fair-exposure)|
 |**2022-02-17 19:12:08**|**A recommender system for automatic picking of subsurface formation tops**|Jesse R. Pisel et.al.|[2202.08869v1](http://arxiv.org/abs/2202.08869v1)|[link](https://github.com/jessepisel/matrixfactorization)|
 |**2022-02-17 17:43:14**|**Commentary: analyzing binary data using MCPMod when zero counts are   expected**|Yi Liu et.al.|[2202.08781v1](http://arxiv.org/abs/2202.08781v1)|null|
 |**2022-02-17 13:51:14**|**The Gaia-ESO Survey: The analysis of the hot-star spectra**|R. Blomme et.al.|[2202.08662v1](http://arxiv.org/abs/2202.08662v1)|null|
@@ -28,7 +32,3 @@
 |**2022-01-12 11:49:13**|**Differentiating Geographic Movement Described in Text Documents**|Scott Pezanowski et.al.|[2201.04427v1](http://arxiv.org/abs/2201.04427v1)|null|
 |**2022-01-11 09:52:56**|**Rubin-Euclid Derived Data Products: Initial Recommendations**|Leanne P. Guy et.al.|[2201.03862v1](http://arxiv.org/abs/2201.03862v1)|null|
 |**2022-01-07 02:26:45**|**New designs for Bayesian adaptive cluster-randomized trials**|Junwei Shen et.al.|[2201.02301v1](http://arxiv.org/abs/2201.02301v1)|null|
-|**2022-01-04 04:29:23**|**On the Persistence of Higher-Order Interactions in Real-World   Hypergraphs**|Hyunjin Choo et.al.|[2201.00972v1](http://arxiv.org/abs/2201.00972v1)|[link](https://github.com/jin-choo/persistence)|
-|**2022-01-01 20:10:48**|**Understanding Public Opinion on Using Hydroxychloroquine for COVID-19   Treatment via Social Media**|Thuy T. Do et.al.|[2201.00237v1](http://arxiv.org/abs/2201.00237v1)|[link](https://github.com/thuydt02/HCQ_Tweet_Dataset)|
-|**2021-12-28 15:54:55**|**Rank-1 Similarity Matrix Decomposition For Modeling Changes in Antivirus   Consensus Through Time**|Robert J. Joyce et.al.|[2201.00757v1](http://arxiv.org/abs/2201.00757v1)|null|
-|**2021-12-25 07:25:55**|**Learning Multi-granularity User Intent Unit for Session-based   Recommendation**|Jiayan Guo et.al.|[2112.13197v3](http://arxiv.org/abs/2112.13197v3)|[link](https://github.com/SpaceLearner/SessionRec-pytorch)|
