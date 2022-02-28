@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-25 06:58:28**|**MAMDR: A Model Agnostic Learning Method for Multi-Domain Recommendation**|Linhao Luo et.al.|[2202.12524v1](http://arxiv.org/abs/2202.12524v1)|[link](https://github.com/RManLuo/MAMDR)|
+|**2022-02-24 19:00:17**|**R2-D2: Roman and Rubin -- From Data to Discovery**|Suvi Gezari et.al.|[2202.12311v1](http://arxiv.org/abs/2202.12311v1)|null|
 |**2022-02-23 03:58:46**|**Deep Reinforcement Learning: Opportunities and Challenges**|Yuxi Li et.al.|[2202.11296v1](http://arxiv.org/abs/2202.11296v1)|null|
 |**2022-02-22 20:41:55**|**"You have to prove the threat is real": Understanding the needs of   Female Journalists and Activists to Document and Report Online Harassment**|Nitesh Goyal et.al.|[2202.11168v1](http://arxiv.org/abs/2202.11168v1)|null|
 |**2022-02-21 03:41:06**|**Fuzzy Cluster Analysis: Application to Determining Metallicities for   Very Metal-poor Stars**|Haining Li et.al.|[2202.09973v1](http://arxiv.org/abs/2202.09973v1)|null|
@@ -30,5 +32,3 @@
 |**2022-01-18 08:43:34**|**Recommendation Unlearning**|Chong Chen et.al.|[2201.06820v2](http://arxiv.org/abs/2201.06820v2)|[link](https://github.com/chenchongthu/recommendation-unlearning)|
 |**2022-01-16 16:29:40**|**Bayesian Promised Persuasion: Dynamic Forward-Looking Multiagent   Delegation with Informational Burning**|Tao Zhang et.al.|[2201.06081v1](http://arxiv.org/abs/2201.06081v1)|null|
 |**2022-01-12 11:49:13**|**Differentiating Geographic Movement Described in Text Documents**|Scott Pezanowski et.al.|[2201.04427v1](http://arxiv.org/abs/2201.04427v1)|null|
-|**2022-01-11 09:52:56**|**Rubin-Euclid Derived Data Products: Initial Recommendations**|Leanne P. Guy et.al.|[2201.03862v1](http://arxiv.org/abs/2201.03862v1)|null|
-|**2022-01-07 02:26:45**|**New designs for Bayesian adaptive cluster-randomized trials**|Junwei Shen et.al.|[2201.02301v1](http://arxiv.org/abs/2201.02301v1)|null|

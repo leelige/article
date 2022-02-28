@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-25 11:12:36**|**Fluid Simulation System Based on Graph Neural Network**|Qiang Liu et.al.|[2202.12619v1](http://arxiv.org/abs/2202.12619v1)|null|
+|**2022-02-25 10:29:05**|**Context-Hierarchy Inverse Reinforcement Learning**|Wei Gao et.al.|[2202.12597v1](http://arxiv.org/abs/2202.12597v1)|null|
+|**2022-02-25 10:02:49**|**Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting**|Jiabin Tang et.al.|[2202.12586v1](http://arxiv.org/abs/2202.12586v1)|null|
+|**2022-02-25 06:05:55**|**Addressing Over-Smoothing in Graph Neural Networks via Deep Supervision**|Pantelis Elinas et.al.|[2202.12508v1](http://arxiv.org/abs/2202.12508v1)|null|
+|**2022-02-25 03:35:45**|**Multi-View Graph Representation for Programming Language Processing: An   Investigation into Algorithm Detection**|Ting Long et.al.|[2202.12481v1](http://arxiv.org/abs/2202.12481v1)|null|
+|**2022-02-25 03:27:37**|**GAME-ON: Graph Attention Network based Multimodal Fusion for Fake News   Detection**|Mudit Dhawan et.al.|[2202.12478v1](http://arxiv.org/abs/2202.12478v1)|null|
+|**2022-02-24 20:18:41**|**Bayesian Deep Learning for Graphs**|Federico Errica et.al.|[2202.12348v1](http://arxiv.org/abs/2202.12348v1)|null|
 |**2022-02-24 13:07:10**|**Community Trend Prediction on Heterogeneous Graph in E-commerce**|Jiahao Yuan et.al.|[2202.12081v1](http://arxiv.org/abs/2202.12081v1)|null|
 |**2022-02-24 01:31:29**|**Learning Multi-Object Dynamics with Compositional Neural Radiance Fields**|Danny Driess et.al.|[2202.11855v1](http://arxiv.org/abs/2202.11855v1)|null|
 |**2022-02-23 09:36:15**|**Cooperative Behavioral Planning for Automated Driving using Graph Neural   Networks**|Marvin Klimke et.al.|[2202.11376v1](http://arxiv.org/abs/2202.11376v1)|null|
@@ -25,10 +32,3 @@
 |**2022-02-21 13:35:03**|**Degree-Preserving Randomized Response for Graph Neural Networks under   Local Differential Privacy**|Seira Hidano et.al.|[2202.10209v1](http://arxiv.org/abs/2202.10209v1)|null|
 |**2022-02-21 12:05:06**|**1-WL Expressiveness Is (Almost) All You Need**|Markus Zopf et.al.|[2202.10156v1](http://arxiv.org/abs/2202.10156v1)|null|
 |**2022-02-21 03:55:00**|**RTGNN: A Novel Approach to Model Stochastic Traffic Dynamics**|Ke Sun et.al.|[2202.09977v1](http://arxiv.org/abs/2202.09977v1)|null|
-|**2022-02-20 19:07:29**|**Equivariant Graph Attention Networks for Molecular Property Prediction**|Tuan Le et.al.|[2202.09891v1](http://arxiv.org/abs/2202.09891v1)|null|
-|**2022-02-20 04:56:10**|**Graph-based Extractive Explainer for Recommendations**|Peng Wang et.al.|[2202.09730v1](http://arxiv.org/abs/2202.09730v1)|null|
-|**2022-02-19 12:32:05**|**A Novel Anomaly Detection Method for Multimodal WSN Data Flow via a   Dynamic Graph Neural Network**|Qinghao Zhang et.al.|[2202.10454v1](http://arxiv.org/abs/2202.10454v1)|null|
-|**2022-02-19 02:47:44**|**Graph Spring Network and Informative Anchor Selection for Session-based   Recommendation**|Zizhuo Zhang et.al.|[2202.09502v1](http://arxiv.org/abs/2202.09502v1)|null|
-|**2022-02-19 00:04:56**|**Graph Reparameterizations for Enabling 1000+ Monte Carlo Iterations in   Bayesian Deep Neural Networks**|Jurijs Nazarovs et.al.|[2202.09478v1](http://arxiv.org/abs/2202.09478v1)|null|
-|**2022-02-18 22:57:03**|**Predictive Coding: Towards a Future of Deep Learning beyond   Backpropagation?**|Beren Millidge et.al.|[2202.09467v1](http://arxiv.org/abs/2202.09467v1)|null|
-|**2022-02-18 22:30:28**|**Interactive Visual Pattern Search on Graph Data via Graph Representation   Learning**|Huan Song et.al.|[2202.09459v1](http://arxiv.org/abs/2202.09459v1)|null|
