@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-27 20:21:46**|**The Unfairness of Popularity Bias in Book Recommendation**|Mohammadmehdi Naghiaei et.al.|[2202.13446v1](http://arxiv.org/abs/2202.13446v1)|[link](https://github.com/rahmanidashti/fairbook)|
+|**2022-02-27 08:02:19**|**The Unfairness of Active Users and Popularity Bias in Point-of-Interest   Recommendation**|Hossein A. Rahmani et.al.|[2202.13307v1](http://arxiv.org/abs/2202.13307v1)|[link](https://github.com/RecSys-lab/FairPOI)|
 |**2022-02-25 06:58:28**|**MAMDR: A Model Agnostic Learning Method for Multi-Domain Recommendation**|Linhao Luo et.al.|[2202.12524v1](http://arxiv.org/abs/2202.12524v1)|[link](https://github.com/RManLuo/MAMDR)|
 |**2022-02-24 19:00:17**|**R2-D2: Roman and Rubin -- From Data to Discovery**|Suvi Gezari et.al.|[2202.12311v1](http://arxiv.org/abs/2202.12311v1)|null|
 |**2022-02-23 03:58:46**|**Deep Reinforcement Learning: Opportunities and Challenges**|Yuxi Li et.al.|[2202.11296v1](http://arxiv.org/abs/2202.11296v1)|null|
@@ -30,5 +32,3 @@
 |**2022-01-21 09:52:42**|**Consumer Fairness in Recommender Systems: Contextualizing Definitions   and Mitigations**|Ludovico Boratto et.al.|[2201.08614v2](http://arxiv.org/abs/2201.08614v2)|[link](https://github.com/jackmedda/c-fairness-recsys)|
 |**2022-01-18 09:36:27**|**Unveiling music genre structure through common-interest communities**|Zhiheng Jiang et.al.|[2201.06842v1](http://arxiv.org/abs/2201.06842v1)|null|
 |**2022-01-18 08:43:34**|**Recommendation Unlearning**|Chong Chen et.al.|[2201.06820v2](http://arxiv.org/abs/2201.06820v2)|[link](https://github.com/chenchongthu/recommendation-unlearning)|
-|**2022-01-16 16:29:40**|**Bayesian Promised Persuasion: Dynamic Forward-Looking Multiagent   Delegation with Informational Burning**|Tao Zhang et.al.|[2201.06081v1](http://arxiv.org/abs/2201.06081v1)|null|
-|**2022-01-12 11:49:13**|**Differentiating Geographic Movement Described in Text Documents**|Scott Pezanowski et.al.|[2201.04427v1](http://arxiv.org/abs/2201.04427v1)|null|
