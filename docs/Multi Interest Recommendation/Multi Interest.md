@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-02 17:25:54**|**Recommendations in a Multi-Domain Setting: Adapting for Customization,   Scalability and Real-Time Performance**|Emanuel Lacic et.al.|[2203.01256v1](http://arxiv.org/abs/2203.01256v1)|null|
 |**2022-02-17 08:51:24**|**Contrastive Meta Learning with Behavior Multiplicity for Recommendation**|Wei Wei et.al.|[2202.08523v1](http://arxiv.org/abs/2202.08523v1)|[link](https://github.com/weiwei1206/cml)|
 |**2022-02-14 14:33:07**|**Temporal Properties of Vaccine Effectiveness Measures in Presence of   Multiple Pathogen Variants and Multiple Vaccines**|Anirudh Tomer et.al.|[2202.06762v1](http://arxiv.org/abs/2202.06762v1)|null|
 |**2022-02-08 04:59:56**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
@@ -31,4 +32,3 @@
 |**2021-10-08 05:46:55**|**Multi-trends Enhanced Dynamic Micro-video Recommendation**|Yujie Lu et.al.|[2110.03902v1](http://arxiv.org/abs/2110.03902v1)|null|
 |**2021-10-07 13:32:04**|**Recent Advances in Heterogeneous Relation Learning for Recommendation**|Chao Huang et.al.|[2110.03455v1](http://arxiv.org/abs/2110.03455v1)|null|
 |**2021-10-05 21:30:53**|**Live Multi-Streaming and Donation Recommendations via Coupled   Donation-Response Tensor Factorization**|Hsu-Chao Lai et.al.|[2110.06117v1](http://arxiv.org/abs/2110.06117v1)|null|
-|**2021-10-01 22:54:47**|**Multi-Agent Algorithmic Recourse**|Andrew O'Brien et.al.|[2110.00673v1](http://arxiv.org/abs/2110.00673v1)|null|
