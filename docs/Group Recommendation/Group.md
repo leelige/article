@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-03 18:17:06**|**Generating Synthetic but Realistic Human Trafficking Networks for   Modeling Disruptions through Transdisciplinary and Community-Based Action   Research**|Daniel Kosmas et.al.|[2203.01893v1](http://arxiv.org/abs/2203.01893v1)|null|
+|**2022-03-03 09:26:00**|**Fairness-aware Adversarial Perturbation Towards Bias Mitigation for   Deployed Deep Models**|Zhibo Wang et.al.|[2203.01584v1](http://arxiv.org/abs/2203.01584v1)|null|
 |**2022-03-01 22:06:30**|**Topic Analysis for Text with Side Data**|Biyi Fang et.al.|[2203.00762v1](http://arxiv.org/abs/2203.00762v1)|null|
 |**2022-03-01 11:43:53**|**Popularity Bias in Collaborative Filtering-Based Multimedia Recommender   Systems**|Dominik Kowald et.al.|[2203.00376v1](http://arxiv.org/abs/2203.00376v1)|null|
 |**2022-03-01 05:07:37**|**Ordered Submodularity and its Applications to Diversifying   Recommendations**|Jon Kleinberg et.al.|[2203.00233v1](http://arxiv.org/abs/2203.00233v1)|null|
@@ -30,5 +32,3 @@
 |**2022-02-03 14:41:39**|**Measuring Disparate Outcomes of Content Recommendation Algorithms with   Distributional Inequality Metrics**|Tomo Lazovich et.al.|[2202.01615v1](http://arxiv.org/abs/2202.01615v1)|null|
 |**2022-01-31 18:00:54**|**Neural Collaborative Filtering Bandits via Meta Learning**|Yikun Ban et.al.|[2201.13395v2](http://arxiv.org/abs/2201.13395v2)|null|
 |**2022-01-31 07:33:56**|**Predicting Cancer Treatments Induced Cardiotoxicity of Breast Cancer   Patients**|Sicheng Zhou et.al.|[2201.13036v1](http://arxiv.org/abs/2201.13036v1)|null|
-|**2022-01-30 21:39:10**|**Combining Covariate Adjustment with Group Sequential and Information   Adaptive Designs to Improve Randomized Trial Efficiency**|Kelly Van Lancker et.al.|[2201.12921v1](http://arxiv.org/abs/2201.12921v1)|null|
-|**2022-01-28 05:14:37**|**Consistent Collaborative Filtering via Tensor Decomposition**|Shiwen Zhao et.al.|[2201.11936v1](http://arxiv.org/abs/2201.11936v1)|null|
