@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-03-03 18:31:29**|**Pay Attention to Relations: Multi-embeddings for Attributed Multiplex   Networks**|Joshua Melton et.al.|[2203.01903v1](http://arxiv.org/abs/2203.01903v1)|null|
-|**2022-03-03 17:59:02**|**Graph Neural Networks for Multimodal Single-Cell Data Integration**|Hongzhi Wen et.al.|[2203.01884v1](http://arxiv.org/abs/2203.01884v1)|null|
+|**2022-03-03 17:59:02**|**Graph Neural Networks for Multimodal Single-Cell Data Integration**|Hongzhi Wen et.al.|[2203.01884v1](http://arxiv.org/abs/2203.01884v1)|[link](https://github.com/openproblems-bio/neurips2021_multimodal_topmethods)|
 |**2022-03-03 17:30:44**|**Thermodynamics-informed graph neural networks**|Quercus Hernández et.al.|[2203.01874v1](http://arxiv.org/abs/2203.01874v1)|null|
 |**2022-03-03 16:26:36**|**Socially Aware Robot Crowd Navigation with Interaction Graphs and Human   Trajectory Prediction**|Shuijing Liu et.al.|[2203.01821v1](http://arxiv.org/abs/2203.01821v1)|null|
 |**2022-03-03 11:11:57**|**On an application of graph neural networks in population based SHM**|G. Tsialiamanis et.al.|[2203.01646v1](http://arxiv.org/abs/2203.01646v1)|null|
