@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-04 14:21:28**|**Differentiable Causal Discovery Under Latent Interventions**|Gonçalo R. A. Faria et.al.|[2203.02336v1](http://arxiv.org/abs/2203.02336v1)|[link](https://github.com/goncalorafaria/causaldiscovery-latent-interventions)|
+|**2022-03-04 08:13:18**|**GCNet: Graph Completion Network for Incomplete Multimodal Learning in   Conversation**|Zheng Lian et.al.|[2203.02177v1](http://arxiv.org/abs/2203.02177v1)|null|
+|**2022-03-04 06:41:51**|**Time-aware Graph Neural Networks for Entity Alignment between Temporal   Knowledge Graphs**| Chengjin_Xu et.al.|[2203.02150v1](http://arxiv.org/abs/2203.02150v1)|[link](https://github.com/soledad921/tea-gnn)|
+|**2022-03-03 21:00:23**|**Zero-shot Domain Adaptation of Heterogeneous Graphs via Knowledge   Transfer Networks**|Minji Yoon et.al.|[2203.02018v1](http://arxiv.org/abs/2203.02018v1)|null|
 |**2022-03-03 18:31:29**|**Pay Attention to Relations: Multi-embeddings for Attributed Multiplex   Networks**|Joshua Melton et.al.|[2203.01903v1](http://arxiv.org/abs/2203.01903v1)|null|
 |**2022-03-03 17:59:02**|**Graph Neural Networks for Multimodal Single-Cell Data Integration**|Hongzhi Wen et.al.|[2203.01884v1](http://arxiv.org/abs/2203.01884v1)|[link](https://github.com/openproblems-bio/neurips2021_multimodal_topmethods)|
 |**2022-03-03 17:30:44**|**Thermodynamics-informed graph neural networks**|Quercus Hernández et.al.|[2203.01874v1](http://arxiv.org/abs/2203.01874v1)|null|
@@ -28,7 +32,3 @@
 |**2022-02-28 22:00:02**|**GraphWorld: Fake Graphs Bring Real Insights for GNNs**|John Palowitch et.al.|[2203.00112v1](http://arxiv.org/abs/2203.00112v1)|null|
 |**2022-02-28 17:09:53**|**RouteNet-Erlang: A Graph Neural Network for Network Performance   Evaluation**|Miquel Ferriol-Galmés et.al.|[2202.13956v1](http://arxiv.org/abs/2202.13956v1)|null|
 |**2022-02-28 16:58:57**|**Data-Augmentation for Graph Neural Network Learning of the Relaxed   Energies of Unrelaxed Structures**|Jason B. Gibson et.al.|[2202.13947v1](http://arxiv.org/abs/2202.13947v1)|null|
-|**2022-02-28 15:08:48**|**Hyperbolic Graph Neural Networks: A Review of Methods and Applications**|Menglin Yang et.al.|[2202.13852v1](http://arxiv.org/abs/2202.13852v1)|[link](https://github.com/marlin-codes/HGNNs)|
-|**2022-02-28 13:50:47**|**Differential equation and probability inspired graph neural networks for   latent variable learning**|Zhuangwei Shi et.al.|[2202.13800v1](http://arxiv.org/abs/2202.13800v1)|[link](https://github.com/zshicode/latent-variable-gnn)|
-|**2022-02-28 11:09:54**|**Points-of-Interest Relationship Inference with Spatial-enriched Graph   Neural Networks**|Yile Chen et.al.|[2202.13686v1](http://arxiv.org/abs/2202.13686v1)|null|
-|**2022-02-28 04:30:41**|**Use of Transmission and Reflection Complex Time Delays to Reveal   Scattering Matrix Poles and Zeros: Example of the Ring Graph**|Lei Chen et.al.|[2202.13539v1](http://arxiv.org/abs/2202.13539v1)|null|
