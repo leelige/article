@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-11 17:21:24**|**WLASL-LEX: a Dataset for Recognising Phonological Properties in American   Sign Language**|Federico Tavella et.al.|[2203.06096v1](http://arxiv.org/abs/2203.06096v1)|null|
+|**2022-03-11 15:11:54**|**Graph Neural Networks for Relational Inductive Bias in Vision-based Deep   Reinforcement Learning of Robot Control**|Marco Oliva et.al.|[2203.05985v1](http://arxiv.org/abs/2203.05985v1)|null|
+|**2022-03-11 14:41:13**|**CNN-Aided Factor Graphs with Estimated Mutual Information Features for   Seizure Detection**|Bahareh Salafian et.al.|[2203.05950v1](http://arxiv.org/abs/2203.05950v1)|null|
+|**2022-03-11 13:45:34**|**Graph Summarization with Graph Neural Networks**|Maximilian Blasi et.al.|[2203.05919v1](http://arxiv.org/abs/2203.05919v1)|null|
+|**2022-03-11 08:23:03**|**PathSAGE: Spatial Graph Attention Neural Networks With Random Path   Sampling**|Junhua Ma et.al.|[2203.05793v1](http://arxiv.org/abs/2203.05793v1)|null|
 |**2022-03-10 17:53:03**|**Towards Less Constrained Macro-Neural Architecture Search**|Vasco Lopes et.al.|[2203.05508v1](http://arxiv.org/abs/2203.05508v1)|[link](https://github.com/vascolopes/lcmnas)|
 |**2022-03-10 17:14:14**|**Geometric and Topological Inference for Deep Representations of Complex   Networks**|Baihan Lin et.al.|[2203.05488v1](http://arxiv.org/abs/2203.05488v1)|null|
 |**2022-03-10 14:13:35**|**Spatial Commonsense Graph for Object Localisation in Partial Scenes**|Francesco Giuliari et.al.|[2203.05380v1](http://arxiv.org/abs/2203.05380v1)|[link](https://github.com/fgiuliari/spatialcommonsensegraph-dataset)|
@@ -27,8 +32,3 @@
 |**2022-03-07 06:13:04**|**Scalable Verification of GNN-based Job Schedulers**|Haoze Wu et.al.|[2203.03153v1](http://arxiv.org/abs/2203.03153v1)|null|
 |**2022-03-07 05:38:08**|**End-to-end video instance segmentation via spatial-temporal graph neural   networks**|Tao Wang et.al.|[2203.03145v1](http://arxiv.org/abs/2203.03145v1)|[link](https://github.com/lucaswithai/visgraph)|
 |**2022-03-06 22:15:03**|**Story Point Effort Estimation by Text Level Graph Neural Network**|Hung Phan et.al.|[2203.03062v1](http://arxiv.org/abs/2203.03062v1)|null|
-|**2022-03-06 09:05:42**|**Graph Neural Network Enhanced Language Models for Efficient Multilingual   Text Classification**|Samujjwal Ghosh et.al.|[2203.02912v1](http://arxiv.org/abs/2203.02912v1)|null|
-|**2022-03-06 01:54:50**|**Graph Neural Network Potential for Magnetic Materials**|Hongyu Yu et.al.|[2203.02853v1](http://arxiv.org/abs/2203.02853v1)|null|
-|**2022-03-05 13:52:11**|**Flurry: a Fast Framework for Reproducible Multi-layered Provenance Graph   Representation Learning**|Maya Kapoor et.al.|[2203.02744v1](http://arxiv.org/abs/2203.02744v1)|null|
-|**2022-03-05 05:06:10**|**MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive   Graph Neural Networks**|Sicong Cao et.al.|[2203.02660v1](http://arxiv.org/abs/2203.02660v1)|[link](https://github.com/mvdetection/mvd)|
-|**2022-03-05 04:46:44**|**Deep Partial Multiplex Network Embedding**|Qifan Wang et.al.|[2203.02656v1](http://arxiv.org/abs/2203.02656v1)|null|
