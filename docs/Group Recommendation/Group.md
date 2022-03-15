@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-14 15:44:40**|**Improving State-of-the-Art in One-Class Classification by Leveraging   Unlabeled Data**|Farid Bagirov et.al.|[2203.07206v1](http://arxiv.org/abs/2203.07206v1)|[link](https://github.com/jbr-ai-labs/pu-oc)|
 |**2022-03-03 18:17:06**|**Generating Synthetic but Realistic Human Trafficking Networks for   Modeling Disruptions through Transdisciplinary and Community-Based Action   Research**|Daniel Kosmas et.al.|[2203.01893v1](http://arxiv.org/abs/2203.01893v1)|null|
 |**2022-03-03 09:26:00**|**Fairness-aware Adversarial Perturbation Towards Bias Mitigation for   Deployed Deep Models**|Zhibo Wang et.al.|[2203.01584v1](http://arxiv.org/abs/2203.01584v1)|null|
 |**2022-03-01 22:06:30**|**Topic Analysis for Text with Side Data**|Biyi Fang et.al.|[2203.00762v1](http://arxiv.org/abs/2203.00762v1)|null|
@@ -31,4 +32,3 @@
 |**2022-02-04 09:57:13**|**Twitter Referral Behaviours on News Consumption with Ensemble Clustering   of Click-Stream Data in Turkish Media**|Didem Makaroglu et.al.|[2202.02056v1](http://arxiv.org/abs/2202.02056v1)|null|
 |**2022-02-03 14:41:39**|**Measuring Disparate Outcomes of Content Recommendation Algorithms with   Distributional Inequality Metrics**|Tomo Lazovich et.al.|[2202.01615v1](http://arxiv.org/abs/2202.01615v1)|null|
 |**2022-01-31 18:00:54**|**Neural Collaborative Filtering Bandits via Meta Learning**|Yikun Ban et.al.|[2201.13395v2](http://arxiv.org/abs/2201.13395v2)|null|
-|**2022-01-31 07:33:56**|**Predicting Cancer Treatments Induced Cardiotoxicity of Breast Cancer   Patients**|Sicheng Zhou et.al.|[2201.13036v1](http://arxiv.org/abs/2201.13036v1)|null|
