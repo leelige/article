@@ -18,7 +18,7 @@
 |**2021-12-06 05:10:01**|**Gumble Softmax For User Behavior Modeling**|Weiqi Shao et.al.|[2112.02787v2](http://arxiv.org/abs/2112.02787v2)|null|
 |**2021-11-30 02:10:02**|**MISS: Multi-Interest Self-Supervised Learning Framework for   Click-Through Rate Prediction**|Wei Guo et.al.|[2111.15068v2](http://arxiv.org/abs/2111.15068v2)|null|
 |**2021-11-29 17:50:22**|**Dynamic Inference**|Aolin Xu et.al.|[2111.14746v2](http://arxiv.org/abs/2111.14746v2)|null|
-|**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v1](http://arxiv.org/abs/2111.08862v1)|null|
+|**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v2](http://arxiv.org/abs/2111.08862v2)|null|
 |**2021-11-10 09:05:52**|**Conversational Recommendation: Theoretical Model and Complexity Analysis**|Tommaso Di Noia et.al.|[2111.05578v3](http://arxiv.org/abs/2111.05578v3)|null|
 |**2021-11-09 11:56:38**|**Neural News Recommendation with Event Extraction**|Songqiao Han et.al.|[2111.05068v2](http://arxiv.org/abs/2111.05068v2)|null|
 |**2021-10-26 00:48:23**|**Privacy-Preserving Multi-Target Multi-Domain Recommender Systems with   Assisted AutoEncoders**|Enmao Diao et.al.|[2110.13340v2](http://arxiv.org/abs/2110.13340v2)|null|
