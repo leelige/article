@@ -1,11 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2022-03-16 16:07:47 Asia/Shanghai
+ 自动更新 @ 2022-03-17 16:07:35 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-16 17:48:59**|**Exploring Variational Graph Auto-Encoders for Extract Class Refactoring   Recommendation**|Pritom Saha Akash et.al.|[2203.08787v1](http://arxiv.org/abs/2203.08787v1)|null|
+|**2022-03-16 10:04:40**|**Personal Knowledge Graphs: Use Cases in e-learning Platforms**|Eleni Ilkou et.al.|[2203.08507v1](http://arxiv.org/abs/2203.08507v1)|null|
 |**2022-03-14 23:12:06**|**Neutrinos from Stored Muons (nuSTORM)**|L. Alvarez Ruso et.al.|[2203.07545v1](http://arxiv.org/abs/2203.07545v1)|null|
 |**2022-03-14 15:44:40**|**Improving State-of-the-Art in One-Class Classification by Leveraging   Unlabeled Data**|Farid Bagirov et.al.|[2203.07206v1](http://arxiv.org/abs/2203.07206v1)|[link](https://github.com/jbr-ai-labs/pu-oc)|
 |**2022-03-03 18:17:06**|**Generating Synthetic but Realistic Human Trafficking Networks for   Modeling Disruptions through Transdisciplinary and Community-Based Action   Research**|Daniel Kosmas et.al.|[2203.01893v1](http://arxiv.org/abs/2203.01893v1)|null|
@@ -34,14 +36,17 @@
 |**2022-02-08 04:59:56**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
 |**2022-02-04 22:27:49**|**Generalized Causal Tree for Uplift Modeling**|Preetam Nandy et.al.|[2202.02416v1](http://arxiv.org/abs/2202.02416v1)|null|
 |**2022-02-04 15:39:45**|**HL-LHC Computing Review Stage 2, Common Software Projects: Data Science   Tools for Analysis**|Jim Pivarski et.al.|[2202.02194v1](http://arxiv.org/abs/2202.02194v1)|null|
-|**2022-02-04 09:57:13**|**Twitter Referral Behaviours on News Consumption with Ensemble Clustering   of Click-Stream Data in Turkish Media**|Didem Makaroglu et.al.|[2202.02056v1](http://arxiv.org/abs/2202.02056v1)|null|
-|**2022-02-03 14:41:39**|**Measuring Disparate Outcomes of Content Recommendation Algorithms with   Distributional Inequality Metrics**|Tomo Lazovich et.al.|[2202.01615v1](http://arxiv.org/abs/2202.01615v1)|null|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-16 14:56:02**|**Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient   Medical Image Segmentation**|Wenxuan Zou et.al.|[2203.08667v1](http://arxiv.org/abs/2203.08667v1)|null|
+|**2022-03-16 14:41:35**|**Graph Neural Networks for Multiparallel Word Alignment**|Ayyoob Imani et.al.|[2203.08654v1](http://arxiv.org/abs/2203.08654v1)|null|
+|**2022-03-16 09:50:32**|**HeterMPC: A Heterogeneous Graph Neural Network for Response Generation   in Multi-Party Conversations**|Jia-Chen Gu et.al.|[2203.08500v1](http://arxiv.org/abs/2203.08500v1)|[link](https://github.com/lxchtan/hetermpc)|
+|**2022-03-15 23:16:49**|**An explainability framework for cortical surface-based deep learning**|Fernanda L. Ribeiro et.al.|[2203.08312v1](http://arxiv.org/abs/2203.08312v1)|null|
+|**2022-03-15 19:21:31**|**A Differentiable Approach to Combinatorial Optimization using Dataless   Neural Networks**|Ismail R. Alkhouri et.al.|[2203.08209v1](http://arxiv.org/abs/2203.08209v1)|null|
 |**2022-03-15 16:14:30**|**Data-Efficient Graph Grammar Learning for Molecular Generation**|Minghao Guo et.al.|[2203.08031v1](http://arxiv.org/abs/2203.08031v1)|[link](https://github.com/gmh14/data_efficient_grammar)|
 |**2022-03-15 15:09:01**|**OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic   3D Reconstruction**|Wenbin Lin et.al.|[2203.07977v1](http://arxiv.org/abs/2203.07977v1)|null|
 |**2022-03-15 14:57:20**|**PDNS-Net: A Large Heterogeneous Graph Benchmark Dataset of Network   Resolutions for Graph Learning**|Udesh Kumarasinghe et.al.|[2203.07969v1](http://arxiv.org/abs/2203.07969v1)|[link](https://github.com/qcri/pdns-net)|
@@ -49,7 +54,7 @@
 |**2022-03-15 12:40:10**|**Graph Neural Network Sensitivity Under Probabilistic Error Model**|Xinjue Wang et.al.|[2203.07831v1](http://arxiv.org/abs/2203.07831v1)|null|
 |**2022-03-15 11:02:55**|**Complex Evolutional Pattern Learning for Temporal Knowledge Graph   Reasoning**|Zixuan Li et.al.|[2203.07782v1](http://arxiv.org/abs/2203.07782v1)|null|
 |**2022-03-15 07:18:46**|**Supervised Contrastive Learning with Structure Inference for Graph   Classification**|Hao Jia et.al.|[2203.07691v1](http://arxiv.org/abs/2203.07691v1)|null|
-|**2022-03-15 06:48:35**|**Incorporating Heterophily into Graph Neural Networks for Graph   Classification**|Wei Ye et.al.|[2203.07678v1](http://arxiv.org/abs/2203.07678v1)|null|
+|**2022-03-15 06:48:35**|**Incorporating Heterophily into Graph Neural Networks for Graph   Classification**|Wei Ye et.al.|[2203.07678v1](http://arxiv.org/abs/2203.07678v1)|[link](https://github.com/yeweiysh/ihgnn)|
 |**2022-03-15 06:34:39**|**Distributed-Memory Sparse Kernels for Machine Learning**|Vivek Bharadwaj et.al.|[2203.07673v1](http://arxiv.org/abs/2203.07673v1)|null|
 |**2022-03-15 04:30:47**|**Unsupervised Keyphrase Extraction via Interpretable Neural Networks**|Rishabh Joshi et.al.|[2203.07640v1](http://arxiv.org/abs/2203.07640v1)|null|
 |**2022-03-15 04:11:46**|**Graph Representation Learning for Popularity Prediction Problem: A   Survey**|Tiantian Chen et.al.|[2203.07632v1](http://arxiv.org/abs/2203.07632v1)|null|
@@ -67,11 +72,6 @@
 |**2022-03-11 15:11:54**|**Graph Neural Networks for Relational Inductive Bias in Vision-based Deep   Reinforcement Learning of Robot Control**|Marco Oliva et.al.|[2203.05985v1](http://arxiv.org/abs/2203.05985v1)|null|
 |**2022-03-11 14:41:13**|**CNN-Aided Factor Graphs with Estimated Mutual Information Features for   Seizure Detection**|Bahareh Salafian et.al.|[2203.05950v1](http://arxiv.org/abs/2203.05950v1)|null|
 |**2022-03-11 13:45:34**|**Graph Summarization with Graph Neural Networks**|Maximilian Blasi et.al.|[2203.05919v1](http://arxiv.org/abs/2203.05919v1)|null|
-|**2022-03-11 08:23:03**|**PathSAGE: Spatial Graph Attention Neural Networks With Random Path   Sampling**|Junhua Ma et.al.|[2203.05793v1](http://arxiv.org/abs/2203.05793v1)|null|
-|**2022-03-10 17:53:03**|**Towards Less Constrained Macro-Neural Architecture Search**|Vasco Lopes et.al.|[2203.05508v1](http://arxiv.org/abs/2203.05508v1)|[link](https://github.com/vascolopes/lcmnas)|
-|**2022-03-10 17:14:14**|**Geometric and Topological Inference for Deep Representations of Complex   Networks**|Baihan Lin et.al.|[2203.05488v2](http://arxiv.org/abs/2203.05488v2)|null|
-|**2022-03-10 14:13:35**|**Spatial Commonsense Graph for Object Localisation in Partial Scenes**|Francesco Giuliari et.al.|[2203.05380v2](http://arxiv.org/abs/2203.05380v2)|[link](https://github.com/fgiuliari/spatialcommonsensegraph-dataset)|
-|**2022-03-10 06:24:15**|**LineVD: Statement-level Vulnerability Detection using Graph Neural   Networks**|David Hin et.al.|[2203.05181v1](http://arxiv.org/abs/2203.05181v1)|null|
 
 ## Multi Interest Recommendation
 

@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-16 17:48:59**|**Exploring Variational Graph Auto-Encoders for Extract Class Refactoring   Recommendation**|Pritom Saha Akash et.al.|[2203.08787v1](http://arxiv.org/abs/2203.08787v1)|null|
+|**2022-03-16 10:04:40**|**Personal Knowledge Graphs: Use Cases in e-learning Platforms**|Eleni Ilkou et.al.|[2203.08507v1](http://arxiv.org/abs/2203.08507v1)|null|
 |**2022-03-14 23:12:06**|**Neutrinos from Stored Muons (nuSTORM)**|L. Alvarez Ruso et.al.|[2203.07545v1](http://arxiv.org/abs/2203.07545v1)|null|
 |**2022-03-14 15:44:40**|**Improving State-of-the-Art in One-Class Classification by Leveraging   Unlabeled Data**|Farid Bagirov et.al.|[2203.07206v1](http://arxiv.org/abs/2203.07206v1)|[link](https://github.com/jbr-ai-labs/pu-oc)|
 |**2022-03-03 18:17:06**|**Generating Synthetic but Realistic Human Trafficking Networks for   Modeling Disruptions through Transdisciplinary and Community-Based Action   Research**|Daniel Kosmas et.al.|[2203.01893v1](http://arxiv.org/abs/2203.01893v1)|null|
@@ -30,5 +32,3 @@
 |**2022-02-08 04:59:56**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
 |**2022-02-04 22:27:49**|**Generalized Causal Tree for Uplift Modeling**|Preetam Nandy et.al.|[2202.02416v1](http://arxiv.org/abs/2202.02416v1)|null|
 |**2022-02-04 15:39:45**|**HL-LHC Computing Review Stage 2, Common Software Projects: Data Science   Tools for Analysis**|Jim Pivarski et.al.|[2202.02194v1](http://arxiv.org/abs/2202.02194v1)|null|
-|**2022-02-04 09:57:13**|**Twitter Referral Behaviours on News Consumption with Ensemble Clustering   of Click-Stream Data in Turkish Media**|Didem Makaroglu et.al.|[2202.02056v1](http://arxiv.org/abs/2202.02056v1)|null|
-|**2022-02-03 14:41:39**|**Measuring Disparate Outcomes of Content Recommendation Algorithms with   Distributional Inequality Metrics**|Tomo Lazovich et.al.|[2202.01615v1](http://arxiv.org/abs/2202.01615v1)|null|
