@@ -27,8 +27,3 @@
 |**2021-10-19 18:59:02**|**MultiHead MultiModal Deep Interest Recommendation Network**|Mingbao Yang et.al.|[2110.10205v1](http://arxiv.org/abs/2110.10205v1)|null|
 |**2021-10-19 13:17:18**|**Plasma environment effects on K lines of astrophysical interest. V.   Universal formulae for ionization potential and K-threshold shifts**|P. Palmeri et.al.|[2110.09957v1](http://arxiv.org/abs/2110.09957v1)|null|
 |**2021-10-19 01:14:08**|**Multilevel Stochastic Optimization for Imputation in Massive Medical   Data Records**|Xiaoyu Wang et.al.|[2110.09680v1](http://arxiv.org/abs/2110.09680v1)|null|
-|**2021-10-13 03:49:45**|**SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair   Recommendation in Hundreds of Travel Scenarios**|Qijie Shen et.al.|[2110.06475v2](http://arxiv.org/abs/2110.06475v2)|null|
-|**2021-10-08 09:54:43**|**Multiplex Behavioral Relation Learning for Recommendation via Memory   Augmented Transformer Network**|Lianghao Xia et.al.|[2110.04002v1](http://arxiv.org/abs/2110.04002v1)|[link](https://github.com/akaxlh/matn)|
-|**2021-10-08 05:46:55**|**Multi-trends Enhanced Dynamic Micro-video Recommendation**|Yujie Lu et.al.|[2110.03902v1](http://arxiv.org/abs/2110.03902v1)|null|
-|**2021-10-07 13:32:04**|**Recent Advances in Heterogeneous Relation Learning for Recommendation**|Chao Huang et.al.|[2110.03455v1](http://arxiv.org/abs/2110.03455v1)|null|
-|**2021-10-05 21:30:53**|**Live Multi-Streaming and Donation Recommendations via Coupled   Donation-Response Tensor Factorization**|Hsu-Chao Lai et.al.|[2110.06117v1](http://arxiv.org/abs/2110.06117v1)|null|
