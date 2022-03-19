@@ -27,3 +27,8 @@
 |**2022-02-17 13:51:14**|**The Gaia-ESO Survey: The analysis of the hot-star spectra**|R. Blomme et.al.|[2202.08662v2](http://arxiv.org/abs/2202.08662v2)|null|
 |**2022-02-16 18:39:17**|**Nuclear Data to Reduce Uncertainties in Reactor Antineutrino   Measurements: Summary Report of the Workshop on Nuclear Data for Reactor   Antineutrino Measurements (WoNDRAM)**|Catherine Romano et.al.|[2202.08241v1](http://arxiv.org/abs/2202.08241v1)|null|
 |**2022-02-15 23:16:36**|**Recommendations for extending the GFF3 specification for improved   interoperability of genomic data**|Surya Saha et.al.|[2202.07782v1](http://arxiv.org/abs/2202.07782v1)|[link](https://github.com/NAL-i5K/AgBioData_GFF3_recommendation)toprovidefeedbackviaissuesorpullrequests)|
+|**2022-02-15 12:14:45**|**IF-City: Intelligible Fair City Planning to Measure, Explain and   Mitigate Inequality**|Yan Lyu et.al.|[2202.07349v1](http://arxiv.org/abs/2202.07349v1)|null|
+|**2022-02-15 04:53:24**|**Pruning Networks with Cross-Layer Ranking & k-Reciprocal Nearest Filters**|Mingbao Lin et.al.|[2202.07190v1](http://arxiv.org/abs/2202.07190v1)|[link](https://github.com/lmbxmu/clr-rnf)|
+|**2022-02-13 05:20:48**|**Ticketing System: A Descriptive Research on the Use of Ticketing System   for Project Management and Issue Tracking in IT Companies**|Kent Darryl Aglibar et.al.|[2202.06213v1](http://arxiv.org/abs/2202.06213v1)|null|
+|**2022-02-10 20:39:13**|**Audio Matters Too: How Audial Avatar Customization Enhances Visual   Avatar Customization**|Dominic Kao et.al.|[2202.05315v1](http://arxiv.org/abs/2202.05315v1)|null|
+|**2022-02-08 04:59:56**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|

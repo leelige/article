@@ -8,13 +8,13 @@
 |**2022-03-17 11:25:41**|**Explainability in Graph Neural Networks: An Experimental Survey**|Peibo Li et.al.|[2203.09258v1](http://arxiv.org/abs/2203.09258v1)|null|
 |**2022-03-17 09:56:32**|**SoK: Differential Privacy on Graph-Structured Data**|Tamara T. Mueller et.al.|[2203.09205v1](http://arxiv.org/abs/2203.09205v1)|null|
 |**2022-03-17 07:50:48**|**Graph Representation Learning with Individualization and Refinement**|Mohammed Haroon Dupty et.al.|[2203.09141v1](http://arxiv.org/abs/2203.09141v1)|null|
-|**2022-03-17 06:53:15**|**MotionAug: Augmentation with Physical Correction for Human Motion   Prediction**|Takahiro Maeda et.al.|[2203.09116v1](http://arxiv.org/abs/2203.09116v1)|[link](https://github.com/meaten/MotionAug}})|
+|**2022-03-17 06:53:15**|**MotionAug: Augmentation with Physical Correction for Human Motion   Prediction**|Takahiro Maeda et.al.|[2203.09116v1](http://arxiv.org/abs/2203.09116v1)|[link](https://github.com/meaten/motionaug)|
 |**2022-03-17 06:01:45**|**Knowledge Graph-Enabled Text-Based Automatic Personality Prediction**|Majid Ramezani et.al.|[2203.09103v1](http://arxiv.org/abs/2203.09103v1)|null|
 |**2022-03-17 02:23:30**|**GATE: Graph CCA for Temporal SElf-supervised Learning for   Label-efficient fMRI Analysis**|Liang Peng et.al.|[2203.09034v1](http://arxiv.org/abs/2203.09034v1)|null|
 |**2022-03-17 02:16:02**|**Phased Flight Trajectory Prediction with Deep Learning**|Kai Zhang et.al.|[2203.09033v1](http://arxiv.org/abs/2203.09033v1)|null|
-|**2022-03-16 23:51:01**|**AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine   Reading Comprehension**|Xiao Li et.al.|[2203.08992v1](http://arxiv.org/abs/2203.08992v1)|null|
-|**2022-03-16 19:07:51**|**Multimodal Learning on Graphs for Disease Relation Extraction**|Yucong Lin et.al.|[2203.08893v1](http://arxiv.org/abs/2203.08893v1)|null|
-|**2022-03-16 18:19:43**|**Learning the Dynamics of Physical Systems from Sparse Observations with   Finite Element Networks**|Marten Lienen et.al.|[2203.08852v1](http://arxiv.org/abs/2203.08852v1)|null|
+|**2022-03-16 23:51:01**|**AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine   Reading Comprehension**|Xiao Li et.al.|[2203.08992v1](http://arxiv.org/abs/2203.08992v1)|[link](https://github.com/nju-websoft/adalogn)|
+|**2022-03-16 19:07:51**|**Multimodal Learning on Graphs for Disease Relation Extraction**|Yucong Lin et.al.|[2203.08893v1](http://arxiv.org/abs/2203.08893v1)|[link](https://github.com/lukeming-tsinghua/remod)|
+|**2022-03-16 18:19:43**|**Learning the Dynamics of Physical Systems from Sparse Observations with   Finite Element Networks**|Marten Lienen et.al.|[2203.08852v1](http://arxiv.org/abs/2203.08852v1)|[link](https://github.com/martenlienen/finite-element-networks)|
 |**2022-03-16 14:56:02**|**Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient   Medical Image Segmentation**|Wenxuan Zou et.al.|[2203.08667v2](http://arxiv.org/abs/2203.08667v2)|null|
 |**2022-03-16 14:41:35**|**Graph Neural Networks for Multiparallel Word Alignment**|Ayyoob Imani et.al.|[2203.08654v1](http://arxiv.org/abs/2203.08654v1)|null|
 |**2022-03-16 09:50:32**|**HeterMPC: A Heterogeneous Graph Neural Network for Response Generation   in Multi-Party Conversations**|Jia-Chen Gu et.al.|[2203.08500v1](http://arxiv.org/abs/2203.08500v1)|[link](https://github.com/lxchtan/hetermpc)|
@@ -27,3 +27,8 @@
 |**2022-03-15 12:40:10**|**Graph Neural Network Sensitivity Under Probabilistic Error Model**|Xinjue Wang et.al.|[2203.07831v1](http://arxiv.org/abs/2203.07831v1)|null|
 |**2022-03-15 11:02:55**|**Complex Evolutional Pattern Learning for Temporal Knowledge Graph   Reasoning**|Zixuan Li et.al.|[2203.07782v1](http://arxiv.org/abs/2203.07782v1)|null|
 |**2022-03-15 07:18:46**|**Supervised Contrastive Learning with Structure Inference for Graph   Classification**|Hao Jia et.al.|[2203.07691v1](http://arxiv.org/abs/2203.07691v1)|null|
+|**2022-03-15 06:48:35**|**Incorporating Heterophily into Graph Neural Networks for Graph   Classification**|Wei Ye et.al.|[2203.07678v1](http://arxiv.org/abs/2203.07678v1)|[link](https://github.com/yeweiysh/ihgnn)|
+|**2022-03-15 06:34:39**|**Distributed-Memory Sparse Kernels for Machine Learning**|Vivek Bharadwaj et.al.|[2203.07673v1](http://arxiv.org/abs/2203.07673v1)|null|
+|**2022-03-15 04:30:47**|**Unsupervised Keyphrase Extraction via Interpretable Neural Networks**|Rishabh Joshi et.al.|[2203.07640v1](http://arxiv.org/abs/2203.07640v1)|null|
+|**2022-03-15 04:11:46**|**Graph Representation Learning for Popularity Prediction Problem: A   Survey**|Tiantian Chen et.al.|[2203.07632v1](http://arxiv.org/abs/2203.07632v1)|null|
+|**2022-03-14 17:51:52**|**Improving Di-Higgs Sensitivity at Future Colliders in Hadronic Final   States with Machine Learning**|Daniel Diaz et.al.|[2203.07353v1](http://arxiv.org/abs/2203.07353v1)|null|
