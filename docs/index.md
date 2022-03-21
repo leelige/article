@@ -1,13 +1,16 @@
 # arxiv-daily
- 自动更新 @ 2022-03-20 16:06:57 Asia/Shanghai
+ 自动更新 @ 2022-03-21 16:08:28 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-03-17 17:06:00**|**Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D   MRI Scans with Geometric Deep Neural Networks**|Fabian Bongratz et.al.|[2203.09446v1](http://arxiv.org/abs/2203.09446v1)|null|
-|**2022-03-17 14:49:31**|**Behavior-aware Account De-anonymization on Ethereum Interaction Graph**|Jiajun Zhou et.al.|[2203.09360v1](http://arxiv.org/abs/2203.09360v1)|null|
+|**2022-03-18 04:23:25**|**Series Photo Selection via Multi-view Graph Learning**|Jin Huang et.al.|[2203.09736v1](http://arxiv.org/abs/2203.09736v1)|null|
+|**2022-03-18 01:54:34**|**Towards Training Billion Parameter Graph Neural Networks for Atomic   Simulations**|Anuroop Sriram et.al.|[2203.09697v1](http://arxiv.org/abs/2203.09697v1)|null|
+|**2022-03-17 18:37:21**|**On the expressive power of message-passing neural networks as global   feature map transformers**|Floris Geerts et.al.|[2203.09555v1](http://arxiv.org/abs/2203.09555v1)|null|
+|**2022-03-17 17:06:00**|**Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D   MRI Scans with Geometric Deep Neural Networks**|Fabian Bongratz et.al.|[2203.09446v2](http://arxiv.org/abs/2203.09446v2)|null|
+|**2022-03-17 14:49:31**|**Behavior-aware Account De-anonymization on Ethereum Interaction Graph**|Jiajun Zhou et.al.|[2203.09360v2](http://arxiv.org/abs/2203.09360v2)|null|
 |**2022-03-17 12:14:09**|**Ranking of Communities in Multiplex Spatiotemporal Models of Brain   Dynamics**|James B. Wilsenach et.al.|[2203.09281v1](http://arxiv.org/abs/2203.09281v1)|null|
 |**2022-03-17 11:25:41**|**Explainability in Graph Neural Networks: An Experimental Survey**|Peibo Li et.al.|[2203.09258v1](http://arxiv.org/abs/2203.09258v1)|null|
 |**2022-03-17 09:56:32**|**SoK: Differential Privacy on Graph-Structured Data**|Tamara T. Mueller et.al.|[2203.09205v1](http://arxiv.org/abs/2203.09205v1)|null|
@@ -33,15 +36,14 @@
 |**2022-03-15 07:18:46**|**Supervised Contrastive Learning with Structure Inference for Graph   Classification**|Hao Jia et.al.|[2203.07691v1](http://arxiv.org/abs/2203.07691v1)|null|
 |**2022-03-15 06:48:35**|**Incorporating Heterophily into Graph Neural Networks for Graph   Classification**|Wei Ye et.al.|[2203.07678v1](http://arxiv.org/abs/2203.07678v1)|[link](https://github.com/yeweiysh/ihgnn)|
 |**2022-03-15 06:34:39**|**Distributed-Memory Sparse Kernels for Machine Learning**|Vivek Bharadwaj et.al.|[2203.07673v1](http://arxiv.org/abs/2203.07673v1)|null|
-|**2022-03-15 04:30:47**|**Unsupervised Keyphrase Extraction via Interpretable Neural Networks**|Rishabh Joshi et.al.|[2203.07640v1](http://arxiv.org/abs/2203.07640v1)|null|
-|**2022-03-15 04:11:46**|**Graph Representation Learning for Popularity Prediction Problem: A   Survey**|Tiantian Chen et.al.|[2203.07632v1](http://arxiv.org/abs/2203.07632v1)|null|
-|**2022-03-14 17:51:52**|**Improving Di-Higgs Sensitivity at Future Colliders in Hadronic Final   States with Machine Learning**|Daniel Diaz et.al.|[2203.07353v1](http://arxiv.org/abs/2203.07353v1)|null|
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-17 22:40:39**|**Rare-earth-free noncollinear metallic ferrimagnets Mn4-xZxN with   compensation at room temperature**|Rui Zhang et.al.|[2203.09641v1](http://arxiv.org/abs/2203.09641v1)|null|
+|**2022-03-17 18:02:40**|**Revisiting the Solar Research Cyberinfrastructure Needs: A White Paper   of Findings and Recommendations**|Gelu Nita et.al.|[2203.09544v1](http://arxiv.org/abs/2203.09544v1)|null|
 |**2022-03-16 22:18:52**|**Opportunities for Technosignature Science in the Astro2020 Report**|Jacob Haqq-Misra et.al.|[2203.08968v1](http://arxiv.org/abs/2203.08968v1)|null|
 |**2022-03-16 19:57:31**|**The need for structural changes to create impactful public engagement in   US particle physics**|Kétévi Adiklè Assamagan et.al.|[2203.08916v1](http://arxiv.org/abs/2203.08916v1)|null|
 |**2022-03-16 17:48:59**|**Exploring Variational Graph Auto-Encoders for Extract Class Refactoring   Recommendation**|Pritom Saha Akash et.al.|[2203.08787v1](http://arxiv.org/abs/2203.08787v1)|null|
@@ -70,8 +72,6 @@
 |**2022-02-15 12:14:45**|**IF-City: Intelligible Fair City Planning to Measure, Explain and   Mitigate Inequality**|Yan Lyu et.al.|[2202.07349v1](http://arxiv.org/abs/2202.07349v1)|null|
 |**2022-02-15 04:53:24**|**Pruning Networks with Cross-Layer Ranking & k-Reciprocal Nearest Filters**|Mingbao Lin et.al.|[2202.07190v1](http://arxiv.org/abs/2202.07190v1)|[link](https://github.com/lmbxmu/clr-rnf)|
 |**2022-02-13 05:20:48**|**Ticketing System: A Descriptive Research on the Use of Ticketing System   for Project Management and Issue Tracking in IT Companies**|Kent Darryl Aglibar et.al.|[2202.06213v1](http://arxiv.org/abs/2202.06213v1)|null|
-|**2022-02-10 20:39:13**|**Audio Matters Too: How Audial Avatar Customization Enhances Visual   Avatar Customization**|Dominic Kao et.al.|[2202.05315v1](http://arxiv.org/abs/2202.05315v1)|null|
-|**2022-02-08 04:59:56**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
 
 ## Multi Interest Recommendation
 
