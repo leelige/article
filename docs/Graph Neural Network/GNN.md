@@ -2,6 +2,22 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-21 14:23:18**|**Online Skeleton-based Action Recognition with Continual Spatio-Temporal   Graph Convolutional Networks**|Lukas Hedegaard et.al.|[2203.11009v1](http://arxiv.org/abs/2203.11009v1)|null|
+|**2022-03-21 14:14:26**|**Self-Supervised Road Layout Parsing with Graph Auto-Encoding**|Chenyang Lu et.al.|[2203.11000v1](http://arxiv.org/abs/2203.11000v1)|null|
+|**2022-03-21 13:37:23**|**Improving anatomical plausibility in medical image segmentation via   hybrid graph neural networks: applications to chest x-ray analysis**|Nicolás Gaggion et.al.|[2203.10977v1](http://arxiv.org/abs/2203.10977v1)|[link](https://github.com/ngaggion/HybridGNet)|
+|**2022-03-21 12:44:17**|**3D Multi-Object Tracking Using Graph Neural Networks with Cross-Edge   Modality Attention**|Martin Buchner et.al.|[2203.10926v1](http://arxiv.org/abs/2203.10926v1)|null|
+|**2022-03-21 10:20:04**|**Multi-modal learning for predicting the genotype of glioma**|Yiran Wei et.al.|[2203.10852v1](http://arxiv.org/abs/2203.10852v1)|null|
+|**2022-03-21 08:39:44**|**Graph Neural Networks for Wireless Communications: From Theory to   Practice**|Yifei Shen et.al.|[2203.10800v1](http://arxiv.org/abs/2203.10800v1)|null|
+|**2022-03-20 18:34:42**|**Differentiable Reasoning over Long Stories -- Assessing Systematic   Generalisation in Neural Models**|Wanshui Li et.al.|[2203.10620v1](http://arxiv.org/abs/2203.10620v1)|null|
+|**2022-03-20 14:38:05**|**LEReg: Empower Graph Neural Networks with Local Energy Regularization**|Xiaojun Ma et.al.|[2203.10565v1](http://arxiv.org/abs/2203.10565v1)|null|
+|**2022-03-20 06:19:18**|**Inspection-L: Practical GNN-Based Money Laundering Detection System for   Bitcoin**|Wai Weng Lo et.al.|[2203.10465v1](http://arxiv.org/abs/2203.10465v1)|null|
+|**2022-03-20 04:41:17**|**Fine-Tuning Graph Neural Networks via Graph Topology induced Optimal   Transport**|Jiying Zhang et.al.|[2203.10453v1](http://arxiv.org/abs/2203.10453v1)|null|
+|**2022-03-19 15:35:59**|**Automatic Detection of Entity-Manipulated Text using Factual Knowledge**|Ganesh Jawahar et.al.|[2203.10343v1](http://arxiv.org/abs/2203.10343v1)|[link](https://github.com/UBC-NLP/manipulated_entity_detection)|
+|**2022-03-19 11:56:51**|**PACE: A Parallelizable Computation Encoder for Directed Acyclic Graphs**|Zehao Dong et.al.|[2203.10304v1](http://arxiv.org/abs/2203.10304v1)|[link](https://github.com/zehaodong/PACE})|
+|**2022-03-19 09:27:38**|**Meta-Weight Graph Neural Network: Push the Limits Beyond Global   Homophily**|Xiaojun Ma et.al.|[2203.10280v1](http://arxiv.org/abs/2203.10280v1)|null|
+|**2022-03-18 22:12:42**|**Characterizing Disorder Within Atomic Environments Through   Physics-preserving Graph Neural Networks**|James Chapman et.al.|[2203.10177v1](http://arxiv.org/abs/2203.10177v1)|null|
+|**2022-03-18 07:05:27**|**Deep Reinforcement Learning Guided Graph Neural Networks for Brain   Network Analysis**|Xusheng Zhao et.al.|[2203.10093v1](http://arxiv.org/abs/2203.10093v1)|null|
+|**2022-03-18 06:10:17**|**Bike Sharing Demand Prediction based on Knowledge Sharing across Modes:   A Graph-based Deep Learning Approach**|Yuebing Liang et.al.|[2203.10961v1](http://arxiv.org/abs/2203.10961v1)|null|
 |**2022-03-18 04:23:25**|**Series Photo Selection via Multi-view Graph Learning**|Jin Huang et.al.|[2203.09736v1](http://arxiv.org/abs/2203.09736v1)|null|
 |**2022-03-18 01:54:34**|**Towards Training Billion Parameter Graph Neural Networks for Atomic   Simulations**|Anuroop Sriram et.al.|[2203.09697v1](http://arxiv.org/abs/2203.09697v1)|null|
 |**2022-03-17 18:37:21**|**On the expressive power of message-passing neural networks as global   feature map transformers**|Floris Geerts et.al.|[2203.09555v1](http://arxiv.org/abs/2203.09555v1)|null|
@@ -16,19 +32,3 @@
 |**2022-03-17 02:23:30**|**GATE: Graph CCA for Temporal SElf-supervised Learning for   Label-efficient fMRI Analysis**|Liang Peng et.al.|[2203.09034v1](http://arxiv.org/abs/2203.09034v1)|null|
 |**2022-03-17 02:16:02**|**Phased Flight Trajectory Prediction with Deep Learning**|Kai Zhang et.al.|[2203.09033v1](http://arxiv.org/abs/2203.09033v1)|null|
 |**2022-03-16 23:51:01**|**AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine   Reading Comprehension**|Xiao Li et.al.|[2203.08992v1](http://arxiv.org/abs/2203.08992v1)|[link](https://github.com/nju-websoft/adalogn)|
-|**2022-03-16 19:07:51**|**Multimodal Learning on Graphs for Disease Relation Extraction**|Yucong Lin et.al.|[2203.08893v1](http://arxiv.org/abs/2203.08893v1)|[link](https://github.com/lukeming-tsinghua/remod)|
-|**2022-03-16 18:19:43**|**Learning the Dynamics of Physical Systems from Sparse Observations with   Finite Element Networks**|Marten Lienen et.al.|[2203.08852v1](http://arxiv.org/abs/2203.08852v1)|[link](https://github.com/martenlienen/finite-element-networks)|
-|**2022-03-16 14:56:02**|**Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient   Medical Image Segmentation**|Wenxuan Zou et.al.|[2203.08667v2](http://arxiv.org/abs/2203.08667v2)|null|
-|**2022-03-16 14:41:35**|**Graph Neural Networks for Multiparallel Word Alignment**|Ayyoob Imani et.al.|[2203.08654v1](http://arxiv.org/abs/2203.08654v1)|null|
-|**2022-03-16 09:50:32**|**HeterMPC: A Heterogeneous Graph Neural Network for Response Generation   in Multi-Party Conversations**|Jia-Chen Gu et.al.|[2203.08500v1](http://arxiv.org/abs/2203.08500v1)|[link](https://github.com/lxchtan/hetermpc)|
-|**2022-03-15 23:16:49**|**An explainability framework for cortical surface-based deep learning**|Fernanda L. Ribeiro et.al.|[2203.08312v1](http://arxiv.org/abs/2203.08312v1)|[link](https://github.com/Puckett-Lab/explainability_CorticalSurfaceGDL)|
-|**2022-03-15 19:21:31**|**A Differentiable Approach to Combinatorial Optimization using Dataless   Neural Networks**|Ismail R. Alkhouri et.al.|[2203.08209v1](http://arxiv.org/abs/2203.08209v1)|null|
-|**2022-03-15 16:14:30**|**Data-Efficient Graph Grammar Learning for Molecular Generation**|Minghao Guo et.al.|[2203.08031v1](http://arxiv.org/abs/2203.08031v1)|[link](https://github.com/gmh14/data_efficient_grammar)|
-|**2022-03-15 15:09:01**|**OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic   3D Reconstruction**|Wenbin Lin et.al.|[2203.07977v1](http://arxiv.org/abs/2203.07977v1)|null|
-|**2022-03-15 14:57:20**|**PDNS-Net: A Large Heterogeneous Graph Benchmark Dataset of Network   Resolutions for Graph Learning**|Udesh Kumarasinghe et.al.|[2203.07969v1](http://arxiv.org/abs/2203.07969v1)|[link](https://github.com/qcri/pdns-net)|
-|**2022-03-15 14:43:16**|**Amortised inference of fractional Brownian motion with linear   computational complexity**|François Laurent et.al.|[2203.07961v1](http://arxiv.org/abs/2203.07961v1)|null|
-|**2022-03-15 12:40:10**|**Graph Neural Network Sensitivity Under Probabilistic Error Model**|Xinjue Wang et.al.|[2203.07831v1](http://arxiv.org/abs/2203.07831v1)|null|
-|**2022-03-15 11:02:55**|**Complex Evolutional Pattern Learning for Temporal Knowledge Graph   Reasoning**|Zixuan Li et.al.|[2203.07782v1](http://arxiv.org/abs/2203.07782v1)|null|
-|**2022-03-15 07:18:46**|**Supervised Contrastive Learning with Structure Inference for Graph   Classification**|Hao Jia et.al.|[2203.07691v1](http://arxiv.org/abs/2203.07691v1)|null|
-|**2022-03-15 06:48:35**|**Incorporating Heterophily into Graph Neural Networks for Graph   Classification**|Wei Ye et.al.|[2203.07678v1](http://arxiv.org/abs/2203.07678v1)|[link](https://github.com/yeweiysh/ihgnn)|
-|**2022-03-15 06:34:39**|**Distributed-Memory Sparse Kernels for Machine Learning**|Vivek Bharadwaj et.al.|[2203.07673v1](http://arxiv.org/abs/2203.07673v1)|null|
