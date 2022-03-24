@@ -2,6 +2,9 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-23 16:31:53**|**Semi-Supervised Graph Learning Meets Dimensionality Reduction**|Alex Morehead et.al.|[2203.12522v1](http://arxiv.org/abs/2203.12522v1)|[link](https://github.com/amorehead/SSL-With-DR-And-GNNs)|
+|**2022-03-23 12:35:59**|**Ethereum Fraud Detection with Heterogeneous Graph Neural Networks**|Hiroki Kanezashi et.al.|[2203.12363v1](http://arxiv.org/abs/2203.12363v1)|null|
+|**2022-03-23 11:15:36**|**Towards explaining the generalization gap in neural networks using   topological data analysis**|Rubén Ballester et.al.|[2203.12330v1](http://arxiv.org/abs/2203.12330v1)|null|
 |**2022-03-22 17:59:45**|**4D-OR: Semantic Scene Graphs for OR Domain Modeling**|Ege Özsoy et.al.|[2203.11937v1](http://arxiv.org/abs/2203.11937v1)|null|
 |**2022-03-22 07:03:08**|**Exploring High-Order Structure for Robust Graph Structure Learning**|Guangqian Yang et.al.|[2203.11492v1](http://arxiv.org/abs/2203.11492v1)|null|
 |**2022-03-21 14:23:18**|**Online Skeleton-based Action Recognition with Continual Spatio-Temporal   Graph Convolutional Networks**|Lukas Hedegaard et.al.|[2203.11009v1](http://arxiv.org/abs/2203.11009v1)|[link](https://github.com/lukashedegaard/continual-skeletons)|
@@ -24,11 +27,8 @@
 |**2022-03-18 04:23:25**|**Series Photo Selection via Multi-view Graph Learning**|Jin Huang et.al.|[2203.09736v1](http://arxiv.org/abs/2203.09736v1)|null|
 |**2022-03-18 01:54:34**|**Towards Training Billion Parameter Graph Neural Networks for Atomic   Simulations**|Anuroop Sriram et.al.|[2203.09697v1](http://arxiv.org/abs/2203.09697v1)|null|
 |**2022-03-17 18:37:21**|**On the expressive power of message-passing neural networks as global   feature map transformers**|Floris Geerts et.al.|[2203.09555v1](http://arxiv.org/abs/2203.09555v1)|null|
-|**2022-03-17 17:06:00**|**Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D   MRI Scans with Geometric Deep Neural Networks**|Fabian Bongratz et.al.|[2203.09446v2](http://arxiv.org/abs/2203.09446v2)|null|
+|**2022-03-17 17:06:00**|**Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D   MRI Scans with Geometric Deep Neural Networks**|Fabian Bongratz et.al.|[2203.09446v2](http://arxiv.org/abs/2203.09446v2)|[link](https://github.com/ai-med/vox2cortex)|
 |**2022-03-17 14:49:31**|**Behavior-aware Account De-anonymization on Ethereum Interaction Graph**|Jiajun Zhou et.al.|[2203.09360v2](http://arxiv.org/abs/2203.09360v2)|null|
 |**2022-03-17 12:14:09**|**Ranking of Communities in Multiplex Spatiotemporal Models of Brain   Dynamics**|James B. Wilsenach et.al.|[2203.09281v1](http://arxiv.org/abs/2203.09281v1)|null|
 |**2022-03-17 11:25:41**|**Explainability in Graph Neural Networks: An Experimental Survey**|Peibo Li et.al.|[2203.09258v1](http://arxiv.org/abs/2203.09258v1)|null|
 |**2022-03-17 09:56:32**|**SoK: Differential Privacy on Graph-Structured Data**|Tamara T. Mueller et.al.|[2203.09205v1](http://arxiv.org/abs/2203.09205v1)|null|
-|**2022-03-17 07:50:48**|**Graph Representation Learning with Individualization and Refinement**|Mohammed Haroon Dupty et.al.|[2203.09141v1](http://arxiv.org/abs/2203.09141v1)|null|
-|**2022-03-17 06:53:15**|**MotionAug: Augmentation with Physical Correction for Human Motion   Prediction**|Takahiro Maeda et.al.|[2203.09116v1](http://arxiv.org/abs/2203.09116v1)|[link](https://github.com/meaten/motionaug)|
-|**2022-03-17 06:01:45**|**Knowledge Graph-Enabled Text-Based Automatic Personality Prediction**|Majid Ramezani et.al.|[2203.09103v1](http://arxiv.org/abs/2203.09103v1)|null|
