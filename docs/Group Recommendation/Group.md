@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-26 05:46:59**|**A Work Proposal for a Collaborative Study of Magnet Technology for a   Future Muon Collider**|L. Bottura et.al.|[2203.13998v1](http://arxiv.org/abs/2203.13998v1)|null|
 |**2022-03-22 06:56:06**|**Making Recommender Systems Forget: Learning and Unlearning for Erasable   Recommendation**|Yuyuan Li et.al.|[2203.11491v1](http://arxiv.org/abs/2203.11491v1)|null|
 |**2022-03-21 14:59:40**|**Facilitating Non-HEP Career Transition**|Sudhir Malik et.al.|[2203.11665v2](http://arxiv.org/abs/2203.11665v2)|null|
 |**2022-03-17 22:40:39**|**Rare-earth-free noncollinear metallic ferrimagnets Mn4-xZxN with   compensation at room temperature**|Rui Zhang et.al.|[2203.09641v1](http://arxiv.org/abs/2203.09641v1)|null|
@@ -31,4 +32,3 @@
 |**2022-02-17 13:51:14**|**The Gaia-ESO Survey: The analysis of the hot-star spectra**|R. Blomme et.al.|[2202.08662v2](http://arxiv.org/abs/2202.08662v2)|null|
 |**2022-02-16 18:39:17**|**Nuclear Data to Reduce Uncertainties in Reactor Antineutrino   Measurements: Summary Report of the Workshop on Nuclear Data for Reactor   Antineutrino Measurements (WoNDRAM)**|Catherine Romano et.al.|[2202.08241v1](http://arxiv.org/abs/2202.08241v1)|null|
 |**2022-02-15 23:16:36**|**Recommendations for extending the GFF3 specification for improved   interoperability of genomic data**|Surya Saha et.al.|[2202.07782v1](http://arxiv.org/abs/2202.07782v1)|[link](https://github.com/NAL-i5K/AgBioData_GFF3_recommendation)toprovidefeedbackviaissuesorpullrequests)|
-|**2022-02-15 12:14:45**|**IF-City: Intelligible Fair City Planning to Measure, Explain and   Mitigate Inequality**|Yan Lyu et.al.|[2202.07349v1](http://arxiv.org/abs/2202.07349v1)|null|
