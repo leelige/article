@@ -2,6 +2,8 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-01 11:58:00**|**Deep Page-Level Interest Network in Reinforcement Learning for Ads   Allocation**|Guogang Liao et.al.|[2204.00377v1](http://arxiv.org/abs/2204.00377v1)|null|
+|**2022-04-01 10:10:50**|**Diverse Preference Augmentation with Multiple Domains for Cold-start   Recommendations**|Yan Zhang et.al.|[2204.00327v1](http://arxiv.org/abs/2204.00327v1)|null|
 |**2022-03-28 19:02:58**|**Online Algorithms for Matching Platforms with Multi-Channel Traffic**|Vahideh Manshadi et.al.|[2203.15037v1](http://arxiv.org/abs/2203.15037v1)|null|
 |**2022-03-23 14:43:14**|**Deep Multi-View Learning for Tire Recommendation**|Thomas Ranvier et.al.|[2203.12451v1](http://arxiv.org/abs/2203.12451v1)|null|
 |**2022-03-20 04:46:11**|**ZOOMER: Boosting Retrieval on Web-scale Graphs by Regions of Interest**|Yuezihan Jiang et.al.|[2203.12596v1](http://arxiv.org/abs/2203.12596v1)|[link](https://github.com/lovelyhan/zoomer)|
@@ -30,5 +32,3 @@
 |**2021-10-19 18:59:02**|**MultiHead MultiModal Deep Interest Recommendation Network**|Mingbao Yang et.al.|[2110.10205v1](http://arxiv.org/abs/2110.10205v1)|null|
 |**2021-10-19 13:17:18**|**Plasma environment effects on K lines of astrophysical interest. V.   Universal formulae for ionization potential and K-threshold shifts**|P. Palmeri et.al.|[2110.09957v1](http://arxiv.org/abs/2110.09957v1)|null|
 |**2021-10-19 01:14:08**|**Multilevel Stochastic Optimization for Imputation in Massive Medical   Data Records**|Xiaoyu Wang et.al.|[2110.09680v1](http://arxiv.org/abs/2110.09680v1)|null|
-|**2021-10-13 03:49:45**|**SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair   Recommendation in Hundreds of Travel Scenarios**|Qijie Shen et.al.|[2110.06475v2](http://arxiv.org/abs/2110.06475v2)|null|
-|**2021-10-08 09:54:43**|**Multiplex Behavioral Relation Learning for Recommendation via Memory   Augmented Transformer Network**|Lianghao Xia et.al.|[2110.04002v1](http://arxiv.org/abs/2110.04002v1)|[link](https://github.com/akaxlh/matn)|
