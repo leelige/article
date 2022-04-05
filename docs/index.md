@@ -1,11 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2022-04-04 16:08:26 Asia/Shanghai
+ 自动更新 @ 2022-04-05 16:08:51 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-04 06:37:19**|**Into-TTS : Intonation Template based Prosody Control System**|Jihwan Lee et.al.|[2204.01271v1](http://arxiv.org/abs/2204.01271v1)|null|
+|**2022-04-02 19:28:13**|**Learning to Augment for Casual User Recommendation**|Jianling Wang et.al.|[2204.00926v1](http://arxiv.org/abs/2204.00926v1)|null|
+|**2022-04-02 16:32:42**|**Equity, diversity, and inclusion in sports analytics**|Craig Fernandes et.al.|[2204.00896v1](http://arxiv.org/abs/2204.00896v1)|null|
 |**2022-03-30 04:52:54**|**Automatic Facial Skin Feature Detection for Everyone**|Qian Zheng et.al.|[2203.16056v1](http://arxiv.org/abs/2203.16056v1)|null|
 |**2022-03-29 07:53:46**|**Better Integrators for Functional Renormalization Group Calculations**|Jacob Beyer et.al.|[2203.15306v1](http://arxiv.org/abs/2203.15306v1)|null|
 |**2022-03-26 05:46:59**|**A Work Proposal for a Collaborative Study of Magnet Technology for a   Future Muon Collider**|L. Bottura et.al.|[2203.13998v2](http://arxiv.org/abs/2203.13998v2)|null|
@@ -33,15 +36,21 @@
 |**2022-02-22 20:41:55**|**"You have to prove the threat is real": Understanding the needs of   Female Journalists and Activists to Document and Report Online Harassment**|Nitesh Goyal et.al.|[2202.11168v1](http://arxiv.org/abs/2202.11168v1)|null|
 |**2022-02-21 03:41:06**|**Fuzzy Cluster Analysis: Application to Determining Metallicities for   Very Metal-poor Stars**|Haining Li et.al.|[2202.09973v1](http://arxiv.org/abs/2202.09973v1)|null|
 |**2022-02-20 03:57:50**|**Online Platforms and the Fair Exposure Problem Under Homophily**|Jakob Schoeffer et.al.|[2202.09727v1](http://arxiv.org/abs/2202.09727v1)|[link](https://github.com/jfinocchiaro/fair-exposure)|
-|**2022-02-17 19:12:08**|**A recommender system for automatic picking of subsurface formation tops**|Jesse R. Pisel et.al.|[2202.08869v1](http://arxiv.org/abs/2202.08869v1)|[link](https://github.com/jessepisel/matrixfactorization)|
-|**2022-02-17 17:43:14**|**Commentary: analyzing binary data using MCPMod when zero counts are   expected**|Yi Liu et.al.|[2202.08781v1](http://arxiv.org/abs/2202.08781v1)|null|
-|**2022-02-17 13:51:14**|**The Gaia-ESO Survey: The analysis of the hot-star spectra**|R. Blomme et.al.|[2202.08662v2](http://arxiv.org/abs/2202.08662v2)|null|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-04 17:51:43**|**End-to-end multi-particle reconstruction in high occupancy imaging   calorimeters with graph neural networks**|Shah Rukh Qasim et.al.|[2204.01681v1](http://arxiv.org/abs/2204.01681v1)|null|
+|**2022-04-04 16:46:19**|**Characterizing Parametric and Convergence Stability in Nonconvex and   Nonsmooth Optimizations: A Geometric Approach**|Xiaotie Deng et.al.|[2204.01643v1](http://arxiv.org/abs/2204.01643v1)|null|
+|**2022-04-04 16:10:55**|**Deep-Ensemble-Based Uncertainty Quantification in Spatiotemporal Graph   Neural Networks for Traffic Forecasting**|Tanwi Mallick et.al.|[2204.01618v1](http://arxiv.org/abs/2204.01618v1)|null|
+|**2022-04-04 10:48:32**|**Synthetic Graph Generation to Benchmark Graph Learning**|Anton Tsitsulin et.al.|[2204.01376v1](http://arxiv.org/abs/2204.01376v1)|null|
+|**2022-04-04 10:21:02**|**Learning to solve Minimum Cost Multicuts efficiently using Edge-Weighted   Graph Convolutional Neural Networks**|Steffen Jung et.al.|[2204.01366v1](http://arxiv.org/abs/2204.01366v1)|null|
+|**2022-04-04 09:47:22**|**MGRR-Net: Multi-level Graph Relational Reasoning Network for Facial   Action Units Detection**|Xuri Ge et.al.|[2204.01349v1](http://arxiv.org/abs/2204.01349v1)|null|
+|**2022-04-03 15:14:20**|**Virtual Relational Knowledge Graphs for Recommendation**|Lingyun Lu et.al.|[2204.01089v1](http://arxiv.org/abs/2204.01089v1)|null|
+|**2022-04-03 02:29:11**|**DST: Dynamic Substitute Training for Data-free Black-box Attack**|Wenxuan Wang et.al.|[2204.00972v1](http://arxiv.org/abs/2204.00972v1)|null|
+|**2022-04-02 15:09:33**|**SciNoBo : A Hierarchical Multi-Label Classifier of Scientific   Publications**|Nikolaos Gialitsis et.al.|[2204.00880v1](http://arxiv.org/abs/2204.00880v1)|null|
 |**2022-04-01 10:01:37**|**Graph-in-Graph (GiG): Learning interpretable latent graphs in   non-Euclidean domain for biological and healthcare applications**|Kamilia Mullakaeva et.al.|[2204.00323v1](http://arxiv.org/abs/2204.00323v1)|null|
 |**2022-04-01 07:30:26**|**NC-DRE: Leveraging Non-entity Clue Information for Document-level   Relation Extraction**|Liang Zhang et.al.|[2204.00255v1](http://arxiv.org/abs/2204.00255v1)|null|
 |**2022-04-01 04:39:44**|**Graph Enhanced Contrastive Learning for Radiology Findings Summarization**|Jinpeng Hu et.al.|[2204.00203v1](http://arxiv.org/abs/2204.00203v1)|[link](https://github.com/jinpeng01/aig_cl)|
@@ -51,27 +60,18 @@
 |**2022-03-31 12:38:22**|**Message Passing Neural Networks for Hypergraphs**|Sajjad Heydari et.al.|[2203.16995v1](http://arxiv.org/abs/2203.16995v1)|null|
 |**2022-03-31 10:46:47**|**Hypergraph Convolutional Networks via Equivalency between Hypergraphs   and Undirected Graphs**|Jiying Zhang et.al.|[2203.16939v1](http://arxiv.org/abs/2203.16939v1)|null|
 |**2022-03-31 08:30:04**|**Mutual information estimation for graph convolutional neural networks**|Marius C. Landverk et.al.|[2203.16887v1](http://arxiv.org/abs/2203.16887v1)|null|
-|**2022-03-31 00:14:06**|**Graph-based Active Learning for Semi-supervised Classification of SAR   Data**|Kevin Miller et.al.|[2204.00005v1](http://arxiv.org/abs/2204.00005v1)|null|
+|**2022-03-31 00:14:06**|**Graph-based Active Learning for Semi-supervised Classification of SAR   Data**|Kevin Miller et.al.|[2204.00005v1](http://arxiv.org/abs/2204.00005v1)|[link](https://github.com/jwcalder/mstar-active-learning)|
 |**2022-03-30 19:22:56**|**Physics-constrained Unsupervised Learning of Partial Differential   Equations using Meshes**|Mike Y. Michelis et.al.|[2203.16628v1](http://arxiv.org/abs/2203.16628v1)|null|
 |**2022-03-30 14:03:17**|**Multi-Robot Active Mapping via Neural Bipartite Graph Matching**|Kai Ye et.al.|[2203.16319v2](http://arxiv.org/abs/2203.16319v2)|null|
 |**2022-03-30 13:17:19**|**CMMD: Cross-Metric Multi-Dimensional Root Cause Analysis**|Shifu Yan et.al.|[2203.16280v1](http://arxiv.org/abs/2203.16280v1)|null|
 |**2022-03-30 12:38:52**|**Research topic trend prediction of scientific papers based on spatial   enhancement and dynamic graph convolution network**|Changwei Zheng et.al.|[2203.16256v1](http://arxiv.org/abs/2203.16256v1)|null|
 |**2022-03-30 09:24:17**|**AdaGrid: Adaptive Grid Search for Link Prediction Training Objective**|Tim Poštuvan et.al.|[2203.16162v1](http://arxiv.org/abs/2203.16162v1)|null|
-|**2022-03-29 22:30:00**|**A Simple Yet Effective Pretraining Strategy for Graph Few-shot Learning**|Zhen Tan et.al.|[2203.15936v1](http://arxiv.org/abs/2203.15936v1)|null|
+|**2022-03-29 22:30:00**|**A Simple Yet Effective Pretraining Strategy for Graph Few-shot Learning**|Zhen Tan et.al.|[2203.15936v2](http://arxiv.org/abs/2203.15936v2)|null|
 |**2022-03-29 22:27:59**|**Graph Neural Networks in IoT: A Survey**|Guimin Dong et.al.|[2203.15935v2](http://arxiv.org/abs/2203.15935v2)|[link](https://github.com/guimindong/gnn4iot)|
 |**2022-03-29 21:18:47**|**Pretraining Graph Neural Networks for few-shot Analog Circuit Modeling   and Design**|Kourosh Hakhamaneshi et.al.|[2203.15913v2](http://arxiv.org/abs/2203.15913v2)|[link](https://github.com/kouroshhakha/circuit-fewshot-code)|
 |**2022-03-29 18:00:32**|**Semi-supervised Graph Neural Networks for Pileup Noise Removal**|Tianchun Li et.al.|[2203.15823v1](http://arxiv.org/abs/2203.15823v1)|null|
 |**2022-03-29 17:48:05**|**Revisiting Neighborhood-based Link Prediction for Collaborative   Filtering**|Hao-Ming Fu et.al.|[2203.15789v1](http://arxiv.org/abs/2203.15789v1)|null|
 |**2022-03-29 13:27:28**|**Graph Neural Networks are Dynamic Programmers**|Andrew Dudzik et.al.|[2203.15544v1](http://arxiv.org/abs/2203.15544v1)|null|
-|**2022-03-29 12:16:38**|**Graph similarity learning for change-point detection in dynamic networks**|Deborah Sulem et.al.|[2203.15470v1](http://arxiv.org/abs/2203.15470v1)|null|
-|**2022-03-29 12:11:31**|**Machine Composition of Korean Music via Topological Data Analysis and   Artificial Neural Network**|Mai Lan Tran et.al.|[2203.15468v1](http://arxiv.org/abs/2203.15468v1)|null|
-|**2022-03-29 03:08:33**|**OrphicX: A Causality-Inspired Latent Variable Model for Interpreting   Graph Neural Networks**|Wanyu Lin et.al.|[2203.15209v1](http://arxiv.org/abs/2203.15209v1)|[link](https://github.com/wanyugroup/cvpr2022-orphicx)|
-|**2022-03-29 01:46:12**|**Long-term Visual Map Sparsification with Heterogeneous GNN**|Ming-Fang Chang et.al.|[2203.15182v1](http://arxiv.org/abs/2203.15182v1)|null|
-|**2022-03-29 00:24:10**|**Learning to Synthesize Volumetric Meshes from Vision-based Tactile   Imprints**|Xinghao Zhu et.al.|[2203.15155v1](http://arxiv.org/abs/2203.15155v1)|null|
-|**2022-03-28 18:51:22**|**Solving Disjunctive Temporal Networks with Uncertainty under Restricted   Time-Based Controllability using Tree Search and Graph Neural Networks**|Kevin Osanlou et.al.|[2203.15030v2](http://arxiv.org/abs/2203.15030v2)|null|
-|**2022-03-28 18:14:04**|**DAMNETS: A Deep Autoregressive Model for Generating Markovian Network   Time Series**|Jase Clarkson et.al.|[2203.15009v1](http://arxiv.org/abs/2203.15009v1)|[link](https://github.com/damnets/damnets_icml_2022)|
-|**2022-03-28 18:11:44**|**Offline-Online Learning of Deformation Model for Cable Manipulation with   Graph Neural Networks**|Changhao Wang et.al.|[2203.15004v1](http://arxiv.org/abs/2203.15004v1)|null|
-|**2022-03-28 17:17:50**|**Learning What You Need from What You Did: Product Taxonomy Expansion   with User Behaviors Supervision**|Sijie Cheng et.al.|[2203.14921v1](http://arxiv.org/abs/2203.14921v1)|[link](https://github.com/adacheng/product_taxonomy_expansion)|
 
 ## Multi Interest Recommendation
 
