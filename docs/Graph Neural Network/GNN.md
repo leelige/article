@@ -2,10 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-05 17:24:32**|**MGDCF: Distance Learning via Markov Graph Diffusion for Neural   Collaborative Filtering**|Jun Hu et.al.|[2204.02338v1](http://arxiv.org/abs/2204.02338v1)|[link](https://github.com/hujunxianligong/MGDCF)|
+|**2022-04-05 11:30:45**|**Transition Information Enhanced Disentangled Graph Neural Networks for   Session-based Recommendation**|Ansong Li et.al.|[2204.02119v1](http://arxiv.org/abs/2204.02119v1)|null|
+|**2022-04-05 05:54:20**|**Micro-Behavior Encoding for Session-based Recommendation**|Jiahao Yuan et.al.|[2204.02002v1](http://arxiv.org/abs/2204.02002v1)|null|
+|**2022-04-05 02:14:53**|**Nonlocal optimization of binary neural networks**|Amir Khoshaman et.al.|[2204.01935v1](http://arxiv.org/abs/2204.01935v1)|null|
+|**2022-04-04 21:18:48**|**A Survey on Graph Representation Learning Methods**|Shima Khoshraftar et.al.|[2204.01855v1](http://arxiv.org/abs/2204.01855v1)|null|
 |**2022-04-04 17:51:43**|**End-to-end multi-particle reconstruction in high occupancy imaging   calorimeters with graph neural networks**|Shah Rukh Qasim et.al.|[2204.01681v1](http://arxiv.org/abs/2204.01681v1)|null|
 |**2022-04-04 16:46:19**|**Characterizing Parametric and Convergence Stability in Nonconvex and   Nonsmooth Optimizations: A Geometric Approach**|Xiaotie Deng et.al.|[2204.01643v1](http://arxiv.org/abs/2204.01643v1)|null|
 |**2022-04-04 16:10:55**|**Deep-Ensemble-Based Uncertainty Quantification in Spatiotemporal Graph   Neural Networks for Traffic Forecasting**|Tanwi Mallick et.al.|[2204.01618v1](http://arxiv.org/abs/2204.01618v1)|null|
-|**2022-04-04 10:48:32**|**Synthetic Graph Generation to Benchmark Graph Learning**|Anton Tsitsulin et.al.|[2204.01376v1](http://arxiv.org/abs/2204.01376v1)|null|
+|**2022-04-04 10:48:32**|**Synthetic Graph Generation to Benchmark Graph Learning**|Anton Tsitsulin et.al.|[2204.01376v1](http://arxiv.org/abs/2204.01376v1)|[link](https://github.com/google-research/google-research)|
 |**2022-04-04 10:21:02**|**Learning to solve Minimum Cost Multicuts efficiently using Edge-Weighted   Graph Convolutional Neural Networks**|Steffen Jung et.al.|[2204.01366v1](http://arxiv.org/abs/2204.01366v1)|null|
 |**2022-04-04 09:47:22**|**MGRR-Net: Multi-level Graph Relational Reasoning Network for Facial   Action Units Detection**|Xuri Ge et.al.|[2204.01349v1](http://arxiv.org/abs/2204.01349v1)|null|
 |**2022-04-03 15:14:20**|**Virtual Relational Knowledge Graphs for Recommendation**|Lingyun Lu et.al.|[2204.01089v1](http://arxiv.org/abs/2204.01089v1)|null|
@@ -27,8 +32,3 @@
 |**2022-03-30 12:38:52**|**Research topic trend prediction of scientific papers based on spatial   enhancement and dynamic graph convolution network**|Changwei Zheng et.al.|[2203.16256v1](http://arxiv.org/abs/2203.16256v1)|null|
 |**2022-03-30 09:24:17**|**AdaGrid: Adaptive Grid Search for Link Prediction Training Objective**|Tim Poštuvan et.al.|[2203.16162v1](http://arxiv.org/abs/2203.16162v1)|null|
 |**2022-03-29 22:30:00**|**A Simple Yet Effective Pretraining Strategy for Graph Few-shot Learning**|Zhen Tan et.al.|[2203.15936v2](http://arxiv.org/abs/2203.15936v2)|null|
-|**2022-03-29 22:27:59**|**Graph Neural Networks in IoT: A Survey**|Guimin Dong et.al.|[2203.15935v2](http://arxiv.org/abs/2203.15935v2)|[link](https://github.com/guimindong/gnn4iot)|
-|**2022-03-29 21:18:47**|**Pretraining Graph Neural Networks for few-shot Analog Circuit Modeling   and Design**|Kourosh Hakhamaneshi et.al.|[2203.15913v2](http://arxiv.org/abs/2203.15913v2)|[link](https://github.com/kouroshhakha/circuit-fewshot-code)|
-|**2022-03-29 18:00:32**|**Semi-supervised Graph Neural Networks for Pileup Noise Removal**|Tianchun Li et.al.|[2203.15823v1](http://arxiv.org/abs/2203.15823v1)|null|
-|**2022-03-29 17:48:05**|**Revisiting Neighborhood-based Link Prediction for Collaborative   Filtering**|Hao-Ming Fu et.al.|[2203.15789v1](http://arxiv.org/abs/2203.15789v1)|null|
-|**2022-03-29 13:27:28**|**Graph Neural Networks are Dynamic Programmers**|Andrew Dudzik et.al.|[2203.15544v1](http://arxiv.org/abs/2203.15544v1)|null|

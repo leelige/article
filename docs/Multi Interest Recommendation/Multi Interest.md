@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-05 17:12:53**|**Towards Best Practices for Training Multilingual Dense Retrieval Models**|Xinyu Zhang et.al.|[2204.02363v1](http://arxiv.org/abs/2204.02363v1)|null|
 |**2022-04-01 11:58:00**|**Deep Page-Level Interest Network in Reinforcement Learning for Ads   Allocation**|Guogang Liao et.al.|[2204.00377v1](http://arxiv.org/abs/2204.00377v1)|null|
 |**2022-04-01 10:10:50**|**Diverse Preference Augmentation with Multiple Domains for Cold-start   Recommendations**|Yan Zhang et.al.|[2204.00327v1](http://arxiv.org/abs/2204.00327v1)|null|
 |**2022-03-28 19:02:58**|**Online Algorithms for Matching Platforms with Multi-Channel Traffic**|Vahideh Manshadi et.al.|[2203.15037v1](http://arxiv.org/abs/2203.15037v1)|null|
@@ -31,4 +32,3 @@
 |**2021-10-22 03:28:21**|**MIC: Model-agnostic Integrated Cross-channel Recommenders**|Yujie Lu et.al.|[2110.11570v2](http://arxiv.org/abs/2110.11570v2)|null|
 |**2021-10-19 18:59:02**|**MultiHead MultiModal Deep Interest Recommendation Network**|Mingbao Yang et.al.|[2110.10205v1](http://arxiv.org/abs/2110.10205v1)|null|
 |**2021-10-19 13:17:18**|**Plasma environment effects on K lines of astrophysical interest. V.   Universal formulae for ionization potential and K-threshold shifts**|P. Palmeri et.al.|[2110.09957v1](http://arxiv.org/abs/2110.09957v1)|null|
-|**2021-10-19 01:14:08**|**Multilevel Stochastic Optimization for Imputation in Massive Medical   Data Records**|Xiaoyu Wang et.al.|[2110.09680v1](http://arxiv.org/abs/2110.09680v1)|null|
