@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-06 05:52:08**|**Thinking inside The Box: Learning Hypercube Representations for Group   Recommendation**|Tong Chen et.al.|[2204.02592v1](http://arxiv.org/abs/2204.02592v1)|null|
 |**2022-04-04 06:37:19**|**Into-TTS : Intonation Template based Prosody Control System**|Jihwan Lee et.al.|[2204.01271v1](http://arxiv.org/abs/2204.01271v1)|null|
 |**2022-04-02 19:28:13**|**Learning to Augment for Casual User Recommendation**|Jianling Wang et.al.|[2204.00926v1](http://arxiv.org/abs/2204.00926v1)|null|
 |**2022-04-02 16:32:42**|**Equity, diversity, and inclusion in sports analytics**|Craig Fernandes et.al.|[2204.00896v1](http://arxiv.org/abs/2204.00896v1)|null|
@@ -31,4 +32,3 @@
 |**2022-02-23 03:58:46**|**Deep Reinforcement Learning: Opportunities and Challenges**|Yuxi Li et.al.|[2202.11296v1](http://arxiv.org/abs/2202.11296v1)|null|
 |**2022-02-22 20:41:55**|**"You have to prove the threat is real": Understanding the needs of   Female Journalists and Activists to Document and Report Online Harassment**|Nitesh Goyal et.al.|[2202.11168v1](http://arxiv.org/abs/2202.11168v1)|null|
 |**2022-02-21 03:41:06**|**Fuzzy Cluster Analysis: Application to Determining Metallicities for   Very Metal-poor Stars**|Haining Li et.al.|[2202.09973v1](http://arxiv.org/abs/2202.09973v1)|null|
-|**2022-02-20 03:57:50**|**Online Platforms and the Fair Exposure Problem Under Homophily**|Jakob Schoeffer et.al.|[2202.09727v1](http://arxiv.org/abs/2202.09727v1)|[link](https://github.com/jfinocchiaro/fair-exposure)|
