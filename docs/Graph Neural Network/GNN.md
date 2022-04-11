@@ -2,7 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-04-07 12:36:11**|**Defending Active Directory by Combining Neural Network based Dynamic   Program and Evolutionary Diversity Optimisation**|Diksha Goel et.al.|[2204.03397v1](http://arxiv.org/abs/2204.03397v1)|null|
+|**2022-04-08 13:06:09**|**KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective   Detection in News Media**|Wenqian Zhang et.al.|[2204.04046v1](http://arxiv.org/abs/2204.04046v1)|null|
+|**2022-04-08 12:20:20**|**Complex Networks Analysis of the Energy Landscape of the Low   Autocorrelation Binary Sequences Problem**|Marco Tomassini et.al.|[2204.04024v1](http://arxiv.org/abs/2204.04024v1)|null|
+|**2022-04-08 09:28:20**|**Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single- and   Multi-Label Text Classification**|Andor Diera et.al.|[2204.03954v1](http://arxiv.org/abs/2204.03954v1)|null|
+|**2022-04-07 12:36:11**|**Defending Active Directory by Combining Neural Network based Dynamic   Program and Evolutionary Diversity Optimisation**|Diksha Goel et.al.|[2204.03397v2](http://arxiv.org/abs/2204.03397v2)|null|
 |**2022-04-07 05:30:02**|**Explicit Feature Interaction-aware Graph Neural Networks**|Minkyu Kim et.al.|[2204.03225v1](http://arxiv.org/abs/2204.03225v1)|null|
 |**2022-04-06 22:18:12**|**BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based   Sentiment Analysis**|Shuo Liang et.al.|[2204.03117v1](http://arxiv.org/abs/2204.03117v1)|null|
 |**2022-04-06 20:37:42**|**Graph Neural Networks Designed for Different Graph Types: A Survey**|Josephine M. Thomas et.al.|[2204.03080v1](http://arxiv.org/abs/2204.03080v1)|null|
@@ -20,7 +23,7 @@
 |**2022-04-04 16:10:55**|**Deep-Ensemble-Based Uncertainty Quantification in Spatiotemporal Graph   Neural Networks for Traffic Forecasting**|Tanwi Mallick et.al.|[2204.01618v2](http://arxiv.org/abs/2204.01618v2)|null|
 |**2022-04-04 10:48:32**|**Synthetic Graph Generation to Benchmark Graph Learning**|Anton Tsitsulin et.al.|[2204.01376v1](http://arxiv.org/abs/2204.01376v1)|[link](https://github.com/google-research/google-research)|
 |**2022-04-04 10:21:02**|**Learning to solve Minimum Cost Multicuts efficiently using Edge-Weighted   Graph Convolutional Neural Networks**|Steffen Jung et.al.|[2204.01366v1](http://arxiv.org/abs/2204.01366v1)|null|
-|**2022-04-04 09:47:22**|**MGRR-Net: Multi-level Graph Relational Reasoning Network for Facial   Action Units Detection**|Xuri Ge et.al.|[2204.01349v1](http://arxiv.org/abs/2204.01349v1)|null|
+|**2022-04-04 09:47:22**|**MGRR-Net: Multi-level Graph Relational Reasoning Network for Facial   Action Units Detection**|Xuri Ge et.al.|[2204.01349v2](http://arxiv.org/abs/2204.01349v2)|null|
 |**2022-04-04 08:22:30**|**GraFN: Semi-Supervised Node Classification on Graph with Few Labels via   Non-Parametric Distribution Assignment**|Junseok Lee et.al.|[2204.01303v2](http://arxiv.org/abs/2204.01303v2)|[link](https://github.com/junseok0207/grafn)|
 |**2022-04-03 15:14:20**|**Virtual Relational Knowledge Graphs for Recommendation**|Lingyun Lu et.al.|[2204.01089v1](http://arxiv.org/abs/2204.01089v1)|null|
 |**2022-04-03 02:29:11**|**DST: Dynamic Substitute Training for Data-free Black-box Attack**|Wenxuan Wang et.al.|[2204.00972v1](http://arxiv.org/abs/2204.00972v1)|null|
@@ -29,6 +32,3 @@
 |**2022-04-01 07:30:26**|**NC-DRE: Leveraging Non-entity Clue Information for Document-level   Relation Extraction**|Liang Zhang et.al.|[2204.00255v1](http://arxiv.org/abs/2204.00255v1)|null|
 |**2022-04-01 04:39:44**|**Graph Enhanced Contrastive Learning for Radiology Findings Summarization**|Jinpeng Hu et.al.|[2204.00203v1](http://arxiv.org/abs/2204.00203v1)|[link](https://github.com/jinpeng01/aig_cl)|
 |**2022-03-31 18:34:52**|**Efficient algorithms for computing ground states of the 2D random-field   Ising model**|Argyro Mainou et.al.|[2204.00042v1](http://arxiv.org/abs/2204.00042v1)|null|
-|**2022-03-31 16:21:12**|**AEGNN: Asynchronous Event-based Graph Neural Networks**|Simon Schaefer et.al.|[2203.17149v1](http://arxiv.org/abs/2203.17149v1)|null|
-|**2022-03-31 14:40:01**|**Traffic4cast at NeurIPS 2021 -- Temporal and Spatial Few-Shot Transfer   Learning in Gridded Geo-Spatial Processes**|Christian Eichenberger et.al.|[2203.17070v2](http://arxiv.org/abs/2203.17070v2)|[link](https://github.com/iarai/NeurIPS2021-traffic4cast)|
-|**2022-03-31 12:38:22**|**Message Passing Neural Networks for Hypergraphs**|Sajjad Heydari et.al.|[2203.16995v2](http://arxiv.org/abs/2203.16995v2)|null|
