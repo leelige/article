@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-04-12 16:08:34 Asia/Shanghai
+ 自动更新 @ 2022-04-13 16:08:45 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -42,6 +42,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-12 05:59:39**|**Not always about you: Prioritizing community needs when developing   endangered language technology**|Zoey Liu et.al.|[2204.05541v1](http://arxiv.org/abs/2204.05541v1)|null|
 |**2022-04-07 19:30:55**|**Introducing a Framework and a Decision Protocol to Calibrate Recommender   Systems**|Diego Corrêa da Silva et.al.|[2204.03706v1](http://arxiv.org/abs/2204.03706v1)|null|
 |**2022-04-07 16:20:04**|**Study of alternative locations for the SPS Beam Dump Facility**|Oliver Aberle et.al.|[2204.03549v1](http://arxiv.org/abs/2204.03549v1)|null|
 |**2022-04-06 19:00:02**|**Effective Exposure Amortizing for Fair Top-k Recommendation**|Tao Yang et.al.|[2204.03046v1](http://arxiv.org/abs/2204.03046v1)|null|
@@ -71,16 +72,20 @@
 |**2022-02-27 20:21:46**|**The Unfairness of Popularity Bias in Book Recommendation**|Mohammadmehdi Naghiaei et.al.|[2202.13446v1](http://arxiv.org/abs/2202.13446v1)|[link](https://github.com/rahmanidashti/fairbook)|
 |**2022-02-27 08:02:19**|**The Unfairness of Active Users and Popularity Bias in Point-of-Interest   Recommendation**|Hossein A. Rahmani et.al.|[2202.13307v2](http://arxiv.org/abs/2202.13307v2)|[link](https://github.com/RecSys-lab/FairPOI)|
 |**2022-02-25 06:58:28**|**MAMDR: A Model Agnostic Learning Method for Multi-Domain Recommendation**|Linhao Luo et.al.|[2202.12524v2](http://arxiv.org/abs/2202.12524v2)|[link](https://github.com/RManLuo/MAMDR)|
-|**2022-02-24 19:00:17**|**R2-D2: Roman and Rubin -- From Data to Discovery**|Suvi Gezari et.al.|[2202.12311v1](http://arxiv.org/abs/2202.12311v1)|null|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-12 16:46:06**|**Arch-Graph: Acyclic Architecture Relation Predictor for   Task-Transferable Neural Architecture Search**|Minbin Huang et.al.|[2204.05941v1](http://arxiv.org/abs/2204.05941v1)|[link](https://github.com/centaurus982034/arch-graph)|
+|**2022-04-12 07:25:29**|**Synchronization on star graph with noise**|Artem Alexandrov et.al.|[2204.05581v1](http://arxiv.org/abs/2204.05581v1)|null|
+|**2022-04-12 04:15:39**|**Trigger-GNN: A Trigger-Based Graph Neural Network for Nested Named   Entity Recognition**|Yuan Sui et.al.|[2204.05518v1](http://arxiv.org/abs/2204.05518v1)|null|
+|**2022-04-12 02:58:41**|**Physics-informed graph neural networks enhance scalability of   variational nonequilibrium optimal control**|Jiawei Yan et.al.|[2204.05493v1](http://arxiv.org/abs/2204.05493v1)|null|
+|**2022-04-11 18:13:19**|**Graph Ordering Attention Networks**|Michail Chatzianastasis et.al.|[2204.05351v1](http://arxiv.org/abs/2204.05351v1)|[link](https://github.com/michailchatzianastasis/goat)|
 |**2022-04-11 17:01:05**|**Multi-view graph structure learning using subspace merging on Grassmann   manifold**|Razieh Ghiasi et.al.|[2204.05258v1](http://arxiv.org/abs/2204.05258v1)|null|
 |**2022-04-11 16:48:41**|**Learning Local Equivariant Representations for Large-Scale Atomistic   Dynamics**|Albert Musaelian et.al.|[2204.05249v1](http://arxiv.org/abs/2204.05249v1)|null|
-|**2022-04-11 14:19:04**|**Learning Object-Centered Autotelic Behaviors with Graph Neural Networks**|Ahmed Akakzia et.al.|[2204.05141v1](http://arxiv.org/abs/2204.05141v1)|null|
+|**2022-04-11 14:19:04**|**Learning Object-Centered Autotelic Behaviors with Graph Neural Networks**|Ahmed Akakzia et.al.|[2204.05141v1](http://arxiv.org/abs/2204.05141v1)|[link](https://github.com/akakzia/rlgraph)|
 |**2022-04-11 05:45:09**|**How to Find Your Friendly Neighborhood: Graph Attention Design with   Self-Supervision**|Dongkwan Kim et.al.|[2204.04879v1](http://arxiv.org/abs/2204.04879v1)|[link](https://github.com/dongkwan-kim/SuperGAT)|
 |**2022-04-11 05:38:22**|**Learning to Induce Causal Structure**|Nan Rosemary Ke et.al.|[2204.04875v1](http://arxiv.org/abs/2204.04875v1)|null|
 |**2022-04-11 05:37:03**|**Augmentation-Free Graph Contrastive Learning**|Haonan Wang et.al.|[2204.04874v1](http://arxiv.org/abs/2204.04874v1)|null|
@@ -103,8 +108,3 @@
 |**2022-04-06 02:18:41**|**Structure-aware Protein Self-supervised Learning**|Can Chen et.al.|[2204.04213v1](http://arxiv.org/abs/2204.04213v1)|null|
 |**2022-04-05 17:24:32**|**MGDCF: Distance Learning via Markov Graph Diffusion for Neural   Collaborative Filtering**|Jun Hu et.al.|[2204.02338v1](http://arxiv.org/abs/2204.02338v1)|[link](https://github.com/hujunxianligong/MGDCF)|
 |**2022-04-05 11:30:45**|**Transition Information Enhanced Disentangled Graph Neural Networks for   Session-based Recommendation**|Ansong Li et.al.|[2204.02119v1](http://arxiv.org/abs/2204.02119v1)|[link](https://github.com/AnsongLi/TIE-DGNN)|
-|**2022-04-05 05:54:20**|**Micro-Behavior Encoding for Session-based Recommendation**|Jiahao Yuan et.al.|[2204.02002v1](http://arxiv.org/abs/2204.02002v1)|null|
-|**2022-04-05 02:14:53**|**Nonlocal optimization of binary neural networks**|Amir Khoshaman et.al.|[2204.01935v1](http://arxiv.org/abs/2204.01935v1)|null|
-|**2022-04-04 21:18:48**|**A Survey on Graph Representation Learning Methods**|Shima Khoshraftar et.al.|[2204.01855v1](http://arxiv.org/abs/2204.01855v1)|null|
-|**2022-04-04 17:51:43**|**End-to-end multi-particle reconstruction in high occupancy imaging   calorimeters with graph neural networks**|Shah Rukh Qasim et.al.|[2204.01681v1](http://arxiv.org/abs/2204.01681v1)|null|
-|**2022-04-04 16:46:19**|**Characterizing Parametric and Convergence Stability in Nonconvex and   Nonsmooth Optimizations: A Geometric Approach**|Xiaotie Deng et.al.|[2204.01643v1](http://arxiv.org/abs/2204.01643v1)|null|
