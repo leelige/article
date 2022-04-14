@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-04-13 16:08:45 Asia/Shanghai
+ 自动更新 @ 2022-04-14 16:10:43 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -37,11 +37,48 @@
 |**2021-10-19 18:59:02**|**MultiHead MultiModal Deep Interest Recommendation Network**|Mingbao Yang et.al.|[2110.10205v1](http://arxiv.org/abs/2110.10205v1)|null|
 |**2021-10-19 13:17:18**|**Plasma environment effects on K lines of astrophysical interest. V.   Universal formulae for ionization potential and K-threshold shifts**|P. Palmeri et.al.|[2110.09957v1](http://arxiv.org/abs/2110.09957v1)|null|
 
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-04-12 16:46:06**|**Arch-Graph: Acyclic Architecture Relation Predictor for   Task-Transferable Neural Architecture Search**|Minbin Huang et.al.|[2204.05941v1](http://arxiv.org/abs/2204.05941v1)|[link](https://github.com/centaurus982034/arch-graph)|
+|**2022-04-12 07:25:29**|**Synchronization on star graph with noise**|Artem Alexandrov et.al.|[2204.05581v1](http://arxiv.org/abs/2204.05581v1)|null|
+|**2022-04-12 04:15:39**|**Trigger-GNN: A Trigger-Based Graph Neural Network for Nested Named   Entity Recognition**|Yuan Sui et.al.|[2204.05518v1](http://arxiv.org/abs/2204.05518v1)|null|
+|**2022-04-12 02:58:41**|**Physics-informed graph neural networks enhance scalability of   variational nonequilibrium optimal control**|Jiawei Yan et.al.|[2204.05493v1](http://arxiv.org/abs/2204.05493v1)|null|
+|**2022-04-11 18:13:19**|**Graph Ordering Attention Networks**|Michail Chatzianastasis et.al.|[2204.05351v1](http://arxiv.org/abs/2204.05351v1)|[link](https://github.com/michailchatzianastasis/goat)|
+|**2022-04-11 17:01:05**|**Multi-view graph structure learning using subspace merging on Grassmann   manifold**|Razieh Ghiasi et.al.|[2204.05258v1](http://arxiv.org/abs/2204.05258v1)|null|
+|**2022-04-11 16:48:41**|**Learning Local Equivariant Representations for Large-Scale Atomistic   Dynamics**|Albert Musaelian et.al.|[2204.05249v1](http://arxiv.org/abs/2204.05249v1)|null|
+|**2022-04-11 14:19:04**|**Learning Object-Centered Autotelic Behaviors with Graph Neural Networks**|Ahmed Akakzia et.al.|[2204.05141v1](http://arxiv.org/abs/2204.05141v1)|[link](https://github.com/akakzia/rlgraph)|
+|**2022-04-11 05:45:09**|**How to Find Your Friendly Neighborhood: Graph Attention Design with   Self-Supervision**|Dongkwan Kim et.al.|[2204.04879v1](http://arxiv.org/abs/2204.04879v1)|[link](https://github.com/dongkwan-kim/SuperGAT)|
+|**2022-04-11 05:38:22**|**Learning to Induce Causal Structure**|Nan Rosemary Ke et.al.|[2204.04875v1](http://arxiv.org/abs/2204.04875v1)|null|
+|**2022-04-11 05:37:03**|**Augmentation-Free Graph Contrastive Learning**|Haonan Wang et.al.|[2204.04874v1](http://arxiv.org/abs/2204.04874v1)|null|
+|**2022-04-10 18:17:32**|**Melting temperature prediction via first principles and deep learning**|Qi-Jun Hong et.al.|[2204.04740v1](http://arxiv.org/abs/2204.04740v1)|null|
+|**2022-04-10 11:33:04**|**Expressiveness and Approximation Properties of Graph Neural Networks**|Floris Geerts et.al.|[2204.04661v1](http://arxiv.org/abs/2204.04661v1)|null|
+|**2022-04-10 07:05:12**|**ME-GCN: Multi-dimensional Edge-Embedded Graph Convolutional Networks for   Semi-supervised Text Classification**|Kunze Wang et.al.|[2204.04618v1](http://arxiv.org/abs/2204.04618v1)|[link](https://github.com/usydnlp/me_gcn)|
+|**2022-04-09 09:44:05**|**Modeling Multi-Granularity Hierarchical Features for Relation Extraction**|Xinnian Liang et.al.|[2204.04437v1](http://arxiv.org/abs/2204.04437v1)|[link](https://github.com/xnliang98/sms)|
+|**2022-04-08 13:06:09**|**KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective   Detection in News Media**|Wenqian Zhang et.al.|[2204.04046v1](http://arxiv.org/abs/2204.04046v1)|null|
+|**2022-04-08 12:20:20**|**Complex Networks Analysis of the Energy Landscape of the Low   Autocorrelation Binary Sequences Problem**|Marco Tomassini et.al.|[2204.04024v1](http://arxiv.org/abs/2204.04024v1)|null|
+|**2022-04-08 09:28:20**|**Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single- and   Multi-Label Text Classification**|Andor Diera et.al.|[2204.03954v1](http://arxiv.org/abs/2204.03954v1)|null|
+|**2022-04-08 03:37:56**|**Self-Supervised Graph Neural Network for Multi-Source Domain Adaptation**|Jin Yuan et.al.|[2204.05104v1](http://arxiv.org/abs/2204.05104v1)|null|
+|**2022-04-07 12:36:11**|**Defending Active Directory by Combining Neural Network based Dynamic   Program and Evolutionary Diversity Optimisation**|Diksha Goel et.al.|[2204.03397v2](http://arxiv.org/abs/2204.03397v2)|null|
+|**2022-04-07 05:30:02**|**Explicit Feature Interaction-aware Graph Neural Networks**|Minkyu Kim et.al.|[2204.03225v1](http://arxiv.org/abs/2204.03225v1)|null|
+|**2022-04-06 22:18:12**|**BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based   Sentiment Analysis**|Shuo Liang et.al.|[2204.03117v1](http://arxiv.org/abs/2204.03117v1)|null|
+|**2022-04-06 20:37:42**|**Graph Neural Networks Designed for Different Graph Types: A Survey**|Josephine M. Thomas et.al.|[2204.03080v1](http://arxiv.org/abs/2204.03080v1)|null|
+|**2022-04-06 17:23:13**|**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better   Instantaneous Mapping**|Avishkar Saha et.al.|[2204.02944v1](http://arxiv.org/abs/2204.02944v1)|null|
+|**2022-04-06 16:23:05**|**A Variational Ansatz for the Ground State of the Quantum   Sherrington-Kirkpatrick Model**|Paul M. Schindler et.al.|[2204.02923v1](http://arxiv.org/abs/2204.02923v1)|null|
+|**2022-04-06 12:52:34**|**How Do Graph Networks Generalize to Large and Diverse Molecular Systems?**|Johannes Gasteiger et.al.|[2204.02782v1](http://arxiv.org/abs/2204.02782v1)|null|
+|**2022-04-06 07:06:48**|**Bridging the Gap of AutoGraph between Academia and Industry: Analysing   AutoGraph Challenge at KDD Cup 2020**|Zhen Xu et.al.|[2204.02625v1](http://arxiv.org/abs/2204.02625v1)|[link](https://github.com/automl-research/autograph-kddcup2020)|
+|**2022-04-06 02:18:41**|**Structure-aware Protein Self-supervised Learning**|Can Chen et.al.|[2204.04213v1](http://arxiv.org/abs/2204.04213v1)|null|
+|**2022-04-05 17:24:32**|**MGDCF: Distance Learning via Markov Graph Diffusion for Neural   Collaborative Filtering**|Jun Hu et.al.|[2204.02338v1](http://arxiv.org/abs/2204.02338v1)|[link](https://github.com/hujunxianligong/MGDCF)|
+|**2022-04-05 11:30:45**|**Transition Information Enhanced Disentangled Graph Neural Networks for   Session-based Recommendation**|Ansong Li et.al.|[2204.02119v1](http://arxiv.org/abs/2204.02119v1)|[link](https://github.com/AnsongLi/TIE-DGNN)|
+
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-13 13:09:35**|**AHP: Learning to Negative Sample for Hyperedge Prediction**|Hyunjin Hwang et.al.|[2204.06353v1](http://arxiv.org/abs/2204.06353v1)|[link](https://github.com/hyunjinhwn/sigir22-ahp)|
 |**2022-04-12 05:59:39**|**Not always about you: Prioritizing community needs when developing   endangered language technology**|Zoey Liu et.al.|[2204.05541v1](http://arxiv.org/abs/2204.05541v1)|null|
 |**2022-04-07 19:30:55**|**Introducing a Framework and a Decision Protocol to Calibrate Recommender   Systems**|Diego Corrêa da Silva et.al.|[2204.03706v1](http://arxiv.org/abs/2204.03706v1)|null|
 |**2022-04-07 16:20:04**|**Study of alternative locations for the SPS Beam Dump Facility**|Oliver Aberle et.al.|[2204.03549v1](http://arxiv.org/abs/2204.03549v1)|null|
@@ -50,6 +87,7 @@
 |**2022-04-04 06:37:19**|**Into-TTS : Intonation Template based Prosody Control System**|Jihwan Lee et.al.|[2204.01271v1](http://arxiv.org/abs/2204.01271v1)|null|
 |**2022-04-02 19:28:13**|**Learning to Augment for Casual User Recommendation**|Jianling Wang et.al.|[2204.00926v1](http://arxiv.org/abs/2204.00926v1)|null|
 |**2022-04-02 16:32:42**|**Equity, diversity, and inclusion in sports analytics**|Craig Fernandes et.al.|[2204.00896v1](http://arxiv.org/abs/2204.00896v1)|null|
+|**2022-03-30 11:00:11**|**Decentralized Collaborative Learning Framework for Next POI   Recommendation**|Jing Long et.al.|[2204.06516v1](http://arxiv.org/abs/2204.06516v1)|null|
 |**2022-03-30 04:52:54**|**Automatic Facial Skin Feature Detection for Everyone**|Qian Zheng et.al.|[2203.16056v1](http://arxiv.org/abs/2203.16056v1)|null|
 |**2022-03-29 07:53:46**|**Better Integrators for Functional Renormalization Group Calculations**|Jacob Beyer et.al.|[2203.15306v1](http://arxiv.org/abs/2203.15306v1)|null|
 |**2022-03-26 05:46:59**|**A Work Proposal for a Collaborative Study of Magnet Technology for a   Future Muon Collider**|L. Bottura et.al.|[2203.13998v2](http://arxiv.org/abs/2203.13998v2)|null|
@@ -70,41 +108,3 @@
 |**2022-03-01 05:07:37**|**Ordered Submodularity and its Applications to Diversifying   Recommendations**|Jon Kleinberg et.al.|[2203.00233v1](http://arxiv.org/abs/2203.00233v1)|null|
 |**2022-02-28 21:15:40**|**Estimating causal effects with optimization-based methods: A review and   empirical comparison**|Martin Cousineau et.al.|[2203.00097v1](http://arxiv.org/abs/2203.00097v1)|null|
 |**2022-02-27 20:21:46**|**The Unfairness of Popularity Bias in Book Recommendation**|Mohammadmehdi Naghiaei et.al.|[2202.13446v1](http://arxiv.org/abs/2202.13446v1)|[link](https://github.com/rahmanidashti/fairbook)|
-|**2022-02-27 08:02:19**|**The Unfairness of Active Users and Popularity Bias in Point-of-Interest   Recommendation**|Hossein A. Rahmani et.al.|[2202.13307v2](http://arxiv.org/abs/2202.13307v2)|[link](https://github.com/RecSys-lab/FairPOI)|
-|**2022-02-25 06:58:28**|**MAMDR: A Model Agnostic Learning Method for Multi-Domain Recommendation**|Linhao Luo et.al.|[2202.12524v2](http://arxiv.org/abs/2202.12524v2)|[link](https://github.com/RManLuo/MAMDR)|
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-04-12 16:46:06**|**Arch-Graph: Acyclic Architecture Relation Predictor for   Task-Transferable Neural Architecture Search**|Minbin Huang et.al.|[2204.05941v1](http://arxiv.org/abs/2204.05941v1)|[link](https://github.com/centaurus982034/arch-graph)|
-|**2022-04-12 07:25:29**|**Synchronization on star graph with noise**|Artem Alexandrov et.al.|[2204.05581v1](http://arxiv.org/abs/2204.05581v1)|null|
-|**2022-04-12 04:15:39**|**Trigger-GNN: A Trigger-Based Graph Neural Network for Nested Named   Entity Recognition**|Yuan Sui et.al.|[2204.05518v1](http://arxiv.org/abs/2204.05518v1)|null|
-|**2022-04-12 02:58:41**|**Physics-informed graph neural networks enhance scalability of   variational nonequilibrium optimal control**|Jiawei Yan et.al.|[2204.05493v1](http://arxiv.org/abs/2204.05493v1)|null|
-|**2022-04-11 18:13:19**|**Graph Ordering Attention Networks**|Michail Chatzianastasis et.al.|[2204.05351v1](http://arxiv.org/abs/2204.05351v1)|[link](https://github.com/michailchatzianastasis/goat)|
-|**2022-04-11 17:01:05**|**Multi-view graph structure learning using subspace merging on Grassmann   manifold**|Razieh Ghiasi et.al.|[2204.05258v1](http://arxiv.org/abs/2204.05258v1)|null|
-|**2022-04-11 16:48:41**|**Learning Local Equivariant Representations for Large-Scale Atomistic   Dynamics**|Albert Musaelian et.al.|[2204.05249v1](http://arxiv.org/abs/2204.05249v1)|null|
-|**2022-04-11 14:19:04**|**Learning Object-Centered Autotelic Behaviors with Graph Neural Networks**|Ahmed Akakzia et.al.|[2204.05141v1](http://arxiv.org/abs/2204.05141v1)|[link](https://github.com/akakzia/rlgraph)|
-|**2022-04-11 05:45:09**|**How to Find Your Friendly Neighborhood: Graph Attention Design with   Self-Supervision**|Dongkwan Kim et.al.|[2204.04879v1](http://arxiv.org/abs/2204.04879v1)|[link](https://github.com/dongkwan-kim/SuperGAT)|
-|**2022-04-11 05:38:22**|**Learning to Induce Causal Structure**|Nan Rosemary Ke et.al.|[2204.04875v1](http://arxiv.org/abs/2204.04875v1)|null|
-|**2022-04-11 05:37:03**|**Augmentation-Free Graph Contrastive Learning**|Haonan Wang et.al.|[2204.04874v1](http://arxiv.org/abs/2204.04874v1)|null|
-|**2022-04-10 18:17:32**|**Melting temperature prediction via first principles and deep learning**|Qi-Jun Hong et.al.|[2204.04740v1](http://arxiv.org/abs/2204.04740v1)|null|
-|**2022-04-10 11:33:04**|**Expressiveness and Approximation Properties of Graph Neural Networks**|Floris Geerts et.al.|[2204.04661v1](http://arxiv.org/abs/2204.04661v1)|null|
-|**2022-04-10 07:05:12**|**ME-GCN: Multi-dimensional Edge-Embedded Graph Convolutional Networks for   Semi-supervised Text Classification**|Kunze Wang et.al.|[2204.04618v1](http://arxiv.org/abs/2204.04618v1)|null|
-|**2022-04-09 09:44:05**|**Modeling Multi-Granularity Hierarchical Features for Relation Extraction**|Xinnian Liang et.al.|[2204.04437v1](http://arxiv.org/abs/2204.04437v1)|[link](https://github.com/xnliang98/sms)|
-|**2022-04-08 13:06:09**|**KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective   Detection in News Media**|Wenqian Zhang et.al.|[2204.04046v1](http://arxiv.org/abs/2204.04046v1)|null|
-|**2022-04-08 12:20:20**|**Complex Networks Analysis of the Energy Landscape of the Low   Autocorrelation Binary Sequences Problem**|Marco Tomassini et.al.|[2204.04024v1](http://arxiv.org/abs/2204.04024v1)|null|
-|**2022-04-08 09:28:20**|**Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single- and   Multi-Label Text Classification**|Andor Diera et.al.|[2204.03954v1](http://arxiv.org/abs/2204.03954v1)|null|
-|**2022-04-08 03:37:56**|**Self-Supervised Graph Neural Network for Multi-Source Domain Adaptation**|Jin Yuan et.al.|[2204.05104v1](http://arxiv.org/abs/2204.05104v1)|null|
-|**2022-04-07 12:36:11**|**Defending Active Directory by Combining Neural Network based Dynamic   Program and Evolutionary Diversity Optimisation**|Diksha Goel et.al.|[2204.03397v2](http://arxiv.org/abs/2204.03397v2)|null|
-|**2022-04-07 05:30:02**|**Explicit Feature Interaction-aware Graph Neural Networks**|Minkyu Kim et.al.|[2204.03225v1](http://arxiv.org/abs/2204.03225v1)|null|
-|**2022-04-06 22:18:12**|**BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based   Sentiment Analysis**|Shuo Liang et.al.|[2204.03117v1](http://arxiv.org/abs/2204.03117v1)|null|
-|**2022-04-06 20:37:42**|**Graph Neural Networks Designed for Different Graph Types: A Survey**|Josephine M. Thomas et.al.|[2204.03080v1](http://arxiv.org/abs/2204.03080v1)|null|
-|**2022-04-06 17:23:13**|**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better   Instantaneous Mapping**|Avishkar Saha et.al.|[2204.02944v1](http://arxiv.org/abs/2204.02944v1)|null|
-|**2022-04-06 16:23:05**|**A Variational Ansatz for the Ground State of the Quantum   Sherrington-Kirkpatrick Model**|Paul M. Schindler et.al.|[2204.02923v1](http://arxiv.org/abs/2204.02923v1)|null|
-|**2022-04-06 12:52:34**|**How Do Graph Networks Generalize to Large and Diverse Molecular Systems?**|Johannes Gasteiger et.al.|[2204.02782v1](http://arxiv.org/abs/2204.02782v1)|null|
-|**2022-04-06 07:06:48**|**Bridging the Gap of AutoGraph between Academia and Industry: Analysing   AutoGraph Challenge at KDD Cup 2020**|Zhen Xu et.al.|[2204.02625v1](http://arxiv.org/abs/2204.02625v1)|[link](https://github.com/automl-research/autograph-kddcup2020)|
-|**2022-04-06 02:18:41**|**Structure-aware Protein Self-supervised Learning**|Can Chen et.al.|[2204.04213v1](http://arxiv.org/abs/2204.04213v1)|null|
-|**2022-04-05 17:24:32**|**MGDCF: Distance Learning via Markov Graph Diffusion for Neural   Collaborative Filtering**|Jun Hu et.al.|[2204.02338v1](http://arxiv.org/abs/2204.02338v1)|[link](https://github.com/hujunxianligong/MGDCF)|
-|**2022-04-05 11:30:45**|**Transition Information Enhanced Disentangled Graph Neural Networks for   Session-based Recommendation**|Ansong Li et.al.|[2204.02119v1](http://arxiv.org/abs/2204.02119v1)|[link](https://github.com/AnsongLi/TIE-DGNN)|
