@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-14 16:15:48**|**Galaxies and Halos on Graph Neural Networks: Deep Generative Modeling   Scalar and Vector Quantities for Intrinsic Alignment**|Yesukhei Jagvaral et.al.|[2204.07077v1](http://arxiv.org/abs/2204.07077v1)|null|
+|**2022-04-14 14:49:34**|**Solving AC Power Flow with Graph Neural Networks under Realistic   Constraints**|Luis Böttcher et.al.|[2204.07000v1](http://arxiv.org/abs/2204.07000v1)|null|
+|**2022-04-14 13:44:26**|**Finding MNEMON: Reviving Memories of Node Embeddings**|Yun Shen et.al.|[2204.06963v1](http://arxiv.org/abs/2204.06963v1)|null|
+|**2022-04-14 12:52:10**|**Geometric Deep Learning to Identify the Critical 3D Structural Features   of the Optic Nerve Head for Glaucoma Diagnosis**|Fabian A. Braeu et.al.|[2204.06931v1](http://arxiv.org/abs/2204.06931v1)|null|
+|**2022-04-14 05:50:07**|**Multimodal spatiotemporal graph neural networks for improved prediction   of 30-day all-cause hospital readmission**|Siyi Tang et.al.|[2204.06766v1](http://arxiv.org/abs/2204.06766v1)|[link](https://github.com/tsy935/readmit-stgnn)|
+|**2022-04-13 23:55:51**|**Geometric Understanding of Sketches**|Raghav Brahmadesam Venkataramaiyer et.al.|[2204.06675v1](http://arxiv.org/abs/2204.06675v1)|null|
 |**2022-04-12 16:46:06**|**Arch-Graph: Acyclic Architecture Relation Predictor for   Task-Transferable Neural Architecture Search**|Minbin Huang et.al.|[2204.05941v1](http://arxiv.org/abs/2204.05941v1)|[link](https://github.com/centaurus982034/arch-graph)|
 |**2022-04-12 07:25:29**|**Synchronization on star graph with noise**|Artem Alexandrov et.al.|[2204.05581v1](http://arxiv.org/abs/2204.05581v1)|null|
 |**2022-04-12 04:15:39**|**Trigger-GNN: A Trigger-Based Graph Neural Network for Nested Named   Entity Recognition**|Yuan Sui et.al.|[2204.05518v1](http://arxiv.org/abs/2204.05518v1)|null|
@@ -26,9 +32,3 @@
 |**2022-04-06 22:18:12**|**BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based   Sentiment Analysis**|Shuo Liang et.al.|[2204.03117v1](http://arxiv.org/abs/2204.03117v1)|null|
 |**2022-04-06 20:37:42**|**Graph Neural Networks Designed for Different Graph Types: A Survey**|Josephine M. Thomas et.al.|[2204.03080v1](http://arxiv.org/abs/2204.03080v1)|null|
 |**2022-04-06 17:23:13**|**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better   Instantaneous Mapping**|Avishkar Saha et.al.|[2204.02944v1](http://arxiv.org/abs/2204.02944v1)|null|
-|**2022-04-06 16:23:05**|**A Variational Ansatz for the Ground State of the Quantum   Sherrington-Kirkpatrick Model**|Paul M. Schindler et.al.|[2204.02923v1](http://arxiv.org/abs/2204.02923v1)|null|
-|**2022-04-06 12:52:34**|**How Do Graph Networks Generalize to Large and Diverse Molecular Systems?**|Johannes Gasteiger et.al.|[2204.02782v1](http://arxiv.org/abs/2204.02782v1)|null|
-|**2022-04-06 07:06:48**|**Bridging the Gap of AutoGraph between Academia and Industry: Analysing   AutoGraph Challenge at KDD Cup 2020**|Zhen Xu et.al.|[2204.02625v1](http://arxiv.org/abs/2204.02625v1)|[link](https://github.com/automl-research/autograph-kddcup2020)|
-|**2022-04-06 02:18:41**|**Structure-aware Protein Self-supervised Learning**|Can Chen et.al.|[2204.04213v1](http://arxiv.org/abs/2204.04213v1)|null|
-|**2022-04-05 17:24:32**|**MGDCF: Distance Learning via Markov Graph Diffusion for Neural   Collaborative Filtering**|Jun Hu et.al.|[2204.02338v1](http://arxiv.org/abs/2204.02338v1)|[link](https://github.com/hujunxianligong/MGDCF)|
-|**2022-04-05 11:30:45**|**Transition Information Enhanced Disentangled Graph Neural Networks for   Session-based Recommendation**|Ansong Li et.al.|[2204.02119v1](http://arxiv.org/abs/2204.02119v1)|[link](https://github.com/AnsongLi/TIE-DGNN)|
