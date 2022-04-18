@@ -2,6 +2,9 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-15 15:50:27**|**Neural Structured Prediction for Inductive Node Classification**|Meng Qu et.al.|[2204.07524v1](http://arxiv.org/abs/2204.07524v1)|[link](https://github.com/deepgraphlearning/spn)|
+|**2022-04-15 07:39:32**|**Spatio-Temporal-Frequency Graph Attention Convolutional Network for   Aircraft Recognition Based on Heterogeneous Radar Network**|Han Meng et.al.|[2204.07360v1](http://arxiv.org/abs/2204.07360v1)|null|
+|**2022-04-15 04:02:06**|**Graph Pooling for Graph Neural Networks: Progress, Challenges, and   Opportunities**|Chuang Liu et.al.|[2204.07321v1](http://arxiv.org/abs/2204.07321v1)|null|
 |**2022-04-14 16:15:48**|**Galaxies and Halos on Graph Neural Networks: Deep Generative Modeling   Scalar and Vector Quantities for Intrinsic Alignment**|Yesukhei Jagvaral et.al.|[2204.07077v1](http://arxiv.org/abs/2204.07077v1)|null|
 |**2022-04-14 14:49:34**|**Solving AC Power Flow with Graph Neural Networks under Realistic   Constraints**|Luis Böttcher et.al.|[2204.07000v1](http://arxiv.org/abs/2204.07000v1)|null|
 |**2022-04-14 13:44:26**|**Finding MNEMON: Reviving Memories of Node Embeddings**|Yun Shen et.al.|[2204.06963v1](http://arxiv.org/abs/2204.06963v1)|null|
@@ -29,6 +32,3 @@
 |**2022-04-08 03:37:56**|**Self-Supervised Graph Neural Network for Multi-Source Domain Adaptation**|Jin Yuan et.al.|[2204.05104v1](http://arxiv.org/abs/2204.05104v1)|null|
 |**2022-04-07 12:36:11**|**Defending Active Directory by Combining Neural Network based Dynamic   Program and Evolutionary Diversity Optimisation**|Diksha Goel et.al.|[2204.03397v2](http://arxiv.org/abs/2204.03397v2)|null|
 |**2022-04-07 05:30:02**|**Explicit Feature Interaction-aware Graph Neural Networks**|Minkyu Kim et.al.|[2204.03225v1](http://arxiv.org/abs/2204.03225v1)|null|
-|**2022-04-06 22:18:12**|**BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based   Sentiment Analysis**|Shuo Liang et.al.|[2204.03117v1](http://arxiv.org/abs/2204.03117v1)|null|
-|**2022-04-06 20:37:42**|**Graph Neural Networks Designed for Different Graph Types: A Survey**|Josephine M. Thomas et.al.|[2204.03080v1](http://arxiv.org/abs/2204.03080v1)|null|
-|**2022-04-06 17:23:13**|**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better   Instantaneous Mapping**|Avishkar Saha et.al.|[2204.02944v1](http://arxiv.org/abs/2204.02944v1)|null|
