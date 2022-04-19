@@ -2,7 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-04-13 13:09:35**|**AHP: Learning to Negative Sample for Hyperedge Prediction**|Hyunjin Hwang et.al.|[2204.06353v1](http://arxiv.org/abs/2204.06353v1)|[link](https://github.com/hyunjinhwn/sigir22-ahp)|
+|**2022-04-16 08:30:08**|**From Parental Control to Joint Family Oversight: Can Parents and Teens   Manage Mobile Online Safety and Privacy as Equals?**|Mamtaj Akter et.al.|[2204.07749v1](http://arxiv.org/abs/2204.07749v1)|null|
+|**2022-04-13 13:09:35**|**AHP: Learning to Negative Sample for Hyperedge Prediction**|Hyunjin Hwang et.al.|[2204.06353v2](http://arxiv.org/abs/2204.06353v2)|[link](https://github.com/hyunjinhwn/sigir22-ahp)|
 |**2022-04-12 05:59:39**|**Not always about you: Prioritizing community needs when developing   endangered language technology**|Zoey Liu et.al.|[2204.05541v1](http://arxiv.org/abs/2204.05541v1)|null|
 |**2022-04-07 19:30:55**|**Introducing a Framework and a Decision Protocol to Calibrate Recommender   Systems**|Diego Corrêa da Silva et.al.|[2204.03706v1](http://arxiv.org/abs/2204.03706v1)|null|
 |**2022-04-07 16:20:04**|**Study of alternative locations for the SPS Beam Dump Facility**|Oliver Aberle et.al.|[2204.03549v1](http://arxiv.org/abs/2204.03549v1)|null|
@@ -31,4 +32,3 @@
 |**2022-03-01 22:06:30**|**Topic Analysis for Text with Side Data**|Biyi Fang et.al.|[2203.00762v1](http://arxiv.org/abs/2203.00762v1)|null|
 |**2022-03-01 11:43:53**|**Popularity Bias in Collaborative Filtering-Based Multimedia Recommender   Systems**|Dominik Kowald et.al.|[2203.00376v1](http://arxiv.org/abs/2203.00376v1)|null|
 |**2022-03-01 05:07:37**|**Ordered Submodularity and its Applications to Diversifying   Recommendations**|Jon Kleinberg et.al.|[2203.00233v1](http://arxiv.org/abs/2203.00233v1)|null|
-|**2022-02-28 21:15:40**|**Estimating causal effects with optimization-based methods: A review and   empirical comparison**|Martin Cousineau et.al.|[2203.00097v1](http://arxiv.org/abs/2203.00097v1)|null|
