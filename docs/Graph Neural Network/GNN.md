@@ -8,7 +8,7 @@
 |**2022-04-21 13:25:22**|**Forgetting Prevention for Cross-regional Fraud Detection with   Heterogeneous Trade Graph**|Yujie Li et.al.|[2204.10085v1](http://arxiv.org/abs/2204.10085v1)|[link](https://github.com/yujieli42/htg-cfd)|
 |**2022-04-21 13:08:25**|**Detecting Topology Attacks against Graph Neural Networks**|Senrong Xu et.al.|[2204.10072v1](http://arxiv.org/abs/2204.10072v1)|null|
 |**2022-04-21 11:42:49**|**DropMessage: Unifying Random Dropping for Graph Neural Networks**|Taoran Fang et.al.|[2204.10037v1](http://arxiv.org/abs/2204.10037v1)|null|
-|**2022-04-21 09:01:22**|**Eliminating Backdoor Triggers for Deep Neural Networks Using Attention   Relation Graph Distillation**|Jun Xia et.al.|[2204.09975v1](http://arxiv.org/abs/2204.09975v1)|null|
+|**2022-04-21 09:01:22**|**Eliminating Backdoor Triggers for Deep Neural Networks Using Attention   Relation Graph Distillation**|Jun Xia et.al.|[2204.09975v1](http://arxiv.org/abs/2204.09975v1)|[link](https://github.com/BililiCode/ARGD)|
 |**2022-04-21 05:27:09**|**Inducing Gaussian Process Networks**|Alessandro Tibo et.al.|[2204.09889v1](http://arxiv.org/abs/2204.09889v1)|null|
 |**2022-04-20 14:34:29**|**Graph neural networks and attention-based CNN-LSTM for protein   classification**|Zhuangwei Shi et.al.|[2204.09486v1](http://arxiv.org/abs/2204.09486v1)|[link](https://github.com/zshicode/gnn-attcl-protein)|
 |**2022-04-20 13:41:50**|**Simplicial Attention Networks**|Christopher Wei Jin Goh et.al.|[2204.09455v1](http://arxiv.org/abs/2204.09455v1)|[link](https://github.com/ggoh29/simplicial-neural-network-benchmark)|
