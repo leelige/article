@@ -2,13 +2,15 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-22 17:58:10**|**Exploiting Session Information in BERT-based Session-aware Sequential   Recommendation**|Jinseok Seol et.al.|[2204.10851v1](http://arxiv.org/abs/2204.10851v1)|[link](https://github.com/theeluwin/session-aware-bert4rec)|
+|**2022-04-21 14:01:00**|**A systematic review of guidelines for the use of race, ethnicity, and   ancestry reveals widespread consensus but also points of ongoing disagreement**|Madelyn Mauro et.al.|[2204.10672v1](http://arxiv.org/abs/2204.10672v1)|null|
 |**2022-04-16 08:30:08**|**From Parental Control to Joint Family Oversight: Can Parents and Teens   Manage Mobile Online Safety and Privacy as Equals?**|Mamtaj Akter et.al.|[2204.07749v1](http://arxiv.org/abs/2204.07749v1)|null|
 |**2022-04-13 13:09:35**|**AHP: Learning to Negative Sample for Hyperedge Prediction**|Hyunjin Hwang et.al.|[2204.06353v2](http://arxiv.org/abs/2204.06353v2)|[link](https://github.com/hyunjinhwn/sigir22-ahp)|
 |**2022-04-12 05:59:39**|**Not always about you: Prioritizing community needs when developing   endangered language technology**|Zoey Liu et.al.|[2204.05541v1](http://arxiv.org/abs/2204.05541v1)|null|
 |**2022-04-07 19:30:55**|**Introducing a Framework and a Decision Protocol to Calibrate Recommender   Systems**|Diego Corrêa da Silva et.al.|[2204.03706v1](http://arxiv.org/abs/2204.03706v1)|null|
 |**2022-04-07 16:20:04**|**Study of alternative locations for the SPS Beam Dump Facility**|Oliver Aberle et.al.|[2204.03549v1](http://arxiv.org/abs/2204.03549v1)|null|
 |**2022-04-06 19:00:02**|**Effective Exposure Amortizing for Fair Top-k Recommendation**|Tao Yang et.al.|[2204.03046v1](http://arxiv.org/abs/2204.03046v1)|null|
-|**2022-04-06 05:52:08**|**Thinking inside The Box: Learning Hypercube Representations for Group   Recommendation**|Tong Chen et.al.|[2204.02592v1](http://arxiv.org/abs/2204.02592v1)|null|
+|**2022-04-06 05:52:08**|**Thinking inside The Box: Learning Hypercube Representations for Group   Recommendation**|Tong Chen et.al.|[2204.02592v1](http://arxiv.org/abs/2204.02592v1)|[link](https://github.com/jinglong0407/cuberec)|
 |**2022-04-04 06:37:19**|**Into-TTS : Intonation Template based Prosody Control System**|Jihwan Lee et.al.|[2204.01271v1](http://arxiv.org/abs/2204.01271v1)|null|
 |**2022-04-02 19:28:13**|**Learning to Augment for Casual User Recommendation**|Jianling Wang et.al.|[2204.00926v1](http://arxiv.org/abs/2204.00926v1)|null|
 |**2022-04-02 16:32:42**|**Equity, diversity, and inclusion in sports analytics**|Craig Fernandes et.al.|[2204.00896v1](http://arxiv.org/abs/2204.00896v1)|null|
@@ -30,5 +32,3 @@
 |**2022-03-03 18:17:06**|**Generating Synthetic but Realistic Human Trafficking Networks for   Modeling Disruptions through Transdisciplinary and Community-Based Action   Research**|Daniel Kosmas et.al.|[2203.01893v1](http://arxiv.org/abs/2203.01893v1)|null|
 |**2022-03-03 09:26:00**|**Fairness-aware Adversarial Perturbation Towards Bias Mitigation for   Deployed Deep Models**|Zhibo Wang et.al.|[2203.01584v1](http://arxiv.org/abs/2203.01584v1)|null|
 |**2022-03-01 22:06:30**|**Topic Analysis for Text with Side Data**|Biyi Fang et.al.|[2203.00762v1](http://arxiv.org/abs/2203.00762v1)|null|
-|**2022-03-01 11:43:53**|**Popularity Bias in Collaborative Filtering-Based Multimedia Recommender   Systems**|Dominik Kowald et.al.|[2203.00376v1](http://arxiv.org/abs/2203.00376v1)|null|
-|**2022-03-01 05:07:37**|**Ordered Submodularity and its Applications to Diversifying   Recommendations**|Jon Kleinberg et.al.|[2203.00233v1](http://arxiv.org/abs/2203.00233v1)|null|
