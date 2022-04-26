@@ -2,6 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-25 17:49:51**|**A new preferential model with homophily for recommender systems**|Hanyang Tian et.al.|[2204.11819v1](http://arxiv.org/abs/2204.11819v1)|null|
+|**2022-04-24 10:57:45**|**Regulating Group Exposure for Item Providers in Recommendation**|Mirko Marras et.al.|[2204.11243v1](http://arxiv.org/abs/2204.11243v1)|null|
+|**2022-04-24 10:51:54**|**Post Processing Recommender Systems with Knowledge Graphs for Recency,   Popularity, and Diversity of Explanations**|Giacomo Balloccu et.al.|[2204.11241v1](http://arxiv.org/abs/2204.11241v1)|[link](https://github.com/giacoballoccu/explanation-quality-recsys)|
+|**2022-04-22 20:22:06**|**Subscriptions and external links help drive resentful users to   alternative and extremist YouTube videos**|Annie Y. Chen et.al.|[2204.10921v1](http://arxiv.org/abs/2204.10921v1)|null|
 |**2022-04-22 17:58:10**|**Exploiting Session Information in BERT-based Session-aware Sequential   Recommendation**|Jinseok Seol et.al.|[2204.10851v1](http://arxiv.org/abs/2204.10851v1)|[link](https://github.com/theeluwin/session-aware-bert4rec)|
 |**2022-04-21 14:01:00**|**A systematic review of guidelines for the use of race, ethnicity, and   ancestry reveals widespread consensus but also points of ongoing disagreement**|Madelyn Mauro et.al.|[2204.10672v1](http://arxiv.org/abs/2204.10672v1)|null|
 |**2022-04-16 08:30:08**|**From Parental Control to Joint Family Oversight: Can Parents and Teens   Manage Mobile Online Safety and Privacy as Equals?**|Mamtaj Akter et.al.|[2204.07749v1](http://arxiv.org/abs/2204.07749v1)|null|
@@ -28,7 +32,3 @@
 |**2022-03-16 10:04:40**|**Personal Knowledge Graphs: Use Cases in e-learning Platforms**|Eleni Ilkou et.al.|[2203.08507v1](http://arxiv.org/abs/2203.08507v1)|null|
 |**2022-03-14 23:12:06**|**Neutrinos from Stored Muons (nuSTORM)**|L. Alvarez Ruso et.al.|[2203.07545v1](http://arxiv.org/abs/2203.07545v1)|null|
 |**2022-03-14 15:44:40**|**Improving State-of-the-Art in One-Class Classification by Leveraging   Unlabeled Data**|Farid Bagirov et.al.|[2203.07206v1](http://arxiv.org/abs/2203.07206v1)|[link](https://github.com/jbr-ai-labs/pu-oc)|
-|**2022-03-09 04:11:39**|**SuperCone: Unified User Segmentation over Heterogeneous Experts via   Concept Meta-learning**|Keqian Li et.al.|[2203.07029v2](http://arxiv.org/abs/2203.07029v2)|null|
-|**2022-03-03 18:17:06**|**Generating Synthetic but Realistic Human Trafficking Networks for   Modeling Disruptions through Transdisciplinary and Community-Based Action   Research**|Daniel Kosmas et.al.|[2203.01893v1](http://arxiv.org/abs/2203.01893v1)|null|
-|**2022-03-03 09:26:00**|**Fairness-aware Adversarial Perturbation Towards Bias Mitigation for   Deployed Deep Models**|Zhibo Wang et.al.|[2203.01584v1](http://arxiv.org/abs/2203.01584v1)|null|
-|**2022-03-01 22:06:30**|**Topic Analysis for Text with Side Data**|Biyi Fang et.al.|[2203.00762v1](http://arxiv.org/abs/2203.00762v1)|null|
