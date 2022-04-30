@@ -9,9 +9,9 @@
 |**2022-04-27 17:59:25**|**FlowGNN: A Dataflow Architecture for Universal Graph Neural Network   Inference via Multi-Queue Streaming**|Rishov Sarkar et.al.|[2204.13103v1](http://arxiv.org/abs/2204.13103v1)|[link](https://github.com/sharc-lab/flowgnn)|
 |**2022-04-27 14:00:48**|**MAPLE-Edge: A Runtime Latency Predictor for Edge Devices**|Saeejith Nair et.al.|[2204.12950v1](http://arxiv.org/abs/2204.12950v1)|null|
 |**2022-04-27 12:38:02**|**LiftPool: Lifting-based Graph Pooling for Hierarchical Graph   Representation Learning**|Mingxing Xu et.al.|[2204.12881v1](http://arxiv.org/abs/2204.12881v1)|null|
-|**2022-04-27 09:43:14**|**GTNet: A Tree-Based Deep Graph Learning Architecture**|Nan Wu et.al.|[2204.12802v1](http://arxiv.org/abs/2204.12802v1)|null|
+|**2022-04-27 09:43:14**|**GTNet: A Tree-Based Deep Graph Learning Architecture**|Nan Wu et.al.|[2204.12802v1](http://arxiv.org/abs/2204.12802v1)|[link](https://github.com/nanw16/GTNet)|
 |**2022-04-27 03:40:54**|**A Practical Two-stage Ranking Framework for Cross-market Recommendation**|Zeyuan Chen et.al.|[2204.12682v1](http://arxiv.org/abs/2204.12682v1)|[link](https://github.com/loserchen/wsdm_cup_rec_2022)|
-|**2022-04-27 01:38:46**|**SCGC : Self-Supervised Contrastive Graph Clustering**|Gayan K. Kulatilleke et.al.|[2204.12656v1](http://arxiv.org/abs/2204.12656v1)|[link](https://github.com/gayanku/SCGC)|
+|**2022-04-27 01:38:46**|**SCGC : Self-Supervised Contrastive Graph Clustering**|Gayan K. Kulatilleke et.al.|[2204.12656v1](http://arxiv.org/abs/2204.12656v1)|[link](https://github.com/gayanku/scgc)|
 |**2022-04-26 14:09:29**|**Investigating Accuracy-Novelty Performance for Graph-based Collaborative   Filtering**|Minghao Zhao et.al.|[2204.12326v2](http://arxiv.org/abs/2204.12326v2)|[link](https://github.com/fuxiailab/r-adjnorm)|
 |**2022-04-26 13:29:53**|**Unified GCNs: Towards Connecting GCNs with CNNs**|Ziyan Zhang et.al.|[2204.12300v1](http://arxiv.org/abs/2204.12300v1)|null|
 |**2022-04-26 12:49:51**|**Graph Neural Networks for Microbial Genome Recovery**|Andre Lamurias et.al.|[2204.12270v1](http://arxiv.org/abs/2204.12270v1)|null|
