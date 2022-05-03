@@ -1,11 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2022-05-02 16:09:17 Asia/Shanghai
+ 自动更新 @ 2022-05-03 16:08:54 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-02 14:24:11**|**Creative Uses of AI Systems and their Explanations: A Case Study from   Insurance**|Michaela Benk et.al.|[2205.00931v1](http://arxiv.org/abs/2205.00931v1)|null|
+|**2022-04-30 17:33:51**|**FairSR: Fairness-aware Sequential Recommendation through Multi-Task   Learning with Preference Graph Embeddings**|Cheng-Te Li et.al.|[2205.00313v1](http://arxiv.org/abs/2205.00313v1)|null|
+|**2022-04-29 19:13:23**|**Joint Multisided Exposure Fairness for Recommendation**|Haolun Wu et.al.|[2205.00048v1](http://arxiv.org/abs/2205.00048v1)|null|
 |**2022-04-29 17:17:43**|**Implementation of FAIR principles in the IPCC: The WGI AR6 Atlas   repository**|Maialen Iturbide et.al.|[2204.14245v1](http://arxiv.org/abs/2204.14245v1)|null|
 |**2022-04-25 17:49:51**|**A new preferential model with homophily for recommender systems**|Hanyang Tian et.al.|[2204.11819v1](http://arxiv.org/abs/2204.11819v1)|null|
 |**2022-04-24 10:57:45**|**Regulating Group Exposure for Item Providers in Recommendation**|Mirko Marras et.al.|[2204.11243v1](http://arxiv.org/abs/2204.11243v1)|null|
@@ -33,9 +36,6 @@
 |**2022-03-17 18:02:40**|**Revisiting the Solar Research Cyberinfrastructure Needs: A White Paper   of Findings and Recommendations**|Gelu Nita et.al.|[2203.09544v1](http://arxiv.org/abs/2203.09544v1)|null|
 |**2022-03-16 22:18:52**|**Opportunities for Technosignature Science in the Astro2020 Report**|Jacob Haqq-Misra et.al.|[2203.08968v1](http://arxiv.org/abs/2203.08968v1)|null|
 |**2022-03-16 19:57:31**|**The need for structural changes to create impactful public engagement in   US particle physics**|Kétévi Adiklè Assamagan et.al.|[2203.08916v1](http://arxiv.org/abs/2203.08916v1)|null|
-|**2022-03-16 17:48:59**|**Exploring Variational Graph Auto-Encoders for Extract Class Refactoring   Recommendation**|Pritom Saha Akash et.al.|[2203.08787v1](http://arxiv.org/abs/2203.08787v1)|null|
-|**2022-03-16 10:04:40**|**Personal Knowledge Graphs: Use Cases in e-learning Platforms**|Eleni Ilkou et.al.|[2203.08507v1](http://arxiv.org/abs/2203.08507v1)|null|
-|**2022-03-14 23:12:06**|**Neutrinos from Stored Muons (nuSTORM)**|L. Alvarez Ruso et.al.|[2203.07545v1](http://arxiv.org/abs/2203.07545v1)|null|
 
 ## Multi Interest Recommendation
 
@@ -78,10 +78,21 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-02 15:09:36**|**Detection Recovery in Online Multi-Object Tracking with Sparse Graph   Tracker**|Jeongseok Hyun et.al.|[2205.00968v1](http://arxiv.org/abs/2205.00968v1)|[link](https://github.com/HYUNJS/SGT)|
+|**2022-05-02 13:33:43**|**FastGCL: Fast Self-Supervised Learning on Graphs via Contrastive   Neighborhood Aggregation**|Yuansheng Wang et.al.|[2205.00905v1](http://arxiv.org/abs/2205.00905v1)|null|
+|**2022-05-02 09:38:19**|**Large Neighborhood Search based on Neural Construction Heuristics**|Jonas K. Falkner et.al.|[2205.00772v1](http://arxiv.org/abs/2205.00772v1)|[link](https://github.com/jokofa/jampr_plus)|
+|**2022-05-02 08:57:47**|**The mighty force: statistical inference and high-dimensional statistics**|Erik Aurell et.al.|[2205.00750v1](http://arxiv.org/abs/2205.00750v1)|null|
+|**2022-05-02 04:04:23**|**Enhancing Adversarial Training with Feature Separability**|Yaxin Li et.al.|[2205.00637v1](http://arxiv.org/abs/2205.00637v1)|null|
+|**2022-05-02 01:45:50**|**Extracting Symbolic Models of Collective Behaviors with Graph Neural   Networks and Macro-Micro Evolution**|Stephen Powers et.al.|[2205.00614v1](http://arxiv.org/abs/2205.00614v1)|null|
+|**2022-05-01 19:40:18**|**Heterogeneous graph neural network for power allocation in   multicarrier-division duplex cell-free massive MIMO systems**|Bohan Li et.al.|[2205.00546v1](http://arxiv.org/abs/2205.00546v1)|null|
+|**2022-05-01 16:03:54**|**CUP: Curriculum Learning based Prompt Tuning for Implicit Event Argument   Extraction**|Jiaju Lin et.al.|[2205.00498v1](http://arxiv.org/abs/2205.00498v1)|[link](https://github.com/linmou/cup)|
+|**2022-05-01 08:45:43**|**Unified Abstract Syntax Tree Representation Learning for Cross-Language   Program Classification**|Kesu Wang et.al.|[2205.00424v1](http://arxiv.org/abs/2205.00424v1)|null|
+|**2022-04-30 22:13:20**|**Graph Anisotropic Diffusion**|Ahmed A. A. Elhag et.al.|[2205.00354v1](http://arxiv.org/abs/2205.00354v1)|[link](https://github.com/ahmed-a-a-elhag/gad)|
+|**2022-04-30 12:57:02**|**Heterogeneous Graph Neural Networks using Self-supervised Reciprocally   Contrastive Learning**|Di Jin et.al.|[2205.00256v1](http://arxiv.org/abs/2205.00256v1)|null|
 |**2022-04-29 13:52:35**|**Reducing Neural Architecture Search Spaces with Training-Free Statistics   and Computational Graph Clustering**|Thorir Mar Ingolfsson et.al.|[2204.14103v1](http://arxiv.org/abs/2204.14103v1)|null|
 |**2022-04-29 09:45:44**|**Size Generalization for Resource Allocation with Graph Neural Networks**|Wu Jiajun et.al.|[2204.13972v1](http://arxiv.org/abs/2204.13972v1)|null|
 |**2022-04-28 20:38:39**|**Distributed Auto-Learning GNN for Multi-Cell Cluster-Free NOMA   Communications**|Xiaoxia Xu et.al.|[2204.13766v1](http://arxiv.org/abs/2204.13766v1)|null|
-|**2022-04-28 19:16:31**|**GCN-FFNN: A Two-Stream Deep Model for Learning Solution to Partial   Differential Equations**|Onur Bilgin et.al.|[2204.13744v1](http://arxiv.org/abs/2204.13744v1)|null|
+|**2022-04-28 19:16:31**|**GCN-FFNN: A Two-Stream Deep Model for Learning Solution to Partial   Differential Equations**|Onur Bilgin et.al.|[2204.13744v1](http://arxiv.org/abs/2204.13744v1)|[link](https://github.com/smehrkanoon/lssvm-pde-solver)|
 |**2022-04-28 18:00:02**|**Learning cosmology and clustering with cosmic graphs**|Pablo Villanueva-Domingo et.al.|[2204.13713v1](http://arxiv.org/abs/2204.13713v1)|[link](https://github.com/PabloVD/CosmoGraphNet)|
 |**2022-04-28 12:17:00**|**TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum   Phishing Scams Detection**|Sijia Li et.al.|[2204.13442v1](http://arxiv.org/abs/2204.13442v1)|null|
 |**2022-04-28 12:00:39**|**DOTIN: Dropping Task-Irrelevant Nodes for GNNs**|Shaofeng Zhang et.al.|[2204.13429v1](http://arxiv.org/abs/2204.13429v1)|[link](https://github.com/Sherrylone/DOTIN)|
@@ -97,14 +108,3 @@
 |**2022-04-26 13:29:53**|**Unified GCNs: Towards Connecting GCNs with CNNs**|Ziyan Zhang et.al.|[2204.12300v1](http://arxiv.org/abs/2204.12300v1)|null|
 |**2022-04-26 12:49:51**|**Graph Neural Networks for Microbial Genome Recovery**|Andre Lamurias et.al.|[2204.12270v1](http://arxiv.org/abs/2204.12270v1)|null|
 |**2022-04-26 11:21:09**|**IRC-safe Graph Autoencoder for an unsupervised anomaly detection**|Oliver Atkinson et.al.|[2204.12231v1](http://arxiv.org/abs/2204.12231v1)|null|
-|**2022-04-26 07:44:49**|**GypSum: Learning Hybrid Representations for Code Summarization**|Yu Wang et.al.|[2204.12916v1](http://arxiv.org/abs/2204.12916v1)|[link](https://github.com/icpc2022-gypsum/gypsum_code)|
-|**2022-04-25 22:13:13**|**End-to-end Mapping in Heterogeneous Systems Using Graph Representation   Learning**|Yao Xiao et.al.|[2204.11981v1](http://arxiv.org/abs/2204.11981v1)|null|
-|**2022-04-25 16:03:12**|**Quasi-exact ground-state algorithm for the random-field Potts model**|Manoj Kumar et.al.|[2204.11745v1](http://arxiv.org/abs/2204.11745v1)|null|
-|**2022-04-25 14:43:15**|**ClusterGNN: Cluster-based Coarse-to-Fine Graph Neural Network for   Efficient Feature Matching**|Yan Shi et.al.|[2204.11700v1](http://arxiv.org/abs/2204.11700v1)|null|
-|**2022-04-25 14:07:28**|**Incorporating Explicit Knowledge in Pre-trained Language Models for   Passage Re-ranking**|Qian Dong et.al.|[2204.11673v1](http://arxiv.org/abs/2204.11673v1)|null|
-|**2022-04-25 12:02:18**|**Discovering Gateway Ports in Maritime Using Temporal Graph Neural   Network Port Classification**|Dogan Altan et.al.|[2204.11855v1](http://arxiv.org/abs/2204.11855v1)|null|
-|**2022-04-25 04:37:47**|**Hardware Trojan Detection using Graph Neural Networks**|Rozhin Yasaei et.al.|[2204.11431v1](http://arxiv.org/abs/2204.11431v1)|null|
-|**2022-04-24 20:13:30**|**Collaborative Auto-Curricula Multi-Agent Reinforcement Learning with   Graph Neural Network Communication Layer for Open-ended Wildfire-Management   Resource Distribution**|Philipp Dominic Siedler et.al.|[2204.11350v1](http://arxiv.org/abs/2204.11350v1)|null|
-|**2022-04-24 09:33:16**|**Optimizing Task Placement and Online Scheduling for Distributed GNN   Training Acceleration**|Ziyue Luo et.al.|[2204.11224v1](http://arxiv.org/abs/2204.11224v1)|null|
-|**2022-04-24 08:54:55**|**Graph Neural Network-based Early Bearing Fault Detection**|Xusheng Du et.al.|[2204.11220v1](http://arxiv.org/abs/2204.11220v1)|null|
-|**2022-04-24 04:23:31**|**M2N: Mesh Movement Networks for PDE Solvers**|Wenbin Song et.al.|[2204.11188v1](http://arxiv.org/abs/2204.11188v1)|null|

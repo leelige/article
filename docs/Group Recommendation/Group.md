@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-02 14:24:11**|**Creative Uses of AI Systems and their Explanations: A Case Study from   Insurance**|Michaela Benk et.al.|[2205.00931v1](http://arxiv.org/abs/2205.00931v1)|null|
+|**2022-04-30 17:33:51**|**FairSR: Fairness-aware Sequential Recommendation through Multi-Task   Learning with Preference Graph Embeddings**|Cheng-Te Li et.al.|[2205.00313v1](http://arxiv.org/abs/2205.00313v1)|null|
+|**2022-04-29 19:13:23**|**Joint Multisided Exposure Fairness for Recommendation**|Haolun Wu et.al.|[2205.00048v1](http://arxiv.org/abs/2205.00048v1)|null|
 |**2022-04-29 17:17:43**|**Implementation of FAIR principles in the IPCC: The WGI AR6 Atlas   repository**|Maialen Iturbide et.al.|[2204.14245v1](http://arxiv.org/abs/2204.14245v1)|null|
 |**2022-04-25 17:49:51**|**A new preferential model with homophily for recommender systems**|Hanyang Tian et.al.|[2204.11819v1](http://arxiv.org/abs/2204.11819v1)|null|
 |**2022-04-24 10:57:45**|**Regulating Group Exposure for Item Providers in Recommendation**|Mirko Marras et.al.|[2204.11243v1](http://arxiv.org/abs/2204.11243v1)|null|
@@ -29,6 +32,3 @@
 |**2022-03-17 18:02:40**|**Revisiting the Solar Research Cyberinfrastructure Needs: A White Paper   of Findings and Recommendations**|Gelu Nita et.al.|[2203.09544v1](http://arxiv.org/abs/2203.09544v1)|null|
 |**2022-03-16 22:18:52**|**Opportunities for Technosignature Science in the Astro2020 Report**|Jacob Haqq-Misra et.al.|[2203.08968v1](http://arxiv.org/abs/2203.08968v1)|null|
 |**2022-03-16 19:57:31**|**The need for structural changes to create impactful public engagement in   US particle physics**|Kétévi Adiklè Assamagan et.al.|[2203.08916v1](http://arxiv.org/abs/2203.08916v1)|null|
-|**2022-03-16 17:48:59**|**Exploring Variational Graph Auto-Encoders for Extract Class Refactoring   Recommendation**|Pritom Saha Akash et.al.|[2203.08787v1](http://arxiv.org/abs/2203.08787v1)|null|
-|**2022-03-16 10:04:40**|**Personal Knowledge Graphs: Use Cases in e-learning Platforms**|Eleni Ilkou et.al.|[2203.08507v1](http://arxiv.org/abs/2203.08507v1)|null|
-|**2022-03-14 23:12:06**|**Neutrinos from Stored Muons (nuSTORM)**|L. Alvarez Ruso et.al.|[2203.07545v1](http://arxiv.org/abs/2203.07545v1)|null|
