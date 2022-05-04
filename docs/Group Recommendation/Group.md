@@ -2,7 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-05-02 14:24:11**|**Creative Uses of AI Systems and their Explanations: A Case Study from   Insurance**|Michaela Benk et.al.|[2205.00931v1](http://arxiv.org/abs/2205.00931v1)|null|
+|**2022-05-02 14:24:11**|**Creative Uses of AI Systems and their Explanations: A Case Study from   Insurance**|Michaela Benk et.al.|[2205.00931v2](http://arxiv.org/abs/2205.00931v2)|null|
 |**2022-04-30 17:33:51**|**FairSR: Fairness-aware Sequential Recommendation through Multi-Task   Learning with Preference Graph Embeddings**|Cheng-Te Li et.al.|[2205.00313v1](http://arxiv.org/abs/2205.00313v1)|null|
 |**2022-04-29 19:13:23**|**Joint Multisided Exposure Fairness for Recommendation**|Haolun Wu et.al.|[2205.00048v1](http://arxiv.org/abs/2205.00048v1)|null|
 |**2022-04-29 17:17:43**|**Implementation of FAIR principles in the IPCC: The WGI AR6 Atlas   repository**|Maialen Iturbide et.al.|[2204.14245v1](http://arxiv.org/abs/2204.14245v1)|null|

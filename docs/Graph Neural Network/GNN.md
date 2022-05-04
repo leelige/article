@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-03 17:56:46**|**DANBO: Disentangled Articulated Neural Body Representations via Graph   Neural Networks**|Shih-Yang Su et.al.|[2205.01666v1](http://arxiv.org/abs/2205.01666v1)|null|
+|**2022-05-03 06:00:29**|**HL-Net: Heterophily Learning Network for Scene Graph Generatio**|Xin Lin et.al.|[2205.01316v1](http://arxiv.org/abs/2205.01316v1)|[link](https://github.com/siml3/HL-Net)|
+|**2022-05-03 04:21:15**|**RU-Net: Regularized Unrolling Network for Scene Graph Generation**|Xin Lin et.al.|[2205.01297v1](http://arxiv.org/abs/2205.01297v1)|[link](https://github.com/siml3/RU-Net)|
+|**2022-05-03 03:21:29**|**When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for   Sequential Recommendation**|Yu Tian et.al.|[2205.01286v1](http://arxiv.org/abs/2205.01286v1)|null|
+|**2022-05-02 21:36:01**|**FINETUNA: Fine-tuning Accelerated Molecular Simulations**|Joseph Musielewicz et.al.|[2205.01223v1](http://arxiv.org/abs/2205.01223v1)|null|
+|**2022-05-02 18:41:36**|**Emotion-Controllable Generalized Talking Face Generation**|Sanjana Sinha et.al.|[2205.01155v1](http://arxiv.org/abs/2205.01155v1)|null|
 |**2022-05-02 15:09:36**|**Detection Recovery in Online Multi-Object Tracking with Sparse Graph   Tracker**|Jeongseok Hyun et.al.|[2205.00968v1](http://arxiv.org/abs/2205.00968v1)|[link](https://github.com/HYUNJS/SGT)|
 |**2022-05-02 13:33:43**|**FastGCL: Fast Self-Supervised Learning on Graphs via Contrastive   Neighborhood Aggregation**|Yuansheng Wang et.al.|[2205.00905v1](http://arxiv.org/abs/2205.00905v1)|null|
 |**2022-05-02 09:38:19**|**Large Neighborhood Search based on Neural Construction Heuristics**|Jonas K. Falkner et.al.|[2205.00772v1](http://arxiv.org/abs/2205.00772v1)|[link](https://github.com/jokofa/jampr_plus)|
@@ -26,9 +32,3 @@
 |**2022-04-27 14:00:48**|**MAPLE-Edge: A Runtime Latency Predictor for Edge Devices**|Saeejith Nair et.al.|[2204.12950v1](http://arxiv.org/abs/2204.12950v1)|null|
 |**2022-04-27 12:38:02**|**LiftPool: Lifting-based Graph Pooling for Hierarchical Graph   Representation Learning**|Mingxing Xu et.al.|[2204.12881v1](http://arxiv.org/abs/2204.12881v1)|null|
 |**2022-04-27 09:43:14**|**GTNet: A Tree-Based Deep Graph Learning Architecture**|Nan Wu et.al.|[2204.12802v1](http://arxiv.org/abs/2204.12802v1)|[link](https://github.com/nanw16/GTNet)|
-|**2022-04-27 03:40:54**|**A Practical Two-stage Ranking Framework for Cross-market Recommendation**|Zeyuan Chen et.al.|[2204.12682v1](http://arxiv.org/abs/2204.12682v1)|[link](https://github.com/loserchen/wsdm_cup_rec_2022)|
-|**2022-04-27 01:38:46**|**SCGC : Self-Supervised Contrastive Graph Clustering**|Gayan K. Kulatilleke et.al.|[2204.12656v1](http://arxiv.org/abs/2204.12656v1)|[link](https://github.com/gayanku/scgc)|
-|**2022-04-26 14:09:29**|**Investigating Accuracy-Novelty Performance for Graph-based Collaborative   Filtering**|Minghao Zhao et.al.|[2204.12326v2](http://arxiv.org/abs/2204.12326v2)|[link](https://github.com/fuxiailab/r-adjnorm)|
-|**2022-04-26 13:29:53**|**Unified GCNs: Towards Connecting GCNs with CNNs**|Ziyan Zhang et.al.|[2204.12300v1](http://arxiv.org/abs/2204.12300v1)|null|
-|**2022-04-26 12:49:51**|**Graph Neural Networks for Microbial Genome Recovery**|Andre Lamurias et.al.|[2204.12270v1](http://arxiv.org/abs/2204.12270v1)|null|
-|**2022-04-26 11:21:09**|**IRC-safe Graph Autoencoder for an unsupervised anomaly detection**|Oliver Atkinson et.al.|[2204.12231v1](http://arxiv.org/abs/2204.12231v1)|null|
