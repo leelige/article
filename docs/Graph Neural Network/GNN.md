@@ -2,8 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-04 12:59:00**|**Who Will Support My Project? Interactive Search of Potential   Crowdfunding Investors Through InSearch**| Zhang et.al.|[2205.02041v1](http://arxiv.org/abs/2205.02041v1)|null|
+|**2022-05-04 11:24:49**|**Multi-subgoal Robot Navigation in Crowds with History Information and   Interactions**|Xinyi Yu et.al.|[2205.02003v1](http://arxiv.org/abs/2205.02003v1)|null|
+|**2022-05-04 05:08:46**|**Crystal Twins: Self-supervised Learning for Crystalline Material   Property Prediction**|Rishikesh Magar et.al.|[2205.01893v1](http://arxiv.org/abs/2205.01893v1)|null|
+|**2022-05-04 01:27:36**|**Great Truths are Always Simple: A Rather Simple Knowledge Encoder for   Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models**|Jinhao Jiang et.al.|[2205.01841v1](http://arxiv.org/abs/2205.01841v1)|[link](https://github.com/rucaibox/safe)|
 |**2022-05-03 17:56:46**|**DANBO: Disentangled Articulated Neural Body Representations via Graph   Neural Networks**|Shih-Yang Su et.al.|[2205.01666v1](http://arxiv.org/abs/2205.01666v1)|null|
-|**2022-05-03 06:00:29**|**HL-Net: Heterophily Learning Network for Scene Graph Generatio**|Xin Lin et.al.|[2205.01316v1](http://arxiv.org/abs/2205.01316v1)|[link](https://github.com/siml3/HL-Net)|
+|**2022-05-03 06:00:29**|**HL-Net: Heterophily Learning Network for Scene Graph Generation**|Xin Lin et.al.|[2205.01316v2](http://arxiv.org/abs/2205.01316v2)|[link](https://github.com/siml3/HL-Net)|
 |**2022-05-03 04:21:15**|**RU-Net: Regularized Unrolling Network for Scene Graph Generation**|Xin Lin et.al.|[2205.01297v1](http://arxiv.org/abs/2205.01297v1)|[link](https://github.com/siml3/RU-Net)|
 |**2022-05-03 03:21:29**|**When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for   Sequential Recommendation**|Yu Tian et.al.|[2205.01286v1](http://arxiv.org/abs/2205.01286v1)|null|
 |**2022-05-02 21:36:01**|**FINETUNA: Fine-tuning Accelerated Molecular Simulations**|Joseph Musielewicz et.al.|[2205.01223v1](http://arxiv.org/abs/2205.01223v1)|null|
@@ -28,7 +32,3 @@
 |**2022-04-28 12:00:39**|**DOTIN: Dropping Task-Irrelevant Nodes for GNNs**|Shaofeng Zhang et.al.|[2204.13429v1](http://arxiv.org/abs/2204.13429v1)|[link](https://github.com/Sherrylone/DOTIN)|
 |**2022-04-28 00:29:29**|**Spatio-Temporal Graph Localization Networks for Image-based Navigation**|Takahiro Niwa et.al.|[2204.13237v1](http://arxiv.org/abs/2204.13237v1)|null|
 |**2022-04-27 19:18:01**|**SSR-GNNs: Stroke-based Sketch Representation with Graph Neural Networks**|Sheng Cheng et.al.|[2204.13153v1](http://arxiv.org/abs/2204.13153v1)|null|
-|**2022-04-27 17:59:25**|**FlowGNN: A Dataflow Architecture for Universal Graph Neural Network   Inference via Multi-Queue Streaming**|Rishov Sarkar et.al.|[2204.13103v1](http://arxiv.org/abs/2204.13103v1)|[link](https://github.com/sharc-lab/flowgnn)|
-|**2022-04-27 14:00:48**|**MAPLE-Edge: A Runtime Latency Predictor for Edge Devices**|Saeejith Nair et.al.|[2204.12950v1](http://arxiv.org/abs/2204.12950v1)|null|
-|**2022-04-27 12:38:02**|**LiftPool: Lifting-based Graph Pooling for Hierarchical Graph   Representation Learning**|Mingxing Xu et.al.|[2204.12881v1](http://arxiv.org/abs/2204.12881v1)|null|
-|**2022-04-27 09:43:14**|**GTNet: A Tree-Based Deep Graph Learning Architecture**|Nan Wu et.al.|[2204.12802v1](http://arxiv.org/abs/2204.12802v1)|[link](https://github.com/nanw16/GTNet)|
