@@ -14,7 +14,7 @@
 |**2022-05-03 17:56:46**|**DANBO: Disentangled Articulated Neural Body Representations via Graph   Neural Networks**|Shih-Yang Su et.al.|[2205.01666v1](http://arxiv.org/abs/2205.01666v1)|null|
 |**2022-05-03 06:00:29**|**HL-Net: Heterophily Learning Network for Scene Graph Generation**|Xin Lin et.al.|[2205.01316v2](http://arxiv.org/abs/2205.01316v2)|[link](https://github.com/siml3/HL-Net)|
 |**2022-05-03 04:21:15**|**RU-Net: Regularized Unrolling Network for Scene Graph Generation**|Xin Lin et.al.|[2205.01297v1](http://arxiv.org/abs/2205.01297v1)|[link](https://github.com/siml3/RU-Net)|
-|**2022-05-03 03:21:29**|**When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for   Sequential Recommendation**|Yu Tian et.al.|[2205.01286v1](http://arxiv.org/abs/2205.01286v1)|null|
+|**2022-05-03 03:21:29**|**When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for   Sequential Recommendation**|Yu Tian et.al.|[2205.01286v1](http://arxiv.org/abs/2205.01286v1)|[link](https://github.com/whuir/mgnm)|
 |**2022-05-02 21:36:01**|**FINETUNA: Fine-tuning Accelerated Molecular Simulations**|Joseph Musielewicz et.al.|[2205.01223v1](http://arxiv.org/abs/2205.01223v1)|null|
 |**2022-05-02 18:41:36**|**Emotion-Controllable Generalized Talking Face Generation**|Sanjana Sinha et.al.|[2205.01155v1](http://arxiv.org/abs/2205.01155v1)|null|
 |**2022-05-02 15:09:36**|**Detection Recovery in Online Multi-Object Tracking with Sparse Graph   Tracker**|Jeongseok Hyun et.al.|[2205.00968v1](http://arxiv.org/abs/2205.00968v1)|[link](https://github.com/HYUNJS/SGT)|
