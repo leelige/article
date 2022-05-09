@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-06 15:56:40**|**Learning Scalable Policies over Graphs for Multi-Robot Task Allocation   using Capsule Attention Networks**|Steve Paul et.al.|[2205.03321v1](http://arxiv.org/abs/2205.03321v1)|null|
+|**2022-05-06 09:38:35**|**LPGNet: Link Private Graph Networks for Node Classification**|Aashish Kolluri et.al.|[2205.03105v1](http://arxiv.org/abs/2205.03105v1)|null|
+|**2022-05-06 03:37:00**|**Learning Optimal Propagation for Graph Neural Networks**|Beidi Zhao et.al.|[2205.02998v1](http://arxiv.org/abs/2205.02998v1)|null|
+|**2022-05-05 20:28:15**|**RoboCraft: Learning to See, Simulate, and Shape Elasto-Plastic Objects   with Graph Networks**|Haochen Shi et.al.|[2205.02909v1](http://arxiv.org/abs/2205.02909v1)|null|
+|**2022-05-05 19:14:54**|**Analytical results for the distribution of first-passage times of random   walks on random regular graphs**|Ido Tishby et.al.|[2205.02893v1](http://arxiv.org/abs/2205.02893v1)|null|
 |**2022-05-05 16:44:36**|**Spiking Graph Convolutional Networks**|Zulun Zhu et.al.|[2205.02767v1](http://arxiv.org/abs/2205.02767v1)|[link](https://github.com/zulunzhu/spikinggcn)|
 |**2022-05-05 13:33:03**|**Towards Fast Simulation of Environmental Fluid Mechanics with   Multi-Scale Graph Neural Networks**|Mario Lino et.al.|[2205.02637v1](http://arxiv.org/abs/2205.02637v1)|null|
 |**2022-05-05 06:48:13**|**Alignahead: Online Cross-Layer Knowledge Extraction on Graph Neural   Networks**|Jiongyu Guo et.al.|[2205.02468v1](http://arxiv.org/abs/2205.02468v1)|[link](https://github.com/guojy-eatstg/alignahead)|
@@ -10,6 +15,7 @@
 |**2022-05-04 12:59:00**|**Who Will Support My Project? Interactive Search of Potential   Crowdfunding Investors Through InSearch**|Songheng Zhang et.al.|[2205.02041v2](http://arxiv.org/abs/2205.02041v2)|null|
 |**2022-05-04 11:24:49**|**Multi-subgoal Robot Navigation in Crowds with History Information and   Interactions**|Xinyi Yu et.al.|[2205.02003v1](http://arxiv.org/abs/2205.02003v1)|null|
 |**2022-05-04 05:08:46**|**Crystal Twins: Self-supervised Learning for Crystalline Material   Property Prediction**|Rishikesh Magar et.al.|[2205.01893v1](http://arxiv.org/abs/2205.01893v1)|null|
+|**2022-05-04 03:21:11**|**Trust-SIoT: Towards Trustworthy Object Classification in the Social   Internet of Things**|Subhash Sagar et.al.|[2205.03226v1](http://arxiv.org/abs/2205.03226v1)|null|
 |**2022-05-04 01:27:36**|**Great Truths are Always Simple: A Rather Simple Knowledge Encoder for   Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models**|Jinhao Jiang et.al.|[2205.01841v1](http://arxiv.org/abs/2205.01841v1)|[link](https://github.com/rucaibox/safe)|
 |**2022-05-03 17:56:46**|**DANBO: Disentangled Articulated Neural Body Representations via Graph   Neural Networks**|Shih-Yang Su et.al.|[2205.01666v1](http://arxiv.org/abs/2205.01666v1)|null|
 |**2022-05-03 06:00:29**|**HL-Net: Heterophily Learning Network for Scene Graph Generation**|Xin Lin et.al.|[2205.01316v2](http://arxiv.org/abs/2205.01316v2)|[link](https://github.com/siml3/HL-Net)|
@@ -26,9 +32,3 @@
 |**2022-05-01 19:40:18**|**Heterogeneous graph neural network for power allocation in   multicarrier-division duplex cell-free massive MIMO systems**|Bohan Li et.al.|[2205.00546v2](http://arxiv.org/abs/2205.00546v2)|null|
 |**2022-05-01 16:03:54**|**CUP: Curriculum Learning based Prompt Tuning for Implicit Event Argument   Extraction**|Jiaju Lin et.al.|[2205.00498v1](http://arxiv.org/abs/2205.00498v1)|[link](https://github.com/linmou/cup)|
 |**2022-05-01 08:45:43**|**Unified Abstract Syntax Tree Representation Learning for Cross-Language   Program Classification**|Kesu Wang et.al.|[2205.00424v1](http://arxiv.org/abs/2205.00424v1)|null|
-|**2022-04-30 22:13:20**|**Graph Anisotropic Diffusion**|Ahmed A. A. Elhag et.al.|[2205.00354v1](http://arxiv.org/abs/2205.00354v1)|[link](https://github.com/ahmed-a-a-elhag/gad)|
-|**2022-04-30 12:57:02**|**Heterogeneous Graph Neural Networks using Self-supervised Reciprocally   Contrastive Learning**|Di Jin et.al.|[2205.00256v1](http://arxiv.org/abs/2205.00256v1)|null|
-|**2022-04-29 13:52:35**|**Reducing Neural Architecture Search Spaces with Training-Free Statistics   and Computational Graph Clustering**|Thorir Mar Ingolfsson et.al.|[2204.14103v1](http://arxiv.org/abs/2204.14103v1)|null|
-|**2022-04-29 09:45:44**|**Size Generalization for Resource Allocation with Graph Neural Networks**|Wu Jiajun et.al.|[2204.13972v1](http://arxiv.org/abs/2204.13972v1)|null|
-|**2022-04-28 20:38:39**|**Distributed Auto-Learning GNN for Multi-Cell Cluster-Free NOMA   Communications**|Xiaoxia Xu et.al.|[2204.13766v1](http://arxiv.org/abs/2204.13766v1)|null|
-|**2022-04-28 19:16:31**|**GCN-FFNN: A Two-Stream Deep Model for Learning Solution to Partial   Differential Equations**|Onur Bilgin et.al.|[2204.13744v1](http://arxiv.org/abs/2204.13744v1)|[link](https://github.com/smehrkanoon/lssvm-pde-solver)|
