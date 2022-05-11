@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-05-10 16:09:26 Asia/Shanghai
+ 自动更新 @ 2022-05-11 16:09:30 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -78,11 +78,17 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-10 08:17:53**|**Flow Completion Network: Inferring the Fluid Dynamics from Incomplete   Flow Information using Graph Neural Networks**|Xiaodong He et.al.|[2205.04739v1](http://arxiv.org/abs/2205.04739v1)|null|
+|**2022-05-10 07:25:30**|**SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage   Processing Architectures**|Yunjae Lee et.al.|[2205.04711v1](http://arxiv.org/abs/2205.04711v1)|null|
+|**2022-05-10 06:27:32**|**Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the   Federated Setting**|Mingyang Chen et.al.|[2205.04692v1](http://arxiv.org/abs/2205.04692v1)|[link](https://github.com/zjukg/maker)|
+|**2022-05-09 23:11:56**|**Neural Optimal Stopping Boundary**|A. Max Reppen et.al.|[2205.04595v1](http://arxiv.org/abs/2205.04595v1)|null|
+|**2022-05-09 22:48:39**|**Towards Optimal VPU Compiler Cost Modeling by using Neural Networks to   Infer Hardware Performances**|Ian Frederick Vigogne Goodbody Hunter et.al.|[2205.04586v1](http://arxiv.org/abs/2205.04586v1)|null|
 |**2022-05-09 17:03:13**|**Graph Neural Networks for Propositional Model Counting**|Gaia Saveri et.al.|[2205.04423v1](http://arxiv.org/abs/2205.04423v1)|null|
 |**2022-05-09 11:08:43**|**Joint learning of object graph and relation graph for visual question   answering**|Hao Li et.al.|[2205.04188v1](http://arxiv.org/abs/2205.04188v1)|null|
 |**2022-05-09 10:27:30**|**Multi-Fingered In-Hand Manipulation with Various Object Properties Using   Graph Convolutional Networks and Distributed Tactile Sensors**|Satoshi Funabashi et.al.|[2205.04169v1](http://arxiv.org/abs/2205.04169v1)|null|
 |**2022-05-08 08:19:40**|**Data-Free Adversarial Knowledge Distillation for Graph Neural Networks**|Yuanxin Zhuang et.al.|[2205.03811v1](http://arxiv.org/abs/2205.03811v1)|null|
 |**2022-05-08 05:30:19**|**GRAPHCACHE: Message Passing as Caching for Sentence-Level Relation   Extraction**|Yiwei Wang et.al.|[2205.03786v1](http://arxiv.org/abs/2205.03786v1)|null|
+|**2022-05-08 04:50:16**|**Adaptive Graph Convolutional Network Framework for Multidimensional Time   Series Prediction**|Ning Wang et.al.|[2205.04885v1](http://arxiv.org/abs/2205.04885v1)|null|
 |**2022-05-07 09:35:23**|**BrainIB: Interpretable Brain Network-based Psychiatric Diagnosis with   Graph Information Bottleneck**|Kaizhong Zheng et.al.|[2205.03612v1](http://arxiv.org/abs/2205.03612v1)|null|
 |**2022-05-07 04:17:25**|**Bandits for Structure Perturbation-based Black-box Attacks to Graph   Neural Networks with Theoretical Guarantees**|Binghui Wang et.al.|[2205.03546v1](http://arxiv.org/abs/2205.03546v1)|[link](https://github.com/metaoblivion/bandit_gnn_attack)|
 |**2022-05-06 15:56:40**|**Learning Scalable Policies over Graphs for Multi-Robot Task Allocation   using Capsule Attention Networks**|Steve Paul et.al.|[2205.03321v1](http://arxiv.org/abs/2205.03321v1)|[link](https://github.com/adamslab-ub/capam-mrta)|
@@ -101,10 +107,4 @@
 |**2022-05-04 03:21:11**|**Trust-SIoT: Towards Trustworthy Object Classification in the Social   Internet of Things**|Subhash Sagar et.al.|[2205.03226v1](http://arxiv.org/abs/2205.03226v1)|null|
 |**2022-05-04 01:27:36**|**Great Truths are Always Simple: A Rather Simple Knowledge Encoder for   Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models**|Jinhao Jiang et.al.|[2205.01841v1](http://arxiv.org/abs/2205.01841v1)|[link](https://github.com/rucaibox/safe)|
 |**2022-05-03 17:56:46**|**DANBO: Disentangled Articulated Neural Body Representations via Graph   Neural Networks**|Shih-Yang Su et.al.|[2205.01666v1](http://arxiv.org/abs/2205.01666v1)|null|
-|**2022-05-03 06:00:29**|**HL-Net: Heterophily Learning Network for Scene Graph Generation**|Xin Lin et.al.|[2205.01316v2](http://arxiv.org/abs/2205.01316v2)|[link](https://github.com/siml3/HL-Net)|
-|**2022-05-03 04:21:15**|**RU-Net: Regularized Unrolling Network for Scene Graph Generation**|Xin Lin et.al.|[2205.01297v1](http://arxiv.org/abs/2205.01297v1)|[link](https://github.com/siml3/RU-Net)|
-|**2022-05-03 03:21:29**|**When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for   Sequential Recommendation**|Yu Tian et.al.|[2205.01286v1](http://arxiv.org/abs/2205.01286v1)|[link](https://github.com/whuir/mgnm)|
-|**2022-05-02 21:36:01**|**FINETUNA: Fine-tuning Accelerated Molecular Simulations**|Joseph Musielewicz et.al.|[2205.01223v1](http://arxiv.org/abs/2205.01223v1)|null|
-|**2022-05-02 18:41:36**|**Emotion-Controllable Generalized Talking Face Generation**|Sanjana Sinha et.al.|[2205.01155v1](http://arxiv.org/abs/2205.01155v1)|null|
-|**2022-05-02 15:09:36**|**Detection Recovery in Online Multi-Object Tracking with Sparse Graph   Tracker**|Jeongseok Hyun et.al.|[2205.00968v1](http://arxiv.org/abs/2205.00968v1)|[link](https://github.com/hyunjs/sgt)|
-|**2022-05-02 13:33:43**|**FastGCL: Fast Self-Supervised Learning on Graphs via Contrastive   Neighborhood Aggregation**|Yuansheng Wang et.al.|[2205.00905v1](http://arxiv.org/abs/2205.00905v1)|null|
+|**2022-05-03 11:52:54**|**RLFlow: Optimising Neural Network Subgraph Transformation with World   Models**|Sean Parker et.al.|[2205.01435v2](http://arxiv.org/abs/2205.01435v2)|[link](https://github.com/seanjparker/rlflow)|
