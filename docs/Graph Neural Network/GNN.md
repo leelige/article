@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-11 13:20:20**|**Efficient prediction of density functional theory Hamiltonian with graph   neural network**|Mao Su et.al.|[2205.05475v1](http://arxiv.org/abs/2205.05475v1)|null|
+|**2022-05-11 10:26:02**|**AutoKE: An automatic knowledge embedding framework for scientific   machine learning**|Mengge Du et.al.|[2205.05390v1](http://arxiv.org/abs/2205.05390v1)|null|
+|**2022-05-11 08:51:04**|**NDGGNET-A Node Independent Gate based Graph Neural Networks**|Ye Tang et.al.|[2205.05348v1](http://arxiv.org/abs/2205.05348v1)|null|
+|**2022-05-11 03:36:35**|**Spatial-temporal associations representation and application for process   monitoring using graph convolution neural network**|Hao Ren et.al.|[2205.05250v1](http://arxiv.org/abs/2205.05250v1)|null|
 |**2022-05-10 08:17:53**|**Flow Completion Network: Inferring the Fluid Dynamics from Incomplete   Flow Information using Graph Neural Networks**|Xiaodong He et.al.|[2205.04739v1](http://arxiv.org/abs/2205.04739v1)|null|
 |**2022-05-10 07:25:30**|**SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage   Processing Architectures**|Yunjae Lee et.al.|[2205.04711v1](http://arxiv.org/abs/2205.04711v1)|null|
 |**2022-05-10 06:27:32**|**Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the   Federated Setting**|Mingyang Chen et.al.|[2205.04692v1](http://arxiv.org/abs/2205.04692v1)|[link](https://github.com/zjukg/maker)|
@@ -28,7 +32,3 @@
 |**2022-05-04 12:59:00**|**Who Will Support My Project? Interactive Search of Potential   Crowdfunding Investors Through InSearch**|Songheng Zhang et.al.|[2205.02041v2](http://arxiv.org/abs/2205.02041v2)|null|
 |**2022-05-04 11:24:49**|**Multi-subgoal Robot Navigation in Crowds with History Information and   Interactions**|Xinyi Yu et.al.|[2205.02003v1](http://arxiv.org/abs/2205.02003v1)|null|
 |**2022-05-04 05:08:46**|**Crystal Twins: Self-supervised Learning for Crystalline Material   Property Prediction**|Rishikesh Magar et.al.|[2205.01893v1](http://arxiv.org/abs/2205.01893v1)|null|
-|**2022-05-04 03:21:11**|**Trust-SIoT: Towards Trustworthy Object Classification in the Social   Internet of Things**|Subhash Sagar et.al.|[2205.03226v1](http://arxiv.org/abs/2205.03226v1)|null|
-|**2022-05-04 01:27:36**|**Great Truths are Always Simple: A Rather Simple Knowledge Encoder for   Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models**|Jinhao Jiang et.al.|[2205.01841v1](http://arxiv.org/abs/2205.01841v1)|[link](https://github.com/rucaibox/safe)|
-|**2022-05-03 17:56:46**|**DANBO: Disentangled Articulated Neural Body Representations via Graph   Neural Networks**|Shih-Yang Su et.al.|[2205.01666v1](http://arxiv.org/abs/2205.01666v1)|null|
-|**2022-05-03 11:52:54**|**RLFlow: Optimising Neural Network Subgraph Transformation with World   Models**|Sean Parker et.al.|[2205.01435v2](http://arxiv.org/abs/2205.01435v2)|[link](https://github.com/seanjparker/rlflow)|
