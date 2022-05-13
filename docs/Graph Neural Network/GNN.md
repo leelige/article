@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-12 10:28:46**|**Learning Generalized Policies Without Supervision Using GNNs**|Simon Ståhlberg et.al.|[2205.06002v1](http://arxiv.org/abs/2205.06002v1)|null|
+|**2022-05-12 09:06:04**|**GPN: A Joint Structural Learning Framework for Graph Neural Networks**|Qianggang Ding et.al.|[2205.05964v1](http://arxiv.org/abs/2205.05964v1)|null|
+|**2022-05-12 08:58:30**|**Robot Cooking with Stir-fry: Bimanual Non-prehensile Manipulation of   Semi-fluid Objects**|Junjia Liu et.al.|[2205.05960v1](http://arxiv.org/abs/2205.05960v1)|null|
+|**2022-05-12 03:21:45**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for   Camera Relocalization**|Ran Cheng et.al.|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
 |**2022-05-11 13:20:20**|**Efficient prediction of density functional theory Hamiltonian with graph   neural network**|Mao Su et.al.|[2205.05475v1](http://arxiv.org/abs/2205.05475v1)|null|
 |**2022-05-11 10:26:02**|**AutoKE: An automatic knowledge embedding framework for scientific   machine learning**|Mengge Du et.al.|[2205.05390v1](http://arxiv.org/abs/2205.05390v1)|null|
 |**2022-05-11 08:51:04**|**NDGGNET-A Node Independent Gate based Graph Neural Networks**|Ye Tang et.al.|[2205.05348v1](http://arxiv.org/abs/2205.05348v1)|null|
@@ -28,7 +32,3 @@
 |**2022-05-05 13:33:03**|**Towards Fast Simulation of Environmental Fluid Mechanics with   Multi-Scale Graph Neural Networks**|Mario Lino et.al.|[2205.02637v1](http://arxiv.org/abs/2205.02637v1)|null|
 |**2022-05-05 06:48:13**|**Alignahead: Online Cross-Layer Knowledge Extraction on Graph Neural   Networks**|Jiongyu Guo et.al.|[2205.02468v1](http://arxiv.org/abs/2205.02468v1)|[link](https://github.com/guojy-eatstg/alignahead)|
 |**2022-05-05 05:54:24**|**COGMEN: COntextualized GNN based Multimodal Emotion recognitioN**|Abhinav Joshi et.al.|[2205.02455v1](http://arxiv.org/abs/2205.02455v1)|[link](https://github.com/exploration-lab/cogmen)|
-|**2022-05-04 21:33:56**|**Learning Individual Interactions from Population Dynamics with   Discrete-Event Simulation Model**|Yan Shen et.al.|[2205.02332v1](http://arxiv.org/abs/2205.02332v1)|null|
-|**2022-05-04 12:59:00**|**Who Will Support My Project? Interactive Search of Potential   Crowdfunding Investors Through InSearch**|Songheng Zhang et.al.|[2205.02041v2](http://arxiv.org/abs/2205.02041v2)|null|
-|**2022-05-04 11:24:49**|**Multi-subgoal Robot Navigation in Crowds with History Information and   Interactions**|Xinyi Yu et.al.|[2205.02003v1](http://arxiv.org/abs/2205.02003v1)|null|
-|**2022-05-04 05:08:46**|**Crystal Twins: Self-supervised Learning for Crystalline Material   Property Prediction**|Rishikesh Magar et.al.|[2205.01893v1](http://arxiv.org/abs/2205.01893v1)|null|

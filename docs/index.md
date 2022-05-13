@@ -1,11 +1,48 @@
 # arxiv-daily
- 自动更新 @ 2022-05-12 16:08:00 Asia/Shanghai
+ 自动更新 @ 2022-05-13 16:07:33 Asia/Shanghai
+
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-05-12 12:21:11**|**Link recommendations: Their impact on network structure and minorities**|Antonio Ferrara et.al.|[2205.06048v1](http://arxiv.org/abs/2205.06048v1)|null|
+|**2022-05-12 09:30:23**|**TaDeR: A New Task Dependency Recommendation for Project Management   Platform**|Quynh Nguyen et.al.|[2205.05976v1](http://arxiv.org/abs/2205.05976v1)|null|
+|**2022-05-12 02:26:21**|**Ultra-High-Energy Cosmic Rays: The Intersection of the Cosmic and Energy   Frontiers**|A. Coleman et.al.|[2205.05845v1](http://arxiv.org/abs/2205.05845v1)|null|
+|**2022-05-11 20:06:03**|**"There Is Not Enough Information": On the Effects of Explanations on   Perceptions of Informational Fairness and Trustworthiness in Automated   Decision-Making**|Jakob Schoeffer et.al.|[2205.05758v1](http://arxiv.org/abs/2205.05758v1)|null|
+|**2022-05-11 16:49:23**|**Leveraging baseline covariates to analyze small cluster-randomized   trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|
+|**2022-05-02 14:24:11**|**Creative Uses of AI Systems and their Explanations: A Case Study from   Insurance**|Michaela Benk et.al.|[2205.00931v2](http://arxiv.org/abs/2205.00931v2)|null|
+|**2022-04-30 17:33:51**|**FairSR: Fairness-aware Sequential Recommendation through Multi-Task   Learning with Preference Graph Embeddings**|Cheng-Te Li et.al.|[2205.00313v1](http://arxiv.org/abs/2205.00313v1)|null|
+|**2022-04-29 19:13:23**|**Joint Multisided Exposure Fairness for Recommendation**|Haolun Wu et.al.|[2205.00048v1](http://arxiv.org/abs/2205.00048v1)|null|
+|**2022-04-29 17:17:43**|**Implementation of FAIR principles in the IPCC: The WGI AR6 Atlas   repository**|Maialen Iturbide et.al.|[2204.14245v1](http://arxiv.org/abs/2204.14245v1)|null|
+|**2022-04-25 17:49:51**|**A new preferential model with homophily for recommender systems**|Hanyang Tian et.al.|[2204.11819v1](http://arxiv.org/abs/2204.11819v1)|null|
+|**2022-04-24 10:57:45**|**Regulating Group Exposure for Item Providers in Recommendation**|Mirko Marras et.al.|[2204.11243v1](http://arxiv.org/abs/2204.11243v1)|null|
+|**2022-04-24 10:51:54**|**Post Processing Recommender Systems with Knowledge Graphs for Recency,   Popularity, and Diversity of Explanations**|Giacomo Balloccu et.al.|[2204.11241v1](http://arxiv.org/abs/2204.11241v1)|[link](https://github.com/giacoballoccu/explanation-quality-recsys)|
+|**2022-04-22 20:22:06**|**Subscriptions and external links help drive resentful users to   alternative and extremist YouTube videos**|Annie Y. Chen et.al.|[2204.10921v1](http://arxiv.org/abs/2204.10921v1)|null|
+|**2022-04-22 17:58:10**|**Exploiting Session Information in BERT-based Session-aware Sequential   Recommendation**|Jinseok Seol et.al.|[2204.10851v2](http://arxiv.org/abs/2204.10851v2)|[link](https://github.com/theeluwin/session-aware-bert4rec)|
+|**2022-04-21 14:01:00**|**A systematic review of guidelines for the use of race, ethnicity, and   ancestry reveals widespread consensus but also points of ongoing disagreement**|Madelyn Mauro et.al.|[2204.10672v1](http://arxiv.org/abs/2204.10672v1)|null|
+|**2022-04-16 08:30:08**|**From Parental Control to Joint Family Oversight: Can Parents and Teens   Manage Mobile Online Safety and Privacy as Equals?**|Mamtaj Akter et.al.|[2204.07749v1](http://arxiv.org/abs/2204.07749v1)|null|
+|**2022-04-13 13:09:35**|**AHP: Learning to Negative Sample for Hyperedge Prediction**|Hyunjin Hwang et.al.|[2204.06353v2](http://arxiv.org/abs/2204.06353v2)|[link](https://github.com/hyunjinhwn/sigir22-ahp)|
+|**2022-04-12 05:59:39**|**Not always about you: Prioritizing community needs when developing   endangered language technology**|Zoey Liu et.al.|[2204.05541v1](http://arxiv.org/abs/2204.05541v1)|null|
+|**2022-04-07 19:30:55**|**Introducing a Framework and a Decision Protocol to Calibrate Recommender   Systems**|Diego Corrêa da Silva et.al.|[2204.03706v1](http://arxiv.org/abs/2204.03706v1)|null|
+|**2022-04-07 16:20:04**|**Study of alternative locations for the SPS Beam Dump Facility**|Oliver Aberle et.al.|[2204.03549v1](http://arxiv.org/abs/2204.03549v1)|null|
+|**2022-04-06 19:00:02**|**Effective Exposure Amortizing for Fair Top-k Recommendation**|Tao Yang et.al.|[2204.03046v1](http://arxiv.org/abs/2204.03046v1)|null|
+|**2022-04-06 05:52:08**|**Thinking inside The Box: Learning Hypercube Representations for Group   Recommendation**|Tong Chen et.al.|[2204.02592v1](http://arxiv.org/abs/2204.02592v1)|[link](https://github.com/jinglong0407/cuberec)|
+|**2022-04-04 06:37:19**|**Into-TTS : Intonation Template based Prosody Control System**|Jihwan Lee et.al.|[2204.01271v1](http://arxiv.org/abs/2204.01271v1)|null|
+|**2022-04-02 19:28:13**|**Learning to Augment for Casual User Recommendation**|Jianling Wang et.al.|[2204.00926v1](http://arxiv.org/abs/2204.00926v1)|null|
+|**2022-04-02 16:32:42**|**Equity, diversity, and inclusion in sports analytics**|Craig Fernandes et.al.|[2204.00896v1](http://arxiv.org/abs/2204.00896v1)|null|
+|**2022-03-30 11:00:11**|**Decentralized Collaborative Learning Framework for Next POI   Recommendation**|Jing Long et.al.|[2204.06516v2](http://arxiv.org/abs/2204.06516v2)|null|
+|**2022-03-30 04:52:54**|**Automatic Facial Skin Feature Detection for Everyone**|Qian Zheng et.al.|[2203.16056v1](http://arxiv.org/abs/2203.16056v1)|null|
+|**2022-03-29 07:53:46**|**Better Integrators for Functional Renormalization Group Calculations**|Jacob Beyer et.al.|[2203.15306v1](http://arxiv.org/abs/2203.15306v1)|null|
+|**2022-03-26 05:46:59**|**A Work Proposal for a Collaborative Study of Magnet Technology for a   Future Muon Collider**|L. Bottura et.al.|[2203.13998v2](http://arxiv.org/abs/2203.13998v2)|null|
+|**2022-03-22 06:56:06**|**Making Recommender Systems Forget: Learning and Unlearning for Erasable   Recommendation**|Yuyuan Li et.al.|[2203.11491v1](http://arxiv.org/abs/2203.11491v1)|null|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-12 16:42:24**|**kNN-Embed: Locally Smoothed Embedding Mixtures For Multi-interest   Candidate Retrieval**|Ahmed El-Kishky et.al.|[2205.06205v1](http://arxiv.org/abs/2205.06205v1)|null|
 |**2022-05-09 15:06:16**|**Effectively Using Long and Short Sessions for Multi-Session-based   Recommendations**|Zihan Wang et.al.|[2205.04366v1](http://arxiv.org/abs/2205.04366v1)|null|
 |**2022-05-03 03:21:29**|**When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for   Sequential Recommendation**|Yu Tian et.al.|[2205.01286v1](http://arxiv.org/abs/2205.01286v1)|[link](https://github.com/whuir/mgnm)|
 |**2022-04-29 13:05:41**|**Gating-adapted Wavelet Multiresolution Analysis for Exposure Sequence   Modeling in CTR prediction**|Xiaoxiao Xu et.al.|[2204.14069v1](http://arxiv.org/abs/2204.14069v1)|null|
@@ -35,13 +72,16 @@
 |**2021-12-06 05:10:01**|**Gumble Softmax For User Behavior Modeling**|Weiqi Shao et.al.|[2112.02787v2](http://arxiv.org/abs/2112.02787v2)|null|
 |**2021-11-30 02:10:02**|**MISS: Multi-Interest Self-Supervised Learning Framework for   Click-Through Rate Prediction**|Wei Guo et.al.|[2111.15068v2](http://arxiv.org/abs/2111.15068v2)|null|
 |**2021-11-29 17:50:22**|**Dynamic Inference**|Aolin Xu et.al.|[2111.14746v2](http://arxiv.org/abs/2111.14746v2)|null|
-|**2021-11-17 01:59:15**|**Max-Min Grouped Bandits**|Zhenlin Wang et.al.|[2111.08862v2](http://arxiv.org/abs/2111.08862v2)|null|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-12 10:28:46**|**Learning Generalized Policies Without Supervision Using GNNs**|Simon Ståhlberg et.al.|[2205.06002v1](http://arxiv.org/abs/2205.06002v1)|null|
+|**2022-05-12 09:06:04**|**GPN: A Joint Structural Learning Framework for Graph Neural Networks**|Qianggang Ding et.al.|[2205.05964v1](http://arxiv.org/abs/2205.05964v1)|null|
+|**2022-05-12 08:58:30**|**Robot Cooking with Stir-fry: Bimanual Non-prehensile Manipulation of   Semi-fluid Objects**|Junjia Liu et.al.|[2205.05960v1](http://arxiv.org/abs/2205.05960v1)|null|
+|**2022-05-12 03:21:45**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for   Camera Relocalization**|Ran Cheng et.al.|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
 |**2022-05-11 13:20:20**|**Efficient prediction of density functional theory Hamiltonian with graph   neural network**|Mao Su et.al.|[2205.05475v1](http://arxiv.org/abs/2205.05475v1)|null|
 |**2022-05-11 10:26:02**|**AutoKE: An automatic knowledge embedding framework for scientific   machine learning**|Mengge Du et.al.|[2205.05390v1](http://arxiv.org/abs/2205.05390v1)|null|
 |**2022-05-11 08:51:04**|**NDGGNET-A Node Independent Gate based Graph Neural Networks**|Ye Tang et.al.|[2205.05348v1](http://arxiv.org/abs/2205.05348v1)|null|
@@ -68,43 +108,3 @@
 |**2022-05-05 13:33:03**|**Towards Fast Simulation of Environmental Fluid Mechanics with   Multi-Scale Graph Neural Networks**|Mario Lino et.al.|[2205.02637v1](http://arxiv.org/abs/2205.02637v1)|null|
 |**2022-05-05 06:48:13**|**Alignahead: Online Cross-Layer Knowledge Extraction on Graph Neural   Networks**|Jiongyu Guo et.al.|[2205.02468v1](http://arxiv.org/abs/2205.02468v1)|[link](https://github.com/guojy-eatstg/alignahead)|
 |**2022-05-05 05:54:24**|**COGMEN: COntextualized GNN based Multimodal Emotion recognitioN**|Abhinav Joshi et.al.|[2205.02455v1](http://arxiv.org/abs/2205.02455v1)|[link](https://github.com/exploration-lab/cogmen)|
-|**2022-05-04 21:33:56**|**Learning Individual Interactions from Population Dynamics with   Discrete-Event Simulation Model**|Yan Shen et.al.|[2205.02332v1](http://arxiv.org/abs/2205.02332v1)|null|
-|**2022-05-04 12:59:00**|**Who Will Support My Project? Interactive Search of Potential   Crowdfunding Investors Through InSearch**|Songheng Zhang et.al.|[2205.02041v2](http://arxiv.org/abs/2205.02041v2)|null|
-|**2022-05-04 11:24:49**|**Multi-subgoal Robot Navigation in Crowds with History Information and   Interactions**|Xinyi Yu et.al.|[2205.02003v1](http://arxiv.org/abs/2205.02003v1)|null|
-|**2022-05-04 05:08:46**|**Crystal Twins: Self-supervised Learning for Crystalline Material   Property Prediction**|Rishikesh Magar et.al.|[2205.01893v1](http://arxiv.org/abs/2205.01893v1)|null|
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-05-11 16:49:23**|**Leveraging baseline covariates to analyze small cluster-randomized   trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|
-|**2022-05-02 14:24:11**|**Creative Uses of AI Systems and their Explanations: A Case Study from   Insurance**|Michaela Benk et.al.|[2205.00931v2](http://arxiv.org/abs/2205.00931v2)|null|
-|**2022-04-30 17:33:51**|**FairSR: Fairness-aware Sequential Recommendation through Multi-Task   Learning with Preference Graph Embeddings**|Cheng-Te Li et.al.|[2205.00313v1](http://arxiv.org/abs/2205.00313v1)|null|
-|**2022-04-29 19:13:23**|**Joint Multisided Exposure Fairness for Recommendation**|Haolun Wu et.al.|[2205.00048v1](http://arxiv.org/abs/2205.00048v1)|null|
-|**2022-04-29 17:17:43**|**Implementation of FAIR principles in the IPCC: The WGI AR6 Atlas   repository**|Maialen Iturbide et.al.|[2204.14245v1](http://arxiv.org/abs/2204.14245v1)|null|
-|**2022-04-25 17:49:51**|**A new preferential model with homophily for recommender systems**|Hanyang Tian et.al.|[2204.11819v1](http://arxiv.org/abs/2204.11819v1)|null|
-|**2022-04-24 10:57:45**|**Regulating Group Exposure for Item Providers in Recommendation**|Mirko Marras et.al.|[2204.11243v1](http://arxiv.org/abs/2204.11243v1)|null|
-|**2022-04-24 10:51:54**|**Post Processing Recommender Systems with Knowledge Graphs for Recency,   Popularity, and Diversity of Explanations**|Giacomo Balloccu et.al.|[2204.11241v1](http://arxiv.org/abs/2204.11241v1)|[link](https://github.com/giacoballoccu/explanation-quality-recsys)|
-|**2022-04-22 20:22:06**|**Subscriptions and external links help drive resentful users to   alternative and extremist YouTube videos**|Annie Y. Chen et.al.|[2204.10921v1](http://arxiv.org/abs/2204.10921v1)|null|
-|**2022-04-22 17:58:10**|**Exploiting Session Information in BERT-based Session-aware Sequential   Recommendation**|Jinseok Seol et.al.|[2204.10851v2](http://arxiv.org/abs/2204.10851v2)|[link](https://github.com/theeluwin/session-aware-bert4rec)|
-|**2022-04-21 14:01:00**|**A systematic review of guidelines for the use of race, ethnicity, and   ancestry reveals widespread consensus but also points of ongoing disagreement**|Madelyn Mauro et.al.|[2204.10672v1](http://arxiv.org/abs/2204.10672v1)|null|
-|**2022-04-16 08:30:08**|**From Parental Control to Joint Family Oversight: Can Parents and Teens   Manage Mobile Online Safety and Privacy as Equals?**|Mamtaj Akter et.al.|[2204.07749v1](http://arxiv.org/abs/2204.07749v1)|null|
-|**2022-04-13 13:09:35**|**AHP: Learning to Negative Sample for Hyperedge Prediction**|Hyunjin Hwang et.al.|[2204.06353v2](http://arxiv.org/abs/2204.06353v2)|[link](https://github.com/hyunjinhwn/sigir22-ahp)|
-|**2022-04-12 05:59:39**|**Not always about you: Prioritizing community needs when developing   endangered language technology**|Zoey Liu et.al.|[2204.05541v1](http://arxiv.org/abs/2204.05541v1)|null|
-|**2022-04-07 19:30:55**|**Introducing a Framework and a Decision Protocol to Calibrate Recommender   Systems**|Diego Corrêa da Silva et.al.|[2204.03706v1](http://arxiv.org/abs/2204.03706v1)|null|
-|**2022-04-07 16:20:04**|**Study of alternative locations for the SPS Beam Dump Facility**|Oliver Aberle et.al.|[2204.03549v1](http://arxiv.org/abs/2204.03549v1)|null|
-|**2022-04-06 19:00:02**|**Effective Exposure Amortizing for Fair Top-k Recommendation**|Tao Yang et.al.|[2204.03046v1](http://arxiv.org/abs/2204.03046v1)|null|
-|**2022-04-06 05:52:08**|**Thinking inside The Box: Learning Hypercube Representations for Group   Recommendation**|Tong Chen et.al.|[2204.02592v1](http://arxiv.org/abs/2204.02592v1)|[link](https://github.com/jinglong0407/cuberec)|
-|**2022-04-04 06:37:19**|**Into-TTS : Intonation Template based Prosody Control System**|Jihwan Lee et.al.|[2204.01271v1](http://arxiv.org/abs/2204.01271v1)|null|
-|**2022-04-02 19:28:13**|**Learning to Augment for Casual User Recommendation**|Jianling Wang et.al.|[2204.00926v1](http://arxiv.org/abs/2204.00926v1)|null|
-|**2022-04-02 16:32:42**|**Equity, diversity, and inclusion in sports analytics**|Craig Fernandes et.al.|[2204.00896v1](http://arxiv.org/abs/2204.00896v1)|null|
-|**2022-03-30 11:00:11**|**Decentralized Collaborative Learning Framework for Next POI   Recommendation**|Jing Long et.al.|[2204.06516v2](http://arxiv.org/abs/2204.06516v2)|null|
-|**2022-03-30 04:52:54**|**Automatic Facial Skin Feature Detection for Everyone**|Qian Zheng et.al.|[2203.16056v1](http://arxiv.org/abs/2203.16056v1)|null|
-|**2022-03-29 07:53:46**|**Better Integrators for Functional Renormalization Group Calculations**|Jacob Beyer et.al.|[2203.15306v1](http://arxiv.org/abs/2203.15306v1)|null|
-|**2022-03-26 05:46:59**|**A Work Proposal for a Collaborative Study of Magnet Technology for a   Future Muon Collider**|L. Bottura et.al.|[2203.13998v2](http://arxiv.org/abs/2203.13998v2)|null|
-|**2022-03-22 06:56:06**|**Making Recommender Systems Forget: Learning and Unlearning for Erasable   Recommendation**|Yuyuan Li et.al.|[2203.11491v1](http://arxiv.org/abs/2203.11491v1)|null|
-|**2022-03-21 14:59:40**|**Facilitating Non-HEP Career Transition**|Sudhir Malik et.al.|[2203.11665v2](http://arxiv.org/abs/2203.11665v2)|null|
-|**2022-03-17 22:40:39**|**Rare-earth-free noncollinear metallic ferrimagnets Mn4-xZxN with   compensation at room temperature**|Rui Zhang et.al.|[2203.09641v1](http://arxiv.org/abs/2203.09641v1)|null|
-|**2022-03-17 18:02:40**|**Revisiting the Solar Research Cyberinfrastructure Needs: A White Paper   of Findings and Recommendations**|Gelu Nita et.al.|[2203.09544v1](http://arxiv.org/abs/2203.09544v1)|null|
-|**2022-03-16 22:18:52**|**Opportunities for Technosignature Science in the Astro2020 Report**|Jacob Haqq-Misra et.al.|[2203.08968v1](http://arxiv.org/abs/2203.08968v1)|null|
