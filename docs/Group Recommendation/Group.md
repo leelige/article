@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-05-12 12:21:11**|**Link recommendations: Their impact on network structure and minorities**|Antonio Ferrara et.al.|[2205.06048v1](http://arxiv.org/abs/2205.06048v1)|null|
-|**2022-05-12 09:30:23**|**TaDeR: A New Task Dependency Recommendation for Project Management   Platform**|Quynh Nguyen et.al.|[2205.05976v1](http://arxiv.org/abs/2205.05976v1)|null|
+|**2022-05-12 09:30:23**|**TaDeR: A New Task Dependency Recommendation for Project Management   Platform**|Quynh Nguyen et.al.|[2205.05976v1](http://arxiv.org/abs/2205.05976v1)|[link](https://github.com/thuynguyetquynh/tader-a-new-task-dependency-recommendation-for-project-management-platform)|
 |**2022-05-12 02:26:21**|**Ultra-High-Energy Cosmic Rays: The Intersection of the Cosmic and Energy   Frontiers**|A. Coleman et.al.|[2205.05845v1](http://arxiv.org/abs/2205.05845v1)|null|
 |**2022-05-11 20:06:03**|**"There Is Not Enough Information": On the Effects of Explanations on   Perceptions of Informational Fairness and Trustworthiness in Automated   Decision-Making**|Jakob Schoeffer et.al.|[2205.05758v1](http://arxiv.org/abs/2205.05758v1)|null|
 |**2022-05-11 16:49:23**|**Leveraging baseline covariates to analyze small cluster-randomized   trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|

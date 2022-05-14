@@ -7,7 +7,7 @@
 |**2022-05-12 08:58:30**|**Robot Cooking with Stir-fry: Bimanual Non-prehensile Manipulation of   Semi-fluid Objects**|Junjia Liu et.al.|[2205.05960v1](http://arxiv.org/abs/2205.05960v1)|null|
 |**2022-05-12 03:21:45**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for   Camera Relocalization**|Ran Cheng et.al.|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
 |**2022-05-11 13:20:20**|**Efficient prediction of density functional theory Hamiltonian with graph   neural network**|Mao Su et.al.|[2205.05475v1](http://arxiv.org/abs/2205.05475v1)|null|
-|**2022-05-11 10:26:02**|**AutoKE: An automatic knowledge embedding framework for scientific   machine learning**|Mengge Du et.al.|[2205.05390v1](http://arxiv.org/abs/2205.05390v1)|null|
+|**2022-05-11 10:26:02**|**AutoKE: An automatic knowledge embedding framework for scientific   machine learning**|Mengge Du et.al.|[2205.05390v1](http://arxiv.org/abs/2205.05390v1)|[link](https://github.com/menggedu/autoke)|
 |**2022-05-11 08:51:04**|**NDGGNET-A Node Independent Gate based Graph Neural Networks**|Ye Tang et.al.|[2205.05348v1](http://arxiv.org/abs/2205.05348v1)|null|
 |**2022-05-11 03:36:35**|**Spatial-temporal associations representation and application for process   monitoring using graph convolution neural network**|Hao Ren et.al.|[2205.05250v1](http://arxiv.org/abs/2205.05250v1)|null|
 |**2022-05-10 08:17:53**|**Flow Completion Network: Inferring the Fluid Dynamics from Incomplete   Flow Information using Graph Neural Networks**|Xiaodong He et.al.|[2205.04739v1](http://arxiv.org/abs/2205.04739v1)|null|
