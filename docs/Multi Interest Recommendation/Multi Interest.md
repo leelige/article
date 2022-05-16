@@ -2,7 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-05-12 16:42:24**|**kNN-Embed: Locally Smoothed Embedding Mixtures For Multi-interest   Candidate Retrieval**|Ahmed El-Kishky et.al.|[2205.06205v1](http://arxiv.org/abs/2205.06205v1)|null|
+|**2022-05-12 16:42:24**|**kNN-Embed: Locally Smoothed Embedding Mixtures For Multi-interest   Candidate Retrieval**|Ahmed El-Kishky et.al.|[2205.06205v2](http://arxiv.org/abs/2205.06205v2)|null|
 |**2022-05-09 15:06:16**|**Effectively Using Long and Short Sessions for Multi-Session-based   Recommendations**|Zihan Wang et.al.|[2205.04366v1](http://arxiv.org/abs/2205.04366v1)|null|
 |**2022-05-03 03:21:29**|**When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for   Sequential Recommendation**|Yu Tian et.al.|[2205.01286v1](http://arxiv.org/abs/2205.01286v1)|[link](https://github.com/whuir/mgnm)|
 |**2022-04-29 13:05:41**|**Gating-adapted Wavelet Multiresolution Analysis for Exposure Sequence   Modeling in CTR prediction**|Xiaoxiao Xu et.al.|[2204.14069v1](http://arxiv.org/abs/2204.14069v1)|null|

@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-13 14:16:58**|**Search for nonresonant pair production of highly energetic Higgs bosons   decaying to bottom quarks**| CMS Collaboration et.al.|[2205.06667v1](http://arxiv.org/abs/2205.06667v1)|null|
+|**2022-05-13 11:31:26**|**A Graph-based probabilistic geometric deep learning framework with   online physics-based corrections to predict the criticality of defects in   porous materials**|Vasilis Krokos et.al.|[2205.06562v1](http://arxiv.org/abs/2205.06562v1)|null|
+|**2022-05-13 10:00:52**|**Reduced modelling and optimal control of epidemiological   individual-based models with contact heterogeneity**|C. Courtès et.al.|[2205.06539v1](http://arxiv.org/abs/2205.06539v1)|null|
+|**2022-05-13 09:17:12**|**Image and graph convolution networks improve microbiome-based machine   learning accuracy**|Shtossel Oshrit et.al.|[2205.06525v1](http://arxiv.org/abs/2205.06525v1)|null|
+|**2022-05-13 06:02:13**|**Simple and Effective Relation-based Embedding Propagation for Knowledge   Representation Learning**|Huijuan Wang et.al.|[2205.06456v1](http://arxiv.org/abs/2205.06456v1)|null|
+|**2022-05-12 23:33:56**|**Learning Based User Scheduling in Reconfigurable Intelligent Surface   Assisted Multiuser Downlink**|Zhongze Zhang et.al.|[2205.06396v1](http://arxiv.org/abs/2205.06396v1)|null|
+|**2022-05-12 19:25:50**|**Graph Neural Network Modeling of Grain-scale Anisotropic Elastic   Behavior using Simulated and Measured Microscale Data**|Darren C. Pagan et.al.|[2205.06324v1](http://arxiv.org/abs/2205.06324v1)|null|
+|**2022-05-12 12:38:54**|**Distribution-Aware Graph Representation Learning for Transient Stability   Assessment of Power System**|Kaixuan Chen et.al.|[2205.06576v1](http://arxiv.org/abs/2205.06576v1)|null|
 |**2022-05-12 10:28:46**|**Learning Generalized Policies Without Supervision Using GNNs**|Simon Ståhlberg et.al.|[2205.06002v1](http://arxiv.org/abs/2205.06002v1)|null|
 |**2022-05-12 09:06:04**|**GPN: A Joint Structural Learning Framework for Graph Neural Networks**|Qianggang Ding et.al.|[2205.05964v1](http://arxiv.org/abs/2205.05964v1)|null|
 |**2022-05-12 08:58:30**|**Robot Cooking with Stir-fry: Bimanual Non-prehensile Manipulation of   Semi-fluid Objects**|Junjia Liu et.al.|[2205.05960v1](http://arxiv.org/abs/2205.05960v1)|null|
@@ -24,11 +32,3 @@
 |**2022-05-07 09:35:23**|**BrainIB: Interpretable Brain Network-based Psychiatric Diagnosis with   Graph Information Bottleneck**|Kaizhong Zheng et.al.|[2205.03612v1](http://arxiv.org/abs/2205.03612v1)|null|
 |**2022-05-07 04:17:25**|**Bandits for Structure Perturbation-based Black-box Attacks to Graph   Neural Networks with Theoretical Guarantees**|Binghui Wang et.al.|[2205.03546v1](http://arxiv.org/abs/2205.03546v1)|[link](https://github.com/metaoblivion/bandit_gnn_attack)|
 |**2022-05-06 15:56:40**|**Learning Scalable Policies over Graphs for Multi-Robot Task Allocation   using Capsule Attention Networks**|Steve Paul et.al.|[2205.03321v1](http://arxiv.org/abs/2205.03321v1)|[link](https://github.com/adamslab-ub/capam-mrta)|
-|**2022-05-06 09:38:35**|**LPGNet: Link Private Graph Networks for Node Classification**|Aashish Kolluri et.al.|[2205.03105v1](http://arxiv.org/abs/2205.03105v1)|null|
-|**2022-05-06 03:37:00**|**Learning Optimal Propagation for Graph Neural Networks**|Beidi Zhao et.al.|[2205.02998v1](http://arxiv.org/abs/2205.02998v1)|null|
-|**2022-05-05 20:28:15**|**RoboCraft: Learning to See, Simulate, and Shape Elasto-Plastic Objects   with Graph Networks**|Haochen Shi et.al.|[2205.02909v1](http://arxiv.org/abs/2205.02909v1)|null|
-|**2022-05-05 19:14:54**|**Analytical results for the distribution of first-passage times of random   walks on random regular graphs**|Ido Tishby et.al.|[2205.02893v1](http://arxiv.org/abs/2205.02893v1)|null|
-|**2022-05-05 16:44:36**|**Spiking Graph Convolutional Networks**|Zulun Zhu et.al.|[2205.02767v1](http://arxiv.org/abs/2205.02767v1)|[link](https://github.com/zulunzhu/spikinggcn)|
-|**2022-05-05 13:33:03**|**Towards Fast Simulation of Environmental Fluid Mechanics with   Multi-Scale Graph Neural Networks**|Mario Lino et.al.|[2205.02637v1](http://arxiv.org/abs/2205.02637v1)|null|
-|**2022-05-05 06:48:13**|**Alignahead: Online Cross-Layer Knowledge Extraction on Graph Neural   Networks**|Jiongyu Guo et.al.|[2205.02468v1](http://arxiv.org/abs/2205.02468v1)|[link](https://github.com/guojy-eatstg/alignahead)|
-|**2022-05-05 05:54:24**|**COGMEN: COntextualized GNN based Multimodal Emotion recognitioN**|Abhinav Joshi et.al.|[2205.02455v1](http://arxiv.org/abs/2205.02455v1)|[link](https://github.com/exploration-lab/cogmen)|
