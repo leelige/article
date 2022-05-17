@@ -2,6 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-16 14:39:37**|**How Different Groups Prioritize Ethical Values for Responsible AI**|Maurice Jakesch et.al.|[2205.07722v1](http://arxiv.org/abs/2205.07722v1)|null|
+|**2022-05-16 02:21:09**|**Trustworthy Graph Neural Networks: Aspects, Methods and Trends**|He Zhang et.al.|[2205.07424v1](http://arxiv.org/abs/2205.07424v1)|null|
+|**2022-05-15 10:38:41**|**Evaluating Independence and Conditional Independence Measures**|Jian Ma et.al.|[2205.07253v1](http://arxiv.org/abs/2205.07253v1)|null|
+|**2022-05-14 00:40:47**|**Experimental Evidence for Using a TTM Stages of Change Model in Boosting   Progress Toward 2FA Adoption**|Cori Faklaris et.al.|[2205.06937v1](http://arxiv.org/abs/2205.06937v1)|null|
 |**2022-05-12 12:21:11**|**Link recommendations: Their impact on network structure and minorities**|Antonio Ferrara et.al.|[2205.06048v1](http://arxiv.org/abs/2205.06048v1)|null|
 |**2022-05-12 09:30:23**|**TaDeR: A New Task Dependency Recommendation for Project Management   Platform**|Quynh Nguyen et.al.|[2205.05976v1](http://arxiv.org/abs/2205.05976v1)|[link](https://github.com/thuynguyetquynh/tader-a-new-task-dependency-recommendation-for-project-management-platform)|
 |**2022-05-12 02:26:21**|**Ultra-High-Energy Cosmic Rays: The Intersection of the Cosmic and Energy   Frontiers**|A. Coleman et.al.|[2205.05845v1](http://arxiv.org/abs/2205.05845v1)|null|
@@ -28,7 +32,3 @@
 |**2022-04-02 19:28:13**|**Learning to Augment for Casual User Recommendation**|Jianling Wang et.al.|[2204.00926v1](http://arxiv.org/abs/2204.00926v1)|null|
 |**2022-04-02 16:32:42**|**Equity, diversity, and inclusion in sports analytics**|Craig Fernandes et.al.|[2204.00896v1](http://arxiv.org/abs/2204.00896v1)|null|
 |**2022-03-30 11:00:11**|**Decentralized Collaborative Learning Framework for Next POI   Recommendation**|Jing Long et.al.|[2204.06516v2](http://arxiv.org/abs/2204.06516v2)|null|
-|**2022-03-30 04:52:54**|**Automatic Facial Skin Feature Detection for Everyone**|Qian Zheng et.al.|[2203.16056v1](http://arxiv.org/abs/2203.16056v1)|null|
-|**2022-03-29 07:53:46**|**Better Integrators for Functional Renormalization Group Calculations**|Jacob Beyer et.al.|[2203.15306v1](http://arxiv.org/abs/2203.15306v1)|null|
-|**2022-03-26 05:46:59**|**A Work Proposal for a Collaborative Study of Magnet Technology for a   Future Muon Collider**|L. Bottura et.al.|[2203.13998v2](http://arxiv.org/abs/2203.13998v2)|null|
-|**2022-03-22 06:56:06**|**Making Recommender Systems Forget: Learning and Unlearning for Erasable   Recommendation**|Yuyuan Li et.al.|[2203.11491v1](http://arxiv.org/abs/2203.11491v1)|null|
