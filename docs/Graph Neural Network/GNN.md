@@ -2,33 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-18 01:59:30**|**Spatial-Temporal Interactive Dynamic Graph Convolution Network for   Traffic Forecasting**|Aoyu Liu et.al.|[2205.08689v1](http://arxiv.org/abs/2205.08689v1)|null|
+|**2022-05-17 20:46:02**|**Generic and Trend-aware Curriculum Learning for Relation Extraction in   Graph Neural Networks**|Nidhi Vakil et.al.|[2205.08625v1](http://arxiv.org/abs/2205.08625v1)|null|
+|**2022-05-17 20:31:43**|**A graph representation of molecular ensembles for polymer property   prediction**|Matteo Aldeghi et.al.|[2205.08619v1](http://arxiv.org/abs/2205.08619v1)|[link](https://github.com/coleygroup/polymer-chemprop-data)|
 |**2022-05-17 16:16:29**|**Application of Graph Based Features in Computer Aided Diagnosis for   Histopathological Image Classification of Gastric Cancer**|Haiqing Zhang et.al.|[2205.08467v1](http://arxiv.org/abs/2205.08467v1)|null|
 |**2022-05-17 13:56:43**|**A Deep-learning Model for Fast Prediction of Vacancy Formation in   Diverse Materials**|Kamal Choudhary et.al.|[2205.08366v1](http://arxiv.org/abs/2205.08366v1)|null|
-|**2022-05-17 08:08:19**|**CellTypeGraph: A New Geometric Computer Vision Benchmark**|Lorenzo Cerrone et.al.|[2205.08166v1](http://arxiv.org/abs/2205.08166v1)|null|
-|**2022-05-17 07:47:00**|**Quantum neural networks**|Kerstin Beer et.al.|[2205.08154v1](http://arxiv.org/abs/2205.08154v1)|null|
+|**2022-05-17 08:08:19**|**CellTypeGraph: A New Geometric Computer Vision Benchmark**|Lorenzo Cerrone et.al.|[2205.08166v1](http://arxiv.org/abs/2205.08166v1)|[link](https://github.com/hci-unihd/celltype-graph-benchmark)|
+|**2022-05-17 07:47:00**|**Quantum neural networks**|Kerstin Beer et.al.|[2205.08154v1](http://arxiv.org/abs/2205.08154v1)|[link](https://github.com/kerstinbeer/quantumneuralnetworks_dissertation_pythoncode)|
 |**2022-05-16 17:32:58**|**GraphHD: Efficient graph classification using hyperdimensional computing**|Igor Nunes et.al.|[2205.07826v1](http://arxiv.org/abs/2205.07826v1)|null|
 |**2022-05-16 16:14:05**|**Spectral properties of the generalized diluted Wishart ensemble**|Isaac Pérez Castillo et.al.|[2205.07782v1](http://arxiv.org/abs/2205.07782v1)|null|
 |**2022-05-16 15:46:11**|**Scalable algorithms for physics-informed neural and graph networks**|Khemraj Shukla et.al.|[2205.08332v1](http://arxiv.org/abs/2205.08332v1)|null|
-|**2022-05-16 02:21:09**|**Trustworthy Graph Neural Networks: Aspects, Methods and Trends**|He Zhang et.al.|[2205.07424v1](http://arxiv.org/abs/2205.07424v1)|null|
-|**2022-05-15 15:29:42**|**COIN: Communication-Aware In-Memory Acceleration for Graph Convolutional   Networks**|Sumit K. Mandal et.al.|[2205.07311v1](http://arxiv.org/abs/2205.07311v1)|null|
-|**2022-05-15 15:24:26**|**Finding Global Homophily in Graph Neural Networks When Meeting   Heterophily**|Xiang Li et.al.|[2205.07308v1](http://arxiv.org/abs/2205.07308v1)|[link](https://github.com/recklessronan/glognn)|
-|**2022-05-15 11:38:14**|**Discovering the Representation Bottleneck of Graph Neural Networks from   Multi-order Interactions**|Fang Wu et.al.|[2205.07266v2](http://arxiv.org/abs/2205.07266v2)|null|
-|**2022-05-15 10:23:07**|**Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets**|Xingang Peng et.al.|[2205.07249v1](http://arxiv.org/abs/2205.07249v1)|[link](https://github.com/pengxingang/pocket2mol)|
-|**2022-05-15 06:17:33**|**A comparison of PINN approaches for drift-diffusion equations on metric   graphs**|Jan Blechschmidt et.al.|[2205.07195v1](http://arxiv.org/abs/2205.07195v1)|null|
-|**2022-05-14 11:23:25**|**Fake News Quick Detection on Dynamic Heterogeneous Information Networks**|Jin Ho Go et.al.|[2205.07039v1](http://arxiv.org/abs/2205.07039v1)|null|
-|**2022-05-14 09:48:39**|**High Performance of Gradient Boosting in Binding Affinity Prediction**|Dmitrii Gavrilev et.al.|[2205.07023v1](http://arxiv.org/abs/2205.07023v1)|null|
-|**2022-05-14 09:25:14**|**Importance Weighted Structure Learning for Scene Graph Generation**|Daqi Liu et.al.|[2205.07017v1](http://arxiv.org/abs/2205.07017v1)|null|
-|**2022-05-13 14:16:58**|**Search for nonresonant pair production of highly energetic Higgs bosons   decaying to bottom quarks**| CMS Collaboration et.al.|[2205.06667v1](http://arxiv.org/abs/2205.06667v1)|null|
-|**2022-05-13 11:31:26**|**A Graph-based probabilistic geometric deep learning framework with   online physics-based corrections to predict the criticality of defects in   porous materials**|Vasilis Krokos et.al.|[2205.06562v1](http://arxiv.org/abs/2205.06562v1)|null|
-|**2022-05-13 10:00:52**|**Reduced modelling and optimal control of epidemiological   individual-based models with contact heterogeneity**|C. Courtès et.al.|[2205.06539v1](http://arxiv.org/abs/2205.06539v1)|null|
-|**2022-05-13 09:17:12**|**Image and graph convolution networks improve microbiome-based machine   learning accuracy**|Shtossel Oshrit et.al.|[2205.06525v1](http://arxiv.org/abs/2205.06525v1)|null|
-|**2022-05-13 06:02:13**|**Simple and Effective Relation-based Embedding Propagation for Knowledge   Representation Learning**|Huijuan Wang et.al.|[2205.06456v1](http://arxiv.org/abs/2205.06456v1)|[link](https://github.com/PaddlePaddle/PGL)|
-|**2022-05-12 23:33:56**|**Learning Based User Scheduling in Reconfigurable Intelligent Surface   Assisted Multiuser Downlink**|Zhongze Zhang et.al.|[2205.06396v1](http://arxiv.org/abs/2205.06396v1)|null|
-|**2022-05-12 19:25:50**|**Graph Neural Network Modeling of Grain-scale Anisotropic Elastic   Behavior using Simulated and Measured Microscale Data**|Darren C. Pagan et.al.|[2205.06324v1](http://arxiv.org/abs/2205.06324v1)|null|
-|**2022-05-12 12:38:54**|**Distribution-Aware Graph Representation Learning for Transient Stability   Assessment of Power System**|Kaixuan Chen et.al.|[2205.06576v1](http://arxiv.org/abs/2205.06576v1)|null|
-|**2022-05-12 10:28:46**|**Learning Generalized Policies Without Supervision Using GNNs**|Simon Ståhlberg et.al.|[2205.06002v1](http://arxiv.org/abs/2205.06002v1)|null|
-|**2022-05-12 09:06:04**|**GPN: A Joint Structural Learning Framework for Graph Neural Networks**|Qianggang Ding et.al.|[2205.05964v1](http://arxiv.org/abs/2205.05964v1)|null|
-|**2022-05-12 08:58:30**|**Robot Cooking with Stir-fry: Bimanual Non-prehensile Manipulation of   Semi-fluid Objects**|Junjia Liu et.al.|[2205.05960v1](http://arxiv.org/abs/2205.05960v1)|null|
-|**2022-05-12 03:21:45**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for   Camera Relocalization**|Ran Cheng et.al.|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
-|**2022-05-11 13:20:20**|**Efficient prediction of density functional theory Hamiltonian with graph   neural network**|Mao Su et.al.|[2205.05475v1](http://arxiv.org/abs/2205.05475v1)|null|
-|**2022-05-11 10:26:02**|**AutoKE: An automatic knowledge embedding framework for scientific   machine learning**|Mengge Du et.al.|[2205.05390v1](http://arxiv.org/abs/2205.05390v1)|[link](https://github.com/menggedu/autoke)|
