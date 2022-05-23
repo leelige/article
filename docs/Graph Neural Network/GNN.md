@@ -2,7 +2,20 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-05-19 17:11:45**|**Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency   Analysis**|Maciej Besta et.al.|[2205.09702v1](http://arxiv.org/abs/2205.09702v1)|null|
+|**2022-05-20 16:44:58**|**Delator: Automatic Detection of Money Laundering Evidence on Transaction   Graphs via Neural Networks**|Henrique S. Assumpção et.al.|[2205.10293v1](http://arxiv.org/abs/2205.10293v1)|null|
+|**2022-05-20 16:41:07**|**Hyper-diffusion on multiplex networks**|Reza Ghorbanchian et.al.|[2205.10291v1](http://arxiv.org/abs/2205.10291v1)|null|
+|**2022-05-20 16:26:39**|**Heterformer: A Transformer Architecture for Node Representation Learning   on Heterogeneous Text-Rich Networks**|Bowen Jin et.al.|[2205.10282v1](http://arxiv.org/abs/2205.10282v1)|null|
+|**2022-05-20 10:32:59**|**On the Prediction Instability of Graph Neural Networks**|Max Klabunde et.al.|[2205.10070v1](http://arxiv.org/abs/2205.10070v1)|[link](https://github.com/mklabunde/on-the-prediction-instability-of-graph-neural-networks)|
+|**2022-05-20 06:10:27**|**FairNorm: Fair and Fast Graph Neural Network Training**|O. Deniz Kose et.al.|[2205.09977v1](http://arxiv.org/abs/2205.09977v1)|null|
+|**2022-05-20 05:25:40**|**A General Framework for quantifying Aleatoric and Epistemic uncertainty   in Graph Neural Networks**|Sai Munikoti et.al.|[2205.09968v1](http://arxiv.org/abs/2205.09968v1)|null|
+|**2022-05-20 03:49:11**|**GDSRec: Graph-Based Decentralized Collaborative Filtering for Social   Recommendation**|Jiajia Chen et.al.|[2205.09948v1](http://arxiv.org/abs/2205.09948v1)|[link](https://github.com/meicrs/gdsrec)|
+|**2022-05-20 02:50:15**|**Towards Explanation for Unsupervised Graph-Level Representation Learning**|Qinghua Zheng et.al.|[2205.09934v1](http://arxiv.org/abs/2205.09934v1)|null|
+|**2022-05-19 23:47:25**|**Minimal Explanations for Neural Network Predictions**|Ouns El Harzli et.al.|[2205.09901v1](http://arxiv.org/abs/2205.09901v1)|null|
+|**2022-05-19 20:13:05**|**Learning Interface Conditions in Domain Decomposition Solvers**|Ali Taghibakhshi et.al.|[2205.09833v1](http://arxiv.org/abs/2205.09833v1)|[link](https://github.com/compdyn/learning-oras)|
+|**2022-05-19 18:44:02**|**Label-invariant Augmentation for Semi-Supervised Graph Classification**|Han Yue et.al.|[2205.09802v1](http://arxiv.org/abs/2205.09802v1)|null|
+|**2022-05-19 18:40:25**|**Graph Neural Networks Are More Powerful Than we Think**|Charilaos I. Kanatsoulis et.al.|[2205.09801v1](http://arxiv.org/abs/2205.09801v1)|null|
+|**2022-05-19 18:21:12**|**Causal Discovery and Injection for Feed-Forward Neural Networks**|Fabrizio Russo et.al.|[2205.09787v1](http://arxiv.org/abs/2205.09787v1)|null|
+|**2022-05-19 17:11:45**|**Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency   Analysis**|Maciej Besta et.al.|[2205.09702v2](http://arxiv.org/abs/2205.09702v2)|null|
 |**2022-05-19 14:08:15**|**Learning Graph Structure from Convolutional Mixtures**|Max Wasserman et.al.|[2205.09575v1](http://arxiv.org/abs/2205.09575v1)|null|
 |**2022-05-19 12:00:01**|**Spatial Autoregressive Coding for Graph Neural Recommendation**|Jiayi Zheng et.al.|[2205.09489v1](http://arxiv.org/abs/2205.09489v1)|null|
 |**2022-05-19 09:30:39**|**A Weakly-Supervised Iterative Graph-Based Approach to Retrieve COVID-19   Misinformation Topics**|Harry Wang et.al.|[2205.09416v1](http://arxiv.org/abs/2205.09416v1)|null|
@@ -18,17 +31,4 @@
 |**2022-05-17 13:56:43**|**A Deep-learning Model for Fast Prediction of Vacancy Formation in   Diverse Materials**|Kamal Choudhary et.al.|[2205.08366v1](http://arxiv.org/abs/2205.08366v1)|null|
 |**2022-05-17 08:08:19**|**CellTypeGraph: A New Geometric Computer Vision Benchmark**|Lorenzo Cerrone et.al.|[2205.08166v1](http://arxiv.org/abs/2205.08166v1)|[link](https://github.com/hci-unihd/celltype-graph-benchmark)|
 |**2022-05-17 07:47:00**|**Quantum neural networks**|Kerstin Beer et.al.|[2205.08154v1](http://arxiv.org/abs/2205.08154v1)|[link](https://github.com/kerstinbeer/quantumneuralnetworks_dissertation_pythoncode)|
-|**2022-05-16 17:32:58**|**GraphHD: Efficient graph classification using hyperdimensional computing**|Igor Nunes et.al.|[2205.07826v1](http://arxiv.org/abs/2205.07826v1)|null|
-|**2022-05-16 16:14:05**|**Spectral properties of the generalized diluted Wishart ensemble**|Isaac Pérez Castillo et.al.|[2205.07782v1](http://arxiv.org/abs/2205.07782v1)|null|
-|**2022-05-16 15:46:11**|**Scalable algorithms for physics-informed neural and graph networks**|Khemraj Shukla et.al.|[2205.08332v1](http://arxiv.org/abs/2205.08332v1)|null|
-|**2022-05-16 02:21:09**|**Trustworthy Graph Neural Networks: Aspects, Methods and Trends**|He Zhang et.al.|[2205.07424v1](http://arxiv.org/abs/2205.07424v1)|null|
-|**2022-05-15 15:29:42**|**COIN: Communication-Aware In-Memory Acceleration for Graph Convolutional   Networks**|Sumit K. Mandal et.al.|[2205.07311v1](http://arxiv.org/abs/2205.07311v1)|null|
-|**2022-05-15 15:24:26**|**Finding Global Homophily in Graph Neural Networks When Meeting   Heterophily**|Xiang Li et.al.|[2205.07308v1](http://arxiv.org/abs/2205.07308v1)|[link](https://github.com/recklessronan/glognn)|
-|**2022-05-15 11:38:14**|**Discovering the Representation Bottleneck of Graph Neural Networks from   Multi-order Interactions**|Fang Wu et.al.|[2205.07266v2](http://arxiv.org/abs/2205.07266v2)|null|
-|**2022-05-15 10:23:07**|**Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets**|Xingang Peng et.al.|[2205.07249v1](http://arxiv.org/abs/2205.07249v1)|[link](https://github.com/pengxingang/pocket2mol)|
-|**2022-05-15 06:17:33**|**A comparison of PINN approaches for drift-diffusion equations on metric   graphs**|Jan Blechschmidt et.al.|[2205.07195v1](http://arxiv.org/abs/2205.07195v1)|null|
-|**2022-05-14 11:23:25**|**Fake News Quick Detection on Dynamic Heterogeneous Information Networks**|Jin Ho Go et.al.|[2205.07039v1](http://arxiv.org/abs/2205.07039v1)|null|
-|**2022-05-14 09:48:39**|**High Performance of Gradient Boosting in Binding Affinity Prediction**|Dmitrii Gavrilev et.al.|[2205.07023v1](http://arxiv.org/abs/2205.07023v1)|null|
-|**2022-05-14 09:25:14**|**Importance Weighted Structure Learning for Scene Graph Generation**|Daqi Liu et.al.|[2205.07017v1](http://arxiv.org/abs/2205.07017v1)|null|
-|**2022-05-13 14:16:58**|**Search for nonresonant pair production of highly energetic Higgs bosons   decaying to bottom quarks**| CMS Collaboration et.al.|[2205.06667v1](http://arxiv.org/abs/2205.06667v1)|null|
-|**2022-05-13 11:31:26**|**A Graph-based probabilistic geometric deep learning framework with   online physics-based corrections to predict the criticality of defects in   porous materials**|Vasilis Krokos et.al.|[2205.06562v1](http://arxiv.org/abs/2205.06562v1)|null|
+|**2022-05-16 23:36:37**|**Topology-aware Graph Neural Networks for Learning Feasible and Adaptive   ac-OPF Solutions**|Shaohui Liu et.al.|[2205.10129v1](http://arxiv.org/abs/2205.10129v1)|null|
