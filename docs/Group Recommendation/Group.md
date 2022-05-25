@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-23 19:57:15**|**Challenges in Measuring Bias via Open-Ended Language Generation**|Afra Feyza Akyürek et.al.|[2205.11601v1](http://arxiv.org/abs/2205.11601v1)|[link](https://github.com/feyzaakyurek/bias-textgen)|
 |**2022-05-23 14:48:14**|**ASFAP Working Group Summary of Societal Engagements**|Mounia Laassiri et.al.|[2205.11362v1](http://arxiv.org/abs/2205.11362v1)|null|
 |**2022-05-22 08:44:26**|**Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential   Recommendation**|Xinyan Fan et.al.|[2205.10775v1](http://arxiv.org/abs/2205.10775v1)|null|
 |**2022-05-20 18:46:16**|**Prospects for Heavy WIMP Dark Matter Searches at Muon Colliders**|Kevin Black et.al.|[2205.10404v1](http://arxiv.org/abs/2205.10404v1)|null|
@@ -31,4 +32,3 @@
 |**2022-04-13 13:09:35**|**AHP: Learning to Negative Sample for Hyperedge Prediction**|Hyunjin Hwang et.al.|[2204.06353v2](http://arxiv.org/abs/2204.06353v2)|[link](https://github.com/hyunjinhwn/sigir22-ahp)|
 |**2022-04-12 05:59:39**|**Not always about you: Prioritizing community needs when developing   endangered language technology**|Zoey Liu et.al.|[2204.05541v1](http://arxiv.org/abs/2204.05541v1)|null|
 |**2022-04-07 19:30:55**|**Introducing a Framework and a Decision Protocol to Calibrate Recommender   Systems**|Diego Corrêa da Silva et.al.|[2204.03706v1](http://arxiv.org/abs/2204.03706v1)|null|
-|**2022-04-07 16:20:04**|**Study of alternative locations for the SPS Beam Dump Facility**|Oliver Aberle et.al.|[2204.03549v1](http://arxiv.org/abs/2204.03549v1)|null|
