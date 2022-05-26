@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-25 16:16:28**|**Robust Reinforcement Learning on Graphs for Logistics optimization**|Zangir Iklassov et.al.|[2205.12888v1](http://arxiv.org/abs/2205.12888v1)|null|
+|**2022-05-25 13:57:03**|**TrustGNN: Graph Neural Network based Trust Evaluation via Learnable   Propagative and Composable Nature**|Cuiying Huo et.al.|[2205.12784v1](http://arxiv.org/abs/2205.12784v1)|null|
+|**2022-05-25 12:28:31**|**jTrans: Jump-Aware Transformer for Binary Code Similarity**|Hao Wang et.al.|[2205.12713v1](http://arxiv.org/abs/2205.12713v1)|null|
+|**2022-05-25 12:25:37**|**Service Discovery in Social Internet of Things using Graph Neural   Networks**|Aymen Hamrouni et.al.|[2205.12711v1](http://arxiv.org/abs/2205.12711v1)|null|
+|**2022-05-25 08:54:52**|**MUG: Multi-human Graph Network for 3D Mesh Reconstruction from 2D Pose**|Chenyan Wu et.al.|[2205.12583v1](http://arxiv.org/abs/2205.12583v1)|null|
+|**2022-05-25 03:26:50**|**FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain   Network Generation**|Xuan Kan et.al.|[2205.12465v1](http://arxiv.org/abs/2205.12465v1)|[link](https://github.com/wayfear/fbnetgen)|
+|**2022-05-24 23:04:02**|**Recipe2Vec: Multi-modal Recipe Representation Learning with Graph Neural   Networks**|Yijun Tian et.al.|[2205.12396v1](http://arxiv.org/abs/2205.12396v1)|[link](https://github.com/meettyj/Recipe2Vec)|
 |**2022-05-24 17:54:29**|**Asynchronous Neural Networks for Learning in Graphs**|Lukas Faber et.al.|[2205.12245v1](http://arxiv.org/abs/2205.12245v1)|null|
 |**2022-05-24 16:22:40**|**Evidential Temporal-aware Graph-based Social Event Detection via   Dempster-Shafer Theory**|Jiaqian Ren et.al.|[2205.12179v1](http://arxiv.org/abs/2205.12179v1)|null|
 |**2022-05-24 15:39:31**|**Not too little, not too much: a theoretical analysis of graph   (over)smoothing**|Nicolas Keriven et.al.|[2205.12156v1](http://arxiv.org/abs/2205.12156v1)|[link](https://github.com/nkeriven/graphsmoothing)|
@@ -25,10 +32,3 @@
 |**2022-05-23 08:59:42**|**GraphAD: A Graph Neural Network for Entity-Wise Multivariate Time-Series   Anomaly Detection**|Xu Chen et.al.|[2205.11139v1](http://arxiv.org/abs/2205.11139v1)|null|
 |**2022-05-23 03:16:19**|**MolMiner: You only look once for chemical structure recognition**|Youjun Xu et.al.|[2205.11016v1](http://arxiv.org/abs/2205.11016v1)|null|
 |**2022-05-22 18:08:42**|**Contextual Information-Directed Sampling**|Botao Hao et.al.|[2205.10895v1](http://arxiv.org/abs/2205.10895v1)|null|
-|**2022-05-22 11:00:55**|**Deep Low-Density Separation for Semi-Supervised Classification**|Michael C. Burkhart et.al.|[2205.11995v1](http://arxiv.org/abs/2205.11995v1)|null|
-|**2022-05-22 06:11:21**|**Deep Feature Fusion via Graph Convolutional Network for Intracranial   Artery Labeling**|Yaxin Zhu et.al.|[2205.10757v1](http://arxiv.org/abs/2205.10757v1)|null|
-|**2022-05-21 20:01:31**|**Temporal Domain Generalization with Drift-Aware Dynamic Neural Network**|Guangji Bai et.al.|[2205.10664v1](http://arxiv.org/abs/2205.10664v1)|null|
-|**2022-05-21 18:14:52**|**Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?**|Juanhui Li et.al.|[2205.10652v1](http://arxiv.org/abs/2205.10652v1)|null|
-|**2022-05-21 15:30:25**|**CEP3: Community Event Prediction with Neural Point Process on Graph**|Xuhong Wang et.al.|[2205.10624v1](http://arxiv.org/abs/2205.10624v1)|null|
-|**2022-05-21 15:14:33**|**Graph Neural Network Enhanced Approximate Message Passing for MIMO   Detection**|Hengtao He et.al.|[2205.10620v1](http://arxiv.org/abs/2205.10620v1)|null|
-|**2022-05-21 13:11:05**|**Micro-video recommendation model based on graph neural network and   attention mechanism**|Chan Ching Ting et.al.|[2205.10588v1](http://arxiv.org/abs/2205.10588v1)|null|
