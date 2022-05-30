@@ -2,6 +2,23 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-27 17:21:17**|**Bayesian Robust Graph Contrastive Learning**|Yancheng Wang et.al.|[2205.14109v1](http://arxiv.org/abs/2205.14109v1)|[link](https://github.com/brgcl-code/brgcl-code)|
+|**2022-05-27 17:13:10**|**Learning to Solve Combinatorial Graph Partitioning Problems via   Efficient Exploration**|Thomas D. Barrett et.al.|[2205.14105v1](http://arxiv.org/abs/2205.14105v1)|[link](https://github.com/tomdbar/ecord)|
+|**2022-05-27 16:47:34**|**Capturing Graphs with Hypo-Elliptic Diffusions**|Csaba Toth et.al.|[2205.14092v1](http://arxiv.org/abs/2205.14092v1)|[link](https://github.com/tgcsaba/graph2tens)|
+|**2022-05-27 14:01:08**|**Deep Ensembles for Graphs with Higher-order Dependencies**|Steven J. Krieg et.al.|[2205.13988v1](http://arxiv.org/abs/2205.13988v1)|null|
+|**2022-05-27 13:02:07**|**Geometer: Graph Few-Shot Class-Incremental Learning via Prototype   Representation**|Bin Lu et.al.|[2205.13954v1](http://arxiv.org/abs/2205.13954v1)|null|
+|**2022-05-27 11:12:50**|**Bias Reduction via Cooperative Bargaining in Synthetic Graph Dataset   Generation**|Axel Wassington et.al.|[2205.13901v1](http://arxiv.org/abs/2205.13901v1)|null|
+|**2022-05-27 10:48:14**|**EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural   Networks**|Runlin Lei et.al.|[2205.13892v1](http://arxiv.org/abs/2205.13892v1)|null|
+|**2022-05-27 09:02:10**|**Feudal Multi-Agent Reinforcement Learning with Adaptive Network   Partition for Traffic Signal Control**|Jinming Ma et.al.|[2205.13836v1](http://arxiv.org/abs/2205.13836v1)|null|
+|**2022-05-27 04:14:12**|**Representing Polymers as Periodic Graphs with Learned Descriptors for   Accurate Polymer Property Predictions**|Evan R. Antoniuk et.al.|[2205.13757v1](http://arxiv.org/abs/2205.13757v1)|null|
+|**2022-05-27 03:20:42**|**DeepSAT: An EDA-Driven Learning Framework for SAT**|Min Li et.al.|[2205.13745v1](http://arxiv.org/abs/2205.13745v1)|null|
+|**2022-05-27 02:58:07**|**On Consistency in Graph Neural Network Interpretation**|Tianxiang Zhao et.al.|[2205.13733v1](http://arxiv.org/abs/2205.13733v1)|null|
+|**2022-05-27 01:29:03**|**ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge   Splitting**|Jingwei Guo et.al.|[2205.13700v1](http://arxiv.org/abs/2205.13700v1)|null|
+|**2022-05-26 23:50:42**|**SeedGNN: Graph Neural Networks for Supervised Seeded Graph Matching**|Liren Yu et.al.|[2205.13679v1](http://arxiv.org/abs/2205.13679v1)|null|
+|**2022-05-26 23:36:21**|**Reinforcement Learning Approach for Mapping Applications to   Dataflow-Based Coarse-Grained Reconfigurable Array**|Andre Xian Ming Chang et.al.|[2205.13675v1](http://arxiv.org/abs/2205.13675v1)|null|
+|**2022-05-26 23:17:53**|**Transformer for Partial Differential Equations' Operator Learning**|Zijie Li et.al.|[2205.13671v1](http://arxiv.org/abs/2205.13671v1)|null|
+|**2022-05-26 20:52:18**|**Faster Optimization on Sparse Graphs via Neural Reparametrization**|Nima Dehmamy et.al.|[2205.13624v1](http://arxiv.org/abs/2205.13624v1)|null|
+|**2022-05-26 18:44:22**|**Dynamic Network Reconfiguration for Entropy Maximization using Deep   Reinforcement Learning**|Christoffel Doorman et.al.|[2205.13578v1](http://arxiv.org/abs/2205.13578v1)|null|
 |**2022-05-26 17:02:43**|**Sparse Graph Learning for Spatiotemporal Time Series**|Andrea Cini et.al.|[2205.13492v1](http://arxiv.org/abs/2205.13492v1)|null|
 |**2022-05-26 16:40:48**|**Learning to Reconstruct Missing Data from Spatiotemporal Graphs with   Sparse Observations**|Ivan Marisca et.al.|[2205.13479v1](http://arxiv.org/abs/2205.13479v1)|null|
 |**2022-05-26 13:03:56**|**How Powerful are K-hop Message Passing Graph Neural Networks**|Jiarui Feng et.al.|[2205.13328v1](http://arxiv.org/abs/2205.13328v1)|null|
@@ -15,20 +32,3 @@
 |**2022-05-25 12:28:31**|**jTrans: Jump-Aware Transformer for Binary Code Similarity**|Hao Wang et.al.|[2205.12713v1](http://arxiv.org/abs/2205.12713v1)|[link](https://github.com/vul337/jtrans)|
 |**2022-05-25 12:25:37**|**Service Discovery in Social Internet of Things using Graph Neural   Networks**|Aymen Hamrouni et.al.|[2205.12711v1](http://arxiv.org/abs/2205.12711v1)|null|
 |**2022-05-25 08:54:52**|**MUG: Multi-human Graph Network for 3D Mesh Reconstruction from 2D Pose**|Chenyan Wu et.al.|[2205.12583v1](http://arxiv.org/abs/2205.12583v1)|null|
-|**2022-05-25 03:26:50**|**FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain   Network Generation**|Xuan Kan et.al.|[2205.12465v1](http://arxiv.org/abs/2205.12465v1)|[link](https://github.com/wayfear/fbnetgen)|
-|**2022-05-24 23:04:02**|**Recipe2Vec: Multi-modal Recipe Representation Learning with Graph Neural   Networks**|Yijun Tian et.al.|[2205.12396v1](http://arxiv.org/abs/2205.12396v1)|[link](https://github.com/meettyj/Recipe2Vec)|
-|**2022-05-24 17:54:29**|**Asynchronous Neural Networks for Learning in Graphs**|Lukas Faber et.al.|[2205.12245v1](http://arxiv.org/abs/2205.12245v1)|null|
-|**2022-05-24 16:22:40**|**Evidential Temporal-aware Graph-based Social Event Detection via   Dempster-Shafer Theory**|Jiaqian Ren et.al.|[2205.12179v1](http://arxiv.org/abs/2205.12179v1)|null|
-|**2022-05-24 15:39:31**|**Not too little, not too much: a theoretical analysis of graph   (over)smoothing**|Nicolas Keriven et.al.|[2205.12156v1](http://arxiv.org/abs/2205.12156v1)|[link](https://github.com/nkeriven/graphsmoothing)|
-|**2022-05-24 13:52:41**|**Ensemble Multi-Relational Graph Neural Networks**|Yuling Wang et.al.|[2205.12076v1](http://arxiv.org/abs/2205.12076v1)|null|
-|**2022-05-24 09:17:27**|**Physics-Embedded Neural Networks:   $\boldsymbol{\mathrm{E}(n)}$-Equivariant Graph Neural PDE Solvers**|Masanobu Horie et.al.|[2205.11912v1](http://arxiv.org/abs/2205.11912v1)|null|
-|**2022-05-24 08:36:25**|**Learning Interacting Dynamical Systems with Latent Gaussian Process ODEs**|Çağatay Yıldız et.al.|[2205.11894v1](http://arxiv.org/abs/2205.11894v1)|null|
-|**2022-05-24 07:18:56**|**Faithful Explanations for Deep Graph Models**|Zifan Wang et.al.|[2205.11850v1](http://arxiv.org/abs/2205.11850v1)|null|
-|**2022-05-24 04:57:35**|**Transition to Linearity of General Neural Networks with Directed Acyclic   Graph Architecture**|Libin Zhu et.al.|[2205.11786v1](http://arxiv.org/abs/2205.11786v1)|null|
-|**2022-05-24 01:17:36**|**Functional Network: A Novel Framework for Interpretability of Deep   Neural Networks**|Ben Zhang et.al.|[2205.11702v1](http://arxiv.org/abs/2205.11702v1)|null|
-|**2022-05-24 01:12:54**|**High-Order Pooling for Graph Neural Networks with Tensor Decomposition**|Chenqing Hua et.al.|[2205.11691v1](http://arxiv.org/abs/2205.11691v1)|null|
-|**2022-05-24 00:04:43**|**Compressing Deep Graph Neural Networks via Adversarial Knowledge   Distillation**|Huarui He et.al.|[2205.11678v1](http://arxiv.org/abs/2205.11678v1)|[link](https://github.com/MIRALab-USTC/GraphAKD)|
-|**2022-05-23 22:44:34**|**FlexiBERT: Are Current Transformer Architectures too Homogeneous and   Rigid?**|Shikhar Tuli et.al.|[2205.11656v1](http://arxiv.org/abs/2205.11656v1)|null|
-|**2022-05-23 21:57:31**|**Deep Representations for Time-varying Brain Datasets**|Sikun Lin et.al.|[2205.11648v1](http://arxiv.org/abs/2205.11648v1)|[link](https://github.com/sklin93/rebraid)|
-|**2022-05-23 21:09:41**|**DOGE-Train: Discrete Optimization on GPU with End-to-end Training**|Ahmed Abbas et.al.|[2205.11638v1](http://arxiv.org/abs/2205.11638v1)|null|
-|**2022-05-23 16:24:40**|**Informed Pre-Training on Prior Knowledge**|Laura von Rueden et.al.|[2205.11433v1](http://arxiv.org/abs/2205.11433v1)|null|
