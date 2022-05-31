@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-30 15:32:55**|**A Review and Evaluation of Elastic Distance Functions for Time Series   Clustering**|Chris Holder et.al.|[2205.15181v1](http://arxiv.org/abs/2205.15181v1)|null|
+|**2022-05-29 13:14:53**|**Contributions to Representation Learning with Graph Autoencoders and   Applications to Music Recommendation**|Guillaume Salha-Galvan et.al.|[2205.14651v1](http://arxiv.org/abs/2205.14651v1)|null|
 |**2022-05-23 19:57:15**|**Challenges in Measuring Bias via Open-Ended Language Generation**|Afra Feyza Akyürek et.al.|[2205.11601v1](http://arxiv.org/abs/2205.11601v1)|[link](https://github.com/feyzaakyurek/bias-textgen)|
 |**2022-05-23 14:48:14**|**ASFAP Working Group Summary of Societal Engagements**|Mounia Laassiri et.al.|[2205.11362v1](http://arxiv.org/abs/2205.11362v1)|null|
 |**2022-05-22 08:44:26**|**Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential   Recommendation**|Xinyan Fan et.al.|[2205.10775v1](http://arxiv.org/abs/2205.10775v1)|null|
@@ -30,5 +32,3 @@
 |**2022-04-21 14:01:00**|**A systematic review of guidelines for the use of race, ethnicity, and   ancestry reveals widespread consensus but also points of ongoing disagreement**|Madelyn Mauro et.al.|[2204.10672v1](http://arxiv.org/abs/2204.10672v1)|null|
 |**2022-04-16 08:30:08**|**From Parental Control to Joint Family Oversight: Can Parents and Teens   Manage Mobile Online Safety and Privacy as Equals?**|Mamtaj Akter et.al.|[2204.07749v1](http://arxiv.org/abs/2204.07749v1)|null|
 |**2022-04-13 13:09:35**|**AHP: Learning to Negative Sample for Hyperedge Prediction**|Hyunjin Hwang et.al.|[2204.06353v2](http://arxiv.org/abs/2204.06353v2)|[link](https://github.com/hyunjinhwn/sigir22-ahp)|
-|**2022-04-12 05:59:39**|**Not always about you: Prioritizing community needs when developing   endangered language technology**|Zoey Liu et.al.|[2204.05541v1](http://arxiv.org/abs/2204.05541v1)|null|
-|**2022-04-07 19:30:55**|**Introducing a Framework and a Decision Protocol to Calibrate Recommender   Systems**|Diego Corrêa da Silva et.al.|[2204.03706v1](http://arxiv.org/abs/2204.03706v1)|null|
