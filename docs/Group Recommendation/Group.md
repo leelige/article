@@ -2,8 +2,11 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
+|**2022-05-30 21:21:38**|**Fairness in the First Stage of Two-Stage Recommender Systems**|Lequn Wang et.al.|[2205.15436v1](http://arxiv.org/abs/2205.15436v1)|null|
 |**2022-05-30 15:32:55**|**A Review and Evaluation of Elastic Distance Functions for Time Series   Clustering**|Chris Holder et.al.|[2205.15181v1](http://arxiv.org/abs/2205.15181v1)|null|
 |**2022-05-29 13:14:53**|**Contributions to Representation Learning with Graph Autoencoders and   Applications to Music Recommendation**|Guillaume Salha-Galvan et.al.|[2205.14651v1](http://arxiv.org/abs/2205.14651v1)|null|
+|**2022-05-27 07:56:11**|**A Design Space for Explainable Ranking and Ranking Models**|I. Al Hazwani et.al.|[2205.15305v1](http://arxiv.org/abs/2205.15305v1)|null|
 |**2022-05-23 19:57:15**|**Challenges in Measuring Bias via Open-Ended Language Generation**|Afra Feyza Akyürek et.al.|[2205.11601v1](http://arxiv.org/abs/2205.11601v1)|[link](https://github.com/feyzaakyurek/bias-textgen)|
 |**2022-05-23 14:48:14**|**ASFAP Working Group Summary of Societal Engagements**|Mounia Laassiri et.al.|[2205.11362v1](http://arxiv.org/abs/2205.11362v1)|null|
 |**2022-05-22 08:44:26**|**Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential   Recommendation**|Xinyan Fan et.al.|[2205.10775v1](http://arxiv.org/abs/2205.10775v1)|null|
@@ -29,6 +32,3 @@
 |**2022-04-24 10:51:54**|**Post Processing Recommender Systems with Knowledge Graphs for Recency,   Popularity, and Diversity of Explanations**|Giacomo Balloccu et.al.|[2204.11241v1](http://arxiv.org/abs/2204.11241v1)|[link](https://github.com/giacoballoccu/explanation-quality-recsys)|
 |**2022-04-22 20:22:06**|**Subscriptions and external links help drive resentful users to   alternative and extremist YouTube videos**|Annie Y. Chen et.al.|[2204.10921v1](http://arxiv.org/abs/2204.10921v1)|null|
 |**2022-04-22 17:58:10**|**Exploiting Session Information in BERT-based Session-aware Sequential   Recommendation**|Jinseok Seol et.al.|[2204.10851v3](http://arxiv.org/abs/2204.10851v3)|[link](https://github.com/theeluwin/session-aware-bert4rec)|
-|**2022-04-21 14:01:00**|**A systematic review of guidelines for the use of race, ethnicity, and   ancestry reveals widespread consensus but also points of ongoing disagreement**|Madelyn Mauro et.al.|[2204.10672v1](http://arxiv.org/abs/2204.10672v1)|null|
-|**2022-04-16 08:30:08**|**From Parental Control to Joint Family Oversight: Can Parents and Teens   Manage Mobile Online Safety and Privacy as Equals?**|Mamtaj Akter et.al.|[2204.07749v1](http://arxiv.org/abs/2204.07749v1)|null|
-|**2022-04-13 13:09:35**|**AHP: Learning to Negative Sample for Hyperedge Prediction**|Hyunjin Hwang et.al.|[2204.06353v2](http://arxiv.org/abs/2204.06353v2)|[link](https://github.com/hyunjinhwn/sigir22-ahp)|
