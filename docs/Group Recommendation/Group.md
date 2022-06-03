@@ -2,8 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-02 09:18:03**|**Algorithmic Fairness and Structural Injustice: Insights from Feminist   Political Philosophy**|Atoosa Kasirzadeh et.al.|[2206.00945v1](http://arxiv.org/abs/2206.00945v1)|null|
+|**2022-06-01 05:01:36**|**Assessing Group-level Gender Bias in Professional Evaluations: The Case   of Medical Student End-of-Shift Feedback**|Emmy Liu et.al.|[2206.00234v1](http://arxiv.org/abs/2206.00234v1)|null|
 |**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
-|**2022-05-30 21:21:38**|**Fairness in the First Stage of Two-Stage Recommender Systems**|Lequn Wang et.al.|[2205.15436v1](http://arxiv.org/abs/2205.15436v1)|null|
+|**2022-05-30 21:21:38**|**Fairness in the First Stage of Two-Stage Recommender Systems**|Lequn Wang et.al.|[2205.15436v2](http://arxiv.org/abs/2205.15436v2)|null|
 |**2022-05-30 15:32:55**|**A Review and Evaluation of Elastic Distance Functions for Time Series   Clustering**|Chris Holder et.al.|[2205.15181v1](http://arxiv.org/abs/2205.15181v1)|null|
 |**2022-05-29 13:14:53**|**Contributions to Representation Learning with Graph Autoencoders and   Applications to Music Recommendation**|Guillaume Salha-Galvan et.al.|[2205.14651v1](http://arxiv.org/abs/2205.14651v1)|null|
 |**2022-05-27 07:56:11**|**A Design Space for Explainable Ranking and Ranking Models**|I. Al Hazwani et.al.|[2205.15305v1](http://arxiv.org/abs/2205.15305v1)|null|
@@ -30,5 +32,3 @@
 |**2022-04-25 17:49:51**|**A new preferential model with homophily for recommender systems**|Hanyang Tian et.al.|[2204.11819v1](http://arxiv.org/abs/2204.11819v1)|null|
 |**2022-04-24 10:57:45**|**Regulating Group Exposure for Item Providers in Recommendation**|Mirko Marras et.al.|[2204.11243v1](http://arxiv.org/abs/2204.11243v1)|null|
 |**2022-04-24 10:51:54**|**Post Processing Recommender Systems with Knowledge Graphs for Recency,   Popularity, and Diversity of Explanations**|Giacomo Balloccu et.al.|[2204.11241v1](http://arxiv.org/abs/2204.11241v1)|[link](https://github.com/giacoballoccu/explanation-quality-recsys)|
-|**2022-04-22 20:22:06**|**Subscriptions and external links help drive resentful users to   alternative and extremist YouTube videos**|Annie Y. Chen et.al.|[2204.10921v1](http://arxiv.org/abs/2204.10921v1)|null|
-|**2022-04-22 17:58:10**|**Exploiting Session Information in BERT-based Session-aware Sequential   Recommendation**|Jinseok Seol et.al.|[2204.10851v3](http://arxiv.org/abs/2204.10851v3)|[link](https://github.com/theeluwin/session-aware-bert4rec)|
