@@ -13,7 +13,7 @@
 |**2022-06-01 10:31:14**|**Bayesian Learning to Discover Mathematical Operations in Governing   Equations of Dynamic Systems**|Hongpeng Zhou et.al.|[2206.00669v1](http://arxiv.org/abs/2206.00669v1)|[link](https://github.com/nips2021anonymous/mathonet)|
 |**2022-06-01 09:59:09**|**Augmenting Message Passing by Retrieving Similar Graphs**|Dingmin Wang et.al.|[2206.00362v1](http://arxiv.org/abs/2206.00362v1)|null|
 |**2022-06-01 09:51:38**|**DeepCluE: Enhanced Image Clustering via Multi-layer Ensembles in Deep   Neural Networks**|Dong Huang et.al.|[2206.00359v1](http://arxiv.org/abs/2206.00359v1)|null|
-|**2022-06-01 09:40:49**|**Regularized by Physics: Graph Neural Network Parametrized Potentials for   the Description of Intermolecular Interactions**|Moritz Thürlemann et.al.|[2206.00355v1](http://arxiv.org/abs/2206.00355v1)|null|
+|**2022-06-01 09:40:49**|**Regularized by Physics: Graph Neural Network Parametrized Potentials for   the Description of Intermolecular Interactions**|Moritz Thürlemann et.al.|[2206.00355v1](http://arxiv.org/abs/2206.00355v1)|[link](https://github.com/rinikerlab/gnnparametrizedff)|
 |**2022-06-01 07:01:04**|**Vision GNN: An Image is Worth Graph of Nodes**|Kai Han et.al.|[2206.00272v1](http://arxiv.org/abs/2206.00272v1)|[link](https://github.com/huawei-noah/CV-backbones)|
 |**2022-06-01 06:47:47**|**InducT-GCN: Inductive Graph Convolutional Networks for Text   Classification**|Kunze Wang et.al.|[2206.00265v1](http://arxiv.org/abs/2206.00265v1)|[link](https://github.com/usydnlp/InductTGCN)|
 |**2022-06-01 04:32:23**|**Lower and Upper Bounds for Numbers of Linear Regions of Graph   Convolutional Networks**|Hao Chen et.al.|[2206.00228v1](http://arxiv.org/abs/2206.00228v1)|null|
