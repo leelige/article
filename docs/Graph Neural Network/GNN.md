@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-03 13:48:10**|**On Calibration of Graph Neural Networks for Node Classification**|Tong Liu et.al.|[2206.01570v1](http://arxiv.org/abs/2206.01570v1)|null|
+|**2022-06-03 11:09:03**|**Can Hybrid Geometric Scattering Networks Help Solve the Maximal Clique   Problem?**|Yimeng Min et.al.|[2206.01506v1](http://arxiv.org/abs/2206.01506v1)|[link](https://github.com/yimengmin/geometricscatteringmaximalclique)|
+|**2022-06-03 03:27:42**|**Instant Graph Neural Networks for Dynamic Graphs**|Yanping Zheng et.al.|[2206.01379v1](http://arxiv.org/abs/2206.01379v1)|null|
+|**2022-06-02 20:46:26**|**PNODE: A memory-efficient neural ODE framework based on high-level   adjoint differentiation**|Hong Zhang et.al.|[2206.01298v1](http://arxiv.org/abs/2206.01298v1)|[link](https://github.com/caidao22/pnode)|
 |**2022-06-02 17:28:33**|**Invertible Neural Networks for Graph Prediction**|Chen Xu et.al.|[2206.01163v1](http://arxiv.org/abs/2206.01163v1)|[link](https://github.com/hamrel-cxu/invertible-graph-neural-network-ignn)|
 |**2022-06-02 12:04:29**|**Shortest Path Networks for Graph Property Prediction**|Ralph Abboud et.al.|[2206.01003v1](http://arxiv.org/abs/2206.01003v1)|null|
 |**2022-06-01 19:54:16**|**Composition of Relational Features with an Application to Explaining   Black-Box Predictors**|Ashwin Srinivasan et.al.|[2206.00738v1](http://arxiv.org/abs/2206.00738v1)|null|
@@ -28,7 +32,3 @@
 |**2022-05-31 10:20:07**|**COIN: Co-Cluster Infomax for Bipartite Graphs**|Baoyu Jing et.al.|[2206.00006v1](http://arxiv.org/abs/2206.00006v1)|null|
 |**2022-05-31 09:56:44**|**The CLRS Algorithmic Reasoning Benchmark**|Petar Veličković et.al.|[2205.15659v1](http://arxiv.org/abs/2205.15659v1)|[link](https://github.com/deepmind/clrs)|
 |**2022-05-31 09:48:47**|**Label-Enhanced Graph Neural Network for Semi-supervised Node   Classification**|Le Yu et.al.|[2205.15653v1](http://arxiv.org/abs/2205.15653v1)|[link](https://github.com/yule-BUAA/LEGNN)|
-|**2022-05-31 07:23:42**|**Hierarchical Spherical CNNs with Lifting-based Adaptive Wavelets for   Pooling and Unpooling**|Mingxing Xu et.al.|[2205.15571v1](http://arxiv.org/abs/2205.15571v1)|null|
-|**2022-05-31 06:16:55**|**Graph-level Neural Networks: Current Progress and Future Directions**|Ge Zhang et.al.|[2205.15555v1](http://arxiv.org/abs/2205.15555v1)|[link](https://github.com/GeZhangMQ/Awesome-Graph-level-Neural-Networks)|
-|**2022-05-31 02:39:05**|**Rethinking Graph Neural Networks for Anomaly Detection**|Jianheng Tang et.al.|[2205.15508v1](http://arxiv.org/abs/2205.15508v1)|[link](https://github.com/squareroot3/rethinking-anomaly-detection)|
-|**2022-05-31 00:16:47**|**Learning to Represent Programs with Code Hierarchies**|Minh Nguyen et.al.|[2205.15479v1](http://arxiv.org/abs/2205.15479v1)|null|
