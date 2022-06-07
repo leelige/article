@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-06-06 16:08:14 Asia/Shanghai
+ 自动更新 @ 2022-06-07 16:08:35 Asia/Shanghai
 
 ## Group Recommendation
 
@@ -11,7 +11,7 @@
 |**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
 |**2022-05-30 21:21:38**|**Fairness in the First Stage of Two-Stage Recommender Systems**|Lequn Wang et.al.|[2205.15436v2](http://arxiv.org/abs/2205.15436v2)|null|
 |**2022-05-30 15:32:55**|**A Review and Evaluation of Elastic Distance Functions for Time Series   Clustering**|Chris Holder et.al.|[2205.15181v1](http://arxiv.org/abs/2205.15181v1)|null|
-|**2022-05-29 13:14:53**|**Contributions to Representation Learning with Graph Autoencoders and   Applications to Music Recommendation**|Guillaume Salha-Galvan et.al.|[2205.14651v1](http://arxiv.org/abs/2205.14651v1)|null|
+|**2022-05-29 13:14:53**|**Contributions to Representation Learning with Graph Autoencoders and   Applications to Music Recommendation**|Guillaume Salha-Galvan et.al.|[2205.14651v2](http://arxiv.org/abs/2205.14651v2)|null|
 |**2022-05-27 07:56:11**|**A Design Space for Explainable Ranking and Ranking Models**|I. Al Hazwani et.al.|[2205.15305v1](http://arxiv.org/abs/2205.15305v1)|null|
 |**2022-05-23 19:57:15**|**Challenges in Measuring Bias via Open-Ended Language Generation**|Afra Feyza Akyürek et.al.|[2205.11601v1](http://arxiv.org/abs/2205.11601v1)|[link](https://github.com/feyzaakyurek/bias-textgen)|
 |**2022-05-23 14:48:14**|**ASFAP Working Group Summary of Societal Engagements**|Mounia Laassiri et.al.|[2205.11362v1](http://arxiv.org/abs/2205.11362v1)|null|
@@ -42,8 +42,24 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-06 17:52:20**|**Neuro CROSS exchange: Learning to CROSS exchange to solve realistic   vehicle routing problems**|Minjun Kim et.al.|[2206.02771v1](http://arxiv.org/abs/2206.02771v1)|null|
+|**2022-06-06 16:40:54**|**Robust and Fast Data-Driven Power System State Estimator Using Graph   Neural Networks**|Ognjen Kundacina et.al.|[2206.02731v1](http://arxiv.org/abs/2206.02731v1)|null|
+|**2022-06-06 15:35:59**|**Mapping out the glassy landscape of a mesoscopic elastoplastic model**|Dheeraj Kumar et.al.|[2206.02683v1](http://arxiv.org/abs/2206.02683v1)|null|
+|**2022-06-06 15:20:07**|**Canonical Cortical Graph Neural Networks and its Application for Speech   Enhancement in Future Audio-Visual Hearing Aids**|Leandro A. Passos et.al.|[2206.02671v1](http://arxiv.org/abs/2206.02671v1)|null|
+|**2022-06-06 15:05:36**|**Learning with Capsules: A Survey**|Fabio De Sousa Ribeiro et.al.|[2206.02664v1](http://arxiv.org/abs/2206.02664v1)|null|
+|**2022-06-06 07:24:44**|**A Simple yet Effective Method for Graph Classification**|Junran Wu et.al.|[2206.02404v1](http://arxiv.org/abs/2206.02404v1)|null|
+|**2022-06-06 06:38:53**|**Restructuring Graph for Higher Homophily via Learnable Spectral   Clustering**|Shouheng Li et.al.|[2206.02386v1](http://arxiv.org/abs/2206.02386v1)|null|
+|**2022-06-06 00:56:20**|**MICAL: Mutual Information-Based CNN-Aided Learned Factor**|Bahareh Salafian et.al.|[2206.02298v1](http://arxiv.org/abs/2206.02298v1)|null|
+|**2022-06-05 11:18:09**|**HPGNN: Using Hierarchical Graph Neural Networks for Outdoor Point Cloud   Processing**|Arulmolivarman Thieshanthan et.al.|[2206.02153v1](http://arxiv.org/abs/2206.02153v1)|null|
+|**2022-06-04 21:37:59**|**Your Neighbors Are Communicating: Towards Powerful and Scalable Graph   Neural Networks**|Meng Liu et.al.|[2206.02059v1](http://arxiv.org/abs/2206.02059v1)|null|
+|**2022-06-04 13:16:30**|**Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation**|Mingjie Li et.al.|[2206.01988v1](http://arxiv.org/abs/2206.01988v1)|null|
+|**2022-06-04 07:47:13**|**Investigating Brain Connectivity with Graph Neural Networks and   GNNExplainer**|Maksim Zhdanov et.al.|[2206.01930v1](http://arxiv.org/abs/2206.01930v1)|[link](https://github.com/maxxxzdn/EEGCN)|
+|**2022-06-04 04:04:25**|**Estimating counterfactual treatment outcomes over time in complex   multi-agent scenarios**|Keisuke Fujii et.al.|[2206.01900v1](http://arxiv.org/abs/2206.01900v1)|null|
+|**2022-06-04 03:58:37**|**Evaluation of creating scoring opportunities for teammates in soccer via   trajectory prediction**|Masakiyo Teranishi et.al.|[2206.01899v1](http://arxiv.org/abs/2206.01899v1)|null|
+|**2022-06-03 23:55:45**|**Federated Deep Learning Meets Autonomous Vehicle Perception: Design and   Verification**|Shuai Wang et.al.|[2206.01748v1](http://arxiv.org/abs/2206.01748v1)|null|
 |**2022-06-03 13:48:10**|**On Calibration of Graph Neural Networks for Node Classification**|Tong Liu et.al.|[2206.01570v1](http://arxiv.org/abs/2206.01570v1)|null|
 |**2022-06-03 11:09:03**|**Can Hybrid Geometric Scattering Networks Help Solve the Maximal Clique   Problem?**|Yimeng Min et.al.|[2206.01506v1](http://arxiv.org/abs/2206.01506v1)|[link](https://github.com/yimengmin/geometricscatteringmaximalclique)|
+|**2022-06-03 03:58:54**|**A Deep Reinforcement Learning Framework For Column Generation**|Cheng Chi et.al.|[2206.02568v1](http://arxiv.org/abs/2206.02568v1)|null|
 |**2022-06-03 03:27:42**|**Instant Graph Neural Networks for Dynamic Graphs**|Yanping Zheng et.al.|[2206.01379v1](http://arxiv.org/abs/2206.01379v1)|null|
 |**2022-06-02 20:46:26**|**PNODE: A memory-efficient neural ODE framework based on high-level   adjoint differentiation**|Hong Zhang et.al.|[2206.01298v1](http://arxiv.org/abs/2206.01298v1)|[link](https://github.com/caidao22/pnode)|
 |**2022-06-02 17:28:33**|**Invertible Neural Networks for Graph Prediction**|Chen Xu et.al.|[2206.01163v1](http://arxiv.org/abs/2206.01163v1)|[link](https://github.com/hamrel-cxu/invertible-graph-neural-network-ignn)|
@@ -56,28 +72,14 @@
 |**2022-06-01 11:04:11**|**From Cities to Series: Complex Networks and Deep Learning for Improved   Spatial and Temporal Analytics***|Gabriel Spadon et.al.|[2206.01176v1](http://arxiv.org/abs/2206.01176v1)|null|
 |**2022-06-01 10:31:14**|**Bayesian Learning to Discover Mathematical Operations in Governing   Equations of Dynamic Systems**|Hongpeng Zhou et.al.|[2206.00669v1](http://arxiv.org/abs/2206.00669v1)|[link](https://github.com/nips2021anonymous/mathonet)|
 |**2022-06-01 09:59:09**|**Augmenting Message Passing by Retrieving Similar Graphs**|Dingmin Wang et.al.|[2206.00362v1](http://arxiv.org/abs/2206.00362v1)|null|
-|**2022-06-01 09:51:38**|**DeepCluE: Enhanced Image Clustering via Multi-layer Ensembles in Deep   Neural Networks**|Dong Huang et.al.|[2206.00359v1](http://arxiv.org/abs/2206.00359v1)|null|
-|**2022-06-01 09:40:49**|**Regularized by Physics: Graph Neural Network Parametrized Potentials for   the Description of Intermolecular Interactions**|Moritz Thürlemann et.al.|[2206.00355v1](http://arxiv.org/abs/2206.00355v1)|[link](https://github.com/rinikerlab/gnnparametrizedff)|
-|**2022-06-01 07:01:04**|**Vision GNN: An Image is Worth Graph of Nodes**|Kai Han et.al.|[2206.00272v1](http://arxiv.org/abs/2206.00272v1)|[link](https://github.com/huawei-noah/CV-backbones)|
-|**2022-06-01 06:47:47**|**InducT-GCN: Inductive Graph Convolutional Networks for Text   Classification**|Kunze Wang et.al.|[2206.00265v1](http://arxiv.org/abs/2206.00265v1)|[link](https://github.com/usydnlp/InductTGCN)|
-|**2022-06-01 04:32:23**|**Lower and Upper Bounds for Numbers of Linear Regions of Graph   Convolutional Networks**|Hao Chen et.al.|[2206.00228v1](http://arxiv.org/abs/2206.00228v1)|null|
-|**2022-06-01 01:22:29**|**Learning Sequential Contexts using Transformer for 3D Hand Pose   Estimation**|Leyla Khaleghi et.al.|[2206.00171v1](http://arxiv.org/abs/2206.00171v1)|null|
-|**2022-05-31 18:44:53**|**Distributed Graph Neural Network Training with Periodic Historical   Embedding Synchronization**|Zheng Chai et.al.|[2206.00057v1](http://arxiv.org/abs/2206.00057v1)|null|
-|**2022-05-31 16:17:02**|**Continuous Temporal Graph Networks for Event-Based Graph Data**|Jin Guo et.al.|[2205.15924v1](http://arxiv.org/abs/2205.15924v1)|null|
-|**2022-05-31 16:14:11**|**Cutting-Plane Algorithms and Solution Whitening for the Vertex-Cover   Problem**|G. Claussen et.al.|[2205.15923v1](http://arxiv.org/abs/2205.15923v1)|null|
-|**2022-05-31 15:04:43**|**coVariance Neural Networks**|Saurabh Sihag et.al.|[2205.15856v1](http://arxiv.org/abs/2205.15856v1)|[link](https://github.com/pennbindlab/vnn)|
-|**2022-05-31 13:11:25**|**Strategic Classification with Graph Neural Networks**|Itay Eilat et.al.|[2205.15765v1](http://arxiv.org/abs/2205.15765v1)|[link](https://github.com/strategicgnns/code)|
-|**2022-05-31 12:24:01**|**Template based Graph Neural Network with Optimal Transport Distances**|Cédric Vincent-Cuaz et.al.|[2205.15733v1](http://arxiv.org/abs/2205.15733v1)|null|
-|**2022-05-31 10:38:04**|**Automatic Relation-aware Graph Network Proliferation**|Shaofei Cai et.al.|[2205.15678v1](http://arxiv.org/abs/2205.15678v1)|[link](https://github.com/phython96/ARGNP)|
-|**2022-05-31 10:20:07**|**COIN: Co-Cluster Infomax for Bipartite Graphs**|Baoyu Jing et.al.|[2206.00006v1](http://arxiv.org/abs/2206.00006v1)|null|
-|**2022-05-31 09:56:44**|**The CLRS Algorithmic Reasoning Benchmark**|Petar Veličković et.al.|[2205.15659v1](http://arxiv.org/abs/2205.15659v1)|[link](https://github.com/deepmind/clrs)|
-|**2022-05-31 09:48:47**|**Label-Enhanced Graph Neural Network for Semi-supervised Node   Classification**|Le Yu et.al.|[2205.15653v1](http://arxiv.org/abs/2205.15653v1)|[link](https://github.com/yule-BUAA/LEGNN)|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-06 15:42:54**|**Multi-Behavior Sequential Recommendation with Temporal Graph Transformer**|Lianghao Xia et.al.|[2206.02687v1](http://arxiv.org/abs/2206.02687v1)|[link](https://github.com/akaxlh/tgt)|
+|**2022-06-06 06:55:08**|**An Estimation Framework for Passerby Engagement Interacting with Social   Robots**|Taichi Sakaguchi et.al.|[2206.02394v1](http://arxiv.org/abs/2206.02394v1)|null|
 |**2022-06-01 15:56:59**|**Multi-Armed Bandit Problem with Temporally-Partitioned Rewards: When   Partial Feedback Counts**|Giulia Romano et.al.|[2206.00586v1](http://arxiv.org/abs/2206.00586v1)|null|
 |**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
 |**2022-05-30 08:56:25**|**A multimedia recommendation model based on collaborative graph**|Breda Lim et.al.|[2205.14931v1](http://arxiv.org/abs/2205.14931v1)|null|
@@ -106,5 +108,3 @@
 |**2021-12-31 07:31:20**|**Temporal aware Multi-Interest Graph Neural Network For Session-based   Recommendation**|Qi Shen et.al.|[2112.15328v1](http://arxiv.org/abs/2112.15328v1)|null|
 |**2021-12-31 03:54:37**|**Modelling of Bi-directional Spatio-Temporal Dependence and Users'   Dynamic Preferences for Missing POI Check-in Identification**|Dongbo Xi et.al.|[2112.15285v1](http://arxiv.org/abs/2112.15285v1)|null|
 |**2021-12-22 10:28:25**|**Multiple Choice Questions based Multi-Interest Policy Learning for   Conversational Recommendation**|Yiming Zhang et.al.|[2112.11775v2](http://arxiv.org/abs/2112.11775v2)|[link](https://github.com/zym6-6/mcmipl)|
-|**2021-12-16 09:12:33**|**GIMIRec: Global Interaction Information Aware Multi-Interest Framework   for Sequential Recommendation**|Jie Zhang et.al.|[2112.08717v1](http://arxiv.org/abs/2112.08717v1)|null|
-|**2021-12-16 06:48:31**|**MAVE: A Product Dataset for Multi-source Attribute Value Extraction**|Li Yang et.al.|[2112.08663v1](http://arxiv.org/abs/2112.08663v1)|[link](https://github.com/google-research-datasets/mave)|
