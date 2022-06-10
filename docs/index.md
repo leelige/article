@@ -1,41 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-06-09 16:09:38 Asia/Shanghai
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-07 17:22:06**|**Summarizing experimental sensitivities of collider experiments to dark   matter models and comparison to other experiments**|Antonio Boveia et.al.|[2206.03456v1](http://arxiv.org/abs/2206.03456v1)|null|
-|**2022-06-02 09:18:03**|**Algorithmic Fairness and Structural Injustice: Insights from Feminist   Political Philosophy**|Atoosa Kasirzadeh et.al.|[2206.00945v1](http://arxiv.org/abs/2206.00945v1)|null|
-|**2022-06-01 05:01:36**|**Assessing Group-level Gender Bias in Professional Evaluations: The Case   of Medical Student End-of-Shift Feedback**|Emmy Liu et.al.|[2206.00234v1](http://arxiv.org/abs/2206.00234v1)|null|
-|**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
-|**2022-05-30 21:21:38**|**Fairness in the First Stage of Two-Stage Recommender Systems**|Lequn Wang et.al.|[2205.15436v2](http://arxiv.org/abs/2205.15436v2)|null|
-|**2022-05-30 15:32:55**|**A Review and Evaluation of Elastic Distance Functions for Time Series   Clustering**|Chris Holder et.al.|[2205.15181v1](http://arxiv.org/abs/2205.15181v1)|null|
-|**2022-05-29 13:14:53**|**Contributions to Representation Learning with Graph Autoencoders and   Applications to Music Recommendation**|Guillaume Salha-Galvan et.al.|[2205.14651v2](http://arxiv.org/abs/2205.14651v2)|null|
-|**2022-05-27 07:56:11**|**A Design Space for Explainable Ranking and Ranking Models**|I. Al Hazwani et.al.|[2205.15305v1](http://arxiv.org/abs/2205.15305v1)|null|
-|**2022-05-23 19:57:15**|**Challenges in Measuring Bias via Open-Ended Language Generation**|Afra Feyza Akyürek et.al.|[2205.11601v1](http://arxiv.org/abs/2205.11601v1)|[link](https://github.com/feyzaakyurek/bias-textgen)|
-|**2022-05-23 14:48:14**|**ASFAP Working Group Summary of Societal Engagements**|Mounia Laassiri et.al.|[2205.11362v1](http://arxiv.org/abs/2205.11362v1)|null|
-|**2022-05-22 08:44:26**|**Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential   Recommendation**|Xinyan Fan et.al.|[2205.10775v1](http://arxiv.org/abs/2205.10775v1)|null|
-|**2022-05-20 18:46:16**|**Prospects for Heavy WIMP Dark Matter Searches at Muon Colliders**|Kevin Black et.al.|[2205.10404v1](http://arxiv.org/abs/2205.10404v1)|null|
-|**2022-05-19 17:43:09**|**Balanced and robust randomized treatment assignments: the Finite   Selection Model**|Ambarish Chattopadhyay et.al.|[2205.09736v1](http://arxiv.org/abs/2205.09736v1)|null|
-|**2022-05-17 12:36:30**|**Experiments on Generalizability of User-Oriented Fairness in Recommender   Systems**|Hossein A. Rahmani et.al.|[2205.08289v1](http://arxiv.org/abs/2205.08289v1)|[link](https://github.com/rahmanidashti/fairrecsys)|
-|**2022-05-16 14:39:37**|**How Different Groups Prioritize Ethical Values for Responsible AI**|Maurice Jakesch et.al.|[2205.07722v1](http://arxiv.org/abs/2205.07722v1)|null|
-|**2022-05-16 02:21:09**|**Trustworthy Graph Neural Networks: Aspects, Methods and Trends**|He Zhang et.al.|[2205.07424v1](http://arxiv.org/abs/2205.07424v1)|null|
-|**2022-05-15 10:38:41**|**Evaluating Independence and Conditional Independence Measures**|Jian Ma et.al.|[2205.07253v1](http://arxiv.org/abs/2205.07253v1)|[link](https://github.com/majianthu/eval)|
-|**2022-05-14 00:40:47**|**Experimental Evidence for Using a TTM Stages of Change Model in Boosting   Progress Toward 2FA Adoption**|Cori Faklaris et.al.|[2205.06937v1](http://arxiv.org/abs/2205.06937v1)|null|
-|**2022-05-12 12:21:11**|**Link recommendations: Their impact on network structure and minorities**|Antonio Ferrara et.al.|[2205.06048v1](http://arxiv.org/abs/2205.06048v1)|null|
-|**2022-05-12 10:27:47**|**Unsupervised Driving Behavior Analysis using Representation Learning and   Exploiting Group-based Training**|Soma Bandyopadhyay et.al.|[2205.07870v1](http://arxiv.org/abs/2205.07870v1)|null|
-|**2022-05-12 09:30:23**|**TaDeR: A New Task Dependency Recommendation for Project Management   Platform**|Quynh Nguyen et.al.|[2205.05976v1](http://arxiv.org/abs/2205.05976v1)|[link](https://github.com/thuynguyetquynh/tader-a-new-task-dependency-recommendation-for-project-management-platform)|
-|**2022-05-12 02:26:21**|**Ultra-High-Energy Cosmic Rays: The Intersection of the Cosmic and Energy   Frontiers**|A. Coleman et.al.|[2205.05845v2](http://arxiv.org/abs/2205.05845v2)|null|
-|**2022-05-11 20:06:03**|**"There Is Not Enough Information": On the Effects of Explanations on   Perceptions of Informational Fairness and Trustworthiness in Automated   Decision-Making**|Jakob Schoeffer et.al.|[2205.05758v1](http://arxiv.org/abs/2205.05758v1)|null|
-|**2022-05-11 16:49:23**|**Leveraging baseline covariates to analyze small cluster-randomized   trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|
-|**2022-05-02 14:24:11**|**Creative Uses of AI Systems and their Explanations: A Case Study from   Insurance**|Michaela Benk et.al.|[2205.00931v2](http://arxiv.org/abs/2205.00931v2)|null|
-|**2022-04-30 17:33:51**|**FairSR: Fairness-aware Sequential Recommendation through Multi-Task   Learning with Preference Graph Embeddings**|Cheng-Te Li et.al.|[2205.00313v1](http://arxiv.org/abs/2205.00313v1)|null|
-|**2022-04-29 19:13:23**|**Joint Multisided Exposure Fairness for Recommendation**|Haolun Wu et.al.|[2205.00048v1](http://arxiv.org/abs/2205.00048v1)|null|
-|**2022-04-29 17:17:43**|**Implementation of FAIR principles in the IPCC: The WGI AR6 Atlas   repository**|Maialen Iturbide et.al.|[2204.14245v1](http://arxiv.org/abs/2204.14245v1)|null|
-|**2022-04-25 17:49:51**|**A new preferential model with homophily for recommender systems**|Hanyang Tian et.al.|[2204.11819v1](http://arxiv.org/abs/2204.11819v1)|null|
-|**2022-04-24 10:57:45**|**Regulating Group Exposure for Item Providers in Recommendation**|Mirko Marras et.al.|[2204.11243v1](http://arxiv.org/abs/2204.11243v1)|null|
+ 自动更新 @ 2022-06-10 16:08:44 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -73,11 +37,57 @@
 |**2021-12-31 07:31:20**|**Temporal aware Multi-Interest Graph Neural Network For Session-based   Recommendation**|Qi Shen et.al.|[2112.15328v1](http://arxiv.org/abs/2112.15328v1)|null|
 |**2021-12-31 03:54:37**|**Modelling of Bi-directional Spatio-Temporal Dependence and Users'   Dynamic Preferences for Missing POI Check-in Identification**|Dongbo Xi et.al.|[2112.15285v1](http://arxiv.org/abs/2112.15285v1)|null|
 
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-07 17:22:06**|**Summarizing experimental sensitivities of collider experiments to dark   matter models and comparison to other experiments**|Antonio Boveia et.al.|[2206.03456v1](http://arxiv.org/abs/2206.03456v1)|null|
+|**2022-06-02 09:18:03**|**Algorithmic Fairness and Structural Injustice: Insights from Feminist   Political Philosophy**|Atoosa Kasirzadeh et.al.|[2206.00945v1](http://arxiv.org/abs/2206.00945v1)|null|
+|**2022-06-01 05:01:36**|**Assessing Group-level Gender Bias in Professional Evaluations: The Case   of Medical Student End-of-Shift Feedback**|Emmy Liu et.al.|[2206.00234v1](http://arxiv.org/abs/2206.00234v1)|null|
+|**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
+|**2022-05-30 21:21:38**|**Fairness in the First Stage of Two-Stage Recommender Systems**|Lequn Wang et.al.|[2205.15436v2](http://arxiv.org/abs/2205.15436v2)|null|
+|**2022-05-30 15:32:55**|**A Review and Evaluation of Elastic Distance Functions for Time Series   Clustering**|Chris Holder et.al.|[2205.15181v1](http://arxiv.org/abs/2205.15181v1)|null|
+|**2022-05-29 13:14:53**|**Contributions to Representation Learning with Graph Autoencoders and   Applications to Music Recommendation**|Guillaume Salha-Galvan et.al.|[2205.14651v2](http://arxiv.org/abs/2205.14651v2)|null|
+|**2022-05-27 07:56:11**|**A Design Space for Explainable Ranking and Ranking Models**|I. Al Hazwani et.al.|[2205.15305v1](http://arxiv.org/abs/2205.15305v1)|null|
+|**2022-05-23 19:57:15**|**Challenges in Measuring Bias via Open-Ended Language Generation**|Afra Feyza Akyürek et.al.|[2205.11601v1](http://arxiv.org/abs/2205.11601v1)|[link](https://github.com/feyzaakyurek/bias-textgen)|
+|**2022-05-23 14:48:14**|**ASFAP Working Group Summary of Societal Engagements**|Mounia Laassiri et.al.|[2205.11362v1](http://arxiv.org/abs/2205.11362v1)|null|
+|**2022-05-22 08:44:26**|**Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential   Recommendation**|Xinyan Fan et.al.|[2205.10775v1](http://arxiv.org/abs/2205.10775v1)|null|
+|**2022-05-20 18:46:16**|**Prospects for Heavy WIMP Dark Matter Searches at Muon Colliders**|Kevin Black et.al.|[2205.10404v1](http://arxiv.org/abs/2205.10404v1)|null|
+|**2022-05-19 17:43:09**|**Balanced and robust randomized treatment assignments: the Finite   Selection Model**|Ambarish Chattopadhyay et.al.|[2205.09736v1](http://arxiv.org/abs/2205.09736v1)|null|
+|**2022-05-17 12:36:30**|**Experiments on Generalizability of User-Oriented Fairness in Recommender   Systems**|Hossein A. Rahmani et.al.|[2205.08289v1](http://arxiv.org/abs/2205.08289v1)|[link](https://github.com/rahmanidashti/fairrecsys)|
+|**2022-05-16 14:39:37**|**How Different Groups Prioritize Ethical Values for Responsible AI**|Maurice Jakesch et.al.|[2205.07722v1](http://arxiv.org/abs/2205.07722v1)|null|
+|**2022-05-16 02:21:09**|**Trustworthy Graph Neural Networks: Aspects, Methods and Trends**|He Zhang et.al.|[2205.07424v1](http://arxiv.org/abs/2205.07424v1)|null|
+|**2022-05-15 10:38:41**|**Evaluating Independence and Conditional Independence Measures**|Jian Ma et.al.|[2205.07253v1](http://arxiv.org/abs/2205.07253v1)|[link](https://github.com/majianthu/eval)|
+|**2022-05-14 00:40:47**|**Experimental Evidence for Using a TTM Stages of Change Model in Boosting   Progress Toward 2FA Adoption**|Cori Faklaris et.al.|[2205.06937v1](http://arxiv.org/abs/2205.06937v1)|null|
+|**2022-05-12 12:21:11**|**Link recommendations: Their impact on network structure and minorities**|Antonio Ferrara et.al.|[2205.06048v1](http://arxiv.org/abs/2205.06048v1)|null|
+|**2022-05-12 10:27:47**|**Unsupervised Driving Behavior Analysis using Representation Learning and   Exploiting Group-based Training**|Soma Bandyopadhyay et.al.|[2205.07870v1](http://arxiv.org/abs/2205.07870v1)|null|
+|**2022-05-12 09:30:23**|**TaDeR: A New Task Dependency Recommendation for Project Management   Platform**|Quynh Nguyen et.al.|[2205.05976v1](http://arxiv.org/abs/2205.05976v1)|[link](https://github.com/thuynguyetquynh/tader-a-new-task-dependency-recommendation-for-project-management-platform)|
+|**2022-05-12 02:26:21**|**Ultra-High-Energy Cosmic Rays: The Intersection of the Cosmic and Energy   Frontiers**|A. Coleman et.al.|[2205.05845v2](http://arxiv.org/abs/2205.05845v2)|null|
+|**2022-05-11 20:06:03**|**"There Is Not Enough Information": On the Effects of Explanations on   Perceptions of Informational Fairness and Trustworthiness in Automated   Decision-Making**|Jakob Schoeffer et.al.|[2205.05758v1](http://arxiv.org/abs/2205.05758v1)|null|
+|**2022-05-11 16:49:23**|**Leveraging baseline covariates to analyze small cluster-randomized   trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|
+|**2022-05-02 14:24:11**|**Creative Uses of AI Systems and their Explanations: A Case Study from   Insurance**|Michaela Benk et.al.|[2205.00931v2](http://arxiv.org/abs/2205.00931v2)|null|
+|**2022-04-30 17:33:51**|**FairSR: Fairness-aware Sequential Recommendation through Multi-Task   Learning with Preference Graph Embeddings**|Cheng-Te Li et.al.|[2205.00313v1](http://arxiv.org/abs/2205.00313v1)|null|
+|**2022-04-29 19:13:23**|**Joint Multisided Exposure Fairness for Recommendation**|Haolun Wu et.al.|[2205.00048v1](http://arxiv.org/abs/2205.00048v1)|null|
+|**2022-04-29 17:17:43**|**Implementation of FAIR principles in the IPCC: The WGI AR6 Atlas   repository**|Maialen Iturbide et.al.|[2204.14245v1](http://arxiv.org/abs/2204.14245v1)|null|
+|**2022-04-25 17:49:51**|**A new preferential model with homophily for recommender systems**|Hanyang Tian et.al.|[2204.11819v1](http://arxiv.org/abs/2204.11819v1)|null|
+|**2022-04-24 10:57:45**|**Regulating Group Exposure for Item Providers in Recommendation**|Mirko Marras et.al.|[2204.11243v1](http://arxiv.org/abs/2204.11243v1)|null|
+
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-09 17:12:32**|**On the Generalization and Adaption Performance of Causal Models**|Nino Scherrer et.al.|[2206.04620v1](http://arxiv.org/abs/2206.04620v1)|null|
+|**2022-06-09 14:07:45**|**Accurate Node Feature Estimation with Structured Variational Graph   Autoencoder**|Jaemin Yoo et.al.|[2206.04516v1](http://arxiv.org/abs/2206.04516v1)|[link](https://github.com/snudatalab/SVGA)|
+|**2022-06-09 13:15:02**|**Data-Efficient Brain Connectome Analysis via Multi-Task Meta-Learning**|Yi Yang et.al.|[2206.04486v1](http://arxiv.org/abs/2206.04486v1)|null|
+|**2022-06-09 12:54:03**|**Towards Understanding Graph Neural Networks: An Algorithm Unrolling   Perspective**|Zepeng Zhang et.al.|[2206.04471v1](http://arxiv.org/abs/2206.04471v1)|null|
+|**2022-06-09 09:02:01**|**Model Degradation Hinders Deep Graph Neural Networks**|Wentao Zhang et.al.|[2206.04361v1](http://arxiv.org/abs/2206.04361v1)|null|
+|**2022-06-09 08:56:11**|**Graph Attention Multi-Layer Perceptron**|Wentao Zhang et.al.|[2206.04355v1](http://arxiv.org/abs/2206.04355v1)|[link](https://github.com/pku-dair/gamlp)|
+|**2022-06-09 05:33:02**|**Pseudo-Poincaré: A Unification Framework for Euclidean and Hyperbolic   Graph Neural Networks**|Mehrdad Khatir et.al.|[2206.04285v1](http://arxiv.org/abs/2206.04285v1)|null|
+|**2022-06-09 04:05:02**|**ScatterSample: Diversified Label Sampling for Data Efficient Graph   Neural Network Learning**|Zhenwei Dai et.al.|[2206.04255v1](http://arxiv.org/abs/2206.04255v1)|null|
+|**2022-06-09 01:43:49**|**Neo-GNNs: Neighborhood Overlap-aware Graph Neural Networks for Link   Prediction**|Seongjun Yun et.al.|[2206.04216v1](http://arxiv.org/abs/2206.04216v1)|[link](https://github.com/seongjunyun/neo_gnns)|
+|**2022-06-08 18:35:08**|**Diffusion probabilistic modeling of protein backbones in 3D for the   motif-scaffolding problem**|Brian L. Trippe et.al.|[2206.04119v1](http://arxiv.org/abs/2206.04119v1)|null|
 |**2022-06-08 02:16:11**|**Neural Bandit with Arm Group Graph**|Yunzhe Qi et.al.|[2206.03644v1](http://arxiv.org/abs/2206.03644v1)|null|
 |**2022-06-08 01:50:08**|**Alternately Optimized Graph Neural Networks**|Haoyu Han et.al.|[2206.03638v1](http://arxiv.org/abs/2206.03638v1)|null|
 |**2022-06-07 22:31:17**|**Towards Scalable Hyperbolic Neural Networks using Taylor Series   Approximations**|Nurendra Choudhary et.al.|[2206.03610v1](http://arxiv.org/abs/2206.03610v1)|null|
@@ -98,13 +108,3 @@
 |**2022-06-06 16:40:54**|**Robust and Fast Data-Driven Power System State Estimator Using Graph   Neural Networks**|Ognjen Kundacina et.al.|[2206.02731v1](http://arxiv.org/abs/2206.02731v1)|null|
 |**2022-06-06 15:35:59**|**Mapping out the glassy landscape of a mesoscopic elastoplastic model**|Dheeraj Kumar et.al.|[2206.02683v1](http://arxiv.org/abs/2206.02683v1)|null|
 |**2022-06-06 15:20:07**|**Canonical Cortical Graph Neural Networks and its Application for Speech   Enhancement in Future Audio-Visual Hearing Aids**|Leandro A. Passos et.al.|[2206.02671v1](http://arxiv.org/abs/2206.02671v1)|null|
-|**2022-06-06 15:05:36**|**Learning with Capsules: A Survey**|Fabio De Sousa Ribeiro et.al.|[2206.02664v1](http://arxiv.org/abs/2206.02664v1)|null|
-|**2022-06-06 14:26:34**|**Interpolation-based Correlation Reduction Network for Semi-Supervised   Graph Learning**|Xihong Yang et.al.|[2206.02796v1](http://arxiv.org/abs/2206.02796v1)|null|
-|**2022-06-06 07:24:44**|**A Simple yet Effective Method for Graph Classification**|Junran Wu et.al.|[2206.02404v1](http://arxiv.org/abs/2206.02404v1)|null|
-|**2022-06-06 06:38:53**|**Restructuring Graph for Higher Homophily via Learnable Spectral   Clustering**|Shouheng Li et.al.|[2206.02386v1](http://arxiv.org/abs/2206.02386v1)|null|
-|**2022-06-06 00:56:20**|**MICAL: Mutual Information-Based CNN-Aided Learned Factor**|Bahareh Salafian et.al.|[2206.02298v1](http://arxiv.org/abs/2206.02298v1)|[link](https://github.com/bsalafia/cnn-aided-factor-graphs-with-estimated-mutual-information-features-for-seizure-detection-mical)|
-|**2022-06-06 00:28:37**|**Efficient and Accurate Physics-aware Multiplex Graph Neural Networks for   3D Small Molecules and Macromolecule Complexes**|Shuo Zhang et.al.|[2206.02789v1](http://arxiv.org/abs/2206.02789v1)|null|
-|**2022-06-05 11:18:09**|**HPGNN: Using Hierarchical Graph Neural Networks for Outdoor Point Cloud   Processing**|Arulmolivarman Thieshanthan et.al.|[2206.02153v1](http://arxiv.org/abs/2206.02153v1)|null|
-|**2022-06-04 21:37:59**|**Your Neighbors Are Communicating: Towards Powerful and Scalable Graph   Neural Networks**|Meng Liu et.al.|[2206.02059v1](http://arxiv.org/abs/2206.02059v1)|null|
-|**2022-06-04 13:16:30**|**Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation**|Mingjie Li et.al.|[2206.01988v1](http://arxiv.org/abs/2206.01988v1)|null|
-|**2022-06-04 07:47:13**|**Investigating Brain Connectivity with Graph Neural Networks and   GNNExplainer**|Maksim Zhdanov et.al.|[2206.01930v1](http://arxiv.org/abs/2206.01930v1)|[link](https://github.com/maxxxzdn/EEGCN)|

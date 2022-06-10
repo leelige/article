@@ -2,6 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-09 17:12:32**|**On the Generalization and Adaption Performance of Causal Models**|Nino Scherrer et.al.|[2206.04620v1](http://arxiv.org/abs/2206.04620v1)|null|
+|**2022-06-09 14:07:45**|**Accurate Node Feature Estimation with Structured Variational Graph   Autoencoder**|Jaemin Yoo et.al.|[2206.04516v1](http://arxiv.org/abs/2206.04516v1)|[link](https://github.com/snudatalab/SVGA)|
+|**2022-06-09 13:15:02**|**Data-Efficient Brain Connectome Analysis via Multi-Task Meta-Learning**|Yi Yang et.al.|[2206.04486v1](http://arxiv.org/abs/2206.04486v1)|null|
+|**2022-06-09 12:54:03**|**Towards Understanding Graph Neural Networks: An Algorithm Unrolling   Perspective**|Zepeng Zhang et.al.|[2206.04471v1](http://arxiv.org/abs/2206.04471v1)|null|
+|**2022-06-09 09:02:01**|**Model Degradation Hinders Deep Graph Neural Networks**|Wentao Zhang et.al.|[2206.04361v1](http://arxiv.org/abs/2206.04361v1)|null|
+|**2022-06-09 08:56:11**|**Graph Attention Multi-Layer Perceptron**|Wentao Zhang et.al.|[2206.04355v1](http://arxiv.org/abs/2206.04355v1)|[link](https://github.com/pku-dair/gamlp)|
+|**2022-06-09 05:33:02**|**Pseudo-Poincaré: A Unification Framework for Euclidean and Hyperbolic   Graph Neural Networks**|Mehrdad Khatir et.al.|[2206.04285v1](http://arxiv.org/abs/2206.04285v1)|null|
+|**2022-06-09 04:05:02**|**ScatterSample: Diversified Label Sampling for Data Efficient Graph   Neural Network Learning**|Zhenwei Dai et.al.|[2206.04255v1](http://arxiv.org/abs/2206.04255v1)|null|
+|**2022-06-09 01:43:49**|**Neo-GNNs: Neighborhood Overlap-aware Graph Neural Networks for Link   Prediction**|Seongjun Yun et.al.|[2206.04216v1](http://arxiv.org/abs/2206.04216v1)|[link](https://github.com/seongjunyun/neo_gnns)|
+|**2022-06-08 18:35:08**|**Diffusion probabilistic modeling of protein backbones in 3D for the   motif-scaffolding problem**|Brian L. Trippe et.al.|[2206.04119v1](http://arxiv.org/abs/2206.04119v1)|null|
 |**2022-06-08 02:16:11**|**Neural Bandit with Arm Group Graph**|Yunzhe Qi et.al.|[2206.03644v1](http://arxiv.org/abs/2206.03644v1)|null|
 |**2022-06-08 01:50:08**|**Alternately Optimized Graph Neural Networks**|Haoyu Han et.al.|[2206.03638v1](http://arxiv.org/abs/2206.03638v1)|null|
 |**2022-06-07 22:31:17**|**Towards Scalable Hyperbolic Neural Networks using Taylor Series   Approximations**|Nurendra Choudhary et.al.|[2206.03610v1](http://arxiv.org/abs/2206.03610v1)|null|
@@ -22,13 +32,3 @@
 |**2022-06-06 16:40:54**|**Robust and Fast Data-Driven Power System State Estimator Using Graph   Neural Networks**|Ognjen Kundacina et.al.|[2206.02731v1](http://arxiv.org/abs/2206.02731v1)|null|
 |**2022-06-06 15:35:59**|**Mapping out the glassy landscape of a mesoscopic elastoplastic model**|Dheeraj Kumar et.al.|[2206.02683v1](http://arxiv.org/abs/2206.02683v1)|null|
 |**2022-06-06 15:20:07**|**Canonical Cortical Graph Neural Networks and its Application for Speech   Enhancement in Future Audio-Visual Hearing Aids**|Leandro A. Passos et.al.|[2206.02671v1](http://arxiv.org/abs/2206.02671v1)|null|
-|**2022-06-06 15:05:36**|**Learning with Capsules: A Survey**|Fabio De Sousa Ribeiro et.al.|[2206.02664v1](http://arxiv.org/abs/2206.02664v1)|null|
-|**2022-06-06 14:26:34**|**Interpolation-based Correlation Reduction Network for Semi-Supervised   Graph Learning**|Xihong Yang et.al.|[2206.02796v1](http://arxiv.org/abs/2206.02796v1)|null|
-|**2022-06-06 07:24:44**|**A Simple yet Effective Method for Graph Classification**|Junran Wu et.al.|[2206.02404v1](http://arxiv.org/abs/2206.02404v1)|null|
-|**2022-06-06 06:38:53**|**Restructuring Graph for Higher Homophily via Learnable Spectral   Clustering**|Shouheng Li et.al.|[2206.02386v1](http://arxiv.org/abs/2206.02386v1)|null|
-|**2022-06-06 00:56:20**|**MICAL: Mutual Information-Based CNN-Aided Learned Factor**|Bahareh Salafian et.al.|[2206.02298v1](http://arxiv.org/abs/2206.02298v1)|[link](https://github.com/bsalafia/cnn-aided-factor-graphs-with-estimated-mutual-information-features-for-seizure-detection-mical)|
-|**2022-06-06 00:28:37**|**Efficient and Accurate Physics-aware Multiplex Graph Neural Networks for   3D Small Molecules and Macromolecule Complexes**|Shuo Zhang et.al.|[2206.02789v1](http://arxiv.org/abs/2206.02789v1)|null|
-|**2022-06-05 11:18:09**|**HPGNN: Using Hierarchical Graph Neural Networks for Outdoor Point Cloud   Processing**|Arulmolivarman Thieshanthan et.al.|[2206.02153v1](http://arxiv.org/abs/2206.02153v1)|null|
-|**2022-06-04 21:37:59**|**Your Neighbors Are Communicating: Towards Powerful and Scalable Graph   Neural Networks**|Meng Liu et.al.|[2206.02059v1](http://arxiv.org/abs/2206.02059v1)|null|
-|**2022-06-04 13:16:30**|**Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation**|Mingjie Li et.al.|[2206.01988v1](http://arxiv.org/abs/2206.01988v1)|null|
-|**2022-06-04 07:47:13**|**Investigating Brain Connectivity with Graph Neural Networks and   GNNExplainer**|Maksim Zhdanov et.al.|[2206.01930v1](http://arxiv.org/abs/2206.01930v1)|[link](https://github.com/maxxxzdn/EEGCN)|
