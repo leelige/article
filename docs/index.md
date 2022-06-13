@@ -1,47 +1,15 @@
 # arxiv-daily
- 自动更新 @ 2022-06-12 16:07:40 Asia/Shanghai
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-09 17:12:32**|**On the Generalization and Adaption Performance of Causal Models**|Nino Scherrer et.al.|[2206.04620v1](http://arxiv.org/abs/2206.04620v1)|null|
-|**2022-06-09 14:07:45**|**Accurate Node Feature Estimation with Structured Variational Graph   Autoencoder**|Jaemin Yoo et.al.|[2206.04516v1](http://arxiv.org/abs/2206.04516v1)|[link](https://github.com/snudatalab/SVGA)|
-|**2022-06-09 13:15:02**|**Data-Efficient Brain Connectome Analysis via Multi-Task Meta-Learning**|Yi Yang et.al.|[2206.04486v1](http://arxiv.org/abs/2206.04486v1)|null|
-|**2022-06-09 12:54:03**|**Towards Understanding Graph Neural Networks: An Algorithm Unrolling   Perspective**|Zepeng Zhang et.al.|[2206.04471v1](http://arxiv.org/abs/2206.04471v1)|null|
-|**2022-06-09 09:02:01**|**Model Degradation Hinders Deep Graph Neural Networks**|Wentao Zhang et.al.|[2206.04361v1](http://arxiv.org/abs/2206.04361v1)|null|
-|**2022-06-09 08:56:11**|**Graph Attention Multi-Layer Perceptron**|Wentao Zhang et.al.|[2206.04355v1](http://arxiv.org/abs/2206.04355v1)|[link](https://github.com/pku-dair/gamlp)|
-|**2022-06-09 05:33:02**|**Pseudo-Poincaré: A Unification Framework for Euclidean and Hyperbolic   Graph Neural Networks**|Mehrdad Khatir et.al.|[2206.04285v1](http://arxiv.org/abs/2206.04285v1)|null|
-|**2022-06-09 04:05:02**|**ScatterSample: Diversified Label Sampling for Data Efficient Graph   Neural Network Learning**|Zhenwei Dai et.al.|[2206.04255v1](http://arxiv.org/abs/2206.04255v1)|null|
-|**2022-06-09 01:43:49**|**Neo-GNNs: Neighborhood Overlap-aware Graph Neural Networks for Link   Prediction**|Seongjun Yun et.al.|[2206.04216v1](http://arxiv.org/abs/2206.04216v1)|[link](https://github.com/seongjunyun/neo_gnns)|
-|**2022-06-08 18:35:08**|**Diffusion probabilistic modeling of protein backbones in 3D for the   motif-scaffolding problem**|Brian L. Trippe et.al.|[2206.04119v1](http://arxiv.org/abs/2206.04119v1)|null|
-|**2022-06-08 02:16:11**|**Neural Bandit with Arm Group Graph**|Yunzhe Qi et.al.|[2206.03644v1](http://arxiv.org/abs/2206.03644v1)|null|
-|**2022-06-08 01:50:08**|**Alternately Optimized Graph Neural Networks**|Haoyu Han et.al.|[2206.03638v1](http://arxiv.org/abs/2206.03638v1)|null|
-|**2022-06-07 22:31:17**|**Towards Scalable Hyperbolic Neural Networks using Taylor Series   Approximations**|Nurendra Choudhary et.al.|[2206.03610v1](http://arxiv.org/abs/2206.03610v1)|null|
-|**2022-06-07 21:58:29**|**Decoupled Self-supervised Learning for Non-Homophilous Graphs**|Teng Xiao et.al.|[2206.03601v1](http://arxiv.org/abs/2206.03601v1)|null|
-|**2022-06-07 17:40:51**|**FDGNN: Fully Dynamic Graph Neural Network**|Alice Moallemy-Oureh et.al.|[2206.03469v1](http://arxiv.org/abs/2206.03469v1)|null|
-|**2022-06-07 16:25:20**|**Improving Fairness in Graph Neural Networks via Mitigating Sensitive   Attribute Leakage**|Yu Wang et.al.|[2206.03426v1](http://arxiv.org/abs/2206.03426v1)|[link](https://github.com/yuwvandy/fairvgnn)|
-|**2022-06-07 16:12:17**|**FedRel: An Adaptive Federated Relevance Framework for Spatial Temporal   Graph Learning**|Tiehua Zhang et.al.|[2206.03420v1](http://arxiv.org/abs/2206.03420v1)|null|
-|**2022-06-07 13:02:53**|**Towards better Interpretable and Generalizable AD detection using   Collective Artificial Intelligence**|Huy-Dung Nguyen et.al.|[2206.03247v1](http://arxiv.org/abs/2206.03247v1)|null|
-|**2022-06-07 10:24:18**|**Utility of Equivariant Message Passing in Cortical Mesh Segmentation**|Dániel Unyi et.al.|[2206.03164v1](http://arxiv.org/abs/2206.03164v1)|[link](https://github.com/daniel-unyi-42/equivariant-cortical-mesh-segmentation)|
-|**2022-06-07 09:08:35**|**Spatial-Temporal Adaptive Graph Convolution with Attention Network for   Traffic Forecasting**|Chen Weikang et.al.|[2206.03128v1](http://arxiv.org/abs/2206.03128v1)|null|
-|**2022-06-07 08:14:45**|**A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via   Differential Privacy**|Yeqing Qiu et.al.|[2206.03492v1](http://arxiv.org/abs/2206.03492v1)|null|
-|**2022-06-07 07:45:45**|**EiX-GNN : Concept-level eigencentrality explainer for graph neural   networks**|Pascal Bourdon et.al.|[2206.03491v1](http://arxiv.org/abs/2206.03491v1)|null|
-|**2022-06-06 21:26:23**|**Boundary informed inverse PDE problems on discrete Riemann surfaces**|Mehdi Garrousian et.al.|[2206.02911v1](http://arxiv.org/abs/2206.02911v1)|[link](https://github.com/mehdi-gital/biip)|
-|**2022-06-06 20:23:30**|**Graph Rationalization with Environment-based Augmentations**|Gang Liu et.al.|[2206.02886v1](http://arxiv.org/abs/2206.02886v1)|[link](https://github.com/liugangcode/GREA)|
-|**2022-06-06 19:02:39**|**Efficient entity-based reinforcement learning**|Vince Jankovics et.al.|[2206.02855v1](http://arxiv.org/abs/2206.02855v1)|null|
-|**2022-06-06 18:47:48**|**A Bird's-Eye Tutorial of Graph Attention Architectures**|Kaustubh D. Dhole et.al.|[2206.02849v1](http://arxiv.org/abs/2206.02849v1)|null|
-|**2022-06-06 17:52:20**|**Neuro CROSS exchange: Learning to CROSS exchange to solve realistic   vehicle routing problems**|Minjun Kim et.al.|[2206.02771v1](http://arxiv.org/abs/2206.02771v1)|null|
-|**2022-06-06 16:40:54**|**Robust and Fast Data-Driven Power System State Estimator Using Graph   Neural Networks**|Ognjen Kundacina et.al.|[2206.02731v1](http://arxiv.org/abs/2206.02731v1)|null|
-|**2022-06-06 15:35:59**|**Mapping out the glassy landscape of a mesoscopic elastoplastic model**|Dheeraj Kumar et.al.|[2206.02683v1](http://arxiv.org/abs/2206.02683v1)|null|
-|**2022-06-06 15:20:07**|**Canonical Cortical Graph Neural Networks and its Application for Speech   Enhancement in Future Audio-Visual Hearing Aids**|Leandro A. Passos et.al.|[2206.02671v1](http://arxiv.org/abs/2206.02671v1)|null|
+ 自动更新 @ 2022-06-13 16:08:32 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-10 16:28:36**|**Quantification of follow-up time in oncology clinical trials with a   time-to-event endpoint: Asking the right questions**|Kaspar Rufibach et.al.|[2206.05216v1](http://arxiv.org/abs/2206.05216v1)|null|
+|**2022-06-09 22:48:35**|**Comprehensive Fair Meta-learned Recommender System**|Tianxin Wei et.al.|[2206.04789v1](http://arxiv.org/abs/2206.04789v1)|[link](https://github.com/weitianxin/CLOVER)|
+|**2022-06-09 19:42:45**|**The Developers' Design Thinking Toolbox in Hackathons: A Study on the   Recurring Design Methods in Software Development Marathons**|Kiev Gama et.al.|[2206.04744v1](http://arxiv.org/abs/2206.04744v1)|null|
+|**2022-06-08 08:52:47**|**Explanation as Question Answering based on a Task Model of the Agent's   Design**|Ashok Goel et.al.|[2206.05030v1](http://arxiv.org/abs/2206.05030v1)|null|
 |**2022-06-07 17:22:06**|**Summarizing experimental sensitivities of collider experiments to dark   matter models and comparison to other experiments**|Antonio Boveia et.al.|[2206.03456v1](http://arxiv.org/abs/2206.03456v1)|null|
 |**2022-06-02 09:18:03**|**Algorithmic Fairness and Structural Injustice: Insights from Feminist   Political Philosophy**|Atoosa Kasirzadeh et.al.|[2206.00945v1](http://arxiv.org/abs/2206.00945v1)|null|
 |**2022-06-01 05:01:36**|**Assessing Group-level Gender Bias in Professional Evaluations: The Case   of Medical Student End-of-Shift Feedback**|Emmy Liu et.al.|[2206.00234v1](http://arxiv.org/abs/2206.00234v1)|null|
@@ -68,16 +36,49 @@
 |**2022-05-11 16:49:23**|**Leveraging baseline covariates to analyze small cluster-randomized   trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|
 |**2022-05-02 14:24:11**|**Creative Uses of AI Systems and their Explanations: A Case Study from   Insurance**|Michaela Benk et.al.|[2205.00931v2](http://arxiv.org/abs/2205.00931v2)|null|
 |**2022-04-30 17:33:51**|**FairSR: Fairness-aware Sequential Recommendation through Multi-Task   Learning with Preference Graph Embeddings**|Cheng-Te Li et.al.|[2205.00313v1](http://arxiv.org/abs/2205.00313v1)|null|
-|**2022-04-29 19:13:23**|**Joint Multisided Exposure Fairness for Recommendation**|Haolun Wu et.al.|[2205.00048v1](http://arxiv.org/abs/2205.00048v1)|null|
-|**2022-04-29 17:17:43**|**Implementation of FAIR principles in the IPCC: The WGI AR6 Atlas   repository**|Maialen Iturbide et.al.|[2204.14245v1](http://arxiv.org/abs/2204.14245v1)|null|
-|**2022-04-25 17:49:51**|**A new preferential model with homophily for recommender systems**|Hanyang Tian et.al.|[2204.11819v1](http://arxiv.org/abs/2204.11819v1)|null|
-|**2022-04-24 10:57:45**|**Regulating Group Exposure for Item Providers in Recommendation**|Mirko Marras et.al.|[2204.11243v1](http://arxiv.org/abs/2204.11243v1)|null|
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-10 13:04:14**|**We Cannot Guarantee Safety: The Undecidability of Graph Neural Network   Verification**|Marco Sälzer et.al.|[2206.05070v1](http://arxiv.org/abs/2206.05070v1)|null|
+|**2022-06-10 12:12:41**|**Scalable Deep Gaussian Markov Random Fields for General Graphs**|Joel Oskarsson et.al.|[2206.05032v1](http://arxiv.org/abs/2206.05032v1)|[link](https://github.com/joeloskarsson/graph-dgmrf)|
+|**2022-06-10 07:23:51**|**NAGphormer: Neighborhood Aggregation Graph Transformer for Node   Classification in Large Graphs**|Jinsong Chen et.al.|[2206.04910v1](http://arxiv.org/abs/2206.04910v1)|null|
+|**2022-06-10 04:06:28**|**Symbolic image detection using scene and knowledge graphs**|Nasrin Kalanat et.al.|[2206.04863v1](http://arxiv.org/abs/2206.04863v1)|null|
+|**2022-06-10 03:04:23**|**Beyond the Gates of Euclidean Space: Temporal-Discrimination-Fusions and   Attention-based Graph Neural Network for Human Activity Recognition**|Nafees Ahmad et.al.|[2206.04855v1](http://arxiv.org/abs/2206.04855v1)|null|
+|**2022-06-10 01:30:15**|**Transformer-Graph Neural Network with Global-Local Attention for   Multimodal Rumour Detection with Knowledge Distillation**|Tsun-hin Cheung et.al.|[2206.04832v1](http://arxiv.org/abs/2206.04832v1)|null|
+|**2022-06-10 01:08:50**|**Machine learning prediction of network dynamics with privacy protection**|Xin Xia et.al.|[2206.04828v1](http://arxiv.org/abs/2206.04828v1)|null|
+|**2022-06-09 17:12:32**|**On the Generalization and Adaption Performance of Causal Models**|Nino Scherrer et.al.|[2206.04620v1](http://arxiv.org/abs/2206.04620v1)|null|
+|**2022-06-09 14:07:45**|**Accurate Node Feature Estimation with Structured Variational Graph   Autoencoder**|Jaemin Yoo et.al.|[2206.04516v1](http://arxiv.org/abs/2206.04516v1)|[link](https://github.com/snudatalab/SVGA)|
+|**2022-06-09 13:15:02**|**Data-Efficient Brain Connectome Analysis via Multi-Task Meta-Learning**|Yi Yang et.al.|[2206.04486v1](http://arxiv.org/abs/2206.04486v1)|null|
+|**2022-06-09 12:54:03**|**Towards Understanding Graph Neural Networks: An Algorithm Unrolling   Perspective**|Zepeng Zhang et.al.|[2206.04471v1](http://arxiv.org/abs/2206.04471v1)|null|
+|**2022-06-09 09:02:01**|**Model Degradation Hinders Deep Graph Neural Networks**|Wentao Zhang et.al.|[2206.04361v1](http://arxiv.org/abs/2206.04361v1)|null|
+|**2022-06-09 08:56:11**|**Graph Attention Multi-Layer Perceptron**|Wentao Zhang et.al.|[2206.04355v1](http://arxiv.org/abs/2206.04355v1)|[link](https://github.com/pku-dair/gamlp)|
+|**2022-06-09 05:33:02**|**Pseudo-Poincaré: A Unification Framework for Euclidean and Hyperbolic   Graph Neural Networks**|Mehrdad Khatir et.al.|[2206.04285v1](http://arxiv.org/abs/2206.04285v1)|null|
+|**2022-06-09 04:35:25**|**Unsupervised Deep Discriminant Analysis Based Clustering**|Jinyu Cai et.al.|[2206.04686v1](http://arxiv.org/abs/2206.04686v1)|null|
+|**2022-06-09 04:05:02**|**ScatterSample: Diversified Label Sampling for Data Efficient Graph   Neural Network Learning**|Zhenwei Dai et.al.|[2206.04255v1](http://arxiv.org/abs/2206.04255v1)|null|
+|**2022-06-09 01:43:49**|**Neo-GNNs: Neighborhood Overlap-aware Graph Neural Networks for Link   Prediction**|Seongjun Yun et.al.|[2206.04216v1](http://arxiv.org/abs/2206.04216v1)|[link](https://github.com/seongjunyun/neo_gnns)|
+|**2022-06-08 18:35:08**|**Diffusion probabilistic modeling of protein backbones in 3D for the   motif-scaffolding problem**|Brian L. Trippe et.al.|[2206.04119v1](http://arxiv.org/abs/2206.04119v1)|null|
+|**2022-06-08 02:16:11**|**Neural Bandit with Arm Group Graph**|Yunzhe Qi et.al.|[2206.03644v2](http://arxiv.org/abs/2206.03644v2)|null|
+|**2022-06-08 01:50:08**|**Alternately Optimized Graph Neural Networks**|Haoyu Han et.al.|[2206.03638v1](http://arxiv.org/abs/2206.03638v1)|null|
+|**2022-06-07 22:31:17**|**Towards Scalable Hyperbolic Neural Networks using Taylor Series   Approximations**|Nurendra Choudhary et.al.|[2206.03610v1](http://arxiv.org/abs/2206.03610v1)|null|
+|**2022-06-07 21:58:29**|**Decoupled Self-supervised Learning for Non-Homophilous Graphs**|Teng Xiao et.al.|[2206.03601v1](http://arxiv.org/abs/2206.03601v1)|null|
+|**2022-06-07 17:40:51**|**FDGNN: Fully Dynamic Graph Neural Network**|Alice Moallemy-Oureh et.al.|[2206.03469v1](http://arxiv.org/abs/2206.03469v1)|null|
+|**2022-06-07 16:25:20**|**Improving Fairness in Graph Neural Networks via Mitigating Sensitive   Attribute Leakage**|Yu Wang et.al.|[2206.03426v2](http://arxiv.org/abs/2206.03426v2)|[link](https://github.com/yuwvandy/fairvgnn)|
+|**2022-06-07 16:22:55**|**Detecting Anomalous Cryptocurrency Transactions: an AML/CFT Application   of Machine Learning-based Forensics**|Nadia Pocher et.al.|[2206.04803v1](http://arxiv.org/abs/2206.04803v1)|null|
+|**2022-06-07 16:12:17**|**FedRel: An Adaptive Federated Relevance Framework for Spatial Temporal   Graph Learning**|Tiehua Zhang et.al.|[2206.03420v1](http://arxiv.org/abs/2206.03420v1)|null|
+|**2022-06-07 13:02:53**|**Towards better Interpretable and Generalizable AD detection using   Collective Artificial Intelligence**|Huy-Dung Nguyen et.al.|[2206.03247v1](http://arxiv.org/abs/2206.03247v1)|null|
+|**2022-06-07 10:24:18**|**Utility of Equivariant Message Passing in Cortical Mesh Segmentation**|Dániel Unyi et.al.|[2206.03164v1](http://arxiv.org/abs/2206.03164v1)|[link](https://github.com/daniel-unyi-42/equivariant-cortical-mesh-segmentation)|
+|**2022-06-07 09:08:35**|**Spatial-Temporal Adaptive Graph Convolution with Attention Network for   Traffic Forecasting**|Chen Weikang et.al.|[2206.03128v1](http://arxiv.org/abs/2206.03128v1)|null|
+|**2022-06-07 08:14:45**|**A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via   Differential Privacy**|Yeqing Qiu et.al.|[2206.03492v1](http://arxiv.org/abs/2206.03492v1)|null|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-10 12:05:50**|**Feature-aware Diversified Re-ranking with Disentangled Representations   for Relevant Recommendation**|Zihan Lin et.al.|[2206.05020v1](http://arxiv.org/abs/2206.05020v1)|null|
 |**2022-06-08 13:28:29**|**Efficient Resource Allocation with Fairness Constraints in Restless   Multi-Armed Bandits**|Dexun Li et.al.|[2206.03883v1](http://arxiv.org/abs/2206.03883v1)|null|
 |**2022-06-06 15:42:54**|**Multi-Behavior Sequential Recommendation with Temporal Graph Transformer**|Lianghao Xia et.al.|[2206.02687v1](http://arxiv.org/abs/2206.02687v1)|[link](https://github.com/akaxlh/tgt)|
 |**2022-06-06 06:55:08**|**An Estimation Framework for Passerby Engagement Interacting with Social   Robots**|Taichi Sakaguchi et.al.|[2206.02394v1](http://arxiv.org/abs/2206.02394v1)|null|
@@ -107,4 +108,3 @@
 |**2022-02-01 06:52:40**|**Sequential Search with Off-Policy Reinforcement Learning**|Dadong Miao et.al.|[2202.00245v1](http://arxiv.org/abs/2202.00245v1)|null|
 |**2022-01-31 05:50:57**|**Speed-ANN: Low-Latency and High-Accuracy Nearest Neighbor Search via   Intra-Query Parallelism**|Zhen Peng et.al.|[2201.13007v1](http://arxiv.org/abs/2201.13007v1)|null|
 |**2021-12-31 07:31:20**|**Temporal aware Multi-Interest Graph Neural Network For Session-based   Recommendation**|Qi Shen et.al.|[2112.15328v1](http://arxiv.org/abs/2112.15328v1)|null|
-|**2021-12-31 03:54:37**|**Modelling of Bi-directional Spatio-Temporal Dependence and Users'   Dynamic Preferences for Missing POI Check-in Identification**|Dongbo Xi et.al.|[2112.15285v1](http://arxiv.org/abs/2112.15285v1)|null|
