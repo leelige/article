@@ -2,6 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-13 15:14:41**|**Evaluating Graph Generative Models with Contrastively Learned Features**|Hamed Shirzad et.al.|[2206.06234v1](http://arxiv.org/abs/2206.06234v1)|[link](https://github.com/hamed1375/self-supervised-models-for-ggm-evaluation)|
+|**2022-06-13 09:37:58**|**Analysis of function approximation and stability of general DNNs in   directed acyclic graphs using un-rectifying analysis**|Wen-Liang Hwang et.al.|[2206.05997v1](http://arxiv.org/abs/2206.05997v1)|null|
+|**2022-06-12 16:14:16**|**Learning-Based Data Storage [Vision] (Technical Report)**|Xiang Lian et.al.|[2206.05778v1](http://arxiv.org/abs/2206.05778v1)|null|
+|**2022-06-12 08:38:06**|**tBDFS: Temporal Graph Neural Network Leveraging DFS**|Uriel Singer et.al.|[2206.05692v1](http://arxiv.org/abs/2206.05692v1)|null|
+|**2022-06-11 20:06:47**|**RadNet: Incident Prediction in Spatio-Temporal Road Graph Networks Using   Traffic Forecasting**|Shreshth Tuli et.al.|[2206.05602v1](http://arxiv.org/abs/2206.05602v1)|null|
+|**2022-06-11 16:44:59**|**Parameter Convex Neural Networks**|Jingcheng Zhou et.al.|[2206.05562v1](http://arxiv.org/abs/2206.05562v1)|null|
+|**2022-06-11 11:04:23**|**Soft-mask: Adaptive Substructure Extractions for Graph Neural Networks**|Mingqi Yang et.al.|[2206.05499v1](http://arxiv.org/abs/2206.05499v1)|null|
+|**2022-06-11 06:26:12**|**ACMP: Allen-Cahn Message Passing for Graph Neural Networks with Particle   Phase Transition**|Yuelin Wang et.al.|[2206.05437v1](http://arxiv.org/abs/2206.05437v1)|null|
+|**2022-06-10 19:47:05**|**Synthetic Over-sampling for Imbalanced Node Classification with Graph   Neural Networks**|Tianxiang Zhao et.al.|[2206.05335v1](http://arxiv.org/abs/2206.05335v1)|null|
 |**2022-06-10 13:04:14**|**We Cannot Guarantee Safety: The Undecidability of Graph Neural Network   Verification**|Marco Sälzer et.al.|[2206.05070v1](http://arxiv.org/abs/2206.05070v1)|null|
 |**2022-06-10 12:12:41**|**Scalable Deep Gaussian Markov Random Fields for General Graphs**|Joel Oskarsson et.al.|[2206.05032v1](http://arxiv.org/abs/2206.05032v1)|[link](https://github.com/joeloskarsson/graph-dgmrf)|
 |**2022-06-10 07:23:51**|**NAGphormer: Neighborhood Aggregation Graph Transformer for Node   Classification in Large Graphs**|Jinsong Chen et.al.|[2206.04910v1](http://arxiv.org/abs/2206.04910v1)|null|
@@ -23,12 +32,3 @@
 |**2022-06-08 02:16:11**|**Neural Bandit with Arm Group Graph**|Yunzhe Qi et.al.|[2206.03644v2](http://arxiv.org/abs/2206.03644v2)|null|
 |**2022-06-08 01:50:08**|**Alternately Optimized Graph Neural Networks**|Haoyu Han et.al.|[2206.03638v1](http://arxiv.org/abs/2206.03638v1)|null|
 |**2022-06-07 22:31:17**|**Towards Scalable Hyperbolic Neural Networks using Taylor Series   Approximations**|Nurendra Choudhary et.al.|[2206.03610v1](http://arxiv.org/abs/2206.03610v1)|null|
-|**2022-06-07 21:58:29**|**Decoupled Self-supervised Learning for Non-Homophilous Graphs**|Teng Xiao et.al.|[2206.03601v1](http://arxiv.org/abs/2206.03601v1)|null|
-|**2022-06-07 17:40:51**|**FDGNN: Fully Dynamic Graph Neural Network**|Alice Moallemy-Oureh et.al.|[2206.03469v1](http://arxiv.org/abs/2206.03469v1)|null|
-|**2022-06-07 16:25:20**|**Improving Fairness in Graph Neural Networks via Mitigating Sensitive   Attribute Leakage**|Yu Wang et.al.|[2206.03426v2](http://arxiv.org/abs/2206.03426v2)|[link](https://github.com/yuwvandy/fairvgnn)|
-|**2022-06-07 16:22:55**|**Detecting Anomalous Cryptocurrency Transactions: an AML/CFT Application   of Machine Learning-based Forensics**|Nadia Pocher et.al.|[2206.04803v1](http://arxiv.org/abs/2206.04803v1)|null|
-|**2022-06-07 16:12:17**|**FedRel: An Adaptive Federated Relevance Framework for Spatial Temporal   Graph Learning**|Tiehua Zhang et.al.|[2206.03420v1](http://arxiv.org/abs/2206.03420v1)|null|
-|**2022-06-07 13:02:53**|**Towards better Interpretable and Generalizable AD detection using   Collective Artificial Intelligence**|Huy-Dung Nguyen et.al.|[2206.03247v1](http://arxiv.org/abs/2206.03247v1)|null|
-|**2022-06-07 10:24:18**|**Utility of Equivariant Message Passing in Cortical Mesh Segmentation**|Dániel Unyi et.al.|[2206.03164v1](http://arxiv.org/abs/2206.03164v1)|[link](https://github.com/daniel-unyi-42/equivariant-cortical-mesh-segmentation)|
-|**2022-06-07 09:08:35**|**Spatial-Temporal Adaptive Graph Convolution with Attention Network for   Traffic Forecasting**|Chen Weikang et.al.|[2206.03128v1](http://arxiv.org/abs/2206.03128v1)|null|
-|**2022-06-07 08:14:45**|**A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via   Differential Privacy**|Yeqing Qiu et.al.|[2206.03492v1](http://arxiv.org/abs/2206.03492v1)|null|
