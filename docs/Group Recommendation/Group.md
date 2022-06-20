@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-17 15:39:39**|**Random projections and Kernelised Leave One Cluster Out   Cross-Validation: Universal baselines and evaluation tools for supervised   machine learning for materials properties**|Samantha Durdy et.al.|[2206.08841v1](http://arxiv.org/abs/2206.08841v1)|[link](https://github.com/lrcfmd/kernelisedloco-cv)|
+|**2022-06-16 22:02:33**|**Estimating the lifetime risk of a false positive screening test result**|Tim White et.al.|[2206.08463v1](http://arxiv.org/abs/2206.08463v1)|[link](https://github.com/timwhite0/false-positives-calculator)|
 |**2022-06-10 16:28:36**|**Quantification of follow-up time in oncology clinical trials with a   time-to-event endpoint: Asking the right questions**|Kaspar Rufibach et.al.|[2206.05216v1](http://arxiv.org/abs/2206.05216v1)|null|
 |**2022-06-09 22:48:35**|**Comprehensive Fair Meta-learned Recommender System**|Tianxin Wei et.al.|[2206.04789v1](http://arxiv.org/abs/2206.04789v1)|[link](https://github.com/weitianxin/CLOVER)|
 |**2022-06-09 19:42:45**|**The Developers' Design Thinking Toolbox in Hackathons: A Study on the   Recurring Design Methods in Software Development Marathons**|Kiev Gama et.al.|[2206.04744v1](http://arxiv.org/abs/2206.04744v1)|null|
@@ -30,5 +32,3 @@
 |**2022-05-12 02:26:21**|**Ultra-High-Energy Cosmic Rays: The Intersection of the Cosmic and Energy   Frontiers**|A. Coleman et.al.|[2205.05845v2](http://arxiv.org/abs/2205.05845v2)|null|
 |**2022-05-11 20:06:03**|**"There Is Not Enough Information": On the Effects of Explanations on   Perceptions of Informational Fairness and Trustworthiness in Automated   Decision-Making**|Jakob Schoeffer et.al.|[2205.05758v1](http://arxiv.org/abs/2205.05758v1)|null|
 |**2022-05-11 16:49:23**|**Leveraging baseline covariates to analyze small cluster-randomized   trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|
-|**2022-05-02 14:24:11**|**Creative Uses of AI Systems and their Explanations: A Case Study from   Insurance**|Michaela Benk et.al.|[2205.00931v2](http://arxiv.org/abs/2205.00931v2)|null|
-|**2022-04-30 17:33:51**|**FairSR: Fairness-aware Sequential Recommendation through Multi-Task   Learning with Preference Graph Embeddings**|Cheng-Te Li et.al.|[2205.00313v1](http://arxiv.org/abs/2205.00313v1)|null|

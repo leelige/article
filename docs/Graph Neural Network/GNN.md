@@ -2,6 +2,17 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-17 17:54:10**|**The Open Catalyst 2022 (OC22) Dataset and Challenges for Oxide   Electrocatalysis**|Richard Tran et.al.|[2206.08917v1](http://arxiv.org/abs/2206.08917v1)|null|
+|**2022-06-17 11:39:52**|**Sheaf Neural Networks with Connection Laplacians**|Federico Barbero et.al.|[2206.08702v1](http://arxiv.org/abs/2206.08702v1)|null|
+|**2022-06-17 09:51:03**|**PICO: Pipeline Inference Framework for Versatile CNNs on Diverse Mobile   Devices**|Xiang Yang et.al.|[2206.08662v1](http://arxiv.org/abs/2206.08662v1)|null|
+|**2022-06-17 08:32:43**|**A Graph-Enhanced Click Model for Web Search**|Jianghao Lin et.al.|[2206.08621v1](http://arxiv.org/abs/2206.08621v1)|[link](https://github.com/chiangel/graphcm)|
+|**2022-06-17 06:53:04**|**NAFS: A Simple yet Tough-to-beat Baseline for Graph Representation   Learning**|Wentao Zhang et.al.|[2206.08583v1](http://arxiv.org/abs/2206.08583v1)|null|
+|**2022-06-17 06:47:21**|**DFG-NAS: Deep and Flexible Graph Neural Architecture Search**|Wentao Zhang et.al.|[2206.08582v1](http://arxiv.org/abs/2206.08582v1)|null|
+|**2022-06-17 05:44:24**|**Boosting Graph Structure Learning with Dummy Nodes**|Xin Liu et.al.|[2206.08561v1](http://arxiv.org/abs/2206.08561v1)|null|
+|**2022-06-17 04:03:25**|**Low-latency Mini-batch GNN Inference on CPU-FPGA Heterogeneous Platform**|Bingyi Zhang et.al.|[2206.08536v1](http://arxiv.org/abs/2206.08536v1)|null|
+|**2022-06-17 03:29:08**|**Reframed GES with a Neural Conditional Dependence Measure**|Xinwei Shen et.al.|[2206.08531v1](http://arxiv.org/abs/2206.08531v1)|[link](https://github.com/xwshen51/ges-ncd)|
+|**2022-06-17 02:35:03**|**ComENet: Towards Complete and Efficient Message Passing for 3D Molecular   Graphs**|Limei Wang et.al.|[2206.08515v1](http://arxiv.org/abs/2206.08515v1)|[link](https://github.com/divelab/DIG)|
+|**2022-06-16 22:46:33**|**A Robust Stacking Framework for Training Deep Graph Models with   Multifaceted Node Features**|Jiuhai Chen et.al.|[2206.08473v1](http://arxiv.org/abs/2206.08473v1)|null|
 |**2022-06-16 15:58:14**|**ProGNNosis: A Data-driven Model to Predict GNN Computation Time Using   Graph Metrics**|Axel Wassington et.al.|[2206.08258v1](http://arxiv.org/abs/2206.08258v1)|null|
 |**2022-06-16 13:49:09**|**ResNorm: Tackling Long-tailed Degree Distribution Issue in Graph Neural   Networks via Normalization**|Langzhang Liang et.al.|[2206.08181v1](http://arxiv.org/abs/2206.08181v1)|null|
 |**2022-06-16 13:33:22**|**Long Range Graph Benchmark**|Vijay Prakash Dwivedi et.al.|[2206.08164v1](http://arxiv.org/abs/2206.08164v1)|[link](https://github.com/vijaydwivedi75/lrgb)|
@@ -21,14 +32,3 @@
 |**2022-06-15 08:03:29**|**RecBole 2.0: Towards a More Up-to-Date Recommendation Library**|Wayne Xin Zhao et.al.|[2206.07351v2](http://arxiv.org/abs/2206.07351v2)|[link](https://github.com/rucaibox/recbole2.0)|
 |**2022-06-15 07:20:28**|**A Survey : Neural Networks for AMR-to-Text**|Hongyu Hao et.al.|[2206.07328v1](http://arxiv.org/abs/2206.07328v1)|null|
 |**2022-06-15 02:43:36**|**CLNode: Curriculum Learning for Node Classification**|Xiaowen Wei et.al.|[2206.07258v1](http://arxiv.org/abs/2206.07258v1)|null|
-|**2022-06-15 02:33:10**|**TeKo: Text-Rich Graph Neural Networks with External Knowledge**|Zhizhi Yu et.al.|[2206.07253v1](http://arxiv.org/abs/2206.07253v1)|null|
-|**2022-06-14 20:43:25**|**GraphFM: Improving Large-Scale GNN Training via Feature Momentum**|Haiyang Yu et.al.|[2206.07161v1](http://arxiv.org/abs/2206.07161v1)|[link](https://github.com/divelab/DIG)|
-|**2022-06-14 17:02:17**|**Exploring Representation of Horn Clauses using GNNs**|Chencheng Liang et.al.|[2206.06986v1](http://arxiv.org/abs/2206.06986v1)|[link](https://github.com/chenchengliang/systematic-predicate-abstraction-using-machine-learning)|
-|**2022-06-14 11:16:33**|**Universally Expressive Communication in Multi-Agent Reinforcement   Learning**|Matthew Morris et.al.|[2206.06758v1](http://arxiv.org/abs/2206.06758v1)|null|
-|**2022-06-14 11:12:02**|**RoSGAS: Adaptive Social Bot Detection with Reinforced Self-Supervised   GNN Architecture Search**|Yingguang Yang et.al.|[2206.06757v1](http://arxiv.org/abs/2206.06757v1)|null|
-|**2022-06-14 07:19:10**|**SpecNet2: Orthogonalization-free spectral embedding by neural networks**|Ziyu Chen et.al.|[2206.06644v1](http://arxiv.org/abs/2206.06644v1)|[link](https://github.com/ziyuchen7/specnet2)|
-|**2022-06-14 03:38:08**|**Physics Informed Neural Fields for Smoke Reconstruction with Sparse Data**|Mengyu Chu et.al.|[2206.06577v1](http://arxiv.org/abs/2206.06577v1)|null|
-|**2022-06-14 02:24:38**|**FreeKD: Free-direction Knowledge Distillation for Graph Neural Networks**|Kaituo Feng et.al.|[2206.06561v1](http://arxiv.org/abs/2206.06561v1)|null|
-|**2022-06-13 15:14:41**|**Evaluating Graph Generative Models with Contrastively Learned Features**|Hamed Shirzad et.al.|[2206.06234v1](http://arxiv.org/abs/2206.06234v1)|[link](https://github.com/hamed1375/self-supervised-models-for-ggm-evaluation)|
-|**2022-06-13 09:37:58**|**Analysis of function approximation and stability of general DNNs in   directed acyclic graphs using un-rectifying analysis**|Wen-Liang Hwang et.al.|[2206.05997v1](http://arxiv.org/abs/2206.05997v1)|null|
-|**2022-06-12 16:14:16**|**Learning-Based Data Storage [Vision] (Technical Report)**|Xiang Lian et.al.|[2206.05778v1](http://arxiv.org/abs/2206.05778v1)|null|
