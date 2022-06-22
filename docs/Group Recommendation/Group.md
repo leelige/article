@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-20 16:46:21**|**How to Assess Trustworthy AI in Practice**|Roberto V. Zicari et.al.|[2206.09887v1](http://arxiv.org/abs/2206.09887v1)|null|
+|**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
+|**2022-06-19 08:04:23**|**Fairness-aware Model-agnostic Positive and Unlabeled Learning**|Ziwei Wu et.al.|[2206.09346v1](http://arxiv.org/abs/2206.09346v1)|null|
 |**2022-06-17 15:39:39**|**Random projections and Kernelised Leave One Cluster Out   Cross-Validation: Universal baselines and evaluation tools for supervised   machine learning for materials properties**|Samantha Durdy et.al.|[2206.08841v1](http://arxiv.org/abs/2206.08841v1)|[link](https://github.com/lrcfmd/kernelisedloco-cv)|
 |**2022-06-16 22:02:33**|**Estimating the lifetime risk of a false positive screening test result**|Tim White et.al.|[2206.08463v1](http://arxiv.org/abs/2206.08463v1)|[link](https://github.com/timwhite0/false-positives-calculator)|
 |**2022-06-10 16:28:36**|**Quantification of follow-up time in oncology clinical trials with a   time-to-event endpoint: Asking the right questions**|Kaspar Rufibach et.al.|[2206.05216v1](http://arxiv.org/abs/2206.05216v1)|null|
@@ -29,6 +32,3 @@
 |**2022-05-12 12:21:11**|**Link recommendations: Their impact on network structure and minorities**|Antonio Ferrara et.al.|[2205.06048v1](http://arxiv.org/abs/2205.06048v1)|null|
 |**2022-05-12 10:27:47**|**Unsupervised Driving Behavior Analysis using Representation Learning and   Exploiting Group-based Training**|Soma Bandyopadhyay et.al.|[2205.07870v1](http://arxiv.org/abs/2205.07870v1)|null|
 |**2022-05-12 09:30:23**|**TaDeR: A New Task Dependency Recommendation for Project Management   Platform**|Quynh Nguyen et.al.|[2205.05976v1](http://arxiv.org/abs/2205.05976v1)|[link](https://github.com/thuynguyetquynh/tader-a-new-task-dependency-recommendation-for-project-management-platform)|
-|**2022-05-12 02:26:21**|**Ultra-High-Energy Cosmic Rays: The Intersection of the Cosmic and Energy   Frontiers**|A. Coleman et.al.|[2205.05845v2](http://arxiv.org/abs/2205.05845v2)|null|
-|**2022-05-11 20:06:03**|**"There Is Not Enough Information": On the Effects of Explanations on   Perceptions of Informational Fairness and Trustworthiness in Automated   Decision-Making**|Jakob Schoeffer et.al.|[2205.05758v1](http://arxiv.org/abs/2205.05758v1)|null|
-|**2022-05-11 16:49:23**|**Leveraging baseline covariates to analyze small cluster-randomized   trials with a rare binary outcome**|Angela Y. Zhu et.al.|[2205.05624v1](http://arxiv.org/abs/2205.05624v1)|null|

@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
 |**2022-06-10 12:05:50**|**Feature-aware Diversified Re-ranking with Disentangled Representations   for Relevant Recommendation**|Zihan Lin et.al.|[2206.05020v1](http://arxiv.org/abs/2206.05020v1)|null|
 |**2022-06-08 13:28:29**|**Efficient Resource Allocation with Fairness Constraints in Restless   Multi-Armed Bandits**|Dexun Li et.al.|[2206.03883v1](http://arxiv.org/abs/2206.03883v1)|null|
 |**2022-06-06 15:42:54**|**Multi-Behavior Sequential Recommendation with Temporal Graph Transformer**|Lianghao Xia et.al.|[2206.02687v1](http://arxiv.org/abs/2206.02687v1)|[link](https://github.com/akaxlh/tgt)|
@@ -31,4 +32,3 @@
 |**2022-02-06 03:48:52**|**Triangle Graph Interest Network for Click-through Rate Prediction**|Wensen Jiang et.al.|[2202.02698v1](http://arxiv.org/abs/2202.02698v1)|[link](https://github.com/alibaba/tgin)|
 |**2022-02-01 06:52:40**|**Sequential Search with Off-Policy Reinforcement Learning**|Dadong Miao et.al.|[2202.00245v1](http://arxiv.org/abs/2202.00245v1)|null|
 |**2022-01-31 05:50:57**|**Speed-ANN: Low-Latency and High-Accuracy Nearest Neighbor Search via   Intra-Query Parallelism**|Zhen Peng et.al.|[2201.13007v1](http://arxiv.org/abs/2201.13007v1)|null|
-|**2021-12-31 07:31:20**|**Temporal aware Multi-Interest Graph Neural Network For Session-based   Recommendation**|Qi Shen et.al.|[2112.15328v1](http://arxiv.org/abs/2112.15328v1)|null|
