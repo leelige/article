@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-22 15:19:34**|**Ordered Subgraph Aggregation Networks**|Chendi Qian et.al.|[2206.11168v1](http://arxiv.org/abs/2206.11168v1)|null|
+|**2022-06-22 14:35:47**|**Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries**|Fabrizio Frasca et.al.|[2206.11140v1](http://arxiv.org/abs/2206.11140v1)|null|
+|**2022-06-22 13:48:08**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph   Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v1](http://arxiv.org/abs/2206.11081v1)|null|
+|**2022-06-22 12:46:02**|**Heterogeneous Graph Neural Networks for Software Effort Estimation**|Hung Phan et.al.|[2206.11023v1](http://arxiv.org/abs/2206.11023v1)|null|
+|**2022-06-22 12:15:36**|**Agent-based Graph Neural Networks**|Karolis Martinkus et.al.|[2206.11010v1](http://arxiv.org/abs/2206.11010v1)|[link](https://github.com/karolismart/agentnet)|
+|**2022-06-22 11:45:36**|**Graph Neural Networks as Gradient Flows**|Francesco Di Giovanni et.al.|[2206.10991v1](http://arxiv.org/abs/2206.10991v1)|null|
+|**2022-06-22 00:23:37**|**Efficient and effective training of language and graph neural network   models**|Vassilis N. Ioannidis et.al.|[2206.10781v1](http://arxiv.org/abs/2206.10781v1)|null|
 |**2022-06-21 17:57:35**|**Nimble GNN Embedding with Tensor-Train Decomposition**|Chunxing Yin et.al.|[2206.10581v1](http://arxiv.org/abs/2206.10581v1)|null|
 |**2022-06-21 09:02:53**|**Personalized Subgraph Federated Learning**|Jinheon Baek et.al.|[2206.10206v1](http://arxiv.org/abs/2206.10206v1)|null|
 |**2022-06-21 01:46:38**|**Benchmarking Node Outlier Detection on Graphs**|Kay Liu et.al.|[2206.10071v1](http://arxiv.org/abs/2206.10071v1)|[link](https://github.com/pygod-team/pygod)|
@@ -21,14 +28,7 @@
 |**2022-06-18 07:41:10**|**Certified Graph Unlearning**|Eli Chien et.al.|[2206.09140v1](http://arxiv.org/abs/2206.09140v1)|null|
 |**2022-06-18 04:36:48**|**Person-job fit estimation from candidate profile and related recruitment   history with co-attention neural networks**|Ziyang Wang et.al.|[2206.09116v1](http://arxiv.org/abs/2206.09116v1)|[link](https://github.com/cciiplab/pjfcann)|
 |**2022-06-18 04:24:36**|**Pre-training Enhanced Spatial-temporal Graph Neural Network for   Multivariate Time Series Forecasting**|Zezhi Shao et.al.|[2206.09113v1](http://arxiv.org/abs/2206.09113v1)|[link](https://github.com/zezhishao/step)|
-|**2022-06-18 04:14:38**|**Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic   Forecasting**|Zezhi Shao et.al.|[2206.09112v1](http://arxiv.org/abs/2206.09112v1)|[link](https://github.com/zezhishao/d2stgnn)|
+|**2022-06-18 04:14:38**|**Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic   Forecasting**|Zezhi Shao et.al.|[2206.09112v2](http://arxiv.org/abs/2206.09112v2)|[link](https://github.com/zezhishao/d2stgnn)|
 |**2022-06-17 17:54:10**|**The Open Catalyst 2022 (OC22) Dataset and Challenges for Oxide   Electrocatalysis**|Richard Tran et.al.|[2206.08917v1](http://arxiv.org/abs/2206.08917v1)|[link](https://github.com/Open-Catalyst-Project/ocp)|
 |**2022-06-17 11:39:52**|**Sheaf Neural Networks with Connection Laplacians**|Federico Barbero et.al.|[2206.08702v1](http://arxiv.org/abs/2206.08702v1)|null|
 |**2022-06-17 09:51:03**|**PICO: Pipeline Inference Framework for Versatile CNNs on Diverse Mobile   Devices**|Xiang Yang et.al.|[2206.08662v1](http://arxiv.org/abs/2206.08662v1)|null|
-|**2022-06-17 08:32:43**|**A Graph-Enhanced Click Model for Web Search**|Jianghao Lin et.al.|[2206.08621v1](http://arxiv.org/abs/2206.08621v1)|[link](https://github.com/chiangel/graphcm)|
-|**2022-06-17 06:53:04**|**NAFS: A Simple yet Tough-to-beat Baseline for Graph Representation   Learning**|Wentao Zhang et.al.|[2206.08583v1](http://arxiv.org/abs/2206.08583v1)|null|
-|**2022-06-17 06:47:21**|**DFG-NAS: Deep and Flexible Graph Neural Architecture Search**|Wentao Zhang et.al.|[2206.08582v1](http://arxiv.org/abs/2206.08582v1)|null|
-|**2022-06-17 05:44:24**|**Boosting Graph Structure Learning with Dummy Nodes**|Xin Liu et.al.|[2206.08561v1](http://arxiv.org/abs/2206.08561v1)|null|
-|**2022-06-17 04:03:25**|**Low-latency Mini-batch GNN Inference on CPU-FPGA Heterogeneous Platform**|Bingyi Zhang et.al.|[2206.08536v1](http://arxiv.org/abs/2206.08536v1)|null|
-|**2022-06-17 03:29:08**|**Reframed GES with a Neural Conditional Dependence Measure**|Xinwei Shen et.al.|[2206.08531v1](http://arxiv.org/abs/2206.08531v1)|[link](https://github.com/xwshen51/ges-ncd)|
-|**2022-06-17 02:35:03**|**ComENet: Towards Complete and Efficient Message Passing for 3D Molecular   Graphs**|Limei Wang et.al.|[2206.08515v1](http://arxiv.org/abs/2206.08515v1)|[link](https://github.com/divelab/DIG)|
