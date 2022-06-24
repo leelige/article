@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-23 17:28:55**|**A Topological characterisation of Weisfeiler-Leman equivalence classes**|Jacob Bamberger et.al.|[2206.11876v1](http://arxiv.org/abs/2206.11876v1)|[link](https://github.com/jacobbamberger/graphcovers)|
+|**2022-06-23 15:27:29**|**Graph Neural Networks for Temperature-Dependent Activity Coefficient   Prediction of Solutes in Ionic Liquids**|Jan G. Rittig et.al.|[2206.11776v1](http://arxiv.org/abs/2206.11776v1)|null|
+|**2022-06-23 05:01:29**|**RetroGraph: Retrosynthetic Planning with Graph Search**|Shufang Xie et.al.|[2206.11477v1](http://arxiv.org/abs/2206.11477v1)|null|
+|**2022-06-22 20:06:23**|**GACT: Activation Compressed Training for General Architectures**|Xiaoxuan Liu et.al.|[2206.11357v1](http://arxiv.org/abs/2206.11357v1)|null|
+|**2022-06-22 20:00:25**|**Doubly Reparameterized Importance Weighted Structure Learning for Scene   Graph Generation**|Daqi Liu et.al.|[2206.11352v1](http://arxiv.org/abs/2206.11352v1)|null|
 |**2022-06-22 15:19:34**|**Ordered Subgraph Aggregation Networks**|Chendi Qian et.al.|[2206.11168v1](http://arxiv.org/abs/2206.11168v1)|null|
 |**2022-06-22 14:35:47**|**Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries**|Fabrizio Frasca et.al.|[2206.11140v1](http://arxiv.org/abs/2206.11140v1)|null|
 |**2022-06-22 13:48:08**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph   Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v1](http://arxiv.org/abs/2206.11081v1)|null|
@@ -24,11 +29,6 @@
 |**2022-06-18 14:35:27**|**An Invertible Graph Diffusion Neural Network for Source Localization**|Junxiang Wang et.al.|[2206.09214v1](http://arxiv.org/abs/2206.09214v1)|[link](https://github.com/xianggebenben/ivgd)|
 |**2022-06-18 10:17:15**|**NAS-Bench-Graph: Benchmarking Graph Neural Architecture Search**|Yijian Qin et.al.|[2206.09166v1](http://arxiv.org/abs/2206.09166v1)|[link](https://github.com/thumnlab/nas-bench-graph)|
 |**2022-06-18 08:03:12**|**Beyond Real-world Benchmark Datasets: An Empirical Study of Node   Classification with GNNs**|Seiji Maekawa et.al.|[2206.09144v1](http://arxiv.org/abs/2206.09144v1)|[link](https://github.com/seijimaekawa/empirical-study-of-gnns)|
-|**2022-06-18 07:45:09**|**ToolTango: Common sense Generalization in Predicting Sequential Tool   Interactions for Robot Plan Synthesis**|Shreshth Tuli et.al.|[2206.09141v1](http://arxiv.org/abs/2206.09141v1)|null|
+|**2022-06-18 07:45:09**|**ToolTango: Common sense Generalization in Predicting Sequential Tool   Interactions for Robot Plan Synthesis**|Shreshth Tuli et.al.|[2206.09141v1](http://arxiv.org/abs/2206.09141v1)|[link](https://github.com/reail-iitd/tango)|
 |**2022-06-18 07:41:10**|**Certified Graph Unlearning**|Eli Chien et.al.|[2206.09140v1](http://arxiv.org/abs/2206.09140v1)|null|
 |**2022-06-18 04:36:48**|**Person-job fit estimation from candidate profile and related recruitment   history with co-attention neural networks**|Ziyang Wang et.al.|[2206.09116v1](http://arxiv.org/abs/2206.09116v1)|[link](https://github.com/cciiplab/pjfcann)|
-|**2022-06-18 04:24:36**|**Pre-training Enhanced Spatial-temporal Graph Neural Network for   Multivariate Time Series Forecasting**|Zezhi Shao et.al.|[2206.09113v1](http://arxiv.org/abs/2206.09113v1)|[link](https://github.com/zezhishao/step)|
-|**2022-06-18 04:14:38**|**Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic   Forecasting**|Zezhi Shao et.al.|[2206.09112v2](http://arxiv.org/abs/2206.09112v2)|[link](https://github.com/zezhishao/d2stgnn)|
-|**2022-06-17 17:54:10**|**The Open Catalyst 2022 (OC22) Dataset and Challenges for Oxide   Electrocatalysis**|Richard Tran et.al.|[2206.08917v1](http://arxiv.org/abs/2206.08917v1)|[link](https://github.com/Open-Catalyst-Project/ocp)|
-|**2022-06-17 11:39:52**|**Sheaf Neural Networks with Connection Laplacians**|Federico Barbero et.al.|[2206.08702v1](http://arxiv.org/abs/2206.08702v1)|null|
-|**2022-06-17 09:51:03**|**PICO: Pipeline Inference Framework for Versatile CNNs on Diverse Mobile   Devices**|Xiang Yang et.al.|[2206.08662v1](http://arxiv.org/abs/2206.08662v1)|null|
