@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-24 17:48:30**|**Accounting for Inconsistent Use of Covariate Adjustment in Group   Sequential Trials**|Marlena S. Bannick et.al.|[2206.12393v1](http://arxiv.org/abs/2206.12393v1)|null|
 |**2022-06-22 15:02:03**|**Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed   Depression Diagnoses**|Keith Harrigian et.al.|[2206.11155v1](http://arxiv.org/abs/2206.11155v1)|null|
 |**2022-06-20 16:46:21**|**How to Assess Trustworthy AI in Practice**|Roberto V. Zicari et.al.|[2206.09887v1](http://arxiv.org/abs/2206.09887v1)|null|
 |**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
@@ -31,4 +32,3 @@
 |**2022-05-15 10:38:41**|**Evaluating Independence and Conditional Independence Measures**|Jian Ma et.al.|[2205.07253v1](http://arxiv.org/abs/2205.07253v1)|[link](https://github.com/majianthu/eval)|
 |**2022-05-14 00:40:47**|**Experimental Evidence for Using a TTM Stages of Change Model in Boosting   Progress Toward 2FA Adoption**|Cori Faklaris et.al.|[2205.06937v1](http://arxiv.org/abs/2205.06937v1)|null|
 |**2022-05-12 12:21:11**|**Link recommendations: Their impact on network structure and minorities**|Antonio Ferrara et.al.|[2205.06048v1](http://arxiv.org/abs/2205.06048v1)|null|
-|**2022-05-12 10:27:47**|**Unsupervised Driving Behavior Analysis using Representation Learning and   Exploiting Group-based Training**|Soma Bandyopadhyay et.al.|[2205.07870v1](http://arxiv.org/abs/2205.07870v1)|null|

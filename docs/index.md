@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2022-06-26 16:07:32 Asia/Shanghai
+ 自动更新 @ 2022-06-27 16:08:45 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-24 17:48:30**|**Accounting for Inconsistent Use of Covariate Adjustment in Group   Sequential Trials**|Marlena S. Bannick et.al.|[2206.12393v1](http://arxiv.org/abs/2206.12393v1)|null|
 |**2022-06-22 15:02:03**|**Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed   Depression Diagnoses**|Keith Harrigian et.al.|[2206.11155v1](http://arxiv.org/abs/2206.11155v1)|null|
 |**2022-06-20 16:46:21**|**How to Assess Trustworthy AI in Practice**|Roberto V. Zicari et.al.|[2206.09887v1](http://arxiv.org/abs/2206.09887v1)|null|
 |**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
@@ -35,13 +36,20 @@
 |**2022-05-15 10:38:41**|**Evaluating Independence and Conditional Independence Measures**|Jian Ma et.al.|[2205.07253v1](http://arxiv.org/abs/2205.07253v1)|[link](https://github.com/majianthu/eval)|
 |**2022-05-14 00:40:47**|**Experimental Evidence for Using a TTM Stages of Change Model in Boosting   Progress Toward 2FA Adoption**|Cori Faklaris et.al.|[2205.06937v1](http://arxiv.org/abs/2205.06937v1)|null|
 |**2022-05-12 12:21:11**|**Link recommendations: Their impact on network structure and minorities**|Antonio Ferrara et.al.|[2205.06048v1](http://arxiv.org/abs/2205.06048v1)|null|
-|**2022-05-12 10:27:47**|**Unsupervised Driving Behavior Analysis using Representation Learning and   Exploiting Group-based Training**|Soma Bandyopadhyay et.al.|[2205.07870v1](http://arxiv.org/abs/2205.07870v1)|null|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-24 11:47:15**|**MPClan: Protocol Suite for Privacy-Conscious Computations**|Nishat Koti et.al.|[2206.12224v1](http://arxiv.org/abs/2206.12224v1)|null|
+|**2022-06-24 06:49:21**|**On Structural Explanation of Bias in Graph Neural Networks**|Yushun Dong et.al.|[2206.12104v1](http://arxiv.org/abs/2206.12104v1)|[link](https://github.com/yushundong/referee)|
+|**2022-06-24 06:19:30**|**A novel approach for glaucoma classification by wavelet neural networks   using graph-based, statisitcal features of qualitatively improved images**|N. Krishna Santosh et.al.|[2206.12099v1](http://arxiv.org/abs/2206.12099v1)|null|
+|**2022-06-23 22:48:44**|**Sampling Enclosing Subgraphs for Link Prediction**|Paul Louis et.al.|[2206.12004v1](http://arxiv.org/abs/2206.12004v1)|null|
+|**2022-06-23 21:40:37**|**Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic   Graphs**|Yi-Lun Liao et.al.|[2206.11990v1](http://arxiv.org/abs/2206.11990v1)|null|
+|**2022-06-23 20:48:27**|**Task-Adaptive Few-shot Node Classification**|Song Wang et.al.|[2206.11972v1](http://arxiv.org/abs/2206.11972v1)|[link](https://github.com/songw-sw/tent)|
+|**2022-06-23 20:12:51**|**Similarity-aware Positive Instance Sampling for Graph Contrastive   Pre-training**|Xueyi Liu et.al.|[2206.11959v1](http://arxiv.org/abs/2206.11959v1)|null|
+|**2022-06-23 18:51:35**|**Affinity-Aware Graph Networks**|Ameya Velingker et.al.|[2206.11941v1](http://arxiv.org/abs/2206.11941v1)|null|
 |**2022-06-23 17:28:55**|**A Topological characterisation of Weisfeiler-Leman equivalence classes**|Jacob Bamberger et.al.|[2206.11876v1](http://arxiv.org/abs/2206.11876v1)|[link](https://github.com/jacobbamberger/graphcovers)|
 |**2022-06-23 15:27:29**|**Graph Neural Networks for Temperature-Dependent Activity Coefficient   Prediction of Solutes in Ionic Liquids**|Jan G. Rittig et.al.|[2206.11776v1](http://arxiv.org/abs/2206.11776v1)|null|
 |**2022-06-23 05:01:29**|**RetroGraph: Retrosynthetic Planning with Graph Search**|Shufang Xie et.al.|[2206.11477v1](http://arxiv.org/abs/2206.11477v1)|[link](https://github.com/binghong-ml/retro_star)|
@@ -49,7 +57,7 @@
 |**2022-06-22 20:00:25**|**Doubly Reparameterized Importance Weighted Structure Learning for Scene   Graph Generation**|Daqi Liu et.al.|[2206.11352v1](http://arxiv.org/abs/2206.11352v1)|null|
 |**2022-06-22 15:19:34**|**Ordered Subgraph Aggregation Networks**|Chendi Qian et.al.|[2206.11168v1](http://arxiv.org/abs/2206.11168v1)|null|
 |**2022-06-22 14:35:47**|**Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries**|Fabrizio Frasca et.al.|[2206.11140v1](http://arxiv.org/abs/2206.11140v1)|null|
-|**2022-06-22 13:48:08**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph   Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v1](http://arxiv.org/abs/2206.11081v1)|null|
+|**2022-06-22 13:48:08**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph   Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v2](http://arxiv.org/abs/2206.11081v2)|null|
 |**2022-06-22 12:46:02**|**Heterogeneous Graph Neural Networks for Software Effort Estimation**|Hung Phan et.al.|[2206.11023v1](http://arxiv.org/abs/2206.11023v1)|null|
 |**2022-06-22 12:15:36**|**Agent-based Graph Neural Networks**|Karolis Martinkus et.al.|[2206.11010v1](http://arxiv.org/abs/2206.11010v1)|[link](https://github.com/karolismart/agentnet)|
 |**2022-06-22 11:45:36**|**Graph Neural Networks as Gradient Flows**|Francesco Di Giovanni et.al.|[2206.10991v1](http://arxiv.org/abs/2206.10991v1)|null|
@@ -64,14 +72,6 @@
 |**2022-06-20 03:27:48**|**Dynamic Message Propagation Network for RGB-D Salient Object Detection**|Baian Chen et.al.|[2206.09552v1](http://arxiv.org/abs/2206.09552v1)|null|
 |**2022-06-19 19:59:43**|**Geometric Matrix Completion via Sylvester Multi-Graph Neural Network**|Boxin Du et.al.|[2206.09477v1](http://arxiv.org/abs/2206.09477v1)|null|
 |**2022-06-19 11:23:02**|**Graph Neural Network Aided MU-MIMO Detectors**|Alva Kosasih et.al.|[2206.09381v1](http://arxiv.org/abs/2206.09381v1)|[link](https://github.com/GNN-based-MIMO-Detection/GNN-based-MIMO-Detection)|
-|**2022-06-19 09:02:33**|**Sparse Random Block Matrices : universality**|Giovanni M. Cicuta et.al.|[2206.09356v1](http://arxiv.org/abs/2206.09356v1)|null|
-|**2022-06-19 07:57:56**|**Finding Diverse and Predictable Subgraphs for Graph Domain   Generalization**|Junchi Yu et.al.|[2206.09345v1](http://arxiv.org/abs/2206.09345v1)|null|
-|**2022-06-18 14:35:27**|**An Invertible Graph Diffusion Neural Network for Source Localization**|Junxiang Wang et.al.|[2206.09214v1](http://arxiv.org/abs/2206.09214v1)|[link](https://github.com/xianggebenben/ivgd)|
-|**2022-06-18 10:17:15**|**NAS-Bench-Graph: Benchmarking Graph Neural Architecture Search**|Yijian Qin et.al.|[2206.09166v1](http://arxiv.org/abs/2206.09166v1)|[link](https://github.com/thumnlab/nas-bench-graph)|
-|**2022-06-18 08:03:12**|**Beyond Real-world Benchmark Datasets: An Empirical Study of Node   Classification with GNNs**|Seiji Maekawa et.al.|[2206.09144v1](http://arxiv.org/abs/2206.09144v1)|[link](https://github.com/seijimaekawa/empirical-study-of-gnns)|
-|**2022-06-18 07:45:09**|**ToolTango: Common sense Generalization in Predicting Sequential Tool   Interactions for Robot Plan Synthesis**|Shreshth Tuli et.al.|[2206.09141v1](http://arxiv.org/abs/2206.09141v1)|[link](https://github.com/reail-iitd/tango)|
-|**2022-06-18 07:41:10**|**Certified Graph Unlearning**|Eli Chien et.al.|[2206.09140v1](http://arxiv.org/abs/2206.09140v1)|null|
-|**2022-06-18 04:36:48**|**Person-job fit estimation from candidate profile and related recruitment   history with co-attention neural networks**|Ziyang Wang et.al.|[2206.09116v1](http://arxiv.org/abs/2206.09116v1)|[link](https://github.com/cciiplab/pjfcann)|
 
 ## Multi Interest Recommendation
 
