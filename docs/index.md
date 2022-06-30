@@ -1,5 +1,41 @@
 # arxiv-daily
- 自动更新 @ 2022-06-29 16:08:41 Asia/Shanghai
+ 自动更新 @ 2022-06-30 16:12:47 Asia/Shanghai
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-29 16:12:22**|**Modeling Teams Performance Using Deep Representational Learning on   Graphs**|Francesco Carli et.al.|[2206.14741v1](http://arxiv.org/abs/2206.14741v1)|null|
+|**2022-06-29 15:47:34**|**Private Graph Extraction via Feature Explanations**|Iyiola E. Olatunji et.al.|[2206.14724v1](http://arxiv.org/abs/2206.14724v1)|null|
+|**2022-06-29 06:37:53**|**Graph Convolutional Neural Networks for (QM)ML/MM Molecular Dynamics   Simulations**|Albert Hofstetter et.al.|[2206.14422v1](http://arxiv.org/abs/2206.14422v1)|null|
+|**2022-06-29 06:26:42**|**Optimization-Induced Graph Implicit Nonlinear Diffusion**|Qi Chen et.al.|[2206.14418v1](http://arxiv.org/abs/2206.14418v1)|[link](https://github.com/7qchen/gind)|
+|**2022-06-29 00:23:25**|**Deformable Graph Transformer**|Jinyoung Park et.al.|[2206.14337v1](http://arxiv.org/abs/2206.14337v1)|null|
+|**2022-06-29 00:03:14**|**Spherical Channels for Modeling Atomic Interactions**|C. Lawrence Zitnick et.al.|[2206.14331v1](http://arxiv.org/abs/2206.14331v1)|null|
+|**2022-06-28 16:23:25**|**SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous   Driving**|Prarthana Bhattacharyya et.al.|[2206.14116v1](http://arxiv.org/abs/2206.14116v1)|[link](https://github.com/autovision-cloud/ssl-lanes)|
+|**2022-06-28 15:39:06**|**Learning the Solution Operator of Boundary Value Problems using Graph   Neural Networks**|Winfried Lötzsch et.al.|[2206.14092v1](http://arxiv.org/abs/2206.14092v1)|null|
+|**2022-06-28 14:14:01**|**Unraveling intricate processes of glassy dynamics from static structure   by machine learning relative motion**|Hayato Shiba et.al.|[2206.14024v1](http://arxiv.org/abs/2206.14024v1)|[link](https://github.com/h3-Open-BDEC/pyg_botan)|
+|**2022-06-28 13:08:28**|**BAGEL: A Benchmark for Assessing Graph Neural Network Explanations**|Mandeep Rathee et.al.|[2206.13983v1](http://arxiv.org/abs/2206.13983v1)|[link](https://github.com/mandeep-rathee/bagel-benchmark)|
+|**2022-06-28 12:19:01**|**RAW-GNN: RAndom Walk Aggregation based Graph Neural Network**|Di Jin et.al.|[2206.13953v1](http://arxiv.org/abs/2206.13953v1)|null|
+|**2022-06-28 08:11:12**|**Learning the Evolutionary and Multi-scale Graph Structure for   Multivariate Time Series Forecasting**|Junchen Ye et.al.|[2206.13816v1](http://arxiv.org/abs/2206.13816v1)|[link](https://github.com/liuzh-19/esg)|
+|**2022-06-28 06:46:32**|**3D Multi-Object Tracking with Differentiable Pose Estimation**|Dominik Schmauser et.al.|[2206.13785v1](http://arxiv.org/abs/2206.13785v1)|null|
+|**2022-06-28 03:37:31**|**H-GCN: A Graph Convolutional Network Accelerator on Versal ACAP   Architecture**|Chengming Zhang et.al.|[2206.13734v1](http://arxiv.org/abs/2206.13734v1)|null|
+|**2022-06-28 02:10:05**|**Graph Condensation via Receptive Field Distribution Matching**|Mengyang Liu et.al.|[2206.13697v1](http://arxiv.org/abs/2206.13697v1)|null|
+|**2022-06-27 19:14:47**|**Reduced Optimal Power Flow Using Graph Neural Network**|Thuan Pham et.al.|[2206.13591v1](http://arxiv.org/abs/2206.13591v1)|null|
+|**2022-06-27 17:18:57**|**Iso-CapsNet: Isomorphic Capsule Network for Brain Graph Representation   Learning**|Jiawei Zhang et.al.|[2206.13465v1](http://arxiv.org/abs/2206.13465v1)|[link](https://github.com/jwzhanggy/isocapsnet)|
+|**2022-06-27 16:13:57**|**DeStripe: A Self2Self Spatio-Spectral Graph Neural Network with Unfolded   Hessian for Stripe Artifact Removal in Light-sheet Microscopy**|Yu Liu et.al.|[2206.13419v1](http://arxiv.org/abs/2206.13419v1)|null|
+|**2022-06-27 14:01:52**|**Automatic identification of segmentation errors for radiotherapy using   geometric learning**|Edward G. A. Henderson et.al.|[2206.13317v1](http://arxiv.org/abs/2206.13317v1)|[link](https://github.com/rrr-uom-projects/contour_auto_qatool)|
+|**2022-06-27 11:54:01**|**Cracking nuts with a sledgehammer: when modern graph neural networks do   worse than classical greedy algorithms**|Maria Chiara Angelini et.al.|[2206.13211v1](http://arxiv.org/abs/2206.13211v1)|null|
+|**2022-06-27 10:48:56**|**Learning to Control Local Search for Combinatorial Optimization**|Jonas K. Falkner et.al.|[2206.13181v1](http://arxiv.org/abs/2206.13181v1)|[link](https://github.com/jokofa/neurols)|
+|**2022-06-27 10:27:28**|**Measuring and Improving the Use of Graph Information in Graph Neural   Networks**|Yifan Hou et.al.|[2206.13170v1](http://arxiv.org/abs/2206.13170v1)|[link](https://github.com/yifan-h/CS-GNN)|
+|**2022-06-27 09:02:16**|**Unsupervised Domain Adaptation Using Feature Disentanglement And GCNs   For Medical Image Classification**|Dwarikanath Mahapatra et.al.|[2206.13123v1](http://arxiv.org/abs/2206.13123v1)|null|
+|**2022-06-26 22:48:15**|**FlowX: Towards Explainable Graph Neural Networks via Message Flows**|Shurui Gui et.al.|[2206.12987v1](http://arxiv.org/abs/2206.12987v1)|null|
+|**2022-06-26 19:56:19**|**Using Machine Learning to Improve Neutron Identification in Water   Cherenkov Detectors**|Blair Jamieson et.al.|[2206.12954v1](http://arxiv.org/abs/2206.12954v1)|null|
+|**2022-06-26 12:52:46**|**Image Aesthetics Assessment Using Graph Attention Network**|Koustav Ghosal et.al.|[2206.12869v2](http://arxiv.org/abs/2206.12869v2)|[link](https://github.com/koustav123/aesthetics_assessment_using_graphs)|
+|**2022-06-26 12:52:17**|**Edge Direction-invariant Graph Neural Networks for Molecular Dipole   Moments Prediction**|Yang Jeong Park et.al.|[2206.12867v1](http://arxiv.org/abs/2206.12867v1)|null|
+|**2022-06-26 07:32:53**|**Towards Representation Alignment and Uniformity in Collaborative   Filtering**|Chenyang Wang et.al.|[2206.12811v1](http://arxiv.org/abs/2206.12811v1)|[link](https://github.com/thuwangcy/directau)|
+|**2022-06-26 03:59:41**|**Efficiently Leveraging Multi-level User Intent for Session-based   Recommendation via Atten-Mixer Network**|Peiyan Zhang et.al.|[2206.12781v1](http://arxiv.org/abs/2206.12781v1)|null|
+|**2022-06-25 22:43:02**|**Modeling Oceanic Variables with Dynamic Graph Neural Networks**|Caio F. D. Netto et.al.|[2206.12746v1](http://arxiv.org/abs/2206.12746v1)|null|
 
 ## Multi Interest Recommendation
 
@@ -37,47 +73,12 @@
 |**2022-02-06 03:48:52**|**Triangle Graph Interest Network for Click-through Rate Prediction**|Wensen Jiang et.al.|[2202.02698v1](http://arxiv.org/abs/2202.02698v1)|[link](https://github.com/alibaba/tgin)|
 |**2022-02-01 06:52:40**|**Sequential Search with Off-Policy Reinforcement Learning**|Dadong Miao et.al.|[2202.00245v1](http://arxiv.org/abs/2202.00245v1)|null|
 
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-28 16:23:25**|**SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous   Driving**|Prarthana Bhattacharyya et.al.|[2206.14116v1](http://arxiv.org/abs/2206.14116v1)|[link](https://github.com/AutoVision-cloud/SSL-Lanes})|
-|**2022-06-28 15:39:06**|**Learning the Solution Operator of Boundary Value Problems using Graph   Neural Networks**|Winfried Lötzsch et.al.|[2206.14092v1](http://arxiv.org/abs/2206.14092v1)|null|
-|**2022-06-28 14:14:01**|**Unraveling intricate processes of glassy dynamics from static structure   by machine learning relative motion**|Hayato Shiba et.al.|[2206.14024v1](http://arxiv.org/abs/2206.14024v1)|[link](https://github.com/h3-Open-BDEC/pyg_botan)|
-|**2022-06-28 13:08:28**|**BAGEL: A Benchmark for Assessing Graph Neural Network Explanations**|Mandeep Rathee et.al.|[2206.13983v1](http://arxiv.org/abs/2206.13983v1)|[link](https://github.com/Mandeep-Rathee/Bagel-benchmark)|
-|**2022-06-28 12:19:01**|**RAW-GNN: RAndom Walk Aggregation based Graph Neural Network**|Di Jin et.al.|[2206.13953v1](http://arxiv.org/abs/2206.13953v1)|null|
-|**2022-06-28 08:11:12**|**Learning the Evolutionary and Multi-scale Graph Structure for   Multivariate Time Series Forecasting**|Junchen Ye et.al.|[2206.13816v1](http://arxiv.org/abs/2206.13816v1)|null|
-|**2022-06-28 06:46:32**|**3D Multi-Object Tracking with Differentiable Pose Estimation**|Dominik Schmauser et.al.|[2206.13785v1](http://arxiv.org/abs/2206.13785v1)|null|
-|**2022-06-28 03:37:31**|**H-GCN: A Graph Convolutional Network Accelerator on Versal ACAP   Architecture**|Chengming Zhang et.al.|[2206.13734v1](http://arxiv.org/abs/2206.13734v1)|null|
-|**2022-06-28 02:10:05**|**Graph Condensation via Receptive Field Distribution Matching**|Mengyang Liu et.al.|[2206.13697v1](http://arxiv.org/abs/2206.13697v1)|null|
-|**2022-06-27 19:14:47**|**Reduced Optimal Power Flow Using Graph Neural Network**|Thuan Pham et.al.|[2206.13591v1](http://arxiv.org/abs/2206.13591v1)|null|
-|**2022-06-27 17:18:57**|**Iso-CapsNet: Isomorphic Capsule Network for Brain Graph Representation   Learning**|Jiawei Zhang et.al.|[2206.13465v1](http://arxiv.org/abs/2206.13465v1)|[link](https://github.com/jwzhanggy/isocapsnet)|
-|**2022-06-27 16:13:57**|**DeStripe: A Self2Self Spatio-Spectral Graph Neural Network with Unfolded   Hessian for Stripe Artifact Removal in Light-sheet Microscopy**|Yu Liu et.al.|[2206.13419v1](http://arxiv.org/abs/2206.13419v1)|null|
-|**2022-06-27 14:01:52**|**Automatic identification of segmentation errors for radiotherapy using   geometric learning**|Edward G. A. Henderson et.al.|[2206.13317v1](http://arxiv.org/abs/2206.13317v1)|[link](https://github.com/rrr-uom-projects/contour_auto_qatool)|
-|**2022-06-27 11:54:01**|**Cracking nuts with a sledgehammer: when modern graph neural networks do   worse than classical greedy algorithms**|Maria Chiara Angelini et.al.|[2206.13211v1](http://arxiv.org/abs/2206.13211v1)|null|
-|**2022-06-27 10:48:56**|**Learning to Control Local Search for Combinatorial Optimization**|Jonas K. Falkner et.al.|[2206.13181v1](http://arxiv.org/abs/2206.13181v1)|[link](https://github.com/jokofa/neurols)|
-|**2022-06-27 10:27:28**|**Measuring and Improving the Use of Graph Information in Graph Neural   Networks**|Yifan Hou et.al.|[2206.13170v1](http://arxiv.org/abs/2206.13170v1)|[link](https://github.com/yifan-h/CS-GNN)|
-|**2022-06-27 09:02:16**|**Unsupervised Domain Adaptation Using Feature Disentanglement And GCNs   For Medical Image Classification**|Dwarikanath Mahapatra et.al.|[2206.13123v1](http://arxiv.org/abs/2206.13123v1)|null|
-|**2022-06-26 22:48:15**|**FlowX: Towards Explainable Graph Neural Networks via Message Flows**|Shurui Gui et.al.|[2206.12987v1](http://arxiv.org/abs/2206.12987v1)|null|
-|**2022-06-26 19:56:19**|**Using Machine Learning to Improve Neutron Identification in Water   Cherenkov Detectors**|Blair Jamieson et.al.|[2206.12954v1](http://arxiv.org/abs/2206.12954v1)|null|
-|**2022-06-26 12:52:46**|**Image Aesthetics Assessment Using Graph Attention Network**|Koustav Ghosal et.al.|[2206.12869v2](http://arxiv.org/abs/2206.12869v2)|[link](https://github.com/koustav123/aesthetics_assessment_using_graphs)|
-|**2022-06-26 12:52:17**|**Edge Direction-invariant Graph Neural Networks for Molecular Dipole   Moments Prediction**|Yang Jeong Park et.al.|[2206.12867v1](http://arxiv.org/abs/2206.12867v1)|null|
-|**2022-06-26 07:32:53**|**Towards Representation Alignment and Uniformity in Collaborative   Filtering**|Chenyang Wang et.al.|[2206.12811v1](http://arxiv.org/abs/2206.12811v1)|[link](https://github.com/thuwangcy/directau)|
-|**2022-06-26 03:59:41**|**Efficiently Leveraging Multi-level User Intent for Session-based   Recommendation via Atten-Mixer Network**|Peiyan Zhang et.al.|[2206.12781v1](http://arxiv.org/abs/2206.12781v1)|null|
-|**2022-06-25 22:43:02**|**Modeling Oceanic Variables with Dynamic Graph Neural Networks**|Caio F. D. Netto et.al.|[2206.12746v1](http://arxiv.org/abs/2206.12746v1)|null|
-|**2022-06-25 21:18:08**|**SiMa: Effective and Efficient Data Silo Federation Using Graph Neural   Networks**|Christos Koutras et.al.|[2206.12733v1](http://arxiv.org/abs/2206.12733v1)|null|
-|**2022-06-25 09:55:39**|**Learn to Predict How Humans Manipulate Large-sized Objects from   Interactive Motions**|Weilin Wan et.al.|[2206.12612v1](http://arxiv.org/abs/2206.12612v1)|null|
-|**2022-06-25 07:02:01**|**Unsupervised Graph Neural Network Reveals the Structure--Dynamics   Correlation in Disordered Systems**|Vaibhav Bihani et.al.|[2206.12575v1](http://arxiv.org/abs/2206.12575v1)|null|
-|**2022-06-25 02:20:02**|**From Shallow to Deep: Compositional Reasoning over Graphs for Visual   Question Answering**|Zihao Zhu et.al.|[2206.12533v1](http://arxiv.org/abs/2206.12533v1)|null|
-|**2022-06-25 01:37:38**|**Infinite Impulse Response Graph Neural Networks for Cyberattack   Localization in Smart Grids**|Osman Boyaci et.al.|[2206.12527v1](http://arxiv.org/abs/2206.12527v1)|null|
-|**2022-06-24 11:47:15**|**MPClan: Protocol Suite for Privacy-Conscious Computations**|Nishat Koti et.al.|[2206.12224v1](http://arxiv.org/abs/2206.12224v1)|null|
-
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-28 20:01:18**|**Collecting high-quality adversarial data for machine reading   comprehension tasks with humans and models in the loop**|Damian Y. Romero Diaz et.al.|[2206.14272v1](http://arxiv.org/abs/2206.14272v1)|null|
 |**2022-06-24 17:48:30**|**Accounting for Inconsistent Use of Covariate Adjustment in Group   Sequential Trials**|Marlena S. Bannick et.al.|[2206.12393v1](http://arxiv.org/abs/2206.12393v1)|null|
 |**2022-06-22 15:02:03**|**Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed   Depression Diagnoses**|Keith Harrigian et.al.|[2206.11155v1](http://arxiv.org/abs/2206.11155v1)|null|
 |**2022-06-20 16:46:21**|**How to Assess Trustworthy AI in Practice**|Roberto V. Zicari et.al.|[2206.09887v2](http://arxiv.org/abs/2206.09887v2)|null|
@@ -107,4 +108,3 @@
 |**2022-05-16 02:21:09**|**Trustworthy Graph Neural Networks: Aspects, Methods and Trends**|He Zhang et.al.|[2205.07424v1](http://arxiv.org/abs/2205.07424v1)|null|
 |**2022-05-15 10:38:41**|**Evaluating Independence and Conditional Independence Measures**|Jian Ma et.al.|[2205.07253v1](http://arxiv.org/abs/2205.07253v1)|[link](https://github.com/majianthu/eval)|
 |**2022-05-14 00:40:47**|**Experimental Evidence for Using a TTM Stages of Change Model in Boosting   Progress Toward 2FA Adoption**|Cori Faklaris et.al.|[2205.06937v1](http://arxiv.org/abs/2205.06937v1)|null|
-|**2022-05-12 12:21:11**|**Link recommendations: Their impact on network structure and minorities**|Antonio Ferrara et.al.|[2205.06048v1](http://arxiv.org/abs/2205.06048v1)|null|
