@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-30 17:59:08**|**On-Device Training Under 256KB Memory**|Ji Lin et.al.|[2206.15472v1](http://arxiv.org/abs/2206.15472v1)|null|
+|**2022-06-30 17:44:20**|**Learning Iterative Reasoning through Energy Minimization**|Yilun Du et.al.|[2206.15448v1](http://arxiv.org/abs/2206.15448v1)|null|
+|**2022-06-30 10:20:52**|**Graph-Time Convolutional Neural Networks: Architecture and Theoretical   Analysis**|Mohammad Sabbaqi et.al.|[2206.15174v1](http://arxiv.org/abs/2206.15174v1)|null|
+|**2022-06-30 03:37:50**|**Continuous-Time and Multi-Level Graph Representation Learning for   Origin-Destination Demand Prediction**|Liangzhe Han et.al.|[2206.15005v1](http://arxiv.org/abs/2206.15005v1)|null|
+|**2022-06-30 02:33:32**|**Lookback for Learning to Branch**|Prateek Gupta et.al.|[2206.14987v1](http://arxiv.org/abs/2206.14987v1)|null|
+|**2022-06-29 22:04:07**|**ComDensE : Combined Dense Embedding of Relation-aware and Common   Features for Knowledge Graph Completion**|Minsang Kim et.al.|[2206.14925v1](http://arxiv.org/abs/2206.14925v1)|[link](https://github.com/kmswin1/comdense)|
 |**2022-06-29 16:12:22**|**Modeling Teams Performance Using Deep Representational Learning on   Graphs**|Francesco Carli et.al.|[2206.14741v1](http://arxiv.org/abs/2206.14741v1)|null|
 |**2022-06-29 15:47:34**|**Private Graph Extraction via Feature Explanations**|Iyiola E. Olatunji et.al.|[2206.14724v1](http://arxiv.org/abs/2206.14724v1)|null|
 |**2022-06-29 06:37:53**|**Graph Convolutional Neural Networks for (QM)ML/MM Molecular Dynamics   Simulations**|Albert Hofstetter et.al.|[2206.14422v1](http://arxiv.org/abs/2206.14422v1)|null|
@@ -26,9 +32,3 @@
 |**2022-06-27 10:27:28**|**Measuring and Improving the Use of Graph Information in Graph Neural   Networks**|Yifan Hou et.al.|[2206.13170v1](http://arxiv.org/abs/2206.13170v1)|[link](https://github.com/yifan-h/CS-GNN)|
 |**2022-06-27 09:02:16**|**Unsupervised Domain Adaptation Using Feature Disentanglement And GCNs   For Medical Image Classification**|Dwarikanath Mahapatra et.al.|[2206.13123v1](http://arxiv.org/abs/2206.13123v1)|null|
 |**2022-06-26 22:48:15**|**FlowX: Towards Explainable Graph Neural Networks via Message Flows**|Shurui Gui et.al.|[2206.12987v1](http://arxiv.org/abs/2206.12987v1)|null|
-|**2022-06-26 19:56:19**|**Using Machine Learning to Improve Neutron Identification in Water   Cherenkov Detectors**|Blair Jamieson et.al.|[2206.12954v1](http://arxiv.org/abs/2206.12954v1)|null|
-|**2022-06-26 12:52:46**|**Image Aesthetics Assessment Using Graph Attention Network**|Koustav Ghosal et.al.|[2206.12869v2](http://arxiv.org/abs/2206.12869v2)|[link](https://github.com/koustav123/aesthetics_assessment_using_graphs)|
-|**2022-06-26 12:52:17**|**Edge Direction-invariant Graph Neural Networks for Molecular Dipole   Moments Prediction**|Yang Jeong Park et.al.|[2206.12867v1](http://arxiv.org/abs/2206.12867v1)|null|
-|**2022-06-26 07:32:53**|**Towards Representation Alignment and Uniformity in Collaborative   Filtering**|Chenyang Wang et.al.|[2206.12811v1](http://arxiv.org/abs/2206.12811v1)|[link](https://github.com/thuwangcy/directau)|
-|**2022-06-26 03:59:41**|**Efficiently Leveraging Multi-level User Intent for Session-based   Recommendation via Atten-Mixer Network**|Peiyan Zhang et.al.|[2206.12781v1](http://arxiv.org/abs/2206.12781v1)|null|
-|**2022-06-25 22:43:02**|**Modeling Oceanic Variables with Dynamic Graph Neural Networks**|Caio F. D. Netto et.al.|[2206.12746v1](http://arxiv.org/abs/2206.12746v1)|null|

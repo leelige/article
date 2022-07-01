@@ -1,11 +1,17 @@
 # arxiv-daily
- 自动更新 @ 2022-06-30 16:12:47 Asia/Shanghai
+ 自动更新 @ 2022-07-01 16:08:34 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-30 17:59:08**|**On-Device Training Under 256KB Memory**|Ji Lin et.al.|[2206.15472v1](http://arxiv.org/abs/2206.15472v1)|null|
+|**2022-06-30 17:44:20**|**Learning Iterative Reasoning through Energy Minimization**|Yilun Du et.al.|[2206.15448v1](http://arxiv.org/abs/2206.15448v1)|null|
+|**2022-06-30 10:20:52**|**Graph-Time Convolutional Neural Networks: Architecture and Theoretical   Analysis**|Mohammad Sabbaqi et.al.|[2206.15174v1](http://arxiv.org/abs/2206.15174v1)|null|
+|**2022-06-30 03:37:50**|**Continuous-Time and Multi-Level Graph Representation Learning for   Origin-Destination Demand Prediction**|Liangzhe Han et.al.|[2206.15005v1](http://arxiv.org/abs/2206.15005v1)|null|
+|**2022-06-30 02:33:32**|**Lookback for Learning to Branch**|Prateek Gupta et.al.|[2206.14987v1](http://arxiv.org/abs/2206.14987v1)|null|
+|**2022-06-29 22:04:07**|**ComDensE : Combined Dense Embedding of Relation-aware and Common   Features for Knowledge Graph Completion**|Minsang Kim et.al.|[2206.14925v1](http://arxiv.org/abs/2206.14925v1)|[link](https://github.com/kmswin1/comdense)|
 |**2022-06-29 16:12:22**|**Modeling Teams Performance Using Deep Representational Learning on   Graphs**|Francesco Carli et.al.|[2206.14741v1](http://arxiv.org/abs/2206.14741v1)|null|
 |**2022-06-29 15:47:34**|**Private Graph Extraction via Feature Explanations**|Iyiola E. Olatunji et.al.|[2206.14724v1](http://arxiv.org/abs/2206.14724v1)|null|
 |**2022-06-29 06:37:53**|**Graph Convolutional Neural Networks for (QM)ML/MM Molecular Dynamics   Simulations**|Albert Hofstetter et.al.|[2206.14422v1](http://arxiv.org/abs/2206.14422v1)|null|
@@ -30,12 +36,42 @@
 |**2022-06-27 10:27:28**|**Measuring and Improving the Use of Graph Information in Graph Neural   Networks**|Yifan Hou et.al.|[2206.13170v1](http://arxiv.org/abs/2206.13170v1)|[link](https://github.com/yifan-h/CS-GNN)|
 |**2022-06-27 09:02:16**|**Unsupervised Domain Adaptation Using Feature Disentanglement And GCNs   For Medical Image Classification**|Dwarikanath Mahapatra et.al.|[2206.13123v1](http://arxiv.org/abs/2206.13123v1)|null|
 |**2022-06-26 22:48:15**|**FlowX: Towards Explainable Graph Neural Networks via Message Flows**|Shurui Gui et.al.|[2206.12987v1](http://arxiv.org/abs/2206.12987v1)|null|
-|**2022-06-26 19:56:19**|**Using Machine Learning to Improve Neutron Identification in Water   Cherenkov Detectors**|Blair Jamieson et.al.|[2206.12954v1](http://arxiv.org/abs/2206.12954v1)|null|
-|**2022-06-26 12:52:46**|**Image Aesthetics Assessment Using Graph Attention Network**|Koustav Ghosal et.al.|[2206.12869v2](http://arxiv.org/abs/2206.12869v2)|[link](https://github.com/koustav123/aesthetics_assessment_using_graphs)|
-|**2022-06-26 12:52:17**|**Edge Direction-invariant Graph Neural Networks for Molecular Dipole   Moments Prediction**|Yang Jeong Park et.al.|[2206.12867v1](http://arxiv.org/abs/2206.12867v1)|null|
-|**2022-06-26 07:32:53**|**Towards Representation Alignment and Uniformity in Collaborative   Filtering**|Chenyang Wang et.al.|[2206.12811v1](http://arxiv.org/abs/2206.12811v1)|[link](https://github.com/thuwangcy/directau)|
-|**2022-06-26 03:59:41**|**Efficiently Leveraging Multi-level User Intent for Session-based   Recommendation via Atten-Mixer Network**|Peiyan Zhang et.al.|[2206.12781v1](http://arxiv.org/abs/2206.12781v1)|null|
-|**2022-06-25 22:43:02**|**Modeling Oceanic Variables with Dynamic Graph Neural Networks**|Caio F. D. Netto et.al.|[2206.12746v1](http://arxiv.org/abs/2206.12746v1)|null|
+
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-30 17:59:15**|**Causal Machine Learning: A Survey and Open Problems**|Jean Kaddour et.al.|[2206.15475v1](http://arxiv.org/abs/2206.15475v1)|null|
+|**2022-06-30 06:03:55**|**Privacy Research with Marginalized Groups: What We Know, What's Needed,   and What's Next**|Shruti Sannon et.al.|[2206.15037v1](http://arxiv.org/abs/2206.15037v1)|null|
+|**2022-06-28 20:01:18**|**Collecting high-quality adversarial data for machine reading   comprehension tasks with humans and models in the loop**|Damian Y. Romero Diaz et.al.|[2206.14272v1](http://arxiv.org/abs/2206.14272v1)|null|
+|**2022-06-24 17:48:30**|**Accounting for Inconsistent Use of Covariate Adjustment in Group   Sequential Trials**|Marlena S. Bannick et.al.|[2206.12393v1](http://arxiv.org/abs/2206.12393v1)|null|
+|**2022-06-22 15:02:03**|**Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed   Depression Diagnoses**|Keith Harrigian et.al.|[2206.11155v1](http://arxiv.org/abs/2206.11155v1)|null|
+|**2022-06-20 16:46:21**|**How to Assess Trustworthy AI in Practice**|Roberto V. Zicari et.al.|[2206.09887v2](http://arxiv.org/abs/2206.09887v2)|null|
+|**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
+|**2022-06-19 08:04:23**|**Fairness-aware Model-agnostic Positive and Unlabeled Learning**|Ziwei Wu et.al.|[2206.09346v1](http://arxiv.org/abs/2206.09346v1)|null|
+|**2022-06-17 15:39:39**|**Random projections and Kernelised Leave One Cluster Out   Cross-Validation: Universal baselines and evaluation tools for supervised   machine learning for materials properties**|Samantha Durdy et.al.|[2206.08841v1](http://arxiv.org/abs/2206.08841v1)|[link](https://github.com/lrcfmd/kernelisedloco-cv)|
+|**2022-06-16 22:02:33**|**Estimating the lifetime risk of a false positive screening test result**|Tim White et.al.|[2206.08463v1](http://arxiv.org/abs/2206.08463v1)|[link](https://github.com/timwhite0/false-positives-calculator)|
+|**2022-06-10 16:28:36**|**Quantification of follow-up time in oncology clinical trials with a   time-to-event endpoint: Asking the right questions**|Kaspar Rufibach et.al.|[2206.05216v1](http://arxiv.org/abs/2206.05216v1)|null|
+|**2022-06-09 22:48:35**|**Comprehensive Fair Meta-learned Recommender System**|Tianxin Wei et.al.|[2206.04789v1](http://arxiv.org/abs/2206.04789v1)|[link](https://github.com/weitianxin/CLOVER)|
+|**2022-06-09 19:42:45**|**The Developers' Design Thinking Toolbox in Hackathons: A Study on the   Recurring Design Methods in Software Development Marathons**|Kiev Gama et.al.|[2206.04744v1](http://arxiv.org/abs/2206.04744v1)|null|
+|**2022-06-08 08:52:47**|**Explanation as Question Answering based on a Task Model of the Agent's   Design**|Ashok Goel et.al.|[2206.05030v1](http://arxiv.org/abs/2206.05030v1)|null|
+|**2022-06-07 17:22:06**|**Summarizing experimental sensitivities of collider experiments to dark   matter models and comparison to other experiments**|Antonio Boveia et.al.|[2206.03456v1](http://arxiv.org/abs/2206.03456v1)|null|
+|**2022-06-02 09:18:03**|**Algorithmic Fairness and Structural Injustice: Insights from Feminist   Political Philosophy**|Atoosa Kasirzadeh et.al.|[2206.00945v1](http://arxiv.org/abs/2206.00945v1)|null|
+|**2022-06-01 05:01:36**|**Assessing Group-level Gender Bias in Professional Evaluations: The Case   of Medical Student End-of-Shift Feedback**|Emmy Liu et.al.|[2206.00234v1](http://arxiv.org/abs/2206.00234v1)|null|
+|**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
+|**2022-05-30 21:21:38**|**Fairness in the First Stage of Two-Stage Recommender Systems**|Lequn Wang et.al.|[2205.15436v2](http://arxiv.org/abs/2205.15436v2)|null|
+|**2022-05-30 15:32:55**|**A Review and Evaluation of Elastic Distance Functions for Time Series   Clustering**|Chris Holder et.al.|[2205.15181v1](http://arxiv.org/abs/2205.15181v1)|null|
+|**2022-05-29 13:14:53**|**Contributions to Representation Learning with Graph Autoencoders and   Applications to Music Recommendation**|Guillaume Salha-Galvan et.al.|[2205.14651v2](http://arxiv.org/abs/2205.14651v2)|null|
+|**2022-05-27 07:56:11**|**A Design Space for Explainable Ranking and Ranking Models**|I. Al Hazwani et.al.|[2205.15305v1](http://arxiv.org/abs/2205.15305v1)|null|
+|**2022-05-23 19:57:15**|**Challenges in Measuring Bias via Open-Ended Language Generation**|Afra Feyza Akyürek et.al.|[2205.11601v1](http://arxiv.org/abs/2205.11601v1)|[link](https://github.com/feyzaakyurek/bias-textgen)|
+|**2022-05-23 14:48:14**|**ASFAP Working Group Summary of Societal Engagements**|Mounia Laassiri et.al.|[2205.11362v1](http://arxiv.org/abs/2205.11362v1)|null|
+|**2022-05-22 08:44:26**|**Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential   Recommendation**|Xinyan Fan et.al.|[2205.10775v1](http://arxiv.org/abs/2205.10775v1)|null|
+|**2022-05-20 18:46:16**|**Prospects for Heavy WIMP Dark Matter Searches at Muon Colliders**|Kevin Black et.al.|[2205.10404v1](http://arxiv.org/abs/2205.10404v1)|null|
+|**2022-05-19 17:43:09**|**Balanced and robust randomized treatment assignments: the Finite   Selection Model**|Ambarish Chattopadhyay et.al.|[2205.09736v1](http://arxiv.org/abs/2205.09736v1)|null|
+|**2022-05-17 12:36:30**|**Experiments on Generalizability of User-Oriented Fairness in Recommender   Systems**|Hossein A. Rahmani et.al.|[2205.08289v1](http://arxiv.org/abs/2205.08289v1)|[link](https://github.com/rahmanidashti/fairrecsys)|
+|**2022-05-16 14:39:37**|**How Different Groups Prioritize Ethical Values for Responsible AI**|Maurice Jakesch et.al.|[2205.07722v1](http://arxiv.org/abs/2205.07722v1)|null|
+|**2022-05-16 02:21:09**|**Trustworthy Graph Neural Networks: Aspects, Methods and Trends**|He Zhang et.al.|[2205.07424v1](http://arxiv.org/abs/2205.07424v1)|null|
 
 ## Multi Interest Recommendation
 
@@ -72,39 +108,3 @@
 |**2022-02-08 04:59:56**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
 |**2022-02-06 03:48:52**|**Triangle Graph Interest Network for Click-through Rate Prediction**|Wensen Jiang et.al.|[2202.02698v1](http://arxiv.org/abs/2202.02698v1)|[link](https://github.com/alibaba/tgin)|
 |**2022-02-01 06:52:40**|**Sequential Search with Off-Policy Reinforcement Learning**|Dadong Miao et.al.|[2202.00245v1](http://arxiv.org/abs/2202.00245v1)|null|
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-28 20:01:18**|**Collecting high-quality adversarial data for machine reading   comprehension tasks with humans and models in the loop**|Damian Y. Romero Diaz et.al.|[2206.14272v1](http://arxiv.org/abs/2206.14272v1)|null|
-|**2022-06-24 17:48:30**|**Accounting for Inconsistent Use of Covariate Adjustment in Group   Sequential Trials**|Marlena S. Bannick et.al.|[2206.12393v1](http://arxiv.org/abs/2206.12393v1)|null|
-|**2022-06-22 15:02:03**|**Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed   Depression Diagnoses**|Keith Harrigian et.al.|[2206.11155v1](http://arxiv.org/abs/2206.11155v1)|null|
-|**2022-06-20 16:46:21**|**How to Assess Trustworthy AI in Practice**|Roberto V. Zicari et.al.|[2206.09887v2](http://arxiv.org/abs/2206.09887v2)|null|
-|**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
-|**2022-06-19 08:04:23**|**Fairness-aware Model-agnostic Positive and Unlabeled Learning**|Ziwei Wu et.al.|[2206.09346v1](http://arxiv.org/abs/2206.09346v1)|null|
-|**2022-06-17 15:39:39**|**Random projections and Kernelised Leave One Cluster Out   Cross-Validation: Universal baselines and evaluation tools for supervised   machine learning for materials properties**|Samantha Durdy et.al.|[2206.08841v1](http://arxiv.org/abs/2206.08841v1)|[link](https://github.com/lrcfmd/kernelisedloco-cv)|
-|**2022-06-16 22:02:33**|**Estimating the lifetime risk of a false positive screening test result**|Tim White et.al.|[2206.08463v1](http://arxiv.org/abs/2206.08463v1)|[link](https://github.com/timwhite0/false-positives-calculator)|
-|**2022-06-10 16:28:36**|**Quantification of follow-up time in oncology clinical trials with a   time-to-event endpoint: Asking the right questions**|Kaspar Rufibach et.al.|[2206.05216v1](http://arxiv.org/abs/2206.05216v1)|null|
-|**2022-06-09 22:48:35**|**Comprehensive Fair Meta-learned Recommender System**|Tianxin Wei et.al.|[2206.04789v1](http://arxiv.org/abs/2206.04789v1)|[link](https://github.com/weitianxin/CLOVER)|
-|**2022-06-09 19:42:45**|**The Developers' Design Thinking Toolbox in Hackathons: A Study on the   Recurring Design Methods in Software Development Marathons**|Kiev Gama et.al.|[2206.04744v1](http://arxiv.org/abs/2206.04744v1)|null|
-|**2022-06-08 08:52:47**|**Explanation as Question Answering based on a Task Model of the Agent's   Design**|Ashok Goel et.al.|[2206.05030v1](http://arxiv.org/abs/2206.05030v1)|null|
-|**2022-06-07 17:22:06**|**Summarizing experimental sensitivities of collider experiments to dark   matter models and comparison to other experiments**|Antonio Boveia et.al.|[2206.03456v1](http://arxiv.org/abs/2206.03456v1)|null|
-|**2022-06-02 09:18:03**|**Algorithmic Fairness and Structural Injustice: Insights from Feminist   Political Philosophy**|Atoosa Kasirzadeh et.al.|[2206.00945v1](http://arxiv.org/abs/2206.00945v1)|null|
-|**2022-06-01 05:01:36**|**Assessing Group-level Gender Bias in Professional Evaluations: The Case   of Medical Student End-of-Shift Feedback**|Emmy Liu et.al.|[2206.00234v1](http://arxiv.org/abs/2206.00234v1)|null|
-|**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
-|**2022-05-30 21:21:38**|**Fairness in the First Stage of Two-Stage Recommender Systems**|Lequn Wang et.al.|[2205.15436v2](http://arxiv.org/abs/2205.15436v2)|null|
-|**2022-05-30 15:32:55**|**A Review and Evaluation of Elastic Distance Functions for Time Series   Clustering**|Chris Holder et.al.|[2205.15181v1](http://arxiv.org/abs/2205.15181v1)|null|
-|**2022-05-29 13:14:53**|**Contributions to Representation Learning with Graph Autoencoders and   Applications to Music Recommendation**|Guillaume Salha-Galvan et.al.|[2205.14651v2](http://arxiv.org/abs/2205.14651v2)|null|
-|**2022-05-27 07:56:11**|**A Design Space for Explainable Ranking and Ranking Models**|I. Al Hazwani et.al.|[2205.15305v1](http://arxiv.org/abs/2205.15305v1)|null|
-|**2022-05-23 19:57:15**|**Challenges in Measuring Bias via Open-Ended Language Generation**|Afra Feyza Akyürek et.al.|[2205.11601v1](http://arxiv.org/abs/2205.11601v1)|[link](https://github.com/feyzaakyurek/bias-textgen)|
-|**2022-05-23 14:48:14**|**ASFAP Working Group Summary of Societal Engagements**|Mounia Laassiri et.al.|[2205.11362v1](http://arxiv.org/abs/2205.11362v1)|null|
-|**2022-05-22 08:44:26**|**Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential   Recommendation**|Xinyan Fan et.al.|[2205.10775v1](http://arxiv.org/abs/2205.10775v1)|null|
-|**2022-05-20 18:46:16**|**Prospects for Heavy WIMP Dark Matter Searches at Muon Colliders**|Kevin Black et.al.|[2205.10404v1](http://arxiv.org/abs/2205.10404v1)|null|
-|**2022-05-19 17:43:09**|**Balanced and robust randomized treatment assignments: the Finite   Selection Model**|Ambarish Chattopadhyay et.al.|[2205.09736v1](http://arxiv.org/abs/2205.09736v1)|null|
-|**2022-05-17 12:36:30**|**Experiments on Generalizability of User-Oriented Fairness in Recommender   Systems**|Hossein A. Rahmani et.al.|[2205.08289v1](http://arxiv.org/abs/2205.08289v1)|[link](https://github.com/rahmanidashti/fairrecsys)|
-|**2022-05-16 14:39:37**|**How Different Groups Prioritize Ethical Values for Responsible AI**|Maurice Jakesch et.al.|[2205.07722v1](http://arxiv.org/abs/2205.07722v1)|null|
-|**2022-05-16 02:21:09**|**Trustworthy Graph Neural Networks: Aspects, Methods and Trends**|He Zhang et.al.|[2205.07424v1](http://arxiv.org/abs/2205.07424v1)|null|
-|**2022-05-15 10:38:41**|**Evaluating Independence and Conditional Independence Measures**|Jian Ma et.al.|[2205.07253v1](http://arxiv.org/abs/2205.07253v1)|[link](https://github.com/majianthu/eval)|
-|**2022-05-14 00:40:47**|**Experimental Evidence for Using a TTM Stages of Change Model in Boosting   Progress Toward 2FA Adoption**|Cori Faklaris et.al.|[2205.06937v1](http://arxiv.org/abs/2205.06937v1)|null|
