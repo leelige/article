@@ -2,9 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-01 12:16:42**|**Adapting the Mean Teacher for keypoint-based lung registration under   geometric domain shifts**|Alexander Bigalke et.al.|[2207.00371v1](http://arxiv.org/abs/2207.00371v1)|[link](https://github.com/multimodallearning/registration-da-mean-teacher)|
+|**2022-07-01 08:11:22**|**Trajectory Forecasting on Temporal Graphs**|Görkay Aydemir et.al.|[2207.00255v1](http://arxiv.org/abs/2207.00255v1)|null|
+|**2022-06-30 21:32:33**|**Modularity Optimization as a Training Criterion for Graph Neural   Networks**|Tsuyoshi Murata et.al.|[2207.00107v1](http://arxiv.org/abs/2207.00107v1)|[link](https://github.com/naveed92/gcn_modularity)|
 |**2022-06-30 17:59:08**|**On-Device Training Under 256KB Memory**|Ji Lin et.al.|[2206.15472v1](http://arxiv.org/abs/2206.15472v1)|null|
 |**2022-06-30 17:44:20**|**Learning Iterative Reasoning through Energy Minimization**|Yilun Du et.al.|[2206.15448v1](http://arxiv.org/abs/2206.15448v1)|null|
 |**2022-06-30 10:20:52**|**Graph-Time Convolutional Neural Networks: Architecture and Theoretical   Analysis**|Mohammad Sabbaqi et.al.|[2206.15174v1](http://arxiv.org/abs/2206.15174v1)|null|
+|**2022-06-30 10:02:32**|**Reliable Representations Make A Stronger Defender: Unsupervised   Structure Refinement for Robust GNN**|Kuan Li et.al.|[2207.00012v1](http://arxiv.org/abs/2207.00012v1)|null|
 |**2022-06-30 03:37:50**|**Continuous-Time and Multi-Level Graph Representation Learning for   Origin-Destination Demand Prediction**|Liangzhe Han et.al.|[2206.15005v1](http://arxiv.org/abs/2206.15005v1)|null|
 |**2022-06-30 02:33:32**|**Lookback for Learning to Branch**|Prateek Gupta et.al.|[2206.14987v1](http://arxiv.org/abs/2206.14987v1)|null|
 |**2022-06-29 22:04:07**|**ComDensE : Combined Dense Embedding of Relation-aware and Common   Features for Knowledge Graph Completion**|Minsang Kim et.al.|[2206.14925v1](http://arxiv.org/abs/2206.14925v1)|[link](https://github.com/kmswin1/comdense)|
@@ -28,7 +32,3 @@
 |**2022-06-27 16:13:57**|**DeStripe: A Self2Self Spatio-Spectral Graph Neural Network with Unfolded   Hessian for Stripe Artifact Removal in Light-sheet Microscopy**|Yu Liu et.al.|[2206.13419v1](http://arxiv.org/abs/2206.13419v1)|null|
 |**2022-06-27 14:01:52**|**Automatic identification of segmentation errors for radiotherapy using   geometric learning**|Edward G. A. Henderson et.al.|[2206.13317v1](http://arxiv.org/abs/2206.13317v1)|[link](https://github.com/rrr-uom-projects/contour_auto_qatool)|
 |**2022-06-27 11:54:01**|**Cracking nuts with a sledgehammer: when modern graph neural networks do   worse than classical greedy algorithms**|Maria Chiara Angelini et.al.|[2206.13211v1](http://arxiv.org/abs/2206.13211v1)|null|
-|**2022-06-27 10:48:56**|**Learning to Control Local Search for Combinatorial Optimization**|Jonas K. Falkner et.al.|[2206.13181v1](http://arxiv.org/abs/2206.13181v1)|[link](https://github.com/jokofa/neurols)|
-|**2022-06-27 10:27:28**|**Measuring and Improving the Use of Graph Information in Graph Neural   Networks**|Yifan Hou et.al.|[2206.13170v1](http://arxiv.org/abs/2206.13170v1)|[link](https://github.com/yifan-h/CS-GNN)|
-|**2022-06-27 09:02:16**|**Unsupervised Domain Adaptation Using Feature Disentanglement And GCNs   For Medical Image Classification**|Dwarikanath Mahapatra et.al.|[2206.13123v1](http://arxiv.org/abs/2206.13123v1)|null|
-|**2022-06-26 22:48:15**|**FlowX: Towards Explainable Graph Neural Networks via Message Flows**|Shurui Gui et.al.|[2206.12987v1](http://arxiv.org/abs/2206.12987v1)|null|

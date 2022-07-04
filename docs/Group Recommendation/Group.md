@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-30 21:51:58**|**Deradicalizing YouTube: Characterization, Detection, and Personalization   of Religiously Intolerant Arabic Videos**|Nuha Albadi et.al.|[2207.00111v1](http://arxiv.org/abs/2207.00111v1)|null|
 |**2022-06-30 17:59:15**|**Causal Machine Learning: A Survey and Open Problems**|Jean Kaddour et.al.|[2206.15475v1](http://arxiv.org/abs/2206.15475v1)|null|
 |**2022-06-30 06:03:55**|**Privacy Research with Marginalized Groups: What We Know, What's Needed,   and What's Next**|Shruti Sannon et.al.|[2206.15037v1](http://arxiv.org/abs/2206.15037v1)|null|
 |**2022-06-28 20:01:18**|**Collecting high-quality adversarial data for machine reading   comprehension tasks with humans and models in the loop**|Damian Y. Romero Diaz et.al.|[2206.14272v1](http://arxiv.org/abs/2206.14272v1)|null|
@@ -31,4 +32,3 @@
 |**2022-05-19 17:43:09**|**Balanced and robust randomized treatment assignments: the Finite   Selection Model**|Ambarish Chattopadhyay et.al.|[2205.09736v1](http://arxiv.org/abs/2205.09736v1)|null|
 |**2022-05-17 12:36:30**|**Experiments on Generalizability of User-Oriented Fairness in Recommender   Systems**|Hossein A. Rahmani et.al.|[2205.08289v1](http://arxiv.org/abs/2205.08289v1)|[link](https://github.com/rahmanidashti/fairrecsys)|
 |**2022-05-16 14:39:37**|**How Different Groups Prioritize Ethical Values for Responsible AI**|Maurice Jakesch et.al.|[2205.07722v1](http://arxiv.org/abs/2205.07722v1)|null|
-|**2022-05-16 02:21:09**|**Trustworthy Graph Neural Networks: Aspects, Methods and Trends**|He Zhang et.al.|[2205.07424v1](http://arxiv.org/abs/2205.07424v1)|null|
