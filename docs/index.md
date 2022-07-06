@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-07-05 16:12:09 Asia/Shanghai
+ 自动更新 @ 2022-07-06 16:08:46 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -37,6 +37,42 @@
 |**2022-02-14 14:33:07**|**Temporal Properties of Vaccine Effectiveness Measures in Presence of   Multiple Pathogen Variants and Multiple Vaccines**|Anirudh Tomer et.al.|[2202.06762v1](http://arxiv.org/abs/2202.06762v1)|null|
 |**2022-02-08 04:59:56**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
 
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-07-05 09:10:47**|**Betti numbers of attention graphs is all you really need**|Laida Kushnareva et.al.|[2207.01903v1](http://arxiv.org/abs/2207.01903v1)|null|
+|**2022-07-05 06:44:37**|**What Do Graph Convolutional Neural Networks Learn?**|Sannat Singh Bhasin et.al.|[2207.01839v1](http://arxiv.org/abs/2207.01839v1)|null|
+|**2022-07-04 16:35:58**|**Back to MLP: A Simple Baseline for Human Motion Prediction**|Wen Guo et.al.|[2207.01567v1](http://arxiv.org/abs/2207.01567v1)|[link](https://github.com/dulucas/simlpe)|
+|**2022-07-04 13:46:59**|**The Neural-Prediction based Acceleration Algorithm of Column Generation   for Graph-Based Set Covering Problems**|Haofeng Yuan et.al.|[2207.01411v1](http://arxiv.org/abs/2207.01411v1)|null|
+|**2022-07-04 10:06:20**|**NodeTrans: A Graph Transfer Learning Approach for Traffic Prediction**|Xueyan Yin et.al.|[2207.01301v1](http://arxiv.org/abs/2207.01301v1)|null|
+|**2022-07-03 19:27:43**|**Scalable Polar Code Construction for Successive Cancellation List   Decoding: A Graph Neural Network-Based Approach**|Yun Liao et.al.|[2207.01105v1](http://arxiv.org/abs/2207.01105v1)|null|
+|**2022-07-03 17:11:17**|**DiSCoMaT: Distantly Supervised Composition Extraction from Tables in   Material Science Articles**|Tanishq Gupta et.al.|[2207.01079v1](http://arxiv.org/abs/2207.01079v1)|null|
+|**2022-07-03 09:04:09**|**Architecture Augmentation for Performance Predictor Based on Graph   Isomorphism**|Xiangning Xie et.al.|[2207.00987v1](http://arxiv.org/abs/2207.00987v1)|null|
+|**2022-07-03 02:58:42**|**A Graph Isomorphism Network with Weighted Multiple Aggregators for   Speech Emotion Recognition**|Ying Hu et.al.|[2207.00940v1](http://arxiv.org/abs/2207.00940v1)|null|
+|**2022-07-02 20:26:55**|**Emotion Analysis using Multi-Layered Networks for Graphical   Representation of Tweets**|Anna Nguyen et.al.|[2207.00907v1](http://arxiv.org/abs/2207.00907v1)|null|
+|**2022-07-02 15:12:18**|**Tree-constrained Pointer Generator with Graph Neural Network Encodings   for Contextual Speech Recognition**|Guangzhi Sun et.al.|[2207.00857v1](http://arxiv.org/abs/2207.00857v1)|null|
+|**2022-07-02 12:53:56**|**Lane-GNN: Integrating GNN for Predicting Drivers' Lane Change Intention**|Hongde Wu et.al.|[2207.00824v2](http://arxiv.org/abs/2207.00824v2)|null|
+|**2022-07-01 23:17:40**|**Transforming PageRank into an Infinite-Depth Graph Neural Network**|Andreas Roth et.al.|[2207.00684v1](http://arxiv.org/abs/2207.00684v1)|[link](https://github.com/roth-andreas/pprgnn)|
+|**2022-07-01 12:16:42**|**Adapting the Mean Teacher for keypoint-based lung registration under   geometric domain shifts**|Alexander Bigalke et.al.|[2207.00371v1](http://arxiv.org/abs/2207.00371v1)|[link](https://github.com/multimodallearning/registration-da-mean-teacher)|
+|**2022-07-01 08:11:22**|**Trajectory Forecasting on Temporal Graphs**|Görkay Aydemir et.al.|[2207.00255v1](http://arxiv.org/abs/2207.00255v1)|null|
+|**2022-06-30 21:32:33**|**Modularity Optimization as a Training Criterion for Graph Neural   Networks**|Tsuyoshi Murata et.al.|[2207.00107v1](http://arxiv.org/abs/2207.00107v1)|[link](https://github.com/naveed92/gcn_modularity)|
+|**2022-06-30 17:59:08**|**On-Device Training Under 256KB Memory**|Ji Lin et.al.|[2206.15472v1](http://arxiv.org/abs/2206.15472v1)|null|
+|**2022-06-30 17:44:20**|**Learning Iterative Reasoning through Energy Minimization**|Yilun Du et.al.|[2206.15448v1](http://arxiv.org/abs/2206.15448v1)|null|
+|**2022-06-30 10:20:52**|**Graph-Time Convolutional Neural Networks: Architecture and Theoretical   Analysis**|Mohammad Sabbaqi et.al.|[2206.15174v1](http://arxiv.org/abs/2206.15174v1)|null|
+|**2022-06-30 10:02:32**|**Reliable Representations Make A Stronger Defender: Unsupervised   Structure Refinement for Robust GNN**|Kuan Li et.al.|[2207.00012v1](http://arxiv.org/abs/2207.00012v1)|null|
+|**2022-06-30 08:02:05**|**Interpretable Graph Neural Networks for Connectome-Based Brain Disorder   Analysis**|Hejie Cui et.al.|[2207.00813v1](http://arxiv.org/abs/2207.00813v1)|[link](https://github.com/hennyjie/ibgnn)|
+|**2022-06-30 03:37:50**|**Continuous-Time and Multi-Level Graph Representation Learning for   Origin-Destination Demand Prediction**|Liangzhe Han et.al.|[2206.15005v1](http://arxiv.org/abs/2206.15005v1)|null|
+|**2022-06-30 02:33:32**|**Lookback for Learning to Branch**|Prateek Gupta et.al.|[2206.14987v1](http://arxiv.org/abs/2206.14987v1)|null|
+|**2022-06-29 22:04:07**|**ComDensE : Combined Dense Embedding of Relation-aware and Common   Features for Knowledge Graph Completion**|Minsang Kim et.al.|[2206.14925v1](http://arxiv.org/abs/2206.14925v1)|[link](https://github.com/kmswin1/comdense)|
+|**2022-06-29 16:12:22**|**Modeling Teams Performance Using Deep Representational Learning on   Graphs**|Francesco Carli et.al.|[2206.14741v1](http://arxiv.org/abs/2206.14741v1)|null|
+|**2022-06-29 15:47:34**|**Private Graph Extraction via Feature Explanations**|Iyiola E. Olatunji et.al.|[2206.14724v1](http://arxiv.org/abs/2206.14724v1)|null|
+|**2022-06-29 08:50:54**|**Feature-selected Graph Spatial Attention Network for Addictive   Brain-Networks Identification**|Changwei Gong et.al.|[2207.00583v2](http://arxiv.org/abs/2207.00583v2)|null|
+|**2022-06-29 06:37:53**|**Graph Convolutional Neural Networks for (QM)ML/MM Molecular Dynamics   Simulations**|Albert Hofstetter et.al.|[2206.14422v1](http://arxiv.org/abs/2206.14422v1)|null|
+|**2022-06-29 06:26:42**|**Optimization-Induced Graph Implicit Nonlinear Diffusion**|Qi Chen et.al.|[2206.14418v1](http://arxiv.org/abs/2206.14418v1)|[link](https://github.com/7qchen/gind)|
+|**2022-06-29 00:23:25**|**Deformable Graph Transformer**|Jinyoung Park et.al.|[2206.14337v1](http://arxiv.org/abs/2206.14337v1)|null|
+
 ## Group Recommendation
 
 ### Group
@@ -72,39 +108,3 @@
 |**2022-05-20 18:46:16**|**Prospects for Heavy WIMP Dark Matter Searches at Muon Colliders**|Kevin Black et.al.|[2205.10404v1](http://arxiv.org/abs/2205.10404v1)|null|
 |**2022-05-19 17:43:09**|**Balanced and robust randomized treatment assignments: the Finite   Selection Model**|Ambarish Chattopadhyay et.al.|[2205.09736v1](http://arxiv.org/abs/2205.09736v1)|null|
 |**2022-05-17 12:36:30**|**Experiments on Generalizability of User-Oriented Fairness in Recommender   Systems**|Hossein A. Rahmani et.al.|[2205.08289v1](http://arxiv.org/abs/2205.08289v1)|[link](https://github.com/rahmanidashti/fairrecsys)|
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-07-04 16:35:58**|**Back to MLP: A Simple Baseline for Human Motion Prediction**|Wen Guo et.al.|[2207.01567v1](http://arxiv.org/abs/2207.01567v1)|[link](https://github.com/dulucas/simlpe)|
-|**2022-07-04 13:46:59**|**The Neural-Prediction based Acceleration Algorithm of Column Generation   for Graph-Based Set Covering Problems**|Haofeng Yuan et.al.|[2207.01411v1](http://arxiv.org/abs/2207.01411v1)|null|
-|**2022-07-04 10:06:20**|**NodeTrans: A Graph Transfer Learning Approach for Traffic Prediction**|Xueyan Yin et.al.|[2207.01301v1](http://arxiv.org/abs/2207.01301v1)|null|
-|**2022-07-03 19:27:43**|**Scalable Polar Code Construction for Successive Cancellation List   Decoding: A Graph Neural Network-Based Approach**|Yun Liao et.al.|[2207.01105v1](http://arxiv.org/abs/2207.01105v1)|null|
-|**2022-07-03 17:11:17**|**DiSCoMaT: Distantly Supervised Composition Extraction from Tables in   Material Science Articles**|Tanishq Gupta et.al.|[2207.01079v1](http://arxiv.org/abs/2207.01079v1)|null|
-|**2022-07-03 09:04:09**|**Architecture Augmentation for Performance Predictor Based on Graph   Isomorphism**|Xiangning Xie et.al.|[2207.00987v1](http://arxiv.org/abs/2207.00987v1)|null|
-|**2022-07-03 02:58:42**|**A Graph Isomorphism Network with Weighted Multiple Aggregators for   Speech Emotion Recognition**|Ying Hu et.al.|[2207.00940v1](http://arxiv.org/abs/2207.00940v1)|null|
-|**2022-07-02 20:26:55**|**Emotion Analysis using Multi-Layered Networks for Graphical   Representation of Tweets**|Anna Nguyen et.al.|[2207.00907v1](http://arxiv.org/abs/2207.00907v1)|null|
-|**2022-07-02 15:12:18**|**Tree-constrained Pointer Generator with Graph Neural Network Encodings   for Contextual Speech Recognition**|Guangzhi Sun et.al.|[2207.00857v1](http://arxiv.org/abs/2207.00857v1)|null|
-|**2022-07-02 12:53:56**|**Lane-GNN: Integrating GNN for Predicting Drivers Lane Change Intention**|Hongde Wu et.al.|[2207.00824v1](http://arxiv.org/abs/2207.00824v1)|null|
-|**2022-07-01 23:17:40**|**Transforming PageRank into an Infinite-Depth Graph Neural Network**|Andreas Roth et.al.|[2207.00684v1](http://arxiv.org/abs/2207.00684v1)|[link](https://github.com/roth-andreas/pprgnn)|
-|**2022-07-01 12:16:42**|**Adapting the Mean Teacher for keypoint-based lung registration under   geometric domain shifts**|Alexander Bigalke et.al.|[2207.00371v1](http://arxiv.org/abs/2207.00371v1)|[link](https://github.com/multimodallearning/registration-da-mean-teacher)|
-|**2022-07-01 08:11:22**|**Trajectory Forecasting on Temporal Graphs**|Görkay Aydemir et.al.|[2207.00255v1](http://arxiv.org/abs/2207.00255v1)|null|
-|**2022-06-30 21:32:33**|**Modularity Optimization as a Training Criterion for Graph Neural   Networks**|Tsuyoshi Murata et.al.|[2207.00107v1](http://arxiv.org/abs/2207.00107v1)|[link](https://github.com/naveed92/gcn_modularity)|
-|**2022-06-30 17:59:08**|**On-Device Training Under 256KB Memory**|Ji Lin et.al.|[2206.15472v1](http://arxiv.org/abs/2206.15472v1)|null|
-|**2022-06-30 17:44:20**|**Learning Iterative Reasoning through Energy Minimization**|Yilun Du et.al.|[2206.15448v1](http://arxiv.org/abs/2206.15448v1)|null|
-|**2022-06-30 10:20:52**|**Graph-Time Convolutional Neural Networks: Architecture and Theoretical   Analysis**|Mohammad Sabbaqi et.al.|[2206.15174v1](http://arxiv.org/abs/2206.15174v1)|null|
-|**2022-06-30 10:02:32**|**Reliable Representations Make A Stronger Defender: Unsupervised   Structure Refinement for Robust GNN**|Kuan Li et.al.|[2207.00012v1](http://arxiv.org/abs/2207.00012v1)|null|
-|**2022-06-30 08:02:05**|**Interpretable Graph Neural Networks for Connectome-Based Brain Disorder   Analysis**|Hejie Cui et.al.|[2207.00813v1](http://arxiv.org/abs/2207.00813v1)|[link](https://github.com/hennyjie/ibgnn)|
-|**2022-06-30 03:37:50**|**Continuous-Time and Multi-Level Graph Representation Learning for   Origin-Destination Demand Prediction**|Liangzhe Han et.al.|[2206.15005v1](http://arxiv.org/abs/2206.15005v1)|null|
-|**2022-06-30 02:33:32**|**Lookback for Learning to Branch**|Prateek Gupta et.al.|[2206.14987v1](http://arxiv.org/abs/2206.14987v1)|null|
-|**2022-06-29 22:04:07**|**ComDensE : Combined Dense Embedding of Relation-aware and Common   Features for Knowledge Graph Completion**|Minsang Kim et.al.|[2206.14925v1](http://arxiv.org/abs/2206.14925v1)|[link](https://github.com/kmswin1/comdense)|
-|**2022-06-29 16:12:22**|**Modeling Teams Performance Using Deep Representational Learning on   Graphs**|Francesco Carli et.al.|[2206.14741v1](http://arxiv.org/abs/2206.14741v1)|null|
-|**2022-06-29 15:47:34**|**Private Graph Extraction via Feature Explanations**|Iyiola E. Olatunji et.al.|[2206.14724v1](http://arxiv.org/abs/2206.14724v1)|null|
-|**2022-06-29 08:50:54**|**Feature-selected Graph Spatial Attention Network for Addictive   Brain-Networks Identification**|Changwei Gong et.al.|[2207.00583v1](http://arxiv.org/abs/2207.00583v1)|null|
-|**2022-06-29 06:37:53**|**Graph Convolutional Neural Networks for (QM)ML/MM Molecular Dynamics   Simulations**|Albert Hofstetter et.al.|[2206.14422v1](http://arxiv.org/abs/2206.14422v1)|null|
-|**2022-06-29 06:26:42**|**Optimization-Induced Graph Implicit Nonlinear Diffusion**|Qi Chen et.al.|[2206.14418v1](http://arxiv.org/abs/2206.14418v1)|[link](https://github.com/7qchen/gind)|
-|**2022-06-29 00:23:25**|**Deformable Graph Transformer**|Jinyoung Park et.al.|[2206.14337v1](http://arxiv.org/abs/2206.14337v1)|null|
-|**2022-06-29 00:03:14**|**Spherical Channels for Modeling Atomic Interactions**|C. Lawrence Zitnick et.al.|[2206.14331v1](http://arxiv.org/abs/2206.14331v1)|null|
-|**2022-06-28 16:23:25**|**SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous   Driving**|Prarthana Bhattacharyya et.al.|[2206.14116v1](http://arxiv.org/abs/2206.14116v1)|[link](https://github.com/autovision-cloud/ssl-lanes)|
