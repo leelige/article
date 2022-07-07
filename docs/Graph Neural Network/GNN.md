@@ -2,8 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-06 15:53:17**|**Graph Trees with Attention**|Maya Bechler-Speicher et.al.|[2207.02760v1](http://arxiv.org/abs/2207.02760v1)|null|
+|**2022-07-06 10:01:46**|**Simple and Efficient Heterogeneous Graph Neural Network**|Xiaocheng Yang et.al.|[2207.02547v1](http://arxiv.org/abs/2207.02547v1)|[link](https://github.com/ICT-GIMLab/SeHGNN)|
+|**2022-07-06 08:13:06**|**Pure Transformers are Powerful Graph Learners**|Jinwoo Kim et.al.|[2207.02505v1](http://arxiv.org/abs/2207.02505v1)|[link](https://github.com/jw9730/tokengt)|
+|**2022-07-06 00:23:35**|**Text Enriched Sparse Hyperbolic Graph Convolutional Networks**|Nurendra Choudhary et.al.|[2207.02368v1](http://arxiv.org/abs/2207.02368v1)|null|
+|**2022-07-05 18:02:54**|**State-Augmented Learnable Algorithms for Resource Management in Wireless   Networks**|Navid NaderiAlizadeh et.al.|[2207.02242v1](http://arxiv.org/abs/2207.02242v1)|[link](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
 |**2022-07-05 09:10:47**|**Betti numbers of attention graphs is all you really need**|Laida Kushnareva et.al.|[2207.01903v1](http://arxiv.org/abs/2207.01903v1)|null|
-|**2022-07-05 06:44:37**|**What Do Graph Convolutional Neural Networks Learn?**|Sannat Singh Bhasin et.al.|[2207.01839v1](http://arxiv.org/abs/2207.01839v1)|null|
+|**2022-07-05 06:44:37**|**What Do Graph Convolutional Neural Networks Learn?**|Sannat Singh Bhasin et.al.|[2207.01839v1](http://arxiv.org/abs/2207.01839v1)|[link](https://github.com/sannat17/csc413-project)|
 |**2022-07-04 16:35:58**|**Back to MLP: A Simple Baseline for Human Motion Prediction**|Wen Guo et.al.|[2207.01567v1](http://arxiv.org/abs/2207.01567v1)|[link](https://github.com/dulucas/simlpe)|
 |**2022-07-04 13:46:59**|**The Neural-Prediction based Acceleration Algorithm of Column Generation   for Graph-Based Set Covering Problems**|Haofeng Yuan et.al.|[2207.01411v1](http://arxiv.org/abs/2207.01411v1)|null|
 |**2022-07-04 10:06:20**|**NodeTrans: A Graph Transfer Learning Approach for Traffic Prediction**|Xueyan Yin et.al.|[2207.01301v1](http://arxiv.org/abs/2207.01301v1)|null|
@@ -27,8 +32,3 @@
 |**2022-06-30 02:33:32**|**Lookback for Learning to Branch**|Prateek Gupta et.al.|[2206.14987v1](http://arxiv.org/abs/2206.14987v1)|null|
 |**2022-06-29 22:04:07**|**ComDensE : Combined Dense Embedding of Relation-aware and Common   Features for Knowledge Graph Completion**|Minsang Kim et.al.|[2206.14925v1](http://arxiv.org/abs/2206.14925v1)|[link](https://github.com/kmswin1/comdense)|
 |**2022-06-29 16:12:22**|**Modeling Teams Performance Using Deep Representational Learning on   Graphs**|Francesco Carli et.al.|[2206.14741v1](http://arxiv.org/abs/2206.14741v1)|null|
-|**2022-06-29 15:47:34**|**Private Graph Extraction via Feature Explanations**|Iyiola E. Olatunji et.al.|[2206.14724v1](http://arxiv.org/abs/2206.14724v1)|null|
-|**2022-06-29 08:50:54**|**Feature-selected Graph Spatial Attention Network for Addictive   Brain-Networks Identification**|Changwei Gong et.al.|[2207.00583v2](http://arxiv.org/abs/2207.00583v2)|null|
-|**2022-06-29 06:37:53**|**Graph Convolutional Neural Networks for (QM)ML/MM Molecular Dynamics   Simulations**|Albert Hofstetter et.al.|[2206.14422v1](http://arxiv.org/abs/2206.14422v1)|null|
-|**2022-06-29 06:26:42**|**Optimization-Induced Graph Implicit Nonlinear Diffusion**|Qi Chen et.al.|[2206.14418v1](http://arxiv.org/abs/2206.14418v1)|[link](https://github.com/7qchen/gind)|
-|**2022-06-29 00:23:25**|**Deformable Graph Transformer**|Jinyoung Park et.al.|[2206.14337v1](http://arxiv.org/abs/2206.14337v1)|null|
