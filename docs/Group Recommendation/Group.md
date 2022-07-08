@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-07 15:12:02**|**Group Fairness in Adaptive Submodular Maximization**|Shaojie Tang et.al.|[2207.03364v1](http://arxiv.org/abs/2207.03364v1)|null|
 |**2022-07-04 16:20:31**|**The impact of clustering binary data on relative risk towards a study of   inferential methods**|Gopal Nath et.al.|[2207.01552v1](http://arxiv.org/abs/2207.01552v1)|null|
 |**2022-06-30 21:51:58**|**Deradicalizing YouTube: Characterization, Detection, and Personalization   of Religiously Intolerant Arabic Videos**|Nuha Albadi et.al.|[2207.00111v1](http://arxiv.org/abs/2207.00111v1)|null|
 |**2022-06-30 17:59:15**|**Causal Machine Learning: A Survey and Open Problems**|Jean Kaddour et.al.|[2206.15475v1](http://arxiv.org/abs/2206.15475v1)|null|
@@ -28,7 +29,6 @@
 |**2022-05-27 07:56:11**|**A Design Space for Explainable Ranking and Ranking Models**|I. Al Hazwani et.al.|[2205.15305v1](http://arxiv.org/abs/2205.15305v1)|null|
 |**2022-05-23 19:57:15**|**Challenges in Measuring Bias via Open-Ended Language Generation**|Afra Feyza Akyürek et.al.|[2205.11601v1](http://arxiv.org/abs/2205.11601v1)|[link](https://github.com/feyzaakyurek/bias-textgen)|
 |**2022-05-23 14:48:14**|**ASFAP Working Group Summary of Societal Engagements**|Mounia Laassiri et.al.|[2205.11362v1](http://arxiv.org/abs/2205.11362v1)|null|
-|**2022-05-22 08:44:26**|**Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential   Recommendation**|Xinyan Fan et.al.|[2205.10775v1](http://arxiv.org/abs/2205.10775v1)|null|
+|**2022-05-22 08:44:26**|**Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential   Recommendation**|Xinyan Fan et.al.|[2205.10775v1](http://arxiv.org/abs/2205.10775v1)|[link](https://github.com/rucaibox/ada-ranker)|
 |**2022-05-20 18:46:16**|**Prospects for Heavy WIMP Dark Matter Searches at Muon Colliders**|Kevin Black et.al.|[2205.10404v1](http://arxiv.org/abs/2205.10404v1)|null|
 |**2022-05-19 17:43:09**|**Balanced and robust randomized treatment assignments: the Finite   Selection Model**|Ambarish Chattopadhyay et.al.|[2205.09736v1](http://arxiv.org/abs/2205.09736v1)|null|
-|**2022-05-17 12:36:30**|**Experiments on Generalizability of User-Oriented Fairness in Recommender   Systems**|Hossein A. Rahmani et.al.|[2205.08289v1](http://arxiv.org/abs/2205.08289v1)|[link](https://github.com/rahmanidashti/fairrecsys)|

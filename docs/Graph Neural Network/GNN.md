@@ -2,10 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-07 16:51:53**|**Haros graphs: an exotic representation of real numbers**|Jorge Calero-Sanz et.al.|[2207.03425v1](http://arxiv.org/abs/2207.03425v1)|null|
+|**2022-07-07 15:17:40**|**Machine learning of percolation models using graph convolutional neural   networks**|Hua Tian et.al.|[2207.03368v1](http://arxiv.org/abs/2207.03368v1)|null|
+|**2022-07-06 20:30:12**|**Context-aware Self-supervised Learning for Medical Images Using Graph   Neural Network**|Li Sun et.al.|[2207.02957v1](http://arxiv.org/abs/2207.02957v1)|null|
 |**2022-07-06 15:53:17**|**Graph Trees with Attention**|Maya Bechler-Speicher et.al.|[2207.02760v1](http://arxiv.org/abs/2207.02760v1)|null|
-|**2022-07-06 10:01:46**|**Simple and Efficient Heterogeneous Graph Neural Network**|Xiaocheng Yang et.al.|[2207.02547v1](http://arxiv.org/abs/2207.02547v1)|[link](https://github.com/ICT-GIMLab/SeHGNN)|
+|**2022-07-06 10:01:46**|**Simple and Efficient Heterogeneous Graph Neural Network**|Xiaocheng Yang et.al.|[2207.02547v1](http://arxiv.org/abs/2207.02547v1)|[link](https://github.com/ict-gimlab/sehgnn)|
 |**2022-07-06 08:13:06**|**Pure Transformers are Powerful Graph Learners**|Jinwoo Kim et.al.|[2207.02505v1](http://arxiv.org/abs/2207.02505v1)|[link](https://github.com/jw9730/tokengt)|
-|**2022-07-06 00:23:35**|**Text Enriched Sparse Hyperbolic Graph Convolutional Networks**|Nurendra Choudhary et.al.|[2207.02368v1](http://arxiv.org/abs/2207.02368v1)|null|
+|**2022-07-06 00:23:35**|**Text Enriched Sparse Hyperbolic Graph Convolutional Networks**|Nurendra Choudhary et.al.|[2207.02368v2](http://arxiv.org/abs/2207.02368v2)|null|
 |**2022-07-05 18:02:54**|**State-Augmented Learnable Algorithms for Resource Management in Wireless   Networks**|Navid NaderiAlizadeh et.al.|[2207.02242v1](http://arxiv.org/abs/2207.02242v1)|[link](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
 |**2022-07-05 09:10:47**|**Betti numbers of attention graphs is all you really need**|Laida Kushnareva et.al.|[2207.01903v1](http://arxiv.org/abs/2207.01903v1)|null|
 |**2022-07-05 06:44:37**|**What Do Graph Convolutional Neural Networks Learn?**|Sannat Singh Bhasin et.al.|[2207.01839v1](http://arxiv.org/abs/2207.01839v1)|[link](https://github.com/sannat17/csc413-project)|
@@ -29,6 +32,3 @@
 |**2022-06-30 10:02:32**|**Reliable Representations Make A Stronger Defender: Unsupervised   Structure Refinement for Robust GNN**|Kuan Li et.al.|[2207.00012v1](http://arxiv.org/abs/2207.00012v1)|null|
 |**2022-06-30 08:02:05**|**Interpretable Graph Neural Networks for Connectome-Based Brain Disorder   Analysis**|Hejie Cui et.al.|[2207.00813v1](http://arxiv.org/abs/2207.00813v1)|[link](https://github.com/hennyjie/ibgnn)|
 |**2022-06-30 03:37:50**|**Continuous-Time and Multi-Level Graph Representation Learning for   Origin-Destination Demand Prediction**|Liangzhe Han et.al.|[2206.15005v1](http://arxiv.org/abs/2206.15005v1)|null|
-|**2022-06-30 02:33:32**|**Lookback for Learning to Branch**|Prateek Gupta et.al.|[2206.14987v1](http://arxiv.org/abs/2206.14987v1)|null|
-|**2022-06-29 22:04:07**|**ComDensE : Combined Dense Embedding of Relation-aware and Common   Features for Knowledge Graph Completion**|Minsang Kim et.al.|[2206.14925v1](http://arxiv.org/abs/2206.14925v1)|[link](https://github.com/kmswin1/comdense)|
-|**2022-06-29 16:12:22**|**Modeling Teams Performance Using Deep Representational Learning on   Graphs**|Francesco Carli et.al.|[2206.14741v1](http://arxiv.org/abs/2206.14741v1)|null|
