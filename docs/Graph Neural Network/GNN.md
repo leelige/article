@@ -24,7 +24,7 @@
 |**2022-07-02 12:53:56**|**Lane-GNN: Integrating GNN for Predicting Drivers' Lane Change Intention**|Hongde Wu et.al.|[2207.00824v2](http://arxiv.org/abs/2207.00824v2)|null|
 |**2022-07-01 23:17:40**|**Transforming PageRank into an Infinite-Depth Graph Neural Network**|Andreas Roth et.al.|[2207.00684v1](http://arxiv.org/abs/2207.00684v1)|[link](https://github.com/roth-andreas/pprgnn)|
 |**2022-07-01 12:16:42**|**Adapting the Mean Teacher for keypoint-based lung registration under   geometric domain shifts**|Alexander Bigalke et.al.|[2207.00371v1](http://arxiv.org/abs/2207.00371v1)|[link](https://github.com/multimodallearning/registration-da-mean-teacher)|
-|**2022-07-01 08:11:22**|**Trajectory Forecasting on Temporal Graphs**|Görkay Aydemir et.al.|[2207.00255v1](http://arxiv.org/abs/2207.00255v1)|null|
+|**2022-07-01 08:11:22**|**Trajectory Forecasting on Temporal Graphs**|Görkay Aydemir et.al.|[2207.00255v1](http://arxiv.org/abs/2207.00255v1)|[link](https://github.com/gorkaydemir/FTGN)|
 |**2022-06-30 21:32:33**|**Modularity Optimization as a Training Criterion for Graph Neural   Networks**|Tsuyoshi Murata et.al.|[2207.00107v1](http://arxiv.org/abs/2207.00107v1)|[link](https://github.com/naveed92/gcn_modularity)|
 |**2022-06-30 17:59:08**|**On-Device Training Under 256KB Memory**|Ji Lin et.al.|[2206.15472v1](http://arxiv.org/abs/2206.15472v1)|null|
 |**2022-06-30 17:44:20**|**Learning Iterative Reasoning through Energy Minimization**|Yilun Du et.al.|[2206.15448v1](http://arxiv.org/abs/2206.15448v1)|null|
