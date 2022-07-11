@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-07-10 16:09:21 Asia/Shanghai
+ 自动更新 @ 2022-07-11 16:18:53 Asia/Shanghai
 
 ## Group Recommendation
 
@@ -78,6 +78,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-08 14:19:36**|**Towards Semantic Communication Protocols: A Probabilistic Logic   Perspective**|Sejin Seo et.al.|[2207.03920v1](http://arxiv.org/abs/2207.03920v1)|null|
+|**2022-07-08 09:26:19**|**Hidden Schema Networks**|Ramsés J. Sánchez et.al.|[2207.03777v1](http://arxiv.org/abs/2207.03777v1)|[link](https://github.com/ramsesjsf/hiddenschemanetworks)|
+|**2022-07-08 04:54:53**|**GCN-based Multi-task Representation Learning for Anomaly Detection in   Attributed Networks**|Venus Haghighi et.al.|[2207.03688v1](http://arxiv.org/abs/2207.03688v1)|null|
+|**2022-07-08 03:54:52**|**Stability of Aggregation Graph Neural Networks**|Alejandro Parada-Mayorga et.al.|[2207.03678v1](http://arxiv.org/abs/2207.03678v1)|null|
+|**2022-07-07 18:34:34**|**TF-GNN: Graph Neural Networks in TensorFlow**|Oleksandr Ferludin et.al.|[2207.03522v1](http://arxiv.org/abs/2207.03522v1)|null|
 |**2022-07-07 16:51:53**|**Haros graphs: an exotic representation of real numbers**|Jorge Calero-Sanz et.al.|[2207.03425v1](http://arxiv.org/abs/2207.03425v1)|null|
 |**2022-07-07 15:17:40**|**Machine learning of percolation models using graph convolutional neural   networks**|Hua Tian et.al.|[2207.03368v1](http://arxiv.org/abs/2207.03368v1)|null|
 |**2022-07-06 20:30:12**|**Context-aware Self-supervised Learning for Medical Images Using Graph   Neural Network**|Li Sun et.al.|[2207.02957v1](http://arxiv.org/abs/2207.02957v1)|null|
@@ -103,8 +108,3 @@
 |**2022-07-01 08:11:22**|**Trajectory Forecasting on Temporal Graphs**|Görkay Aydemir et.al.|[2207.00255v1](http://arxiv.org/abs/2207.00255v1)|[link](https://github.com/gorkaydemir/FTGN)|
 |**2022-06-30 21:32:33**|**Modularity Optimization as a Training Criterion for Graph Neural   Networks**|Tsuyoshi Murata et.al.|[2207.00107v1](http://arxiv.org/abs/2207.00107v1)|[link](https://github.com/naveed92/gcn_modularity)|
 |**2022-06-30 17:59:08**|**On-Device Training Under 256KB Memory**|Ji Lin et.al.|[2206.15472v1](http://arxiv.org/abs/2206.15472v1)|null|
-|**2022-06-30 17:44:20**|**Learning Iterative Reasoning through Energy Minimization**|Yilun Du et.al.|[2206.15448v1](http://arxiv.org/abs/2206.15448v1)|null|
-|**2022-06-30 10:20:52**|**Graph-Time Convolutional Neural Networks: Architecture and Theoretical   Analysis**|Mohammad Sabbaqi et.al.|[2206.15174v1](http://arxiv.org/abs/2206.15174v1)|null|
-|**2022-06-30 10:02:32**|**Reliable Representations Make A Stronger Defender: Unsupervised   Structure Refinement for Robust GNN**|Kuan Li et.al.|[2207.00012v1](http://arxiv.org/abs/2207.00012v1)|null|
-|**2022-06-30 08:02:05**|**Interpretable Graph Neural Networks for Connectome-Based Brain Disorder   Analysis**|Hejie Cui et.al.|[2207.00813v1](http://arxiv.org/abs/2207.00813v1)|[link](https://github.com/hennyjie/ibgnn)|
-|**2022-06-30 03:37:50**|**Continuous-Time and Multi-Level Graph Representation Learning for   Origin-Destination Demand Prediction**|Liangzhe Han et.al.|[2206.15005v1](http://arxiv.org/abs/2206.15005v1)|null|
