@@ -2,6 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-13 16:49:37**|**QT-Routenet: Improved GNN generalization to larger 5G networks by   fine-tuning predictions from queueing theory**|Bruno Klaus de Aquino Afonso et.al.|[2207.06336v1](http://arxiv.org/abs/2207.06336v1)|null|
+|**2022-07-13 13:04:18**|**MRF-UNets: Searching UNet with Markov Random Fields**|Zifu Wang et.al.|[2207.06168v1](http://arxiv.org/abs/2207.06168v1)|[link](https://github.com/zifuwanggg/MRF-UNets)|
+|**2022-07-13 12:06:13**|**The Ising spin glass on random graphs at zero temperature: not all spins   are glassy in the glassy phase**|Gianmarco Perrupato et.al.|[2207.06142v1](http://arxiv.org/abs/2207.06142v1)|null|
+|**2022-07-13 08:17:48**|**Graph Property Prediction on Open Graph Benchmark: A Winning Solution by   Graph Neural Architecture Search**|Xu Wang et.al.|[2207.06027v1](http://arxiv.org/abs/2207.06027v1)|null|
+|**2022-07-13 07:34:16**|**Does GNN Pretraining Help Molecular Representation?**|Ruoxi Sun et.al.|[2207.06010v1](http://arxiv.org/abs/2207.06010v1)|null|
+|**2022-07-13 06:44:17**|**Unsupervised Learning for Combinatorial Optimization with Principled   Objective Design**|Haoyu Wang et.al.|[2207.05984v1](http://arxiv.org/abs/2207.05984v1)|null|
+|**2022-07-13 00:12:02**|**Neural Topological Ordering for Computation Graphs**|Mukul Gagrani et.al.|[2207.05899v1](http://arxiv.org/abs/2207.05899v1)|null|
+|**2022-07-12 23:28:03**|**Tuning the Geometry of Graph Neural Networks**|Sowon Jeong et.al.|[2207.05887v1](http://arxiv.org/abs/2207.05887v1)|null|
+|**2022-07-12 22:53:36**|**Diffusive Persistence on Disordered Lattices and Random Networks**|Omar Malik et.al.|[2207.05878v1](http://arxiv.org/abs/2207.05878v1)|null|
 |**2022-07-12 17:07:46**|**Machine Learning model for gas-liquid interface reconstruction in CFD   numerical simulations**|Tamon Nakano et.al.|[2207.05684v1](http://arxiv.org/abs/2207.05684v1)|null|
 |**2022-07-12 15:07:21**|**Multi-Behavior Hypergraph-Enhanced Transformer for Sequential   Recommendation**|Yuhao Yang et.al.|[2207.05584v1](http://arxiv.org/abs/2207.05584v1)|[link](https://github.com/yuh-yang/mbht-kdd22)|
 |**2022-07-12 11:37:58**|**A developmental approach for training deep belief networks**|Matteo Zambra et.al.|[2207.05473v1](http://arxiv.org/abs/2207.05473v1)|null|
@@ -15,6 +24,7 @@
 |**2022-07-09 07:45:16**|**Wasserstein Graph Distance based on $L_1$-Approximated Tree Edit   Distance between Weisfeiler-Lehman Subtrees**|Zhongxi Fang et.al.|[2207.04216v1](http://arxiv.org/abs/2207.04216v1)|[link](https://github.com/fzx-oss/wwls)|
 |**2022-07-08 20:44:57**|**Braid-based architecture search**|Olga Lukyanova et.al.|[2207.04121v1](http://arxiv.org/abs/2207.04121v1)|null|
 |**2022-07-08 14:19:36**|**Towards Semantic Communication Protocols: A Probabilistic Logic   Perspective**|Sejin Seo et.al.|[2207.03920v1](http://arxiv.org/abs/2207.03920v1)|null|
+|**2022-07-08 12:29:09**|**Physics-Informed Neural Operators**|Somdatta Goswami et.al.|[2207.05748v1](http://arxiv.org/abs/2207.05748v1)|null|
 |**2022-07-08 09:26:19**|**Hidden Schema Networks**|Ramsés J. Sánchez et.al.|[2207.03777v1](http://arxiv.org/abs/2207.03777v1)|[link](https://github.com/ramsesjsf/hiddenschemanetworks)|
 |**2022-07-08 04:54:53**|**GCN-based Multi-task Representation Learning for Anomaly Detection in   Attributed Networks**|Venus Haghighi et.al.|[2207.03688v1](http://arxiv.org/abs/2207.03688v1)|null|
 |**2022-07-08 03:54:52**|**Stability of Aggregation Graph Neural Networks**|Alejandro Parada-Mayorga et.al.|[2207.03678v1](http://arxiv.org/abs/2207.03678v1)|null|
@@ -22,13 +32,3 @@
 |**2022-07-07 18:34:34**|**TF-GNN: Graph Neural Networks in TensorFlow**|Oleksandr Ferludin et.al.|[2207.03522v1](http://arxiv.org/abs/2207.03522v1)|null|
 |**2022-07-07 16:51:53**|**Haros graphs: an exotic representation of real numbers**|Jorge Calero-Sanz et.al.|[2207.03425v1](http://arxiv.org/abs/2207.03425v1)|null|
 |**2022-07-07 15:17:40**|**Machine learning of percolation models using graph convolutional neural   networks**|Hua Tian et.al.|[2207.03368v1](http://arxiv.org/abs/2207.03368v1)|null|
-|**2022-07-06 20:30:12**|**Context-aware Self-supervised Learning for Medical Images Using Graph   Neural Network**|Li Sun et.al.|[2207.02957v1](http://arxiv.org/abs/2207.02957v1)|null|
-|**2022-07-06 15:53:17**|**Graph Trees with Attention**|Maya Bechler-Speicher et.al.|[2207.02760v1](http://arxiv.org/abs/2207.02760v1)|null|
-|**2022-07-06 10:01:46**|**Simple and Efficient Heterogeneous Graph Neural Network**|Xiaocheng Yang et.al.|[2207.02547v1](http://arxiv.org/abs/2207.02547v1)|[link](https://github.com/ict-gimlab/sehgnn)|
-|**2022-07-06 08:13:06**|**Pure Transformers are Powerful Graph Learners**|Jinwoo Kim et.al.|[2207.02505v1](http://arxiv.org/abs/2207.02505v1)|[link](https://github.com/jw9730/tokengt)|
-|**2022-07-06 00:23:35**|**Text Enriched Sparse Hyperbolic Graph Convolutional Networks**|Nurendra Choudhary et.al.|[2207.02368v2](http://arxiv.org/abs/2207.02368v2)|null|
-|**2022-07-05 18:02:54**|**State-Augmented Learnable Algorithms for Resource Management in Wireless   Networks**|Navid NaderiAlizadeh et.al.|[2207.02242v1](http://arxiv.org/abs/2207.02242v1)|[link](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
-|**2022-07-05 09:10:47**|**Betti numbers of attention graphs is all you really need**|Laida Kushnareva et.al.|[2207.01903v1](http://arxiv.org/abs/2207.01903v1)|null|
-|**2022-07-05 06:44:37**|**What Do Graph Convolutional Neural Networks Learn?**|Sannat Singh Bhasin et.al.|[2207.01839v1](http://arxiv.org/abs/2207.01839v1)|[link](https://github.com/sannat17/csc413-project)|
-|**2022-07-04 16:35:58**|**Back to MLP: A Simple Baseline for Human Motion Prediction**|Wen Guo et.al.|[2207.01567v1](http://arxiv.org/abs/2207.01567v1)|[link](https://github.com/dulucas/simlpe)|
-|**2022-07-04 13:46:59**|**The Neural-Prediction based Acceleration Algorithm of Column Generation   for Graph-Based Set Covering Problems**|Haofeng Yuan et.al.|[2207.01411v2](http://arxiv.org/abs/2207.01411v2)|null|
