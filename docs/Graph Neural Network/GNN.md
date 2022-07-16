@@ -11,7 +11,7 @@
 |**2022-07-13 18:12:36**|**Graph Neural Network Bandits**|Parnian Kassraie et.al.|[2207.06456v1](http://arxiv.org/abs/2207.06456v1)|null|
 |**2022-07-13 18:00:12**|**Graph CNN for Moving Object Detection in Complex Environments from   Unseen Videos**|Jhony H. Giraldo et.al.|[2207.06440v1](http://arxiv.org/abs/2207.06440v1)|null|
 |**2022-07-13 16:49:37**|**QT-Routenet: Improved GNN generalization to larger 5G networks by   fine-tuning predictions from queueing theory**|Bruno Klaus de Aquino Afonso et.al.|[2207.06336v1](http://arxiv.org/abs/2207.06336v1)|[link](https://github.com/itu-ai-ml-in-5g-challenge/itu-ml5g-ps-001-parana)|
-|**2022-07-13 13:04:18**|**MRF-UNets: Searching UNet with Markov Random Fields**|Zifu Wang et.al.|[2207.06168v1](http://arxiv.org/abs/2207.06168v1)|[link](https://github.com/zifuwanggg/MRF-UNets)|
+|**2022-07-13 13:04:18**|**MRF-UNets: Searching UNet with Markov Random Fields**|Zifu Wang et.al.|[2207.06168v1](http://arxiv.org/abs/2207.06168v1)|[link](https://github.com/zifuwanggg/mrf-unets)|
 |**2022-07-13 12:06:13**|**The Ising spin glass on random graphs at zero temperature: not all spins   are glassy in the glassy phase**|Gianmarco Perrupato et.al.|[2207.06142v1](http://arxiv.org/abs/2207.06142v1)|null|
 |**2022-07-13 08:17:48**|**Graph Property Prediction on Open Graph Benchmark: A Winning Solution by   Graph Neural Architecture Search**|Xu Wang et.al.|[2207.06027v1](http://arxiv.org/abs/2207.06027v1)|[link](https://github.com/automl-research/pas-ogb)|
 |**2022-07-13 07:34:16**|**Does GNN Pretraining Help Molecular Representation?**|Ruoxi Sun et.al.|[2207.06010v1](http://arxiv.org/abs/2207.06010v1)|null|
