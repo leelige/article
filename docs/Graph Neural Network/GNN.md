@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-15 13:03:47**|**Multi-Object Tracking and Segmentation via Neural Message Passing**|Guillem Braso et.al.|[2207.07454v1](http://arxiv.org/abs/2207.07454v1)|[link](https://github.com/ocetintas/mpntrackseg)|
+|**2022-07-15 11:28:11**|**pathGCN: Learning General Graph Spatial Operators from Paths**|Moshe Eliasof et.al.|[2207.07408v1](http://arxiv.org/abs/2207.07408v1)|null|
+|**2022-07-15 02:24:49**|**Multi-node Acceleration for Large-scale GCNs**|Gongjian Sun et.al.|[2207.07258v1](http://arxiv.org/abs/2207.07258v1)|null|
+|**2022-07-14 23:40:22**|**Lipschitz Bound Analysis of Neural Networks**|Sarosij Bose et.al.|[2207.07232v1](http://arxiv.org/abs/2207.07232v1)|null|
+|**2022-07-14 21:53:01**|**On the use of graph neural networks and shape-function-based gradient   computation in the deep energy method**|Junyan He et.al.|[2207.07216v1](http://arxiv.org/abs/2207.07216v1)|null|
+|**2022-07-14 19:16:56**|**Image Clustering with Contrastive Learning and Multi-scale Graph   Convolutional Networks**|Yuanku Xu et.al.|[2207.07173v1](http://arxiv.org/abs/2207.07173v1)|null|
 |**2022-07-14 10:59:39**|**Anomal-E: A Self-Supervised Network Intrusion Detection System based on   Graph Neural Networks**|Evan Caville et.al.|[2207.06819v1](http://arxiv.org/abs/2207.06819v1)|null|
 |**2022-07-14 10:27:25**|**GrabQC: Graph based Query Contextualization for automated ICD coding**|Jeshuren Chelladurai et.al.|[2207.06802v1](http://arxiv.org/abs/2207.06802v1)|null|
 |**2022-07-14 08:44:01**|**Semi-supervised Vector-Quantization in Visual SLAM using HGCN**|Amir Zarringhalam et.al.|[2207.06738v1](http://arxiv.org/abs/2207.06738v1)|null|
@@ -26,9 +32,3 @@
 |**2022-07-11 21:34:40**|**The Cosmic Graph: Optimal Information Extraction from Large-Scale   Structure using Catalogues**|T. Lucas Makinen et.al.|[2207.05202v1](http://arxiv.org/abs/2207.05202v1)|[link](https://github.com/tlmakinen/cosmicgraphs)|
 |**2022-07-11 17:01:28**|**Boosting Heterogeneous Catalyst Discovery by Structurally Constrained   Deep Learning Models**|Alexey N. Korovin et.al.|[2207.05013v1](http://arxiv.org/abs/2207.05013v1)|null|
 |**2022-07-11 08:41:24**|**A Baselined Gated Attention Recurrent Network for Request Prediction in   Ridesharing**|Jingran Shen et.al.|[2207.04709v1](http://arxiv.org/abs/2207.04709v1)|[link](https://github.com/wingsupete/rsodp)|
-|**2022-07-11 05:49:41**|**Interference-Limited Ultra-Reliable and Low-Latency Communications:   Graph Neural Networks or Stochastic Geometry?**|Yuhong Liu et.al.|[2207.06918v1](http://arxiv.org/abs/2207.06918v1)|null|
-|**2022-07-11 05:22:38**|**Brain-inspired Graph Spiking Neural Networks for Commonsense Knowledge   Representation and Reasoning**|Hongjian Fang et.al.|[2207.05561v1](http://arxiv.org/abs/2207.05561v1)|null|
-|**2022-07-11 01:38:09**|**Few-Shot Semantic Relation Prediction across Heterogeneous Graphs**|Pengfei Ding et.al.|[2207.05068v1](http://arxiv.org/abs/2207.05068v1)|null|
-|**2022-07-10 04:02:20**|**On Graph Neural Network Fairness in the Presence of Heterophilous   Neighborhoods**|Donald Loveland et.al.|[2207.04376v1](http://arxiv.org/abs/2207.04376v1)|null|
-|**2022-07-09 07:45:16**|**Wasserstein Graph Distance based on $L_1$-Approximated Tree Edit   Distance between Weisfeiler-Lehman Subtrees**|Zhongxi Fang et.al.|[2207.04216v1](http://arxiv.org/abs/2207.04216v1)|[link](https://github.com/fzx-oss/wwls)|
-|**2022-07-08 20:44:57**|**Braid-based architecture search**|Olga Lukyanova et.al.|[2207.04121v1](http://arxiv.org/abs/2207.04121v1)|null|

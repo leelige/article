@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-15 08:03:37**|**Modeling Multi-interest News Sequence for News Recommendation**|Rongyao Wang et.al.|[2207.07331v1](http://arxiv.org/abs/2207.07331v1)|null|
 |**2022-07-14 04:29:54**|**Every Preference Changes Differently: Neural Multi-Interest Preference   Model with Temporal Dynamics for Recommendation**|Hui Shi et.al.|[2207.06652v1](http://arxiv.org/abs/2207.06652v1)|[link](https://github.com/shihui2010/mip)|
 |**2022-07-06 06:29:34**|**Re-weighting Negative Samples for Model-Agnostic Matching**|Jiazhen Lou et.al.|[2207.02468v1](http://arxiv.org/abs/2207.02468v1)|null|
 |**2022-07-02 06:27:54**|**GUIM -- General User and Item Embedding with Mixture of Representation   in E-commerce**|Chao Yang et.al.|[2207.00750v1](http://arxiv.org/abs/2207.00750v1)|null|
@@ -31,4 +32,3 @@
 |**2022-03-23 14:43:14**|**Deep Multi-View Learning for Tire Recommendation**|Thomas Ranvier et.al.|[2203.12451v1](http://arxiv.org/abs/2203.12451v1)|null|
 |**2022-03-20 04:46:11**|**ZOOMER: Boosting Retrieval on Web-scale Graphs by Regions of Interest**|Yuezihan Jiang et.al.|[2203.12596v1](http://arxiv.org/abs/2203.12596v1)|[link](https://github.com/lovelyhan/zoomer)|
 |**2022-03-02 17:25:54**|**Recommendations in a Multi-Domain Setting: Adapting for Customization,   Scalability and Real-Time Performance**|Emanuel Lacic et.al.|[2203.01256v1](http://arxiv.org/abs/2203.01256v1)|null|
-|**2022-02-17 08:51:24**|**Contrastive Meta Learning with Behavior Multiplicity for Recommendation**|Wei Wei et.al.|[2202.08523v1](http://arxiv.org/abs/2202.08523v1)|[link](https://github.com/weiwei1206/cml)|
