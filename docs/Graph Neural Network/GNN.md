@@ -2,6 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-18 17:36:54**|**Simplifying Clustering with Graph Neural Networks**|Filippo Maria Bianchi et.al.|[2207.08779v1](http://arxiv.org/abs/2207.08779v1)|null|
+|**2022-07-18 14:53:50**|**An Enhanced Graph Representation for Machine Learning Based Automatic   Intersection Management**|Marvin Klimke et.al.|[2207.08655v1](http://arxiv.org/abs/2207.08655v1)|null|
+|**2022-07-18 14:23:31**|**Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural   Networks**|Chuang Liu et.al.|[2207.08629v1](http://arxiv.org/abs/2207.08629v1)|null|
+|**2022-07-18 13:36:20**|**FunQG: Molecular Representation Learning Via Quotient Graphs**|Hossein Hajiabolhassan et.al.|[2207.08597v1](http://arxiv.org/abs/2207.08597v1)|[link](https://github.com/hhaji/funqg)|
+|**2022-07-18 10:28:56**|**Distributed Graph Neural Networks for Optimizing Wireless Networks:   Message Passing Over-the-Air**|Yifan Gu et.al.|[2207.08498v1](http://arxiv.org/abs/2207.08498v1)|null|
+|**2022-07-18 09:29:10**|**Multi-dimension Geospatial feature learning for urban region function   recognition**|Wenjia Xu et.al.|[2207.08461v1](http://arxiv.org/abs/2207.08461v1)|null|
+|**2022-07-17 00:25:16**|**MDM:Visual Explanations for Neural Networks via Multiple Dynamic Mask**|Yitao Peng et.al.|[2207.08046v1](http://arxiv.org/abs/2207.08046v1)|null|
+|**2022-07-16 21:50:39**|**Rewiring Networks for Graph Neural Network Training Using Discrete   Geometry**|Jakub Bober et.al.|[2207.08026v1](http://arxiv.org/abs/2207.08026v1)|null|
+|**2022-07-16 09:50:45**|**SizeShiftReg: a Regularization Method for Improving Size-Generalization   in Graph Neural Networks**|Davide Buffelli et.al.|[2207.07888v1](http://arxiv.org/abs/2207.07888v1)|null|
+|**2022-07-15 23:43:17**|**Learning Long-Term Spatial-Temporal Graphs for Active Speaker Detection**|Kyle Min et.al.|[2207.07783v1](http://arxiv.org/abs/2207.07783v1)|[link](https://github.com/sra2/spell)|
 |**2022-07-15 13:03:47**|**Multi-Object Tracking and Segmentation via Neural Message Passing**|Guillem Braso et.al.|[2207.07454v1](http://arxiv.org/abs/2207.07454v1)|[link](https://github.com/ocetintas/mpntrackseg)|
 |**2022-07-15 11:28:11**|**pathGCN: Learning General Graph Spatial Operators from Paths**|Moshe Eliasof et.al.|[2207.07408v1](http://arxiv.org/abs/2207.07408v1)|null|
 |**2022-07-15 02:24:49**|**Multi-node Acceleration for Large-scale GCNs**|Gongjian Sun et.al.|[2207.07258v1](http://arxiv.org/abs/2207.07258v1)|null|
@@ -22,13 +32,3 @@
 |**2022-07-13 08:17:48**|**Graph Property Prediction on Open Graph Benchmark: A Winning Solution by   Graph Neural Architecture Search**|Xu Wang et.al.|[2207.06027v1](http://arxiv.org/abs/2207.06027v1)|[link](https://github.com/automl-research/pas-ogb)|
 |**2022-07-13 07:34:16**|**Does GNN Pretraining Help Molecular Representation?**|Ruoxi Sun et.al.|[2207.06010v1](http://arxiv.org/abs/2207.06010v1)|null|
 |**2022-07-13 06:44:17**|**Unsupervised Learning for Combinatorial Optimization with Principled   Objective Relaxation**|Haoyu Wang et.al.|[2207.05984v2](http://arxiv.org/abs/2207.05984v2)|[link](https://github.com/graph-com/co_proxydesign)|
-|**2022-07-13 00:12:02**|**Neural Topological Ordering for Computation Graphs**|Mukul Gagrani et.al.|[2207.05899v1](http://arxiv.org/abs/2207.05899v1)|null|
-|**2022-07-12 23:28:03**|**Tuning the Geometry of Graph Neural Networks**|Sowon Jeong et.al.|[2207.05887v1](http://arxiv.org/abs/2207.05887v1)|null|
-|**2022-07-12 22:53:36**|**Diffusive Persistence on Disordered Lattices and Random Networks**|Omar Malik et.al.|[2207.05878v1](http://arxiv.org/abs/2207.05878v1)|null|
-|**2022-07-12 17:07:46**|**Machine Learning model for gas-liquid interface reconstruction in CFD   numerical simulations**|Tamon Nakano et.al.|[2207.05684v1](http://arxiv.org/abs/2207.05684v1)|null|
-|**2022-07-12 15:07:21**|**Multi-Behavior Hypergraph-Enhanced Transformer for Sequential   Recommendation**|Yuhao Yang et.al.|[2207.05584v1](http://arxiv.org/abs/2207.05584v1)|[link](https://github.com/yuh-yang/mbht-kdd22)|
-|**2022-07-12 11:37:58**|**A developmental approach for training deep belief networks**|Matteo Zambra et.al.|[2207.05473v1](http://arxiv.org/abs/2207.05473v1)|null|
-|**2022-07-12 07:59:21**|**A Bipartite Graph Neural Network Approach for Scalable Beamforming   Optimization**|Junbeom Kim et.al.|[2207.05364v1](http://arxiv.org/abs/2207.05364v1)|null|
-|**2022-07-11 21:34:40**|**The Cosmic Graph: Optimal Information Extraction from Large-Scale   Structure using Catalogues**|T. Lucas Makinen et.al.|[2207.05202v1](http://arxiv.org/abs/2207.05202v1)|[link](https://github.com/tlmakinen/cosmicgraphs)|
-|**2022-07-11 17:01:28**|**Boosting Heterogeneous Catalyst Discovery by Structurally Constrained   Deep Learning Models**|Alexey N. Korovin et.al.|[2207.05013v1](http://arxiv.org/abs/2207.05013v1)|null|
-|**2022-07-11 08:41:24**|**A Baselined Gated Attention Recurrent Network for Request Prediction in   Ridesharing**|Jingran Shen et.al.|[2207.04709v1](http://arxiv.org/abs/2207.04709v1)|[link](https://github.com/wingsupete/rsodp)|
