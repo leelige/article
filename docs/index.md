@@ -1,17 +1,23 @@
 # arxiv-daily
- 自动更新 @ 2022-07-20 16:09:19 Asia/Shanghai
+ 自动更新 @ 2022-07-21 16:08:54 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-07-19 17:58:33**|**PoserNet: Refining Relative Camera Poses Exploiting Object Detections**|Matteo Taiana et.al.|[2207.09445v1](http://arxiv.org/abs/2207.09445v1)|[link](https://github.com/IIT-PAVIS/PoserNet)|
+|**2022-07-20 17:27:50**|**Pretraining a Neural Network before Knowing Its Architecture**|Boris Knyazev et.al.|[2207.10049v1](http://arxiv.org/abs/2207.10049v1)|[link](https://github.com/facebookresearch/ppuda)|
+|**2022-07-20 15:39:30**|**REFACTOR GNNS: Revisiting Factorisation-based Models from a   Message-Passing Perspective**|Yihong Chen et.al.|[2207.09980v1](http://arxiv.org/abs/2207.09980v1)|null|
+|**2022-07-20 15:29:45**|**NeuralNEB -- Neural Networks can find Reaction Paths Fast**|Mathias Schreiner et.al.|[2207.09971v1](http://arxiv.org/abs/2207.09971v1)|null|
+|**2022-07-20 15:14:46**|**On a Generalized Framework for Time-Aware Knowledge Graphs**|Franz Krause et.al.|[2207.09964v1](http://arxiv.org/abs/2207.09964v1)|null|
+|**2022-07-20 15:01:12**|**Operation-Level Performance Benchmarking of Graph Neural Networks for   Scientific Applications**|Ryien Hosseini et.al.|[2207.09955v1](http://arxiv.org/abs/2207.09955v1)|null|
+|**2022-07-20 14:20:03**|**Robust Landmark-based Stent Tracking in X-ray Fluoroscopy**|Luojie Huang et.al.|[2207.09933v1](http://arxiv.org/abs/2207.09933v1)|null|
+|**2022-07-19 17:58:33**|**PoserNet: Refining Relative Camera Poses Exploiting Object Detections**|Matteo Taiana et.al.|[2207.09445v1](http://arxiv.org/abs/2207.09445v1)|[link](https://github.com/iit-pavis/posernet)|
 |**2022-07-19 10:32:11**|**SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization**|Ningyi Liao et.al.|[2207.09179v1](http://arxiv.org/abs/2207.09179v1)|null|
 |**2022-07-19 05:47:45**|**XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection   and Forensics**|Wai Weng Lo et.al.|[2207.09088v1](http://arxiv.org/abs/2207.09088v1)|null|
 |**2022-07-19 01:56:28**|**Enhancing Security Patch Identification by Capturing Structures in   Commits**|Bozhi Wu et.al.|[2207.09022v1](http://arxiv.org/abs/2207.09022v1)|null|
-|**2022-07-18 23:20:50**|**SelectionConv: Convolutional Neural Networks for Non-rectilinear Image   Data**|David Hart et.al.|[2207.08979v1](http://arxiv.org/abs/2207.08979v1)|null|
-|**2022-07-18 17:36:54**|**Simplifying Clustering with Graph Neural Networks**|Filippo Maria Bianchi et.al.|[2207.08779v1](http://arxiv.org/abs/2207.08779v1)|null|
+|**2022-07-18 23:20:50**|**SelectionConv: Convolutional Neural Networks for Non-rectilinear Image   Data**|David Hart et.al.|[2207.08979v1](http://arxiv.org/abs/2207.08979v1)|[link](https://github.com/davidmhart/SelectionConv)|
+|**2022-07-18 17:36:54**|**Simplifying Clustering with Graph Neural Networks**|Filippo Maria Bianchi et.al.|[2207.08779v1](http://arxiv.org/abs/2207.08779v1)|[link](https://github.com/filippomb/simplifying-clustering-with-graph-neural-networks)|
 |**2022-07-18 14:53:50**|**An Enhanced Graph Representation for Machine Learning Based Automatic   Intersection Management**|Marvin Klimke et.al.|[2207.08655v1](http://arxiv.org/abs/2207.08655v1)|null|
 |**2022-07-18 14:23:31**|**Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural   Networks**|Chuang Liu et.al.|[2207.08629v2](http://arxiv.org/abs/2207.08629v2)|null|
 |**2022-07-18 13:36:20**|**FunQG: Molecular Representation Learning Via Quotient Graphs**|Hossein Hajiabolhassan et.al.|[2207.08597v1](http://arxiv.org/abs/2207.08597v1)|[link](https://github.com/hhaji/funqg)|
@@ -28,14 +34,8 @@
 |**2022-07-14 21:53:01**|**On the use of graph neural networks and shape-function-based gradient   computation in the deep energy method**|Junyan He et.al.|[2207.07216v1](http://arxiv.org/abs/2207.07216v1)|null|
 |**2022-07-14 19:16:56**|**Image Clustering with Contrastive Learning and Multi-scale Graph   Convolutional Networks**|Yuanku Xu et.al.|[2207.07173v1](http://arxiv.org/abs/2207.07173v1)|null|
 |**2022-07-14 11:36:56**|**Unified 2D and 3D Pre-Training of Molecular Representations**|Jinhua Zhu et.al.|[2207.08806v1](http://arxiv.org/abs/2207.08806v1)|null|
-|**2022-07-14 10:59:39**|**Anomal-E: A Self-Supervised Network Intrusion Detection System based on   Graph Neural Networks**|Evan Caville et.al.|[2207.06819v1](http://arxiv.org/abs/2207.06819v1)|null|
+|**2022-07-14 10:59:39**|**Anomal-E: A Self-Supervised Network Intrusion Detection System based on   Graph Neural Networks**|Evan Caville et.al.|[2207.06819v2](http://arxiv.org/abs/2207.06819v2)|null|
 |**2022-07-14 10:27:25**|**GrabQC: Graph based Query Contextualization for automated ICD coding**|Jeshuren Chelladurai et.al.|[2207.06802v1](http://arxiv.org/abs/2207.06802v1)|null|
-|**2022-07-14 08:44:01**|**Semi-supervised Vector-Quantization in Visual SLAM using HGCN**|Amir Zarringhalam et.al.|[2207.06738v1](http://arxiv.org/abs/2207.06738v1)|null|
-|**2022-07-14 08:33:32**|**Self-supervised Vector-Quantization in Visual SLAM using Deep   Convolutional Autoencoders**|Amir Zarringhalam et.al.|[2207.06732v1](http://arxiv.org/abs/2207.06732v1)|null|
-|**2022-07-14 06:23:38**|**Subgraph Frequency Distribution Estimation using Graph Neural Networks**|Zhongren Chen et.al.|[2207.06684v1](http://arxiv.org/abs/2207.06684v1)|null|
-|**2022-07-14 06:17:00**|**Equivariant Hypergraph Diffusion Neural Operators**|Peihao Wang et.al.|[2207.06680v1](http://arxiv.org/abs/2207.06680v1)|[link](https://github.com/graph-com/ed-hnn)|
-|**2022-07-13 18:12:36**|**Graph Neural Network Bandits**|Parnian Kassraie et.al.|[2207.06456v1](http://arxiv.org/abs/2207.06456v1)|null|
-|**2022-07-13 18:00:12**|**Graph CNN for Moving Object Detection in Complex Environments from   Unseen Videos**|Jhony H. Giraldo et.al.|[2207.06440v1](http://arxiv.org/abs/2207.06440v1)|null|
 
 ## Group Recommendation
 
@@ -43,7 +43,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-07-19 15:19:03**|**Group Validation in Recommender Systems: Framework for Multi-layer   Performance Evaluation**|Wissam Al Jurdi et.al.|[2207.09320v1](http://arxiv.org/abs/2207.09320v1)|null|
-|**2022-07-19 01:55:07**|**Actionable and Interpretable Fault Localization for Recurring Failures   in Online Service Systems**|Zeyan Li et.al.|[2207.09021v1](http://arxiv.org/abs/2207.09021v1)|[link](https://github.com/NetManAIOps/DejaVu)|
+|**2022-07-19 01:55:07**|**Actionable and Interpretable Fault Localization for Recurring Failures   in Online Service Systems**|Zeyan Li et.al.|[2207.09021v2](http://arxiv.org/abs/2207.09021v2)|[link](https://github.com/NetManAIOps/DejaVu)|
 |**2022-07-14 08:52:07**|**TRIE++: Towards End-to-End Information Extraction from Visually Rich   Documents**|Zhanzhan Cheng et.al.|[2207.06744v1](http://arxiv.org/abs/2207.06744v1)|null|
 |**2022-07-07 15:12:02**|**Group Fairness in Adaptive Submodular Maximization**|Shaojie Tang et.al.|[2207.03364v1](http://arxiv.org/abs/2207.03364v1)|null|
 |**2022-07-04 16:20:31**|**The impact of clustering binary data on relative risk towards a study of   inferential methods**|Gopal Nath et.al.|[2207.01552v1](http://arxiv.org/abs/2207.01552v1)|null|
