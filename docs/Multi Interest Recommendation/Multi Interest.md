@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-07-15 08:03:37**|**Modeling Multi-interest News Sequence for News Recommendation**|Rongyao Wang et.al.|[2207.07331v2](http://arxiv.org/abs/2207.07331v2)|null|
 |**2022-07-14 07:49:28**|**Improving Multi-Interest Network with Stable Learning**|Zhaocheng Liu et.al.|[2207.07910v1](http://arxiv.org/abs/2207.07910v1)|null|
-|**2022-07-14 04:29:54**|**Every Preference Changes Differently: Neural Multi-Interest Preference   Model with Temporal Dynamics for Recommendation**|Hui Shi et.al.|[2207.06652v1](http://arxiv.org/abs/2207.06652v1)|[link](https://github.com/shihui2010/mip)|
+|**2022-07-14 04:29:54**|**Every Preference Changes Differently: Neural Multi-Interest Preference   Model with Temporal Dynamics for Recommendation**|Hui Shi et.al.|[2207.06652v2](http://arxiv.org/abs/2207.06652v2)|[link](https://github.com/shihui2010/mip)|
 |**2022-07-06 06:29:34**|**Re-weighting Negative Samples for Model-Agnostic Matching**|Jiazhen Lou et.al.|[2207.02468v1](http://arxiv.org/abs/2207.02468v1)|null|
 |**2022-07-02 06:27:54**|**GUIM -- General User and Item Embedding with Mixture of Representation   in E-commerce**|Chao Yang et.al.|[2207.00750v1](http://arxiv.org/abs/2207.00750v1)|null|
 |**2022-06-30 01:43:58**|**Personalized Showcases: Generating Multi-Modal Explanations for   Recommendations**|An Yan et.al.|[2207.00422v1](http://arxiv.org/abs/2207.00422v1)|null|
