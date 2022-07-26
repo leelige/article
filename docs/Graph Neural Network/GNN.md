@@ -2,6 +2,21 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-25 15:56:14**|**MedML: Fusing Medical Knowledge and Machine Learning Models for Early   Pediatric COVID-19 Hospitalization and Severity Prediction**|Junyi Gao et.al.|[2207.12283v1](http://arxiv.org/abs/2207.12283v1)|[link](https://github.com/v1xerunt/medml)|
+|**2022-07-25 12:15:45**|**Ego-graph Replay based Continual Learning for Misinformation Engagement   Prediction**|Hongbo Bo et.al.|[2207.12105v1](http://arxiv.org/abs/2207.12105v1)|null|
+|**2022-07-25 10:42:15**|**Flowsheet synthesis through hierarchical reinforcement learning and   graph neural networks**|Laura Stops et.al.|[2207.12051v1](http://arxiv.org/abs/2207.12051v1)|null|
+|**2022-07-25 06:08:24**|**Benchmarking GNN-Based Recommender Systems on Intel Optane Persistent   Memory**|Yuwei Hu et.al.|[2207.11918v1](http://arxiv.org/abs/2207.11918v1)|null|
+|**2022-07-25 03:25:15**|**HIRE: Distilling High-order Relational Knowledge From Heterogeneous   Graph Neural Networks**|Jing Liu et.al.|[2207.11887v1](http://arxiv.org/abs/2207.11887v1)|null|
+|**2022-07-24 20:46:23**|**Federated Graph Machine Learning: A Survey of Concepts, Techniques, and   Applications**|Xingbo Fu et.al.|[2207.11812v1](http://arxiv.org/abs/2207.11812v1)|null|
+|**2022-07-24 15:20:41**|**SGAT: Simplicial Graph Attention Network**|See Hian Lee et.al.|[2207.11761v1](http://arxiv.org/abs/2207.11761v1)|null|
+|**2022-07-24 07:41:31**|**Learning Graph Neural Networks for Image Style Transfer**|Yongcheng Jing et.al.|[2207.11681v1](http://arxiv.org/abs/2207.11681v1)|null|
+|**2022-07-23 15:48:14**|**Annealed Training for Combinatorial Optimization on Graphs**|Haoran Sun et.al.|[2207.11542v1](http://arxiv.org/abs/2207.11542v1)|null|
+|**2022-07-23 14:02:57**|**Audio-driven Neural Gesture Reenactment with Video Motion Graphs**|Yang Zhou et.al.|[2207.11524v1](http://arxiv.org/abs/2207.11524v1)|null|
+|**2022-07-23 08:54:24**|**Distributed Nonlinear State Estimation in Electric Power Systems using   Graph Neural Networks**|Ognjen Kundacina et.al.|[2207.11465v1](http://arxiv.org/abs/2207.11465v1)|null|
+|**2022-07-23 06:53:57**|**The prediction of the quality of results in Logic Synthesis using   Transformer and Graph Neural Networks**|Chenghao Yang et.al.|[2207.11437v1](http://arxiv.org/abs/2207.11437v1)|null|
+|**2022-07-22 21:20:22**|**Dynamic Graph Reasoning for Multi-person 3D Pose Estimation**|Zhongwei Qiu et.al.|[2207.11341v1](http://arxiv.org/abs/2207.11341v1)|null|
+|**2022-07-22 20:54:22**|**Scalable training of graph convolutional neural networks for fast and   accurate predictions of HOMO-LUMO gap in molecules**|Jong Youl Choi et.al.|[2207.11333v1](http://arxiv.org/abs/2207.11333v1)|null|
+|**2022-07-22 19:36:12**|**Understanding Non-linearity in Graph Neural Networks from the   Bayesian-Inference Perspective**|Rongzhe Wei et.al.|[2207.11311v1](http://arxiv.org/abs/2207.11311v1)|null|
 |**2022-07-22 16:43:08**|**Network analysis of the human structural connectome including the   brainstem: a new perspective on consciousness**|Salma Salhi et.al.|[2207.11182v1](http://arxiv.org/abs/2207.11182v1)|null|
 |**2022-07-22 16:20:34**|**Explaining Dynamic Graph Neural Networks via Relevance Back-propagation**|Jiaxuan Xie et.al.|[2207.11175v1](http://arxiv.org/abs/2207.11175v1)|null|
 |**2022-07-22 14:48:10**|**Near Real-Time Distributed State Estimation via AI/ML-Empowered 5G   Networks**|Ognjen Kundacina et.al.|[2207.11117v1](http://arxiv.org/abs/2207.11117v1)|null|
@@ -17,18 +32,3 @@
 |**2022-07-20 15:29:45**|**NeuralNEB -- Neural Networks can find Reaction Paths Fast**|Mathias Schreiner et.al.|[2207.09971v2](http://arxiv.org/abs/2207.09971v2)|null|
 |**2022-07-20 15:14:46**|**On a Generalized Framework for Time-Aware Knowledge Graphs**|Franz Krause et.al.|[2207.09964v1](http://arxiv.org/abs/2207.09964v1)|null|
 |**2022-07-20 15:01:12**|**Operation-Level Performance Benchmarking of Graph Neural Networks for   Scientific Applications**|Ryien Hosseini et.al.|[2207.09955v1](http://arxiv.org/abs/2207.09955v1)|null|
-|**2022-07-20 14:20:03**|**Robust Landmark-based Stent Tracking in X-ray Fluoroscopy**|Luojie Huang et.al.|[2207.09933v3](http://arxiv.org/abs/2207.09933v3)|null|
-|**2022-07-19 17:58:33**|**PoserNet: Refining Relative Camera Poses Exploiting Object Detections**|Matteo Taiana et.al.|[2207.09445v2](http://arxiv.org/abs/2207.09445v2)|[link](https://github.com/iit-pavis/posernet)|
-|**2022-07-19 10:32:11**|**SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization**|Ningyi Liao et.al.|[2207.09179v1](http://arxiv.org/abs/2207.09179v1)|[link](https://github.com/gdmnl/scara-ppr)|
-|**2022-07-19 05:47:45**|**XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection   and Forensics**|Wai Weng Lo et.al.|[2207.09088v1](http://arxiv.org/abs/2207.09088v1)|null|
-|**2022-07-19 01:56:28**|**Enhancing Security Patch Identification by Capturing Structures in   Commits**|Bozhi Wu et.al.|[2207.09022v1](http://arxiv.org/abs/2207.09022v1)|null|
-|**2022-07-18 23:20:50**|**SelectionConv: Convolutional Neural Networks for Non-rectilinear Image   Data**|David Hart et.al.|[2207.08979v1](http://arxiv.org/abs/2207.08979v1)|[link](https://github.com/davidmhart/SelectionConv)|
-|**2022-07-18 17:36:54**|**Simplifying Clustering with Graph Neural Networks**|Filippo Maria Bianchi et.al.|[2207.08779v1](http://arxiv.org/abs/2207.08779v1)|[link](https://github.com/filippomb/simplifying-clustering-with-graph-neural-networks)|
-|**2022-07-18 14:53:50**|**An Enhanced Graph Representation for Machine Learning Based Automatic   Intersection Management**|Marvin Klimke et.al.|[2207.08655v1](http://arxiv.org/abs/2207.08655v1)|null|
-|**2022-07-18 14:23:31**|**Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural   Networks**|Chuang Liu et.al.|[2207.08629v2](http://arxiv.org/abs/2207.08629v2)|null|
-|**2022-07-18 13:36:20**|**FunQG: Molecular Representation Learning Via Quotient Graphs**|Hossein Hajiabolhassan et.al.|[2207.08597v1](http://arxiv.org/abs/2207.08597v1)|[link](https://github.com/hhaji/funqg)|
-|**2022-07-18 10:28:56**|**Distributed Graph Neural Networks for Optimizing Wireless Networks:   Message Passing Over-the-Air**|Yifan Gu et.al.|[2207.08498v1](http://arxiv.org/abs/2207.08498v1)|null|
-|**2022-07-18 09:29:10**|**Multi-dimension Geospatial feature learning for urban region function   recognition**|Wenjia Xu et.al.|[2207.08461v1](http://arxiv.org/abs/2207.08461v1)|null|
-|**2022-07-17 00:25:16**|**MDM:Visual Explanations for Neural Networks via Multiple Dynamic Mask**|Yitao Peng et.al.|[2207.08046v2](http://arxiv.org/abs/2207.08046v2)|null|
-|**2022-07-16 21:50:39**|**Rewiring Networks for Graph Neural Network Training Using Discrete   Geometry**|Jakub Bober et.al.|[2207.08026v1](http://arxiv.org/abs/2207.08026v1)|null|
-|**2022-07-16 09:50:45**|**SizeShiftReg: a Regularization Method for Improving Size-Generalization   in Graph Neural Networks**|Davide Buffelli et.al.|[2207.07888v1](http://arxiv.org/abs/2207.07888v1)|null|

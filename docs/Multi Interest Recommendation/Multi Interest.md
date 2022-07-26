@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-25 14:37:18**|**Personality-Driven Social Multimedia Content Recommendation**|Qi Yang et.al.|[2207.12236v1](http://arxiv.org/abs/2207.12236v1)|null|
 |**2022-07-15 08:03:37**|**Modeling Multi-interest News Sequence for News Recommendation**|Rongyao Wang et.al.|[2207.07331v2](http://arxiv.org/abs/2207.07331v2)|null|
 |**2022-07-14 07:49:28**|**Improving Multi-Interest Network with Stable Learning**|Zhaocheng Liu et.al.|[2207.07910v1](http://arxiv.org/abs/2207.07910v1)|null|
 |**2022-07-14 04:29:54**|**Every Preference Changes Differently: Neural Multi-Interest Preference   Model with Temporal Dynamics for Recommendation**|Hui Shi et.al.|[2207.06652v2](http://arxiv.org/abs/2207.06652v2)|[link](https://github.com/shihui2010/mip)|
@@ -31,4 +32,3 @@
 |**2022-04-01 10:10:50**|**Diverse Preference Augmentation with Multiple Domains for Cold-start   Recommendations**|Yan Zhang et.al.|[2204.00327v1](http://arxiv.org/abs/2204.00327v1)|null|
 |**2022-03-28 19:02:58**|**Online Algorithms for Matching Platforms with Multi-Channel Traffic**|Vahideh Manshadi et.al.|[2203.15037v1](http://arxiv.org/abs/2203.15037v1)|null|
 |**2022-03-23 14:43:14**|**Deep Multi-View Learning for Tire Recommendation**|Thomas Ranvier et.al.|[2203.12451v1](http://arxiv.org/abs/2203.12451v1)|null|
-|**2022-03-20 04:46:11**|**ZOOMER: Boosting Retrieval on Web-scale Graphs by Regions of Interest**|Yuezihan Jiang et.al.|[2203.12596v1](http://arxiv.org/abs/2203.12596v1)|[link](https://github.com/lovelyhan/zoomer)|

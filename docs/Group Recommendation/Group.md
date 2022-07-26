@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-23 21:25:19**|**Exploring the Impact of Temporal Bias in Point-of-Interest   Recommendation**|Hossein A. Rahmani et.al.|[2207.11609v1](http://arxiv.org/abs/2207.11609v1)|[link](https://github.com/rahmanidashti/contextsfair)|
 |**2022-07-19 15:19:03**|**Group Validation in Recommender Systems: Framework for Multi-layer   Performance Evaluation**|Wissam Al Jurdi et.al.|[2207.09320v1](http://arxiv.org/abs/2207.09320v1)|null|
 |**2022-07-19 01:55:07**|**Actionable and Interpretable Fault Localization for Recurring Failures   in Online Service Systems**|Zeyan Li et.al.|[2207.09021v2](http://arxiv.org/abs/2207.09021v2)|[link](https://github.com/anonymous-submission-22/dejavu)|
 |**2022-07-14 08:52:07**|**TRIE++: Towards End-to-End Information Extraction from Visually Rich   Documents**|Zhanzhan Cheng et.al.|[2207.06744v1](http://arxiv.org/abs/2207.06744v1)|null|
@@ -31,4 +32,3 @@
 |**2022-05-30 15:32:55**|**A Review and Evaluation of Elastic Distance Functions for Time Series   Clustering**|Chris Holder et.al.|[2205.15181v1](http://arxiv.org/abs/2205.15181v1)|null|
 |**2022-05-29 13:14:53**|**Contributions to Representation Learning with Graph Autoencoders and   Applications to Music Recommendation**|Guillaume Salha-Galvan et.al.|[2205.14651v2](http://arxiv.org/abs/2205.14651v2)|null|
 |**2022-05-27 07:56:11**|**A Design Space for Explainable Ranking and Ranking Models**|I. Al Hazwani et.al.|[2205.15305v1](http://arxiv.org/abs/2205.15305v1)|null|
-|**2022-05-23 19:57:15**|**Challenges in Measuring Bias via Open-Ended Language Generation**|Afra Feyza Akyürek et.al.|[2205.11601v1](http://arxiv.org/abs/2205.11601v1)|[link](https://github.com/feyzaakyurek/bias-textgen)|
