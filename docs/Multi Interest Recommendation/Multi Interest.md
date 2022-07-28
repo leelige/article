@@ -13,7 +13,7 @@
 |**2022-06-26 03:59:41**|**Efficiently Leveraging Multi-level User Intent for Session-based   Recommendation via Atten-Mixer Network**|Peiyan Zhang et.al.|[2206.12781v1](http://arxiv.org/abs/2206.12781v1)|null|
 |**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
 |**2022-06-10 12:05:50**|**Feature-aware Diversified Re-ranking with Disentangled Representations   for Relevant Recommendation**|Zihan Lin et.al.|[2206.05020v1](http://arxiv.org/abs/2206.05020v1)|null|
-|**2022-06-08 13:28:29**|**Efficient Resource Allocation with Fairness Constraints in Restless   Multi-Armed Bandits**|Dexun Li et.al.|[2206.03883v1](http://arxiv.org/abs/2206.03883v1)|null|
+|**2022-06-08 13:28:29**|**Efficient Resource Allocation with Fairness Constraints in Restless   Multi-Armed Bandits**|Dexun Li et.al.|[2206.03883v2](http://arxiv.org/abs/2206.03883v2)|null|
 |**2022-06-06 15:42:54**|**Multi-Behavior Sequential Recommendation with Temporal Graph Transformer**|Lianghao Xia et.al.|[2206.02687v1](http://arxiv.org/abs/2206.02687v1)|[link](https://github.com/akaxlh/tgt)|
 |**2022-06-06 06:55:08**|**An Estimation Framework for Passerby Engagement Interacting with Social   Robots**|Taichi Sakaguchi et.al.|[2206.02394v1](http://arxiv.org/abs/2206.02394v1)|null|
 |**2022-06-01 15:56:59**|**Multi-Armed Bandit Problem with Temporally-Partitioned Rewards: When   Partial Feedback Counts**|Giulia Romano et.al.|[2206.00586v1](http://arxiv.org/abs/2206.00586v1)|null|

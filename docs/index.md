@@ -1,47 +1,18 @@
 # arxiv-daily
- 自动更新 @ 2022-07-27 16:08:49 Asia/Shanghai
-
-## Multi Interest Recommendation
-
-### Multi Interest
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-07-26 03:28:42**|**Bundle MCR: Towards Conversational Bundle Recommendation**|Zhankui He et.al.|[2207.12628v1](http://arxiv.org/abs/2207.12628v1)|[link](https://github.com/aaronheee/bundle-mcr)|
-|**2022-07-25 14:37:18**|**Personality-Driven Social Multimedia Content Recommendation**|Qi Yang et.al.|[2207.12236v1](http://arxiv.org/abs/2207.12236v1)|null|
-|**2022-07-15 08:03:37**|**Modeling Multi-interest News Sequence for News Recommendation**|Rongyao Wang et.al.|[2207.07331v2](http://arxiv.org/abs/2207.07331v2)|null|
-|**2022-07-14 07:49:28**|**Improving Multi-Interest Network with Stable Learning**|Zhaocheng Liu et.al.|[2207.07910v1](http://arxiv.org/abs/2207.07910v1)|null|
-|**2022-07-14 04:29:54**|**Every Preference Changes Differently: Neural Multi-Interest Preference   Model with Temporal Dynamics for Recommendation**|Hui Shi et.al.|[2207.06652v2](http://arxiv.org/abs/2207.06652v2)|[link](https://github.com/shihui2010/mip)|
-|**2022-07-06 06:29:34**|**Re-weighting Negative Samples for Model-Agnostic Matching**|Jiazhen Lou et.al.|[2207.02468v1](http://arxiv.org/abs/2207.02468v1)|null|
-|**2022-07-02 06:27:54**|**GUIM -- General User and Item Embedding with Mixture of Representation   in E-commerce**|Chao Yang et.al.|[2207.00750v1](http://arxiv.org/abs/2207.00750v1)|null|
-|**2022-06-30 01:43:58**|**Personalized Showcases: Generating Multi-Modal Explanations for   Recommendations**|An Yan et.al.|[2207.00422v1](http://arxiv.org/abs/2207.00422v1)|null|
-|**2022-06-26 03:59:41**|**Efficiently Leveraging Multi-level User Intent for Session-based   Recommendation via Atten-Mixer Network**|Peiyan Zhang et.al.|[2206.12781v1](http://arxiv.org/abs/2206.12781v1)|null|
-|**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
-|**2022-06-10 12:05:50**|**Feature-aware Diversified Re-ranking with Disentangled Representations   for Relevant Recommendation**|Zihan Lin et.al.|[2206.05020v1](http://arxiv.org/abs/2206.05020v1)|null|
-|**2022-06-08 13:28:29**|**Efficient Resource Allocation with Fairness Constraints in Restless   Multi-Armed Bandits**|Dexun Li et.al.|[2206.03883v1](http://arxiv.org/abs/2206.03883v1)|null|
-|**2022-06-06 15:42:54**|**Multi-Behavior Sequential Recommendation with Temporal Graph Transformer**|Lianghao Xia et.al.|[2206.02687v1](http://arxiv.org/abs/2206.02687v1)|[link](https://github.com/akaxlh/tgt)|
-|**2022-06-06 06:55:08**|**An Estimation Framework for Passerby Engagement Interacting with Social   Robots**|Taichi Sakaguchi et.al.|[2206.02394v1](http://arxiv.org/abs/2206.02394v1)|null|
-|**2022-06-01 15:56:59**|**Multi-Armed Bandit Problem with Temporally-Partitioned Rewards: When   Partial Feedback Counts**|Giulia Romano et.al.|[2206.00586v1](http://arxiv.org/abs/2206.00586v1)|null|
-|**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
-|**2022-05-30 08:56:25**|**A multimedia recommendation model based on collaborative graph**|Breda Lim et.al.|[2205.14931v1](http://arxiv.org/abs/2205.14931v1)|null|
-|**2022-05-19 14:35:36**|**Improving Micro-video Recommendation via Contrastive Multiple Interests**|Beibei Li et.al.|[2205.09593v1](http://arxiv.org/abs/2205.09593v1)|null|
-|**2022-05-12 16:42:24**|**kNN-Embed: Locally Smoothed Embedding Mixtures For Multi-interest   Candidate Retrieval**|Ahmed El-Kishky et.al.|[2205.06205v2](http://arxiv.org/abs/2205.06205v2)|null|
-|**2022-05-09 15:06:16**|**Effectively Using Long and Short Sessions for Multi-Session-based   Recommendations**|Zihan Wang et.al.|[2205.04366v1](http://arxiv.org/abs/2205.04366v1)|null|
-|**2022-05-03 03:21:29**|**When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for   Sequential Recommendation**|Yu Tian et.al.|[2205.01286v1](http://arxiv.org/abs/2205.01286v1)|[link](https://github.com/whuir/mgnm)|
-|**2022-04-29 13:05:41**|**Gating-adapted Wavelet Multiresolution Analysis for Exposure Sequence   Modeling in CTR prediction**|Xiaoxiao Xu et.al.|[2204.14069v1](http://arxiv.org/abs/2204.14069v1)|null|
-|**2022-04-24 21:51:29**|**Empowering Next POI Recommendation with Multi-Relational Modeling**|Zheng Huang et.al.|[2204.12288v1](http://arxiv.org/abs/2204.12288v1)|null|
-|**2022-04-21 07:40:47**|**Multi-task recommendation system for scientific papers with high-way   networks**|Aram Karimi et.al.|[2204.09930v1](http://arxiv.org/abs/2204.09930v1)|null|
-|**2022-04-20 10:23:45**|**Multi-Level Interaction Reranking with User Behavior History**|Yunjia Xi et.al.|[2204.09370v1](http://arxiv.org/abs/2204.09370v1)|[link](https://github.com/YunjiaXi/Multi-Level-Interaction-Reranking)|
-|**2022-04-14 12:31:27**|**A Unified Multi-task Learning Framework for Multi-goal Conversational   Recommender Systems**|Yang Deng et.al.|[2204.06923v1](http://arxiv.org/abs/2204.06923v1)|null|
-|**2022-04-05 17:12:53**|**Towards Best Practices for Training Multilingual Dense Retrieval Models**|Xinyu Zhang et.al.|[2204.02363v1](http://arxiv.org/abs/2204.02363v1)|null|
-|**2022-04-01 11:58:00**|**Deep Page-Level Interest Network in Reinforcement Learning for Ads   Allocation**|Guogang Liao et.al.|[2204.00377v1](http://arxiv.org/abs/2204.00377v1)|null|
-|**2022-04-01 10:10:50**|**Diverse Preference Augmentation with Multiple Domains for Cold-start   Recommendations**|Yan Zhang et.al.|[2204.00327v1](http://arxiv.org/abs/2204.00327v1)|null|
-|**2022-03-28 19:02:58**|**Online Algorithms for Matching Platforms with Multi-Channel Traffic**|Vahideh Manshadi et.al.|[2203.15037v1](http://arxiv.org/abs/2203.15037v1)|null|
+ 自动更新 @ 2022-07-28 16:08:48 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-27 17:33:29**|**Unsupervised Training for Neural TSP Solver**|Elīza Gaile et.al.|[2207.13667v1](http://arxiv.org/abs/2207.13667v1)|null|
+|**2022-07-27 15:34:14**|**Encoding Concepts in Graph Neural Networks**|Lucie Charlotte Magister et.al.|[2207.13586v1](http://arxiv.org/abs/2207.13586v1)|null|
+|**2022-07-27 12:58:33**|**Modelling Social Context for Fake News Detection: A Graph Neural Network   Based Approach**|Pallabi Saikia et.al.|[2207.13500v1](http://arxiv.org/abs/2207.13500v1)|null|
+|**2022-07-27 07:29:27**|**Knowledge-driven Subword Grammar Modeling for Automatic Speech   Recognition in Tamil and Kannada**|Madhavaraj A et.al.|[2207.13333v1](http://arxiv.org/abs/2207.13333v1)|null|
+|**2022-07-27 07:23:54**|**Gaia: Graph Neural Network with Temporal Shift aware Attention for Gross   Merchandise Value Forecast in E-commerce**|Borui Ye et.al.|[2207.13329v1](http://arxiv.org/abs/2207.13329v1)|null|
+|**2022-07-27 02:56:10**|**Factorial User Modeling with Hierarchical Graph Neural Network for   Enhanced Sequential Recommendation**|Lyuxin Xue et.al.|[2207.13262v1](http://arxiv.org/abs/2207.13262v1)|[link](https://github.com/xlx0010/hgnn)|
+|**2022-07-26 20:56:18**|**Planning and Learning: A Review of Methods involving Path-Planning for   Autonomous Vehicles**|Kevin Osanlou et.al.|[2207.13181v1](http://arxiv.org/abs/2207.13181v1)|null|
 |**2022-07-26 17:25:08**|**Contextualizing Online Conversational Networks**|Thomas Magelinski et.al.|[2207.13055v1](http://arxiv.org/abs/2207.13055v1)|null|
 |**2022-07-26 16:24:17**|**Modeling the Social Influence of COVID-19 via Personalized Propagation   with Deep Learning**|Yufei Liu et.al.|[2207.13016v1](http://arxiv.org/abs/2207.13016v1)|null|
 |**2022-07-26 05:16:28**|**Graph Neural Network and Spatiotemporal Transformer Attention for 3D   Video Object Detection from Point Clouds**|Junbo Yin et.al.|[2207.12659v1](http://arxiv.org/abs/2207.12659v1)|null|
@@ -62,16 +33,9 @@
 |**2022-07-23 06:53:57**|**The prediction of the quality of results in Logic Synthesis using   Transformer and Graph Neural Networks**|Chenghao Yang et.al.|[2207.11437v1](http://arxiv.org/abs/2207.11437v1)|null|
 |**2022-07-22 21:20:22**|**Dynamic Graph Reasoning for Multi-person 3D Pose Estimation**|Zhongwei Qiu et.al.|[2207.11341v1](http://arxiv.org/abs/2207.11341v1)|null|
 |**2022-07-22 20:54:22**|**Scalable training of graph convolutional neural networks for fast and   accurate predictions of HOMO-LUMO gap in molecules**|Jong Youl Choi et.al.|[2207.11333v1](http://arxiv.org/abs/2207.11333v1)|null|
-|**2022-07-22 19:36:12**|**Understanding Non-linearity in Graph Neural Networks from the   Bayesian-Inference Perspective**|Rongzhe Wei et.al.|[2207.11311v1](http://arxiv.org/abs/2207.11311v1)|null|
+|**2022-07-22 19:36:12**|**Understanding Non-linearity in Graph Neural Networks from the   Bayesian-Inference Perspective**|Rongzhe Wei et.al.|[2207.11311v2](http://arxiv.org/abs/2207.11311v2)|null|
 |**2022-07-22 16:43:08**|**Network analysis of the human structural connectome including the   brainstem: a new perspective on consciousness**|Salma Salhi et.al.|[2207.11182v1](http://arxiv.org/abs/2207.11182v1)|[link](https://github.com/salmasalhi7/structural-connectome-project)|
 |**2022-07-22 16:20:34**|**Explaining Dynamic Graph Neural Networks via Relevance Back-propagation**|Jiaxuan Xie et.al.|[2207.11175v1](http://arxiv.org/abs/2207.11175v1)|null|
-|**2022-07-22 14:48:10**|**Near Real-Time Distributed State Estimation via AI/ML-Empowered 5G   Networks**|Ognjen Kundacina et.al.|[2207.11117v1](http://arxiv.org/abs/2207.11117v1)|null|
-|**2022-07-22 03:45:29**|**Transformer with Implicit Edges for Particle-based Physics Simulation**|Yidi Shao et.al.|[2207.10860v1](http://arxiv.org/abs/2207.10860v1)|[link](https://github.com/ftbabi/tie_eccv2022)|
-|**2022-07-22 02:06:53**|**Robust Knowledge Adaptation for Dynamic Graph Neural Networks**|Hanjie Li et.al.|[2207.10839v1](http://arxiv.org/abs/2207.10839v1)|null|
-|**2022-07-21 21:19:18**|**TIDEE: Tidying Up Novel Rooms using Visuo-Semantic Commonsense Priors**|Gabriel Sarch et.al.|[2207.10761v1](http://arxiv.org/abs/2207.10761v1)|null|
-|**2022-07-21 14:36:51**|**Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel   Structure Aligning Network**|Aline Sindel et.al.|[2207.10506v1](http://arxiv.org/abs/2207.10506v1)|null|
-|**2022-07-21 12:34:04**|**COBRA: Cpu-Only aBdominal oRgan segmentAtion**|Edward G. A. Henderson et.al.|[2207.10446v1](http://arxiv.org/abs/2207.10446v1)|null|
-|**2022-07-21 04:59:31**|**Knowledge-enhanced Black-box Attacks for Recommendations**|Jingfan Chen et.al.|[2207.10307v1](http://arxiv.org/abs/2207.10307v1)|null|
 
 ## Group Recommendation
 
@@ -108,3 +72,39 @@
 |**2022-05-30 15:32:55**|**A Review and Evaluation of Elastic Distance Functions for Time Series   Clustering**|Chris Holder et.al.|[2205.15181v1](http://arxiv.org/abs/2205.15181v1)|null|
 |**2022-05-29 13:14:53**|**Contributions to Representation Learning with Graph Autoencoders and   Applications to Music Recommendation**|Guillaume Salha-Galvan et.al.|[2205.14651v2](http://arxiv.org/abs/2205.14651v2)|null|
 |**2022-05-27 07:56:11**|**A Design Space for Explainable Ranking and Ranking Models**|I. Al Hazwani et.al.|[2205.15305v1](http://arxiv.org/abs/2205.15305v1)|null|
+
+## Multi Interest Recommendation
+
+### Multi Interest
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-07-26 03:28:42**|**Bundle MCR: Towards Conversational Bundle Recommendation**|Zhankui He et.al.|[2207.12628v1](http://arxiv.org/abs/2207.12628v1)|[link](https://github.com/aaronheee/bundle-mcr)|
+|**2022-07-25 14:37:18**|**Personality-Driven Social Multimedia Content Recommendation**|Qi Yang et.al.|[2207.12236v1](http://arxiv.org/abs/2207.12236v1)|null|
+|**2022-07-15 08:03:37**|**Modeling Multi-interest News Sequence for News Recommendation**|Rongyao Wang et.al.|[2207.07331v2](http://arxiv.org/abs/2207.07331v2)|null|
+|**2022-07-14 07:49:28**|**Improving Multi-Interest Network with Stable Learning**|Zhaocheng Liu et.al.|[2207.07910v1](http://arxiv.org/abs/2207.07910v1)|null|
+|**2022-07-14 04:29:54**|**Every Preference Changes Differently: Neural Multi-Interest Preference   Model with Temporal Dynamics for Recommendation**|Hui Shi et.al.|[2207.06652v2](http://arxiv.org/abs/2207.06652v2)|[link](https://github.com/shihui2010/mip)|
+|**2022-07-06 06:29:34**|**Re-weighting Negative Samples for Model-Agnostic Matching**|Jiazhen Lou et.al.|[2207.02468v1](http://arxiv.org/abs/2207.02468v1)|null|
+|**2022-07-02 06:27:54**|**GUIM -- General User and Item Embedding with Mixture of Representation   in E-commerce**|Chao Yang et.al.|[2207.00750v1](http://arxiv.org/abs/2207.00750v1)|null|
+|**2022-06-30 01:43:58**|**Personalized Showcases: Generating Multi-Modal Explanations for   Recommendations**|An Yan et.al.|[2207.00422v1](http://arxiv.org/abs/2207.00422v1)|null|
+|**2022-06-26 03:59:41**|**Efficiently Leveraging Multi-level User Intent for Session-based   Recommendation via Atten-Mixer Network**|Peiyan Zhang et.al.|[2206.12781v1](http://arxiv.org/abs/2206.12781v1)|null|
+|**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
+|**2022-06-10 12:05:50**|**Feature-aware Diversified Re-ranking with Disentangled Representations   for Relevant Recommendation**|Zihan Lin et.al.|[2206.05020v1](http://arxiv.org/abs/2206.05020v1)|null|
+|**2022-06-08 13:28:29**|**Efficient Resource Allocation with Fairness Constraints in Restless   Multi-Armed Bandits**|Dexun Li et.al.|[2206.03883v2](http://arxiv.org/abs/2206.03883v2)|null|
+|**2022-06-06 15:42:54**|**Multi-Behavior Sequential Recommendation with Temporal Graph Transformer**|Lianghao Xia et.al.|[2206.02687v1](http://arxiv.org/abs/2206.02687v1)|[link](https://github.com/akaxlh/tgt)|
+|**2022-06-06 06:55:08**|**An Estimation Framework for Passerby Engagement Interacting with Social   Robots**|Taichi Sakaguchi et.al.|[2206.02394v1](http://arxiv.org/abs/2206.02394v1)|null|
+|**2022-06-01 15:56:59**|**Multi-Armed Bandit Problem with Temporally-Partitioned Rewards: When   Partial Feedback Counts**|Giulia Romano et.al.|[2206.00586v1](http://arxiv.org/abs/2206.00586v1)|null|
+|**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
+|**2022-05-30 08:56:25**|**A multimedia recommendation model based on collaborative graph**|Breda Lim et.al.|[2205.14931v1](http://arxiv.org/abs/2205.14931v1)|null|
+|**2022-05-19 14:35:36**|**Improving Micro-video Recommendation via Contrastive Multiple Interests**|Beibei Li et.al.|[2205.09593v1](http://arxiv.org/abs/2205.09593v1)|null|
+|**2022-05-12 16:42:24**|**kNN-Embed: Locally Smoothed Embedding Mixtures For Multi-interest   Candidate Retrieval**|Ahmed El-Kishky et.al.|[2205.06205v2](http://arxiv.org/abs/2205.06205v2)|null|
+|**2022-05-09 15:06:16**|**Effectively Using Long and Short Sessions for Multi-Session-based   Recommendations**|Zihan Wang et.al.|[2205.04366v1](http://arxiv.org/abs/2205.04366v1)|null|
+|**2022-05-03 03:21:29**|**When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for   Sequential Recommendation**|Yu Tian et.al.|[2205.01286v1](http://arxiv.org/abs/2205.01286v1)|[link](https://github.com/whuir/mgnm)|
+|**2022-04-29 13:05:41**|**Gating-adapted Wavelet Multiresolution Analysis for Exposure Sequence   Modeling in CTR prediction**|Xiaoxiao Xu et.al.|[2204.14069v1](http://arxiv.org/abs/2204.14069v1)|null|
+|**2022-04-24 21:51:29**|**Empowering Next POI Recommendation with Multi-Relational Modeling**|Zheng Huang et.al.|[2204.12288v1](http://arxiv.org/abs/2204.12288v1)|null|
+|**2022-04-21 07:40:47**|**Multi-task recommendation system for scientific papers with high-way   networks**|Aram Karimi et.al.|[2204.09930v1](http://arxiv.org/abs/2204.09930v1)|null|
+|**2022-04-20 10:23:45**|**Multi-Level Interaction Reranking with User Behavior History**|Yunjia Xi et.al.|[2204.09370v1](http://arxiv.org/abs/2204.09370v1)|[link](https://github.com/YunjiaXi/Multi-Level-Interaction-Reranking)|
+|**2022-04-14 12:31:27**|**A Unified Multi-task Learning Framework for Multi-goal Conversational   Recommender Systems**|Yang Deng et.al.|[2204.06923v1](http://arxiv.org/abs/2204.06923v1)|null|
+|**2022-04-05 17:12:53**|**Towards Best Practices for Training Multilingual Dense Retrieval Models**|Xinyu Zhang et.al.|[2204.02363v1](http://arxiv.org/abs/2204.02363v1)|null|
+|**2022-04-01 11:58:00**|**Deep Page-Level Interest Network in Reinforcement Learning for Ads   Allocation**|Guogang Liao et.al.|[2204.00377v1](http://arxiv.org/abs/2204.00377v1)|null|
+|**2022-04-01 10:10:50**|**Diverse Preference Augmentation with Multiple Domains for Cold-start   Recommendations**|Yan Zhang et.al.|[2204.00327v1](http://arxiv.org/abs/2204.00327v1)|null|
+|**2022-03-28 19:02:58**|**Online Algorithms for Matching Platforms with Multi-Channel Traffic**|Vahideh Manshadi et.al.|[2203.15037v1](http://arxiv.org/abs/2203.15037v1)|null|
