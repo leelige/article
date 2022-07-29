@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-28 14:45:02**|**Graph Neural Networks to Predict Sports Outcomes**|Peter Xenopoulos et.al.|[2207.14124v1](http://arxiv.org/abs/2207.14124v1)|null|
+|**2022-07-28 05:49:49**|**Utterance-by-utterance overlap-aware neural diarization with Graph-PIT**|Keisuke Kinoshita et.al.|[2207.13888v1](http://arxiv.org/abs/2207.13888v1)|null|
+|**2022-07-27 20:24:19**|**Physical Pooling Functions in Graph Neural Networks for Molecular   Property Prediction**|Artur M. Schweidtmann et.al.|[2207.13779v1](http://arxiv.org/abs/2207.13779v1)|null|
+|**2022-07-27 19:46:26**|**Label-Only Membership Inference Attack against Node-Level Graph Neural   Networks**|Mauro Conti et.al.|[2207.13766v1](http://arxiv.org/abs/2207.13766v1)|null|
 |**2022-07-27 17:33:29**|**Unsupervised Training for Neural TSP Solver**|Elīza Gaile et.al.|[2207.13667v1](http://arxiv.org/abs/2207.13667v1)|null|
 |**2022-07-27 15:34:14**|**Encoding Concepts in Graph Neural Networks**|Lucie Charlotte Magister et.al.|[2207.13586v1](http://arxiv.org/abs/2207.13586v1)|null|
 |**2022-07-27 12:58:33**|**Modelling Social Context for Fake News Detection: A Graph Neural Network   Based Approach**|Pallabi Saikia et.al.|[2207.13500v1](http://arxiv.org/abs/2207.13500v1)|null|
@@ -28,7 +32,3 @@
 |**2022-07-23 08:54:24**|**Distributed Nonlinear State Estimation in Electric Power Systems using   Graph Neural Networks**|Ognjen Kundacina et.al.|[2207.11465v1](http://arxiv.org/abs/2207.11465v1)|null|
 |**2022-07-23 06:53:57**|**The prediction of the quality of results in Logic Synthesis using   Transformer and Graph Neural Networks**|Chenghao Yang et.al.|[2207.11437v1](http://arxiv.org/abs/2207.11437v1)|null|
 |**2022-07-22 21:20:22**|**Dynamic Graph Reasoning for Multi-person 3D Pose Estimation**|Zhongwei Qiu et.al.|[2207.11341v1](http://arxiv.org/abs/2207.11341v1)|null|
-|**2022-07-22 20:54:22**|**Scalable training of graph convolutional neural networks for fast and   accurate predictions of HOMO-LUMO gap in molecules**|Jong Youl Choi et.al.|[2207.11333v1](http://arxiv.org/abs/2207.11333v1)|null|
-|**2022-07-22 19:36:12**|**Understanding Non-linearity in Graph Neural Networks from the   Bayesian-Inference Perspective**|Rongzhe Wei et.al.|[2207.11311v2](http://arxiv.org/abs/2207.11311v2)|null|
-|**2022-07-22 16:43:08**|**Network analysis of the human structural connectome including the   brainstem: a new perspective on consciousness**|Salma Salhi et.al.|[2207.11182v1](http://arxiv.org/abs/2207.11182v1)|[link](https://github.com/salmasalhi7/structural-connectome-project)|
-|**2022-07-22 16:20:34**|**Explaining Dynamic Graph Neural Networks via Relevance Back-propagation**|Jiaxuan Xie et.al.|[2207.11175v1](http://arxiv.org/abs/2207.11175v1)|null|

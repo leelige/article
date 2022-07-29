@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-27 23:44:23**|**We Do Not Understand What It Says -- Studying Student Perceptions of   Software Modelling**|Shalini Chakraborty et.al.|[2207.13829v1](http://arxiv.org/abs/2207.13829v1)|null|
+|**2022-07-27 21:23:27**|**Network polarization, filter bubbles, and echo chambers: An annotated   review of measures, models, and case studies**|Ruben Interian et.al.|[2207.13799v1](http://arxiv.org/abs/2207.13799v1)|null|
 |**2022-07-23 21:25:19**|**Exploring the Impact of Temporal Bias in Point-of-Interest   Recommendation**|Hossein A. Rahmani et.al.|[2207.11609v1](http://arxiv.org/abs/2207.11609v1)|[link](https://github.com/rahmanidashti/contextsfair)|
 |**2022-07-19 15:19:03**|**Group Validation in Recommender Systems: Framework for Multi-layer   Performance Evaluation**|Wissam Al Jurdi et.al.|[2207.09320v1](http://arxiv.org/abs/2207.09320v1)|null|
 |**2022-07-19 01:55:07**|**Actionable and Interpretable Fault Localization for Recurring Failures   in Online Service Systems**|Zeyan Li et.al.|[2207.09021v2](http://arxiv.org/abs/2207.09021v2)|[link](https://github.com/anonymous-submission-22/dejavu)|
@@ -24,11 +26,9 @@
 |**2022-06-09 22:48:35**|**Comprehensive Fair Meta-learned Recommender System**|Tianxin Wei et.al.|[2206.04789v1](http://arxiv.org/abs/2206.04789v1)|[link](https://github.com/weitianxin/CLOVER)|
 |**2022-06-09 19:42:45**|**The Developers' Design Thinking Toolbox in Hackathons: A Study on the   Recurring Design Methods in Software Development Marathons**|Kiev Gama et.al.|[2206.04744v1](http://arxiv.org/abs/2206.04744v1)|null|
 |**2022-06-08 08:52:47**|**Explanation as Question Answering based on a Task Model of the Agent's   Design**|Ashok Goel et.al.|[2206.05030v1](http://arxiv.org/abs/2206.05030v1)|null|
+|**2022-06-08 06:13:39**|**Do We Need Another Explainable AI Method? Toward Unifying Post-hoc XAI   Evaluation Methods into an Interactive and Multi-dimensional Benchmark**|Mohamed Karim Belaid et.al.|[2207.14160v1](http://arxiv.org/abs/2207.14160v1)|null|
 |**2022-06-07 17:22:06**|**Summarizing experimental sensitivities of collider experiments to dark   matter models and comparison to other experiments**|Antonio Boveia et.al.|[2206.03456v1](http://arxiv.org/abs/2206.03456v1)|null|
 |**2022-06-02 09:18:03**|**Algorithmic Fairness and Structural Injustice: Insights from Feminist   Political Philosophy**|Atoosa Kasirzadeh et.al.|[2206.00945v1](http://arxiv.org/abs/2206.00945v1)|null|
 |**2022-06-01 05:01:36**|**Assessing Group-level Gender Bias in Professional Evaluations: The Case   of Medical Student End-of-Shift Feedback**|Emmy Liu et.al.|[2206.00234v1](http://arxiv.org/abs/2206.00234v1)|null|
 |**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
 |**2022-05-30 21:21:38**|**Fairness in the First Stage of Two-Stage Recommender Systems**|Lequn Wang et.al.|[2205.15436v2](http://arxiv.org/abs/2205.15436v2)|null|
-|**2022-05-30 15:32:55**|**A Review and Evaluation of Elastic Distance Functions for Time Series   Clustering**|Chris Holder et.al.|[2205.15181v1](http://arxiv.org/abs/2205.15181v1)|null|
-|**2022-05-29 13:14:53**|**Contributions to Representation Learning with Graph Autoencoders and   Applications to Music Recommendation**|Guillaume Salha-Galvan et.al.|[2205.14651v2](http://arxiv.org/abs/2205.14651v2)|null|
-|**2022-05-27 07:56:11**|**A Design Space for Explainable Ranking and Ranking Models**|I. Al Hazwani et.al.|[2205.15305v1](http://arxiv.org/abs/2205.15305v1)|null|
