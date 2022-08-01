@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-28 19:59:41**|**A Recommender System for Equitable Public Art Curation and Installation**|Anna Haensch et.al.|[2207.14367v1](http://arxiv.org/abs/2207.14367v1)|[link](https://github.com/annahaensch/opart_curation_tool)|
 |**2022-07-27 23:44:23**|**We Do Not Understand What It Says -- Studying Student Perceptions of   Software Modelling**|Shalini Chakraborty et.al.|[2207.13829v1](http://arxiv.org/abs/2207.13829v1)|null|
 |**2022-07-27 21:23:27**|**Network polarization, filter bubbles, and echo chambers: An annotated   review of measures, models, and case studies**|Ruben Interian et.al.|[2207.13799v1](http://arxiv.org/abs/2207.13799v1)|null|
 |**2022-07-23 21:25:19**|**Exploring the Impact of Temporal Bias in Point-of-Interest   Recommendation**|Hossein A. Rahmani et.al.|[2207.11609v1](http://arxiv.org/abs/2207.11609v1)|[link](https://github.com/rahmanidashti/contextsfair)|
@@ -31,4 +32,3 @@
 |**2022-06-02 09:18:03**|**Algorithmic Fairness and Structural Injustice: Insights from Feminist   Political Philosophy**|Atoosa Kasirzadeh et.al.|[2206.00945v1](http://arxiv.org/abs/2206.00945v1)|null|
 |**2022-06-01 05:01:36**|**Assessing Group-level Gender Bias in Professional Evaluations: The Case   of Medical Student End-of-Shift Feedback**|Emmy Liu et.al.|[2206.00234v1](http://arxiv.org/abs/2206.00234v1)|null|
 |**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
-|**2022-05-30 21:21:38**|**Fairness in the First Stage of Two-Stage Recommender Systems**|Lequn Wang et.al.|[2205.15436v2](http://arxiv.org/abs/2205.15436v2)|null|

@@ -2,7 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-29 15:29:18**|**Graph Neural Networks for Channel Decoding**|Sebastian Cammerer et.al.|[2207.14742v1](http://arxiv.org/abs/2207.14742v1)|null|
+|**2022-07-29 14:07:35**|**BiFeat: Supercharge GNN Training via Graph Feature Quantization**|Yuxin Ma et.al.|[2207.14696v1](http://arxiv.org/abs/2207.14696v1)|[link](https://github.com/bifeat/bifeat)|
+|**2022-07-29 01:00:25**|**Neural-Guided RuntimePrediction of Planners for Improved Motion and Task   Planning with Graph Neural Networks**|Simon Odense et.al.|[2207.14422v1](http://arxiv.org/abs/2207.14422v1)|null|
+|**2022-07-28 18:40:30**|**Self-Supervised Hypergraph Transformer for Recommender Systems**|Lianghao Xia et.al.|[2207.14338v1](http://arxiv.org/abs/2207.14338v1)|[link](https://github.com/akaxlh/sht)|
 |**2022-07-28 14:45:02**|**Graph Neural Networks to Predict Sports Outcomes**|Peter Xenopoulos et.al.|[2207.14124v1](http://arxiv.org/abs/2207.14124v1)|null|
+|**2022-07-28 12:16:37**|**Using Graph Neural Networks for Program Termination**|Yoav Alon et.al.|[2207.14648v1](http://arxiv.org/abs/2207.14648v1)|null|
 |**2022-07-28 05:49:49**|**Utterance-by-utterance overlap-aware neural diarization with Graph-PIT**|Keisuke Kinoshita et.al.|[2207.13888v1](http://arxiv.org/abs/2207.13888v1)|[link](https://github.com/fgnt/graph_pit)|
 |**2022-07-27 20:24:19**|**Physical Pooling Functions in Graph Neural Networks for Molecular   Property Prediction**|Artur M. Schweidtmann et.al.|[2207.13779v1](http://arxiv.org/abs/2207.13779v1)|null|
 |**2022-07-27 19:46:26**|**Label-Only Membership Inference Attack against Node-Level Graph Neural   Networks**|Mauro Conti et.al.|[2207.13766v1](http://arxiv.org/abs/2207.13766v1)|null|
@@ -27,8 +32,3 @@
 |**2022-07-24 20:46:23**|**Federated Graph Machine Learning: A Survey of Concepts, Techniques, and   Applications**|Xingbo Fu et.al.|[2207.11812v1](http://arxiv.org/abs/2207.11812v1)|null|
 |**2022-07-24 15:20:41**|**SGAT: Simplicial Graph Attention Network**|See Hian Lee et.al.|[2207.11761v1](http://arxiv.org/abs/2207.11761v1)|null|
 |**2022-07-24 07:41:31**|**Learning Graph Neural Networks for Image Style Transfer**|Yongcheng Jing et.al.|[2207.11681v1](http://arxiv.org/abs/2207.11681v1)|null|
-|**2022-07-23 15:48:14**|**Annealed Training for Combinatorial Optimization on Graphs**|Haoran Sun et.al.|[2207.11542v1](http://arxiv.org/abs/2207.11542v1)|null|
-|**2022-07-23 14:02:57**|**Audio-driven Neural Gesture Reenactment with Video Motion Graphs**|Yang Zhou et.al.|[2207.11524v1](http://arxiv.org/abs/2207.11524v1)|null|
-|**2022-07-23 08:54:24**|**Distributed Nonlinear State Estimation in Electric Power Systems using   Graph Neural Networks**|Ognjen Kundacina et.al.|[2207.11465v1](http://arxiv.org/abs/2207.11465v1)|null|
-|**2022-07-23 06:53:57**|**The prediction of the quality of results in Logic Synthesis using   Transformer and Graph Neural Networks**|Chenghao Yang et.al.|[2207.11437v1](http://arxiv.org/abs/2207.11437v1)|null|
-|**2022-07-22 21:20:22**|**Dynamic Graph Reasoning for Multi-person 3D Pose Estimation**|Zhongwei Qiu et.al.|[2207.11341v1](http://arxiv.org/abs/2207.11341v1)|null|
