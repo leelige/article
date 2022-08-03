@@ -2,6 +2,8 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-02 00:08:48**|**Techniques for combining fast local decoders with global decoders under   circuit-level noise**|Christopher Chamberland et.al.|[2208.01178v1](http://arxiv.org/abs/2208.01178v1)|null|
+|**2022-08-01 22:35:32**|**Pose Uncertainty Aware Movement Synchrony Estimation via   Spatial-Temporal Graph Transformer**|Jicheng Li et.al.|[2208.01161v1](http://arxiv.org/abs/2208.01161v1)|null|
 |**2022-08-01 17:34:07**|**CBAG: An Efficient Genetic Algorithm for the Graph Burning Problem**|Mahdi Nazeri et.al.|[2208.01008v1](http://arxiv.org/abs/2208.01008v1)|[link](https://github.com/aloomya/cbag)|
 |**2022-08-01 11:37:01**|**Learning to Navigate using Visual Sensor Networks**|Jan Blumenkamp et.al.|[2208.00759v1](http://arxiv.org/abs/2208.00759v1)|null|
 |**2022-08-01 10:01:38**|**Graph Neural Network with Local Frame for Molecular Potential Energy   Surface**|Xiyuan Wang et.al.|[2208.00716v1](http://arxiv.org/abs/2208.00716v1)|null|
@@ -11,6 +13,7 @@
 |**2022-07-30 10:50:14**|**Celeritas: Fast Optimizer for Large Dataflow Graphs**|Hengwei Xu et.al.|[2208.00184v1](http://arxiv.org/abs/2208.00184v1)|null|
 |**2022-07-30 07:07:30**|**Local Graph Embeddings Based on Neighbors Degree Frequency of Nodes**|Vahid Shirbisheh et.al.|[2208.00152v1](http://arxiv.org/abs/2208.00152v1)|null|
 |**2022-07-30 03:30:39**|**Prediction and mitigation of nonlocal cascading failures using graph   neural networks**|Bukyoung Jhun et.al.|[2208.00133v1](http://arxiv.org/abs/2208.00133v1)|null|
+|**2022-07-29 20:39:44**|**Face-to-Face Contrastive Learning for Social Intelligence   Question-Answering**|Alex Wilf et.al.|[2208.01036v1](http://arxiv.org/abs/2208.01036v1)|null|
 |**2022-07-29 15:29:18**|**Graph Neural Networks for Channel Decoding**|Sebastian Cammerer et.al.|[2207.14742v1](http://arxiv.org/abs/2207.14742v1)|null|
 |**2022-07-29 14:07:35**|**BiFeat: Supercharge GNN Training via Graph Feature Quantization**|Yuxin Ma et.al.|[2207.14696v1](http://arxiv.org/abs/2207.14696v1)|[link](https://github.com/bifeat/bifeat)|
 |**2022-07-29 01:00:25**|**Neural-Guided RuntimePrediction of Planners for Improved Motion and Task   Planning with Graph Neural Networks**|Simon Odense et.al.|[2207.14422v1](http://arxiv.org/abs/2207.14422v1)|null|
@@ -29,6 +32,3 @@
 |**2022-07-27 02:56:10**|**Factorial User Modeling with Hierarchical Graph Neural Network for   Enhanced Sequential Recommendation**|Lyuxin Xue et.al.|[2207.13262v1](http://arxiv.org/abs/2207.13262v1)|[link](https://github.com/xlx0010/hgnn)|
 |**2022-07-26 20:56:18**|**Planning and Learning: A Review of Methods involving Path-Planning for   Autonomous Vehicles**|Kevin Osanlou et.al.|[2207.13181v1](http://arxiv.org/abs/2207.13181v1)|null|
 |**2022-07-26 17:25:08**|**Contextualizing Online Conversational Networks**|Thomas Magelinski et.al.|[2207.13055v1](http://arxiv.org/abs/2207.13055v1)|null|
-|**2022-07-26 16:24:17**|**Modeling the Social Influence of COVID-19 via Personalized Propagation   with Deep Learning**|Yufei Liu et.al.|[2207.13016v1](http://arxiv.org/abs/2207.13016v1)|null|
-|**2022-07-26 05:16:28**|**Graph Neural Network and Spatiotemporal Transformer Attention for 3D   Video Object Detection from Point Clouds**|Junbo Yin et.al.|[2207.12659v1](http://arxiv.org/abs/2207.12659v1)|null|
-|**2022-07-26 01:45:54**|**A Survey of Explainable Graph Neural Networks: Taxonomy and Evaluation   Metrics**|Yiqiao Li et.al.|[2207.12599v1](http://arxiv.org/abs/2207.12599v1)|null|
