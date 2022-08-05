@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-04 10:25:03**|**EURADOS Working Group 6, Computational Dosimetry, a history of promoting   good practice via intercomparisons and training**|Rick Tanner et.al.|[2208.02568v1](http://arxiv.org/abs/2208.02568v1)|null|
+|**2022-08-03 19:37:59**|**On the Relocation Behaviour of Ride-sourcing Drivers**|Peyman Ashkrof et.al.|[2208.02323v1](http://arxiv.org/abs/2208.02323v1)|null|
 |**2022-08-02 07:02:44**|**Twenty Years of Auxiliary-Field Quantum Monte Carlo in Quantum   Chemistry: An Overview and Assessment on Main Group Chemistry and   Bond-Breaking**|Joonho Lee et.al.|[2208.01280v1](http://arxiv.org/abs/2208.01280v1)|null|
 |**2022-07-31 17:44:57**|**The impact of Twitter on political influence on the choice of a running   mate: Social Network Analysis and Semantic Analysis -- A Review**|Immaculate Wanza et.al.|[2208.00479v1](http://arxiv.org/abs/2208.00479v1)|null|
 |**2022-07-30 11:47:31**|**Streaming Algorithms for Diversity Maximization with Fairness   Constraints**|Yanhao Wang et.al.|[2208.00194v1](http://arxiv.org/abs/2208.00194v1)|[link](https://github.com/yhwang1990/code-fdm)|
@@ -30,5 +32,3 @@
 |**2022-06-10 16:28:36**|**Quantification of follow-up time in oncology clinical trials with a   time-to-event endpoint: Asking the right questions**|Kaspar Rufibach et.al.|[2206.05216v1](http://arxiv.org/abs/2206.05216v1)|null|
 |**2022-06-09 22:48:35**|**Comprehensive Fair Meta-learned Recommender System**|Tianxin Wei et.al.|[2206.04789v1](http://arxiv.org/abs/2206.04789v1)|[link](https://github.com/weitianxin/CLOVER)|
 |**2022-06-09 19:42:45**|**The Developers' Design Thinking Toolbox in Hackathons: A Study on the   Recurring Design Methods in Software Development Marathons**|Kiev Gama et.al.|[2206.04744v1](http://arxiv.org/abs/2206.04744v1)|null|
-|**2022-06-08 08:52:47**|**Explanation as Question Answering based on a Task Model of the Agent's   Design**|Ashok Goel et.al.|[2206.05030v1](http://arxiv.org/abs/2206.05030v1)|null|
-|**2022-06-08 06:13:39**|**Do We Need Another Explainable AI Method? Toward Unifying Post-hoc XAI   Evaluation Methods into an Interactive and Multi-dimensional Benchmark**|Mohamed Karim Belaid et.al.|[2207.14160v1](http://arxiv.org/abs/2207.14160v1)|null|

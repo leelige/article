@@ -2,7 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-04 14:48:37**|**Explaining Classifiers Trained on Raw Hierarchical Multiple-Instance   Data**|Tomáš Pevný et.al.|[2208.02694v1](http://arxiv.org/abs/2208.02694v1)|null|
+|**2022-08-04 12:28:04**|**Semantic Interleaving Global Channel Attention for Multilabel Remote   Sensing Image Classification**|Yongkun Liu et.al.|[2208.02613v1](http://arxiv.org/abs/2208.02613v1)|[link](https://github.com/kyle-one/SIGNA)|
+|**2022-08-04 10:49:34**|**Neuro-symbolic computing with spiking neural networks**|Dominik Dold et.al.|[2208.02576v1](http://arxiv.org/abs/2208.02576v1)|null|
+|**2022-08-03 21:19:06**|**Graph Neural Networks Extract High-Resolution Cultivated Land Maps from   Sentinel-2 Image Series**|Lukasz Tulczyjew et.al.|[2208.02349v1](http://arxiv.org/abs/2208.02349v1)|null|
+|**2022-08-03 18:39:27**|**HiCu: Leveraging Hierarchy for Curriculum Learning in Automated ICD   Coding**|Weiming Ren et.al.|[2208.02301v1](http://arxiv.org/abs/2208.02301v1)|[link](https://github.com/wren93/HiCu-ICD)|
 |**2022-08-03 13:39:47**|**HybridGNN: Learning Hybrid Representation in Multiplex Heterogeneous   Networks**|Tiankai Gu et.al.|[2208.02068v1](http://arxiv.org/abs/2208.02068v1)|null|
+|**2022-08-03 13:37:27**|**GROWN+UP: A Graph Representation Of a Webpage Network Utilizing   Pre-training**|Benedict Yeoh et.al.|[2208.02252v1](http://arxiv.org/abs/2208.02252v1)|null|
 |**2022-08-03 10:06:56**|**PolarMOT: How Far Can Geometric Relations Take Us in 3D Multi-Object   Tracking?**|Aleksandr Kim et.al.|[2208.01957v1](http://arxiv.org/abs/2208.01957v1)|null|
 |**2022-08-03 05:36:35**|**Robust Graph Neural Networks using Weighted Graph Laplacian**|Bharat Runwal et.al.|[2208.01853v1](http://arxiv.org/abs/2208.01853v1)|[link](https://github.com/bharat-runwal/rwl-gnn)|
 |**2022-08-03 02:48:23**|**Adversarial Camouflage for Node Injection Attack on Graphs**|Shuchang Tao et.al.|[2208.01819v1](http://arxiv.org/abs/2208.01819v1)|null|
@@ -26,9 +32,3 @@
 |**2022-07-29 01:00:25**|**Neural-Guided RuntimePrediction of Planners for Improved Motion and Task   Planning with Graph Neural Networks**|Simon Odense et.al.|[2207.14422v1](http://arxiv.org/abs/2207.14422v1)|null|
 |**2022-07-28 19:49:42**|**Analysis of the Spatio-temporal Dynamics of COVID-19 in Massachusetts   via Spectral Graph Wavelet Theory**|Ru Geng et.al.|[2208.01749v1](http://arxiv.org/abs/2208.01749v1)|null|
 |**2022-07-28 18:40:30**|**Self-Supervised Hypergraph Transformer for Recommender Systems**|Lianghao Xia et.al.|[2207.14338v1](http://arxiv.org/abs/2207.14338v1)|[link](https://github.com/akaxlh/sht)|
-|**2022-07-28 14:45:02**|**Graph Neural Networks to Predict Sports Outcomes**|Peter Xenopoulos et.al.|[2207.14124v1](http://arxiv.org/abs/2207.14124v1)|null|
-|**2022-07-28 12:16:37**|**Using Graph Neural Networks for Program Termination**|Yoav Alon et.al.|[2207.14648v1](http://arxiv.org/abs/2207.14648v1)|null|
-|**2022-07-28 09:22:11**|**Verification system based on long-range iris and Graph Siamese Neural   Networks**|Francesco Zola et.al.|[2208.00785v1](http://arxiv.org/abs/2208.00785v1)|null|
-|**2022-07-28 05:49:49**|**Utterance-by-utterance overlap-aware neural diarization with Graph-PIT**|Keisuke Kinoshita et.al.|[2207.13888v1](http://arxiv.org/abs/2207.13888v1)|[link](https://github.com/fgnt/graph_pit)|
-|**2022-07-27 20:24:19**|**Physical Pooling Functions in Graph Neural Networks for Molecular   Property Prediction**|Artur M. Schweidtmann et.al.|[2207.13779v1](http://arxiv.org/abs/2207.13779v1)|null|
-|**2022-07-27 19:46:26**|**Label-Only Membership Inference Attack against Node-Level Graph Neural   Networks**|Mauro Conti et.al.|[2207.13766v1](http://arxiv.org/abs/2207.13766v1)|null|
