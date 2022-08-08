@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-05 14:00:32**|**MEDLEY: Intent-based Recommendations to Support Dashboard Composition**|Aditeya Pandey et.al.|[2208.03175v1](http://arxiv.org/abs/2208.03175v1)|null|
 |**2022-08-04 10:25:03**|**EURADOS Working Group 6, Computational Dosimetry, a history of promoting   good practice via intercomparisons and training**|Rick Tanner et.al.|[2208.02568v1](http://arxiv.org/abs/2208.02568v1)|null|
 |**2022-08-03 19:37:59**|**On the Relocation Behaviour of Ride-sourcing Drivers**|Peyman Ashkrof et.al.|[2208.02323v1](http://arxiv.org/abs/2208.02323v1)|null|
 |**2022-08-02 07:02:44**|**Twenty Years of Auxiliary-Field Quantum Monte Carlo in Quantum   Chemistry: An Overview and Assessment on Main Group Chemistry and   Bond-Breaking**|Joonho Lee et.al.|[2208.01280v1](http://arxiv.org/abs/2208.01280v1)|null|
@@ -31,4 +32,3 @@
 |**2022-06-14 18:00:00**|**Possibilities and Limitations of Kinematically Identifying Stars from   Accreted Ultra-Faint Dwarf Galaxies**|Kaley Brauer et.al.|[2206.07057v2](http://arxiv.org/abs/2206.07057v2)|null|
 |**2022-06-10 16:28:36**|**Quantification of follow-up time in oncology clinical trials with a   time-to-event endpoint: Asking the right questions**|Kaspar Rufibach et.al.|[2206.05216v1](http://arxiv.org/abs/2206.05216v1)|null|
 |**2022-06-09 22:48:35**|**Comprehensive Fair Meta-learned Recommender System**|Tianxin Wei et.al.|[2206.04789v1](http://arxiv.org/abs/2206.04789v1)|[link](https://github.com/weitianxin/CLOVER)|
-|**2022-06-09 19:42:45**|**The Developers' Design Thinking Toolbox in Hackathons: A Study on the   Recurring Design Methods in Software Development Marathons**|Kiev Gama et.al.|[2206.04744v1](http://arxiv.org/abs/2206.04744v1)|null|

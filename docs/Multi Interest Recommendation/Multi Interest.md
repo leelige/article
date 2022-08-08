@@ -2,7 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-08-03 05:28:14**|**Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for   Multi-Behavior Recommendation**|Chang Meng et.al.|[2208.01849v1](http://arxiv.org/abs/2208.01849v1)|null|
+|**2022-08-03 05:28:14**|**Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for   Multi-Behavior Recommendation**|Chang Meng et.al.|[2208.01849v2](http://arxiv.org/abs/2208.01849v2)|null|
 |**2022-08-01 17:07:23**|**MULTIPAR: Supervised Irregular Tensor Factorization with Multi-task   Learning**|Yifei Ren et.al.|[2208.00993v1](http://arxiv.org/abs/2208.00993v1)|null|
 |**2022-07-26 03:28:42**|**Bundle MCR: Towards Conversational Bundle Recommendation**|Zhankui He et.al.|[2207.12628v1](http://arxiv.org/abs/2207.12628v1)|[link](https://github.com/aaronheee/bundle-mcr)|
 |**2022-07-25 14:37:18**|**Personality-Driven Social Multimedia Content Recommendation**|Qi Yang et.al.|[2207.12236v1](http://arxiv.org/abs/2207.12236v1)|null|
