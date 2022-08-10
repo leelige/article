@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-09 17:45:47**|**Literature Review: Graph Kernels in Chemoinformatics**|James Young et.al.|[2208.04929v1](http://arxiv.org/abs/2208.04929v1)|null|
+|**2022-08-09 13:08:03**|**Characterizing and Understanding HGNNs on GPUs**|Mingyu Yan et.al.|[2208.04758v1](http://arxiv.org/abs/2208.04758v1)|null|
+|**2022-08-09 03:37:37**|**Motif-based Graph Representation Learning with Application to Chemical   Molecules**|Yifei Wang et.al.|[2208.04529v1](http://arxiv.org/abs/2208.04529v1)|[link](https://github.com/yifeiwang15/motifconv)|
+|**2022-08-08 20:32:28**|**Recovering the Graph Underlying Networked Dynamical Systems under   Partial Observability: A Deep Learning Approach**|Sérgio Machado et.al.|[2208.04405v1](http://arxiv.org/abs/2208.04405v1)|null|
+|**2022-08-07 13:33:34**|**PhyGNNet: Solving spatiotemporal PDEs with Physics-informed Graph Neural   Network**|Longxiang Jiang et.al.|[2208.04319v1](http://arxiv.org/abs/2208.04319v1)|null|
 |**2022-08-07 07:12:33**|**Fast Online and Relational Tracking**|Mohammad Hossein Nasseri et.al.|[2208.03659v1](http://arxiv.org/abs/2208.03659v1)|null|
 |**2022-08-06 20:19:52**|**Generalizability Analysis of Graph-based Trajectory Predictor with   Vectorized Representation**|Juanwu Lu et.al.|[2208.03578v1](http://arxiv.org/abs/2208.03578v1)|null|
 |**2022-08-06 18:26:30**|**Triple Sparsification of Graph Convolutional Networks without   Sacrificing the Accuracy**|Md. Khaledur Rahman et.al.|[2208.03559v1](http://arxiv.org/abs/2208.03559v1)|null|
@@ -27,8 +32,3 @@
 |**2022-08-03 02:48:23**|**Adversarial Camouflage for Node Injection Attack on Graphs**|Shuchang Tao et.al.|[2208.01819v1](http://arxiv.org/abs/2208.01819v1)|null|
 |**2022-08-02 19:44:47**|**Adapting Triplet Importance of Implicit Feedback for Personalized   Recommendation**|Haolun Wu et.al.|[2208.01709v2](http://arxiv.org/abs/2208.01709v2)|null|
 |**2022-08-02 18:18:41**|**Curvature-informed multi-task learning for graph networks**|Alexander New et.al.|[2208.01684v1](http://arxiv.org/abs/2208.01684v1)|null|
-|**2022-08-02 14:42:58**|**Maximal Independent Vertex Set applied to Graph Pooling**|Stevan Stanovic et.al.|[2208.01648v1](http://arxiv.org/abs/2208.01648v1)|null|
-|**2022-08-02 00:08:48**|**Techniques for combining fast local decoders with global decoders under   circuit-level noise**|Christopher Chamberland et.al.|[2208.01178v1](http://arxiv.org/abs/2208.01178v1)|null|
-|**2022-08-01 22:35:32**|**Pose Uncertainty Aware Movement Synchrony Estimation via   Spatial-Temporal Graph Transformer**|Jicheng Li et.al.|[2208.01161v1](http://arxiv.org/abs/2208.01161v1)|null|
-|**2022-08-01 17:34:07**|**CBAG: An Efficient Genetic Algorithm for the Graph Burning Problem**|Mahdi Nazeri et.al.|[2208.01008v2](http://arxiv.org/abs/2208.01008v2)|[link](https://github.com/aloomya/cbag)|
-|**2022-08-01 11:37:01**|**Learning to Navigate using Visual Sensor Networks**|Jan Blumenkamp et.al.|[2208.00759v2](http://arxiv.org/abs/2208.00759v2)|null|
