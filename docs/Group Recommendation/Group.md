@@ -2,7 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-08-07 04:00:43**|**Debiased Cross-modal Matching for Content-based Micro-video Background   Music Recommendation**|Jinng Yi et.al.|[2208.03633v1](http://arxiv.org/abs/2208.03633v1)|[link](https://github.com/jing-1/DebCM})|
+|**2022-08-07 04:00:43**|**Debiased Cross-modal Matching for Content-based Micro-video Background   Music Recommendation**|Jinng Yi et.al.|[2208.03633v1](http://arxiv.org/abs/2208.03633v1)|[link](https://github.com/jing-1/debcm)|
 |**2022-08-06 07:10:03**|**Threddy: An Interactive System for Personalized Thread-based Exploration   and Organization of Scientific Literature**|Hyeonsu B. Kang et.al.|[2208.03455v1](http://arxiv.org/abs/2208.03455v1)|null|
 |**2022-08-05 14:00:32**|**MEDLEY: Intent-based Recommendations to Support Dashboard Composition**|Aditeya Pandey et.al.|[2208.03175v1](http://arxiv.org/abs/2208.03175v1)|null|
 |**2022-08-04 10:25:03**|**EURADOS Working Group 6, Computational Dosimetry, a history of promoting   good practice via intercomparisons and training**|Rick Tanner et.al.|[2208.02568v1](http://arxiv.org/abs/2208.02568v1)|null|

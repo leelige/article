@@ -2,6 +2,9 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-10 09:25:43**|**Spatial-Temporal Identity: A Simple yet Effective Baseline for   Multivariate Time Series Forecasting**|Zezhi Shao et.al.|[2208.05233v1](http://arxiv.org/abs/2208.05233v1)|null|
+|**2022-08-10 01:52:03**|**Modelling Socio-ecological Systems: Implementation of an Advanced Fuzzy   Cognitive Map Framework for Policy development for addressing complex   real-life challenges**|Mamoon Obiedat et.al.|[2208.05103v1](http://arxiv.org/abs/2208.05103v1)|null|
+|**2022-08-09 21:02:12**|**Examining graph neural networks for crystal structures: limitation on   capturing periodicity**|Sheng Gong et.al.|[2208.05039v1](http://arxiv.org/abs/2208.05039v1)|null|
 |**2022-08-09 17:45:47**|**Literature Review: Graph Kernels in Chemoinformatics**|James Young et.al.|[2208.04929v1](http://arxiv.org/abs/2208.04929v1)|null|
 |**2022-08-09 13:08:03**|**Characterizing and Understanding HGNNs on GPUs**|Mingyu Yan et.al.|[2208.04758v1](http://arxiv.org/abs/2208.04758v1)|null|
 |**2022-08-09 03:37:37**|**Motif-based Graph Representation Learning with Application to Chemical   Molecules**|Yifei Wang et.al.|[2208.04529v1](http://arxiv.org/abs/2208.04529v1)|[link](https://github.com/yifeiwang15/motifconv)|
@@ -29,6 +32,3 @@
 |**2022-08-03 13:37:27**|**GROWN+UP: A Graph Representation Of a Webpage Network Utilizing   Pre-training**|Benedict Yeoh et.al.|[2208.02252v1](http://arxiv.org/abs/2208.02252v1)|null|
 |**2022-08-03 10:06:56**|**PolarMOT: How Far Can Geometric Relations Take Us in 3D Multi-Object   Tracking?**|Aleksandr Kim et.al.|[2208.01957v1](http://arxiv.org/abs/2208.01957v1)|null|
 |**2022-08-03 05:36:35**|**Robust Graph Neural Networks using Weighted Graph Laplacian**|Bharat Runwal et.al.|[2208.01853v1](http://arxiv.org/abs/2208.01853v1)|[link](https://github.com/bharat-runwal/rwl-gnn)|
-|**2022-08-03 02:48:23**|**Adversarial Camouflage for Node Injection Attack on Graphs**|Shuchang Tao et.al.|[2208.01819v1](http://arxiv.org/abs/2208.01819v1)|null|
-|**2022-08-02 19:44:47**|**Adapting Triplet Importance of Implicit Feedback for Personalized   Recommendation**|Haolun Wu et.al.|[2208.01709v2](http://arxiv.org/abs/2208.01709v2)|null|
-|**2022-08-02 18:18:41**|**Curvature-informed multi-task learning for graph networks**|Alexander New et.al.|[2208.01684v1](http://arxiv.org/abs/2208.01684v1)|null|
