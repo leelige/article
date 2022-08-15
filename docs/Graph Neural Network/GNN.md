@@ -2,8 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-12 15:24:55**|**EEGNN: Edge Enhanced Graph Neural Networks**|Yirui Liu et.al.|[2208.06322v1](http://arxiv.org/abs/2208.06322v1)|[link](https://github.com/VITA-Group/Deep_GCN_Benchmarking)|
+|**2022-08-12 07:26:05**|**GSim: A Graph Neural Network based Relevance Measure for Heterogeneous   Graphs**|Linhao Luo et.al.|[2208.06144v1](http://arxiv.org/abs/2208.06144v1)|null|
 |**2022-08-11 17:43:52**|**Partition Pooling for Convolutional Graph Network Applications in   Particle Physics**|M. Bachlechner et.al.|[2208.05952v1](http://arxiv.org/abs/2208.05952v1)|null|
 |**2022-08-11 16:21:10**|**Uncertainty Quantification of Sparse Travel Demand Prediction with   Spatial-Temporal Graph Neural Networks**|Dingyi Zhuang et.al.|[2208.05908v1](http://arxiv.org/abs/2208.05908v1)|[link](https://github.com/zhuangdingyi/stzinb)|
+|**2022-08-11 09:29:31**|**Multi-Agent Reinforcement Learning with Graph Convolutional Neural   Networks for optimal Bidding Strategies of Generation Units in Electricity   Markets**|Pegah Rokhforoz et.al.|[2208.06242v1](http://arxiv.org/abs/2208.06242v1)|null|
 |**2022-08-11 09:25:01**|**Task Aligned Meta-learning based Augmented Graph for Cold-Start   Recommendation**|Yuxiang Shi et.al.|[2208.05716v1](http://arxiv.org/abs/2208.05716v1)|null|
 |**2022-08-11 05:43:39**|**Embedding Compression with Hashing for Efficient Representation Learning   in Large-Scale Graph**|Chin-Chia Michael Yeh et.al.|[2208.05648v1](http://arxiv.org/abs/2208.05648v1)|null|
 |**2022-08-10 13:47:51**|**Path-aware Siamese Graph Neural Network for Link Prediction**|Jingsong Lv et.al.|[2208.05781v1](http://arxiv.org/abs/2208.05781v1)|null|
@@ -29,6 +32,3 @@
 |**2022-08-05 09:31:25**|**Isoform Function Prediction Using Deep Neural Network**|Sara Ghazanfari et.al.|[2208.03325v1](http://arxiv.org/abs/2208.03325v1)|null|
 |**2022-08-05 06:32:16**|**A Cooperation Graph Approach for Multiagent Sparse Reward Reinforcement   Learning**|Qingxu Fu et.al.|[2208.03002v1](http://arxiv.org/abs/2208.03002v1)|[link](https://github.com/binary-husky/hmp2g)|
 |**2022-08-04 20:09:12**|**GNN4REL: Graph Neural Networks for Predicting Circuit Reliability   Degradation**|Lilas Alrahis et.al.|[2208.02868v1](http://arxiv.org/abs/2208.02868v1)|null|
-|**2022-08-04 14:48:37**|**Explaining Classifiers Trained on Raw Hierarchical Multiple-Instance   Data**|Tomáš Pevný et.al.|[2208.02694v1](http://arxiv.org/abs/2208.02694v1)|null|
-|**2022-08-04 12:28:04**|**Semantic Interleaving Global Channel Attention for Multilabel Remote   Sensing Image Classification**|Yongkun Liu et.al.|[2208.02613v1](http://arxiv.org/abs/2208.02613v1)|[link](https://github.com/kyle-one/signa)|
-|**2022-08-04 10:49:34**|**Neuro-symbolic computing with spiking neural networks**|Dominik Dold et.al.|[2208.02576v1](http://arxiv.org/abs/2208.02576v1)|null|
