@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-08-13 13:34:05**|**Imputation Strategies Under Clinical Presence: Impact on Algorithmic   Fairness**|Vincent Jeanselme et.al.|[2208.06648v1](http://arxiv.org/abs/2208.06648v1)|[link](https://github.com/jeanselme/clinicalpresencefairness)|
 |**2022-08-07 04:00:43**|**Debiased Cross-modal Matching for Content-based Micro-video Background   Music Recommendation**|Jinng Yi et.al.|[2208.03633v1](http://arxiv.org/abs/2208.03633v1)|[link](https://github.com/jing-1/debcm)|
-|**2022-08-06 07:10:03**|**Threddy: An Interactive System for Personalized Thread-based Exploration   and Organization of Scientific Literature**|Hyeonsu B. Kang et.al.|[2208.03455v1](http://arxiv.org/abs/2208.03455v1)|null|
+|**2022-08-06 07:10:03**|**Threddy: An Interactive System for Personalized Thread-based Exploration   and Organization of Scientific Literature**|Hyeonsu B. Kang et.al.|[2208.03455v2](http://arxiv.org/abs/2208.03455v2)|null|
 |**2022-08-05 14:00:32**|**MEDLEY: Intent-based Recommendations to Support Dashboard Composition**|Aditeya Pandey et.al.|[2208.03175v1](http://arxiv.org/abs/2208.03175v1)|null|
 |**2022-08-04 10:25:03**|**EURADOS Working Group 6, Computational Dosimetry, a history of promoting   good practice via intercomparisons and training**|Rick Tanner et.al.|[2208.02568v1](http://arxiv.org/abs/2208.02568v1)|null|
 |**2022-08-03 19:37:59**|**On the Relocation Behaviour of Ride-sourcing Drivers**|Peyman Ashkrof et.al.|[2208.02323v1](http://arxiv.org/abs/2208.02323v1)|null|
@@ -21,7 +21,7 @@
 |**2022-07-07 15:12:02**|**Group Fairness in Adaptive Submodular Maximization**|Shaojie Tang et.al.|[2207.03364v1](http://arxiv.org/abs/2207.03364v1)|null|
 |**2022-07-05 13:53:16**|**Deep Learning Reveals Patterns of Diverse and Changing Sentiments   Towards COVID-19 Vaccines Based on 11 Million Tweets**|Hanyin Wang et.al.|[2207.10641v1](http://arxiv.org/abs/2207.10641v1)|null|
 |**2022-07-04 16:20:31**|**The impact of clustering binary data on relative risk towards a study of   inferential methods**|Gopal Nath et.al.|[2207.01552v1](http://arxiv.org/abs/2207.01552v1)|null|
-|**2022-06-30 21:51:58**|**Deradicalizing YouTube: Characterization, Detection, and Personalization   of Religiously Intolerant Arabic Videos**|Nuha Albadi et.al.|[2207.00111v1](http://arxiv.org/abs/2207.00111v1)|null|
+|**2022-06-30 21:51:58**|**Deradicalizing YouTube: Characterization, Detection, and Personalization   of Religiously Intolerant Arabic Videos**|Nuha Albadi et.al.|[2207.00111v2](http://arxiv.org/abs/2207.00111v2)|null|
 |**2022-06-30 17:59:15**|**Causal Machine Learning: A Survey and Open Problems**|Jean Kaddour et.al.|[2206.15475v2](http://arxiv.org/abs/2206.15475v2)|null|
 |**2022-06-30 06:03:55**|**Privacy Research with Marginalized Groups: What We Know, What's Needed,   and What's Next**|Shruti Sannon et.al.|[2206.15037v1](http://arxiv.org/abs/2206.15037v1)|null|
 |**2022-06-28 20:01:18**|**Collecting high-quality adversarial data for machine reading   comprehension tasks with humans and models in the loop**|Damian Y. Romero Diaz et.al.|[2206.14272v1](http://arxiv.org/abs/2206.14272v1)|null|

@@ -2,6 +2,7 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-15 22:30:07**|**Learnable Filters for Geometric Scattering Modules**|Alexander Tong et.al.|[2208.07458v1](http://arxiv.org/abs/2208.07458v1)|null|
 |**2022-08-15 16:42:18**|**Signed Graph Neural Networks: A Frequency Perspective**|Rahul Singh et.al.|[2208.07323v1](http://arxiv.org/abs/2208.07323v1)|null|
 |**2022-08-15 16:14:58**|**Beyond Ising SK: m-vector, Potts, p-spin, spherical, induced moment,   random graphs**|David Sherrington et.al.|[2208.07309v1](http://arxiv.org/abs/2208.07309v1)|null|
 |**2022-08-15 14:51:47**|**ROLAND: Graph Learning Framework for Dynamic Graphs**|Jiaxuan You et.al.|[2208.07239v1](http://arxiv.org/abs/2208.07239v1)|[link](https://github.com/snap-stanford/roland)|
@@ -31,4 +32,3 @@
 |**2022-08-09 21:02:12**|**Examining graph neural networks for crystal structures: limitations and   opportunities for capturing periodicity**|Sheng Gong et.al.|[2208.05039v2](http://arxiv.org/abs/2208.05039v2)|null|
 |**2022-08-09 17:45:47**|**Literature Review: Graph Kernels in Chemoinformatics**|James Young et.al.|[2208.04929v1](http://arxiv.org/abs/2208.04929v1)|null|
 |**2022-08-09 13:08:03**|**Characterizing and Understanding HGNNs on GPUs**|Mingyu Yan et.al.|[2208.04758v1](http://arxiv.org/abs/2208.04758v1)|null|
-|**2022-08-09 03:37:37**|**Motif-based Graph Representation Learning with Application to Chemical   Molecules**|Yifei Wang et.al.|[2208.04529v1](http://arxiv.org/abs/2208.04529v1)|[link](https://github.com/yifeiwang15/motifconv)|
