@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-17 10:05:07**|**Assurance Cases as Foundation Stone for Auditing AI-enabled and   Autonomous Systems: Workshop Results and Political Recommendations for Action   from the ExamAI Project**|Rasmus Adler et.al.|[2208.08198v1](http://arxiv.org/abs/2208.08198v1)|null|
+|**2022-08-17 03:00:59**|**A Survey on Incomplete Multi-view Clustering**|Jie Wen et.al.|[2208.08040v1](http://arxiv.org/abs/2208.08040v1)|[link](https://github.com/darrenzzhang/survey_imc)|
 |**2022-08-13 13:34:05**|**Imputation Strategies Under Clinical Presence: Impact on Algorithmic   Fairness**|Vincent Jeanselme et.al.|[2208.06648v1](http://arxiv.org/abs/2208.06648v1)|[link](https://github.com/jeanselme/clinicalpresencefairness)|
 |**2022-08-07 04:00:43**|**Debiased Cross-modal Matching for Content-based Micro-video Background   Music Recommendation**|Jinng Yi et.al.|[2208.03633v1](http://arxiv.org/abs/2208.03633v1)|[link](https://github.com/jing-1/debcm)|
 |**2022-08-06 07:10:03**|**Threddy: An Interactive System for Personalized Thread-based Exploration   and Organization of Scientific Literature**|Hyeonsu B. Kang et.al.|[2208.03455v2](http://arxiv.org/abs/2208.03455v2)|null|
@@ -30,5 +32,3 @@
 |**2022-06-20 16:46:21**|**How to Assess Trustworthy AI in Practice**|Roberto V. Zicari et.al.|[2206.09887v2](http://arxiv.org/abs/2206.09887v2)|null|
 |**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
 |**2022-06-19 08:04:23**|**Fairness-aware Model-agnostic Positive and Unlabeled Learning**|Ziwei Wu et.al.|[2206.09346v1](http://arxiv.org/abs/2206.09346v1)|null|
-|**2022-06-17 15:39:39**|**Random projections and Kernelised Leave One Cluster Out   Cross-Validation: Universal baselines and evaluation tools for supervised   machine learning for materials properties**|Samantha Durdy et.al.|[2206.08841v1](http://arxiv.org/abs/2206.08841v1)|[link](https://github.com/lrcfmd/kernelisedloco-cv)|
-|**2022-06-16 22:02:33**|**Estimating the lifetime risk of a false positive screening test result**|Tim White et.al.|[2206.08463v1](http://arxiv.org/abs/2206.08463v1)|[link](https://github.com/timwhite0/false-positives-calculator)|

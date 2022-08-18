@@ -2,6 +2,8 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-17 15:04:07**|**Robust and scalable uncertainty estimation with conformal prediction for   machine-learned interatomic potentials**|Yuge Hu et.al.|[2208.08337v1](http://arxiv.org/abs/2208.08337v1)|null|
+|**2022-08-17 12:28:07**|**Strong Connectivity in Real Directed Networks**|Niall Rodgers et.al.|[2208.08259v1](http://arxiv.org/abs/2208.08259v1)|null|
 |**2022-08-15 22:30:07**|**Learnable Filters for Geometric Scattering Modules**|Alexander Tong et.al.|[2208.07458v1](http://arxiv.org/abs/2208.07458v1)|null|
 |**2022-08-15 16:42:18**|**Signed Graph Neural Networks: A Frequency Perspective**|Rahul Singh et.al.|[2208.07323v1](http://arxiv.org/abs/2208.07323v1)|null|
 |**2022-08-15 16:14:58**|**Beyond Ising SK: m-vector, Potts, p-spin, spherical, induced moment,   random graphs**|David Sherrington et.al.|[2208.07309v1](http://arxiv.org/abs/2208.07309v1)|null|
@@ -30,5 +32,3 @@
 |**2022-08-10 07:31:44**|**Sequence Feature Extraction for Malware Family Analysis via Graph Neural   Network**|S. W. Hsiao et.al.|[2208.05476v1](http://arxiv.org/abs/2208.05476v1)|null|
 |**2022-08-10 01:52:03**|**Modelling Socio-ecological Systems: Implementation of an Advanced Fuzzy   Cognitive Map Framework for Policy development for addressing complex   real-life challenges**|Mamoon Obiedat et.al.|[2208.05103v1](http://arxiv.org/abs/2208.05103v1)|null|
 |**2022-08-09 21:02:12**|**Examining graph neural networks for crystal structures: limitations and   opportunities for capturing periodicity**|Sheng Gong et.al.|[2208.05039v2](http://arxiv.org/abs/2208.05039v2)|null|
-|**2022-08-09 17:45:47**|**Literature Review: Graph Kernels in Chemoinformatics**|James Young et.al.|[2208.04929v1](http://arxiv.org/abs/2208.04929v1)|null|
-|**2022-08-09 13:08:03**|**Characterizing and Understanding HGNNs on GPUs**|Mingyu Yan et.al.|[2208.04758v1](http://arxiv.org/abs/2208.04758v1)|null|
