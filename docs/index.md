@@ -1,5 +1,41 @@
 # arxiv-daily
- 自动更新 @ 2022-08-20 16:09:19 Asia/Shanghai
+ 自动更新 @ 2022-08-21 16:08:06 Asia/Shanghai
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-08-18 14:30:07**|**Debiasing Neighbor Aggregation for Graph Neural Network in Recommender   Systems**|Minseok Kim et.al.|[2208.08847v1](http://arxiv.org/abs/2208.08847v1)|null|
+|**2022-08-18 07:17:40**|**Tree species classification from hyperspectral data using   graph-regularized neural networks**|Debmita Bandyopadhyay et.al.|[2208.08675v1](http://arxiv.org/abs/2208.08675v1)|null|
+|**2022-08-18 05:42:01**|**A Tree-structured Transformer for Program Representation Learning**|Wenhan Wang et.al.|[2208.08643v1](http://arxiv.org/abs/2208.08643v1)|null|
+|**2022-08-18 02:57:17**|**AoI-based Temporal Attention Graph Neural Network for Popularity   Prediction and Content Caching**|Jianhang Zhu et.al.|[2208.08606v1](http://arxiv.org/abs/2208.08606v1)|null|
+|**2022-08-18 01:31:25**|**Robust Causal Graph Representation Learning against Confounding Effects**|Hang Gao et.al.|[2208.08584v1](http://arxiv.org/abs/2208.08584v1)|null|
+|**2022-08-17 22:40:09**|**Geometric Scattering on Measure Spaces**|Joyce Chew et.al.|[2208.08561v1](http://arxiv.org/abs/2208.08561v1)|null|
+|**2022-08-17 22:02:19**|**Embracing Graph Neural Networks for Hardware Security (Invited Paper)**|Lilas Alrahis et.al.|[2208.08554v1](http://arxiv.org/abs/2208.08554v1)|null|
+|**2022-08-17 18:56:48**|**Complex-Value Spatio-temporal Graph Convolutional Neural Networks and   its Applications to Electric Power Systems AI**|Tong Wu et.al.|[2208.08485v1](http://arxiv.org/abs/2208.08485v1)|null|
+|**2022-08-17 15:04:07**|**Robust and scalable uncertainty estimation with conformal prediction for   machine-learned interatomic potentials**|Yuge Hu et.al.|[2208.08337v1](http://arxiv.org/abs/2208.08337v1)|null|
+|**2022-08-17 12:28:07**|**Strong Connectivity in Real Directed Networks**|Niall Rodgers et.al.|[2208.08259v1](http://arxiv.org/abs/2208.08259v1)|null|
+|**2022-08-17 10:18:22**|**EEG-BBNet: a Hybrid Framework for Brain Biometric using Graph   Connectivity**|Payongkit Lakhan et.al.|[2208.08901v1](http://arxiv.org/abs/2208.08901v1)|null|
+|**2022-08-15 22:30:07**|**Learnable Filters for Geometric Scattering Modules**|Alexander Tong et.al.|[2208.07458v1](http://arxiv.org/abs/2208.07458v1)|null|
+|**2022-08-15 16:42:18**|**Signed Graph Neural Networks: A Frequency Perspective**|Rahul Singh et.al.|[2208.07323v1](http://arxiv.org/abs/2208.07323v1)|null|
+|**2022-08-15 16:14:58**|**Beyond Ising SK: m-vector, Potts, p-spin, spherical, induced moment,   random graphs**|David Sherrington et.al.|[2208.07309v2](http://arxiv.org/abs/2208.07309v2)|null|
+|**2022-08-15 14:51:47**|**ROLAND: Graph Learning Framework for Dynamic Graphs**|Jiaxuan You et.al.|[2208.07239v1](http://arxiv.org/abs/2208.07239v1)|[link](https://github.com/snap-stanford/roland)|
+|**2022-08-15 14:04:08**|**AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through   Rate Prediction with Fusion Query**|Zepeng Huai et.al.|[2208.07201v1](http://arxiv.org/abs/2208.07201v1)|null|
+|**2022-08-15 05:59:08**|**MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood   Feature Distribution**|Wendong Bi et.al.|[2208.07012v1](http://arxiv.org/abs/2208.07012v1)|null|
+|**2022-08-15 02:24:26**|**Rethinking Graph Neural Networks for the Graph Coloring Problem**|Wei Li et.al.|[2208.06975v1](http://arxiv.org/abs/2208.06975v1)|null|
+|**2022-08-15 02:19:51**|**From Known to Unknown: Quality-aware Self-improving Graph Neural Network   for Open Set Social Event Detection**|Jiaqian Ren et.al.|[2208.06973v1](http://arxiv.org/abs/2208.06973v1)|null|
+|**2022-08-15 01:47:50**|**STAR-GNN: Spatial-Temporal Video Representation for Content-based   Retrieval**|Guoping Zhao et.al.|[2208.06966v1](http://arxiv.org/abs/2208.06966v1)|null|
+|**2022-08-15 01:33:07**|**Privacy-Preserving Decentralized Inference with Graph Neural Networks in   Wireless Networks**|Mengyuan Lee et.al.|[2208.06963v1](http://arxiv.org/abs/2208.06963v1)|null|
+|**2022-08-15 00:10:49**|**Towards Spatio-Temporal Cross-Platform Graph Embedding Fusion for Urban   Traffic Flow Prediction**|Mahan Tabatabaie et.al.|[2208.06947v1](http://arxiv.org/abs/2208.06947v1)|null|
+|**2022-08-14 19:04:15**|**Convolutional Spiking Neural Networks for Detecting Anticipatory Brain   Potentials Using Electroencephalogram**|Nathan Lutes et.al.|[2208.06900v1](http://arxiv.org/abs/2208.06900v1)|null|
+|**2022-08-14 06:51:54**|**DisenHCN: Disentangled Hypergraph Convolutional Networks for   Spatiotemporal Activity Prediction**|Yinfeng Li et.al.|[2208.06794v1](http://arxiv.org/abs/2208.06794v1)|null|
+|**2022-08-13 22:49:20**|**Enhancing Graph Contrastive Learning with Node Similarity**|Hongliang Chi et.al.|[2208.06743v1](http://arxiv.org/abs/2208.06743v1)|null|
+|**2022-08-13 14:14:37**|**ULDGNN: A Fragmented UI Layer Detector Based on Graph Neural Networks**|Jiazhi Li et.al.|[2208.06658v1](http://arxiv.org/abs/2208.06658v1)|null|
+|**2022-08-13 13:41:44**|**Revisiting Adversarial Attacks on Graph Neural Networks for Graph   Classification**|Beini Xie et.al.|[2208.06651v1](http://arxiv.org/abs/2208.06651v1)|null|
+|**2022-08-12 15:24:55**|**EEGNN: Edge Enhanced Graph Neural Networks**|Yirui Liu et.al.|[2208.06322v1](http://arxiv.org/abs/2208.06322v1)|[link](https://github.com/VITA-Group/Deep_GCN_Benchmarking)|
+|**2022-08-12 07:26:05**|**GSim: A Graph Neural Network based Relevance Measure for Heterogeneous   Graphs**|Linhao Luo et.al.|[2208.06144v1](http://arxiv.org/abs/2208.06144v1)|null|
+|**2022-08-11 17:43:52**|**Partition Pooling for Convolutional Graph Network Applications in   Particle Physics**|M. Bachlechner et.al.|[2208.05952v1](http://arxiv.org/abs/2208.05952v1)|null|
 
 ## Multi Interest Recommendation
 
@@ -72,39 +108,3 @@
 |**2022-06-20 16:46:21**|**How to Assess Trustworthy AI in Practice**|Roberto V. Zicari et.al.|[2206.09887v2](http://arxiv.org/abs/2206.09887v2)|null|
 |**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
 |**2022-06-19 08:04:23**|**Fairness-aware Model-agnostic Positive and Unlabeled Learning**|Ziwei Wu et.al.|[2206.09346v1](http://arxiv.org/abs/2206.09346v1)|null|
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-08-18 14:30:07**|**Debiasing Neighbor Aggregation for Graph Neural Network in Recommender   Systems**|Minseok Kim et.al.|[2208.08847v1](http://arxiv.org/abs/2208.08847v1)|null|
-|**2022-08-18 07:17:40**|**Tree species classification from hyperspectral data using   graph-regularized neural networks**|Debmita Bandyopadhyay et.al.|[2208.08675v1](http://arxiv.org/abs/2208.08675v1)|null|
-|**2022-08-18 05:42:01**|**A Tree-structured Transformer for Program Representation Learning**|Wenhan Wang et.al.|[2208.08643v1](http://arxiv.org/abs/2208.08643v1)|null|
-|**2022-08-18 02:57:17**|**AoI-based Temporal Attention Graph Neural Network for Popularity   Prediction and Content Caching**|Jianhang Zhu et.al.|[2208.08606v1](http://arxiv.org/abs/2208.08606v1)|null|
-|**2022-08-18 01:31:25**|**Robust Causal Graph Representation Learning against Confounding Effects**|Hang Gao et.al.|[2208.08584v1](http://arxiv.org/abs/2208.08584v1)|null|
-|**2022-08-17 22:40:09**|**Geometric Scattering on Measure Spaces**|Joyce Chew et.al.|[2208.08561v1](http://arxiv.org/abs/2208.08561v1)|null|
-|**2022-08-17 22:02:19**|**Embracing Graph Neural Networks for Hardware Security (Invited Paper)**|Lilas Alrahis et.al.|[2208.08554v1](http://arxiv.org/abs/2208.08554v1)|null|
-|**2022-08-17 18:56:48**|**Complex-Value Spatio-temporal Graph Convolutional Neural Networks and   its Applications to Electric Power Systems AI**|Tong Wu et.al.|[2208.08485v1](http://arxiv.org/abs/2208.08485v1)|null|
-|**2022-08-17 15:04:07**|**Robust and scalable uncertainty estimation with conformal prediction for   machine-learned interatomic potentials**|Yuge Hu et.al.|[2208.08337v1](http://arxiv.org/abs/2208.08337v1)|null|
-|**2022-08-17 12:28:07**|**Strong Connectivity in Real Directed Networks**|Niall Rodgers et.al.|[2208.08259v1](http://arxiv.org/abs/2208.08259v1)|null|
-|**2022-08-17 10:18:22**|**EEG-BBNet: a Hybrid Framework for Brain Biometric using Graph   Connectivity**|Payongkit Lakhan et.al.|[2208.08901v1](http://arxiv.org/abs/2208.08901v1)|null|
-|**2022-08-15 22:30:07**|**Learnable Filters for Geometric Scattering Modules**|Alexander Tong et.al.|[2208.07458v1](http://arxiv.org/abs/2208.07458v1)|null|
-|**2022-08-15 16:42:18**|**Signed Graph Neural Networks: A Frequency Perspective**|Rahul Singh et.al.|[2208.07323v1](http://arxiv.org/abs/2208.07323v1)|null|
-|**2022-08-15 16:14:58**|**Beyond Ising SK: m-vector, Potts, p-spin, spherical, induced moment,   random graphs**|David Sherrington et.al.|[2208.07309v2](http://arxiv.org/abs/2208.07309v2)|null|
-|**2022-08-15 14:51:47**|**ROLAND: Graph Learning Framework for Dynamic Graphs**|Jiaxuan You et.al.|[2208.07239v1](http://arxiv.org/abs/2208.07239v1)|[link](https://github.com/snap-stanford/roland)|
-|**2022-08-15 14:04:08**|**AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through   Rate Prediction with Fusion Query**|Zepeng Huai et.al.|[2208.07201v1](http://arxiv.org/abs/2208.07201v1)|null|
-|**2022-08-15 05:59:08**|**MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood   Feature Distribution**|Wendong Bi et.al.|[2208.07012v1](http://arxiv.org/abs/2208.07012v1)|null|
-|**2022-08-15 02:24:26**|**Rethinking Graph Neural Networks for the Graph Coloring Problem**|Wei Li et.al.|[2208.06975v1](http://arxiv.org/abs/2208.06975v1)|null|
-|**2022-08-15 02:19:51**|**From Known to Unknown: Quality-aware Self-improving Graph Neural Network   for Open Set Social Event Detection**|Jiaqian Ren et.al.|[2208.06973v1](http://arxiv.org/abs/2208.06973v1)|null|
-|**2022-08-15 01:47:50**|**STAR-GNN: Spatial-Temporal Video Representation for Content-based   Retrieval**|Guoping Zhao et.al.|[2208.06966v1](http://arxiv.org/abs/2208.06966v1)|null|
-|**2022-08-15 01:33:07**|**Privacy-Preserving Decentralized Inference with Graph Neural Networks in   Wireless Networks**|Mengyuan Lee et.al.|[2208.06963v1](http://arxiv.org/abs/2208.06963v1)|null|
-|**2022-08-15 00:10:49**|**Towards Spatio-Temporal Cross-Platform Graph Embedding Fusion for Urban   Traffic Flow Prediction**|Mahan Tabatabaie et.al.|[2208.06947v1](http://arxiv.org/abs/2208.06947v1)|null|
-|**2022-08-14 19:04:15**|**Convolutional Spiking Neural Networks for Detecting Anticipatory Brain   Potentials Using Electroencephalogram**|Nathan Lutes et.al.|[2208.06900v1](http://arxiv.org/abs/2208.06900v1)|null|
-|**2022-08-14 06:51:54**|**DisenHCN: Disentangled Hypergraph Convolutional Networks for   Spatiotemporal Activity Prediction**|Yinfeng Li et.al.|[2208.06794v1](http://arxiv.org/abs/2208.06794v1)|null|
-|**2022-08-13 22:49:20**|**Enhancing Graph Contrastive Learning with Node Similarity**|Hongliang Chi et.al.|[2208.06743v1](http://arxiv.org/abs/2208.06743v1)|null|
-|**2022-08-13 14:14:37**|**ULDGNN: A Fragmented UI Layer Detector Based on Graph Neural Networks**|Jiazhi Li et.al.|[2208.06658v1](http://arxiv.org/abs/2208.06658v1)|null|
-|**2022-08-13 13:41:44**|**Revisiting Adversarial Attacks on Graph Neural Networks for Graph   Classification**|Beini Xie et.al.|[2208.06651v1](http://arxiv.org/abs/2208.06651v1)|null|
-|**2022-08-12 15:24:55**|**EEGNN: Edge Enhanced Graph Neural Networks**|Yirui Liu et.al.|[2208.06322v1](http://arxiv.org/abs/2208.06322v1)|[link](https://github.com/VITA-Group/Deep_GCN_Benchmarking)|
-|**2022-08-12 07:26:05**|**GSim: A Graph Neural Network based Relevance Measure for Heterogeneous   Graphs**|Linhao Luo et.al.|[2208.06144v1](http://arxiv.org/abs/2208.06144v1)|null|
-|**2022-08-11 17:43:52**|**Partition Pooling for Convolutional Graph Network Applications in   Particle Physics**|M. Bachlechner et.al.|[2208.05952v1](http://arxiv.org/abs/2208.05952v1)|null|
