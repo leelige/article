@@ -1,11 +1,23 @@
 # arxiv-daily
- 自动更新 @ 2022-08-22 16:09:16 Asia/Shanghai
+ 自动更新 @ 2022-08-23 16:09:41 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-22 16:28:38**|**Equivariant Hypergraph Neural Networks**|Jinwoo Kim et.al.|[2208.10428v1](http://arxiv.org/abs/2208.10428v1)|[link](https://github.com/jw9730/ehnn)|
+|**2022-08-22 12:09:19**|**One Model, Any CSP: Graph Neural Networks as Fast Global Search   Heuristics for Constraint Satisfaction**|Jan Tönshoff et.al.|[2208.10227v1](http://arxiv.org/abs/2208.10227v1)|null|
+|**2022-08-22 11:03:36**|**LTE4G: Long-Tail Experts for Graph Neural Networks**|Sukwon Yun et.al.|[2208.10205v1](http://arxiv.org/abs/2208.10205v1)|[link](https://github.com/SukwonYun/LTE4G)|
+|**2022-08-22 05:35:46**|**Improving Knowledge-aware Recommendation with Multi-level Interactive   Contrastive Learning**|Ding Zou et.al.|[2208.10061v1](http://arxiv.org/abs/2208.10061v1)|null|
+|**2022-08-22 01:47:07**|**NOSMOG: Learning Noise-robust and Structure-aware MLPs on Graphs**|Yijun Tian et.al.|[2208.10010v1](http://arxiv.org/abs/2208.10010v1)|null|
+|**2022-08-21 22:58:26**|**Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked   Targeted Topological Attack Perspective**|Yongwei Wang et.al.|[2208.09979v1](http://arxiv.org/abs/2208.09979v1)|null|
+|**2022-08-21 18:37:41**|**MolGraph: a Python package for the implementation of small molecular   graphs and graph neural networks with TensorFlow and Keras**|Alexander Kensert et.al.|[2208.09944v1](http://arxiv.org/abs/2208.09944v1)|[link](https://github.com/akensert/molgraph)|
+|**2022-08-21 15:12:08**|**MentorGNN: Deriving Curriculum for Pre-Training GNNs**|Dawei Zhou et.al.|[2208.09905v1](http://arxiv.org/abs/2208.09905v1)|null|
+|**2022-08-21 14:05:11**|**Iterative-Free Quantum Approximate Optimization Algorithm Using Neural   Networks**|Ohad Amosy et.al.|[2208.09888v1](http://arxiv.org/abs/2208.09888v1)|null|
+|**2022-08-21 07:37:18**|**Representation Learning with Graph Neural Networks for Speech Emotion   Recognition**|Junghun Kim et.al.|[2208.09830v1](http://arxiv.org/abs/2208.09830v1)|null|
+|**2022-08-21 01:56:25**|**Robust Node Classification on Graphs: Jointly from Bayesian Label   Transition and Topology-based Label Propagation**|Jun Zhuang et.al.|[2208.09779v1](http://arxiv.org/abs/2208.09779v1)|[link](https://github.com/junzhuang-code/lindt)|
+|**2022-08-19 18:13:27**|**Topical: Learning Repository Embeddings from Source Code using Attention**|Agathe Lherondelle et.al.|[2208.09495v1](http://arxiv.org/abs/2208.09495v1)|null|
 |**2022-08-19 14:42:12**|**Personalized Federated Recommendation via Joint Representation Learning,   User Clustering, and Model Adaptation**|Sichun Luo et.al.|[2208.09375v1](http://arxiv.org/abs/2208.09375v1)|null|
 |**2022-08-19 13:43:52**|**Evaluating Explainability for Graph Neural Networks**|Chirag Agarwal et.al.|[2208.09339v1](http://arxiv.org/abs/2208.09339v1)|null|
 |**2022-08-19 13:32:23**|**Quartic Gauge-Higgs couplings: Constraints and Future Directions**| Anisha et.al.|[2208.09334v1](http://arxiv.org/abs/2208.09334v1)|null|
@@ -24,18 +36,6 @@
 |**2022-08-17 22:02:19**|**Embracing Graph Neural Networks for Hardware Security (Invited Paper)**|Lilas Alrahis et.al.|[2208.08554v1](http://arxiv.org/abs/2208.08554v1)|null|
 |**2022-08-17 18:56:48**|**Complex-Value Spatio-temporal Graph Convolutional Neural Networks and   its Applications to Electric Power Systems AI**|Tong Wu et.al.|[2208.08485v1](http://arxiv.org/abs/2208.08485v1)|null|
 |**2022-08-17 15:04:07**|**Robust and scalable uncertainty estimation with conformal prediction for   machine-learned interatomic potentials**|Yuge Hu et.al.|[2208.08337v1](http://arxiv.org/abs/2208.08337v1)|null|
-|**2022-08-17 12:28:07**|**Strong Connectivity in Real Directed Networks**|Niall Rodgers et.al.|[2208.08259v1](http://arxiv.org/abs/2208.08259v1)|null|
-|**2022-08-17 10:18:22**|**EEG-BBNet: a Hybrid Framework for Brain Biometric using Graph   Connectivity**|Payongkit Lakhan et.al.|[2208.08901v1](http://arxiv.org/abs/2208.08901v1)|null|
-|**2022-08-15 22:30:07**|**Learnable Filters for Geometric Scattering Modules**|Alexander Tong et.al.|[2208.07458v1](http://arxiv.org/abs/2208.07458v1)|null|
-|**2022-08-15 16:42:18**|**Signed Graph Neural Networks: A Frequency Perspective**|Rahul Singh et.al.|[2208.07323v1](http://arxiv.org/abs/2208.07323v1)|null|
-|**2022-08-15 16:14:58**|**Beyond Ising SK: m-vector, Potts, p-spin, spherical, induced moment,   random graphs**|David Sherrington et.al.|[2208.07309v2](http://arxiv.org/abs/2208.07309v2)|null|
-|**2022-08-15 14:51:47**|**ROLAND: Graph Learning Framework for Dynamic Graphs**|Jiaxuan You et.al.|[2208.07239v1](http://arxiv.org/abs/2208.07239v1)|[link](https://github.com/snap-stanford/roland)|
-|**2022-08-15 14:04:08**|**AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through   Rate Prediction with Fusion Query**|Zepeng Huai et.al.|[2208.07201v1](http://arxiv.org/abs/2208.07201v1)|null|
-|**2022-08-15 05:59:08**|**MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood   Feature Distribution**|Wendong Bi et.al.|[2208.07012v1](http://arxiv.org/abs/2208.07012v1)|null|
-|**2022-08-15 02:24:26**|**Rethinking Graph Neural Networks for the Graph Coloring Problem**|Wei Li et.al.|[2208.06975v2](http://arxiv.org/abs/2208.06975v2)|null|
-|**2022-08-15 02:19:51**|**From Known to Unknown: Quality-aware Self-improving Graph Neural Network   for Open Set Social Event Detection**|Jiaqian Ren et.al.|[2208.06973v1](http://arxiv.org/abs/2208.06973v1)|null|
-|**2022-08-15 01:47:50**|**STAR-GNN: Spatial-Temporal Video Representation for Content-based   Retrieval**|Guoping Zhao et.al.|[2208.06966v1](http://arxiv.org/abs/2208.06966v1)|null|
-|**2022-08-15 01:33:07**|**Privacy-Preserving Decentralized Inference with Graph Neural Networks in   Wireless Networks**|Mengyuan Lee et.al.|[2208.06963v1](http://arxiv.org/abs/2208.06963v1)|null|
 
 ## Multi Interest Recommendation
 
@@ -78,6 +78,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-22 10:29:51**|**Towards Confidence-aware Calibrated Recommendation**|Mohammadmehdi Naghiaei et.al.|[2208.10192v1](http://arxiv.org/abs/2208.10192v1)|null|
 |**2022-08-19 14:42:12**|**Personalized Federated Recommendation via Joint Representation Learning,   User Clustering, and Model Adaptation**|Sichun Luo et.al.|[2208.09375v1](http://arxiv.org/abs/2208.09375v1)|null|
 |**2022-08-19 06:55:48**|**Measuring Friendship Closeness: A Perspective of Social Identity Theory**|Shiqi Zhang et.al.|[2208.09176v1](http://arxiv.org/abs/2208.09176v1)|null|
 |**2022-08-17 10:05:07**|**Assurance Cases as Foundation Stone for Auditing AI-enabled and   Autonomous Systems: Workshop Results and Political Recommendations for Action   from the ExamAI Project**|Rasmus Adler et.al.|[2208.08198v1](http://arxiv.org/abs/2208.08198v1)|null|
@@ -107,4 +108,3 @@
 |**2022-06-28 20:01:18**|**Collecting high-quality adversarial data for machine reading   comprehension tasks with humans and models in the loop**|Damian Y. Romero Diaz et.al.|[2206.14272v1](http://arxiv.org/abs/2206.14272v1)|null|
 |**2022-06-24 17:48:30**|**Accounting for Inconsistent Use of Covariate Adjustment in Group   Sequential Trials**|Marlena S. Bannick et.al.|[2206.12393v1](http://arxiv.org/abs/2206.12393v1)|null|
 |**2022-06-22 15:02:03**|**Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed   Depression Diagnoses**|Keith Harrigian et.al.|[2206.11155v1](http://arxiv.org/abs/2206.11155v1)|null|
-|**2022-06-20 16:46:21**|**How to Assess Trustworthy AI in Practice**|Roberto V. Zicari et.al.|[2206.09887v2](http://arxiv.org/abs/2206.09887v2)|null|
