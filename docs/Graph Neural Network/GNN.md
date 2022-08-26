@@ -2,9 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-25 14:42:08**|**A Survey on Temporal Graph Representation Learning and Generative   Modeling**|Shubham Gupta et.al.|[2208.12126v1](http://arxiv.org/abs/2208.12126v1)|null|
+|**2022-08-25 10:01:31**|**Data Augmentation for Graph Data: Recent Advancements**|Maria Marrium et.al.|[2208.11973v1](http://arxiv.org/abs/2208.11973v1)|null|
+|**2022-08-25 09:08:32**|**TEP-GNN: Accurate Execution Time Prediction of Functional Tests using   Graph Neural Networks**|Hazem Peter Samoaa et.al.|[2208.11947v1](http://arxiv.org/abs/2208.11947v1)|null|
+|**2022-08-25 08:36:50**|**Domain-informed graph neural networks: a quantum chemistry case study**|Jay Morgan et.al.|[2208.11934v1](http://arxiv.org/abs/2208.11934v1)|null|
 |**2022-08-24 17:39:36**|**Data-Driven Approach to form Energy Resilient Smart Microgrids with   Identification of Vulnerable Nodes in Active Electrical Distribution Network**|D Maneesh Reddy et.al.|[2208.11682v1](http://arxiv.org/abs/2208.11682v1)|null|
 |**2022-08-24 16:42:59**|**A Review of Knowledge Graph Completion**|Mohamad Zamini et.al.|[2208.11652v1](http://arxiv.org/abs/2208.11652v1)|null|
-|**2022-08-24 01:55:50**|**Towards an Awareness of Time Series Anomaly Detection Models'   Adversarial Vulnerability**|Shahroz Tariq et.al.|[2208.11264v1](http://arxiv.org/abs/2208.11264v1)|null|
+|**2022-08-24 09:05:40**|**Lifelong Learning for Neural powered Mixed Integer Programming**|Sahil Manchanda et.al.|[2208.12226v1](http://arxiv.org/abs/2208.12226v1)|null|
+|**2022-08-24 01:55:50**|**Towards an Awareness of Time Series Anomaly Detection Models'   Adversarial Vulnerability**|Shahroz Tariq et.al.|[2208.11264v1](http://arxiv.org/abs/2208.11264v1)|[link](https://github.com/shahroztariq/adversarial-attacks-on-timeseries)|
 |**2022-08-23 21:54:46**|**Data augmentation on graphs for table type classification**|Davide del Bimbo et.al.|[2208.11210v1](http://arxiv.org/abs/2208.11210v1)|[link](https://github.com/ailab-unifi/da-graphtab)|
 |**2022-08-23 21:36:01**|**Graph Neural Networks and Representation Embedding for Table Extraction   in PDF Documents**|Andrea Gemelli et.al.|[2208.11203v1](http://arxiv.org/abs/2208.11203v1)|[link](https://github.com/ailab-unifi/gnn-tableextraction)|
 |**2022-08-23 19:48:10**|**Doc2Graph: a Task Agnostic Document Understanding Framework based on   Graph Neural Networks**|Andrea Gemelli et.al.|[2208.11168v1](http://arxiv.org/abs/2208.11168v1)|[link](https://github.com/andreagemelli/doc2graph)|
@@ -27,8 +32,3 @@
 |**2022-08-21 15:12:08**|**MentorGNN: Deriving Curriculum for Pre-Training GNNs**|Dawei Zhou et.al.|[2208.09905v1](http://arxiv.org/abs/2208.09905v1)|null|
 |**2022-08-21 14:05:11**|**Iterative-Free Quantum Approximate Optimization Algorithm Using Neural   Networks**|Ohad Amosy et.al.|[2208.09888v1](http://arxiv.org/abs/2208.09888v1)|null|
 |**2022-08-21 07:37:18**|**Representation Learning with Graph Neural Networks for Speech Emotion   Recognition**|Junghun Kim et.al.|[2208.09830v1](http://arxiv.org/abs/2208.09830v1)|null|
-|**2022-08-21 01:56:25**|**Robust Node Classification on Graphs: Jointly from Bayesian Label   Transition and Topology-based Label Propagation**|Jun Zhuang et.al.|[2208.09779v1](http://arxiv.org/abs/2208.09779v1)|[link](https://github.com/junzhuang-code/lindt)|
-|**2022-08-19 18:13:27**|**Topical: Learning Repository Embeddings from Source Code using Attention**|Agathe Lherondelle et.al.|[2208.09495v1](http://arxiv.org/abs/2208.09495v1)|null|
-|**2022-08-19 14:42:12**|**Personalized Federated Recommendation via Joint Representation Learning,   User Clustering, and Model Adaptation**|Sichun Luo et.al.|[2208.09375v1](http://arxiv.org/abs/2208.09375v1)|null|
-|**2022-08-19 13:43:52**|**Evaluating Explainability for Graph Neural Networks**|Chirag Agarwal et.al.|[2208.09339v1](http://arxiv.org/abs/2208.09339v1)|null|
-|**2022-08-19 13:32:23**|**Quartic Gauge-Higgs couplings: Constraints and Future Directions**| Anisha et.al.|[2208.09334v1](http://arxiv.org/abs/2208.09334v1)|null|
