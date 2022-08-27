@@ -2,7 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-08-24 02:50:32**|**What are the Practices for Secret Management in Software Artifacts?**|Setu Kumar Basak et.al.|[2208.11280v1](http://arxiv.org/abs/2208.11280v1)|null|
+|**2022-08-24 02:50:32**|**What are the Practices for Secret Management in Software Artifacts?**|Setu Kumar Basak et.al.|[2208.11280v1](http://arxiv.org/abs/2208.11280v1)|[link](https://github.com/setu1421/secret-management-practices-grey-literature-review-dataset)|
 |**2022-08-22 10:29:51**|**Towards Confidence-aware Calibrated Recommendation**|Mohammadmehdi Naghiaei et.al.|[2208.10192v1](http://arxiv.org/abs/2208.10192v1)|null|
 |**2022-08-19 14:42:12**|**Personalized Federated Recommendation via Joint Representation Learning,   User Clustering, and Model Adaptation**|Sichun Luo et.al.|[2208.09375v1](http://arxiv.org/abs/2208.09375v1)|null|
 |**2022-08-19 06:55:48**|**Measuring Friendship Closeness: A Perspective of Social Identity Theory**|Shiqi Zhang et.al.|[2208.09176v1](http://arxiv.org/abs/2208.09176v1)|null|
