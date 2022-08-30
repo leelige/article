@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-29 14:45:33**|**Snowmass2021 Topical Group Report from AF07: Targets and Sources**|Charlotte Barbier et.al.|[2208.13641v1](http://arxiv.org/abs/2208.13641v1)|null|
 |**2022-08-24 02:50:32**|**What are the Practices for Secret Management in Software Artifacts?**|Setu Kumar Basak et.al.|[2208.11280v1](http://arxiv.org/abs/2208.11280v1)|[link](https://github.com/setu1421/secret-management-practices-grey-literature-review-dataset)|
 |**2022-08-22 10:29:51**|**Towards Confidence-aware Calibrated Recommendation**|Mohammadmehdi Naghiaei et.al.|[2208.10192v1](http://arxiv.org/abs/2208.10192v1)|null|
 |**2022-08-19 14:42:12**|**Personalized Federated Recommendation via Joint Representation Learning,   User Clustering, and Model Adaptation**|Sichun Luo et.al.|[2208.09375v1](http://arxiv.org/abs/2208.09375v1)|null|
@@ -31,4 +32,3 @@
 |**2022-06-30 17:59:15**|**Causal Machine Learning: A Survey and Open Problems**|Jean Kaddour et.al.|[2206.15475v2](http://arxiv.org/abs/2206.15475v2)|null|
 |**2022-06-30 06:03:55**|**Privacy Research with Marginalized Groups: What We Know, What's Needed,   and What's Next**|Shruti Sannon et.al.|[2206.15037v1](http://arxiv.org/abs/2206.15037v1)|null|
 |**2022-06-28 20:01:18**|**Collecting high-quality adversarial data for machine reading   comprehension tasks with humans and models in the loop**|Damian Y. Romero Diaz et.al.|[2206.14272v1](http://arxiv.org/abs/2206.14272v1)|null|
-|**2022-06-24 17:48:30**|**Accounting for Inconsistent Use of Covariate Adjustment in Group   Sequential Trials**|Marlena S. Bannick et.al.|[2206.12393v1](http://arxiv.org/abs/2206.12393v1)|null|

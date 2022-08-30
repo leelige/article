@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-27 13:16:47**|**Multi-level Contrastive Learning Framework for Sequential Recommendation**|Ziyang Wang et.al.|[2208.13007v1](http://arxiv.org/abs/2208.13007v1)|null|
 |**2022-08-17 01:25:26**|**Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest   Recommendation**|Shengyu Zhang et.al.|[2208.08011v1](http://arxiv.org/abs/2208.08011v1)|[link](https://github.com/deersheep0314/re4-learning-to-re-contrast-re-attend-re-construct-for-multi-interest-recommendation)|
 |**2022-08-09 08:33:32**|**IDNP: Interest Dynamics Modeling using Generative Neural Processes for   Sequential Recommendation**|Jing Du et.al.|[2208.04600v1](http://arxiv.org/abs/2208.04600v1)|null|
 |**2022-08-03 05:28:14**|**Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for   Multi-Behavior Recommendation**|Chang Meng et.al.|[2208.01849v2](http://arxiv.org/abs/2208.01849v2)|null|
@@ -31,4 +32,3 @@
 |**2022-04-24 21:51:29**|**Empowering Next POI Recommendation with Multi-Relational Modeling**|Zheng Huang et.al.|[2204.12288v1](http://arxiv.org/abs/2204.12288v1)|null|
 |**2022-04-21 07:40:47**|**Multi-task recommendation system for scientific papers with high-way   networks**|Aram Karimi et.al.|[2204.09930v1](http://arxiv.org/abs/2204.09930v1)|null|
 |**2022-04-20 10:23:45**|**Multi-Level Interaction Reranking with User Behavior History**|Yunjia Xi et.al.|[2204.09370v1](http://arxiv.org/abs/2204.09370v1)|[link](https://github.com/YunjiaXi/Multi-Level-Interaction-Reranking)|
-|**2022-04-14 12:31:27**|**A Unified Multi-task Learning Framework for Multi-goal Conversational   Recommender Systems**|Yang Deng et.al.|[2204.06923v1](http://arxiv.org/abs/2204.06923v1)|null|

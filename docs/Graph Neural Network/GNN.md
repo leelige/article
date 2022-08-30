@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-29 17:26:29**|**Machine Learning guided high-throughput search of non-oxide garnets**|Jonathan Schmidt et.al.|[2208.13742v1](http://arxiv.org/abs/2208.13742v1)|null|
+|**2022-08-29 15:47:36**|**FedEgo: Privacy-preserving Personalized Federated Graph Learning with   Ego-graphs**|Taolin Zhang et.al.|[2208.13685v1](http://arxiv.org/abs/2208.13685v1)|[link](https://github.com/fedego/fedego)|
+|**2022-08-29 13:26:20**|**Spatio-Temporal Wind Speed Forecasting using Graph Networks and Novel   Transformer Architectures**|Lars Ødegaard Bentsen et.al.|[2208.13585v1](http://arxiv.org/abs/2208.13585v1)|null|
+|**2022-08-28 09:13:33**|**Learning Heterogeneous Interaction Strengths by Trajectory Prediction   with Graph Neural Network**|Seungwoong Ha et.al.|[2208.13179v1](http://arxiv.org/abs/2208.13179v1)|[link](https://github.com/nokpil/rain)|
+|**2022-08-26 18:00:04**|**Uncovering dark matter density profiles in dwarf galaxies with graph   neural networks**|Tri Nguyen et.al.|[2208.12825v1](http://arxiv.org/abs/2208.12825v1)|null|
+|**2022-08-26 15:45:20**|**What Does the Gradient Tell When Attacking the Graph Structure**|Zihan Liu et.al.|[2208.12815v1](http://arxiv.org/abs/2208.12815v1)|null|
 |**2022-08-26 09:30:51**|**Visual processing in context of reinforcement learning**|Hlynur Davíð Hlynsson et.al.|[2208.12525v1](http://arxiv.org/abs/2208.12525v1)|null|
 |**2022-08-26 08:00:02**|**GHN-Q: Parameter Prediction for Unseen Quantized Convolutional   Architectures via Graph Hypernetworks**|Stone Yun et.al.|[2208.12489v1](http://arxiv.org/abs/2208.12489v1)|null|
 |**2022-08-26 03:36:01**|**Learning with Few Labeled Nodes via Augmented Graph Self-Training**|Kaize Ding et.al.|[2208.12422v1](http://arxiv.org/abs/2208.12422v1)|null|
@@ -26,9 +32,3 @@
 |**2022-08-22 21:30:55**|**Global Concept-Based Interpretability for Graph Neural Networks via   Neuron Analysis**|Han Xuanyuan et.al.|[2208.10609v1](http://arxiv.org/abs/2208.10609v1)|null|
 |**2022-08-22 16:28:38**|**Equivariant Hypergraph Neural Networks**|Jinwoo Kim et.al.|[2208.10428v1](http://arxiv.org/abs/2208.10428v1)|[link](https://github.com/jw9730/ehnn)|
 |**2022-08-22 12:09:19**|**One Model, Any CSP: Graph Neural Networks as Fast Global Search   Heuristics for Constraint Satisfaction**|Jan Tönshoff et.al.|[2208.10227v1](http://arxiv.org/abs/2208.10227v1)|null|
-|**2022-08-22 11:03:36**|**LTE4G: Long-Tail Experts for Graph Neural Networks**|Sukwon Yun et.al.|[2208.10205v1](http://arxiv.org/abs/2208.10205v1)|[link](https://github.com/SukwonYun/LTE4G)|
-|**2022-08-22 07:36:34**|**Representation Learning of Knowledge Graph for Wireless Communication   Networks**|Shiwen He et.al.|[2208.10496v1](http://arxiv.org/abs/2208.10496v1)|null|
-|**2022-08-22 05:35:46**|**Improving Knowledge-aware Recommendation with Multi-level Interactive   Contrastive Learning**|Ding Zou et.al.|[2208.10061v1](http://arxiv.org/abs/2208.10061v1)|[link](https://github.com/cciiplab/kgic)|
-|**2022-08-22 01:47:07**|**NOSMOG: Learning Noise-robust and Structure-aware MLPs on Graphs**|Yijun Tian et.al.|[2208.10010v1](http://arxiv.org/abs/2208.10010v1)|null|
-|**2022-08-21 22:58:26**|**Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked   Targeted Topological Attack Perspective**|Yongwei Wang et.al.|[2208.09979v1](http://arxiv.org/abs/2208.09979v1)|null|
-|**2022-08-21 18:37:41**|**MolGraph: a Python package for the implementation of small molecular   graphs and graph neural networks with TensorFlow and Keras**|Alexander Kensert et.al.|[2208.09944v2](http://arxiv.org/abs/2208.09944v2)|[link](https://github.com/akensert/molgraph)|
