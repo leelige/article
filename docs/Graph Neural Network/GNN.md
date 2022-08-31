@@ -2,11 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-30 16:35:45**|**Associative Learning for Network Embedding**|Yuchen Liang et.al.|[2208.14376v1](http://arxiv.org/abs/2208.14376v1)|null|
+|**2022-08-30 16:12:16**|**Dynamic and adaptive mesh-based graph neural network framework for   simulating displacement and crack fields in phase field models**|Roberto Perera et.al.|[2208.14364v1](http://arxiv.org/abs/2208.14364v1)|null|
+|**2022-08-30 08:43:06**|**A Self-supervised Riemannian GNN with Time Varying Curvature for   Temporal Graph Learning**|Li Sun et.al.|[2208.14073v1](http://arxiv.org/abs/2208.14073v1)|null|
+|**2022-08-30 05:59:57**|**EchoGNN: Explainable Ejection Fraction Estimation with Graph Neural   Networks**|Masoud Mokhtari et.al.|[2208.14003v1](http://arxiv.org/abs/2208.14003v1)|[link](https://github.com/masoudmo/echognn)|
+|**2022-08-30 05:16:15**|**HiGNN: Hierarchical Informative Graph Neural Networks for Molecular   Property Prediction Equipped with Feature-Wise Attention**|Weimin Zhu et.al.|[2208.13994v1](http://arxiv.org/abs/2208.13994v1)|[link](https://github.com/idruglab/hignn)|
 |**2022-08-29 17:26:29**|**Machine Learning guided high-throughput search of non-oxide garnets**|Jonathan Schmidt et.al.|[2208.13742v1](http://arxiv.org/abs/2208.13742v1)|null|
 |**2022-08-29 15:47:36**|**FedEgo: Privacy-preserving Personalized Federated Graph Learning with   Ego-graphs**|Taolin Zhang et.al.|[2208.13685v1](http://arxiv.org/abs/2208.13685v1)|[link](https://github.com/fedego/fedego)|
 |**2022-08-29 13:26:20**|**Spatio-Temporal Wind Speed Forecasting using Graph Networks and Novel   Transformer Architectures**|Lars Ødegaard Bentsen et.al.|[2208.13585v1](http://arxiv.org/abs/2208.13585v1)|null|
 |**2022-08-28 09:13:33**|**Learning Heterogeneous Interaction Strengths by Trajectory Prediction   with Graph Neural Network**|Seungwoong Ha et.al.|[2208.13179v1](http://arxiv.org/abs/2208.13179v1)|[link](https://github.com/nokpil/rain)|
-|**2022-08-26 18:00:04**|**Uncovering dark matter density profiles in dwarf galaxies with graph   neural networks**|Tri Nguyen et.al.|[2208.12825v1](http://arxiv.org/abs/2208.12825v1)|null|
+|**2022-08-26 18:00:04**|**Uncovering dark matter density profiles in dwarf galaxies with graph   neural networks**|Tri Nguyen et.al.|[2208.12825v1](http://arxiv.org/abs/2208.12825v1)|[link](https://github.com/trivnguyen/dsph_gnn)|
 |**2022-08-26 15:45:20**|**What Does the Gradient Tell When Attacking the Graph Structure**|Zihan Liu et.al.|[2208.12815v1](http://arxiv.org/abs/2208.12815v1)|null|
 |**2022-08-26 09:30:51**|**Visual processing in context of reinforcement learning**|Hlynur Davíð Hlynsson et.al.|[2208.12525v1](http://arxiv.org/abs/2208.12525v1)|null|
 |**2022-08-26 08:00:02**|**GHN-Q: Parameter Prediction for Unseen Quantized Convolutional   Architectures via Graph Hypernetworks**|Stone Yun et.al.|[2208.12489v1](http://arxiv.org/abs/2208.12489v1)|null|
@@ -27,8 +32,3 @@
 |**2022-08-23 15:02:48**|**META-CODE: Community Detection via Exploratory Learning in Topologically   Unknown Networks**|Yu Hou et.al.|[2208.11015v1](http://arxiv.org/abs/2208.11015v1)|null|
 |**2022-08-23 14:29:04**|**EpiGNN: Exploring Spatial Transmission with Graph Neural Network for   Regional Epidemic Forecasting**|Feng Xie et.al.|[2208.11517v1](http://arxiv.org/abs/2208.11517v1)|[link](https://github.com/xiefeng69/epignn)|
 |**2022-08-23 13:29:47**|**Hydrogen in Disordered Titania: Connecting Local Chemistry, Structure,   and Stoichiometry through Accelerated Exploration**|James Chapman et.al.|[2208.10956v1](http://arxiv.org/abs/2208.10956v1)|null|
-|**2022-08-23 10:52:24**|**AppGNN: Approximation-Aware Functional Reverse Engineering using Graph   Neural Networks**|Tim Bucher et.al.|[2208.10868v1](http://arxiv.org/abs/2208.10868v1)|null|
-|**2022-08-23 07:29:03**|**Object Detection in Aerial Images with Uncertainty-Aware Graph Network**|Jongha Kim et.al.|[2208.10781v2](http://arxiv.org/abs/2208.10781v2)|null|
-|**2022-08-22 21:30:55**|**Global Concept-Based Interpretability for Graph Neural Networks via   Neuron Analysis**|Han Xuanyuan et.al.|[2208.10609v1](http://arxiv.org/abs/2208.10609v1)|null|
-|**2022-08-22 16:28:38**|**Equivariant Hypergraph Neural Networks**|Jinwoo Kim et.al.|[2208.10428v1](http://arxiv.org/abs/2208.10428v1)|[link](https://github.com/jw9730/ehnn)|
-|**2022-08-22 12:09:19**|**One Model, Any CSP: Graph Neural Networks as Fast Global Search   Heuristics for Constraint Satisfaction**|Jan Tönshoff et.al.|[2208.10227v1](http://arxiv.org/abs/2208.10227v1)|null|
