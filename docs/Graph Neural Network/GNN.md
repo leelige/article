@@ -2,11 +2,17 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-31 15:36:47**|**Learning Tree Structures from Leaves For Particle Decay Reconstruction**|James Kahn et.al.|[2208.14924v1](http://arxiv.org/abs/2208.14924v1)|null|
+|**2022-08-31 12:39:57**|**Cadence Detection in Symbolic Classical Music using Graph Neural   Networks**|Emmanouil Karystinaios et.al.|[2208.14819v1](http://arxiv.org/abs/2208.14819v1)|null|
+|**2022-08-31 05:05:56**|**Graph Neural Networks with Motif-aware for Tenuous Subgraph Finding**|Heli sun et.al.|[2208.14634v1](http://arxiv.org/abs/2208.14634v1)|null|
+|**2022-08-31 02:35:23**|**A topic-aware graph neural network model for knowledge base updating**|Jiajun Tong et.al.|[2208.14601v1](http://arxiv.org/abs/2208.14601v1)|null|
+|**2022-08-30 20:18:18**|**Designing novel protein structures using sequence generator and   AlphaFold2**|Xeerak Agha et.al.|[2208.14526v1](http://arxiv.org/abs/2208.14526v1)|null|
 |**2022-08-30 16:35:45**|**Associative Learning for Network Embedding**|Yuchen Liang et.al.|[2208.14376v1](http://arxiv.org/abs/2208.14376v1)|null|
 |**2022-08-30 16:12:16**|**Dynamic and adaptive mesh-based graph neural network framework for   simulating displacement and crack fields in phase field models**|Roberto Perera et.al.|[2208.14364v1](http://arxiv.org/abs/2208.14364v1)|null|
 |**2022-08-30 08:43:06**|**A Self-supervised Riemannian GNN with Time Varying Curvature for   Temporal Graph Learning**|Li Sun et.al.|[2208.14073v1](http://arxiv.org/abs/2208.14073v1)|null|
 |**2022-08-30 05:59:57**|**EchoGNN: Explainable Ejection Fraction Estimation with Graph Neural   Networks**|Masoud Mokhtari et.al.|[2208.14003v1](http://arxiv.org/abs/2208.14003v1)|[link](https://github.com/masoudmo/echognn)|
 |**2022-08-30 05:16:15**|**HiGNN: Hierarchical Informative Graph Neural Networks for Molecular   Property Prediction Equipped with Feature-Wise Attention**|Weimin Zhu et.al.|[2208.13994v1](http://arxiv.org/abs/2208.13994v1)|[link](https://github.com/idruglab/hignn)|
+|**2022-08-30 04:04:03**|**Graph Distance Neural Networks for Predicting Multiple Drug Interactions**|Haifan zhou et.al.|[2208.14810v1](http://arxiv.org/abs/2208.14810v1)|null|
 |**2022-08-29 17:26:29**|**Machine Learning guided high-throughput search of non-oxide garnets**|Jonathan Schmidt et.al.|[2208.13742v1](http://arxiv.org/abs/2208.13742v1)|null|
 |**2022-08-29 15:47:36**|**FedEgo: Privacy-preserving Personalized Federated Graph Learning with   Ego-graphs**|Taolin Zhang et.al.|[2208.13685v1](http://arxiv.org/abs/2208.13685v1)|[link](https://github.com/fedego/fedego)|
 |**2022-08-29 13:26:20**|**Spatio-Temporal Wind Speed Forecasting using Graph Networks and Novel   Transformer Architectures**|Lars Ødegaard Bentsen et.al.|[2208.13585v1](http://arxiv.org/abs/2208.13585v1)|null|
@@ -26,9 +32,3 @@
 |**2022-08-24 01:55:50**|**Towards an Awareness of Time Series Anomaly Detection Models'   Adversarial Vulnerability**|Shahroz Tariq et.al.|[2208.11264v1](http://arxiv.org/abs/2208.11264v1)|[link](https://github.com/shahroztariq/adversarial-attacks-on-timeseries)|
 |**2022-08-23 21:54:46**|**Data augmentation on graphs for table type classification**|Davide del Bimbo et.al.|[2208.11210v1](http://arxiv.org/abs/2208.11210v1)|[link](https://github.com/ailab-unifi/da-graphtab)|
 |**2022-08-23 21:36:01**|**Graph Neural Networks and Representation Embedding for Table Extraction   in PDF Documents**|Andrea Gemelli et.al.|[2208.11203v1](http://arxiv.org/abs/2208.11203v1)|[link](https://github.com/ailab-unifi/gnn-tableextraction)|
-|**2022-08-23 19:48:10**|**Doc2Graph: a Task Agnostic Document Understanding Framework based on   Graph Neural Networks**|Andrea Gemelli et.al.|[2208.11168v1](http://arxiv.org/abs/2208.11168v1)|[link](https://github.com/andreagemelli/doc2graph)|
-|**2022-08-23 17:53:34**|**Towards Open Set Video Anomaly Detection**|Yuansheng Zhu et.al.|[2208.11113v1](http://arxiv.org/abs/2208.11113v1)|null|
-|**2022-08-23 15:12:12**|**Grad-Align+: Empowering Gradual Network Alignment Using Attribute   Augmentation**|Jin-Duk Park et.al.|[2208.11025v2](http://arxiv.org/abs/2208.11025v2)|null|
-|**2022-08-23 15:02:48**|**META-CODE: Community Detection via Exploratory Learning in Topologically   Unknown Networks**|Yu Hou et.al.|[2208.11015v1](http://arxiv.org/abs/2208.11015v1)|null|
-|**2022-08-23 14:29:04**|**EpiGNN: Exploring Spatial Transmission with Graph Neural Network for   Regional Epidemic Forecasting**|Feng Xie et.al.|[2208.11517v1](http://arxiv.org/abs/2208.11517v1)|[link](https://github.com/xiefeng69/epignn)|
-|**2022-08-23 13:29:47**|**Hydrogen in Disordered Titania: Connecting Local Chemistry, Structure,   and Stoichiometry through Accelerated Exploration**|James Chapman et.al.|[2208.10956v1](http://arxiv.org/abs/2208.10956v1)|null|
