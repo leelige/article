@@ -1,11 +1,19 @@
 # arxiv-daily
- 自动更新 @ 2022-09-04 16:08:46 Asia/Shanghai
+ 自动更新 @ 2022-09-05 16:10:07 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-02 16:18:36**|**A Novel Approach for Pill-Prescription Matching with GNN Assistance and   Contrastive Learning**|Trung Thanh Nguyen et.al.|[2209.01152v1](http://arxiv.org/abs/2209.01152v1)|null|
+|**2022-09-02 14:59:37**|**Property inference attack; Graph neural networks; Privacy attacks and   defense; Trustworthy machine learning**|Xiuling Wang et.al.|[2209.01100v1](http://arxiv.org/abs/2209.01100v1)|null|
+|**2022-09-02 14:12:33**|**Can an ML model plainly learn planar layouts?**|Smon van Wageningen et.al.|[2209.01075v1](http://arxiv.org/abs/2209.01075v1)|null|
+|**2022-09-02 11:17:39**|**SATformer: Transformers for SAT Solving**|Zhengyuan Shi et.al.|[2209.00953v1](http://arxiv.org/abs/2209.00953v1)|null|
+|**2022-09-02 11:13:02**|**Learning task-specific features for 3D pointcloud graph creation**|Elías Abad-Rocamora et.al.|[2209.00949v1](http://arxiv.org/abs/2209.00949v1)|null|
+|**2022-09-02 10:18:33**|**A Class-Aware Representation Refinement Framework for Graph   Classification**|Jiaxing Xu et.al.|[2209.00936v1](http://arxiv.org/abs/2209.00936v1)|null|
+|**2022-09-02 04:12:40**|**An Explainer for Temporal Graph Neural Networks**|Wenchong He et.al.|[2209.00807v1](http://arxiv.org/abs/2209.00807v1)|null|
+|**2022-09-02 03:25:32**|**Rethinking Efficiency and Redundancy in Training Large-scale Graphs**|Xin Liu et.al.|[2209.00800v1](http://arxiv.org/abs/2209.00800v1)|null|
 |**2022-09-01 17:30:00**|**Learning with Differentiable Algorithms**|Felix Petersen et.al.|[2209.00616v1](http://arxiv.org/abs/2209.00616v1)|null|
 |**2022-09-01 17:22:01**|**Heterogeneous Graph Tree Networks**|Nan Wu et.al.|[2209.00610v1](http://arxiv.org/abs/2209.00610v1)|[link](https://github.com/hetgnn/hetgtnet)|
 |**2022-09-01 16:19:22**|**Multi-Scale Contrastive Co-Training for Event Temporal Relation   Extraction**|Hao-Ren Yao et.al.|[2209.00568v1](http://arxiv.org/abs/2209.00568v1)|null|
@@ -28,14 +36,6 @@
 |**2022-08-29 13:26:20**|**Spatio-Temporal Wind Speed Forecasting using Graph Networks and Novel   Transformer Architectures**|Lars Ødegaard Bentsen et.al.|[2208.13585v1](http://arxiv.org/abs/2208.13585v1)|null|
 |**2022-08-28 09:13:33**|**Learning Heterogeneous Interaction Strengths by Trajectory Prediction   with Graph Neural Network**|Seungwoong Ha et.al.|[2208.13179v1](http://arxiv.org/abs/2208.13179v1)|[link](https://github.com/nokpil/rain)|
 |**2022-08-26 18:00:04**|**Uncovering dark matter density profiles in dwarf galaxies with graph   neural networks**|Tri Nguyen et.al.|[2208.12825v1](http://arxiv.org/abs/2208.12825v1)|[link](https://github.com/trivnguyen/dsph_gnn)|
-|**2022-08-26 15:45:20**|**What Does the Gradient Tell When Attacking the Graph Structure**|Zihan Liu et.al.|[2208.12815v1](http://arxiv.org/abs/2208.12815v1)|null|
-|**2022-08-26 09:30:51**|**Visual processing in context of reinforcement learning**|Hlynur Davíð Hlynsson et.al.|[2208.12525v1](http://arxiv.org/abs/2208.12525v1)|null|
-|**2022-08-26 08:00:02**|**GHN-Q: Parameter Prediction for Unseen Quantized Convolutional   Architectures via Graph Hypernetworks**|Stone Yun et.al.|[2208.12489v1](http://arxiv.org/abs/2208.12489v1)|null|
-|**2022-08-26 03:36:01**|**Learning with Few Labeled Nodes via Augmented Graph Self-Training**|Kaize Ding et.al.|[2208.12422v1](http://arxiv.org/abs/2208.12422v1)|null|
-|**2022-08-25 14:42:08**|**A Survey on Temporal Graph Representation Learning and Generative   Modeling**|Shubham Gupta et.al.|[2208.12126v1](http://arxiv.org/abs/2208.12126v1)|null|
-|**2022-08-25 10:01:31**|**Data Augmentation for Graph Data: Recent Advancements**|Maria Marrium et.al.|[2208.11973v1](http://arxiv.org/abs/2208.11973v1)|null|
-|**2022-08-25 09:08:32**|**TEP-GNN: Accurate Execution Time Prediction of Functional Tests using   Graph Neural Networks**|Hazem Peter Samoaa et.al.|[2208.11947v1](http://arxiv.org/abs/2208.11947v1)|null|
-|**2022-08-25 08:36:50**|**Domain-informed graph neural networks: a quantum chemistry case study**|Jay Morgan et.al.|[2208.11934v1](http://arxiv.org/abs/2208.11934v1)|null|
 
 ## Group Recommendation
 
