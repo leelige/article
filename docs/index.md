@@ -1,41 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-09-07 16:12:36 Asia/Shanghai
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-06 15:21:28**|**Capsule Networks as Generative Models**|Alex B. Kiefer et.al.|[2209.02567v1](http://arxiv.org/abs/2209.02567v1)|null|
-|**2022-09-06 14:57:53**|**Graph-PHPA: Graph-based Proactive Horizontal Pod Autoscaling for   Microservices using LSTM-GNN**|Hoa X. Nguyen et.al.|[2209.02551v1](http://arxiv.org/abs/2209.02551v1)|null|
-|**2022-09-06 02:19:50**|**Being Automated or Not? Risk Identification of Occupations with Graph   Neural Networks**|Dawei Xu et.al.|[2209.02182v1](http://arxiv.org/abs/2209.02182v1)|null|
-|**2022-09-05 19:43:15**|**SR-GNN: Spatial Relation-aware Graph Neural Network for Fine-Grained   Image Categorization**|Asish Bera et.al.|[2209.02109v1](http://arxiv.org/abs/2209.02109v1)|null|
-|**2022-09-05 16:20:22**|**4Ward: a Relayering Strategy for Efficient Training of Arbitrarily   Complex Directed Acyclic Graphs**|Tommaso Boccato et.al.|[2209.02037v1](http://arxiv.org/abs/2209.02037v1)|null|
-|**2022-09-05 12:09:07**|**Multi-frequency PolSAR Image Fusion Classification Based on Semantic   Interactive Information and Topological Structure**|Yice Cao et.al.|[2209.01921v1](http://arxiv.org/abs/2209.01921v1)|null|
-|**2022-09-04 12:48:30**|**Generalization in Neural Networks: A Broad Survey**|Chris Rohlfs et.al.|[2209.01610v1](http://arxiv.org/abs/2209.01610v1)|null|
-|**2022-09-04 07:49:59**|**Reinforced Continual Learning for Graphs**|Appan Rakaraddi et.al.|[2209.01556v1](http://arxiv.org/abs/2209.01556v1)|[link](https://github.com/codexhammer/gcl})|
-|**2022-09-03 20:40:23**|**A descriptive analysis of olfactory sensation and memory in Drosophila   and its relation to artificial neural networks**|Chris Rohlfs et.al.|[2209.01497v1](http://arxiv.org/abs/2209.01497v1)|null|
-|**2022-09-03 18:38:17**|**Learning the Dynamics of Particle-based Systems with Lagrangian Graph   Neural Networks**|Ravinder Bhattoo et.al.|[2209.01476v1](http://arxiv.org/abs/2209.01476v1)|null|
-|**2022-09-02 16:18:36**|**A Novel Approach for Pill-Prescription Matching with GNN Assistance and   Contrastive Learning**|Trung Thanh Nguyen et.al.|[2209.01152v1](http://arxiv.org/abs/2209.01152v1)|null|
-|**2022-09-02 14:59:37**|**Group Property Inference Attacks Against Graph Neural Networks**|Xiuling Wang et.al.|[2209.01100v1](http://arxiv.org/abs/2209.01100v1)|null|
-|**2022-09-02 14:12:33**|**Can an NN model plainly learn planar layouts?**|Smon van Wageningen et.al.|[2209.01075v2](http://arxiv.org/abs/2209.01075v2)|null|
-|**2022-09-02 11:17:39**|**SATformer: Transformers for SAT Solving**|Zhengyuan Shi et.al.|[2209.00953v1](http://arxiv.org/abs/2209.00953v1)|null|
-|**2022-09-02 11:13:02**|**Learning task-specific features for 3D pointcloud graph creation**|Elías Abad-Rocamora et.al.|[2209.00949v1](http://arxiv.org/abs/2209.00949v1)|null|
-|**2022-09-02 10:18:33**|**A Class-Aware Representation Refinement Framework for Graph   Classification**|Jiaxing Xu et.al.|[2209.00936v1](http://arxiv.org/abs/2209.00936v1)|null|
-|**2022-09-02 04:12:40**|**An Explainer for Temporal Graph Neural Networks**|Wenchong He et.al.|[2209.00807v1](http://arxiv.org/abs/2209.00807v1)|null|
-|**2022-09-02 03:25:32**|**Rethinking Efficiency and Redundancy in Training Large-scale Graphs**|Xin Liu et.al.|[2209.00800v1](http://arxiv.org/abs/2209.00800v1)|null|
-|**2022-09-01 17:30:00**|**Learning with Differentiable Algorithms**|Felix Petersen et.al.|[2209.00616v1](http://arxiv.org/abs/2209.00616v1)|null|
-|**2022-09-01 17:22:01**|**Heterogeneous Graph Tree Networks**|Nan Wu et.al.|[2209.00610v1](http://arxiv.org/abs/2209.00610v1)|[link](https://github.com/hetgnn/hetgtnet)|
-|**2022-09-01 16:19:22**|**Multi-Scale Contrastive Co-Training for Event Temporal Relation   Extraction**|Hao-Ren Yao et.al.|[2209.00568v1](http://arxiv.org/abs/2209.00568v1)|null|
-|**2022-09-01 15:44:36**|**MSGNN: A Spectral Graph Neural Network Based on a Novel Magnetic Signed   Laplacian**|Yixuan He et.al.|[2209.00546v1](http://arxiv.org/abs/2209.00546v1)|null|
-|**2022-09-01 14:59:13**|**Efficient Chemical Space Exploration Using Active Learning Based on   Marginalized Graph Kernel: an Application for Predicting the Thermodynamic   Properties of Alkanes with Molecular Simulation**|Yan Xiang et.al.|[2209.00514v1](http://arxiv.org/abs/2209.00514v1)|[link](https://github.com/xiangyan93/molecules-enumerate)|
-|**2022-08-31 18:53:06**|**Using stochastic order to compare different Euclidean Random Assignment   Problems**|Matteo D'Achille et.al.|[2209.00067v1](http://arxiv.org/abs/2209.00067v1)|null|
-|**2022-08-31 15:36:47**|**Learning Tree Structures from Leaves For Particle Decay Reconstruction**|James Kahn et.al.|[2208.14924v2](http://arxiv.org/abs/2208.14924v2)|null|
-|**2022-08-31 12:39:57**|**Cadence Detection in Symbolic Classical Music using Graph Neural   Networks**|Emmanouil Karystinaios et.al.|[2208.14819v1](http://arxiv.org/abs/2208.14819v1)|null|
-|**2022-08-31 05:05:56**|**Graph Neural Networks with Motif-aware for Tenuous Subgraph Finding**|Heli sun et.al.|[2208.14634v1](http://arxiv.org/abs/2208.14634v1)|null|
-|**2022-08-31 02:35:23**|**A topic-aware graph neural network model for knowledge base updating**|Jiajun Tong et.al.|[2208.14601v2](http://arxiv.org/abs/2208.14601v2)|null|
-|**2022-08-30 20:18:18**|**Designing novel protein structures using sequence generator and   AlphaFold2**|Xeerak Agha et.al.|[2208.14526v1](http://arxiv.org/abs/2208.14526v1)|null|
-|**2022-08-30 16:35:45**|**Associative Learning for Network Embedding**|Yuchen Liang et.al.|[2208.14376v1](http://arxiv.org/abs/2208.14376v1)|null|
+ 自动更新 @ 2022-09-08 16:09:37 Asia/Shanghai
 
 ## Group Recommendation
 
@@ -64,7 +28,7 @@
 |**2022-07-27 21:23:27**|**Network polarization, filter bubbles, and echo chambers: An annotated   review of measures, models, and case studies**|Ruben Interian et.al.|[2207.13799v1](http://arxiv.org/abs/2207.13799v1)|null|
 |**2022-07-23 21:25:19**|**Exploring the Impact of Temporal Bias in Point-of-Interest   Recommendation**|Hossein A. Rahmani et.al.|[2207.11609v1](http://arxiv.org/abs/2207.11609v1)|[link](https://github.com/rahmanidashti/contextsfair)|
 |**2022-07-19 15:19:03**|**Group Validation in Recommender Systems: Framework for Multi-layer   Performance Evaluation**|Wissam Al Jurdi et.al.|[2207.09320v1](http://arxiv.org/abs/2207.09320v1)|null|
-|**2022-07-19 01:55:07**|**Actionable and Interpretable Fault Localization for Recurring Failures   in Online Service Systems**|Zeyan Li et.al.|[2207.09021v3](http://arxiv.org/abs/2207.09021v3)|[link](https://github.com/anonymous-submission-22/dejavu)|
+|**2022-07-19 01:55:07**|**Actionable and Interpretable Fault Localization for Recurring Failures   in Online Service Systems**|Zeyan Li et.al.|[2207.09021v3](http://arxiv.org/abs/2207.09021v3)|[link](https://github.com/NetManAIOps/DejaVu)|
 |**2022-07-14 08:52:07**|**TRIE++: Towards End-to-End Information Extraction from Visually Rich   Documents**|Zhanzhan Cheng et.al.|[2207.06744v1](http://arxiv.org/abs/2207.06744v1)|null|
 |**2022-07-07 15:12:02**|**Group Fairness in Adaptive Submodular Maximization**|Shaojie Tang et.al.|[2207.03364v1](http://arxiv.org/abs/2207.03364v1)|null|
 |**2022-07-05 13:53:16**|**Deep Learning Reveals Patterns of Diverse and Changing Sentiments   Towards COVID-19 Vaccines Based on 11 Million Tweets**|Hanyin Wang et.al.|[2207.10641v1](http://arxiv.org/abs/2207.10641v1)|null|
@@ -108,3 +72,39 @@
 |**2022-04-29 13:05:41**|**Gating-adapted Wavelet Multiresolution Analysis for Exposure Sequence   Modeling in CTR prediction**|Xiaoxiao Xu et.al.|[2204.14069v1](http://arxiv.org/abs/2204.14069v1)|null|
 |**2022-04-24 21:51:29**|**Empowering Next POI Recommendation with Multi-Relational Modeling**|Zheng Huang et.al.|[2204.12288v1](http://arxiv.org/abs/2204.12288v1)|null|
 |**2022-04-21 07:40:47**|**Multi-task recommendation system for scientific papers with high-way   networks**|Aram Karimi et.al.|[2204.09930v1](http://arxiv.org/abs/2204.09930v1)|null|
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-07 15:35:28**|**AutoPruner: Transformer-Based Call Graph Pruning**|Thanh Le-Cong et.al.|[2209.03230v1](http://arxiv.org/abs/2209.03230v1)|[link](https://github.com/soarsmu/autopruner)|
+|**2022-09-07 10:16:53**|**Graph Neural Networks for Low-Energy Event Classification &   Reconstruction in IceCube**|R. Abbasi et.al.|[2209.03042v1](http://arxiv.org/abs/2209.03042v1)|null|
+|**2022-09-07 04:11:25**|**Hardware Acceleration of Sampling Algorithms in Sample and Aggregate   Graph Neural Networks**|Yuchen Gui et.al.|[2209.02916v1](http://arxiv.org/abs/2209.02916v1)|null|
+|**2022-09-06 15:21:28**|**Capsule Networks as Generative Models**|Alex B. Kiefer et.al.|[2209.02567v1](http://arxiv.org/abs/2209.02567v1)|[link](https://github.com/exilefaker/capsnet-experiments)|
+|**2022-09-06 14:57:53**|**Graph-PHPA: Graph-based Proactive Horizontal Pod Autoscaling for   Microservices using LSTM-GNN**|Hoa X. Nguyen et.al.|[2209.02551v1](http://arxiv.org/abs/2209.02551v1)|null|
+|**2022-09-06 02:19:50**|**Being Automated or Not? Risk Identification of Occupations with Graph   Neural Networks**|Dawei Xu et.al.|[2209.02182v1](http://arxiv.org/abs/2209.02182v1)|null|
+|**2022-09-05 19:43:15**|**SR-GNN: Spatial Relation-aware Graph Neural Network for Fine-Grained   Image Categorization**|Asish Bera et.al.|[2209.02109v1](http://arxiv.org/abs/2209.02109v1)|null|
+|**2022-09-05 16:20:22**|**4Ward: a Relayering Strategy for Efficient Training of Arbitrarily   Complex Directed Acyclic Graphs**|Tommaso Boccato et.al.|[2209.02037v1](http://arxiv.org/abs/2209.02037v1)|null|
+|**2022-09-05 12:09:07**|**Multi-frequency PolSAR Image Fusion Classification Based on Semantic   Interactive Information and Topological Structure**|Yice Cao et.al.|[2209.01921v1](http://arxiv.org/abs/2209.01921v1)|null|
+|**2022-09-04 12:48:30**|**Generalization in Neural Networks: A Broad Survey**|Chris Rohlfs et.al.|[2209.01610v1](http://arxiv.org/abs/2209.01610v1)|null|
+|**2022-09-04 07:49:59**|**Reinforced Continual Learning for Graphs**|Appan Rakaraddi et.al.|[2209.01556v1](http://arxiv.org/abs/2209.01556v1)|[link](https://github.com/codexhammer/gcl})|
+|**2022-09-03 20:40:23**|**A descriptive analysis of olfactory sensation and memory in Drosophila   and its relation to artificial neural networks**|Chris Rohlfs et.al.|[2209.01497v1](http://arxiv.org/abs/2209.01497v1)|null|
+|**2022-09-03 18:38:17**|**Learning the Dynamics of Particle-based Systems with Lagrangian Graph   Neural Networks**|Ravinder Bhattoo et.al.|[2209.01476v1](http://arxiv.org/abs/2209.01476v1)|null|
+|**2022-09-02 16:18:36**|**A Novel Approach for Pill-Prescription Matching with GNN Assistance and   Contrastive Learning**|Trung Thanh Nguyen et.al.|[2209.01152v1](http://arxiv.org/abs/2209.01152v1)|null|
+|**2022-09-02 14:59:37**|**Group Property Inference Attacks Against Graph Neural Networks**|Xiuling Wang et.al.|[2209.01100v1](http://arxiv.org/abs/2209.01100v1)|null|
+|**2022-09-02 14:12:33**|**Can an NN model plainly learn planar layouts?**|Smon van Wageningen et.al.|[2209.01075v2](http://arxiv.org/abs/2209.01075v2)|null|
+|**2022-09-02 11:17:39**|**SATformer: Transformers for SAT Solving**|Zhengyuan Shi et.al.|[2209.00953v1](http://arxiv.org/abs/2209.00953v1)|null|
+|**2022-09-02 11:13:02**|**Learning task-specific features for 3D pointcloud graph creation**|Elías Abad-Rocamora et.al.|[2209.00949v1](http://arxiv.org/abs/2209.00949v1)|null|
+|**2022-09-02 10:18:33**|**A Class-Aware Representation Refinement Framework for Graph   Classification**|Jiaxing Xu et.al.|[2209.00936v1](http://arxiv.org/abs/2209.00936v1)|null|
+|**2022-09-02 04:59:21**|**A New Heterogeneous Graph Representation in a Social Media Platform:   Steemit**|Negar Maleki et.al.|[2209.03144v1](http://arxiv.org/abs/2209.03144v1)|null|
+|**2022-09-02 04:12:40**|**An Explainer for Temporal Graph Neural Networks**|Wenchong He et.al.|[2209.00807v1](http://arxiv.org/abs/2209.00807v1)|null|
+|**2022-09-02 03:25:32**|**Rethinking Efficiency and Redundancy in Training Large-scale Graphs**|Xin Liu et.al.|[2209.00800v1](http://arxiv.org/abs/2209.00800v1)|null|
+|**2022-09-01 17:30:00**|**Learning with Differentiable Algorithms**|Felix Petersen et.al.|[2209.00616v1](http://arxiv.org/abs/2209.00616v1)|null|
+|**2022-09-01 17:22:01**|**Heterogeneous Graph Tree Networks**|Nan Wu et.al.|[2209.00610v1](http://arxiv.org/abs/2209.00610v1)|[link](https://github.com/hetgnn/hetgtnet)|
+|**2022-09-01 16:19:22**|**Multi-Scale Contrastive Co-Training for Event Temporal Relation   Extraction**|Hao-Ren Yao et.al.|[2209.00568v1](http://arxiv.org/abs/2209.00568v1)|null|
+|**2022-09-01 15:44:36**|**MSGNN: A Spectral Graph Neural Network Based on a Novel Magnetic Signed   Laplacian**|Yixuan He et.al.|[2209.00546v1](http://arxiv.org/abs/2209.00546v1)|null|
+|**2022-09-01 14:59:13**|**Efficient Chemical Space Exploration Using Active Learning Based on   Marginalized Graph Kernel: an Application for Predicting the Thermodynamic   Properties of Alkanes with Molecular Simulation**|Yan Xiang et.al.|[2209.00514v1](http://arxiv.org/abs/2209.00514v1)|[link](https://github.com/xiangyan93/molecules-enumerate)|
+|**2022-08-31 18:53:06**|**Using stochastic order to compare different Euclidean Random Assignment   Problems**|Matteo D'Achille et.al.|[2209.00067v1](http://arxiv.org/abs/2209.00067v1)|null|
+|**2022-08-31 15:36:47**|**Learning Tree Structures from Leaves For Particle Decay Reconstruction**|James Kahn et.al.|[2208.14924v2](http://arxiv.org/abs/2208.14924v2)|null|
+|**2022-08-31 12:39:57**|**Cadence Detection in Symbolic Classical Music using Graph Neural   Networks**|Emmanouil Karystinaios et.al.|[2208.14819v1](http://arxiv.org/abs/2208.14819v1)|null|
