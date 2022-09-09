@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08 16:20:25**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v1](http://arxiv.org/abs/2209.03904v1)|null|
+|**2022-09-08 14:56:29**|**Simpler is better: Multilevel Abstraction with Graph Convolutional   Recurrent Neural Network Cells for Traffic Prediction**|Naghmeh Shafiee Roudbari et.al.|[2209.03858v1](http://arxiv.org/abs/2209.03858v1)|[link](https://github.com/naghm3h/msltd)|
+|**2022-09-08 14:12:15**|**Pre-Training a Graph Recurrent Network for Language Representation**|Yile Wang et.al.|[2209.03834v1](http://arxiv.org/abs/2209.03834v1)|[link](https://github.com/ylwangy/slstm_pytorch)|
+|**2022-09-08 08:12:35**|**Hierarchical Graph Pooling is an Effective Citywide Traffic Condition   Prediction Model**|Shilin Pu et.al.|[2209.03629v1](http://arxiv.org/abs/2209.03629v1)|null|
+|**2022-09-07 18:49:27**|**Planted matching problems on random hypergraphs**|Urte Adomaityte et.al.|[2209.03423v1](http://arxiv.org/abs/2209.03423v1)|null|
 |**2022-09-07 15:35:28**|**AutoPruner: Transformer-Based Call Graph Pruning**|Thanh Le-Cong et.al.|[2209.03230v1](http://arxiv.org/abs/2209.03230v1)|[link](https://github.com/soarsmu/autopruner)|
 |**2022-09-07 10:16:53**|**Graph Neural Networks for Low-Energy Event Classification &   Reconstruction in IceCube**|R. Abbasi et.al.|[2209.03042v1](http://arxiv.org/abs/2209.03042v1)|null|
 |**2022-09-07 04:11:25**|**Hardware Acceleration of Sampling Algorithms in Sample and Aggregate   Graph Neural Networks**|Yuchen Gui et.al.|[2209.02916v1](http://arxiv.org/abs/2209.02916v1)|null|
@@ -21,14 +26,9 @@
 |**2022-09-02 11:17:39**|**SATformer: Transformers for SAT Solving**|Zhengyuan Shi et.al.|[2209.00953v1](http://arxiv.org/abs/2209.00953v1)|null|
 |**2022-09-02 11:13:02**|**Learning task-specific features for 3D pointcloud graph creation**|Elías Abad-Rocamora et.al.|[2209.00949v1](http://arxiv.org/abs/2209.00949v1)|null|
 |**2022-09-02 10:18:33**|**A Class-Aware Representation Refinement Framework for Graph   Classification**|Jiaxing Xu et.al.|[2209.00936v1](http://arxiv.org/abs/2209.00936v1)|null|
+|**2022-09-02 09:17:10**|**Higher-order Clustering and Pooling for Graph Neural Networks**|Alexandre Duval et.al.|[2209.03473v1](http://arxiv.org/abs/2209.03473v1)|null|
 |**2022-09-02 04:59:21**|**A New Heterogeneous Graph Representation in a Social Media Platform:   Steemit**|Negar Maleki et.al.|[2209.03144v1](http://arxiv.org/abs/2209.03144v1)|null|
 |**2022-09-02 04:12:40**|**An Explainer for Temporal Graph Neural Networks**|Wenchong He et.al.|[2209.00807v1](http://arxiv.org/abs/2209.00807v1)|null|
 |**2022-09-02 03:25:32**|**Rethinking Efficiency and Redundancy in Training Large-scale Graphs**|Xin Liu et.al.|[2209.00800v1](http://arxiv.org/abs/2209.00800v1)|null|
 |**2022-09-01 17:30:00**|**Learning with Differentiable Algorithms**|Felix Petersen et.al.|[2209.00616v1](http://arxiv.org/abs/2209.00616v1)|null|
 |**2022-09-01 17:22:01**|**Heterogeneous Graph Tree Networks**|Nan Wu et.al.|[2209.00610v1](http://arxiv.org/abs/2209.00610v1)|[link](https://github.com/hetgnn/hetgtnet)|
-|**2022-09-01 16:19:22**|**Multi-Scale Contrastive Co-Training for Event Temporal Relation   Extraction**|Hao-Ren Yao et.al.|[2209.00568v1](http://arxiv.org/abs/2209.00568v1)|null|
-|**2022-09-01 15:44:36**|**MSGNN: A Spectral Graph Neural Network Based on a Novel Magnetic Signed   Laplacian**|Yixuan He et.al.|[2209.00546v1](http://arxiv.org/abs/2209.00546v1)|null|
-|**2022-09-01 14:59:13**|**Efficient Chemical Space Exploration Using Active Learning Based on   Marginalized Graph Kernel: an Application for Predicting the Thermodynamic   Properties of Alkanes with Molecular Simulation**|Yan Xiang et.al.|[2209.00514v1](http://arxiv.org/abs/2209.00514v1)|[link](https://github.com/xiangyan93/molecules-enumerate)|
-|**2022-08-31 18:53:06**|**Using stochastic order to compare different Euclidean Random Assignment   Problems**|Matteo D'Achille et.al.|[2209.00067v1](http://arxiv.org/abs/2209.00067v1)|null|
-|**2022-08-31 15:36:47**|**Learning Tree Structures from Leaves For Particle Decay Reconstruction**|James Kahn et.al.|[2208.14924v2](http://arxiv.org/abs/2208.14924v2)|null|
-|**2022-08-31 12:39:57**|**Cadence Detection in Symbolic Classical Music using Graph Neural   Networks**|Emmanouil Karystinaios et.al.|[2208.14819v1](http://arxiv.org/abs/2208.14819v1)|null|
