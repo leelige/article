@@ -2,7 +2,7 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-08 16:20:25**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v1](http://arxiv.org/abs/2209.03904v1)|null|
+|**2022-09-08 16:20:25**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v1](http://arxiv.org/abs/2209.03904v1)|[link](https://github.com/rsalganik1123/facctrec2022)|
 |**2022-09-08 14:56:29**|**Simpler is better: Multilevel Abstraction with Graph Convolutional   Recurrent Neural Network Cells for Traffic Prediction**|Naghmeh Shafiee Roudbari et.al.|[2209.03858v1](http://arxiv.org/abs/2209.03858v1)|[link](https://github.com/naghm3h/msltd)|
 |**2022-09-08 14:12:15**|**Pre-Training a Graph Recurrent Network for Language Representation**|Yile Wang et.al.|[2209.03834v1](http://arxiv.org/abs/2209.03834v1)|[link](https://github.com/ylwangy/slstm_pytorch)|
 |**2022-09-08 08:12:35**|**Hierarchical Graph Pooling is an Effective Citywide Traffic Condition   Prediction Model**|Shilin Pu et.al.|[2209.03629v1](http://arxiv.org/abs/2209.03629v1)|null|
