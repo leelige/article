@@ -2,7 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-08 16:20:25**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v1](http://arxiv.org/abs/2209.03904v1)|[link](https://github.com/rsalganik1123/facctrec2022)|
+|**2022-09-09 14:50:56**|**Critical properties of the Anderson transition in random graphs:   two-parameter scaling theory, Kosterlitz-Thouless type flow and many-body   localization**|Ignacio García-Mata et.al.|[2209.04337v1](http://arxiv.org/abs/2209.04337v1)|null|
+|**2022-09-09 10:06:18**|**Self-supervised Learning for Heterogeneous Graph via Structure   Information based on Metapath**|Shuai Ma et.al.|[2209.04218v1](http://arxiv.org/abs/2209.04218v1)|null|
+|**2022-09-09 08:47:47**|**Simple and Powerful Architecture for Inductive Recommendation Using   Knowledge Graph Convolutions**|Theis E. Jendal et.al.|[2209.04185v1](http://arxiv.org/abs/2209.04185v1)|null|
+|**2022-09-09 06:07:17**|**In-situ animal behavior classification using knowledge distillation and   fixed-point quantization**|Reza Arablouei et.al.|[2209.04130v1](http://arxiv.org/abs/2209.04130v1)|null|
+|**2022-09-08 18:00:00**|**Quantum optimization with arbitrary connectivity using Rydberg atom   arrays**|Minh-Thi Nguyen et.al.|[2209.03965v1](http://arxiv.org/abs/2209.03965v1)|null|
+|**2022-09-08 16:20:25**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v2](http://arxiv.org/abs/2209.03904v2)|[link](https://github.com/rsalganik1123/facctrec2022)|
 |**2022-09-08 14:56:29**|**Simpler is better: Multilevel Abstraction with Graph Convolutional   Recurrent Neural Network Cells for Traffic Prediction**|Naghmeh Shafiee Roudbari et.al.|[2209.03858v1](http://arxiv.org/abs/2209.03858v1)|[link](https://github.com/naghm3h/msltd)|
 |**2022-09-08 14:12:15**|**Pre-Training a Graph Recurrent Network for Language Representation**|Yile Wang et.al.|[2209.03834v1](http://arxiv.org/abs/2209.03834v1)|[link](https://github.com/ylwangy/slstm_pytorch)|
 |**2022-09-08 08:12:35**|**Hierarchical Graph Pooling is an Effective Citywide Traffic Condition   Prediction Model**|Shilin Pu et.al.|[2209.03629v1](http://arxiv.org/abs/2209.03629v1)|null|
@@ -27,8 +32,3 @@
 |**2022-09-02 11:13:02**|**Learning task-specific features for 3D pointcloud graph creation**|Elías Abad-Rocamora et.al.|[2209.00949v1](http://arxiv.org/abs/2209.00949v1)|null|
 |**2022-09-02 10:18:33**|**A Class-Aware Representation Refinement Framework for Graph   Classification**|Jiaxing Xu et.al.|[2209.00936v1](http://arxiv.org/abs/2209.00936v1)|null|
 |**2022-09-02 09:17:10**|**Higher-order Clustering and Pooling for Graph Neural Networks**|Alexandre Duval et.al.|[2209.03473v1](http://arxiv.org/abs/2209.03473v1)|null|
-|**2022-09-02 04:59:21**|**A New Heterogeneous Graph Representation in a Social Media Platform:   Steemit**|Negar Maleki et.al.|[2209.03144v1](http://arxiv.org/abs/2209.03144v1)|null|
-|**2022-09-02 04:12:40**|**An Explainer for Temporal Graph Neural Networks**|Wenchong He et.al.|[2209.00807v1](http://arxiv.org/abs/2209.00807v1)|null|
-|**2022-09-02 03:25:32**|**Rethinking Efficiency and Redundancy in Training Large-scale Graphs**|Xin Liu et.al.|[2209.00800v1](http://arxiv.org/abs/2209.00800v1)|null|
-|**2022-09-01 17:30:00**|**Learning with Differentiable Algorithms**|Felix Petersen et.al.|[2209.00616v1](http://arxiv.org/abs/2209.00616v1)|null|
-|**2022-09-01 17:22:01**|**Heterogeneous Graph Tree Networks**|Nan Wu et.al.|[2209.00610v1](http://arxiv.org/abs/2209.00610v1)|[link](https://github.com/hetgnn/hetgtnet)|
