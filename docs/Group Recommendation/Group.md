@@ -2,10 +2,12 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-11 22:48:26**|**Reinforcement Recommendation Reasoning through Knowledge Graphs for   Explanation Path Quality**|Giacomo Balloccu et.al.|[2209.04954v1](http://arxiv.org/abs/2209.04954v1)|null|
 |**2022-09-09 17:18:41**|**Longitudinal Acoustic Speech Tracking Following Pediatric Traumatic   Brain Injury**|Camille Noufi et.al.|[2209.04406v1](http://arxiv.org/abs/2209.04406v1)|null|
-|**2022-09-09 15:55:48**|**Evaluating tests for cluster-randomized trials with few clusters under   generalized linear mixed models with covariate adjustment: a simulation study**|Hongxiang Qiu et.al.|[2209.04364v1](http://arxiv.org/abs/2209.04364v1)|null|
+|**2022-09-09 15:55:48**|**Evaluating tests for cluster-randomized trials with few clusters under   generalized linear mixed models with covariate adjustment: a simulation study**|Hongxiang Qiu et.al.|[2209.04364v1](http://arxiv.org/abs/2209.04364v1)|[link](https://github.com/qiu-hongxiang-david/small-sample-adjusted-glmm-crt)|
 |**2022-09-08 21:47:10**|**Who Pays? Personalization, Bossiness and the Cost of Fairness**|Paresha Farastu et.al.|[2209.04043v1](http://arxiv.org/abs/2209.04043v1)|null|
 |**2022-09-02 06:23:06**|**Flexible transition probability model for assessing cost-effectiveness   of breast cancer screening**|Nourhan Shafik et.al.|[2209.01216v1](http://arxiv.org/abs/2209.01216v1)|null|
+|**2022-08-30 23:25:04**|**Evaluating hybrid controls methodology in early-phase oncology trials: a   simulation study based on the MORPHEUS-UC trial**|Guanbo Wang et.al.|[2209.05354v1](http://arxiv.org/abs/2209.05354v1)|null|
 |**2022-08-29 14:45:33**|**Snowmass2021 Topical Group Report from AF07: Targets and Sources**|Charlotte Barbier et.al.|[2208.13641v1](http://arxiv.org/abs/2208.13641v1)|null|
 |**2022-08-24 02:50:32**|**What are the Practices for Secret Management in Software Artifacts?**|Setu Kumar Basak et.al.|[2208.11280v1](http://arxiv.org/abs/2208.11280v1)|[link](https://github.com/setu1421/secret-management-practices-grey-literature-review-dataset)|
 |**2022-08-22 10:29:51**|**Towards Confidence-aware Calibrated Recommendation**|Mohammadmehdi Naghiaei et.al.|[2208.10192v1](http://arxiv.org/abs/2208.10192v1)|null|
@@ -30,5 +32,3 @@
 |**2022-07-19 01:55:07**|**Actionable and Interpretable Fault Localization for Recurring Failures   in Online Service Systems**|Zeyan Li et.al.|[2207.09021v3](http://arxiv.org/abs/2207.09021v3)|[link](https://github.com/NetManAIOps/DejaVu)|
 |**2022-07-14 08:52:07**|**TRIE++: Towards End-to-End Information Extraction from Visually Rich   Documents**|Zhanzhan Cheng et.al.|[2207.06744v1](http://arxiv.org/abs/2207.06744v1)|null|
 |**2022-07-07 15:12:02**|**Group Fairness in Adaptive Submodular Maximization**|Shaojie Tang et.al.|[2207.03364v1](http://arxiv.org/abs/2207.03364v1)|null|
-|**2022-07-05 13:53:16**|**Deep Learning Reveals Patterns of Diverse and Changing Sentiments   Towards COVID-19 Vaccines Based on 11 Million Tweets**|Hanyin Wang et.al.|[2207.10641v1](http://arxiv.org/abs/2207.10641v1)|null|
-|**2022-07-04 16:20:31**|**The impact of clustering binary data on relative risk towards a study of   inferential methods**|Gopal Nath et.al.|[2207.01552v1](http://arxiv.org/abs/2207.01552v1)|null|
