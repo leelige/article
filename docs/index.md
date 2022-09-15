@@ -1,47 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2022-09-14 16:09:40 Asia/Shanghai
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-13 17:28:25**|**Characterizing Graph Datasets for Node Classification: Beyond   Homophily-Heterophily Dichotomy**|Oleg Platonov et.al.|[2209.06177v1](http://arxiv.org/abs/2209.06177v1)|null|
-|**2022-09-13 14:32:03**|**Investigating the Predictive Reproducibility of Federated Graph Neural   Networks using Medical Datasets**|Mehmet Yigit Balik et.al.|[2209.06032v1](http://arxiv.org/abs/2209.06032v1)|[link](https://github.com/basiralab/reproduciblefedgnn)|
-|**2022-09-13 13:51:44**|**Predicting Brain Multigraph Population From a Single Graph Template for   Boosting One-Shot Classification**|Furkan Pala et.al.|[2209.06005v1](http://arxiv.org/abs/2209.06005v1)|[link](https://github.com/basiralab/multigraphgnet)|
-|**2022-09-13 12:46:57**|**Adversarial Inter-Group Link Injection Degrades the Fairness of Graph   Neural Networks**|Hussain Hussain et.al.|[2209.05957v1](http://arxiv.org/abs/2209.05957v1)|[link](https://github.com/mengcao327/attack-gnn-fairness)|
-|**2022-09-13 04:16:31**|**GrASPE: Graph based Multimodal Fusion for Robot Navigation in   Unstructured Outdoor Environments**|Kasun Weerakoon et.al.|[2209.05722v1](http://arxiv.org/abs/2209.05722v1)|null|
-|**2022-09-13 02:47:46**|**KSG: Knowledge and Skill Graph**|Feng Zhao et.al.|[2209.05698v1](http://arxiv.org/abs/2209.05698v1)|null|
-|**2022-09-13 00:01:23**|**Semantic2Graph: Graph-based Multi-modal Feature for Action Segmentation   in Videos**|Junbin Zhang et.al.|[2209.05653v1](http://arxiv.org/abs/2209.05653v1)|null|
-|**2022-09-12 20:12:19**|**Polycrystal Graph Neural Network**|Minyi Dai et.al.|[2209.05583v1](http://arxiv.org/abs/2209.05583v1)|null|
-|**2022-09-12 20:10:07**|**Graph Neural Networks for Molecules**|Yuyang Wang et.al.|[2209.05582v1](http://arxiv.org/abs/2209.05582v1)|null|
-|**2022-09-12 19:13:27**|**Unified Graph Neural Network Force-field for the Periodic Table**|Kamal Choudhary et.al.|[2209.05554v1](http://arxiv.org/abs/2209.05554v1)|null|
-|**2022-09-12 18:55:48**|**Tackling the subsampling problem to infer collective properties from   limited data**|Anna Levina et.al.|[2209.05548v1](http://arxiv.org/abs/2209.05548v1)|null|
-|**2022-09-12 17:31:50**|**Elastic Context: Encoding Elasticity for Data-driven Models of Textiles**|Alberta Longhini et.al.|[2209.05428v1](http://arxiv.org/abs/2209.05428v1)|null|
-|**2022-09-12 17:17:49**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
-|**2022-09-12 16:26:04**|**Deep Neural Networks as Complex Networks**|Emanuele La Malfa et.al.|[2209.05488v1](http://arxiv.org/abs/2209.05488v1)|null|
-|**2022-09-12 12:52:15**|**Amortised Inference in Structured Generative Models with Explaining Away**|Changmin Yu et.al.|[2209.05212v1](http://arxiv.org/abs/2209.05212v1)|null|
-|**2022-09-12 12:45:45**|**Graph Neural Modeling of Network Flows**|Victor-Alexandru Darvariu et.al.|[2209.05208v1](http://arxiv.org/abs/2209.05208v1)|null|
-|**2022-09-12 11:53:39**|**Manifold Rewiring for Unlabeled Imaging**|Valentin Debarnot et.al.|[2209.05168v1](http://arxiv.org/abs/2209.05168v1)|null|
-|**2022-09-12 07:15:52**|**CARE: Certifiably Robust Learning with Reasoning via Variational   Inference**|Jiawei Zhang et.al.|[2209.05055v1](http://arxiv.org/abs/2209.05055v1)|null|
-|**2022-09-11 14:46:38**|**A Complex Network based Graph Embedding Method for Link Prediction**|Said Kerrache et.al.|[2209.04884v1](http://arxiv.org/abs/2209.04884v1)|null|
-|**2022-09-11 09:49:12**|**Hard Optimization Problems have Soft Edges**|Raffaele Marino et.al.|[2209.04824v1](http://arxiv.org/abs/2209.04824v1)|null|
-|**2022-09-11 06:12:28**|**Multiple Object Tracking in Recent Times: A Literature Review**|Mk Bashar et.al.|[2209.04796v1](http://arxiv.org/abs/2209.04796v1)|null|
-|**2022-09-11 01:39:29**|**Towards Sparsification of Graph Neural Networks**|Hongwu Peng et.al.|[2209.04766v1](http://arxiv.org/abs/2209.04766v1)|null|
-|**2022-09-09 14:50:56**|**Critical properties of the Anderson transition in random graphs:   two-parameter scaling theory, Kosterlitz-Thouless type flow and many-body   localization**|Ignacio García-Mata et.al.|[2209.04337v1](http://arxiv.org/abs/2209.04337v1)|null|
-|**2022-09-09 10:06:18**|**Self-supervised Learning for Heterogeneous Graph via Structure   Information based on Metapath**|Shuai Ma et.al.|[2209.04218v1](http://arxiv.org/abs/2209.04218v1)|null|
-|**2022-09-09 08:47:47**|**Simple and Powerful Architecture for Inductive Recommendation Using   Knowledge Graph Convolutions**|Theis E. Jendal et.al.|[2209.04185v3](http://arxiv.org/abs/2209.04185v3)|null|
-|**2022-09-09 06:07:17**|**In-situ animal behavior classification using knowledge distillation and   fixed-point quantization**|Reza Arablouei et.al.|[2209.04130v1](http://arxiv.org/abs/2209.04130v1)|null|
-|**2022-09-08 18:00:00**|**Quantum optimization with arbitrary connectivity using Rydberg atom   arrays**|Minh-Thi Nguyen et.al.|[2209.03965v1](http://arxiv.org/abs/2209.03965v1)|null|
-|**2022-09-08 16:20:25**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v2](http://arxiv.org/abs/2209.03904v2)|[link](https://github.com/rsalganik1123/facctrec2022)|
-|**2022-09-08 14:56:29**|**Simpler is better: Multilevel Abstraction with Graph Convolutional   Recurrent Neural Network Cells for Traffic Prediction**|Naghmeh Shafiee Roudbari et.al.|[2209.03858v1](http://arxiv.org/abs/2209.03858v1)|[link](https://github.com/naghm3h/msltd)|
-|**2022-09-08 14:12:15**|**Pre-Training a Graph Recurrent Network for Language Representation**|Yile Wang et.al.|[2209.03834v1](http://arxiv.org/abs/2209.03834v1)|[link](https://github.com/ylwangy/slstm_pytorch)|
+ 自动更新 @ 2022-09-15 16:10:30 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-14 14:25:56**|**Efficient Beam Search for Initial Access Using Collaborative Filtering**|George Yammine et.al.|[2209.06669v1](http://arxiv.org/abs/2209.06669v1)|null|
+|**2022-09-14 13:47:58**|**Beyond Learning from Next Item: Sequential Recommendation via   Personalized Interest Sustainability**|Dongmin Hyun et.al.|[2209.06644v1](http://arxiv.org/abs/2209.06644v1)|[link](https://github.com/dmhyun/PERIS)|
+|**2022-09-13 23:53:32**|**The effects of surface fossil magnetic fields on massive star evolution:   IV. Grids of models at Solar, LMC, and SMC metallicities**|Z. Keszthelyi et.al.|[2209.06350v1](http://arxiv.org/abs/2209.06350v1)|null|
 |**2022-09-13 07:10:14**|**Moving from 2D to 3D: volumetric medical image classification for rectal   cancer staging**|Joohyung Lee et.al.|[2209.05771v1](http://arxiv.org/abs/2209.05771v1)|null|
 |**2022-09-11 22:48:26**|**Reinforcement Recommendation Reasoning through Knowledge Graphs for   Explanation Path Quality**|Giacomo Balloccu et.al.|[2209.04954v1](http://arxiv.org/abs/2209.04954v1)|null|
 |**2022-09-09 17:18:41**|**Longitudinal Acoustic Speech Tracking Following Pediatric Traumatic   Brain Injury**|Camille Noufi et.al.|[2209.04406v1](http://arxiv.org/abs/2209.04406v1)|null|
@@ -69,9 +36,6 @@
 |**2022-07-28 19:59:41**|**A Recommender System for Equitable Public Art Curation and Installation**|Anna Haensch et.al.|[2207.14367v1](http://arxiv.org/abs/2207.14367v1)|[link](https://github.com/annahaensch/opart_curation_tool)|
 |**2022-07-27 23:44:23**|**We Do Not Understand What It Says -- Studying Student Perceptions of   Software Modelling**|Shalini Chakraborty et.al.|[2207.13829v1](http://arxiv.org/abs/2207.13829v1)|null|
 |**2022-07-27 21:23:27**|**Network polarization, filter bubbles, and echo chambers: An annotated   review of measures, models, and case studies**|Ruben Interian et.al.|[2207.13799v1](http://arxiv.org/abs/2207.13799v1)|null|
-|**2022-07-23 21:25:19**|**Exploring the Impact of Temporal Bias in Point-of-Interest   Recommendation**|Hossein A. Rahmani et.al.|[2207.11609v1](http://arxiv.org/abs/2207.11609v1)|[link](https://github.com/rahmanidashti/contextsfair)|
-|**2022-07-19 15:19:03**|**Group Validation in Recommender Systems: Framework for Multi-layer   Performance Evaluation**|Wissam Al Jurdi et.al.|[2207.09320v1](http://arxiv.org/abs/2207.09320v1)|null|
-|**2022-07-19 01:55:07**|**Actionable and Interpretable Fault Localization for Recurring Failures   in Online Service Systems**|Zeyan Li et.al.|[2207.09021v3](http://arxiv.org/abs/2207.09021v3)|[link](https://github.com/NetManAIOps/DejaVu)|
 
 ## Multi Interest Recommendation
 
@@ -108,3 +72,39 @@
 |**2022-05-09 15:06:16**|**Effectively Using Long and Short Sessions for Multi-Session-based   Recommendations**|Zihan Wang et.al.|[2205.04366v1](http://arxiv.org/abs/2205.04366v1)|null|
 |**2022-05-03 03:21:29**|**When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for   Sequential Recommendation**|Yu Tian et.al.|[2205.01286v1](http://arxiv.org/abs/2205.01286v1)|[link](https://github.com/whuir/mgnm)|
 |**2022-04-29 13:05:41**|**Gating-adapted Wavelet Multiresolution Analysis for Exposure Sequence   Modeling in CTR prediction**|Xiaoxiao Xu et.al.|[2204.14069v1](http://arxiv.org/abs/2204.14069v1)|null|
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-14 17:38:22**|**Analytic solution of the resolvent equations for heterogeneous random   graphs: spectral and localization properties**|Jeferson D. Silva et.al.|[2209.06805v1](http://arxiv.org/abs/2209.06805v1)|null|
+|**2022-09-14 17:32:28**|**Empowering GNNs with Fine-grained Communication-Computation Pipelining   on Multi-GPU Platforms**|Yuke Wang et.al.|[2209.06800v1](http://arxiv.org/abs/2209.06800v1)|null|
+|**2022-09-14 17:12:41**|**Small Transformers Compute Universal Metric Embeddings**|Anastasis Kratsios et.al.|[2209.06788v1](http://arxiv.org/abs/2209.06788v1)|null|
+|**2022-09-14 12:13:59**|**Towards Better Generalization with Flexible Representation of   Multi-Module Graph Neural Networks**|Hyungeun Lee et.al.|[2209.06589v1](http://arxiv.org/abs/2209.06589v1)|null|
+|**2022-09-14 09:47:38**|**Scalable Spatiotemporal Graph Neural Networks**|Andrea Cini et.al.|[2209.06520v1](http://arxiv.org/abs/2209.06520v1)|null|
+|**2022-09-14 05:05:55**|**Graph Perceiver IO: A General Architecture for Graph Structured Data**|Seyun Bae et.al.|[2209.06418v1](http://arxiv.org/abs/2209.06418v1)|null|
+|**2022-09-14 00:32:51**|**Tuple Packing: Efficient Batching of Small Graphs in Graph Neural   Networks**|Mario Michael Krell et.al.|[2209.06354v1](http://arxiv.org/abs/2209.06354v1)|null|
+|**2022-09-13 22:34:11**|**Learning Category-Level Manipulation Tasks from Point Clouds with   Dynamic Graph CNNs**|Junchi Liang et.al.|[2209.06331v1](http://arxiv.org/abs/2209.06331v1)|null|
+|**2022-09-13 17:28:25**|**Characterizing Graph Datasets for Node Classification: Beyond   Homophily-Heterophily Dichotomy**|Oleg Platonov et.al.|[2209.06177v1](http://arxiv.org/abs/2209.06177v1)|null|
+|**2022-09-13 14:32:03**|**Investigating the Predictive Reproducibility of Federated Graph Neural   Networks using Medical Datasets**|Mehmet Yigit Balik et.al.|[2209.06032v1](http://arxiv.org/abs/2209.06032v1)|[link](https://github.com/basiralab/reproduciblefedgnn)|
+|**2022-09-13 13:51:44**|**Predicting Brain Multigraph Population From a Single Graph Template for   Boosting One-Shot Classification**|Furkan Pala et.al.|[2209.06005v1](http://arxiv.org/abs/2209.06005v1)|[link](https://github.com/basiralab/multigraphgnet)|
+|**2022-09-13 12:46:57**|**Adversarial Inter-Group Link Injection Degrades the Fairness of Graph   Neural Networks**|Hussain Hussain et.al.|[2209.05957v1](http://arxiv.org/abs/2209.05957v1)|[link](https://github.com/mengcao327/attack-gnn-fairness)|
+|**2022-09-13 04:16:31**|**GrASPE: Graph based Multimodal Fusion for Robot Navigation in   Unstructured Outdoor Environments**|Kasun Weerakoon et.al.|[2209.05722v1](http://arxiv.org/abs/2209.05722v1)|null|
+|**2022-09-13 02:47:46**|**KSG: Knowledge and Skill Graph**|Feng Zhao et.al.|[2209.05698v1](http://arxiv.org/abs/2209.05698v1)|null|
+|**2022-09-13 00:01:23**|**Semantic2Graph: Graph-based Multi-modal Feature for Action Segmentation   in Videos**|Junbin Zhang et.al.|[2209.05653v1](http://arxiv.org/abs/2209.05653v1)|null|
+|**2022-09-12 20:12:19**|**Polycrystal Graph Neural Network**|Minyi Dai et.al.|[2209.05583v1](http://arxiv.org/abs/2209.05583v1)|null|
+|**2022-09-12 20:10:07**|**Graph Neural Networks for Molecules**|Yuyang Wang et.al.|[2209.05582v1](http://arxiv.org/abs/2209.05582v1)|null|
+|**2022-09-12 19:13:27**|**Unified Graph Neural Network Force-field for the Periodic Table**|Kamal Choudhary et.al.|[2209.05554v1](http://arxiv.org/abs/2209.05554v1)|null|
+|**2022-09-12 18:55:48**|**Tackling the subsampling problem to infer collective properties from   limited data**|Anna Levina et.al.|[2209.05548v1](http://arxiv.org/abs/2209.05548v1)|null|
+|**2022-09-12 17:31:50**|**Elastic Context: Encoding Elasticity for Data-driven Models of Textiles**|Alberta Longhini et.al.|[2209.05428v1](http://arxiv.org/abs/2209.05428v1)|null|
+|**2022-09-12 17:17:49**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
+|**2022-09-12 16:26:04**|**Deep Neural Networks as Complex Networks**|Emanuele La Malfa et.al.|[2209.05488v1](http://arxiv.org/abs/2209.05488v1)|null|
+|**2022-09-12 12:52:15**|**Amortised Inference in Structured Generative Models with Explaining Away**|Changmin Yu et.al.|[2209.05212v1](http://arxiv.org/abs/2209.05212v1)|null|
+|**2022-09-12 12:45:45**|**Graph Neural Modeling of Network Flows**|Victor-Alexandru Darvariu et.al.|[2209.05208v1](http://arxiv.org/abs/2209.05208v1)|null|
+|**2022-09-12 11:53:39**|**Manifold Rewiring for Unlabeled Imaging**|Valentin Debarnot et.al.|[2209.05168v1](http://arxiv.org/abs/2209.05168v1)|null|
+|**2022-09-12 07:15:52**|**CARE: Certifiably Robust Learning with Reasoning via Variational   Inference**|Jiawei Zhang et.al.|[2209.05055v1](http://arxiv.org/abs/2209.05055v1)|null|
+|**2022-09-11 14:46:38**|**A Complex Network based Graph Embedding Method for Link Prediction**|Said Kerrache et.al.|[2209.04884v1](http://arxiv.org/abs/2209.04884v1)|null|
+|**2022-09-11 09:49:12**|**Hard Optimization Problems have Soft Edges**|Raffaele Marino et.al.|[2209.04824v1](http://arxiv.org/abs/2209.04824v1)|null|
+|**2022-09-11 06:12:28**|**Multiple Object Tracking in Recent Times: A Literature Review**|Mk Bashar et.al.|[2209.04796v1](http://arxiv.org/abs/2209.04796v1)|null|
+|**2022-09-11 01:39:29**|**Towards Sparsification of Graph Neural Networks**|Hongwu Peng et.al.|[2209.04766v1](http://arxiv.org/abs/2209.04766v1)|null|

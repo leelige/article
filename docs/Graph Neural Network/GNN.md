@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-14 17:38:22**|**Analytic solution of the resolvent equations for heterogeneous random   graphs: spectral and localization properties**|Jeferson D. Silva et.al.|[2209.06805v1](http://arxiv.org/abs/2209.06805v1)|null|
+|**2022-09-14 17:32:28**|**Empowering GNNs with Fine-grained Communication-Computation Pipelining   on Multi-GPU Platforms**|Yuke Wang et.al.|[2209.06800v1](http://arxiv.org/abs/2209.06800v1)|null|
+|**2022-09-14 17:12:41**|**Small Transformers Compute Universal Metric Embeddings**|Anastasis Kratsios et.al.|[2209.06788v1](http://arxiv.org/abs/2209.06788v1)|null|
+|**2022-09-14 12:13:59**|**Towards Better Generalization with Flexible Representation of   Multi-Module Graph Neural Networks**|Hyungeun Lee et.al.|[2209.06589v1](http://arxiv.org/abs/2209.06589v1)|null|
+|**2022-09-14 09:47:38**|**Scalable Spatiotemporal Graph Neural Networks**|Andrea Cini et.al.|[2209.06520v1](http://arxiv.org/abs/2209.06520v1)|null|
+|**2022-09-14 05:05:55**|**Graph Perceiver IO: A General Architecture for Graph Structured Data**|Seyun Bae et.al.|[2209.06418v1](http://arxiv.org/abs/2209.06418v1)|null|
+|**2022-09-14 00:32:51**|**Tuple Packing: Efficient Batching of Small Graphs in Graph Neural   Networks**|Mario Michael Krell et.al.|[2209.06354v1](http://arxiv.org/abs/2209.06354v1)|null|
+|**2022-09-13 22:34:11**|**Learning Category-Level Manipulation Tasks from Point Clouds with   Dynamic Graph CNNs**|Junchi Liang et.al.|[2209.06331v1](http://arxiv.org/abs/2209.06331v1)|null|
 |**2022-09-13 17:28:25**|**Characterizing Graph Datasets for Node Classification: Beyond   Homophily-Heterophily Dichotomy**|Oleg Platonov et.al.|[2209.06177v1](http://arxiv.org/abs/2209.06177v1)|null|
 |**2022-09-13 14:32:03**|**Investigating the Predictive Reproducibility of Federated Graph Neural   Networks using Medical Datasets**|Mehmet Yigit Balik et.al.|[2209.06032v1](http://arxiv.org/abs/2209.06032v1)|[link](https://github.com/basiralab/reproduciblefedgnn)|
 |**2022-09-13 13:51:44**|**Predicting Brain Multigraph Population From a Single Graph Template for   Boosting One-Shot Classification**|Furkan Pala et.al.|[2209.06005v1](http://arxiv.org/abs/2209.06005v1)|[link](https://github.com/basiralab/multigraphgnet)|
@@ -24,11 +32,3 @@
 |**2022-09-11 09:49:12**|**Hard Optimization Problems have Soft Edges**|Raffaele Marino et.al.|[2209.04824v1](http://arxiv.org/abs/2209.04824v1)|null|
 |**2022-09-11 06:12:28**|**Multiple Object Tracking in Recent Times: A Literature Review**|Mk Bashar et.al.|[2209.04796v1](http://arxiv.org/abs/2209.04796v1)|null|
 |**2022-09-11 01:39:29**|**Towards Sparsification of Graph Neural Networks**|Hongwu Peng et.al.|[2209.04766v1](http://arxiv.org/abs/2209.04766v1)|null|
-|**2022-09-09 14:50:56**|**Critical properties of the Anderson transition in random graphs:   two-parameter scaling theory, Kosterlitz-Thouless type flow and many-body   localization**|Ignacio García-Mata et.al.|[2209.04337v1](http://arxiv.org/abs/2209.04337v1)|null|
-|**2022-09-09 10:06:18**|**Self-supervised Learning for Heterogeneous Graph via Structure   Information based on Metapath**|Shuai Ma et.al.|[2209.04218v1](http://arxiv.org/abs/2209.04218v1)|null|
-|**2022-09-09 08:47:47**|**Simple and Powerful Architecture for Inductive Recommendation Using   Knowledge Graph Convolutions**|Theis E. Jendal et.al.|[2209.04185v3](http://arxiv.org/abs/2209.04185v3)|null|
-|**2022-09-09 06:07:17**|**In-situ animal behavior classification using knowledge distillation and   fixed-point quantization**|Reza Arablouei et.al.|[2209.04130v1](http://arxiv.org/abs/2209.04130v1)|null|
-|**2022-09-08 18:00:00**|**Quantum optimization with arbitrary connectivity using Rydberg atom   arrays**|Minh-Thi Nguyen et.al.|[2209.03965v1](http://arxiv.org/abs/2209.03965v1)|null|
-|**2022-09-08 16:20:25**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v2](http://arxiv.org/abs/2209.03904v2)|[link](https://github.com/rsalganik1123/facctrec2022)|
-|**2022-09-08 14:56:29**|**Simpler is better: Multilevel Abstraction with Graph Convolutional   Recurrent Neural Network Cells for Traffic Prediction**|Naghmeh Shafiee Roudbari et.al.|[2209.03858v1](http://arxiv.org/abs/2209.03858v1)|[link](https://github.com/naghm3h/msltd)|
-|**2022-09-08 14:12:15**|**Pre-Training a Graph Recurrent Network for Language Representation**|Yile Wang et.al.|[2209.03834v1](http://arxiv.org/abs/2209.03834v1)|[link](https://github.com/ylwangy/slstm_pytorch)|

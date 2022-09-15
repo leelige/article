@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-14 14:25:56**|**Efficient Beam Search for Initial Access Using Collaborative Filtering**|George Yammine et.al.|[2209.06669v1](http://arxiv.org/abs/2209.06669v1)|null|
+|**2022-09-14 13:47:58**|**Beyond Learning from Next Item: Sequential Recommendation via   Personalized Interest Sustainability**|Dongmin Hyun et.al.|[2209.06644v1](http://arxiv.org/abs/2209.06644v1)|[link](https://github.com/dmhyun/PERIS)|
+|**2022-09-13 23:53:32**|**The effects of surface fossil magnetic fields on massive star evolution:   IV. Grids of models at Solar, LMC, and SMC metallicities**|Z. Keszthelyi et.al.|[2209.06350v1](http://arxiv.org/abs/2209.06350v1)|null|
 |**2022-09-13 07:10:14**|**Moving from 2D to 3D: volumetric medical image classification for rectal   cancer staging**|Joohyung Lee et.al.|[2209.05771v1](http://arxiv.org/abs/2209.05771v1)|null|
 |**2022-09-11 22:48:26**|**Reinforcement Recommendation Reasoning through Knowledge Graphs for   Explanation Path Quality**|Giacomo Balloccu et.al.|[2209.04954v1](http://arxiv.org/abs/2209.04954v1)|null|
 |**2022-09-09 17:18:41**|**Longitudinal Acoustic Speech Tracking Following Pediatric Traumatic   Brain Injury**|Camille Noufi et.al.|[2209.04406v1](http://arxiv.org/abs/2209.04406v1)|null|
@@ -29,6 +32,3 @@
 |**2022-07-28 19:59:41**|**A Recommender System for Equitable Public Art Curation and Installation**|Anna Haensch et.al.|[2207.14367v1](http://arxiv.org/abs/2207.14367v1)|[link](https://github.com/annahaensch/opart_curation_tool)|
 |**2022-07-27 23:44:23**|**We Do Not Understand What It Says -- Studying Student Perceptions of   Software Modelling**|Shalini Chakraborty et.al.|[2207.13829v1](http://arxiv.org/abs/2207.13829v1)|null|
 |**2022-07-27 21:23:27**|**Network polarization, filter bubbles, and echo chambers: An annotated   review of measures, models, and case studies**|Ruben Interian et.al.|[2207.13799v1](http://arxiv.org/abs/2207.13799v1)|null|
-|**2022-07-23 21:25:19**|**Exploring the Impact of Temporal Bias in Point-of-Interest   Recommendation**|Hossein A. Rahmani et.al.|[2207.11609v1](http://arxiv.org/abs/2207.11609v1)|[link](https://github.com/rahmanidashti/contextsfair)|
-|**2022-07-19 15:19:03**|**Group Validation in Recommender Systems: Framework for Multi-layer   Performance Evaluation**|Wissam Al Jurdi et.al.|[2207.09320v1](http://arxiv.org/abs/2207.09320v1)|null|
-|**2022-07-19 01:55:07**|**Actionable and Interpretable Fault Localization for Recurring Failures   in Online Service Systems**|Zeyan Li et.al.|[2207.09021v3](http://arxiv.org/abs/2207.09021v3)|[link](https://github.com/NetManAIOps/DejaVu)|
