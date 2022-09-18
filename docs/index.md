@@ -1,41 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-09-17 16:09:03 Asia/Shanghai
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-14 14:25:56**|**Efficient Beam Search for Initial Access Using Collaborative Filtering**|George Yammine et.al.|[2209.06669v1](http://arxiv.org/abs/2209.06669v1)|null|
-|**2022-09-14 13:47:58**|**Beyond Learning from Next Item: Sequential Recommendation via   Personalized Interest Sustainability**|Dongmin Hyun et.al.|[2209.06644v1](http://arxiv.org/abs/2209.06644v1)|[link](https://github.com/dmhyun/PERIS)|
-|**2022-09-13 23:53:32**|**The effects of surface fossil magnetic fields on massive star evolution:   IV. Grids of models at Solar, LMC, and SMC metallicities**|Z. Keszthelyi et.al.|[2209.06350v1](http://arxiv.org/abs/2209.06350v1)|null|
-|**2022-09-13 07:10:14**|**Moving from 2D to 3D: volumetric medical image classification for rectal   cancer staging**|Joohyung Lee et.al.|[2209.05771v1](http://arxiv.org/abs/2209.05771v1)|null|
-|**2022-09-11 22:48:26**|**Reinforcement Recommendation Reasoning through Knowledge Graphs for   Explanation Path Quality**|Giacomo Balloccu et.al.|[2209.04954v1](http://arxiv.org/abs/2209.04954v1)|null|
-|**2022-09-09 17:18:41**|**Longitudinal Acoustic Speech Tracking Following Pediatric Traumatic   Brain Injury**|Camille Noufi et.al.|[2209.04406v1](http://arxiv.org/abs/2209.04406v1)|null|
-|**2022-09-09 15:55:48**|**Evaluating tests for cluster-randomized trials with few clusters under   generalized linear mixed models with covariate adjustment: a simulation study**|Hongxiang Qiu et.al.|[2209.04364v1](http://arxiv.org/abs/2209.04364v1)|[link](https://github.com/qiu-hongxiang-david/small-sample-adjusted-glmm-crt)|
-|**2022-09-08 21:47:10**|**Who Pays? Personalization, Bossiness and the Cost of Fairness**|Paresha Farastu et.al.|[2209.04043v1](http://arxiv.org/abs/2209.04043v1)|null|
-|**2022-09-08 16:02:16**|**A Stakeholder-Centered View on Fairness in Music Recommender Systems**|Karlijn Dinnissen et.al.|[2209.06126v1](http://arxiv.org/abs/2209.06126v1)|null|
-|**2022-09-02 06:23:06**|**Flexible transition probability model for assessing cost-effectiveness   of breast cancer screening**|Nourhan Shafik et.al.|[2209.01216v1](http://arxiv.org/abs/2209.01216v1)|null|
-|**2022-08-30 23:25:04**|**Evaluating hybrid controls methodology in early-phase oncology trials: a   simulation study based on the MORPHEUS-UC trial**|Guanbo Wang et.al.|[2209.05354v1](http://arxiv.org/abs/2209.05354v1)|null|
-|**2022-08-29 14:45:33**|**Snowmass2021 Topical Group Report from AF07: Targets and Sources**|Charlotte Barbier et.al.|[2208.13641v1](http://arxiv.org/abs/2208.13641v1)|null|
-|**2022-08-24 02:50:32**|**What are the Practices for Secret Management in Software Artifacts?**|Setu Kumar Basak et.al.|[2208.11280v1](http://arxiv.org/abs/2208.11280v1)|[link](https://github.com/setu1421/secret-management-practices-grey-literature-review-dataset)|
-|**2022-08-22 10:29:51**|**Towards Confidence-aware Calibrated Recommendation**|Mohammadmehdi Naghiaei et.al.|[2208.10192v1](http://arxiv.org/abs/2208.10192v1)|null|
-|**2022-08-19 14:42:12**|**Personalized Federated Recommendation via Joint Representation Learning,   User Clustering, and Model Adaptation**|Sichun Luo et.al.|[2208.09375v1](http://arxiv.org/abs/2208.09375v1)|null|
-|**2022-08-19 06:55:48**|**Measuring Friendship Closeness: A Perspective of Social Identity Theory**|Shiqi Zhang et.al.|[2208.09176v1](http://arxiv.org/abs/2208.09176v1)|null|
-|**2022-08-17 10:05:07**|**Assurance Cases as Foundation Stone for Auditing AI-enabled and   Autonomous Systems: Workshop Results and Political Recommendations for Action   from the ExamAI Project**|Rasmus Adler et.al.|[2208.08198v1](http://arxiv.org/abs/2208.08198v1)|null|
-|**2022-08-17 03:00:59**|**A Survey on Incomplete Multi-view Clustering**|Jie Wen et.al.|[2208.08040v1](http://arxiv.org/abs/2208.08040v1)|[link](https://github.com/darrenzzhang/survey_imc)|
-|**2022-08-13 13:34:05**|**Imputation Strategies Under Clinical Presence: Impact on Algorithmic   Fairness**|Vincent Jeanselme et.al.|[2208.06648v1](http://arxiv.org/abs/2208.06648v1)|[link](https://github.com/jeanselme/clinicalpresencefairness)|
-|**2022-08-07 04:00:43**|**Debiased Cross-modal Matching for Content-based Micro-video Background   Music Recommendation**|Jinng Yi et.al.|[2208.03633v1](http://arxiv.org/abs/2208.03633v1)|[link](https://github.com/jing-1/debcm)|
-|**2022-08-06 07:10:03**|**Threddy: An Interactive System for Personalized Thread-based Exploration   and Organization of Scientific Literature**|Hyeonsu B. Kang et.al.|[2208.03455v2](http://arxiv.org/abs/2208.03455v2)|null|
-|**2022-08-05 14:00:32**|**MEDLEY: Intent-based Recommendations to Support Dashboard Composition**|Aditeya Pandey et.al.|[2208.03175v1](http://arxiv.org/abs/2208.03175v1)|null|
-|**2022-08-04 10:25:03**|**EURADOS Working Group 6, Computational Dosimetry, a history of promoting   good practice via intercomparisons and training**|Rick Tanner et.al.|[2208.02568v1](http://arxiv.org/abs/2208.02568v1)|null|
-|**2022-08-03 19:37:59**|**On the Relocation Behaviour of Ride-sourcing Drivers**|Peyman Ashkrof et.al.|[2208.02323v1](http://arxiv.org/abs/2208.02323v1)|null|
-|**2022-08-02 07:02:44**|**Twenty Years of Auxiliary-Field Quantum Monte Carlo in Quantum   Chemistry: An Overview and Assessment on Main Group Chemistry and   Bond-Breaking**|Joonho Lee et.al.|[2208.01280v1](http://arxiv.org/abs/2208.01280v1)|null|
-|**2022-07-31 17:44:57**|**The impact of Twitter on political influence on the choice of a running   mate: Social Network Analysis and Semantic Analysis -- A Review**|Immaculate Wanza et.al.|[2208.00479v1](http://arxiv.org/abs/2208.00479v1)|null|
-|**2022-07-30 11:47:31**|**Streaming Algorithms for Diversity Maximization with Fairness   Constraints**|Yanhao Wang et.al.|[2208.00194v1](http://arxiv.org/abs/2208.00194v1)|[link](https://github.com/yhwang1990/code-fdm)|
-|**2022-07-28 19:59:41**|**A Recommender System for Equitable Public Art Curation and Installation**|Anna Haensch et.al.|[2207.14367v1](http://arxiv.org/abs/2207.14367v1)|[link](https://github.com/annahaensch/opart_curation_tool)|
-|**2022-07-27 23:44:23**|**We Do Not Understand What It Says -- Studying Student Perceptions of   Software Modelling**|Shalini Chakraborty et.al.|[2207.13829v1](http://arxiv.org/abs/2207.13829v1)|null|
-|**2022-07-27 21:23:27**|**Network polarization, filter bubbles, and echo chambers: An annotated   review of measures, models, and case studies**|Ruben Interian et.al.|[2207.13799v1](http://arxiv.org/abs/2207.13799v1)|null|
+ 自动更新 @ 2022-09-18 16:09:07 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -108,3 +72,39 @@
 |**2022-09-12 17:17:49**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
 |**2022-09-12 16:26:04**|**Deep Neural Networks as Complex Networks**|Emanuele La Malfa et.al.|[2209.05488v1](http://arxiv.org/abs/2209.05488v1)|null|
 |**2022-09-12 12:52:15**|**Amortised Inference in Structured Generative Models with Explaining Away**|Changmin Yu et.al.|[2209.05212v1](http://arxiv.org/abs/2209.05212v1)|null|
+
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-14 14:25:56**|**Efficient Beam Search for Initial Access Using Collaborative Filtering**|George Yammine et.al.|[2209.06669v1](http://arxiv.org/abs/2209.06669v1)|null|
+|**2022-09-14 13:47:58**|**Beyond Learning from Next Item: Sequential Recommendation via   Personalized Interest Sustainability**|Dongmin Hyun et.al.|[2209.06644v1](http://arxiv.org/abs/2209.06644v1)|[link](https://github.com/dmhyun/PERIS)|
+|**2022-09-13 23:53:32**|**The effects of surface fossil magnetic fields on massive star evolution:   IV. Grids of models at Solar, LMC, and SMC metallicities**|Z. Keszthelyi et.al.|[2209.06350v1](http://arxiv.org/abs/2209.06350v1)|null|
+|**2022-09-13 07:10:14**|**Moving from 2D to 3D: volumetric medical image classification for rectal   cancer staging**|Joohyung Lee et.al.|[2209.05771v1](http://arxiv.org/abs/2209.05771v1)|null|
+|**2022-09-11 22:48:26**|**Reinforcement Recommendation Reasoning through Knowledge Graphs for   Explanation Path Quality**|Giacomo Balloccu et.al.|[2209.04954v1](http://arxiv.org/abs/2209.04954v1)|null|
+|**2022-09-09 17:18:41**|**Longitudinal Acoustic Speech Tracking Following Pediatric Traumatic   Brain Injury**|Camille Noufi et.al.|[2209.04406v1](http://arxiv.org/abs/2209.04406v1)|null|
+|**2022-09-09 15:55:48**|**Evaluating tests for cluster-randomized trials with few clusters under   generalized linear mixed models with covariate adjustment: a simulation study**|Hongxiang Qiu et.al.|[2209.04364v1](http://arxiv.org/abs/2209.04364v1)|[link](https://github.com/qiu-hongxiang-david/small-sample-adjusted-glmm-crt)|
+|**2022-09-08 21:47:10**|**Who Pays? Personalization, Bossiness and the Cost of Fairness**|Paresha Farastu et.al.|[2209.04043v1](http://arxiv.org/abs/2209.04043v1)|null|
+|**2022-09-08 16:02:16**|**A Stakeholder-Centered View on Fairness in Music Recommender Systems**|Karlijn Dinnissen et.al.|[2209.06126v1](http://arxiv.org/abs/2209.06126v1)|null|
+|**2022-09-02 06:23:06**|**Flexible transition probability model for assessing cost-effectiveness   of breast cancer screening**|Nourhan Shafik et.al.|[2209.01216v1](http://arxiv.org/abs/2209.01216v1)|null|
+|**2022-08-30 23:25:04**|**Evaluating hybrid controls methodology in early-phase oncology trials: a   simulation study based on the MORPHEUS-UC trial**|Guanbo Wang et.al.|[2209.05354v1](http://arxiv.org/abs/2209.05354v1)|null|
+|**2022-08-29 14:45:33**|**Snowmass2021 Topical Group Report from AF07: Targets and Sources**|Charlotte Barbier et.al.|[2208.13641v1](http://arxiv.org/abs/2208.13641v1)|null|
+|**2022-08-24 02:50:32**|**What are the Practices for Secret Management in Software Artifacts?**|Setu Kumar Basak et.al.|[2208.11280v1](http://arxiv.org/abs/2208.11280v1)|[link](https://github.com/setu1421/secret-management-practices-grey-literature-review-dataset)|
+|**2022-08-22 10:29:51**|**Towards Confidence-aware Calibrated Recommendation**|Mohammadmehdi Naghiaei et.al.|[2208.10192v1](http://arxiv.org/abs/2208.10192v1)|null|
+|**2022-08-19 14:42:12**|**Personalized Federated Recommendation via Joint Representation Learning,   User Clustering, and Model Adaptation**|Sichun Luo et.al.|[2208.09375v1](http://arxiv.org/abs/2208.09375v1)|null|
+|**2022-08-19 06:55:48**|**Measuring Friendship Closeness: A Perspective of Social Identity Theory**|Shiqi Zhang et.al.|[2208.09176v1](http://arxiv.org/abs/2208.09176v1)|null|
+|**2022-08-17 10:05:07**|**Assurance Cases as Foundation Stone for Auditing AI-enabled and   Autonomous Systems: Workshop Results and Political Recommendations for Action   from the ExamAI Project**|Rasmus Adler et.al.|[2208.08198v1](http://arxiv.org/abs/2208.08198v1)|null|
+|**2022-08-17 03:00:59**|**A Survey on Incomplete Multi-view Clustering**|Jie Wen et.al.|[2208.08040v1](http://arxiv.org/abs/2208.08040v1)|[link](https://github.com/darrenzzhang/survey_imc)|
+|**2022-08-13 13:34:05**|**Imputation Strategies Under Clinical Presence: Impact on Algorithmic   Fairness**|Vincent Jeanselme et.al.|[2208.06648v1](http://arxiv.org/abs/2208.06648v1)|[link](https://github.com/jeanselme/clinicalpresencefairness)|
+|**2022-08-07 04:00:43**|**Debiased Cross-modal Matching for Content-based Micro-video Background   Music Recommendation**|Jinng Yi et.al.|[2208.03633v1](http://arxiv.org/abs/2208.03633v1)|[link](https://github.com/jing-1/debcm)|
+|**2022-08-06 07:10:03**|**Threddy: An Interactive System for Personalized Thread-based Exploration   and Organization of Scientific Literature**|Hyeonsu B. Kang et.al.|[2208.03455v2](http://arxiv.org/abs/2208.03455v2)|null|
+|**2022-08-05 14:00:32**|**MEDLEY: Intent-based Recommendations to Support Dashboard Composition**|Aditeya Pandey et.al.|[2208.03175v1](http://arxiv.org/abs/2208.03175v1)|null|
+|**2022-08-04 10:25:03**|**EURADOS Working Group 6, Computational Dosimetry, a history of promoting   good practice via intercomparisons and training**|Rick Tanner et.al.|[2208.02568v1](http://arxiv.org/abs/2208.02568v1)|null|
+|**2022-08-03 19:37:59**|**On the Relocation Behaviour of Ride-sourcing Drivers**|Peyman Ashkrof et.al.|[2208.02323v1](http://arxiv.org/abs/2208.02323v1)|null|
+|**2022-08-02 07:02:44**|**Twenty Years of Auxiliary-Field Quantum Monte Carlo in Quantum   Chemistry: An Overview and Assessment on Main Group Chemistry and   Bond-Breaking**|Joonho Lee et.al.|[2208.01280v1](http://arxiv.org/abs/2208.01280v1)|null|
+|**2022-07-31 17:44:57**|**The impact of Twitter on political influence on the choice of a running   mate: Social Network Analysis and Semantic Analysis -- A Review**|Immaculate Wanza et.al.|[2208.00479v1](http://arxiv.org/abs/2208.00479v1)|null|
+|**2022-07-30 11:47:31**|**Streaming Algorithms for Diversity Maximization with Fairness   Constraints**|Yanhao Wang et.al.|[2208.00194v1](http://arxiv.org/abs/2208.00194v1)|[link](https://github.com/yhwang1990/code-fdm)|
+|**2022-07-28 19:59:41**|**A Recommender System for Equitable Public Art Curation and Installation**|Anna Haensch et.al.|[2207.14367v1](http://arxiv.org/abs/2207.14367v1)|[link](https://github.com/annahaensch/opart_curation_tool)|
+|**2022-07-27 23:44:23**|**We Do Not Understand What It Says -- Studying Student Perceptions of   Software Modelling**|Shalini Chakraborty et.al.|[2207.13829v1](http://arxiv.org/abs/2207.13829v1)|null|
+|**2022-07-27 21:23:27**|**Network polarization, filter bubbles, and echo chambers: An annotated   review of measures, models, and case studies**|Ruben Interian et.al.|[2207.13799v1](http://arxiv.org/abs/2207.13799v1)|null|
