@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-16 17:11:57**|**Reinterpretation and Long-Term Preservation of Data and Code**|Stephen Bailey et.al.|[2209.08054v1](http://arxiv.org/abs/2209.08054v1)|null|
+|**2022-09-16 17:01:39**|**'Surprised, Shocked, Worried': User Reactions to Facebook Data   Collection from Third Parties**|Patricia Arias-Cabarcos et.al.|[2209.08048v1](http://arxiv.org/abs/2209.08048v1)|null|
 |**2022-09-14 14:25:56**|**Efficient Beam Search for Initial Access Using Collaborative Filtering**|George Yammine et.al.|[2209.06669v1](http://arxiv.org/abs/2209.06669v1)|null|
 |**2022-09-14 13:47:58**|**Beyond Learning from Next Item: Sequential Recommendation via   Personalized Interest Sustainability**|Dongmin Hyun et.al.|[2209.06644v1](http://arxiv.org/abs/2209.06644v1)|[link](https://github.com/dmhyun/PERIS)|
 |**2022-09-13 23:53:32**|**The effects of surface fossil magnetic fields on massive star evolution:   IV. Grids of models at Solar, LMC, and SMC metallicities**|Z. Keszthelyi et.al.|[2209.06350v1](http://arxiv.org/abs/2209.06350v1)|null|
@@ -30,5 +32,3 @@
 |**2022-07-31 17:44:57**|**The impact of Twitter on political influence on the choice of a running   mate: Social Network Analysis and Semantic Analysis -- A Review**|Immaculate Wanza et.al.|[2208.00479v1](http://arxiv.org/abs/2208.00479v1)|null|
 |**2022-07-30 11:47:31**|**Streaming Algorithms for Diversity Maximization with Fairness   Constraints**|Yanhao Wang et.al.|[2208.00194v1](http://arxiv.org/abs/2208.00194v1)|[link](https://github.com/yhwang1990/code-fdm)|
 |**2022-07-28 19:59:41**|**A Recommender System for Equitable Public Art Curation and Installation**|Anna Haensch et.al.|[2207.14367v1](http://arxiv.org/abs/2207.14367v1)|[link](https://github.com/annahaensch/opart_curation_tool)|
-|**2022-07-27 23:44:23**|**We Do Not Understand What It Says -- Studying Student Perceptions of   Software Modelling**|Shalini Chakraborty et.al.|[2207.13829v1](http://arxiv.org/abs/2207.13829v1)|null|
-|**2022-07-27 21:23:27**|**Network polarization, filter bubbles, and echo chambers: An annotated   review of measures, models, and case studies**|Ruben Interian et.al.|[2207.13799v1](http://arxiv.org/abs/2207.13799v1)|null|
