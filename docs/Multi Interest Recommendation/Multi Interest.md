@@ -2,7 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-15 14:38:47**|**Semiparametric Best Arm Identification with Contextual Information**|Masahiro Kato et.al.|[2209.07330v1](http://arxiv.org/abs/2209.07330v1)|null|
+|**2022-09-15 14:38:47**|**Semiparametric Best Arm Identification with Contextual Information**|Masahiro Kato et.al.|[2209.07330v2](http://arxiv.org/abs/2209.07330v2)|null|
 |**2022-09-10 04:21:25**|**Causal Intervention for Fairness in Multi-behavior Recommendation**|Xi Wang et.al.|[2209.04589v1](http://arxiv.org/abs/2209.04589v1)|null|
 |**2022-09-06 22:25:36**|**User recommendation system based on MIND dataset**|Niran A. Abdulhussein et.al.|[2209.06131v1](http://arxiv.org/abs/2209.06131v1)|null|
 |**2022-09-04 08:09:31**|**Hierarchical Transformer with Spatio-Temporal Context Aggregation for   Next Point-of-Interest Recommendation**|Jiayi Xie et.al.|[2209.01559v1](http://arxiv.org/abs/2209.01559v1)|[link](https://github.com/JennyXieJiayi/STAR-HiT)|

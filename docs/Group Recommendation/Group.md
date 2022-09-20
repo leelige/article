@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-19 15:01:41**|**Summary Report for Snowmass Community Engagement Frontier Topical Group   06: Public Policy & Government Engagement**|Rob Fine et.al.|[2209.09067v1](http://arxiv.org/abs/2209.09067v1)|null|
+|**2022-09-19 09:23:03**|**Snowmass 2021 Computational Frontier CompF4 Topical Group Report:   Storage and Processing Resource Access**|W. Bhimij et.al.|[2209.08868v1](http://arxiv.org/abs/2209.08868v1)|null|
+|**2022-09-17 02:43:59**|**Summary Report of the Topical Group on Physics Education, Community   Engagement Frontier (CEF4/CommF4) Snowmass 2021**|Sibrand J. de Jong et.al.|[2209.08225v1](http://arxiv.org/abs/2209.08225v1)|null|
 |**2022-09-16 17:11:57**|**Reinterpretation and Long-Term Preservation of Data and Code**|Stephen Bailey et.al.|[2209.08054v1](http://arxiv.org/abs/2209.08054v1)|null|
 |**2022-09-16 17:01:39**|**'Surprised, Shocked, Worried': User Reactions to Facebook Data   Collection from Third Parties**|Patricia Arias-Cabarcos et.al.|[2209.08048v1](http://arxiv.org/abs/2209.08048v1)|null|
 |**2022-09-14 14:25:56**|**Efficient Beam Search for Initial Access Using Collaborative Filtering**|George Yammine et.al.|[2209.06669v1](http://arxiv.org/abs/2209.06669v1)|null|
@@ -29,6 +32,3 @@
 |**2022-08-04 10:25:03**|**EURADOS Working Group 6, Computational Dosimetry, a history of promoting   good practice via intercomparisons and training**|Rick Tanner et.al.|[2208.02568v1](http://arxiv.org/abs/2208.02568v1)|null|
 |**2022-08-03 19:37:59**|**On the Relocation Behaviour of Ride-sourcing Drivers**|Peyman Ashkrof et.al.|[2208.02323v1](http://arxiv.org/abs/2208.02323v1)|null|
 |**2022-08-02 07:02:44**|**Twenty Years of Auxiliary-Field Quantum Monte Carlo in Quantum   Chemistry: An Overview and Assessment on Main Group Chemistry and   Bond-Breaking**|Joonho Lee et.al.|[2208.01280v1](http://arxiv.org/abs/2208.01280v1)|null|
-|**2022-07-31 17:44:57**|**The impact of Twitter on political influence on the choice of a running   mate: Social Network Analysis and Semantic Analysis -- A Review**|Immaculate Wanza et.al.|[2208.00479v1](http://arxiv.org/abs/2208.00479v1)|null|
-|**2022-07-30 11:47:31**|**Streaming Algorithms for Diversity Maximization with Fairness   Constraints**|Yanhao Wang et.al.|[2208.00194v1](http://arxiv.org/abs/2208.00194v1)|[link](https://github.com/yhwang1990/code-fdm)|
-|**2022-07-28 19:59:41**|**A Recommender System for Equitable Public Art Curation and Installation**|Anna Haensch et.al.|[2207.14367v1](http://arxiv.org/abs/2207.14367v1)|[link](https://github.com/annahaensch/opart_curation_tool)|
