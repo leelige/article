@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-21 17:15:58**|**Learning to Relight Portrait Images via a Virtual Light Stage and   Synthetic-to-Real Adaptation**|Yu-Ying Yeh et.al.|[2209.10510v1](http://arxiv.org/abs/2209.10510v1)|null|
+|**2022-09-21 15:16:45**|**Approximate sampling and estimation of partition functions using neural   networks**|George T. Cantwell et.al.|[2209.10423v1](http://arxiv.org/abs/2209.10423v1)|null|
+|**2022-09-21 14:16:23**|**Fast Traffic Engineering by Gradient Descent with Learned Differentiable   Routing**|Krzysztof Rusek et.al.|[2209.10380v1](http://arxiv.org/abs/2209.10380v1)|null|
+|**2022-09-21 08:43:06**|**Implicit Conversion of Manifold B-Rep Solids by Neural Halfspace   Representation**|Hao-Xiang Guo et.al.|[2209.10191v1](http://arxiv.org/abs/2209.10191v1)|null|
+|**2022-09-20 21:12:28**|**Adapted AZNN Methods for Time-Varying and Static Matrix Problems**|Frank Uhlig et.al.|[2209.10002v1](http://arxiv.org/abs/2209.10002v1)|null|
+|**2022-09-20 18:52:05**|**Dynamic Relevance Graph Network for Knowledge-Aware Question Answering**|Chen Zheng et.al.|[2209.09947v1](http://arxiv.org/abs/2209.09947v1)|[link](https://github.com/hlr/drgn)|
 |**2022-09-20 14:41:37**|**Dynamic Graph Message Passing Networks for Visual Recognition**|Li Zhang et.al.|[2209.09760v1](http://arxiv.org/abs/2209.09760v1)|[link](https://github.com/fudan-zvg/dgmn2)|
 |**2022-09-20 14:37:38**|**ESPnet-ONNX: Bridging a Gap Between Research and Production**|Masao Someki et.al.|[2209.09756v1](http://arxiv.org/abs/2209.09756v1)|[link](https://github.com/espnet/espnet_onnx)|
 |**2022-09-20 14:06:44**|**Neural Graph Databases**|Maciej Besta et.al.|[2209.09732v1](http://arxiv.org/abs/2209.09732v1)|null|
@@ -10,7 +16,7 @@
 |**2022-09-20 11:09:54**|**MAC: A Meta-Learning Approach for Feature Learning and Recombination**|S. Tiwari et.al.|[2209.09613v1](http://arxiv.org/abs/2209.09613v1)|null|
 |**2022-09-20 10:45:03**|**Graph Value Iteration**|Dieqiao Feng et.al.|[2209.09608v1](http://arxiv.org/abs/2209.09608v1)|null|
 |**2022-09-20 00:56:49**|**Partial sequence labeling with structured Gaussian Processes**|Xiaolei Lu et.al.|[2209.09397v1](http://arxiv.org/abs/2209.09397v1)|null|
-|**2022-09-19 20:37:55**|**Reviewing Embeddings for Graph Neural Networks**|S. Purchase et.al.|[2209.09338v1](http://arxiv.org/abs/2209.09338v1)|null|
+|**2022-09-19 20:37:55**|**Revisiting Embeddings for Graph Neural Networks**|S. Purchase et.al.|[2209.09338v2](http://arxiv.org/abs/2209.09338v2)|null|
 |**2022-09-19 14:37:35**|**Gradual Weisfeiler-Leman: Slow and Steady Wins the Race**|Franka Bause et.al.|[2209.09048v1](http://arxiv.org/abs/2209.09048v1)|null|
 |**2022-09-19 11:18:45**|**Interpreting mechanism of Synergism of drug combinations using attention   based hierarchical graph pooling**|Zehao Dong et.al.|[2209.09245v1](http://arxiv.org/abs/2209.09245v1)|null|
 |**2022-09-19 07:52:02**|**One Network, Many Robot: Generative Graphical Inverse Kinematics**|Oliver Limoyo et.al.|[2209.08812v1](http://arxiv.org/abs/2209.08812v1)|null|
@@ -26,9 +32,3 @@
 |**2022-09-16 07:19:35**|**On the Robustness of Graph Neural Diffusion to Topology Perturbations**|Yang Song et.al.|[2209.07754v1](http://arxiv.org/abs/2209.07754v1)|[link](https://github.com/zknus/robustness-of-graph-neural-diffusion)|
 |**2022-09-15 19:36:56**|**Combinatorial geometry of neural codes, neural data analysis, and neural   networks**|Caitlin Lienkaemper et.al.|[2209.07583v1](http://arxiv.org/abs/2209.07583v1)|null|
 |**2022-09-15 17:41:50**|**DiP-GNN: Discriminative Pre-Training of Graph Neural Networks**|Simiao Zuo et.al.|[2209.07499v1](http://arxiv.org/abs/2209.07499v1)|null|
-|**2022-09-15 15:04:55**|**Overhead-Free Blockage Detection and Precoding Through Physics-Based   Graph Neural Networks: LIDAR Data Meets Ray Tracing**|Matteo Nerini et.al.|[2209.07350v1](http://arxiv.org/abs/2209.07350v1)|null|
-|**2022-09-15 13:52:15**|**Multi-Task Mixture Density Graph Neural Networks for Predicting Cu-based   Single-Atom Alloy Catalysts for CO2 Reduction Reaction**|Chen Liang et.al.|[2209.07300v1](http://arxiv.org/abs/2209.07300v1)|null|
-|**2022-09-15 09:45:59**|**VS-CAM: Vertex Semantic Class Activation Mapping to Interpret Vision   Graph Neural Network**|Zhenpeng Feng et.al.|[2209.09104v1](http://arxiv.org/abs/2209.09104v1)|null|
-|**2022-09-15 07:45:35**|**GNNInterpreter: A Probabilistic Generative Model-Level Explanation for   Graph Neural Networks**|Xiaoqi Wang et.al.|[2209.07924v1](http://arxiv.org/abs/2209.07924v1)|null|
-|**2022-09-15 06:53:17**|**Earthquake Phase Association with Graph Neural Networks**|Ian W. McBrearty et.al.|[2209.07086v1](http://arxiv.org/abs/2209.07086v1)|null|
-|**2022-09-15 06:01:12**|**Fixed-Point Centrality for Networks**|Shuang Gao et.al.|[2209.07070v1](http://arxiv.org/abs/2209.07070v1)|null|

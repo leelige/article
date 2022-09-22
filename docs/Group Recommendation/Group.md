@@ -2,8 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-21 04:34:17**|**A Comprehensive Survey on Trustworthy Recommender Systems**|Wenqi Fan et.al.|[2209.10117v1](http://arxiv.org/abs/2209.10117v1)|null|
 |**2022-09-19 15:01:41**|**Summary Report for Snowmass Community Engagement Frontier Topical Group   06: Public Policy & Government Engagement**|Rob Fine et.al.|[2209.09067v1](http://arxiv.org/abs/2209.09067v1)|null|
 |**2022-09-19 09:23:03**|**Snowmass 2021 Computational Frontier CompF4 Topical Group Report:   Storage and Processing Resource Access**|W. Bhimij et.al.|[2209.08868v1](http://arxiv.org/abs/2209.08868v1)|null|
+|**2022-09-18 18:47:45**|**Summary Report of the Topical Group on Career Pipeline and Development   (CommF2) Community Engagement Frontier Snowmass 2021**|Julie Hogan et.al.|[2209.10114v1](http://arxiv.org/abs/2209.10114v1)|null|
 |**2022-09-17 02:43:59**|**Summary Report of the Topical Group on Physics Education, Community   Engagement Frontier (CEF4/CommF4) Snowmass 2021**|Sibrand J. de Jong et.al.|[2209.08225v1](http://arxiv.org/abs/2209.08225v1)|null|
 |**2022-09-16 17:11:57**|**Reinterpretation and Long-Term Preservation of Data and Code**|Stephen Bailey et.al.|[2209.08054v1](http://arxiv.org/abs/2209.08054v1)|null|
 |**2022-09-16 17:01:39**|**'Surprised, Shocked, Worried': User Reactions to Facebook Data   Collection from Third Parties**|Patricia Arias-Cabarcos et.al.|[2209.08048v1](http://arxiv.org/abs/2209.08048v1)|null|
@@ -30,5 +32,3 @@
 |**2022-08-06 07:10:03**|**Threddy: An Interactive System for Personalized Thread-based Exploration   and Organization of Scientific Literature**|Hyeonsu B. Kang et.al.|[2208.03455v2](http://arxiv.org/abs/2208.03455v2)|null|
 |**2022-08-05 14:00:32**|**MEDLEY: Intent-based Recommendations to Support Dashboard Composition**|Aditeya Pandey et.al.|[2208.03175v1](http://arxiv.org/abs/2208.03175v1)|null|
 |**2022-08-04 10:25:03**|**EURADOS Working Group 6, Computational Dosimetry, a history of promoting   good practice via intercomparisons and training**|Rick Tanner et.al.|[2208.02568v1](http://arxiv.org/abs/2208.02568v1)|null|
-|**2022-08-03 19:37:59**|**On the Relocation Behaviour of Ride-sourcing Drivers**|Peyman Ashkrof et.al.|[2208.02323v1](http://arxiv.org/abs/2208.02323v1)|null|
-|**2022-08-02 07:02:44**|**Twenty Years of Auxiliary-Field Quantum Monte Carlo in Quantum   Chemistry: An Overview and Assessment on Main Group Chemistry and   Bond-Breaking**|Joonho Lee et.al.|[2208.01280v1](http://arxiv.org/abs/2208.01280v1)|null|
