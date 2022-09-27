@@ -2,6 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-26 02:29:47**|**Diversity, Equity, and Inclusion in Particle Physics**|C. Bonifazi et.al.|[2209.12377v1](http://arxiv.org/abs/2209.12377v1)|null|
+|**2022-09-25 19:18:09**|**Issues in Implementing Regression Calibration Analyses**|Lillian Boe et.al.|[2209.12304v1](http://arxiv.org/abs/2209.12304v1)|null|
+|**2022-09-24 14:37:14**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality   and Haptic feedback**|Yu Jiang et.al.|[2209.12018v1](http://arxiv.org/abs/2209.12018v1)|null|
+|**2022-09-23 20:06:18**|**Revisiting the Analysis of Matched-Pair and Stratified Experiments in   the Presence of Attrition**|Yuehao Bai et.al.|[2209.11840v1](http://arxiv.org/abs/2209.11840v1)|null|
 |**2022-09-21 04:34:17**|**A Comprehensive Survey on Trustworthy Recommender Systems**|Wenqi Fan et.al.|[2209.10117v1](http://arxiv.org/abs/2209.10117v1)|null|
 |**2022-09-19 15:01:41**|**Summary Report for Snowmass Community Engagement Frontier Topical Group   06: Public Policy & Government Engagement**|Rob Fine et.al.|[2209.09067v1](http://arxiv.org/abs/2209.09067v1)|null|
 |**2022-09-19 09:23:03**|**Snowmass 2021 Computational Frontier CompF4 Topical Group Report:   Storage and Processing Resource Access**|W. Bhimij et.al.|[2209.08868v1](http://arxiv.org/abs/2209.08868v1)|null|
@@ -28,7 +32,3 @@
 |**2022-08-17 10:05:07**|**Assurance Cases as Foundation Stone for Auditing AI-enabled and   Autonomous Systems: Workshop Results and Political Recommendations for Action   from the ExamAI Project**|Rasmus Adler et.al.|[2208.08198v1](http://arxiv.org/abs/2208.08198v1)|null|
 |**2022-08-17 03:00:59**|**A Survey on Incomplete Multi-view Clustering**|Jie Wen et.al.|[2208.08040v1](http://arxiv.org/abs/2208.08040v1)|[link](https://github.com/darrenzzhang/survey_imc)|
 |**2022-08-13 13:34:05**|**Imputation Strategies Under Clinical Presence: Impact on Algorithmic   Fairness**|Vincent Jeanselme et.al.|[2208.06648v1](http://arxiv.org/abs/2208.06648v1)|[link](https://github.com/jeanselme/clinicalpresencefairness)|
-|**2022-08-07 04:00:43**|**Debiased Cross-modal Matching for Content-based Micro-video Background   Music Recommendation**|Jinng Yi et.al.|[2208.03633v1](http://arxiv.org/abs/2208.03633v1)|[link](https://github.com/jing-1/debcm)|
-|**2022-08-06 07:10:03**|**Threddy: An Interactive System for Personalized Thread-based Exploration   and Organization of Scientific Literature**|Hyeonsu B. Kang et.al.|[2208.03455v2](http://arxiv.org/abs/2208.03455v2)|null|
-|**2022-08-05 14:00:32**|**MEDLEY: Intent-based Recommendations to Support Dashboard Composition**|Aditeya Pandey et.al.|[2208.03175v1](http://arxiv.org/abs/2208.03175v1)|null|
-|**2022-08-04 10:25:03**|**EURADOS Working Group 6, Computational Dosimetry, a history of promoting   good practice via intercomparisons and training**|Rick Tanner et.al.|[2208.02568v1](http://arxiv.org/abs/2208.02568v1)|null|
