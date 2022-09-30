@@ -2,9 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-29 16:47:57**|**Graph Anomaly Detection with Graph Neural Networks: Current Status and   Challenges**|Hwan Kim et.al.|[2209.14930v1](http://arxiv.org/abs/2209.14930v1)|null|
+|**2022-09-29 02:19:39**|**How Powerful is Implicit Denoising in Graph Neural Networks**|Songtao Liu et.al.|[2209.14514v1](http://arxiv.org/abs/2209.14514v1)|null|
+|**2022-09-28 23:10:09**|**Neural Methods for Logical Reasoning Over Knowledge Graphs**|Alfonso Amayuelas et.al.|[2209.14464v1](http://arxiv.org/abs/2209.14464v1)|[link](https://github.com/amayuelas/NNKGReasoning)|
+|**2022-09-28 20:03:57**|**Learning to Explain Graph Neural Networks**|Giuseppe Serra et.al.|[2209.14402v1](http://arxiv.org/abs/2209.14402v1)|null|
+|**2022-09-28 18:14:34**|**Pareto Actor-Critic for Equilibrium Selection in Multi-Agent   Reinforcement Learning**|Filippos Christianos et.al.|[2209.14344v1](http://arxiv.org/abs/2209.14344v1)|null|
 |**2022-09-28 17:30:27**|**A Multi-scale Graph Signature for Persistence Diagrams based on Return   Probabilities of Random Walks**|Chau Pham et.al.|[2209.14264v1](http://arxiv.org/abs/2209.14264v1)|null|
 |**2022-09-28 13:55:52**|**Debiasing Graph Neural Networks via Learning Disentangled Causal   Substructure**|Shaohua Fan et.al.|[2209.14107v1](http://arxiv.org/abs/2209.14107v1)|[link](https://github.com/googlebaba/disc)|
-|**2022-09-28 12:55:35**|**LL-GNN: Low Latency Graph Neural Networks on FPGAs for Particle   Detectors**|Zhiqiang Que et.al.|[2209.14065v1](http://arxiv.org/abs/2209.14065v1)|null|
+|**2022-09-28 12:55:35**|**LL-GNN: Low Latency Graph Neural Networks on FPGAs for Particle   Detectors**|Zhiqiang Que et.al.|[2209.14065v1](http://arxiv.org/abs/2209.14065v1)|[link](https://github.com/walkieq/gnn-jedinet-fpga)|
 |**2022-09-28 10:10:41**|**Knowledge-aware Neural Networks with Personalized Feature Referencing   for Cold-start Recommendation**|Xinni Zhang et.al.|[2209.13973v1](http://arxiv.org/abs/2209.13973v1)|null|
 |**2022-09-28 08:23:11**|**On semi shift invariant graph filters**|Feng Ji et.al.|[2209.13909v1](http://arxiv.org/abs/2209.13909v1)|null|
 |**2022-09-27 17:14:09**|**Polymer informatics at-scale with multitask graph neural networks**|Rishi Gurnani et.al.|[2209.13557v1](http://arxiv.org/abs/2209.13557v1)|[link](https://github.com/ramprasad-group/polygnn)|
@@ -27,8 +32,3 @@
 |**2022-09-24 07:14:32**|**Planning for Multi-Object Manipulation with Graph Neural Network   Relational Classifiers**|Yixuan Huang et.al.|[2209.11943v1](http://arxiv.org/abs/2209.11943v1)|null|
 |**2022-09-24 02:20:54**|**CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph   Convolutional Network Inference**|Ran Ran et.al.|[2209.11904v1](http://arxiv.org/abs/2209.11904v1)|null|
 |**2022-09-24 00:42:33**|**Closing the Loop: Graph Networks to Unify Semantic Objects and Visual   Features for Multi-object Scenes**|Jonathan J. Y. Kim et.al.|[2209.11894v1](http://arxiv.org/abs/2209.11894v1)|null|
-|**2022-09-23 23:28:40**|**Physics-Informed Graph Neural Network for Spatial-temporal Production   Forecasting**|Wendi Liu et.al.|[2209.11885v1](http://arxiv.org/abs/2209.11885v1)|null|
-|**2022-09-23 19:40:11**|**One-Shot Reachability Analysis of Neural Network Dynamical Systems**|Shaoru Chen et.al.|[2209.11827v1](http://arxiv.org/abs/2209.11827v1)|null|
-|**2022-09-23 15:07:22**|**Faith: An Efficient Framework for Transformer Verification on GPUs**|Boyuan Feng et.al.|[2209.12708v1](http://arxiv.org/abs/2209.12708v1)|[link](https://github.com/boyuanfeng/faith)|
-|**2022-09-23 13:41:54**|**Learning Rigid Body Dynamics with Lagrangian Graph Neural Network**|Ravinder Bhattoo et.al.|[2209.11588v1](http://arxiv.org/abs/2209.11588v1)|null|
-|**2022-09-23 13:26:05**|**Multi-Granularity Graph Pooling for Video-based Person Re-Identification**|Honghu Pan et.al.|[2209.11584v1](http://arxiv.org/abs/2209.11584v1)|null|
