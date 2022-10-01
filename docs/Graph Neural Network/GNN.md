@@ -5,7 +5,7 @@
 |**2022-09-29 16:47:57**|**Graph Anomaly Detection with Graph Neural Networks: Current Status and   Challenges**|Hwan Kim et.al.|[2209.14930v1](http://arxiv.org/abs/2209.14930v1)|null|
 |**2022-09-29 02:19:39**|**How Powerful is Implicit Denoising in Graph Neural Networks**|Songtao Liu et.al.|[2209.14514v1](http://arxiv.org/abs/2209.14514v1)|null|
 |**2022-09-28 23:10:09**|**Neural Methods for Logical Reasoning Over Knowledge Graphs**|Alfonso Amayuelas et.al.|[2209.14464v1](http://arxiv.org/abs/2209.14464v1)|[link](https://github.com/amayuelas/NNKGReasoning)|
-|**2022-09-28 20:03:57**|**Learning to Explain Graph Neural Networks**|Giuseppe Serra et.al.|[2209.14402v1](http://arxiv.org/abs/2209.14402v1)|null|
+|**2022-09-28 20:03:57**|**Learning to Explain Graph Neural Networks**|Giuseppe Serra et.al.|[2209.14402v1](http://arxiv.org/abs/2209.14402v1)|[link](https://github.com/giuseppeserra93/l2xgnn)|
 |**2022-09-28 18:14:34**|**Pareto Actor-Critic for Equilibrium Selection in Multi-Agent   Reinforcement Learning**|Filippos Christianos et.al.|[2209.14344v1](http://arxiv.org/abs/2209.14344v1)|null|
 |**2022-09-28 17:30:27**|**A Multi-scale Graph Signature for Persistence Diagrams based on Return   Probabilities of Random Walks**|Chau Pham et.al.|[2209.14264v1](http://arxiv.org/abs/2209.14264v1)|null|
 |**2022-09-28 13:55:52**|**Debiasing Graph Neural Networks via Learning Disentangled Causal   Substructure**|Shaohua Fan et.al.|[2209.14107v1](http://arxiv.org/abs/2209.14107v1)|[link](https://github.com/googlebaba/disc)|
