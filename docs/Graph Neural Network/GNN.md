@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-30 14:20:07**|**Graph Neural Networks for Link Prediction with Subgraph Sketching**|Benjamin Paul Chamberlain et.al.|[2209.15486v1](http://arxiv.org/abs/2209.15486v1)|null|
+|**2022-09-30 13:03:57**|**GPNet: Simplifying Graph Neural Networks via Multi-channel Geometric   Polynomials**|Xun Liu et.al.|[2209.15454v1](http://arxiv.org/abs/2209.15454v1)|null|
+|**2022-09-30 12:37:03**|**Relative representations enable zero-shot latent space communication**|Luca Moschella et.al.|[2209.15430v1](http://arxiv.org/abs/2209.15430v1)|null|
+|**2022-09-30 05:19:27**|**Prompt Tuning for Graph Neural Networks**|Taoran Fang et.al.|[2209.15240v1](http://arxiv.org/abs/2209.15240v1)|null|
+|**2022-09-29 23:20:59**|**Dynamic Inference on Graphs using Structured Transition Models**|Saumya Saxena et.al.|[2209.15132v1](http://arxiv.org/abs/2209.15132v1)|null|
+|**2022-09-29 18:57:52**|**Graph Attention Network for Camera Relocalization on Dynamic Scenes**|Mohamed Amine Ouali et.al.|[2209.15056v1](http://arxiv.org/abs/2209.15056v1)|null|
 |**2022-09-29 16:47:57**|**Graph Anomaly Detection with Graph Neural Networks: Current Status and   Challenges**|Hwan Kim et.al.|[2209.14930v1](http://arxiv.org/abs/2209.14930v1)|null|
 |**2022-09-29 02:19:39**|**How Powerful is Implicit Denoising in Graph Neural Networks**|Songtao Liu et.al.|[2209.14514v1](http://arxiv.org/abs/2209.14514v1)|null|
 |**2022-09-28 23:10:09**|**Neural Methods for Logical Reasoning Over Knowledge Graphs**|Alfonso Amayuelas et.al.|[2209.14464v1](http://arxiv.org/abs/2209.14464v1)|[link](https://github.com/amayuelas/NNKGReasoning)|
@@ -26,9 +32,3 @@
 |**2022-09-25 18:27:33**|**On Representing Linear Programs by Graph Neural Networks**|Ziang Chen et.al.|[2209.12288v1](http://arxiv.org/abs/2209.12288v1)|null|
 |**2022-09-25 13:16:39**|**GPatch: Patching Graph Neural Networks for Cold-Start Recommendations**|Hao Chen et.al.|[2209.12215v1](http://arxiv.org/abs/2209.12215v1)|null|
 |**2022-09-24 21:45:06**|**Graph Neural Networks for Multi-Robot Active Information Acquisition**|Mariliza Tzes et.al.|[2209.12091v1](http://arxiv.org/abs/2209.12091v1)|null|
-|**2022-09-24 17:19:00**|**From Local to Global: Spectral-Inspired Graph Neural Networks**|Ningyuan Huang et.al.|[2209.12054v1](http://arxiv.org/abs/2209.12054v1)|null|
-|**2022-09-24 13:03:46**|**Deep Attentive Belief Propagation: Integrating Reasoning and Learning   for Solving Constraint Optimization Problems**|Yanchen Deng et.al.|[2209.12000v1](http://arxiv.org/abs/2209.12000v1)|null|
-|**2022-09-24 10:01:43**|**Graph Neural Network Expressivity and Meta-Learning for Molecular   Property Regression**|Haitz Sáez de Ocáriz Borde et.al.|[2209.13410v1](http://arxiv.org/abs/2209.13410v1)|null|
-|**2022-09-24 07:14:32**|**Planning for Multi-Object Manipulation with Graph Neural Network   Relational Classifiers**|Yixuan Huang et.al.|[2209.11943v1](http://arxiv.org/abs/2209.11943v1)|null|
-|**2022-09-24 02:20:54**|**CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph   Convolutional Network Inference**|Ran Ran et.al.|[2209.11904v1](http://arxiv.org/abs/2209.11904v1)|null|
-|**2022-09-24 00:42:33**|**Closing the Loop: Graph Networks to Unify Semantic Objects and Visual   Features for Multi-object Scenes**|Jonathan J. Y. Kim et.al.|[2209.11894v1](http://arxiv.org/abs/2209.11894v1)|null|

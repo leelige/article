@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2022-10-02 16:10:06 Asia/Shanghai
+ 自动更新 @ 2022-10-03 16:11:20 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-29 19:20:24**|**Reasoning about Complex Networks: A Logic Programming Approach**|Paulo Shakarian et.al.|[2209.15067v1](http://arxiv.org/abs/2209.15067v1)|null|
 |**2022-09-29 17:48:33**|**CompF5: End User Analysis Topical Group Report**|Gavin S. Davies et.al.|[2209.14984v1](http://arxiv.org/abs/2209.14984v1)|null|
 |**2022-09-27 13:17:45**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 2 - Ex vivo imaging**|Kurt G Schilling et.al.|[2209.13371v1](http://arxiv.org/abs/2209.13371v1)|null|
 |**2022-09-27 06:29:18**|**A Survey of Fairness in Medical Image Analysis: Concepts, Algorithms,   Evaluations, and Challenges**|Zikang Xu et.al.|[2209.13177v1](http://arxiv.org/abs/2209.13177v1)|null|
@@ -35,13 +36,13 @@
 |**2022-09-02 06:23:06**|**Flexible transition probability model for assessing cost-effectiveness   of breast cancer screening**|Nourhan Shafik et.al.|[2209.01216v1](http://arxiv.org/abs/2209.01216v1)|null|
 |**2022-08-30 23:25:04**|**Evaluating hybrid controls methodology in early-phase oncology trials: a   simulation study based on the MORPHEUS-UC trial**|Guanbo Wang et.al.|[2209.05354v1](http://arxiv.org/abs/2209.05354v1)|null|
 |**2022-08-29 14:45:33**|**Snowmass2021 Topical Group Report from AF07: Targets and Sources**|Charlotte Barbier et.al.|[2208.13641v1](http://arxiv.org/abs/2208.13641v1)|null|
-|**2022-08-24 02:50:32**|**What are the Practices for Secret Management in Software Artifacts?**|Setu Kumar Basak et.al.|[2208.11280v1](http://arxiv.org/abs/2208.11280v1)|[link](https://github.com/setu1421/secret-management-practices-grey-literature-review-dataset)|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-30 08:02:18**|**The Minority Matters: A Diversity-Promoting Collaborative Metric   Learning Algorithm**|Shilong Bao et.al.|[2209.15292v1](http://arxiv.org/abs/2209.15292v1)|null|
 |**2022-09-16 12:07:43**|**PARSRec: Explainable Personalized Attention-fused Recurrent Sequential   Recommendation Using Session Partial Actions**|Ehsan Gholami et.al.|[2209.13015v1](http://arxiv.org/abs/2209.13015v1)|[link](https://github.com/ehgh/parsrec)|
 |**2022-09-15 14:38:47**|**Semiparametric Best Arm Identification with Contextual Information**|Masahiro Kato et.al.|[2209.07330v2](http://arxiv.org/abs/2209.07330v2)|null|
 |**2022-09-10 04:21:25**|**Causal Intervention for Fairness in Multi-behavior Recommendation**|Xi Wang et.al.|[2209.04589v1](http://arxiv.org/abs/2209.04589v1)|null|
@@ -71,13 +72,18 @@
 |**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
 |**2022-05-30 08:56:25**|**A multimedia recommendation model based on collaborative graph**|Breda Lim et.al.|[2205.14931v1](http://arxiv.org/abs/2205.14931v1)|null|
 |**2022-05-19 14:35:36**|**Improving Micro-video Recommendation via Contrastive Multiple Interests**|Beibei Li et.al.|[2205.09593v1](http://arxiv.org/abs/2205.09593v1)|null|
-|**2022-05-12 16:42:24**|**kNN-Embed: Locally Smoothed Embedding Mixtures For Multi-interest   Candidate Retrieval**|Ahmed El-Kishky et.al.|[2205.06205v2](http://arxiv.org/abs/2205.06205v2)|null|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-30 14:20:07**|**Graph Neural Networks for Link Prediction with Subgraph Sketching**|Benjamin Paul Chamberlain et.al.|[2209.15486v1](http://arxiv.org/abs/2209.15486v1)|null|
+|**2022-09-30 13:03:57**|**GPNet: Simplifying Graph Neural Networks via Multi-channel Geometric   Polynomials**|Xun Liu et.al.|[2209.15454v1](http://arxiv.org/abs/2209.15454v1)|null|
+|**2022-09-30 12:37:03**|**Relative representations enable zero-shot latent space communication**|Luca Moschella et.al.|[2209.15430v1](http://arxiv.org/abs/2209.15430v1)|null|
+|**2022-09-30 05:19:27**|**Prompt Tuning for Graph Neural Networks**|Taoran Fang et.al.|[2209.15240v1](http://arxiv.org/abs/2209.15240v1)|null|
+|**2022-09-29 23:20:59**|**Dynamic Inference on Graphs using Structured Transition Models**|Saumya Saxena et.al.|[2209.15132v1](http://arxiv.org/abs/2209.15132v1)|null|
+|**2022-09-29 18:57:52**|**Graph Attention Network for Camera Relocalization on Dynamic Scenes**|Mohamed Amine Ouali et.al.|[2209.15056v1](http://arxiv.org/abs/2209.15056v1)|null|
 |**2022-09-29 16:47:57**|**Graph Anomaly Detection with Graph Neural Networks: Current Status and   Challenges**|Hwan Kim et.al.|[2209.14930v1](http://arxiv.org/abs/2209.14930v1)|null|
 |**2022-09-29 02:19:39**|**How Powerful is Implicit Denoising in Graph Neural Networks**|Songtao Liu et.al.|[2209.14514v1](http://arxiv.org/abs/2209.14514v1)|null|
 |**2022-09-28 23:10:09**|**Neural Methods for Logical Reasoning Over Knowledge Graphs**|Alfonso Amayuelas et.al.|[2209.14464v1](http://arxiv.org/abs/2209.14464v1)|[link](https://github.com/amayuelas/NNKGReasoning)|
@@ -102,9 +108,3 @@
 |**2022-09-25 18:27:33**|**On Representing Linear Programs by Graph Neural Networks**|Ziang Chen et.al.|[2209.12288v1](http://arxiv.org/abs/2209.12288v1)|null|
 |**2022-09-25 13:16:39**|**GPatch: Patching Graph Neural Networks for Cold-Start Recommendations**|Hao Chen et.al.|[2209.12215v1](http://arxiv.org/abs/2209.12215v1)|null|
 |**2022-09-24 21:45:06**|**Graph Neural Networks for Multi-Robot Active Information Acquisition**|Mariliza Tzes et.al.|[2209.12091v1](http://arxiv.org/abs/2209.12091v1)|null|
-|**2022-09-24 17:19:00**|**From Local to Global: Spectral-Inspired Graph Neural Networks**|Ningyuan Huang et.al.|[2209.12054v1](http://arxiv.org/abs/2209.12054v1)|null|
-|**2022-09-24 13:03:46**|**Deep Attentive Belief Propagation: Integrating Reasoning and Learning   for Solving Constraint Optimization Problems**|Yanchen Deng et.al.|[2209.12000v1](http://arxiv.org/abs/2209.12000v1)|null|
-|**2022-09-24 10:01:43**|**Graph Neural Network Expressivity and Meta-Learning for Molecular   Property Regression**|Haitz Sáez de Ocáriz Borde et.al.|[2209.13410v1](http://arxiv.org/abs/2209.13410v1)|null|
-|**2022-09-24 07:14:32**|**Planning for Multi-Object Manipulation with Graph Neural Network   Relational Classifiers**|Yixuan Huang et.al.|[2209.11943v1](http://arxiv.org/abs/2209.11943v1)|null|
-|**2022-09-24 02:20:54**|**CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph   Convolutional Network Inference**|Ran Ran et.al.|[2209.11904v1](http://arxiv.org/abs/2209.11904v1)|null|
-|**2022-09-24 00:42:33**|**Closing the Loop: Graph Networks to Unify Semantic Objects and Visual   Features for Multi-object Scenes**|Jonathan J. Y. Kim et.al.|[2209.11894v1](http://arxiv.org/abs/2209.11894v1)|null|

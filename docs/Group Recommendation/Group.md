@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-29 19:20:24**|**Reasoning about Complex Networks: A Logic Programming Approach**|Paulo Shakarian et.al.|[2209.15067v1](http://arxiv.org/abs/2209.15067v1)|null|
 |**2022-09-29 17:48:33**|**CompF5: End User Analysis Topical Group Report**|Gavin S. Davies et.al.|[2209.14984v1](http://arxiv.org/abs/2209.14984v1)|null|
 |**2022-09-27 13:17:45**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 2 - Ex vivo imaging**|Kurt G Schilling et.al.|[2209.13371v1](http://arxiv.org/abs/2209.13371v1)|null|
 |**2022-09-27 06:29:18**|**A Survey of Fairness in Medical Image Analysis: Concepts, Algorithms,   Evaluations, and Challenges**|Zikang Xu et.al.|[2209.13177v1](http://arxiv.org/abs/2209.13177v1)|null|
@@ -31,4 +32,3 @@
 |**2022-09-02 06:23:06**|**Flexible transition probability model for assessing cost-effectiveness   of breast cancer screening**|Nourhan Shafik et.al.|[2209.01216v1](http://arxiv.org/abs/2209.01216v1)|null|
 |**2022-08-30 23:25:04**|**Evaluating hybrid controls methodology in early-phase oncology trials: a   simulation study based on the MORPHEUS-UC trial**|Guanbo Wang et.al.|[2209.05354v1](http://arxiv.org/abs/2209.05354v1)|null|
 |**2022-08-29 14:45:33**|**Snowmass2021 Topical Group Report from AF07: Targets and Sources**|Charlotte Barbier et.al.|[2208.13641v1](http://arxiv.org/abs/2208.13641v1)|null|
-|**2022-08-24 02:50:32**|**What are the Practices for Secret Management in Software Artifacts?**|Setu Kumar Basak et.al.|[2208.11280v1](http://arxiv.org/abs/2208.11280v1)|[link](https://github.com/setu1421/secret-management-practices-grey-literature-review-dataset)|
