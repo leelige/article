@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-01 11:54:55**|**Tyranny-of-the-minority regression adjustment in randomized experiments**|Xin Lu et.al.|[2210.00261v1](http://arxiv.org/abs/2210.00261v1)|null|
 |**2022-09-29 19:20:24**|**Reasoning about Complex Networks: A Logic Programming Approach**|Paulo Shakarian et.al.|[2209.15067v1](http://arxiv.org/abs/2209.15067v1)|null|
 |**2022-09-29 17:48:33**|**CompF5: End User Analysis Topical Group Report**|Gavin S. Davies et.al.|[2209.14984v1](http://arxiv.org/abs/2209.14984v1)|null|
 |**2022-09-27 13:17:45**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 2 - Ex vivo imaging**|Kurt G Schilling et.al.|[2209.13371v1](http://arxiv.org/abs/2209.13371v1)|null|
@@ -9,7 +10,7 @@
 |**2022-09-26 20:11:19**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 1 -- In vivo small-animal imaging**|Ileana O Jelescu et.al.|[2209.12994v1](http://arxiv.org/abs/2209.12994v1)|null|
 |**2022-09-26 02:29:47**|**Diversity, Equity, and Inclusion in Particle Physics**|C. Bonifazi et.al.|[2209.12377v1](http://arxiv.org/abs/2209.12377v1)|null|
 |**2022-09-25 19:18:09**|**Issues in Implementing Regression Calibration Analyses**|Lillian Boe et.al.|[2209.12304v1](http://arxiv.org/abs/2209.12304v1)|null|
-|**2022-09-24 14:37:14**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality   and Haptic feedback**|Yu Jiang et.al.|[2209.12018v1](http://arxiv.org/abs/2209.12018v1)|null|
+|**2022-09-24 14:37:14**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality   and Haptic feedback**|Yu Jiang et.al.|[2209.12018v2](http://arxiv.org/abs/2209.12018v2)|null|
 |**2022-09-23 20:06:18**|**Revisiting the Analysis of Matched-Pair and Stratified Experiments in   the Presence of Attrition**|Yuehao Bai et.al.|[2209.11840v1](http://arxiv.org/abs/2209.11840v1)|null|
 |**2022-09-21 04:34:17**|**A Comprehensive Survey on Trustworthy Recommender Systems**|Wenqi Fan et.al.|[2209.10117v1](http://arxiv.org/abs/2209.10117v1)|null|
 |**2022-09-19 15:01:41**|**Summary Report for Snowmass Community Engagement Frontier Topical Group   06: Public Policy & Government Engagement**|Rob Fine et.al.|[2209.09067v1](http://arxiv.org/abs/2209.09067v1)|null|
@@ -31,4 +32,3 @@
 |**2022-09-08 16:02:16**|**A Stakeholder-Centered View on Fairness in Music Recommender Systems**|Karlijn Dinnissen et.al.|[2209.06126v1](http://arxiv.org/abs/2209.06126v1)|null|
 |**2022-09-02 06:23:06**|**Flexible transition probability model for assessing cost-effectiveness   of breast cancer screening**|Nourhan Shafik et.al.|[2209.01216v1](http://arxiv.org/abs/2209.01216v1)|null|
 |**2022-08-30 23:25:04**|**Evaluating hybrid controls methodology in early-phase oncology trials: a   simulation study based on the MORPHEUS-UC trial**|Guanbo Wang et.al.|[2209.05354v1](http://arxiv.org/abs/2209.05354v1)|null|
-|**2022-08-29 14:45:33**|**Snowmass2021 Topical Group Report from AF07: Targets and Sources**|Charlotte Barbier et.al.|[2208.13641v1](http://arxiv.org/abs/2208.13641v1)|null|
