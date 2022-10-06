@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-04 22:33:58**|**IGNiteR: News Recommendation in Microblogging Applications (Extended   Version)**|Yuting Feng et.al.|[2210.01942v1](http://arxiv.org/abs/2210.01942v1)|null|
 |**2022-09-30 08:02:18**|**The Minority Matters: A Diversity-Promoting Collaborative Metric   Learning Algorithm**|Shilong Bao et.al.|[2209.15292v1](http://arxiv.org/abs/2209.15292v1)|null|
 |**2022-09-16 12:07:43**|**PARSRec: Explainable Personalized Attention-fused Recurrent Sequential   Recommendation Using Session Partial Actions**|Ehsan Gholami et.al.|[2209.13015v1](http://arxiv.org/abs/2209.13015v1)|[link](https://github.com/ehgh/parsrec)|
 |**2022-09-15 14:38:47**|**Semiparametric Best Arm Identification with Contextual Information**|Masahiro Kato et.al.|[2209.07330v2](http://arxiv.org/abs/2209.07330v2)|null|
@@ -31,4 +32,3 @@
 |**2022-06-01 15:56:59**|**Multi-Armed Bandit Problem with Temporally-Partitioned Rewards: When   Partial Feedback Counts**|Giulia Romano et.al.|[2206.00586v1](http://arxiv.org/abs/2206.00586v1)|null|
 |**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|
 |**2022-05-30 08:56:25**|**A multimedia recommendation model based on collaborative graph**|Breda Lim et.al.|[2205.14931v1](http://arxiv.org/abs/2205.14931v1)|null|
-|**2022-05-19 14:35:36**|**Improving Micro-video Recommendation via Contrastive Multiple Interests**|Beibei Li et.al.|[2205.09593v1](http://arxiv.org/abs/2205.09593v1)|null|

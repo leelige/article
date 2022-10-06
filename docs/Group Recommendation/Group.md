@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-05 05:48:39**|**Clustering Semantic Predicates in the Open Research Knowledge Graph**|Omar Arab Oghli et.al.|[2210.02034v1](http://arxiv.org/abs/2210.02034v1)|null|
 |**2022-10-01 11:54:55**|**Tyranny-of-the-minority regression adjustment in randomized experiments**|Xin Lu et.al.|[2210.00261v1](http://arxiv.org/abs/2210.00261v1)|null|
 |**2022-09-29 19:20:24**|**Reasoning about Complex Networks: A Logic Programming Approach**|Paulo Shakarian et.al.|[2209.15067v1](http://arxiv.org/abs/2209.15067v1)|null|
 |**2022-09-29 17:48:33**|**CompF5: End User Analysis Topical Group Report**|Gavin S. Davies et.al.|[2209.14984v1](http://arxiv.org/abs/2209.14984v1)|null|
@@ -13,7 +14,7 @@
 |**2022-09-24 14:37:14**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality   and Haptic feedback**|Yu Jiang et.al.|[2209.12018v2](http://arxiv.org/abs/2209.12018v2)|null|
 |**2022-09-23 20:06:18**|**Revisiting the Analysis of Matched-Pair and Stratified Experiments in   the Presence of Attrition**|Yuehao Bai et.al.|[2209.11840v1](http://arxiv.org/abs/2209.11840v1)|null|
 |**2022-09-21 04:34:17**|**A Comprehensive Survey on Trustworthy Recommender Systems**|Wenqi Fan et.al.|[2209.10117v1](http://arxiv.org/abs/2209.10117v1)|null|
-|**2022-09-19 15:01:41**|**Summary Report for Snowmass Community Engagement Frontier Topical Group   06: Public Policy & Government Engagement**|Rob Fine et.al.|[2209.09067v1](http://arxiv.org/abs/2209.09067v1)|null|
+|**2022-09-19 15:01:41**|**Summary Report for Snowmass Community Engagement Frontier Topical Group   06: Public Policy & Government Engagement**|Rob Fine et.al.|[2209.09067v2](http://arxiv.org/abs/2209.09067v2)|null|
 |**2022-09-19 09:23:03**|**Snowmass 2021 Computational Frontier CompF4 Topical Group Report:   Storage and Processing Resource Access**|W. Bhimji et.al.|[2209.08868v2](http://arxiv.org/abs/2209.08868v2)|null|
 |**2022-09-18 18:47:45**|**Summary Report of the Topical Group on Career Pipeline and Development   (CommF2) Community Engagement Frontier Snowmass 2021**|Julie Hogan et.al.|[2209.10114v1](http://arxiv.org/abs/2209.10114v1)|null|
 |**2022-09-17 02:43:59**|**Summary Report of the Topical Group on Physics Education, Community   Engagement Frontier (CEF4/CommF4) Snowmass 2021**|Sibrand J. de Jong et.al.|[2209.08225v2](http://arxiv.org/abs/2209.08225v2)|null|
@@ -31,4 +32,3 @@
 |**2022-09-08 21:47:10**|**Who Pays? Personalization, Bossiness and the Cost of Fairness**|Paresha Farastu et.al.|[2209.04043v1](http://arxiv.org/abs/2209.04043v1)|null|
 |**2022-09-08 16:02:16**|**A Stakeholder-Centered View on Fairness in Music Recommender Systems**|Karlijn Dinnissen et.al.|[2209.06126v1](http://arxiv.org/abs/2209.06126v1)|null|
 |**2022-09-02 06:23:06**|**Flexible transition probability model for assessing cost-effectiveness   of breast cancer screening**|Nourhan Shafik et.al.|[2209.01216v1](http://arxiv.org/abs/2209.01216v1)|null|
-|**2022-08-30 23:25:04**|**Evaluating hybrid controls methodology in early-phase oncology trials: a   simulation study based on the MORPHEUS-UC trial**|Guanbo Wang et.al.|[2209.05354v1](http://arxiv.org/abs/2209.05354v1)|null|
