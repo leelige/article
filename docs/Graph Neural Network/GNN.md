@@ -2,8 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-07 16:20:19**|**CommsVAE: Learning the brain's macroscale communication dynamics using   coupled sequential VAEs**|Eloy Geenjaar et.al.|[2210.03667v1](http://arxiv.org/abs/2210.03667v1)|null|
+|**2022-10-07 14:46:32**|**Machine Learning Meets The Herbrand Universe**|Jelle Piepenbrock et.al.|[2210.03590v1](http://arxiv.org/abs/2210.03590v1)|null|
+|**2022-10-07 13:51:59**|**Empowering Graph Representation Learning with Test-Time Graph   Transformation**|Wei Jin et.al.|[2210.03561v1](http://arxiv.org/abs/2210.03561v1)|null|
+|**2022-10-07 12:44:33**|**Towards Multi-Modal Sarcasm Detection via Hierarchical Congruity   Modeling with Knowledge Enhancement**|Hui Liu et.al.|[2210.03501v1](http://arxiv.org/abs/2210.03501v1)|[link](https://github.com/less-and-less-bugs/hkemodel)|
+|**2022-10-07 02:48:14**|**Unsupervised Semantic Representation Learning of Scientific Literature   Based on Graph Attention Mechanism and Maximum Mutual Information**|Hongrui Gao et.al.|[2210.03292v1](http://arxiv.org/abs/2210.03292v1)|null|
+|**2022-10-07 02:38:53**|**Scientific Paper Classification Based on Graph Neural Network with   Hypergraph Self-attention Mechanism**|Jiashun Liu et.al.|[2210.03288v1](http://arxiv.org/abs/2210.03288v1)|null|
 |**2022-10-06 17:50:07**|**Edge-Varying Fourier Graph Networks for Multivariate Time Series   Forecasting**|Kun Yi et.al.|[2210.03093v1](http://arxiv.org/abs/2210.03093v1)|null|
 |**2022-10-06 15:36:37**|**Expander Graph Propagation**|Andreea Deac et.al.|[2210.02997v1](http://arxiv.org/abs/2210.02997v1)|null|
+|**2022-10-06 14:37:24**|**Enhancing Mixup-Based Graph Learning for Language Processing via Hybrid   Pooling**|Zeming Dong et.al.|[2210.03123v1](http://arxiv.org/abs/2210.03123v1)|null|
 |**2022-10-06 14:06:04**|**Grape: Knowledge Graph Enhanced Passage Reader for Open-domain Question   Answering**|Mingxuan Ju et.al.|[2210.02933v1](http://arxiv.org/abs/2210.02933v1)|[link](https://github.com/jumxglhf/grape)|
 |**2022-10-06 04:18:09**|**Transformers Implement First-Order Logic with Majority Quantifiers**|William Merrill et.al.|[2210.02671v1](http://arxiv.org/abs/2210.02671v1)|null|
 |**2022-10-06 02:02:35**|**Geodesic Graph Neural Network for Efficient Graph Representation   Learning**|Lecheng Kong et.al.|[2210.02636v1](http://arxiv.org/abs/2210.02636v1)|null|
@@ -25,10 +32,3 @@
 |**2022-10-03 06:16:20**|**Deep Spatial Domain Generalization**|Dazhou Yu et.al.|[2210.00729v1](http://arxiv.org/abs/2210.00729v1)|[link](https://github.com/dyu62/deep-domain-generalization)|
 |**2022-10-03 06:14:21**|**Learning from the Dark: Boosting Graph Convolutional Neural Networks   with Diverse Negative Samples**|Wei Duan et.al.|[2210.00728v1](http://arxiv.org/abs/2210.00728v1)|[link](https://github.com/Wei9711/NegGCNs)|
 |**2022-10-02 20:50:33**|**Inability of a graph neural network heuristic to outperform greedy   algorithms in solving combinatorial optimization problems like Max-Cut**|Stefan Boettcher et.al.|[2210.00623v1](http://arxiv.org/abs/2210.00623v1)|null|
-|**2022-10-02 20:16:20**|**MultiScale MeshGraphNets**|Meire Fortunato et.al.|[2210.00612v1](http://arxiv.org/abs/2210.00612v1)|null|
-|**2022-10-02 18:29:08**|**Deep learning for track recognition in pixel and strip-based particle   detectors**|O. Bakina et.al.|[2210.00599v1](http://arxiv.org/abs/2210.00599v1)|null|
-|**2022-10-02 14:41:02**|**Heterogeneous Graph Neural Network for Privacy-Preserving Recommendation**|Yuecen Wei et.al.|[2210.00538v1](http://arxiv.org/abs/2210.00538v1)|[link](https://github.com/aixwinnie/hetedp)|
-|**2022-10-02 13:19:48**|**Gradient Gating for Deep Multi-Rate Learning on Graphs**|T. Konstantin Rusch et.al.|[2210.00513v1](http://arxiv.org/abs/2210.00513v1)|[link](https://github.com/tk-rusch/gradientgating)|
-|**2022-10-02 07:59:51**|**Neural Graphical Models**|Harsh Shrivastava et.al.|[2210.00453v1](http://arxiv.org/abs/2210.00453v1)|[link](https://github.com/harshs27/neural-graphical-models)|
-|**2022-10-02 01:08:50**|**Tensor-reduced atomic density representations**|James P. Darby et.al.|[2210.01705v1](http://arxiv.org/abs/2210.01705v1)|null|
-|**2022-10-01 21:17:39**|**Convolutional Neural Networks on Manifolds: From Graphs and Back**|Zhiyang Wang et.al.|[2210.00376v1](http://arxiv.org/abs/2210.00376v1)|null|
