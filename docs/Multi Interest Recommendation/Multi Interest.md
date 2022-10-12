@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-11 07:01:40**|**DIGAT: Modeling News Recommendation with Dual-Graph Interaction**|Zhiming Mao et.al.|[2210.05196v1](http://arxiv.org/abs/2210.05196v1)|[link](https://github.com/veason-silverbullet/digat)|
 |**2022-10-07 15:30:00**|**KAST: Knowledge Aware Adaptive Session Multi-Topic Network for   Click-Through Rate Prediction**|Dike Sun et.al.|[2210.03624v1](http://arxiv.org/abs/2210.03624v1)|null|
 |**2022-10-04 22:33:58**|**IGNiteR: News Recommendation in Microblogging Applications (Extended   Version)**|Yuting Feng et.al.|[2210.01942v1](http://arxiv.org/abs/2210.01942v1)|null|
 |**2022-09-30 08:02:18**|**The Minority Matters: A Diversity-Promoting Collaborative Metric   Learning Algorithm**|Shilong Bao et.al.|[2209.15292v1](http://arxiv.org/abs/2209.15292v1)|null|
@@ -31,4 +32,3 @@
 |**2022-06-06 06:55:08**|**An Estimation Framework for Passerby Engagement Interacting with Social   Robots**|Taichi Sakaguchi et.al.|[2206.02394v1](http://arxiv.org/abs/2206.02394v1)|null|
 |**2022-06-03 15:56:51**|**Metrics reloaded: Pitfalls and recommendations for image analysis   validation**|Lena Maier-Hein et.al.|[2206.01653v3](http://arxiv.org/abs/2206.01653v3)|null|
 |**2022-06-01 15:56:59**|**Multi-Armed Bandit Problem with Temporally-Partitioned Rewards: When   Partial Feedback Counts**|Giulia Romano et.al.|[2206.00586v1](http://arxiv.org/abs/2206.00586v1)|null|
-|**2022-05-31 02:04:47**|**Stepping beyond your comfort zone: Diffusion-based network analytics for   knowledge trajectory recommendation**|Yi Zhang et.al.|[2205.15504v1](http://arxiv.org/abs/2205.15504v1)|null|

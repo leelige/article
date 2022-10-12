@@ -14,7 +14,7 @@
 |**2022-09-26 02:29:47**|**Diversity, Equity, and Inclusion in Particle Physics**|C. Bonifazi et.al.|[2209.12377v1](http://arxiv.org/abs/2209.12377v1)|null|
 |**2022-09-25 19:18:09**|**Issues in Implementing Regression Calibration Analyses**|Lillian Boe et.al.|[2209.12304v1](http://arxiv.org/abs/2209.12304v1)|null|
 |**2022-09-24 14:37:14**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality   and Haptic feedback**|Yu Jiang et.al.|[2209.12018v2](http://arxiv.org/abs/2209.12018v2)|null|
-|**2022-09-23 20:06:18**|**Revisiting the Analysis of Matched-Pair and Stratified Experiments in   the Presence of Attrition**|Yuehao Bai et.al.|[2209.11840v1](http://arxiv.org/abs/2209.11840v1)|null|
+|**2022-09-23 20:06:18**|**Revisiting the Analysis of Matched-Pair and Stratified Experiments in   the Presence of Attrition**|Yuehao Bai et.al.|[2209.11840v2](http://arxiv.org/abs/2209.11840v2)|null|
 |**2022-09-21 04:34:17**|**A Comprehensive Survey on Trustworthy Recommender Systems**|Wenqi Fan et.al.|[2209.10117v1](http://arxiv.org/abs/2209.10117v1)|null|
 |**2022-09-19 15:01:41**|**Summary Report for Snowmass Community Engagement Frontier Topical Group   06: Public Policy & Government Engagement**|Rob Fine et.al.|[2209.09067v2](http://arxiv.org/abs/2209.09067v2)|null|
 |**2022-09-19 09:23:03**|**Snowmass 2021 Computational Frontier CompF4 Topical Group Report:   Storage and Processing Resource Access**|W. Bhimji et.al.|[2209.08868v2](http://arxiv.org/abs/2209.08868v2)|null|
