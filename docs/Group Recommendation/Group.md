@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-12 05:53:05**|**Equal Experience in Recommender Systems**|Jaewoong Cho et.al.|[2210.05936v1](http://arxiv.org/abs/2210.05936v1)|null|
 |**2022-10-07 21:33:34**|**An Analysis of the Effects of Decoding Algorithms on Fairness in   Open-Ended Language Generation**|Jwala Dhamala et.al.|[2210.03826v1](http://arxiv.org/abs/2210.03826v1)|null|
 |**2022-10-05 18:00:01**|**Machine learning classification of fast radio bursts: I. supervised   methods**|Jia-Wei Luo et.al.|[2210.02463v1](http://arxiv.org/abs/2210.02463v1)|null|
 |**2022-10-05 05:48:39**|**Clustering Semantic Predicates in the Open Research Knowledge Graph**|Omar Arab Oghli et.al.|[2210.02034v1](http://arxiv.org/abs/2210.02034v1)|null|
@@ -31,4 +32,3 @@
 |**2022-09-11 22:48:26**|**Reinforcement Recommendation Reasoning through Knowledge Graphs for   Explanation Path Quality**|Giacomo Balloccu et.al.|[2209.04954v1](http://arxiv.org/abs/2209.04954v1)|null|
 |**2022-09-09 17:18:41**|**Longitudinal Acoustic Speech Tracking Following Pediatric Traumatic   Brain Injury**|Camille Noufi et.al.|[2209.04406v1](http://arxiv.org/abs/2209.04406v1)|null|
 |**2022-09-09 15:55:48**|**Evaluating tests for cluster-randomized trials with few clusters under   generalized linear mixed models with covariate adjustment: a simulation study**|Hongxiang Qiu et.al.|[2209.04364v1](http://arxiv.org/abs/2209.04364v1)|[link](https://github.com/qiu-hongxiang-david/small-sample-adjusted-glmm-crt)|
-|**2022-09-08 21:47:10**|**Who Pays? Personalization, Bossiness and the Cost of Fairness**|Paresha Farastu et.al.|[2209.04043v1](http://arxiv.org/abs/2209.04043v1)|null|
