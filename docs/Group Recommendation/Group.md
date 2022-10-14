@@ -2,7 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-10-12 05:53:05**|**Equal Experience in Recommender Systems**|Jaewoong Cho et.al.|[2210.05936v1](http://arxiv.org/abs/2210.05936v1)|null|
+|**2022-10-12 05:53:05**|**Equal Experience in Recommender Systems**|Jaewoong Cho et.al.|[2210.05936v1](http://arxiv.org/abs/2210.05936v1)|[link](https://github.com/cjw2525/fairrec)|
 |**2022-10-07 21:33:34**|**An Analysis of the Effects of Decoding Algorithms on Fairness in   Open-Ended Language Generation**|Jwala Dhamala et.al.|[2210.03826v1](http://arxiv.org/abs/2210.03826v1)|null|
 |**2022-10-05 18:00:01**|**Machine learning classification of fast radio bursts: I. supervised   methods**|Jia-Wei Luo et.al.|[2210.02463v1](http://arxiv.org/abs/2210.02463v1)|null|
 |**2022-10-05 05:48:39**|**Clustering Semantic Predicates in the Open Research Knowledge Graph**|Omar Arab Oghli et.al.|[2210.02034v1](http://arxiv.org/abs/2210.02034v1)|null|
