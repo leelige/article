@@ -2,7 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-10-11 07:01:40**|**DIGAT: Modeling News Recommendation with Dual-Graph Interaction**|Zhiming Mao et.al.|[2210.05196v1](http://arxiv.org/abs/2210.05196v1)|[link](https://github.com/veason-silverbullet/digat)|
+|**2022-10-11 07:01:40**|**DIGAT: Modeling News Recommendation with Dual-Graph Interaction**|Zhiming Mao et.al.|[2210.05196v2](http://arxiv.org/abs/2210.05196v2)|[link](https://github.com/veason-silverbullet/digat)|
 |**2022-10-07 15:30:00**|**KAST: Knowledge Aware Adaptive Session Multi-Topic Network for   Click-Through Rate Prediction**|Dike Sun et.al.|[2210.03624v1](http://arxiv.org/abs/2210.03624v1)|null|
 |**2022-10-04 22:33:58**|**IGNiteR: News Recommendation in Microblogging Applications (Extended   Version)**|Yuting Feng et.al.|[2210.01942v1](http://arxiv.org/abs/2210.01942v1)|null|
 |**2022-09-30 08:02:18**|**The Minority Matters: A Diversity-Promoting Collaborative Metric   Learning Algorithm**|Shilong Bao et.al.|[2209.15292v1](http://arxiv.org/abs/2209.15292v1)|null|

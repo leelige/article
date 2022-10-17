@@ -2,9 +2,23 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-14 15:14:26**|**Semi-supervised Learning with Network Embedding on Ambient RF Signals   for Geofencing Services**|Weipeng Zhuo et.al.|[2210.07889v1](http://arxiv.org/abs/2210.07889v1)|null|
+|**2022-10-14 14:47:56**|**One Graph to Rule them All: Using NLP and Graph Neural Networks to   analyse Tolkien's Legendarium**|Vincenzo Perri et.al.|[2210.07871v1](http://arxiv.org/abs/2210.07871v1)|null|
+|**2022-10-14 14:18:51**|**Convolutional Neural Networks: Basic Concepts and Applications in   Manufacturing**|Shengli Jiang et.al.|[2210.07848v1](http://arxiv.org/abs/2210.07848v1)|null|
+|**2022-10-14 11:28:47**|**Not All Neighbors Are Worth Attending to: Graph Selective Attention   Networks for Semi-supervised Learning**|Tiantian He et.al.|[2210.07715v1](http://arxiv.org/abs/2210.07715v1)|null|
+|**2022-10-14 08:00:26**|**Revisiting Heterophily For Graph Neural Networks**|Sitao Luan et.al.|[2210.07606v1](http://arxiv.org/abs/2210.07606v1)|null|
+|**2022-10-14 05:36:07**|**Superpixel Perception Graph Neural Network for Intelligent Defect   Detection**|Hongbing Shang et.al.|[2210.07539v1](http://arxiv.org/abs/2210.07539v1)|[link](https://github.com/githbshang/spgnn)|
+|**2022-10-14 03:56:53**|**ToupleGDD: A Fine-Designed Solution of Influence Maximization by Deep   Reinforcement Learning**|Tiantian Chen et.al.|[2210.07500v1](http://arxiv.org/abs/2210.07500v1)|[link](https://github.com/Dtrycode/ToupleGDD)|
+|**2022-10-14 03:43:05**|**A Comprehensive Study on Large-Scale Graph Training: Benchmarking and   Rethinking**|Keyu Duan et.al.|[2210.07494v1](http://arxiv.org/abs/2210.07494v1)|[link](https://github.com/vita-group/large_scale_gcn_benchmarking)|
+|**2022-10-14 01:41:10**|**Using Graph Algorithms to Pretrain Graph Completion Transformers**|Jonathan Pilault et.al.|[2210.07453v1](http://arxiv.org/abs/2210.07453v1)|null|
+|**2022-10-13 22:39:05**|**Estimation of the Sample Frechet Mean: A Convolutional Neural Network   Approach**|Adam Sanchez et.al.|[2210.07401v1](http://arxiv.org/abs/2210.07401v1)|null|
+|**2022-10-13 22:23:22**|**Efficiently Computing Local Lipschitz Constants of Neural Networks via   Bound Propagation**|Zhouxing Shi et.al.|[2210.07394v1](http://arxiv.org/abs/2210.07394v1)|[link](https://github.com/shizhouxing/local-lipschitz-constants)|
+|**2022-10-13 19:26:09**|**SHINE: SubHypergraph Inductive Neural nEtwork**|Yuan Luo et.al.|[2210.07309v1](http://arxiv.org/abs/2210.07309v1)|null|
+|**2022-10-13 18:00:54**|**Measurement-induced phase transitions on dynamical quantum trees**|Xiaozhou Feng et.al.|[2210.07264v1](http://arxiv.org/abs/2210.07264v1)|null|
 |**2022-10-13 17:58:02**|**Shape Preserving Facial Landmarks with Graph Attention Networks**|Andrés Prados-Torreblanca et.al.|[2210.07233v1](http://arxiv.org/abs/2210.07233v1)|[link](https://github.com/andresprados/spiga)|
 |**2022-10-13 15:52:12**|**Graph-based Neural Modules to Inspect Attention-based Architectures: A   Position Paper**|Breno W. Carvalho et.al.|[2210.07117v1](http://arxiv.org/abs/2210.07117v1)|null|
 |**2022-10-13 12:47:09**|**Behavioral graph fraud detection in E-commerce**|Hang Yin et.al.|[2210.06968v1](http://arxiv.org/abs/2210.06968v1)|null|
+|**2022-10-13 11:45:30**|**Topics in Deep Learning and Optimization Algorithms for IoT Applications   in Smart Transportation**|Hongde Wu et.al.|[2210.07246v1](http://arxiv.org/abs/2210.07246v1)|null|
 |**2022-10-13 10:00:30**|**Learning Physical Dynamics with Subequivariant Graph Neural Networks**|Jiaqi Han et.al.|[2210.06876v1](http://arxiv.org/abs/2210.06876v1)|null|
 |**2022-10-13 02:30:06**|**Brain Network Transformer**|Xuan Kan et.al.|[2210.06681v1](http://arxiv.org/abs/2210.06681v1)|[link](https://github.com/Wayfear/BrainNetworkTransformer)|
 |**2022-10-13 01:08:06**|**Neuro-symbolic Explainable Artificial Intelligence Twin for Zero-touch   IoE in Wireless Network**|Md. Shirajum Munir et.al.|[2210.06649v1](http://arxiv.org/abs/2210.06649v1)|null|
@@ -18,17 +32,3 @@
 |**2022-10-12 03:56:37**|**Travel the Same Path: A Novel TSP Solving Strategy**|Pingbang Hu et.al.|[2210.05906v1](http://arxiv.org/abs/2210.05906v1)|[link](https://github.com/sleepymalc/Travel-the-Same-Path)|
 |**2022-10-11 22:00:43**|**Linkless Link Prediction via Relational Distillation**|Zhichun Guo et.al.|[2210.05801v1](http://arxiv.org/abs/2210.05801v1)|null|
 |**2022-10-11 18:00:05**|**Hubbard Models for Quasicrystalline Potentials**|Emmanuel Gottlob et.al.|[2210.05691v1](http://arxiv.org/abs/2210.05691v1)|null|
-|**2022-10-11 14:54:37**|**Adversarial Contrastive Learning for Evidence-aware Fake News Detection   with Graph Neural Networks**|Junfei Wu et.al.|[2210.05498v1](http://arxiv.org/abs/2210.05498v1)|null|
-|**2022-10-11 14:52:20**|**MAgNet: Mesh Agnostic Neural PDE Solver**|Oussama Boussif et.al.|[2210.05495v1](http://arxiv.org/abs/2210.05495v1)|[link](https://github.com/jaggbow/magnet)|
-|**2022-10-11 14:45:51**|**Pooling Strategies for Simplicial Convolutional Networks**|Domenico Mattia Cinque et.al.|[2210.05490v1](http://arxiv.org/abs/2210.05490v1)|null|
-|**2022-10-11 13:51:34**|**Towards Consistency and Complementarity: A Multiview Graph Information   Bottleneck Approach**|Xiaolong Fan et.al.|[2210.05676v1](http://arxiv.org/abs/2210.05676v1)|[link](https://github.com/xiaolongo/mvgib)|
-|**2022-10-11 13:44:44**|**A General Learning Framework for Open Ad Hoc Teamwork Using Graph-based   Policy Learning**|Arrasy Rahman et.al.|[2210.05448v1](http://arxiv.org/abs/2210.05448v1)|[link](https://github.com/uoe-agents/po-gpl)|
-|**2022-10-11 10:07:52**|**Quantum walks on random lattices: Diffusion, localization and the   absence of parametric quantum speed-up**|Rostislav Duda et.al.|[2210.05310v1](http://arxiv.org/abs/2210.05310v1)|null|
-|**2022-10-11 08:29:10**|**Graph Neural Network Policies and Imitation Learning for Multi-Domain   Task-Oriented Dialogues**|Thibault Cordier et.al.|[2210.05252v1](http://arxiv.org/abs/2210.05252v1)|null|
-|**2022-10-11 00:25:04**|**Relational Attention: Generalizing Transformers for Graph-Structured   Tasks**|Cameron Diao et.al.|[2210.05062v1](http://arxiv.org/abs/2210.05062v1)|null|
-|**2022-10-10 12:56:44**|**Rejecting noise in Baikal-GVD data with neural networks**|I. Kharuk et.al.|[2210.04653v1](http://arxiv.org/abs/2210.04653v1)|null|
-|**2022-10-10 05:34:25**|**Towards Training Graph Neural Networks with Node-Level Differential   Privacy**|Qiuchen Zhang et.al.|[2210.04442v1](http://arxiv.org/abs/2210.04442v1)|null|
-|**2022-10-09 11:46:45**|**Robustifying the Multi-Scale Representation of Neural Radiance Fields**|Nishant Jain et.al.|[2210.04233v1](http://arxiv.org/abs/2210.04233v1)|null|
-|**2022-10-09 07:42:23**|**Quasi-Monolithic Graph Neural Network for Fluid-Structure Interaction**|Rui Gao et.al.|[2210.04193v1](http://arxiv.org/abs/2210.04193v1)|null|
-|**2022-10-08 23:40:45**|**Generalized energy and gradient flow via graph framelets**|Andi Han et.al.|[2210.04124v1](http://arxiv.org/abs/2210.04124v1)|null|
-|**2022-10-08 22:14:31**|**Towards Real-Time Temporal Graph Learning**|Deniz Gurevin et.al.|[2210.04114v2](http://arxiv.org/abs/2210.04114v2)|[link](https://github.com/grvndnz/parallel-fnn)|
