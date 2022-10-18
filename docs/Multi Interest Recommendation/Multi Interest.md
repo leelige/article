@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-15 03:04:30**|**Beyond the Worst Case: Semi-Random Complexity Analysis of Winner   Determination**|Lirong Xia et.al.|[2210.08173v1](http://arxiv.org/abs/2210.08173v1)|null|
 |**2022-10-11 07:01:40**|**DIGAT: Modeling News Recommendation with Dual-Graph Interaction**|Zhiming Mao et.al.|[2210.05196v2](http://arxiv.org/abs/2210.05196v2)|[link](https://github.com/veason-silverbullet/digat)|
 |**2022-10-07 15:30:00**|**KAST: Knowledge Aware Adaptive Session Multi-Topic Network for   Click-Through Rate Prediction**|Dike Sun et.al.|[2210.03624v1](http://arxiv.org/abs/2210.03624v1)|null|
 |**2022-10-04 22:33:58**|**IGNiteR: News Recommendation in Microblogging Applications (Extended   Version)**|Yuting Feng et.al.|[2210.01942v1](http://arxiv.org/abs/2210.01942v1)|null|
@@ -20,7 +21,7 @@
 |**2022-07-25 14:37:18**|**Personality-Driven Social Multimedia Content Recommendation**|Qi Yang et.al.|[2207.12236v1](http://arxiv.org/abs/2207.12236v1)|null|
 |**2022-07-15 08:03:37**|**Modeling Multi-interest News Sequence for News Recommendation**|Rongyao Wang et.al.|[2207.07331v2](http://arxiv.org/abs/2207.07331v2)|null|
 |**2022-07-14 07:49:28**|**Improving Multi-Interest Network with Stable Learning**|Zhaocheng Liu et.al.|[2207.07910v1](http://arxiv.org/abs/2207.07910v1)|null|
-|**2022-07-14 04:29:54**|**Every Preference Changes Differently: Neural Multi-Interest Preference   Model with Temporal Dynamics for Recommendation**|Hui Shi et.al.|[2207.06652v2](http://arxiv.org/abs/2207.06652v2)|[link](https://github.com/shihui2010/mip)|
+|**2022-07-14 04:29:54**|**Everyone's Preference Changes Differently: Weighted Multi-Interest   Retrieval Model**|Hui Shi et.al.|[2207.06652v3](http://arxiv.org/abs/2207.06652v3)|[link](https://github.com/shihui2010/mip)|
 |**2022-07-06 06:29:34**|**Re-weighting Negative Samples for Model-Agnostic Matching**|Jiazhen Lou et.al.|[2207.02468v1](http://arxiv.org/abs/2207.02468v1)|null|
 |**2022-07-02 06:27:54**|**GUIM -- General User and Item Embedding with Mixture of Representation   in E-commerce**|Chao Yang et.al.|[2207.00750v1](http://arxiv.org/abs/2207.00750v1)|null|
 |**2022-06-30 01:43:58**|**Personalized Showcases: Generating Multi-Modal Explanations for   Recommendations**|An Yan et.al.|[2207.00422v1](http://arxiv.org/abs/2207.00422v1)|null|
@@ -31,4 +32,3 @@
 |**2022-06-06 15:42:54**|**Multi-Behavior Sequential Recommendation with Temporal Graph Transformer**|Lianghao Xia et.al.|[2206.02687v1](http://arxiv.org/abs/2206.02687v1)|[link](https://github.com/akaxlh/tgt)|
 |**2022-06-06 06:55:08**|**An Estimation Framework for Passerby Engagement Interacting with Social   Robots**|Taichi Sakaguchi et.al.|[2206.02394v1](http://arxiv.org/abs/2206.02394v1)|null|
 |**2022-06-03 15:56:51**|**Metrics reloaded: Pitfalls and recommendations for image analysis   validation**|Lena Maier-Hein et.al.|[2206.01653v3](http://arxiv.org/abs/2206.01653v3)|null|
-|**2022-06-01 15:56:59**|**Multi-Armed Bandit Problem with Temporally-Partitioned Rewards: When   Partial Feedback Counts**|Giulia Romano et.al.|[2206.00586v1](http://arxiv.org/abs/2206.00586v1)|null|

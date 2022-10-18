@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-17 10:46:30**|**Simultaneous confidence intervals for an extended Koch-Röhmel design   in three-arm non-inferiority trials**|Martin Scharpenberg et.al.|[2210.08931v1](http://arxiv.org/abs/2210.08931v1)|null|
 |**2022-10-14 12:43:32**|**Simpson's Paradox in Recommender Fairness: Reconciling differences   between per-user and aggregated evaluations**|Flavien Prost et.al.|[2210.07755v1](http://arxiv.org/abs/2210.07755v1)|null|
 |**2022-10-12 05:53:05**|**Equal Experience in Recommender Systems**|Jaewoong Cho et.al.|[2210.05936v1](http://arxiv.org/abs/2210.05936v1)|[link](https://github.com/cjw2525/fairrec)|
 |**2022-10-07 21:33:34**|**An Analysis of the Effects of Decoding Algorithms on Fairness in   Open-Ended Language Generation**|Jwala Dhamala et.al.|[2210.03826v1](http://arxiv.org/abs/2210.03826v1)|null|
@@ -31,4 +32,3 @@
 |**2022-09-13 12:35:36**|**Fast online ranking with fairness of exposure**|Nicolas Usunier et.al.|[2209.13019v1](http://arxiv.org/abs/2209.13019v1)|null|
 |**2022-09-13 07:10:14**|**Moving from 2D to 3D: volumetric medical image classification for rectal   cancer staging**|Joohyung Lee et.al.|[2209.05771v1](http://arxiv.org/abs/2209.05771v1)|null|
 |**2022-09-11 22:48:26**|**Reinforcement Recommendation Reasoning through Knowledge Graphs for   Explanation Path Quality**|Giacomo Balloccu et.al.|[2209.04954v1](http://arxiv.org/abs/2209.04954v1)|null|
-|**2022-09-09 17:18:41**|**Longitudinal Acoustic Speech Tracking Following Pediatric Traumatic   Brain Injury**|Camille Noufi et.al.|[2209.04406v1](http://arxiv.org/abs/2209.04406v1)|null|
