@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-19 13:40:16**|**Hierarchical Multi-Interest Co-Network For Coarse-Grained Ranking**|Xu Yuan et.al.|[2210.10547v1](http://arxiv.org/abs/2210.10547v1)|null|
 |**2022-10-15 03:04:30**|**Beyond the Worst Case: Semi-Random Complexity Analysis of Winner   Determination**|Lirong Xia et.al.|[2210.08173v1](http://arxiv.org/abs/2210.08173v1)|null|
 |**2022-10-11 07:01:40**|**DIGAT: Modeling News Recommendation with Dual-Graph Interaction**|Zhiming Mao et.al.|[2210.05196v2](http://arxiv.org/abs/2210.05196v2)|[link](https://github.com/veason-silverbullet/digat)|
 |**2022-10-07 15:30:00**|**KAST: Knowledge Aware Adaptive Session Multi-Topic Network for   Click-Through Rate Prediction**|Dike Sun et.al.|[2210.03624v1](http://arxiv.org/abs/2210.03624v1)|null|
@@ -31,4 +32,3 @@
 |**2022-06-08 13:28:29**|**Efficient Resource Allocation with Fairness Constraints in Restless   Multi-Armed Bandits**|Dexun Li et.al.|[2206.03883v2](http://arxiv.org/abs/2206.03883v2)|null|
 |**2022-06-06 15:42:54**|**Multi-Behavior Sequential Recommendation with Temporal Graph Transformer**|Lianghao Xia et.al.|[2206.02687v1](http://arxiv.org/abs/2206.02687v1)|[link](https://github.com/akaxlh/tgt)|
 |**2022-06-06 06:55:08**|**An Estimation Framework for Passerby Engagement Interacting with Social   Robots**|Taichi Sakaguchi et.al.|[2206.02394v1](http://arxiv.org/abs/2206.02394v1)|null|
-|**2022-06-03 15:56:51**|**Metrics reloaded: Pitfalls and recommendations for image analysis   validation**|Lena Maier-Hein et.al.|[2206.01653v3](http://arxiv.org/abs/2206.01653v3)|null|
