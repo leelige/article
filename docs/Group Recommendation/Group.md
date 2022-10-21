@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-20 01:59:34**|**Federated Unlearning for On-Device Recommendation**|Wei Yuan et.al.|[2210.10958v1](http://arxiv.org/abs/2210.10958v1)|null|
 |**2022-10-18 08:23:14**|**Addressing the Extreme Cold-Start Problem in Group Recommendation**|Guo linxin et.al.|[2210.09672v1](http://arxiv.org/abs/2210.09672v1)|null|
 |**2022-10-17 10:46:30**|**Simultaneous confidence intervals for an extended Koch-Röhmel design   in three-arm non-inferiority trials**|Martin Scharpenberg et.al.|[2210.08931v1](http://arxiv.org/abs/2210.08931v1)|null|
 |**2022-10-14 12:43:32**|**Simpson's Paradox in Recommender Fairness: Reconciling differences   between per-user and aggregated evaluations**|Flavien Prost et.al.|[2210.07755v1](http://arxiv.org/abs/2210.07755v1)|null|
@@ -31,4 +32,3 @@
 |**2022-09-13 23:53:32**|**The effects of surface fossil magnetic fields on massive star evolution:   IV. Grids of models at Solar, LMC, and SMC metallicities**|Z. Keszthelyi et.al.|[2209.06350v1](http://arxiv.org/abs/2209.06350v1)|null|
 |**2022-09-13 20:38:39**|**Inclusive Ethical Design for Recommender Systems**|Susan Leavy et.al.|[2209.13021v1](http://arxiv.org/abs/2209.13021v1)|null|
 |**2022-09-13 12:35:36**|**Fast online ranking with fairness of exposure**|Nicolas Usunier et.al.|[2209.13019v1](http://arxiv.org/abs/2209.13019v1)|null|
-|**2022-09-13 07:10:14**|**Moving from 2D to 3D: volumetric medical image classification for rectal   cancer staging**|Joohyung Lee et.al.|[2209.05771v1](http://arxiv.org/abs/2209.05771v1)|null|
