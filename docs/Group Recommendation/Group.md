@@ -4,7 +4,9 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-24 13:58:59**|**A comparative study to alternatives to the log-rank test**|Ina Dormuth et.al.|[2210.13258v1](http://arxiv.org/abs/2210.13258v1)|null|
 |**2022-10-22 04:06:43**|**Detection of Risk Predictors of COVID-19 Mortality with Classifier   Machine Learning Models Operated with Routine Laboratory Biomarkers**|Mehmet Tahir Huyut et.al.|[2210.12342v1](http://arxiv.org/abs/2210.12342v1)|null|
+|**2022-10-20 13:22:13**|**Fine-Grained Session Recommendations in E-commerce using Deep   Reinforcement Learning**|Diddigi Raghu Ram Bharadwaj et.al.|[2210.15451v1](http://arxiv.org/abs/2210.15451v1)|null|
 |**2022-10-20 01:59:34**|**Federated Unlearning for On-Device Recommendation**|Wei Yuan et.al.|[2210.10958v1](http://arxiv.org/abs/2210.10958v1)|null|
+|**2022-10-19 09:46:20**|**Accurate Bundle Matching and Generation via Multitask Learning with   Partially Shared Parameters**|Hyunsik Jeon et.al.|[2210.15460v1](http://arxiv.org/abs/2210.15460v1)|null|
 |**2022-10-18 08:23:14**|**Addressing the Extreme Cold-Start Problem in Group Recommendation**|Guo linxin et.al.|[2210.09672v1](http://arxiv.org/abs/2210.09672v1)|null|
 |**2022-10-17 10:46:30**|**Simultaneous confidence intervals for an extended Koch-Röhmel design   in three-arm non-inferiority trials**|Martin Scharpenberg et.al.|[2210.08931v1](http://arxiv.org/abs/2210.08931v1)|null|
 |**2022-10-14 12:43:32**|**Simpson's Paradox in Recommender Fairness: Reconciling differences   between per-user and aggregated evaluations**|Flavien Prost et.al.|[2210.07755v1](http://arxiv.org/abs/2210.07755v1)|null|
@@ -30,5 +32,3 @@
 |**2022-09-16 17:11:57**|**Reinterpretation and Long-Term Preservation of Data and Code**|Stephen Bailey et.al.|[2209.08054v1](http://arxiv.org/abs/2209.08054v1)|null|
 |**2022-09-16 17:01:39**|**'Surprised, Shocked, Worried': User Reactions to Facebook Data   Collection from Third Parties**|Patricia Arias-Cabarcos et.al.|[2209.08048v1](http://arxiv.org/abs/2209.08048v1)|null|
 |**2022-09-14 14:25:56**|**Efficient Beam Search for Initial Access Using Collaborative Filtering**|George Yammine et.al.|[2209.06669v1](http://arxiv.org/abs/2209.06669v1)|null|
-|**2022-09-14 13:47:58**|**Beyond Learning from Next Item: Sequential Recommendation via   Personalized Interest Sustainability**|Dongmin Hyun et.al.|[2209.06644v1](http://arxiv.org/abs/2209.06644v1)|[link](https://github.com/dmhyun/PERIS)|
-|**2022-09-13 23:53:32**|**The effects of surface fossil magnetic fields on massive star evolution:   IV. Grids of models at Solar, LMC, and SMC metallicities**|Z. Keszthelyi et.al.|[2209.06350v1](http://arxiv.org/abs/2209.06350v1)|null|
