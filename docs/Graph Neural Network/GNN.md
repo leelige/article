@@ -2,11 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-28 17:48:01**|**Learning Modular Simulations for Homogeneous Systems**|Jayesh K. Gupta et.al.|[2210.16294v1](http://arxiv.org/abs/2210.16294v1)|null|
+|**2022-10-28 16:59:51**|**Space-Time Graph Neural Networks with Stochastic Graph Perturbations**|Samar Hadou et.al.|[2210.16270v1](http://arxiv.org/abs/2210.16270v1)|null|
+|**2022-10-28 07:21:57**|**Generalized Laplacian Positional Encoding for Graph Representation   Learning**|Sohir Maskey et.al.|[2210.15956v1](http://arxiv.org/abs/2210.15956v1)|null|
+|**2022-10-27 19:25:56**|**Beyond Homophily with Graph Echo State Networks**|Domenico Tortorella et.al.|[2210.15731v1](http://arxiv.org/abs/2210.15731v1)|null|
 |**2022-10-27 16:12:58**|**A Graph Is More Than Its Nodes: Towards Structured Uncertainty-Aware   Learning on Graphs**|Hans Hao-Hsun Hsu et.al.|[2210.15575v1](http://arxiv.org/abs/2210.15575v1)|[link](https://github.com/hans66hsu/structured_uncertainty_metrics)|
 |**2022-10-27 16:00:45**|**Training Graph Neural Networks on Growing Stochastic Graphs**|Juan Cervino et.al.|[2210.15567v1](http://arxiv.org/abs/2210.15567v1)|null|
 |**2022-10-27 10:25:51**|**Explaining the Explainers in Graph Neural Networks: a Comparative Study**|Antonio Longa et.al.|[2210.15304v1](http://arxiv.org/abs/2210.15304v1)|null|
 |**2022-10-27 07:15:55**|**End-to-End Pareto Set Prediction with Graph Neural Networks for   Multi-objective Facility Location**|Shiqing Liu et.al.|[2210.15220v1](http://arxiv.org/abs/2210.15220v1)|null|
 |**2022-10-27 05:09:13**|**Spatial-Temporal Recurrent Graph Neural Networks for Fault Diagnostics   in Power Distribution Systems**|Bang Nguyen et.al.|[2210.15177v1](http://arxiv.org/abs/2210.15177v1)|null|
+|**2022-10-27 02:15:52**|**Predicting Protein-Ligand Binding Affinity with Equivariant Line Graph   Network**|Yiqiang Yi et.al.|[2210.16098v1](http://arxiv.org/abs/2210.16098v1)|null|
 |**2022-10-26 18:15:47**|**Constrained Approximate Similarity Search on Proximity Graph**|Weijie Zhao et.al.|[2210.14958v1](http://arxiv.org/abs/2210.14958v1)|null|
 |**2022-10-26 16:42:14**|**TuneUp: A Training Strategy for Improving Generalization of Graph Neural   Networks**|Weihua Hu et.al.|[2210.14843v1](http://arxiv.org/abs/2210.14843v1)|null|
 |**2022-10-26 13:40:57**|**Learning on Large-scale Text-attributed Graphs via Variational Inference**|Jianan Zhao et.al.|[2210.14709v1](http://arxiv.org/abs/2210.14709v1)|[link](https://github.com/andyjzhao/glem)|
@@ -27,8 +32,3 @@
 |**2022-10-24 20:47:40**|**A critical examination of robustness and generalizability of machine   learning prediction of materials properties**|Kangming Li et.al.|[2210.13597v1](http://arxiv.org/abs/2210.13597v1)|null|
 |**2022-10-24 18:00:00**|**$\texttt{Mangrove}$: Learning Galaxy Properties from Merger Trees**|Christian Kragh Jespersen et.al.|[2210.13473v1](http://arxiv.org/abs/2210.13473v1)|[link](https://github.com/astrockragh/Mangrove)|
 |**2022-10-24 17:30:08**|**Thermodynamics-informed neural networks for physically realistic mixed   reality**|Quercus Hernández et.al.|[2210.13414v1](http://arxiv.org/abs/2210.13414v1)|[link](https://github.com/quercushernandez/ThermodynamicsGNN)|
-|**2022-10-24 15:45:57**|**(LA)yer-neigh(BOR) Sampling: Defusing Neighborhood Explosion in GNNs**|Muhammed Fatih Balın et.al.|[2210.13339v1](http://arxiv.org/abs/2210.13339v1)|[link](https://github.com/dmlc/dgl)|
-|**2022-10-24 12:05:17**|**Binary Graph Convolutional Network with Capacity Exploration**|Junfu Wang et.al.|[2210.13149v1](http://arxiv.org/abs/2210.13149v1)|[link](https://github.com/bywmm/Bi-GCN)|
-|**2022-10-24 12:04:52**|**DAGformer: Directed Acyclic Graph Transformer**|Yuankai Luo et.al.|[2210.13148v2](http://arxiv.org/abs/2210.13148v2)|null|
-|**2022-10-24 08:10:26**|**Track reconstruction at the LUXE experiment using quantum algorithms**|Arianna Crippa et.al.|[2210.13021v1](http://arxiv.org/abs/2210.13021v1)|null|
-|**2022-10-24 08:01:58**|**Geometric Knowledge Distillation: Topology Compression for Graph Neural   Networks**|Chenxiao Yang et.al.|[2210.13014v1](http://arxiv.org/abs/2210.13014v1)|null|
