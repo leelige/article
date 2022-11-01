@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-29 12:53:09**|**Track2Vec: fairness music recommendation with a GPU-free   customizable-driven framework**|Wei-Wei Du et.al.|[2210.16590v1](http://arxiv.org/abs/2210.16590v1)|[link](https://github.com/wwweiwei/track2vec)|
 |**2022-10-24 13:58:59**|**A comparative study to alternatives to the log-rank test**|Ina Dormuth et.al.|[2210.13258v1](http://arxiv.org/abs/2210.13258v1)|null|
 |**2022-10-22 04:06:43**|**Detection of Risk Predictors of COVID-19 Mortality with Classifier   Machine Learning Models Operated with Routine Laboratory Biomarkers**|Mehmet Tahir Huyut et.al.|[2210.12342v1](http://arxiv.org/abs/2210.12342v1)|null|
 |**2022-10-20 13:22:13**|**Fine-Grained Session Recommendations in E-commerce using Deep   Reinforcement Learning**|Diddigi Raghu Ram Bharadwaj et.al.|[2210.15451v1](http://arxiv.org/abs/2210.15451v1)|null|
@@ -31,4 +32,3 @@
 |**2022-09-17 02:43:59**|**Summary Report of the Topical Group on Physics Education, Community   Engagement Frontier (CEF4/CommF4) Snowmass 2021**|Sibrand J. de Jong et.al.|[2209.08225v2](http://arxiv.org/abs/2209.08225v2)|null|
 |**2022-09-16 17:11:57**|**Reinterpretation and Long-Term Preservation of Data and Code**|Stephen Bailey et.al.|[2209.08054v1](http://arxiv.org/abs/2209.08054v1)|null|
 |**2022-09-16 17:01:39**|**'Surprised, Shocked, Worried': User Reactions to Facebook Data   Collection from Third Parties**|Patricia Arias-Cabarcos et.al.|[2209.08048v1](http://arxiv.org/abs/2209.08048v1)|null|
-|**2022-09-14 14:25:56**|**Efficient Beam Search for Initial Access Using Collaborative Filtering**|George Yammine et.al.|[2209.06669v1](http://arxiv.org/abs/2209.06669v1)|null|

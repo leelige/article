@@ -2,33 +2,33 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-31 17:15:32**|**Learning Modular Robot Locomotion from Demonstrations**|Julian Whitman et.al.|[2210.17491v1](http://arxiv.org/abs/2210.17491v1)|null|
+|**2022-10-31 17:11:36**|**The Open MatSci ML Toolkit: A Flexible Framework for Machine Learning in   Materials Science**|Santiago Miret et.al.|[2210.17484v1](http://arxiv.org/abs/2210.17484v1)|[link](https://github.com/intellabs/matsciml)|
+|**2022-10-31 16:30:48**|**Agglomeration of Polygonal Grids using Graph Neural Networks with   applications to Multigrid solvers**|P. F. Antonietti et.al.|[2210.17457v1](http://arxiv.org/abs/2210.17457v1)|null|
+|**2022-10-31 13:03:16**|**GNN at the Edge: Cost-Efficient Graph Neural Network Processing over   Distributed Edge Servers**|Liekang Zeng et.al.|[2210.17281v1](http://arxiv.org/abs/2210.17281v1)|null|
+|**2022-10-31 11:08:04**|**$ω$GNNs: Deep Graph Neural Networks Enhanced by Multiple   Propagation Operators**|Moshe Eliasof et.al.|[2210.17224v1](http://arxiv.org/abs/2210.17224v1)|null|
+|**2022-10-31 09:46:26**|**Learning to Optimize Permutation Flow Shop Scheduling via Graph-based   Imitation Learning**|Longkang Li et.al.|[2210.17178v1](http://arxiv.org/abs/2210.17178v1)|[link](https://github.com/longkang1/il_pfss)|
+|**2022-10-31 09:10:06**|**PAGE: Prototype-Based Model-Level Explanations for Graph Neural Networks**|Yong-Min Shin et.al.|[2210.17159v1](http://arxiv.org/abs/2210.17159v1)|[link](https://github.com/jordan7186/page)|
+|**2022-10-31 08:43:32**|**Towards Relation-centered Pooling and Convolution for Heterogeneous   Graph Learning Networks**|Tiehua Zhang et.al.|[2210.17142v1](http://arxiv.org/abs/2210.17142v1)|null|
+|**2022-10-31 02:05:58**|**GotFlow3D: Recurrent Graph Optimal Transport for Learning 3D Flow Motion   in Particle Tracking**|Jiaming Liang et.al.|[2210.17012v1](http://arxiv.org/abs/2210.17012v1)|null|
+|**2022-10-30 23:10:23**|**When Do We Need GNN for Node Classification?**|Sitao Luan et.al.|[2210.16979v1](http://arxiv.org/abs/2210.16979v1)|null|
+|**2022-10-30 21:28:22**|**Reward Shaping Using Convolutional Neural Network**|Hani Sami et.al.|[2210.16956v1](http://arxiv.org/abs/2210.16956v1)|null|
+|**2022-10-30 21:14:45**|**Decentralized Channel Management in WLANs with Graph Neural Networks**|Zhan Gao et.al.|[2210.16949v1](http://arxiv.org/abs/2210.16949v1)|null|
+|**2022-10-30 19:38:23**|**Learning to Compare Nodes in Branch and Bound with Graph Neural Networks**|Abdel Ghani Labassi et.al.|[2210.16934v1](http://arxiv.org/abs/2210.16934v1)|[link](https://github.com/ds4dm/learn2comparenodes)|
+|**2022-10-30 11:46:38**|**Temporal-Viewpoint Transportation Plan for Skeletal Few-shot Action   Recognition**|Lei Wang et.al.|[2210.16820v1](http://arxiv.org/abs/2210.16820v1)|null|
+|**2022-10-30 11:27:58**|**CAD 3D Model classification by Graph Neural Networks: A new approach   based on STEP format**|L. Mandelli et.al.|[2210.16815v1](http://arxiv.org/abs/2210.16815v1)|[link](https://github.com/divanoletto/3d_step_classification)|
+|**2022-10-30 10:01:01**|**Two-Level Temporal Relation Model for Online Video Instance Segmentation**|Çağan Selim Çoban et.al.|[2210.16795v1](http://arxiv.org/abs/2210.16795v1)|[link](https://github.com/caganselim/TLTM})|
+|**2022-10-30 04:05:06**|**Search to Pass Messages for Temporal Knowledge Graph Completion**|Zhen Wang et.al.|[2210.16740v1](http://arxiv.org/abs/2210.16740v1)|[link](https://github.com/striderdu/SPA)|
+|**2022-10-30 02:57:36**|**Graph Fuzzy System: Concepts, Models and Algorithms**|Fuping Hu et.al.|[2210.16730v1](http://arxiv.org/abs/2210.16730v1)|null|
+|**2022-10-30 02:35:31**|**QuEst: Graph Transformer for Quantum Circuit Reliability Estimation**|Hanrui Wang et.al.|[2210.16724v1](http://arxiv.org/abs/2210.16724v1)|[link](https://github.com/mit-han-lab/torchquantum)|
+|**2022-10-29 19:03:01**|**A Comparative Study of Graph Neural Networks for Shape Classification in   Neuroimaging**|Nairouz Shehata et.al.|[2210.16670v1](http://arxiv.org/abs/2210.16670v1)|[link](https://github.com/biomedia-mira/medmesh)|
+|**2022-10-29 06:32:39**|**Clenshaw Graph Neural Networks**|Yuhe Guo et.al.|[2210.16508v1](http://arxiv.org/abs/2210.16508v1)|null|
+|**2022-10-29 03:06:55**|**GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task   Graph Convolutional Network**|Ziyu Shan et.al.|[2210.16478v1](http://arxiv.org/abs/2210.16478v1)|null|
+|**2022-10-28 21:24:13**|**A State-Augmented Approach for Learning Optimal Resource Management   Decisions in Wireless Networks**|Yiğit Berkay Uslu et.al.|[2210.16412v1](http://arxiv.org/abs/2210.16412v1)|null|
+|**2022-10-28 20:13:00**|**Physics-aware Graph Neural Network for Accurate RNA 3D Structure   Prediction**|Shuo Zhang et.al.|[2210.16392v1](http://arxiv.org/abs/2210.16392v1)|null|
+|**2022-10-28 18:58:34**|**Predicting Brain Age using Transferable coVariance Neural Networks**|Saurabh Sihag et.al.|[2210.16363v1](http://arxiv.org/abs/2210.16363v1)|null|
 |**2022-10-28 17:48:01**|**Learning Modular Simulations for Homogeneous Systems**|Jayesh K. Gupta et.al.|[2210.16294v1](http://arxiv.org/abs/2210.16294v1)|null|
 |**2022-10-28 16:59:51**|**Space-Time Graph Neural Networks with Stochastic Graph Perturbations**|Samar Hadou et.al.|[2210.16270v1](http://arxiv.org/abs/2210.16270v1)|null|
 |**2022-10-28 07:21:57**|**Generalized Laplacian Positional Encoding for Graph Representation   Learning**|Sohir Maskey et.al.|[2210.15956v1](http://arxiv.org/abs/2210.15956v1)|null|
 |**2022-10-27 19:25:56**|**Beyond Homophily with Graph Echo State Networks**|Domenico Tortorella et.al.|[2210.15731v1](http://arxiv.org/abs/2210.15731v1)|null|
 |**2022-10-27 16:12:58**|**A Graph Is More Than Its Nodes: Towards Structured Uncertainty-Aware   Learning on Graphs**|Hans Hao-Hsun Hsu et.al.|[2210.15575v1](http://arxiv.org/abs/2210.15575v1)|[link](https://github.com/hans66hsu/structured_uncertainty_metrics)|
-|**2022-10-27 16:00:45**|**Training Graph Neural Networks on Growing Stochastic Graphs**|Juan Cervino et.al.|[2210.15567v1](http://arxiv.org/abs/2210.15567v1)|null|
-|**2022-10-27 10:25:51**|**Explaining the Explainers in Graph Neural Networks: a Comparative Study**|Antonio Longa et.al.|[2210.15304v1](http://arxiv.org/abs/2210.15304v1)|null|
-|**2022-10-27 07:15:55**|**End-to-End Pareto Set Prediction with Graph Neural Networks for   Multi-objective Facility Location**|Shiqing Liu et.al.|[2210.15220v1](http://arxiv.org/abs/2210.15220v1)|null|
-|**2022-10-27 05:09:13**|**Spatial-Temporal Recurrent Graph Neural Networks for Fault Diagnostics   in Power Distribution Systems**|Bang Nguyen et.al.|[2210.15177v1](http://arxiv.org/abs/2210.15177v1)|null|
-|**2022-10-27 02:15:52**|**Predicting Protein-Ligand Binding Affinity with Equivariant Line Graph   Network**|Yiqiang Yi et.al.|[2210.16098v1](http://arxiv.org/abs/2210.16098v1)|null|
-|**2022-10-26 18:15:47**|**Constrained Approximate Similarity Search on Proximity Graph**|Weijie Zhao et.al.|[2210.14958v1](http://arxiv.org/abs/2210.14958v1)|null|
-|**2022-10-26 16:42:14**|**TuneUp: A Training Strategy for Improving Generalization of Graph Neural   Networks**|Weihua Hu et.al.|[2210.14843v1](http://arxiv.org/abs/2210.14843v1)|null|
-|**2022-10-26 13:40:57**|**Learning on Large-scale Text-attributed Graphs via Variational Inference**|Jianan Zhao et.al.|[2210.14709v1](http://arxiv.org/abs/2210.14709v1)|[link](https://github.com/andyjzhao/glem)|
-|**2022-10-26 05:04:29**|**Meta-node: A Concise Approach to Effectively Learn Complex Relationships   in Heterogeneous Graphs**|Jiwoong Park et.al.|[2210.14480v1](http://arxiv.org/abs/2210.14480v1)|null|
-|**2022-10-26 03:51:46**|**Implementing arbitrary quantum operations via quantum walks on a cycle   graph**|Jia-Yi Lin et.al.|[2210.14450v1](http://arxiv.org/abs/2210.14450v1)|null|
-|**2022-10-26 02:11:01**|**Discourse-Aware Emotion Cause Extraction in Conversations**|Dexin Kong et.al.|[2210.14419v1](http://arxiv.org/abs/2210.14419v1)|null|
-|**2022-10-25 23:03:05**|**Fusing Modalities by Multiplexed Graph Neural Networks for Outcome   Prediction in Tuberculosis**|Niharika S. D'Souza et.al.|[2210.14377v1](http://arxiv.org/abs/2210.14377v1)|null|
-|**2022-10-25 21:58:02**|**LaundroGraph: Self-Supervised Graph Representation Learning for   Anti-Money Laundering**|Mário Cardoso et.al.|[2210.14360v1](http://arxiv.org/abs/2210.14360v1)|null|
-|**2022-10-25 17:32:16**|**Benchmarking Graph Neural Networks for Internet Routing Data**|Dimitrios Panteleimon Giakatos et.al.|[2210.14189v1](http://arxiv.org/abs/2210.14189v1)|null|
-|**2022-10-25 17:29:42**|**MOFormer: Self-Supervised Transformer model for Metal-Organic Framework   Property Prediction**|Zhonglin Cao et.al.|[2210.14188v1](http://arxiv.org/abs/2210.14188v1)|null|
-|**2022-10-25 09:45:49**|**A jet tagging algorithm of graph network with HaarPooling message   passing**|Fei Ma et.al.|[2210.13869v1](http://arxiv.org/abs/2210.13869v1)|null|
-|**2022-10-25 07:41:57**|**FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node   Classification**|Yulin Zhu et.al.|[2210.13815v1](http://arxiv.org/abs/2210.13815v1)|null|
-|**2022-10-25 04:46:30**|**Teal: Learning-Accelerated Optimization of Traffic Engineering**|Zhiying Xu et.al.|[2210.13763v1](http://arxiv.org/abs/2210.13763v1)|null|
-|**2022-10-25 03:21:20**|**Online Cross-Layer Knowledge Distillation on Graph Neural Networks with   Deep Supervision**|Jiongyu Guo et.al.|[2210.13743v1](http://arxiv.org/abs/2210.13743v1)|null|
-|**2022-10-25 02:41:32**|**Multi-modal Dynamic Graph Network: Coupling Structural and Functional   Connectome for Disease Diagnosis and Classification**|Yanwu Yang et.al.|[2210.13721v1](http://arxiv.org/abs/2210.13721v1)|null|
-|**2022-10-25 02:12:30**|**Motif-Backdoor: Rethinking the Backdoor Attack on Graph Neural Networks   via Motifs**|Haibin Zheng et.al.|[2210.13710v1](http://arxiv.org/abs/2210.13710v1)|null|
-|**2022-10-24 23:09:52**|**ReaRev: Adaptive Reasoning for Question Answering over Knowledge Graphs**|Costas Mavromatis et.al.|[2210.13650v1](http://arxiv.org/abs/2210.13650v1)|[link](https://github.com/cmavro/rearev_kgqa)|
-|**2022-10-24 20:47:40**|**A critical examination of robustness and generalizability of machine   learning prediction of materials properties**|Kangming Li et.al.|[2210.13597v1](http://arxiv.org/abs/2210.13597v1)|null|
-|**2022-10-24 18:00:00**|**$\texttt{Mangrove}$: Learning Galaxy Properties from Merger Trees**|Christian Kragh Jespersen et.al.|[2210.13473v1](http://arxiv.org/abs/2210.13473v1)|[link](https://github.com/astrockragh/Mangrove)|
-|**2022-10-24 17:30:08**|**Thermodynamics-informed neural networks for physically realistic mixed   reality**|Quercus Hernández et.al.|[2210.13414v1](http://arxiv.org/abs/2210.13414v1)|[link](https://github.com/quercushernandez/ThermodynamicsGNN)|
