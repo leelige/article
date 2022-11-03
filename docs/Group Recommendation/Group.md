@@ -2,8 +2,12 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-02 09:38:08**|**Balancing Utility and Fairness in Submodular Maximization (Technical   Report)**|Yanhao Wang et.al.|[2211.00980v1](http://arxiv.org/abs/2211.00980v1)|null|
+|**2022-10-30 09:27:16**|**Tournesol: Permissionless Collaborative Algorithmic Governance with   Security Guarantees**|Romain Beylerian et.al.|[2211.01179v1](http://arxiv.org/abs/2211.01179v1)|null|
 |**2022-10-29 12:53:09**|**Track2Vec: fairness music recommendation with a GPU-free   customizable-driven framework**|Wei-Wei Du et.al.|[2210.16590v1](http://arxiv.org/abs/2210.16590v1)|[link](https://github.com/wwweiwei/track2vec)|
+|**2022-10-29 04:38:39**|**A Two Step Approach to Weighted Bipartite Link Recommendations**|Nathan Ma et.al.|[2211.01153v1](http://arxiv.org/abs/2211.01153v1)|null|
 |**2022-10-24 13:58:59**|**A comparative study to alternatives to the log-rank test**|Ina Dormuth et.al.|[2210.13258v1](http://arxiv.org/abs/2210.13258v1)|null|
+|**2022-10-24 06:42:16**|**Item-based Variational Auto-encoder for Fair Music Recommendation**|Jinhyeok Park et.al.|[2211.01333v1](http://arxiv.org/abs/2211.01333v1)|null|
 |**2022-10-22 04:06:43**|**Detection of Risk Predictors of COVID-19 Mortality with Classifier   Machine Learning Models Operated with Routine Laboratory Biomarkers**|Mehmet Tahir Huyut et.al.|[2210.12342v1](http://arxiv.org/abs/2210.12342v1)|null|
 |**2022-10-20 13:22:13**|**Fine-Grained Session Recommendations in E-commerce using Deep   Reinforcement Learning**|Diddigi Raghu Ram Bharadwaj et.al.|[2210.15451v1](http://arxiv.org/abs/2210.15451v1)|null|
 |**2022-10-20 01:59:34**|**Federated Unlearning for On-Device Recommendation**|Wei Yuan et.al.|[2210.10958v1](http://arxiv.org/abs/2210.10958v1)|null|
@@ -13,7 +17,6 @@
 |**2022-10-14 12:43:32**|**Simpson's Paradox in Recommender Fairness: Reconciling differences   between per-user and aggregated evaluations**|Flavien Prost et.al.|[2210.07755v1](http://arxiv.org/abs/2210.07755v1)|null|
 |**2022-10-12 05:53:05**|**Equal Experience in Recommender Systems**|Jaewoong Cho et.al.|[2210.05936v1](http://arxiv.org/abs/2210.05936v1)|[link](https://github.com/cjw2525/fairrec)|
 |**2022-10-07 21:33:34**|**An Analysis of the Effects of Decoding Algorithms on Fairness in   Open-Ended Language Generation**|Jwala Dhamala et.al.|[2210.03826v1](http://arxiv.org/abs/2210.03826v1)|null|
-|**2022-10-06 16:01:26**|**Digital Human Interactive Recommendation Decision-Making Based on   Reinforcement Learning**|Xiong Junwu et.al.|[2210.10638v2](http://arxiv.org/abs/2210.10638v2)|null|
 |**2022-10-05 18:00:01**|**Machine learning classification of fast radio bursts: I. supervised   methods**|Jia-Wei Luo et.al.|[2210.02463v1](http://arxiv.org/abs/2210.02463v1)|null|
 |**2022-10-05 05:48:39**|**Clustering Semantic Predicates in the Open Research Knowledge Graph**|Omar Arab Oghli et.al.|[2210.02034v1](http://arxiv.org/abs/2210.02034v1)|null|
 |**2022-10-01 11:54:55**|**Tyranny-of-the-minority regression adjustment in randomized experiments**|Xin Lu et.al.|[2210.00261v1](http://arxiv.org/abs/2210.00261v1)|null|
@@ -29,6 +32,3 @@
 |**2022-09-21 04:34:17**|**A Comprehensive Survey on Trustworthy Recommender Systems**|Wenqi Fan et.al.|[2209.10117v1](http://arxiv.org/abs/2209.10117v1)|null|
 |**2022-09-19 15:01:41**|**Summary Report for Snowmass Community Engagement Frontier Topical Group   06: Public Policy & Government Engagement**|Rob Fine et.al.|[2209.09067v2](http://arxiv.org/abs/2209.09067v2)|null|
 |**2022-09-19 09:23:03**|**Snowmass 2021 Computational Frontier CompF4 Topical Group Report:   Storage and Processing Resource Access**|W. Bhimji et.al.|[2209.08868v2](http://arxiv.org/abs/2209.08868v2)|null|
-|**2022-09-18 18:47:45**|**Summary Report of the Topical Group on Career Pipeline and Development   (CommF2) Community Engagement Frontier Snowmass 2021**|Julie Hogan et.al.|[2209.10114v2](http://arxiv.org/abs/2209.10114v2)|null|
-|**2022-09-17 02:43:59**|**Summary Report of the Topical Group on Physics Education, Community   Engagement Frontier (CEF4/CommF4) Snowmass 2021**|Sibrand J. de Jong et.al.|[2209.08225v2](http://arxiv.org/abs/2209.08225v2)|null|
-|**2022-09-16 17:11:57**|**Reinterpretation and Long-Term Preservation of Data and Code**|Stephen Bailey et.al.|[2209.08054v1](http://arxiv.org/abs/2209.08054v1)|null|

@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-02 15:55:46**|**Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning**|Jong-whi Lee et.al.|[2211.01214v1](http://arxiv.org/abs/2211.01214v1)|null|
+|**2022-11-02 04:57:04**|**DeepTrace: Learning to Optimize Contact Tracing in Epidemic Networks   with Graph Neural Networks**|Siya Chen et.al.|[2211.00880v1](http://arxiv.org/abs/2211.00880v1)|null|
+|**2022-11-01 23:16:36**|**Impact Of Missing Data Imputation On The Fairness And Accuracy Of Graph   Node Classifiers**|Haris Mansoor et.al.|[2211.00783v1](http://arxiv.org/abs/2211.00783v1)|[link](https://github.com/harisalimansoor/fairnessgraphdataimputation)|
+|**2022-11-01 19:23:45**|**MAgNET: A Graph U-Net Architecture for Mesh-Based Simulations**|Saurabh Deshpande et.al.|[2211.00713v1](http://arxiv.org/abs/2211.00713v1)|null|
+|**2022-11-01 18:33:20**|**Towards Better Out-of-Distribution Generalization of Neural Algorithmic   Reasoning Tasks**|Sadegh Mahdavi et.al.|[2211.00692v1](http://arxiv.org/abs/2211.00692v1)|[link](https://github.com/smahdavi4/clrs)|
 |**2022-11-01 17:35:31**|**Asymmetric Hashing for Fast Ranking via Neural Network Measures**|Khoa Doan et.al.|[2211.00619v1](http://arxiv.org/abs/2211.00619v1)|null|
 |**2022-11-01 16:34:42**|**Position-Aware Subgraph Neural Networks with Data-Efficient Learning**|Chang Liu et.al.|[2211.00572v1](http://arxiv.org/abs/2211.00572v1)|[link](https://github.com/alvinisonomia/padel)|
 |**2022-11-01 16:17:07**|**Leveraging commonsense for object localisation in partial scenes**|Francesco Giuliari et.al.|[2211.00562v1](http://arxiv.org/abs/2211.00562v1)|null|
@@ -27,8 +32,3 @@
 |**2022-10-30 11:46:38**|**Temporal-Viewpoint Transportation Plan for Skeletal Few-shot Action   Recognition**|Lei Wang et.al.|[2210.16820v1](http://arxiv.org/abs/2210.16820v1)|null|
 |**2022-10-30 11:27:58**|**CAD 3D Model classification by Graph Neural Networks: A new approach   based on STEP format**|L. Mandelli et.al.|[2210.16815v1](http://arxiv.org/abs/2210.16815v1)|[link](https://github.com/divanoletto/3d_step_classification)|
 |**2022-10-30 10:01:01**|**Two-Level Temporal Relation Model for Online Video Instance Segmentation**|Çağan Selim Çoban et.al.|[2210.16795v1](http://arxiv.org/abs/2210.16795v1)|[link](https://github.com/caganselim/TLTM})|
-|**2022-10-30 04:05:06**|**Search to Pass Messages for Temporal Knowledge Graph Completion**|Zhen Wang et.al.|[2210.16740v1](http://arxiv.org/abs/2210.16740v1)|[link](https://github.com/striderdu/SPA)|
-|**2022-10-30 02:57:36**|**Graph Fuzzy System: Concepts, Models and Algorithms**|Fuping Hu et.al.|[2210.16730v1](http://arxiv.org/abs/2210.16730v1)|null|
-|**2022-10-30 02:35:31**|**QuEst: Graph Transformer for Quantum Circuit Reliability Estimation**|Hanrui Wang et.al.|[2210.16724v1](http://arxiv.org/abs/2210.16724v1)|[link](https://github.com/mit-han-lab/torchquantum)|
-|**2022-10-29 19:03:01**|**A Comparative Study of Graph Neural Networks for Shape Classification in   Neuroimaging**|Nairouz Shehata et.al.|[2210.16670v1](http://arxiv.org/abs/2210.16670v1)|[link](https://github.com/biomedia-mira/medmesh)|
-|**2022-10-29 06:32:39**|**Clenshaw Graph Neural Networks**|Yuhe Guo et.al.|[2210.16508v1](http://arxiv.org/abs/2210.16508v1)|null|
