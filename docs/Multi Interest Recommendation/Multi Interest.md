@@ -11,7 +11,7 @@
 |**2022-10-04 22:33:58**|**IGNiteR: News Recommendation in Microblogging Applications (Extended   Version)**|Yuting Feng et.al.|[2210.01942v1](http://arxiv.org/abs/2210.01942v1)|null|
 |**2022-09-30 08:02:18**|**The Minority Matters: A Diversity-Promoting Collaborative Metric   Learning Algorithm**|Shilong Bao et.al.|[2209.15292v1](http://arxiv.org/abs/2209.15292v1)|null|
 |**2022-09-16 12:07:43**|**PARSRec: Explainable Personalized Attention-fused Recurrent Sequential   Recommendation Using Session Partial Actions**|Ehsan Gholami et.al.|[2209.13015v1](http://arxiv.org/abs/2209.13015v1)|[link](https://github.com/ehgh/parsrec)|
-|**2022-09-15 14:38:47**|**Semiparametric Best Arm Identification with Contextual Information**|Masahiro Kato et.al.|[2209.07330v2](http://arxiv.org/abs/2209.07330v2)|null|
+|**2022-09-15 14:38:47**|**Semiparametric Best Arm Identification with Contextual Information**|Masahiro Kato et.al.|[2209.07330v3](http://arxiv.org/abs/2209.07330v3)|null|
 |**2022-09-10 04:21:25**|**Causal Intervention for Fairness in Multi-behavior Recommendation**|Xi Wang et.al.|[2209.04589v1](http://arxiv.org/abs/2209.04589v1)|null|
 |**2022-09-06 22:25:36**|**User recommendation system based on MIND dataset**|Niran A. Abdulhussein et.al.|[2209.06131v1](http://arxiv.org/abs/2209.06131v1)|null|
 |**2022-09-04 08:09:31**|**Hierarchical Transformer with Spatio-Temporal Context Aggregation for   Next Point-of-Interest Recommendation**|Jiayi Xie et.al.|[2209.01559v1](http://arxiv.org/abs/2209.01559v1)|[link](https://github.com/JennyXieJiayi/STAR-HiT)|

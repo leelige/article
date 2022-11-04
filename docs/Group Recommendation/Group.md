@@ -2,7 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-11-02 09:38:08**|**Balancing Utility and Fairness in Submodular Maximization (Technical   Report)**|Yanhao Wang et.al.|[2211.00980v1](http://arxiv.org/abs/2211.00980v1)|null|
+|**2022-11-02 09:38:08**|**Balancing Utility and Fairness in Submodular Maximization (Technical   Report)**|Yanhao Wang et.al.|[2211.00980v1](http://arxiv.org/abs/2211.00980v1)|[link](https://github.com/yhwang1990/code-bsm-release)|
+|**2022-11-02 01:42:20**|**Ranking-based Group Identification via Factorized Attention on Social   Tripartite Graph**|Mingdai Yang et.al.|[2211.01830v1](http://arxiv.org/abs/2211.01830v1)|null|
 |**2022-10-30 09:27:16**|**Tournesol: Permissionless Collaborative Algorithmic Governance with   Security Guarantees**|Romain Beylerian et.al.|[2211.01179v1](http://arxiv.org/abs/2211.01179v1)|null|
 |**2022-10-29 12:53:09**|**Track2Vec: fairness music recommendation with a GPU-free   customizable-driven framework**|Wei-Wei Du et.al.|[2210.16590v1](http://arxiv.org/abs/2210.16590v1)|[link](https://github.com/wwweiwei/track2vec)|
 |**2022-10-29 04:38:39**|**A Two Step Approach to Weighted Bipartite Link Recommendations**|Nathan Ma et.al.|[2211.01153v1](http://arxiv.org/abs/2211.01153v1)|null|
@@ -31,4 +32,3 @@
 |**2022-09-23 20:06:18**|**Revisiting the Analysis of Matched-Pair and Stratified Experiments in   the Presence of Attrition**|Yuehao Bai et.al.|[2209.11840v2](http://arxiv.org/abs/2209.11840v2)|null|
 |**2022-09-21 04:34:17**|**A Comprehensive Survey on Trustworthy Recommender Systems**|Wenqi Fan et.al.|[2209.10117v1](http://arxiv.org/abs/2209.10117v1)|null|
 |**2022-09-19 15:01:41**|**Summary Report for Snowmass Community Engagement Frontier Topical Group   06: Public Policy & Government Engagement**|Rob Fine et.al.|[2209.09067v2](http://arxiv.org/abs/2209.09067v2)|null|
-|**2022-09-19 09:23:03**|**Snowmass 2021 Computational Frontier CompF4 Topical Group Report:   Storage and Processing Resource Access**|W. Bhimji et.al.|[2209.08868v2](http://arxiv.org/abs/2209.08868v2)|null|
