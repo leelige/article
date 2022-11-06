@@ -17,7 +17,7 @@
 |**2022-11-01 16:34:42**|**Position-Aware Subgraph Neural Networks with Data-Efficient Learning**|Chang Liu et.al.|[2211.00572v1](http://arxiv.org/abs/2211.00572v1)|[link](https://github.com/alvinisonomia/padel)|
 |**2022-11-01 16:17:07**|**Leveraging commonsense for object localisation in partial scenes**|Francesco Giuliari et.al.|[2211.00562v1](http://arxiv.org/abs/2211.00562v1)|null|
 |**2022-11-01 15:26:22**|**Leveraging Graph-based Cross-modal Information Fusion for Neural Sign   Language Translation**|Jiangbin Zheng et.al.|[2211.00526v1](http://arxiv.org/abs/2211.00526v1)|null|
-|**2022-11-01 14:38:18**|**Efficient Graph Neural Network Inference at Large Scale**|Xinyi Gao et.al.|[2211.00495v1](http://arxiv.org/abs/2211.00495v1)|[link](https://github.com/xygaog/nai)|
+|**2022-11-01 14:38:18**|**Efficient Graph Neural Network Inference at Large Scale**|Xinyi Gao et.al.|[2211.00495v1](http://arxiv.org/abs/2211.00495v1)|null|
 |**2022-11-01 04:41:04**|**ActGraph: Prioritization of Test Cases Based on Deep Neural Network   Activation Graph**|Jinyin Chen et.al.|[2211.00273v1](http://arxiv.org/abs/2211.00273v1)|null|
 |**2022-11-01 03:59:54**|**Learning Task-Aware Effective Brain Connectivity for fMRI Analysis with   Graph Neural Networks**|Yue Yu et.al.|[2211.00261v1](http://arxiv.org/abs/2211.00261v1)|[link](https://github.com/yueyu1030/tbds)|
 |**2022-11-01 01:57:00**|**Distributed Graph Neural Network Training: A Survey**|Yingxia Shao et.al.|[2211.00216v1](http://arxiv.org/abs/2211.00216v1)|null|

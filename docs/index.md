@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-11-05 16:09:13 Asia/Shanghai
+ 自动更新 @ 2022-11-06 16:09:11 Asia/Shanghai
 
 ## Graph Neural Network
 
@@ -21,7 +21,7 @@
 |**2022-11-01 16:34:42**|**Position-Aware Subgraph Neural Networks with Data-Efficient Learning**|Chang Liu et.al.|[2211.00572v1](http://arxiv.org/abs/2211.00572v1)|[link](https://github.com/alvinisonomia/padel)|
 |**2022-11-01 16:17:07**|**Leveraging commonsense for object localisation in partial scenes**|Francesco Giuliari et.al.|[2211.00562v1](http://arxiv.org/abs/2211.00562v1)|null|
 |**2022-11-01 15:26:22**|**Leveraging Graph-based Cross-modal Information Fusion for Neural Sign   Language Translation**|Jiangbin Zheng et.al.|[2211.00526v1](http://arxiv.org/abs/2211.00526v1)|null|
-|**2022-11-01 14:38:18**|**Efficient Graph Neural Network Inference at Large Scale**|Xinyi Gao et.al.|[2211.00495v1](http://arxiv.org/abs/2211.00495v1)|[link](https://github.com/xygaog/nai)|
+|**2022-11-01 14:38:18**|**Efficient Graph Neural Network Inference at Large Scale**|Xinyi Gao et.al.|[2211.00495v1](http://arxiv.org/abs/2211.00495v1)|null|
 |**2022-11-01 04:41:04**|**ActGraph: Prioritization of Test Cases Based on Deep Neural Network   Activation Graph**|Jinyin Chen et.al.|[2211.00273v1](http://arxiv.org/abs/2211.00273v1)|null|
 |**2022-11-01 03:59:54**|**Learning Task-Aware Effective Brain Connectivity for fMRI Analysis with   Graph Neural Networks**|Yue Yu et.al.|[2211.00261v1](http://arxiv.org/abs/2211.00261v1)|[link](https://github.com/yueyu1030/tbds)|
 |**2022-11-01 01:57:00**|**Distributed Graph Neural Network Training: A Survey**|Yingxia Shao et.al.|[2211.00216v1](http://arxiv.org/abs/2211.00216v1)|null|
@@ -36,42 +36,6 @@
 |**2022-10-31 08:43:32**|**Towards Relation-centered Pooling and Convolution for Heterogeneous   Graph Learning Networks**|Tiehua Zhang et.al.|[2210.17142v1](http://arxiv.org/abs/2210.17142v1)|[link](https://github.com/BUPT-GAMMA/OpenHGNN)|
 |**2022-10-31 02:05:58**|**GotFlow3D: Recurrent Graph Optimal Transport for Learning 3D Flow Motion   in Particle Tracking**|Jiaming Liang et.al.|[2210.17012v1](http://arxiv.org/abs/2210.17012v1)|null|
 |**2022-10-30 23:10:23**|**When Do We Need GNN for Node Classification?**|Sitao Luan et.al.|[2210.16979v1](http://arxiv.org/abs/2210.16979v1)|null|
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-11-02 09:38:08**|**Balancing Utility and Fairness in Submodular Maximization (Technical   Report)**|Yanhao Wang et.al.|[2211.00980v1](http://arxiv.org/abs/2211.00980v1)|[link](https://github.com/yhwang1990/code-bsm-release)|
-|**2022-11-02 01:42:20**|**Ranking-based Group Identification via Factorized Attention on Social   Tripartite Graph**|Mingdai Yang et.al.|[2211.01830v1](http://arxiv.org/abs/2211.01830v1)|null|
-|**2022-10-30 09:27:16**|**Tournesol: Permissionless Collaborative Algorithmic Governance with   Security Guarantees**|Romain Beylerian et.al.|[2211.01179v1](http://arxiv.org/abs/2211.01179v1)|null|
-|**2022-10-29 12:53:09**|**Track2Vec: fairness music recommendation with a GPU-free   customizable-driven framework**|Wei-Wei Du et.al.|[2210.16590v1](http://arxiv.org/abs/2210.16590v1)|[link](https://github.com/wwweiwei/track2vec)|
-|**2022-10-29 04:38:39**|**A Two Step Approach to Weighted Bipartite Link Recommendations**|Nathan Ma et.al.|[2211.01153v1](http://arxiv.org/abs/2211.01153v1)|null|
-|**2022-10-24 13:58:59**|**A comparative study to alternatives to the log-rank test**|Ina Dormuth et.al.|[2210.13258v1](http://arxiv.org/abs/2210.13258v1)|null|
-|**2022-10-24 06:42:16**|**Item-based Variational Auto-encoder for Fair Music Recommendation**|Jinhyeok Park et.al.|[2211.01333v1](http://arxiv.org/abs/2211.01333v1)|null|
-|**2022-10-22 04:06:43**|**Detection of Risk Predictors of COVID-19 Mortality with Classifier   Machine Learning Models Operated with Routine Laboratory Biomarkers**|Mehmet Tahir Huyut et.al.|[2210.12342v1](http://arxiv.org/abs/2210.12342v1)|null|
-|**2022-10-20 13:22:13**|**Fine-Grained Session Recommendations in E-commerce using Deep   Reinforcement Learning**|Diddigi Raghu Ram Bharadwaj et.al.|[2210.15451v1](http://arxiv.org/abs/2210.15451v1)|null|
-|**2022-10-20 01:59:34**|**Federated Unlearning for On-Device Recommendation**|Wei Yuan et.al.|[2210.10958v1](http://arxiv.org/abs/2210.10958v1)|null|
-|**2022-10-19 09:46:20**|**Accurate Bundle Matching and Generation via Multitask Learning with   Partially Shared Parameters**|Hyunsik Jeon et.al.|[2210.15460v2](http://arxiv.org/abs/2210.15460v2)|[link](https://github.com/bundlerecommender/bundlemage)|
-|**2022-10-18 08:23:14**|**Addressing the Extreme Cold-Start Problem in Group Recommendation**|Guo linxin et.al.|[2210.09672v1](http://arxiv.org/abs/2210.09672v1)|null|
-|**2022-10-17 10:46:30**|**Simultaneous confidence intervals for an extended Koch-Röhmel design   in three-arm non-inferiority trials**|Martin Scharpenberg et.al.|[2210.08931v1](http://arxiv.org/abs/2210.08931v1)|null|
-|**2022-10-14 12:43:32**|**Simpson's Paradox in Recommender Fairness: Reconciling differences   between per-user and aggregated evaluations**|Flavien Prost et.al.|[2210.07755v1](http://arxiv.org/abs/2210.07755v1)|null|
-|**2022-10-12 05:53:05**|**Equal Experience in Recommender Systems**|Jaewoong Cho et.al.|[2210.05936v1](http://arxiv.org/abs/2210.05936v1)|[link](https://github.com/cjw2525/fairrec)|
-|**2022-10-07 21:33:34**|**An Analysis of the Effects of Decoding Algorithms on Fairness in   Open-Ended Language Generation**|Jwala Dhamala et.al.|[2210.03826v1](http://arxiv.org/abs/2210.03826v1)|null|
-|**2022-10-05 18:00:01**|**Machine learning classification of fast radio bursts: I. supervised   methods**|Jia-Wei Luo et.al.|[2210.02463v1](http://arxiv.org/abs/2210.02463v1)|null|
-|**2022-10-05 05:48:39**|**Clustering Semantic Predicates in the Open Research Knowledge Graph**|Omar Arab Oghli et.al.|[2210.02034v1](http://arxiv.org/abs/2210.02034v1)|null|
-|**2022-10-01 11:54:55**|**Tyranny-of-the-minority regression adjustment in randomized experiments**|Xin Lu et.al.|[2210.00261v1](http://arxiv.org/abs/2210.00261v1)|null|
-|**2022-09-29 19:20:24**|**Reasoning about Complex Networks: A Logic Programming Approach**|Paulo Shakarian et.al.|[2209.15067v1](http://arxiv.org/abs/2209.15067v1)|null|
-|**2022-09-29 17:48:33**|**CompF5: End User Analysis Topical Group Report**|Gavin S. Davies et.al.|[2209.14984v1](http://arxiv.org/abs/2209.14984v1)|null|
-|**2022-09-27 13:17:45**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 2 - Ex vivo imaging**|Kurt G Schilling et.al.|[2209.13371v1](http://arxiv.org/abs/2209.13371v1)|null|
-|**2022-09-27 06:29:18**|**A Survey of Fairness in Medical Image Analysis: Concepts, Algorithms,   Evaluations, and Challenges**|Zikang Xu et.al.|[2209.13177v2](http://arxiv.org/abs/2209.13177v2)|null|
-|**2022-09-26 20:11:19**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 1 -- In vivo small-animal imaging**|Ileana O Jelescu et.al.|[2209.12994v1](http://arxiv.org/abs/2209.12994v1)|null|
-|**2022-09-26 02:29:47**|**Diversity, Equity, and Inclusion in Particle Physics**|C. Bonifazi et.al.|[2209.12377v1](http://arxiv.org/abs/2209.12377v1)|null|
-|**2022-09-25 19:18:09**|**Issues in Implementing Regression Calibration Analyses**|Lillian Boe et.al.|[2209.12304v1](http://arxiv.org/abs/2209.12304v1)|null|
-|**2022-09-24 14:37:14**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality   and Haptic feedback**|Yu Jiang et.al.|[2209.12018v2](http://arxiv.org/abs/2209.12018v2)|null|
-|**2022-09-23 20:06:18**|**Revisiting the Analysis of Matched-Pair and Stratified Experiments in   the Presence of Attrition**|Yuehao Bai et.al.|[2209.11840v2](http://arxiv.org/abs/2209.11840v2)|null|
-|**2022-09-21 04:34:17**|**A Comprehensive Survey on Trustworthy Recommender Systems**|Wenqi Fan et.al.|[2209.10117v1](http://arxiv.org/abs/2209.10117v1)|null|
-|**2022-09-19 15:01:41**|**Summary Report for Snowmass Community Engagement Frontier Topical Group   06: Public Policy & Government Engagement**|Rob Fine et.al.|[2209.09067v2](http://arxiv.org/abs/2209.09067v2)|null|
 
 ## Multi Interest Recommendation
 
@@ -108,3 +72,39 @@
 |**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
 |**2022-06-10 12:05:50**|**Feature-aware Diversified Re-ranking with Disentangled Representations   for Relevant Recommendation**|Zihan Lin et.al.|[2206.05020v1](http://arxiv.org/abs/2206.05020v1)|null|
 |**2022-06-08 13:28:29**|**Efficient Resource Allocation with Fairness Constraints in Restless   Multi-Armed Bandits**|Dexun Li et.al.|[2206.03883v2](http://arxiv.org/abs/2206.03883v2)|null|
+
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-11-02 09:38:08**|**Balancing Utility and Fairness in Submodular Maximization (Technical   Report)**|Yanhao Wang et.al.|[2211.00980v1](http://arxiv.org/abs/2211.00980v1)|[link](https://github.com/yhwang1990/code-bsm-release)|
+|**2022-11-02 01:42:20**|**Ranking-based Group Identification via Factorized Attention on Social   Tripartite Graph**|Mingdai Yang et.al.|[2211.01830v1](http://arxiv.org/abs/2211.01830v1)|null|
+|**2022-10-30 09:27:16**|**Tournesol: Permissionless Collaborative Algorithmic Governance with   Security Guarantees**|Romain Beylerian et.al.|[2211.01179v1](http://arxiv.org/abs/2211.01179v1)|null|
+|**2022-10-29 12:53:09**|**Track2Vec: fairness music recommendation with a GPU-free   customizable-driven framework**|Wei-Wei Du et.al.|[2210.16590v1](http://arxiv.org/abs/2210.16590v1)|[link](https://github.com/wwweiwei/track2vec)|
+|**2022-10-29 04:38:39**|**A Two Step Approach to Weighted Bipartite Link Recommendations**|Nathan Ma et.al.|[2211.01153v1](http://arxiv.org/abs/2211.01153v1)|null|
+|**2022-10-24 13:58:59**|**A comparative study to alternatives to the log-rank test**|Ina Dormuth et.al.|[2210.13258v1](http://arxiv.org/abs/2210.13258v1)|null|
+|**2022-10-24 06:42:16**|**Item-based Variational Auto-encoder for Fair Music Recommendation**|Jinhyeok Park et.al.|[2211.01333v1](http://arxiv.org/abs/2211.01333v1)|null|
+|**2022-10-22 04:06:43**|**Detection of Risk Predictors of COVID-19 Mortality with Classifier   Machine Learning Models Operated with Routine Laboratory Biomarkers**|Mehmet Tahir Huyut et.al.|[2210.12342v1](http://arxiv.org/abs/2210.12342v1)|null|
+|**2022-10-20 13:22:13**|**Fine-Grained Session Recommendations in E-commerce using Deep   Reinforcement Learning**|Diddigi Raghu Ram Bharadwaj et.al.|[2210.15451v1](http://arxiv.org/abs/2210.15451v1)|null|
+|**2022-10-20 01:59:34**|**Federated Unlearning for On-Device Recommendation**|Wei Yuan et.al.|[2210.10958v1](http://arxiv.org/abs/2210.10958v1)|null|
+|**2022-10-19 09:46:20**|**Accurate Bundle Matching and Generation via Multitask Learning with   Partially Shared Parameters**|Hyunsik Jeon et.al.|[2210.15460v2](http://arxiv.org/abs/2210.15460v2)|[link](https://github.com/bundlerecommender/bundlemage)|
+|**2022-10-18 08:23:14**|**Addressing the Extreme Cold-Start Problem in Group Recommendation**|Guo linxin et.al.|[2210.09672v1](http://arxiv.org/abs/2210.09672v1)|null|
+|**2022-10-17 10:46:30**|**Simultaneous confidence intervals for an extended Koch-Röhmel design   in three-arm non-inferiority trials**|Martin Scharpenberg et.al.|[2210.08931v1](http://arxiv.org/abs/2210.08931v1)|null|
+|**2022-10-14 12:43:32**|**Simpson's Paradox in Recommender Fairness: Reconciling differences   between per-user and aggregated evaluations**|Flavien Prost et.al.|[2210.07755v1](http://arxiv.org/abs/2210.07755v1)|null|
+|**2022-10-12 05:53:05**|**Equal Experience in Recommender Systems**|Jaewoong Cho et.al.|[2210.05936v1](http://arxiv.org/abs/2210.05936v1)|[link](https://github.com/cjw2525/fairrec)|
+|**2022-10-07 21:33:34**|**An Analysis of the Effects of Decoding Algorithms on Fairness in   Open-Ended Language Generation**|Jwala Dhamala et.al.|[2210.03826v1](http://arxiv.org/abs/2210.03826v1)|null|
+|**2022-10-05 18:00:01**|**Machine learning classification of fast radio bursts: I. supervised   methods**|Jia-Wei Luo et.al.|[2210.02463v1](http://arxiv.org/abs/2210.02463v1)|null|
+|**2022-10-05 05:48:39**|**Clustering Semantic Predicates in the Open Research Knowledge Graph**|Omar Arab Oghli et.al.|[2210.02034v1](http://arxiv.org/abs/2210.02034v1)|null|
+|**2022-10-01 11:54:55**|**Tyranny-of-the-minority regression adjustment in randomized experiments**|Xin Lu et.al.|[2210.00261v1](http://arxiv.org/abs/2210.00261v1)|null|
+|**2022-09-29 19:20:24**|**Reasoning about Complex Networks: A Logic Programming Approach**|Paulo Shakarian et.al.|[2209.15067v1](http://arxiv.org/abs/2209.15067v1)|null|
+|**2022-09-29 17:48:33**|**CompF5: End User Analysis Topical Group Report**|Gavin S. Davies et.al.|[2209.14984v1](http://arxiv.org/abs/2209.14984v1)|null|
+|**2022-09-27 13:17:45**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 2 - Ex vivo imaging**|Kurt G Schilling et.al.|[2209.13371v1](http://arxiv.org/abs/2209.13371v1)|null|
+|**2022-09-27 06:29:18**|**A Survey of Fairness in Medical Image Analysis: Concepts, Algorithms,   Evaluations, and Challenges**|Zikang Xu et.al.|[2209.13177v2](http://arxiv.org/abs/2209.13177v2)|null|
+|**2022-09-26 20:11:19**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 1 -- In vivo small-animal imaging**|Ileana O Jelescu et.al.|[2209.12994v1](http://arxiv.org/abs/2209.12994v1)|null|
+|**2022-09-26 02:29:47**|**Diversity, Equity, and Inclusion in Particle Physics**|C. Bonifazi et.al.|[2209.12377v1](http://arxiv.org/abs/2209.12377v1)|null|
+|**2022-09-25 19:18:09**|**Issues in Implementing Regression Calibration Analyses**|Lillian Boe et.al.|[2209.12304v1](http://arxiv.org/abs/2209.12304v1)|null|
+|**2022-09-24 14:37:14**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality   and Haptic feedback**|Yu Jiang et.al.|[2209.12018v2](http://arxiv.org/abs/2209.12018v2)|null|
+|**2022-09-23 20:06:18**|**Revisiting the Analysis of Matched-Pair and Stratified Experiments in   the Presence of Attrition**|Yuehao Bai et.al.|[2209.11840v2](http://arxiv.org/abs/2209.11840v2)|null|
+|**2022-09-21 04:34:17**|**A Comprehensive Survey on Trustworthy Recommender Systems**|Wenqi Fan et.al.|[2209.10117v1](http://arxiv.org/abs/2209.10117v1)|null|
+|**2022-09-19 15:01:41**|**Summary Report for Snowmass Community Engagement Frontier Topical Group   06: Public Policy & Government Engagement**|Rob Fine et.al.|[2209.09067v2](http://arxiv.org/abs/2209.09067v2)|null|
