@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-09 16:04:45**|**Hyper-GST: Predict Metro Passenger Flow Incorporating GraphSAGE,   Hypergraph, Social-meaningful Edge Weights and Temporal Exploitation**|Yuyang Miao et.al.|[2211.04988v1](http://arxiv.org/abs/2211.04988v1)|null|
+|**2022-11-09 16:02:28**|**Graph representation learning for street networks**|Mateo Neira et.al.|[2211.04984v1](http://arxiv.org/abs/2211.04984v1)|null|
+|**2022-11-09 15:21:09**|**Graph Neural Networks with Adaptive Readouts**|David Buterez et.al.|[2211.04952v1](http://arxiv.org/abs/2211.04952v1)|[link](https://github.com/davidbuterez/gnn-neural-readouts)|
+|**2022-11-09 09:16:39**|**Semi-Equivariant Continuous Normalizing Flows for Target-Aware Molecule   Generation**|Eyal Rozenberg et.al.|[2211.04754v1](http://arxiv.org/abs/2211.04754v1)|null|
+|**2022-11-09 00:43:36**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|null|
+|**2022-11-08 22:39:04**|**Reducing Down(stream)time: Pretraining Molecular GNNs using   Heterogeneous AI Accelerators**|Jenna A. Bilbrey et.al.|[2211.04598v1](http://arxiv.org/abs/2211.04598v1)|[link](https://github.com/pnnl/downstream_mol_gnn)|
+|**2022-11-08 19:23:51**|**Deep IMU Bias Inference for Robust Visual-Inertial Odometry with Factor   Graphs**|Russell Buchanan et.al.|[2211.04517v1](http://arxiv.org/abs/2211.04517v1)|null|
 |**2022-11-08 13:51:49**|**Improving Graph Neural Networks at Scale: Combining Approximate PageRank   and CoreRank**|Ariel R. Ramos Vela et.al.|[2211.04248v1](http://arxiv.org/abs/2211.04248v1)|[link](https://github.com/arielramos97/coreppr)|
 |**2022-11-08 10:17:59**|**Perspectives on neural proof nets**|Richard Moot et.al.|[2211.04141v1](http://arxiv.org/abs/2211.04141v1)|null|
 |**2022-11-08 09:02:59**|**GENIUS: A Novel Solution for Subteam Replacement with Clustering-based   Graph Neural Network**|Chuxuan Hu et.al.|[2211.04100v1](http://arxiv.org/abs/2211.04100v1)|null|
@@ -10,7 +17,7 @@
 |**2022-11-07 19:00:05**|**ToDD: Topological Compound Fingerprinting in Computer-Aided Drug   Discovery**|Andac Demir et.al.|[2211.03808v1](http://arxiv.org/abs/2211.03808v1)|null|
 |**2022-11-07 16:25:22**|**Application of Graph Neural Networks and graph descriptors for graph   classification**|Jakub Adamczyk et.al.|[2211.03666v1](http://arxiv.org/abs/2211.03666v1)|null|
 |**2022-11-07 14:46:47**|**Retention Time Prediction for Chromatographic Enantioseparation by   Quantile Geometry-enhanced Graph Neural Network**|Hao Xu et.al.|[2211.03602v1](http://arxiv.org/abs/2211.03602v1)|null|
-|**2022-11-07 06:17:21**|**Implicit Graphon Neural Representation**|Xinyue Xia et.al.|[2211.03329v1](http://arxiv.org/abs/2211.03329v1)|null|
+|**2022-11-07 06:17:21**|**Implicit Graphon Neural Representation**|Xinyue Xia et.al.|[2211.03329v2](http://arxiv.org/abs/2211.03329v2)|null|
 |**2022-11-06 22:38:49**|**Exponentially Improving the Complexity of Simulating the   Weisfeiler-Lehman Test with Graph Neural Networks**|Anders Aamand et.al.|[2211.03232v1](http://arxiv.org/abs/2211.03232v1)|null|
 |**2022-11-06 22:38:13**|**Graph Neural Networks for Community Detection on Sparse Graphs**|Luana Ruiz et.al.|[2211.03231v1](http://arxiv.org/abs/2211.03231v1)|[link](https://github.com/nhuang37/gnn_community_detection)|
 |**2022-11-06 22:05:27**|**SE(3)-equivariant Graph Neural Networks for Learning Glassy Liquids   Representations**|Francesco Saverio Pezzicoli et.al.|[2211.03226v1](http://arxiv.org/abs/2211.03226v1)|null|
@@ -25,10 +32,3 @@
 |**2022-11-04 18:00:53**|**An Adversarial Robustness Perspective on the Topology of Neural Networks**|Morgane Goibert et.al.|[2211.02675v1](http://arxiv.org/abs/2211.02675v1)|[link](https://github.com/detecting-by-dissecting/detecting-by-dissecting)|
 |**2022-11-04 15:05:40**|**Geometry-Complete Perceptron Networks for 3D Molecular Graphs**|Alex Morehead et.al.|[2211.02504v1](http://arxiv.org/abs/2211.02504v1)|[link](https://github.com/bioinfomachinelearning/gcpnet)|
 |**2022-11-04 15:03:41**|**Weisfeiler and Leman go Hyperbolic: Learning Distance Preserving Node   Representations**|Giannis Nikolentzos et.al.|[2211.02501v1](http://arxiv.org/abs/2211.02501v1)|null|
-|**2022-11-04 13:45:54**|**PCQA-GRAPHPOINT: Efficients Deep-Based Graph Metric For Point Cloud   Quality Assessment**|Marouane Tliba et.al.|[2211.02459v1](http://arxiv.org/abs/2211.02459v1)|null|
-|**2022-11-04 12:18:58**|**The Path to Autonomous Learners**|Hanna Abi Akl et.al.|[2211.02403v1](http://arxiv.org/abs/2211.02403v1)|[link](https://github.com/hannaabiakl/autonomouslearner)|
-|**2022-11-04 03:04:46**|**Materials Property Prediction with Uncertainty Quantification: A   Benchmark Study**|Daniel Varivoda et.al.|[2211.02235v1](http://arxiv.org/abs/2211.02235v1)|[link](https://github.com/usccolumbia/materialsuq)|
-|**2022-11-03 20:10:46**|**A 3D-Shape Similarity-based Contrastive Approach to Molecular   Representation Learning**|Austin Atsango et.al.|[2211.02130v1](http://arxiv.org/abs/2211.02130v1)|null|
-|**2022-11-03 20:02:45**|**Scalable Multi-Agent Reinforcement Learning through Intelligent   Information Aggregation**|Siddharth Nayak et.al.|[2211.02127v1](http://arxiv.org/abs/2211.02127v1)|null|
-|**2022-11-03 17:49:21**|**Optimal transport for a global event description at high-intensity   hadron colliders**|Loukas Gouskos et.al.|[2211.02029v1](http://arxiv.org/abs/2211.02029v1)|null|
-|**2022-11-03 16:46:46**|**Grounding Scene Graphs on Natural Images via Visio-Lingual Message   Passing**|Aditay Tripathi et.al.|[2211.01969v1](http://arxiv.org/abs/2211.01969v1)|null|
