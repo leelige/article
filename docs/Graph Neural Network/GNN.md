@@ -2,6 +2,19 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-14 12:56:56**|**Bayesian Layer Graph Convolutioanl Network for Hyperspetral Image   Classification**|Mingyang Zhang et.al.|[2211.07316v1](http://arxiv.org/abs/2211.07316v1)|null|
+|**2022-11-14 04:44:14**|**MetaKRec: Collaborative Meta-Knowledge Enhanced Recommender System**|Liangwei Yang et.al.|[2211.07104v1](http://arxiv.org/abs/2211.07104v1)|[link](https://github.com/yangliangwei/metakrec)|
+|**2022-11-13 22:19:21**|**Similarity-based Feature Extraction for Large-scale Sparse Traffic   Forecasting**|Xinhua Wu et.al.|[2211.07031v1](http://arxiv.org/abs/2211.07031v1)|[link](https://github.com/c-lyu/traffic4cast2022-tse)|
+|**2022-11-13 17:27:21**|**Learning Stable Graph Neural Networks via Spectral Regularization**|Zhan Gao et.al.|[2211.06966v1](http://arxiv.org/abs/2211.06966v1)|null|
+|**2022-11-13 17:13:12**|**A Scalable Graph Neural Network Decoder for Short Block Codes**|Kou Tian et.al.|[2211.06962v1](http://arxiv.org/abs/2211.06962v1)|null|
+|**2022-11-13 04:36:36**|**FedRule: Federated Rule Recommendation System with Graph Neural Networks**|Yuhang Yao et.al.|[2211.06812v1](http://arxiv.org/abs/2211.06812v1)|null|
+|**2022-11-12 18:41:33**|**Using Features at Multiple Temporal and Spatial Resolutions to Predict   Human Behavior in Real Time**|Liang Zhang et.al.|[2211.06721v1](http://arxiv.org/abs/2211.06721v1)|null|
+|**2022-11-12 09:25:32**|**Robust Training of Graph Neural Networks via Noise Governance**|Siyi Qian et.al.|[2211.06614v1](http://arxiv.org/abs/2211.06614v1)|null|
+|**2022-11-12 08:03:57**|**Analysis of Graph Neural Networks with Theory of Markov Chains**|Weichen Zhao et.al.|[2211.06605v1](http://arxiv.org/abs/2211.06605v1)|null|
+|**2022-11-12 06:56:36**|**Significant Ties Graph Neural Networks for Continuous-Time Temporal   Networks Modeling**|Jiayun Wu et.al.|[2211.06590v1](http://arxiv.org/abs/2211.06590v1)|null|
+|**2022-11-12 04:11:34**|**Innovative Drug-like Molecule Generation from Flow-based Generative   Model**|Haotian Zhang et.al.|[2211.06566v1](http://arxiv.org/abs/2211.06566v1)|null|
+|**2022-11-12 02:01:46**|**Self-Supervised Graph Structure Refinement for Graph Neural Networks**|Jianan Zhao et.al.|[2211.06545v1](http://arxiv.org/abs/2211.06545v1)|null|
+|**2022-11-11 23:44:20**|**Stable and Transferable Hyper-Graph Neural Networks**|Mikhail Hayhoe et.al.|[2211.06513v1](http://arxiv.org/abs/2211.06513v1)|null|
 |**2022-11-11 18:42:51**|**Conditional Generative Modelling of Reconstructed Particles at Collider   Experiments**|Francesco Armando Di Bello et.al.|[2211.06406v1](http://arxiv.org/abs/2211.06406v1)|null|
 |**2022-11-11 18:07:33**|**DistGNN-MB: Distributed Large-Scale Graph Neural Network Training on x86   via Minibatch Sampling**|Md Vasimuddin et.al.|[2211.06385v1](http://arxiv.org/abs/2211.06385v1)|null|
 |**2022-11-11 17:43:19**|**Intent-aware Multi-source Contrastive Alignment for Tag-enhanced   Recommendation**|Haolun Wu et.al.|[2211.06370v1](http://arxiv.org/abs/2211.06370v1)|null|
@@ -19,16 +32,3 @@
 |**2022-11-10 15:03:21**|**Multiparameter estimation of continuous-time Quantum Walk Hamiltonians   through Machine Learning**|Ilaria Gianani et.al.|[2211.05626v1](http://arxiv.org/abs/2211.05626v1)|null|
 |**2022-11-10 12:46:29**|**GREENER: Graph Neural Networks for News Media Profiling**|Panayot Panayotov et.al.|[2211.05533v1](http://arxiv.org/abs/2211.05533v1)|null|
 |**2022-11-10 12:29:30**|**Unravelling the Performance of Physics-informed Graph Neural Networks   for Dynamical Systems**|Abishek Thangamuthu et.al.|[2211.05520v1](http://arxiv.org/abs/2211.05520v1)|null|
-|**2022-11-10 06:22:12**|**A Comprehensive Survey on Distributed Training of Graph Neural Networks**|Haiyang Lin et.al.|[2211.05368v2](http://arxiv.org/abs/2211.05368v2)|null|
-|**2022-11-10 02:45:36**|**Contrastive Self-Supervised Learning for Skeleton Representations**|Nico Lingg et.al.|[2211.05304v1](http://arxiv.org/abs/2211.05304v1)|null|
-|**2022-11-09 21:50:41**|**Flaky Performances when Pretraining on Relational Databases**|Shengchao Liu et.al.|[2211.05213v1](http://arxiv.org/abs/2211.05213v1)|null|
-|**2022-11-09 20:28:25**|**Are All Edges Necessary? A Unified Framework for Graph Purification**|Zishan Gu et.al.|[2211.05184v1](http://arxiv.org/abs/2211.05184v1)|null|
-|**2022-11-09 19:00:03**|**Climbing four tops with graph networks, transformers and pairwise   features**|Luc Builtjes et.al.|[2211.05143v1](http://arxiv.org/abs/2211.05143v1)|null|
-|**2022-11-09 16:04:45**|**Hyper-GST: Predict Metro Passenger Flow Incorporating GraphSAGE,   Hypergraph, Social-meaningful Edge Weights and Temporal Exploitation**|Yuyang Miao et.al.|[2211.04988v1](http://arxiv.org/abs/2211.04988v1)|null|
-|**2022-11-09 16:02:28**|**Graph representation learning for street networks**|Mateo Neira et.al.|[2211.04984v1](http://arxiv.org/abs/2211.04984v1)|null|
-|**2022-11-09 15:21:09**|**Graph Neural Networks with Adaptive Readouts**|David Buterez et.al.|[2211.04952v1](http://arxiv.org/abs/2211.04952v1)|[link](https://github.com/davidbuterez/gnn-neural-readouts)|
-|**2022-11-09 09:16:39**|**Semi-Equivariant Continuous Normalizing Flows for Target-Aware Molecule   Generation**|Eyal Rozenberg et.al.|[2211.04754v1](http://arxiv.org/abs/2211.04754v1)|null|
-|**2022-11-09 00:43:36**|**DeepE: a deep neural network for knowledge graph embedding**|Zhu Danhao et.al.|[2211.04620v1](http://arxiv.org/abs/2211.04620v1)|[link](https://github.com/zhudanhao/deepe)|
-|**2022-11-08 22:39:04**|**Reducing Down(stream)time: Pretraining Molecular GNNs using   Heterogeneous AI Accelerators**|Jenna A. Bilbrey et.al.|[2211.04598v1](http://arxiv.org/abs/2211.04598v1)|[link](https://github.com/pnnl/downstream_mol_gnn)|
-|**2022-11-08 19:23:51**|**Deep IMU Bias Inference for Robust Visual-Inertial Odometry with Factor   Graphs**|Russell Buchanan et.al.|[2211.04517v1](http://arxiv.org/abs/2211.04517v1)|null|
-|**2022-11-08 13:51:49**|**Improving Graph Neural Networks at Scale: Combining Approximate PageRank   and CoreRank**|Ariel R. Ramos Vela et.al.|[2211.04248v1](http://arxiv.org/abs/2211.04248v1)|[link](https://github.com/arielramos97/coreppr)|

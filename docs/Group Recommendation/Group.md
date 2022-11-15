@@ -10,7 +10,7 @@
 |**2022-10-29 12:53:09**|**Track2Vec: fairness music recommendation with a GPU-free   customizable-driven framework**|Wei-Wei Du et.al.|[2210.16590v1](http://arxiv.org/abs/2210.16590v1)|[link](https://github.com/wwweiwei/track2vec)|
 |**2022-10-29 04:38:39**|**A Two Step Approach to Weighted Bipartite Link Recommendations**|Nathan Ma et.al.|[2211.01153v1](http://arxiv.org/abs/2211.01153v1)|null|
 |**2022-10-24 13:58:59**|**A comparative study to alternatives to the log-rank test**|Ina Dormuth et.al.|[2210.13258v1](http://arxiv.org/abs/2210.13258v1)|null|
-|**2022-10-24 06:42:16**|**Item-based Variational Auto-encoder for Fair Music Recommendation**|Jinhyeok Park et.al.|[2211.01333v1](http://arxiv.org/abs/2211.01333v1)|null|
+|**2022-10-24 06:42:16**|**Item-based Variational Auto-encoder for Fair Music Recommendation**|Jinhyeok Park et.al.|[2211.01333v1](http://arxiv.org/abs/2211.01333v1)|[link](https://github.com/parkjinhyeock/evalrs-submission)|
 |**2022-10-22 04:06:43**|**Detection of Risk Predictors of COVID-19 Mortality with Classifier   Machine Learning Models Operated with Routine Laboratory Biomarkers**|Mehmet Tahir Huyut et.al.|[2210.12342v1](http://arxiv.org/abs/2210.12342v1)|null|
 |**2022-10-20 13:22:13**|**Fine-Grained Session Recommendations in E-commerce using Deep   Reinforcement Learning**|Diddigi Raghu Ram Bharadwaj et.al.|[2210.15451v1](http://arxiv.org/abs/2210.15451v1)|null|
 |**2022-10-20 01:59:34**|**Federated Unlearning for On-Device Recommendation**|Wei Yuan et.al.|[2210.10958v1](http://arxiv.org/abs/2210.10958v1)|null|
@@ -26,7 +26,7 @@
 |**2022-09-29 19:20:24**|**Reasoning about Complex Networks: A Logic Programming Approach**|Paulo Shakarian et.al.|[2209.15067v1](http://arxiv.org/abs/2209.15067v1)|null|
 |**2022-09-29 17:48:33**|**CompF5: End User Analysis Topical Group Report**|Gavin S. Davies et.al.|[2209.14984v1](http://arxiv.org/abs/2209.14984v1)|null|
 |**2022-09-27 13:17:45**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 2 - Ex vivo imaging**|Kurt G Schilling et.al.|[2209.13371v1](http://arxiv.org/abs/2209.13371v1)|null|
-|**2022-09-27 06:29:18**|**A Survey of Fairness in Medical Image Analysis: Concepts, Algorithms,   Evaluations, and Challenges**|Zikang Xu et.al.|[2209.13177v2](http://arxiv.org/abs/2209.13177v2)|null|
+|**2022-09-27 06:29:18**|**A Survey of Fairness in Medical Image Analysis: Concepts, Algorithms,   Evaluations, and Challenges**|Zikang Xu et.al.|[2209.13177v3](http://arxiv.org/abs/2209.13177v3)|null|
 |**2022-09-26 20:11:19**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 1 -- In vivo small-animal imaging**|Ileana O Jelescu et.al.|[2209.12994v1](http://arxiv.org/abs/2209.12994v1)|null|
 |**2022-09-26 02:29:47**|**Diversity, Equity, and Inclusion in Particle Physics**|C. Bonifazi et.al.|[2209.12377v1](http://arxiv.org/abs/2209.12377v1)|null|
 |**2022-09-25 19:18:09**|**Issues in Implementing Regression Calibration Analyses**|Lillian Boe et.al.|[2209.12304v1](http://arxiv.org/abs/2209.12304v1)|null|
