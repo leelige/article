@@ -2,8 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-15 14:22:27**|**Type Information Utilized Event Detection via Multi-Channel GNNs in   Electrical Power Systems**|Qian Li et.al.|[2211.08168v1](http://arxiv.org/abs/2211.08168v1)|null|
+|**2022-11-15 11:44:31**|**Resisting Graph Adversarial Attack via Cooperative Homophilous   Augmentation**|Zhihao Zhu et.al.|[2211.08068v1](http://arxiv.org/abs/2211.08068v1)|null|
+|**2022-11-15 07:41:08**|**HGV4Risk: Hierarchical Global View-guided Sequence Representation   Learning for Risk Prediction**|Youru Li et.al.|[2211.07956v1](http://arxiv.org/abs/2211.07956v1)|null|
+|**2022-11-15 02:02:51**|**Neighborhood Convolutional Network: A New Paradigm of Graph Neural   Networks for Node Classification**|Jinsong Chen et.al.|[2211.07845v1](http://arxiv.org/abs/2211.07845v1)|null|
+|**2022-11-15 01:00:04**|**Unconfoundedness with Network Interference**|Michael P. Leung et.al.|[2211.07823v1](http://arxiv.org/abs/2211.07823v1)|null|
+|**2022-11-15 00:29:20**|**Hierarchical Inference of the Lensing Convergence from Photometric   Catalogs with Bayesian Graph Neural Networks**|Ji Won Park et.al.|[2211.07807v1](http://arxiv.org/abs/2211.07807v1)|[link](https://github.com/jiwoncpark/node-to-joy)|
 |**2022-11-14 12:56:56**|**Bayesian Layer Graph Convolutioanl Network for Hyperspetral Image   Classification**|Mingyang Zhang et.al.|[2211.07316v1](http://arxiv.org/abs/2211.07316v1)|null|
 |**2022-11-14 04:44:14**|**MetaKRec: Collaborative Meta-Knowledge Enhanced Recommender System**|Liangwei Yang et.al.|[2211.07104v1](http://arxiv.org/abs/2211.07104v1)|[link](https://github.com/yangliangwei/metakrec)|
+|**2022-11-14 01:29:09**|**Evaluating Distribution System Reliability with Hyperstructures Graph   Convolutional Nets**|Yuzhou Chen et.al.|[2211.07645v1](http://arxiv.org/abs/2211.07645v1)|null|
 |**2022-11-13 22:19:21**|**Similarity-based Feature Extraction for Large-scale Sparse Traffic   Forecasting**|Xinhua Wu et.al.|[2211.07031v1](http://arxiv.org/abs/2211.07031v1)|[link](https://github.com/c-lyu/traffic4cast2022-tse)|
 |**2022-11-13 17:27:21**|**Learning Stable Graph Neural Networks via Spectral Regularization**|Zhan Gao et.al.|[2211.06966v1](http://arxiv.org/abs/2211.06966v1)|null|
 |**2022-11-13 17:13:12**|**A Scalable Graph Neural Network Decoder for Short Block Codes**|Kou Tian et.al.|[2211.06962v1](http://arxiv.org/abs/2211.06962v1)|null|
@@ -25,10 +32,3 @@
 |**2022-11-11 11:24:55**|**Active Task Randomization: Learning Visuomotor Skills for Sequential   Manipulation by Proposing Feasible and Novel Tasks**|Kuan Fang et.al.|[2211.06134v1](http://arxiv.org/abs/2211.06134v1)|null|
 |**2022-11-11 07:01:31**|**GET-DIPP: Graph-Embedded Transformer for Differentiable Integrated   Prediction and Planning**|Jiawei Sun et.al.|[2211.06031v1](http://arxiv.org/abs/2211.06031v1)|null|
 |**2022-11-11 01:55:11**|**CR-LSO: Convex Neural Architecture Optimization in the Latent Space of   Graph Variational Autoencoder with Input Convex Neural Networks**|Xuan Rao et.al.|[2211.05950v1](http://arxiv.org/abs/2211.05950v1)|null|
-|**2022-11-10 21:28:53**|**Employing Graph Representations for Cell-level Characterization of   Melanoma MELC Samples**|Luis Carlos Rivera Monroy et.al.|[2211.05884v1](http://arxiv.org/abs/2211.05884v1)|null|
-|**2022-11-10 18:58:30**|**Hybrid quantum neural network for drug response prediction**|Asel Sagingalieva et.al.|[2211.05777v1](http://arxiv.org/abs/2211.05777v1)|null|
-|**2022-11-10 18:52:46**|**Heterogeneous Randomized Response for Differential Privacy in Graph   Neural Networks**|Khang Tran et.al.|[2211.05766v1](http://arxiv.org/abs/2211.05766v1)|[link](https://github.com/khangtran2020/dpgnn)|
-|**2022-11-10 16:00:53**|**Can one hear the position of nodes?**|Rami Puzis et.al.|[2211.06325v1](http://arxiv.org/abs/2211.06325v1)|[link](https://github.com/puzis/centrality-learning)|
-|**2022-11-10 15:03:21**|**Multiparameter estimation of continuous-time Quantum Walk Hamiltonians   through Machine Learning**|Ilaria Gianani et.al.|[2211.05626v1](http://arxiv.org/abs/2211.05626v1)|null|
-|**2022-11-10 12:46:29**|**GREENER: Graph Neural Networks for News Media Profiling**|Panayot Panayotov et.al.|[2211.05533v1](http://arxiv.org/abs/2211.05533v1)|null|
-|**2022-11-10 12:29:30**|**Unravelling the Performance of Physics-informed Graph Neural Networks   for Dynamical Systems**|Abishek Thangamuthu et.al.|[2211.05520v1](http://arxiv.org/abs/2211.05520v1)|null|
