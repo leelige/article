@@ -2,9 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-16 14:16:54**|**Benchmarking Graph Neural Networks for FMRI analysis**|Ahmed ElGazzar et.al.|[2211.08927v1](http://arxiv.org/abs/2211.08927v1)|null|
+|**2022-11-16 13:35:32**|**Cross-Mode Knowledge Adaptation for Bike Sharing Demand Prediction using   Domain-Adversarial Graph Neural Networks**|Yuebing Liang et.al.|[2211.08903v1](http://arxiv.org/abs/2211.08903v1)|null|
+|**2022-11-16 11:56:45**|**Graph Filters for Signal Processing and Machine Learning on Graphs**|Elvin Isufi et.al.|[2211.08854v1](http://arxiv.org/abs/2211.08854v1)|null|
+|**2022-11-16 07:57:36**|**Distributed Node Covering Optimization for Large Scale Networks and Its   Application on Social Advertising**|Qiang Liu et.al.|[2211.08738v1](http://arxiv.org/abs/2211.08738v1)|null|
+|**2022-11-15 23:21:02**|**Graph Sequential Neural ODE Process for Link Prediction on Dynamic and   Sparse Graphs**|Linhao Luo et.al.|[2211.08568v1](http://arxiv.org/abs/2211.08568v1)|[link](https://github.com/rmanluo/gsnop)|
 |**2022-11-15 14:22:27**|**Type Information Utilized Event Detection via Multi-Channel GNNs in   Electrical Power Systems**|Qian Li et.al.|[2211.08168v1](http://arxiv.org/abs/2211.08168v1)|null|
 |**2022-11-15 11:44:31**|**Resisting Graph Adversarial Attack via Cooperative Homophilous   Augmentation**|Zhihao Zhu et.al.|[2211.08068v1](http://arxiv.org/abs/2211.08068v1)|null|
-|**2022-11-15 07:41:08**|**HGV4Risk: Hierarchical Global View-guided Sequence Representation   Learning for Risk Prediction**|Youru Li et.al.|[2211.07956v1](http://arxiv.org/abs/2211.07956v1)|null|
+|**2022-11-15 07:41:08**|**HGV4Risk: Hierarchical Global View-guided Sequence Representation   Learning for Risk Prediction**|Youru Li et.al.|[2211.07956v1](http://arxiv.org/abs/2211.07956v1)|[link](https://github.com/liyouru0228/hgv)|
 |**2022-11-15 02:02:51**|**Neighborhood Convolutional Network: A New Paradigm of Graph Neural   Networks for Node Classification**|Jinsong Chen et.al.|[2211.07845v1](http://arxiv.org/abs/2211.07845v1)|null|
 |**2022-11-15 01:00:04**|**Unconfoundedness with Network Interference**|Michael P. Leung et.al.|[2211.07823v1](http://arxiv.org/abs/2211.07823v1)|null|
 |**2022-11-15 00:29:20**|**Hierarchical Inference of the Lensing Convergence from Photometric   Catalogs with Bayesian Graph Neural Networks**|Ji Won Park et.al.|[2211.07807v1](http://arxiv.org/abs/2211.07807v1)|[link](https://github.com/jiwoncpark/node-to-joy)|
@@ -27,8 +32,3 @@
 |**2022-11-11 17:43:19**|**Intent-aware Multi-source Contrastive Alignment for Tag-enhanced   Recommendation**|Haolun Wu et.al.|[2211.06370v1](http://arxiv.org/abs/2211.06370v1)|null|
 |**2022-11-11 16:13:34**|**Graph-Conditioned MLP for High-Dimensional Tabular Biomedical Data**|Andrei Margeloiu et.al.|[2211.06302v1](http://arxiv.org/abs/2211.06302v1)|null|
 |**2022-11-11 16:02:29**|**A New Graph Node Classification Benchmark: Learning Structure from   Histology Cell Graphs**|Claudia Vanea et.al.|[2211.06292v1](http://arxiv.org/abs/2211.06292v1)|[link](https://github.com/nellaker-group/placenta)|
-|**2022-11-11 14:13:14**|**Clustering with Total Variation Graph Neural Networks**|Jonas Berg Hansen et.al.|[2211.06218v1](http://arxiv.org/abs/2211.06218v1)|null|
-|**2022-11-11 12:29:00**|**Spatial Temporal Graph Convolution with Graph Structure Self-learning   for Early MCI Detection**|Yunpeng Zhao et.al.|[2211.06161v1](http://arxiv.org/abs/2211.06161v1)|null|
-|**2022-11-11 11:24:55**|**Active Task Randomization: Learning Visuomotor Skills for Sequential   Manipulation by Proposing Feasible and Novel Tasks**|Kuan Fang et.al.|[2211.06134v1](http://arxiv.org/abs/2211.06134v1)|null|
-|**2022-11-11 07:01:31**|**GET-DIPP: Graph-Embedded Transformer for Differentiable Integrated   Prediction and Planning**|Jiawei Sun et.al.|[2211.06031v1](http://arxiv.org/abs/2211.06031v1)|null|
-|**2022-11-11 01:55:11**|**CR-LSO: Convex Neural Architecture Optimization in the Latent Space of   Graph Variational Autoencoder with Input Convex Neural Networks**|Xuan Rao et.al.|[2211.05950v1](http://arxiv.org/abs/2211.05950v1)|null|

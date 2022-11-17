@@ -5,7 +5,7 @@
 |**2022-11-08 14:36:33**|**Detecting Shortcuts in Medical Images -- A Case Study in Chest X-rays**|Amelia Jiménez-Sánchez et.al.|[2211.04279v2](http://arxiv.org/abs/2211.04279v2)|[link](https://github.com/ameliajimenez/shortcuts-chest-xray)|
 |**2022-11-08 09:03:35**|**Factors that Contribute to the Success of a Software Organisation's   DevOps Environment: A Systematic Review**|Ashley Gwangwadza et.al.|[2211.04101v1](http://arxiv.org/abs/2211.04101v1)|null|
 |**2022-11-02 09:38:08**|**Balancing Utility and Fairness in Submodular Maximization (Technical   Report)**|Yanhao Wang et.al.|[2211.00980v1](http://arxiv.org/abs/2211.00980v1)|[link](https://github.com/yhwang1990/code-bsm-release)|
-|**2022-11-02 01:42:20**|**Ranking-based Group Identification via Factorized Attention on Social   Tripartite Graph**|Mingdai Yang et.al.|[2211.01830v1](http://arxiv.org/abs/2211.01830v1)|[link](https://github.com/mdyfrank/cfag)|
+|**2022-11-02 01:42:20**|**Ranking-based Group Identification via Factorized Attention on Social   Tripartite Graph**|Mingdai Yang et.al.|[2211.01830v2](http://arxiv.org/abs/2211.01830v2)|[link](https://github.com/mdyfrank/cfag)|
 |**2022-10-30 09:27:16**|**Tournesol: Permissionless Collaborative Algorithmic Governance with   Security Guarantees**|Romain Beylerian et.al.|[2211.01179v1](http://arxiv.org/abs/2211.01179v1)|null|
 |**2022-10-29 12:53:09**|**Track2Vec: fairness music recommendation with a GPU-free   customizable-driven framework**|Wei-Wei Du et.al.|[2210.16590v1](http://arxiv.org/abs/2210.16590v1)|[link](https://github.com/wwweiwei/track2vec)|
 |**2022-10-29 04:38:39**|**A Two Step Approach to Weighted Bipartite Link Recommendations**|Nathan Ma et.al.|[2211.01153v1](http://arxiv.org/abs/2211.01153v1)|null|
