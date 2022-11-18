@@ -1,41 +1,41 @@
 # arxiv-daily
- 自动更新 @ 2022-11-17 16:09:31 Asia/Shanghai
+ 自动更新 @ 2022-11-18 16:09:36 Asia/Shanghai
 
-## Graph Neural Network
+## Group Recommendation
 
-### GNN
+### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-11-16 14:16:54**|**Benchmarking Graph Neural Networks for FMRI analysis**|Ahmed ElGazzar et.al.|[2211.08927v1](http://arxiv.org/abs/2211.08927v1)|null|
-|**2022-11-16 13:35:32**|**Cross-Mode Knowledge Adaptation for Bike Sharing Demand Prediction using   Domain-Adversarial Graph Neural Networks**|Yuebing Liang et.al.|[2211.08903v1](http://arxiv.org/abs/2211.08903v1)|null|
-|**2022-11-16 11:56:45**|**Graph Filters for Signal Processing and Machine Learning on Graphs**|Elvin Isufi et.al.|[2211.08854v1](http://arxiv.org/abs/2211.08854v1)|null|
-|**2022-11-16 07:57:36**|**Distributed Node Covering Optimization for Large Scale Networks and Its   Application on Social Advertising**|Qiang Liu et.al.|[2211.08738v1](http://arxiv.org/abs/2211.08738v1)|null|
-|**2022-11-15 23:21:02**|**Graph Sequential Neural ODE Process for Link Prediction on Dynamic and   Sparse Graphs**|Linhao Luo et.al.|[2211.08568v1](http://arxiv.org/abs/2211.08568v1)|[link](https://github.com/rmanluo/gsnop)|
-|**2022-11-15 14:22:27**|**Type Information Utilized Event Detection via Multi-Channel GNNs in   Electrical Power Systems**|Qian Li et.al.|[2211.08168v1](http://arxiv.org/abs/2211.08168v1)|null|
-|**2022-11-15 11:44:31**|**Resisting Graph Adversarial Attack via Cooperative Homophilous   Augmentation**|Zhihao Zhu et.al.|[2211.08068v1](http://arxiv.org/abs/2211.08068v1)|null|
-|**2022-11-15 07:41:08**|**HGV4Risk: Hierarchical Global View-guided Sequence Representation   Learning for Risk Prediction**|Youru Li et.al.|[2211.07956v1](http://arxiv.org/abs/2211.07956v1)|[link](https://github.com/liyouru0228/hgv)|
-|**2022-11-15 02:02:51**|**Neighborhood Convolutional Network: A New Paradigm of Graph Neural   Networks for Node Classification**|Jinsong Chen et.al.|[2211.07845v1](http://arxiv.org/abs/2211.07845v1)|null|
-|**2022-11-15 01:00:04**|**Unconfoundedness with Network Interference**|Michael P. Leung et.al.|[2211.07823v1](http://arxiv.org/abs/2211.07823v1)|null|
-|**2022-11-15 00:29:20**|**Hierarchical Inference of the Lensing Convergence from Photometric   Catalogs with Bayesian Graph Neural Networks**|Ji Won Park et.al.|[2211.07807v1](http://arxiv.org/abs/2211.07807v1)|[link](https://github.com/jiwoncpark/node-to-joy)|
-|**2022-11-14 12:56:56**|**Bayesian Layer Graph Convolutioanl Network for Hyperspetral Image   Classification**|Mingyang Zhang et.al.|[2211.07316v1](http://arxiv.org/abs/2211.07316v1)|null|
-|**2022-11-14 04:44:14**|**MetaKRec: Collaborative Meta-Knowledge Enhanced Recommender System**|Liangwei Yang et.al.|[2211.07104v1](http://arxiv.org/abs/2211.07104v1)|[link](https://github.com/yangliangwei/metakrec)|
-|**2022-11-14 01:29:09**|**Evaluating Distribution System Reliability with Hyperstructures Graph   Convolutional Nets**|Yuzhou Chen et.al.|[2211.07645v1](http://arxiv.org/abs/2211.07645v1)|null|
-|**2022-11-13 22:19:21**|**Similarity-based Feature Extraction for Large-scale Sparse Traffic   Forecasting**|Xinhua Wu et.al.|[2211.07031v1](http://arxiv.org/abs/2211.07031v1)|[link](https://github.com/c-lyu/traffic4cast2022-tse)|
-|**2022-11-13 17:27:21**|**Learning Stable Graph Neural Networks via Spectral Regularization**|Zhan Gao et.al.|[2211.06966v1](http://arxiv.org/abs/2211.06966v1)|null|
-|**2022-11-13 17:13:12**|**A Scalable Graph Neural Network Decoder for Short Block Codes**|Kou Tian et.al.|[2211.06962v1](http://arxiv.org/abs/2211.06962v1)|null|
-|**2022-11-13 04:36:36**|**FedRule: Federated Rule Recommendation System with Graph Neural Networks**|Yuhang Yao et.al.|[2211.06812v1](http://arxiv.org/abs/2211.06812v1)|null|
-|**2022-11-12 18:41:33**|**Using Features at Multiple Temporal and Spatial Resolutions to Predict   Human Behavior in Real Time**|Liang Zhang et.al.|[2211.06721v1](http://arxiv.org/abs/2211.06721v1)|null|
-|**2022-11-12 09:25:32**|**Robust Training of Graph Neural Networks via Noise Governance**|Siyi Qian et.al.|[2211.06614v1](http://arxiv.org/abs/2211.06614v1)|null|
-|**2022-11-12 08:03:57**|**Analysis of Graph Neural Networks with Theory of Markov Chains**|Weichen Zhao et.al.|[2211.06605v1](http://arxiv.org/abs/2211.06605v1)|null|
-|**2022-11-12 06:56:36**|**Significant Ties Graph Neural Networks for Continuous-Time Temporal   Networks Modeling**|Jiayun Wu et.al.|[2211.06590v1](http://arxiv.org/abs/2211.06590v1)|null|
-|**2022-11-12 04:11:34**|**Innovative Drug-like Molecule Generation from Flow-based Generative   Model**|Haotian Zhang et.al.|[2211.06566v1](http://arxiv.org/abs/2211.06566v1)|null|
-|**2022-11-12 02:01:46**|**Self-Supervised Graph Structure Refinement for Graph Neural Networks**|Jianan Zhao et.al.|[2211.06545v1](http://arxiv.org/abs/2211.06545v1)|null|
-|**2022-11-11 23:44:20**|**Stable and Transferable Hyper-Graph Neural Networks**|Mikhail Hayhoe et.al.|[2211.06513v1](http://arxiv.org/abs/2211.06513v1)|null|
-|**2022-11-11 18:42:51**|**Conditional Generative Modelling of Reconstructed Particles at Collider   Experiments**|Francesco Armando Di Bello et.al.|[2211.06406v1](http://arxiv.org/abs/2211.06406v1)|null|
-|**2022-11-11 18:07:33**|**DistGNN-MB: Distributed Large-Scale Graph Neural Network Training on x86   via Minibatch Sampling**|Md Vasimuddin et.al.|[2211.06385v1](http://arxiv.org/abs/2211.06385v1)|null|
-|**2022-11-11 17:43:19**|**Intent-aware Multi-source Contrastive Alignment for Tag-enhanced   Recommendation**|Haolun Wu et.al.|[2211.06370v1](http://arxiv.org/abs/2211.06370v1)|null|
-|**2022-11-11 16:13:34**|**Graph-Conditioned MLP for High-Dimensional Tabular Biomedical Data**|Andrei Margeloiu et.al.|[2211.06302v1](http://arxiv.org/abs/2211.06302v1)|null|
-|**2022-11-11 16:02:29**|**A New Graph Node Classification Benchmark: Learning Structure from   Histology Cell Graphs**|Claudia Vanea et.al.|[2211.06292v1](http://arxiv.org/abs/2211.06292v1)|[link](https://github.com/nellaker-group/placenta)|
+|**2022-11-17 14:07:05**|**On the use of non-concurrent controls in platform trials: A scoping   review**|Marta Bofill Roig et.al.|[2211.09547v1](http://arxiv.org/abs/2211.09547v1)|null|
+|**2022-11-08 14:36:33**|**Detecting Shortcuts in Medical Images -- A Case Study in Chest X-rays**|Amelia Jiménez-Sánchez et.al.|[2211.04279v2](http://arxiv.org/abs/2211.04279v2)|[link](https://github.com/ameliajimenez/shortcuts-chest-xray)|
+|**2022-11-08 09:03:35**|**Factors that Contribute to the Success of a Software Organisation's   DevOps Environment: A Systematic Review**|Ashley Gwangwadza et.al.|[2211.04101v1](http://arxiv.org/abs/2211.04101v1)|null|
+|**2022-11-02 09:38:08**|**Balancing Utility and Fairness in Submodular Maximization (Technical   Report)**|Yanhao Wang et.al.|[2211.00980v1](http://arxiv.org/abs/2211.00980v1)|[link](https://github.com/yhwang1990/code-bsm-release)|
+|**2022-11-02 01:42:20**|**Ranking-based Group Identification via Factorized Attention on Social   Tripartite Graph**|Mingdai Yang et.al.|[2211.01830v2](http://arxiv.org/abs/2211.01830v2)|[link](https://github.com/mdyfrank/cfag)|
+|**2022-10-30 09:27:16**|**Tournesol: Permissionless Collaborative Algorithmic Governance with   Security Guarantees**|Romain Beylerian et.al.|[2211.01179v1](http://arxiv.org/abs/2211.01179v1)|null|
+|**2022-10-29 12:53:09**|**Track2Vec: fairness music recommendation with a GPU-free   customizable-driven framework**|Wei-Wei Du et.al.|[2210.16590v1](http://arxiv.org/abs/2210.16590v1)|[link](https://github.com/wwweiwei/track2vec)|
+|**2022-10-29 04:38:39**|**A Two Step Approach to Weighted Bipartite Link Recommendations**|Nathan Ma et.al.|[2211.01153v1](http://arxiv.org/abs/2211.01153v1)|null|
+|**2022-10-24 13:58:59**|**A comparative study to alternatives to the log-rank test**|Ina Dormuth et.al.|[2210.13258v1](http://arxiv.org/abs/2210.13258v1)|null|
+|**2022-10-24 06:42:16**|**Item-based Variational Auto-encoder for Fair Music Recommendation**|Jinhyeok Park et.al.|[2211.01333v1](http://arxiv.org/abs/2211.01333v1)|[link](https://github.com/parkjinhyeock/evalrs-submission)|
+|**2022-10-22 04:06:43**|**Detection of Risk Predictors of COVID-19 Mortality with Classifier   Machine Learning Models Operated with Routine Laboratory Biomarkers**|Mehmet Tahir Huyut et.al.|[2210.12342v1](http://arxiv.org/abs/2210.12342v1)|null|
+|**2022-10-20 13:22:13**|**Fine-Grained Session Recommendations in E-commerce using Deep   Reinforcement Learning**|Diddigi Raghu Ram Bharadwaj et.al.|[2210.15451v1](http://arxiv.org/abs/2210.15451v1)|null|
+|**2022-10-20 01:59:34**|**Federated Unlearning for On-Device Recommendation**|Wei Yuan et.al.|[2210.10958v1](http://arxiv.org/abs/2210.10958v1)|null|
+|**2022-10-19 09:46:20**|**Accurate Bundle Matching and Generation via Multitask Learning with   Partially Shared Parameters**|Hyunsik Jeon et.al.|[2210.15460v2](http://arxiv.org/abs/2210.15460v2)|[link](https://github.com/bundlerecommender/bundlemage)|
+|**2022-10-18 08:23:14**|**Addressing the Extreme Cold-Start Problem in Group Recommendation**|Guo linxin et.al.|[2210.09672v1](http://arxiv.org/abs/2210.09672v1)|null|
+|**2022-10-17 10:46:30**|**Simultaneous confidence intervals for an extended Koch-Röhmel design   in three-arm non-inferiority trials**|Martin Scharpenberg et.al.|[2210.08931v1](http://arxiv.org/abs/2210.08931v1)|null|
+|**2022-10-14 12:43:32**|**Simpson's Paradox in Recommender Fairness: Reconciling differences   between per-user and aggregated evaluations**|Flavien Prost et.al.|[2210.07755v1](http://arxiv.org/abs/2210.07755v1)|null|
+|**2022-10-12 05:53:05**|**Equal Experience in Recommender Systems**|Jaewoong Cho et.al.|[2210.05936v1](http://arxiv.org/abs/2210.05936v1)|[link](https://github.com/cjw2525/fairrec)|
+|**2022-10-07 21:33:34**|**An Analysis of the Effects of Decoding Algorithms on Fairness in   Open-Ended Language Generation**|Jwala Dhamala et.al.|[2210.03826v1](http://arxiv.org/abs/2210.03826v1)|null|
+|**2022-10-05 18:00:01**|**Machine learning classification of fast radio bursts: I. supervised   methods**|Jia-Wei Luo et.al.|[2210.02463v1](http://arxiv.org/abs/2210.02463v1)|null|
+|**2022-10-05 05:48:39**|**Clustering Semantic Predicates in the Open Research Knowledge Graph**|Omar Arab Oghli et.al.|[2210.02034v1](http://arxiv.org/abs/2210.02034v1)|null|
+|**2022-10-01 11:54:55**|**Tyranny-of-the-minority regression adjustment in randomized experiments**|Xin Lu et.al.|[2210.00261v1](http://arxiv.org/abs/2210.00261v1)|null|
+|**2022-09-29 19:20:24**|**Reasoning about Complex Networks: A Logic Programming Approach**|Paulo Shakarian et.al.|[2209.15067v1](http://arxiv.org/abs/2209.15067v1)|null|
+|**2022-09-29 17:48:33**|**CompF5: End User Analysis Topical Group Report**|Gavin S. Davies et.al.|[2209.14984v1](http://arxiv.org/abs/2209.14984v1)|null|
+|**2022-09-27 13:17:45**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 2 - Ex vivo imaging**|Kurt G Schilling et.al.|[2209.13371v1](http://arxiv.org/abs/2209.13371v1)|null|
+|**2022-09-27 06:29:18**|**A Survey of Fairness in Medical Image Analysis: Concepts, Algorithms,   Evaluations, and Challenges**|Zikang Xu et.al.|[2209.13177v3](http://arxiv.org/abs/2209.13177v3)|null|
+|**2022-09-26 20:11:19**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 1 -- In vivo small-animal imaging**|Ileana O Jelescu et.al.|[2209.12994v1](http://arxiv.org/abs/2209.12994v1)|null|
+|**2022-09-26 02:29:47**|**Diversity, Equity, and Inclusion in Particle Physics**|C. Bonifazi et.al.|[2209.12377v1](http://arxiv.org/abs/2209.12377v1)|null|
+|**2022-09-25 19:18:09**|**Issues in Implementing Regression Calibration Analyses**|Lillian Boe et.al.|[2209.12304v1](http://arxiv.org/abs/2209.12304v1)|null|
+|**2022-09-24 14:37:14**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality   and Haptic feedback**|Yu Jiang et.al.|[2209.12018v2](http://arxiv.org/abs/2209.12018v2)|null|
 
 ## Multi Interest Recommendation
 
@@ -73,38 +73,38 @@
 |**2022-06-10 12:05:50**|**Feature-aware Diversified Re-ranking with Disentangled Representations   for Relevant Recommendation**|Zihan Lin et.al.|[2206.05020v1](http://arxiv.org/abs/2206.05020v1)|null|
 |**2022-06-08 13:28:29**|**Efficient Resource Allocation with Fairness Constraints in Restless   Multi-Armed Bandits**|Dexun Li et.al.|[2206.03883v2](http://arxiv.org/abs/2206.03883v2)|null|
 
-## Group Recommendation
+## Graph Neural Network
 
-### Group
+### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-11-08 14:36:33**|**Detecting Shortcuts in Medical Images -- A Case Study in Chest X-rays**|Amelia Jiménez-Sánchez et.al.|[2211.04279v2](http://arxiv.org/abs/2211.04279v2)|[link](https://github.com/ameliajimenez/shortcuts-chest-xray)|
-|**2022-11-08 09:03:35**|**Factors that Contribute to the Success of a Software Organisation's   DevOps Environment: A Systematic Review**|Ashley Gwangwadza et.al.|[2211.04101v1](http://arxiv.org/abs/2211.04101v1)|null|
-|**2022-11-02 09:38:08**|**Balancing Utility and Fairness in Submodular Maximization (Technical   Report)**|Yanhao Wang et.al.|[2211.00980v1](http://arxiv.org/abs/2211.00980v1)|[link](https://github.com/yhwang1990/code-bsm-release)|
-|**2022-11-02 01:42:20**|**Ranking-based Group Identification via Factorized Attention on Social   Tripartite Graph**|Mingdai Yang et.al.|[2211.01830v2](http://arxiv.org/abs/2211.01830v2)|[link](https://github.com/mdyfrank/cfag)|
-|**2022-10-30 09:27:16**|**Tournesol: Permissionless Collaborative Algorithmic Governance with   Security Guarantees**|Romain Beylerian et.al.|[2211.01179v1](http://arxiv.org/abs/2211.01179v1)|null|
-|**2022-10-29 12:53:09**|**Track2Vec: fairness music recommendation with a GPU-free   customizable-driven framework**|Wei-Wei Du et.al.|[2210.16590v1](http://arxiv.org/abs/2210.16590v1)|[link](https://github.com/wwweiwei/track2vec)|
-|**2022-10-29 04:38:39**|**A Two Step Approach to Weighted Bipartite Link Recommendations**|Nathan Ma et.al.|[2211.01153v1](http://arxiv.org/abs/2211.01153v1)|null|
-|**2022-10-24 13:58:59**|**A comparative study to alternatives to the log-rank test**|Ina Dormuth et.al.|[2210.13258v1](http://arxiv.org/abs/2210.13258v1)|null|
-|**2022-10-24 06:42:16**|**Item-based Variational Auto-encoder for Fair Music Recommendation**|Jinhyeok Park et.al.|[2211.01333v1](http://arxiv.org/abs/2211.01333v1)|[link](https://github.com/parkjinhyeock/evalrs-submission)|
-|**2022-10-22 04:06:43**|**Detection of Risk Predictors of COVID-19 Mortality with Classifier   Machine Learning Models Operated with Routine Laboratory Biomarkers**|Mehmet Tahir Huyut et.al.|[2210.12342v1](http://arxiv.org/abs/2210.12342v1)|null|
-|**2022-10-20 13:22:13**|**Fine-Grained Session Recommendations in E-commerce using Deep   Reinforcement Learning**|Diddigi Raghu Ram Bharadwaj et.al.|[2210.15451v1](http://arxiv.org/abs/2210.15451v1)|null|
-|**2022-10-20 01:59:34**|**Federated Unlearning for On-Device Recommendation**|Wei Yuan et.al.|[2210.10958v1](http://arxiv.org/abs/2210.10958v1)|null|
-|**2022-10-19 09:46:20**|**Accurate Bundle Matching and Generation via Multitask Learning with   Partially Shared Parameters**|Hyunsik Jeon et.al.|[2210.15460v2](http://arxiv.org/abs/2210.15460v2)|[link](https://github.com/bundlerecommender/bundlemage)|
-|**2022-10-18 08:23:14**|**Addressing the Extreme Cold-Start Problem in Group Recommendation**|Guo linxin et.al.|[2210.09672v1](http://arxiv.org/abs/2210.09672v1)|null|
-|**2022-10-17 10:46:30**|**Simultaneous confidence intervals for an extended Koch-Röhmel design   in three-arm non-inferiority trials**|Martin Scharpenberg et.al.|[2210.08931v1](http://arxiv.org/abs/2210.08931v1)|null|
-|**2022-10-14 12:43:32**|**Simpson's Paradox in Recommender Fairness: Reconciling differences   between per-user and aggregated evaluations**|Flavien Prost et.al.|[2210.07755v1](http://arxiv.org/abs/2210.07755v1)|null|
-|**2022-10-12 05:53:05**|**Equal Experience in Recommender Systems**|Jaewoong Cho et.al.|[2210.05936v1](http://arxiv.org/abs/2210.05936v1)|[link](https://github.com/cjw2525/fairrec)|
-|**2022-10-07 21:33:34**|**An Analysis of the Effects of Decoding Algorithms on Fairness in   Open-Ended Language Generation**|Jwala Dhamala et.al.|[2210.03826v1](http://arxiv.org/abs/2210.03826v1)|null|
-|**2022-10-05 18:00:01**|**Machine learning classification of fast radio bursts: I. supervised   methods**|Jia-Wei Luo et.al.|[2210.02463v1](http://arxiv.org/abs/2210.02463v1)|null|
-|**2022-10-05 05:48:39**|**Clustering Semantic Predicates in the Open Research Knowledge Graph**|Omar Arab Oghli et.al.|[2210.02034v1](http://arxiv.org/abs/2210.02034v1)|null|
-|**2022-10-01 11:54:55**|**Tyranny-of-the-minority regression adjustment in randomized experiments**|Xin Lu et.al.|[2210.00261v1](http://arxiv.org/abs/2210.00261v1)|null|
-|**2022-09-29 19:20:24**|**Reasoning about Complex Networks: A Logic Programming Approach**|Paulo Shakarian et.al.|[2209.15067v1](http://arxiv.org/abs/2209.15067v1)|null|
-|**2022-09-29 17:48:33**|**CompF5: End User Analysis Topical Group Report**|Gavin S. Davies et.al.|[2209.14984v1](http://arxiv.org/abs/2209.14984v1)|null|
-|**2022-09-27 13:17:45**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 2 - Ex vivo imaging**|Kurt G Schilling et.al.|[2209.13371v1](http://arxiv.org/abs/2209.13371v1)|null|
-|**2022-09-27 06:29:18**|**A Survey of Fairness in Medical Image Analysis: Concepts, Algorithms,   Evaluations, and Challenges**|Zikang Xu et.al.|[2209.13177v3](http://arxiv.org/abs/2209.13177v3)|null|
-|**2022-09-26 20:11:19**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 1 -- In vivo small-animal imaging**|Ileana O Jelescu et.al.|[2209.12994v1](http://arxiv.org/abs/2209.12994v1)|null|
-|**2022-09-26 02:29:47**|**Diversity, Equity, and Inclusion in Particle Physics**|C. Bonifazi et.al.|[2209.12377v1](http://arxiv.org/abs/2209.12377v1)|null|
-|**2022-09-25 19:18:09**|**Issues in Implementing Regression Calibration Analyses**|Lillian Boe et.al.|[2209.12304v1](http://arxiv.org/abs/2209.12304v1)|null|
-|**2022-09-24 14:37:14**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality   and Haptic feedback**|Yu Jiang et.al.|[2209.12018v2](http://arxiv.org/abs/2209.12018v2)|null|
-|**2022-09-23 20:06:18**|**Revisiting the Analysis of Matched-Pair and Stratified Experiments in   the Presence of Attrition**|Yuehao Bai et.al.|[2209.11840v2](http://arxiv.org/abs/2209.11840v2)|null|
+|**2022-11-17 16:17:22**|**Predicting Human Mobility via Self-supervised Disentanglement Learning**|Qiang Gao et.al.|[2211.09625v1](http://arxiv.org/abs/2211.09625v1)|null|
+|**2022-11-17 15:32:11**|**Spatial Graph Convolution Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2211.09587v1](http://arxiv.org/abs/2211.09587v1)|null|
+|**2022-11-17 13:20:58**|**Quantum Approximate Optimization Algorithm Parameter Prediction Using a   Convolutional Neural Network**|Ningyi Xie et.al.|[2211.09513v1](http://arxiv.org/abs/2211.09513v1)|[link](https://github.com/NingyiXie/Parameter-to-Parameter-Convolutional-Neural-Network)|
+|**2022-11-17 11:02:30**|**Abstractive Summarization Guided by Latent Hierarchical Document   Structure**|Yifu Qiu et.al.|[2211.09458v1](http://arxiv.org/abs/2211.09458v1)|[link](https://github.com/yfqiu-nlp/hiergnn)|
+|**2022-11-17 07:01:32**|**Graph Neural Network-based Surrogate Models for Finite Element Analysis**|Meduri Venkata Shivadity et.al.|[2211.09373v1](http://arxiv.org/abs/2211.09373v1)|null|
+|**2022-11-16 19:07:12**|**Learnable Graph Convolutional Network and Feature Fusion for Multi-view   Learning**|Zhaoliang Chen et.al.|[2211.09155v1](http://arxiv.org/abs/2211.09155v1)|null|
+|**2022-11-16 14:16:54**|**Benchmarking Graph Neural Networks for FMRI analysis**|Ahmed ElGazzar et.al.|[2211.08927v1](http://arxiv.org/abs/2211.08927v1)|[link](https://github.com/elgazzarr/fmri-gnns)|
+|**2022-11-16 13:35:32**|**Cross-Mode Knowledge Adaptation for Bike Sharing Demand Prediction using   Domain-Adversarial Graph Neural Networks**|Yuebing Liang et.al.|[2211.08903v1](http://arxiv.org/abs/2211.08903v1)|null|
+|**2022-11-16 11:56:45**|**Graph Filters for Signal Processing and Machine Learning on Graphs**|Elvin Isufi et.al.|[2211.08854v1](http://arxiv.org/abs/2211.08854v1)|null|
+|**2022-11-16 07:57:36**|**Distributed Node Covering Optimization for Large Scale Networks and Its   Application on Social Advertising**|Qiang Liu et.al.|[2211.08738v1](http://arxiv.org/abs/2211.08738v1)|null|
+|**2022-11-15 23:21:02**|**Graph Sequential Neural ODE Process for Link Prediction on Dynamic and   Sparse Graphs**|Linhao Luo et.al.|[2211.08568v1](http://arxiv.org/abs/2211.08568v1)|[link](https://github.com/rmanluo/gsnop)|
+|**2022-11-15 14:22:27**|**Type Information Utilized Event Detection via Multi-Channel GNNs in   Electrical Power Systems**|Qian Li et.al.|[2211.08168v1](http://arxiv.org/abs/2211.08168v1)|null|
+|**2022-11-15 13:00:25**|**Influencer Detection with Dynamic Graph Neural Networks**|Elena Tiukhova et.al.|[2211.09664v1](http://arxiv.org/abs/2211.09664v1)|[link](https://github.com/banking-analytics-lab/dynamicgraphlearning)|
+|**2022-11-15 11:44:31**|**Resisting Graph Adversarial Attack via Cooperative Homophilous   Augmentation**|Zhihao Zhu et.al.|[2211.08068v1](http://arxiv.org/abs/2211.08068v1)|null|
+|**2022-11-15 07:41:08**|**HGV4Risk: Hierarchical Global View-guided Sequence Representation   Learning for Risk Prediction**|Youru Li et.al.|[2211.07956v1](http://arxiv.org/abs/2211.07956v1)|[link](https://github.com/liyouru0228/hgv)|
+|**2022-11-15 02:02:51**|**Neighborhood Convolutional Network: A New Paradigm of Graph Neural   Networks for Node Classification**|Jinsong Chen et.al.|[2211.07845v1](http://arxiv.org/abs/2211.07845v1)|null|
+|**2022-11-15 01:00:04**|**Unconfoundedness with Network Interference**|Michael P. Leung et.al.|[2211.07823v1](http://arxiv.org/abs/2211.07823v1)|null|
+|**2022-11-15 00:29:20**|**Hierarchical Inference of the Lensing Convergence from Photometric   Catalogs with Bayesian Graph Neural Networks**|Ji Won Park et.al.|[2211.07807v1](http://arxiv.org/abs/2211.07807v1)|[link](https://github.com/jiwoncpark/node-to-joy)|
+|**2022-11-14 12:56:56**|**Bayesian Layer Graph Convolutioanl Network for Hyperspetral Image   Classification**|Mingyang Zhang et.al.|[2211.07316v1](http://arxiv.org/abs/2211.07316v1)|null|
+|**2022-11-14 04:44:14**|**MetaKRec: Collaborative Meta-Knowledge Enhanced Recommender System**|Liangwei Yang et.al.|[2211.07104v1](http://arxiv.org/abs/2211.07104v1)|[link](https://github.com/yangliangwei/metakrec)|
+|**2022-11-14 01:29:09**|**Evaluating Distribution System Reliability with Hyperstructures Graph   Convolutional Nets**|Yuzhou Chen et.al.|[2211.07645v1](http://arxiv.org/abs/2211.07645v1)|null|
+|**2022-11-13 22:19:21**|**Similarity-based Feature Extraction for Large-scale Sparse Traffic   Forecasting**|Xinhua Wu et.al.|[2211.07031v1](http://arxiv.org/abs/2211.07031v1)|[link](https://github.com/c-lyu/traffic4cast2022-tse)|
+|**2022-11-13 17:27:21**|**Learning Stable Graph Neural Networks via Spectral Regularization**|Zhan Gao et.al.|[2211.06966v1](http://arxiv.org/abs/2211.06966v1)|null|
+|**2022-11-13 17:13:12**|**A Scalable Graph Neural Network Decoder for Short Block Codes**|Kou Tian et.al.|[2211.06962v1](http://arxiv.org/abs/2211.06962v1)|null|
+|**2022-11-13 04:36:36**|**FedRule: Federated Rule Recommendation System with Graph Neural Networks**|Yuhang Yao et.al.|[2211.06812v1](http://arxiv.org/abs/2211.06812v1)|null|
+|**2022-11-12 18:41:33**|**Using Features at Multiple Temporal and Spatial Resolutions to Predict   Human Behavior in Real Time**|Liang Zhang et.al.|[2211.06721v1](http://arxiv.org/abs/2211.06721v1)|null|
+|**2022-11-12 09:25:32**|**Robust Training of Graph Neural Networks via Noise Governance**|Siyi Qian et.al.|[2211.06614v1](http://arxiv.org/abs/2211.06614v1)|null|
+|**2022-11-12 08:03:57**|**Analysis of Graph Neural Networks with Theory of Markov Chains**|Weichen Zhao et.al.|[2211.06605v1](http://arxiv.org/abs/2211.06605v1)|null|
+|**2022-11-12 06:56:36**|**Significant Ties Graph Neural Networks for Continuous-Time Temporal   Networks Modeling**|Jiayun Wu et.al.|[2211.06590v1](http://arxiv.org/abs/2211.06590v1)|null|
+|**2022-11-12 04:11:34**|**Innovative Drug-like Molecule Generation from Flow-based Generative   Model**|Haotian Zhang et.al.|[2211.06566v1](http://arxiv.org/abs/2211.06566v1)|null|
