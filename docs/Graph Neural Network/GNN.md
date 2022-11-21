@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-18 13:28:03**|**GNS: A generalizable Graph Neural Network-based simulator for   particulate and fluid modeling**|Krishna Kumar et.al.|[2211.10228v1](http://arxiv.org/abs/2211.10228v1)|[link](https://github.com/geoelements/gns)|
+|**2022-11-18 13:25:15**|**Leveraging Multi-stream Information Fusion for Trajectory Prediction in   Low-illumination Scenarios: A Multi-channel Graph Convolutional Approach**|Hailong Gong et.al.|[2211.10226v1](http://arxiv.org/abs/2211.10226v1)|[link](https://github.com/tommygong08/msif)|
+|**2022-11-18 02:10:40**|**Multi-task Learning for Sparse Traffic Forecasting**|Jiezhang Li et.al.|[2211.09984v1](http://arxiv.org/abs/2211.09984v1)|[link](https://github.com/octopusli/neurips2022-traffic4cast)|
+|**2022-11-18 01:21:29**|**Learning on Health Fairness and Environmental Justice via Interactive   Visualization**|Abdullah-Al-Raihan Nayeem et.al.|[2211.09967v1](http://arxiv.org/abs/2211.09967v1)|null|
+|**2022-11-17 22:52:10**|**FairMILE: A Multi-Level Framework for Fair and Scalable Graph   Representation Learning**|Yuntian He et.al.|[2211.09925v1](http://arxiv.org/abs/2211.09925v1)|null|
+|**2022-11-17 22:08:10**|**Do graph neural networks learn traditional jet substructure?**|Farouk Mokhtar et.al.|[2211.09912v1](http://arxiv.org/abs/2211.09912v1)|null|
 |**2022-11-17 16:17:22**|**Predicting Human Mobility via Self-supervised Disentanglement Learning**|Qiang Gao et.al.|[2211.09625v1](http://arxiv.org/abs/2211.09625v1)|null|
 |**2022-11-17 15:32:11**|**Spatial Graph Convolution Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2211.09587v1](http://arxiv.org/abs/2211.09587v1)|null|
 |**2022-11-17 13:20:58**|**Quantum Approximate Optimization Algorithm Parameter Prediction Using a   Convolutional Neural Network**|Ningyi Xie et.al.|[2211.09513v1](http://arxiv.org/abs/2211.09513v1)|[link](https://github.com/NingyiXie/Parameter-to-Parameter-Convolutional-Neural-Network)|
@@ -11,6 +17,7 @@
 |**2022-11-16 14:16:54**|**Benchmarking Graph Neural Networks for FMRI analysis**|Ahmed ElGazzar et.al.|[2211.08927v1](http://arxiv.org/abs/2211.08927v1)|[link](https://github.com/elgazzarr/fmri-gnns)|
 |**2022-11-16 13:35:32**|**Cross-Mode Knowledge Adaptation for Bike Sharing Demand Prediction using   Domain-Adversarial Graph Neural Networks**|Yuebing Liang et.al.|[2211.08903v1](http://arxiv.org/abs/2211.08903v1)|null|
 |**2022-11-16 11:56:45**|**Graph Filters for Signal Processing and Machine Learning on Graphs**|Elvin Isufi et.al.|[2211.08854v1](http://arxiv.org/abs/2211.08854v1)|null|
+|**2022-11-16 09:16:04**|**Hierarchical Estimation for Effective and Efficient Sampling Graph   Neural Network**|Yang Li et.al.|[2211.09813v1](http://arxiv.org/abs/2211.09813v1)|null|
 |**2022-11-16 07:57:36**|**Distributed Node Covering Optimization for Large Scale Networks and Its   Application on Social Advertising**|Qiang Liu et.al.|[2211.08738v1](http://arxiv.org/abs/2211.08738v1)|null|
 |**2022-11-15 23:21:02**|**Graph Sequential Neural ODE Process for Link Prediction on Dynamic and   Sparse Graphs**|Linhao Luo et.al.|[2211.08568v1](http://arxiv.org/abs/2211.08568v1)|[link](https://github.com/rmanluo/gsnop)|
 |**2022-11-15 14:22:27**|**Type Information Utilized Event Detection via Multi-Channel GNNs in   Electrical Power Systems**|Qian Li et.al.|[2211.08168v1](http://arxiv.org/abs/2211.08168v1)|null|
@@ -25,10 +32,3 @@
 |**2022-11-14 01:29:09**|**Evaluating Distribution System Reliability with Hyperstructures Graph   Convolutional Nets**|Yuzhou Chen et.al.|[2211.07645v1](http://arxiv.org/abs/2211.07645v1)|null|
 |**2022-11-13 22:19:21**|**Similarity-based Feature Extraction for Large-scale Sparse Traffic   Forecasting**|Xinhua Wu et.al.|[2211.07031v1](http://arxiv.org/abs/2211.07031v1)|[link](https://github.com/c-lyu/traffic4cast2022-tse)|
 |**2022-11-13 17:27:21**|**Learning Stable Graph Neural Networks via Spectral Regularization**|Zhan Gao et.al.|[2211.06966v1](http://arxiv.org/abs/2211.06966v1)|null|
-|**2022-11-13 17:13:12**|**A Scalable Graph Neural Network Decoder for Short Block Codes**|Kou Tian et.al.|[2211.06962v1](http://arxiv.org/abs/2211.06962v1)|null|
-|**2022-11-13 04:36:36**|**FedRule: Federated Rule Recommendation System with Graph Neural Networks**|Yuhang Yao et.al.|[2211.06812v1](http://arxiv.org/abs/2211.06812v1)|null|
-|**2022-11-12 18:41:33**|**Using Features at Multiple Temporal and Spatial Resolutions to Predict   Human Behavior in Real Time**|Liang Zhang et.al.|[2211.06721v1](http://arxiv.org/abs/2211.06721v1)|null|
-|**2022-11-12 09:25:32**|**Robust Training of Graph Neural Networks via Noise Governance**|Siyi Qian et.al.|[2211.06614v1](http://arxiv.org/abs/2211.06614v1)|null|
-|**2022-11-12 08:03:57**|**Analysis of Graph Neural Networks with Theory of Markov Chains**|Weichen Zhao et.al.|[2211.06605v1](http://arxiv.org/abs/2211.06605v1)|null|
-|**2022-11-12 06:56:36**|**Significant Ties Graph Neural Networks for Continuous-Time Temporal   Networks Modeling**|Jiayun Wu et.al.|[2211.06590v1](http://arxiv.org/abs/2211.06590v1)|null|
-|**2022-11-12 04:11:34**|**Innovative Drug-like Molecule Generation from Flow-based Generative   Model**|Haotian Zhang et.al.|[2211.06566v1](http://arxiv.org/abs/2211.06566v1)|null|
