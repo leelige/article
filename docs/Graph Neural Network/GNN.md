@@ -2,8 +2,22 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-21 15:52:06**|**Forecasting Unobserved Node States with spatio-temporal Graph Neural   Networks**|Andreas Roth et.al.|[2211.11596v1](http://arxiv.org/abs/2211.11596v1)|null|
+|**2022-11-21 15:21:44**|**The Houdayer Algorithm: Overview, Extensions, and Applications**|Adrien Vandenbroucque et.al.|[2211.11556v1](http://arxiv.org/abs/2211.11556v1)|null|
+|**2022-11-21 05:33:57**|**Correlative Preference Transfer with Hierarchical Hypergraph Network for   Multi-Domain Recommendation**|Zixuan Xu et.al.|[2211.11191v1](http://arxiv.org/abs/2211.11191v1)|null|
+|**2022-11-21 04:46:05**|**Spatiotemporal Modeling of Multivariate Signals With Graph Neural   Networks and Structured State Space Models**|Siyi Tang et.al.|[2211.11176v1](http://arxiv.org/abs/2211.11176v1)|[link](https://github.com/tsy935/graphs4mer)|
+|**2022-11-20 14:37:09**|**Enhancing Intra-class Information Extraction for Heterophilous Graphs:   One Neural Architecture Search Approach**|Lanning Wei et.al.|[2211.10990v1](http://arxiv.org/abs/2211.10990v1)|null|
+|**2022-11-20 10:20:13**|**Learning to Search for Job Shop Scheduling via Deep Reinforcement   Learning**|Cong Zhang et.al.|[2211.10936v1](http://arxiv.org/abs/2211.10936v1)|null|
+|**2022-11-20 07:56:55**|**Spectral Adversarial Training for Robust Graph Neural Network**|Jintang Li et.al.|[2211.10896v1](http://arxiv.org/abs/2211.10896v1)|[link](https://github.com/edisonleeeee/sat)|
+|**2022-11-19 19:37:22**|**Let Graph be the Go Board: Gradient-free Node Injection Attack for Graph   Neural Networks via Reinforcement Learning**|Mingxuan Ju et.al.|[2211.10782v1](http://arxiv.org/abs/2211.10782v1)|[link](https://github.com/jumxglhf/g2a2c)|
+|**2022-11-19 16:57:41**|**Delay-aware Backpressure Routing Using Graph Neural Networks**|Zhongyuan Zhao et.al.|[2211.10748v1](http://arxiv.org/abs/2211.10748v1)|null|
+|**2022-11-19 16:36:28**|**EDEN: A Plug-in Equivariant Distance Encoding to Beyond the 1-WL Test**|Chang Liu et.al.|[2211.10739v1](http://arxiv.org/abs/2211.10739v1)|null|
+|**2022-11-19 09:28:53**|**Unifying Label-inputted Graph Neural Networks with Deep Equilibrium   Models**|Yi Luo et.al.|[2211.10629v1](http://arxiv.org/abs/2211.10629v1)|[link](https://github.com/cf020031308/gqn)|
+|**2022-11-19 03:54:02**|**Tired of Over-smoothing? Stress Graph Drawing Is All You Need!**|Xue Li et.al.|[2211.10579v1](http://arxiv.org/abs/2211.10579v1)|null|
+|**2022-11-18 19:57:08**|**DGRec: Graph Neural Network for Recommendation with Diversified   Embedding Generation**|Liangwei Yang et.al.|[2211.10486v1](http://arxiv.org/abs/2211.10486v1)|[link](https://github.com/yangliangwei/dgrec)|
 |**2022-11-18 13:28:03**|**GNS: A generalizable Graph Neural Network-based simulator for   particulate and fluid modeling**|Krishna Kumar et.al.|[2211.10228v1](http://arxiv.org/abs/2211.10228v1)|[link](https://github.com/geoelements/gns)|
 |**2022-11-18 13:25:15**|**Leveraging Multi-stream Information Fusion for Trajectory Prediction in   Low-illumination Scenarios: A Multi-channel Graph Convolutional Approach**|Hailong Gong et.al.|[2211.10226v1](http://arxiv.org/abs/2211.10226v1)|[link](https://github.com/tommygong08/msif)|
+|**2022-11-18 06:05:23**|**Recommending Related Products Using Graph Neural Networks in Directed   Graphs**|Srinivas Virinchi et.al.|[2211.11583v1](http://arxiv.org/abs/2211.11583v1)|null|
 |**2022-11-18 02:10:40**|**Multi-task Learning for Sparse Traffic Forecasting**|Jiezhang Li et.al.|[2211.09984v1](http://arxiv.org/abs/2211.09984v1)|[link](https://github.com/octopusli/neurips2022-traffic4cast)|
 |**2022-11-18 01:21:29**|**Learning on Health Fairness and Environmental Justice via Interactive   Visualization**|Abdullah-Al-Raihan Nayeem et.al.|[2211.09967v1](http://arxiv.org/abs/2211.09967v1)|null|
 |**2022-11-17 22:52:10**|**FairMILE: A Multi-Level Framework for Fair and Scalable Graph   Representation Learning**|Yuntian He et.al.|[2211.09925v1](http://arxiv.org/abs/2211.09925v1)|null|
@@ -18,17 +32,3 @@
 |**2022-11-16 13:35:32**|**Cross-Mode Knowledge Adaptation for Bike Sharing Demand Prediction using   Domain-Adversarial Graph Neural Networks**|Yuebing Liang et.al.|[2211.08903v1](http://arxiv.org/abs/2211.08903v1)|null|
 |**2022-11-16 11:56:45**|**Graph Filters for Signal Processing and Machine Learning on Graphs**|Elvin Isufi et.al.|[2211.08854v1](http://arxiv.org/abs/2211.08854v1)|null|
 |**2022-11-16 09:16:04**|**Hierarchical Estimation for Effective and Efficient Sampling Graph   Neural Network**|Yang Li et.al.|[2211.09813v1](http://arxiv.org/abs/2211.09813v1)|null|
-|**2022-11-16 07:57:36**|**Distributed Node Covering Optimization for Large Scale Networks and Its   Application on Social Advertising**|Qiang Liu et.al.|[2211.08738v1](http://arxiv.org/abs/2211.08738v1)|null|
-|**2022-11-15 23:21:02**|**Graph Sequential Neural ODE Process for Link Prediction on Dynamic and   Sparse Graphs**|Linhao Luo et.al.|[2211.08568v1](http://arxiv.org/abs/2211.08568v1)|[link](https://github.com/rmanluo/gsnop)|
-|**2022-11-15 14:22:27**|**Type Information Utilized Event Detection via Multi-Channel GNNs in   Electrical Power Systems**|Qian Li et.al.|[2211.08168v1](http://arxiv.org/abs/2211.08168v1)|null|
-|**2022-11-15 13:00:25**|**Influencer Detection with Dynamic Graph Neural Networks**|Elena Tiukhova et.al.|[2211.09664v1](http://arxiv.org/abs/2211.09664v1)|[link](https://github.com/banking-analytics-lab/dynamicgraphlearning)|
-|**2022-11-15 11:44:31**|**Resisting Graph Adversarial Attack via Cooperative Homophilous   Augmentation**|Zhihao Zhu et.al.|[2211.08068v1](http://arxiv.org/abs/2211.08068v1)|null|
-|**2022-11-15 07:41:08**|**HGV4Risk: Hierarchical Global View-guided Sequence Representation   Learning for Risk Prediction**|Youru Li et.al.|[2211.07956v1](http://arxiv.org/abs/2211.07956v1)|[link](https://github.com/liyouru0228/hgv)|
-|**2022-11-15 02:02:51**|**Neighborhood Convolutional Network: A New Paradigm of Graph Neural   Networks for Node Classification**|Jinsong Chen et.al.|[2211.07845v1](http://arxiv.org/abs/2211.07845v1)|null|
-|**2022-11-15 01:00:04**|**Unconfoundedness with Network Interference**|Michael P. Leung et.al.|[2211.07823v1](http://arxiv.org/abs/2211.07823v1)|null|
-|**2022-11-15 00:29:20**|**Hierarchical Inference of the Lensing Convergence from Photometric   Catalogs with Bayesian Graph Neural Networks**|Ji Won Park et.al.|[2211.07807v1](http://arxiv.org/abs/2211.07807v1)|[link](https://github.com/jiwoncpark/node-to-joy)|
-|**2022-11-14 12:56:56**|**Bayesian Layer Graph Convolutioanl Network for Hyperspetral Image   Classification**|Mingyang Zhang et.al.|[2211.07316v1](http://arxiv.org/abs/2211.07316v1)|null|
-|**2022-11-14 04:44:14**|**MetaKRec: Collaborative Meta-Knowledge Enhanced Recommender System**|Liangwei Yang et.al.|[2211.07104v1](http://arxiv.org/abs/2211.07104v1)|[link](https://github.com/yangliangwei/metakrec)|
-|**2022-11-14 01:29:09**|**Evaluating Distribution System Reliability with Hyperstructures Graph   Convolutional Nets**|Yuzhou Chen et.al.|[2211.07645v1](http://arxiv.org/abs/2211.07645v1)|null|
-|**2022-11-13 22:19:21**|**Similarity-based Feature Extraction for Large-scale Sparse Traffic   Forecasting**|Xinhua Wu et.al.|[2211.07031v1](http://arxiv.org/abs/2211.07031v1)|[link](https://github.com/c-lyu/traffic4cast2022-tse)|
-|**2022-11-13 17:27:21**|**Learning Stable Graph Neural Networks via Spectral Regularization**|Zhan Gao et.al.|[2211.06966v1](http://arxiv.org/abs/2211.06966v1)|null|
