@@ -2,9 +2,9 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-11-23 18:10:52**|**Machine learning strategies to predict late adverse effects in childhood   acute lymphoblastic leukemia survivors**|Nicolas Raymond et.al.|[2211.13188v1](http://arxiv.org/abs/2211.13188v1)|null|
+|**2022-11-23 18:10:52**|**Machine learning strategies to predict late adverse effects in childhood   acute lymphoblastic leukemia survivors**|Nicolas Raymond et.al.|[2211.13188v1](http://arxiv.org/abs/2211.13188v1)|[link](https://github.com/rayn2402/thepetaleproject)|
 |**2022-11-23 15:12:16**|**Federated Learning on Non-IID Graphs via Structural Knowledge Sharing**|Yue Tan et.al.|[2211.13009v1](http://arxiv.org/abs/2211.13009v1)|[link](https://github.com/yuetan031/fedstar)|
-|**2022-11-23 10:33:22**|**Geometry-enhanced graph neural network for glassy dynamics prediction**|Xiao Jiang et.al.|[2211.12832v1](http://arxiv.org/abs/2211.12832v1)|null|
+|**2022-11-23 10:33:22**|**Geometry-enhanced graph neural network for glassy dynamics prediction**|Xiao Jiang et.al.|[2211.12832v1](http://arxiv.org/abs/2211.12832v1)|[link](https://github.com/xjiang-hnu/geo-gnn)|
 |**2022-11-23 09:13:33**|**MECCH: Metapath Context Convolution-based Heterogeneous Graph Neural   Networks**|Xinyu Fu et.al.|[2211.12792v1](http://arxiv.org/abs/2211.12792v1)|[link](https://github.com/cynricfu/mecch)|
 |**2022-11-23 09:12:17**|**An ensemble of VisNet, Transformer-M, and pretraining models for   molecular property prediction in OGB Large-Scale Challenge @ NeurIPS 2022**|Yusong Wang et.al.|[2211.12791v1](http://arxiv.org/abs/2211.12791v1)|null|
 |**2022-11-23 05:48:28**|**Disorder-enhanced nonlinear topological phenomena**|Zhetao Jia et.al.|[2211.12719v1](http://arxiv.org/abs/2211.12719v1)|null|
