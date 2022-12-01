@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2022-11-30 16:09:04 Asia/Shanghai
+ 自动更新 @ 2022-12-01 16:09:11 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-30 03:45:45**|**Automated Generating Natural Language Requirements based on Domain   Ontology**|Ziyan Zhao et.al.|[2211.16716v1](http://arxiv.org/abs/2211.16716v1)|null|
 |**2022-11-27 15:24:06**|**"Explain it in the Same Way!" -- Model-Agnostic Group Fairness of   Counterfactual Explanations**|André Artelt et.al.|[2211.14858v1](http://arxiv.org/abs/2211.14858v1)|[link](https://github.com/hammerlabml/modelagnosticgroupfairnesscounterfactuals)|
 |**2022-11-27 05:14:03**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|[link](https://github.com/chengang95/unkd)|
 |**2022-11-25 17:22:14**|**Group Buying Recommendation Model Based on Multi-task Learning**|Shuoyao Zhai et.al.|[2211.14247v1](http://arxiv.org/abs/2211.14247v1)|[link](https://github.com/deqingyang/mgbr)|
@@ -35,43 +36,6 @@
 |**2022-09-29 19:20:24**|**Reasoning about Complex Networks: A Logic Programming Approach**|Paulo Shakarian et.al.|[2209.15067v1](http://arxiv.org/abs/2209.15067v1)|null|
 |**2022-09-29 17:48:33**|**CompF5: End User Analysis Topical Group Report**|Gavin S. Davies et.al.|[2209.14984v1](http://arxiv.org/abs/2209.14984v1)|null|
 |**2022-09-27 13:17:45**|**Recommendations and guidelines from the ISMRM Diffusion Study Group for   preclinical diffusion MRI: Part 2 - Ex vivo imaging**|Kurt G Schilling et.al.|[2209.13371v1](http://arxiv.org/abs/2209.13371v1)|null|
-|**2022-09-27 06:29:18**|**A Survey of Fairness in Medical Image Analysis: Concepts, Algorithms,   Evaluations, and Challenges**|Zikang Xu et.al.|[2209.13177v3](http://arxiv.org/abs/2209.13177v3)|null|
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-11-29 18:58:07**|**On the Ability of Graph Neural Networks to Model Interactions Between   Vertices**|Noam Razin et.al.|[2211.16494v1](http://arxiv.org/abs/2211.16494v1)|null|
-|**2022-11-29 18:58:07**|**Graph Neural Networks: A Powerful and Versatile Tool for Advancing   Design, Reliability, and Security of ICs**|Lilas Alrahis et.al.|[2211.16495v1](http://arxiv.org/abs/2211.16495v1)|[link](https://github.com/dfx-nyuad/gnn4ic)|
-|**2022-11-29 14:07:29**|**Triadic Temporal Exponential Random Graph Models (TTERGM)**|Yifan Huang et.al.|[2211.16229v1](http://arxiv.org/abs/2211.16229v1)|null|
-|**2022-11-29 11:26:08**|**Text Representation Enrichment Utilizing Graph based Approaches: Stock   Market Technical Analysis Case Study**|Sara Salamat et.al.|[2211.16103v1](http://arxiv.org/abs/2211.16103v1)|null|
-|**2022-11-29 03:36:01**|**FakeEdge: Alleviate Dataset Shift in Link Prediction**|Kaiwen Dong et.al.|[2211.15899v1](http://arxiv.org/abs/2211.15899v1)|null|
-|**2022-11-29 00:19:35**|**Continuous Neural Algorithmic Planners**|Yu He et.al.|[2211.15839v1](http://arxiv.org/abs/2211.15839v1)|null|
-|**2022-11-28 21:21:31**|**Revisiting Over-smoothing and Over-squashing using Ollivier's Ricci   Curvature**|Khang Nguyen et.al.|[2211.15779v1](http://arxiv.org/abs/2211.15779v1)|null|
-|**2022-11-28 20:22:10**|**Confidence-Aware Graph Neural Networks for Learning Reliability   Assessment Commitments**|Seonho Park et.al.|[2211.15755v1](http://arxiv.org/abs/2211.15755v1)|null|
-|**2022-11-28 17:10:19**|**Graph Neural Networks for Breast Cancer Data Integration**|Teodora Reu et.al.|[2211.15561v1](http://arxiv.org/abs/2211.15561v1)|null|
-|**2022-11-28 16:20:50**|**Proactive Robot Assistance via Spatio-Temporal Object Modeling**|Maithili Patel et.al.|[2211.15501v1](http://arxiv.org/abs/2211.15501v1)|[link](https://github.com/maithili/spatiotemporalobjecttracking)|
-|**2022-11-28 14:17:36**|**You Can Have Better Graph Neural Networks by Not Training Weights at   All: Finding Untrained GNNs Tickets**|Tianjin Huang et.al.|[2211.15335v2](http://arxiv.org/abs/2211.15335v2)|null|
-|**2022-11-28 10:36:37**|**Deep learning optimal quantum annealing schedules for random Ising   models**|Pratibha Raghupati Hegde et.al.|[2211.15209v1](http://arxiv.org/abs/2211.15209v1)|null|
-|**2022-11-28 09:59:08**|**Deep Grading based on Collective Artificial Intelligence for AD   Diagnosis and Prognosis**|Huy-Dung Nguyen et.al.|[2211.15192v1](http://arxiv.org/abs/2211.15192v1)|null|
-|**2022-11-28 09:09:06**|**GraphPNAS: Learning Distribution of Good Neural Architectures via Deep   Graph Generative Models**|Muchen Li et.al.|[2211.15155v1](http://arxiv.org/abs/2211.15155v1)|null|
-|**2022-11-28 08:47:09**|**SI-GAT: A method based on improved Graph Attention Network for sonar   image classification**|Can Lei et.al.|[2211.15133v1](http://arxiv.org/abs/2211.15133v1)|null|
-|**2022-11-28 05:54:28**|**DGI: Easy and Efficient Inference for GNNs**|Peiqi Yin et.al.|[2211.15082v1](http://arxiv.org/abs/2211.15082v1)|null|
-|**2022-11-28 05:54:24**|**Flip Initial Features: Generalization of Neural Networks for   Semi-supervised Node Classification**|Yoonhyuk Choi et.al.|[2211.15081v1](http://arxiv.org/abs/2211.15081v1)|null|
-|**2022-11-28 01:18:04**|**Dual Information Enhanced Multi-view Attributed Graph Clustering**|Jia-Qi Lin et.al.|[2211.14987v1](http://arxiv.org/abs/2211.14987v1)|null|
-|**2022-11-27 18:59:17**|**FJMP: Factorized Joint Multi-Agent Motion Prediction over Learned   Directed Acyclic Interaction Graphs**|Luke Rowe et.al.|[2211.16197v1](http://arxiv.org/abs/2211.16197v1)|null|
-|**2022-11-27 18:14:03**|**Beyond 1-WL with Local Ego-Network Encodings**|Nurudin Alvarez-Gonzalez et.al.|[2211.14906v1](http://arxiv.org/abs/2211.14906v1)|[link](https://github.com/nur-ag/igel)|
-|**2022-11-27 09:42:07**|**Understanding the Performance of Learning Precoding Policy with GNN and   CNNs**|Baichuan Zhao et.al.|[2211.14775v1](http://arxiv.org/abs/2211.14775v1)|null|
-|**2022-11-27 07:35:42**|**Differentiable Meta Multigraph Search with Partial Message Propagation   on Heterogeneous Information Networks**|Chao Li et.al.|[2211.14752v1](http://arxiv.org/abs/2211.14752v1)|null|
-|**2022-11-26 22:13:06**|**Latent Graph Inference using Product Manifolds**|Haitz Sáez de Ocáriz Borde et.al.|[2211.16199v1](http://arxiv.org/abs/2211.16199v1)|null|
-|**2022-11-26 14:55:50**|**Demystifying Bitcoin Address Behavior via Graph Neural Networks**|Zhengjie Huang et.al.|[2211.14582v1](http://arxiv.org/abs/2211.14582v1)|[link](https://github.com/awesomehuang/baclassifier)|
-|**2022-11-26 12:54:45**|**Distribution Free Prediction Sets for Node Classification**|Jase Clarkson et.al.|[2211.14555v1](http://arxiv.org/abs/2211.14555v1)|[link](https://github.com/jase-clarkson/graph_cp)|
-|**2022-11-26 09:21:15**|**VR-GNN: Variational Relation Vector Graph Neural Network for Modeling   both Homophily and Heterophily**|Fengzhao Shi et.al.|[2211.14523v1](http://arxiv.org/abs/2211.14523v1)|null|
-|**2022-11-26 05:55:34**|**Mitigating Relational Bias on Knowledge Graphs**|Yu-Neng Chuang et.al.|[2211.14489v1](http://arxiv.org/abs/2211.14489v1)|null|
-|**2022-11-26 01:17:23**|**PatchGT: Transformer over Non-trainable Clusters for Learning Graph   Representations**|Han Gao et.al.|[2211.14425v1](http://arxiv.org/abs/2211.14425v1)|[link](https://github.com/tufts-ml/patchgt)|
-|**2022-11-26 00:01:01**|**Learning Branching Heuristics from Graph Neural Networks**|Congsong Zhang et.al.|[2211.14405v1](http://arxiv.org/abs/2211.14405v1)|null|
-|**2022-11-25 22:30:15**|**Link Prediction with Non-Contrastive Learning**|William Shiao et.al.|[2211.14394v1](http://arxiv.org/abs/2211.14394v1)|null|
 
 ## Multi Interest Recommendation
 
@@ -108,3 +72,39 @@
 |**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
 |**2022-06-10 12:05:50**|**Feature-aware Diversified Re-ranking with Disentangled Representations   for Relevant Recommendation**|Zihan Lin et.al.|[2206.05020v1](http://arxiv.org/abs/2206.05020v1)|null|
 |**2022-06-08 13:28:29**|**Efficient Resource Allocation with Fairness Constraints in Restless   Multi-Armed Bandits**|Dexun Li et.al.|[2206.03883v2](http://arxiv.org/abs/2206.03883v2)|null|
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-11-30 18:30:41**|**AIO-P: Expanding Neural Performance Predictors Beyond Image   Classification**|Keith G. Mills et.al.|[2211.17228v1](http://arxiv.org/abs/2211.17228v1)|[link](https://github.com/Ascend-Research/AIO-P)|
+|**2022-11-30 18:27:41**|**GENNAPE: Towards Generalized Neural Architecture Performance Estimators**|Keith G. Mills et.al.|[2211.17226v1](http://arxiv.org/abs/2211.17226v1)|[link](https://github.com/Ascend-Research/GENNAPE)|
+|**2022-11-30 17:43:36**|**Cosmic-Ray Composition analysis at IceCube using Graph Neural Networks**|Paras Koundal et.al.|[2211.17198v1](http://arxiv.org/abs/2211.17198v1)|null|
+|**2022-11-30 17:09:07**|**CDSM: Cascaded Deep Semantic Matching on Textual Graphs Leveraging   Ad-hoc Neighbor Selection**|Jing Yao et.al.|[2211.17171v1](http://arxiv.org/abs/2211.17171v1)|[link](https://github.com/jingjyyao/cdsm)|
+|**2022-11-30 15:56:46**|**Weisfeiler and Leman Go Relational**|Pablo Barcelo et.al.|[2211.17113v1](http://arxiv.org/abs/2211.17113v1)|[link](https://github.com/migalkin/rwl)|
+|**2022-11-30 10:40:44**|**Generating Realistic Synthetic Relational Data through Graph Variational   Autoencoders**|Ciro Antonio Mami et.al.|[2211.16889v1](http://arxiv.org/abs/2211.16889v1)|null|
+|**2022-11-30 10:39:24**|**T2G-Former: Organizing Tabular Features into Relation Graphs Promotes   Heterogeneous Feature Interaction**|Jiahuan Yan et.al.|[2211.16887v1](http://arxiv.org/abs/2211.16887v1)|null|
+|**2022-11-30 10:12:41**|**A Deep Learning Approach to the Prediction of Drug Side-Effects on   Molecular Graphs**|Pietro Bongini et.al.|[2211.16871v1](http://arxiv.org/abs/2211.16871v1)|null|
+|**2022-11-30 06:22:40**|**Handling Missing Data via Max-Entropy Regularized Graph Autoencoder**|Ziqi Gao et.al.|[2211.16771v1](http://arxiv.org/abs/2211.16771v1)|null|
+|**2022-11-30 04:31:26**|**Towards Training GNNs using Explanation Directed Message Passing**|Valentina Giunchiglia et.al.|[2211.16731v1](http://arxiv.org/abs/2211.16731v1)|[link](https://github.com/researching-the-unknown/expass)|
+|**2022-11-30 02:35:09**|**SGDraw: Scene Graph Drawing Interface Using Object-Oriented   Representation**|Tianyu Zhang et.al.|[2211.16697v1](http://arxiv.org/abs/2211.16697v1)|null|
+|**2022-11-29 23:25:14**|**Every Node Counts: Improving the Training of Graph Neural Networks on   Node Classification**|Moshe Eliasof et.al.|[2211.16631v1](http://arxiv.org/abs/2211.16631v1)|null|
+|**2022-11-29 18:58:07**|**On the Ability of Graph Neural Networks to Model Interactions Between   Vertices**|Noam Razin et.al.|[2211.16494v1](http://arxiv.org/abs/2211.16494v1)|[link](https://github.com/noamrazin/gnn_interactions)|
+|**2022-11-29 18:58:07**|**Graph Neural Networks: A Powerful and Versatile Tool for Advancing   Design, Reliability, and Security of ICs**|Lilas Alrahis et.al.|[2211.16495v1](http://arxiv.org/abs/2211.16495v1)|[link](https://github.com/dfx-nyuad/gnn4ic)|
+|**2022-11-29 14:07:29**|**Triadic Temporal Exponential Random Graph Models (TTERGM)**|Yifan Huang et.al.|[2211.16229v1](http://arxiv.org/abs/2211.16229v1)|null|
+|**2022-11-29 11:26:08**|**Text Representation Enrichment Utilizing Graph based Approaches: Stock   Market Technical Analysis Case Study**|Sara Salamat et.al.|[2211.16103v1](http://arxiv.org/abs/2211.16103v1)|null|
+|**2022-11-29 03:36:01**|**FakeEdge: Alleviate Dataset Shift in Link Prediction**|Kaiwen Dong et.al.|[2211.15899v1](http://arxiv.org/abs/2211.15899v1)|null|
+|**2022-11-29 00:19:35**|**Continuous Neural Algorithmic Planners**|Yu He et.al.|[2211.15839v1](http://arxiv.org/abs/2211.15839v1)|null|
+|**2022-11-28 21:21:31**|**Revisiting Over-smoothing and Over-squashing using Ollivier's Ricci   Curvature**|Khang Nguyen et.al.|[2211.15779v1](http://arxiv.org/abs/2211.15779v1)|null|
+|**2022-11-28 20:22:10**|**Confidence-Aware Graph Neural Networks for Learning Reliability   Assessment Commitments**|Seonho Park et.al.|[2211.15755v1](http://arxiv.org/abs/2211.15755v1)|null|
+|**2022-11-28 17:10:19**|**Graph Neural Networks for Breast Cancer Data Integration**|Teodora Reu et.al.|[2211.15561v1](http://arxiv.org/abs/2211.15561v1)|null|
+|**2022-11-28 16:20:50**|**Proactive Robot Assistance via Spatio-Temporal Object Modeling**|Maithili Patel et.al.|[2211.15501v1](http://arxiv.org/abs/2211.15501v1)|[link](https://github.com/maithili/spatiotemporalobjecttracking)|
+|**2022-11-28 14:17:36**|**You Can Have Better Graph Neural Networks by Not Training Weights at   All: Finding Untrained GNNs Tickets**|Tianjin Huang et.al.|[2211.15335v2](http://arxiv.org/abs/2211.15335v2)|null|
+|**2022-11-28 10:36:37**|**Deep learning optimal quantum annealing schedules for random Ising   models**|Pratibha Raghupati Hegde et.al.|[2211.15209v1](http://arxiv.org/abs/2211.15209v1)|null|
+|**2022-11-28 09:59:08**|**Deep Grading based on Collective Artificial Intelligence for AD   Diagnosis and Prognosis**|Huy-Dung Nguyen et.al.|[2211.15192v1](http://arxiv.org/abs/2211.15192v1)|null|
+|**2022-11-28 09:09:06**|**GraphPNAS: Learning Distribution of Good Neural Architectures via Deep   Graph Generative Models**|Muchen Li et.al.|[2211.15155v1](http://arxiv.org/abs/2211.15155v1)|null|
+|**2022-11-28 08:47:09**|**SI-GAT: A method based on improved Graph Attention Network for sonar   image classification**|Can Lei et.al.|[2211.15133v1](http://arxiv.org/abs/2211.15133v1)|null|
+|**2022-11-28 05:54:28**|**DGI: Easy and Efficient Inference for GNNs**|Peiqi Yin et.al.|[2211.15082v1](http://arxiv.org/abs/2211.15082v1)|null|
+|**2022-11-28 05:54:24**|**Flip Initial Features: Generalization of Neural Networks for   Semi-supervised Node Classification**|Yoonhyuk Choi et.al.|[2211.15081v1](http://arxiv.org/abs/2211.15081v1)|null|
+|**2022-11-28 01:18:04**|**Dual Information Enhanced Multi-view Attributed Graph Clustering**|Jia-Qi Lin et.al.|[2211.14987v1](http://arxiv.org/abs/2211.14987v1)|null|

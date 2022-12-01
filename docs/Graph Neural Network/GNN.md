@@ -2,7 +2,19 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-11-29 18:58:07**|**On the Ability of Graph Neural Networks to Model Interactions Between   Vertices**|Noam Razin et.al.|[2211.16494v1](http://arxiv.org/abs/2211.16494v1)|null|
+|**2022-11-30 18:30:41**|**AIO-P: Expanding Neural Performance Predictors Beyond Image   Classification**|Keith G. Mills et.al.|[2211.17228v1](http://arxiv.org/abs/2211.17228v1)|[link](https://github.com/Ascend-Research/AIO-P)|
+|**2022-11-30 18:27:41**|**GENNAPE: Towards Generalized Neural Architecture Performance Estimators**|Keith G. Mills et.al.|[2211.17226v1](http://arxiv.org/abs/2211.17226v1)|[link](https://github.com/Ascend-Research/GENNAPE)|
+|**2022-11-30 17:43:36**|**Cosmic-Ray Composition analysis at IceCube using Graph Neural Networks**|Paras Koundal et.al.|[2211.17198v1](http://arxiv.org/abs/2211.17198v1)|null|
+|**2022-11-30 17:09:07**|**CDSM: Cascaded Deep Semantic Matching on Textual Graphs Leveraging   Ad-hoc Neighbor Selection**|Jing Yao et.al.|[2211.17171v1](http://arxiv.org/abs/2211.17171v1)|[link](https://github.com/jingjyyao/cdsm)|
+|**2022-11-30 15:56:46**|**Weisfeiler and Leman Go Relational**|Pablo Barcelo et.al.|[2211.17113v1](http://arxiv.org/abs/2211.17113v1)|[link](https://github.com/migalkin/rwl)|
+|**2022-11-30 10:40:44**|**Generating Realistic Synthetic Relational Data through Graph Variational   Autoencoders**|Ciro Antonio Mami et.al.|[2211.16889v1](http://arxiv.org/abs/2211.16889v1)|null|
+|**2022-11-30 10:39:24**|**T2G-Former: Organizing Tabular Features into Relation Graphs Promotes   Heterogeneous Feature Interaction**|Jiahuan Yan et.al.|[2211.16887v1](http://arxiv.org/abs/2211.16887v1)|null|
+|**2022-11-30 10:12:41**|**A Deep Learning Approach to the Prediction of Drug Side-Effects on   Molecular Graphs**|Pietro Bongini et.al.|[2211.16871v1](http://arxiv.org/abs/2211.16871v1)|null|
+|**2022-11-30 06:22:40**|**Handling Missing Data via Max-Entropy Regularized Graph Autoencoder**|Ziqi Gao et.al.|[2211.16771v1](http://arxiv.org/abs/2211.16771v1)|null|
+|**2022-11-30 04:31:26**|**Towards Training GNNs using Explanation Directed Message Passing**|Valentina Giunchiglia et.al.|[2211.16731v1](http://arxiv.org/abs/2211.16731v1)|[link](https://github.com/researching-the-unknown/expass)|
+|**2022-11-30 02:35:09**|**SGDraw: Scene Graph Drawing Interface Using Object-Oriented   Representation**|Tianyu Zhang et.al.|[2211.16697v1](http://arxiv.org/abs/2211.16697v1)|null|
+|**2022-11-29 23:25:14**|**Every Node Counts: Improving the Training of Graph Neural Networks on   Node Classification**|Moshe Eliasof et.al.|[2211.16631v1](http://arxiv.org/abs/2211.16631v1)|null|
+|**2022-11-29 18:58:07**|**On the Ability of Graph Neural Networks to Model Interactions Between   Vertices**|Noam Razin et.al.|[2211.16494v1](http://arxiv.org/abs/2211.16494v1)|[link](https://github.com/noamrazin/gnn_interactions)|
 |**2022-11-29 18:58:07**|**Graph Neural Networks: A Powerful and Versatile Tool for Advancing   Design, Reliability, and Security of ICs**|Lilas Alrahis et.al.|[2211.16495v1](http://arxiv.org/abs/2211.16495v1)|[link](https://github.com/dfx-nyuad/gnn4ic)|
 |**2022-11-29 14:07:29**|**Triadic Temporal Exponential Random Graph Models (TTERGM)**|Yifan Huang et.al.|[2211.16229v1](http://arxiv.org/abs/2211.16229v1)|null|
 |**2022-11-29 11:26:08**|**Text Representation Enrichment Utilizing Graph based Approaches: Stock   Market Technical Analysis Case Study**|Sara Salamat et.al.|[2211.16103v1](http://arxiv.org/abs/2211.16103v1)|null|
@@ -20,15 +32,3 @@
 |**2022-11-28 05:54:28**|**DGI: Easy and Efficient Inference for GNNs**|Peiqi Yin et.al.|[2211.15082v1](http://arxiv.org/abs/2211.15082v1)|null|
 |**2022-11-28 05:54:24**|**Flip Initial Features: Generalization of Neural Networks for   Semi-supervised Node Classification**|Yoonhyuk Choi et.al.|[2211.15081v1](http://arxiv.org/abs/2211.15081v1)|null|
 |**2022-11-28 01:18:04**|**Dual Information Enhanced Multi-view Attributed Graph Clustering**|Jia-Qi Lin et.al.|[2211.14987v1](http://arxiv.org/abs/2211.14987v1)|null|
-|**2022-11-27 18:59:17**|**FJMP: Factorized Joint Multi-Agent Motion Prediction over Learned   Directed Acyclic Interaction Graphs**|Luke Rowe et.al.|[2211.16197v1](http://arxiv.org/abs/2211.16197v1)|null|
-|**2022-11-27 18:14:03**|**Beyond 1-WL with Local Ego-Network Encodings**|Nurudin Alvarez-Gonzalez et.al.|[2211.14906v1](http://arxiv.org/abs/2211.14906v1)|[link](https://github.com/nur-ag/igel)|
-|**2022-11-27 09:42:07**|**Understanding the Performance of Learning Precoding Policy with GNN and   CNNs**|Baichuan Zhao et.al.|[2211.14775v1](http://arxiv.org/abs/2211.14775v1)|null|
-|**2022-11-27 07:35:42**|**Differentiable Meta Multigraph Search with Partial Message Propagation   on Heterogeneous Information Networks**|Chao Li et.al.|[2211.14752v1](http://arxiv.org/abs/2211.14752v1)|null|
-|**2022-11-26 22:13:06**|**Latent Graph Inference using Product Manifolds**|Haitz Sáez de Ocáriz Borde et.al.|[2211.16199v1](http://arxiv.org/abs/2211.16199v1)|null|
-|**2022-11-26 14:55:50**|**Demystifying Bitcoin Address Behavior via Graph Neural Networks**|Zhengjie Huang et.al.|[2211.14582v1](http://arxiv.org/abs/2211.14582v1)|[link](https://github.com/awesomehuang/baclassifier)|
-|**2022-11-26 12:54:45**|**Distribution Free Prediction Sets for Node Classification**|Jase Clarkson et.al.|[2211.14555v1](http://arxiv.org/abs/2211.14555v1)|[link](https://github.com/jase-clarkson/graph_cp)|
-|**2022-11-26 09:21:15**|**VR-GNN: Variational Relation Vector Graph Neural Network for Modeling   both Homophily and Heterophily**|Fengzhao Shi et.al.|[2211.14523v1](http://arxiv.org/abs/2211.14523v1)|null|
-|**2022-11-26 05:55:34**|**Mitigating Relational Bias on Knowledge Graphs**|Yu-Neng Chuang et.al.|[2211.14489v1](http://arxiv.org/abs/2211.14489v1)|null|
-|**2022-11-26 01:17:23**|**PatchGT: Transformer over Non-trainable Clusters for Learning Graph   Representations**|Han Gao et.al.|[2211.14425v1](http://arxiv.org/abs/2211.14425v1)|[link](https://github.com/tufts-ml/patchgt)|
-|**2022-11-26 00:01:01**|**Learning Branching Heuristics from Graph Neural Networks**|Congsong Zhang et.al.|[2211.14405v1](http://arxiv.org/abs/2211.14405v1)|null|
-|**2022-11-25 22:30:15**|**Link Prediction with Non-Contrastive Learning**|William Shiao et.al.|[2211.14394v1](http://arxiv.org/abs/2211.14394v1)|null|
