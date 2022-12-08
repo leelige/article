@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-07 16:52:54**|**Leveraging Priority Thresholds to Improve Equitable Housing Access for   Unhoused-at-Risk Youth**|Yaren Bilge Kaya et.al.|[2212.03777v1](http://arxiv.org/abs/2212.03777v1)|null|
+|**2022-12-07 04:28:26**|**"just like therapy!": Investigating the Potential of Storytelling in   Online Postpartum Depression Communities**|Farhat Tasnim Progga et.al.|[2212.03452v1](http://arxiv.org/abs/2212.03452v1)|null|
+|**2022-12-07 03:04:48**|**Privacy protection and service evaluation methods for location-based   services in edge computing environments**|Shuang Liu et.al.|[2212.03417v1](http://arxiv.org/abs/2212.03417v1)|null|
 |**2022-12-01 10:55:22**|**Multi-Source Survival Domain Adaptation**|Ammar Shaker et.al.|[2212.00424v1](http://arxiv.org/abs/2212.00424v1)|null|
 |**2022-11-30 03:45:45**|**Automated Generating Natural Language Requirements based on Domain   Ontology**|Ziyan Zhao et.al.|[2211.16716v1](http://arxiv.org/abs/2211.16716v1)|[link](https://github.com/zacharyzhao55/reqgen)|
 |**2022-11-27 15:24:06**|**"Explain it in the Same Way!" -- Model-Agnostic Group Fairness of   Counterfactual Explanations**|André Artelt et.al.|[2211.14858v1](http://arxiv.org/abs/2211.14858v1)|[link](https://github.com/hammerlabml/modelagnosticgroupfairnesscounterfactuals)|
@@ -29,6 +32,3 @@
 |**2022-10-07 21:33:34**|**An Analysis of the Effects of Decoding Algorithms on Fairness in   Open-Ended Language Generation**|Jwala Dhamala et.al.|[2210.03826v1](http://arxiv.org/abs/2210.03826v1)|null|
 |**2022-10-05 18:00:01**|**Machine learning classification of CHIME fast radio bursts -- I.   Supervised methods**|Jia-Wei Luo et.al.|[2210.02463v2](http://arxiv.org/abs/2210.02463v2)|null|
 |**2022-10-05 05:48:39**|**Clustering Semantic Predicates in the Open Research Knowledge Graph**|Omar Arab Oghli et.al.|[2210.02034v1](http://arxiv.org/abs/2210.02034v1)|null|
-|**2022-10-01 11:54:55**|**Tyranny-of-the-minority regression adjustment in randomized experiments**|Xin Lu et.al.|[2210.00261v1](http://arxiv.org/abs/2210.00261v1)|null|
-|**2022-09-29 19:20:24**|**Reasoning about Complex Networks: A Logic Programming Approach**|Paulo Shakarian et.al.|[2209.15067v1](http://arxiv.org/abs/2209.15067v1)|null|
-|**2022-09-29 17:48:33**|**CompF5: End User Analysis Topical Group Report**|Gavin S. Davies et.al.|[2209.14984v1](http://arxiv.org/abs/2209.14984v1)|null|
