@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-08 18:54:15**|**A Survey of Graph Neural Networks for Social Recommender Systems**|Kartik Sharma et.al.|[2212.04481v1](http://arxiv.org/abs/2212.04481v1)|null|
+|**2022-12-08 16:04:06**|**Alleviating neighbor bias: augmenting graph self-supervise learning with   structural equivalent positive samples**|Jiawei Zhu et.al.|[2212.04365v1](http://arxiv.org/abs/2212.04365v1)|null|
+|**2022-12-08 09:21:09**|**Latent Graph Representations for Critical View of Safety Assessment**|Aditya Murali et.al.|[2212.04155v1](http://arxiv.org/abs/2212.04155v1)|null|
+|**2022-12-08 02:57:55**|**Graph Neural Networks Meet Wireless Communications: Motivation,   Applications, and Future Directions**|Mengyuan Lee et.al.|[2212.04047v1](http://arxiv.org/abs/2212.04047v1)|null|
+|**2022-12-07 22:28:00**|**Learning Graph Search Heuristics**|Michal Pándy et.al.|[2212.03978v1](http://arxiv.org/abs/2212.03978v1)|null|
+|**2022-12-07 19:14:17**|**Analysis of Drug repurposing Knowledge graphs for Covid-19**|Ajay Kumar Gogineni et.al.|[2212.03911v1](http://arxiv.org/abs/2212.03911v1)|null|
 |**2022-12-07 14:15:28**|**Node-oriented Spectral Filtering for Graph Neural Networks**|Shuai Zheng et.al.|[2212.03654v1](http://arxiv.org/abs/2212.03654v1)|null|
 |**2022-12-07 11:22:42**|**Learning rigid dynamics with face interaction graph networks**|Kelsey R. Allen et.al.|[2212.03574v1](http://arxiv.org/abs/2212.03574v1)|null|
 |**2022-12-07 10:19:39**|**Contrastive Deep Graph Clustering with Learnable Augmentation**|Xihong Yang et.al.|[2212.03559v1](http://arxiv.org/abs/2212.03559v1)|null|
@@ -26,9 +32,3 @@
 |**2022-12-03 01:59:46**|**Autonomous Apple Fruitlet Sizing and Growth Rate Tracking using Computer   Vision**|Harry Freeman et.al.|[2212.01506v1](http://arxiv.org/abs/2212.01506v1)|null|
 |**2022-12-02 20:49:38**|**SMARTQUERY: An Active Learning Framework for Graph Neural Networks   through Hybrid Uncertainty Reduction**|Xiaoting Li et.al.|[2212.01440v1](http://arxiv.org/abs/2212.01440v1)|null|
 |**2022-12-02 20:22:15**|**MeshDQN: A Deep Reinforcement Learning Framework for Improving Meshes in   Computational Fluid Dynamics**|Cooper Lorsung et.al.|[2212.01428v1](http://arxiv.org/abs/2212.01428v1)|null|
-|**2022-12-02 14:25:58**|**Gibbs-Helmholtz Graph Neural Network: capturing the temperature   dependency of activity coefficients at infinite dilution**|Edgar Ivan Sanchez Medina et.al.|[2212.01199v2](http://arxiv.org/abs/2212.01199v2)|[link](https://github.com/edgarsmdn/gh-gnn)|
-|**2022-12-02 12:26:00**|**Ripple: Concept-Based Interpretation for Raw Time Series Models in   Education**|Mohammad Asadi et.al.|[2212.01133v1](http://arxiv.org/abs/2212.01133v1)|[link](https://github.com/epfl-ml4ed/ripple)|
-|**2022-12-02 07:16:49**|**AGO: Boosting Mobile AI Inference Performance by Removing Constraints on   Graph Optimization**|Zhiying Xu et.al.|[2212.01005v1](http://arxiv.org/abs/2212.01005v1)|null|
-|**2022-12-02 05:30:59**|**Multiscale Graph Neural Networks for Protein Residue Contact Map   Prediction**|Kuang Liu et.al.|[2212.02251v1](http://arxiv.org/abs/2212.02251v1)|null|
-|**2022-12-02 05:10:10**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|null|
-|**2022-12-02 03:39:57**|**On the Limit of Explaining Black-box Temporal Graph Neural Networks**|Minh N. Vu et.al.|[2212.00952v1](http://arxiv.org/abs/2212.00952v1)|null|
