@@ -2,7 +2,7 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-12-08 18:54:15**|**A Survey of Graph Neural Networks for Social Recommender Systems**|Kartik Sharma et.al.|[2212.04481v1](http://arxiv.org/abs/2212.04481v1)|null|
+|**2022-12-08 18:54:15**|**A Survey of Graph Neural Networks for Social Recommender Systems**|Kartik Sharma et.al.|[2212.04481v1](http://arxiv.org/abs/2212.04481v1)|[link](https://github.com/claws-lab/awesome-gnn-social-recsys)|
 |**2022-12-08 16:04:06**|**Alleviating neighbor bias: augmenting graph self-supervise learning with   structural equivalent positive samples**|Jiawei Zhu et.al.|[2212.04365v1](http://arxiv.org/abs/2212.04365v1)|null|
 |**2022-12-08 09:21:09**|**Latent Graph Representations for Critical View of Safety Assessment**|Aditya Murali et.al.|[2212.04155v1](http://arxiv.org/abs/2212.04155v1)|null|
 |**2022-12-08 02:57:55**|**Graph Neural Networks Meet Wireless Communications: Motivation,   Applications, and Future Directions**|Mengyuan Lee et.al.|[2212.04047v1](http://arxiv.org/abs/2212.04047v1)|null|
