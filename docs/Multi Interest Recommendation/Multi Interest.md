@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-08 20:01:34**|**TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural   Recommender Systems**|Huiyuan Chen et.al.|[2212.04540v1](http://arxiv.org/abs/2212.04540v1)|null|
 |**2022-12-04 20:06:27**|**Speech MOS multi-task learning and rater bias correction**|Haleh Akrami et.al.|[2212.01911v1](http://arxiv.org/abs/2212.01911v1)|null|
 |**2022-10-28 17:00:07**|**MiCRO: Multi-interest Candidate Retrieval Online**|Frank Portman et.al.|[2210.16271v1](http://arxiv.org/abs/2210.16271v1)|null|
 |**2022-10-22 17:29:34**|**Self-supervised Graph-based Point-of-interest Recommendation**|Yang Li et.al.|[2210.12506v1](http://arxiv.org/abs/2210.12506v1)|null|
@@ -31,4 +32,3 @@
 |**2022-06-30 01:43:58**|**Personalized Showcases: Generating Multi-Modal Explanations for   Recommendations**|An Yan et.al.|[2207.00422v1](http://arxiv.org/abs/2207.00422v1)|null|
 |**2022-06-26 03:59:41**|**Efficiently Leveraging Multi-level User Intent for Session-based   Recommendation via Atten-Mixer Network**|Peiyan Zhang et.al.|[2206.12781v1](http://arxiv.org/abs/2206.12781v1)|null|
 |**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
-|**2022-06-10 12:05:50**|**Feature-aware Diversified Re-ranking with Disentangled Representations   for Relevant Recommendation**|Zihan Lin et.al.|[2206.05020v1](http://arxiv.org/abs/2206.05020v1)|null|

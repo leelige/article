@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2022-12-11 16:07:39 Asia/Shanghai
+ 自动更新 @ 2022-12-12 16:08:59 Asia/Shanghai
 
 ## Group Recommendation
 
@@ -37,11 +37,48 @@
 |**2022-10-07 21:33:34**|**An Analysis of the Effects of Decoding Algorithms on Fairness in   Open-Ended Language Generation**|Jwala Dhamala et.al.|[2210.03826v1](http://arxiv.org/abs/2210.03826v1)|null|
 |**2022-10-05 18:00:01**|**Machine learning classification of CHIME fast radio bursts -- I.   Supervised methods**|Jia-Wei Luo et.al.|[2210.02463v2](http://arxiv.org/abs/2210.02463v2)|null|
 
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-12-09 18:16:06**|**Mesh Neural Networks for SE(3)-Equivariant Hemodynamics Estimation on   the Artery Wall**|Julian Suk et.al.|[2212.05023v1](http://arxiv.org/abs/2212.05023v1)|null|
+|**2022-12-09 16:45:12**|**Adversarial Weight Perturbation Improves Generalization in Graph Neural   Network**|Yihan Wu et.al.|[2212.04983v1](http://arxiv.org/abs/2212.04983v1)|null|
+|**2022-12-09 16:36:05**|**Understanding stock market instability via graph auto-encoders**|Dragos Gorduza et.al.|[2212.04974v1](http://arxiv.org/abs/2212.04974v1)|null|
+|**2022-12-09 15:42:22**|**Learning Graph Algorithms With Recurrent Graph Neural Networks**|Florian Grötschla et.al.|[2212.04934v1](http://arxiv.org/abs/2212.04934v1)|[link](https://github.com/floriangroetschla/recurrent-gnns-for-algorithm-learning)|
+|**2022-12-09 14:34:58**|**ProductGraphSleepNet: Sleep Staging using Product Spatio-Temporal Graph   Learning with Attentive Temporal Aggregation**|Aref Einizade et.al.|[2212.04881v1](http://arxiv.org/abs/2212.04881v1)|null|
+|**2022-12-09 14:12:47**|**Deep Learning of Causal Structures in High Dimensions**|Kai Lagemann et.al.|[2212.04866v1](http://arxiv.org/abs/2212.04866v1)|null|
+|**2022-12-09 10:37:22**|**Leveraging Spatio-Temporal Dependency for Skeleton-Based Action   Recognition**|Jungho Lee et.al.|[2212.04761v1](http://arxiv.org/abs/2212.04761v1)|null|
+|**2022-12-09 03:58:22**|**Robust Graph Representation Learning via Predictive Coding**|Billy Byiringiro et.al.|[2212.04656v1](http://arxiv.org/abs/2212.04656v1)|null|
+|**2022-12-08 22:47:03**|**Time-Synchronized State Estimation Using Graph Neural Networks in   Presence of Topology Changes**|Shiva Moshtagh et.al.|[2212.04592v1](http://arxiv.org/abs/2212.04592v1)|null|
+|**2022-12-08 20:01:34**|**TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural   Recommender Systems**|Huiyuan Chen et.al.|[2212.04540v1](http://arxiv.org/abs/2212.04540v1)|null|
+|**2022-12-08 18:54:15**|**A Survey of Graph Neural Networks for Social Recommender Systems**|Kartik Sharma et.al.|[2212.04481v1](http://arxiv.org/abs/2212.04481v1)|[link](https://github.com/claws-lab/awesome-gnn-social-recsys)|
+|**2022-12-08 16:04:06**|**Alleviating neighbor bias: augmenting graph self-supervise learning with   structural equivalent positive samples**|Jiawei Zhu et.al.|[2212.04365v1](http://arxiv.org/abs/2212.04365v1)|null|
+|**2022-12-08 09:21:09**|**Latent Graph Representations for Critical View of Safety Assessment**|Aditya Murali et.al.|[2212.04155v1](http://arxiv.org/abs/2212.04155v1)|null|
+|**2022-12-08 02:57:55**|**Graph Neural Networks Meet Wireless Communications: Motivation,   Applications, and Future Directions**|Mengyuan Lee et.al.|[2212.04047v1](http://arxiv.org/abs/2212.04047v1)|null|
+|**2022-12-07 22:28:00**|**Learning Graph Search Heuristics**|Michal Pándy et.al.|[2212.03978v1](http://arxiv.org/abs/2212.03978v1)|null|
+|**2022-12-07 19:14:17**|**Analysis of Drug repurposing Knowledge graphs for Covid-19**|Ajay Kumar Gogineni et.al.|[2212.03911v1](http://arxiv.org/abs/2212.03911v1)|null|
+|**2022-12-07 14:15:28**|**Node-oriented Spectral Filtering for Graph Neural Networks**|Shuai Zheng et.al.|[2212.03654v1](http://arxiv.org/abs/2212.03654v1)|null|
+|**2022-12-07 11:22:42**|**Learning rigid dynamics with face interaction graph networks**|Kelsey R. Allen et.al.|[2212.03574v1](http://arxiv.org/abs/2212.03574v1)|null|
+|**2022-12-07 10:19:39**|**Contrastive Deep Graph Clustering with Learnable Augmentation**|Xihong Yang et.al.|[2212.03559v1](http://arxiv.org/abs/2212.03559v1)|null|
+|**2022-12-07 06:14:14**|**Assessing and Analyzing the Resilience of Graph Neural Networks Against   Hardware Faults**|Xun Jiao et.al.|[2212.03475v1](http://arxiv.org/abs/2212.03475v1)|null|
+|**2022-12-07 04:13:23**|**Dynamic Graph Node Classification via Time Augmentation**|Jiarui Sun et.al.|[2212.03449v1](http://arxiv.org/abs/2212.03449v1)|null|
+|**2022-12-07 00:56:02**|**A Temporal Graph Neural Network for Cyber Attack Detection and   Localization in Smart Grids**|Seyed Hamed Haghshenas et.al.|[2212.03390v1](http://arxiv.org/abs/2212.03390v1)|null|
+|**2022-12-06 15:12:53**|**Unifying Short and Long-Term Tracking with Graph Hierarchies**|Orcun Cetintas et.al.|[2212.03038v1](http://arxiv.org/abs/2212.03038v1)|null|
+|**2022-12-06 10:41:00**|**Multi-Task Edge Prediction in Temporally-Dynamic Video Graphs**|Osman Ülger et.al.|[2212.02875v1](http://arxiv.org/abs/2212.02875v1)|null|
+|**2022-12-06 10:08:02**|**RBF-MGN:Solving spatiotemporal PDEs with Physics-informed Graph Neural   Network**|Zixue Xiang et.al.|[2212.02861v1](http://arxiv.org/abs/2212.02861v1)|null|
+|**2022-12-06 08:01:40**|**Data Imputation with Iterative Graph Reconstruction**|Jiajun Zhong et.al.|[2212.02810v1](http://arxiv.org/abs/2212.02810v1)|null|
+|**2022-12-06 00:42:00**|**Self-supervised Graph Representation Learning for Black Market Account   Detection**|Zequan Xu et.al.|[2212.02679v1](http://arxiv.org/abs/2212.02679v1)|null|
+|**2022-12-05 20:27:02**|**AtomVision: A machine vision library for atomistic images**|Kamal Choudhary et.al.|[2212.02586v1](http://arxiv.org/abs/2212.02586v1)|[link](https://github.com/usnistgov/atomvision)|
+|**2022-12-05 18:42:55**|**TIDE: Time Derivative Diffusion for Deep Learning on Graphs**|Maximilian Krahn et.al.|[2212.02483v1](http://arxiv.org/abs/2212.02483v1)|[link](https://github.com/maysambehmanesh/tide)|
+|**2022-12-05 17:18:17**|**An iterative unbiased geometric approach to identifying crystalline   order and disorder via denoising score function model**|Tim Hsu et.al.|[2212.02421v1](http://arxiv.org/abs/2212.02421v1)|[link](https://github.com/llnl/graphite)|
+
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-08 20:01:34**|**TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural   Recommender Systems**|Huiyuan Chen et.al.|[2212.04540v1](http://arxiv.org/abs/2212.04540v1)|null|
 |**2022-12-04 20:06:27**|**Speech MOS multi-task learning and rater bias correction**|Haleh Akrami et.al.|[2212.01911v1](http://arxiv.org/abs/2212.01911v1)|null|
 |**2022-10-28 17:00:07**|**MiCRO: Multi-interest Candidate Retrieval Online**|Frank Portman et.al.|[2210.16271v1](http://arxiv.org/abs/2210.16271v1)|null|
 |**2022-10-22 17:29:34**|**Self-supervised Graph-based Point-of-interest Recommendation**|Yang Li et.al.|[2210.12506v1](http://arxiv.org/abs/2210.12506v1)|null|
@@ -71,40 +108,3 @@
 |**2022-06-30 01:43:58**|**Personalized Showcases: Generating Multi-Modal Explanations for   Recommendations**|An Yan et.al.|[2207.00422v1](http://arxiv.org/abs/2207.00422v1)|null|
 |**2022-06-26 03:59:41**|**Efficiently Leveraging Multi-level User Intent for Session-based   Recommendation via Atten-Mixer Network**|Peiyan Zhang et.al.|[2206.12781v1](http://arxiv.org/abs/2206.12781v1)|null|
 |**2022-06-20 09:25:02**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
-|**2022-06-10 12:05:50**|**Feature-aware Diversified Re-ranking with Disentangled Representations   for Relevant Recommendation**|Zihan Lin et.al.|[2206.05020v1](http://arxiv.org/abs/2206.05020v1)|null|
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-12-08 18:54:15**|**A Survey of Graph Neural Networks for Social Recommender Systems**|Kartik Sharma et.al.|[2212.04481v1](http://arxiv.org/abs/2212.04481v1)|[link](https://github.com/claws-lab/awesome-gnn-social-recsys)|
-|**2022-12-08 16:04:06**|**Alleviating neighbor bias: augmenting graph self-supervise learning with   structural equivalent positive samples**|Jiawei Zhu et.al.|[2212.04365v1](http://arxiv.org/abs/2212.04365v1)|null|
-|**2022-12-08 09:21:09**|**Latent Graph Representations for Critical View of Safety Assessment**|Aditya Murali et.al.|[2212.04155v1](http://arxiv.org/abs/2212.04155v1)|null|
-|**2022-12-08 02:57:55**|**Graph Neural Networks Meet Wireless Communications: Motivation,   Applications, and Future Directions**|Mengyuan Lee et.al.|[2212.04047v1](http://arxiv.org/abs/2212.04047v1)|null|
-|**2022-12-07 22:28:00**|**Learning Graph Search Heuristics**|Michal Pándy et.al.|[2212.03978v1](http://arxiv.org/abs/2212.03978v1)|null|
-|**2022-12-07 19:14:17**|**Analysis of Drug repurposing Knowledge graphs for Covid-19**|Ajay Kumar Gogineni et.al.|[2212.03911v1](http://arxiv.org/abs/2212.03911v1)|null|
-|**2022-12-07 14:15:28**|**Node-oriented Spectral Filtering for Graph Neural Networks**|Shuai Zheng et.al.|[2212.03654v1](http://arxiv.org/abs/2212.03654v1)|null|
-|**2022-12-07 11:22:42**|**Learning rigid dynamics with face interaction graph networks**|Kelsey R. Allen et.al.|[2212.03574v1](http://arxiv.org/abs/2212.03574v1)|null|
-|**2022-12-07 10:19:39**|**Contrastive Deep Graph Clustering with Learnable Augmentation**|Xihong Yang et.al.|[2212.03559v1](http://arxiv.org/abs/2212.03559v1)|null|
-|**2022-12-07 06:14:14**|**Assessing and Analyzing the Resilience of Graph Neural Networks Against   Hardware Faults**|Xun Jiao et.al.|[2212.03475v1](http://arxiv.org/abs/2212.03475v1)|null|
-|**2022-12-07 04:13:23**|**Dynamic Graph Node Classification via Time Augmentation**|Jiarui Sun et.al.|[2212.03449v1](http://arxiv.org/abs/2212.03449v1)|null|
-|**2022-12-07 00:56:02**|**A Temporal Graph Neural Network for Cyber Attack Detection and   Localization in Smart Grids**|Seyed Hamed Haghshenas et.al.|[2212.03390v1](http://arxiv.org/abs/2212.03390v1)|null|
-|**2022-12-06 15:12:53**|**Unifying Short and Long-Term Tracking with Graph Hierarchies**|Orcun Cetintas et.al.|[2212.03038v1](http://arxiv.org/abs/2212.03038v1)|null|
-|**2022-12-06 10:41:00**|**Multi-Task Edge Prediction in Temporally-Dynamic Video Graphs**|Osman Ülger et.al.|[2212.02875v1](http://arxiv.org/abs/2212.02875v1)|null|
-|**2022-12-06 10:08:02**|**RBF-MGN:Solving spatiotemporal PDEs with Physics-informed Graph Neural   Network**|Zixue Xiang et.al.|[2212.02861v1](http://arxiv.org/abs/2212.02861v1)|null|
-|**2022-12-06 08:01:40**|**Data Imputation with Iterative Graph Reconstruction**|Jiajun Zhong et.al.|[2212.02810v1](http://arxiv.org/abs/2212.02810v1)|null|
-|**2022-12-06 00:42:00**|**Self-supervised Graph Representation Learning for Black Market Account   Detection**|Zequan Xu et.al.|[2212.02679v1](http://arxiv.org/abs/2212.02679v1)|null|
-|**2022-12-05 20:27:02**|**AtomVision: A machine vision library for atomistic images**|Kamal Choudhary et.al.|[2212.02586v1](http://arxiv.org/abs/2212.02586v1)|[link](https://github.com/usnistgov/atomvision)|
-|**2022-12-05 18:42:55**|**TIDE: Time Derivative Diffusion for Deep Learning on Graphs**|Maximilian Krahn et.al.|[2212.02483v1](http://arxiv.org/abs/2212.02483v1)|[link](https://github.com/maysambehmanesh/tide)|
-|**2022-12-05 17:18:17**|**An iterative unbiased geometric approach to identifying crystalline   order and disorder via denoising score function model**|Tim Hsu et.al.|[2212.02421v1](http://arxiv.org/abs/2212.02421v1)|[link](https://github.com/llnl/graphite)|
-|**2022-12-05 15:56:08**|**Understanding the Relationship between Over-smoothing and Over-squashing   in Graph Neural Networks**|Jhony H. Giraldo et.al.|[2212.02374v1](http://arxiv.org/abs/2212.02374v1)|null|
-|**2022-12-05 06:31:31**|**Graph Convolutional Neural Networks with Diverse Negative Samples via   Decomposed Determinant Point Processes**|Wei Duan et.al.|[2212.02055v1](http://arxiv.org/abs/2212.02055v1)|[link](https://github.com/Wei9711/NegGCNs)|
-|**2022-12-05 04:22:00**|**GNN-SL: Sequence Labeling Based on Nearest Examples via GNN**|Shuhe Wang et.al.|[2212.02017v1](http://arxiv.org/abs/2212.02017v1)|[link](https://github.com/shuhewang1998/gnn-sl)|
-|**2022-12-05 01:00:37**|**Dissimilar Nodes Improve Graph Active Learning**|Zhicheng Ren et.al.|[2212.01968v1](http://arxiv.org/abs/2212.01968v1)|[link](https://github.com/franklinnwren/ds-age)|
-|**2022-12-04 19:36:08**|**Graph Representation Learning for Wireless Communications**|Maryam Mohsenivatani et.al.|[2212.01904v1](http://arxiv.org/abs/2212.01904v1)|null|
-|**2022-12-04 10:45:42**|**Hyperbolic Curvature Graph Neural Network**|Menglin Yang et.al.|[2212.01793v1](http://arxiv.org/abs/2212.01793v1)|null|
-|**2022-12-04 06:17:11**|**Semantic Graph Neural Network with Multi-measure Learning for   Semi-supervised Classification**|Junchao Lin et.al.|[2212.01749v1](http://arxiv.org/abs/2212.01749v1)|null|
-|**2022-12-03 01:59:46**|**Autonomous Apple Fruitlet Sizing and Growth Rate Tracking using Computer   Vision**|Harry Freeman et.al.|[2212.01506v1](http://arxiv.org/abs/2212.01506v1)|null|
-|**2022-12-02 20:49:38**|**SMARTQUERY: An Active Learning Framework for Graph Neural Networks   through Hybrid Uncertainty Reduction**|Xiaoting Li et.al.|[2212.01440v1](http://arxiv.org/abs/2212.01440v1)|null|
-|**2022-12-02 20:22:15**|**MeshDQN: A Deep Reinforcement Learning Framework for Improving Meshes in   Computational Fluid Dynamics**|Cooper Lorsung et.al.|[2212.01428v1](http://arxiv.org/abs/2212.01428v1)|null|
