@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-13 08:57:42**|**Survey on social reputation mechanisms: Someone told me I can trust you**|Thomas Werthenbach et.al.|[2212.06436v1](http://arxiv.org/abs/2212.06436v1)|null|
 |**2022-12-10 04:49:50**|**You Are What You Eat: A Preference-Aware Inverse Optimization Approach**|Farzin Ahmadi et.al.|[2212.05201v1](http://arxiv.org/abs/2212.05201v1)|null|
 |**2022-12-08 18:54:15**|**A Survey of Graph Neural Networks for Social Recommender Systems**|Kartik Sharma et.al.|[2212.04481v2](http://arxiv.org/abs/2212.04481v2)|[link](https://github.com/claws-lab/awesome-gnn-social-recsys)|
 |**2022-12-07 16:52:54**|**Leveraging Priority Thresholds to Improve Equitable Housing Access for   Unhoused-at-Risk Youth**|Yaren Bilge Kaya et.al.|[2212.03777v1](http://arxiv.org/abs/2212.03777v1)|null|
@@ -31,4 +32,3 @@
 |**2022-10-17 10:46:30**|**Simultaneous confidence intervals for an extended Koch-Röhmel design   in three-arm non-inferiority trials**|Martin Scharpenberg et.al.|[2210.08931v1](http://arxiv.org/abs/2210.08931v1)|null|
 |**2022-10-14 12:43:32**|**Simpson's Paradox in Recommender Fairness: Reconciling differences   between per-user and aggregated evaluations**|Flavien Prost et.al.|[2210.07755v1](http://arxiv.org/abs/2210.07755v1)|null|
 |**2022-10-12 05:53:05**|**Equal Experience in Recommender Systems**|Jaewoong Cho et.al.|[2210.05936v1](http://arxiv.org/abs/2210.05936v1)|[link](https://github.com/cjw2525/fairrec)|
-|**2022-10-07 21:33:34**|**An Analysis of the Effects of Decoding Algorithms on Fairness in   Open-Ended Language Generation**|Jwala Dhamala et.al.|[2210.03826v1](http://arxiv.org/abs/2210.03826v1)|null|
