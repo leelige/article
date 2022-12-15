@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-14 17:19:46**|**Lorentz Group Equivariant Autoencoders**|Zichun Hao et.al.|[2212.07347v1](http://arxiv.org/abs/2212.07347v1)|null|
+|**2022-12-14 14:24:00**|**HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics**|Artur Grigorev et.al.|[2212.07242v1](http://arxiv.org/abs/2212.07242v1)|null|
+|**2022-12-14 06:55:32**|**On the Probability of Necessity and Sufficiency of Explaining Graph   Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|null|
+|**2022-12-13 20:51:03**|**Bridging Graph Position Encodings for Transformers with Weighted   Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
 |**2022-12-13 13:29:47**|**Exploring Fake News Detection with Heterogeneous Social Media Context   Graphs**|Gregor Donabauer et.al.|[2212.06560v1](http://arxiv.org/abs/2212.06560v1)|null|
 |**2022-12-13 12:42:35**|**Leave Graphs Alone: Addressing Over-Squashing without Rewiring**|Domenico Tortorella et.al.|[2212.06538v1](http://arxiv.org/abs/2212.06538v1)|null|
 |**2022-12-13 11:26:56**|**Random matrices with row constraints and eigenvalue distributions of   graph Laplacians**|Pawat Akara-pipattana et.al.|[2212.06499v1](http://arxiv.org/abs/2212.06499v1)|null|
@@ -28,7 +32,3 @@
 |**2022-12-09 14:12:47**|**Deep Learning of Causal Structures in High Dimensions**|Kai Lagemann et.al.|[2212.04866v1](http://arxiv.org/abs/2212.04866v1)|null|
 |**2022-12-09 10:37:22**|**Leveraging Spatio-Temporal Dependency for Skeleton-Based Action   Recognition**|Jungho Lee et.al.|[2212.04761v1](http://arxiv.org/abs/2212.04761v1)|null|
 |**2022-12-09 03:58:22**|**Robust Graph Representation Learning via Predictive Coding**|Billy Byiringiro et.al.|[2212.04656v1](http://arxiv.org/abs/2212.04656v1)|null|
-|**2022-12-08 22:47:03**|**Time-Synchronized State Estimation Using Graph Neural Networks in   Presence of Topology Changes**|Shiva Moshtagh et.al.|[2212.04592v1](http://arxiv.org/abs/2212.04592v1)|null|
-|**2022-12-08 20:01:34**|**TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural   Recommender Systems**|Huiyuan Chen et.al.|[2212.04540v1](http://arxiv.org/abs/2212.04540v1)|null|
-|**2022-12-08 18:54:15**|**A Survey of Graph Neural Networks for Social Recommender Systems**|Kartik Sharma et.al.|[2212.04481v2](http://arxiv.org/abs/2212.04481v2)|[link](https://github.com/claws-lab/awesome-gnn-social-recsys)|
-|**2022-12-08 16:04:06**|**Alleviating neighbor bias: augmenting graph self-supervise learning with   structural equivalent positive samples**|Jiawei Zhu et.al.|[2212.04365v1](http://arxiv.org/abs/2212.04365v1)|null|
