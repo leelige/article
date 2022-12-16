@@ -2,7 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-12-14 17:19:46**|**Lorentz Group Equivariant Autoencoders**|Zichun Hao et.al.|[2212.07347v1](http://arxiv.org/abs/2212.07347v1)|null|
+|**2022-12-15 16:49:23**|**Scalable Bayesian Uncertainty Quantification for Neural Network   Potentials: Promise and Pitfalls**|Stephan Thaler et.al.|[2212.07959v1](http://arxiv.org/abs/2212.07959v1)|null|
+|**2022-12-15 14:04:27**|**Realistic Synthetic Social Networks with Graph Neural Networks**|Alex Davies et.al.|[2212.07843v1](http://arxiv.org/abs/2212.07843v1)|null|
+|**2022-12-14 23:31:14**|**Unsupervised Detection of Contextualized Embedding Bias with Application   to Ideology**|Valentin Hofmann et.al.|[2212.07547v1](http://arxiv.org/abs/2212.07547v1)|[link](https://github.com/valentinhofmann/unsupervised_bias)|
+|**2022-12-14 17:19:46**|**Lorentz Group Equivariant Autoencoders**|Zichun Hao et.al.|[2212.07347v1](http://arxiv.org/abs/2212.07347v1)|[link](https://github.com/zichunhao/lgn-autoencoder)|
+|**2022-12-14 14:56:00**|**Population Template-Based Brain Graph Augmentation for Improving   One-Shot Learning Classification**|Oben Özgür et.al.|[2212.07790v1](http://arxiv.org/abs/2212.07790v1)|null|
 |**2022-12-14 14:24:00**|**HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics**|Artur Grigorev et.al.|[2212.07242v1](http://arxiv.org/abs/2212.07242v1)|null|
 |**2022-12-14 06:55:32**|**On the Probability of Necessity and Sufficiency of Explaining Graph   Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|null|
 |**2022-12-13 20:51:03**|**Bridging Graph Position Encodings for Transformers with Weighted   Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
@@ -28,7 +32,3 @@
 |**2022-12-09 16:45:12**|**Adversarial Weight Perturbation Improves Generalization in Graph Neural   Network**|Yihan Wu et.al.|[2212.04983v1](http://arxiv.org/abs/2212.04983v1)|null|
 |**2022-12-09 16:36:05**|**Understanding stock market instability via graph auto-encoders**|Dragos Gorduza et.al.|[2212.04974v1](http://arxiv.org/abs/2212.04974v1)|null|
 |**2022-12-09 15:42:22**|**Learning Graph Algorithms With Recurrent Graph Neural Networks**|Florian Grötschla et.al.|[2212.04934v1](http://arxiv.org/abs/2212.04934v1)|[link](https://github.com/floriangroetschla/recurrent-gnns-for-algorithm-learning)|
-|**2022-12-09 14:34:58**|**ProductGraphSleepNet: Sleep Staging using Product Spatio-Temporal Graph   Learning with Attentive Temporal Aggregation**|Aref Einizade et.al.|[2212.04881v1](http://arxiv.org/abs/2212.04881v1)|null|
-|**2022-12-09 14:12:47**|**Deep Learning of Causal Structures in High Dimensions**|Kai Lagemann et.al.|[2212.04866v1](http://arxiv.org/abs/2212.04866v1)|null|
-|**2022-12-09 10:37:22**|**Leveraging Spatio-Temporal Dependency for Skeleton-Based Action   Recognition**|Jungho Lee et.al.|[2212.04761v1](http://arxiv.org/abs/2212.04761v1)|null|
-|**2022-12-09 03:58:22**|**Robust Graph Representation Learning via Predictive Coding**|Billy Byiringiro et.al.|[2212.04656v1](http://arxiv.org/abs/2212.04656v1)|null|
