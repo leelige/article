@@ -2,6 +2,9 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-16 15:43:41**|**Learnable Commutative Monoids for Graph Neural Networks**|Euan Ong et.al.|[2212.08541v1](http://arxiv.org/abs/2212.08541v1)|null|
+|**2022-12-16 02:15:46**|**Discovering Structural Hole Spanners in Dynamic Networks via Graph   Neural Networks**|Diksha Goel et.al.|[2212.08239v1](http://arxiv.org/abs/2212.08239v1)|null|
+|**2022-12-15 22:11:34**|**Graphon Pooling for Reducing Dimensionality of Signals and Convolutional   Operators on Graphs**|Alejandro Parada-Mayorga et.al.|[2212.08171v1](http://arxiv.org/abs/2212.08171v1)|null|
 |**2022-12-15 16:49:23**|**Scalable Bayesian Uncertainty Quantification for Neural Network   Potentials: Promise and Pitfalls**|Stephan Thaler et.al.|[2212.07959v1](http://arxiv.org/abs/2212.07959v1)|null|
 |**2022-12-15 14:04:27**|**Realistic Synthetic Social Networks with Graph Neural Networks**|Alex Davies et.al.|[2212.07843v1](http://arxiv.org/abs/2212.07843v1)|null|
 |**2022-12-14 23:31:14**|**Unsupervised Detection of Contextualized Embedding Bias with Application   to Ideology**|Valentin Hofmann et.al.|[2212.07547v1](http://arxiv.org/abs/2212.07547v1)|[link](https://github.com/valentinhofmann/unsupervised_bias)|
@@ -29,6 +32,3 @@
 |**2022-12-09 21:48:36**|**Multi-view Graph Convolutional Networks with Differentiable Node   Selection**|Zhaoliang Chen et.al.|[2212.05124v1](http://arxiv.org/abs/2212.05124v1)|null|
 |**2022-12-09 19:00:18**|**FAIR AI Models in High Energy Physics**|Javier Duarte et.al.|[2212.05081v1](http://arxiv.org/abs/2212.05081v1)|null|
 |**2022-12-09 18:16:06**|**Mesh Neural Networks for SE(3)-Equivariant Hemodynamics Estimation on   the Artery Wall**|Julian Suk et.al.|[2212.05023v1](http://arxiv.org/abs/2212.05023v1)|null|
-|**2022-12-09 16:45:12**|**Adversarial Weight Perturbation Improves Generalization in Graph Neural   Network**|Yihan Wu et.al.|[2212.04983v1](http://arxiv.org/abs/2212.04983v1)|null|
-|**2022-12-09 16:36:05**|**Understanding stock market instability via graph auto-encoders**|Dragos Gorduza et.al.|[2212.04974v1](http://arxiv.org/abs/2212.04974v1)|null|
-|**2022-12-09 15:42:22**|**Learning Graph Algorithms With Recurrent Graph Neural Networks**|Florian Grötschla et.al.|[2212.04934v1](http://arxiv.org/abs/2212.04934v1)|[link](https://github.com/floriangroetschla/recurrent-gnns-for-algorithm-learning)|
