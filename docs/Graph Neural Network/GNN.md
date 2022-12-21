@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-20 15:26:19**|**CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data   Limitation With Contrastive Learning**|Xiaoming Liu et.al.|[2212.10341v1](http://arxiv.org/abs/2212.10341v1)|null|
+|**2022-12-20 14:02:22**|**A Local Optima Network View of Real Function Fitness Landscapes**|Marco Tomassini et.al.|[2212.10254v1](http://arxiv.org/abs/2212.10254v1)|null|
+|**2022-12-20 12:40:29**|**Graph Neural Networks in Computer Vision -- Architectures, Datasets and   Common Approaches**|Maciej Krzywda et.al.|[2212.10207v1](http://arxiv.org/abs/2212.10207v1)|[link](https://github.com/mkrzywda/graph-neural-networks-in-computer-vision---architectures-datasets-and-common-approaches)|
+|**2022-12-20 11:24:35**|**CGCV:Context Guided Correlation Volume for Optical Flow Neural Networks**|Jiangpeng Li et.al.|[2212.10174v1](http://arxiv.org/abs/2212.10174v1)|null|
+|**2022-12-20 08:43:10**|**Rumour detection using graph neural network and oversampling in   benchmark Twitter dataset**|Shaswat Patel et.al.|[2212.10080v1](http://arxiv.org/abs/2212.10080v1)|null|
+|**2022-12-20 08:25:15**|**Identifying hot subdwarf stars from photometric data using Gaussian   mixture model and graph neural network**|Wei Liu et.al.|[2212.10072v1](http://arxiv.org/abs/2212.10072v1)|null|
+|**2022-12-20 08:05:17**|**Recognition and reconstruction of cell differentiation patterns with   deep learning**|Robin Dirk et.al.|[2212.10058v1](http://arxiv.org/abs/2212.10058v1)|null|
+|**2022-12-20 04:21:19**|**Dynamic Molecular Graph-based Implementation for Biophysical Properties   Prediction**|Carter Knutson et.al.|[2212.09991v1](http://arxiv.org/abs/2212.09991v1)|null|
 |**2022-12-19 18:50:54**|**A Retrieve-and-Read Framework for Knowledge Graph Link Prediction**|Vardaan Pahuja et.al.|[2212.09724v1](http://arxiv.org/abs/2212.09724v1)|null|
 |**2022-12-19 13:01:46**|**Nonequilibrium dynamics of the Ising model on heterogeneous networks   with an arbitrary distribution of threshold noise**|Leonardo S. Ferreira et.al.|[2212.09424v1](http://arxiv.org/abs/2212.09424v1)|null|
 |**2022-12-19 12:24:32**|**An Efficient Drug-Drug Interactions Prediction Technology for   Molecularly Intelligent Manufacturing**|Peng Gao et.al.|[2212.09400v1](http://arxiv.org/abs/2212.09400v1)|null|
@@ -24,11 +32,3 @@
 |**2022-12-14 06:55:32**|**On the Probability of Necessity and Sufficiency of Explaining Graph   Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|null|
 |**2022-12-13 20:51:03**|**Bridging Graph Position Encodings for Transformers with Weighted   Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
 |**2022-12-13 13:29:47**|**Exploring Fake News Detection with Heterogeneous Social Media Context   Graphs**|Gregor Donabauer et.al.|[2212.06560v1](http://arxiv.org/abs/2212.06560v1)|null|
-|**2022-12-13 12:42:35**|**Leave Graphs Alone: Addressing Over-Squashing without Rewiring**|Domenico Tortorella et.al.|[2212.06538v1](http://arxiv.org/abs/2212.06538v1)|null|
-|**2022-12-13 11:26:56**|**Random matrices with row constraints and eigenvalue distributions of   graph Laplacians**|Pawat Akara-pipattana et.al.|[2212.06499v1](http://arxiv.org/abs/2212.06499v1)|null|
-|**2022-12-13 08:36:11**|**Privacy-preserving Security Inference Towards Cloud-Edge Collaborative   Using Differential Privacy**|Yulong Wang et.al.|[2212.06428v1](http://arxiv.org/abs/2212.06428v1)|null|
-|**2022-12-13 08:04:38**|**Graph Convolutional Networks for Traffic Forecasting with Missing Values**|Jingwei Zuo et.al.|[2212.06419v1](http://arxiv.org/abs/2212.06419v1)|[link](https://github.com/jingweizuo/gcn-m)|
-|**2022-12-13 02:21:22**|**Generative artificial intelligence-enabled dynamic detection of   nicotine-related circuits**|Changwei Gong et.al.|[2212.06330v1](http://arxiv.org/abs/2212.06330v1)|null|
-|**2022-12-12 15:49:43**|**Graph algorithms for predicting subcellular localization at the pathway   level**|Chris S. Magnano et.al.|[2212.05991v1](http://arxiv.org/abs/2212.05991v1)|[link](https://github.com/gitter-lab/pathway-localization)|
-|**2022-12-12 14:36:39**|**Forecasting Soil Moisture Using Domain Inspired Temporal Graph   Convolution Neural Networks To Guide Sustainable Crop Management**|Muneeza Azmat et.al.|[2212.06565v1](http://arxiv.org/abs/2212.06565v1)|null|
-|**2022-12-12 12:31:46**|**DeepCut: Unsupervised Segmentation using Graph Neural Networks   Clustering**|Amit Aflalo et.al.|[2212.05853v2](http://arxiv.org/abs/2212.05853v2)|null|
