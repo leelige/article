@@ -2,9 +2,20 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-21 17:59:24**|**Machine Learning Assisted Inertia Estimation using Ambient Measurements**|Mingjian Tuo et.al.|[2212.11235v1](http://arxiv.org/abs/2212.11235v1)|null|
+|**2022-12-21 15:57:12**|**Towards dynamic stability analysis of sustainable power grids using   graph neural networks**|Christian Nauck et.al.|[2212.11130v1](http://arxiv.org/abs/2212.11130v1)|[link](https://github.com/pik-icone/dynamic_stability_gnn_neurips_climate_workshop)|
+|**2022-12-21 11:40:26**|**Prediction of steel nanohardness by using graph neural networks on   surface polycrystallinity maps**|Kamran Karimi et.al.|[2212.10948v1](http://arxiv.org/abs/2212.10948v1)|null|
+|**2022-12-21 07:24:03**|**Complete the Missing Half: Augmenting Aggregation Filtering with   Diversification for Graph Convolutional Neural Networks**|Sitao Luan et.al.|[2212.10822v1](http://arxiv.org/abs/2212.10822v1)|null|
+|**2022-12-21 06:17:45**|**GraphIX: Graph-based In silico XAI(explainable artificial intelligence)   for drug repositioning from biopharmaceutical network**|Atsuko Takagi et.al.|[2212.10788v1](http://arxiv.org/abs/2212.10788v1)|null|
+|**2022-12-21 05:17:13**|**Towards Efficient Visual Simplification of Computational Graphs in Deep   Neural Networks**|Rusheng Pan et.al.|[2212.10774v1](http://arxiv.org/abs/2212.10774v1)|null|
+|**2022-12-21 01:26:07**|**Integrating Heterogeneous Domain Information into Relation Extraction: A   Case Study on Drug-Drug Interaction Extraction**|Masaki Asada et.al.|[2212.10714v1](http://arxiv.org/abs/2212.10714v1)|null|
+|**2022-12-21 00:33:59**|**A Non-Asymptotic Analysis of Oversmoothing in Graph Neural Networks**|Xinyi Wu et.al.|[2212.10701v1](http://arxiv.org/abs/2212.10701v1)|null|
+|**2022-12-20 21:22:09**|**Comparing Point Cloud Strategies for Collider Event Classification**|Peter Onyisi et.al.|[2212.10659v1](http://arxiv.org/abs/2212.10659v1)|null|
+|**2022-12-20 19:32:30**|**MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular   Representation Learning**|Cameron Diao et.al.|[2212.10614v1](http://arxiv.org/abs/2212.10614v1)|null|
 |**2022-12-20 15:26:19**|**CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data   Limitation With Contrastive Learning**|Xiaoming Liu et.al.|[2212.10341v1](http://arxiv.org/abs/2212.10341v1)|null|
 |**2022-12-20 14:02:22**|**A Local Optima Network View of Real Function Fitness Landscapes**|Marco Tomassini et.al.|[2212.10254v1](http://arxiv.org/abs/2212.10254v1)|null|
 |**2022-12-20 12:40:29**|**Graph Neural Networks in Computer Vision -- Architectures, Datasets and   Common Approaches**|Maciej Krzywda et.al.|[2212.10207v1](http://arxiv.org/abs/2212.10207v1)|[link](https://github.com/mkrzywda/graph-neural-networks-in-computer-vision---architectures-datasets-and-common-approaches)|
+|**2022-12-20 12:11:31**|**Higher-order signal processing with the Dirac operator**|Lucille Calmon et.al.|[2212.10196v1](http://arxiv.org/abs/2212.10196v1)|null|
 |**2022-12-20 11:24:35**|**CGCV:Context Guided Correlation Volume for Optical Flow Neural Networks**|Jiangpeng Li et.al.|[2212.10174v1](http://arxiv.org/abs/2212.10174v1)|null|
 |**2022-12-20 08:43:10**|**Rumour detection using graph neural network and oversampling in   benchmark Twitter dataset**|Shaswat Patel et.al.|[2212.10080v1](http://arxiv.org/abs/2212.10080v1)|null|
 |**2022-12-20 08:25:15**|**Identifying hot subdwarf stars from photometric data using Gaussian   mixture model and graph neural network**|Wei Liu et.al.|[2212.10072v1](http://arxiv.org/abs/2212.10072v1)|null|
@@ -21,14 +32,3 @@
 |**2022-12-17 02:26:42**|**Multi-Scale Relational Graph Convolutional Network for Multiple Instance   Learning in Histopathology Images**|Roozbeh Bazargani et.al.|[2212.08781v1](http://arxiv.org/abs/2212.08781v1)|null|
 |**2022-12-16 22:03:37**|**Multi-person 3D pose estimation from unlabelled data**|Daniel Rodriguez-Criado et.al.|[2212.08731v1](http://arxiv.org/abs/2212.08731v1)|[link](https://github.com/gnns4hri/3d_multi_pose_estimator)|
 |**2022-12-16 15:43:41**|**Learnable Commutative Monoids for Graph Neural Networks**|Euan Ong et.al.|[2212.08541v1](http://arxiv.org/abs/2212.08541v1)|null|
-|**2022-12-16 02:15:46**|**Discovering Structural Hole Spanners in Dynamic Networks via Graph   Neural Networks**|Diksha Goel et.al.|[2212.08239v1](http://arxiv.org/abs/2212.08239v1)|null|
-|**2022-12-15 22:11:34**|**Graphon Pooling for Reducing Dimensionality of Signals and Convolutional   Operators on Graphs**|Alejandro Parada-Mayorga et.al.|[2212.08171v1](http://arxiv.org/abs/2212.08171v1)|null|
-|**2022-12-15 16:49:23**|**Scalable Bayesian Uncertainty Quantification for Neural Network   Potentials: Promise and Pitfalls**|Stephan Thaler et.al.|[2212.07959v1](http://arxiv.org/abs/2212.07959v1)|null|
-|**2022-12-15 14:04:27**|**Realistic Synthetic Social Networks with Graph Neural Networks**|Alex Davies et.al.|[2212.07843v1](http://arxiv.org/abs/2212.07843v1)|null|
-|**2022-12-14 23:31:14**|**Unsupervised Detection of Contextualized Embedding Bias with Application   to Ideology**|Valentin Hofmann et.al.|[2212.07547v1](http://arxiv.org/abs/2212.07547v1)|[link](https://github.com/valentinhofmann/unsupervised_bias)|
-|**2022-12-14 17:19:46**|**Lorentz Group Equivariant Autoencoders**|Zichun Hao et.al.|[2212.07347v1](http://arxiv.org/abs/2212.07347v1)|[link](https://github.com/zichunhao/lgn-autoencoder)|
-|**2022-12-14 14:56:00**|**Population Template-Based Brain Graph Augmentation for Improving   One-Shot Learning Classification**|Oben Özgür et.al.|[2212.07790v1](http://arxiv.org/abs/2212.07790v1)|null|
-|**2022-12-14 14:24:00**|**HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics**|Artur Grigorev et.al.|[2212.07242v1](http://arxiv.org/abs/2212.07242v1)|null|
-|**2022-12-14 06:55:32**|**On the Probability of Necessity and Sufficiency of Explaining Graph   Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|null|
-|**2022-12-13 20:51:03**|**Bridging Graph Position Encodings for Transformers with Weighted   Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
-|**2022-12-13 13:29:47**|**Exploring Fake News Detection with Heterogeneous Social Media Context   Graphs**|Gregor Donabauer et.al.|[2212.06560v1](http://arxiv.org/abs/2212.06560v1)|null|
