@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-22 13:12:47**|**Exploring Student Engagement and Outcomes: Experiences from Three Cycles   of an Undergraduate Module**|Robert D. Macredie et.al.|[2212.11682v1](http://arxiv.org/abs/2212.11682v1)|null|
 |**2022-12-19 17:51:47**|**Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI**|Alex Mei et.al.|[2212.09667v1](http://arxiv.org/abs/2212.09667v1)|null|
 |**2022-12-17 15:31:21**|**Learning with linear mixed model for group recommendation systems**|Baode Gao et.al.|[2212.08901v1](http://arxiv.org/abs/2212.08901v1)|null|
 |**2022-12-16 16:53:51**|**An Ethical Trajectory Planning Algorithm for Autonomous Vehicles**|Maximilian Geisslinger et.al.|[2212.08577v1](http://arxiv.org/abs/2212.08577v1)|[link](https://github.com/tumftm/ethicaltrajectoryplanning)|
@@ -31,4 +32,3 @@
 |**2022-10-22 04:06:43**|**Detection of Risk Predictors of COVID-19 Mortality with Classifier   Machine Learning Models Operated with Routine Laboratory Biomarkers**|Mehmet Tahir Huyut et.al.|[2210.12342v2](http://arxiv.org/abs/2210.12342v2)|null|
 |**2022-10-20 13:22:13**|**Fine-Grained Session Recommendations in E-commerce using Deep   Reinforcement Learning**|Diddigi Raghu Ram Bharadwaj et.al.|[2210.15451v1](http://arxiv.org/abs/2210.15451v1)|null|
 |**2022-10-20 01:59:34**|**Federated Unlearning for On-Device Recommendation**|Wei Yuan et.al.|[2210.10958v2](http://arxiv.org/abs/2210.10958v2)|null|
-|**2022-10-19 09:46:20**|**Accurate Bundle Matching and Generation via Multitask Learning with   Partially Shared Parameters**|Hyunsik Jeon et.al.|[2210.15460v2](http://arxiv.org/abs/2210.15460v2)|[link](https://github.com/bundlerecommender/bundlemage)|
