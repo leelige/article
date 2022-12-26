@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-23 17:30:19**|**Bring Your Own View: Graph Neural Networks for Link Prediction with   Personalized Subgraph Selection**|Qiaoyu Tan et.al.|[2212.12488v1](http://arxiv.org/abs/2212.12488v1)|[link](https://github.com/qiaoyu-tan/ps2)|
+|**2022-12-23 17:00:00**|**Proximal Policy Optimization with Graph Neural Networks for Optimal   Power Flow**|Ángela López-Cardona et.al.|[2212.12470v1](http://arxiv.org/abs/2212.12470v1)|null|
+|**2022-12-23 16:14:53**|**HAC-Net: A Hybrid Attention-Based Convolutional Neural Network for   Highly Accurate Protein-Ligand Binding Affinity Prediction**|Gregory W. Kyro et.al.|[2212.12440v1](http://arxiv.org/abs/2212.12440v1)|[link](https://github.com/gregory-kyro/hac-net)|
+|**2022-12-23 03:50:47**|**Assur graphs, marginally jammed packings, and reconfigurable   metamaterials**|Jose Ortiz et.al.|[2212.12129v1](http://arxiv.org/abs/2212.12129v1)|null|
+|**2022-12-22 23:02:40**|**RouteNet-Fermi: Network Modeling with Graph Neural Networks**|Miquel Ferriol-Galmés et.al.|[2212.12070v1](http://arxiv.org/abs/2212.12070v1)|null|
 |**2022-12-22 15:06:24**|**Few-shot human motion prediction for heterogeneous sensors**|Rafael Rego Drumond et.al.|[2212.11771v1](http://arxiv.org/abs/2212.11771v1)|[link](https://github.com/brinkl/graphhetnet)|
 |**2022-12-22 14:26:11**|**TransPath: Learning Heuristics For Grid-Based Pathfinding via   Transformers**|Daniil Kirilenko et.al.|[2212.11730v1](http://arxiv.org/abs/2212.11730v1)|[link](https://github.com/airi-institute/transpath)|
 |**2022-12-22 08:19:35**|**Multidimensional Graph Neural Networks for Wireless Communications**|Shengjie Liu et.al.|[2212.11531v1](http://arxiv.org/abs/2212.11531v1)|null|
@@ -27,8 +32,3 @@
 |**2022-12-20 08:25:15**|**Identifying hot subdwarf stars from photometric data using Gaussian   mixture model and graph neural network**|Wei Liu et.al.|[2212.10072v1](http://arxiv.org/abs/2212.10072v1)|null|
 |**2022-12-20 08:05:17**|**Recognition and reconstruction of cell differentiation patterns with   deep learning**|Robin Dirk et.al.|[2212.10058v1](http://arxiv.org/abs/2212.10058v1)|[link](https://github.com/scfischer/dirk-et-al-2022)|
 |**2022-12-20 04:21:19**|**Dynamic Molecular Graph-based Implementation for Biophysical Properties   Prediction**|Carter Knutson et.al.|[2212.09991v1](http://arxiv.org/abs/2212.09991v1)|null|
-|**2022-12-19 18:50:54**|**A Retrieve-and-Read Framework for Knowledge Graph Link Prediction**|Vardaan Pahuja et.al.|[2212.09724v1](http://arxiv.org/abs/2212.09724v1)|null|
-|**2022-12-19 13:01:46**|**Nonequilibrium dynamics of the Ising model on heterogeneous networks   with an arbitrary distribution of threshold noise**|Leonardo S. Ferreira et.al.|[2212.09424v1](http://arxiv.org/abs/2212.09424v1)|null|
-|**2022-12-19 12:24:32**|**An Efficient Drug-Drug Interactions Prediction Technology for   Molecularly Intelligent Manufacturing**|Peng Gao et.al.|[2212.09400v2](http://arxiv.org/abs/2212.09400v2)|null|
-|**2022-12-18 21:43:27**|**Predicting Citi Bike Demand Evolution Using Dynamic Graphs**|Alexander Saff et.al.|[2212.09175v1](http://arxiv.org/abs/2212.09175v1)|[link](https://github.com/alexrsaff/gbds_project)|
-|**2022-12-18 13:27:01**|**Influence-Based Mini-Batching for Graph Neural Networks**|Johannes Gasteiger et.al.|[2212.09083v1](http://arxiv.org/abs/2212.09083v1)|null|
