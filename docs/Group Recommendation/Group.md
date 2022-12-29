@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-26 20:40:43**|**Bayesian indicator variable selection of multivariate response with   heterogeneous sparsity for multi-trait fine mapping**|Travis Canida et.al.|[2212.13294v1](http://arxiv.org/abs/2212.13294v1)|null|
 |**2022-12-26 12:50:56**|**Universality of preference behaviors in online music-listener bipartite   networks: A Big Data analysis**|Xiao-Pu Han et.al.|[2212.13139v1](http://arxiv.org/abs/2212.13139v1)|null|
 |**2022-12-22 13:12:47**|**Exploring Student Engagement and Outcomes: Experiences from Three Cycles   of an Undergraduate Module**|Robert D. Macredie et.al.|[2212.11682v1](http://arxiv.org/abs/2212.11682v1)|null|
 |**2022-12-19 17:51:47**|**Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI**|Alex Mei et.al.|[2212.09667v1](http://arxiv.org/abs/2212.09667v1)|null|
@@ -31,4 +32,3 @@
 |**2022-10-24 13:58:59**|**A comparative study to alternatives to the log-rank test**|Ina Dormuth et.al.|[2210.13258v1](http://arxiv.org/abs/2210.13258v1)|null|
 |**2022-10-24 06:42:16**|**Item-based Variational Auto-encoder for Fair Music Recommendation**|Jinhyeok Park et.al.|[2211.01333v1](http://arxiv.org/abs/2211.01333v1)|[link](https://github.com/parkjinhyeock/evalrs-submission)|
 |**2022-10-22 04:06:43**|**Detection of Risk Predictors of COVID-19 Mortality with Classifier   Machine Learning Models Operated with Routine Laboratory Biomarkers**|Mehmet Tahir Huyut et.al.|[2210.12342v2](http://arxiv.org/abs/2210.12342v2)|null|
-|**2022-10-20 13:22:13**|**Fine-Grained Session Recommendations in E-commerce using Deep   Reinforcement Learning**|Diddigi Raghu Ram Bharadwaj et.al.|[2210.15451v1](http://arxiv.org/abs/2210.15451v1)|null|
