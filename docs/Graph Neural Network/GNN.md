@@ -2,8 +2,19 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-02 16:14:50**|**Training Differentially Private Graph Neural Networks with Random Walk   Sampling**|Morgane Ayle et.al.|[2301.00738v1](http://arxiv.org/abs/2301.00738v1)|null|
+|**2023-01-02 13:55:29**|**Simulated annealing, optimization, searching for ground states**|Sergio Caracciolo et.al.|[2301.00683v1](http://arxiv.org/abs/2301.00683v1)|null|
+|**2023-01-02 08:25:47**|**Task-specific Scene Structure Representations**|Jisu Shin et.al.|[2301.00555v1](http://arxiv.org/abs/2301.00555v1)|[link](https://github.com/jsshin98/SSGNet)|
+|**2023-01-02 01:33:04**|**Heterogeneous Graph Neural Network for Identifying Hadronically Decayed   Tau Leptons at the High Luminosity LHC**|Andris Huang et.al.|[2301.00501v1](http://arxiv.org/abs/2301.00501v1)|null|
+|**2023-01-01 16:38:12**|**A plug-in graph neural network to boost temporal sensitivity in fMRI   analysis**|Irmak Sivgin et.al.|[2301.00439v1](http://arxiv.org/abs/2301.00439v1)|null|
+|**2023-01-01 12:10:31**|**PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs**|Chunyang Wang et.al.|[2301.00391v1](http://arxiv.org/abs/2301.00391v1)|null|
+|**2022-12-31 10:07:19**|**Generative Graph Neural Networks for Link Prediction**|Xingping Xian et.al.|[2301.00169v1](http://arxiv.org/abs/2301.00169v1)|null|
+|**2022-12-31 07:56:00**|**Attentional Graph Convolutional Network for Structure-aware Audio-Visual   Scene Classification**|Liguang Zhou et.al.|[2301.00145v1](http://arxiv.org/abs/2301.00145v1)|null|
+|**2022-12-30 23:11:24**|**GANExplainer: GAN-based Graph Neural Networks Explainer**|Yiqiao Li et.al.|[2301.00012v1](http://arxiv.org/abs/2301.00012v1)|null|
+|**2022-12-30 16:02:02**|**Self-organization Preserved Graph Structure Learning with Principle of   Relevant Information**|Qingyun Sun et.al.|[2301.00015v1](http://arxiv.org/abs/2301.00015v1)|null|
 |**2022-12-30 15:04:38**|**Power Control for 6G Industrial Wireless Subnetworks: A Graph Neural   Network Approach**|Daniel Abode et.al.|[2212.14051v1](http://arxiv.org/abs/2212.14051v1)|[link](https://github.com/danieloaAAU/Power_Control_GNN)|
-|**2022-12-30 04:10:01**|**Node-Element Hypergraph Message Passing for Fluid Dynamics Simulations**|Rui Gao et.al.|[2212.14545v1](http://arxiv.org/abs/2212.14545v1)|null|
+|**2022-12-30 04:10:01**|**Node-Element Hypergraph Message Passing for Fluid Dynamics Simulations**|Rui Gao et.al.|[2212.14545v1](http://arxiv.org/abs/2212.14545v1)|[link](https://github.com/garrygale/nodeelementmessagepassing)|
+|**2022-12-29 17:32:05**|**Effects of Data Geometry in Early Deep Learning**|Saket Tiwari et.al.|[2301.00008v1](http://arxiv.org/abs/2301.00008v1)|null|
 |**2022-12-29 14:58:41**|**Probability transport on the Fock space of a disordered quantum spin   chain**|Isabel Creed et.al.|[2212.14333v1](http://arxiv.org/abs/2212.14333v1)|null|
 |**2022-12-29 11:51:47**|**Meta-Path Based Attentional Graph Learning Model for Vulnerability   Detection**|Xin-Cheng Wen et.al.|[2212.14274v1](http://arxiv.org/abs/2212.14274v1)|null|
 |**2022-12-28 19:45:38**|**A Hypergraph Neural Network Framework for Learning Hyperedge-Dependent   Node Embeddings**|Ryan Aponte et.al.|[2212.14077v1](http://arxiv.org/abs/2212.14077v1)|null|
@@ -21,14 +32,3 @@
 |**2022-12-26 01:54:02**|**A Novel Self-Supervised Learning-Based Anomaly Node Detection Method   Based on an Autoencoder in Wireless Sensor Networks**|Miao Ye et.al.|[2212.13904v1](http://arxiv.org/abs/2212.13904v1)|[link](https://github.com/guetye/anomaly_detection)|
 |**2022-12-25 23:19:56**|**Refined Edge Usage of Graph Neural Networks for Edge Prediction**|Jiarui Jin et.al.|[2212.12970v1](http://arxiv.org/abs/2212.12970v1)|null|
 |**2022-12-25 14:19:05**|**Universalities of Asymmetric Transport in Nonlinear Wave Chaotic Systems**|Cheng-Zhen Wang et.al.|[2212.14686v1](http://arxiv.org/abs/2212.14686v1)|null|
-|**2022-12-25 03:07:52**|**Weakly-Supervised Deep Learning Model for Prostate Cancer Diagnosis and   Gleason Grading of Histopathology Images**|Mohammad Mahdi Behzadi et.al.|[2212.12844v1](http://arxiv.org/abs/2212.12844v1)|[link](https://github.com/nabavilab/prostate-cancer)|
-|**2022-12-24 18:15:39**|**GraphCast: Learning skillful medium-range global weather forecasting**|Remi Lam et.al.|[2212.12794v1](http://arxiv.org/abs/2212.12794v1)|null|
-|**2022-12-24 13:49:44**|**T2-GNN: Graph Neural Networks for Graphs with Incomplete Features and   Structure via Teacher-Student Distillation**|Cuiying Huo et.al.|[2212.12738v1](http://arxiv.org/abs/2212.12738v1)|null|
-|**2022-12-24 08:56:21**|**Multi-duplicated Characterization of Graph Structures using Information   Gain Ratio for Graph Neural Networks**|Yuga Oishi et.al.|[2212.12691v2](http://arxiv.org/abs/2212.12691v2)|null|
-|**2022-12-24 04:39:54**|**STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension**|Borui Wang et.al.|[2212.12652v1](http://arxiv.org/abs/2212.12652v1)|null|
-|**2022-12-24 00:19:32**|**Nothing Stands Alone: Relational Fake News Detection with Hypergraph   Neural Networks**|Ujun Jeong et.al.|[2212.12621v1](http://arxiv.org/abs/2212.12621v1)|[link](https://github.com/ujeong1/IEEEBigdata22_HGFND)|
-|**2022-12-23 22:44:25**|**A Convergence Rate for Manifold Neural Networks**|Joyce Chew et.al.|[2212.12606v1](http://arxiv.org/abs/2212.12606v1)|null|
-|**2022-12-23 17:30:19**|**Bring Your Own View: Graph Neural Networks for Link Prediction with   Personalized Subgraph Selection**|Qiaoyu Tan et.al.|[2212.12488v1](http://arxiv.org/abs/2212.12488v1)|[link](https://github.com/qiaoyu-tan/ps2)|
-|**2022-12-23 17:00:00**|**Proximal Policy Optimization with Graph Neural Networks for Optimal   Power Flow**|Ángela López-Cardona et.al.|[2212.12470v1](http://arxiv.org/abs/2212.12470v1)|null|
-|**2022-12-23 16:14:53**|**HAC-Net: A Hybrid Attention-Based Convolutional Neural Network for   Highly Accurate Protein-Ligand Binding Affinity Prediction**|Gregory W. Kyro et.al.|[2212.12440v1](http://arxiv.org/abs/2212.12440v1)|[link](https://github.com/gregory-kyro/hac-net)|
-|**2022-12-23 09:03:51**|**Detection, Explanation and Filtering of Cyber Attacks Combining Symbolic   and Sub-Symbolic Methods**|Anna Himmelhuber et.al.|[2212.13991v1](http://arxiv.org/abs/2212.13991v1)|null|
