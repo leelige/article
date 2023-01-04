@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2023-01-03 16:08:27 Asia/Shanghai
+ 自动更新 @ 2023-01-04 16:08:20 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -78,13 +78,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-03 15:21:24**|**RELIANT: Fair Knowledge Distillation for Graph Neural Networks**|Yushun Dong et.al.|[2301.01150v1](http://arxiv.org/abs/2301.01150v1)|[link](https://github.com/yushundong/reliant)|
+|**2023-01-03 06:45:54**|**Boosting Neural Networks to Decompile Optimized Binaries**|Ying Cao et.al.|[2301.00969v1](http://arxiv.org/abs/2301.00969v1)|null|
 |**2023-01-02 16:14:50**|**Training Differentially Private Graph Neural Networks with Random Walk   Sampling**|Morgane Ayle et.al.|[2301.00738v1](http://arxiv.org/abs/2301.00738v1)|null|
 |**2023-01-02 13:55:29**|**Simulated annealing, optimization, searching for ground states**|Sergio Caracciolo et.al.|[2301.00683v1](http://arxiv.org/abs/2301.00683v1)|null|
-|**2023-01-02 08:25:47**|**Task-specific Scene Structure Representations**|Jisu Shin et.al.|[2301.00555v1](http://arxiv.org/abs/2301.00555v1)|[link](https://github.com/jsshin98/SSGNet)|
+|**2023-01-02 08:25:47**|**Task-specific Scene Structure Representations**|Jisu Shin et.al.|[2301.00555v1](http://arxiv.org/abs/2301.00555v1)|[link](https://github.com/jsshin98/ssgnet)|
 |**2023-01-02 01:33:04**|**Heterogeneous Graph Neural Network for Identifying Hadronically Decayed   Tau Leptons at the High Luminosity LHC**|Andris Huang et.al.|[2301.00501v1](http://arxiv.org/abs/2301.00501v1)|null|
 |**2023-01-01 16:38:12**|**A plug-in graph neural network to boost temporal sensitivity in fMRI   analysis**|Irmak Sivgin et.al.|[2301.00439v1](http://arxiv.org/abs/2301.00439v1)|null|
 |**2023-01-01 12:10:31**|**PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs**|Chunyang Wang et.al.|[2301.00391v1](http://arxiv.org/abs/2301.00391v1)|null|
-|**2022-12-31 10:07:19**|**Generative Graph Neural Networks for Link Prediction**|Xingping Xian et.al.|[2301.00169v1](http://arxiv.org/abs/2301.00169v1)|null|
+|**2023-01-01 11:07:55**|**A Multi-Source Information Learning Framework for Airbnb Price   Prediction**|Lu Jiang et.al.|[2301.01222v1](http://arxiv.org/abs/2301.01222v1)|null|
+|**2022-12-31 10:07:19**|**Generative Graph Neural Networks for Link Prediction**|Xingping Xian et.al.|[2301.00169v1](http://arxiv.org/abs/2301.00169v1)|[link](https://github.com/star4455/graphlp)|
 |**2022-12-31 07:56:00**|**Attentional Graph Convolutional Network for Structure-aware Audio-Visual   Scene Classification**|Liguang Zhou et.al.|[2301.00145v1](http://arxiv.org/abs/2301.00145v1)|null|
 |**2022-12-30 23:11:24**|**GANExplainer: GAN-based Graph Neural Networks Explainer**|Yiqiao Li et.al.|[2301.00012v1](http://arxiv.org/abs/2301.00012v1)|null|
 |**2022-12-30 16:02:02**|**Self-organization Preserved Graph Structure Learning with Principle of   Relevant Information**|Qingyun Sun et.al.|[2301.00015v1](http://arxiv.org/abs/2301.00015v1)|null|
@@ -105,6 +108,3 @@
 |**2022-12-26 16:16:51**|**2-hop Neighbor Class Similarity (2NCS): A graph structural metric   indicative of graph neural network performance**|Andrea Cavallo et.al.|[2212.13202v1](http://arxiv.org/abs/2212.13202v1)|null|
 |**2022-12-26 09:57:09**|**Statistical Mechanics of Generalization In Graph Convolution Networks**|Cheng Shi et.al.|[2212.13069v1](http://arxiv.org/abs/2212.13069v1)|null|
 |**2022-12-26 07:42:25**|**Investigation and rectification of NIDS datasets and standardized   feature set derivation for network attack detection with graph neural   networks**|Anton Raskovalov et.al.|[2212.13994v2](http://arxiv.org/abs/2212.13994v2)|null|
-|**2022-12-26 01:54:02**|**A Novel Self-Supervised Learning-Based Anomaly Node Detection Method   Based on an Autoencoder in Wireless Sensor Networks**|Miao Ye et.al.|[2212.13904v1](http://arxiv.org/abs/2212.13904v1)|[link](https://github.com/guetye/anomaly_detection)|
-|**2022-12-25 23:19:56**|**Refined Edge Usage of Graph Neural Networks for Edge Prediction**|Jiarui Jin et.al.|[2212.12970v1](http://arxiv.org/abs/2212.12970v1)|null|
-|**2022-12-25 14:19:05**|**Universalities of Asymmetric Transport in Nonlinear Wave Chaotic Systems**|Cheng-Zhen Wang et.al.|[2212.14686v1](http://arxiv.org/abs/2212.14686v1)|null|
