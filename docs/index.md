@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2023-01-04 16:08:20 Asia/Shanghai
+ 自动更新 @ 2023-01-05 16:08:35 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-04 18:10:26**|**Episodes Discovery Recommendation with Multi-Source Augmentations**|Ziwei Fan et.al.|[2301.01737v1](http://arxiv.org/abs/2301.01737v1)|null|
 |**2022-12-08 20:01:34**|**TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural   Recommender Systems**|Huiyuan Chen et.al.|[2212.04540v1](http://arxiv.org/abs/2212.04540v1)|null|
 |**2022-12-04 20:06:27**|**Speech MOS multi-task learning and rater bias correction**|Haleh Akrami et.al.|[2212.01911v1](http://arxiv.org/abs/2212.01911v1)|null|
 |**2022-10-28 17:00:07**|**MiCRO: Multi-interest Candidate Retrieval Online**|Frank Portman et.al.|[2210.16271v1](http://arxiv.org/abs/2210.16271v1)|null|
@@ -17,7 +18,6 @@
 |**2022-10-04 22:33:58**|**IGNiteR: News Recommendation in Microblogging Applications (Extended   Version)**|Yuting Feng et.al.|[2210.01942v1](http://arxiv.org/abs/2210.01942v1)|null|
 |**2022-09-30 08:02:18**|**The Minority Matters: A Diversity-Promoting Collaborative Metric   Learning Algorithm**|Shilong Bao et.al.|[2209.15292v1](http://arxiv.org/abs/2209.15292v1)|null|
 |**2022-09-16 12:07:43**|**PARSRec: Explainable Personalized Attention-fused Recurrent Sequential   Recommendation Using Session Partial Actions**|Ehsan Gholami et.al.|[2209.13015v1](http://arxiv.org/abs/2209.13015v1)|[link](https://github.com/ehgh/parsrec)|
-|**2022-09-15 14:38:47**|**Semiparametric Best Arm Identification with Contextual Information**|Masahiro Kato et.al.|[2209.07330v3](http://arxiv.org/abs/2209.07330v3)|null|
 |**2022-09-10 04:21:25**|**Causal Intervention for Fairness in Multi-behavior Recommendation**|Xi Wang et.al.|[2209.04589v1](http://arxiv.org/abs/2209.04589v1)|null|
 |**2022-09-06 22:25:36**|**User recommendation system based on MIND dataset**|Niran A. Abdulhussein et.al.|[2209.06131v1](http://arxiv.org/abs/2209.06131v1)|null|
 |**2022-09-04 08:09:31**|**Hierarchical Transformer with Spatio-Temporal Context Aggregation for   Next Point-of-Interest Recommendation**|Jiayi Xie et.al.|[2209.01559v1](http://arxiv.org/abs/2209.01559v1)|[link](https://github.com/JennyXieJiayi/STAR-HiT)|
@@ -42,6 +42,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-04 17:16:07**|**Optimization of the Analysis of Vital Events Using Threads**|Rubi Melania Coasaca Callacondo et.al.|[2301.01710v1](http://arxiv.org/abs/2301.01710v1)|null|
 |**2022-12-31 20:04:31**|**RECOMMED: A Comprehensive Pharmaceutical Recommendation System**|Mariam Zomorodi et.al.|[2301.00280v1](http://arxiv.org/abs/2301.00280v1)|null|
 |**2022-12-29 15:50:46**|**Ontology-based Context Aware Recommender System Application for Tourism**|Vitor T. Camacho et.al.|[2301.00768v1](http://arxiv.org/abs/2301.00768v1)|null|
 |**2022-12-26 20:40:43**|**Bayesian indicator variable selection of multivariate response with   heterogeneous sparsity for multi-trait fine mapping**|Travis Canida et.al.|[2212.13294v1](http://arxiv.org/abs/2212.13294v1)|null|
@@ -71,14 +72,18 @@
 |**2022-10-30 09:27:16**|**Tournesol: Permissionless Collaborative Algorithmic Governance with   Security Guarantees**|Romain Beylerian et.al.|[2211.01179v1](http://arxiv.org/abs/2211.01179v1)|null|
 |**2022-10-29 12:53:09**|**Track2Vec: fairness music recommendation with a GPU-free   customizable-driven framework**|Wei-Wei Du et.al.|[2210.16590v1](http://arxiv.org/abs/2210.16590v1)|[link](https://github.com/wwweiwei/track2vec)|
 |**2022-10-29 04:38:39**|**A Two Step Approach to Weighted Bipartite Link Recommendations**|Nathan Ma et.al.|[2211.01153v1](http://arxiv.org/abs/2211.01153v1)|null|
-|**2022-10-24 13:58:59**|**A comparative study to alternatives to the log-rank test**|Ina Dormuth et.al.|[2210.13258v1](http://arxiv.org/abs/2210.13258v1)|null|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-01-03 15:21:24**|**RELIANT: Fair Knowledge Distillation for Graph Neural Networks**|Yushun Dong et.al.|[2301.01150v1](http://arxiv.org/abs/2301.01150v1)|[link](https://github.com/yushundong/reliant)|
+|**2023-01-04 18:02:29**|**GUAP: Graph Universal Attack Through Adversarial Patching**|Xiao Zang et.al.|[2301.01731v1](http://arxiv.org/abs/2301.01731v1)|null|
+|**2023-01-04 14:36:44**|**CI-GNN: A Granger Causality-Inspired Graph Neural Network for   Interpretable Brain Network-Based Psychiatric Diagnosis**|Kaizhong Zheng et.al.|[2301.01642v1](http://arxiv.org/abs/2301.01642v1)|null|
+|**2023-01-04 05:35:30**|**Accurate, Low-latency, Efficient SAR Automatic Target Recognition on   FPGA**|Bingyi Zhang et.al.|[2301.01454v1](http://arxiv.org/abs/2301.01454v1)|null|
+|**2023-01-03 19:52:17**|**oneDNN Graph Compiler: A Hybrid Approach for High-Performance Deep   Learning Compilation**|Jianhui Li et.al.|[2301.01333v1](http://arxiv.org/abs/2301.01333v1)|null|
+|**2023-01-03 17:53:04**|**Predicting Learning Interactions in Social Learning Networks: A Deep   Learning Enabled Approach**|Rajeev Sahay et.al.|[2301.01606v1](http://arxiv.org/abs/2301.01606v1)|null|
+|**2023-01-03 15:21:24**|**RELIANT: Fair Knowledge Distillation for Graph Neural Networks**|Yushun Dong et.al.|[2301.01150v2](http://arxiv.org/abs/2301.01150v2)|[link](https://github.com/yushundong/reliant)|
 |**2023-01-03 06:45:54**|**Boosting Neural Networks to Decompile Optimized Binaries**|Ying Cao et.al.|[2301.00969v1](http://arxiv.org/abs/2301.00969v1)|null|
 |**2023-01-02 16:14:50**|**Training Differentially Private Graph Neural Networks with Random Walk   Sampling**|Morgane Ayle et.al.|[2301.00738v1](http://arxiv.org/abs/2301.00738v1)|null|
 |**2023-01-02 13:55:29**|**Simulated annealing, optimization, searching for ground states**|Sergio Caracciolo et.al.|[2301.00683v1](http://arxiv.org/abs/2301.00683v1)|null|
@@ -103,8 +108,3 @@
 |**2022-12-28 05:50:38**|**PersonaSAGE: A Multi-Persona Graph Neural Network**|Gautam Choudhary et.al.|[2212.13709v1](http://arxiv.org/abs/2212.13709v1)|null|
 |**2022-12-27 23:42:50**|**Stability mapping of bipartite tight-binding graphs with losses and   gain: ${\cal PT}-$symmetry and beyond**|L. A. Moreno-Rodriguez et.al.|[2212.13642v1](http://arxiv.org/abs/2212.13642v1)|null|
 |**2022-12-27 20:42:36**|**EDoG: Adversarial Edge Detection For Graph Neural Networks**|Xiaojun Xu et.al.|[2212.13607v1](http://arxiv.org/abs/2212.13607v1)|null|
-|**2022-12-27 07:03:52**|**MixupE: Understanding and Improving Mixup from Directional Derivative   Perspective**|Vikas Verma et.al.|[2212.13381v2](http://arxiv.org/abs/2212.13381v2)|null|
-|**2022-12-27 03:27:46**|**A Generalization of ViT/MLP-Mixer to Graphs**|Xiaoxin He et.al.|[2212.13350v1](http://arxiv.org/abs/2212.13350v1)|[link](https://github.com/xiaoxinhe/graph-mlpmixer)|
-|**2022-12-26 16:16:51**|**2-hop Neighbor Class Similarity (2NCS): A graph structural metric   indicative of graph neural network performance**|Andrea Cavallo et.al.|[2212.13202v1](http://arxiv.org/abs/2212.13202v1)|null|
-|**2022-12-26 09:57:09**|**Statistical Mechanics of Generalization In Graph Convolution Networks**|Cheng Shi et.al.|[2212.13069v1](http://arxiv.org/abs/2212.13069v1)|null|
-|**2022-12-26 07:42:25**|**Investigation and rectification of NIDS datasets and standardized   feature set derivation for network attack detection with graph neural   networks**|Anton Raskovalov et.al.|[2212.13994v2](http://arxiv.org/abs/2212.13994v2)|null|

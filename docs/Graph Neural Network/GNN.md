@@ -2,7 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-01-03 15:21:24**|**RELIANT: Fair Knowledge Distillation for Graph Neural Networks**|Yushun Dong et.al.|[2301.01150v1](http://arxiv.org/abs/2301.01150v1)|[link](https://github.com/yushundong/reliant)|
+|**2023-01-04 18:02:29**|**GUAP: Graph Universal Attack Through Adversarial Patching**|Xiao Zang et.al.|[2301.01731v1](http://arxiv.org/abs/2301.01731v1)|null|
+|**2023-01-04 14:36:44**|**CI-GNN: A Granger Causality-Inspired Graph Neural Network for   Interpretable Brain Network-Based Psychiatric Diagnosis**|Kaizhong Zheng et.al.|[2301.01642v1](http://arxiv.org/abs/2301.01642v1)|null|
+|**2023-01-04 05:35:30**|**Accurate, Low-latency, Efficient SAR Automatic Target Recognition on   FPGA**|Bingyi Zhang et.al.|[2301.01454v1](http://arxiv.org/abs/2301.01454v1)|null|
+|**2023-01-03 19:52:17**|**oneDNN Graph Compiler: A Hybrid Approach for High-Performance Deep   Learning Compilation**|Jianhui Li et.al.|[2301.01333v1](http://arxiv.org/abs/2301.01333v1)|null|
+|**2023-01-03 17:53:04**|**Predicting Learning Interactions in Social Learning Networks: A Deep   Learning Enabled Approach**|Rajeev Sahay et.al.|[2301.01606v1](http://arxiv.org/abs/2301.01606v1)|null|
+|**2023-01-03 15:21:24**|**RELIANT: Fair Knowledge Distillation for Graph Neural Networks**|Yushun Dong et.al.|[2301.01150v2](http://arxiv.org/abs/2301.01150v2)|[link](https://github.com/yushundong/reliant)|
 |**2023-01-03 06:45:54**|**Boosting Neural Networks to Decompile Optimized Binaries**|Ying Cao et.al.|[2301.00969v1](http://arxiv.org/abs/2301.00969v1)|null|
 |**2023-01-02 16:14:50**|**Training Differentially Private Graph Neural Networks with Random Walk   Sampling**|Morgane Ayle et.al.|[2301.00738v1](http://arxiv.org/abs/2301.00738v1)|null|
 |**2023-01-02 13:55:29**|**Simulated annealing, optimization, searching for ground states**|Sergio Caracciolo et.al.|[2301.00683v1](http://arxiv.org/abs/2301.00683v1)|null|
@@ -27,8 +32,3 @@
 |**2022-12-28 05:50:38**|**PersonaSAGE: A Multi-Persona Graph Neural Network**|Gautam Choudhary et.al.|[2212.13709v1](http://arxiv.org/abs/2212.13709v1)|null|
 |**2022-12-27 23:42:50**|**Stability mapping of bipartite tight-binding graphs with losses and   gain: ${\cal PT}-$symmetry and beyond**|L. A. Moreno-Rodriguez et.al.|[2212.13642v1](http://arxiv.org/abs/2212.13642v1)|null|
 |**2022-12-27 20:42:36**|**EDoG: Adversarial Edge Detection For Graph Neural Networks**|Xiaojun Xu et.al.|[2212.13607v1](http://arxiv.org/abs/2212.13607v1)|null|
-|**2022-12-27 07:03:52**|**MixupE: Understanding and Improving Mixup from Directional Derivative   Perspective**|Vikas Verma et.al.|[2212.13381v2](http://arxiv.org/abs/2212.13381v2)|null|
-|**2022-12-27 03:27:46**|**A Generalization of ViT/MLP-Mixer to Graphs**|Xiaoxin He et.al.|[2212.13350v1](http://arxiv.org/abs/2212.13350v1)|[link](https://github.com/xiaoxinhe/graph-mlpmixer)|
-|**2022-12-26 16:16:51**|**2-hop Neighbor Class Similarity (2NCS): A graph structural metric   indicative of graph neural network performance**|Andrea Cavallo et.al.|[2212.13202v1](http://arxiv.org/abs/2212.13202v1)|null|
-|**2022-12-26 09:57:09**|**Statistical Mechanics of Generalization In Graph Convolution Networks**|Cheng Shi et.al.|[2212.13069v1](http://arxiv.org/abs/2212.13069v1)|null|
-|**2022-12-26 07:42:25**|**Investigation and rectification of NIDS datasets and standardized   feature set derivation for network attack detection with graph neural   networks**|Anton Raskovalov et.al.|[2212.13994v2](http://arxiv.org/abs/2212.13994v2)|null|
