@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-06 14:04:46**|**GNN-based Passenger Request Prediction**|Aqsa Ashraf Makhdomi et.al.|[2301.02515v1](http://arxiv.org/abs/2301.02515v1)|null|
+|**2023-01-06 10:54:54**|**Topics as Entity Clusters: Entity-based Topics from Language Models and   Graph Neural Networks**|Manuel V. Loureiro et.al.|[2301.02458v1](http://arxiv.org/abs/2301.02458v1)|null|
+|**2023-01-06 05:56:50**|**Graph Convolution Based Cross-Network Multi-Scale Feature Fusion for   Deep Vessel Segmentation**|Gangming Zhao et.al.|[2301.02393v1](http://arxiv.org/abs/2301.02393v1)|null|
+|**2023-01-06 05:19:56**|**ReVoLT: Relational Reasoning and Voronoi Local Graph Planning for   Target-driven Navigation**|Junjia Liu et.al.|[2301.02382v1](http://arxiv.org/abs/2301.02382v1)|null|
 |**2023-01-05 17:59:57**|**Virtual Node Graph Neural Network for Full Phonon Prediction**|Ryotaro Okabe et.al.|[2301.02197v1](http://arxiv.org/abs/2301.02197v1)|[link](https://github.com/RyotaroOKabe/phonon_prediction)|
 |**2023-01-05 12:21:48**|**Randomized Message-Interception Smoothing: Gray-box Certificates for   Graph Neural Networks**|Yan Scholten et.al.|[2301.02039v1](http://arxiv.org/abs/2301.02039v1)|null|
 |**2023-01-05 06:54:21**|**PA-GM: Position-Aware Learning of Embedding Networks for Deep Graph   Matching**|Dongdong Chen et.al.|[2301.01932v1](http://arxiv.org/abs/2301.01932v1)|[link](https://github.com/anonymous)|
@@ -28,7 +32,3 @@
 |**2022-12-30 23:11:24**|**GANExplainer: GAN-based Graph Neural Networks Explainer**|Yiqiao Li et.al.|[2301.00012v1](http://arxiv.org/abs/2301.00012v1)|null|
 |**2022-12-30 16:02:02**|**Self-organization Preserved Graph Structure Learning with Principle of   Relevant Information**|Qingyun Sun et.al.|[2301.00015v1](http://arxiv.org/abs/2301.00015v1)|null|
 |**2022-12-30 15:04:38**|**Power Control for 6G Industrial Wireless Subnetworks: A Graph Neural   Network Approach**|Daniel Abode et.al.|[2212.14051v1](http://arxiv.org/abs/2212.14051v1)|[link](https://github.com/danieloaAAU/Power_Control_GNN)|
-|**2022-12-30 04:10:01**|**Node-Element Hypergraph Message Passing for Fluid Dynamics Simulations**|Rui Gao et.al.|[2212.14545v1](http://arxiv.org/abs/2212.14545v1)|[link](https://github.com/garrygale/nodeelementmessagepassing)|
-|**2022-12-29 17:32:05**|**Effects of Data Geometry in Early Deep Learning**|Saket Tiwari et.al.|[2301.00008v1](http://arxiv.org/abs/2301.00008v1)|null|
-|**2022-12-29 14:58:41**|**Probability transport on the Fock space of a disordered quantum spin   chain**|Isabel Creed et.al.|[2212.14333v1](http://arxiv.org/abs/2212.14333v1)|null|
-|**2022-12-29 11:51:47**|**Meta-Path Based Attentional Graph Learning Model for Vulnerability   Detection**|Xin-Cheng Wen et.al.|[2212.14274v1](http://arxiv.org/abs/2212.14274v1)|null|
