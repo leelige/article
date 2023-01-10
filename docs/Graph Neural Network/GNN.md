@@ -2,6 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-09 17:05:28**|**SCENE: Reasoning about Traffic Scenes using Heterogeneous Graph Neural   Networks**|Thomas Monninger et.al.|[2301.03512v1](http://arxiv.org/abs/2301.03512v1)|null|
+|**2023-01-09 09:50:14**|**Graph Neural Networks for Aerodynamic Flow Reconstruction from Sparse   Sensing**|Gregory Duthé et.al.|[2301.03228v1](http://arxiv.org/abs/2301.03228v1)|null|
+|**2023-01-08 22:14:59**|**Unsupervised Learning for Combinatorial Optimization Needs Meta-Learning**|Haoyu Wang et.al.|[2301.03116v1](http://arxiv.org/abs/2301.03116v1)|null|
+|**2023-01-08 19:32:07**|**Comprehensive Mapping of Continuous/Switching Circuits in CCM and DCM to   Machine Learning Domain using Homogeneous Graph Neural Networks**|Ahmed K. Khamis et.al.|[2301.03098v1](http://arxiv.org/abs/2301.03098v1)|null|
+|**2023-01-08 14:38:32**|**AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph   Neural Network**|Guanghui Zhu et.al.|[2301.03049v1](http://arxiv.org/abs/2301.03049v1)|[link](https://github.com/pasalab/autoac)|
+|**2023-01-07 19:26:04**|**Reducing Over-smoothing in Graph Neural Networks Using Relational   Embeddings**|Yeskendir Koishekenov et.al.|[2301.02924v1](http://arxiv.org/abs/2301.02924v1)|null|
+|**2023-01-07 06:33:35**|**Faithful and Consistent Graph Neural Network Explanations with Rationale   Alignment**|Tianxiang Zhao et.al.|[2301.02791v1](http://arxiv.org/abs/2301.02791v1)|null|
+|**2023-01-07 05:14:45**|**Explaining Graph Neural Networks via Non-parametric Subgraph Matching**|Fang Wu et.al.|[2301.02780v1](http://arxiv.org/abs/2301.02780v1)|null|
+|**2023-01-06 21:45:50**|**CFG2VEC: Hierarchical Graph Neural Network for Cross-Architectural   Software Reverse Engineering**|Shih-Yuan Yu et.al.|[2301.02723v1](http://arxiv.org/abs/2301.02723v1)|null|
 |**2023-01-06 14:04:46**|**GNN-based Passenger Request Prediction**|Aqsa Ashraf Makhdomi et.al.|[2301.02515v1](http://arxiv.org/abs/2301.02515v1)|null|
 |**2023-01-06 10:54:54**|**Topics as Entity Clusters: Entity-based Topics from Language Models and   Graph Neural Networks**|Manuel V. Loureiro et.al.|[2301.02458v1](http://arxiv.org/abs/2301.02458v1)|null|
 |**2023-01-06 05:56:50**|**Graph Convolution Based Cross-Network Multi-Scale Feature Fusion for   Deep Vessel Segmentation**|Gangming Zhao et.al.|[2301.02393v1](http://arxiv.org/abs/2301.02393v1)|null|
@@ -19,16 +28,7 @@
 |**2023-01-03 19:52:17**|**oneDNN Graph Compiler: A Hybrid Approach for High-Performance Deep   Learning Compilation**|Jianhui Li et.al.|[2301.01333v1](http://arxiv.org/abs/2301.01333v1)|null|
 |**2023-01-03 17:53:04**|**Predicting Learning Interactions in Social Learning Networks: A Deep   Learning Enabled Approach**|Rajeev Sahay et.al.|[2301.01606v1](http://arxiv.org/abs/2301.01606v1)|[link](https://github.com/jess-jpg-txt/sln-learning)|
 |**2023-01-03 15:21:24**|**RELIANT: Fair Knowledge Distillation for Graph Neural Networks**|Yushun Dong et.al.|[2301.01150v2](http://arxiv.org/abs/2301.01150v2)|[link](https://github.com/yushundong/reliant)|
+|**2023-01-03 13:56:50**|**Machine Learning for Large-Scale Optimization in 6G Wireless Networks**|Yandong Shi et.al.|[2301.03377v1](http://arxiv.org/abs/2301.03377v1)|null|
 |**2023-01-03 06:45:54**|**Boosting Neural Networks to Decompile Optimized Binaries**|Ying Cao et.al.|[2301.00969v1](http://arxiv.org/abs/2301.00969v1)|null|
 |**2023-01-02 16:14:50**|**Training Differentially Private Graph Neural Networks with Random Walk   Sampling**|Morgane Ayle et.al.|[2301.00738v1](http://arxiv.org/abs/2301.00738v1)|null|
 |**2023-01-02 13:55:29**|**Simulated annealing, optimization, searching for ground states**|Sergio Caracciolo et.al.|[2301.00683v1](http://arxiv.org/abs/2301.00683v1)|null|
-|**2023-01-02 08:25:47**|**Task-specific Scene Structure Representations**|Jisu Shin et.al.|[2301.00555v1](http://arxiv.org/abs/2301.00555v1)|[link](https://github.com/jsshin98/ssgnet)|
-|**2023-01-02 01:33:04**|**Heterogeneous Graph Neural Network for Identifying Hadronically Decayed   Tau Leptons at the High Luminosity LHC**|Andris Huang et.al.|[2301.00501v1](http://arxiv.org/abs/2301.00501v1)|null|
-|**2023-01-01 16:38:12**|**A plug-in graph neural network to boost temporal sensitivity in fMRI   analysis**|Irmak Sivgin et.al.|[2301.00439v1](http://arxiv.org/abs/2301.00439v1)|null|
-|**2023-01-01 12:10:31**|**PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs**|Chunyang Wang et.al.|[2301.00391v2](http://arxiv.org/abs/2301.00391v2)|null|
-|**2023-01-01 11:07:55**|**A Multi-Source Information Learning Framework for Airbnb Price   Prediction**|Lu Jiang et.al.|[2301.01222v1](http://arxiv.org/abs/2301.01222v1)|null|
-|**2022-12-31 10:07:19**|**Generative Graph Neural Networks for Link Prediction**|Xingping Xian et.al.|[2301.00169v1](http://arxiv.org/abs/2301.00169v1)|[link](https://github.com/star4455/graphlp)|
-|**2022-12-31 07:56:00**|**Attentional Graph Convolutional Network for Structure-aware Audio-Visual   Scene Classification**|Liguang Zhou et.al.|[2301.00145v1](http://arxiv.org/abs/2301.00145v1)|null|
-|**2022-12-30 23:11:24**|**GANExplainer: GAN-based Graph Neural Networks Explainer**|Yiqiao Li et.al.|[2301.00012v1](http://arxiv.org/abs/2301.00012v1)|null|
-|**2022-12-30 16:02:02**|**Self-organization Preserved Graph Structure Learning with Principle of   Relevant Information**|Qingyun Sun et.al.|[2301.00015v1](http://arxiv.org/abs/2301.00015v1)|null|
-|**2022-12-30 15:04:38**|**Power Control for 6G Industrial Wireless Subnetworks: A Graph Neural   Network Approach**|Daniel Abode et.al.|[2212.14051v1](http://arxiv.org/abs/2212.14051v1)|[link](https://github.com/danieloaAAU/Power_Control_GNN)|
