@@ -2,8 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-11 17:48:47**|**Predicting Tags For Programming Tasks by Combining Textual And Source   Code Data**|Artyom Lobanov et.al.|[2301.04597v1](http://arxiv.org/abs/2301.04597v1)|null|
+|**2023-01-11 10:02:14**|**Determinate Node Selection for Semi-supervised Classification Oriented   Graph Convolutional Networks**|Yao Xiao et.al.|[2301.04381v1](http://arxiv.org/abs/2301.04381v1)|null|
+|**2023-01-10 22:07:33**|**Inferring Gene Regulatory Neural Networks for Bacterial Decision Making   in Biofilms**|Samitha Somathilaka et.al.|[2301.04225v1](http://arxiv.org/abs/2301.04225v1)|null|
+|**2023-01-10 08:15:35**|**InstaGraM: Instance-level Graph Modeling for Vectorized HD Map Learning**|Juyeb Shin et.al.|[2301.04470v1](http://arxiv.org/abs/2301.04470v1)|null|
 |**2023-01-10 04:16:09**|**Time-aware Hyperbolic Graph Attention Network for Session-based   Recommendation**|Xiaohan Li et.al.|[2301.03780v1](http://arxiv.org/abs/2301.03780v1)|null|
-|**2023-01-10 00:25:48**|**Evaluating the Transferability of Machine-Learned Force Fields for   Material Property Modeling**|Shaswat Mohanty et.al.|[2301.03729v1](http://arxiv.org/abs/2301.03729v1)|[link](https://gitlab.com/micronano_public/tb-mlff)|
+|**2023-01-10 00:25:48**|**Evaluating the Transferability of Machine-Learned Force Fields for   Material Property Modeling**|Shaswat Mohanty et.al.|[2301.03729v2](http://arxiv.org/abs/2301.03729v2)|[link](https://gitlab.com/micronano_public/tb-mlff)|
 |**2023-01-10 00:07:33**|**Neighborhood-Regularized Self-Training for Learning with Few Labels**|Ran Xu et.al.|[2301.03726v1](http://arxiv.org/abs/2301.03726v1)|[link](https://github.com/ritaranx/NeST)|
 |**2023-01-09 21:31:06**|**The distribution of the number of cycles in directed and undirected   random 2-regular graphs**|Ido Tishby et.al.|[2301.03686v1](http://arxiv.org/abs/2301.03686v1)|null|
 |**2023-01-09 17:05:28**|**SCENE: Reasoning about Traffic Scenes using Heterogeneous Graph Neural   Networks**|Thomas Monninger et.al.|[2301.03512v1](http://arxiv.org/abs/2301.03512v1)|null|
@@ -28,7 +32,3 @@
 |**2023-01-04 22:04:28**|**Deep Statistical Solver for Distribution System State Estimation**|Benjamin Habib et.al.|[2301.01835v1](http://arxiv.org/abs/2301.01835v1)|null|
 |**2023-01-04 18:02:29**|**GUAP: Graph Universal Attack Through Adversarial Patching**|Xiao Zang et.al.|[2301.01731v1](http://arxiv.org/abs/2301.01731v1)|null|
 |**2023-01-04 14:36:44**|**CI-GNN: A Granger Causality-Inspired Graph Neural Network for   Interpretable Brain Network-Based Psychiatric Diagnosis**|Kaizhong Zheng et.al.|[2301.01642v1](http://arxiv.org/abs/2301.01642v1)|null|
-|**2023-01-04 05:35:30**|**Accurate, Low-latency, Efficient SAR Automatic Target Recognition on   FPGA**|Bingyi Zhang et.al.|[2301.01454v1](http://arxiv.org/abs/2301.01454v1)|null|
-|**2023-01-03 19:52:17**|**oneDNN Graph Compiler: A Hybrid Approach for High-Performance Deep   Learning Compilation**|Jianhui Li et.al.|[2301.01333v1](http://arxiv.org/abs/2301.01333v1)|null|
-|**2023-01-03 17:53:04**|**Predicting Learning Interactions in Social Learning Networks: A Deep   Learning Enabled Approach**|Rajeev Sahay et.al.|[2301.01606v1](http://arxiv.org/abs/2301.01606v1)|[link](https://github.com/jess-jpg-txt/sln-learning)|
-|**2023-01-03 15:21:24**|**RELIANT: Fair Knowledge Distillation for Graph Neural Networks**|Yushun Dong et.al.|[2301.01150v2](http://arxiv.org/abs/2301.01150v2)|[link](https://github.com/yushundong/reliant)|
