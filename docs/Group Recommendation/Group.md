@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-17 17:49:04**|**Optimal Algorithms for Latent Bandits with Cluster Structure**|Soumyabrata Pal et.al.|[2301.07040v1](http://arxiv.org/abs/2301.07040v1)|null|
+|**2023-01-16 10:49:39**|**A First Look at the JWST MIRI/LRS Phase Curve of WASP-43b**|Taylor J. Bell et.al.|[2301.06350v1](http://arxiv.org/abs/2301.06350v1)|null|
+|**2023-01-13 08:24:21**|**Automated speech- and text-based classification of neuropsychiatric   conditions in a multidiagnostic setting**|Lasse Hansen et.al.|[2301.06916v1](http://arxiv.org/abs/2301.06916v1)|null|
 |**2023-01-13 03:30:22**|**Benefits and Limitations of Remote Work to LGBTQIA+ Software   Professionals**|Ronnie de Souza Santos et.al.|[2301.05379v1](http://arxiv.org/abs/2301.05379v1)|null|
 |**2023-01-12 13:15:24**|**Against Algorithmic Exploitation of Human Vulnerabilities**|Inga Strümke et.al.|[2301.04993v1](http://arxiv.org/abs/2301.04993v1)|null|
 |**2023-01-05 13:02:35**|**Max-Min Diversification with Fairness Constraints: Exact and   Approximation Algorithms**|Yanhao Wang et.al.|[2301.02053v1](http://arxiv.org/abs/2301.02053v1)|null|
@@ -29,6 +32,3 @@
 |**2022-11-25 17:22:14**|**Group Buying Recommendation Model Based on Multi-task Learning**|Shuoyao Zhai et.al.|[2211.14247v1](http://arxiv.org/abs/2211.14247v1)|[link](https://github.com/deqingyang/mgbr)|
 |**2022-11-22 09:10:37**|**AdaptDHM: Adaptive Distribution Hierarchical Model for Multi-Domain CTR   Prediction**|Jinyun Li et.al.|[2211.12105v1](http://arxiv.org/abs/2211.12105v1)|null|
 |**2022-11-17 14:07:05**|**On the use of non-concurrent controls in platform trials: A scoping   review**|Marta Bofill Roig et.al.|[2211.09547v1](http://arxiv.org/abs/2211.09547v1)|null|
-|**2022-11-08 14:36:33**|**Detecting Shortcuts in Medical Images -- A Case Study in Chest X-rays**|Amelia Jiménez-Sánchez et.al.|[2211.04279v2](http://arxiv.org/abs/2211.04279v2)|[link](https://github.com/ameliajimenez/shortcuts-chest-xray)|
-|**2022-11-08 09:03:35**|**Factors that Contribute to the Success of a Software Organisation's   DevOps Environment: A Systematic Review**|Ashley Gwangwadza et.al.|[2211.04101v1](http://arxiv.org/abs/2211.04101v1)|null|
-|**2022-11-02 09:38:08**|**Balancing Utility and Fairness in Submodular Maximization (Technical   Report)**|Yanhao Wang et.al.|[2211.00980v1](http://arxiv.org/abs/2211.00980v1)|[link](https://github.com/yhwang1990/code-bsm-release)|
