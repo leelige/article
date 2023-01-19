@@ -10,6 +10,7 @@
 |**2023-01-05 13:02:35**|**Max-Min Diversification with Fairness Constraints: Exact and   Approximation Algorithms**|Yanhao Wang et.al.|[2301.02053v1](http://arxiv.org/abs/2301.02053v1)|null|
 |**2023-01-04 17:16:07**|**Optimization of the Analysis of Vital Events Using Threads**|Rubi Melania Coasaca Callacondo et.al.|[2301.01710v1](http://arxiv.org/abs/2301.01710v1)|null|
 |**2022-12-31 20:04:31**|**RECOMMED: A Comprehensive Pharmaceutical Recommendation System**|Mariam Zomorodi et.al.|[2301.00280v1](http://arxiv.org/abs/2301.00280v1)|null|
+|**2022-12-31 03:33:22**|**Ameliorating transport system focusing on sustainability and   inclusiveness through a mixed-method research (A case study in Tehran, Iran)**|Melika Soufiemami et.al.|[2301.07504v1](http://arxiv.org/abs/2301.07504v1)|null|
 |**2022-12-29 18:51:36**|**Neighbor Auto-Grouping Graph Neural Networks for Handover Parameter   Configuration in Cellular Network**|Mehrtash Mehrabi et.al.|[2301.03412v1](http://arxiv.org/abs/2301.03412v1)|null|
 |**2022-12-29 15:50:46**|**Ontology-based Context Aware Recommender System Application for Tourism**|Vitor T. Camacho et.al.|[2301.00768v1](http://arxiv.org/abs/2301.00768v1)|null|
 |**2022-12-26 20:40:43**|**Bayesian indicator variable selection of multivariate response with   heterogeneous sparsity for multi-trait fine mapping**|Travis Canida et.al.|[2212.13294v1](http://arxiv.org/abs/2212.13294v1)|null|
@@ -31,4 +32,3 @@
 |**2022-11-27 05:14:03**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|[link](https://github.com/chengang95/unkd)|
 |**2022-11-25 17:22:14**|**Group Buying Recommendation Model Based on Multi-task Learning**|Shuoyao Zhai et.al.|[2211.14247v1](http://arxiv.org/abs/2211.14247v1)|[link](https://github.com/deqingyang/mgbr)|
 |**2022-11-22 09:10:37**|**AdaptDHM: Adaptive Distribution Hierarchical Model for Multi-Domain CTR   Prediction**|Jinyun Li et.al.|[2211.12105v1](http://arxiv.org/abs/2211.12105v1)|null|
-|**2022-11-17 14:07:05**|**On the use of non-concurrent controls in platform trials: A scoping   review**|Marta Bofill Roig et.al.|[2211.09547v1](http://arxiv.org/abs/2211.09547v1)|null|
