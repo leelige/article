@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-19 18:09:43**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
+|**2023-01-19 05:02:55**|**Unposed: Unsupervised Pose Estimation based Product Image   Recommendations**|Saurabh Sharma et.al.|[2301.07879v1](http://arxiv.org/abs/2301.07879v1)|null|
 |**2023-01-17 17:49:04**|**Optimal Algorithms for Latent Bandits with Cluster Structure**|Soumyabrata Pal et.al.|[2301.07040v1](http://arxiv.org/abs/2301.07040v1)|null|
 |**2023-01-16 10:49:39**|**A First Look at the JWST MIRI/LRS Phase Curve of WASP-43b**|Taylor J. Bell et.al.|[2301.06350v1](http://arxiv.org/abs/2301.06350v1)|null|
 |**2023-01-13 08:24:21**|**Automated speech- and text-based classification of neuropsychiatric   conditions in a multidiagnostic setting**|Lasse Hansen et.al.|[2301.06916v1](http://arxiv.org/abs/2301.06916v1)|null|
@@ -30,5 +32,3 @@
 |**2022-11-30 03:45:45**|**Automated Generating Natural Language Requirements based on Domain   Ontology**|Ziyan Zhao et.al.|[2211.16716v1](http://arxiv.org/abs/2211.16716v1)|[link](https://github.com/zacharyzhao55/reqgen)|
 |**2022-11-27 15:24:06**|**"Explain it in the Same Way!" -- Model-Agnostic Group Fairness of   Counterfactual Explanations**|André Artelt et.al.|[2211.14858v1](http://arxiv.org/abs/2211.14858v1)|[link](https://github.com/hammerlabml/modelagnosticgroupfairnesscounterfactuals)|
 |**2022-11-27 05:14:03**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|[link](https://github.com/chengang95/unkd)|
-|**2022-11-25 17:22:14**|**Group Buying Recommendation Model Based on Multi-task Learning**|Shuoyao Zhai et.al.|[2211.14247v1](http://arxiv.org/abs/2211.14247v1)|[link](https://github.com/deqingyang/mgbr)|
-|**2022-11-22 09:10:37**|**AdaptDHM: Adaptive Distribution Hierarchical Model for Multi-Domain CTR   Prediction**|Jinyun Li et.al.|[2211.12105v1](http://arxiv.org/abs/2211.12105v1)|null|

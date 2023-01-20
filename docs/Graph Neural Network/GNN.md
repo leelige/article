@@ -2,8 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-19 18:09:43**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
+|**2023-01-19 18:00:51**|**GIPA++: A General Information Propagation Algorithm for Graph Learning**|Houyi Li et.al.|[2301.08209v1](http://arxiv.org/abs/2301.08209v1)|null|
+|**2023-01-19 08:42:40**|**PDFormer: Propagation Delay-aware Dynamic Long-range Transformer for   Traffic Flow Prediction**|Jiawei Jiang et.al.|[2301.07945v1](http://arxiv.org/abs/2301.07945v1)|[link](https://github.com/BUAABIGSCity/PDFormer)|
+|**2023-01-18 23:35:37**|**GrAVITree: Graph-based Approximate Value Function In a Tree**|Patrick H. Washington et.al.|[2301.07822v1](http://arxiv.org/abs/2301.07822v1)|null|
 |**2023-01-18 16:29:05**|**A Comparative Analysis of Bias Amplification in Graph Neural Network   Approaches for Recommender Systems**|Nikzad Chizari et.al.|[2301.07639v1](http://arxiv.org/abs/2301.07639v1)|null|
-|**2023-01-18 12:51:13**|**ReFresh: Reducing Memory Access from Exploiting Stable Historical   Embeddings for Graph Neural Network Training**|Kezhao Huang et.al.|[2301.07482v1](http://arxiv.org/abs/2301.07482v1)|null|
+|**2023-01-18 12:51:13**|**ReFresh: Reducing Memory Access from Exploiting Stable Historical   Embeddings for Graph Neural Network Training**|Kezhao Huang et.al.|[2301.07482v2](http://arxiv.org/abs/2301.07482v2)|null|
 |**2023-01-17 19:05:17**|**Heterogeneous Multi-Robot Reinforcement Learning**|Matteo Bettini et.al.|[2301.07137v1](http://arxiv.org/abs/2301.07137v1)|[link](https://github.com/proroklab/vectorizedmultiagentsimulator)|
 |**2023-01-17 11:45:51**|**Pathfinding Neural Cellular Automata**|Sam Earle et.al.|[2301.06820v1](http://arxiv.org/abs/2301.06820v1)|null|
 |**2023-01-17 03:15:20**|**Artificial intelligence as a gateway to scientific discovery: Uncovering   features in retinal fundus images**|Parsa Delavari et.al.|[2301.06675v1](http://arxiv.org/abs/2301.06675v1)|null|
@@ -28,7 +32,3 @@
 |**2023-01-10 00:07:33**|**Neighborhood-Regularized Self-Training for Learning with Few Labels**|Ran Xu et.al.|[2301.03726v1](http://arxiv.org/abs/2301.03726v1)|[link](https://github.com/ritaranx/nest)|
 |**2023-01-09 21:31:06**|**The distribution of the number of cycles in directed and undirected   random 2-regular graphs**|Ido Tishby et.al.|[2301.03686v1](http://arxiv.org/abs/2301.03686v1)|null|
 |**2023-01-09 17:05:28**|**SCENE: Reasoning about Traffic Scenes using Heterogeneous Graph Neural   Networks**|Thomas Monninger et.al.|[2301.03512v1](http://arxiv.org/abs/2301.03512v1)|null|
-|**2023-01-09 09:50:14**|**Graph Neural Networks for Aerodynamic Flow Reconstruction from Sparse   Sensing**|Gregory Duthé et.al.|[2301.03228v1](http://arxiv.org/abs/2301.03228v1)|null|
-|**2023-01-08 22:14:59**|**Unsupervised Learning for Combinatorial Optimization Needs Meta-Learning**|Haoyu Wang et.al.|[2301.03116v1](http://arxiv.org/abs/2301.03116v1)|null|
-|**2023-01-08 19:32:07**|**Comprehensive Mapping of Continuous/Switching Circuits in CCM and DCM to   Machine Learning Domain using Homogeneous Graph Neural Networks**|Ahmed K. Khamis et.al.|[2301.03098v1](http://arxiv.org/abs/2301.03098v1)|null|
-|**2023-01-08 14:38:32**|**AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph   Neural Network**|Guanghui Zhu et.al.|[2301.03049v1](http://arxiv.org/abs/2301.03049v1)|[link](https://github.com/pasalab/autoac)|
