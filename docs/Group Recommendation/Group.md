@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-22 13:40:29**|**Selecting a suitable Parallel Label-propagation based algorithm for   Disjoint Community Detection**|Subhajit Sahu et.al.|[2301.09125v1](http://arxiv.org/abs/2301.09125v1)|null|
 |**2023-01-19 18:09:43**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
 |**2023-01-19 05:02:55**|**Unposed: Unsupervised Pose Estimation based Product Image   Recommendations**|Saurabh Sharma et.al.|[2301.07879v1](http://arxiv.org/abs/2301.07879v1)|null|
 |**2023-01-17 17:49:04**|**Optimal Algorithms for Latent Bandits with Cluster Structure**|Soumyabrata Pal et.al.|[2301.07040v1](http://arxiv.org/abs/2301.07040v1)|null|
@@ -9,6 +10,7 @@
 |**2023-01-13 08:24:21**|**Automated speech- and text-based classification of neuropsychiatric   conditions in a multidiagnostic setting**|Lasse Hansen et.al.|[2301.06916v1](http://arxiv.org/abs/2301.06916v1)|null|
 |**2023-01-13 03:30:22**|**Benefits and Limitations of Remote Work to LGBTQIA+ Software   Professionals**|Ronnie de Souza Santos et.al.|[2301.05379v1](http://arxiv.org/abs/2301.05379v1)|null|
 |**2023-01-12 13:15:24**|**Against Algorithmic Exploitation of Human Vulnerabilities**|Inga Strümke et.al.|[2301.04993v1](http://arxiv.org/abs/2301.04993v1)|null|
+|**2023-01-06 13:12:59**|**Adaptive Pattern Extraction Multi-Task Learning for Multi-Step   Conversion Estimations**|Xuewen Tao et.al.|[2301.02494v3](http://arxiv.org/abs/2301.02494v3)|null|
 |**2023-01-05 13:02:35**|**Max-Min Diversification with Fairness Constraints: Exact and   Approximation Algorithms**|Yanhao Wang et.al.|[2301.02053v1](http://arxiv.org/abs/2301.02053v1)|null|
 |**2023-01-04 17:16:07**|**Optimization of the Analysis of Vital Events Using Threads**|Rubi Melania Coasaca Callacondo et.al.|[2301.01710v1](http://arxiv.org/abs/2301.01710v1)|null|
 |**2022-12-31 20:04:31**|**RECOMMED: A Comprehensive Pharmaceutical Recommendation System**|Mariam Zomorodi et.al.|[2301.00280v1](http://arxiv.org/abs/2301.00280v1)|null|
@@ -30,5 +32,3 @@
 |**2022-12-07 03:04:48**|**Privacy protection and service evaluation methods for location-based   services in edge computing environments**|Shuang Liu et.al.|[2212.03417v1](http://arxiv.org/abs/2212.03417v1)|null|
 |**2022-12-01 10:55:22**|**Multi-Source Survival Domain Adaptation**|Ammar Shaker et.al.|[2212.00424v1](http://arxiv.org/abs/2212.00424v1)|null|
 |**2022-11-30 03:45:45**|**Automated Generating Natural Language Requirements based on Domain   Ontology**|Ziyan Zhao et.al.|[2211.16716v1](http://arxiv.org/abs/2211.16716v1)|[link](https://github.com/zacharyzhao55/reqgen)|
-|**2022-11-27 15:24:06**|**"Explain it in the Same Way!" -- Model-Agnostic Group Fairness of   Counterfactual Explanations**|André Artelt et.al.|[2211.14858v1](http://arxiv.org/abs/2211.14858v1)|[link](https://github.com/hammerlabml/modelagnosticgroupfairnesscounterfactuals)|
-|**2022-11-27 05:14:03**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|[link](https://github.com/chengang95/unkd)|
