@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-24 12:01:45**|**Learning To Dive In Branch And Bound**|Max B. Paulus et.al.|[2301.09943v1](http://arxiv.org/abs/2301.09943v1)|null|
+|**2023-01-24 07:56:44**|**Neighborhood Homophily-Guided Graph Convolutional Network**|Shengbo Gong et.al.|[2301.09851v1](http://arxiv.org/abs/2301.09851v1)|null|
+|**2023-01-24 04:43:12**|**Slice-and-Forge: Making Better Use of Caches for Graph Convolutional   Network Accelerators**|Mingi Yoo et.al.|[2301.09813v1](http://arxiv.org/abs/2301.09813v1)|null|
+|**2023-01-23 19:35:59**|**Graph Neural Networks for Decentralized Multi-Agent Perimeter Defense**|Elijah S. Lee et.al.|[2301.09689v1](http://arxiv.org/abs/2301.09689v1)|null|
 |**2023-01-23 15:58:59**|**Rethinking the Expressive Power of GNNs via Graph Biconnectivity**|Bohang Zhang et.al.|[2301.09505v1](http://arxiv.org/abs/2301.09505v1)|null|
 |**2023-01-23 08:08:10**|**On the Expressive Power of Geometric Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2301.09308v1](http://arxiv.org/abs/2301.09308v1)|[link](https://github.com/chaitjo/geometric-gnn-dojo)|
 |**2023-01-22 01:50:10**|**Graph Convolutional Neural Networks for Optimal Power Flow Locational   Marginal Price**|Adrian-Petru Surani et.al.|[2301.09038v1](http://arxiv.org/abs/2301.09038v1)|null|
@@ -22,13 +26,9 @@
 |**2023-01-17 11:45:51**|**Pathfinding Neural Cellular Automata**|Sam Earle et.al.|[2301.06820v1](http://arxiv.org/abs/2301.06820v1)|null|
 |**2023-01-17 03:15:20**|**Artificial intelligence as a gateway to scientific discovery: Uncovering   features in retinal fundus images**|Parsa Delavari et.al.|[2301.06675v1](http://arxiv.org/abs/2301.06675v1)|null|
 |**2023-01-16 22:53:55**|**Diverse Multimedia Layout Generation with Multi Choice Learning**|David D. Nguyen et.al.|[2301.06629v1](http://arxiv.org/abs/2301.06629v1)|null|
-|**2023-01-16 13:19:18**|**- Modelling Difference Between Censored and Uncensored Electric Vehicle   Charging Demand**|Frederik Boe Hüttel et.al.|[2301.06418v2](http://arxiv.org/abs/2301.06418v2)|null|
+|**2023-01-16 13:19:18**|**Mind the Gap -- Modelling Difference Between Censored and Uncensored   Electric Vehicle Charging Demand**|Frederik Boe Hüttel et.al.|[2301.06418v3](http://arxiv.org/abs/2301.06418v3)|null|
 |**2023-01-16 06:53:18**|**PIGEON: Optimizing CUDA Code Generator for End-to-End Training and   Inference of Relational Graph Neural Networks**|Kun Wu et.al.|[2301.06284v1](http://arxiv.org/abs/2301.06284v1)|null|
 |**2023-01-14 09:15:49**|**A Comprehensive Survey of Graph-level Learning**|Zhenyu Yang et.al.|[2301.05860v1](http://arxiv.org/abs/2301.05860v1)|[link](https://github.com/zhenyuyangmq/awesome-graph-level-learning)|
 |**2023-01-14 08:12:01**|**CrysGNN : Distilling pre-trained knowledge to enhance property   prediction for crystalline materials**|Kishalay Das et.al.|[2301.05852v1](http://arxiv.org/abs/2301.05852v1)|[link](https://github.com/kdmsit/crysgnn)|
 |**2023-01-12 12:39:22**|**Modeling the evolution of temporal knowledge graphs with uncertainty**|Soeren Nolting et.al.|[2301.04977v1](http://arxiv.org/abs/2301.04977v1)|null|
 |**2023-01-12 11:44:36**|**Synchronization transitions on connectome graphs with external force**|Géza Ódor et.al.|[2301.04951v1](http://arxiv.org/abs/2301.04951v1)|null|
-|**2023-01-12 09:44:59**|**Universality of neural dynamics on complex networks**|Vaiva Vasiliauskaite et.al.|[2301.04900v1](http://arxiv.org/abs/2301.04900v1)|null|
-|**2023-01-12 06:49:55**|**LB-SimTSC: An Efficient Similarity-Aware Graph Neural Network for   Semi-Supervised Time Series Classification**|Wenjie Xi et.al.|[2301.04838v2](http://arxiv.org/abs/2301.04838v2)|null|
-|**2023-01-12 06:03:57**|**A Network Science perspective of Graph Convolutional Networks: A survey**|Mingshan Jia et.al.|[2301.04824v1](http://arxiv.org/abs/2301.04824v1)|null|
-|**2023-01-11 22:25:20**|**HADA: A Graph-based Amalgamation Framework in Image-text Retrieval**|Manh-Duy Nguyen et.al.|[2301.04742v1](http://arxiv.org/abs/2301.04742v1)|[link](https://github.com/m2man/hada)|
