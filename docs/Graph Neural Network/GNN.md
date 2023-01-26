@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-25 13:17:46**|**Spatio-Temporal Graph Neural Networks: A Survey**|Zahraa Al Sahili et.al.|[2301.10569v1](http://arxiv.org/abs/2301.10569v1)|null|
+|**2023-01-25 12:02:12**|**Understanding and Improving Deep Graph Neural Networks: A Probabilistic   Graphical Model Perspective**|Jiayuan Chen et.al.|[2301.10536v1](http://arxiv.org/abs/2301.10536v1)|null|
+|**2023-01-25 10:17:07**|**E(n)-equivariant Graph Neural Cellular Automata**|Gennaro Gala et.al.|[2301.10497v1](http://arxiv.org/abs/2301.10497v1)|null|
+|**2023-01-25 08:01:45**|**Knowledge-augmented Graph Neural Networks with Concept-aware Attention   for Adverse Drug Event Detection**|Shaoxiong Ji et.al.|[2301.10451v1](http://arxiv.org/abs/2301.10451v1)|null|
+|**2023-01-25 02:34:01**|**SGCN: Exploiting Compressed-Sparse Features in Deep Graph Convolutional   Network Accelerators**|Mingi Yoo et.al.|[2301.10388v1](http://arxiv.org/abs/2301.10388v1)|null|
 |**2023-01-24 12:01:45**|**Learning To Dive In Branch And Bound**|Max B. Paulus et.al.|[2301.09943v1](http://arxiv.org/abs/2301.09943v1)|null|
 |**2023-01-24 07:56:44**|**Neighborhood Homophily-Guided Graph Convolutional Network**|Shengbo Gong et.al.|[2301.09851v1](http://arxiv.org/abs/2301.09851v1)|null|
 |**2023-01-24 04:43:12**|**Slice-and-Forge: Making Better Use of Caches for Graph Convolutional   Network Accelerators**|Mingi Yoo et.al.|[2301.09813v1](http://arxiv.org/abs/2301.09813v1)|null|
@@ -27,8 +32,3 @@
 |**2023-01-17 03:15:20**|**Artificial intelligence as a gateway to scientific discovery: Uncovering   features in retinal fundus images**|Parsa Delavari et.al.|[2301.06675v1](http://arxiv.org/abs/2301.06675v1)|null|
 |**2023-01-16 22:53:55**|**Diverse Multimedia Layout Generation with Multi Choice Learning**|David D. Nguyen et.al.|[2301.06629v1](http://arxiv.org/abs/2301.06629v1)|null|
 |**2023-01-16 13:19:18**|**Mind the Gap -- Modelling Difference Between Censored and Uncensored   Electric Vehicle Charging Demand**|Frederik Boe Hüttel et.al.|[2301.06418v3](http://arxiv.org/abs/2301.06418v3)|null|
-|**2023-01-16 06:53:18**|**PIGEON: Optimizing CUDA Code Generator for End-to-End Training and   Inference of Relational Graph Neural Networks**|Kun Wu et.al.|[2301.06284v1](http://arxiv.org/abs/2301.06284v1)|null|
-|**2023-01-14 09:15:49**|**A Comprehensive Survey of Graph-level Learning**|Zhenyu Yang et.al.|[2301.05860v1](http://arxiv.org/abs/2301.05860v1)|[link](https://github.com/zhenyuyangmq/awesome-graph-level-learning)|
-|**2023-01-14 08:12:01**|**CrysGNN : Distilling pre-trained knowledge to enhance property   prediction for crystalline materials**|Kishalay Das et.al.|[2301.05852v1](http://arxiv.org/abs/2301.05852v1)|[link](https://github.com/kdmsit/crysgnn)|
-|**2023-01-12 12:39:22**|**Modeling the evolution of temporal knowledge graphs with uncertainty**|Soeren Nolting et.al.|[2301.04977v1](http://arxiv.org/abs/2301.04977v1)|null|
-|**2023-01-12 11:44:36**|**Synchronization transitions on connectome graphs with external force**|Géza Ódor et.al.|[2301.04951v1](http://arxiv.org/abs/2301.04951v1)|null|
