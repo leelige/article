@@ -23,7 +23,7 @@
 |**2023-01-21 02:34:06**|**Logical Message Passing Networks with One-hop Inference on Atomic   Formulas**|Zihao Wang et.al.|[2301.08859v1](http://arxiv.org/abs/2301.08859v1)|null|
 |**2023-01-20 23:57:12**|**Explainable Multilayer Graph Neural Network for Cancer Gene Prediction**|Michail Chatzianastasis et.al.|[2301.08831v1](http://arxiv.org/abs/2301.08831v1)|[link](https://github.com/zhanglab-aim/emgnn)|
 |**2023-01-20 19:20:10**|**DoubleH: Twitter User Stance Detection via Bipartite Graph Neural   Networks**|Chong Zhang et.al.|[2301.08774v1](http://arxiv.org/abs/2301.08774v1)|null|
-|**2023-01-20 12:49:21**|**Flex-Net: A Graph Neural Network Approach to Resource Management in   Flexible Duplex Networks**|Tharaka Perera et.al.|[2301.11166v1](http://arxiv.org/abs/2301.11166v1)|null|
+|**2023-01-20 12:49:21**|**Flex-Net: A Graph Neural Network Approach to Resource Management in   Flexible Duplex Networks**|Tharaka Perera et.al.|[2301.11166v1](http://arxiv.org/abs/2301.11166v1)|[link](https://github.com/tharaka-perera/flex-net)|
 |**2023-01-20 09:54:44**|**Introducing Expertise Logic into Graph Representation Learning from A   Causal Perspective**|Hang Gao et.al.|[2301.08496v1](http://arxiv.org/abs/2301.08496v1)|null|
 |**2023-01-20 05:53:19**|**Defending SDN against packet injection attacks using deep learning**|Anh Tuan Phu et.al.|[2301.08428v1](http://arxiv.org/abs/2301.08428v1)|null|
 |**2023-01-20 02:22:55**|**Who Should I Engage with At What Time? A Missing Event Aware Temporal   Graph Neural Network**|Mingyi Liu et.al.|[2301.08399v1](http://arxiv.org/abs/2301.08399v1)|[link](https://github.com/hit-ices/tnnls-mtgn)|
