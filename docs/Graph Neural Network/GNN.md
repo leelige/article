@@ -2,6 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-27 16:47:10**|**PhysGraph: Physics-Based Integration Using Graph Neural Networks**|Oshri Halimi et.al.|[2301.11841v1](http://arxiv.org/abs/2301.11841v1)|null|
+|**2023-01-27 15:58:18**|**TrojanSAINT: Gate-Level Netlist Sampling-Based Inductive Learning for   Hardware Trojan Detection**|Hazem Lashen et.al.|[2301.11804v1](http://arxiv.org/abs/2301.11804v1)|null|
+|**2023-01-27 15:49:50**|**Graph Attention with Hierarchies for Multi-hop Question Answering**|Yunjie He et.al.|[2301.11792v1](http://arxiv.org/abs/2301.11792v1)|null|
+|**2023-01-27 13:02:19**|**Large-Scale Traffic Data Imputation with Spatiotemporal Semantic   Understanding**|Kunpeng Zhang et.al.|[2301.11691v1](http://arxiv.org/abs/2301.11691v1)|[link](https://github.com/kp-zhang/gt-tdi)|
+|**2023-01-27 09:19:03**|**A Multi-View Joint Learning Framework for Embedding Clinical Codes and   Text Using Graph Neural Networks**|Lecheng Kong et.al.|[2301.11608v1](http://arxiv.org/abs/2301.11608v1)|null|
+|**2023-01-27 03:33:11**|**Task-Agnostic Graph Neural Network Evaluation via Adversarial   Collaboration**|Xiangyu Zhao et.al.|[2301.11517v1](http://arxiv.org/abs/2301.11517v1)|[link](https://github.com/victorzxy/graphac)|
+|**2023-01-26 21:10:26**|**Efficiently predicting high resolution mass spectra with graph neural   networks**|Michael Murphy et.al.|[2301.11419v1](http://arxiv.org/abs/2301.11419v1)|null|
+|**2023-01-26 20:45:30**|**DBGDGM: Dynamic Brain Graph Deep Generative Model**|Alexander Campbell et.al.|[2301.11408v1](http://arxiv.org/abs/2301.11408v1)|null|
+|**2023-01-26 19:44:45**|**MG-GNN: Multigrid Graph Neural Networks for Learning Multilevel Domain   Decomposition Methods**|Ali Taghibakhshi et.al.|[2301.11378v1](http://arxiv.org/abs/2301.11378v1)|[link](https://github.com/jrd971000/code-multilevel-mloras)|
 |**2023-01-26 15:08:42**|**A Graph Neural Network with Negative Message Passing for Graph Coloring**|Xiangyu Wang et.al.|[2301.11164v1](http://arxiv.org/abs/2301.11164v1)|null|
 |**2023-01-26 11:29:36**|**WL meet VC**|Christopher Morris et.al.|[2301.11039v1](http://arxiv.org/abs/2301.11039v1)|[link](https://github.com/chrsmrrs/wl_vs_vs)|
 |**2023-01-26 08:59:15**|**PerfSAGE: Generalized Inference Performance Predictor for Arbitrary Deep   Learning Models on Edge Devices**|Yuji Chai et.al.|[2301.10999v1](http://arxiv.org/abs/2301.10999v1)|null|
@@ -23,12 +32,3 @@
 |**2023-01-21 02:34:06**|**Logical Message Passing Networks with One-hop Inference on Atomic   Formulas**|Zihao Wang et.al.|[2301.08859v1](http://arxiv.org/abs/2301.08859v1)|null|
 |**2023-01-20 23:57:12**|**Explainable Multilayer Graph Neural Network for Cancer Gene Prediction**|Michail Chatzianastasis et.al.|[2301.08831v1](http://arxiv.org/abs/2301.08831v1)|[link](https://github.com/zhanglab-aim/emgnn)|
 |**2023-01-20 19:20:10**|**DoubleH: Twitter User Stance Detection via Bipartite Graph Neural   Networks**|Chong Zhang et.al.|[2301.08774v1](http://arxiv.org/abs/2301.08774v1)|null|
-|**2023-01-20 12:49:21**|**Flex-Net: A Graph Neural Network Approach to Resource Management in   Flexible Duplex Networks**|Tharaka Perera et.al.|[2301.11166v1](http://arxiv.org/abs/2301.11166v1)|[link](https://github.com/tharaka-perera/flex-net)|
-|**2023-01-20 09:54:44**|**Introducing Expertise Logic into Graph Representation Learning from A   Causal Perspective**|Hang Gao et.al.|[2301.08496v1](http://arxiv.org/abs/2301.08496v1)|null|
-|**2023-01-20 05:53:19**|**Defending SDN against packet injection attacks using deep learning**|Anh Tuan Phu et.al.|[2301.08428v1](http://arxiv.org/abs/2301.08428v1)|null|
-|**2023-01-20 02:22:55**|**Who Should I Engage with At What Time? A Missing Event Aware Temporal   Graph Neural Network**|Mingyi Liu et.al.|[2301.08399v1](http://arxiv.org/abs/2301.08399v1)|[link](https://github.com/hit-ices/tnnls-mtgn)|
-|**2023-01-19 18:09:43**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
-|**2023-01-19 18:00:51**|**GIPA++: A General Information Propagation Algorithm for Graph Learning**|Houyi Li et.al.|[2301.08209v1](http://arxiv.org/abs/2301.08209v1)|null|
-|**2023-01-19 08:42:40**|**PDFormer: Propagation Delay-aware Dynamic Long-range Transformer for   Traffic Flow Prediction**|Jiawei Jiang et.al.|[2301.07945v1](http://arxiv.org/abs/2301.07945v1)|[link](https://github.com/BUAABIGSCity/PDFormer)|
-|**2023-01-18 23:35:37**|**GrAVITree: Graph-based Approximate Value Function In a Tree**|Patrick H. Washington et.al.|[2301.07822v1](http://arxiv.org/abs/2301.07822v1)|null|
-|**2023-01-18 16:29:05**|**A Comparative Analysis of Bias Amplification in Graph Neural Network   Approaches for Recommender Systems**|Nikzad Chizari et.al.|[2301.07639v1](http://arxiv.org/abs/2301.07639v1)|null|
