@@ -2,33 +2,33 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-30 17:02:23**|**Zero-One Laws of Graph Neural Networks**|Sam Adam-Day et.al.|[2301.13060v1](http://arxiv.org/abs/2301.13060v1)|null|
+|**2023-01-30 15:29:51**|**Graph Neural Network Framework for Security Assessment Informed by   Topological Measures**|Mojtaba Dezvarei et.al.|[2301.12988v1](http://arxiv.org/abs/2301.12988v1)|null|
+|**2023-01-30 14:52:23**|**On the Interaction between Node Fairness and Edge Privacy in Graph   Neural Networks**|He Zhang et.al.|[2301.12951v1](http://arxiv.org/abs/2301.12951v1)|null|
+|**2023-01-30 14:02:33**|**DepGraph: Towards Any Structural Pruning**|Gongfan Fang et.al.|[2301.12900v1](http://arxiv.org/abs/2301.12900v1)|null|
+|**2023-01-30 12:59:09**|**Finding the Law: Enhancing Statutory Article Retrieval via Graph Neural   Networks**|Antoine Louis et.al.|[2301.12847v1](http://arxiv.org/abs/2301.12847v1)|[link](https://github.com/maastrichtlawtech/gdsr)|
+|**2023-01-30 10:16:40**|**Causality-based CTR Prediction using Graph Neural Networks**|Panyu Zhai et.al.|[2301.12762v1](http://arxiv.org/abs/2301.12762v1)|null|
+|**2023-01-30 08:21:18**|**Automatic Intersection Management in Mixed Traffic Using Reinforcement   Learning and Graph Neural Networks**|Marvin Klimke et.al.|[2301.12717v1](http://arxiv.org/abs/2301.12717v1)|null|
+|**2023-01-30 07:02:44**|**Neural-FEBI: Accurate Function Identification in Ethereum Virtual   Machine Bytecode**|Jiahao He et.al.|[2301.12695v1](http://arxiv.org/abs/2301.12695v1)|null|
+|**2023-01-30 03:43:54**|**Graph rules for recurrent neural network dynamics: extended version**|Carina Curto et.al.|[2301.12638v1](http://arxiv.org/abs/2301.12638v1)|null|
+|**2023-01-30 01:38:49**|**Traffic Prediction in Cellular Networks using Graph Neural Networks**|Maryam Khalid et.al.|[2301.12605v1](http://arxiv.org/abs/2301.12605v1)|null|
+|**2023-01-30 01:30:04**|**Do We Really Need Graph Neural Networks for Traffic Forecasting?**|Xu Liu et.al.|[2301.12603v1](http://arxiv.org/abs/2301.12603v1)|null|
+|**2023-01-29 22:20:51**|**Simplifying Subgraph Representation Learning for Scalable Link   Prediction**|Paul Louis et.al.|[2301.12562v1](http://arxiv.org/abs/2301.12562v1)|null|
+|**2023-01-29 19:23:01**|**3D Object Detection in LiDAR Point Clouds using Graph Neural Networks**|Shreelakshmi C R et.al.|[2301.12519v1](http://arxiv.org/abs/2301.12519v1)|null|
+|**2023-01-29 15:42:37**|**Maximising Weather Forecasting Accuracy through the Utilisation of Graph   Neural Networks and Dynamic GNNs**|Gaganpreet Singh et.al.|[2301.12471v1](http://arxiv.org/abs/2301.12471v1)|null|
+|**2023-01-29 09:24:16**|**Permanence based Hidden Community and Graph Recovery in Social Networks**|Jaeyoung Choi et.al.|[2301.12398v1](http://arxiv.org/abs/2301.12398v1)|null|
+|**2023-01-29 04:17:32**|**Semantics-enhanced Temporal Graph Networks for Content Caching and   Energy Saving**|Jianhang Zhu et.al.|[2301.12355v1](http://arxiv.org/abs/2301.12355v1)|null|
+|**2023-01-29 04:08:17**|**Encoding Node Diffusion Competence and Role Significance for Network   Dismantling**|Jiazheng Zhang et.al.|[2301.12349v1](http://arxiv.org/abs/2301.12349v1)|null|
+|**2023-01-28 19:24:03**|**Node Injection for Class-specific Network Poisoning**|Ansh Kumar Sharma et.al.|[2301.12277v1](http://arxiv.org/abs/2301.12277v1)|null|
+|**2023-01-28 15:03:03**|**Machine Learning Methods for Cancer Classification Using Gene Expression   Data: A Review**|Fadi Alharbi et.al.|[2301.12222v1](http://arxiv.org/abs/2301.12222v1)|null|
+|**2023-01-28 14:32:14**|**Neural Temporal Point Process for Forecasting Higher Order and   Directional Interactions**|Tony Gracious et.al.|[2301.12210v1](http://arxiv.org/abs/2301.12210v1)|null|
+|**2023-01-28 10:27:53**|**Layout-aware Webpage Quality Assessment**|Anfeng Cheng et.al.|[2301.12152v1](http://arxiv.org/abs/2301.12152v1)|null|
+|**2023-01-28 03:03:22**|**RCsearcher: Reaction Center Identification in Retrosynthesis via Deep   Q-Learning**|Zixun Lan et.al.|[2301.12071v1](http://arxiv.org/abs/2301.12071v1)|null|
+|**2023-01-28 02:27:47**|**Potential energy surface prediction of Alumina polymorphs using graph   neural network**|Soumya Sanyal et.al.|[2301.12059v1](http://arxiv.org/abs/2301.12059v1)|null|
+|**2023-01-27 19:15:31**|**On the Connection Between MPNN and Graph Transformer**|Chen Cai et.al.|[2301.11956v1](http://arxiv.org/abs/2301.11956v1)|null|
 |**2023-01-27 16:47:10**|**PhysGraph: Physics-Based Integration Using Graph Neural Networks**|Oshri Halimi et.al.|[2301.11841v1](http://arxiv.org/abs/2301.11841v1)|null|
 |**2023-01-27 15:58:18**|**TrojanSAINT: Gate-Level Netlist Sampling-Based Inductive Learning for   Hardware Trojan Detection**|Hazem Lashen et.al.|[2301.11804v1](http://arxiv.org/abs/2301.11804v1)|null|
 |**2023-01-27 15:49:50**|**Graph Attention with Hierarchies for Multi-hop Question Answering**|Yunjie He et.al.|[2301.11792v1](http://arxiv.org/abs/2301.11792v1)|null|
 |**2023-01-27 13:02:19**|**Large-Scale Traffic Data Imputation with Spatiotemporal Semantic   Understanding**|Kunpeng Zhang et.al.|[2301.11691v1](http://arxiv.org/abs/2301.11691v1)|[link](https://github.com/kp-zhang/gt-tdi)|
+|**2023-01-27 12:08:44**|**SplitGNN: Splitting GNN for Node Classification with Heterogeneous   Attention**|Xiaolong Xu et.al.|[2301.12885v1](http://arxiv.org/abs/2301.12885v1)|null|
 |**2023-01-27 09:19:03**|**A Multi-View Joint Learning Framework for Embedding Clinical Codes and   Text Using Graph Neural Networks**|Lecheng Kong et.al.|[2301.11608v1](http://arxiv.org/abs/2301.11608v1)|null|
-|**2023-01-27 03:33:11**|**Task-Agnostic Graph Neural Network Evaluation via Adversarial   Collaboration**|Xiangyu Zhao et.al.|[2301.11517v1](http://arxiv.org/abs/2301.11517v1)|[link](https://github.com/victorzxy/graphac)|
-|**2023-01-26 21:10:26**|**Efficiently predicting high resolution mass spectra with graph neural   networks**|Michael Murphy et.al.|[2301.11419v1](http://arxiv.org/abs/2301.11419v1)|null|
-|**2023-01-26 20:45:30**|**DBGDGM: Dynamic Brain Graph Deep Generative Model**|Alexander Campbell et.al.|[2301.11408v1](http://arxiv.org/abs/2301.11408v1)|null|
-|**2023-01-26 19:44:45**|**MG-GNN: Multigrid Graph Neural Networks for Learning Multilevel Domain   Decomposition Methods**|Ali Taghibakhshi et.al.|[2301.11378v1](http://arxiv.org/abs/2301.11378v1)|[link](https://github.com/jrd971000/code-multilevel-mloras)|
-|**2023-01-26 15:08:42**|**A Graph Neural Network with Negative Message Passing for Graph Coloring**|Xiangyu Wang et.al.|[2301.11164v1](http://arxiv.org/abs/2301.11164v1)|null|
-|**2023-01-26 11:29:36**|**WL meet VC**|Christopher Morris et.al.|[2301.11039v1](http://arxiv.org/abs/2301.11039v1)|[link](https://github.com/chrsmrrs/wl_vs_vs)|
-|**2023-01-26 08:59:15**|**PerfSAGE: Generalized Inference Performance Predictor for Arbitrary Deep   Learning Models on Edge Devices**|Yuji Chai et.al.|[2301.10999v1](http://arxiv.org/abs/2301.10999v1)|null|
-|**2023-01-26 06:28:41**|**Graph Neural Networks can Recover the Hidden Features Solely from the   Graph Structure**|Ryoma Sato et.al.|[2301.10956v1](http://arxiv.org/abs/2301.10956v1)|null|
-|**2023-01-25 19:52:58**|**Graph Neural Tangent Kernel: Convergence on Large Graphs**|Sanjukta Krishnagopal et.al.|[2301.10808v1](http://arxiv.org/abs/2301.10808v1)|null|
-|**2023-01-25 13:17:46**|**Spatio-Temporal Graph Neural Networks: A Survey**|Zahraa Al Sahili et.al.|[2301.10569v1](http://arxiv.org/abs/2301.10569v1)|null|
-|**2023-01-25 12:02:12**|**Understanding and Improving Deep Graph Neural Networks: A Probabilistic   Graphical Model Perspective**|Jiayuan Chen et.al.|[2301.10536v1](http://arxiv.org/abs/2301.10536v1)|null|
-|**2023-01-25 10:17:07**|**E(n)-equivariant Graph Neural Cellular Automata**|Gennaro Gala et.al.|[2301.10497v1](http://arxiv.org/abs/2301.10497v1)|[link](https://github.com/gengala/egnca)|
-|**2023-01-25 08:01:45**|**Knowledge-augmented Graph Neural Networks with Concept-aware Attention   for Adverse Drug Event Detection**|Shaoxiong Ji et.al.|[2301.10451v1](http://arxiv.org/abs/2301.10451v1)|null|
-|**2023-01-25 02:34:01**|**SGCN: Exploiting Compressed-Sparse Features in Deep Graph Convolutional   Network Accelerators**|Mingi Yoo et.al.|[2301.10388v1](http://arxiv.org/abs/2301.10388v1)|null|
-|**2023-01-24 12:01:45**|**Learning To Dive In Branch And Bound**|Max B. Paulus et.al.|[2301.09943v1](http://arxiv.org/abs/2301.09943v1)|null|
-|**2023-01-24 07:56:44**|**Neighborhood Homophily-Guided Graph Convolutional Network**|Shengbo Gong et.al.|[2301.09851v1](http://arxiv.org/abs/2301.09851v1)|null|
-|**2023-01-24 04:43:12**|**Slice-and-Forge: Making Better Use of Caches for Graph Convolutional   Network Accelerators**|Mingi Yoo et.al.|[2301.09813v1](http://arxiv.org/abs/2301.09813v1)|null|
-|**2023-01-23 19:35:59**|**Graph Neural Networks for Decentralized Multi-Agent Perimeter Defense**|Elijah S. Lee et.al.|[2301.09689v1](http://arxiv.org/abs/2301.09689v1)|null|
-|**2023-01-23 15:58:59**|**Rethinking the Expressive Power of GNNs via Graph Biconnectivity**|Bohang Zhang et.al.|[2301.09505v1](http://arxiv.org/abs/2301.09505v1)|null|
-|**2023-01-23 08:08:10**|**On the Expressive Power of Geometric Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2301.09308v1](http://arxiv.org/abs/2301.09308v1)|[link](https://github.com/chaitjo/geometric-gnn-dojo)|
-|**2023-01-22 01:50:10**|**Graph Convolutional Neural Networks for Optimal Power Flow Locational   Marginal Price**|Adrian-Petru Surani et.al.|[2301.09038v1](http://arxiv.org/abs/2301.09038v1)|null|
-|**2023-01-21 08:47:22**|**Is Signed Message Essential for Graph Neural Networks?**|Yoonhyuk Choi et.al.|[2301.08918v1](http://arxiv.org/abs/2301.08918v1)|null|
-|**2023-01-21 02:34:06**|**Logical Message Passing Networks with One-hop Inference on Atomic   Formulas**|Zihao Wang et.al.|[2301.08859v1](http://arxiv.org/abs/2301.08859v1)|null|
-|**2023-01-20 23:57:12**|**Explainable Multilayer Graph Neural Network for Cancer Gene Prediction**|Michail Chatzianastasis et.al.|[2301.08831v1](http://arxiv.org/abs/2301.08831v1)|[link](https://github.com/zhanglab-aim/emgnn)|
-|**2023-01-20 19:20:10**|**DoubleH: Twitter User Stance Detection via Bipartite Graph Neural   Networks**|Chong Zhang et.al.|[2301.08774v1](http://arxiv.org/abs/2301.08774v1)|null|
