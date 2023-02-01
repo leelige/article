@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-31 08:56:40**|**An investigation of challenges encountered when specifying training data   and runtime monitors for safety critical ML applications**|Hans-Martin Heyn et.al.|[2301.13476v1](http://arxiv.org/abs/2301.13476v1)|null|
 |**2023-01-30 01:32:17**|**Using cluster analysis on municipal statistical data to configure public   policies about Water, Sanitation and Hygiene in Venezuela**|Saul E. Buitrago-Boret et.al.|[2301.12604v1](http://arxiv.org/abs/2301.12604v1)|null|
 |**2023-01-27 07:59:31**|**Down the Rabbit Hole: Detecting Online Extremism, Radicalisation, and   Politicised Hate Speech**|Jarod Govers et.al.|[2301.11579v1](http://arxiv.org/abs/2301.11579v1)|null|
 |**2023-01-24 13:26:42**|**Bridging Systems: Open Problems for Countering Destructive Divisiveness   across Ranking, Recommenders, and Governance**|Aviv Ovadya et.al.|[2301.09976v1](http://arxiv.org/abs/2301.09976v1)|null|
@@ -10,7 +11,7 @@
 |**2023-01-19 05:02:55**|**Unposed: Unsupervised Pose Estimation based Product Image   Recommendations**|Saurabh Sharma et.al.|[2301.07879v1](http://arxiv.org/abs/2301.07879v1)|null|
 |**2023-01-17 17:49:04**|**Optimal Algorithms for Latent Bandits with Cluster Structure**|Soumyabrata Pal et.al.|[2301.07040v1](http://arxiv.org/abs/2301.07040v1)|null|
 |**2023-01-16 10:49:39**|**A First Look at the JWST MIRI/LRS Phase Curve of WASP-43b**|Taylor J. Bell et.al.|[2301.06350v1](http://arxiv.org/abs/2301.06350v1)|null|
-|**2023-01-13 08:24:21**|**Automated speech- and text-based classification of neuropsychiatric   conditions in a multidiagnostic setting**|Lasse Hansen et.al.|[2301.06916v1](http://arxiv.org/abs/2301.06916v1)|null|
+|**2023-01-13 08:24:21**|**Automated speech- and text-based classification of neuropsychiatric   conditions in a multidiagnostic setting**|Lasse Hansen et.al.|[2301.06916v2](http://arxiv.org/abs/2301.06916v2)|null|
 |**2023-01-13 03:30:22**|**Benefits and Limitations of Remote Work to LGBTQIA+ Software   Professionals**|Ronnie de Souza Santos et.al.|[2301.05379v1](http://arxiv.org/abs/2301.05379v1)|null|
 |**2023-01-12 13:15:24**|**Against Algorithmic Exploitation of Human Vulnerabilities**|Inga Strümke et.al.|[2301.04993v1](http://arxiv.org/abs/2301.04993v1)|null|
 |**2023-01-06 13:12:59**|**Adaptive Pattern Extraction Multi-Task Learning for Multi-Step   Conversion Estimations**|Xuewen Tao et.al.|[2301.02494v3](http://arxiv.org/abs/2301.02494v3)|null|
@@ -31,4 +32,3 @@
 |**2022-12-10 04:49:50**|**You Are What You Eat: A Preference-Aware Inverse Optimization Approach**|Farzin Ahmadi et.al.|[2212.05201v1](http://arxiv.org/abs/2212.05201v1)|null|
 |**2022-12-08 18:54:15**|**A Survey of Graph Neural Networks for Social Recommender Systems**|Kartik Sharma et.al.|[2212.04481v2](http://arxiv.org/abs/2212.04481v2)|[link](https://github.com/claws-lab/awesome-gnn-social-recsys)|
 |**2022-12-07 16:52:54**|**Leveraging Priority Thresholds to Improve Equitable Housing Access for   Unhoused-at-Risk Youth**|Yaren Bilge Kaya et.al.|[2212.03777v1](http://arxiv.org/abs/2212.03777v1)|null|
-|**2022-12-07 04:28:26**|**"just like therapy!": Investigating the Potential of Storytelling in   Online Postpartum Depression Communities**|Farhat Tasnim Progga et.al.|[2212.03452v1](http://arxiv.org/abs/2212.03452v1)|null|
