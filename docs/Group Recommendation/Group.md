@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-01 18:59:02**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
+|**2023-02-01 00:35:35**|**Fairness-aware Cross-Domain Recommendation**|Jiakai Tang et.al.|[2302.00158v1](http://arxiv.org/abs/2302.00158v1)|null|
 |**2023-01-31 08:56:40**|**An investigation of challenges encountered when specifying training data   and runtime monitors for safety critical ML applications**|Hans-Martin Heyn et.al.|[2301.13476v1](http://arxiv.org/abs/2301.13476v1)|null|
 |**2023-01-30 01:32:17**|**Using cluster analysis on municipal statistical data to configure public   policies about Water, Sanitation and Hygiene in Venezuela**|Saul E. Buitrago-Boret et.al.|[2301.12604v1](http://arxiv.org/abs/2301.12604v1)|null|
 |**2023-01-27 07:59:31**|**Down the Rabbit Hole: Detecting Online Extremism, Radicalisation, and   Politicised Hate Speech**|Jarod Govers et.al.|[2301.11579v1](http://arxiv.org/abs/2301.11579v1)|null|
@@ -30,5 +32,3 @@
 |**2022-12-15 22:04:27**|**Inferring Cultural Landscapes with the Inverse Ising Model**|Victor Møller Poulsen et.al.|[2212.08168v1](http://arxiv.org/abs/2212.08168v1)|[link](https://github.com/victor-m-p/humanities-glass)|
 |**2022-12-13 08:57:42**|**Survey on social reputation mechanisms: Someone told me I can trust you**|Thomas Werthenbach et.al.|[2212.06436v1](http://arxiv.org/abs/2212.06436v1)|null|
 |**2022-12-10 04:49:50**|**You Are What You Eat: A Preference-Aware Inverse Optimization Approach**|Farzin Ahmadi et.al.|[2212.05201v1](http://arxiv.org/abs/2212.05201v1)|null|
-|**2022-12-08 18:54:15**|**A Survey of Graph Neural Networks for Social Recommender Systems**|Kartik Sharma et.al.|[2212.04481v2](http://arxiv.org/abs/2212.04481v2)|[link](https://github.com/claws-lab/awesome-gnn-social-recsys)|
-|**2022-12-07 16:52:54**|**Leveraging Priority Thresholds to Improve Equitable Housing Access for   Unhoused-at-Risk Youth**|Yaren Bilge Kaya et.al.|[2212.03777v1](http://arxiv.org/abs/2212.03777v1)|null|
