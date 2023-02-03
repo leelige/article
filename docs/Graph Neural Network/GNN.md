@@ -2,6 +2,19 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-02 18:39:30**|**Double Permutation Equivariance for Knowledge Graph Completion**|Jianfei Gao et.al.|[2302.01313v1](http://arxiv.org/abs/2302.01313v1)|null|
+|**2023-02-02 17:45:02**|**Geometric Deep Learning for Autonomous Driving: Unlocking the Power of   Graph Neural Networks With CommonRoad-Geometric**|Eivind Meyer et.al.|[2302.01259v1](http://arxiv.org/abs/2302.01259v1)|null|
+|**2023-02-02 11:12:51**|**Graph Neural Networks for temporal graphs: State of the art, open   challenges, and opportunities**|Antonio Longa et.al.|[2302.01018v1](http://arxiv.org/abs/2302.01018v1)|null|
+|**2023-02-02 10:00:46**|**Predicting Molecule-Target Interaction by Learning Biomedical Network   and Molecule Representations**|Jinjiang Guo et.al.|[2302.00981v1](http://arxiv.org/abs/2302.00981v1)|null|
+|**2023-02-02 07:52:34**|**LMC: Fast Training of GNNs via Subgraph Sampling with Provable   Convergence**|Zhihao Shi et.al.|[2302.00924v1](http://arxiv.org/abs/2302.00924v1)|null|
+|**2023-02-02 05:53:31**|**Quantum Graph Learning: Frontiers and Outlook**|Shuo Yu et.al.|[2302.00892v1](http://arxiv.org/abs/2302.00892v1)|null|
+|**2023-02-02 05:45:09**|**Neural Common Neighbor with Completion for Link Prediction**|Xiyuan Wang et.al.|[2302.00890v1](http://arxiv.org/abs/2302.00890v1)|null|
+|**2023-02-02 04:46:21**|**Predicting the Silent Majority on Graphs: Knowledge Transferable Graph   Neural Network**|Wendong Bi et.al.|[2302.00873v1](http://arxiv.org/abs/2302.00873v1)|null|
+|**2023-02-02 03:49:57**|**Molecular Geometry-aware Transformer for accurate 3D Atomic System   modeling**|Zheng Yuan et.al.|[2302.00855v1](http://arxiv.org/abs/2302.00855v1)|null|
+|**2023-02-02 03:25:04**|**Causal Effect Estimation: Recent Advances, Challenges, and Opportunities**|Zhixuan Chu et.al.|[2302.00848v1](http://arxiv.org/abs/2302.00848v1)|null|
+|**2023-02-01 20:03:47**|**MTP-GO: Graph-Based Probabilistic Multi-Agent Trajectory Prediction with   Neural ODEs**|Theodor Westny et.al.|[2302.00735v1](http://arxiv.org/abs/2302.00735v1)|null|
+|**2023-02-01 19:13:27**|**The Weisfeiler-Lehman Distance: Reinterpretation and Connection with   GNNs**|Samantha Chen et.al.|[2302.00713v1](http://arxiv.org/abs/2302.00713v1)|null|
+|**2023-02-01 19:08:16**|**Blume-Emery-Griffiths model on Random Graphs**|R. Erichsen Jr. et.al.|[2302.00712v1](http://arxiv.org/abs/2302.00712v1)|null|
 |**2023-02-01 18:32:06**|**Graph Neural Operators for Classification of Spatial Transcriptomics   Data**|Junaid Ahmed et.al.|[2302.00658v1](http://arxiv.org/abs/2302.00658v1)|null|
 |**2023-02-01 17:52:40**|**Deep Dependency Networks for Multi-Label Classification**|Shivvrat Arya et.al.|[2302.00633v1](http://arxiv.org/abs/2302.00633v1)|null|
 |**2023-02-01 16:23:29**|**Graph Neural Network Based Surrogate Model of Physics Simulations for   Geometry Design**|Jian Cheng Wong et.al.|[2302.00557v1](http://arxiv.org/abs/2302.00557v1)|null|
@@ -19,16 +32,3 @@
 |**2023-01-31 14:38:33**|**Reinforcement learning and decision making via single-photon quantum   walks**|Fulvio Flamini et.al.|[2301.13669v1](http://arxiv.org/abs/2301.13669v1)|null|
 |**2023-01-31 13:42:36**|**DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising   Diffusion Models**|Haomin Wen et.al.|[2301.13629v1](http://arxiv.org/abs/2301.13629v1)|null|
 |**2023-01-31 12:05:31**|**DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using   Classifiers Learned on Graphs**|Hanna Kim et.al.|[2301.13577v1](http://arxiv.org/abs/2301.13577v1)|null|
-|**2023-01-31 10:07:23**|**Recurrences reveal shared causal drivers of complex time series**|William Gilpin et.al.|[2301.13516v1](http://arxiv.org/abs/2301.13516v1)|[link](https://github.com/williamgilpin/shrec)|
-|**2023-01-31 09:17:13**|**Company-as-Tribe: Company Financial Risk Assessment on Tribe-Style Graph   with Hierarchical Graph Neural Networks**|Wendong Bi et.al.|[2301.13492v1](http://arxiv.org/abs/2301.13492v1)|[link](https://github.com/wendongbi/th-gnn)|
-|**2023-01-31 01:26:17**|**Skeleton-based Human Action Recognition via Convolutional Neural   Networks (CNN)**|Ayman Ali et.al.|[2301.13360v1](http://arxiv.org/abs/2301.13360v1)|null|
-|**2023-01-30 20:42:06**|**Learning Coordination Policies over Heterogeneous Graphs for Human-Robot   Teams via Recurrent Neural Schedule Propagation**|Batuhan Altundas et.al.|[2301.13279v1](http://arxiv.org/abs/2301.13279v1)|[link](https://github.com/altundasbatu/HybridNet_IROS2022)|
-|**2023-01-30 17:02:23**|**Zero-One Laws of Graph Neural Networks**|Sam Adam-Day et.al.|[2301.13060v1](http://arxiv.org/abs/2301.13060v1)|null|
-|**2023-01-30 15:29:51**|**Graph Neural Network Framework for Security Assessment Informed by   Topological Measures**|Mojtaba Dezvarei et.al.|[2301.12988v1](http://arxiv.org/abs/2301.12988v1)|null|
-|**2023-01-30 14:52:23**|**On the Interaction between Node Fairness and Edge Privacy in Graph   Neural Networks**|He Zhang et.al.|[2301.12951v1](http://arxiv.org/abs/2301.12951v1)|null|
-|**2023-01-30 14:02:33**|**DepGraph: Towards Any Structural Pruning**|Gongfan Fang et.al.|[2301.12900v1](http://arxiv.org/abs/2301.12900v1)|[link](https://github.com/VainF/Torch-Pruning)|
-|**2023-01-30 12:59:09**|**Finding the Law: Enhancing Statutory Article Retrieval via Graph Neural   Networks**|Antoine Louis et.al.|[2301.12847v1](http://arxiv.org/abs/2301.12847v1)|[link](https://github.com/maastrichtlawtech/gdsr)|
-|**2023-01-30 10:16:40**|**Causality-based CTR Prediction using Graph Neural Networks**|Panyu Zhai et.al.|[2301.12762v1](http://arxiv.org/abs/2301.12762v1)|null|
-|**2023-01-30 08:21:18**|**Automatic Intersection Management in Mixed Traffic Using Reinforcement   Learning and Graph Neural Networks**|Marvin Klimke et.al.|[2301.12717v1](http://arxiv.org/abs/2301.12717v1)|null|
-|**2023-01-30 07:02:44**|**Neural-FEBI: Accurate Function Identification in Ethereum Virtual   Machine Bytecode**|Jiahao He et.al.|[2301.12695v2](http://arxiv.org/abs/2301.12695v2)|null|
-|**2023-01-30 03:43:54**|**Graph rules for recurrent neural network dynamics: extended version**|Carina Curto et.al.|[2301.12638v1](http://arxiv.org/abs/2301.12638v1)|null|
