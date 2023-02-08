@@ -1,15 +1,27 @@
 # arxiv-daily
- 自动更新 @ 2023-02-07 16:08:44 Asia/Shanghai
+ 自动更新 @ 2023-02-08 16:08:44 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-02-06 17:30:22**|**GPS++: Reviving the Art of Message Passing for Molecular Property   Prediction**|Dominic Masters et.al.|[2302.02947v1](http://arxiv.org/abs/2302.02947v1)|null|
+|**2023-02-07 18:16:13**|**Reducing SO(3) Convolutions to SO(2) for Efficient Equivariant GNNs**|Saro Passaro et.al.|[2302.03655v1](http://arxiv.org/abs/2302.03655v1)|null|
+|**2023-02-07 16:45:52**|**Multi-Scale Message Passing Neural PDE Solvers**|Léonard Equer et.al.|[2302.03580v1](http://arxiv.org/abs/2302.03580v1)|null|
+|**2023-02-07 11:52:47**|**Just-in-Time Code Duplicates Extraction**|Eman Abdullah AlOmar et.al.|[2302.03416v1](http://arxiv.org/abs/2302.03416v1)|null|
+|**2023-02-07 09:36:19**|**Deep Learning Applications to Particle Physics: from Monte Carlo   simulation acceleration to ProtoDUNE reconstruction**|Marco Rossi et.al.|[2302.03343v1](http://arxiv.org/abs/2302.03343v1)|null|
+|**2023-02-07 08:53:55**|**Machine-Learning Accelerated Annealing with Fitting-Search Style for   Multi-alloy Structure Predictions**|Chuannan Li et.al.|[2302.03321v1](http://arxiv.org/abs/2302.03321v1)|null|
+|**2023-02-07 07:06:02**|**Scalable Gaussian process regression enables accurate prediction of   protein and small molecule properties with uncertainty quantitation**|Jonathan Parkinson et.al.|[2302.03294v1](http://arxiv.org/abs/2302.03294v1)|[link](https://github.com/jlparkI/benchmarking_xGPR)|
+|**2023-02-07 05:32:11**|**Learning to Count Isomorphisms with Graph Neural Networks**|Xingtong Yu et.al.|[2302.03266v1](http://arxiv.org/abs/2302.03266v1)|null|
+|**2023-02-07 03:24:55**|**Optimal Control of Granular Material**|Yuichiro Aoyama et.al.|[2302.03231v1](http://arxiv.org/abs/2302.03231v1)|null|
+|**2023-02-07 03:21:55**|**Heterophily-Aware Graph Attention Network**|Junfu Wang et.al.|[2302.03228v1](http://arxiv.org/abs/2302.03228v1)|null|
+|**2023-02-07 02:27:21**|**An entity-guided text summarization framework with relational   heterogeneous graph neural network**|Jingqiang Chen et.al.|[2302.03205v1](http://arxiv.org/abs/2302.03205v1)|[link](https://github.com/jingqiangchen/kbsumm)|
+|**2023-02-07 00:45:05**|**Nonlinear Causal Discovery with Confounders**|Chunlin Li et.al.|[2302.03178v1](http://arxiv.org/abs/2302.03178v1)|[link](https://github.com/chunlinli/defuse)|
+|**2023-02-06 17:30:22**|**GPS++: Reviving the Art of Message Passing for Molecular Property   Prediction**|Dominic Masters et.al.|[2302.02947v1](http://arxiv.org/abs/2302.02947v1)|[link](https://github.com/graphcore/ogb-lsc-pcqm4mv2)|
 |**2023-02-06 17:16:42**|**On Over-Squashing in Message Passing Neural Networks: The Impact of   Width, Depth, and Topology**|Francesco Di Giovanni et.al.|[2302.02941v1](http://arxiv.org/abs/2302.02941v1)|null|
 |**2023-02-06 16:54:20**|**Joint Edge-Model Sparse Learning is Provably Efficient for Graph Neural   Networks**|Shuai Zhang et.al.|[2302.02922v1](http://arxiv.org/abs/2302.02922v1)|null|
 |**2023-02-06 16:38:43**|**Energy-based Out-of-Distribution Detection for Graph Neural Networks**|Qitian Wu et.al.|[2302.02914v1](http://arxiv.org/abs/2302.02914v1)|[link](https://github.com/qitianwu/graphood-gnnsafe)|
+|**2023-02-06 16:07:36**|**Dynamic Training of Liquid State Machines**|Pavithra Koralalage et.al.|[2302.03506v1](http://arxiv.org/abs/2302.03506v1)|null|
 |**2023-02-06 15:45:20**|**Graph Neural Networks for Joint Communication and Sensing Optimization   in Vehicular Networks**|Xuefei Li et.al.|[2302.02878v1](http://arxiv.org/abs/2302.02878v1)|null|
 |**2023-02-06 14:46:51**|**Collective Robustness Certificates: Exploiting Interdependence in Graph   Neural Networks**|Jan Schuchardt et.al.|[2302.02829v1](http://arxiv.org/abs/2302.02829v1)|null|
 |**2023-02-06 07:03:02**|**Clarifying Trust of Materials Property Predictions using Neural Networks   with Distribution-Specific Uncertainty Quantification**|Cameron Gruich et.al.|[2302.02595v1](http://arxiv.org/abs/2302.02595v1)|null|
@@ -24,24 +36,15 @@
 |**2023-02-04 01:27:01**|**Multivariate Time Series Anomaly Detection via Dynamic Graph Forecasting**|Katrina Chen et.al.|[2302.02051v1](http://arxiv.org/abs/2302.02051v1)|null|
 |**2023-02-03 21:56:32**|**Improving Interpretability via Explicit Word Interaction Graph Layer**|Arshdeep Sekhon et.al.|[2302.02016v1](http://arxiv.org/abs/2302.02016v1)|[link](https://github.com/qdata/wigraph)|
 |**2023-02-03 20:17:45**|**Hierarchical Graph Neural Networks for Causal Discovery and Root Cause   Localization**|Dongjie Wang et.al.|[2302.01987v1](http://arxiv.org/abs/2302.01987v1)|null|
-|**2023-02-03 16:37:08**|**A Case Study for Compliance as Code with Graphs and Language Models:   Public release of the Regulatory Knowledge Graph**|Vladimir Ershov et.al.|[2302.01842v1](http://arxiv.org/abs/2302.01842v1)|[link](https://github.com/vladimir-ershov/adgm-kg1)|
-|**2023-02-03 16:02:33**|**Graph Embedding for Mapping Interdisciplinary Research Networks**|Eoghan Cunningham et.al.|[2302.01826v1](http://arxiv.org/abs/2302.01826v1)|null|
-|**2023-02-03 11:56:38**|**Show me your NFT and I tell you how it will perform: Multimodal   representation learning for NFT selling price prediction**|Davide Costa et.al.|[2302.01676v2](http://arxiv.org/abs/2302.01676v2)|null|
-|**2023-02-03 03:38:50**|**Ordered GNN: Ordering Message Passing to Deal with Heterophily and   Over-smoothing**|Yunchong Song et.al.|[2302.01524v1](http://arxiv.org/abs/2302.01524v1)|[link](https://github.com/lumia-group/orderedgnn)|
-|**2023-02-03 02:33:07**|**LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation**|Rui Xue et.al.|[2302.01503v1](http://arxiv.org/abs/2302.01503v1)|null|
-|**2023-02-02 18:39:30**|**Double Permutation Equivariance for Knowledge Graph Completion**|Jianfei Gao et.al.|[2302.01313v1](http://arxiv.org/abs/2302.01313v1)|null|
-|**2023-02-02 17:45:02**|**Geometric Deep Learning for Autonomous Driving: Unlocking the Power of   Graph Neural Networks With CommonRoad-Geometric**|Eivind Meyer et.al.|[2302.01259v1](http://arxiv.org/abs/2302.01259v1)|null|
-|**2023-02-02 11:12:51**|**Graph Neural Networks for temporal graphs: State of the art, open   challenges, and opportunities**|Antonio Longa et.al.|[2302.01018v2](http://arxiv.org/abs/2302.01018v2)|null|
-|**2023-02-02 10:00:46**|**Predicting Molecule-Target Interaction by Learning Biomedical Network   and Molecule Representations**|Jinjiang Guo et.al.|[2302.00981v3](http://arxiv.org/abs/2302.00981v3)|null|
-|**2023-02-02 07:58:29**|**GraphAGILE: An FPGA-based Overlay Accelerator for Low-latency GNN   Inference**|Bingyi Zhang et.al.|[2302.01769v1](http://arxiv.org/abs/2302.01769v1)|null|
-|**2023-02-02 07:52:34**|**LMC: Fast Training of GNNs via Subgraph Sampling with Provable   Convergence**|Zhihao Shi et.al.|[2302.00924v1](http://arxiv.org/abs/2302.00924v1)|null|
-|**2023-02-02 05:53:31**|**Quantum Graph Learning: Frontiers and Outlook**|Shuo Yu et.al.|[2302.00892v1](http://arxiv.org/abs/2302.00892v1)|null|
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-07 16:28:53**|**Quantum dynamics of coupled excitons and phonons in chain-like systems:   tensor train approaches and higher-order propagators**|Patrick Gelß et.al.|[2302.03568v1](http://arxiv.org/abs/2302.03568v1)|null|
+|**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|null|
+|**2023-02-07 15:15:58**|**Multi-Task Deep Recommender Systems: A Survey**|Yuhao Wang et.al.|[2302.03525v1](http://arxiv.org/abs/2302.03525v1)|null|
 |**2023-02-05 20:30:48**|**Hatemongers ride on echo chambers to escalate hate speech diffusion**|Vasu Goel et.al.|[2302.02479v1](http://arxiv.org/abs/2302.02479v1)|[link](https://github.com/lcs2-iiitd/hate-mongerer-and-echo-chambers)|
 |**2023-02-04 09:46:47**|**Structural Explanations for Graph Neural Networks using HSIC**|Ayato Toyokuni et.al.|[2302.02139v1](http://arxiv.org/abs/2302.02139v1)|null|
 |**2023-02-01 18:59:02**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
@@ -69,15 +72,13 @@
 |**2022-12-26 12:50:56**|**Universality of preference behaviors in online music-listener bipartite   networks: A Big Data analysis**|Xiao-Pu Han et.al.|[2212.13139v1](http://arxiv.org/abs/2212.13139v1)|null|
 |**2022-12-22 13:12:47**|**Exploring Student Engagement and Outcomes: Experiences from Three Cycles   of an Undergraduate Module**|Robert D. Macredie et.al.|[2212.11682v1](http://arxiv.org/abs/2212.11682v1)|null|
 |**2022-12-19 17:51:47**|**Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI**|Alex Mei et.al.|[2212.09667v1](http://arxiv.org/abs/2212.09667v1)|null|
-|**2022-12-17 15:31:21**|**Learning with linear mixed model for group recommendation systems**|Baode Gao et.al.|[2212.08901v1](http://arxiv.org/abs/2212.08901v1)|null|
-|**2022-12-16 16:53:51**|**An Ethical Trajectory Planning Algorithm for Autonomous Vehicles**|Maximilian Geisslinger et.al.|[2212.08577v1](http://arxiv.org/abs/2212.08577v1)|[link](https://github.com/tumftm/ethicaltrajectoryplanning)|
-|**2022-12-15 22:04:27**|**Inferring Cultural Landscapes with the Inverse Ising Model**|Victor Møller Poulsen et.al.|[2212.08168v1](http://arxiv.org/abs/2212.08168v1)|[link](https://github.com/victor-m-p/humanities-glass)|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|null|
 |**2023-02-02 17:03:40**|**Practical Bandits: An Industry Perspective**|Bram van den Akker et.al.|[2302.01223v1](http://arxiv.org/abs/2302.01223v1)|null|
 |**2023-02-02 14:15:36**|**PEPNet: Parameter and Embedding Personalized Network for Infusing with   Personalized Prior Information**|Jianxin Chang et.al.|[2302.01115v2](http://arxiv.org/abs/2302.01115v2)|null|
 |**2023-01-28 06:18:36**|**Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation**|Junsu Cho et.al.|[2301.12105v1](http://arxiv.org/abs/2301.12105v1)|null|
@@ -107,4 +108,3 @@
 |**2022-07-15 08:03:37**|**Modeling Multi-interest News Sequence for News Recommendation**|Rongyao Wang et.al.|[2207.07331v2](http://arxiv.org/abs/2207.07331v2)|null|
 |**2022-07-14 07:49:28**|**Improving Multi-Interest Network with Stable Learning**|Zhaocheng Liu et.al.|[2207.07910v1](http://arxiv.org/abs/2207.07910v1)|null|
 |**2022-07-14 04:29:54**|**Everyone's Preference Changes Differently: Weighted Multi-Interest   Retrieval Model**|Hui Shi et.al.|[2207.06652v3](http://arxiv.org/abs/2207.06652v3)|[link](https://github.com/shihui2010/mip)|
-|**2022-07-06 06:29:34**|**Re-weighting Negative Samples for Model-Agnostic Matching**|Jiazhen Lou et.al.|[2207.02468v1](http://arxiv.org/abs/2207.02468v1)|null|
