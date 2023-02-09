@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-08 09:42:45**|**Dual-interest Factorization-heads Attention for Sequential   Recommendation**|Guanyu Lin et.al.|[2302.03965v1](http://arxiv.org/abs/2302.03965v1)|null|
+|**2023-02-08 01:36:28**|**VIBFREQ1295: A New Database for Vibrational Frequency Calculations**|Juan C. Zapata Trujillo et.al.|[2302.03824v1](http://arxiv.org/abs/2302.03824v1)|null|
+|**2023-02-07 22:41:37**|**Does AI-Assisted Fact-Checking Disproportionately Benefit Majority   Groups Online?**|Terrence Neumann et.al.|[2302.03782v1](http://arxiv.org/abs/2302.03782v1)|null|
 |**2023-02-07 16:28:53**|**Quantum dynamics of coupled excitons and phonons in chain-like systems:   tensor train approaches and higher-order propagators**|Patrick Gelß et.al.|[2302.03568v1](http://arxiv.org/abs/2302.03568v1)|null|
 |**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|null|
 |**2023-02-07 15:15:58**|**Multi-Task Deep Recommender Systems: A Survey**|Yuhao Wang et.al.|[2302.03525v1](http://arxiv.org/abs/2302.03525v1)|null|
@@ -29,6 +32,3 @@
 |**2022-12-29 18:51:36**|**Neighbor Auto-Grouping Graph Neural Networks for Handover Parameter   Configuration in Cellular Network**|Mehrtash Mehrabi et.al.|[2301.03412v1](http://arxiv.org/abs/2301.03412v1)|null|
 |**2022-12-29 15:50:46**|**Ontology-based Context Aware Recommender System Application for Tourism**|Vitor T. Camacho et.al.|[2301.00768v1](http://arxiv.org/abs/2301.00768v1)|null|
 |**2022-12-26 20:40:43**|**Bayesian indicator variable selection of multivariate response with   heterogeneous sparsity for multi-trait fine mapping**|Travis Canida et.al.|[2212.13294v1](http://arxiv.org/abs/2212.13294v1)|null|
-|**2022-12-26 12:50:56**|**Universality of preference behaviors in online music-listener bipartite   networks: A Big Data analysis**|Xiao-Pu Han et.al.|[2212.13139v1](http://arxiv.org/abs/2212.13139v1)|null|
-|**2022-12-22 13:12:47**|**Exploring Student Engagement and Outcomes: Experiences from Three Cycles   of an Undergraduate Module**|Robert D. Macredie et.al.|[2212.11682v1](http://arxiv.org/abs/2212.11682v1)|null|
-|**2022-12-19 17:51:47**|**Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI**|Alex Mei et.al.|[2212.09667v1](http://arxiv.org/abs/2212.09667v1)|null|

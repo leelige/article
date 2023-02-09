@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-08 09:42:45**|**Dual-interest Factorization-heads Attention for Sequential   Recommendation**|Guanyu Lin et.al.|[2302.03965v1](http://arxiv.org/abs/2302.03965v1)|null|
 |**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|null|
 |**2023-02-02 17:03:40**|**Practical Bandits: An Industry Perspective**|Bram van den Akker et.al.|[2302.01223v1](http://arxiv.org/abs/2302.01223v1)|null|
 |**2023-02-02 14:15:36**|**PEPNet: Parameter and Embedding Personalized Network for Infusing with   Personalized Prior Information**|Jianxin Chang et.al.|[2302.01115v2](http://arxiv.org/abs/2302.01115v2)|null|
@@ -31,4 +32,3 @@
 |**2022-07-25 14:37:18**|**Personality-Driven Social Multimedia Content Recommendation**|Qi Yang et.al.|[2207.12236v1](http://arxiv.org/abs/2207.12236v1)|null|
 |**2022-07-15 08:03:37**|**Modeling Multi-interest News Sequence for News Recommendation**|Rongyao Wang et.al.|[2207.07331v2](http://arxiv.org/abs/2207.07331v2)|null|
 |**2022-07-14 07:49:28**|**Improving Multi-Interest Network with Stable Learning**|Zhaocheng Liu et.al.|[2207.07910v1](http://arxiv.org/abs/2207.07910v1)|null|
-|**2022-07-14 04:29:54**|**Everyone's Preference Changes Differently: Weighted Multi-Interest   Retrieval Model**|Hui Shi et.al.|[2207.06652v3](http://arxiv.org/abs/2207.06652v3)|[link](https://github.com/shihui2010/mip)|
