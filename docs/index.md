@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2023-02-10 16:08:39 Asia/Shanghai
+ 自动更新 @ 2023-02-11 16:07:58 Asia/Shanghai
 
 ## Graph Neural Network
 
