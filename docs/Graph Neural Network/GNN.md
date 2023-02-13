@@ -2,7 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-02-09 14:51:07**|**Vulnerability Detection with Graph Simplification and Enhanced Graph   Representation Learning**|Xin-Cheng Wen et.al.|[2302.04675v1](http://arxiv.org/abs/2302.04675v1)|null|
+|**2023-02-10 14:45:36**|**Graph Neural Networks Go Forward-Forward**|Daniele Paliotta et.al.|[2302.05282v1](http://arxiv.org/abs/2302.05282v1)|null|
+|**2023-02-10 06:57:12**|**DRGCN: Dynamic Evolving Initial Residual for Deep Graph Convolutional   Networks**|Lei Zhang et.al.|[2302.05083v1](http://arxiv.org/abs/2302.05083v1)|null|
+|**2023-02-09 19:02:45**|**GCI: A (G)raph (C)oncept (I)nterpretation Framework**|Dmitry Kazhdan et.al.|[2302.04899v1](http://arxiv.org/abs/2302.04899v1)|null|
+|**2023-02-09 14:51:07**|**Vulnerability Detection with Graph Simplification and Enhanced Graph   Representation Learning**|Xin-Cheng Wen et.al.|[2302.04675v1](http://arxiv.org/abs/2302.04675v1)|[link](https://github.com/ample001/ample)|
 |**2023-02-09 11:17:34**|**NeuKron: Constant-Size Lossy Compression of Sparse Reorderable Matrices   and Tensors**|Taehyung Kwon et.al.|[2302.04570v1](http://arxiv.org/abs/2302.04570v1)|[link](https://github.com/kbrother/neukron)|
 |**2023-02-09 09:30:28**|**Hardness of monadic second-order formulae over succinct graphs**|Guilhem Gamard et.al.|[2302.04522v1](http://arxiv.org/abs/2302.04522v1)|null|
 |**2023-02-09 08:46:23**|**Dual Algorithmic Reasoning**|Danilo Numeroso et.al.|[2302.04496v1](http://arxiv.org/abs/2302.04496v1)|null|
@@ -29,6 +32,3 @@
 |**2023-02-07 05:32:11**|**Learning to Count Isomorphisms with Graph Neural Networks**|Xingtong Yu et.al.|[2302.03266v1](http://arxiv.org/abs/2302.03266v1)|null|
 |**2023-02-07 03:24:55**|**Optimal Control of Granular Material**|Yuichiro Aoyama et.al.|[2302.03231v1](http://arxiv.org/abs/2302.03231v1)|null|
 |**2023-02-07 03:21:55**|**Heterophily-Aware Graph Attention Network**|Junfu Wang et.al.|[2302.03228v1](http://arxiv.org/abs/2302.03228v1)|null|
-|**2023-02-07 02:27:21**|**An entity-guided text summarization framework with relational   heterogeneous graph neural network**|Jingqiang Chen et.al.|[2302.03205v1](http://arxiv.org/abs/2302.03205v1)|[link](https://github.com/jingqiangchen/kbsumm)|
-|**2023-02-07 00:45:05**|**Nonlinear Causal Discovery with Confounders**|Chunlin Li et.al.|[2302.03178v1](http://arxiv.org/abs/2302.03178v1)|[link](https://github.com/chunlinli/defuse)|
-|**2023-02-06 17:30:22**|**GPS++: Reviving the Art of Message Passing for Molecular Property   Prediction**|Dominic Masters et.al.|[2302.02947v1](http://arxiv.org/abs/2302.02947v1)|[link](https://github.com/graphcore/ogb-lsc-pcqm4mv2)|
