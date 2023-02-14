@@ -2,6 +2,10 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-12 19:51:32**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain   Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|null|
+|**2023-02-12 14:03:35**|**Neural Node Matching for Multi-Target Cross Domain Recommendation**|Wujiang Xu et.al.|[2302.05919v1](http://arxiv.org/abs/2302.05919v1)|null|
+|**2023-02-10 22:33:35**|**"Software is the easy part of Software Engineering" -- Lessons and   Experiences from A Large-Scale, Multi-Team Capstone Course**|Ze Shi Li et.al.|[2302.05536v1](http://arxiv.org/abs/2302.05536v1)|null|
+|**2023-02-10 20:18:13**|**Data-Driven Web-Based Patching Management Tool Using Multi-Sensor   Pavement Structure Measurements**|Sneha Jha et.al.|[2302.05494v1](http://arxiv.org/abs/2302.05494v1)|null|
 |**2023-02-08 09:42:45**|**Dual-interest Factorization-heads Attention for Sequential   Recommendation**|Guanyu Lin et.al.|[2302.03965v3](http://arxiv.org/abs/2302.03965v3)|[link](https://github.com/tsinghua-fib-lab/WWW2023-DFAR)|
 |**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|null|
 |**2023-02-02 17:03:40**|**Practical Bandits: An Industry Perspective**|Bram van den Akker et.al.|[2302.01223v1](http://arxiv.org/abs/2302.01223v1)|null|
@@ -28,7 +32,3 @@
 |**2022-08-09 08:33:32**|**IDNP: Interest Dynamics Modeling using Generative Neural Processes for   Sequential Recommendation**|Jing Du et.al.|[2208.04600v1](http://arxiv.org/abs/2208.04600v1)|null|
 |**2022-08-03 05:28:14**|**Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for   Multi-Behavior Recommendation**|Chang Meng et.al.|[2208.01849v2](http://arxiv.org/abs/2208.01849v2)|null|
 |**2022-08-01 17:07:23**|**MULTIPAR: Supervised Irregular Tensor Factorization with Multi-task   Learning**|Yifei Ren et.al.|[2208.00993v2](http://arxiv.org/abs/2208.00993v2)|null|
-|**2022-07-26 03:28:42**|**Bundle MCR: Towards Conversational Bundle Recommendation**|Zhankui He et.al.|[2207.12628v1](http://arxiv.org/abs/2207.12628v1)|[link](https://github.com/aaronheee/bundle-mcr)|
-|**2022-07-25 14:37:18**|**Personality-Driven Social Multimedia Content Recommendation**|Qi Yang et.al.|[2207.12236v1](http://arxiv.org/abs/2207.12236v1)|null|
-|**2022-07-15 08:03:37**|**Modeling Multi-interest News Sequence for News Recommendation**|Rongyao Wang et.al.|[2207.07331v2](http://arxiv.org/abs/2207.07331v2)|null|
-|**2022-07-14 07:49:28**|**Improving Multi-Interest Network with Stable Learning**|Zhaocheng Liu et.al.|[2207.07910v1](http://arxiv.org/abs/2207.07910v1)|null|

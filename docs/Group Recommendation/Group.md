@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-13 16:31:24**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic   and Molecular Physics, Condensed Matter and Materials Physics, and Earth   Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
+|**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v1](http://arxiv.org/abs/2302.06333v1)|[link](https://github.com/newlei/fda)|
 |**2023-02-10 15:17:48**|**Trauma-Informed Social Media: Towards Solutions for Reducing and Healing   Online Harm**|Carol F. Scott et.al.|[2302.05312v1](http://arxiv.org/abs/2302.05312v1)|null|
 |**2023-02-09 14:55:17**|**Learning Mixtures of Markov Chains with Quality Guarantees**|Fabian Spaeh et.al.|[2302.04680v1](http://arxiv.org/abs/2302.04680v1)|null|
 |**2023-02-09 11:17:30**|**COVID-19 Susceptibility, Mortality and Length of Hospitalization based   on Age-Sex Composition: Insights for Intervention and Stratification**|Roel F. Ceballos et.al.|[2302.04569v1](http://arxiv.org/abs/2302.04569v1)|null|
@@ -10,7 +12,7 @@
 |**2023-02-09 04:43:10**|**Real-Time Visual Feedback to Guide Benchmark Creation: A   Human-and-Metric-in-the-Loop Workflow**|Anjana Arunkumar et.al.|[2302.04434v1](http://arxiv.org/abs/2302.04434v1)|[link](https://github.com/aarunku5/vaida-eacl-2023)|
 |**2023-02-08 01:36:28**|**VIBFREQ1295: A New Database for Vibrational Frequency Calculations**|Juan C. Zapata Trujillo et.al.|[2302.03824v1](http://arxiv.org/abs/2302.03824v1)|null|
 |**2023-02-07 22:41:37**|**Does AI-Assisted Fact-Checking Disproportionately Benefit Majority   Groups Online?**|Terrence Neumann et.al.|[2302.03782v2](http://arxiv.org/abs/2302.03782v2)|null|
-|**2023-02-07 16:28:53**|**Quantum dynamics of coupled excitons and phonons in chain-like systems:   tensor train approaches and higher-order propagators**|Patrick Gelß et.al.|[2302.03568v1](http://arxiv.org/abs/2302.03568v1)|null|
+|**2023-02-07 16:28:53**|**Quantum dynamics of coupled excitons and phonons in chain-like systems:   tensor train approaches and higher-order propagators**|Patrick Gelß et.al.|[2302.03568v2](http://arxiv.org/abs/2302.03568v2)|null|
 |**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|null|
 |**2023-02-07 15:15:58**|**Multi-Task Deep Recommender Systems: A Survey**|Yuhao Wang et.al.|[2302.03525v2](http://arxiv.org/abs/2302.03525v2)|null|
 |**2023-02-05 20:30:48**|**Hatemongers ride on echo chambers to escalate hate speech diffusion**|Vasu Goel et.al.|[2302.02479v1](http://arxiv.org/abs/2302.02479v1)|[link](https://github.com/lcs2-iiitd/hate-mongerer-and-echo-chambers)|
@@ -30,5 +32,3 @@
 |**2023-01-13 03:30:22**|**Benefits and Limitations of Remote Work to LGBTQIA+ Software   Professionals**|Ronnie de Souza Santos et.al.|[2301.05379v3](http://arxiv.org/abs/2301.05379v3)|null|
 |**2023-01-12 13:15:24**|**Against Algorithmic Exploitation of Human Vulnerabilities**|Inga Strümke et.al.|[2301.04993v1](http://arxiv.org/abs/2301.04993v1)|null|
 |**2023-01-06 13:12:59**|**Adaptive Pattern Extraction Multi-Task Learning for Multi-Step   Conversion Estimations**|Xuewen Tao et.al.|[2301.02494v3](http://arxiv.org/abs/2301.02494v3)|null|
-|**2023-01-05 13:02:35**|**Max-Min Diversification with Fairness Constraints: Exact and   Approximation Algorithms**|Yanhao Wang et.al.|[2301.02053v1](http://arxiv.org/abs/2301.02053v1)|null|
-|**2023-01-04 17:16:07**|**Optimization of the Analysis of Vital Events Using Threads**|Rubi Melania Coasaca Callacondo et.al.|[2301.01710v1](http://arxiv.org/abs/2301.01710v1)|null|
