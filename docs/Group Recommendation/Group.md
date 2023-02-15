@@ -4,6 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-02-13 16:31:24**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic   and Molecular Physics, Condensed Matter and Materials Physics, and Earth   Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
 |**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v1](http://arxiv.org/abs/2302.06333v1)|[link](https://github.com/newlei/fda)|
+|**2023-02-10 22:33:05**|**Leveraging Diversity in Software Engineering Education through Community   Engaged Learning and a Supportive Network**|Nowshin Nawar Arony et.al.|[2302.07100v1](http://arxiv.org/abs/2302.07100v1)|null|
 |**2023-02-10 15:17:48**|**Trauma-Informed Social Media: Towards Solutions for Reducing and Healing   Online Harm**|Carol F. Scott et.al.|[2302.05312v1](http://arxiv.org/abs/2302.05312v1)|null|
 |**2023-02-09 14:55:17**|**Learning Mixtures of Markov Chains with Quality Guarantees**|Fabian Spaeh et.al.|[2302.04680v1](http://arxiv.org/abs/2302.04680v1)|null|
 |**2023-02-09 11:17:30**|**COVID-19 Susceptibility, Mortality and Length of Hospitalization based   on Age-Sex Composition: Insights for Intervention and Stratification**|Roel F. Ceballos et.al.|[2302.04569v1](http://arxiv.org/abs/2302.04569v1)|null|
@@ -31,4 +32,3 @@
 |**2023-01-13 08:24:21**|**Automated speech- and text-based classification of neuropsychiatric   conditions in a multidiagnostic setting**|Lasse Hansen et.al.|[2301.06916v2](http://arxiv.org/abs/2301.06916v2)|null|
 |**2023-01-13 03:30:22**|**Benefits and Limitations of Remote Work to LGBTQIA+ Software   Professionals**|Ronnie de Souza Santos et.al.|[2301.05379v3](http://arxiv.org/abs/2301.05379v3)|null|
 |**2023-01-12 13:15:24**|**Against Algorithmic Exploitation of Human Vulnerabilities**|Inga Strümke et.al.|[2301.04993v1](http://arxiv.org/abs/2301.04993v1)|null|
-|**2023-01-06 13:12:59**|**Adaptive Pattern Extraction Multi-Task Learning for Multi-Step   Conversion Estimations**|Xuewen Tao et.al.|[2301.02494v3](http://arxiv.org/abs/2301.02494v3)|null|

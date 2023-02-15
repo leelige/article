@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-14 18:42:17**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph   Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v1](http://arxiv.org/abs/2302.07243v1)|null|
+|**2023-02-14 14:42:54**|**A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph   Weisfeiler-Lehman Tests**|Bohang Zhang et.al.|[2302.07090v1](http://arxiv.org/abs/2302.07090v1)|null|
+|**2023-02-14 08:35:33**|**Over-Sampling Strategy in Feature Space for Graphs based   Class-imbalanced Bot Detection**|Shuhao Shi et.al.|[2302.06900v1](http://arxiv.org/abs/2302.06900v1)|null|
+|**2023-02-14 08:30:04**|**Message Passing Meets Graph Neural Networks: A New Paradigm for Massive   MIMO Systems**|Hengtao He et.al.|[2302.06896v1](http://arxiv.org/abs/2302.06896v1)|null|
+|**2023-02-14 05:16:12**|**Understanding Oversquashing in GNNs through the Lens of Effective   Resistance**|Mitchell Black et.al.|[2302.06835v1](http://arxiv.org/abs/2302.06835v1)|null|
+|**2023-02-14 00:02:31**|**EspalomaCharge: Machine learning-enabled ultra-fast partial charge   assignment**|Yuanqing Wang et.al.|[2302.06758v1](http://arxiv.org/abs/2302.06758v1)|[link](https://github.com/choderalab/espaloma_charge)|
 |**2023-02-13 18:35:51**|**Ergodicity-to-localization transition on random regular graphs with   large connectivity and in many-body quantum dots**|Jan-Niklas Herre et.al.|[2302.06581v1](http://arxiv.org/abs/2302.06581v1)|null|
 |**2023-02-13 18:13:29**|**Inferring Player Location in Sports Matches: Multi-Agent Spatial   Imputation from Limited Observations**|Gregory Everett et.al.|[2302.06569v1](http://arxiv.org/abs/2302.06569v1)|null|
 |**2023-02-13 11:56:45**|**Homophily-oriented Heterogeneous Graph Rewiring**|Jiayan Guo et.al.|[2302.06299v1](http://arxiv.org/abs/2302.06299v1)|null|
@@ -26,9 +32,3 @@
 |**2023-02-09 11:17:34**|**NeuKron: Constant-Size Lossy Compression of Sparse Reorderable Matrices   and Tensors**|Taehyung Kwon et.al.|[2302.04570v1](http://arxiv.org/abs/2302.04570v1)|[link](https://github.com/kbrother/neukron)|
 |**2023-02-09 09:30:28**|**Hardness of monadic second-order formulae over succinct graphs**|Guilhem Gamard et.al.|[2302.04522v1](http://arxiv.org/abs/2302.04522v1)|null|
 |**2023-02-09 08:46:23**|**Dual Algorithmic Reasoning**|Danilo Numeroso et.al.|[2302.04496v1](http://arxiv.org/abs/2302.04496v1)|null|
-|**2023-02-09 05:54:17**|**Generalization in Graph Neural Networks: Improved PAC-Bayesian Bounds on   Graph Diffusion**|Haotian Ju et.al.|[2302.04451v1](http://arxiv.org/abs/2302.04451v1)|null|
-|**2023-02-09 00:32:06**|**Privacy-Preserving Representation Learning for Text-Attributed Networks   with Simplicial Complexes**|Huixin Zhan et.al.|[2302.04383v1](http://arxiv.org/abs/2302.04383v1)|null|
-|**2023-02-08 23:40:24**|**Measuring the Privacy Leakage via Graph Reconstruction Attacks on   Simplicial Neural Networks (Student Abstract)**|Huixin Zhan et.al.|[2302.04373v1](http://arxiv.org/abs/2302.04373v1)|null|
-|**2023-02-08 20:01:51**|**Geometry-Complete Diffusion for 3D Molecule Generation**|Alex Morehead et.al.|[2302.04313v1](http://arxiv.org/abs/2302.04313v1)|[link](https://github.com/bioinfomachinelearning/bio-diffusion)|
-|**2023-02-08 16:41:59**|**Cooperative Beamforming and RISs Association for Multi-RISs Aided   Multi-Users MmWave MIMO Systems through Graph Neural Networks**|Mengbing Liu et.al.|[2302.04183v1](http://arxiv.org/abs/2302.04183v1)|null|
-|**2023-02-08 16:40:11**|**Attending to Graph Transformers**|Luis Müller et.al.|[2302.04181v1](http://arxiv.org/abs/2302.04181v1)|[link](https://github.com/luis-mueller/probing-graph-transformers)|
