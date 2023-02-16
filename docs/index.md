@@ -1,47 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2023-02-15 16:08:51 Asia/Shanghai
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-14 18:42:17**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph   Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v1](http://arxiv.org/abs/2302.07243v1)|null|
-|**2023-02-14 14:42:54**|**A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph   Weisfeiler-Lehman Tests**|Bohang Zhang et.al.|[2302.07090v1](http://arxiv.org/abs/2302.07090v1)|null|
-|**2023-02-14 08:35:33**|**Over-Sampling Strategy in Feature Space for Graphs based   Class-imbalanced Bot Detection**|Shuhao Shi et.al.|[2302.06900v1](http://arxiv.org/abs/2302.06900v1)|null|
-|**2023-02-14 08:30:04**|**Message Passing Meets Graph Neural Networks: A New Paradigm for Massive   MIMO Systems**|Hengtao He et.al.|[2302.06896v1](http://arxiv.org/abs/2302.06896v1)|null|
-|**2023-02-14 05:16:12**|**Understanding Oversquashing in GNNs through the Lens of Effective   Resistance**|Mitchell Black et.al.|[2302.06835v1](http://arxiv.org/abs/2302.06835v1)|null|
-|**2023-02-14 00:02:31**|**EspalomaCharge: Machine learning-enabled ultra-fast partial charge   assignment**|Yuanqing Wang et.al.|[2302.06758v1](http://arxiv.org/abs/2302.06758v1)|[link](https://github.com/choderalab/espaloma_charge)|
-|**2023-02-13 18:35:51**|**Ergodicity-to-localization transition on random regular graphs with   large connectivity and in many-body quantum dots**|Jan-Niklas Herre et.al.|[2302.06581v1](http://arxiv.org/abs/2302.06581v1)|null|
-|**2023-02-13 18:13:29**|**Inferring Player Location in Sports Matches: Multi-Agent Spatial   Imputation from Limited Observations**|Gregory Everett et.al.|[2302.06569v1](http://arxiv.org/abs/2302.06569v1)|null|
-|**2023-02-13 11:56:45**|**Homophily-oriented Heterogeneous Graph Rewiring**|Jiayan Guo et.al.|[2302.06299v1](http://arxiv.org/abs/2302.06299v1)|null|
-|**2023-02-13 08:47:11**|**Multiscale Graph Neural Network Autoencoders for Interpretable   Scientific Machine Learning**|Shivam Barwey et.al.|[2302.06186v1](http://arxiv.org/abs/2302.06186v1)|null|
-|**2023-02-13 08:23:35**|**Learning and Aggregating Lane Graphs for Urban Automated Driving**|Martin Büchner et.al.|[2302.06175v1](http://arxiv.org/abs/2302.06175v1)|null|
-|**2023-02-13 06:38:25**|**NNKGC: Improving Knowledge Graph Completion with Node Neighborhoods**|Zihui Li et.al.|[2302.06132v1](http://arxiv.org/abs/2302.06132v1)|null|
-|**2023-02-13 06:30:24**|**Expediting Distributed DNN Training with Device Topology-Aware Graph   Deployment**|Shiwei Zhang et.al.|[2302.06126v1](http://arxiv.org/abs/2302.06126v1)|null|
-|**2023-02-13 05:43:24**|**A Survey on Graph Neural Networks for Graph Summarization**|Nasrin Shabani et.al.|[2302.06114v1](http://arxiv.org/abs/2302.06114v1)|null|
-|**2023-02-13 02:29:11**|**TIGER: Temporal Interaction Graph Embedding with Restarts**|Yao Zhang et.al.|[2302.06057v1](http://arxiv.org/abs/2302.06057v1)|[link](https://github.com/yzhang1918/www2023tiger)|
-|**2023-02-12 19:51:32**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain   Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|null|
-|**2023-02-12 12:43:36**|**Investigating the Effect of Relative Positional Embeddings on   AMR-to-Text Generation with Structural Adapters**|Sebastien Montella et.al.|[2302.05900v1](http://arxiv.org/abs/2302.05900v1)|null|
-|**2023-02-12 10:32:12**|**USER: Unsupervised Structural Entropy-based Robust Graph Neural Network**|Yifei Wang et.al.|[2302.05889v1](http://arxiv.org/abs/2302.05889v1)|[link](https://github.com/wangyifeibeijing/user)|
-|**2023-02-12 01:07:56**|**Graph Neural Network-Inspired Kernels for Gaussian Processes in   Semi-Supervised Learning**|Zehao Niu et.al.|[2302.05828v1](http://arxiv.org/abs/2302.05828v1)|[link](https://github.com/niuzehao/gnn-gp)|
-|**2023-02-11 16:54:20**|**Is Distance Matrix Enough for Geometric Deep Learning?**|Zian Li et.al.|[2302.05743v1](http://arxiv.org/abs/2302.05743v1)|null|
-|**2023-02-11 09:16:46**|**A Survey on Spectral Graph Neural Networks**|Deyu Bo et.al.|[2302.05631v1](http://arxiv.org/abs/2302.05631v1)|null|
-|**2023-02-11 04:30:40**|**Multi-class Brain Tumor Segmentation using Graph Attention Network**|Dhrumil Patel et.al.|[2302.05598v1](http://arxiv.org/abs/2302.05598v1)|null|
-|**2023-02-10 19:32:35**|**Domain-Adversarial Graph Neural Networks for $Λ$ Hyperon   Identification with CLAS12**|Matthew McEneaney et.al.|[2302.05481v1](http://arxiv.org/abs/2302.05481v1)|null|
-|**2023-02-10 14:45:36**|**Graph Neural Networks Go Forward-Forward**|Daniele Paliotta et.al.|[2302.05282v1](http://arxiv.org/abs/2302.05282v1)|null|
-|**2023-02-10 06:57:12**|**DRGCN: Dynamic Evolving Initial Residual for Deep Graph Convolutional   Networks**|Lei Zhang et.al.|[2302.05083v1](http://arxiv.org/abs/2302.05083v1)|[link](https://github.com/anonymousaabc/drgcn)|
-|**2023-02-09 19:02:45**|**GCI: A (G)raph (C)oncept (I)nterpretation Framework**|Dmitry Kazhdan et.al.|[2302.04899v1](http://arxiv.org/abs/2302.04899v1)|[link](https://github.com/dmitrykazhdan/gci)|
-|**2023-02-09 14:51:07**|**Vulnerability Detection with Graph Simplification and Enhanced Graph   Representation Learning**|Xin-Cheng Wen et.al.|[2302.04675v1](http://arxiv.org/abs/2302.04675v1)|[link](https://github.com/ample001/ample)|
-|**2023-02-09 11:17:34**|**NeuKron: Constant-Size Lossy Compression of Sparse Reorderable Matrices   and Tensors**|Taehyung Kwon et.al.|[2302.04570v1](http://arxiv.org/abs/2302.04570v1)|[link](https://github.com/kbrother/neukron)|
-|**2023-02-09 09:30:28**|**Hardness of monadic second-order formulae over succinct graphs**|Guilhem Gamard et.al.|[2302.04522v1](http://arxiv.org/abs/2302.04522v1)|null|
-|**2023-02-09 08:46:23**|**Dual Algorithmic Reasoning**|Danilo Numeroso et.al.|[2302.04496v1](http://arxiv.org/abs/2302.04496v1)|null|
+ 自动更新 @ 2023-02-16 16:08:51 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-14 06:42:09**|**AI Chat Assistants can Improve Conversations about Divisive Topics**|Lisa P. Argyle et.al.|[2302.07268v1](http://arxiv.org/abs/2302.07268v1)|null|
 |**2023-02-13 16:31:24**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic   and Molecular Physics, Condensed Matter and Materials Physics, and Earth   Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
 |**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v1](http://arxiv.org/abs/2302.06333v1)|[link](https://github.com/newlei/fda)|
 |**2023-02-10 22:33:05**|**Leveraging Diversity in Software Engineering Education through Community   Engaged Learning and a Supportive Network**|Nowshin Nawar Arony et.al.|[2302.07100v1](http://arxiv.org/abs/2302.07100v1)|null|
@@ -71,7 +36,6 @@
 |**2023-01-16 10:49:39**|**A First Look at the JWST MIRI/LRS Phase Curve of WASP-43b**|Taylor J. Bell et.al.|[2301.06350v1](http://arxiv.org/abs/2301.06350v1)|null|
 |**2023-01-13 08:24:21**|**Automated speech- and text-based classification of neuropsychiatric   conditions in a multidiagnostic setting**|Lasse Hansen et.al.|[2301.06916v2](http://arxiv.org/abs/2301.06916v2)|null|
 |**2023-01-13 03:30:22**|**Benefits and Limitations of Remote Work to LGBTQIA+ Software   Professionals**|Ronnie de Souza Santos et.al.|[2301.05379v3](http://arxiv.org/abs/2301.05379v3)|null|
-|**2023-01-12 13:15:24**|**Against Algorithmic Exploitation of Human Vulnerabilities**|Inga Strümke et.al.|[2301.04993v1](http://arxiv.org/abs/2301.04993v1)|null|
 
 ## Multi Interest Recommendation
 
@@ -108,3 +72,39 @@
 |**2022-08-17 01:25:26**|**Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest   Recommendation**|Shengyu Zhang et.al.|[2208.08011v1](http://arxiv.org/abs/2208.08011v1)|[link](https://github.com/deersheep0314/re4-learning-to-re-contrast-re-attend-re-construct-for-multi-interest-recommendation)|
 |**2022-08-09 08:33:32**|**IDNP: Interest Dynamics Modeling using Generative Neural Processes for   Sequential Recommendation**|Jing Du et.al.|[2208.04600v1](http://arxiv.org/abs/2208.04600v1)|null|
 |**2022-08-03 05:28:14**|**Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for   Multi-Behavior Recommendation**|Chang Meng et.al.|[2208.01849v2](http://arxiv.org/abs/2208.01849v2)|null|
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-15 15:56:21**|**From Prediction to Planning With Goal Conditioned Lane Graph Traversals**|Marcel Hallgarten et.al.|[2302.07753v1](http://arxiv.org/abs/2302.07753v1)|null|
+|**2023-02-15 14:31:24**|**Project Elements: A computational entity-component-system in a   scene-graph pythonic framework, for a neural, geometric computer graphics   curriculum**|George Papagiannakis et.al.|[2302.07691v1](http://arxiv.org/abs/2302.07691v1)|null|
+|**2023-02-15 04:16:34**|**CUTS: Neural Causal Discovery from Irregular Time-Series Data**|Yuxiao Cheng et.al.|[2302.07458v1](http://arxiv.org/abs/2302.07458v1)|null|
+|**2023-02-14 21:51:56**|**Attacking Fake News Detectors via Manipulating News Social Engagement**|Haoran Wang et.al.|[2302.07363v1](http://arxiv.org/abs/2302.07363v1)|null|
+|**2023-02-14 20:48:00**|**Graph Attention Multi-Agent Fleet Autonomy for Advanced Air Mobility**|Malintha Fernando et.al.|[2302.07337v1](http://arxiv.org/abs/2302.07337v1)|null|
+|**2023-02-14 18:42:17**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph   Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v1](http://arxiv.org/abs/2302.07243v1)|null|
+|**2023-02-14 14:42:54**|**A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph   Weisfeiler-Lehman Tests**|Bohang Zhang et.al.|[2302.07090v1](http://arxiv.org/abs/2302.07090v1)|null|
+|**2023-02-14 08:35:33**|**Over-Sampling Strategy in Feature Space for Graphs based   Class-imbalanced Bot Detection**|Shuhao Shi et.al.|[2302.06900v1](http://arxiv.org/abs/2302.06900v1)|null|
+|**2023-02-14 08:30:04**|**Message Passing Meets Graph Neural Networks: A New Paradigm for Massive   MIMO Systems**|Hengtao He et.al.|[2302.06896v1](http://arxiv.org/abs/2302.06896v1)|null|
+|**2023-02-14 05:16:12**|**Understanding Oversquashing in GNNs through the Lens of Effective   Resistance**|Mitchell Black et.al.|[2302.06835v1](http://arxiv.org/abs/2302.06835v1)|null|
+|**2023-02-14 00:02:31**|**EspalomaCharge: Machine learning-enabled ultra-fast partial charge   assignment**|Yuanqing Wang et.al.|[2302.06758v1](http://arxiv.org/abs/2302.06758v1)|[link](https://github.com/choderalab/espaloma_charge)|
+|**2023-02-13 18:35:51**|**Ergodicity-to-localization transition on random regular graphs with   large connectivity and in many-body quantum dots**|Jan-Niklas Herre et.al.|[2302.06581v1](http://arxiv.org/abs/2302.06581v1)|null|
+|**2023-02-13 18:13:29**|**Inferring Player Location in Sports Matches: Multi-Agent Spatial   Imputation from Limited Observations**|Gregory Everett et.al.|[2302.06569v1](http://arxiv.org/abs/2302.06569v1)|null|
+|**2023-02-13 11:56:45**|**Homophily-oriented Heterogeneous Graph Rewiring**|Jiayan Guo et.al.|[2302.06299v1](http://arxiv.org/abs/2302.06299v1)|null|
+|**2023-02-13 08:47:11**|**Multiscale Graph Neural Network Autoencoders for Interpretable   Scientific Machine Learning**|Shivam Barwey et.al.|[2302.06186v1](http://arxiv.org/abs/2302.06186v1)|null|
+|**2023-02-13 08:23:35**|**Learning and Aggregating Lane Graphs for Urban Automated Driving**|Martin Büchner et.al.|[2302.06175v1](http://arxiv.org/abs/2302.06175v1)|null|
+|**2023-02-13 06:38:25**|**NNKGC: Improving Knowledge Graph Completion with Node Neighborhoods**|Zihui Li et.al.|[2302.06132v1](http://arxiv.org/abs/2302.06132v1)|null|
+|**2023-02-13 06:30:24**|**Expediting Distributed DNN Training with Device Topology-Aware Graph   Deployment**|Shiwei Zhang et.al.|[2302.06126v1](http://arxiv.org/abs/2302.06126v1)|null|
+|**2023-02-13 05:43:24**|**A Survey on Graph Neural Networks for Graph Summarization**|Nasrin Shabani et.al.|[2302.06114v1](http://arxiv.org/abs/2302.06114v1)|null|
+|**2023-02-13 02:29:11**|**TIGER: Temporal Interaction Graph Embedding with Restarts**|Yao Zhang et.al.|[2302.06057v1](http://arxiv.org/abs/2302.06057v1)|[link](https://github.com/yzhang1918/www2023tiger)|
+|**2023-02-13 01:49:51**|**Knowledge Enhanced Semantic Communication Receiver**|Bingyan Wang et.al.|[2302.07727v1](http://arxiv.org/abs/2302.07727v1)|null|
+|**2023-02-12 19:51:32**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain   Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|null|
+|**2023-02-12 12:43:36**|**Investigating the Effect of Relative Positional Embeddings on   AMR-to-Text Generation with Structural Adapters**|Sebastien Montella et.al.|[2302.05900v1](http://arxiv.org/abs/2302.05900v1)|null|
+|**2023-02-12 10:32:12**|**USER: Unsupervised Structural Entropy-based Robust Graph Neural Network**|Yifei Wang et.al.|[2302.05889v1](http://arxiv.org/abs/2302.05889v1)|[link](https://github.com/wangyifeibeijing/user)|
+|**2023-02-12 01:07:56**|**Graph Neural Network-Inspired Kernels for Gaussian Processes in   Semi-Supervised Learning**|Zehao Niu et.al.|[2302.05828v1](http://arxiv.org/abs/2302.05828v1)|[link](https://github.com/niuzehao/gnn-gp)|
+|**2023-02-11 16:54:20**|**Is Distance Matrix Enough for Geometric Deep Learning?**|Zian Li et.al.|[2302.05743v1](http://arxiv.org/abs/2302.05743v1)|null|
+|**2023-02-11 09:16:46**|**A Survey on Spectral Graph Neural Networks**|Deyu Bo et.al.|[2302.05631v1](http://arxiv.org/abs/2302.05631v1)|null|
+|**2023-02-11 04:30:40**|**Multi-class Brain Tumor Segmentation using Graph Attention Network**|Dhrumil Patel et.al.|[2302.05598v1](http://arxiv.org/abs/2302.05598v1)|null|
+|**2023-02-10 19:32:35**|**Domain-Adversarial Graph Neural Networks for $Λ$ Hyperon   Identification with CLAS12**|Matthew McEneaney et.al.|[2302.05481v2](http://arxiv.org/abs/2302.05481v2)|null|
+|**2023-02-10 14:45:36**|**Graph Neural Networks Go Forward-Forward**|Daniele Paliotta et.al.|[2302.05282v1](http://arxiv.org/abs/2302.05282v1)|null|
