@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-16 07:38:51**|**Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video   Rank Models**|Xuanji Xiao et.al.|[2302.08128v1](http://arxiv.org/abs/2302.08128v1)|null|
 |**2023-02-14 09:03:35**|**Effective Dimension in Bandit Problems under Censorship**|Gauthier Guinet et.al.|[2302.06916v1](http://arxiv.org/abs/2302.06916v1)|null|
 |**2023-02-12 19:51:32**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain   Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|null|
 |**2023-02-12 14:03:35**|**Neural Node Matching for Multi-Target Cross Domain Recommendation**|Wujiang Xu et.al.|[2302.05919v1](http://arxiv.org/abs/2302.05919v1)|null|
@@ -31,4 +32,3 @@
 |**2022-08-27 13:16:47**|**Multi-level Contrastive Learning Framework for Sequential Recommendation**|Ziyang Wang et.al.|[2208.13007v1](http://arxiv.org/abs/2208.13007v1)|null|
 |**2022-08-17 01:25:26**|**Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest   Recommendation**|Shengyu Zhang et.al.|[2208.08011v1](http://arxiv.org/abs/2208.08011v1)|[link](https://github.com/deersheep0314/re4-learning-to-re-contrast-re-attend-re-construct-for-multi-interest-recommendation)|
 |**2022-08-09 08:33:32**|**IDNP: Interest Dynamics Modeling using Generative Neural Processes for   Sequential Recommendation**|Jing Du et.al.|[2208.04600v1](http://arxiv.org/abs/2208.04600v1)|null|
-|**2022-08-03 05:28:14**|**Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for   Multi-Behavior Recommendation**|Chang Meng et.al.|[2208.01849v2](http://arxiv.org/abs/2208.01849v2)|null|

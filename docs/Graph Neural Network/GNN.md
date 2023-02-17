@@ -2,12 +2,26 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-16 18:40:24**|**Local-to-Global Information Communication for Real-Time Semantic   Segmentation Network Search**|Guangliang Cheng et.al.|[2302.08481v1](http://arxiv.org/abs/2302.08481v1)|null|
+|**2023-02-16 17:40:23**|**AirGNN: Graph Neural Network over the Air**|Zhan Gao et.al.|[2302.08447v1](http://arxiv.org/abs/2302.08447v1)|null|
+|**2023-02-16 16:47:55**|**Temporal Graph Neural Networks for Irregular Data**|Joel Oskarsson et.al.|[2302.08415v1](http://arxiv.org/abs/2302.08415v1)|[link](https://github.com/joeloskarsson/tgnn4i)|
+|**2023-02-16 13:23:01**|**On the BSM reach of four top production at the LHC**| Anisha et.al.|[2302.08281v1](http://arxiv.org/abs/2302.08281v1)|null|
+|**2023-02-16 12:13:46**|**Self-supervised Guided Hypergraph Feature Propagation for   Semi-supervised Classification with Missing Node Features**|Chengxiang Lei et.al.|[2302.08250v1](http://arxiv.org/abs/2302.08250v1)|null|
+|**2023-02-16 11:13:36**|**DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization**|Zhiqing Sun et.al.|[2302.08224v1](http://arxiv.org/abs/2302.08224v1)|[link](https://github.com/edward-sun/difusco)|
+|**2023-02-16 10:16:21**|**LightGCL: Simple Yet Effective Graph Contrastive Learning for   Recommendation**|Xuheng Cai et.al.|[2302.08191v1](http://arxiv.org/abs/2302.08191v1)|[link](https://github.com/hkuds/lightgcl)|
+|**2023-02-16 10:10:31**|**Singular Value Representation: A New Graph Perspective On Neural   Networks**|Dan Meller et.al.|[2302.08183v1](http://arxiv.org/abs/2302.08183v1)|null|
+|**2023-02-16 03:18:43**|**Graph Adversarial Immunization for Certifiable Robustness**|Shuchang Tao et.al.|[2302.08051v1](http://arxiv.org/abs/2302.08051v1)|null|
+|**2023-02-16 02:51:38**|**GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural   Networks**|Zemin Liu et.al.|[2302.08043v1](http://arxiv.org/abs/2302.08043v1)|null|
+|**2023-02-15 20:11:25**|**Interpretable Deep Learning Methods for Multiview Learning**|Hengkang Wang et.al.|[2302.07930v1](http://arxiv.org/abs/2302.07930v1)|null|
+|**2023-02-15 20:06:19**|**Less is different: why sparse networks with inhibition differ from   complete graphs**|Gustavo Menesse et.al.|[2302.07927v1](http://arxiv.org/abs/2302.07927v1)|null|
+|**2023-02-15 19:00:00**|**Discrete scale invariant fixed point in a quasiperiodic classical dimer   model**|Sounak Biswas et.al.|[2302.07879v1](http://arxiv.org/abs/2302.07879v1)|null|
 |**2023-02-15 15:56:21**|**From Prediction to Planning With Goal Conditioned Lane Graph Traversals**|Marcel Hallgarten et.al.|[2302.07753v1](http://arxiv.org/abs/2302.07753v1)|null|
 |**2023-02-15 14:31:24**|**Project Elements: A computational entity-component-system in a   scene-graph pythonic framework, for a neural, geometric computer graphics   curriculum**|George Papagiannakis et.al.|[2302.07691v1](http://arxiv.org/abs/2302.07691v1)|null|
 |**2023-02-15 04:16:34**|**CUTS: Neural Causal Discovery from Irregular Time-Series Data**|Yuxiao Cheng et.al.|[2302.07458v1](http://arxiv.org/abs/2302.07458v1)|null|
 |**2023-02-14 21:51:56**|**Attacking Fake News Detectors via Manipulating News Social Engagement**|Haoran Wang et.al.|[2302.07363v1](http://arxiv.org/abs/2302.07363v1)|null|
-|**2023-02-14 20:48:00**|**Graph Attention Multi-Agent Fleet Autonomy for Advanced Air Mobility**|Malintha Fernando et.al.|[2302.07337v1](http://arxiv.org/abs/2302.07337v1)|null|
-|**2023-02-14 18:42:17**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph   Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v1](http://arxiv.org/abs/2302.07243v1)|null|
+|**2023-02-14 20:48:00**|**Graph Attention Multi-Agent Fleet Autonomy for Advanced Air Mobility**|Malintha Fernando et.al.|[2302.07337v2](http://arxiv.org/abs/2302.07337v2)|null|
+|**2023-02-14 18:51:22**|**Energy Transformer**|Benjamin Hoover et.al.|[2302.07253v1](http://arxiv.org/abs/2302.07253v1)|[link](https://github.com/bhoov/energy-transformer-jax)|
+|**2023-02-14 18:42:17**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph   Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v2](http://arxiv.org/abs/2302.07243v2)|null|
 |**2023-02-14 14:42:54**|**A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph   Weisfeiler-Lehman Tests**|Bohang Zhang et.al.|[2302.07090v1](http://arxiv.org/abs/2302.07090v1)|null|
 |**2023-02-14 08:35:33**|**Over-Sampling Strategy in Feature Space for Graphs based   Class-imbalanced Bot Detection**|Shuhao Shi et.al.|[2302.06900v1](http://arxiv.org/abs/2302.06900v1)|null|
 |**2023-02-14 08:30:04**|**Message Passing Meets Graph Neural Networks: A New Paradigm for Massive   MIMO Systems**|Hengtao He et.al.|[2302.06896v1](http://arxiv.org/abs/2302.06896v1)|null|
@@ -16,19 +30,5 @@
 |**2023-02-13 18:35:51**|**Ergodicity-to-localization transition on random regular graphs with   large connectivity and in many-body quantum dots**|Jan-Niklas Herre et.al.|[2302.06581v1](http://arxiv.org/abs/2302.06581v1)|null|
 |**2023-02-13 18:13:29**|**Inferring Player Location in Sports Matches: Multi-Agent Spatial   Imputation from Limited Observations**|Gregory Everett et.al.|[2302.06569v1](http://arxiv.org/abs/2302.06569v1)|null|
 |**2023-02-13 11:56:45**|**Homophily-oriented Heterogeneous Graph Rewiring**|Jiayan Guo et.al.|[2302.06299v1](http://arxiv.org/abs/2302.06299v1)|null|
-|**2023-02-13 08:47:11**|**Multiscale Graph Neural Network Autoencoders for Interpretable   Scientific Machine Learning**|Shivam Barwey et.al.|[2302.06186v1](http://arxiv.org/abs/2302.06186v1)|null|
+|**2023-02-13 08:47:11**|**Multiscale Graph Neural Network Autoencoders for Interpretable   Scientific Machine Learning**|Shivam Barwey et.al.|[2302.06186v2](http://arxiv.org/abs/2302.06186v2)|null|
 |**2023-02-13 08:23:35**|**Learning and Aggregating Lane Graphs for Urban Automated Driving**|Martin Büchner et.al.|[2302.06175v1](http://arxiv.org/abs/2302.06175v1)|null|
-|**2023-02-13 06:38:25**|**NNKGC: Improving Knowledge Graph Completion with Node Neighborhoods**|Zihui Li et.al.|[2302.06132v1](http://arxiv.org/abs/2302.06132v1)|null|
-|**2023-02-13 06:30:24**|**Expediting Distributed DNN Training with Device Topology-Aware Graph   Deployment**|Shiwei Zhang et.al.|[2302.06126v1](http://arxiv.org/abs/2302.06126v1)|null|
-|**2023-02-13 05:43:24**|**A Survey on Graph Neural Networks for Graph Summarization**|Nasrin Shabani et.al.|[2302.06114v1](http://arxiv.org/abs/2302.06114v1)|null|
-|**2023-02-13 02:29:11**|**TIGER: Temporal Interaction Graph Embedding with Restarts**|Yao Zhang et.al.|[2302.06057v1](http://arxiv.org/abs/2302.06057v1)|[link](https://github.com/yzhang1918/www2023tiger)|
-|**2023-02-13 01:49:51**|**Knowledge Enhanced Semantic Communication Receiver**|Bingyan Wang et.al.|[2302.07727v1](http://arxiv.org/abs/2302.07727v1)|null|
-|**2023-02-12 19:51:32**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain   Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|null|
-|**2023-02-12 12:43:36**|**Investigating the Effect of Relative Positional Embeddings on   AMR-to-Text Generation with Structural Adapters**|Sebastien Montella et.al.|[2302.05900v1](http://arxiv.org/abs/2302.05900v1)|null|
-|**2023-02-12 10:32:12**|**USER: Unsupervised Structural Entropy-based Robust Graph Neural Network**|Yifei Wang et.al.|[2302.05889v1](http://arxiv.org/abs/2302.05889v1)|[link](https://github.com/wangyifeibeijing/user)|
-|**2023-02-12 01:07:56**|**Graph Neural Network-Inspired Kernels for Gaussian Processes in   Semi-Supervised Learning**|Zehao Niu et.al.|[2302.05828v1](http://arxiv.org/abs/2302.05828v1)|[link](https://github.com/niuzehao/gnn-gp)|
-|**2023-02-11 16:54:20**|**Is Distance Matrix Enough for Geometric Deep Learning?**|Zian Li et.al.|[2302.05743v1](http://arxiv.org/abs/2302.05743v1)|null|
-|**2023-02-11 09:16:46**|**A Survey on Spectral Graph Neural Networks**|Deyu Bo et.al.|[2302.05631v1](http://arxiv.org/abs/2302.05631v1)|null|
-|**2023-02-11 04:30:40**|**Multi-class Brain Tumor Segmentation using Graph Attention Network**|Dhrumil Patel et.al.|[2302.05598v1](http://arxiv.org/abs/2302.05598v1)|null|
-|**2023-02-10 19:32:35**|**Domain-Adversarial Graph Neural Networks for $Λ$ Hyperon   Identification with CLAS12**|Matthew McEneaney et.al.|[2302.05481v2](http://arxiv.org/abs/2302.05481v2)|null|
-|**2023-02-10 14:45:36**|**Graph Neural Networks Go Forward-Forward**|Daniele Paliotta et.al.|[2302.05282v1](http://arxiv.org/abs/2302.05282v1)|null|
