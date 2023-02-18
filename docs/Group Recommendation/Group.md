@@ -16,7 +16,7 @@
 |**2023-02-08 01:36:28**|**VIBFREQ1295: A New Database for Vibrational Frequency Calculations**|Juan C. Zapata Trujillo et.al.|[2302.03824v1](http://arxiv.org/abs/2302.03824v1)|null|
 |**2023-02-07 22:41:37**|**Does AI-Assisted Fact-Checking Disproportionately Benefit Majority   Groups Online?**|Terrence Neumann et.al.|[2302.03782v2](http://arxiv.org/abs/2302.03782v2)|null|
 |**2023-02-07 16:28:53**|**Quantum dynamics of coupled excitons and phonons in chain-like systems:   tensor train approaches and higher-order propagators**|Patrick Gelß et.al.|[2302.03568v2](http://arxiv.org/abs/2302.03568v2)|null|
-|**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|null|
+|**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|[link](https://github.com/fdudsde/www2023consrec)|
 |**2023-02-07 15:15:58**|**Multi-Task Deep Recommender Systems: A Survey**|Yuhao Wang et.al.|[2302.03525v2](http://arxiv.org/abs/2302.03525v2)|null|
 |**2023-02-05 20:30:48**|**Hatemongers ride on echo chambers to escalate hate speech diffusion**|Vasu Goel et.al.|[2302.02479v1](http://arxiv.org/abs/2302.02479v1)|[link](https://github.com/lcs2-iiitd/hate-mongerer-and-echo-chambers)|
 |**2023-02-04 09:46:47**|**Structural Explanations for Graph Neural Networks using HSIC**|Ayato Toyokuni et.al.|[2302.02139v1](http://arxiv.org/abs/2302.02139v1)|null|

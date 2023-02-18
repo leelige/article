@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2023-02-17 16:08:42 Asia/Shanghai
+ 自动更新 @ 2023-02-18 16:07:48 Asia/Shanghai
 
 ## Graph Neural Network
 
@@ -14,19 +14,19 @@
 |**2023-02-16 11:13:36**|**DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization**|Zhiqing Sun et.al.|[2302.08224v1](http://arxiv.org/abs/2302.08224v1)|[link](https://github.com/edward-sun/difusco)|
 |**2023-02-16 10:16:21**|**LightGCL: Simple Yet Effective Graph Contrastive Learning for   Recommendation**|Xuheng Cai et.al.|[2302.08191v1](http://arxiv.org/abs/2302.08191v1)|[link](https://github.com/hkuds/lightgcl)|
 |**2023-02-16 10:10:31**|**Singular Value Representation: A New Graph Perspective On Neural   Networks**|Dan Meller et.al.|[2302.08183v1](http://arxiv.org/abs/2302.08183v1)|null|
-|**2023-02-16 03:18:43**|**Graph Adversarial Immunization for Certifiable Robustness**|Shuchang Tao et.al.|[2302.08051v1](http://arxiv.org/abs/2302.08051v1)|null|
+|**2023-02-16 03:18:43**|**Graph Adversarial Immunization for Certifiable Robustness**|Shuchang Tao et.al.|[2302.08051v1](http://arxiv.org/abs/2302.08051v1)|[link](https://github.com/TaoShuchang/AdvImmune)|
 |**2023-02-16 02:51:38**|**GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural   Networks**|Zemin Liu et.al.|[2302.08043v1](http://arxiv.org/abs/2302.08043v1)|null|
 |**2023-02-15 20:11:25**|**Interpretable Deep Learning Methods for Multiview Learning**|Hengkang Wang et.al.|[2302.07930v1](http://arxiv.org/abs/2302.07930v1)|null|
 |**2023-02-15 20:06:19**|**Less is different: why sparse networks with inhibition differ from   complete graphs**|Gustavo Menesse et.al.|[2302.07927v1](http://arxiv.org/abs/2302.07927v1)|null|
 |**2023-02-15 19:00:00**|**Discrete scale invariant fixed point in a quasiperiodic classical dimer   model**|Sounak Biswas et.al.|[2302.07879v1](http://arxiv.org/abs/2302.07879v1)|null|
 |**2023-02-15 15:56:21**|**From Prediction to Planning With Goal Conditioned Lane Graph Traversals**|Marcel Hallgarten et.al.|[2302.07753v1](http://arxiv.org/abs/2302.07753v1)|null|
 |**2023-02-15 14:31:24**|**Project Elements: A computational entity-component-system in a   scene-graph pythonic framework, for a neural, geometric computer graphics   curriculum**|George Papagiannakis et.al.|[2302.07691v1](http://arxiv.org/abs/2302.07691v1)|null|
-|**2023-02-15 04:16:34**|**CUTS: Neural Causal Discovery from Irregular Time-Series Data**|Yuxiao Cheng et.al.|[2302.07458v1](http://arxiv.org/abs/2302.07458v1)|null|
+|**2023-02-15 04:16:34**|**CUTS: Neural Causal Discovery from Irregular Time-Series Data**|Yuxiao Cheng et.al.|[2302.07458v1](http://arxiv.org/abs/2302.07458v1)|[link](https://github.com/jarrycyx/unn)|
 |**2023-02-14 21:51:56**|**Attacking Fake News Detectors via Manipulating News Social Engagement**|Haoran Wang et.al.|[2302.07363v1](http://arxiv.org/abs/2302.07363v1)|null|
 |**2023-02-14 20:48:00**|**Graph Attention Multi-Agent Fleet Autonomy for Advanced Air Mobility**|Malintha Fernando et.al.|[2302.07337v2](http://arxiv.org/abs/2302.07337v2)|null|
 |**2023-02-14 18:51:22**|**Energy Transformer**|Benjamin Hoover et.al.|[2302.07253v1](http://arxiv.org/abs/2302.07253v1)|[link](https://github.com/bhoov/energy-transformer-jax)|
 |**2023-02-14 18:42:17**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph   Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v2](http://arxiv.org/abs/2302.07243v2)|null|
-|**2023-02-14 14:42:54**|**A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph   Weisfeiler-Lehman Tests**|Bohang Zhang et.al.|[2302.07090v1](http://arxiv.org/abs/2302.07090v1)|null|
+|**2023-02-14 14:42:54**|**A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph   Weisfeiler-Lehman Tests**|Bohang Zhang et.al.|[2302.07090v1](http://arxiv.org/abs/2302.07090v1)|[link](https://github.com/subgraph23/swl)|
 |**2023-02-14 08:35:33**|**Over-Sampling Strategy in Feature Space for Graphs based   Class-imbalanced Bot Detection**|Shuhao Shi et.al.|[2302.06900v1](http://arxiv.org/abs/2302.06900v1)|null|
 |**2023-02-14 08:30:04**|**Message Passing Meets Graph Neural Networks: A New Paradigm for Massive   MIMO Systems**|Hengtao He et.al.|[2302.06896v1](http://arxiv.org/abs/2302.06896v1)|null|
 |**2023-02-14 05:16:12**|**Understanding Oversquashing in GNNs through the Lens of Effective   Resistance**|Mitchell Black et.al.|[2302.06835v1](http://arxiv.org/abs/2302.06835v1)|null|
@@ -49,7 +49,7 @@
 |**2023-02-10 22:33:35**|**"Software is the easy part of Software Engineering" -- Lessons and   Experiences from A Large-Scale, Multi-Team Capstone Course**|Ze Shi Li et.al.|[2302.05536v1](http://arxiv.org/abs/2302.05536v1)|null|
 |**2023-02-10 20:18:13**|**Data-Driven Web-Based Patching Management Tool Using Multi-Sensor   Pavement Structure Measurements**|Sneha Jha et.al.|[2302.05494v1](http://arxiv.org/abs/2302.05494v1)|null|
 |**2023-02-08 09:42:45**|**Dual-interest Factorization-heads Attention for Sequential   Recommendation**|Guanyu Lin et.al.|[2302.03965v3](http://arxiv.org/abs/2302.03965v3)|[link](https://github.com/tsinghua-fib-lab/WWW2023-DFAR)|
-|**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|null|
+|**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|[link](https://github.com/fdudsde/www2023consrec)|
 |**2023-02-02 17:03:40**|**Practical Bandits: An Industry Perspective**|Bram van den Akker et.al.|[2302.01223v1](http://arxiv.org/abs/2302.01223v1)|null|
 |**2023-02-02 14:15:36**|**PEPNet: Parameter and Embedding Personalized Network for Infusing with   Personalized Prior Information**|Jianxin Chang et.al.|[2302.01115v2](http://arxiv.org/abs/2302.01115v2)|null|
 |**2023-01-28 06:18:36**|**Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation**|Junsu Cho et.al.|[2301.12105v1](http://arxiv.org/abs/2301.12105v1)|null|
@@ -92,7 +92,7 @@
 |**2023-02-08 01:36:28**|**VIBFREQ1295: A New Database for Vibrational Frequency Calculations**|Juan C. Zapata Trujillo et.al.|[2302.03824v1](http://arxiv.org/abs/2302.03824v1)|null|
 |**2023-02-07 22:41:37**|**Does AI-Assisted Fact-Checking Disproportionately Benefit Majority   Groups Online?**|Terrence Neumann et.al.|[2302.03782v2](http://arxiv.org/abs/2302.03782v2)|null|
 |**2023-02-07 16:28:53**|**Quantum dynamics of coupled excitons and phonons in chain-like systems:   tensor train approaches and higher-order propagators**|Patrick Gelß et.al.|[2302.03568v2](http://arxiv.org/abs/2302.03568v2)|null|
-|**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|null|
+|**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|[link](https://github.com/fdudsde/www2023consrec)|
 |**2023-02-07 15:15:58**|**Multi-Task Deep Recommender Systems: A Survey**|Yuhao Wang et.al.|[2302.03525v2](http://arxiv.org/abs/2302.03525v2)|null|
 |**2023-02-05 20:30:48**|**Hatemongers ride on echo chambers to escalate hate speech diffusion**|Vasu Goel et.al.|[2302.02479v1](http://arxiv.org/abs/2302.02479v1)|[link](https://github.com/lcs2-iiitd/hate-mongerer-and-echo-chambers)|
 |**2023-02-04 09:46:47**|**Structural Explanations for Graph Neural Networks using HSIC**|Ayato Toyokuni et.al.|[2302.02139v1](http://arxiv.org/abs/2302.02139v1)|null|
