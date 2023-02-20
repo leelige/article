@@ -2,14 +2,21 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-17 16:49:10**|**Efficiently Forgetting What You Have Learned in Graph Representation   Learning via Projection**|Weilin Cong et.al.|[2302.08990v1](http://arxiv.org/abs/2302.08990v1)|null|
+|**2023-02-17 12:26:03**|**Learnable Topological Features for Phylogenetic Inference via Graph   Neural Networks**|Cheng Zhang et.al.|[2302.08840v1](http://arxiv.org/abs/2302.08840v1)|[link](https://github.com/zcrabbit/vbpi-gnn)|
+|**2023-02-17 11:09:59**|**G-Signatures: Global Graph Propagation With Randomized Signatures**|Bernhard Schäfl et.al.|[2302.08811v1](http://arxiv.org/abs/2302.08811v1)|null|
+|**2023-02-17 09:42:38**|**SE(3) symmetry lets graph neural networks learn arterial velocity   estimation from small datasets**|Julian Suk et.al.|[2302.08780v1](http://arxiv.org/abs/2302.08780v1)|null|
+|**2023-02-17 03:59:07**|**Multi-Behavior Graph Neural Networks for Recommender System**|Lianghao Xia et.al.|[2302.08678v1](http://arxiv.org/abs/2302.08678v1)|null|
+|**2023-02-17 03:40:17**|**Search to Capture Long-range Dependency with Stacking GNNs for Graph   Classification**|Lanning Wei et.al.|[2302.08671v1](http://arxiv.org/abs/2302.08671v1)|null|
+|**2023-02-17 01:21:45**|**Fast Temporal Wavelet Graph Neural Networks**|Duc Thien Nguyen et.al.|[2302.08643v1](http://arxiv.org/abs/2302.08643v1)|null|
 |**2023-02-16 18:40:24**|**Local-to-Global Information Communication for Real-Time Semantic   Segmentation Network Search**|Guangliang Cheng et.al.|[2302.08481v1](http://arxiv.org/abs/2302.08481v1)|null|
 |**2023-02-16 17:40:23**|**AirGNN: Graph Neural Network over the Air**|Zhan Gao et.al.|[2302.08447v1](http://arxiv.org/abs/2302.08447v1)|null|
 |**2023-02-16 16:47:55**|**Temporal Graph Neural Networks for Irregular Data**|Joel Oskarsson et.al.|[2302.08415v1](http://arxiv.org/abs/2302.08415v1)|[link](https://github.com/joeloskarsson/tgnn4i)|
 |**2023-02-16 13:23:01**|**On the BSM reach of four top production at the LHC**| Anisha et.al.|[2302.08281v1](http://arxiv.org/abs/2302.08281v1)|null|
 |**2023-02-16 12:13:46**|**Self-supervised Guided Hypergraph Feature Propagation for   Semi-supervised Classification with Missing Node Features**|Chengxiang Lei et.al.|[2302.08250v1](http://arxiv.org/abs/2302.08250v1)|null|
 |**2023-02-16 11:13:36**|**DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization**|Zhiqing Sun et.al.|[2302.08224v1](http://arxiv.org/abs/2302.08224v1)|[link](https://github.com/edward-sun/difusco)|
-|**2023-02-16 10:16:21**|**LightGCL: Simple Yet Effective Graph Contrastive Learning for   Recommendation**|Xuheng Cai et.al.|[2302.08191v1](http://arxiv.org/abs/2302.08191v1)|[link](https://github.com/hkuds/lightgcl)|
-|**2023-02-16 10:10:31**|**Singular Value Representation: A New Graph Perspective On Neural   Networks**|Dan Meller et.al.|[2302.08183v1](http://arxiv.org/abs/2302.08183v1)|null|
+|**2023-02-16 10:16:21**|**LightGCL: Simple Yet Effective Graph Contrastive Learning for   Recommendation**|Xuheng Cai et.al.|[2302.08191v2](http://arxiv.org/abs/2302.08191v2)|[link](https://github.com/hkuds/lightgcl)|
+|**2023-02-16 10:10:31**|**Singular Value Representation: A New Graph Perspective On Neural   Networks**|Dan Meller et.al.|[2302.08183v1](http://arxiv.org/abs/2302.08183v1)|[link](https://github.com/danmlr/svr)|
 |**2023-02-16 03:18:43**|**Graph Adversarial Immunization for Certifiable Robustness**|Shuchang Tao et.al.|[2302.08051v1](http://arxiv.org/abs/2302.08051v1)|[link](https://github.com/TaoShuchang/AdvImmune)|
 |**2023-02-16 02:51:38**|**GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural   Networks**|Zemin Liu et.al.|[2302.08043v1](http://arxiv.org/abs/2302.08043v1)|null|
 |**2023-02-15 20:11:25**|**Interpretable Deep Learning Methods for Multiview Learning**|Hengkang Wang et.al.|[2302.07930v1](http://arxiv.org/abs/2302.07930v1)|[link](https://github.com/lasandrall/ideepviewlearn)|
@@ -25,10 +32,3 @@
 |**2023-02-14 14:42:54**|**A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph   Weisfeiler-Lehman Tests**|Bohang Zhang et.al.|[2302.07090v1](http://arxiv.org/abs/2302.07090v1)|[link](https://github.com/subgraph23/swl)|
 |**2023-02-14 08:35:33**|**Over-Sampling Strategy in Feature Space for Graphs based   Class-imbalanced Bot Detection**|Shuhao Shi et.al.|[2302.06900v1](http://arxiv.org/abs/2302.06900v1)|null|
 |**2023-02-14 08:30:04**|**Message Passing Meets Graph Neural Networks: A New Paradigm for Massive   MIMO Systems**|Hengtao He et.al.|[2302.06896v1](http://arxiv.org/abs/2302.06896v1)|null|
-|**2023-02-14 05:16:12**|**Understanding Oversquashing in GNNs through the Lens of Effective   Resistance**|Mitchell Black et.al.|[2302.06835v1](http://arxiv.org/abs/2302.06835v1)|null|
-|**2023-02-14 00:02:31**|**EspalomaCharge: Machine learning-enabled ultra-fast partial charge   assignment**|Yuanqing Wang et.al.|[2302.06758v1](http://arxiv.org/abs/2302.06758v1)|[link](https://github.com/choderalab/espaloma_charge)|
-|**2023-02-13 18:35:51**|**Ergodicity-to-localization transition on random regular graphs with   large connectivity and in many-body quantum dots**|Jan-Niklas Herre et.al.|[2302.06581v1](http://arxiv.org/abs/2302.06581v1)|null|
-|**2023-02-13 18:13:29**|**Inferring Player Location in Sports Matches: Multi-Agent Spatial   Imputation from Limited Observations**|Gregory Everett et.al.|[2302.06569v1](http://arxiv.org/abs/2302.06569v1)|null|
-|**2023-02-13 11:56:45**|**Homophily-oriented Heterogeneous Graph Rewiring**|Jiayan Guo et.al.|[2302.06299v1](http://arxiv.org/abs/2302.06299v1)|null|
-|**2023-02-13 08:47:11**|**Multiscale Graph Neural Network Autoencoders for Interpretable   Scientific Machine Learning**|Shivam Barwey et.al.|[2302.06186v2](http://arxiv.org/abs/2302.06186v2)|null|
-|**2023-02-13 08:23:35**|**Learning and Aggregating Lane Graphs for Urban Automated Driving**|Martin Büchner et.al.|[2302.06175v1](http://arxiv.org/abs/2302.06175v1)|null|

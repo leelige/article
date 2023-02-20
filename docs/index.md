@@ -1,13 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2023-02-19 16:08:10 Asia/Shanghai
+ 自动更新 @ 2023-02-20 16:09:35 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-16 20:34:54**|**Towards Reliable Assessments of Demographic Disparities in Multi-Label   Image Classifiers**|Melissa Hall et.al.|[2302.08572v1](http://arxiv.org/abs/2302.08572v1)|null|
 |**2023-02-16 12:44:47**|**Fairly Adaptive Negative Sampling for Recommendations**|Xiao Chen et.al.|[2302.08266v1](http://arxiv.org/abs/2302.08266v1)|null|
-|**2023-02-14 06:42:09**|**AI Chat Assistants can Improve Conversations about Divisive Topics**|Lisa P. Argyle et.al.|[2302.07268v1](http://arxiv.org/abs/2302.07268v1)|null|
+|**2023-02-14 06:42:09**|**AI Chat Assistants can Improve Conversations about Divisive Topics**|Lisa P. Argyle et.al.|[2302.07268v2](http://arxiv.org/abs/2302.07268v2)|null|
 |**2023-02-13 16:31:24**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic   and Molecular Physics, Condensed Matter and Materials Physics, and Earth   Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
 |**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v1](http://arxiv.org/abs/2302.06333v1)|[link](https://github.com/newlei/fda)|
 |**2023-02-10 22:33:05**|**Leveraging Diversity in Software Engineering Education through Community   Engaged Learning and a Supportive Network**|Nowshin Nawar Arony et.al.|[2302.07100v1](http://arxiv.org/abs/2302.07100v1)|null|
@@ -35,13 +36,13 @@
 |**2023-01-19 05:02:55**|**Unposed: Unsupervised Pose Estimation based Product Image   Recommendations**|Saurabh Sharma et.al.|[2301.07879v1](http://arxiv.org/abs/2301.07879v1)|null|
 |**2023-01-17 17:49:04**|**Optimal Algorithms for Latent Bandits with Cluster Structure**|Soumyabrata Pal et.al.|[2301.07040v1](http://arxiv.org/abs/2301.07040v1)|null|
 |**2023-01-16 10:49:39**|**A First Look at the JWST MIRI/LRS Phase Curve of WASP-43b**|Taylor J. Bell et.al.|[2301.06350v1](http://arxiv.org/abs/2301.06350v1)|null|
-|**2023-01-13 08:24:21**|**Automated speech- and text-based classification of neuropsychiatric   conditions in a multidiagnostic setting**|Lasse Hansen et.al.|[2301.06916v2](http://arxiv.org/abs/2301.06916v2)|null|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-17 03:59:07**|**Multi-Behavior Graph Neural Networks for Recommender System**|Lianghao Xia et.al.|[2302.08678v1](http://arxiv.org/abs/2302.08678v1)|null|
 |**2023-02-16 07:38:51**|**Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video   Rank Models**|Xuanji Xiao et.al.|[2302.08128v1](http://arxiv.org/abs/2302.08128v1)|null|
 |**2023-02-14 09:03:35**|**Effective Dimension in Bandit Problems under Censorship**|Gauthier Guinet et.al.|[2302.06916v1](http://arxiv.org/abs/2302.06916v1)|null|
 |**2023-02-12 19:51:32**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain   Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|null|
@@ -71,21 +72,27 @@
 |**2022-09-04 08:09:31**|**Hierarchical Transformer with Spatio-Temporal Context Aggregation for   Next Point-of-Interest Recommendation**|Jiayi Xie et.al.|[2209.01559v1](http://arxiv.org/abs/2209.01559v1)|[link](https://github.com/JennyXieJiayi/STAR-HiT)|
 |**2022-08-27 13:16:47**|**Multi-level Contrastive Learning Framework for Sequential Recommendation**|Ziyang Wang et.al.|[2208.13007v1](http://arxiv.org/abs/2208.13007v1)|null|
 |**2022-08-17 01:25:26**|**Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest   Recommendation**|Shengyu Zhang et.al.|[2208.08011v1](http://arxiv.org/abs/2208.08011v1)|[link](https://github.com/deersheep0314/re4-learning-to-re-contrast-re-attend-re-construct-for-multi-interest-recommendation)|
-|**2022-08-09 08:33:32**|**IDNP: Interest Dynamics Modeling using Generative Neural Processes for   Sequential Recommendation**|Jing Du et.al.|[2208.04600v1](http://arxiv.org/abs/2208.04600v1)|null|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-17 16:49:10**|**Efficiently Forgetting What You Have Learned in Graph Representation   Learning via Projection**|Weilin Cong et.al.|[2302.08990v1](http://arxiv.org/abs/2302.08990v1)|null|
+|**2023-02-17 12:26:03**|**Learnable Topological Features for Phylogenetic Inference via Graph   Neural Networks**|Cheng Zhang et.al.|[2302.08840v1](http://arxiv.org/abs/2302.08840v1)|[link](https://github.com/zcrabbit/vbpi-gnn)|
+|**2023-02-17 11:09:59**|**G-Signatures: Global Graph Propagation With Randomized Signatures**|Bernhard Schäfl et.al.|[2302.08811v1](http://arxiv.org/abs/2302.08811v1)|null|
+|**2023-02-17 09:42:38**|**SE(3) symmetry lets graph neural networks learn arterial velocity   estimation from small datasets**|Julian Suk et.al.|[2302.08780v1](http://arxiv.org/abs/2302.08780v1)|null|
+|**2023-02-17 03:59:07**|**Multi-Behavior Graph Neural Networks for Recommender System**|Lianghao Xia et.al.|[2302.08678v1](http://arxiv.org/abs/2302.08678v1)|null|
+|**2023-02-17 03:40:17**|**Search to Capture Long-range Dependency with Stacking GNNs for Graph   Classification**|Lanning Wei et.al.|[2302.08671v1](http://arxiv.org/abs/2302.08671v1)|null|
+|**2023-02-17 01:21:45**|**Fast Temporal Wavelet Graph Neural Networks**|Duc Thien Nguyen et.al.|[2302.08643v1](http://arxiv.org/abs/2302.08643v1)|null|
 |**2023-02-16 18:40:24**|**Local-to-Global Information Communication for Real-Time Semantic   Segmentation Network Search**|Guangliang Cheng et.al.|[2302.08481v1](http://arxiv.org/abs/2302.08481v1)|null|
 |**2023-02-16 17:40:23**|**AirGNN: Graph Neural Network over the Air**|Zhan Gao et.al.|[2302.08447v1](http://arxiv.org/abs/2302.08447v1)|null|
 |**2023-02-16 16:47:55**|**Temporal Graph Neural Networks for Irregular Data**|Joel Oskarsson et.al.|[2302.08415v1](http://arxiv.org/abs/2302.08415v1)|[link](https://github.com/joeloskarsson/tgnn4i)|
 |**2023-02-16 13:23:01**|**On the BSM reach of four top production at the LHC**| Anisha et.al.|[2302.08281v1](http://arxiv.org/abs/2302.08281v1)|null|
 |**2023-02-16 12:13:46**|**Self-supervised Guided Hypergraph Feature Propagation for   Semi-supervised Classification with Missing Node Features**|Chengxiang Lei et.al.|[2302.08250v1](http://arxiv.org/abs/2302.08250v1)|null|
 |**2023-02-16 11:13:36**|**DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization**|Zhiqing Sun et.al.|[2302.08224v1](http://arxiv.org/abs/2302.08224v1)|[link](https://github.com/edward-sun/difusco)|
-|**2023-02-16 10:16:21**|**LightGCL: Simple Yet Effective Graph Contrastive Learning for   Recommendation**|Xuheng Cai et.al.|[2302.08191v1](http://arxiv.org/abs/2302.08191v1)|[link](https://github.com/hkuds/lightgcl)|
-|**2023-02-16 10:10:31**|**Singular Value Representation: A New Graph Perspective On Neural   Networks**|Dan Meller et.al.|[2302.08183v1](http://arxiv.org/abs/2302.08183v1)|null|
+|**2023-02-16 10:16:21**|**LightGCL: Simple Yet Effective Graph Contrastive Learning for   Recommendation**|Xuheng Cai et.al.|[2302.08191v2](http://arxiv.org/abs/2302.08191v2)|[link](https://github.com/hkuds/lightgcl)|
+|**2023-02-16 10:10:31**|**Singular Value Representation: A New Graph Perspective On Neural   Networks**|Dan Meller et.al.|[2302.08183v1](http://arxiv.org/abs/2302.08183v1)|[link](https://github.com/danmlr/svr)|
 |**2023-02-16 03:18:43**|**Graph Adversarial Immunization for Certifiable Robustness**|Shuchang Tao et.al.|[2302.08051v1](http://arxiv.org/abs/2302.08051v1)|[link](https://github.com/TaoShuchang/AdvImmune)|
 |**2023-02-16 02:51:38**|**GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural   Networks**|Zemin Liu et.al.|[2302.08043v1](http://arxiv.org/abs/2302.08043v1)|null|
 |**2023-02-15 20:11:25**|**Interpretable Deep Learning Methods for Multiview Learning**|Hengkang Wang et.al.|[2302.07930v1](http://arxiv.org/abs/2302.07930v1)|[link](https://github.com/lasandrall/ideepviewlearn)|
@@ -101,10 +108,3 @@
 |**2023-02-14 14:42:54**|**A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph   Weisfeiler-Lehman Tests**|Bohang Zhang et.al.|[2302.07090v1](http://arxiv.org/abs/2302.07090v1)|[link](https://github.com/subgraph23/swl)|
 |**2023-02-14 08:35:33**|**Over-Sampling Strategy in Feature Space for Graphs based   Class-imbalanced Bot Detection**|Shuhao Shi et.al.|[2302.06900v1](http://arxiv.org/abs/2302.06900v1)|null|
 |**2023-02-14 08:30:04**|**Message Passing Meets Graph Neural Networks: A New Paradigm for Massive   MIMO Systems**|Hengtao He et.al.|[2302.06896v1](http://arxiv.org/abs/2302.06896v1)|null|
-|**2023-02-14 05:16:12**|**Understanding Oversquashing in GNNs through the Lens of Effective   Resistance**|Mitchell Black et.al.|[2302.06835v1](http://arxiv.org/abs/2302.06835v1)|null|
-|**2023-02-14 00:02:31**|**EspalomaCharge: Machine learning-enabled ultra-fast partial charge   assignment**|Yuanqing Wang et.al.|[2302.06758v1](http://arxiv.org/abs/2302.06758v1)|[link](https://github.com/choderalab/espaloma_charge)|
-|**2023-02-13 18:35:51**|**Ergodicity-to-localization transition on random regular graphs with   large connectivity and in many-body quantum dots**|Jan-Niklas Herre et.al.|[2302.06581v1](http://arxiv.org/abs/2302.06581v1)|null|
-|**2023-02-13 18:13:29**|**Inferring Player Location in Sports Matches: Multi-Agent Spatial   Imputation from Limited Observations**|Gregory Everett et.al.|[2302.06569v1](http://arxiv.org/abs/2302.06569v1)|null|
-|**2023-02-13 11:56:45**|**Homophily-oriented Heterogeneous Graph Rewiring**|Jiayan Guo et.al.|[2302.06299v1](http://arxiv.org/abs/2302.06299v1)|null|
-|**2023-02-13 08:47:11**|**Multiscale Graph Neural Network Autoencoders for Interpretable   Scientific Machine Learning**|Shivam Barwey et.al.|[2302.06186v2](http://arxiv.org/abs/2302.06186v2)|null|
-|**2023-02-13 08:23:35**|**Learning and Aggregating Lane Graphs for Urban Automated Driving**|Martin Büchner et.al.|[2302.06175v1](http://arxiv.org/abs/2302.06175v1)|null|
