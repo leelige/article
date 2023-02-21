@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-20 13:45:55**|**Dynamic Graph Neural Network with Adaptive Edge Attributes for Air   Quality Predictions**|Jing Xu et.al.|[2302.09977v1](http://arxiv.org/abs/2302.09977v1)|null|
+|**2023-02-20 04:23:34**|**Finding Heterophilic Neighbors via Confidence-based Subgraph Matching   for Semi-supervised Node Classification**|Yoonhyuk Choi et.al.|[2302.09755v1](http://arxiv.org/abs/2302.09755v1)|null|
+|**2023-02-19 11:10:56**|**Chemical Environment Adaptive Learning for Optical Band Gap Prediction   of Doped Graphitic Carbon Nitride Nanosheets**|Chen Chen et.al.|[2302.09539v1](http://arxiv.org/abs/2302.09539v1)|null|
+|**2023-02-19 10:34:08**|**Pseudo Contrastive Learning for Graph-based Semi-supervised Learning**|Weigang Lu et.al.|[2302.09532v1](http://arxiv.org/abs/2302.09532v1)|null|
+|**2023-02-18 12:58:50**|**Heterogeneous Graph Convolutional Neural Network via Hodge-Laplacian for   Brain Functional Data**|Jinghan Huang et.al.|[2302.09323v1](http://arxiv.org/abs/2302.09323v1)|null|
+|**2023-02-18 12:47:23**|**Implicit Solvent Approach Based on Generalised Born and Transferable   Graph Neural Networks for Molecular Dynamics Simulations**|Paul Katzberger et.al.|[2302.09321v1](http://arxiv.org/abs/2302.09321v1)|null|
 |**2023-02-17 16:49:10**|**Efficiently Forgetting What You Have Learned in Graph Representation   Learning via Projection**|Weilin Cong et.al.|[2302.08990v1](http://arxiv.org/abs/2302.08990v1)|null|
 |**2023-02-17 12:26:03**|**Learnable Topological Features for Phylogenetic Inference via Graph   Neural Networks**|Cheng Zhang et.al.|[2302.08840v1](http://arxiv.org/abs/2302.08840v1)|[link](https://github.com/zcrabbit/vbpi-gnn)|
 |**2023-02-17 11:09:59**|**G-Signatures: Global Graph Propagation With Randomized Signatures**|Bernhard Schäfl et.al.|[2302.08811v1](http://arxiv.org/abs/2302.08811v1)|null|
@@ -26,9 +32,3 @@
 |**2023-02-15 14:31:24**|**Project Elements: A computational entity-component-system in a   scene-graph pythonic framework, for a neural, geometric computer graphics   curriculum**|George Papagiannakis et.al.|[2302.07691v1](http://arxiv.org/abs/2302.07691v1)|null|
 |**2023-02-15 04:16:34**|**CUTS: Neural Causal Discovery from Irregular Time-Series Data**|Yuxiao Cheng et.al.|[2302.07458v1](http://arxiv.org/abs/2302.07458v1)|[link](https://github.com/jarrycyx/unn)|
 |**2023-02-14 21:51:56**|**Attacking Fake News Detectors via Manipulating News Social Engagement**|Haoran Wang et.al.|[2302.07363v1](http://arxiv.org/abs/2302.07363v1)|null|
-|**2023-02-14 20:48:00**|**Graph Attention Multi-Agent Fleet Autonomy for Advanced Air Mobility**|Malintha Fernando et.al.|[2302.07337v2](http://arxiv.org/abs/2302.07337v2)|null|
-|**2023-02-14 18:51:22**|**Energy Transformer**|Benjamin Hoover et.al.|[2302.07253v1](http://arxiv.org/abs/2302.07253v1)|[link](https://github.com/bhoov/energy-transformer-jax)|
-|**2023-02-14 18:42:17**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph   Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v2](http://arxiv.org/abs/2302.07243v2)|null|
-|**2023-02-14 14:42:54**|**A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph   Weisfeiler-Lehman Tests**|Bohang Zhang et.al.|[2302.07090v1](http://arxiv.org/abs/2302.07090v1)|[link](https://github.com/subgraph23/swl)|
-|**2023-02-14 08:35:33**|**Over-Sampling Strategy in Feature Space for Graphs based   Class-imbalanced Bot Detection**|Shuhao Shi et.al.|[2302.06900v1](http://arxiv.org/abs/2302.06900v1)|null|
-|**2023-02-14 08:30:04**|**Message Passing Meets Graph Neural Networks: A New Paradigm for Massive   MIMO Systems**|Hengtao He et.al.|[2302.06896v1](http://arxiv.org/abs/2302.06896v1)|null|
