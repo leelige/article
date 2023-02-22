@@ -2,13 +2,14 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-02-20 13:30:12**|**Social4Rec: Distilling User Preference from Social Graph for Video   Recommendation in Tencent**|Xuanji Xiao et.al.|[2302.09971v1](http://arxiv.org/abs/2302.09971v1)|[link](https://github.com/Social4Rec/SocialN)|
+|**2023-02-21 10:06:01**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
+|**2023-02-20 13:30:12**|**Social4Rec: Distilling User Preference from Social Graph for Video   Recommendation in Tencent**|Xuanji Xiao et.al.|[2302.09971v1](http://arxiv.org/abs/2302.09971v1)|[link](https://github.com/social4rec/socialnet)|
 |**2023-02-20 11:57:12**|**Mysterious and Manipulative Black Boxes: A Qualitative Analysis of   Perceptions on Recommender Systems**|Jukka Ruohonen et.al.|[2302.09933v1](http://arxiv.org/abs/2302.09933v1)|null|
 |**2023-02-16 20:34:54**|**Towards Reliable Assessments of Demographic Disparities in Multi-Label   Image Classifiers**|Melissa Hall et.al.|[2302.08572v1](http://arxiv.org/abs/2302.08572v1)|null|
 |**2023-02-16 12:44:47**|**Fairly Adaptive Negative Sampling for Recommendations**|Xiao Chen et.al.|[2302.08266v1](http://arxiv.org/abs/2302.08266v1)|null|
-|**2023-02-14 06:42:09**|**AI Chat Assistants can Improve Conversations about Divisive Topics**|Lisa P. Argyle et.al.|[2302.07268v2](http://arxiv.org/abs/2302.07268v2)|null|
+|**2023-02-14 06:42:09**|**AI Chat Assistants can Improve Conversations about Divisive Topics**|Lisa P. Argyle et.al.|[2302.07268v3](http://arxiv.org/abs/2302.07268v3)|null|
 |**2023-02-13 16:31:24**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic   and Molecular Physics, Condensed Matter and Materials Physics, and Earth   Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
-|**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v1](http://arxiv.org/abs/2302.06333v1)|[link](https://github.com/newlei/fda)|
+|**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v2](http://arxiv.org/abs/2302.06333v2)|[link](https://github.com/newlei/fda)|
 |**2023-02-10 22:33:05**|**Leveraging Diversity in Software Engineering Education through Community   Engaged Learning and a Supportive Network**|Nowshin Nawar Arony et.al.|[2302.07100v1](http://arxiv.org/abs/2302.07100v1)|null|
 |**2023-02-10 15:17:48**|**Trauma-Informed Social Media: Towards Solutions for Reducing and Healing   Online Harm**|Carol F. Scott et.al.|[2302.05312v1](http://arxiv.org/abs/2302.05312v1)|null|
 |**2023-02-09 14:55:17**|**Learning Mixtures of Markov Chains with Quality Guarantees**|Fabian Spaeh et.al.|[2302.04680v1](http://arxiv.org/abs/2302.04680v1)|null|
@@ -31,4 +32,3 @@
 |**2023-01-24 13:26:42**|**Bridging Systems: Open Problems for Countering Destructive Divisiveness   across Ranking, Recommenders, and Governance**|Aviv Ovadya et.al.|[2301.09976v1](http://arxiv.org/abs/2301.09976v1)|null|
 |**2023-01-22 13:40:29**|**Selecting a suitable Parallel Label-propagation based algorithm for   Disjoint Community Detection**|Subhajit Sahu et.al.|[2301.09125v1](http://arxiv.org/abs/2301.09125v1)|null|
 |**2023-01-19 18:09:43**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
-|**2023-01-19 05:02:55**|**Unposed: Unsupervised Pose Estimation based Product Image   Recommendations**|Saurabh Sharma et.al.|[2301.07879v1](http://arxiv.org/abs/2301.07879v1)|null|

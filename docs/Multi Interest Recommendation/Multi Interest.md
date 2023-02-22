@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-21 10:06:01**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
 |**2023-02-17 03:59:07**|**Multi-Behavior Graph Neural Networks for Recommender System**|Lianghao Xia et.al.|[2302.08678v1](http://arxiv.org/abs/2302.08678v1)|null|
 |**2023-02-16 07:38:51**|**Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video   Rank Models**|Xuanji Xiao et.al.|[2302.08128v1](http://arxiv.org/abs/2302.08128v1)|null|
 |**2023-02-14 09:03:35**|**Effective Dimension in Bandit Problems under Censorship**|Gauthier Guinet et.al.|[2302.06916v1](http://arxiv.org/abs/2302.06916v1)|null|
@@ -31,4 +32,3 @@
 |**2022-09-06 22:25:36**|**User recommendation system based on MIND dataset**|Niran A. Abdulhussein et.al.|[2209.06131v1](http://arxiv.org/abs/2209.06131v1)|null|
 |**2022-09-04 08:09:31**|**Hierarchical Transformer with Spatio-Temporal Context Aggregation for   Next Point-of-Interest Recommendation**|Jiayi Xie et.al.|[2209.01559v1](http://arxiv.org/abs/2209.01559v1)|[link](https://github.com/JennyXieJiayi/STAR-HiT)|
 |**2022-08-27 13:16:47**|**Multi-level Contrastive Learning Framework for Sequential Recommendation**|Ziyang Wang et.al.|[2208.13007v1](http://arxiv.org/abs/2208.13007v1)|null|
-|**2022-08-17 01:25:26**|**Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest   Recommendation**|Shengyu Zhang et.al.|[2208.08011v1](http://arxiv.org/abs/2208.08011v1)|[link](https://github.com/deersheep0314/re4-learning-to-re-contrast-re-attend-re-construct-for-multi-interest-recommendation)|
