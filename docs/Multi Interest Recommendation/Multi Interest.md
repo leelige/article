@@ -2,11 +2,13 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-22 05:39:50**|**Multi-Objective Personalization in Multi-Stakeholder Organizational Bulk   E-mail: A Field Experiment**|Ruoyan Kong et.al.|[2302.11156v1](http://arxiv.org/abs/2302.11156v1)|null|
+|**2023-02-22 01:34:51**|**A Survey on User Behavior Modeling in Recommender Systems**|Zhicheng He et.al.|[2302.11087v1](http://arxiv.org/abs/2302.11087v1)|null|
 |**2023-02-21 10:06:01**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
 |**2023-02-17 03:59:07**|**Multi-Behavior Graph Neural Networks for Recommender System**|Lianghao Xia et.al.|[2302.08678v1](http://arxiv.org/abs/2302.08678v1)|null|
 |**2023-02-16 07:38:51**|**Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video   Rank Models**|Xuanji Xiao et.al.|[2302.08128v1](http://arxiv.org/abs/2302.08128v1)|null|
 |**2023-02-14 09:03:35**|**Effective Dimension in Bandit Problems under Censorship**|Gauthier Guinet et.al.|[2302.06916v1](http://arxiv.org/abs/2302.06916v1)|null|
-|**2023-02-12 19:51:32**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain   Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|null|
+|**2023-02-12 19:51:32**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain   Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v2](http://arxiv.org/abs/2302.05990v2)|null|
 |**2023-02-12 14:03:35**|**Neural Node Matching for Multi-Target Cross Domain Recommendation**|Wujiang Xu et.al.|[2302.05919v1](http://arxiv.org/abs/2302.05919v1)|null|
 |**2023-02-10 22:33:35**|**"Software is the easy part of Software Engineering" -- Lessons and   Experiences from A Large-Scale, Multi-Team Capstone Course**|Ze Shi Li et.al.|[2302.05536v1](http://arxiv.org/abs/2302.05536v1)|null|
 |**2023-02-10 20:18:13**|**Data-Driven Web-Based Patching Management Tool Using Multi-Sensor   Pavement Structure Measurements**|Sneha Jha et.al.|[2302.05494v1](http://arxiv.org/abs/2302.05494v1)|null|
@@ -30,5 +32,3 @@
 |**2022-09-16 12:07:43**|**PARSRec: Explainable Personalized Attention-fused Recurrent Sequential   Recommendation Using Session Partial Actions**|Ehsan Gholami et.al.|[2209.13015v1](http://arxiv.org/abs/2209.13015v1)|[link](https://github.com/ehgh/parsrec)|
 |**2022-09-10 04:21:25**|**Causal Intervention for Fairness in Multi-behavior Recommendation**|Xi Wang et.al.|[2209.04589v1](http://arxiv.org/abs/2209.04589v1)|null|
 |**2022-09-06 22:25:36**|**User recommendation system based on MIND dataset**|Niran A. Abdulhussein et.al.|[2209.06131v1](http://arxiv.org/abs/2209.06131v1)|null|
-|**2022-09-04 08:09:31**|**Hierarchical Transformer with Spatio-Temporal Context Aggregation for   Next Point-of-Interest Recommendation**|Jiayi Xie et.al.|[2209.01559v1](http://arxiv.org/abs/2209.01559v1)|[link](https://github.com/JennyXieJiayi/STAR-HiT)|
-|**2022-08-27 13:16:47**|**Multi-level Contrastive Learning Framework for Sequential Recommendation**|Ziyang Wang et.al.|[2208.13007v1](http://arxiv.org/abs/2208.13007v1)|null|
