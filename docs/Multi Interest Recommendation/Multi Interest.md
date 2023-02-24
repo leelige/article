@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-22 20:29:03**|**Sequential Re-estimation Learning of Optimal Individualized Treatment   Rules Among Ordinal Treatments with Application to Recommended Intervals   Between Blood Donations**|Yuejia Xu et.al.|[2302.11638v1](http://arxiv.org/abs/2302.11638v1)|null|
 |**2023-02-22 05:39:50**|**Multi-Objective Personalization in Multi-Stakeholder Organizational Bulk   E-mail: A Field Experiment**|Ruoyan Kong et.al.|[2302.11156v1](http://arxiv.org/abs/2302.11156v1)|null|
 |**2023-02-22 01:34:51**|**A Survey on User Behavior Modeling in Recommender Systems**|Zhicheng He et.al.|[2302.11087v1](http://arxiv.org/abs/2302.11087v1)|null|
 |**2023-02-21 10:06:01**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
@@ -31,4 +32,3 @@
 |**2022-09-30 08:02:18**|**The Minority Matters: A Diversity-Promoting Collaborative Metric   Learning Algorithm**|Shilong Bao et.al.|[2209.15292v1](http://arxiv.org/abs/2209.15292v1)|null|
 |**2022-09-16 12:07:43**|**PARSRec: Explainable Personalized Attention-fused Recurrent Sequential   Recommendation Using Session Partial Actions**|Ehsan Gholami et.al.|[2209.13015v1](http://arxiv.org/abs/2209.13015v1)|[link](https://github.com/ehgh/parsrec)|
 |**2022-09-10 04:21:25**|**Causal Intervention for Fairness in Multi-behavior Recommendation**|Xi Wang et.al.|[2209.04589v1](http://arxiv.org/abs/2209.04589v1)|null|
-|**2022-09-06 22:25:36**|**User recommendation system based on MIND dataset**|Niran A. Abdulhussein et.al.|[2209.06131v1](http://arxiv.org/abs/2209.06131v1)|null|

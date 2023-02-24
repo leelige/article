@@ -2,8 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-23 14:11:08**|**A Comparison of Modeling Preprocessing Techniques**|Tosan Johnson et.al.|[2302.12042v1](http://arxiv.org/abs/2302.12042v1)|null|
 |**2023-02-21 10:06:01**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
-|**2023-02-20 13:30:12**|**Social4Rec: Distilling User Preference from Social Graph for Video   Recommendation in Tencent**|Xuanji Xiao et.al.|[2302.09971v1](http://arxiv.org/abs/2302.09971v1)|[link](https://github.com/social4rec/socialnet)|
+|**2023-02-20 13:30:12**|**Social4Rec: Distilling User Preference from Social Graph for Video   Recommendation in Tencent**|Xuanji Xiao et.al.|[2302.09971v2](http://arxiv.org/abs/2302.09971v2)|[link](https://github.com/social4rec/socialnet)|
 |**2023-02-20 11:57:12**|**Mysterious and Manipulative Black Boxes: A Qualitative Analysis of   Perceptions on Recommender Systems**|Jukka Ruohonen et.al.|[2302.09933v1](http://arxiv.org/abs/2302.09933v1)|null|
 |**2023-02-16 20:34:54**|**Towards Reliable Assessments of Demographic Disparities in Multi-Label   Image Classifiers**|Melissa Hall et.al.|[2302.08572v1](http://arxiv.org/abs/2302.08572v1)|null|
 |**2023-02-16 12:44:47**|**Fairly Adaptive Negative Sampling for Recommendations**|Xiao Chen et.al.|[2302.08266v1](http://arxiv.org/abs/2302.08266v1)|null|
@@ -31,4 +32,3 @@
 |**2023-01-27 07:59:31**|**Down the Rabbit Hole: Detecting Online Extremism, Radicalisation, and   Politicised Hate Speech**|Jarod Govers et.al.|[2301.11579v1](http://arxiv.org/abs/2301.11579v1)|null|
 |**2023-01-24 13:26:42**|**Bridging Systems: Open Problems for Countering Destructive Divisiveness   across Ranking, Recommenders, and Governance**|Aviv Ovadya et.al.|[2301.09976v1](http://arxiv.org/abs/2301.09976v1)|null|
 |**2023-01-22 13:40:29**|**Selecting a suitable Parallel Label-propagation based algorithm for   Disjoint Community Detection**|Subhajit Sahu et.al.|[2301.09125v1](http://arxiv.org/abs/2301.09125v1)|null|
-|**2023-01-19 18:09:43**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
