@@ -16,7 +16,7 @@
 |**2023-02-22 12:25:07**|**HINormer: Representation Learning On Heterogeneous Information Networks   with Graph Transformer**|Qiheng Mao et.al.|[2302.11329v1](http://arxiv.org/abs/2302.11329v1)|null|
 |**2023-02-22 12:02:23**|**Graph Construction using Principal Axis Trees for Simple Graph   Convolution**|Mashaan Alshammari et.al.|[2302.12000v1](http://arxiv.org/abs/2302.12000v1)|[link](https://github.com/mashaan14/PAtree-SGC)|
 |**2023-02-22 11:50:39**|**Time-varying Signals Recovery via Graph Neural Networks**|Jhon A. Castro-Correa et.al.|[2302.11313v1](http://arxiv.org/abs/2302.11313v1)|null|
-|**2023-02-22 11:49:19**|**Random Projection Forest Initialization for Graph Convolutional Networks**|Mashaan Alshammari et.al.|[2302.12001v1](http://arxiv.org/abs/2302.12001v1)|[link](https://github.com/mashaan14/RPTree)|
+|**2023-02-22 11:49:19**|**Random Projection Forest Initialization for Graph Convolutional Networks**|Mashaan Alshammari et.al.|[2302.12001v1](http://arxiv.org/abs/2302.12001v1)|[link](https://github.com/mashaan14/RPTree-GCN)|
 |**2023-02-22 08:18:49**|**Few-Shot Structured Policy Learning for Multi-Domain and Multi-Task   Dialogues**|Thibault Cordier et.al.|[2302.11199v1](http://arxiv.org/abs/2302.11199v1)|null|
 |**2023-02-22 05:47:45**|**BUAA_BIGSCity: Spatial-Temporal Graph Neural Network for Wind Power   Forecasting in Baidu KDD CUP 2022**|Jiawei Jiang et.al.|[2302.11159v1](http://arxiv.org/abs/2302.11159v1)|[link](https://github.com/buaabigscity/kddcup2022)|
 |**2023-02-22 00:04:12**|**Universal Morphology Control via Contextual Modulation**|Zheng Xiong et.al.|[2302.11070v1](http://arxiv.org/abs/2302.11070v1)|null|
