@@ -2,7 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-02-23 14:11:08**|**A Comparison of Modeling Preprocessing Techniques**|Tosan Johnson et.al.|[2302.12042v1](http://arxiv.org/abs/2302.12042v1)|null|
+|**2023-02-23 14:11:08**|**A Comparison of Modeling Preprocessing Techniques**|Tosan Johnson et.al.|[2302.12042v2](http://arxiv.org/abs/2302.12042v2)|null|
 |**2023-02-21 10:06:01**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
 |**2023-02-20 13:30:12**|**Social4Rec: Distilling User Preference from Social Graph for Video   Recommendation in Tencent**|Xuanji Xiao et.al.|[2302.09971v2](http://arxiv.org/abs/2302.09971v2)|[link](https://github.com/social4rec/socialnet)|
 |**2023-02-20 11:57:12**|**Mysterious and Manipulative Black Boxes: A Qualitative Analysis of   Perceptions on Recommender Systems**|Jukka Ruohonen et.al.|[2302.09933v1](http://arxiv.org/abs/2302.09933v1)|null|
