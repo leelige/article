@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-28 00:33:56**|**Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by   Major US ISPs**|Udit Paul et.al.|[2302.14216v1](http://arxiv.org/abs/2302.14216v1)|null|
+|**2023-02-25 12:23:32**|**Identification of pattern mining algorithm for rugby league players   positional groups separation based on movement patterns**|Victor Elijah Adeyemo et.al.|[2302.14058v1](http://arxiv.org/abs/2302.14058v1)|null|
 |**2023-02-23 14:11:08**|**A Comparison of Modeling Preprocessing Techniques**|Tosan Johnson et.al.|[2302.12042v2](http://arxiv.org/abs/2302.12042v2)|null|
 |**2023-02-21 10:06:01**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
 |**2023-02-20 13:30:12**|**Social4Rec: Distilling User Preference from Social Graph for Video   Recommendation in Tencent**|Xuanji Xiao et.al.|[2302.09971v2](http://arxiv.org/abs/2302.09971v2)|[link](https://github.com/social4rec/socialnet)|
@@ -30,5 +32,3 @@
 |**2023-01-31 08:56:40**|**An investigation of challenges encountered when specifying training data   and runtime monitors for safety critical ML applications**|Hans-Martin Heyn et.al.|[2301.13476v1](http://arxiv.org/abs/2301.13476v1)|null|
 |**2023-01-30 01:32:17**|**Using cluster analysis on municipal statistical data to configure public   policies about Water, Sanitation and Hygiene in Venezuela**|Saul E. Buitrago-Boret et.al.|[2301.12604v1](http://arxiv.org/abs/2301.12604v1)|null|
 |**2023-01-27 07:59:31**|**Down the Rabbit Hole: Detecting Online Extremism, Radicalisation, and   Politicised Hate Speech**|Jarod Govers et.al.|[2301.11579v1](http://arxiv.org/abs/2301.11579v1)|null|
-|**2023-01-24 13:26:42**|**Bridging Systems: Open Problems for Countering Destructive Divisiveness   across Ranking, Recommenders, and Governance**|Aviv Ovadya et.al.|[2301.09976v1](http://arxiv.org/abs/2301.09976v1)|null|
-|**2023-01-22 13:40:29**|**Selecting a suitable Parallel Label-propagation based algorithm for   Disjoint Community Detection**|Subhajit Sahu et.al.|[2301.09125v1](http://arxiv.org/abs/2301.09125v1)|null|
