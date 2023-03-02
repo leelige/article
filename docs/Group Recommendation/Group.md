@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-01 17:12:49**|**Fairness Evaluation in Text Classification: Machine Learning   Practitioner Perspectives of Individual and Group Fairness**|Zahra Ashktorab et.al.|[2303.00673v1](http://arxiv.org/abs/2303.00673v1)|null|
+|**2023-03-01 10:39:58**|**A Study on Accuracy, Miscalibration, and Popularity Bias in   Recommendations**|Dominik Kowald et.al.|[2303.00400v1](http://arxiv.org/abs/2303.00400v1)|null|
+|**2023-03-01 02:29:30**|**Towards a real-time demand response framework for smart communities   using clustering techniques**|Sotiris Pelekis et.al.|[2303.00186v1](http://arxiv.org/abs/2303.00186v1)|null|
 |**2023-02-28 00:33:56**|**Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by   Major US ISPs**|Udit Paul et.al.|[2302.14216v1](http://arxiv.org/abs/2302.14216v1)|null|
 |**2023-02-25 12:23:32**|**Identification of pattern mining algorithm for rugby league players   positional groups separation based on movement patterns**|Victor Elijah Adeyemo et.al.|[2302.14058v1](http://arxiv.org/abs/2302.14058v1)|null|
 |**2023-02-23 14:11:08**|**A Comparison of Modeling Preprocessing Techniques**|Tosan Johnson et.al.|[2302.12042v2](http://arxiv.org/abs/2302.12042v2)|null|
@@ -29,6 +32,3 @@
 |**2023-02-04 09:46:47**|**Structural Explanations for Graph Neural Networks using HSIC**|Ayato Toyokuni et.al.|[2302.02139v1](http://arxiv.org/abs/2302.02139v1)|null|
 |**2023-02-01 18:59:02**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
 |**2023-02-01 00:35:35**|**Fairness-aware Cross-Domain Recommendation**|Jiakai Tang et.al.|[2302.00158v1](http://arxiv.org/abs/2302.00158v1)|null|
-|**2023-01-31 08:56:40**|**An investigation of challenges encountered when specifying training data   and runtime monitors for safety critical ML applications**|Hans-Martin Heyn et.al.|[2301.13476v1](http://arxiv.org/abs/2301.13476v1)|null|
-|**2023-01-30 01:32:17**|**Using cluster analysis on municipal statistical data to configure public   policies about Water, Sanitation and Hygiene in Venezuela**|Saul E. Buitrago-Boret et.al.|[2301.12604v1](http://arxiv.org/abs/2301.12604v1)|null|
-|**2023-01-27 07:59:31**|**Down the Rabbit Hole: Detecting Online Extremism, Radicalisation, and   Politicised Hate Speech**|Jarod Govers et.al.|[2301.11579v1](http://arxiv.org/abs/2301.11579v1)|null|
