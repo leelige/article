@@ -1,19 +1,22 @@
 # arxiv-daily
- 自动更新 @ 2023-03-09 16:09:10 Asia/Shanghai
+ 自动更新 @ 2023-03-10 16:09:06 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-09 18:50:14**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496v1](http://arxiv.org/abs/2303.05496v1)|null|
+|**2023-03-09 18:42:18**|**On the Expressiveness and Generalization of Hypergraph Neural Networks**|Zhezheng Luo et.al.|[2303.05490v1](http://arxiv.org/abs/2303.05490v1)|null|
+|**2023-03-09 13:13:43**|**Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A   Fast Graph Contrastive Learning Framework**|Zhenshuo Zhang et.al.|[2303.05231v1](http://arxiv.org/abs/2303.05231v1)|null|
 |**2023-03-08 18:41:27**|**Ewald-based Long-Range Message Passing for Molecular Graphs**|Arthur Kosmala et.al.|[2303.04791v1](http://arxiv.org/abs/2303.04791v1)|null|
 |**2023-03-08 14:32:59**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613v1](http://arxiv.org/abs/2303.04613v1)|null|
 |**2023-03-08 09:58:58**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of   Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477v1](http://arxiv.org/abs/2303.04477v1)|null|
 |**2023-03-08 08:27:31**|**A Message Passing Perspective on Learning Dynamics of Contrastive   Learning**|Yifei Wang et.al.|[2303.04435v1](http://arxiv.org/abs/2303.04435v1)|[link](https://github.com/pku-ml/message-passing-contrastive-learning)|
 |**2023-03-08 01:28:18**|**Learning Environment-Aware Control Barrier Functions for Safe and   Feasible Multi-Robot Navigation**|Zhan Gao et.al.|[2303.04313v1](http://arxiv.org/abs/2303.04313v1)|null|
-|**2023-03-07 20:21:49**|**Deep Occupancy-Predictive Representations for Autonomous Driving**|Eivind Meyer et.al.|[2303.04218v1](http://arxiv.org/abs/2303.04218v1)|null|
-|**2023-03-07 16:49:46**|**Uncertainty Quantification of Spatiotemporal Travel Demand with   Probabilistic Graph Neural Networks**|Qingyi Wang et.al.|[2303.04040v1](http://arxiv.org/abs/2303.04040v1)|null|
-|**2023-03-07 14:58:18**|**Probing Graph Representations**|Mohammad Sadegh Akhondzadeh et.al.|[2303.03951v1](http://arxiv.org/abs/2303.03951v1)|null|
+|**2023-03-07 20:21:49**|**Deep Occupancy-Predictive Representations for Autonomous Driving**|Eivind Meyer et.al.|[2303.04218v1](http://arxiv.org/abs/2303.04218v1)|[link](https://github.com/commonroad/crgeo-learning)|
+|**2023-03-07 16:49:46**|**Uncertainty Quantification of Spatiotemporal Travel Demand with   Probabilistic Graph Neural Networks**|Qingyi Wang et.al.|[2303.04040v1](http://arxiv.org/abs/2303.04040v1)|[link](https://github.com/sunnyqywang/uncertainty)|
+|**2023-03-07 14:58:18**|**Probing Graph Representations**|Mohammad Sadegh Akhondzadeh et.al.|[2303.03951v1](http://arxiv.org/abs/2303.03951v1)|[link](https://github.com/msadegh97/probing-graph-representation)|
 |**2023-03-07 12:32:19**|**Parsing Line Segments of Floor Plan Images Using Graph Neural Networks**|Mingxiang Chen et.al.|[2303.03851v1](http://arxiv.org/abs/2303.03851v1)|null|
 |**2023-03-07 11:20:39**|**Operator learning of RANS equations: a Graph Neural Network closure   model**|Michele Quattromini et.al.|[2303.03806v1](http://arxiv.org/abs/2303.03806v1)|null|
 |**2023-03-07 09:56:23**|**Graph Neural Networks in Vision-Language Image Understanding: A Survey**|Henry Senior et.al.|[2303.03761v1](http://arxiv.org/abs/2303.03761v1)|null|
@@ -33,15 +36,13 @@
 |**2023-03-03 19:50:21**|**Estimating the parameters of epidemic spread on multilayer random   graphs: a classical and a neural network approach**|Ágnes Backhausz et.al.|[2303.02195v1](http://arxiv.org/abs/2303.02195v1)|null|
 |**2023-03-03 18:53:05**|**A Braess' paradox analog in physical networks of optimal exploration**|Georgios Gounaris et.al.|[2303.02146v1](http://arxiv.org/abs/2303.02146v1)|null|
 |**2023-03-03 16:32:37**|**Physics-Informed Deep Learning For Traffic State Estimation: A Survey   and the Outlook**|Xuan Di et.al.|[2303.02063v1](http://arxiv.org/abs/2303.02063v1)|null|
-|**2023-03-03 15:43:14**|**Graph-level representations using ensemble-based readout functions**|Jakub Binkowski et.al.|[2303.02023v1](http://arxiv.org/abs/2303.02023v1)|null|
-|**2023-03-03 10:24:30**|**Kinetic and macroscopic equations for action potential in neural   networks**|Martina Conte et.al.|[2303.01829v1](http://arxiv.org/abs/2303.01829v1)|null|
-|**2023-03-03 06:04:42**|**Node-Specific Space Selection via Localized Geometric Hyperbolicity in   Graph Neural Networks**|See Hian Lee et.al.|[2303.01724v1](http://arxiv.org/abs/2303.01724v1)|null|
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-09 17:44:58**|**Communication-Efficient Collaborative Heterogeneous Bandits in Networks**|Junghyun Lee et.al.|[2303.05445v1](http://arxiv.org/abs/2303.05445v1)|null|
 |**2023-03-08 13:54:57**|**"How to make them stay?" -- Diverse Counterfactual Explanations of   Employee Attrition**|André Artelt et.al.|[2303.04579v1](http://arxiv.org/abs/2303.04579v1)|null|
 |**2023-03-02 05:06:17**|**Dynamic fairness-aware recommendation through multi-agent social choice**|Amanda Aird et.al.|[2303.00968v2](http://arxiv.org/abs/2303.00968v2)|null|
 |**2023-03-01 17:12:49**|**Fairness Evaluation in Text Classification: Machine Learning   Practitioner Perspectives of Individual and Group Fairness**|Zahra Ashktorab et.al.|[2303.00673v1](http://arxiv.org/abs/2303.00673v1)|null|
@@ -71,7 +72,6 @@
 |**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|[link](https://github.com/fdudsde/www2023consrec)|
 |**2023-02-07 15:15:58**|**Multi-Task Deep Recommender Systems: A Survey**|Yuhao Wang et.al.|[2302.03525v2](http://arxiv.org/abs/2302.03525v2)|null|
 |**2023-02-05 20:30:48**|**Hatemongers ride on echo chambers to escalate hate speech diffusion**|Vasu Goel et.al.|[2302.02479v1](http://arxiv.org/abs/2302.02479v1)|[link](https://github.com/lcs2-iiitd/hate-mongerer-and-echo-chambers)|
-|**2023-02-04 09:46:47**|**Structural Explanations for Graph Neural Networks using HSIC**|Ayato Toyokuni et.al.|[2302.02139v1](http://arxiv.org/abs/2302.02139v1)|null|
 
 ## Multi Interest Recommendation
 
