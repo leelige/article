@@ -2,6 +2,8 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-10 16:23:56**|**A hybrid deep-learning-metaheuristic framework to approximate discrete   road network design problems**|Bahman Madadi et.al.|[2303.06024v1](http://arxiv.org/abs/2303.06024v1)|null|
+|**2023-03-10 08:39:26**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
 |**2023-03-09 18:50:14**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496v1](http://arxiv.org/abs/2303.05496v1)|null|
 |**2023-03-09 18:42:18**|**On the Expressiveness and Generalization of Hypergraph Neural Networks**|Zhezheng Luo et.al.|[2303.05490v1](http://arxiv.org/abs/2303.05490v1)|null|
 |**2023-03-09 13:13:43**|**Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A   Fast Graph Contrastive Learning Framework**|Zhenshuo Zhang et.al.|[2303.05231v1](http://arxiv.org/abs/2303.05231v1)|null|
@@ -30,5 +32,3 @@
 |**2023-03-04 07:26:34**|**MetaGrad: Adaptive Gradient Quantization with Hypernetworks**|Kaixin Xu et.al.|[2303.02347v1](http://arxiv.org/abs/2303.02347v1)|null|
 |**2023-03-03 21:15:22**|**Denoise Pre-training on Non-equilibrium Molecules for Accurate and   Transferable Neural Potentials**|Yuyang Wang et.al.|[2303.02216v1](http://arxiv.org/abs/2303.02216v1)|[link](https://github.com/yuyangw/denoise-pretrain-ml-potential)|
 |**2023-03-03 19:50:21**|**Estimating the parameters of epidemic spread on multilayer random   graphs: a classical and a neural network approach**|Ágnes Backhausz et.al.|[2303.02195v1](http://arxiv.org/abs/2303.02195v1)|null|
-|**2023-03-03 18:53:05**|**A Braess' paradox analog in physical networks of optimal exploration**|Georgios Gounaris et.al.|[2303.02146v1](http://arxiv.org/abs/2303.02146v1)|null|
-|**2023-03-03 16:32:37**|**Physics-Informed Deep Learning For Traffic State Estimation: A Survey   and the Outlook**|Xuan Di et.al.|[2303.02063v1](http://arxiv.org/abs/2303.02063v1)|null|
