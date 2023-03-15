@@ -2,7 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-03-13 17:32:46**|**Learning Reduced-Order Models for Cardiovascular Simulations with Graph   Neural Networks**|Luca Pegolotti et.al.|[2303.07310v1](http://arxiv.org/abs/2303.07310v1)|null|
+|**2023-03-14 11:28:53**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|[link](https://github.com/HKUDS/DGNN)|
+|**2023-03-14 11:12:22**|**Automated Self-Supervised Learning for Recommendation**|Lianghao Xia et.al.|[2303.07797v1](http://arxiv.org/abs/2303.07797v1)|[link](https://github.com/hkuds/autocf)|
+|**2023-03-14 10:39:58**|**GANN: Graph Alignment Neural Network for Semi-Supervised Learning**|Linxuan Song et.al.|[2303.07778v1](http://arxiv.org/abs/2303.07778v1)|null|
+|**2023-03-14 08:04:38**|**Dual-Attention Model for Aspect-Level Sentiment Classification**|Mengfei Ye et.al.|[2303.07689v1](http://arxiv.org/abs/2303.07689v1)|null|
+|**2023-03-14 07:23:16**|**AutoTransfer: AutoML with Knowledge Transfer -- An Application to Graph   Neural Networks**|Kaidi Cao et.al.|[2303.07669v1](http://arxiv.org/abs/2303.07669v1)|null|
+|**2023-03-14 07:15:41**|**Relational Multi-Task Learning: Modeling Relations between Data and   Tasks**|Kaidi Cao et.al.|[2303.07666v1](http://arxiv.org/abs/2303.07666v1)|[link](https://github.com/snap-stanford/graphgym)|
+|**2023-03-14 00:46:28**|**Deep Masked Graph Matching for Correspondence Identification in   Collaborative Perception**|Peng Gao et.al.|[2303.07555v1](http://arxiv.org/abs/2303.07555v1)|[link](https://github.com/gaopeng5/DMGM.git)|
+|**2023-03-13 19:15:49**|**End-to-end Deformable Attention Graph Neural Network for Single-view   Liver Mesh Reconstruction**|Matej Gazda et.al.|[2303.07432v1](http://arxiv.org/abs/2303.07432v1)|null|
+|**2023-03-13 17:32:46**|**Learning Reduced-Order Models for Cardiovascular Simulations with Graph   Neural Networks**|Luca Pegolotti et.al.|[2303.07310v1](http://arxiv.org/abs/2303.07310v1)|[link](https://github.com/stanfordcbcl/grom)|
 |**2023-03-13 05:01:50**|**Dynamic Neural Network for Multi-Task Learning Searching across Diverse   Network Topologies**|Wonhyeok Choi et.al.|[2303.06856v1](http://arxiv.org/abs/2303.06856v1)|null|
 |**2023-03-13 02:25:59**|**Backdoor Defense via Deconfounded Representation Learning**|Zaixi Zhang et.al.|[2303.06818v1](http://arxiv.org/abs/2303.06818v1)|[link](https://github.com/zaixizhang/cbd)|
 |**2023-03-13 01:47:05**|**Boosting Source Code Learning with Data Augmentation: An Empirical Study**|Zeming Dong et.al.|[2303.06808v1](http://arxiv.org/abs/2303.06808v1)|null|
@@ -10,7 +18,7 @@
 |**2023-03-12 04:04:51**|**ContraNorm: A Contrastive Learning Perspective on Oversmoothing and   Beyond**|Xiaojun Guo et.al.|[2303.06562v1](http://arxiv.org/abs/2303.06562v1)|[link](https://github.com/PKU-ML/ContraNorm)|
 |**2023-03-12 03:25:01**|**Spatial Correspondence between Graph Neural Network-Segmented Images**|Qian Li et.al.|[2303.06550v1](http://arxiv.org/abs/2303.06550v1)|null|
 |**2023-03-11 17:52:03**|**Multimodal Data Integration for Oncology in the Era of Deep Neural   Networks: A Review**|Asim Waqas et.al.|[2303.06471v1](http://arxiv.org/abs/2303.06471v1)|null|
-|**2023-03-11 17:13:24**|**Graph Neural Network contextual embedding for Deep Learning on Tabular   Data**|Mario Villaizán-Vallelado et.al.|[2303.06455v1](http://arxiv.org/abs/2303.06455v1)|null|
+|**2023-03-11 17:13:24**|**Graph Neural Network contextual embedding for Deep Learning on Tabular   Data**|Mario Villaizán-Vallelado et.al.|[2303.06455v1](http://arxiv.org/abs/2303.06455v1)|[link](https://github.com/matteosalvatori/ince)|
 |**2023-03-11 08:32:39**|**Contrastive Learning under Heterophily**|Wenhan Yang et.al.|[2303.06344v1](http://arxiv.org/abs/2303.06344v1)|null|
 |**2023-03-10 22:35:52**|**Zero-Shot Object Searching Using Large-scale Object Relationship Prior**|Hongyi Chen et.al.|[2303.06228v1](http://arxiv.org/abs/2303.06228v1)|null|
 |**2023-03-10 21:28:10**|**CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network**|Yumeng Song et.al.|[2303.06213v1](http://arxiv.org/abs/2303.06213v1)|null|
@@ -24,11 +32,3 @@
 |**2023-03-09 13:13:43**|**Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A   Fast Graph Contrastive Learning Framework**|Zhenshuo Zhang et.al.|[2303.05231v1](http://arxiv.org/abs/2303.05231v1)|null|
 |**2023-03-08 18:41:27**|**Ewald-based Long-Range Message Passing for Molecular Graphs**|Arthur Kosmala et.al.|[2303.04791v1](http://arxiv.org/abs/2303.04791v1)|null|
 |**2023-03-08 14:32:59**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613v1](http://arxiv.org/abs/2303.04613v1)|null|
-|**2023-03-08 09:58:58**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of   Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477v1](http://arxiv.org/abs/2303.04477v1)|null|
-|**2023-03-08 08:27:31**|**A Message Passing Perspective on Learning Dynamics of Contrastive   Learning**|Yifei Wang et.al.|[2303.04435v1](http://arxiv.org/abs/2303.04435v1)|[link](https://github.com/pku-ml/message-passing-contrastive-learning)|
-|**2023-03-08 01:28:18**|**Learning Environment-Aware Control Barrier Functions for Safe and   Feasible Multi-Robot Navigation**|Zhan Gao et.al.|[2303.04313v1](http://arxiv.org/abs/2303.04313v1)|null|
-|**2023-03-07 20:21:49**|**Deep Occupancy-Predictive Representations for Autonomous Driving**|Eivind Meyer et.al.|[2303.04218v1](http://arxiv.org/abs/2303.04218v1)|[link](https://github.com/commonroad/crgeo-learning)|
-|**2023-03-07 16:49:46**|**Uncertainty Quantification of Spatiotemporal Travel Demand with   Probabilistic Graph Neural Networks**|Qingyi Wang et.al.|[2303.04040v1](http://arxiv.org/abs/2303.04040v1)|[link](https://github.com/sunnyqywang/uncertainty)|
-|**2023-03-07 14:58:18**|**Probing Graph Representations**|Mohammad Sadegh Akhondzadeh et.al.|[2303.03951v1](http://arxiv.org/abs/2303.03951v1)|[link](https://github.com/msadegh97/probing-graph-representation)|
-|**2023-03-07 12:32:19**|**Parsing Line Segments of Floor Plan Images Using Graph Neural Networks**|Mingxiang Chen et.al.|[2303.03851v1](http://arxiv.org/abs/2303.03851v1)|null|
-|**2023-03-07 11:20:39**|**Operator learning of RANS equations: a Graph Neural Network closure   model**|Michele Quattromini et.al.|[2303.03806v1](http://arxiv.org/abs/2303.03806v1)|null|
