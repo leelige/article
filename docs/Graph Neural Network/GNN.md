@@ -2,13 +2,20 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-15 14:20:06**|**RGI : Regularized Graph Infomax for self-supervised learning on graphs**|Oscar Pina et.al.|[2303.08644v1](http://arxiv.org/abs/2303.08644v1)|null|
+|**2023-03-15 11:59:24**|**Local Region Perception and Relationship Learning Combined with Feature   Fusion for Facial Action Unit Detection**|Jun Yu et.al.|[2303.08545v1](http://arxiv.org/abs/2303.08545v1)|null|
+|**2023-03-15 11:30:16**|**Graph-less Collaborative Filtering**|Lianghao Xia et.al.|[2303.08537v1](http://arxiv.org/abs/2303.08537v1)|[link](https://github.com/hkuds/simrec)|
+|**2023-03-15 09:26:29**|**Unsupervised Traffic Scene Generation with Synthetic 3D Scene Graphs**|Artem Savkin et.al.|[2303.08473v1](http://arxiv.org/abs/2303.08473v1)|null|
+|**2023-03-15 03:57:09**|**Robust Preference-Guided Denoising for Graph based Social Recommendation**|Yuhan Quan et.al.|[2303.08346v1](http://arxiv.org/abs/2303.08346v1)|[link](https://github.com/tsinghua-fib-lab/Graph-Denoising-SocialRec)|
+|**2023-03-14 22:16:44**|**Gamora: Graph Learning based Symbolic Reasoning for Large-Scale Boolean   Networks**|Nan Wu et.al.|[2303.08256v1](http://arxiv.org/abs/2303.08256v1)|null|
+|**2023-03-14 18:14:40**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v1](http://arxiv.org/abs/2303.08157v1)|null|
 |**2023-03-14 11:28:53**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|[link](https://github.com/HKUDS/DGNN)|
 |**2023-03-14 11:12:22**|**Automated Self-Supervised Learning for Recommendation**|Lianghao Xia et.al.|[2303.07797v1](http://arxiv.org/abs/2303.07797v1)|[link](https://github.com/hkuds/autocf)|
 |**2023-03-14 10:39:58**|**GANN: Graph Alignment Neural Network for Semi-Supervised Learning**|Linxuan Song et.al.|[2303.07778v1](http://arxiv.org/abs/2303.07778v1)|null|
 |**2023-03-14 08:04:38**|**Dual-Attention Model for Aspect-Level Sentiment Classification**|Mengfei Ye et.al.|[2303.07689v1](http://arxiv.org/abs/2303.07689v1)|null|
 |**2023-03-14 07:23:16**|**AutoTransfer: AutoML with Knowledge Transfer -- An Application to Graph   Neural Networks**|Kaidi Cao et.al.|[2303.07669v1](http://arxiv.org/abs/2303.07669v1)|null|
 |**2023-03-14 07:15:41**|**Relational Multi-Task Learning: Modeling Relations between Data and   Tasks**|Kaidi Cao et.al.|[2303.07666v1](http://arxiv.org/abs/2303.07666v1)|[link](https://github.com/snap-stanford/graphgym)|
-|**2023-03-14 00:46:28**|**Deep Masked Graph Matching for Correspondence Identification in   Collaborative Perception**|Peng Gao et.al.|[2303.07555v1](http://arxiv.org/abs/2303.07555v1)|[link](https://github.com/gaopeng5/DMGM.git)|
+|**2023-03-14 00:46:28**|**Deep Masked Graph Matching for Correspondence Identification in   Collaborative Perception**|Peng Gao et.al.|[2303.07555v1](http://arxiv.org/abs/2303.07555v1)|[link](https://github.com/gaopeng5/dmgm)|
 |**2023-03-13 19:15:49**|**End-to-end Deformable Attention Graph Neural Network for Single-view   Liver Mesh Reconstruction**|Matej Gazda et.al.|[2303.07432v1](http://arxiv.org/abs/2303.07432v1)|null|
 |**2023-03-13 17:32:46**|**Learning Reduced-Order Models for Cardiovascular Simulations with Graph   Neural Networks**|Luca Pegolotti et.al.|[2303.07310v1](http://arxiv.org/abs/2303.07310v1)|[link](https://github.com/stanfordcbcl/grom)|
 |**2023-03-13 05:01:50**|**Dynamic Neural Network for Multi-Task Learning Searching across Diverse   Network Topologies**|Wonhyeok Choi et.al.|[2303.06856v1](http://arxiv.org/abs/2303.06856v1)|null|
@@ -25,10 +32,3 @@
 |**2023-03-10 21:13:12**|**Fast computation of permutation equivariant layers with the partition   algebra**|Charles Godfrey et.al.|[2303.06208v1](http://arxiv.org/abs/2303.06208v1)|null|
 |**2023-03-10 20:38:40**|**A POV-based Highway Vehicle Trajectory Dataset and Prediction   Architecture**|Vinit Katariya et.al.|[2303.06202v1](http://arxiv.org/abs/2303.06202v1)|[link](https://github.com/tecsar-uncc/pishguve)|
 |**2023-03-10 20:32:09**|**Turning Strengths into Weaknesses: A Certified Robustness Inspired   Attack Framework against Graph Neural Networks**|Binghui Wang et.al.|[2303.06199v1](http://arxiv.org/abs/2303.06199v1)|null|
-|**2023-03-10 16:23:56**|**A hybrid deep-learning-metaheuristic framework to approximate discrete   road network design problems**|Bahman Madadi et.al.|[2303.06024v1](http://arxiv.org/abs/2303.06024v1)|null|
-|**2023-03-10 08:39:26**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
-|**2023-03-09 18:50:14**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496v1](http://arxiv.org/abs/2303.05496v1)|null|
-|**2023-03-09 18:42:18**|**On the Expressiveness and Generalization of Hypergraph Neural Networks**|Zhezheng Luo et.al.|[2303.05490v1](http://arxiv.org/abs/2303.05490v1)|null|
-|**2023-03-09 13:13:43**|**Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A   Fast Graph Contrastive Learning Framework**|Zhenshuo Zhang et.al.|[2303.05231v1](http://arxiv.org/abs/2303.05231v1)|null|
-|**2023-03-08 18:41:27**|**Ewald-based Long-Range Message Passing for Molecular Graphs**|Arthur Kosmala et.al.|[2303.04791v1](http://arxiv.org/abs/2303.04791v1)|null|
-|**2023-03-08 14:32:59**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613v1](http://arxiv.org/abs/2303.04613v1)|null|
