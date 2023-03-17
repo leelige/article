@@ -2,13 +2,17 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-16 17:47:55**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with   Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
+|**2023-03-15 22:23:32**|**CS-TGN: Community Search via Temporal Graph Neural Networks**|Farnoosh Hashemi et.al.|[2303.08964v1](http://arxiv.org/abs/2303.08964v1)|null|
+|**2023-03-15 20:58:20**|**Efficient Planning of Multi-Robot Collective Transport using Graph   Reinforcement Learning with Higher Order Topological Abstraction**|Steve Paul et.al.|[2303.08933v1](http://arxiv.org/abs/2303.08933v1)|null|
+|**2023-03-15 18:33:05**|**GRNN-based Real-time Fault Chain Prediction**|Anmol Dwivedi et.al.|[2303.08864v1](http://arxiv.org/abs/2303.08864v1)|null|
 |**2023-03-15 14:20:06**|**RGI : Regularized Graph Infomax for self-supervised learning on graphs**|Oscar Pina et.al.|[2303.08644v1](http://arxiv.org/abs/2303.08644v1)|null|
 |**2023-03-15 11:59:24**|**Local Region Perception and Relationship Learning Combined with Feature   Fusion for Facial Action Unit Detection**|Jun Yu et.al.|[2303.08545v1](http://arxiv.org/abs/2303.08545v1)|null|
 |**2023-03-15 11:30:16**|**Graph-less Collaborative Filtering**|Lianghao Xia et.al.|[2303.08537v1](http://arxiv.org/abs/2303.08537v1)|[link](https://github.com/hkuds/simrec)|
 |**2023-03-15 09:26:29**|**Unsupervised Traffic Scene Generation with Synthetic 3D Scene Graphs**|Artem Savkin et.al.|[2303.08473v1](http://arxiv.org/abs/2303.08473v1)|null|
 |**2023-03-15 03:57:09**|**Robust Preference-Guided Denoising for Graph based Social Recommendation**|Yuhan Quan et.al.|[2303.08346v1](http://arxiv.org/abs/2303.08346v1)|[link](https://github.com/tsinghua-fib-lab/Graph-Denoising-SocialRec)|
 |**2023-03-14 22:16:44**|**Gamora: Graph Learning based Symbolic Reasoning for Large-Scale Boolean   Networks**|Nan Wu et.al.|[2303.08256v1](http://arxiv.org/abs/2303.08256v1)|null|
-|**2023-03-14 18:14:40**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v1](http://arxiv.org/abs/2303.08157v1)|null|
+|**2023-03-14 18:14:40**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v2](http://arxiv.org/abs/2303.08157v2)|null|
 |**2023-03-14 11:28:53**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|[link](https://github.com/HKUDS/DGNN)|
 |**2023-03-14 11:12:22**|**Automated Self-Supervised Learning for Recommendation**|Lianghao Xia et.al.|[2303.07797v1](http://arxiv.org/abs/2303.07797v1)|[link](https://github.com/hkuds/autocf)|
 |**2023-03-14 10:39:58**|**GANN: Graph Alignment Neural Network for Semi-Supervised Learning**|Linxuan Song et.al.|[2303.07778v1](http://arxiv.org/abs/2303.07778v1)|null|
@@ -28,7 +32,3 @@
 |**2023-03-11 17:13:24**|**Graph Neural Network contextual embedding for Deep Learning on Tabular   Data**|Mario Villaizán-Vallelado et.al.|[2303.06455v1](http://arxiv.org/abs/2303.06455v1)|[link](https://github.com/matteosalvatori/ince)|
 |**2023-03-11 08:32:39**|**Contrastive Learning under Heterophily**|Wenhan Yang et.al.|[2303.06344v1](http://arxiv.org/abs/2303.06344v1)|null|
 |**2023-03-10 22:35:52**|**Zero-Shot Object Searching Using Large-scale Object Relationship Prior**|Hongyi Chen et.al.|[2303.06228v1](http://arxiv.org/abs/2303.06228v1)|null|
-|**2023-03-10 21:28:10**|**CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network**|Yumeng Song et.al.|[2303.06213v1](http://arxiv.org/abs/2303.06213v1)|null|
-|**2023-03-10 21:13:12**|**Fast computation of permutation equivariant layers with the partition   algebra**|Charles Godfrey et.al.|[2303.06208v1](http://arxiv.org/abs/2303.06208v1)|null|
-|**2023-03-10 20:38:40**|**A POV-based Highway Vehicle Trajectory Dataset and Prediction   Architecture**|Vinit Katariya et.al.|[2303.06202v1](http://arxiv.org/abs/2303.06202v1)|[link](https://github.com/tecsar-uncc/pishguve)|
-|**2023-03-10 20:32:09**|**Turning Strengths into Weaknesses: A Certified Robustness Inspired   Attack Framework against Graph Neural Networks**|Binghui Wang et.al.|[2303.06199v1](http://arxiv.org/abs/2303.06199v1)|null|

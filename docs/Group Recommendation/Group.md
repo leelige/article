@@ -2,7 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-03-14 18:14:40**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v1](http://arxiv.org/abs/2303.08157v1)|null|
+|**2023-03-16 17:44:39**|**Fairness-aware Differentially Private Collaborative Filtering**|Zhenhuan Yang et.al.|[2303.09527v1](http://arxiv.org/abs/2303.09527v1)|null|
+|**2023-03-16 10:56:24**|**The Dunnett procedure with possibly heterogeneous variances**|Ludwig A. Hothorn et.al.|[2303.09222v1](http://arxiv.org/abs/2303.09222v1)|null|
+|**2023-03-16 09:58:11**|**Wiki-based Communities of Interest: Demographics and Outliers**|Hiba Arnaout et.al.|[2303.09189v1](http://arxiv.org/abs/2303.09189v1)|null|
+|**2023-03-14 18:14:40**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v2](http://arxiv.org/abs/2303.08157v2)|null|
 |**2023-03-13 10:59:38**|**Neural Group Recommendation Based on a Probabilistic Semantic   Aggregation**|Jorge Dueñas-Lerín et.al.|[2303.07001v1](http://arxiv.org/abs/2303.07001v1)|[link](https://github.com/knodis-research-group/neural-cf-for-groups)|
 |**2023-03-09 17:44:58**|**Communication-Efficient Collaborative Heterogeneous Bandits in Networks**|Junghyun Lee et.al.|[2303.05445v1](http://arxiv.org/abs/2303.05445v1)|null|
 |**2023-03-08 13:54:57**|**"How to make them stay?" -- Diverse Counterfactual Explanations of   Employee Attrition**|André Artelt et.al.|[2303.04579v1](http://arxiv.org/abs/2303.04579v1)|null|
@@ -18,7 +21,7 @@
 |**2023-02-20 11:57:12**|**Mysterious and Manipulative Black Boxes: A Qualitative Analysis of   Perceptions on Recommender Systems**|Jukka Ruohonen et.al.|[2302.09933v1](http://arxiv.org/abs/2302.09933v1)|null|
 |**2023-02-16 20:34:54**|**Towards Reliable Assessments of Demographic Disparities in Multi-Label   Image Classifiers**|Melissa Hall et.al.|[2302.08572v1](http://arxiv.org/abs/2302.08572v1)|null|
 |**2023-02-16 12:44:47**|**Fairly Adaptive Negative Sampling for Recommendations**|Xiao Chen et.al.|[2302.08266v1](http://arxiv.org/abs/2302.08266v1)|null|
-|**2023-02-14 06:42:09**|**AI Chat Assistants can Improve Conversations about Divisive Topics**|Lisa P. Argyle et.al.|[2302.07268v3](http://arxiv.org/abs/2302.07268v3)|null|
+|**2023-02-14 06:42:09**|**AI Chat Assistants can Improve Conversations about Divisive Topics**|Lisa P. Argyle et.al.|[2302.07268v4](http://arxiv.org/abs/2302.07268v4)|null|
 |**2023-02-13 16:31:24**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic   and Molecular Physics, Condensed Matter and Materials Physics, and Earth   Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
 |**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v2](http://arxiv.org/abs/2302.06333v2)|[link](https://github.com/newlei/fda)|
 |**2023-02-10 22:33:05**|**Leveraging Diversity in Software Engineering Education through Community   Engaged Learning and a Supportive Network**|Nowshin Nawar Arony et.al.|[2302.07100v1](http://arxiv.org/abs/2302.07100v1)|null|
@@ -29,6 +32,3 @@
 |**2023-02-09 10:20:23**|**Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering**|Bosong Huang et.al.|[2302.04545v1](http://arxiv.org/abs/2302.04545v1)|null|
 |**2023-02-09 04:43:10**|**Real-Time Visual Feedback to Guide Benchmark Creation: A   Human-and-Metric-in-the-Loop Workflow**|Anjana Arunkumar et.al.|[2302.04434v1](http://arxiv.org/abs/2302.04434v1)|[link](https://github.com/aarunku5/vaida-eacl-2023)|
 |**2023-02-08 01:36:28**|**VIBFREQ1295: A New Database for Vibrational Frequency Calculations**|Juan C. Zapata Trujillo et.al.|[2302.03824v1](http://arxiv.org/abs/2302.03824v1)|null|
-|**2023-02-07 22:41:37**|**Does AI-Assisted Fact-Checking Disproportionately Benefit Majority   Groups Online?**|Terrence Neumann et.al.|[2302.03782v2](http://arxiv.org/abs/2302.03782v2)|null|
-|**2023-02-07 16:28:53**|**Quantum dynamics of coupled excitons and phonons in chain-like systems:   tensor train approaches and higher-order propagators**|Patrick Gelß et.al.|[2302.03568v2](http://arxiv.org/abs/2302.03568v2)|null|
-|**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|[link](https://github.com/fdudsde/www2023consrec)|
