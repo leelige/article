@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-17 17:27:18**|**Distill n' Explain: explaining graph neural networks using simple   surrogates**|Tamara Pereira et.al.|[2303.10139v1](http://arxiv.org/abs/2303.10139v1)|[link](https://github.com/tamararruda/dnx)|
+|**2023-03-17 14:14:54**|**Neural-prior stochastic block model**|O. Duranthon et.al.|[2303.09995v1](http://arxiv.org/abs/2303.09995v1)|null|
+|**2023-03-17 13:25:29**|**GNNFormer: A Graph-based Framework for Cytopathology Report Generation**|Yang-Fan Zhou et.al.|[2303.09956v1](http://arxiv.org/abs/2303.09956v1)|null|
+|**2023-03-17 11:25:30**|**Local sign stability and its implications for spectra of sparse random   graphs and stability of ecosystems**|Pietro Valigi et.al.|[2303.09897v1](http://arxiv.org/abs/2303.09897v1)|null|
+|**2023-03-17 05:48:26**|**High Accurate and Explainable Multi-Pill Detection Framework with Graph   Neural Network-Assisted Multimodal Data Fusion**|Anh Duy Nguyen et.al.|[2303.09782v1](http://arxiv.org/abs/2303.09782v1)|null|
+|**2023-03-17 05:20:24**|**SE-GSL: A General and Effective Graph Structure Learning Framework   through Structural Entropy Optimization**|Dongcheng Zou et.al.|[2303.09778v1](http://arxiv.org/abs/2303.09778v1)|[link](https://github.com/ringbdstack/se-gsl)|
+|**2023-03-16 20:28:36**|**Causal Temporal Graph Convolutional Neural Networks (CTGCN)**|Abigail Langbridge et.al.|[2303.09634v1](http://arxiv.org/abs/2303.09634v1)|null|
 |**2023-03-16 17:47:55**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with   Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
 |**2023-03-15 22:23:32**|**CS-TGN: Community Search via Temporal Graph Neural Networks**|Farnoosh Hashemi et.al.|[2303.08964v1](http://arxiv.org/abs/2303.08964v1)|null|
 |**2023-03-15 20:58:20**|**Efficient Planning of Multi-Robot Collective Transport using Graph   Reinforcement Learning with Higher Order Topological Abstraction**|Steve Paul et.al.|[2303.08933v1](http://arxiv.org/abs/2303.08933v1)|null|
@@ -25,10 +32,3 @@
 |**2023-03-13 05:01:50**|**Dynamic Neural Network for Multi-Task Learning Searching across Diverse   Network Topologies**|Wonhyeok Choi et.al.|[2303.06856v1](http://arxiv.org/abs/2303.06856v1)|null|
 |**2023-03-13 02:25:59**|**Backdoor Defense via Deconfounded Representation Learning**|Zaixi Zhang et.al.|[2303.06818v1](http://arxiv.org/abs/2303.06818v1)|[link](https://github.com/zaixizhang/cbd)|
 |**2023-03-13 01:47:05**|**Boosting Source Code Learning with Data Augmentation: An Empirical Study**|Zeming Dong et.al.|[2303.06808v1](http://arxiv.org/abs/2303.06808v1)|null|
-|**2023-03-12 11:23:56**|**Schema Inference for Interpretable Image Classification**|Haofei Zhang et.al.|[2303.06635v1](http://arxiv.org/abs/2303.06635v1)|[link](https://github.com/zhfeing/schemanet-pytorch)|
-|**2023-03-12 04:04:51**|**ContraNorm: A Contrastive Learning Perspective on Oversmoothing and   Beyond**|Xiaojun Guo et.al.|[2303.06562v1](http://arxiv.org/abs/2303.06562v1)|[link](https://github.com/PKU-ML/ContraNorm)|
-|**2023-03-12 03:25:01**|**Spatial Correspondence between Graph Neural Network-Segmented Images**|Qian Li et.al.|[2303.06550v1](http://arxiv.org/abs/2303.06550v1)|null|
-|**2023-03-11 17:52:03**|**Multimodal Data Integration for Oncology in the Era of Deep Neural   Networks: A Review**|Asim Waqas et.al.|[2303.06471v1](http://arxiv.org/abs/2303.06471v1)|null|
-|**2023-03-11 17:13:24**|**Graph Neural Network contextual embedding for Deep Learning on Tabular   Data**|Mario Villaizán-Vallelado et.al.|[2303.06455v1](http://arxiv.org/abs/2303.06455v1)|[link](https://github.com/matteosalvatori/ince)|
-|**2023-03-11 08:32:39**|**Contrastive Learning under Heterophily**|Wenhan Yang et.al.|[2303.06344v1](http://arxiv.org/abs/2303.06344v1)|null|
-|**2023-03-10 22:35:52**|**Zero-Shot Object Searching Using Large-scale Object Relationship Prior**|Hongyi Chen et.al.|[2303.06228v1](http://arxiv.org/abs/2303.06228v1)|null|
