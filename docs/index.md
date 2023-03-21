@@ -1,5 +1,77 @@
 # arxiv-daily
- 自动更新 @ 2023-03-20 16:09:40 Asia/Shanghai
+ 自动更新 @ 2023-03-21 16:08:48 Asia/Shanghai
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-03-20 17:57:15**|**Tangent Bundle Convolutional Learning: from Manifolds to Cellular   Sheaves and Back**|Claudio Battiloro et.al.|[2303.11323v1](http://arxiv.org/abs/2303.11323v1)|null|
+|**2023-03-20 14:01:01**|**Positional Diffusion: Ordering Unordered Sets with Diffusion   Probabilistic Models**|Francesco Giuliari et.al.|[2303.11120v1](http://arxiv.org/abs/2303.11120v1)|null|
+|**2023-03-20 10:21:29**|**A Survey on Oversmoothing in Graph Neural Networks**|T. Konstantin Rusch et.al.|[2303.10993v1](http://arxiv.org/abs/2303.10993v1)|null|
+|**2023-03-20 06:57:10**|**Graph Neural Rough Differential Equations for Traffic Forecasting**|Jeongwhan Choi et.al.|[2303.10909v1](http://arxiv.org/abs/2303.10909v1)|[link](https://github.com/jeongwhanchoi/STG-NCDE)|
+|**2023-03-20 05:18:31**|**Hardware-Aware Graph Neural Network Automated Design for Edge Computing   Platforms**|Ao Zhou et.al.|[2303.10875v1](http://arxiv.org/abs/2303.10875v1)|null|
+|**2023-03-19 23:52:41**|**Beyond Independent Error Assumptions in Large GNN Atomistic Models**|Janghoon Ock et.al.|[2303.10797v1](http://arxiv.org/abs/2303.10797v1)|null|
+|**2023-03-19 20:52:44**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v1](http://arxiv.org/abs/2303.10766v1)|null|
+|**2023-03-19 05:35:59**|**Efficiently Counting Substructures by Subgraph GNNs without Running GNN   on Subgraphs**|Zuoyu Yan et.al.|[2303.10576v1](http://arxiv.org/abs/2303.10576v1)|[link](https://github.com/pkuyzy/esc-gnn)|
+|**2023-03-19 03:50:16**|**The Graph feature fusion technique for speaker recognition based on   wav2vec2.0 framework**|Zirui Ge et.al.|[2303.10556v1](http://arxiv.org/abs/2303.10556v1)|null|
+|**2023-03-19 02:30:27**|**Unsupervised Learning for Solving the Travelling Salesman Problem**|Yimeng Min et.al.|[2303.10538v1](http://arxiv.org/abs/2303.10538v1)|null|
+|**2023-03-18 22:52:08**|**Backward Reachability Analysis of Neural Feedback Systems Using Hybrid   Zonotopes**|Yuhao Zhang et.al.|[2303.10513v1](http://arxiv.org/abs/2303.10513v1)|null|
+|**2023-03-18 08:57:09**|**An Empirical Study of Pre-trained Language Models in Simple Knowledge   Graph Question Answering**|Nan Hu et.al.|[2303.10368v1](http://arxiv.org/abs/2303.10368v1)|[link](https://github.com/aannonymouuss/plms-in-practical-kbqa)|
+|**2023-03-18 03:53:43**|**Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report   Generation**|Mingjie Li et.al.|[2303.10323v1](http://arxiv.org/abs/2303.10323v1)|[link](https://github.com/mlii0117/dcl)|
+|**2023-03-18 02:46:58**|**EGTSyn: Edge-based Graph Transformer for Anti-Cancer Drug Combination   Synergy Prediction**|Jie Hu et.al.|[2303.10312v1](http://arxiv.org/abs/2303.10312v1)|null|
+|**2023-03-17 22:50:12**|**VPU-EM: An Event-based Modeling Framework to Evaluate NPU Performance   and Power Efficiency at Scale**|Charles Qi et.al.|[2303.10271v1](http://arxiv.org/abs/2303.10271v1)|null|
+|**2023-03-17 17:27:18**|**Distill n' Explain: explaining graph neural networks using simple   surrogates**|Tamara Pereira et.al.|[2303.10139v1](http://arxiv.org/abs/2303.10139v1)|[link](https://github.com/tamararruda/dnx)|
+|**2023-03-17 14:14:54**|**Neural-prior stochastic block model**|O. Duranthon et.al.|[2303.09995v1](http://arxiv.org/abs/2303.09995v1)|null|
+|**2023-03-17 13:25:29**|**GNNFormer: A Graph-based Framework for Cytopathology Report Generation**|Yang-Fan Zhou et.al.|[2303.09956v1](http://arxiv.org/abs/2303.09956v1)|null|
+|**2023-03-17 11:25:30**|**Local sign stability and its implications for spectra of sparse random   graphs and stability of ecosystems**|Pietro Valigi et.al.|[2303.09897v1](http://arxiv.org/abs/2303.09897v1)|null|
+|**2023-03-17 05:48:26**|**High Accurate and Explainable Multi-Pill Detection Framework with Graph   Neural Network-Assisted Multimodal Data Fusion**|Anh Duy Nguyen et.al.|[2303.09782v1](http://arxiv.org/abs/2303.09782v1)|null|
+|**2023-03-17 05:20:24**|**SE-GSL: A General and Effective Graph Structure Learning Framework   through Structural Entropy Optimization**|Dongcheng Zou et.al.|[2303.09778v1](http://arxiv.org/abs/2303.09778v1)|[link](https://github.com/ringbdstack/se-gsl)|
+|**2023-03-17 05:16:49**|**Provably Convergent Subgraph-wise Sampling for Fast GNN Training**|Jie Wang et.al.|[2303.11081v1](http://arxiv.org/abs/2303.11081v1)|null|
+|**2023-03-16 20:28:36**|**Causal Temporal Graph Convolutional Neural Networks (CTGCN)**|Abigail Langbridge et.al.|[2303.09634v1](http://arxiv.org/abs/2303.09634v1)|null|
+|**2023-03-16 17:47:55**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with   Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
+|**2023-03-15 22:23:32**|**CS-TGN: Community Search via Temporal Graph Neural Networks**|Farnoosh Hashemi et.al.|[2303.08964v1](http://arxiv.org/abs/2303.08964v1)|null|
+|**2023-03-15 20:58:20**|**Efficient Planning of Multi-Robot Collective Transport using Graph   Reinforcement Learning with Higher Order Topological Abstraction**|Steve Paul et.al.|[2303.08933v1](http://arxiv.org/abs/2303.08933v1)|null|
+|**2023-03-15 18:33:05**|**GRNN-based Real-time Fault Chain Prediction**|Anmol Dwivedi et.al.|[2303.08864v1](http://arxiv.org/abs/2303.08864v1)|null|
+|**2023-03-15 14:20:06**|**RGI : Regularized Graph Infomax for self-supervised learning on graphs**|Oscar Pina et.al.|[2303.08644v1](http://arxiv.org/abs/2303.08644v1)|null|
+|**2023-03-15 11:59:24**|**Local Region Perception and Relationship Learning Combined with Feature   Fusion for Facial Action Unit Detection**|Jun Yu et.al.|[2303.08545v2](http://arxiv.org/abs/2303.08545v2)|null|
+|**2023-03-15 11:30:16**|**Graph-less Collaborative Filtering**|Lianghao Xia et.al.|[2303.08537v2](http://arxiv.org/abs/2303.08537v2)|[link](https://github.com/hkuds/simrec)|
+
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-03-19 23:21:37**|**Successful and sustainable undergraduate research in data science**|Audrey E Hendricks et.al.|[2303.10792v1](http://arxiv.org/abs/2303.10792v1)|null|
+|**2023-03-18 19:12:38**|**Report of the Medical Image De-Identification (MIDI) Task Group -- Best   Practices and Recommendations**|David A. Clunie et.al.|[2303.10473v1](http://arxiv.org/abs/2303.10473v1)|null|
+|**2023-03-17 20:08:59**|**ITM-Rec: An Open Data Set for Educational Recommender Systems**|Yong Zheng et.al.|[2303.10230v1](http://arxiv.org/abs/2303.10230v1)|[link](https://github.com/irecsys/recdata)|
+|**2023-03-16 17:44:39**|**Fairness-aware Differentially Private Collaborative Filtering**|Zhenhuan Yang et.al.|[2303.09527v1](http://arxiv.org/abs/2303.09527v1)|null|
+|**2023-03-16 10:56:24**|**The Dunnett procedure with possibly heterogeneous variances**|Ludwig A. Hothorn et.al.|[2303.09222v1](http://arxiv.org/abs/2303.09222v1)|null|
+|**2023-03-16 09:58:11**|**Wiki-based Communities of Interest: Demographics and Outliers**|Hiba Arnaout et.al.|[2303.09189v2](http://arxiv.org/abs/2303.09189v2)|null|
+|**2023-03-14 18:14:40**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v2](http://arxiv.org/abs/2303.08157v2)|null|
+|**2023-03-13 10:59:38**|**Neural Group Recommendation Based on a Probabilistic Semantic   Aggregation**|Jorge Dueñas-Lerín et.al.|[2303.07001v1](http://arxiv.org/abs/2303.07001v1)|[link](https://github.com/knodis-research-group/neural-cf-for-groups)|
+|**2023-03-09 17:44:58**|**Communication-Efficient Collaborative Heterogeneous Bandits in Networks**|Junghyun Lee et.al.|[2303.05445v1](http://arxiv.org/abs/2303.05445v1)|null|
+|**2023-03-08 13:54:57**|**"How to make them stay?" -- Diverse Counterfactual Explanations of   Employee Attrition**|André Artelt et.al.|[2303.04579v1](http://arxiv.org/abs/2303.04579v1)|null|
+|**2023-03-02 05:06:17**|**Dynamic fairness-aware recommendation through multi-agent social choice**|Amanda Aird et.al.|[2303.00968v2](http://arxiv.org/abs/2303.00968v2)|null|
+|**2023-03-01 17:12:49**|**Fairness Evaluation in Text Classification: Machine Learning   Practitioner Perspectives of Individual and Group Fairness**|Zahra Ashktorab et.al.|[2303.00673v1](http://arxiv.org/abs/2303.00673v1)|null|
+|**2023-03-01 10:39:58**|**A Study on Accuracy, Miscalibration, and Popularity Bias in   Recommendations**|Dominik Kowald et.al.|[2303.00400v1](http://arxiv.org/abs/2303.00400v1)|null|
+|**2023-03-01 02:29:30**|**Towards a real-time demand response framework for smart communities   using clustering techniques**|Sotiris Pelekis et.al.|[2303.00186v1](http://arxiv.org/abs/2303.00186v1)|null|
+|**2023-02-28 00:33:56**|**Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by   Major US ISPs**|Udit Paul et.al.|[2302.14216v1](http://arxiv.org/abs/2302.14216v1)|null|
+|**2023-02-25 12:23:32**|**Identification of pattern mining algorithm for rugby league players   positional groups separation based on movement patterns**|Victor Elijah Adeyemo et.al.|[2302.14058v1](http://arxiv.org/abs/2302.14058v1)|null|
+|**2023-02-23 14:11:08**|**A Comparison of Modeling Preprocessing Techniques**|Tosan Johnson et.al.|[2302.12042v2](http://arxiv.org/abs/2302.12042v2)|null|
+|**2023-02-21 10:06:01**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
+|**2023-02-20 13:30:12**|**Social4Rec: Distilling User Preference from Social Graph for Video   Recommendation in Tencent**|Xuanji Xiao et.al.|[2302.09971v2](http://arxiv.org/abs/2302.09971v2)|[link](https://github.com/social4rec/socialnet)|
+|**2023-02-20 11:57:12**|**Mysterious and Manipulative Black Boxes: A Qualitative Analysis of   Perceptions on Recommender Systems**|Jukka Ruohonen et.al.|[2302.09933v1](http://arxiv.org/abs/2302.09933v1)|null|
+|**2023-02-16 20:34:54**|**Towards Reliable Assessments of Demographic Disparities in Multi-Label   Image Classifiers**|Melissa Hall et.al.|[2302.08572v1](http://arxiv.org/abs/2302.08572v1)|null|
+|**2023-02-16 12:44:47**|**Fairly Adaptive Negative Sampling for Recommendations**|Xiao Chen et.al.|[2302.08266v1](http://arxiv.org/abs/2302.08266v1)|null|
+|**2023-02-14 06:42:09**|**AI Chat Assistants can Improve Conversations about Divisive Topics**|Lisa P. Argyle et.al.|[2302.07268v4](http://arxiv.org/abs/2302.07268v4)|null|
+|**2023-02-13 16:31:24**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic   and Molecular Physics, Condensed Matter and Materials Physics, and Earth   Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
+|**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v2](http://arxiv.org/abs/2302.06333v2)|[link](https://github.com/newlei/fda)|
+|**2023-02-10 22:33:05**|**Leveraging Diversity in Software Engineering Education through Community   Engaged Learning and a Supportive Network**|Nowshin Nawar Arony et.al.|[2302.07100v1](http://arxiv.org/abs/2302.07100v1)|null|
+|**2023-02-10 15:17:48**|**Trauma-Informed Social Media: Towards Solutions for Reducing and Healing   Online Harm**|Carol F. Scott et.al.|[2302.05312v1](http://arxiv.org/abs/2302.05312v1)|null|
+|**2023-02-09 14:55:17**|**Learning Mixtures of Markov Chains with Quality Guarantees**|Fabian Spaeh et.al.|[2302.04680v1](http://arxiv.org/abs/2302.04680v1)|null|
+|**2023-02-09 11:17:30**|**COVID-19 Susceptibility, Mortality and Length of Hospitalization based   on Age-Sex Composition: Insights for Intervention and Stratification**|Roel F. Ceballos et.al.|[2302.04569v1](http://arxiv.org/abs/2302.04569v1)|null|
+|**2023-02-09 10:48:37**|**Auditing Recommender Systems -- Putting the DSA into practice with a   risk-scenario-based approach**|Anna-Katharina Meßmer et.al.|[2302.04556v1](http://arxiv.org/abs/2302.04556v1)|null|
 
 ## Multi Interest Recommendation
 
@@ -36,75 +108,3 @@
 |**2022-10-07 15:30:00**|**KAST: Knowledge Aware Adaptive Session Multi-Topic Network for   Click-Through Rate Prediction**|Dike Sun et.al.|[2210.03624v1](http://arxiv.org/abs/2210.03624v1)|null|
 |**2022-10-04 22:33:58**|**IGNiteR: News Recommendation in Microblogging Applications (Extended   Version)**|Yuting Feng et.al.|[2210.01942v1](http://arxiv.org/abs/2210.01942v1)|null|
 |**2022-09-30 08:02:18**|**The Minority Matters: A Diversity-Promoting Collaborative Metric   Learning Algorithm**|Shilong Bao et.al.|[2209.15292v1](http://arxiv.org/abs/2209.15292v1)|null|
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-03-17 17:27:18**|**Distill n' Explain: explaining graph neural networks using simple   surrogates**|Tamara Pereira et.al.|[2303.10139v1](http://arxiv.org/abs/2303.10139v1)|[link](https://github.com/tamararruda/dnx)|
-|**2023-03-17 14:14:54**|**Neural-prior stochastic block model**|O. Duranthon et.al.|[2303.09995v1](http://arxiv.org/abs/2303.09995v1)|null|
-|**2023-03-17 13:25:29**|**GNNFormer: A Graph-based Framework for Cytopathology Report Generation**|Yang-Fan Zhou et.al.|[2303.09956v1](http://arxiv.org/abs/2303.09956v1)|null|
-|**2023-03-17 11:25:30**|**Local sign stability and its implications for spectra of sparse random   graphs and stability of ecosystems**|Pietro Valigi et.al.|[2303.09897v1](http://arxiv.org/abs/2303.09897v1)|null|
-|**2023-03-17 05:48:26**|**High Accurate and Explainable Multi-Pill Detection Framework with Graph   Neural Network-Assisted Multimodal Data Fusion**|Anh Duy Nguyen et.al.|[2303.09782v1](http://arxiv.org/abs/2303.09782v1)|null|
-|**2023-03-17 05:20:24**|**SE-GSL: A General and Effective Graph Structure Learning Framework   through Structural Entropy Optimization**|Dongcheng Zou et.al.|[2303.09778v1](http://arxiv.org/abs/2303.09778v1)|[link](https://github.com/ringbdstack/se-gsl)|
-|**2023-03-16 20:28:36**|**Causal Temporal Graph Convolutional Neural Networks (CTGCN)**|Abigail Langbridge et.al.|[2303.09634v1](http://arxiv.org/abs/2303.09634v1)|null|
-|**2023-03-16 17:47:55**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with   Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
-|**2023-03-15 22:23:32**|**CS-TGN: Community Search via Temporal Graph Neural Networks**|Farnoosh Hashemi et.al.|[2303.08964v1](http://arxiv.org/abs/2303.08964v1)|null|
-|**2023-03-15 20:58:20**|**Efficient Planning of Multi-Robot Collective Transport using Graph   Reinforcement Learning with Higher Order Topological Abstraction**|Steve Paul et.al.|[2303.08933v1](http://arxiv.org/abs/2303.08933v1)|null|
-|**2023-03-15 18:33:05**|**GRNN-based Real-time Fault Chain Prediction**|Anmol Dwivedi et.al.|[2303.08864v1](http://arxiv.org/abs/2303.08864v1)|null|
-|**2023-03-15 14:20:06**|**RGI : Regularized Graph Infomax for self-supervised learning on graphs**|Oscar Pina et.al.|[2303.08644v1](http://arxiv.org/abs/2303.08644v1)|null|
-|**2023-03-15 11:59:24**|**Local Region Perception and Relationship Learning Combined with Feature   Fusion for Facial Action Unit Detection**|Jun Yu et.al.|[2303.08545v1](http://arxiv.org/abs/2303.08545v1)|null|
-|**2023-03-15 11:30:16**|**Graph-less Collaborative Filtering**|Lianghao Xia et.al.|[2303.08537v1](http://arxiv.org/abs/2303.08537v1)|[link](https://github.com/hkuds/simrec)|
-|**2023-03-15 09:26:29**|**Unsupervised Traffic Scene Generation with Synthetic 3D Scene Graphs**|Artem Savkin et.al.|[2303.08473v1](http://arxiv.org/abs/2303.08473v1)|null|
-|**2023-03-15 03:57:09**|**Robust Preference-Guided Denoising for Graph based Social Recommendation**|Yuhan Quan et.al.|[2303.08346v1](http://arxiv.org/abs/2303.08346v1)|[link](https://github.com/tsinghua-fib-lab/Graph-Denoising-SocialRec)|
-|**2023-03-14 22:16:44**|**Gamora: Graph Learning based Symbolic Reasoning for Large-Scale Boolean   Networks**|Nan Wu et.al.|[2303.08256v1](http://arxiv.org/abs/2303.08256v1)|null|
-|**2023-03-14 18:14:40**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v2](http://arxiv.org/abs/2303.08157v2)|null|
-|**2023-03-14 11:28:53**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|[link](https://github.com/HKUDS/DGNN)|
-|**2023-03-14 11:12:22**|**Automated Self-Supervised Learning for Recommendation**|Lianghao Xia et.al.|[2303.07797v1](http://arxiv.org/abs/2303.07797v1)|[link](https://github.com/hkuds/autocf)|
-|**2023-03-14 10:39:58**|**GANN: Graph Alignment Neural Network for Semi-Supervised Learning**|Linxuan Song et.al.|[2303.07778v1](http://arxiv.org/abs/2303.07778v1)|null|
-|**2023-03-14 08:04:38**|**Dual-Attention Model for Aspect-Level Sentiment Classification**|Mengfei Ye et.al.|[2303.07689v1](http://arxiv.org/abs/2303.07689v1)|null|
-|**2023-03-14 07:23:16**|**AutoTransfer: AutoML with Knowledge Transfer -- An Application to Graph   Neural Networks**|Kaidi Cao et.al.|[2303.07669v1](http://arxiv.org/abs/2303.07669v1)|null|
-|**2023-03-14 07:15:41**|**Relational Multi-Task Learning: Modeling Relations between Data and   Tasks**|Kaidi Cao et.al.|[2303.07666v1](http://arxiv.org/abs/2303.07666v1)|[link](https://github.com/snap-stanford/graphgym)|
-|**2023-03-14 00:46:28**|**Deep Masked Graph Matching for Correspondence Identification in   Collaborative Perception**|Peng Gao et.al.|[2303.07555v1](http://arxiv.org/abs/2303.07555v1)|[link](https://github.com/gaopeng5/dmgm)|
-|**2023-03-13 19:15:49**|**End-to-end Deformable Attention Graph Neural Network for Single-view   Liver Mesh Reconstruction**|Matej Gazda et.al.|[2303.07432v1](http://arxiv.org/abs/2303.07432v1)|null|
-|**2023-03-13 17:32:46**|**Learning Reduced-Order Models for Cardiovascular Simulations with Graph   Neural Networks**|Luca Pegolotti et.al.|[2303.07310v1](http://arxiv.org/abs/2303.07310v1)|[link](https://github.com/stanfordcbcl/grom)|
-|**2023-03-13 05:01:50**|**Dynamic Neural Network for Multi-Task Learning Searching across Diverse   Network Topologies**|Wonhyeok Choi et.al.|[2303.06856v1](http://arxiv.org/abs/2303.06856v1)|null|
-|**2023-03-13 02:25:59**|**Backdoor Defense via Deconfounded Representation Learning**|Zaixi Zhang et.al.|[2303.06818v1](http://arxiv.org/abs/2303.06818v1)|[link](https://github.com/zaixizhang/cbd)|
-|**2023-03-13 01:47:05**|**Boosting Source Code Learning with Data Augmentation: An Empirical Study**|Zeming Dong et.al.|[2303.06808v1](http://arxiv.org/abs/2303.06808v1)|null|
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-03-16 17:44:39**|**Fairness-aware Differentially Private Collaborative Filtering**|Zhenhuan Yang et.al.|[2303.09527v1](http://arxiv.org/abs/2303.09527v1)|null|
-|**2023-03-16 10:56:24**|**The Dunnett procedure with possibly heterogeneous variances**|Ludwig A. Hothorn et.al.|[2303.09222v1](http://arxiv.org/abs/2303.09222v1)|null|
-|**2023-03-16 09:58:11**|**Wiki-based Communities of Interest: Demographics and Outliers**|Hiba Arnaout et.al.|[2303.09189v2](http://arxiv.org/abs/2303.09189v2)|null|
-|**2023-03-14 18:14:40**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v2](http://arxiv.org/abs/2303.08157v2)|null|
-|**2023-03-13 10:59:38**|**Neural Group Recommendation Based on a Probabilistic Semantic   Aggregation**|Jorge Dueñas-Lerín et.al.|[2303.07001v1](http://arxiv.org/abs/2303.07001v1)|[link](https://github.com/knodis-research-group/neural-cf-for-groups)|
-|**2023-03-09 17:44:58**|**Communication-Efficient Collaborative Heterogeneous Bandits in Networks**|Junghyun Lee et.al.|[2303.05445v1](http://arxiv.org/abs/2303.05445v1)|null|
-|**2023-03-08 13:54:57**|**"How to make them stay?" -- Diverse Counterfactual Explanations of   Employee Attrition**|André Artelt et.al.|[2303.04579v1](http://arxiv.org/abs/2303.04579v1)|null|
-|**2023-03-02 05:06:17**|**Dynamic fairness-aware recommendation through multi-agent social choice**|Amanda Aird et.al.|[2303.00968v2](http://arxiv.org/abs/2303.00968v2)|null|
-|**2023-03-01 17:12:49**|**Fairness Evaluation in Text Classification: Machine Learning   Practitioner Perspectives of Individual and Group Fairness**|Zahra Ashktorab et.al.|[2303.00673v1](http://arxiv.org/abs/2303.00673v1)|null|
-|**2023-03-01 10:39:58**|**A Study on Accuracy, Miscalibration, and Popularity Bias in   Recommendations**|Dominik Kowald et.al.|[2303.00400v1](http://arxiv.org/abs/2303.00400v1)|null|
-|**2023-03-01 02:29:30**|**Towards a real-time demand response framework for smart communities   using clustering techniques**|Sotiris Pelekis et.al.|[2303.00186v1](http://arxiv.org/abs/2303.00186v1)|null|
-|**2023-02-28 00:33:56**|**Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by   Major US ISPs**|Udit Paul et.al.|[2302.14216v1](http://arxiv.org/abs/2302.14216v1)|null|
-|**2023-02-25 12:23:32**|**Identification of pattern mining algorithm for rugby league players   positional groups separation based on movement patterns**|Victor Elijah Adeyemo et.al.|[2302.14058v1](http://arxiv.org/abs/2302.14058v1)|null|
-|**2023-02-23 14:11:08**|**A Comparison of Modeling Preprocessing Techniques**|Tosan Johnson et.al.|[2302.12042v2](http://arxiv.org/abs/2302.12042v2)|null|
-|**2023-02-21 10:06:01**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
-|**2023-02-20 13:30:12**|**Social4Rec: Distilling User Preference from Social Graph for Video   Recommendation in Tencent**|Xuanji Xiao et.al.|[2302.09971v2](http://arxiv.org/abs/2302.09971v2)|[link](https://github.com/social4rec/socialnet)|
-|**2023-02-20 11:57:12**|**Mysterious and Manipulative Black Boxes: A Qualitative Analysis of   Perceptions on Recommender Systems**|Jukka Ruohonen et.al.|[2302.09933v1](http://arxiv.org/abs/2302.09933v1)|null|
-|**2023-02-16 20:34:54**|**Towards Reliable Assessments of Demographic Disparities in Multi-Label   Image Classifiers**|Melissa Hall et.al.|[2302.08572v1](http://arxiv.org/abs/2302.08572v1)|null|
-|**2023-02-16 12:44:47**|**Fairly Adaptive Negative Sampling for Recommendations**|Xiao Chen et.al.|[2302.08266v1](http://arxiv.org/abs/2302.08266v1)|null|
-|**2023-02-14 06:42:09**|**AI Chat Assistants can Improve Conversations about Divisive Topics**|Lisa P. Argyle et.al.|[2302.07268v4](http://arxiv.org/abs/2302.07268v4)|null|
-|**2023-02-13 16:31:24**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic   and Molecular Physics, Condensed Matter and Materials Physics, and Earth   Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
-|**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v2](http://arxiv.org/abs/2302.06333v2)|[link](https://github.com/newlei/fda)|
-|**2023-02-10 22:33:05**|**Leveraging Diversity in Software Engineering Education through Community   Engaged Learning and a Supportive Network**|Nowshin Nawar Arony et.al.|[2302.07100v1](http://arxiv.org/abs/2302.07100v1)|null|
-|**2023-02-10 15:17:48**|**Trauma-Informed Social Media: Towards Solutions for Reducing and Healing   Online Harm**|Carol F. Scott et.al.|[2302.05312v1](http://arxiv.org/abs/2302.05312v1)|null|
-|**2023-02-09 14:55:17**|**Learning Mixtures of Markov Chains with Quality Guarantees**|Fabian Spaeh et.al.|[2302.04680v1](http://arxiv.org/abs/2302.04680v1)|null|
-|**2023-02-09 11:17:30**|**COVID-19 Susceptibility, Mortality and Length of Hospitalization based   on Age-Sex Composition: Insights for Intervention and Stratification**|Roel F. Ceballos et.al.|[2302.04569v1](http://arxiv.org/abs/2302.04569v1)|null|
-|**2023-02-09 10:48:37**|**Auditing Recommender Systems -- Putting the DSA into practice with a   risk-scenario-based approach**|Anna-Katharina Meßmer et.al.|[2302.04556v1](http://arxiv.org/abs/2302.04556v1)|null|
-|**2023-02-09 10:20:23**|**Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering**|Bosong Huang et.al.|[2302.04545v1](http://arxiv.org/abs/2302.04545v1)|null|
-|**2023-02-09 04:43:10**|**Real-Time Visual Feedback to Guide Benchmark Creation: A   Human-and-Metric-in-the-Loop Workflow**|Anjana Arunkumar et.al.|[2302.04434v1](http://arxiv.org/abs/2302.04434v1)|[link](https://github.com/aarunku5/vaida-eacl-2023)|
-|**2023-02-08 01:36:28**|**VIBFREQ1295: A New Database for Vibrational Frequency Calculations**|Juan C. Zapata Trujillo et.al.|[2302.03824v1](http://arxiv.org/abs/2302.03824v1)|null|

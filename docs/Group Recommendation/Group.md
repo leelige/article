@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-19 23:21:37**|**Successful and sustainable undergraduate research in data science**|Audrey E Hendricks et.al.|[2303.10792v1](http://arxiv.org/abs/2303.10792v1)|null|
+|**2023-03-18 19:12:38**|**Report of the Medical Image De-Identification (MIDI) Task Group -- Best   Practices and Recommendations**|David A. Clunie et.al.|[2303.10473v1](http://arxiv.org/abs/2303.10473v1)|null|
+|**2023-03-17 20:08:59**|**ITM-Rec: An Open Data Set for Educational Recommender Systems**|Yong Zheng et.al.|[2303.10230v1](http://arxiv.org/abs/2303.10230v1)|[link](https://github.com/irecsys/recdata)|
 |**2023-03-16 17:44:39**|**Fairness-aware Differentially Private Collaborative Filtering**|Zhenhuan Yang et.al.|[2303.09527v1](http://arxiv.org/abs/2303.09527v1)|null|
 |**2023-03-16 10:56:24**|**The Dunnett procedure with possibly heterogeneous variances**|Ludwig A. Hothorn et.al.|[2303.09222v1](http://arxiv.org/abs/2303.09222v1)|null|
 |**2023-03-16 09:58:11**|**Wiki-based Communities of Interest: Demographics and Outliers**|Hiba Arnaout et.al.|[2303.09189v2](http://arxiv.org/abs/2303.09189v2)|null|
@@ -29,6 +32,3 @@
 |**2023-02-09 14:55:17**|**Learning Mixtures of Markov Chains with Quality Guarantees**|Fabian Spaeh et.al.|[2302.04680v1](http://arxiv.org/abs/2302.04680v1)|null|
 |**2023-02-09 11:17:30**|**COVID-19 Susceptibility, Mortality and Length of Hospitalization based   on Age-Sex Composition: Insights for Intervention and Stratification**|Roel F. Ceballos et.al.|[2302.04569v1](http://arxiv.org/abs/2302.04569v1)|null|
 |**2023-02-09 10:48:37**|**Auditing Recommender Systems -- Putting the DSA into practice with a   risk-scenario-based approach**|Anna-Katharina Meßmer et.al.|[2302.04556v1](http://arxiv.org/abs/2302.04556v1)|null|
-|**2023-02-09 10:20:23**|**Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering**|Bosong Huang et.al.|[2302.04545v1](http://arxiv.org/abs/2302.04545v1)|null|
-|**2023-02-09 04:43:10**|**Real-Time Visual Feedback to Guide Benchmark Creation: A   Human-and-Metric-in-the-Loop Workflow**|Anjana Arunkumar et.al.|[2302.04434v1](http://arxiv.org/abs/2302.04434v1)|[link](https://github.com/aarunku5/vaida-eacl-2023)|
-|**2023-02-08 01:36:28**|**VIBFREQ1295: A New Database for Vibrational Frequency Calculations**|Juan C. Zapata Trujillo et.al.|[2302.03824v1](http://arxiv.org/abs/2302.03824v1)|null|
