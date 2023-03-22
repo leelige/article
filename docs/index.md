@@ -1,18 +1,24 @@
 # arxiv-daily
- 自动更新 @ 2023-03-21 16:08:48 Asia/Shanghai
+ 自动更新 @ 2023-03-22 16:08:04 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-21 11:56:35**|**Debiased Contrastive Learning for Sequential Recommendation**|Yuhao Yang et.al.|[2303.11780v1](http://arxiv.org/abs/2303.11780v1)|[link](https://github.com/hkuds/dcrec)|
+|**2023-03-21 11:20:22**|**Projections of Model Spaces for Latent Graph Inference**|Haitz Sáez de Ocáriz Borde et.al.|[2303.11754v1](http://arxiv.org/abs/2303.11754v1)|null|
+|**2023-03-21 10:43:41**|**DIPPM: a Deep Learning Inference Performance Predictive Model using   Graph Neural Networks**|Karthick Panner Selvam et.al.|[2303.11733v1](http://arxiv.org/abs/2303.11733v1)|null|
+|**2023-03-20 23:38:33**|**Exploiting Inter-Operation Data Reuse in Scientific Applications using   GOGETA**|Raveesh Garg et.al.|[2303.11499v1](http://arxiv.org/abs/2303.11499v1)|null|
+|**2023-03-20 18:24:01**|**GNN-Ensemble: Towards Random Decision Graph Neural Networks**|Wenqi Wei et.al.|[2303.11376v1](http://arxiv.org/abs/2303.11376v1)|null|
 |**2023-03-20 17:57:15**|**Tangent Bundle Convolutional Learning: from Manifolds to Cellular   Sheaves and Back**|Claudio Battiloro et.al.|[2303.11323v1](http://arxiv.org/abs/2303.11323v1)|null|
+|**2023-03-20 16:43:41**|**Deep trip generation with graph neural networks for bike sharing system   expansion**|Yuebing Liang et.al.|[2303.11977v1](http://arxiv.org/abs/2303.11977v1)|null|
 |**2023-03-20 14:01:01**|**Positional Diffusion: Ordering Unordered Sets with Diffusion   Probabilistic Models**|Francesco Giuliari et.al.|[2303.11120v1](http://arxiv.org/abs/2303.11120v1)|null|
 |**2023-03-20 10:21:29**|**A Survey on Oversmoothing in Graph Neural Networks**|T. Konstantin Rusch et.al.|[2303.10993v1](http://arxiv.org/abs/2303.10993v1)|null|
 |**2023-03-20 06:57:10**|**Graph Neural Rough Differential Equations for Traffic Forecasting**|Jeongwhan Choi et.al.|[2303.10909v1](http://arxiv.org/abs/2303.10909v1)|[link](https://github.com/jeongwhanchoi/STG-NCDE)|
 |**2023-03-20 05:18:31**|**Hardware-Aware Graph Neural Network Automated Design for Edge Computing   Platforms**|Ao Zhou et.al.|[2303.10875v1](http://arxiv.org/abs/2303.10875v1)|null|
 |**2023-03-19 23:52:41**|**Beyond Independent Error Assumptions in Large GNN Atomistic Models**|Janghoon Ock et.al.|[2303.10797v1](http://arxiv.org/abs/2303.10797v1)|null|
-|**2023-03-19 20:52:44**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v1](http://arxiv.org/abs/2303.10766v1)|null|
+|**2023-03-19 20:52:44**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v2](http://arxiv.org/abs/2303.10766v2)|null|
 |**2023-03-19 05:35:59**|**Efficiently Counting Substructures by Subgraph GNNs without Running GNN   on Subgraphs**|Zuoyu Yan et.al.|[2303.10576v1](http://arxiv.org/abs/2303.10576v1)|[link](https://github.com/pkuyzy/esc-gnn)|
 |**2023-03-19 03:50:16**|**The Graph feature fusion technique for speaker recognition based on   wav2vec2.0 framework**|Zirui Ge et.al.|[2303.10556v1](http://arxiv.org/abs/2303.10556v1)|null|
 |**2023-03-19 02:30:27**|**Unsupervised Learning for Solving the Travelling Salesman Problem**|Yimeng Min et.al.|[2303.10538v1](http://arxiv.org/abs/2303.10538v1)|null|
@@ -30,19 +36,14 @@
 |**2023-03-17 05:16:49**|**Provably Convergent Subgraph-wise Sampling for Fast GNN Training**|Jie Wang et.al.|[2303.11081v1](http://arxiv.org/abs/2303.11081v1)|null|
 |**2023-03-16 20:28:36**|**Causal Temporal Graph Convolutional Neural Networks (CTGCN)**|Abigail Langbridge et.al.|[2303.09634v1](http://arxiv.org/abs/2303.09634v1)|null|
 |**2023-03-16 17:47:55**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with   Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
-|**2023-03-15 22:23:32**|**CS-TGN: Community Search via Temporal Graph Neural Networks**|Farnoosh Hashemi et.al.|[2303.08964v1](http://arxiv.org/abs/2303.08964v1)|null|
-|**2023-03-15 20:58:20**|**Efficient Planning of Multi-Robot Collective Transport using Graph   Reinforcement Learning with Higher Order Topological Abstraction**|Steve Paul et.al.|[2303.08933v1](http://arxiv.org/abs/2303.08933v1)|null|
-|**2023-03-15 18:33:05**|**GRNN-based Real-time Fault Chain Prediction**|Anmol Dwivedi et.al.|[2303.08864v1](http://arxiv.org/abs/2303.08864v1)|null|
-|**2023-03-15 14:20:06**|**RGI : Regularized Graph Infomax for self-supervised learning on graphs**|Oscar Pina et.al.|[2303.08644v1](http://arxiv.org/abs/2303.08644v1)|null|
-|**2023-03-15 11:59:24**|**Local Region Perception and Relationship Learning Combined with Feature   Fusion for Facial Action Unit Detection**|Jun Yu et.al.|[2303.08545v2](http://arxiv.org/abs/2303.08545v2)|null|
-|**2023-03-15 11:30:16**|**Graph-less Collaborative Filtering**|Lianghao Xia et.al.|[2303.08537v2](http://arxiv.org/abs/2303.08537v2)|[link](https://github.com/hkuds/simrec)|
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-03-19 23:21:37**|**Successful and sustainable undergraduate research in data science**|Audrey E Hendricks et.al.|[2303.10792v1](http://arxiv.org/abs/2303.10792v1)|null|
+|**2023-03-21 10:55:49**|**Uncertainty estimation on frequency shift of Brillouin light scattering**|Patrice Salzenstein et.al.|[2303.11737v1](http://arxiv.org/abs/2303.11737v1)|null|
+|**2023-03-19 23:21:37**|**Successful and sustainable undergraduate research in data science**|Audrey E Hendricks et.al.|[2303.10792v2](http://arxiv.org/abs/2303.10792v2)|null|
 |**2023-03-18 19:12:38**|**Report of the Medical Image De-Identification (MIDI) Task Group -- Best   Practices and Recommendations**|David A. Clunie et.al.|[2303.10473v1](http://arxiv.org/abs/2303.10473v1)|null|
 |**2023-03-17 20:08:59**|**ITM-Rec: An Open Data Set for Educational Recommender Systems**|Yong Zheng et.al.|[2303.10230v1](http://arxiv.org/abs/2303.10230v1)|[link](https://github.com/irecsys/recdata)|
 |**2023-03-16 17:44:39**|**Fairness-aware Differentially Private Collaborative Filtering**|Zhenhuan Yang et.al.|[2303.09527v1](http://arxiv.org/abs/2303.09527v1)|null|
@@ -71,13 +72,13 @@
 |**2023-02-10 15:17:48**|**Trauma-Informed Social Media: Towards Solutions for Reducing and Healing   Online Harm**|Carol F. Scott et.al.|[2302.05312v1](http://arxiv.org/abs/2302.05312v1)|null|
 |**2023-02-09 14:55:17**|**Learning Mixtures of Markov Chains with Quality Guarantees**|Fabian Spaeh et.al.|[2302.04680v1](http://arxiv.org/abs/2302.04680v1)|null|
 |**2023-02-09 11:17:30**|**COVID-19 Susceptibility, Mortality and Length of Hospitalization based   on Age-Sex Composition: Insights for Intervention and Stratification**|Roel F. Ceballos et.al.|[2302.04569v1](http://arxiv.org/abs/2302.04569v1)|null|
-|**2023-02-09 10:48:37**|**Auditing Recommender Systems -- Putting the DSA into practice with a   risk-scenario-based approach**|Anna-Katharina Meßmer et.al.|[2302.04556v1](http://arxiv.org/abs/2302.04556v1)|null|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-21 00:00:35**|**Optimal Individualized Treatment Rule for Combination Treatments Under   Budget Constraints**|Qi Xu et.al.|[2303.11507v1](http://arxiv.org/abs/2303.11507v1)|null|
 |**2023-02-28 12:43:17**|**Rethinking Multi-Interest Learning for Candidate Matching in Recommender   Systems**|Yueqi Xie et.al.|[2302.14532v1](http://arxiv.org/abs/2302.14532v1)|null|
 |**2023-02-28 09:30:24**|**Self-Supervised Interest Transfer Network via Prototypical Contrastive   Learning for Recommendation**|Guoqiang Sun et.al.|[2302.14438v1](http://arxiv.org/abs/2302.14438v1)|[link](https://github.com/fanqieCoffee/SITN-Supplement)|
 |**2023-02-22 20:29:03**|**Sequential Re-estimation Learning of Optimal Individualized Treatment   Rules Among Ordinal Treatments with Application to Recommended Intervals   Between Blood Donations**|Yuejia Xu et.al.|[2302.11638v1](http://arxiv.org/abs/2302.11638v1)|null|
@@ -107,4 +108,3 @@
 |**2022-10-11 07:01:40**|**DIGAT: Modeling News Recommendation with Dual-Graph Interaction**|Zhiming Mao et.al.|[2210.05196v2](http://arxiv.org/abs/2210.05196v2)|[link](https://github.com/veason-silverbullet/digat)|
 |**2022-10-07 15:30:00**|**KAST: Knowledge Aware Adaptive Session Multi-Topic Network for   Click-Through Rate Prediction**|Dike Sun et.al.|[2210.03624v1](http://arxiv.org/abs/2210.03624v1)|null|
 |**2022-10-04 22:33:58**|**IGNiteR: News Recommendation in Microblogging Applications (Extended   Version)**|Yuting Feng et.al.|[2210.01942v1](http://arxiv.org/abs/2210.01942v1)|null|
-|**2022-09-30 08:02:18**|**The Minority Matters: A Diversity-Promoting Collaborative Metric   Learning Algorithm**|Shilong Bao et.al.|[2209.15292v1](http://arxiv.org/abs/2209.15292v1)|null|

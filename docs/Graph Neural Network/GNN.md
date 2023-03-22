@@ -2,13 +2,19 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-21 11:56:35**|**Debiased Contrastive Learning for Sequential Recommendation**|Yuhao Yang et.al.|[2303.11780v1](http://arxiv.org/abs/2303.11780v1)|[link](https://github.com/hkuds/dcrec)|
+|**2023-03-21 11:20:22**|**Projections of Model Spaces for Latent Graph Inference**|Haitz Sáez de Ocáriz Borde et.al.|[2303.11754v1](http://arxiv.org/abs/2303.11754v1)|null|
+|**2023-03-21 10:43:41**|**DIPPM: a Deep Learning Inference Performance Predictive Model using   Graph Neural Networks**|Karthick Panner Selvam et.al.|[2303.11733v1](http://arxiv.org/abs/2303.11733v1)|null|
+|**2023-03-20 23:38:33**|**Exploiting Inter-Operation Data Reuse in Scientific Applications using   GOGETA**|Raveesh Garg et.al.|[2303.11499v1](http://arxiv.org/abs/2303.11499v1)|null|
+|**2023-03-20 18:24:01**|**GNN-Ensemble: Towards Random Decision Graph Neural Networks**|Wenqi Wei et.al.|[2303.11376v1](http://arxiv.org/abs/2303.11376v1)|null|
 |**2023-03-20 17:57:15**|**Tangent Bundle Convolutional Learning: from Manifolds to Cellular   Sheaves and Back**|Claudio Battiloro et.al.|[2303.11323v1](http://arxiv.org/abs/2303.11323v1)|null|
+|**2023-03-20 16:43:41**|**Deep trip generation with graph neural networks for bike sharing system   expansion**|Yuebing Liang et.al.|[2303.11977v1](http://arxiv.org/abs/2303.11977v1)|null|
 |**2023-03-20 14:01:01**|**Positional Diffusion: Ordering Unordered Sets with Diffusion   Probabilistic Models**|Francesco Giuliari et.al.|[2303.11120v1](http://arxiv.org/abs/2303.11120v1)|null|
 |**2023-03-20 10:21:29**|**A Survey on Oversmoothing in Graph Neural Networks**|T. Konstantin Rusch et.al.|[2303.10993v1](http://arxiv.org/abs/2303.10993v1)|null|
 |**2023-03-20 06:57:10**|**Graph Neural Rough Differential Equations for Traffic Forecasting**|Jeongwhan Choi et.al.|[2303.10909v1](http://arxiv.org/abs/2303.10909v1)|[link](https://github.com/jeongwhanchoi/STG-NCDE)|
 |**2023-03-20 05:18:31**|**Hardware-Aware Graph Neural Network Automated Design for Edge Computing   Platforms**|Ao Zhou et.al.|[2303.10875v1](http://arxiv.org/abs/2303.10875v1)|null|
 |**2023-03-19 23:52:41**|**Beyond Independent Error Assumptions in Large GNN Atomistic Models**|Janghoon Ock et.al.|[2303.10797v1](http://arxiv.org/abs/2303.10797v1)|null|
-|**2023-03-19 20:52:44**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v1](http://arxiv.org/abs/2303.10766v1)|null|
+|**2023-03-19 20:52:44**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v2](http://arxiv.org/abs/2303.10766v2)|null|
 |**2023-03-19 05:35:59**|**Efficiently Counting Substructures by Subgraph GNNs without Running GNN   on Subgraphs**|Zuoyu Yan et.al.|[2303.10576v1](http://arxiv.org/abs/2303.10576v1)|[link](https://github.com/pkuyzy/esc-gnn)|
 |**2023-03-19 03:50:16**|**The Graph feature fusion technique for speaker recognition based on   wav2vec2.0 framework**|Zirui Ge et.al.|[2303.10556v1](http://arxiv.org/abs/2303.10556v1)|null|
 |**2023-03-19 02:30:27**|**Unsupervised Learning for Solving the Travelling Salesman Problem**|Yimeng Min et.al.|[2303.10538v1](http://arxiv.org/abs/2303.10538v1)|null|
@@ -26,9 +32,3 @@
 |**2023-03-17 05:16:49**|**Provably Convergent Subgraph-wise Sampling for Fast GNN Training**|Jie Wang et.al.|[2303.11081v1](http://arxiv.org/abs/2303.11081v1)|null|
 |**2023-03-16 20:28:36**|**Causal Temporal Graph Convolutional Neural Networks (CTGCN)**|Abigail Langbridge et.al.|[2303.09634v1](http://arxiv.org/abs/2303.09634v1)|null|
 |**2023-03-16 17:47:55**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with   Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
-|**2023-03-15 22:23:32**|**CS-TGN: Community Search via Temporal Graph Neural Networks**|Farnoosh Hashemi et.al.|[2303.08964v1](http://arxiv.org/abs/2303.08964v1)|null|
-|**2023-03-15 20:58:20**|**Efficient Planning of Multi-Robot Collective Transport using Graph   Reinforcement Learning with Higher Order Topological Abstraction**|Steve Paul et.al.|[2303.08933v1](http://arxiv.org/abs/2303.08933v1)|null|
-|**2023-03-15 18:33:05**|**GRNN-based Real-time Fault Chain Prediction**|Anmol Dwivedi et.al.|[2303.08864v1](http://arxiv.org/abs/2303.08864v1)|null|
-|**2023-03-15 14:20:06**|**RGI : Regularized Graph Infomax for self-supervised learning on graphs**|Oscar Pina et.al.|[2303.08644v1](http://arxiv.org/abs/2303.08644v1)|null|
-|**2023-03-15 11:59:24**|**Local Region Perception and Relationship Learning Combined with Feature   Fusion for Facial Action Unit Detection**|Jun Yu et.al.|[2303.08545v2](http://arxiv.org/abs/2303.08545v2)|null|
-|**2023-03-15 11:30:16**|**Graph-less Collaborative Filtering**|Lianghao Xia et.al.|[2303.08537v2](http://arxiv.org/abs/2303.08537v2)|[link](https://github.com/hkuds/simrec)|
