@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-22 17:46:27**|**LFM-3D: Learnable Feature Matching Across Wide Baselines Using 3D   Signals**|Arjun Karpur et.al.|[2303.12779v1](http://arxiv.org/abs/2303.12779v1)|null|
+|**2023-03-22 05:35:29**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
+|**2023-03-22 04:49:00**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph   Reasoning**|Haiquan Qiu et.al.|[2303.12306v1](http://arxiv.org/abs/2303.12306v1)|null|
+|**2023-03-21 22:12:53**|**Community detection in complex networks via node similarity, graph   representation learning, and hierarchical clustering**|Łukasz Brzozowski et.al.|[2303.12212v1](http://arxiv.org/abs/2303.12212v1)|null|
 |**2023-03-21 11:56:35**|**Debiased Contrastive Learning for Sequential Recommendation**|Yuhao Yang et.al.|[2303.11780v1](http://arxiv.org/abs/2303.11780v1)|[link](https://github.com/hkuds/dcrec)|
 |**2023-03-21 11:20:22**|**Projections of Model Spaces for Latent Graph Inference**|Haitz Sáez de Ocáriz Borde et.al.|[2303.11754v1](http://arxiv.org/abs/2303.11754v1)|null|
 |**2023-03-21 10:43:41**|**DIPPM: a Deep Learning Inference Performance Predictive Model using   Graph Neural Networks**|Karthick Panner Selvam et.al.|[2303.11733v1](http://arxiv.org/abs/2303.11733v1)|null|
@@ -28,7 +32,3 @@
 |**2023-03-17 13:25:29**|**GNNFormer: A Graph-based Framework for Cytopathology Report Generation**|Yang-Fan Zhou et.al.|[2303.09956v1](http://arxiv.org/abs/2303.09956v1)|null|
 |**2023-03-17 11:25:30**|**Local sign stability and its implications for spectra of sparse random   graphs and stability of ecosystems**|Pietro Valigi et.al.|[2303.09897v1](http://arxiv.org/abs/2303.09897v1)|null|
 |**2023-03-17 05:48:26**|**High Accurate and Explainable Multi-Pill Detection Framework with Graph   Neural Network-Assisted Multimodal Data Fusion**|Anh Duy Nguyen et.al.|[2303.09782v1](http://arxiv.org/abs/2303.09782v1)|null|
-|**2023-03-17 05:20:24**|**SE-GSL: A General and Effective Graph Structure Learning Framework   through Structural Entropy Optimization**|Dongcheng Zou et.al.|[2303.09778v1](http://arxiv.org/abs/2303.09778v1)|[link](https://github.com/ringbdstack/se-gsl)|
-|**2023-03-17 05:16:49**|**Provably Convergent Subgraph-wise Sampling for Fast GNN Training**|Jie Wang et.al.|[2303.11081v1](http://arxiv.org/abs/2303.11081v1)|null|
-|**2023-03-16 20:28:36**|**Causal Temporal Graph Convolutional Neural Networks (CTGCN)**|Abigail Langbridge et.al.|[2303.09634v1](http://arxiv.org/abs/2303.09634v1)|null|
-|**2023-03-16 17:47:55**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with   Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
