@@ -2,9 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-23 12:14:04**|**Stochastic Graph Neural Network-based Value Decomposition for MARL in   Internet of Vehicles**|Baidi Xiao et.al.|[2303.13213v1](http://arxiv.org/abs/2303.13213v1)|null|
+|**2023-03-23 11:16:33**|**It is all Connected: A New Graph Formulation for Spatio-Temporal   Forecasting**|Lars Ødegaard Bentsen et.al.|[2303.13177v1](http://arxiv.org/abs/2303.13177v1)|null|
+|**2023-03-22 21:03:40**|**Cross-Layer Design for AI Acceleration with Non-Coherent Optical   Computing**|Febin Sunny et.al.|[2303.12910v1](http://arxiv.org/abs/2303.12910v1)|null|
+|**2023-03-22 20:46:37**|**Dynasparse: Accelerating GNN Inference through Dynamic Sparsity   Exploitation**|Bingyi Zhang et.al.|[2303.12901v1](http://arxiv.org/abs/2303.12901v1)|null|
+|**2023-03-22 18:23:24**|**Three iterations of $(1-d)$-WL test distinguish non isometric clouds of   $d$-dimensional points**|Valentino Delle Rose et.al.|[2303.12853v1](http://arxiv.org/abs/2303.12853v1)|null|
 |**2023-03-22 17:46:27**|**LFM-3D: Learnable Feature Matching Across Wide Baselines Using 3D   Signals**|Arjun Karpur et.al.|[2303.12779v1](http://arxiv.org/abs/2303.12779v1)|null|
 |**2023-03-22 05:35:29**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
 |**2023-03-22 04:49:00**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph   Reasoning**|Haiquan Qiu et.al.|[2303.12306v1](http://arxiv.org/abs/2303.12306v1)|null|
+|**2023-03-22 01:05:57**|**A Comparison of Graph Neural Networks for Malware Classification**|Vrinda Malhotra et.al.|[2303.12812v1](http://arxiv.org/abs/2303.12812v1)|null|
 |**2023-03-21 22:12:53**|**Community detection in complex networks via node similarity, graph   representation learning, and hierarchical clustering**|Łukasz Brzozowski et.al.|[2303.12212v1](http://arxiv.org/abs/2303.12212v1)|null|
 |**2023-03-21 11:56:35**|**Debiased Contrastive Learning for Sequential Recommendation**|Yuhao Yang et.al.|[2303.11780v1](http://arxiv.org/abs/2303.11780v1)|[link](https://github.com/hkuds/dcrec)|
 |**2023-03-21 11:20:22**|**Projections of Model Spaces for Latent Graph Inference**|Haitz Sáez de Ocáriz Borde et.al.|[2303.11754v1](http://arxiv.org/abs/2303.11754v1)|null|
@@ -26,9 +32,3 @@
 |**2023-03-18 08:57:09**|**An Empirical Study of Pre-trained Language Models in Simple Knowledge   Graph Question Answering**|Nan Hu et.al.|[2303.10368v1](http://arxiv.org/abs/2303.10368v1)|[link](https://github.com/aannonymouuss/plms-in-practical-kbqa)|
 |**2023-03-18 03:53:43**|**Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report   Generation**|Mingjie Li et.al.|[2303.10323v1](http://arxiv.org/abs/2303.10323v1)|[link](https://github.com/mlii0117/dcl)|
 |**2023-03-18 02:46:58**|**EGTSyn: Edge-based Graph Transformer for Anti-Cancer Drug Combination   Synergy Prediction**|Jie Hu et.al.|[2303.10312v1](http://arxiv.org/abs/2303.10312v1)|null|
-|**2023-03-17 22:50:12**|**VPU-EM: An Event-based Modeling Framework to Evaluate NPU Performance   and Power Efficiency at Scale**|Charles Qi et.al.|[2303.10271v1](http://arxiv.org/abs/2303.10271v1)|null|
-|**2023-03-17 17:27:18**|**Distill n' Explain: explaining graph neural networks using simple   surrogates**|Tamara Pereira et.al.|[2303.10139v1](http://arxiv.org/abs/2303.10139v1)|[link](https://github.com/tamararruda/dnx)|
-|**2023-03-17 14:14:54**|**Neural-prior stochastic block model**|O. Duranthon et.al.|[2303.09995v1](http://arxiv.org/abs/2303.09995v1)|null|
-|**2023-03-17 13:25:29**|**GNNFormer: A Graph-based Framework for Cytopathology Report Generation**|Yang-Fan Zhou et.al.|[2303.09956v1](http://arxiv.org/abs/2303.09956v1)|null|
-|**2023-03-17 11:25:30**|**Local sign stability and its implications for spectra of sparse random   graphs and stability of ecosystems**|Pietro Valigi et.al.|[2303.09897v1](http://arxiv.org/abs/2303.09897v1)|null|
-|**2023-03-17 05:48:26**|**High Accurate and Explainable Multi-Pill Detection Framework with Graph   Neural Network-Assisted Multimodal Data Fusion**|Anh Duy Nguyen et.al.|[2303.09782v1](http://arxiv.org/abs/2303.09782v1)|null|
