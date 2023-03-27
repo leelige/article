@@ -2,6 +2,18 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-24 17:15:43**|**IMA-GNN: In-Memory Acceleration of Centralized and Decentralized Graph   Neural Networks at the Edge**|Mehrdad Morsali et.al.|[2303.14162v1](http://arxiv.org/abs/2303.14162v1)|null|
+|**2023-03-24 14:03:55**|**PoisonedGNN: Backdoor Attack on Graph Neural Networks-based Hardware   Security Systems**|Lilas Alrahis et.al.|[2303.14009v1](http://arxiv.org/abs/2303.14009v1)|null|
+|**2023-03-24 12:37:43**|**Gradient scarcity with Bilevel Optimization for Graph Learning**|Hashem Ghanem et.al.|[2303.13964v1](http://arxiv.org/abs/2303.13964v1)|null|
+|**2023-03-24 11:50:08**|**Topological Reconstruction of Particle Physics Processes using Graph   Neural Networks**|Lukas Ehrke et.al.|[2303.13937v1](http://arxiv.org/abs/2303.13937v1)|null|
+|**2023-03-24 08:58:08**|**Two-level Graph Network for Few-Shot Class-Incremental Learning**|Hao Chen et.al.|[2303.13862v1](http://arxiv.org/abs/2303.13862v1)|null|
+|**2023-03-24 03:28:05**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via   Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775v1](http://arxiv.org/abs/2303.13775v1)|null|
+|**2023-03-24 03:17:28**|**A Graph Neural Network Approach to Nanosatellite Task Scheduling:   Insights into Learning Mixed-Integer Models**|Bruno Machado Pacheco et.al.|[2303.13773v1](http://arxiv.org/abs/2303.13773v1)|null|
+|**2023-03-24 02:28:55**|**Edge-free but Structure-aware: Prototype-Guided Knowledge Distillation   from GNNs to MLPs**|Taiqiang Wu et.al.|[2303.13763v1](http://arxiv.org/abs/2303.13763v1)|null|
+|**2023-03-24 02:07:46**|**LONGNN: Spectral GNNs with Learnable Orthonormal Basis**|Qian Tao et.al.|[2303.13750v1](http://arxiv.org/abs/2303.13750v1)|null|
+|**2023-03-23 19:12:03**|**Unbinned Deep Learning Jet Substructure Measurement in High $Q^2$ ep   collisions at HERA**| The H1 collaboration et.al.|[2303.13620v1](http://arxiv.org/abs/2303.13620v1)|null|
+|**2023-03-23 13:38:21**|**Enhancing Embedding Representations of Biomedical Data using Logic   Knowledge**|Michelangelo Diligenti et.al.|[2303.13566v1](http://arxiv.org/abs/2303.13566v1)|null|
+|**2023-03-23 13:05:35**|**Graph Tensor Networks: An Intuitive Framework for Designing Large-Scale   Neural Learning Systems on Multiple Domains**|Yao Lei Xu et.al.|[2303.13565v1](http://arxiv.org/abs/2303.13565v1)|null|
 |**2023-03-23 12:14:04**|**Stochastic Graph Neural Network-based Value Decomposition for MARL in   Internet of Vehicles**|Baidi Xiao et.al.|[2303.13213v1](http://arxiv.org/abs/2303.13213v1)|null|
 |**2023-03-23 11:16:33**|**It is all Connected: A New Graph Formulation for Spatio-Temporal   Forecasting**|Lars Ødegaard Bentsen et.al.|[2303.13177v1](http://arxiv.org/abs/2303.13177v1)|null|
 |**2023-03-22 21:03:40**|**Cross-Layer Design for AI Acceleration with Non-Coherent Optical   Computing**|Febin Sunny et.al.|[2303.12910v1](http://arxiv.org/abs/2303.12910v1)|null|
@@ -20,15 +32,3 @@
 |**2023-03-20 17:57:15**|**Tangent Bundle Convolutional Learning: from Manifolds to Cellular   Sheaves and Back**|Claudio Battiloro et.al.|[2303.11323v1](http://arxiv.org/abs/2303.11323v1)|null|
 |**2023-03-20 16:43:41**|**Deep trip generation with graph neural networks for bike sharing system   expansion**|Yuebing Liang et.al.|[2303.11977v1](http://arxiv.org/abs/2303.11977v1)|null|
 |**2023-03-20 14:01:01**|**Positional Diffusion: Ordering Unordered Sets with Diffusion   Probabilistic Models**|Francesco Giuliari et.al.|[2303.11120v1](http://arxiv.org/abs/2303.11120v1)|[link](https://github.com/IIT-PAVIS/Positional_Diffusion)|
-|**2023-03-20 10:21:29**|**A Survey on Oversmoothing in Graph Neural Networks**|T. Konstantin Rusch et.al.|[2303.10993v1](http://arxiv.org/abs/2303.10993v1)|null|
-|**2023-03-20 06:57:10**|**Graph Neural Rough Differential Equations for Traffic Forecasting**|Jeongwhan Choi et.al.|[2303.10909v1](http://arxiv.org/abs/2303.10909v1)|[link](https://github.com/jeongwhanchoi/STG-NCDE)|
-|**2023-03-20 05:18:31**|**Hardware-Aware Graph Neural Network Automated Design for Edge Computing   Platforms**|Ao Zhou et.al.|[2303.10875v1](http://arxiv.org/abs/2303.10875v1)|null|
-|**2023-03-19 23:52:41**|**Beyond Independent Error Assumptions in Large GNN Atomistic Models**|Janghoon Ock et.al.|[2303.10797v1](http://arxiv.org/abs/2303.10797v1)|null|
-|**2023-03-19 20:52:44**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v2](http://arxiv.org/abs/2303.10766v2)|null|
-|**2023-03-19 05:35:59**|**Efficiently Counting Substructures by Subgraph GNNs without Running GNN   on Subgraphs**|Zuoyu Yan et.al.|[2303.10576v1](http://arxiv.org/abs/2303.10576v1)|[link](https://github.com/pkuyzy/esc-gnn)|
-|**2023-03-19 03:50:16**|**The Graph feature fusion technique for speaker recognition based on   wav2vec2.0 framework**|Zirui Ge et.al.|[2303.10556v1](http://arxiv.org/abs/2303.10556v1)|null|
-|**2023-03-19 02:30:27**|**Unsupervised Learning for Solving the Travelling Salesman Problem**|Yimeng Min et.al.|[2303.10538v1](http://arxiv.org/abs/2303.10538v1)|null|
-|**2023-03-18 22:52:08**|**Backward Reachability Analysis of Neural Feedback Systems Using Hybrid   Zonotopes**|Yuhao Zhang et.al.|[2303.10513v1](http://arxiv.org/abs/2303.10513v1)|null|
-|**2023-03-18 08:57:09**|**An Empirical Study of Pre-trained Language Models in Simple Knowledge   Graph Question Answering**|Nan Hu et.al.|[2303.10368v1](http://arxiv.org/abs/2303.10368v1)|[link](https://github.com/aannonymouuss/plms-in-practical-kbqa)|
-|**2023-03-18 03:53:43**|**Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report   Generation**|Mingjie Li et.al.|[2303.10323v1](http://arxiv.org/abs/2303.10323v1)|[link](https://github.com/mlii0117/dcl)|
-|**2023-03-18 02:46:58**|**EGTSyn: Edge-based Graph Transformer for Anti-Cancer Drug Combination   Synergy Prediction**|Jie Hu et.al.|[2303.10312v1](http://arxiv.org/abs/2303.10312v1)|null|

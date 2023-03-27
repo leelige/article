@@ -21,6 +21,7 @@
 |**2023-03-01 02:29:30**|**Towards a real-time demand response framework for smart communities   using clustering techniques**|Sotiris Pelekis et.al.|[2303.00186v1](http://arxiv.org/abs/2303.00186v1)|null|
 |**2023-02-28 00:33:56**|**Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by   Major US ISPs**|Udit Paul et.al.|[2302.14216v1](http://arxiv.org/abs/2302.14216v1)|null|
 |**2023-02-25 12:23:32**|**Identification of pattern mining algorithm for rugby league players   positional groups separation based on movement patterns**|Victor Elijah Adeyemo et.al.|[2302.14058v1](http://arxiv.org/abs/2302.14058v1)|null|
+|**2023-02-23 17:35:27**|**Talking Abortion (Mis)information with ChatGPT on TikTok**|Filipo Sharevski et.al.|[2303.13524v1](http://arxiv.org/abs/2303.13524v1)|null|
 |**2023-02-23 14:11:08**|**A Comparison of Modeling Preprocessing Techniques**|Tosan Johnson et.al.|[2302.12042v2](http://arxiv.org/abs/2302.12042v2)|null|
 |**2023-02-21 10:06:01**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
 |**2023-02-20 13:30:12**|**Social4Rec: Distilling User Preference from Social Graph for Video   Recommendation in Tencent**|Xuanji Xiao et.al.|[2302.09971v2](http://arxiv.org/abs/2302.09971v2)|[link](https://github.com/social4rec/socialnet)|
@@ -31,4 +32,3 @@
 |**2023-02-13 16:31:24**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic   and Molecular Physics, Condensed Matter and Materials Physics, and Earth   Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
 |**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v2](http://arxiv.org/abs/2302.06333v2)|[link](https://github.com/newlei/fda)|
 |**2023-02-10 22:33:05**|**Leveraging Diversity in Software Engineering Education through Community   Engaged Learning and a Supportive Network**|Nowshin Nawar Arony et.al.|[2302.07100v1](http://arxiv.org/abs/2302.07100v1)|null|
-|**2023-02-10 15:17:48**|**Trauma-Informed Social Media: Towards Solutions for Reducing and Healing   Online Harm**|Carol F. Scott et.al.|[2302.05312v1](http://arxiv.org/abs/2302.05312v1)|null|
