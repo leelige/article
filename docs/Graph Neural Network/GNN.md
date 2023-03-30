@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-29 17:30:53**|**CheckerPose: Progressive Dense Keypoint Localization for Object Pose   Estimation with Graph Neural Network**|Ruyi Lian et.al.|[2303.16874v1](http://arxiv.org/abs/2303.16874v1)|null|
+|**2023-03-29 15:17:05**|**GRAF: Graph Attention-aware Fusion Networks**|Ziynet Nesibe Kesimoglu et.al.|[2303.16781v1](http://arxiv.org/abs/2303.16781v1)|[link](https://github.com/bozdaglab/GRAF)|
+|**2023-03-29 13:39:13**|**Graph Neural Networks for Hardware Vulnerability Analysis -- Can you   Trust your GNN?**|Lilas Alrahis et.al.|[2303.16690v1](http://arxiv.org/abs/2303.16690v1)|null|
+|**2023-03-29 08:59:44**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537v1](http://arxiv.org/abs/2303.16537v1)|null|
+|**2023-03-29 08:39:36**|**Futures Quantitative Investment with Heterogeneous Continual Graph   Neural Network**|Zhizhong Tan et.al.|[2303.16532v1](http://arxiv.org/abs/2303.16532v1)|null|
+|**2023-03-29 05:34:54**|**NerVE: Neural Volumetric Edges for Parametric Curve Extraction from   Point Cloud**|Xiangyu Zhu et.al.|[2303.16465v1](http://arxiv.org/abs/2303.16465v1)|null|
+|**2023-03-29 05:08:21**|**GNNBuilder: An Automated Framework for Generic Graph Neural Network   Accelerator Generation, Simulation, and Optimization**|Stefan Abi-Karam et.al.|[2303.16459v1](http://arxiv.org/abs/2303.16459v1)|null|
+|**2023-03-29 05:05:02**|**When to Pre-Train Graph Neural Networks? An Answer from Data Generation   Perspective!**|Yuxuan Cao et.al.|[2303.16458v1](http://arxiv.org/abs/2303.16458v1)|null|
 |**2023-03-28 17:00:45**|**DefGraspNets: Grasp Planning on 3D Fields with Graph Neural Nets**|Isabella Huang et.al.|[2303.16138v1](http://arxiv.org/abs/2303.16138v1)|null|
 |**2023-03-28 16:56:47**|**Transformer and Snowball Graph Convolution Learning for Biomedical Graph   Classification**|Jinlong Hu et.al.|[2303.16132v1](http://arxiv.org/abs/2303.16132v1)|null|
 |**2023-03-28 14:27:27**|**Uncovering the Missing Pattern: Unified Framework Towards Trajectory   Imputation and Prediction**|Yi Xu et.al.|[2303.16005v1](http://arxiv.org/abs/2303.16005v1)|[link](https://github.com/colorfulfuture/gc-vrnn)|
@@ -24,11 +32,3 @@
 |**2023-03-25 19:30:46**|**Topological Pooling on Graphs**|Yuzhou Chen et.al.|[2303.14543v1](http://arxiv.org/abs/2303.14543v1)|[link](https://github.com/topologicalpooling/TopologicalPool)|
 |**2023-03-25 14:29:20**|**Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban   Computing: A Survey**|Guangyin Jin et.al.|[2303.14483v1](http://arxiv.org/abs/2303.14483v1)|null|
 |**2023-03-25 01:26:50**|**Spatio-Temporal driven Attention Graph Neural Network with Block   Adjacency matrix (STAG-NN-BA)**|U. Nazir et.al.|[2303.14322v1](http://arxiv.org/abs/2303.14322v1)|null|
-|**2023-03-24 17:15:43**|**IMA-GNN: In-Memory Acceleration of Centralized and Decentralized Graph   Neural Networks at the Edge**|Mehrdad Morsali et.al.|[2303.14162v1](http://arxiv.org/abs/2303.14162v1)|null|
-|**2023-03-24 14:03:55**|**PoisonedGNN: Backdoor Attack on Graph Neural Networks-based Hardware   Security Systems**|Lilas Alrahis et.al.|[2303.14009v1](http://arxiv.org/abs/2303.14009v1)|null|
-|**2023-03-24 12:37:43**|**Gradient scarcity with Bilevel Optimization for Graph Learning**|Hashem Ghanem et.al.|[2303.13964v1](http://arxiv.org/abs/2303.13964v1)|null|
-|**2023-03-24 11:50:08**|**Topological Reconstruction of Particle Physics Processes using Graph   Neural Networks**|Lukas Ehrke et.al.|[2303.13937v2](http://arxiv.org/abs/2303.13937v2)|null|
-|**2023-03-24 08:58:08**|**Two-level Graph Network for Few-Shot Class-Incremental Learning**|Hao Chen et.al.|[2303.13862v1](http://arxiv.org/abs/2303.13862v1)|null|
-|**2023-03-24 03:28:05**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via   Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775v1](http://arxiv.org/abs/2303.13775v1)|null|
-|**2023-03-24 03:17:28**|**A Graph Neural Network Approach to Nanosatellite Task Scheduling:   Insights into Learning Mixed-Integer Models**|Bruno Machado Pacheco et.al.|[2303.13773v1](http://arxiv.org/abs/2303.13773v1)|null|
-|**2023-03-24 02:28:55**|**Edge-free but Structure-aware: Prototype-Guided Knowledge Distillation   from GNNs to MLPs**|Taiqiang Wu et.al.|[2303.13763v2](http://arxiv.org/abs/2303.13763v2)|null|
