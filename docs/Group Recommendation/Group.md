@@ -2,11 +2,12 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-01 11:23:00**|**Fair-CDA: Continuous and Directional Augmentation for Group Fairness**|Rui Sun et.al.|[2304.00295v1](http://arxiv.org/abs/2304.00295v1)|null|
 |**2023-03-23 13:51:14**|**The effect of Collaborative-Filtering based Recommendation Algorithms on   Opinion Polarization**|Alessandro Bellina et.al.|[2303.13270v1](http://arxiv.org/abs/2303.13270v1)|null|
 |**2023-03-22 19:36:56**|**Robust Consensus in Ranking Data Analysis: Definitions, Properties and   Computational Issues**|Morgane Goibert et.al.|[2303.12878v1](http://arxiv.org/abs/2303.12878v1)|[link](https://github.com/robustconsensusranking/robustconsensusranking)|
 |**2023-03-21 10:55:49**|**Uncertainty estimation on frequency shift of Brillouin light scattering**|Patrice Salzenstein et.al.|[2303.11737v1](http://arxiv.org/abs/2303.11737v1)|null|
 |**2023-03-19 23:21:37**|**Successful and sustainable undergraduate research in data science**|Audrey E Hendricks et.al.|[2303.10792v3](http://arxiv.org/abs/2303.10792v3)|null|
-|**2023-03-18 19:12:38**|**Report of the Medical Image De-Identification (MIDI) Task Group -- Best   Practices and Recommendations**|David A. Clunie et.al.|[2303.10473v1](http://arxiv.org/abs/2303.10473v1)|null|
+|**2023-03-18 19:12:38**|**Report of the Medical Image De-Identification (MIDI) Task Group -- Best   Practices and Recommendations**|David A. Clunie et.al.|[2303.10473v2](http://arxiv.org/abs/2303.10473v2)|null|
 |**2023-03-17 20:08:59**|**ITM-Rec: An Open Data Set for Educational Recommender Systems**|Yong Zheng et.al.|[2303.10230v1](http://arxiv.org/abs/2303.10230v1)|[link](https://github.com/irecsys/recdata)|
 |**2023-03-16 17:44:39**|**Fairness-aware Differentially Private Collaborative Filtering**|Zhenhuan Yang et.al.|[2303.09527v1](http://arxiv.org/abs/2303.09527v1)|null|
 |**2023-03-16 10:56:24**|**The Dunnett procedure with possibly heterogeneous variances**|Ludwig A. Hothorn et.al.|[2303.09222v1](http://arxiv.org/abs/2303.09222v1)|null|
@@ -31,4 +32,3 @@
 |**2023-02-14 06:42:09**|**AI Chat Assistants can Improve Conversations about Divisive Topics**|Lisa P. Argyle et.al.|[2302.07268v4](http://arxiv.org/abs/2302.07268v4)|null|
 |**2023-02-13 16:31:24**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic   and Molecular Physics, Condensed Matter and Materials Physics, and Earth   Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
 |**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v2](http://arxiv.org/abs/2302.06333v2)|[link](https://github.com/newlei/fda)|
-|**2023-02-10 22:33:05**|**Leveraging Diversity in Software Engineering Education through Community   Engaged Learning and a Supportive Network**|Nowshin Nawar Arony et.al.|[2302.07100v1](http://arxiv.org/abs/2302.07100v1)|null|
