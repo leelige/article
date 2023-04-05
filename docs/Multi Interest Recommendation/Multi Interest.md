@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-03-31 06:47:56**|**ConceptEVA: Concept-Based Interactive Exploration and Customization of   Document Summaries**|Xiaoyu Zhang et.al.|[2303.17826v1](http://arxiv.org/abs/2303.17826v1)|null|
-|**2023-03-21 00:00:35**|**Optimal Individualized Treatment Rule for Combination Treatments Under   Budget Constraints**|Qi Xu et.al.|[2303.11507v1](http://arxiv.org/abs/2303.11507v1)|null|
+|**2023-03-21 00:00:35**|**Optimal Individualized Treatment Rule for Combination Treatments Under   Budget Constraints**|Qi Xu et.al.|[2303.11507v2](http://arxiv.org/abs/2303.11507v2)|null|
 |**2023-02-28 12:43:17**|**Rethinking Multi-Interest Learning for Candidate Matching in Recommender   Systems**|Yueqi Xie et.al.|[2302.14532v1](http://arxiv.org/abs/2302.14532v1)|null|
 |**2023-02-28 09:30:24**|**Self-Supervised Interest Transfer Network via Prototypical Contrastive   Learning for Recommendation**|Guoqiang Sun et.al.|[2302.14438v1](http://arxiv.org/abs/2302.14438v1)|[link](https://github.com/fanqieCoffee/SITN-Supplement)|
 |**2023-02-22 20:29:03**|**Sequential Re-estimation Learning of Optimal Individualized Treatment   Rules Among Ordinal Treatments with Application to Recommended Intervals   Between Blood Donations**|Yuejia Xu et.al.|[2302.11638v1](http://arxiv.org/abs/2302.11638v1)|null|
