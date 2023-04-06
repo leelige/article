@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-05 16:44:36**|**Optimism Based Exploration in Large-Scale Recommender Systems**|Hongbo Guo et.al.|[2304.02572v1](http://arxiv.org/abs/2304.02572v1)|null|
 |**2023-03-31 06:47:56**|**ConceptEVA: Concept-Based Interactive Exploration and Customization of   Document Summaries**|Xiaoyu Zhang et.al.|[2303.17826v1](http://arxiv.org/abs/2303.17826v1)|null|
 |**2023-03-21 00:00:35**|**Optimal Individualized Treatment Rule for Combination Treatments Under   Budget Constraints**|Qi Xu et.al.|[2303.11507v2](http://arxiv.org/abs/2303.11507v2)|null|
 |**2023-02-28 12:43:17**|**Rethinking Multi-Interest Learning for Candidate Matching in Recommender   Systems**|Yueqi Xie et.al.|[2302.14532v1](http://arxiv.org/abs/2302.14532v1)|null|
@@ -31,4 +32,3 @@
 |**2022-10-19 13:40:16**|**Hierarchical Multi-Interest Co-Network For Coarse-Grained Ranking**|Xu Yuan et.al.|[2210.10547v1](http://arxiv.org/abs/2210.10547v1)|null|
 |**2022-10-15 03:04:30**|**Beyond the Worst Case: Semi-Random Complexity Analysis of Winner   Determination**|Lirong Xia et.al.|[2210.08173v1](http://arxiv.org/abs/2210.08173v1)|null|
 |**2022-10-11 07:01:40**|**DIGAT: Modeling News Recommendation with Dual-Graph Interaction**|Zhiming Mao et.al.|[2210.05196v2](http://arxiv.org/abs/2210.05196v2)|[link](https://github.com/veason-silverbullet/digat)|
-|**2022-10-07 15:30:00**|**KAST: Knowledge Aware Adaptive Session Multi-Topic Network for   Click-Through Rate Prediction**|Dike Sun et.al.|[2210.03624v1](http://arxiv.org/abs/2210.03624v1)|null|

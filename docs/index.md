@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2023-04-05 16:09:06 Asia/Shanghai
+ 自动更新 @ 2023-04-06 16:07:44 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-05 07:50:05**|**Rethinking the Trigger-injecting Position in Graph Backdoor Attack**|Jing Xu et.al.|[2304.02277v1](http://arxiv.org/abs/2304.02277v1)|null|
 |**2023-04-04 17:58:14**|**GlueStick: Robust Image Matching by Sticking Points and Lines Together**|Rémi Pautrat et.al.|[2304.02008v1](http://arxiv.org/abs/2304.02008v1)|[link](https://github.com/cvg/gluestick)|
 |**2023-04-04 15:48:08**|**InfluencerRank: Discovering Effective Influencers via Graph   Convolutional Attentive Recurrent Neural Networks**|Seungbae Kim et.al.|[2304.01897v1](http://arxiv.org/abs/2304.01897v1)|null|
 |**2023-04-04 10:40:11**|**Quantum algorithms for charged particle track reconstruction in the LUXE   experiment**|Arianna Crippa et.al.|[2304.01690v1](http://arxiv.org/abs/2304.01690v1)|null|
@@ -35,13 +36,13 @@
 |**2023-03-31 02:37:36**|**Semi-Weakly Supervised Object Kinematic Motion Prediction**|Gengxin Liu et.al.|[2303.17774v2](http://arxiv.org/abs/2303.17774v2)|null|
 |**2023-03-31 00:15:22**|**MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point   Cloud Analysis**|Mohammad Khodadad et.al.|[2303.17748v1](http://arxiv.org/abs/2303.17748v1)|null|
 |**2023-03-30 18:41:28**|**Progress towards an improved particle flow algorithm at CMS with machine   learning**|Farouk Mokhtar et.al.|[2303.17657v1](http://arxiv.org/abs/2303.17657v1)|null|
-|**2023-03-30 14:18:21**|**Large deviations in stochastic dynamics over graphs through Matrix   Product Belief Propagation**|Stefano Crotti et.al.|[2303.17403v1](http://arxiv.org/abs/2303.17403v1)|null|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-05 16:44:36**|**Optimism Based Exploration in Large-Scale Recommender Systems**|Hongbo Guo et.al.|[2304.02572v1](http://arxiv.org/abs/2304.02572v1)|null|
 |**2023-03-31 06:47:56**|**ConceptEVA: Concept-Based Interactive Exploration and Customization of   Document Summaries**|Xiaoyu Zhang et.al.|[2303.17826v1](http://arxiv.org/abs/2303.17826v1)|null|
 |**2023-03-21 00:00:35**|**Optimal Individualized Treatment Rule for Combination Treatments Under   Budget Constraints**|Qi Xu et.al.|[2303.11507v2](http://arxiv.org/abs/2303.11507v2)|null|
 |**2023-02-28 12:43:17**|**Rethinking Multi-Interest Learning for Candidate Matching in Recommender   Systems**|Yueqi Xie et.al.|[2302.14532v1](http://arxiv.org/abs/2302.14532v1)|null|
@@ -71,13 +72,13 @@
 |**2022-10-19 13:40:16**|**Hierarchical Multi-Interest Co-Network For Coarse-Grained Ranking**|Xu Yuan et.al.|[2210.10547v1](http://arxiv.org/abs/2210.10547v1)|null|
 |**2022-10-15 03:04:30**|**Beyond the Worst Case: Semi-Random Complexity Analysis of Winner   Determination**|Lirong Xia et.al.|[2210.08173v1](http://arxiv.org/abs/2210.08173v1)|null|
 |**2022-10-11 07:01:40**|**DIGAT: Modeling News Recommendation with Dual-Graph Interaction**|Zhiming Mao et.al.|[2210.05196v2](http://arxiv.org/abs/2210.05196v2)|[link](https://github.com/veason-silverbullet/digat)|
-|**2022-10-07 15:30:00**|**KAST: Knowledge Aware Adaptive Session Multi-Topic Network for   Click-Through Rate Prediction**|Dike Sun et.al.|[2210.03624v1](http://arxiv.org/abs/2210.03624v1)|null|
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-04 21:40:28**|**Causes of Excess Capacity**|Samidh Pal et.al.|[2304.02137v1](http://arxiv.org/abs/2304.02137v1)|null|
 |**2023-04-01 11:23:00**|**Fair-CDA: Continuous and Directional Augmentation for Group Fairness**|Rui Sun et.al.|[2304.00295v1](http://arxiv.org/abs/2304.00295v1)|null|
 |**2023-03-23 13:51:14**|**The effect of Collaborative-Filtering based Recommendation Algorithms on   Opinion Polarization**|Alessandro Bellina et.al.|[2303.13270v1](http://arxiv.org/abs/2303.13270v1)|null|
 |**2023-03-22 19:36:56**|**Robust Consensus in Ranking Data Analysis: Definitions, Properties and   Computational Issues**|Morgane Goibert et.al.|[2303.12878v1](http://arxiv.org/abs/2303.12878v1)|[link](https://github.com/robustconsensusranking/robustconsensusranking)|
@@ -107,4 +108,3 @@
 |**2023-02-16 12:44:47**|**Fairly Adaptive Negative Sampling for Recommendations**|Xiao Chen et.al.|[2302.08266v1](http://arxiv.org/abs/2302.08266v1)|null|
 |**2023-02-14 06:42:09**|**AI Chat Assistants can Improve Conversations about Divisive Topics**|Lisa P. Argyle et.al.|[2302.07268v4](http://arxiv.org/abs/2302.07268v4)|null|
 |**2023-02-13 16:31:24**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic   and Molecular Physics, Condensed Matter and Materials Physics, and Earth   Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
-|**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v2](http://arxiv.org/abs/2302.06333v2)|[link](https://github.com/newlei/fda)|

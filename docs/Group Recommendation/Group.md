@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-04 21:40:28**|**Causes of Excess Capacity**|Samidh Pal et.al.|[2304.02137v1](http://arxiv.org/abs/2304.02137v1)|null|
 |**2023-04-01 11:23:00**|**Fair-CDA: Continuous and Directional Augmentation for Group Fairness**|Rui Sun et.al.|[2304.00295v1](http://arxiv.org/abs/2304.00295v1)|null|
 |**2023-03-23 13:51:14**|**The effect of Collaborative-Filtering based Recommendation Algorithms on   Opinion Polarization**|Alessandro Bellina et.al.|[2303.13270v1](http://arxiv.org/abs/2303.13270v1)|null|
 |**2023-03-22 19:36:56**|**Robust Consensus in Ranking Data Analysis: Definitions, Properties and   Computational Issues**|Morgane Goibert et.al.|[2303.12878v1](http://arxiv.org/abs/2303.12878v1)|[link](https://github.com/robustconsensusranking/robustconsensusranking)|
@@ -31,4 +32,3 @@
 |**2023-02-16 12:44:47**|**Fairly Adaptive Negative Sampling for Recommendations**|Xiao Chen et.al.|[2302.08266v1](http://arxiv.org/abs/2302.08266v1)|null|
 |**2023-02-14 06:42:09**|**AI Chat Assistants can Improve Conversations about Divisive Topics**|Lisa P. Argyle et.al.|[2302.07268v4](http://arxiv.org/abs/2302.07268v4)|null|
 |**2023-02-13 16:31:24**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic   and Molecular Physics, Condensed Matter and Materials Physics, and Earth   Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
-|**2023-02-13 13:11:46**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v2](http://arxiv.org/abs/2302.06333v2)|[link](https://github.com/newlei/fda)|
