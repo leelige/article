@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-07 10:58:12**|**Graph Attention for Automated Audio Captioning**|Feiyang Xiao et.al.|[2304.03586v1](http://arxiv.org/abs/2304.03586v1)|[link](https://github.com/LittleFlyingSheep/GraphAC)|
+|**2023-04-07 06:54:42**|**Distributional Signals for Node Classification in Graph Neural Networks**|Feng Ji et.al.|[2304.03507v1](http://arxiv.org/abs/2304.03507v1)|null|
+|**2023-04-07 05:52:59**|**ParaGraph: Weighted Graph Representation for Performance Optimization of   HPC Kernels**|Ali TehraniJamsaz et.al.|[2304.03487v1](http://arxiv.org/abs/2304.03487v1)|null|
+|**2023-04-07 04:10:26**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs:   New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468v1](http://arxiv.org/abs/2304.03468v1)|null|
 |**2023-04-06 16:48:34**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device   User Matching**|Ali Taghibakhshi et.al.|[2304.03215v1](http://arxiv.org/abs/2304.03215v1)|null|
 |**2023-04-06 14:23:40**|**Spectral Gap Regularization of Neural Networks**|Edric Tam et.al.|[2304.03096v1](http://arxiv.org/abs/2304.03096v1)|null|
 |**2023-04-06 08:44:49**|**Quantifying and Defending against Privacy Threats on Federated Knowledge   Graph Embedding**|Yuke Hu et.al.|[2304.02932v1](http://arxiv.org/abs/2304.02932v1)|null|
@@ -28,7 +32,3 @@
 |**2023-04-01 15:42:18**|**Scientific Computing Algorithms to Learn Enhanced Scalable Surrogates   for Mesh Physics**|Brian R. Bartoldson et.al.|[2304.00338v1](http://arxiv.org/abs/2304.00338v1)|null|
 |**2023-04-01 15:24:12**|**Volumetric Attribute Compression for 3D Point Clouds using Feedforward   Network with Geometric Attention**|Tam Thuc Do et.al.|[2304.00335v1](http://arxiv.org/abs/2304.00335v1)|null|
 |**2023-03-31 21:56:35**|**E($3$) Equivariant Graph Neural Networks for Particle-Based Fluid   Mechanics**|Artur P. Toshev et.al.|[2304.00150v1](http://arxiv.org/abs/2304.00150v1)|null|
-|**2023-03-31 21:51:00**|**On the Relationships between Graph Neural Networks for the Simulation of   Physical Systems and Classical Numerical Methods**|Artur P. Toshev et.al.|[2304.00146v1](http://arxiv.org/abs/2304.00146v1)|null|
-|**2023-03-31 18:06:26**|**kNN-Res: Residual Neural Network with kNN-Graph coherence for point   cloud registration**|Muhammad S. Battikh et.al.|[2304.00050v1](http://arxiv.org/abs/2304.00050v1)|[link](https://github.com/muhammadsaeedbatikh/knn-res_demo)|
-|**2023-03-31 16:24:00**|**Parisi's hypercube, Fock-space frustration and near-AdS$_2$/near-CFT$_1$   holography**|Micha Berkooz et.al.|[2303.18182v1](http://arxiv.org/abs/2303.18182v1)|null|
-|**2023-03-31 15:47:49**|**MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic   Engineering**|Guillermo Bernárdez et.al.|[2303.18157v1](http://arxiv.org/abs/2303.18157v1)|null|
