@@ -2,6 +2,8 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-11 07:23:13**|**Triple Sequence Learning for Cross-domain Recommendation**|Haokai Ma et.al.|[2304.05027v1](http://arxiv.org/abs/2304.05027v1)|null|
+|**2023-04-11 05:53:08**|**Neural Multi-network Diffusion towards Social Recommendation**|Boxin Du et.al.|[2304.04994v1](http://arxiv.org/abs/2304.04994v1)|null|
 |**2023-04-08 00:30:08**|**GPT4Rec: A Generative Framework for Personalized Recommendation and User   Interests Interpretation**|Jinming Li et.al.|[2304.03879v1](http://arxiv.org/abs/2304.03879v1)|null|
 |**2023-04-05 16:44:36**|**Optimism Based Exploration in Large-Scale Recommender Systems**|Hongbo Guo et.al.|[2304.02572v1](http://arxiv.org/abs/2304.02572v1)|null|
 |**2023-03-31 06:47:56**|**ConceptEVA: Concept-Based Interactive Exploration and Customization of   Document Summaries**|Xiaoyu Zhang et.al.|[2303.17826v1](http://arxiv.org/abs/2303.17826v1)|null|
@@ -30,5 +32,3 @@
 |**2022-12-04 20:06:27**|**Speech MOS multi-task learning and rater bias correction**|Haleh Akrami et.al.|[2212.01911v1](http://arxiv.org/abs/2212.01911v1)|null|
 |**2022-10-28 17:00:07**|**MiCRO: Multi-interest Candidate Retrieval Online**|Frank Portman et.al.|[2210.16271v1](http://arxiv.org/abs/2210.16271v1)|null|
 |**2022-10-22 17:29:34**|**Self-supervised Graph-based Point-of-interest Recommendation**|Yang Li et.al.|[2210.12506v1](http://arxiv.org/abs/2210.12506v1)|null|
-|**2022-10-19 13:40:16**|**Hierarchical Multi-Interest Co-Network For Coarse-Grained Ranking**|Xu Yuan et.al.|[2210.10547v1](http://arxiv.org/abs/2210.10547v1)|null|
-|**2022-10-15 03:04:30**|**Beyond the Worst Case: Semi-Random Complexity Analysis of Winner   Determination**|Lirong Xia et.al.|[2210.08173v1](http://arxiv.org/abs/2210.08173v1)|null|
