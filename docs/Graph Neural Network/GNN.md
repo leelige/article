@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-12 14:13:09**|**Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of   Alzheimer's Disease using EEG Data**|Dominik Klepl et.al.|[2304.05874v1](http://arxiv.org/abs/2304.05874v1)|null|
+|**2023-04-12 14:02:42**|**Learning to Communicate and Collaborate in a Competitive Multi-Agent   Setup to Clean the Ocean from Macroplastics**|Philipp Dominic Siedler et.al.|[2304.05872v1](http://arxiv.org/abs/2304.05872v1)|null|
+|**2023-04-12 09:39:17**|**Dynamic Graph Representation Learning with Neural Networks: A Survey**|Leshanshui Yang et.al.|[2304.05729v1](http://arxiv.org/abs/2304.05729v1)|null|
+|**2023-04-12 08:01:43**|**Real-time Trajectory-based Social Group Detection**|Simindokht Jahangard et.al.|[2304.05678v1](http://arxiv.org/abs/2304.05678v1)|null|
+|**2023-04-12 07:48:51**|**Implementing arbitrary quantum operations via quantum walks on a cycle   graph**|Jia-Yi Lin et.al.|[2304.05672v1](http://arxiv.org/abs/2304.05672v1)|null|
+|**2023-04-12 07:39:20**|**SuperpixelGraph: Semi-automatic generation of building footprint through   semantic-sensitive superpixel and neural graph networks**|Haojia Yu et.al.|[2304.05661v1](http://arxiv.org/abs/2304.05661v1)|null|
+|**2023-04-12 03:19:06**|**Distributed Compressed Sparse Row Format for Spiking Neural Network   Simulation, Serialization, and Interoperability**|Felix Wang et.al.|[2304.05587v1](http://arxiv.org/abs/2304.05587v1)|null|
+|**2023-04-11 21:15:28**|**GraphGANFed: A Federated Generative Framework for Graph-Structured   Molecules Towards Efficient Drug Discovery**|Daniel Manu et.al.|[2304.05498v1](http://arxiv.org/abs/2304.05498v1)|null|
 |**2023-04-11 15:43:32**|**Equivariant Graph Neural Networks for Charged Particle Tracking**|Daniel Murnane et.al.|[2304.05293v1](http://arxiv.org/abs/2304.05293v1)|[link](https://github.com/ameya1101/equivariant-tracking)|
 |**2023-04-11 15:23:29**|**Topology Reasoning for Driving Scenes**|Tianyu Li et.al.|[2304.05277v1](http://arxiv.org/abs/2304.05277v1)|[link](https://github.com/opendrivelab/toponet)|
 |**2023-04-11 10:15:20**|**Evaluation of Differentially Constrained Motion Models for Graph-Based   Trajectory Prediction**|Theodor Westny et.al.|[2304.05116v1](http://arxiv.org/abs/2304.05116v1)|[link](https://github.com/westny/mtp-go)|
@@ -24,11 +32,3 @@
 |**2023-04-07 23:25:48**|**SGDP: A Stream-Graph Neural Network Based Data Prefetcher**|Yiyuan Yang et.al.|[2304.03864v1](http://arxiv.org/abs/2304.03864v1)|[link](https://github.com/yyysjz1997/SGDP)|
 |**2023-04-07 18:08:27**|**A new perspective on building efficient and expressive 3D equivariant   graph neural networks**|Weitao Du et.al.|[2304.04757v1](http://arxiv.org/abs/2304.04757v1)|[link](https://github.com/yuanqidu/leftnet)|
 |**2023-04-07 10:58:12**|**Graph Attention for Automated Audio Captioning**|Feiyang Xiao et.al.|[2304.03586v2](http://arxiv.org/abs/2304.03586v2)|[link](https://github.com/littleflyingsheep/graphac)|
-|**2023-04-07 06:54:42**|**Distributional Signals for Node Classification in Graph Neural Networks**|Feng Ji et.al.|[2304.03507v1](http://arxiv.org/abs/2304.03507v1)|null|
-|**2023-04-07 05:52:59**|**ParaGraph: Weighted Graph Representation for Performance Optimization of   HPC Kernels**|Ali TehraniJamsaz et.al.|[2304.03487v1](http://arxiv.org/abs/2304.03487v1)|null|
-|**2023-04-07 04:10:26**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs:   New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468v2](http://arxiv.org/abs/2304.03468v2)|null|
-|**2023-04-06 16:48:34**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device   User Matching**|Ali Taghibakhshi et.al.|[2304.03215v1](http://arxiv.org/abs/2304.03215v1)|null|
-|**2023-04-06 14:23:40**|**Spectral Gap Regularization of Neural Networks**|Edric Tam et.al.|[2304.03096v1](http://arxiv.org/abs/2304.03096v1)|null|
-|**2023-04-06 08:44:49**|**Quantifying and Defending against Privacy Threats on Federated Knowledge   Graph Embedding**|Yuke Hu et.al.|[2304.02932v1](http://arxiv.org/abs/2304.02932v1)|null|
-|**2023-04-06 01:09:36**|**Graph Mixture of Experts: Learning on Large-Scale Graphs with Explicit   Diversity Modeling**|Haotao Wang et.al.|[2304.02806v1](http://arxiv.org/abs/2304.02806v1)|[link](https://github.com/vita-group/graph-mixture-of-experts)|
-|**2023-04-05 07:50:05**|**Rethinking the Trigger-injecting Position in Graph Backdoor Attack**|Jing Xu et.al.|[2304.02277v1](http://arxiv.org/abs/2304.02277v1)|null|
