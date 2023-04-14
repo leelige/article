@@ -2,11 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-13 17:59:03**|**Evaluating the Robustness of Interpretability Methods through   Explanation Invariance and Equivariance**|Jonathan Crabbé et.al.|[2304.06715v1](http://arxiv.org/abs/2304.06715v1)|null|
+|**2023-04-13 13:57:21**|**RadarGNN: Transformation Invariant Graph Neural Network for Radar-based   Perception**|Felix Fent et.al.|[2304.06547v1](http://arxiv.org/abs/2304.06547v1)|[link](https://github.com/tumftm/radargnn)|
+|**2023-04-13 08:31:16**|**Attributed Multi-order Graph Convolutional Network for Heterogeneous   Graphs**|Zhaoliang Chen et.al.|[2304.06336v1](http://arxiv.org/abs/2304.06336v1)|null|
+|**2023-04-13 07:12:40**|**Algorithms and Hardware for Efficient Processing of Logic-based Neural   Networks**|Jingkai Hong et.al.|[2304.06299v1](http://arxiv.org/abs/2304.06299v1)|null|
+|**2023-04-13 04:20:30**|**Enhancing Model Learning and Interpretation Using Multiple Molecular   Graph Representations for Compound Property and Activity Prediction**|Apakorn Kengkanna et.al.|[2304.06253v1](http://arxiv.org/abs/2304.06253v1)|null|
 |**2023-04-12 14:13:09**|**Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of   Alzheimer's Disease using EEG Data**|Dominik Klepl et.al.|[2304.05874v1](http://arxiv.org/abs/2304.05874v1)|null|
 |**2023-04-12 14:02:42**|**Learning to Communicate and Collaborate in a Competitive Multi-Agent   Setup to Clean the Ocean from Macroplastics**|Philipp Dominic Siedler et.al.|[2304.05872v1](http://arxiv.org/abs/2304.05872v1)|null|
 |**2023-04-12 09:39:17**|**Dynamic Graph Representation Learning with Neural Networks: A Survey**|Leshanshui Yang et.al.|[2304.05729v1](http://arxiv.org/abs/2304.05729v1)|null|
 |**2023-04-12 08:01:43**|**Real-time Trajectory-based Social Group Detection**|Simindokht Jahangard et.al.|[2304.05678v1](http://arxiv.org/abs/2304.05678v1)|null|
-|**2023-04-12 07:48:51**|**Implementing arbitrary quantum operations via quantum walks on a cycle   graph**|Jia-Yi Lin et.al.|[2304.05672v1](http://arxiv.org/abs/2304.05672v1)|null|
+|**2023-04-12 07:48:51**|**Implementing arbitrary quantum operations via quantum walks on a cycle   graph**|Jia-Yi Lin et.al.|[2304.05672v2](http://arxiv.org/abs/2304.05672v2)|null|
 |**2023-04-12 07:39:20**|**SuperpixelGraph: Semi-automatic generation of building footprint through   semantic-sensitive superpixel and neural graph networks**|Haojia Yu et.al.|[2304.05661v1](http://arxiv.org/abs/2304.05661v1)|null|
 |**2023-04-12 03:19:06**|**Distributed Compressed Sparse Row Format for Spiking Neural Network   Simulation, Serialization, and Interoperability**|Felix Wang et.al.|[2304.05587v1](http://arxiv.org/abs/2304.05587v1)|null|
 |**2023-04-11 21:15:28**|**GraphGANFed: A Federated Generative Framework for Graph-Structured   Molecules Towards Efficient Drug Discovery**|Daniel Manu et.al.|[2304.05498v1](http://arxiv.org/abs/2304.05498v1)|null|
@@ -27,8 +32,3 @@
 |**2023-04-09 06:00:50**|**Adversarially Robust Neural Architecture Search for Graph Neural   Networks**|Beini Xie et.al.|[2304.04168v1](http://arxiv.org/abs/2304.04168v1)|null|
 |**2023-04-08 15:41:01**|**Generating a Graph Colouring Heuristic with Deep Q-Learning and Graph   Neural Networks**|George Watkins et.al.|[2304.04051v1](http://arxiv.org/abs/2304.04051v1)|[link](https://github.com/gpdwatkins/graph_colouring_with_RL)|
 |**2023-04-08 12:39:40**|**Evolving Reinforcement Learning Environment to Minimize Learner's   Achievable Reward: An Application on Hardening Active Directory Systems**|Diksha Goel et.al.|[2304.03998v1](http://arxiv.org/abs/2304.03998v1)|null|
-|**2023-04-08 07:29:53**|**Knowledge Relation Rank Enhanced Heterogeneous Learning Interaction   Modeling for Neural Graph Forgetting Knowledge Tracing**|Linqing Li et.al.|[2304.03945v1](http://arxiv.org/abs/2304.03945v1)|[link](https://github.com/destiny123456qwer/ngfkt)|
-|**2023-04-08 02:19:40**|**Contrastive Cross-Domain Sequential Recommendation**|Jiangxia Cao et.al.|[2304.03891v1](http://arxiv.org/abs/2304.03891v1)|[link](https://github.com/cjx96/c2dsr)|
-|**2023-04-07 23:25:48**|**SGDP: A Stream-Graph Neural Network Based Data Prefetcher**|Yiyuan Yang et.al.|[2304.03864v1](http://arxiv.org/abs/2304.03864v1)|[link](https://github.com/yyysjz1997/SGDP)|
-|**2023-04-07 18:08:27**|**A new perspective on building efficient and expressive 3D equivariant   graph neural networks**|Weitao Du et.al.|[2304.04757v1](http://arxiv.org/abs/2304.04757v1)|[link](https://github.com/yuanqidu/leftnet)|
-|**2023-04-07 10:58:12**|**Graph Attention for Automated Audio Captioning**|Feiyang Xiao et.al.|[2304.03586v2](http://arxiv.org/abs/2304.03586v2)|[link](https://github.com/littleflyingsheep/graphac)|
