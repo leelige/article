@@ -2,7 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-04-12 22:46:52**|**GNNUERS: Fairness Explanation in GNNs for Recommendation via   Counterfactual Reasoning**|Giacomo Medda et.al.|[2304.06182v1](http://arxiv.org/abs/2304.06182v1)|[link](https://github.com/jackmedda/RS-BGExplainer)|
+|**2023-04-14 09:49:55**|**FairRec: Fairness Testing for Deep Recommender Systems**|Huizhong Guo et.al.|[2304.07030v1](http://arxiv.org/abs/2304.07030v1)|[link](https://github.com/grey-z/fairrec)|
+|**2023-04-12 22:46:52**|**GNNUERS: Fairness Explanation in GNNs for Recommendation via   Counterfactual Reasoning**|Giacomo Medda et.al.|[2304.06182v2](http://arxiv.org/abs/2304.06182v2)|[link](https://github.com/jackmedda/RS-BGExplainer)|
 |**2023-04-11 04:08:35**|**AdaTT: Adaptive Task-to-Task Fusion Network for Multitask Learning in   Recommendations**|Danwei Li et.al.|[2304.04959v1](http://arxiv.org/abs/2304.04959v1)|null|
 |**2023-04-10 02:57:42**|**Privacy-preserving Inference of Group Mean Difference in Zero-inflated   Right Skewed Data with Partitioning and Censoring**|Fang Liu et.al.|[2304.04359v1](http://arxiv.org/abs/2304.04359v1)|null|
 |**2023-04-06 13:13:53**|**Manipulating Federated Recommender Systems: Poisoning with Synthetic   Users and Its Countermeasures**|Wei Yuan et.al.|[2304.03054v2](http://arxiv.org/abs/2304.03054v2)|null|
@@ -31,4 +32,3 @@
 |**2023-02-23 14:11:08**|**A Comparison of Modeling Preprocessing Techniques**|Tosan Johnson et.al.|[2302.12042v2](http://arxiv.org/abs/2302.12042v2)|null|
 |**2023-02-21 10:06:01**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
 |**2023-02-20 13:30:12**|**Social4Rec: Distilling User Preference from Social Graph for Video   Recommendation in Tencent**|Xuanji Xiao et.al.|[2302.09971v2](http://arxiv.org/abs/2302.09971v2)|[link](https://github.com/social4rec/socialnet)|
-|**2023-02-20 11:57:12**|**Mysterious and Manipulative Black Boxes: A Qualitative Analysis of   Perceptions on Recommender Systems**|Jukka Ruohonen et.al.|[2302.09933v1](http://arxiv.org/abs/2302.09933v1)|null|
