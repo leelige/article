@@ -2,6 +2,8 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-17 09:18:45**|**Transformer-based Graph Neural Networks for Outfit Generation**|Federico Becattini et.al.|[2304.08098v1](http://arxiv.org/abs/2304.08098v1)|null|
+|**2023-04-16 22:47:53**|**M2GNN: Metapath and Multi-interest Aggregated Graph Neural Network for   Tag-based Cross-domain Recommendation**|Zepeng Huai et.al.|[2304.07911v1](http://arxiv.org/abs/2304.07911v1)|[link](https://github.com/huaizepeng2020/m2gnn_git)|
 |**2023-04-12 05:13:54**|**Deep Stable Multi-Interest Learning for Out-of-distribution Sequential   Recommendation**|Qiang Liu et.al.|[2304.05615v1](http://arxiv.org/abs/2304.05615v1)|null|
 |**2023-04-11 07:23:13**|**Triple Sequence Learning for Cross-domain Recommendation**|Haokai Ma et.al.|[2304.05027v1](http://arxiv.org/abs/2304.05027v1)|null|
 |**2023-04-11 05:53:08**|**Neural Multi-network Diffusion towards Social Recommendation**|Boxin Du et.al.|[2304.04994v1](http://arxiv.org/abs/2304.04994v1)|null|
@@ -30,5 +32,3 @@
 |**2023-01-28 06:18:36**|**Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation**|Junsu Cho et.al.|[2301.12105v1](http://arxiv.org/abs/2301.12105v1)|null|
 |**2023-01-08 08:59:09**|**Fluid Tunnel Research for Challenges of Urban Climate**|Yongling Zhao et.al.|[2301.03001v1](http://arxiv.org/abs/2301.03001v1)|null|
 |**2023-01-04 18:10:26**|**Episodes Discovery Recommendation with Multi-Source Augmentations**|Ziwei Fan et.al.|[2301.01737v2](http://arxiv.org/abs/2301.01737v2)|null|
-|**2022-12-08 20:01:34**|**TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural   Recommender Systems**|Huiyuan Chen et.al.|[2212.04540v1](http://arxiv.org/abs/2212.04540v1)|null|
-|**2022-12-04 20:06:27**|**Speech MOS multi-task learning and rater bias correction**|Haleh Akrami et.al.|[2212.01911v1](http://arxiv.org/abs/2212.01911v1)|null|
