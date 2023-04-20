@@ -3,6 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-04-18 09:37:22**|**PEGA: Personality-Guided Preference Aggregator for Ephemeral Group   Recommendation**|Guangze Ye et.al.|[2304.08851v1](http://arxiv.org/abs/2304.08851v1)|null|
+|**2023-04-17 09:39:40**|**Enhancing Personalized Ranking With Differentiable Group AUC   Optimization**|Xiao Sun et.al.|[2304.09176v1](http://arxiv.org/abs/2304.09176v1)|null|
 |**2023-04-16 09:45:08**|**Pitfalls in Effective Knowledge Management: Insights from an   International Information Technology Organization**|Kalle Koivisto et.al.|[2304.07737v1](http://arxiv.org/abs/2304.07737v1)|null|
 |**2023-04-16 08:11:36**|**The Gaia-ESO Survey: homogenisation of stellar parameters and elemental   abundances**|A. Hourihane et.al.|[2304.07720v1](http://arxiv.org/abs/2304.07720v1)|null|
 |**2023-04-15 06:35:28**|**More Is Less: When Do Recommenders Underperform for Data-rich Users?**|Yueqing Xuan et.al.|[2304.07487v1](http://arxiv.org/abs/2304.07487v1)|null|
@@ -31,4 +32,3 @@
 |**2023-03-02 05:06:17**|**Dynamic fairness-aware recommendation through multi-agent social choice**|Amanda Aird et.al.|[2303.00968v2](http://arxiv.org/abs/2303.00968v2)|null|
 |**2023-03-01 17:12:49**|**Fairness Evaluation in Text Classification: Machine Learning   Practitioner Perspectives of Individual and Group Fairness**|Zahra Ashktorab et.al.|[2303.00673v1](http://arxiv.org/abs/2303.00673v1)|null|
 |**2023-03-01 10:39:58**|**A Study on Accuracy, Miscalibration, and Popularity Bias in   Recommendations**|Dominik Kowald et.al.|[2303.00400v1](http://arxiv.org/abs/2303.00400v1)|null|
-|**2023-03-01 02:29:30**|**Towards a real-time demand response framework for smart communities   using clustering techniques**|Sotiris Pelekis et.al.|[2303.00186v1](http://arxiv.org/abs/2303.00186v1)|null|
