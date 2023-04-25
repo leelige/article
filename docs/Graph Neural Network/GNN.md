@@ -2,6 +2,19 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-24 16:18:22**|**A Transfer Principle: Universal Approximators Between Metric Spaces From   Euclidean Universal Approximators**|Anastasis Kratsios et.al.|[2304.12231v1](http://arxiv.org/abs/2304.12231v1)|null|
+|**2023-04-24 16:17:21**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural   Network**|Nian Liu et.al.|[2304.12228v1](http://arxiv.org/abs/2304.12228v1)|null|
+|**2023-04-24 15:58:26**|**Impact-Oriented Contextual Scholar Profiling using Self-Citation Graphs**|Yuankai Luo et.al.|[2304.12217v1](http://arxiv.org/abs/2304.12217v1)|null|
+|**2023-04-24 12:25:35**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by   Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v1](http://arxiv.org/abs/2304.12036v1)|null|
+|**2023-04-24 10:47:08**|**Generative Flow Networks for Precise Reward-Oriented Active Learning on   Graphs**|Yinchuan Li et.al.|[2304.11989v1](http://arxiv.org/abs/2304.11989v1)|null|
+|**2023-04-24 03:54:48**|**PARAGRAPH2GRAPH: A GNN-based framework for layout paragraph analysis**|Shu Wei et.al.|[2304.11810v1](http://arxiv.org/abs/2304.11810v1)|[link](https://github.com/NormXU/Layout2Graph)|
+|**2023-04-23 15:42:11**|**TGNN: A Joint Semi-supervised Framework for Graph-level Classification**|Wei Ju et.al.|[2304.11688v1](http://arxiv.org/abs/2304.11688v1)|null|
+|**2023-04-23 08:15:20**|**Meta-multigraph Search: Rethinking Meta-structure on Heterogeneous   Information Networks**|Chao Li et.al.|[2304.11574v1](http://arxiv.org/abs/2304.11574v1)|null|
+|**2023-04-23 04:21:50**|**Graph Neural Networks for Text Classification: A Survey**|Kunze Wang et.al.|[2304.11534v1](http://arxiv.org/abs/2304.11534v1)|null|
+|**2023-04-23 04:18:56**|**Bi-Level Attention Graph Neural Networks**|Roshni G. Iyer et.al.|[2304.11533v1](http://arxiv.org/abs/2304.11533v1)|null|
+|**2023-04-22 13:54:31**|**Detecting Spoilers in Movie Reviews with External Movie Knowledge and   User Networks**|Heng Wang et.al.|[2304.11411v1](http://arxiv.org/abs/2304.11411v1)|[link](https://github.com/arthur-heng/spoiler-detection)|
+|**2023-04-22 10:38:35**|**Detecting Political Opinions in Tweets through Bipartite Graph Analysis:   A Skip Aggregation Graph Convolution Approach**|Xingyu Peng et.al.|[2304.11367v1](http://arxiv.org/abs/2304.11367v1)|null|
+|**2023-04-22 09:27:47**|**Medium. Permeation: SARS-COV-2 Painting Creation by Generative Model**|Yuan-Fu Yang et.al.|[2304.11354v1](http://arxiv.org/abs/2304.11354v1)|null|
 |**2023-04-21 17:53:12**|**Low-Variance Gradient Estimation in Unrolled Computation Graphs with   ES-Single**|Paul Vicol et.al.|[2304.11153v1](http://arxiv.org/abs/2304.11153v1)|null|
 |**2023-04-21 17:22:08**|**Convergence of Message Passing Graph Neural Networks with Generic   Aggregation On Large Random Graphs**|Matthieu Cordonnier et.al.|[2304.11140v1](http://arxiv.org/abs/2304.11140v1)|null|
 |**2023-04-21 11:26:24**|**GCNH: A Simple Method For Representation Learning On Heterophilous   Graphs**|Andrea Cavallo et.al.|[2304.10896v1](http://arxiv.org/abs/2304.10896v1)|[link](https://github.com/smartdata-polito/gcnh)|
@@ -19,16 +32,3 @@
 |**2023-04-20 04:03:40**|**Improving Graph Neural Networks on Multi-node Tasks with Labeling Tricks**|Xiyuan Wang et.al.|[2304.10074v1](http://arxiv.org/abs/2304.10074v1)|null|
 |**2023-04-19 23:42:42**|**HTNet: Dynamic WLAN Performance Prediction using Heterogenous Temporal   GNN**|Hongkuan Zhou et.al.|[2304.10013v1](http://arxiv.org/abs/2304.10013v1)|null|
 |**2023-04-19 21:25:34**|**Solving the Kidney-Exchange Problem via Graph Neural Networks with No   Supervision**|Pedro Foletto Pimenta et.al.|[2304.09975v1](http://arxiv.org/abs/2304.09975v1)|null|
-|**2023-04-19 12:00:15**|**AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in   Graph Neural Networks**|Shengrui Li et.al.|[2304.09595v1](http://arxiv.org/abs/2304.09595v1)|null|
-|**2023-04-19 11:07:43**|**On the Robustness of Aspect-based Sentiment Analysis: Rethinking Model,   Data, and Training**|Hao Fei et.al.|[2304.09563v1](http://arxiv.org/abs/2304.09563v1)|null|
-|**2023-04-19 01:32:32**|**Graph Neural Network-Based Anomaly Detection for River Network Systems**|Katie Buchhorn et.al.|[2304.09367v2](http://arxiv.org/abs/2304.09367v2)|null|
-|**2023-04-18 17:52:23**|**Neural networks for geospatial data**|Wentao Zhan et.al.|[2304.09157v1](http://arxiv.org/abs/2304.09157v1)|null|
-|**2023-04-18 12:08:41**|**ProGAP: Progressive Graph Neural Networks with Differential Privacy   Guarantees**|Sina Sajadmanesh et.al.|[2304.08928v1](http://arxiv.org/abs/2304.08928v1)|null|
-|**2023-04-18 10:13:28**|**NPS: A Framework for Accurate Program Sampling Using Graph Neural   Network**|Yuanwei Fang et.al.|[2304.08880v1](http://arxiv.org/abs/2304.08880v1)|null|
-|**2023-04-18 05:33:33**|**Addressing Variable Dependency in GNN-based SAT Solving**|Zhiyuan Yan et.al.|[2304.08738v1](http://arxiv.org/abs/2304.08738v1)|null|
-|**2023-04-17 22:18:58**|**TAP: A Comprehensive Data Repository for Traffic Accident Prediction in   Road Networks**|Baixiang Huang et.al.|[2304.08640v1](http://arxiv.org/abs/2304.08640v1)|[link](https://github.com/baixianghuang/travel)|
-|**2023-04-17 20:54:38**|**GNN for Deep Full Event Interpretation and hierarchical reconstruction   of heavy-hadron decays in proton-proton collisions**|Julián García Pardiñas et.al.|[2304.08610v1](http://arxiv.org/abs/2304.08610v1)|null|
-|**2023-04-17 20:54:14**|**An Unbiased Transformer Source Code Learning with Semantic Vulnerability   Graph**|Nafis Tanveer Islam et.al.|[2304.11072v1](http://arxiv.org/abs/2304.11072v1)|[link](https://github.com/pial08/semvuldet)|
-|**2023-04-17 19:06:56**|**GrOVe: Ownership Verification of Graph Neural Networks using Embeddings**|Asim Waheed et.al.|[2304.08566v1](http://arxiv.org/abs/2304.08566v1)|null|
-|**2023-04-17 18:49:18**|**Stochastic Subgraph Neighborhood Pooling for Subgraph Classification**|Shweta Ann Jacob et.al.|[2304.08556v1](http://arxiv.org/abs/2304.08556v1)|[link](https://github.com/shweta-jacob/ssnp)|
-|**2023-04-17 17:06:23**|**Inverse design of next-generation superconductors using data-driven deep   generative models**|Daniel Wines et.al.|[2304.08446v2](http://arxiv.org/abs/2304.08446v2)|null|

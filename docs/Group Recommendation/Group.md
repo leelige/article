@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-23 11:44:50**|**Consolidation of Ground Truth Sets for Weakness Detection in Smart   Contracts**|Monika di Angelo et.al.|[2304.11624v1](http://arxiv.org/abs/2304.11624v1)|null|
 |**2023-04-20 14:02:21**|**A Reference Model for Collaborative Business Intelligence Virtual   Assistants**|Olga Cherednichenko et.al.|[2304.10556v1](http://arxiv.org/abs/2304.10556v1)|null|
 |**2023-04-20 12:45:21**|**Replication and Verifiability in Requirements Engineering: the NLP for   RE Case**|Sallam Abualhaija et.al.|[2304.10265v1](http://arxiv.org/abs/2304.10265v1)|null|
 |**2023-04-18 09:37:22**|**PEGA: Personality-Guided Preference Aggregator for Ephemeral Group   Recommendation**|Guangze Ye et.al.|[2304.08851v1](http://arxiv.org/abs/2304.08851v1)|null|
@@ -31,4 +32,3 @@
 |**2023-03-13 10:59:38**|**Neural Group Recommendation Based on a Probabilistic Semantic   Aggregation**|Jorge Dueñas-Lerín et.al.|[2303.07001v1](http://arxiv.org/abs/2303.07001v1)|[link](https://github.com/knodis-research-group/neural-cf-for-groups)|
 |**2023-03-09 17:44:58**|**Communication-Efficient Collaborative Heterogeneous Bandits in Networks**|Junghyun Lee et.al.|[2303.05445v1](http://arxiv.org/abs/2303.05445v1)|null|
 |**2023-03-08 13:54:57**|**"How to make them stay?" -- Diverse Counterfactual Explanations of   Employee Attrition**|André Artelt et.al.|[2303.04579v1](http://arxiv.org/abs/2303.04579v1)|null|
-|**2023-03-02 05:06:17**|**Dynamic fairness-aware recommendation through multi-agent social choice**|Amanda Aird et.al.|[2303.00968v2](http://arxiv.org/abs/2303.00968v2)|null|
