@@ -1,27 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2023-04-27 16:08:06 Asia/Shanghai
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-26 13:12:33**|**Long-Short-Range Message-Passing: A Physics-Informed Framework to   Capture Non-Local Interaction for Scalable Molecular Dynamics Simulation**|Yunyang Li et.al.|[2304.13542v1](http://arxiv.org/abs/2304.13542v1)|null|
-|**2023-04-26 13:07:42**|**SCV-GNN: Sparse Compressed Vector-based Graph Neural Network Aggregation**|Nanda K. Unnikrishnan et.al.|[2304.13532v1](http://arxiv.org/abs/2304.13532v1)|null|
-|**2023-04-26 00:04:50**|**Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation**|Negar Nejatishahidin et.al.|[2304.13201v1](http://arxiv.org/abs/2304.13201v1)|null|
-|**2023-04-25 20:26:47**|**Generating Molecular Fragmentation Graphs with Autoregressive Neural   Networks**|Samuel Goldman et.al.|[2304.13136v1](http://arxiv.org/abs/2304.13136v1)|[link](https://github.com/samgoldman97/ms-pred)|
-|**2023-04-25 15:06:22**|**Discovering Graph Generation Algorithms**|Mihai Babiac et.al.|[2304.12895v1](http://arxiv.org/abs/2304.12895v1)|null|
-|**2023-04-25 11:59:19**|**Node Feature Augmentation Vitaminizes Network Alignment**|Jin-Duk Park et.al.|[2304.12751v1](http://arxiv.org/abs/2304.12751v1)|null|
-|**2023-04-25 07:57:07**|**Spatiotemporal Graph Convolutional Recurrent Neural Network Model for   Citywide Air Pollution Forecasting**|Van-Duc Le et.al.|[2304.12630v1](http://arxiv.org/abs/2304.12630v1)|null|
-|**2023-04-25 04:27:43**|**Performance Optimization using Multimodal Modeling and Heterogeneous GNN**|Akash Dutta et.al.|[2304.12568v1](http://arxiv.org/abs/2304.12568v1)|null|
-|**2023-04-25 03:04:12**|**GARCIA: Powering Representations of Long-tail Query with   Multi-granularity Contrastive Learning**|Weifan Wang et.al.|[2304.12537v1](http://arxiv.org/abs/2304.12537v1)|null|
-|**2023-04-24 23:24:46**|**Graph Convolutional Networks based on Manifold Learning for   Semi-Supervised Image Classification**|Lucas Pascotti Valem et.al.|[2304.12492v1](http://arxiv.org/abs/2304.12492v1)|null|
+ 自动更新 @ 2023-04-28 16:07:46 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-27 14:54:31**|**Guidance note on best statistical practices for TOAR analyses**|Kai-Lan Chang et.al.|[2304.14236v1](http://arxiv.org/abs/2304.14236v1)|null|
+|**2023-04-27 11:59:13**|**A sensemaking system for grouping and suggesting stories from multiple   affective viewpoints in museums**|Antonio Lieto et.al.|[2304.14117v1](http://arxiv.org/abs/2304.14117v1)|null|
+|**2023-04-26 20:39:45**|**Selecting Sustainable Optimal Stock by Using Multi-Criteria Fuzzy   Decision-Making Approaches Based on the Development of the Gordon Model: A   case study of the Toronto Stock Exchange**|Mohsen Mortazavi et.al.|[2304.13818v1](http://arxiv.org/abs/2304.13818v1)|null|
 |**2023-04-23 11:44:50**|**Consolidation of Ground Truth Sets for Weakness Detection in Smart   Contracts**|Monika di Angelo et.al.|[2304.11624v1](http://arxiv.org/abs/2304.11624v1)|null|
 |**2023-04-20 14:02:21**|**A Reference Model for Collaborative Business Intelligence Virtual   Assistants**|Olga Cherednichenko et.al.|[2304.10556v1](http://arxiv.org/abs/2304.10556v1)|null|
 |**2023-04-20 12:45:21**|**Replication and Verifiability in Requirements Engineering: the NLP for   RE Case**|Sallam Abualhaija et.al.|[2304.10265v1](http://arxiv.org/abs/2304.10265v1)|null|
@@ -49,9 +36,6 @@
 |**2023-03-16 10:56:24**|**The Dunnett procedure with possibly heterogeneous variances**|Ludwig A. Hothorn et.al.|[2303.09222v1](http://arxiv.org/abs/2303.09222v1)|null|
 |**2023-03-16 09:58:11**|**Wiki-based Communities of Interest: Demographics and Outliers**|Hiba Arnaout et.al.|[2303.09189v2](http://arxiv.org/abs/2303.09189v2)|null|
 |**2023-03-14 18:14:40**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v2](http://arxiv.org/abs/2303.08157v2)|null|
-|**2023-03-13 10:59:38**|**Neural Group Recommendation Based on a Probabilistic Semantic   Aggregation**|Jorge Dueñas-Lerín et.al.|[2303.07001v1](http://arxiv.org/abs/2303.07001v1)|[link](https://github.com/knodis-research-group/neural-cf-for-groups)|
-|**2023-03-09 17:44:58**|**Communication-Efficient Collaborative Heterogeneous Bandits in Networks**|Junghyun Lee et.al.|[2303.05445v1](http://arxiv.org/abs/2303.05445v1)|null|
-|**2023-03-08 13:54:57**|**"How to make them stay?" -- Diverse Counterfactual Explanations of   Employee Attrition**|André Artelt et.al.|[2303.04579v1](http://arxiv.org/abs/2303.04579v1)|null|
 
 ## Multi Interest Recommendation
 
@@ -88,3 +72,39 @@
 |**2023-02-02 14:15:36**|**PEPNet: Parameter and Embedding Personalized Network for Infusing with   Personalized Prior Information**|Jianxin Chang et.al.|[2302.01115v2](http://arxiv.org/abs/2302.01115v2)|null|
 |**2023-01-28 06:18:36**|**Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation**|Junsu Cho et.al.|[2301.12105v1](http://arxiv.org/abs/2301.12105v1)|null|
 |**2023-01-08 08:59:09**|**Fluid Tunnel Research for Challenges of Urban Climate**|Yongling Zhao et.al.|[2301.03001v1](http://arxiv.org/abs/2301.03001v1)|null|
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-04-27 03:04:55**|**Bitcoin Double-Spending Attack Detection using Graph Neural Network**|Changhoon Kang et.al.|[2304.13935v1](http://arxiv.org/abs/2304.13935v1)|null|
+|**2023-04-26 13:12:33**|**Long-Short-Range Message-Passing: A Physics-Informed Framework to   Capture Non-Local Interaction for Scalable Molecular Dynamics Simulation**|Yunyang Li et.al.|[2304.13542v1](http://arxiv.org/abs/2304.13542v1)|null|
+|**2023-04-26 13:07:42**|**SCV-GNN: Sparse Compressed Vector-based Graph Neural Network Aggregation**|Nanda K. Unnikrishnan et.al.|[2304.13532v1](http://arxiv.org/abs/2304.13532v1)|null|
+|**2023-04-26 00:04:50**|**Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation**|Negar Nejatishahidin et.al.|[2304.13201v1](http://arxiv.org/abs/2304.13201v1)|null|
+|**2023-04-25 20:26:47**|**Generating Molecular Fragmentation Graphs with Autoregressive Neural   Networks**|Samuel Goldman et.al.|[2304.13136v1](http://arxiv.org/abs/2304.13136v1)|[link](https://github.com/samgoldman97/ms-pred)|
+|**2023-04-25 15:06:22**|**Discovering Graph Generation Algorithms**|Mihai Babiac et.al.|[2304.12895v1](http://arxiv.org/abs/2304.12895v1)|null|
+|**2023-04-25 11:59:19**|**Node Feature Augmentation Vitaminizes Network Alignment**|Jin-Duk Park et.al.|[2304.12751v1](http://arxiv.org/abs/2304.12751v1)|null|
+|**2023-04-25 09:40:47**|**When Do Graph Neural Networks Help with Node Classification:   Investigating the Homophily Principle on Node Distinguishability**|Sitao Luan et.al.|[2304.14274v1](http://arxiv.org/abs/2304.14274v1)|null|
+|**2023-04-25 07:57:07**|**Spatiotemporal Graph Convolutional Recurrent Neural Network Model for   Citywide Air Pollution Forecasting**|Van-Duc Le et.al.|[2304.12630v1](http://arxiv.org/abs/2304.12630v1)|null|
+|**2023-04-25 04:27:43**|**Performance Optimization using Multimodal Modeling and Heterogeneous GNN**|Akash Dutta et.al.|[2304.12568v2](http://arxiv.org/abs/2304.12568v2)|null|
+|**2023-04-25 03:04:12**|**GARCIA: Powering Representations of Long-tail Query with   Multi-granularity Contrastive Learning**|Weifan Wang et.al.|[2304.12537v1](http://arxiv.org/abs/2304.12537v1)|null|
+|**2023-04-24 23:24:46**|**Graph Convolutional Networks based on Manifold Learning for   Semi-Supervised Image Classification**|Lucas Pascotti Valem et.al.|[2304.12492v1](http://arxiv.org/abs/2304.12492v1)|null|
+|**2023-04-24 21:02:12**|**Rank Flow Embedding for Unsupervised and Semi-Supervised Manifold   Learning**|Lucas Pascotti Valem et.al.|[2304.12448v1](http://arxiv.org/abs/2304.12448v1)|[link](https://github.com/UDLF/UDLF)|
+|**2023-04-24 16:18:22**|**A Transfer Principle: Universal Approximators Between Metric Spaces From   Euclidean Universal Approximators**|Anastasis Kratsios et.al.|[2304.12231v1](http://arxiv.org/abs/2304.12231v1)|null|
+|**2023-04-24 16:17:21**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural   Network**|Nian Liu et.al.|[2304.12228v1](http://arxiv.org/abs/2304.12228v1)|null|
+|**2023-04-24 15:58:26**|**Impact-Oriented Contextual Scholar Profiling using Self-Citation Graphs**|Yuankai Luo et.al.|[2304.12217v1](http://arxiv.org/abs/2304.12217v1)|[link](https://github.com/visdata/geneticflow)|
+|**2023-04-24 12:25:35**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by   Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v2](http://arxiv.org/abs/2304.12036v2)|null|
+|**2023-04-24 10:47:08**|**Generative Flow Networks for Precise Reward-Oriented Active Learning on   Graphs**|Yinchuan Li et.al.|[2304.11989v1](http://arxiv.org/abs/2304.11989v1)|null|
+|**2023-04-24 03:54:48**|**PARAGRAPH2GRAPH: A GNN-based framework for layout paragraph analysis**|Shu Wei et.al.|[2304.11810v1](http://arxiv.org/abs/2304.11810v1)|[link](https://github.com/NormXU/Layout2Graph)|
+|**2023-04-23 15:42:11**|**TGNN: A Joint Semi-supervised Framework for Graph-level Classification**|Wei Ju et.al.|[2304.11688v1](http://arxiv.org/abs/2304.11688v1)|null|
+|**2023-04-23 08:15:20**|**Meta-multigraph Search: Rethinking Meta-structure on Heterogeneous   Information Networks**|Chao Li et.al.|[2304.11574v1](http://arxiv.org/abs/2304.11574v1)|null|
+|**2023-04-23 04:21:50**|**Graph Neural Networks for Text Classification: A Survey**|Kunze Wang et.al.|[2304.11534v2](http://arxiv.org/abs/2304.11534v2)|null|
+|**2023-04-23 04:18:56**|**Bi-Level Attention Graph Neural Networks**|Roshni G. Iyer et.al.|[2304.11533v1](http://arxiv.org/abs/2304.11533v1)|[link](https://github.com/roshnigiyer/ba-gnn)|
+|**2023-04-22 13:54:31**|**Detecting Spoilers in Movie Reviews with External Movie Knowledge and   User Networks**|Heng Wang et.al.|[2304.11411v1](http://arxiv.org/abs/2304.11411v1)|[link](https://github.com/arthur-heng/spoiler-detection)|
+|**2023-04-22 10:38:35**|**Detecting Political Opinions in Tweets through Bipartite Graph Analysis:   A Skip Aggregation Graph Convolution Approach**|Xingyu Peng et.al.|[2304.11367v1](http://arxiv.org/abs/2304.11367v1)|null|
+|**2023-04-22 09:27:47**|**Medium. Permeation: SARS-COV-2 Painting Creation by Generative Model**|Yuan-Fu Yang et.al.|[2304.11354v1](http://arxiv.org/abs/2304.11354v1)|null|
+|**2023-04-21 17:53:12**|**Low-Variance Gradient Estimation in Unrolled Computation Graphs with   ES-Single**|Paul Vicol et.al.|[2304.11153v1](http://arxiv.org/abs/2304.11153v1)|null|
+|**2023-04-21 17:22:08**|**Convergence of Message Passing Graph Neural Networks with Generic   Aggregation On Large Random Graphs**|Matthieu Cordonnier et.al.|[2304.11140v1](http://arxiv.org/abs/2304.11140v1)|null|
+|**2023-04-21 11:26:24**|**GCNH: A Simple Method For Representation Learning On Heterophilous   Graphs**|Andrea Cavallo et.al.|[2304.10896v1](http://arxiv.org/abs/2304.10896v1)|[link](https://github.com/smartdata-polito/gcnh)|
+|**2023-04-21 09:52:19**|**What Do GNNs Actually Learn? Towards Understanding their Representations**|Giannis Nikolentzos et.al.|[2304.10851v1](http://arxiv.org/abs/2304.10851v1)|null|
