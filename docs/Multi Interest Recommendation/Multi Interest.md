@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-28 08:00:04**|**Ensemble Modeling with Contrastive Knowledge Distillation for Sequential   Recommendation**|Hanwen Du et.al.|[2304.14668v1](http://arxiv.org/abs/2304.14668v1)|[link](https://github.com/hw-du/EMKD)|
 |**2023-04-17 19:00:55**|**CAM2: Conformity-Aware Multi-Task Ranking Model for Large-Scale   Recommender Systems**|Ameya Raul et.al.|[2304.08562v1](http://arxiv.org/abs/2304.08562v1)|null|
 |**2023-04-17 09:18:45**|**Transformer-based Graph Neural Networks for Outfit Generation**|Federico Becattini et.al.|[2304.08098v1](http://arxiv.org/abs/2304.08098v1)|null|
 |**2023-04-16 22:47:53**|**M2GNN: Metapath and Multi-interest Aggregated Graph Neural Network for   Tag-based Cross-domain Recommendation**|Zepeng Huai et.al.|[2304.07911v1](http://arxiv.org/abs/2304.07911v1)|[link](https://github.com/huaizepeng2020/m2gnn_git)|
@@ -31,4 +32,3 @@
 |**2023-02-02 17:03:40**|**Practical Bandits: An Industry Perspective**|Bram van den Akker et.al.|[2302.01223v1](http://arxiv.org/abs/2302.01223v1)|null|
 |**2023-02-02 14:15:36**|**PEPNet: Parameter and Embedding Personalized Network for Infusing with   Personalized Prior Information**|Jianxin Chang et.al.|[2302.01115v2](http://arxiv.org/abs/2302.01115v2)|null|
 |**2023-01-28 06:18:36**|**Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation**|Junsu Cho et.al.|[2301.12105v1](http://arxiv.org/abs/2301.12105v1)|null|
-|**2023-01-08 08:59:09**|**Fluid Tunnel Research for Challenges of Urban Climate**|Yongling Zhao et.al.|[2301.03001v1](http://arxiv.org/abs/2301.03001v1)|null|

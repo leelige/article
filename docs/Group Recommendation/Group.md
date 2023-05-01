@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-28 01:06:15**|**Épilexie: A digital therapeutic approach for treating intractable   epilepsy via Amenable Neurostimulation**|Ishan Shivansh Bangroo et.al.|[2304.14583v1](http://arxiv.org/abs/2304.14583v1)|null|
 |**2023-04-27 14:54:31**|**Guidance note on best statistical practices for TOAR analyses**|Kai-Lan Chang et.al.|[2304.14236v1](http://arxiv.org/abs/2304.14236v1)|null|
 |**2023-04-27 11:59:13**|**A sensemaking system for grouping and suggesting stories from multiple   affective viewpoints in museums**|Antonio Lieto et.al.|[2304.14117v1](http://arxiv.org/abs/2304.14117v1)|null|
 |**2023-04-26 20:39:45**|**Selecting Sustainable Optimal Stock by Using Multi-Criteria Fuzzy   Decision-Making Approaches Based on the Development of the Gordon Model: A   case study of the Toronto Stock Exchange**|Mohsen Mortazavi et.al.|[2304.13818v1](http://arxiv.org/abs/2304.13818v1)|null|
@@ -31,4 +32,3 @@
 |**2023-03-16 17:44:39**|**Fairness-aware Differentially Private Collaborative Filtering**|Zhenhuan Yang et.al.|[2303.09527v1](http://arxiv.org/abs/2303.09527v1)|null|
 |**2023-03-16 10:56:24**|**The Dunnett procedure with possibly heterogeneous variances**|Ludwig A. Hothorn et.al.|[2303.09222v1](http://arxiv.org/abs/2303.09222v1)|null|
 |**2023-03-16 09:58:11**|**Wiki-based Communities of Interest: Demographics and Outliers**|Hiba Arnaout et.al.|[2303.09189v2](http://arxiv.org/abs/2303.09189v2)|null|
-|**2023-03-14 18:14:40**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v2](http://arxiv.org/abs/2303.08157v2)|null|
