@@ -2,6 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-01 14:39:55**|**Revisiting Robustness in Graph Machine Learning**|Lukas Gosch et.al.|[2305.00851v1](http://arxiv.org/abs/2305.00851v1)|null|
+|**2023-05-01 02:51:38**|**Learning Self-Prior for Mesh Inpainting Using Self-Supervised Graph   Convolutional Networks**|Shota Hattori et.al.|[2305.00635v1](http://arxiv.org/abs/2305.00635v1)|null|
+|**2023-05-01 02:04:36**|**A Simplified Framework for Contrastive Learning for Node Representations**|Ilgee Hong et.al.|[2305.00623v1](http://arxiv.org/abs/2305.00623v1)|null|
+|**2023-04-30 21:22:35**|**Multimodal Graph Transformer for Multimodal Question Answering**|Xuehai He et.al.|[2305.00581v1](http://arxiv.org/abs/2305.00581v1)|null|
+|**2023-04-30 19:45:04**|**Collective Relational Inference for learning physics-consistent   heterogeneous particle interactions**|Zhichao Han et.al.|[2305.00557v1](http://arxiv.org/abs/2305.00557v1)|null|
+|**2023-04-30 17:15:38**|**Nearly Optimal Steiner Trees using Graph Neural Network Assisted Monte   Carlo Tree Search**|Reyan Ahmed et.al.|[2305.00535v1](http://arxiv.org/abs/2305.00535v1)|null|
+|**2023-04-29 11:54:54**|**Wegner model on a tree graph: U(1) symmetry breaking and a non-standard   phase of disordered electronic matter**|J. Arenz et.al.|[2305.00243v1](http://arxiv.org/abs/2305.00243v1)|null|
+|**2023-04-29 09:58:15**|**Physics-Guided Graph Neural Networks for Real-time AC/DC Power Flow   Analysis**|Mei Yang et.al.|[2305.00216v1](http://arxiv.org/abs/2305.00216v1)|null|
+|**2023-04-29 01:09:56**|**Leveraging Label Non-Uniformity for Node Classification in Graph Neural   Networks**|Feng Ji et.al.|[2305.00139v1](http://arxiv.org/abs/2305.00139v1)|[link](https://github.com/amblee0306/label-non-uniformity-gnn)|
 |**2023-04-28 17:36:53**|**Towards Automated Circuit Discovery for Mechanistic Interpretability**|Arthur Conmy et.al.|[2304.14997v1](http://arxiv.org/abs/2304.14997v1)|null|
 |**2023-04-28 13:48:00**|**Musical Voice Separation as Link Prediction: Modeling a Musical   Perception Task as a Multi-Trajectory Tracking Problem**|Emmanouil Karystinaios et.al.|[2304.14848v1](http://arxiv.org/abs/2304.14848v1)|[link](https://github.com/manoskary/vocsep_ijcai2023)|
 |**2023-04-28 13:20:22**|**Ground state of composite bosons in low-dimensional graphs**|Cecilia Cormick et.al.|[2304.14834v1](http://arxiv.org/abs/2304.14834v1)|null|
@@ -23,12 +32,3 @@
 |**2023-04-25 11:59:19**|**Node Feature Augmentation Vitaminizes Network Alignment**|Jin-Duk Park et.al.|[2304.12751v1](http://arxiv.org/abs/2304.12751v1)|null|
 |**2023-04-25 09:40:47**|**When Do Graph Neural Networks Help with Node Classification:   Investigating the Homophily Principle on Node Distinguishability**|Sitao Luan et.al.|[2304.14274v1](http://arxiv.org/abs/2304.14274v1)|null|
 |**2023-04-25 07:57:07**|**Spatiotemporal Graph Convolutional Recurrent Neural Network Model for   Citywide Air Pollution Forecasting**|Van-Duc Le et.al.|[2304.12630v1](http://arxiv.org/abs/2304.12630v1)|null|
-|**2023-04-25 04:27:43**|**Performance Optimization using Multimodal Modeling and Heterogeneous GNN**|Akash Dutta et.al.|[2304.12568v2](http://arxiv.org/abs/2304.12568v2)|null|
-|**2023-04-25 03:04:12**|**GARCIA: Powering Representations of Long-tail Query with   Multi-granularity Contrastive Learning**|Weifan Wang et.al.|[2304.12537v1](http://arxiv.org/abs/2304.12537v1)|null|
-|**2023-04-24 23:24:46**|**Graph Convolutional Networks based on Manifold Learning for   Semi-Supervised Image Classification**|Lucas Pascotti Valem et.al.|[2304.12492v1](http://arxiv.org/abs/2304.12492v1)|null|
-|**2023-04-24 21:02:12**|**Rank Flow Embedding for Unsupervised and Semi-Supervised Manifold   Learning**|Lucas Pascotti Valem et.al.|[2304.12448v1](http://arxiv.org/abs/2304.12448v1)|[link](https://github.com/UDLF/UDLF)|
-|**2023-04-24 16:18:22**|**A Transfer Principle: Universal Approximators Between Metric Spaces From   Euclidean Universal Approximators**|Anastasis Kratsios et.al.|[2304.12231v1](http://arxiv.org/abs/2304.12231v1)|null|
-|**2023-04-24 16:17:21**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural   Network**|Nian Liu et.al.|[2304.12228v1](http://arxiv.org/abs/2304.12228v1)|null|
-|**2023-04-24 15:58:26**|**Impact-Oriented Contextual Scholar Profiling using Self-Citation Graphs**|Yuankai Luo et.al.|[2304.12217v1](http://arxiv.org/abs/2304.12217v1)|[link](https://github.com/visdata/geneticflow)|
-|**2023-04-24 12:25:35**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by   Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v2](http://arxiv.org/abs/2304.12036v2)|null|
-|**2023-04-24 10:47:08**|**Generative Flow Networks for Precise Reward-Oriented Active Learning on   Graphs**|Yinchuan Li et.al.|[2304.11989v1](http://arxiv.org/abs/2304.11989v1)|null|
