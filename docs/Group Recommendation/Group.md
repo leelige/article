@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-03 08:21:59**|**Putting collective intelligence to the enforcement of the Digital   Services Act**|Suzanne Vergnolle et.al.|[2305.01959v1](http://arxiv.org/abs/2305.01959v1)|null|
 |**2023-05-02 01:09:48**|**Multidimensional Fairness in Paper Recommendation**|Reem Alsaffar et.al.|[2305.01141v1](http://arxiv.org/abs/2305.01141v1)|null|
 |**2023-04-30 21:16:53**|**Contextual Response Interpretation for Automated Structured Interviews:   A Case Study in Market Research**|Harshita Sahijwani et.al.|[2305.00577v1](http://arxiv.org/abs/2305.00577v1)|null|
 |**2023-04-28 01:06:15**|**Épilexie: A digital therapeutic approach for treating intractable   epilepsy via Amenable Neurostimulation**|Ishan Shivansh Bangroo et.al.|[2304.14583v1](http://arxiv.org/abs/2304.14583v1)|null|
@@ -24,11 +25,10 @@
 |**2023-04-10 02:57:42**|**Privacy-preserving Inference of Group Mean Difference in Zero-inflated   Right Skewed Data with Partitioning and Censoring**|Fang Liu et.al.|[2304.04359v1](http://arxiv.org/abs/2304.04359v1)|null|
 |**2023-04-06 13:13:53**|**Manipulating Federated Recommender Systems: Poisoning with Synthetic   Users and Its Countermeasures**|Wei Yuan et.al.|[2304.03054v3](http://arxiv.org/abs/2304.03054v3)|null|
 |**2023-04-04 21:40:28**|**Causes of Excess Capacity**|Samidh Pal et.al.|[2304.02137v1](http://arxiv.org/abs/2304.02137v1)|null|
-|**2023-04-04 10:04:43**|**Optimizing Group Utility in Itinerary Planning: A Strategic and   Crowd-Aware Approach**|Junhua Liu et.al.|[2304.08495v2](http://arxiv.org/abs/2304.08495v2)|null|
+|**2023-04-04 10:04:43**|**Optimizing Group Utility in Itinerary Planning: A Strategic and   Crowd-Aware Approach**|Junhua Liu et.al.|[2304.08495v3](http://arxiv.org/abs/2304.08495v3)|null|
 |**2023-04-01 11:23:00**|**Fair-CDA: Continuous and Directional Augmentation for Group Fairness**|Rui Sun et.al.|[2304.00295v1](http://arxiv.org/abs/2304.00295v1)|null|
 |**2023-03-23 13:51:14**|**The effect of Collaborative-Filtering based Recommendation Algorithms on   Opinion Polarization**|Alessandro Bellina et.al.|[2303.13270v1](http://arxiv.org/abs/2303.13270v1)|null|
 |**2023-03-22 19:36:56**|**Robust Consensus in Ranking Data Analysis: Definitions, Properties and   Computational Issues**|Morgane Goibert et.al.|[2303.12878v1](http://arxiv.org/abs/2303.12878v1)|[link](https://github.com/robustconsensusranking/robustconsensusranking)|
 |**2023-03-21 10:55:49**|**Uncertainty estimation on frequency shift of Brillouin light scattering**|Patrice Salzenstein et.al.|[2303.11737v1](http://arxiv.org/abs/2303.11737v1)|null|
 |**2023-03-19 23:21:37**|**Successful and sustainable undergraduate research in data science**|Audrey E Hendricks et.al.|[2303.10792v3](http://arxiv.org/abs/2303.10792v3)|null|
 |**2023-03-18 19:12:38**|**Report of the Medical Image De-Identification (MIDI) Task Group -- Best   Practices and Recommendations**|David A. Clunie et.al.|[2303.10473v2](http://arxiv.org/abs/2303.10473v2)|null|
-|**2023-03-17 20:08:59**|**ITM-Rec: An Open Data Set for Educational Recommender Systems**|Yong Zheng et.al.|[2303.10230v1](http://arxiv.org/abs/2303.10230v1)|[link](https://github.com/irecsys/recdata)|
