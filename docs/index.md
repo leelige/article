@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2023-05-05 16:07:47 Asia/Shanghai
+ 自动更新 @ 2023-05-06 16:06:53 Asia/Shanghai
 
 ## Group Recommendation
 
@@ -46,7 +46,7 @@
 |**2023-05-04 12:46:26**|**Violation of Bell's inequalities in uniform random graphs**|Ioannis Kleftogiannis et.al.|[2305.02791v1](http://arxiv.org/abs/2305.02791v1)|null|
 |**2023-05-04 11:53:38**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759v1](http://arxiv.org/abs/2305.02759v1)|[link](https://github.com/hkuds/dccf)|
 |**2023-05-04 10:10:33**|**In-situ Anomaly Detection in Additive Manufacturing with Graph Neural   Networks**|Sebastian Larsen et.al.|[2305.02695v1](http://arxiv.org/abs/2305.02695v1)|null|
-|**2023-05-04 10:09:08**|**PGB: A PubMed Graph Benchmark for Heterogeneous Network Representation   Learning**|Eric W Lee et.al.|[2305.02691v1](http://arxiv.org/abs/2305.02691v1)|null|
+|**2023-05-04 10:09:08**|**PGB: A PubMed Graph Benchmark for Heterogeneous Network Representation   Learning**|Eric W Lee et.al.|[2305.02691v1](http://arxiv.org/abs/2305.02691v1)|[link](https://github.com/ewhlee/pgb)|
 |**2023-05-04 08:13:33**|**Accelerated Screening of Ternary Chalcogenides for High-Performance   Optoelectronic Materials**|Chen Shen et.al.|[2305.02634v1](http://arxiv.org/abs/2305.02634v1)|null|
 |**2023-05-04 03:20:25**|**BitGNN: Unleashing the Performance Potential of Binary Graph Neural   Networks on GPUs**|Jou-An Chen et.al.|[2305.02522v1](http://arxiv.org/abs/2305.02522v1)|null|
 |**2023-05-04 01:57:07**|**Revisiting Graph Contrastive Learning for Anomaly Detection**|Zhiyuan Liu et.al.|[2305.02496v1](http://arxiv.org/abs/2305.02496v1)|[link](https://github.com/liuyishoua/mag-framework)|
@@ -55,8 +55,8 @@
 |**2023-05-03 15:18:37**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v2](http://arxiv.org/abs/2305.02177v2)|null|
 |**2023-05-03 13:34:23**|**Heterogeneous GNN-RL Based Task Offloading for UAV-aided Smart   Agriculture**|Turgay Pamuklu et.al.|[2305.02112v1](http://arxiv.org/abs/2305.02112v1)|null|
 |**2023-05-03 07:14:12**|**An Exploration of Conditioning Methods in Graph Neural Networks**|Yeskendir Koishekenov et.al.|[2305.01933v1](http://arxiv.org/abs/2305.01933v1)|[link](https://github.com/yeskendirk/conditioning-gnns)|
-|**2023-05-03 03:27:12**|**Tensor Network Message Passing**|Yijia Wang et.al.|[2305.01874v1](http://arxiv.org/abs/2305.01874v1)|null|
-|**2023-05-03 01:49:01**|**Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering**|Erlin Pan et.al.|[2305.02931v1](http://arxiv.org/abs/2305.02931v1)|null|
+|**2023-05-03 03:27:12**|**Tensor Network Message Passing**|Yijia Wang et.al.|[2305.01874v1](http://arxiv.org/abs/2305.01874v1)|[link](https://github.com/yijiawwang/tnmp)|
+|**2023-05-03 01:49:01**|**Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering**|Erlin Pan et.al.|[2305.02931v1](http://arxiv.org/abs/2305.02931v1)|[link](https://github.com/panern/dgcn)|
 |**2023-05-02 22:16:15**|**Hamming Similarity and Graph Laplacians for Class Partitioning and   Adversarial Image Detection**|Huma Jamil et.al.|[2305.01808v1](http://arxiv.org/abs/2305.01808v1)|null|
 |**2023-05-02 22:15:54**|**Transferablility of coVariance Neural Networks and Application to   Interpretable Brain Age Prediction using Anatomical Features**|Saurabh Sihag et.al.|[2305.01807v1](http://arxiv.org/abs/2305.01807v1)|[link](https://github.com/pennbindlab/vnn_brain_age)|
 |**2023-05-02 20:30:23**|**Cheap and Deterministic Inference for Deep State-Space Models of   Interacting Dynamical Systems**|Andreas Look et.al.|[2305.01773v1](http://arxiv.org/abs/2305.01773v1)|null|
