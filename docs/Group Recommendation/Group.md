@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-06 10:04:43**|**Attacking Pre-trained Recommendation**|Yiqing Wu et.al.|[2305.03995v1](http://arxiv.org/abs/2305.03995v1)|null|
+|**2023-05-05 21:25:35**|**CHAI-DT: A Framework for Prompting Conversational Generative AI Agents   to Actively Participate in Co-Creation**|Brandon Harwood et.al.|[2305.03852v1](http://arxiv.org/abs/2305.03852v1)|null|
 |**2023-05-05 02:33:45**|**Meta-Maintanance for Dockerfiles: Are We There Yet?**|Takeru Tanaka et.al.|[2305.03251v1](http://arxiv.org/abs/2305.03251v1)|null|
 |**2023-05-05 00:57:55**|**Algorithms for Social Justice: Affirmative Action in Social Networks**|Georgina Curto et.al.|[2305.03223v1](http://arxiv.org/abs/2305.03223v1)|null|
 |**2023-05-03 18:14:26**|**Diffuse and Localized Functional Dysconnectivity in Schizophrenia: a   Bootstrapped Top-Down Approach**|Davide Coluzzi et.al.|[2305.02369v1](http://arxiv.org/abs/2305.02369v1)|null|
@@ -30,5 +32,3 @@
 |**2023-04-06 13:13:53**|**Manipulating Federated Recommender Systems: Poisoning with Synthetic   Users and Its Countermeasures**|Wei Yuan et.al.|[2304.03054v3](http://arxiv.org/abs/2304.03054v3)|null|
 |**2023-04-04 21:40:28**|**Causes of Excess Capacity**|Samidh Pal et.al.|[2304.02137v1](http://arxiv.org/abs/2304.02137v1)|null|
 |**2023-04-04 10:04:43**|**Optimizing Group Utility in Itinerary Planning: A Strategic and   Crowd-Aware Approach**|Junhua Liu et.al.|[2304.08495v3](http://arxiv.org/abs/2304.08495v3)|null|
-|**2023-04-01 11:23:00**|**Fair-CDA: Continuous and Directional Augmentation for Group Fairness**|Rui Sun et.al.|[2304.00295v1](http://arxiv.org/abs/2304.00295v1)|null|
-|**2023-03-23 13:51:14**|**The effect of Collaborative-Filtering based Recommendation Algorithms on   Opinion Polarization**|Alessandro Bellina et.al.|[2303.13270v1](http://arxiv.org/abs/2303.13270v1)|null|
