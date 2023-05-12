@@ -2,6 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-11 14:20:23**|**A Generic Approach to Integrating Time into Spatial-Temporal Forecasting   via Conditional Neural Fields**|Minh-Thanh Bui et.al.|[2305.06827v1](http://arxiv.org/abs/2305.06827v1)|null|
+|**2023-05-11 07:38:24**|**PerFedRec++: Enhancing Personalized Federated Recommendation with   Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622v1](http://arxiv.org/abs/2305.06622v1)|null|
+|**2023-05-11 07:13:24**|**Backdoor to the Hidden Ground State: Planted Vertex Cover Example**|Xin-Yi Fan et.al.|[2305.06610v1](http://arxiv.org/abs/2305.06610v1)|null|
+|**2023-05-11 05:56:38**|**How Expressive are Spectral-Temporal Graph Neural Networks for Time   Series Forecasting?**|Ming Jin et.al.|[2305.06587v1](http://arxiv.org/abs/2305.06587v1)|null|
+|**2023-05-10 22:15:40**|**ST-GIN: An Uncertainty Quantification Approach in Traffic Data   Imputation with Spatio-temporal Graph Attention and Bidirectional Recurrent   United Neural Networks**|Zepu Wang et.al.|[2305.06480v1](http://arxiv.org/abs/2305.06480v1)|null|
+|**2023-05-10 22:04:56**|**SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**|Adam Schmidt et.al.|[2305.06477v1](http://arxiv.org/abs/2305.06477v1)|null|
+|**2023-05-10 20:34:40**|**Dynamic Graph Representation Learning for Depression Screening with   Transformer**|Ai-Te Kuo et.al.|[2305.06447v1](http://arxiv.org/abs/2305.06447v1)|null|
+|**2023-05-10 18:16:04**|**Towards Scalable Adaptive Learning with Graph Neural Networks and   Reinforcement Learning**|Jean Vassoyan et.al.|[2305.06398v1](http://arxiv.org/abs/2305.06398v1)|[link](https://github.com/jvasso/graph-rl4adaptive-learning)|
+|**2023-05-10 18:00:02**|**The connection between Hilbert-space return probability and real-space   autocorrelations in quantum spin chains**|Bikram Pain et.al.|[2305.06374v1](http://arxiv.org/abs/2305.06374v1)|null|
 |**2023-05-10 16:31:35**|**CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured   Knowledge Aggregation**|Hongbo Zhanga et.al.|[2305.06294v1](http://arxiv.org/abs/2305.06294v1)|null|
 |**2023-05-10 13:45:57**|**Feature Expansion for Graph Neural Networks**|Jiaqi Sun et.al.|[2305.06142v1](http://arxiv.org/abs/2305.06142v1)|null|
 |**2023-05-10 13:45:42**|**Active Semantic Localization with Graph Neural Embedding**|Mitsuki Yoshida et.al.|[2305.06141v1](http://arxiv.org/abs/2305.06141v1)|null|
@@ -23,12 +32,3 @@
 |**2023-05-09 08:46:05**|**Rotation Synchronization via Deep Matrix Factorization**|Gk Tejus et.al.|[2305.05268v1](http://arxiv.org/abs/2305.05268v1)|[link](https://github.com/gktejus/DMF-Synch)|
 |**2023-05-09 07:28:12**|**Graph Neural Network-based surrogate model for granular flows**|Yongjin Choi et.al.|[2305.05218v1](http://arxiv.org/abs/2305.05218v1)|null|
 |**2023-05-09 05:23:04**|**Simplicial Hopfield networks**|Thomas F Burns et.al.|[2305.05179v1](http://arxiv.org/abs/2305.05179v1)|[link](https://github.com/tfburns/simplicial-hopfield-networks)|
-|**2023-05-09 04:19:10**|**Cooperating Graph Neural Networks with Deep Reinforcement Learning for   Vaccine Prioritization**|Lu Ling et.al.|[2305.05163v1](http://arxiv.org/abs/2305.05163v1)|null|
-|**2023-05-09 03:33:14**|**DeepTree: Modeling Trees with Situated Latents**|Xiaochen Zhou et.al.|[2305.05153v1](http://arxiv.org/abs/2305.05153v1)|null|
-|**2023-05-09 02:01:07**|**Comparing Foundation Models using Data Kernels**|Brandon Duderstadt et.al.|[2305.05126v1](http://arxiv.org/abs/2305.05126v1)|null|
-|**2023-05-08 18:00:50**|**From Relational Pooling to Subgraph GNNs: A Universal Framework for More   Expressive Graph Neural Networks**|Cai Zhou et.al.|[2305.04963v1](http://arxiv.org/abs/2305.04963v1)|null|
-|**2023-05-08 13:22:16**|**Anticipatory Planning: Improving Long-Lived Planning by Estimating   Expected Cost of Future Tasks**|Roshan Dhakal et.al.|[2305.04692v1](http://arxiv.org/abs/2305.04692v1)|null|
-|**2023-05-08 10:57:56**|**Graph Masked Autoencoder for Sequential Recommendation**|Yaowen Ye et.al.|[2305.04619v2](http://arxiv.org/abs/2305.04619v2)|[link](https://github.com/hkuds/gmrec)|
-|**2023-05-08 10:46:11**|**Can graph neural network-based detection mitigate the impact of hardware   imperfections?**|Lamprini Mitsiou et.al.|[2305.04612v1](http://arxiv.org/abs/2305.04612v1)|null|
-|**2023-05-08 09:10:11**|**Building Neural Networks on Matrix Manifolds: A Gyrovector Space   Approach**|Xuan Son Nguyen et.al.|[2305.04560v1](http://arxiv.org/abs/2305.04560v1)|null|
-|**2023-05-08 06:50:05**|**Building Footprint Extraction with Graph Convolutional Network**|Yilei Shi et.al.|[2305.04499v1](http://arxiv.org/abs/2305.04499v1)|null|
