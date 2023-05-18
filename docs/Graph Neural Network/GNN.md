@@ -2,9 +2,21 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-17 17:31:20**|**Optimality of Message-Passing Architectures for Sparse Graphs**|Aseem Baranwal et.al.|[2305.10391v1](http://arxiv.org/abs/2305.10391v1)|null|
+|**2023-05-17 16:59:54**|**Universal fragility of spin-glass ground-states under single bond   changes**|Mutian Shen et.al.|[2305.10376v1](http://arxiv.org/abs/2305.10376v1)|null|
+|**2023-05-17 13:15:27**|**Curriculum Learning in Job Shop Scheduling using Reinforcement Learning**|Constantin Waubert de Puiseau et.al.|[2305.10192v1](http://arxiv.org/abs/2305.10192v1)|null|
+|**2023-05-17 10:09:40**|**Predicting Tweet Engagement with Graph Neural Networks**|Marco Arazzi et.al.|[2305.10103v1](http://arxiv.org/abs/2305.10103v1)|[link](https://github.com/ocram17/engagementgnn)|
+|**2023-05-17 08:29:21**|**Can Language Models Solve Graph Problems in Natural Language?**|Heng Wang et.al.|[2305.10037v1](http://arxiv.org/abs/2305.10037v1)|[link](https://github.com/arthur-heng/nlgraph)|
+|**2023-05-17 06:13:28**|**River of No Return: Graph Percolation Embeddings for Efficient Knowledge   Graph Reasoning**|Kai Wang et.al.|[2305.09974v1](http://arxiv.org/abs/2305.09974v1)|null|
+|**2023-05-17 05:51:57**|**Link prediction for ex ante influence maximization on temporal networks**|Eric Yanchenko et.al.|[2305.09965v1](http://arxiv.org/abs/2305.09965v1)|null|
+|**2023-05-17 05:35:49**|**SIMGA: A Simple and Effective Heterophilous Graph Neural Network with   Efficient Global Aggregation**|Haoyu Liu et.al.|[2305.09958v1](http://arxiv.org/abs/2305.09958v1)|null|
+|**2023-05-17 01:49:44**|**Simplifying Distributed Neural Network Training on Massive Graphs:   Randomized Partitions Improve Model Aggregation**|Jiong Zhu et.al.|[2305.09887v1](http://arxiv.org/abs/2305.09887v1)|null|
+|**2023-05-17 00:46:01**|**A Signed Subgraph Encoding Approach via Linear Optimization for Link   Sign Prediction**|Zhihong Fang et.al.|[2305.09869v1](http://arxiv.org/abs/2305.09869v1)|null|
+|**2023-05-16 18:01:49**|**FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2305.09729v1](http://arxiv.org/abs/2305.09729v1)|[link](https://github.com/cynricfu/fedhgn)|
 |**2023-05-16 16:32:08**|**Inductive Graph Neural Networks for Moving Object Segmentation**|Wieke Prummel et.al.|[2305.09585v1](http://arxiv.org/abs/2305.09585v1)|null|
 |**2023-05-16 13:30:15**|**Unwrapping All ReLU Networks**|Mattia Jacopo Villani et.al.|[2305.09424v1](http://arxiv.org/abs/2305.09424v1)|null|
 |**2023-05-16 13:19:05**|**Optimizing over trained GNNs via symmetry breaking**|Shiqiang Zhang et.al.|[2305.09420v1](http://arxiv.org/abs/2305.09420v1)|null|
+|**2023-05-16 11:38:19**|**Dynamic Causal Explanation Based Diffusion-Variational Graph Neural   Network for Spatio-temporal Forecasting**|Guojun Liang et.al.|[2305.09703v1](http://arxiv.org/abs/2305.09703v1)|[link](https://github.com/gorgen2020/dvgnn)|
 |**2023-05-16 09:44:38**|**Enhancing Keyphrase Extraction from Long Scientific Documents using   Graph Embeddings**|Roberto Martínez-Cruz et.al.|[2305.09316v1](http://arxiv.org/abs/2305.09316v1)|null|
 |**2023-05-15 19:02:46**|**Training Neural Networks without Backpropagation: A Deeper Dive into the   Likelihood Ratio Method**|Jinyang Jiang et.al.|[2305.08960v1](http://arxiv.org/abs/2305.08960v1)|null|
 |**2023-05-15 18:37:24**|**Causal Analysis for Robust Interpretability of Neural Networks**|Ola Ahmad et.al.|[2305.08950v1](http://arxiv.org/abs/2305.08950v1)|null|
@@ -20,15 +32,3 @@
 |**2023-05-14 03:05:14**|**Towards Understanding the Generalization of Graph Neural Networks**|Huayi Tang et.al.|[2305.08048v1](http://arxiv.org/abs/2305.08048v1)|null|
 |**2023-05-13 22:47:40**|**DRew: Dynamically Rewired Message Passing with Delay**|Benjamin Gutteridge et.al.|[2305.08018v1](http://arxiv.org/abs/2305.08018v1)|[link](https://github.com/bengutteridge/drew)|
 |**2023-05-13 12:53:11**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph   Completion**|Wenjie Xu et.al.|[2305.07912v1](http://arxiv.org/abs/2305.07912v1)|[link](https://github.com/jaysaligia/ppt)|
-|**2023-05-13 09:09:20**|**SPP-CNN: An Efficient Framework for Network Robustness Prediction**|Chengpei Wu et.al.|[2305.07872v1](http://arxiv.org/abs/2305.07872v1)|null|
-|**2023-05-12 22:37:06**|**Answering Complex Questions over Text by Hybrid Question Parsing and   Execution**|Ye Liu et.al.|[2305.07789v1](http://arxiv.org/abs/2305.07789v1)|null|
-|**2023-05-12 19:00:17**|**Predicting COVID-19 pandemic by spatio-temporal graph neural networks: A   New Zealand's study**|Viet Bach Nguyen et.al.|[2305.07731v1](http://arxiv.org/abs/2305.07731v1)|[link](https://github.com/hysonlab/pandemic_tgnn)|
-|**2023-05-12 16:15:30**|**Fisher Information Embedding for Node and Graph Learning**|Dexiong Chen et.al.|[2305.07580v1](http://arxiv.org/abs/2305.07580v1)|[link](https://github.com/BorgwardtLab/fisher_information_embedding)|
-|**2023-05-12 12:37:29**|**Knowledge Soft Integration for Multimodal Recommendation**|Kai Ouyang et.al.|[2305.07419v1](http://arxiv.org/abs/2305.07419v1)|null|
-|**2023-05-12 12:36:48**|**A Multidimensional Graph Fourier Transformation Neural Network for   Vehicle Trajectory Prediction**|Marion Neumeier et.al.|[2305.07416v1](http://arxiv.org/abs/2305.07416v1)|null|
-|**2023-05-12 03:31:24**|**Asymmetric feature interaction for interpreting model predictions**|Xiaolei Lu et.al.|[2305.07224v1](http://arxiv.org/abs/2305.07224v1)|[link](https://github.com/stilllu/asiv)|
-|**2023-05-12 00:58:09**|**Learning to Code on Graphs for Topological Interference Management**|Zhiwei Shan et.al.|[2305.07186v1](http://arxiv.org/abs/2305.07186v1)|[link](https://github.com/zhiweishan/learning-to-code-on-graphs)|
-|**2023-05-11 20:17:41**|**Graph Neural Network for Accurate and Low-complexity SAR ATR**|Bingyi Zhang et.al.|[2305.07119v1](http://arxiv.org/abs/2305.07119v1)|null|
-|**2023-05-11 19:10:26**|**$\mathrm{E}(n)$ Equivariant Message Passing Simplicial Networks**|Floor Eijkelboom et.al.|[2305.07100v1](http://arxiv.org/abs/2305.07100v1)|null|
-|**2023-05-11 14:20:23**|**A Generic Approach to Integrating Time into Spatial-Temporal Forecasting   via Conditional Neural Fields**|Minh-Thanh Bui et.al.|[2305.06827v1](http://arxiv.org/abs/2305.06827v1)|null|
-|**2023-05-11 07:38:24**|**PerFedRec++: Enhancing Personalized Federated Recommendation with   Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622v1](http://arxiv.org/abs/2305.06622v1)|null|
