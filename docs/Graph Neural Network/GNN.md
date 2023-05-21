@@ -12,23 +12,3 @@
 |**2023-05-17 20:02:08**|**Tractable Probabilistic Graph Representation Learning with Graph-Induced   Sum-Product Networks**|Federico Errica et.al.|[2305.10544v1](http://arxiv.org/abs/2305.10544v1)|null|
 |**2023-05-17 19:31:36**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule   Correlations**|Zihan Wang et.al.|[2305.10531v1](http://arxiv.org/abs/2305.10531v1)|null|
 |**2023-05-17 18:06:43**|**Edge Directionality Improves Learning on Heterophilic Graphs**|Emanuele Rossi et.al.|[2305.10498v1](http://arxiv.org/abs/2305.10498v1)|null|
-|**2023-05-17 17:31:20**|**Optimality of Message-Passing Architectures for Sparse Graphs**|Aseem Baranwal et.al.|[2305.10391v1](http://arxiv.org/abs/2305.10391v1)|null|
-|**2023-05-17 16:59:54**|**Universal fragility of spin-glass ground-states under single bond   changes**|Mutian Shen et.al.|[2305.10376v2](http://arxiv.org/abs/2305.10376v2)|null|
-|**2023-05-17 13:15:27**|**Curriculum Learning in Job Shop Scheduling using Reinforcement Learning**|Constantin Waubert de Puiseau et.al.|[2305.10192v1](http://arxiv.org/abs/2305.10192v1)|null|
-|**2023-05-17 10:09:40**|**Predicting Tweet Engagement with Graph Neural Networks**|Marco Arazzi et.al.|[2305.10103v1](http://arxiv.org/abs/2305.10103v1)|[link](https://github.com/ocram17/engagementgnn)|
-|**2023-05-17 08:29:21**|**Can Language Models Solve Graph Problems in Natural Language?**|Heng Wang et.al.|[2305.10037v1](http://arxiv.org/abs/2305.10037v1)|[link](https://github.com/arthur-heng/nlgraph)|
-|**2023-05-17 06:13:28**|**River of No Return: Graph Percolation Embeddings for Efficient Knowledge   Graph Reasoning**|Kai Wang et.al.|[2305.09974v1](http://arxiv.org/abs/2305.09974v1)|null|
-|**2023-05-17 05:51:57**|**Link prediction for ex ante influence maximization on temporal networks**|Eric Yanchenko et.al.|[2305.09965v1](http://arxiv.org/abs/2305.09965v1)|null|
-|**2023-05-17 05:35:49**|**SIMGA: A Simple and Effective Heterophilous Graph Neural Network with   Efficient Global Aggregation**|Haoyu Liu et.al.|[2305.09958v1](http://arxiv.org/abs/2305.09958v1)|[link](https://github.com/conferencescode/simga)|
-|**2023-05-17 01:49:44**|**Simplifying Distributed Neural Network Training on Massive Graphs:   Randomized Partitions Improve Model Aggregation**|Jiong Zhu et.al.|[2305.09887v1](http://arxiv.org/abs/2305.09887v1)|null|
-|**2023-05-17 00:46:01**|**A Signed Subgraph Encoding Approach via Linear Optimization for Link   Sign Prediction**|Zhihong Fang et.al.|[2305.09869v1](http://arxiv.org/abs/2305.09869v1)|null|
-|**2023-05-16 19:52:40**|**Understanding of Normal and Abnormal Hearts by Phase Space Analysis and   Convolutional Neural Networks**|Bekir Yavuz Koc et.al.|[2305.10450v1](http://arxiv.org/abs/2305.10450v1)|null|
-|**2023-05-16 18:01:49**|**FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2305.09729v1](http://arxiv.org/abs/2305.09729v1)|[link](https://github.com/cynricfu/fedhgn)|
-|**2023-05-16 16:32:08**|**Inductive Graph Neural Networks for Moving Object Segmentation**|Wieke Prummel et.al.|[2305.09585v1](http://arxiv.org/abs/2305.09585v1)|null|
-|**2023-05-16 13:30:15**|**Unwrapping All ReLU Networks**|Mattia Jacopo Villani et.al.|[2305.09424v1](http://arxiv.org/abs/2305.09424v1)|null|
-|**2023-05-16 13:19:05**|**Optimizing over trained GNNs via symmetry breaking**|Shiqiang Zhang et.al.|[2305.09420v1](http://arxiv.org/abs/2305.09420v1)|null|
-|**2023-05-16 11:38:19**|**Dynamic Causal Explanation Based Diffusion-Variational Graph Neural   Network for Spatio-temporal Forecasting**|Guojun Liang et.al.|[2305.09703v1](http://arxiv.org/abs/2305.09703v1)|[link](https://github.com/gorgen2020/dvgnn)|
-|**2023-05-16 09:44:38**|**Enhancing Keyphrase Extraction from Long Scientific Documents using   Graph Embeddings**|Roberto Martínez-Cruz et.al.|[2305.09316v1](http://arxiv.org/abs/2305.09316v1)|null|
-|**2023-05-15 19:02:46**|**Training Neural Networks without Backpropagation: A Deeper Dive into the   Likelihood Ratio Method**|Jinyang Jiang et.al.|[2305.08960v1](http://arxiv.org/abs/2305.08960v1)|null|
-|**2023-05-15 18:37:24**|**Causal Analysis for Robust Interpretability of Neural Networks**|Ola Ahmad et.al.|[2305.08950v1](http://arxiv.org/abs/2305.08950v1)|null|
-|**2023-05-15 16:05:58**|**Neural Oscillators are Universal**|Samuel Lanthaler et.al.|[2305.08753v1](http://arxiv.org/abs/2305.08753v1)|null|
