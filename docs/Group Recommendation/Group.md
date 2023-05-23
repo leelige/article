@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-20 04:32:59**|**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**|Wenyue Hua et.al.|[2305.12090v1](http://arxiv.org/abs/2305.12090v1)|null|
 |**2023-05-19 16:43:53**|**On the Fairness Impacts of Private Ensembles Models**|Cuong Tran et.al.|[2305.11807v1](http://arxiv.org/abs/2305.11807v1)|null|
 |**2023-05-19 00:45:55**|**Group fairness without demographics using social networks**|David Liu et.al.|[2305.11361v1](http://arxiv.org/abs/2305.11361v1)|null|
 |**2023-05-16 09:53:03**|**Fairness and Diversity in Information Access Systems**|Lorenzo Porcaro et.al.|[2305.09319v1](http://arxiv.org/abs/2305.09319v1)|null|
@@ -31,4 +32,3 @@
 |**2023-04-16 08:11:36**|**The Gaia-ESO Survey: homogenisation of stellar parameters and elemental   abundances**|A. Hourihane et.al.|[2304.07720v1](http://arxiv.org/abs/2304.07720v1)|null|
 |**2023-04-15 06:35:28**|**More Is Less: When Do Recommenders Underperform for Data-rich Users?**|Yueqing Xuan et.al.|[2304.07487v1](http://arxiv.org/abs/2304.07487v1)|null|
 |**2023-04-14 19:55:19**|**CollabCoder: A GPT-Powered Workflow for Collaborative Qualitative   Analysis**|Jie Gao et.al.|[2304.07366v2](http://arxiv.org/abs/2304.07366v2)|null|
-|**2023-04-14 09:49:55**|**FairRec: Fairness Testing for Deep Recommender Systems**|Huizhong Guo et.al.|[2304.07030v1](http://arxiv.org/abs/2304.07030v1)|[link](https://github.com/grey-z/fairrec)|

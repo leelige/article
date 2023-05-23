@@ -2,6 +2,8 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-21 10:29:25**|**Multi-factor Sequential Re-ranking with Perception-Aware Diversification**|Yue Xu et.al.|[2305.12420v1](http://arxiv.org/abs/2305.12420v1)|null|
+|**2023-05-21 02:31:29**|**Multi-channel Integrated Recommendation with Exposure Constraints**|Yue Xu et.al.|[2305.12319v1](http://arxiv.org/abs/2305.12319v1)|null|
 |**2023-05-04 13:13:44**|**Multi-grained Hypergraph Interest Modeling for Conversational   Recommendation**|Chenzhan Shang et.al.|[2305.04798v1](http://arxiv.org/abs/2305.04798v1)|[link](https://github.com/rucaibox/mhim)|
 |**2023-05-03 06:14:31**|**Denoising Multi-modal Sequential Recommenders with Contrastive Learning**|Dong Yao et.al.|[2305.01915v1](http://arxiv.org/abs/2305.01915v1)|null|
 |**2023-04-28 08:00:04**|**Ensemble Modeling with Contrastive Knowledge Distillation for Sequential   Recommendation**|Hanwen Du et.al.|[2304.14668v3](http://arxiv.org/abs/2304.14668v3)|[link](https://github.com/hw-du/emkd)|
@@ -30,5 +32,3 @@
 |**2023-02-10 22:33:35**|**"Software is the easy part of Software Engineering" -- Lessons and   Experiences from A Large-Scale, Multi-Team Capstone Course**|Ze Shi Li et.al.|[2302.05536v1](http://arxiv.org/abs/2302.05536v1)|null|
 |**2023-02-10 20:18:13**|**Data-Driven Web-Based Patching Management Tool Using Multi-Sensor   Pavement Structure Measurements**|Sneha Jha et.al.|[2302.05494v1](http://arxiv.org/abs/2302.05494v1)|null|
 |**2023-02-08 09:42:45**|**Dual-interest Factorization-heads Attention for Sequential   Recommendation**|Guanyu Lin et.al.|[2302.03965v3](http://arxiv.org/abs/2302.03965v3)|[link](https://github.com/tsinghua-fib-lab/WWW2023-DFAR)|
-|**2023-02-07 16:06:27**|**ConsRec: Learning Consensus Behind Interactions for Group Recommendation**|Xixi Wu et.al.|[2302.03555v1](http://arxiv.org/abs/2302.03555v1)|[link](https://github.com/fdudsde/www2023consrec)|
-|**2023-02-02 17:03:40**|**Practical Bandits: An Industry Perspective**|Bram van den Akker et.al.|[2302.01223v1](http://arxiv.org/abs/2302.01223v1)|null|

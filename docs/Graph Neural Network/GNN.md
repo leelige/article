@@ -2,6 +2,29 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-22 17:34:47**|**MAGDiff: Covariate Data Set Shift Detection via Activation Graphs of   Deep Neural Networks**|Felix Hensel et.al.|[2305.13271v1](http://arxiv.org/abs/2305.13271v1)|null|
+|**2023-05-22 15:13:51**|**Causal-Based Supervision of Attention in Graph Neural Network: A Better   and Simpler Choice towards Powerful Attention**|Hongjun Wang et.al.|[2305.13115v1](http://arxiv.org/abs/2305.13115v1)|null|
+|**2023-05-22 14:52:33**|**A Fractional Graph Laplacian Approach to Oversmoothing**|Sohir Maskey et.al.|[2305.13084v1](http://arxiv.org/abs/2305.13084v1)|[link](https://github.com/rpaolino/flode)|
+|**2023-05-22 14:18:28**|**Road Planning for Slums via Deep Reinforcement Learning**|Yu Zheng et.al.|[2305.13060v1](http://arxiv.org/abs/2305.13060v1)|[link](https://github.com/tsinghua-fib-lab/road-planning-for-slums)|
+|**2023-05-22 11:25:24**|**Forecasting Irregularly Sampled Time Series using Graphs**|Vijaya Krishna Yalavarthi et.al.|[2305.12932v1](http://arxiv.org/abs/2305.12932v1)|null|
+|**2023-05-22 10:29:52**|**DEGREE: Decomposition Based Explanation For Graph Neural Networks**|Qizhang Feng et.al.|[2305.12895v1](http://arxiv.org/abs/2305.12895v1)|[link](https://github.com/Qizhang-Feng/DEGREE)|
+|**2023-05-22 09:50:15**|**MMGP: a Mesh Morphing Gaussian Process-based machine learning method for   regression of physical problems under non-parameterized geometrical   variability**|Fabien Casenave et.al.|[2305.12871v1](http://arxiv.org/abs/2305.12871v1)|null|
+|**2023-05-22 07:35:43**|**GraphCare: Enhancing Healthcare Predictions with Open-World Personalized   Knowledge Graphs**|Pengcheng Jiang et.al.|[2305.12788v1](http://arxiv.org/abs/2305.12788v1)|null|
+|**2023-05-22 05:50:11**|**MADNet: Maximizing Addressee Deduction Expectation for Multi-Party   Conversation Generation**|Jia-Chen Gu et.al.|[2305.12733v1](http://arxiv.org/abs/2305.12733v1)|null|
+|**2023-05-22 03:29:42**|**Tokenized Graph Transformer with Neighborhood Augmentation for Node   Classification in Large Graphs**|Jinsong Chen et.al.|[2305.12677v1](http://arxiv.org/abs/2305.12677v1)|null|
+|**2023-05-22 02:22:14**|**Accelerating Graph Neural Networks via Edge Pruning for Power Allocation   in Wireless Networks**|Lili Chen et.al.|[2305.12639v1](http://arxiv.org/abs/2305.12639v1)|null|
+|**2023-05-22 00:56:00**|**Atomic and Subgraph-aware Bilateral Aggregation for Molecular   Representation Learning**|Jiahao Chen et.al.|[2305.12618v1](http://arxiv.org/abs/2305.12618v1)|null|
+|**2023-05-21 23:16:30**|**PRODIGY: Enabling In-context Learning Over Graphs**|Qian Huang et.al.|[2305.12600v1](http://arxiv.org/abs/2305.12600v1)|null|
+|**2023-05-21 21:57:32**|**Self-Explainable Graph Neural Networks for Link Prediction**|Huaisheng Zhu et.al.|[2305.12578v1](http://arxiv.org/abs/2305.12578v1)|null|
+|**2023-05-21 13:53:12**|**Towards Tracing Code Provenance with Code Watermarking**|Wei Li et.al.|[2305.12461v1](http://arxiv.org/abs/2305.12461v1)|null|
+|**2023-05-21 08:29:16**|**Language Knowledge-Assisted Representation Learning for Skeleton-Based   Action Recognition**|Haojun Xu et.al.|[2305.12398v1](http://arxiv.org/abs/2305.12398v1)|null|
+|**2023-05-21 08:15:55**|**Joint Feature and Differentiable $ k $-NN Graph Learning using Dirichlet   Energy**|Lei Xu et.al.|[2305.12396v1](http://arxiv.org/abs/2305.12396v1)|null|
+|**2023-05-21 03:51:03**|**Towards Complex Dynamic Physics System Simulation with Graph Neural ODEs**|Guangsi Shi et.al.|[2305.12334v1](http://arxiv.org/abs/2305.12334v1)|null|
+|**2023-05-20 22:32:05**|**The theory of percolation on hypergraphs**|Ginestra Bianconi et.al.|[2305.12297v1](http://arxiv.org/abs/2305.12297v1)|null|
+|**2023-05-20 12:41:47**|**Do We Need an Encoder-Decoder to Model Dynamical Systems on Networks?**|Bing Liu et.al.|[2305.12185v1](http://arxiv.org/abs/2305.12185v1)|null|
+|**2023-05-20 03:49:29**|**Stability and Generalization of $\ell_p$-Regularized Stochastic Learning   for GCN**|Shiyu Liu et.al.|[2305.12085v1](http://arxiv.org/abs/2305.12085v1)|null|
+|**2023-05-19 23:52:48**|**Learning for Open-World Calibration with Graph Neural Networks**|Qin Zhang et.al.|[2305.12039v1](http://arxiv.org/abs/2305.12039v1)|null|
+|**2023-05-19 21:37:37**|**Chemellia: An Ecosystem for Atomistic Scientific Machine Learning**|Anant Thazhemadam et.al.|[2305.12010v1](http://arxiv.org/abs/2305.12010v1)|null|
 |**2023-05-19 17:34:08**|**Recent progress in the JARVIS infrastructure for next-generation   data-driven materials design**|Daniel Wines et.al.|[2305.11842v1](http://arxiv.org/abs/2305.11842v1)|null|
 |**2023-05-19 15:52:08**|**Transfer operators on graphs: Spectral clustering and beyond**|Stefan Klus et.al.|[2305.11766v1](http://arxiv.org/abs/2305.11766v1)|null|
 |**2023-05-19 02:33:22**|**Domain Generalization Deep Graph Transformation**|Shiyu Wang et.al.|[2305.11389v1](http://arxiv.org/abs/2305.11389v1)|null|
@@ -9,26 +32,3 @@
 |**2023-05-18 10:34:23**|**Quiver: Supporting GPUs for Low-Latency, High-Throughput GNN Serving   with Workload Awareness**|Zeyuan Tan et.al.|[2305.10863v1](http://arxiv.org/abs/2305.10863v1)|[link](https://github.com/quiver-team/torch-quiver)|
 |**2023-05-18 09:34:05**|**Adaptive Graph Contrastive Learning for Recommendation**|Yangqin Jiang et.al.|[2305.10837v1](http://arxiv.org/abs/2305.10837v1)|[link](https://github.com/zzmeei/adaptivegcl)|
 |**2023-05-18 09:12:07**|**Constructing a personalized AI assistant for shear wall layout using   Stable Diffusion**|Lufeng Wang et.al.|[2305.10830v1](http://arxiv.org/abs/2305.10830v1)|null|
-|**2023-05-18 07:27:18**|**Seq-HGNN: Learning Sequential Node Representation on Heterogeneous Graph**|Chenguang Du et.al.|[2305.10771v1](http://arxiv.org/abs/2305.10771v1)|[link](https://github.com/nobrowning/seq_hgnn)|
-|**2023-05-18 06:57:06**|**Extracting Low-/High- Frequency Knowledge from Graph Neural Networks and   Injecting it into MLPs: An Effective GNN-to-MLP Distillation Framework**|Lirong Wu et.al.|[2305.10758v1](http://arxiv.org/abs/2305.10758v1)|[link](https://github.com/lirongwu/ff-g2m)|
-|**2023-05-18 03:23:53**|**Less Can Be More: Unsupervised Graph Pruning for Large-scale Dynamic   Graphs**|Jintang Li et.al.|[2305.10673v1](http://arxiv.org/abs/2305.10673v1)|[link](https://github.com/edisonleeeee/step)|
-|**2023-05-17 22:13:50**|**Quijote-PNG: The Information Content of the Halo Mass Function**|Gabriel Jung et.al.|[2305.10597v1](http://arxiv.org/abs/2305.10597v1)|null|
-|**2023-05-17 20:02:08**|**Tractable Probabilistic Graph Representation Learning with Graph-Induced   Sum-Product Networks**|Federico Errica et.al.|[2305.10544v1](http://arxiv.org/abs/2305.10544v1)|null|
-|**2023-05-17 19:31:36**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule   Correlations**|Zihan Wang et.al.|[2305.10531v1](http://arxiv.org/abs/2305.10531v1)|null|
-|**2023-05-17 18:06:43**|**Edge Directionality Improves Learning on Heterophilic Graphs**|Emanuele Rossi et.al.|[2305.10498v1](http://arxiv.org/abs/2305.10498v1)|null|
-|**2023-05-17 17:31:20**|**Optimality of Message-Passing Architectures for Sparse Graphs**|Aseem Baranwal et.al.|[2305.10391v1](http://arxiv.org/abs/2305.10391v1)|null|
-|**2023-05-17 16:59:54**|**Universal fragility of spin-glass ground-states under single bond   changes**|Mutian Shen et.al.|[2305.10376v2](http://arxiv.org/abs/2305.10376v2)|null|
-|**2023-05-17 13:15:27**|**Curriculum Learning in Job Shop Scheduling using Reinforcement Learning**|Constantin Waubert de Puiseau et.al.|[2305.10192v1](http://arxiv.org/abs/2305.10192v1)|null|
-|**2023-05-17 10:09:40**|**Predicting Tweet Engagement with Graph Neural Networks**|Marco Arazzi et.al.|[2305.10103v1](http://arxiv.org/abs/2305.10103v1)|[link](https://github.com/ocram17/engagementgnn)|
-|**2023-05-17 08:29:21**|**Can Language Models Solve Graph Problems in Natural Language?**|Heng Wang et.al.|[2305.10037v1](http://arxiv.org/abs/2305.10037v1)|[link](https://github.com/arthur-heng/nlgraph)|
-|**2023-05-17 06:13:28**|**River of No Return: Graph Percolation Embeddings for Efficient Knowledge   Graph Reasoning**|Kai Wang et.al.|[2305.09974v1](http://arxiv.org/abs/2305.09974v1)|null|
-|**2023-05-17 05:51:57**|**Link prediction for ex ante influence maximization on temporal networks**|Eric Yanchenko et.al.|[2305.09965v1](http://arxiv.org/abs/2305.09965v1)|null|
-|**2023-05-17 05:35:49**|**SIMGA: A Simple and Effective Heterophilous Graph Neural Network with   Efficient Global Aggregation**|Haoyu Liu et.al.|[2305.09958v1](http://arxiv.org/abs/2305.09958v1)|[link](https://github.com/conferencescode/simga)|
-|**2023-05-17 01:49:44**|**Simplifying Distributed Neural Network Training on Massive Graphs:   Randomized Partitions Improve Model Aggregation**|Jiong Zhu et.al.|[2305.09887v1](http://arxiv.org/abs/2305.09887v1)|null|
-|**2023-05-17 00:46:01**|**A Signed Subgraph Encoding Approach via Linear Optimization for Link   Sign Prediction**|Zhihong Fang et.al.|[2305.09869v1](http://arxiv.org/abs/2305.09869v1)|null|
-|**2023-05-16 19:52:40**|**Understanding of Normal and Abnormal Hearts by Phase Space Analysis and   Convolutional Neural Networks**|Bekir Yavuz Koc et.al.|[2305.10450v1](http://arxiv.org/abs/2305.10450v1)|null|
-|**2023-05-16 18:01:49**|**FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2305.09729v1](http://arxiv.org/abs/2305.09729v1)|[link](https://github.com/cynricfu/fedhgn)|
-|**2023-05-16 16:32:08**|**Inductive Graph Neural Networks for Moving Object Segmentation**|Wieke Prummel et.al.|[2305.09585v1](http://arxiv.org/abs/2305.09585v1)|null|
-|**2023-05-16 13:30:15**|**Unwrapping All ReLU Networks**|Mattia Jacopo Villani et.al.|[2305.09424v1](http://arxiv.org/abs/2305.09424v1)|null|
-|**2023-05-16 13:19:05**|**Optimizing over trained GNNs via symmetry breaking**|Shiqiang Zhang et.al.|[2305.09420v1](http://arxiv.org/abs/2305.09420v1)|null|
-|**2023-05-16 11:38:19**|**Dynamic Causal Explanation Based Diffusion-Variational Graph Neural   Network for Spatio-temporal Forecasting**|Guojun Liang et.al.|[2305.09703v1](http://arxiv.org/abs/2305.09703v1)|[link](https://github.com/gorgen2020/dvgnn)|
