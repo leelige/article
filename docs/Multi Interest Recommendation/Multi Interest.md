@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-23 21:47:31**|**Disincentivizing Polarization in Social Networks**|Christian Borgs et.al.|[2305.14537v1](http://arxiv.org/abs/2305.14537v1)|null|
 |**2023-05-21 10:29:25**|**Multi-factor Sequential Re-ranking with Perception-Aware Diversification**|Yue Xu et.al.|[2305.12420v1](http://arxiv.org/abs/2305.12420v1)|null|
 |**2023-05-21 02:31:29**|**Multi-channel Integrated Recommendation with Exposure Constraints**|Yue Xu et.al.|[2305.12319v1](http://arxiv.org/abs/2305.12319v1)|null|
 |**2023-05-04 13:13:44**|**Multi-grained Hypergraph Interest Modeling for Conversational   Recommendation**|Chenzhan Shang et.al.|[2305.04798v1](http://arxiv.org/abs/2305.04798v1)|[link](https://github.com/rucaibox/mhim)|
@@ -31,4 +32,3 @@
 |**2023-02-12 14:03:35**|**Neural Node Matching for Multi-Target Cross Domain Recommendation**|Wujiang Xu et.al.|[2302.05919v1](http://arxiv.org/abs/2302.05919v1)|null|
 |**2023-02-10 22:33:35**|**"Software is the easy part of Software Engineering" -- Lessons and   Experiences from A Large-Scale, Multi-Team Capstone Course**|Ze Shi Li et.al.|[2302.05536v1](http://arxiv.org/abs/2302.05536v1)|null|
 |**2023-02-10 20:18:13**|**Data-Driven Web-Based Patching Management Tool Using Multi-Sensor   Pavement Structure Measurements**|Sneha Jha et.al.|[2302.05494v1](http://arxiv.org/abs/2302.05494v1)|null|
-|**2023-02-08 09:42:45**|**Dual-interest Factorization-heads Attention for Sequential   Recommendation**|Guanyu Lin et.al.|[2302.03965v3](http://arxiv.org/abs/2302.03965v3)|[link](https://github.com/tsinghua-fib-lab/WWW2023-DFAR)|

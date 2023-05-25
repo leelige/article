@@ -2,6 +2,17 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-24 17:26:22**|**Stochastic Unrolled Federated Learning**|Samar Hadou et.al.|[2305.15371v1](http://arxiv.org/abs/2305.15371v1)|null|
+|**2023-05-24 15:56:26**|**Reversible Graph Neural Network-based Reaction Distribution Learning for   Multiple Appropriate Facial Reactions Generation**|Tong Xu et.al.|[2305.15270v1](http://arxiv.org/abs/2305.15270v1)|[link](https://github.com/TongXu-05/REGNN-Multiple-Appropriate-Facial-Reaction-Generation)|
+|**2023-05-24 07:34:33**|**Towards Few-shot Entity Recognition in Document Images: A Graph Neural   Network Approach Robust to Image Manipulation**|Prashant Krishnan et.al.|[2305.14828v1](http://arxiv.org/abs/2305.14828v1)|null|
+|**2023-05-24 07:13:30**|**Directed Message Passing Based on Attention for Prediction of Molecular   Properties**|Chen Gong et.al.|[2305.14819v1](http://arxiv.org/abs/2305.14819v1)|null|
+|**2023-05-24 07:09:53**|**What functions can Graph Neural Networks compute on random graphs? The   role of Positional Encoding**|Nicolas Keriven et.al.|[2305.14814v1](http://arxiv.org/abs/2305.14814v1)|null|
+|**2023-05-24 05:46:56**|**Multi-State RNA Design with Geometric Multi-Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2305.14749v1](http://arxiv.org/abs/2305.14749v1)|[link](https://github.com/chaitjo/geometric-rna-design)|
+|**2023-05-24 02:23:00**|**Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic   Systems**|Lingbing Guo et.al.|[2305.14642v1](http://arxiv.org/abs/2305.14642v1)|null|
+|**2023-05-23 23:31:24**|**Connecting the Dots: What Graph-Based Text Representations Work Best for   Text Classification using Graph Neural Networks?**|Margarita Bugueño et.al.|[2305.14578v1](http://arxiv.org/abs/2305.14578v1)|null|
+|**2023-05-23 23:02:21**|**GiPH: Generalizable Placement Learning for Adaptive Heterogeneous   Computing**|Yi Hu et.al.|[2305.14562v1](http://arxiv.org/abs/2305.14562v1)|null|
+|**2023-05-23 21:38:23**|**Uncertainty Quantification over Graph with Conformalized Graph Neural   Networks**|Kexin Huang et.al.|[2305.14535v1](http://arxiv.org/abs/2305.14535v1)|null|
+|**2023-05-23 18:00:00**|**Anatomy of the fragmented Hilbert space: eigenvalue tunneling, quantum   scars and localization in the perturbed random regular graph**|Daniil Kochergin et.al.|[2305.14416v1](http://arxiv.org/abs/2305.14416v1)|null|
 |**2023-05-23 16:11:00**|**Beyond Shared Vocabulary: Increasing Representational Word Similarities   across Languages for Multilingual Machine Translation**|Di Wu et.al.|[2305.14189v1](http://arxiv.org/abs/2305.14189v1)|null|
 |**2023-05-23 13:44:04**|**Do Not Train It: A Linear Neural Architecture Search of Graph Neural   Networks**|Peng Xu et.al.|[2305.14065v1](http://arxiv.org/abs/2305.14065v1)|null|
 |**2023-05-23 12:28:43**|**Node-wise Diffusion for Scalable Graph Learning**|Keke Huang et.al.|[2305.14000v1](http://arxiv.org/abs/2305.14000v1)|null|
@@ -21,14 +32,3 @@
 |**2023-05-22 11:25:24**|**Forecasting Irregularly Sampled Time Series using Graphs**|Vijaya Krishna Yalavarthi et.al.|[2305.12932v1](http://arxiv.org/abs/2305.12932v1)|null|
 |**2023-05-22 10:29:52**|**DEGREE: Decomposition Based Explanation For Graph Neural Networks**|Qizhang Feng et.al.|[2305.12895v1](http://arxiv.org/abs/2305.12895v1)|[link](https://github.com/Qizhang-Feng/DEGREE)|
 |**2023-05-22 09:50:15**|**MMGP: a Mesh Morphing Gaussian Process-based machine learning method for   regression of physical problems under non-parameterized geometrical   variability**|Fabien Casenave et.al.|[2305.12871v1](http://arxiv.org/abs/2305.12871v1)|null|
-|**2023-05-22 07:35:43**|**GraphCare: Enhancing Healthcare Predictions with Open-World Personalized   Knowledge Graphs**|Pengcheng Jiang et.al.|[2305.12788v1](http://arxiv.org/abs/2305.12788v1)|null|
-|**2023-05-22 05:50:11**|**MADNet: Maximizing Addressee Deduction Expectation for Multi-Party   Conversation Generation**|Jia-Chen Gu et.al.|[2305.12733v1](http://arxiv.org/abs/2305.12733v1)|null|
-|**2023-05-22 03:29:42**|**Tokenized Graph Transformer with Neighborhood Augmentation for Node   Classification in Large Graphs**|Jinsong Chen et.al.|[2305.12677v1](http://arxiv.org/abs/2305.12677v1)|null|
-|**2023-05-22 02:22:14**|**Accelerating Graph Neural Networks via Edge Pruning for Power Allocation   in Wireless Networks**|Lili Chen et.al.|[2305.12639v1](http://arxiv.org/abs/2305.12639v1)|null|
-|**2023-05-22 00:56:00**|**Atomic and Subgraph-aware Bilateral Aggregation for Molecular   Representation Learning**|Jiahao Chen et.al.|[2305.12618v1](http://arxiv.org/abs/2305.12618v1)|null|
-|**2023-05-21 23:16:30**|**PRODIGY: Enabling In-context Learning Over Graphs**|Qian Huang et.al.|[2305.12600v1](http://arxiv.org/abs/2305.12600v1)|null|
-|**2023-05-21 21:57:32**|**Self-Explainable Graph Neural Networks for Link Prediction**|Huaisheng Zhu et.al.|[2305.12578v1](http://arxiv.org/abs/2305.12578v1)|null|
-|**2023-05-21 13:53:12**|**Towards Tracing Code Provenance with Code Watermarking**|Wei Li et.al.|[2305.12461v1](http://arxiv.org/abs/2305.12461v1)|null|
-|**2023-05-21 08:29:16**|**Language Knowledge-Assisted Representation Learning for Skeleton-Based   Action Recognition**|Haojun Xu et.al.|[2305.12398v1](http://arxiv.org/abs/2305.12398v1)|[link](https://github.com/damnull/lagcn)|
-|**2023-05-21 08:15:55**|**Joint Feature and Differentiable $ k $-NN Graph Learning using Dirichlet   Energy**|Lei Xu et.al.|[2305.12396v1](http://arxiv.org/abs/2305.12396v1)|null|
-|**2023-05-21 03:51:03**|**Towards Complex Dynamic Physics System Simulation with Graph Neural ODEs**|Guangsi Shi et.al.|[2305.12334v1](http://arxiv.org/abs/2305.12334v1)|null|

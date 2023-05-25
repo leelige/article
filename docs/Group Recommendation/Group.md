@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-24 16:55:49**|**Is Your Model "MADD"? A Novel Metric to Evaluate Algorithmic Fairness   for Predictive Student Models**|Mélina Verger et.al.|[2305.15342v1](http://arxiv.org/abs/2305.15342v1)|null|
 |**2023-05-20 04:32:59**|**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**|Wenyue Hua et.al.|[2305.12090v1](http://arxiv.org/abs/2305.12090v1)|null|
 |**2023-05-19 16:43:53**|**On the Fairness Impacts of Private Ensembles Models**|Cuong Tran et.al.|[2305.11807v1](http://arxiv.org/abs/2305.11807v1)|null|
 |**2023-05-19 00:45:55**|**Group fairness without demographics using social networks**|David Liu et.al.|[2305.11361v1](http://arxiv.org/abs/2305.11361v1)|null|
@@ -31,4 +32,3 @@
 |**2023-04-16 09:45:08**|**Pitfalls in Effective Knowledge Management: Insights from an   International Information Technology Organization**|Kalle Koivisto et.al.|[2304.07737v1](http://arxiv.org/abs/2304.07737v1)|null|
 |**2023-04-16 08:11:36**|**The Gaia-ESO Survey: homogenisation of stellar parameters and elemental   abundances**|A. Hourihane et.al.|[2304.07720v1](http://arxiv.org/abs/2304.07720v1)|null|
 |**2023-04-15 06:35:28**|**More Is Less: When Do Recommenders Underperform for Data-rich Users?**|Yueqing Xuan et.al.|[2304.07487v1](http://arxiv.org/abs/2304.07487v1)|null|
-|**2023-04-14 19:55:19**|**CollabCoder: A GPT-Powered Workflow for Collaborative Qualitative   Analysis**|Jie Gao et.al.|[2304.07366v2](http://arxiv.org/abs/2304.07366v2)|null|

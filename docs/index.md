@@ -1,47 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2023-05-24 16:08:03 Asia/Shanghai
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-20 04:32:59**|**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**|Wenyue Hua et.al.|[2305.12090v1](http://arxiv.org/abs/2305.12090v1)|null|
-|**2023-05-19 16:43:53**|**On the Fairness Impacts of Private Ensembles Models**|Cuong Tran et.al.|[2305.11807v1](http://arxiv.org/abs/2305.11807v1)|null|
-|**2023-05-19 00:45:55**|**Group fairness without demographics using social networks**|David Liu et.al.|[2305.11361v1](http://arxiv.org/abs/2305.11361v1)|null|
-|**2023-05-16 09:53:03**|**Fairness and Diversity in Information Access Systems**|Lorenzo Porcaro et.al.|[2305.09319v1](http://arxiv.org/abs/2305.09319v1)|null|
-|**2023-05-11 07:38:24**|**PerFedRec++: Enhancing Personalized Federated Recommendation with   Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622v1](http://arxiv.org/abs/2305.06622v1)|null|
-|**2023-05-10 13:16:39**|**Evaluating Twitter's Algorithmic Amplification of Low-Trust Content: An   Observational Study**|Giulio Corsi et.al.|[2305.06125v2](http://arxiv.org/abs/2305.06125v2)|[link](https://github.com/gc540/twitter-amplification-eval)|
-|**2023-05-10 11:15:22**|**A Classification of Feedback Loops and Their Relation to Biases in   Automated Decision-Making Systems**|Nicolò Pagan et.al.|[2305.06055v1](http://arxiv.org/abs/2305.06055v1)|[link](https://github.com/paganick/feedback-loops-and-biases)|
-|**2023-05-06 10:04:43**|**Attacking Pre-trained Recommendation**|Yiqing Wu et.al.|[2305.03995v1](http://arxiv.org/abs/2305.03995v1)|null|
-|**2023-05-05 21:25:35**|**CHAI-DT: A Framework for Prompting Conversational Generative AI Agents   to Actively Participate in Co-Creation**|Brandon Harwood et.al.|[2305.03852v1](http://arxiv.org/abs/2305.03852v1)|null|
-|**2023-05-05 02:33:45**|**Meta-Maintanance for Dockerfiles: Are We There Yet?**|Takeru Tanaka et.al.|[2305.03251v1](http://arxiv.org/abs/2305.03251v1)|null|
-|**2023-05-05 00:57:55**|**Algorithms for Social Justice: Affirmative Action in Social Networks**|Georgina Curto et.al.|[2305.03223v1](http://arxiv.org/abs/2305.03223v1)|null|
-|**2023-05-03 18:14:26**|**Diffuse and Localized Functional Dysconnectivity in Schizophrenia: a   Bootstrapped Top-Down Approach**|Davide Coluzzi et.al.|[2305.02369v1](http://arxiv.org/abs/2305.02369v1)|null|
-|**2023-05-03 15:20:00**|**Maximizing Submodular Functions for Recommendation in the Presence of   Biases**|Anay Mehrotra et.al.|[2305.02806v1](http://arxiv.org/abs/2305.02806v1)|null|
-|**2023-05-03 08:21:59**|**Putting collective intelligence to the enforcement of the Digital   Services Act**|Suzanne Vergnolle et.al.|[2305.01959v1](http://arxiv.org/abs/2305.01959v1)|null|
-|**2023-05-02 01:09:48**|**Multidimensional Fairness in Paper Recommendation**|Reem Alsaffar et.al.|[2305.01141v1](http://arxiv.org/abs/2305.01141v1)|null|
-|**2023-04-30 21:16:53**|**Contextual Response Interpretation for Automated Structured Interviews:   A Case Study in Market Research**|Harshita Sahijwani et.al.|[2305.00577v1](http://arxiv.org/abs/2305.00577v1)|null|
-|**2023-04-28 01:06:15**|**Épilexie: A digital therapeutic approach for treating intractable   epilepsy via Amenable Neurostimulation**|Ishan Shivansh Bangroo et.al.|[2304.14583v1](http://arxiv.org/abs/2304.14583v1)|null|
-|**2023-04-27 14:54:31**|**Guidance note on best statistical practices for TOAR analyses**|Kai-Lan Chang et.al.|[2304.14236v1](http://arxiv.org/abs/2304.14236v1)|null|
-|**2023-04-27 11:59:13**|**A sensemaking system for grouping and suggesting stories from multiple   affective viewpoints in museums**|Antonio Lieto et.al.|[2304.14117v1](http://arxiv.org/abs/2304.14117v1)|null|
-|**2023-04-26 20:39:45**|**Selecting Sustainable Optimal Stock by Using Multi-Criteria Fuzzy   Decision-Making Approaches Based on the Development of the Gordon Model: A   case study of the Toronto Stock Exchange**|Mohsen Mortazavi et.al.|[2304.13818v1](http://arxiv.org/abs/2304.13818v1)|null|
-|**2023-04-23 11:44:50**|**Consolidation of Ground Truth Sets for Weakness Detection in Smart   Contracts**|Monika di Angelo et.al.|[2304.11624v2](http://arxiv.org/abs/2304.11624v2)|null|
-|**2023-04-20 14:02:21**|**A Reference Model for Collaborative Business Intelligence Virtual   Assistants**|Olga Cherednichenko et.al.|[2304.10556v1](http://arxiv.org/abs/2304.10556v1)|null|
-|**2023-04-20 12:45:21**|**Replication and Verifiability in Requirements Engineering: the NLP for   RE Case**|Sallam Abualhaija et.al.|[2304.10265v1](http://arxiv.org/abs/2304.10265v1)|null|
-|**2023-04-18 10:28:54**|**Report from Dagstuhl Seminar 23031: Frontiers of Information Access   Experimentation for Research and Education**|Christine Bauer et.al.|[2305.01509v1](http://arxiv.org/abs/2305.01509v1)|null|
-|**2023-04-18 09:37:22**|**PEGA: Personality-Guided Preference Aggregator for Ephemeral Group   Recommendation**|Guangze Ye et.al.|[2304.08851v1](http://arxiv.org/abs/2304.08851v1)|null|
-|**2023-04-17 09:39:40**|**Enhancing Personalized Ranking With Differentiable Group AUC   Optimization**|Xiao Sun et.al.|[2304.09176v1](http://arxiv.org/abs/2304.09176v1)|null|
-|**2023-04-16 09:45:08**|**Pitfalls in Effective Knowledge Management: Insights from an   International Information Technology Organization**|Kalle Koivisto et.al.|[2304.07737v1](http://arxiv.org/abs/2304.07737v1)|null|
-|**2023-04-16 08:11:36**|**The Gaia-ESO Survey: homogenisation of stellar parameters and elemental   abundances**|A. Hourihane et.al.|[2304.07720v1](http://arxiv.org/abs/2304.07720v1)|null|
-|**2023-04-15 06:35:28**|**More Is Less: When Do Recommenders Underperform for Data-rich Users?**|Yueqing Xuan et.al.|[2304.07487v1](http://arxiv.org/abs/2304.07487v1)|null|
-|**2023-04-14 19:55:19**|**CollabCoder: A GPT-Powered Workflow for Collaborative Qualitative   Analysis**|Jie Gao et.al.|[2304.07366v2](http://arxiv.org/abs/2304.07366v2)|null|
+ 自动更新 @ 2023-05-25 16:08:09 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-23 21:47:31**|**Disincentivizing Polarization in Social Networks**|Christian Borgs et.al.|[2305.14537v1](http://arxiv.org/abs/2305.14537v1)|null|
 |**2023-05-21 10:29:25**|**Multi-factor Sequential Re-ranking with Perception-Aware Diversification**|Yue Xu et.al.|[2305.12420v1](http://arxiv.org/abs/2305.12420v1)|null|
 |**2023-05-21 02:31:29**|**Multi-channel Integrated Recommendation with Exposure Constraints**|Yue Xu et.al.|[2305.12319v1](http://arxiv.org/abs/2305.12319v1)|null|
 |**2023-05-04 13:13:44**|**Multi-grained Hypergraph Interest Modeling for Conversational   Recommendation**|Chenzhan Shang et.al.|[2305.04798v1](http://arxiv.org/abs/2305.04798v1)|[link](https://github.com/rucaibox/mhim)|
@@ -71,13 +36,23 @@
 |**2023-02-12 14:03:35**|**Neural Node Matching for Multi-Target Cross Domain Recommendation**|Wujiang Xu et.al.|[2302.05919v1](http://arxiv.org/abs/2302.05919v1)|null|
 |**2023-02-10 22:33:35**|**"Software is the easy part of Software Engineering" -- Lessons and   Experiences from A Large-Scale, Multi-Team Capstone Course**|Ze Shi Li et.al.|[2302.05536v1](http://arxiv.org/abs/2302.05536v1)|null|
 |**2023-02-10 20:18:13**|**Data-Driven Web-Based Patching Management Tool Using Multi-Sensor   Pavement Structure Measurements**|Sneha Jha et.al.|[2302.05494v1](http://arxiv.org/abs/2302.05494v1)|null|
-|**2023-02-08 09:42:45**|**Dual-interest Factorization-heads Attention for Sequential   Recommendation**|Guanyu Lin et.al.|[2302.03965v3](http://arxiv.org/abs/2302.03965v3)|[link](https://github.com/tsinghua-fib-lab/WWW2023-DFAR)|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-24 17:26:22**|**Stochastic Unrolled Federated Learning**|Samar Hadou et.al.|[2305.15371v1](http://arxiv.org/abs/2305.15371v1)|null|
+|**2023-05-24 15:56:26**|**Reversible Graph Neural Network-based Reaction Distribution Learning for   Multiple Appropriate Facial Reactions Generation**|Tong Xu et.al.|[2305.15270v1](http://arxiv.org/abs/2305.15270v1)|[link](https://github.com/TongXu-05/REGNN-Multiple-Appropriate-Facial-Reaction-Generation)|
+|**2023-05-24 07:34:33**|**Towards Few-shot Entity Recognition in Document Images: A Graph Neural   Network Approach Robust to Image Manipulation**|Prashant Krishnan et.al.|[2305.14828v1](http://arxiv.org/abs/2305.14828v1)|null|
+|**2023-05-24 07:13:30**|**Directed Message Passing Based on Attention for Prediction of Molecular   Properties**|Chen Gong et.al.|[2305.14819v1](http://arxiv.org/abs/2305.14819v1)|null|
+|**2023-05-24 07:09:53**|**What functions can Graph Neural Networks compute on random graphs? The   role of Positional Encoding**|Nicolas Keriven et.al.|[2305.14814v1](http://arxiv.org/abs/2305.14814v1)|null|
+|**2023-05-24 05:46:56**|**Multi-State RNA Design with Geometric Multi-Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2305.14749v1](http://arxiv.org/abs/2305.14749v1)|[link](https://github.com/chaitjo/geometric-rna-design)|
+|**2023-05-24 02:23:00**|**Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic   Systems**|Lingbing Guo et.al.|[2305.14642v1](http://arxiv.org/abs/2305.14642v1)|null|
+|**2023-05-23 23:31:24**|**Connecting the Dots: What Graph-Based Text Representations Work Best for   Text Classification using Graph Neural Networks?**|Margarita Bugueño et.al.|[2305.14578v1](http://arxiv.org/abs/2305.14578v1)|null|
+|**2023-05-23 23:02:21**|**GiPH: Generalizable Placement Learning for Adaptive Heterogeneous   Computing**|Yi Hu et.al.|[2305.14562v1](http://arxiv.org/abs/2305.14562v1)|null|
+|**2023-05-23 21:38:23**|**Uncertainty Quantification over Graph with Conformalized Graph Neural   Networks**|Kexin Huang et.al.|[2305.14535v1](http://arxiv.org/abs/2305.14535v1)|null|
+|**2023-05-23 18:00:00**|**Anatomy of the fragmented Hilbert space: eigenvalue tunneling, quantum   scars and localization in the perturbed random regular graph**|Daniil Kochergin et.al.|[2305.14416v1](http://arxiv.org/abs/2305.14416v1)|null|
 |**2023-05-23 16:11:00**|**Beyond Shared Vocabulary: Increasing Representational Word Similarities   across Languages for Multilingual Machine Translation**|Di Wu et.al.|[2305.14189v1](http://arxiv.org/abs/2305.14189v1)|null|
 |**2023-05-23 13:44:04**|**Do Not Train It: A Linear Neural Architecture Search of Graph Neural   Networks**|Peng Xu et.al.|[2305.14065v1](http://arxiv.org/abs/2305.14065v1)|null|
 |**2023-05-23 12:28:43**|**Node-wise Diffusion for Scalable Graph Learning**|Keke Huang et.al.|[2305.14000v1](http://arxiv.org/abs/2305.14000v1)|null|
@@ -97,14 +72,39 @@
 |**2023-05-22 11:25:24**|**Forecasting Irregularly Sampled Time Series using Graphs**|Vijaya Krishna Yalavarthi et.al.|[2305.12932v1](http://arxiv.org/abs/2305.12932v1)|null|
 |**2023-05-22 10:29:52**|**DEGREE: Decomposition Based Explanation For Graph Neural Networks**|Qizhang Feng et.al.|[2305.12895v1](http://arxiv.org/abs/2305.12895v1)|[link](https://github.com/Qizhang-Feng/DEGREE)|
 |**2023-05-22 09:50:15**|**MMGP: a Mesh Morphing Gaussian Process-based machine learning method for   regression of physical problems under non-parameterized geometrical   variability**|Fabien Casenave et.al.|[2305.12871v1](http://arxiv.org/abs/2305.12871v1)|null|
-|**2023-05-22 07:35:43**|**GraphCare: Enhancing Healthcare Predictions with Open-World Personalized   Knowledge Graphs**|Pengcheng Jiang et.al.|[2305.12788v1](http://arxiv.org/abs/2305.12788v1)|null|
-|**2023-05-22 05:50:11**|**MADNet: Maximizing Addressee Deduction Expectation for Multi-Party   Conversation Generation**|Jia-Chen Gu et.al.|[2305.12733v1](http://arxiv.org/abs/2305.12733v1)|null|
-|**2023-05-22 03:29:42**|**Tokenized Graph Transformer with Neighborhood Augmentation for Node   Classification in Large Graphs**|Jinsong Chen et.al.|[2305.12677v1](http://arxiv.org/abs/2305.12677v1)|null|
-|**2023-05-22 02:22:14**|**Accelerating Graph Neural Networks via Edge Pruning for Power Allocation   in Wireless Networks**|Lili Chen et.al.|[2305.12639v1](http://arxiv.org/abs/2305.12639v1)|null|
-|**2023-05-22 00:56:00**|**Atomic and Subgraph-aware Bilateral Aggregation for Molecular   Representation Learning**|Jiahao Chen et.al.|[2305.12618v1](http://arxiv.org/abs/2305.12618v1)|null|
-|**2023-05-21 23:16:30**|**PRODIGY: Enabling In-context Learning Over Graphs**|Qian Huang et.al.|[2305.12600v1](http://arxiv.org/abs/2305.12600v1)|null|
-|**2023-05-21 21:57:32**|**Self-Explainable Graph Neural Networks for Link Prediction**|Huaisheng Zhu et.al.|[2305.12578v1](http://arxiv.org/abs/2305.12578v1)|null|
-|**2023-05-21 13:53:12**|**Towards Tracing Code Provenance with Code Watermarking**|Wei Li et.al.|[2305.12461v1](http://arxiv.org/abs/2305.12461v1)|null|
-|**2023-05-21 08:29:16**|**Language Knowledge-Assisted Representation Learning for Skeleton-Based   Action Recognition**|Haojun Xu et.al.|[2305.12398v1](http://arxiv.org/abs/2305.12398v1)|[link](https://github.com/damnull/lagcn)|
-|**2023-05-21 08:15:55**|**Joint Feature and Differentiable $ k $-NN Graph Learning using Dirichlet   Energy**|Lei Xu et.al.|[2305.12396v1](http://arxiv.org/abs/2305.12396v1)|null|
-|**2023-05-21 03:51:03**|**Towards Complex Dynamic Physics System Simulation with Graph Neural ODEs**|Guangsi Shi et.al.|[2305.12334v1](http://arxiv.org/abs/2305.12334v1)|null|
+
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-24 16:55:49**|**Is Your Model "MADD"? A Novel Metric to Evaluate Algorithmic Fairness   for Predictive Student Models**|Mélina Verger et.al.|[2305.15342v1](http://arxiv.org/abs/2305.15342v1)|null|
+|**2023-05-20 04:32:59**|**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**|Wenyue Hua et.al.|[2305.12090v1](http://arxiv.org/abs/2305.12090v1)|null|
+|**2023-05-19 16:43:53**|**On the Fairness Impacts of Private Ensembles Models**|Cuong Tran et.al.|[2305.11807v1](http://arxiv.org/abs/2305.11807v1)|null|
+|**2023-05-19 00:45:55**|**Group fairness without demographics using social networks**|David Liu et.al.|[2305.11361v1](http://arxiv.org/abs/2305.11361v1)|null|
+|**2023-05-16 09:53:03**|**Fairness and Diversity in Information Access Systems**|Lorenzo Porcaro et.al.|[2305.09319v1](http://arxiv.org/abs/2305.09319v1)|null|
+|**2023-05-11 07:38:24**|**PerFedRec++: Enhancing Personalized Federated Recommendation with   Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622v1](http://arxiv.org/abs/2305.06622v1)|null|
+|**2023-05-10 13:16:39**|**Evaluating Twitter's Algorithmic Amplification of Low-Trust Content: An   Observational Study**|Giulio Corsi et.al.|[2305.06125v2](http://arxiv.org/abs/2305.06125v2)|[link](https://github.com/gc540/twitter-amplification-eval)|
+|**2023-05-10 11:15:22**|**A Classification of Feedback Loops and Their Relation to Biases in   Automated Decision-Making Systems**|Nicolò Pagan et.al.|[2305.06055v1](http://arxiv.org/abs/2305.06055v1)|[link](https://github.com/paganick/feedback-loops-and-biases)|
+|**2023-05-06 10:04:43**|**Attacking Pre-trained Recommendation**|Yiqing Wu et.al.|[2305.03995v1](http://arxiv.org/abs/2305.03995v1)|null|
+|**2023-05-05 21:25:35**|**CHAI-DT: A Framework for Prompting Conversational Generative AI Agents   to Actively Participate in Co-Creation**|Brandon Harwood et.al.|[2305.03852v1](http://arxiv.org/abs/2305.03852v1)|null|
+|**2023-05-05 02:33:45**|**Meta-Maintanance for Dockerfiles: Are We There Yet?**|Takeru Tanaka et.al.|[2305.03251v1](http://arxiv.org/abs/2305.03251v1)|null|
+|**2023-05-05 00:57:55**|**Algorithms for Social Justice: Affirmative Action in Social Networks**|Georgina Curto et.al.|[2305.03223v1](http://arxiv.org/abs/2305.03223v1)|null|
+|**2023-05-03 18:14:26**|**Diffuse and Localized Functional Dysconnectivity in Schizophrenia: a   Bootstrapped Top-Down Approach**|Davide Coluzzi et.al.|[2305.02369v1](http://arxiv.org/abs/2305.02369v1)|null|
+|**2023-05-03 15:20:00**|**Maximizing Submodular Functions for Recommendation in the Presence of   Biases**|Anay Mehrotra et.al.|[2305.02806v1](http://arxiv.org/abs/2305.02806v1)|null|
+|**2023-05-03 08:21:59**|**Putting collective intelligence to the enforcement of the Digital   Services Act**|Suzanne Vergnolle et.al.|[2305.01959v1](http://arxiv.org/abs/2305.01959v1)|null|
+|**2023-05-02 01:09:48**|**Multidimensional Fairness in Paper Recommendation**|Reem Alsaffar et.al.|[2305.01141v1](http://arxiv.org/abs/2305.01141v1)|null|
+|**2023-04-30 21:16:53**|**Contextual Response Interpretation for Automated Structured Interviews:   A Case Study in Market Research**|Harshita Sahijwani et.al.|[2305.00577v1](http://arxiv.org/abs/2305.00577v1)|null|
+|**2023-04-28 01:06:15**|**Épilexie: A digital therapeutic approach for treating intractable   epilepsy via Amenable Neurostimulation**|Ishan Shivansh Bangroo et.al.|[2304.14583v1](http://arxiv.org/abs/2304.14583v1)|null|
+|**2023-04-27 14:54:31**|**Guidance note on best statistical practices for TOAR analyses**|Kai-Lan Chang et.al.|[2304.14236v1](http://arxiv.org/abs/2304.14236v1)|null|
+|**2023-04-27 11:59:13**|**A sensemaking system for grouping and suggesting stories from multiple   affective viewpoints in museums**|Antonio Lieto et.al.|[2304.14117v1](http://arxiv.org/abs/2304.14117v1)|null|
+|**2023-04-26 20:39:45**|**Selecting Sustainable Optimal Stock by Using Multi-Criteria Fuzzy   Decision-Making Approaches Based on the Development of the Gordon Model: A   case study of the Toronto Stock Exchange**|Mohsen Mortazavi et.al.|[2304.13818v1](http://arxiv.org/abs/2304.13818v1)|null|
+|**2023-04-23 11:44:50**|**Consolidation of Ground Truth Sets for Weakness Detection in Smart   Contracts**|Monika di Angelo et.al.|[2304.11624v2](http://arxiv.org/abs/2304.11624v2)|null|
+|**2023-04-20 14:02:21**|**A Reference Model for Collaborative Business Intelligence Virtual   Assistants**|Olga Cherednichenko et.al.|[2304.10556v1](http://arxiv.org/abs/2304.10556v1)|null|
+|**2023-04-20 12:45:21**|**Replication and Verifiability in Requirements Engineering: the NLP for   RE Case**|Sallam Abualhaija et.al.|[2304.10265v1](http://arxiv.org/abs/2304.10265v1)|null|
+|**2023-04-18 10:28:54**|**Report from Dagstuhl Seminar 23031: Frontiers of Information Access   Experimentation for Research and Education**|Christine Bauer et.al.|[2305.01509v1](http://arxiv.org/abs/2305.01509v1)|null|
+|**2023-04-18 09:37:22**|**PEGA: Personality-Guided Preference Aggregator for Ephemeral Group   Recommendation**|Guangze Ye et.al.|[2304.08851v1](http://arxiv.org/abs/2304.08851v1)|null|
+|**2023-04-17 09:39:40**|**Enhancing Personalized Ranking With Differentiable Group AUC   Optimization**|Xiao Sun et.al.|[2304.09176v1](http://arxiv.org/abs/2304.09176v1)|null|
+|**2023-04-16 09:45:08**|**Pitfalls in Effective Knowledge Management: Insights from an   International Information Technology Organization**|Kalle Koivisto et.al.|[2304.07737v1](http://arxiv.org/abs/2304.07737v1)|null|
+|**2023-04-16 08:11:36**|**The Gaia-ESO Survey: homogenisation of stellar parameters and elemental   abundances**|A. Hourihane et.al.|[2304.07720v1](http://arxiv.org/abs/2304.07720v1)|null|
+|**2023-04-15 06:35:28**|**More Is Less: When Do Recommenders Underperform for Data-rich Users?**|Yueqing Xuan et.al.|[2304.07487v1](http://arxiv.org/abs/2304.07487v1)|null|
