@@ -8,7 +8,7 @@
 |**2023-05-25 12:27:35**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v1](http://arxiv.org/abs/2305.15987v1)|null|
 |**2023-05-25 12:21:04**|**DASH: Dynamic Attention-Based Substructure Hierarchy for Partial Charge   Assignment**|Marc T. Lehner et.al.|[2305.15981v1](http://arxiv.org/abs/2305.15981v1)|null|
 |**2023-05-25 11:59:42**|**Quantifying the Intrinsic Usefulness of Attributional Explanations for   Graph Neural Networks with Artificial Simulatability Studies**|Jonas Teufel et.al.|[2305.15961v1](http://arxiv.org/abs/2305.15961v1)|null|
-|**2023-05-25 10:18:57**|**NexToU: Efficient Topology-Aware U-Net for Medical Image Segmentation**|Pengcheng Shi et.al.|[2305.15911v1](http://arxiv.org/abs/2305.15911v1)|[link](https://github.com/PengchengShi1220/NexToU)|
+|**2023-05-25 10:18:57**|**NexToU: Efficient Topology-Aware U-Net for Medical Image Segmentation**|Pengcheng Shi et.al.|[2305.15911v1](http://arxiv.org/abs/2305.15911v1)|[link](https://github.com/pengchengshi1220/nextou)|
 |**2023-05-25 08:33:48**|**TabGSL: Graph Structure Learning for Tabular Data Prediction**|Jay Chiehen Liao et.al.|[2305.15843v1](http://arxiv.org/abs/2305.15843v1)|null|
 |**2023-05-25 08:06:42**|**Towards Label Position Bias in Graph Neural Networks**|Haoyu Han et.al.|[2305.15822v1](http://arxiv.org/abs/2305.15822v1)|null|
 |**2023-05-25 07:47:42**|**Unifying gradient regularization for Heterogeneous Graph Neural Networks**|Xiao Yang et.al.|[2305.15811v1](http://arxiv.org/abs/2305.15811v1)|[link](https://github.com/anonymous2nips2023/grug)|
@@ -24,7 +24,7 @@
 |**2023-05-24 17:26:22**|**Stochastic Unrolled Federated Learning**|Samar Hadou et.al.|[2305.15371v1](http://arxiv.org/abs/2305.15371v1)|[link](https://github.com/smrhadou/fed-surf)|
 |**2023-05-24 15:56:26**|**Reversible Graph Neural Network-based Reaction Distribution Learning for   Multiple Appropriate Facial Reactions Generation**|Tong Xu et.al.|[2305.15270v2](http://arxiv.org/abs/2305.15270v2)|[link](https://github.com/TongXu-05/REGNN-Multiple-Appropriate-Facial-Reaction-Generation)|
 |**2023-05-24 07:34:33**|**Towards Few-shot Entity Recognition in Document Images: A Graph Neural   Network Approach Robust to Image Manipulation**|Prashant Krishnan et.al.|[2305.14828v1](http://arxiv.org/abs/2305.14828v1)|null|
-|**2023-05-24 07:13:30**|**Directed Message Passing Based on Attention for Prediction of Molecular   Properties**|Chen Gong et.al.|[2305.14819v1](http://arxiv.org/abs/2305.14819v1)|null|
+|**2023-05-24 07:13:30**|**Directed Message Passing Based on Attention for Prediction of Molecular   Properties**|Chen Gong et.al.|[2305.14819v1](http://arxiv.org/abs/2305.14819v1)|[link](https://github.com/gongchen-1995/d-gats)|
 |**2023-05-24 07:09:53**|**What functions can Graph Neural Networks compute on random graphs? The   role of Positional Encoding**|Nicolas Keriven et.al.|[2305.14814v1](http://arxiv.org/abs/2305.14814v1)|null|
 |**2023-05-24 05:46:56**|**Multi-State RNA Design with Geometric Multi-Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2305.14749v2](http://arxiv.org/abs/2305.14749v2)|[link](https://github.com/chaitjo/geometric-rna-design)|
 |**2023-05-24 02:23:00**|**Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic   Systems**|Lingbing Guo et.al.|[2305.14642v1](http://arxiv.org/abs/2305.14642v1)|null|
