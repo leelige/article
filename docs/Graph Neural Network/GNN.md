@@ -2,12 +2,22 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-29 17:01:54**|**GazeGNN: A Gaze-Guided Graph Neural Network for Disease Classification**|Bin Wang et.al.|[2305.18221v1](http://arxiv.org/abs/2305.18221v1)|null|
+|**2023-05-29 11:13:38**|**On the Correspondence Between Monotonic Max-Sum GNNs and Datalog**|David Tena Cucala et.al.|[2305.18015v1](http://arxiv.org/abs/2305.18015v1)|null|
+|**2023-05-29 08:04:04**|**Fourier Analysis on Robustness of Graph Convolutional Neural Networks   for Skeleton-based Action Recognition**|Nariki Tanaka et.al.|[2305.17939v1](http://arxiv.org/abs/2305.17939v1)|null|
+|**2023-05-29 06:14:22**|**Convolutional neural network based on sparse graph attention mechanism   for MRI super-resolution**|Xin Hua et.al.|[2305.17898v1](http://arxiv.org/abs/2305.17898v1)|null|
+|**2023-05-27 13:57:26**|**Inferring Causal Effects Under Heterogeneous Peer Influence**|Shishir Adhikari et.al.|[2305.17479v1](http://arxiv.org/abs/2305.17479v1)|null|
+|**2023-05-27 13:04:24**|**GraphTensor: Comprehensive GNN-Acceleration Framework for Efficient   Parallel Processing of Massive Datasets**|Junhyeok Jang et.al.|[2305.17469v1](http://arxiv.org/abs/2305.17469v1)|null|
+|**2023-05-27 08:22:12**|**AdaptGear: Accelerating GNN Training via Adaptive Subgraph-Level Kernels   on GPUs**|Yangjie Zhou et.al.|[2305.17408v1](http://arxiv.org/abs/2305.17408v1)|null|
+|**2023-05-26 22:11:38**|**GC-Flow: A Graph-Based Flow Network for Effective Clustering**|Tianchun Wang et.al.|[2305.17284v1](http://arxiv.org/abs/2305.17284v1)|[link](https://github.com/xztcwang/gcflow)|
+|**2023-05-26 19:23:20**|**GVdoc: Graph-based Visual Document Classification**|Fnu Mohbat et.al.|[2305.17219v1](http://arxiv.org/abs/2305.17219v1)|null|
 |**2023-05-26 16:00:16**|**Exploiting Abstract Meaning Representation for Open-Domain Question   Answering**|Cunxiang Wang et.al.|[2305.17050v1](http://arxiv.org/abs/2305.17050v1)|null|
 |**2023-05-26 13:58:18**|**DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion   Models**|Sohyun An et.al.|[2305.16943v1](http://arxiv.org/abs/2305.16943v1)|null|
 |**2023-05-26 12:45:58**|**Peeking inside Sparse Neural Networks using Multi-Partite Graph   Representations**|Elia Cunegatti et.al.|[2305.16886v1](http://arxiv.org/abs/2305.16886v1)|null|
 |**2023-05-26 10:42:21**|**Geometric deep learning approach to knot theory**|Lennart Jaretzki et.al.|[2305.16808v1](http://arxiv.org/abs/2305.16808v1)|[link](https://github.com/lennartjaretzki/geometricdeeplearningknotdata)|
 |**2023-05-26 09:47:03**|**Graph Neural Convection-Diffusion with Heterophily**|Kai Zhao et.al.|[2305.16780v1](http://arxiv.org/abs/2305.16780v1)|[link](https://github.com/zknus/graph-diffusion-cde)|
 |**2023-05-26 02:30:38**|**Legion: Automatically Pushing the Envelope of Multi-GPU System for   Billion-Scale GNN Training**|Jie Sun et.al.|[2305.16588v1](http://arxiv.org/abs/2305.16588v1)|null|
+|**2023-05-25 19:41:40**|**Towards Automatic Neural Architecture Search within General   Super-Networks**|Tianyi Chen et.al.|[2305.18030v1](http://arxiv.org/abs/2305.18030v1)|[link](https://github.com/tianyic/only_train_once)|
 |**2023-05-25 19:12:27**|**Learning Preconditioner for Conjugate Gradient PDE Solvers**|Yichen Li et.al.|[2305.16432v1](http://arxiv.org/abs/2305.16432v1)|null|
 |**2023-05-25 18:43:52**|**NODDLE: Node2vec based deep learning model for link prediction**|Kazi Zainab Khanam et.al.|[2305.16421v1](http://arxiv.org/abs/2305.16421v1)|null|
 |**2023-05-25 17:59:35**|**NAP: Neural 3D Articulation Prior**|Jiahui Lei et.al.|[2305.16315v1](http://arxiv.org/abs/2305.16315v1)|null|
@@ -22,13 +32,3 @@
 |**2023-05-25 08:33:48**|**TabGSL: Graph Structure Learning for Tabular Data Prediction**|Jay Chiehen Liao et.al.|[2305.15843v1](http://arxiv.org/abs/2305.15843v1)|null|
 |**2023-05-25 08:06:42**|**Towards Label Position Bias in Graph Neural Networks**|Haoyu Han et.al.|[2305.15822v1](http://arxiv.org/abs/2305.15822v1)|null|
 |**2023-05-25 07:47:42**|**Unifying gradient regularization for Heterogeneous Graph Neural Networks**|Xiao Yang et.al.|[2305.15811v2](http://arxiv.org/abs/2305.15811v2)|[link](https://github.com/yx-cloud/grug)|
-|**2023-05-25 07:16:00**|**IDEA: Invariant Causal Defense for Graph Adversarial Robustness**|Shuchang Tao et.al.|[2305.15792v1](http://arxiv.org/abs/2305.15792v1)|null|
-|**2023-05-25 05:52:43**|**Union Subgraph Neural Networks**|Jiaxing Xu et.al.|[2305.15747v1](http://arxiv.org/abs/2305.15747v1)|null|
-|**2023-05-25 05:50:38**|**Robust Ante-hoc Graph Explainer using Bilevel Optimization**|Mert Kosan et.al.|[2305.15745v1](http://arxiv.org/abs/2305.15745v1)|null|
-|**2023-05-25 00:03:22**|**GFairHint: Improving Individual Fairness for Graph Neural Networks via   Fairness Hint**|Paiheng Xu et.al.|[2305.15622v1](http://arxiv.org/abs/2305.15622v1)|null|
-|**2023-05-24 23:24:18**|**Reversible and irreversible bracket-based dynamics for deep graph neural   networks**|Anthony Gruber et.al.|[2305.15616v1](http://arxiv.org/abs/2305.15616v1)|null|
-|**2023-05-24 23:01:14**|**Size Generalizability of Graph Neural Networks on Biological Data:   Insights and Practices from the Spectral Perspective**|Yujun Yan et.al.|[2305.15611v1](http://arxiv.org/abs/2305.15611v1)|null|
-|**2023-05-24 22:26:38**|**Learning Lagrangian Fluid Mechanics with E($3$)-Equivariant Graph Neural   Networks**|Artur P. Toshev et.al.|[2305.15603v1](http://arxiv.org/abs/2305.15603v1)|null|
-|**2023-05-24 19:35:42**|**Editable Graph Neural Network for Node Classifications**|Zirui Liu et.al.|[2305.15529v1](http://arxiv.org/abs/2305.15529v1)|null|
-|**2023-05-24 18:18:29**|**Foundational Models for Malware Embeddings Using Spatio-Temporal   Parallel Convolutional Networks**|Dhruv Nandakumar et.al.|[2305.15488v1](http://arxiv.org/abs/2305.15488v1)|null|
-|**2023-05-24 17:26:22**|**Stochastic Unrolled Federated Learning**|Samar Hadou et.al.|[2305.15371v1](http://arxiv.org/abs/2305.15371v1)|[link](https://github.com/smrhadou/fed-surf)|
