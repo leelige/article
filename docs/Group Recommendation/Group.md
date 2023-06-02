@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-05-31 16:48:34**|**Bias Mitigation Methods for Binary Classification Decision-Making   Systems: Survey and Recommendations**|Madeleine Waller et.al.|[2305.20020v1](http://arxiv.org/abs/2305.20020v1)|null|
 |**2023-05-27 15:09:56**|**Dynamic User Segmentation and Usage Profiling**|Animesh Mitra et.al.|[2305.17492v1](http://arxiv.org/abs/2305.17492v1)|null|
-|**2023-05-26 02:08:54**|**NLP Reproducibility For All: Understanding Experiences of Beginners**|Shane Storks et.al.|[2305.16579v1](http://arxiv.org/abs/2305.16579v1)|[link](https://github.com/sled-group/nlp-reproducibility-for-beginners)|
+|**2023-05-26 02:08:54**|**NLP Reproducibility For All: Understanding Experiences of Beginners**|Shane Storks et.al.|[2305.16579v2](http://arxiv.org/abs/2305.16579v2)|[link](https://github.com/sled-group/nlp-reproducibility-for-beginners)|
 |**2023-05-25 13:34:09**|**What about em? How Commercial Machine Translation Fails to Handle   (Neo-)Pronouns**|Anne Lauscher et.al.|[2305.16051v1](http://arxiv.org/abs/2305.16051v1)|null|
 |**2023-05-24 16:55:49**|**Is Your Model "MADD"? A Novel Metric to Evaluate Algorithmic Fairness   for Predictive Student Models**|Mélina Verger et.al.|[2305.15342v1](http://arxiv.org/abs/2305.15342v1)|[link](https://github.com/melinaverger/madd)|
 |**2023-05-20 04:32:59**|**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**|Wenyue Hua et.al.|[2305.12090v1](http://arxiv.org/abs/2305.12090v1)|null|
