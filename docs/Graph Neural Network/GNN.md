@@ -2,6 +2,18 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-02 15:49:45**|**Gode -- Integrating Biochemical Knowledge Graph into Pre-training   Molecule Graph Neural Network**|Pengcheng Jiang et.al.|[2306.01631v1](http://arxiv.org/abs/2306.01631v1)|null|
+|**2023-06-02 15:19:08**|**Centered Self-Attention Layers**|Ameen Ali et.al.|[2306.01610v1](http://arxiv.org/abs/2306.01610v1)|null|
+|**2023-06-02 14:58:16**|**Transfer learning for atomistic simulations using GNNs and kernel mean   embeddings**|John Falk et.al.|[2306.01589v1](http://arxiv.org/abs/2306.01589v1)|[link](https://github.com/IsakFalk/atomistic_transfer_mekrr)|
+|**2023-06-02 14:55:54**|**Influence Maximization with Fairness at Scale (Extended Version)**|Yuting Feng et.al.|[2306.01587v1](http://arxiv.org/abs/2306.01587v1)|null|
+|**2023-06-02 14:31:24**|**Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit   Commitment**|Arun Venkatesh Ramesh et.al.|[2306.01570v1](http://arxiv.org/abs/2306.01570v1)|null|
+|**2023-06-02 09:48:43**|**Machine learning wave functions to identify fractal phases**|Tilen Cadez et.al.|[2306.01402v1](http://arxiv.org/abs/2306.01402v1)|null|
+|**2023-06-02 09:02:09**|**Adaptive Message Quantization and Parallelization for Distributed   Full-graph GNN Training**|Borui Wan et.al.|[2306.01381v1](http://arxiv.org/abs/2306.01381v1)|[link](https://github.com/raywan-110/adaqp)|
+|**2023-06-02 08:57:13**|**DSHGT: Dual-Supervisors Heterogeneous Graph Transformer -- A pioneer   study of using heterogeneous graph learning for detecting software   vulnerabilities**|Tiehua Zhang et.al.|[2306.01376v1](http://arxiv.org/abs/2306.01376v1)|null|
+|**2023-06-02 07:46:20**|**Demystifying Structural Disparity in Graph Neural Networks: Can One Size   Fit All?**|Haitao Mao et.al.|[2306.01323v1](http://arxiv.org/abs/2306.01323v1)|null|
+|**2023-06-02 05:50:57**|**Recent Advances in Graph-based Machine Learning for Applications in   Smart Urban Transportation Systems**|Hongde Wu et.al.|[2306.01282v1](http://arxiv.org/abs/2306.01282v1)|null|
+|**2023-06-02 01:32:49**|**Modularity based linkage model for neuroevolution**|Yukai Qiao et.al.|[2306.01227v1](http://arxiv.org/abs/2306.01227v1)|null|
+|**2023-06-01 20:56:02**|**Federated Graph Learning for Low Probability of Detection in Wireless   Ad-Hoc Networks**|Sivaram Krishnan et.al.|[2306.01143v1](http://arxiv.org/abs/2306.01143v1)|null|
 |**2023-06-01 17:36:24**|**Interpreting GNN-based IDS Detections Using Provenance Graph Structural   Features**|Kunal Mukherjee et.al.|[2306.00934v1](http://arxiv.org/abs/2306.00934v1)|null|
 |**2023-06-01 16:56:04**|**SpotTarget: Rethinking the Effect of Target Edges for Link Prediction in   Graph Neural Networks**|Jing Zhu et.al.|[2306.00899v1](http://arxiv.org/abs/2306.00899v1)|null|
 |**2023-06-01 14:16:43**|**Renormalized Graph Neural Networks**|Francesco Caso et.al.|[2306.00707v1](http://arxiv.org/abs/2306.00707v1)|null|
@@ -20,15 +32,3 @@
 |**2023-05-31 06:58:34**|**Towards Semi-supervised Universal Graph Classification**|Xiao Luo et.al.|[2305.19598v1](http://arxiv.org/abs/2305.19598v1)|null|
 |**2023-05-31 04:23:56**|**Catalysis distillation neural network for the few shot open catalyst   challenge**|Bowen Deng et.al.|[2305.19545v1](http://arxiv.org/abs/2305.19545v1)|null|
 |**2023-05-31 03:18:03**|**Explanations as Features: LLM-Based Features for Text-Attributed Graphs**|Xiaoxin He et.al.|[2305.19523v1](http://arxiv.org/abs/2305.19523v1)|[link](https://github.com/XiaoxinHe/TAPE)|
-|**2023-05-31 02:28:59**|**Graph Entropy Minimization for Semi-supervised Node Classification**|Yi Luo et.al.|[2305.19502v1](http://arxiv.org/abs/2305.19502v1)|[link](https://github.com/cf020031308/gem)|
-|**2023-05-31 01:48:12**|**SPGNN-API: A Transferable Graph Neural Network for Attack Paths   Identification and Autonomous Mitigation**|Houssem Jmal et.al.|[2305.19487v1](http://arxiv.org/abs/2305.19487v1)|null|
-|**2023-05-30 19:16:44**|**Joint Bayesian Inference of Graphical Structure and Parameters with a   Single Generative Flow Network**|Tristan Deleu et.al.|[2305.19366v1](http://arxiv.org/abs/2305.19366v1)|null|
-|**2023-05-30 17:26:19**|**On the Stability of Gated Graph Neural Networks**|Antonio Marino et.al.|[2305.19235v1](http://arxiv.org/abs/2305.19235v1)|null|
-|**2023-05-30 17:25:31**|**q-neighbor Ising model on a polarized network**|Julian Sienkiewicz et.al.|[2305.19233v1](http://arxiv.org/abs/2305.19233v1)|null|
-|**2023-05-30 16:07:48**|**An AMR-based Link Prediction Approach for Document-level Event Argument   Extraction**|Yuqing Yang et.al.|[2305.19162v1](http://arxiv.org/abs/2305.19162v1)|[link](https://github.com/ayyyq/TARA)|
-|**2023-05-30 16:03:11**|**A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets   Spiking Neural Networks**|Jintang Li et.al.|[2305.19306v1](http://arxiv.org/abs/2305.19306v1)|[link](https://github.com/edisonleeeee/spikegcl)|
-|**2023-05-30 15:56:25**|**FERN: Leveraging Graph Attention Networks for Failure Evaluation and   Robust Network Design**|Chenyi Liu et.al.|[2305.19153v1](http://arxiv.org/abs/2305.19153v1)|null|
-|**2023-05-30 14:48:06**|**Predicting protein stability changes under multiple amino acid   substitutions using equivariant graph neural networks**|Sebastien Boyer et.al.|[2305.19801v1](http://arxiv.org/abs/2305.19801v1)|null|
-|**2023-05-30 11:53:40**|**Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks**|Qiyu Kang et.al.|[2305.18965v1](http://arxiv.org/abs/2305.18965v1)|[link](https://github.com/zknus/hamiltonian-gnn)|
-|**2023-05-30 09:27:36**|**Criteria Tell You More than Ratings: Criteria Preference-Aware Light   Graph Convolution for Effective Multi-Criteria Recommendation**|Jin-Duk Park et.al.|[2305.18885v2](http://arxiv.org/abs/2305.18885v2)|[link](https://github.com/jindeok/cpa-lgc-recbole)|
-|**2023-05-30 08:20:58**|**Graph Neural Networks for Contextual ASR with the Tree-Constrained   Pointer Generator**|Guangzhi Sun et.al.|[2305.18824v1](http://arxiv.org/abs/2305.18824v1)|[link](https://github.com/briansidp/espnet)|

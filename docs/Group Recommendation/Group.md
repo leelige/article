@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-01 21:38:50**|**A Multi-Modal Latent-Features based Service Recommendation System for   the Social Internet of Things**|Amar Khelloufi et.al.|[2306.01163v1](http://arxiv.org/abs/2306.01163v1)|null|
 |**2023-05-31 16:48:34**|**Bias Mitigation Methods for Binary Classification Decision-Making   Systems: Survey and Recommendations**|Madeleine Waller et.al.|[2305.20020v1](http://arxiv.org/abs/2305.20020v1)|null|
 |**2023-05-27 15:09:56**|**Dynamic User Segmentation and Usage Profiling**|Animesh Mitra et.al.|[2305.17492v1](http://arxiv.org/abs/2305.17492v1)|null|
 |**2023-05-26 02:08:54**|**NLP Reproducibility For All: Understanding Experiences of Beginners**|Shane Storks et.al.|[2305.16579v2](http://arxiv.org/abs/2305.16579v2)|[link](https://github.com/sled-group/nlp-reproducibility-for-beginners)|
@@ -27,8 +28,7 @@
 |**2023-04-27 14:54:31**|**Guidance note on best statistical practices for TOAR analyses**|Kai-Lan Chang et.al.|[2304.14236v1](http://arxiv.org/abs/2304.14236v1)|null|
 |**2023-04-27 11:59:13**|**A sensemaking system for grouping and suggesting stories from multiple   affective viewpoints in museums**|Antonio Lieto et.al.|[2304.14117v1](http://arxiv.org/abs/2304.14117v1)|null|
 |**2023-04-26 20:39:45**|**Selecting Sustainable Optimal Stock by Using Multi-Criteria Fuzzy   Decision-Making Approaches Based on the Development of the Gordon Model: A   case study of the Toronto Stock Exchange**|Mohsen Mortazavi et.al.|[2304.13818v1](http://arxiv.org/abs/2304.13818v1)|null|
-|**2023-04-23 11:44:50**|**Consolidation of Ground Truth Sets for Weakness Detection in Smart   Contracts**|Monika di Angelo et.al.|[2304.11624v2](http://arxiv.org/abs/2304.11624v2)|null|
+|**2023-04-23 11:44:50**|**Consolidation of Ground Truth Sets for Weakness Detection in Smart   Contracts**|Monika di Angelo et.al.|[2304.11624v2](http://arxiv.org/abs/2304.11624v2)|[link](https://github.com/gsalzer/cgt)|
 |**2023-04-20 14:02:21**|**A Reference Model for Collaborative Business Intelligence Virtual   Assistants**|Olga Cherednichenko et.al.|[2304.10556v1](http://arxiv.org/abs/2304.10556v1)|null|
 |**2023-04-20 12:45:21**|**Replication and Verifiability in Requirements Engineering: the NLP for   RE Case**|Sallam Abualhaija et.al.|[2304.10265v1](http://arxiv.org/abs/2304.10265v1)|null|
 |**2023-04-18 10:28:54**|**Report from Dagstuhl Seminar 23031: Frontiers of Information Access   Experimentation for Research and Education**|Christine Bauer et.al.|[2305.01509v1](http://arxiv.org/abs/2305.01509v1)|null|
-|**2023-04-18 09:37:22**|**PEGA: Personality-Guided Preference Aggregator for Ephemeral Group   Recommendation**|Guangze Ye et.al.|[2304.08851v1](http://arxiv.org/abs/2304.08851v1)|null|
