@@ -2,6 +2,18 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-06 16:24:27**|**MTS2Graph: Interpretable Multivariate Time Series Classification with   Temporal Evolving Graphs**|Raneen Younis et.al.|[2306.03834v1](http://arxiv.org/abs/2306.03834v1)|null|
+|**2023-06-06 16:15:28**|**Small-Coupling Dynamic Cavity: a Bayesian mean-field framework for   epidemic inference**|Alfredo Braunstein et.al.|[2306.03829v1](http://arxiv.org/abs/2306.03829v1)|null|
+|**2023-06-06 15:31:05**|**Graph Classification Gaussian Processes via Spectral Features**|Felix L. Opolka et.al.|[2306.03770v1](http://arxiv.org/abs/2306.03770v1)|null|
+|**2023-06-06 14:12:23**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698v1](http://arxiv.org/abs/2306.03698v1)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
+|**2023-06-06 12:22:09**|**On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based   Graph Collaborative Filtering**|Jiayan Guo et.al.|[2306.03624v1](http://arxiv.org/abs/2306.03624v1)|[link](https://github.com/spacelearner/jgcf)|
+|**2023-06-06 11:15:53**|**How does over-squashing affect the power of GNNs?**|Francesco Di Giovanni et.al.|[2306.03589v1](http://arxiv.org/abs/2306.03589v1)|null|
+|**2023-06-06 10:25:10**|**CIN++: Enhancing Topological Message Passing**|Lorenzo Giusti et.al.|[2306.03561v1](http://arxiv.org/abs/2306.03561v1)|null|
+|**2023-06-06 07:00:24**|**GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets**|Shubham Gupta et.al.|[2306.03447v1](http://arxiv.org/abs/2306.03447v1)|null|
+|**2023-06-05 21:35:32**|**Towards Arbitrarily Expressive GNNs in $O(n^2)$ Space by Rethinking   Folklore Weisfeiler-Lehman**|Jiarui Feng et.al.|[2306.03266v1](http://arxiv.org/abs/2306.03266v1)|[link](https://github.com/jiaruifeng/n2gnn)|
+|**2023-06-05 21:17:48**|**Explaining and Adapting Graph Conditional Shift**|Qi Zhu et.al.|[2306.03256v1](http://arxiv.org/abs/2306.03256v1)|null|
+|**2023-06-05 20:11:30**|**Structural Re-weighting Improves Graph Domain Adaptation**|Shikun Liu et.al.|[2306.03221v1](http://arxiv.org/abs/2306.03221v1)|[link](https://github.com/graph-com/strurw)|
+|**2023-06-05 19:06:18**|**Personalized Federated Domain Adaptation for Item-to-Item Recommendation**|Ziwei Fan et.al.|[2306.03191v1](http://arxiv.org/abs/2306.03191v1)|null|
 |**2023-06-05 17:58:49**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear   Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088v1](http://arxiv.org/abs/2306.03088v1)|null|
 |**2023-06-05 17:03:10**|**Learning Similarity among Users for Personalized Session-Based   Recommendation from hierarchical structure of User-Session-Item**|Jisoo Cha et.al.|[2306.03040v1](http://arxiv.org/abs/2306.03040v1)|null|
 |**2023-06-05 16:50:34**|**Classification of Edge-dependent Labels of Nodes in Hypergraphs**|Minyoung Choe et.al.|[2306.03032v1](http://arxiv.org/abs/2306.03032v1)|[link](https://github.com/young917/edgedependentnodelabel)|
@@ -15,20 +27,8 @@
 |**2023-06-04 07:26:20**|**Clarify Confused Nodes Through Separated Learning**|Shengbo Gong et.al.|[2306.02285v1](http://arxiv.org/abs/2306.02285v1)|null|
 |**2023-06-04 00:22:59**|**Kramers-Wannier Duality and Random Bond Ising Model**|Chaoming Song et.al.|[2306.02220v1](http://arxiv.org/abs/2306.02220v1)|null|
 |**2023-06-03 22:30:45**|**Mitigating Molecular Aggregation in Drug Discovery with Predictive   Insights from Explainable AI**|Hunter Sturm et.al.|[2306.02206v1](http://arxiv.org/abs/2306.02206v1)|null|
-|**2023-06-03 16:56:18**|**Transforming to Yoked Neural Networks to Improve ANN Structure**|Xinshun Liu et.al.|[2306.02157v1](http://arxiv.org/abs/2306.02157v1)|null|
+|**2023-06-03 16:56:18**|**Transforming to Yoked Neural Networks to Improve ANN Structure**|Xinshun Liu et.al.|[2306.02157v2](http://arxiv.org/abs/2306.02157v2)|null|
 |**2023-06-03 14:12:31**|**Scaling Up, Scaling Deep: Blockwise Graph Contrastive Learning**|Jintang Li et.al.|[2306.02117v1](http://arxiv.org/abs/2306.02117v1)|[link](https://github.com/edisonleeeee/blockgcl)|
-|**2023-06-03 12:44:30**|**Accelerating Personalized PageRank Vector Computation**|Zhen Chen et.al.|[2306.02102v1](http://arxiv.org/abs/2306.02102v1)|null|
-|**2023-06-03 08:39:25**|**A Comprehensive Survey on Deep Learning for Relation Extraction: Recent   Advances and New Frontiers**|Zhao Xiaoyan et.al.|[2306.02051v1](http://arxiv.org/abs/2306.02051v1)|null|
+|**2023-06-03 12:44:30**|**Accelerating Personalized PageRank Vector Computation**|Zhen Chen et.al.|[2306.02102v2](http://arxiv.org/abs/2306.02102v2)|null|
+|**2023-06-03 08:39:25**|**A Comprehensive Survey on Deep Learning for Relation Extraction: Recent   Advances and New Frontiers**|Xiaoyan Zhao et.al.|[2306.02051v2](http://arxiv.org/abs/2306.02051v2)|null|
 |**2023-06-03 04:56:04**|**Can Directed Graph Neural Networks be Adversarially Robust?**|Zhichao Hou et.al.|[2306.02002v1](http://arxiv.org/abs/2306.02002v1)|null|
-|**2023-06-02 23:36:49**|**A Survey on Explainability of Graph Neural Networks**|Jaykumar Kakkad et.al.|[2306.01958v1](http://arxiv.org/abs/2306.01958v1)|null|
-|**2023-06-02 15:49:45**|**Gode -- Integrating Biochemical Knowledge Graph into Pre-training   Molecule Graph Neural Network**|Pengcheng Jiang et.al.|[2306.01631v1](http://arxiv.org/abs/2306.01631v1)|null|
-|**2023-06-02 15:19:08**|**Centered Self-Attention Layers**|Ameen Ali et.al.|[2306.01610v1](http://arxiv.org/abs/2306.01610v1)|null|
-|**2023-06-02 14:58:16**|**Transfer learning for atomistic simulations using GNNs and kernel mean   embeddings**|John Falk et.al.|[2306.01589v1](http://arxiv.org/abs/2306.01589v1)|[link](https://github.com/isakfalk/atomistic_transfer_mekrr)|
-|**2023-06-02 14:55:54**|**Influence Maximization with Fairness at Scale (Extended Version)**|Yuting Feng et.al.|[2306.01587v1](http://arxiv.org/abs/2306.01587v1)|null|
-|**2023-06-02 14:31:24**|**Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit   Commitment**|Arun Venkatesh Ramesh et.al.|[2306.01570v1](http://arxiv.org/abs/2306.01570v1)|null|
-|**2023-06-02 09:48:43**|**Machine learning wave functions to identify fractal phases**|Tilen Cadez et.al.|[2306.01402v1](http://arxiv.org/abs/2306.01402v1)|null|
-|**2023-06-02 09:02:09**|**Adaptive Message Quantization and Parallelization for Distributed   Full-graph GNN Training**|Borui Wan et.al.|[2306.01381v1](http://arxiv.org/abs/2306.01381v1)|[link](https://github.com/raywan-110/adaqp)|
-|**2023-06-02 08:57:13**|**DSHGT: Dual-Supervisors Heterogeneous Graph Transformer -- A pioneer   study of using heterogeneous graph learning for detecting software   vulnerabilities**|Tiehua Zhang et.al.|[2306.01376v1](http://arxiv.org/abs/2306.01376v1)|null|
-|**2023-06-02 07:46:20**|**Demystifying Structural Disparity in Graph Neural Networks: Can One Size   Fit All?**|Haitao Mao et.al.|[2306.01323v1](http://arxiv.org/abs/2306.01323v1)|null|
-|**2023-06-02 05:50:57**|**Recent Advances in Graph-based Machine Learning for Applications in   Smart Urban Transportation Systems**|Hongde Wu et.al.|[2306.01282v1](http://arxiv.org/abs/2306.01282v1)|null|
-|**2023-06-02 01:32:49**|**Modularity based linkage model for neuroevolution**|Yukai Qiao et.al.|[2306.01227v1](http://arxiv.org/abs/2306.01227v1)|null|
