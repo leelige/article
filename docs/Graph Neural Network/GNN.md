@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-07 15:04:58**|**Limits, approximation and size transferability for GNNs on sparse graphs   via graphops**|Thien Le et.al.|[2306.04495v1](http://arxiv.org/abs/2306.04495v1)|null|
+|**2023-06-07 13:19:15**|**Flavour tagging with graph neural networks with the ATLAS detector**|Arnaud Duperrin et.al.|[2306.04415v1](http://arxiv.org/abs/2306.04415v1)|null|
+|**2023-06-07 09:05:56**|**Permutaion Equivariant Graph Framelets for Heterophilous Semi-supervised   Learning**|Jianfei Li et.al.|[2306.04265v1](http://arxiv.org/abs/2306.04265v1)|null|
+|**2023-06-07 07:40:04**|**DualHGNN: A Dual Hypergraph Neural Network for Semi-Supervised Node   Classification based on Multi-View Learning and Density Awareness**|Jianpeng Liao et.al.|[2306.04214v1](http://arxiv.org/abs/2306.04214v1)|null|
+|**2023-06-07 07:37:01**|**Migrate Demographic Group For Fair GNNs**|YanMing Hu et.al.|[2306.04212v1](http://arxiv.org/abs/2306.04212v1)|null|
+|**2023-06-07 06:23:12**|**Photon Reconstruction in the Belle II Calorimeter Using Graph Neural   Networks**|F. Wemmer et.al.|[2306.04179v1](http://arxiv.org/abs/2306.04179v1)|null|
+|**2023-06-07 02:16:36**|**BeMap: Balanced Message Passing for Fair Graph Neural Network**|Xiao Lin et.al.|[2306.04107v1](http://arxiv.org/abs/2306.04107v1)|null|
+|**2023-06-07 01:31:12**|**PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks   for Recommendation**|Ziyang Liu et.al.|[2306.04095v1](http://arxiv.org/abs/2306.04095v1)|null|
 |**2023-06-06 16:24:27**|**MTS2Graph: Interpretable Multivariate Time Series Classification with   Temporal Evolving Graphs**|Raneen Younis et.al.|[2306.03834v1](http://arxiv.org/abs/2306.03834v1)|null|
 |**2023-06-06 16:15:28**|**Small-Coupling Dynamic Cavity: a Bayesian mean-field framework for   epidemic inference**|Alfredo Braunstein et.al.|[2306.03829v1](http://arxiv.org/abs/2306.03829v1)|null|
 |**2023-06-06 15:31:05**|**Graph Classification Gaussian Processes via Spectral Features**|Felix L. Opolka et.al.|[2306.03770v1](http://arxiv.org/abs/2306.03770v1)|null|
@@ -24,11 +32,3 @@
 |**2023-06-05 03:26:06**|**Tensorized Hypergraph Neural Networks**|Maolin Wang et.al.|[2306.02560v1](http://arxiv.org/abs/2306.02560v1)|null|
 |**2023-06-05 03:05:43**|**Barriers for the performance of graph neural networks (GNN) in discrete   random structures. A comment   on~\cite{schuetz2022combinatorial},\cite{angelini2023modern},\cite{schuetz2023reply}**|David Gamarnik et.al.|[2306.02555v1](http://arxiv.org/abs/2306.02555v1)|null|
 |**2023-06-04 15:19:44**|**Towards Deep Attention in Graph Neural Networks: Problems and Remedies**|Soo Yong Lee et.al.|[2306.02376v1](http://arxiv.org/abs/2306.02376v1)|[link](https://github.com/syleeheal/aero-gnn)|
-|**2023-06-04 07:26:20**|**Clarify Confused Nodes Through Separated Learning**|Shengbo Gong et.al.|[2306.02285v1](http://arxiv.org/abs/2306.02285v1)|null|
-|**2023-06-04 00:22:59**|**Kramers-Wannier Duality and Random Bond Ising Model**|Chaoming Song et.al.|[2306.02220v1](http://arxiv.org/abs/2306.02220v1)|null|
-|**2023-06-03 22:30:45**|**Mitigating Molecular Aggregation in Drug Discovery with Predictive   Insights from Explainable AI**|Hunter Sturm et.al.|[2306.02206v1](http://arxiv.org/abs/2306.02206v1)|null|
-|**2023-06-03 16:56:18**|**Transforming to Yoked Neural Networks to Improve ANN Structure**|Xinshun Liu et.al.|[2306.02157v2](http://arxiv.org/abs/2306.02157v2)|null|
-|**2023-06-03 14:12:31**|**Scaling Up, Scaling Deep: Blockwise Graph Contrastive Learning**|Jintang Li et.al.|[2306.02117v1](http://arxiv.org/abs/2306.02117v1)|[link](https://github.com/edisonleeeee/blockgcl)|
-|**2023-06-03 12:44:30**|**Accelerating Personalized PageRank Vector Computation**|Zhen Chen et.al.|[2306.02102v2](http://arxiv.org/abs/2306.02102v2)|null|
-|**2023-06-03 08:39:25**|**A Comprehensive Survey on Deep Learning for Relation Extraction: Recent   Advances and New Frontiers**|Xiaoyan Zhao et.al.|[2306.02051v2](http://arxiv.org/abs/2306.02051v2)|null|
-|**2023-06-03 04:56:04**|**Can Directed Graph Neural Networks be Adversarially Robust?**|Zhichao Hou et.al.|[2306.02002v1](http://arxiv.org/abs/2306.02002v1)|null|
