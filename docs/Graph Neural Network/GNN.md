@@ -13,7 +13,7 @@
 |**2023-06-07 21:25:32**|**XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**|Eli Laird et.al.|[2306.04791v1](http://arxiv.org/abs/2306.04791v1)|null|
 |**2023-06-07 21:02:20**|**Learning to Navigate in Turbulent Flows with Aerial Robot Swarms: A   Cooperative Deep Reinforcement Learning Approach**|Diego Patiño et.al.|[2306.04781v1](http://arxiv.org/abs/2306.04781v1)|null|
 |**2023-06-07 20:23:05**|**Context-Aware Self-Supervised Learning of Whole Slide Images**|Milan Aryal et.al.|[2306.04763v1](http://arxiv.org/abs/2306.04763v1)|null|
-|**2023-06-07 19:37:09**|**Automatic graph representation algorithm for heterogeneous catalysis**|Zachary Gariepy et.al.|[2306.04742v1](http://arxiv.org/abs/2306.04742v1)|null|
+|**2023-06-07 19:37:09**|**Automatic graph representation algorithm for heterogeneous catalysis**|Zachary Gariepy et.al.|[2306.04742v1](http://arxiv.org/abs/2306.04742v1)|[link](https://github.com/feugmo-group/agra)|
 |**2023-06-07 18:08:11**|**Robust-DefReg: A Robust Deformable Point Cloud Registration Method based   on Graph Convolutional Neural Networks**|Sara Monji-Azad et.al.|[2306.04701v1](http://arxiv.org/abs/2306.04701v1)|null|
 |**2023-06-07 15:04:58**|**Limits, approximation and size transferability for GNNs on sparse graphs   via graphops**|Thien Le et.al.|[2306.04495v1](http://arxiv.org/abs/2306.04495v1)|null|
 |**2023-06-07 14:50:34**|**Neural Embeddings for Protein Graphs**|Francesco Ceccarelli et.al.|[2306.04667v1](http://arxiv.org/abs/2306.04667v1)|null|
