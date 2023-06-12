@@ -1,47 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2023-06-11 16:07:20 Asia/Shanghai
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-08 17:59:08**|**Scaling Spherical CNNs**|Carlos Esteves et.al.|[2306.05420v1](http://arxiv.org/abs/2306.05420v1)|[link](https://github.com/google-research/spherical-cnn)|
-|**2023-06-08 17:58:57**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem   via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
-|**2023-06-08 14:54:50**|**Comprehensive evaluation of deep and graph learning on drug-drug   interactions prediction**|Xuan Lin et.al.|[2306.05257v1](http://arxiv.org/abs/2306.05257v1)|[link](https://github.com/xzenglab/resources-for-ddis-prediction-using-dl)|
-|**2023-06-08 14:38:43**|**Point-Voxel Absorbing Graph Representation Learning for Event Stream   based Recognition**|Bo Jiang et.al.|[2306.05239v1](http://arxiv.org/abs/2306.05239v1)|null|
-|**2023-06-08 11:15:34**|**Hybrid Graph: A Unified Graph Representation with Datasets and   Benchmarks for Complex Graphs**|Zehui Li et.al.|[2306.05108v1](http://arxiv.org/abs/2306.05108v1)|null|
-|**2023-06-08 07:10:35**|**CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive   Graph Classification**|Nan Yin et.al.|[2306.04979v1](http://arxiv.org/abs/2306.04979v1)|null|
-|**2023-06-08 03:17:00**|**ViG-UNet: Vision Graph Neural Networks for Medical Image Segmentation**|Juntao Jiang et.al.|[2306.04905v1](http://arxiv.org/abs/2306.04905v1)|null|
-|**2023-06-07 23:40:18**|**Empowering Counterfactual Reasoning over Graph Neural Networks through   Inductivity**|Samidha Verma et.al.|[2306.04835v1](http://arxiv.org/abs/2306.04835v1)|[link](https://github.com/idea-iitd/induce)|
-|**2023-06-07 21:25:32**|**XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**|Eli Laird et.al.|[2306.04791v1](http://arxiv.org/abs/2306.04791v1)|null|
-|**2023-06-07 21:02:20**|**Learning to Navigate in Turbulent Flows with Aerial Robot Swarms: A   Cooperative Deep Reinforcement Learning Approach**|Diego Patiño et.al.|[2306.04781v1](http://arxiv.org/abs/2306.04781v1)|null|
-|**2023-06-07 20:23:05**|**Context-Aware Self-Supervised Learning of Whole Slide Images**|Milan Aryal et.al.|[2306.04763v1](http://arxiv.org/abs/2306.04763v1)|null|
-|**2023-06-07 19:37:09**|**Automatic graph representation algorithm for heterogeneous catalysis**|Zachary Gariepy et.al.|[2306.04742v1](http://arxiv.org/abs/2306.04742v1)|[link](https://github.com/feugmo-group/agra)|
-|**2023-06-07 18:08:11**|**Robust-DefReg: A Robust Deformable Point Cloud Registration Method based   on Graph Convolutional Neural Networks**|Sara Monji-Azad et.al.|[2306.04701v1](http://arxiv.org/abs/2306.04701v1)|null|
-|**2023-06-07 15:04:58**|**Limits, approximation and size transferability for GNNs on sparse graphs   via graphops**|Thien Le et.al.|[2306.04495v1](http://arxiv.org/abs/2306.04495v1)|null|
-|**2023-06-07 14:50:34**|**Neural Embeddings for Protein Graphs**|Francesco Ceccarelli et.al.|[2306.04667v1](http://arxiv.org/abs/2306.04667v1)|null|
-|**2023-06-07 13:19:15**|**Flavour tagging with graph neural networks with the ATLAS detector**|Arnaud Duperrin et.al.|[2306.04415v1](http://arxiv.org/abs/2306.04415v1)|null|
-|**2023-06-07 09:05:56**|**Permutation Equivariant Graph Framelets for Heterophilous   Semi-supervised Learning**|Jianfei Li et.al.|[2306.04265v1](http://arxiv.org/abs/2306.04265v1)|null|
-|**2023-06-07 07:40:04**|**DualHGNN: A Dual Hypergraph Neural Network for Semi-Supervised Node   Classification based on Multi-View Learning and Density Awareness**|Jianpeng Liao et.al.|[2306.04214v1](http://arxiv.org/abs/2306.04214v1)|null|
-|**2023-06-07 07:37:01**|**Migrate Demographic Group For Fair GNNs**|YanMing Hu et.al.|[2306.04212v1](http://arxiv.org/abs/2306.04212v1)|null|
-|**2023-06-07 06:23:12**|**Photon Reconstruction in the Belle II Calorimeter Using Graph Neural   Networks**|F. Wemmer et.al.|[2306.04179v1](http://arxiv.org/abs/2306.04179v1)|null|
-|**2023-06-07 02:16:36**|**BeMap: Balanced Message Passing for Fair Graph Neural Network**|Xiao Lin et.al.|[2306.04107v1](http://arxiv.org/abs/2306.04107v1)|null|
-|**2023-06-07 01:31:12**|**PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks   for Recommendation**|Ziyang Liu et.al.|[2306.04095v2](http://arxiv.org/abs/2306.04095v2)|null|
-|**2023-06-06 16:24:27**|**MTS2Graph: Interpretable Multivariate Time Series Classification with   Temporal Evolving Graphs**|Raneen Younis et.al.|[2306.03834v1](http://arxiv.org/abs/2306.03834v1)|null|
-|**2023-06-06 16:15:28**|**Small-Coupling Dynamic Cavity: a Bayesian mean-field framework for   epidemic inference**|Alfredo Braunstein et.al.|[2306.03829v1](http://arxiv.org/abs/2306.03829v1)|null|
-|**2023-06-06 15:31:05**|**Graph Classification Gaussian Processes via Spectral Features**|Felix L. Opolka et.al.|[2306.03770v1](http://arxiv.org/abs/2306.03770v1)|null|
-|**2023-06-06 14:12:23**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698v1](http://arxiv.org/abs/2306.03698v1)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
-|**2023-06-06 12:22:09**|**On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based   Graph Collaborative Filtering**|Jiayan Guo et.al.|[2306.03624v1](http://arxiv.org/abs/2306.03624v1)|[link](https://github.com/spacelearner/jgcf)|
-|**2023-06-06 11:15:53**|**How does over-squashing affect the power of GNNs?**|Francesco Di Giovanni et.al.|[2306.03589v1](http://arxiv.org/abs/2306.03589v1)|null|
-|**2023-06-06 10:25:10**|**CIN++: Enhancing Topological Message Passing**|Lorenzo Giusti et.al.|[2306.03561v1](http://arxiv.org/abs/2306.03561v1)|null|
-|**2023-06-06 07:00:24**|**GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets**|Shubham Gupta et.al.|[2306.03447v1](http://arxiv.org/abs/2306.03447v1)|null|
+ 自动更新 @ 2023-06-12 16:08:29 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-09 15:02:23**|**Digital Twin-Assisted Resource Demand Prediction for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2306.05946v1](http://arxiv.org/abs/2306.05946v1)|null|
+|**2023-06-09 13:26:17**|**Social interactions mediated by the Internet and the Big-Five: a   cross-country analysis**|Andrea Mercado et.al.|[2306.05884v1](http://arxiv.org/abs/2306.05884v1)|null|
 |**2023-06-08 15:56:57**|**Are fairness metric scores enough to assess discrimination biases in   machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
 |**2023-06-08 11:39:57**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v1](http://arxiv.org/abs/2306.05118v1)|[link](https://github.com/lyingcs/controllable-multi-objective-reranking)|
 |**2023-06-06 10:37:37**|**Minimizing Hitting Time between Disparate Groups with Shortcut Edges**|Florian Adriaens et.al.|[2306.03571v1](http://arxiv.org/abs/2306.03571v1)|null|
@@ -70,8 +36,6 @@
 |**2023-04-28 01:06:15**|**Épilexie: A digital therapeutic approach for treating intractable   epilepsy via Amenable Neurostimulation**|Ishan Shivansh Bangroo et.al.|[2304.14583v1](http://arxiv.org/abs/2304.14583v1)|null|
 |**2023-04-27 14:54:31**|**Guidance note on best statistical practices for TOAR analyses**|Kai-Lan Chang et.al.|[2304.14236v1](http://arxiv.org/abs/2304.14236v1)|null|
 |**2023-04-27 11:59:13**|**A sensemaking system for grouping and suggesting stories from multiple   affective viewpoints in museums**|Antonio Lieto et.al.|[2304.14117v1](http://arxiv.org/abs/2304.14117v1)|null|
-|**2023-04-26 20:39:45**|**Selecting Sustainable Optimal Stock by Using Multi-Criteria Fuzzy   Decision-Making Approaches Based on the Development of the Gordon Model: A   case study of the Toronto Stock Exchange**|Mohsen Mortazavi et.al.|[2304.13818v1](http://arxiv.org/abs/2304.13818v1)|null|
-|**2023-04-23 11:44:50**|**Consolidation of Ground Truth Sets for Weakness Detection in Smart   Contracts**|Monika di Angelo et.al.|[2304.11624v2](http://arxiv.org/abs/2304.11624v2)|[link](https://github.com/gsalzer/cgt)|
 
 ## Multi Interest Recommendation
 
@@ -108,3 +72,39 @@
 |**2023-02-12 14:03:35**|**Neural Node Matching for Multi-Target Cross Domain Recommendation**|Wujiang Xu et.al.|[2302.05919v1](http://arxiv.org/abs/2302.05919v1)|null|
 |**2023-02-10 22:33:35**|**"Software is the easy part of Software Engineering" -- Lessons and   Experiences from A Large-Scale, Multi-Team Capstone Course**|Ze Shi Li et.al.|[2302.05536v1](http://arxiv.org/abs/2302.05536v1)|null|
 |**2023-02-10 20:18:13**|**Data-Driven Web-Based Patching Management Tool Using Multi-Sensor   Pavement Structure Measurements**|Sneha Jha et.al.|[2302.05494v1](http://arxiv.org/abs/2302.05494v1)|null|
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-09 17:07:04**|**A Dynamical Graph Prior for Relational Inference**|Liming Pan et.al.|[2306.06041v1](http://arxiv.org/abs/2306.06041v1)|[link](https://github.com/dadacheng/dygr)|
+|**2023-06-09 15:11:49**|**Path Neural Networks: Expressive and Accurate Graph Neural Networks**|Gaspard Michel et.al.|[2306.05955v1](http://arxiv.org/abs/2306.05955v1)|[link](https://github.com/gasmichel/pathnns_expressive)|
+|**2023-06-09 10:42:32**|**DynaBench: A benchmark dataset for learning dynamical systems from   low-resolution data**|Andrzej Dulny et.al.|[2306.05805v1](http://arxiv.org/abs/2306.05805v1)|null|
+|**2023-06-09 08:54:20**|**Efficient GNN Explanation via Learning Removal-based Attribution**|Yao Rong et.al.|[2306.05760v1](http://arxiv.org/abs/2306.05760v1)|null|
+|**2023-06-09 02:23:37**|**Quantifying the Knowledge in GNNs for Reliable Distillation into MLPs**|Lirong Wu et.al.|[2306.05628v1](http://arxiv.org/abs/2306.05628v1)|[link](https://github.com/lirongwu/rkd)|
+|**2023-06-08 21:01:24**|**On Performance Discrepancies Across Local Homophily Levels in Graph   Neural Networks**|Donald Loveland et.al.|[2306.05557v1](http://arxiv.org/abs/2306.05557v1)|null|
+|**2023-06-08 17:59:08**|**Scaling Spherical CNNs**|Carlos Esteves et.al.|[2306.05420v1](http://arxiv.org/abs/2306.05420v1)|[link](https://github.com/google-research/spherical-cnn)|
+|**2023-06-08 17:58:57**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem   via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
+|**2023-06-08 17:12:08**|**Towards Predicting Equilibrium Distributions for Molecular Systems with   Deep Learning**|Shuxin Zheng et.al.|[2306.05445v1](http://arxiv.org/abs/2306.05445v1)|null|
+|**2023-06-08 14:54:50**|**Comprehensive evaluation of deep and graph learning on drug-drug   interactions prediction**|Xuan Lin et.al.|[2306.05257v1](http://arxiv.org/abs/2306.05257v1)|[link](https://github.com/xzenglab/resources-for-ddis-prediction-using-dl)|
+|**2023-06-08 14:38:43**|**Point-Voxel Absorbing Graph Representation Learning for Event Stream   based Recognition**|Bo Jiang et.al.|[2306.05239v1](http://arxiv.org/abs/2306.05239v1)|null|
+|**2023-06-08 11:15:34**|**Hybrid Graph: A Unified Graph Representation with Datasets and   Benchmarks for Complex Graphs**|Zehui Li et.al.|[2306.05108v1](http://arxiv.org/abs/2306.05108v1)|null|
+|**2023-06-08 07:10:35**|**CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive   Graph Classification**|Nan Yin et.al.|[2306.04979v1](http://arxiv.org/abs/2306.04979v1)|null|
+|**2023-06-08 03:17:00**|**ViG-UNet: Vision Graph Neural Networks for Medical Image Segmentation**|Juntao Jiang et.al.|[2306.04905v1](http://arxiv.org/abs/2306.04905v1)|null|
+|**2023-06-07 23:40:18**|**Empowering Counterfactual Reasoning over Graph Neural Networks through   Inductivity**|Samidha Verma et.al.|[2306.04835v1](http://arxiv.org/abs/2306.04835v1)|[link](https://github.com/idea-iitd/induce)|
+|**2023-06-07 21:25:32**|**XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**|Eli Laird et.al.|[2306.04791v1](http://arxiv.org/abs/2306.04791v1)|null|
+|**2023-06-07 21:02:20**|**Learning to Navigate in Turbulent Flows with Aerial Robot Swarms: A   Cooperative Deep Reinforcement Learning Approach**|Diego Patiño et.al.|[2306.04781v1](http://arxiv.org/abs/2306.04781v1)|null|
+|**2023-06-07 20:23:05**|**Context-Aware Self-Supervised Learning of Whole Slide Images**|Milan Aryal et.al.|[2306.04763v1](http://arxiv.org/abs/2306.04763v1)|null|
+|**2023-06-07 19:37:09**|**Automatic graph representation algorithm for heterogeneous catalysis**|Zachary Gariepy et.al.|[2306.04742v1](http://arxiv.org/abs/2306.04742v1)|[link](https://github.com/feugmo-group/agra)|
+|**2023-06-07 18:08:11**|**Robust-DefReg: A Robust Deformable Point Cloud Registration Method based   on Graph Convolutional Neural Networks**|Sara Monji-Azad et.al.|[2306.04701v1](http://arxiv.org/abs/2306.04701v1)|null|
+|**2023-06-07 15:04:58**|**Limits, approximation and size transferability for GNNs on sparse graphs   via graphops**|Thien Le et.al.|[2306.04495v1](http://arxiv.org/abs/2306.04495v1)|null|
+|**2023-06-07 14:50:34**|**Neural Embeddings for Protein Graphs**|Francesco Ceccarelli et.al.|[2306.04667v1](http://arxiv.org/abs/2306.04667v1)|null|
+|**2023-06-07 13:19:15**|**Flavour tagging with graph neural networks with the ATLAS detector**|Arnaud Duperrin et.al.|[2306.04415v1](http://arxiv.org/abs/2306.04415v1)|null|
+|**2023-06-07 09:05:56**|**Permutation Equivariant Graph Framelets for Heterophilous   Semi-supervised Learning**|Jianfei Li et.al.|[2306.04265v1](http://arxiv.org/abs/2306.04265v1)|null|
+|**2023-06-07 07:40:04**|**DualHGNN: A Dual Hypergraph Neural Network for Semi-Supervised Node   Classification based on Multi-View Learning and Density Awareness**|Jianpeng Liao et.al.|[2306.04214v1](http://arxiv.org/abs/2306.04214v1)|null|
+|**2023-06-07 07:37:01**|**Migrate Demographic Group For Fair GNNs**|YanMing Hu et.al.|[2306.04212v1](http://arxiv.org/abs/2306.04212v1)|null|
+|**2023-06-07 06:23:12**|**Photon Reconstruction in the Belle II Calorimeter Using Graph Neural   Networks**|F. Wemmer et.al.|[2306.04179v1](http://arxiv.org/abs/2306.04179v1)|null|
+|**2023-06-07 02:16:36**|**BeMap: Balanced Message Passing for Fair Graph Neural Network**|Xiao Lin et.al.|[2306.04107v1](http://arxiv.org/abs/2306.04107v1)|null|
+|**2023-06-07 01:31:12**|**PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks   for Recommendation**|Ziyang Liu et.al.|[2306.04095v2](http://arxiv.org/abs/2306.04095v2)|null|
+|**2023-06-06 16:24:27**|**MTS2Graph: Interpretable Multivariate Time Series Classification with   Temporal Evolving Graphs**|Raneen Younis et.al.|[2306.03834v1](http://arxiv.org/abs/2306.03834v1)|null|

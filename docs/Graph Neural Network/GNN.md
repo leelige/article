@@ -2,8 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-09 17:07:04**|**A Dynamical Graph Prior for Relational Inference**|Liming Pan et.al.|[2306.06041v1](http://arxiv.org/abs/2306.06041v1)|[link](https://github.com/dadacheng/dygr)|
+|**2023-06-09 15:11:49**|**Path Neural Networks: Expressive and Accurate Graph Neural Networks**|Gaspard Michel et.al.|[2306.05955v1](http://arxiv.org/abs/2306.05955v1)|[link](https://github.com/gasmichel/pathnns_expressive)|
+|**2023-06-09 10:42:32**|**DynaBench: A benchmark dataset for learning dynamical systems from   low-resolution data**|Andrzej Dulny et.al.|[2306.05805v1](http://arxiv.org/abs/2306.05805v1)|null|
+|**2023-06-09 08:54:20**|**Efficient GNN Explanation via Learning Removal-based Attribution**|Yao Rong et.al.|[2306.05760v1](http://arxiv.org/abs/2306.05760v1)|null|
+|**2023-06-09 02:23:37**|**Quantifying the Knowledge in GNNs for Reliable Distillation into MLPs**|Lirong Wu et.al.|[2306.05628v1](http://arxiv.org/abs/2306.05628v1)|[link](https://github.com/lirongwu/rkd)|
+|**2023-06-08 21:01:24**|**On Performance Discrepancies Across Local Homophily Levels in Graph   Neural Networks**|Donald Loveland et.al.|[2306.05557v1](http://arxiv.org/abs/2306.05557v1)|null|
 |**2023-06-08 17:59:08**|**Scaling Spherical CNNs**|Carlos Esteves et.al.|[2306.05420v1](http://arxiv.org/abs/2306.05420v1)|[link](https://github.com/google-research/spherical-cnn)|
 |**2023-06-08 17:58:57**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem   via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
+|**2023-06-08 17:12:08**|**Towards Predicting Equilibrium Distributions for Molecular Systems with   Deep Learning**|Shuxin Zheng et.al.|[2306.05445v1](http://arxiv.org/abs/2306.05445v1)|null|
 |**2023-06-08 14:54:50**|**Comprehensive evaluation of deep and graph learning on drug-drug   interactions prediction**|Xuan Lin et.al.|[2306.05257v1](http://arxiv.org/abs/2306.05257v1)|[link](https://github.com/xzenglab/resources-for-ddis-prediction-using-dl)|
 |**2023-06-08 14:38:43**|**Point-Voxel Absorbing Graph Representation Learning for Event Stream   based Recognition**|Bo Jiang et.al.|[2306.05239v1](http://arxiv.org/abs/2306.05239v1)|null|
 |**2023-06-08 11:15:34**|**Hybrid Graph: A Unified Graph Representation with Datasets and   Benchmarks for Complex Graphs**|Zehui Li et.al.|[2306.05108v1](http://arxiv.org/abs/2306.05108v1)|null|
@@ -25,10 +32,3 @@
 |**2023-06-07 02:16:36**|**BeMap: Balanced Message Passing for Fair Graph Neural Network**|Xiao Lin et.al.|[2306.04107v1](http://arxiv.org/abs/2306.04107v1)|null|
 |**2023-06-07 01:31:12**|**PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks   for Recommendation**|Ziyang Liu et.al.|[2306.04095v2](http://arxiv.org/abs/2306.04095v2)|null|
 |**2023-06-06 16:24:27**|**MTS2Graph: Interpretable Multivariate Time Series Classification with   Temporal Evolving Graphs**|Raneen Younis et.al.|[2306.03834v1](http://arxiv.org/abs/2306.03834v1)|null|
-|**2023-06-06 16:15:28**|**Small-Coupling Dynamic Cavity: a Bayesian mean-field framework for   epidemic inference**|Alfredo Braunstein et.al.|[2306.03829v1](http://arxiv.org/abs/2306.03829v1)|null|
-|**2023-06-06 15:31:05**|**Graph Classification Gaussian Processes via Spectral Features**|Felix L. Opolka et.al.|[2306.03770v1](http://arxiv.org/abs/2306.03770v1)|null|
-|**2023-06-06 14:12:23**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698v1](http://arxiv.org/abs/2306.03698v1)|[link](https://github.com/nhuang37/finegrain_expressivity_gnn)|
-|**2023-06-06 12:22:09**|**On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based   Graph Collaborative Filtering**|Jiayan Guo et.al.|[2306.03624v1](http://arxiv.org/abs/2306.03624v1)|[link](https://github.com/spacelearner/jgcf)|
-|**2023-06-06 11:15:53**|**How does over-squashing affect the power of GNNs?**|Francesco Di Giovanni et.al.|[2306.03589v1](http://arxiv.org/abs/2306.03589v1)|null|
-|**2023-06-06 10:25:10**|**CIN++: Enhancing Topological Message Passing**|Lorenzo Giusti et.al.|[2306.03561v1](http://arxiv.org/abs/2306.03561v1)|null|
-|**2023-06-06 07:00:24**|**GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets**|Shubham Gupta et.al.|[2306.03447v1](http://arxiv.org/abs/2306.03447v1)|null|

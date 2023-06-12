@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-09 15:02:23**|**Digital Twin-Assisted Resource Demand Prediction for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2306.05946v1](http://arxiv.org/abs/2306.05946v1)|null|
+|**2023-06-09 13:26:17**|**Social interactions mediated by the Internet and the Big-Five: a   cross-country analysis**|Andrea Mercado et.al.|[2306.05884v1](http://arxiv.org/abs/2306.05884v1)|null|
 |**2023-06-08 15:56:57**|**Are fairness metric scores enough to assess discrimination biases in   machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
 |**2023-06-08 11:39:57**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v1](http://arxiv.org/abs/2306.05118v1)|[link](https://github.com/lyingcs/controllable-multi-objective-reranking)|
 |**2023-06-06 10:37:37**|**Minimizing Hitting Time between Disparate Groups with Shortcut Edges**|Florian Adriaens et.al.|[2306.03571v1](http://arxiv.org/abs/2306.03571v1)|null|
@@ -30,5 +32,3 @@
 |**2023-04-28 01:06:15**|**Épilexie: A digital therapeutic approach for treating intractable   epilepsy via Amenable Neurostimulation**|Ishan Shivansh Bangroo et.al.|[2304.14583v1](http://arxiv.org/abs/2304.14583v1)|null|
 |**2023-04-27 14:54:31**|**Guidance note on best statistical practices for TOAR analyses**|Kai-Lan Chang et.al.|[2304.14236v1](http://arxiv.org/abs/2304.14236v1)|null|
 |**2023-04-27 11:59:13**|**A sensemaking system for grouping and suggesting stories from multiple   affective viewpoints in museums**|Antonio Lieto et.al.|[2304.14117v1](http://arxiv.org/abs/2304.14117v1)|null|
-|**2023-04-26 20:39:45**|**Selecting Sustainable Optimal Stock by Using Multi-Criteria Fuzzy   Decision-Making Approaches Based on the Development of the Gordon Model: A   case study of the Toronto Stock Exchange**|Mohsen Mortazavi et.al.|[2304.13818v1](http://arxiv.org/abs/2304.13818v1)|null|
-|**2023-04-23 11:44:50**|**Consolidation of Ground Truth Sets for Weakness Detection in Smart   Contracts**|Monika di Angelo et.al.|[2304.11624v2](http://arxiv.org/abs/2304.11624v2)|[link](https://github.com/gsalzer/cgt)|
