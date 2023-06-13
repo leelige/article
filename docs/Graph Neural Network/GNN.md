@@ -2,9 +2,24 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-12 17:52:39**|**Operator Learning with Neural Fields: Tackling PDEs on General   Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|null|
+|**2023-06-12 13:42:56**|**Coupled Attention Networks for Multivariate Time Series Anomaly   Detection**|Feng Xia et.al.|[2306.07114v1](http://arxiv.org/abs/2306.07114v1)|[link](https://github.com/ML4ITS/mtad-gat-pytorch)|
+|**2023-06-12 10:46:31**|**Dynamic Causal Graph Convolutional Network for Traffic Prediction**|Junpeng Lin et.al.|[2306.07019v1](http://arxiv.org/abs/2306.07019v1)|null|
+|**2023-06-12 08:14:16**|**LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability   Types**|Xin-Cheng Wen et.al.|[2306.06935v1](http://arxiv.org/abs/2306.06935v1)|[link](https://github.com/livable01/livable)|
+|**2023-06-12 08:08:53**|**Localised Adaptive Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2306.06930v1](http://arxiv.org/abs/2306.06930v1)|null|
+|**2023-06-12 07:27:31**|**Graph Agent Network: Empowering Nodes with Decentralized Communications   Capabilities for Adversarial Resilience**|Ao Liu et.al.|[2306.06909v1](http://arxiv.org/abs/2306.06909v1)|null|
+|**2023-06-11 22:04:28**|**Graph Mixup with Soft Alignments**|Hongyi Ling et.al.|[2306.06788v1](http://arxiv.org/abs/2306.06788v1)|null|
+|**2023-06-11 20:56:21**|**Between-Sample Relationship in Learning Tabular Data Using Graph and   Attention Networks**|Shourav B. Rabbani et.al.|[2306.06772v1](http://arxiv.org/abs/2306.06772v1)|null|
+|**2023-06-11 00:22:44**|**Local-to-global Perspectives on Graph Neural Networks**|Chen Cai et.al.|[2306.06547v1](http://arxiv.org/abs/2306.06547v1)|null|
+|**2023-06-10 23:50:02**|**Fault Localization for Framework Conversions of Image Recognition Models**|Nikolaos Louloudakis et.al.|[2306.06157v1](http://arxiv.org/abs/2306.06157v1)|null|
+|**2023-06-10 21:55:28**|**Neural Injective Functions for Multisets, Measures and Graphs via a   Finite Witness Theorem**|Tal Amir et.al.|[2306.06529v1](http://arxiv.org/abs/2306.06529v1)|null|
+|**2023-06-10 21:18:31**|**Finding Hamiltonian cycles with graph neural networks**|Filip Bosnić et.al.|[2306.06523v1](http://arxiv.org/abs/2306.06523v1)|[link](https://github.com/lbcb-sci/gnns-hamiltonian-cycles)|
+|**2023-06-10 08:35:00**|**D2Match: Leveraging Deep Learning and Degeneracy for Subgraph Matching**|Xuanzhou Liu et.al.|[2306.06380v1](http://arxiv.org/abs/2306.06380v1)|[link](https://github.com/xuanzhouliu/d2match-icml23)|
+|**2023-06-10 07:14:59**|**Shuffled Autoregression For Motion Interpolation**|Shuo Huang et.al.|[2306.06367v1](http://arxiv.org/abs/2306.06367v1)|null|
+|**2023-06-10 00:55:38**|**Any-dimensional equivariant neural networks**|Eitan Levin et.al.|[2306.06327v1](http://arxiv.org/abs/2306.06327v1)|[link](https://github.com/mateodd25/free-nets)|
 |**2023-06-09 17:07:04**|**A Dynamical Graph Prior for Relational Inference**|Liming Pan et.al.|[2306.06041v1](http://arxiv.org/abs/2306.06041v1)|[link](https://github.com/dadacheng/dygr)|
 |**2023-06-09 15:11:49**|**Path Neural Networks: Expressive and Accurate Graph Neural Networks**|Gaspard Michel et.al.|[2306.05955v1](http://arxiv.org/abs/2306.05955v1)|[link](https://github.com/gasmichel/pathnns_expressive)|
-|**2023-06-09 10:42:32**|**DynaBench: A benchmark dataset for learning dynamical systems from   low-resolution data**|Andrzej Dulny et.al.|[2306.05805v1](http://arxiv.org/abs/2306.05805v1)|null|
+|**2023-06-09 10:42:32**|**DynaBench: A benchmark dataset for learning dynamical systems from   low-resolution data**|Andrzej Dulny et.al.|[2306.05805v1](http://arxiv.org/abs/2306.05805v1)|[link](https://github.com/badulion/dynabench)|
 |**2023-06-09 08:54:20**|**Efficient GNN Explanation via Learning Removal-based Attribution**|Yao Rong et.al.|[2306.05760v1](http://arxiv.org/abs/2306.05760v1)|null|
 |**2023-06-09 02:23:37**|**Quantifying the Knowledge in GNNs for Reliable Distillation into MLPs**|Lirong Wu et.al.|[2306.05628v1](http://arxiv.org/abs/2306.05628v1)|[link](https://github.com/lirongwu/rkd)|
 |**2023-06-08 21:01:24**|**On Performance Discrepancies Across Local Homophily Levels in Graph   Neural Networks**|Donald Loveland et.al.|[2306.05557v1](http://arxiv.org/abs/2306.05557v1)|null|
@@ -14,21 +29,6 @@
 |**2023-06-08 14:54:50**|**Comprehensive evaluation of deep and graph learning on drug-drug   interactions prediction**|Xuan Lin et.al.|[2306.05257v1](http://arxiv.org/abs/2306.05257v1)|[link](https://github.com/xzenglab/resources-for-ddis-prediction-using-dl)|
 |**2023-06-08 14:38:43**|**Point-Voxel Absorbing Graph Representation Learning for Event Stream   based Recognition**|Bo Jiang et.al.|[2306.05239v1](http://arxiv.org/abs/2306.05239v1)|null|
 |**2023-06-08 11:15:34**|**Hybrid Graph: A Unified Graph Representation with Datasets and   Benchmarks for Complex Graphs**|Zehui Li et.al.|[2306.05108v1](http://arxiv.org/abs/2306.05108v1)|null|
-|**2023-06-08 07:10:35**|**CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive   Graph Classification**|Nan Yin et.al.|[2306.04979v1](http://arxiv.org/abs/2306.04979v1)|null|
+|**2023-06-08 07:10:35**|**CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive   Graph Classification**|Nan Yin et.al.|[2306.04979v2](http://arxiv.org/abs/2306.04979v2)|null|
 |**2023-06-08 03:17:00**|**ViG-UNet: Vision Graph Neural Networks for Medical Image Segmentation**|Juntao Jiang et.al.|[2306.04905v1](http://arxiv.org/abs/2306.04905v1)|null|
 |**2023-06-07 23:40:18**|**Empowering Counterfactual Reasoning over Graph Neural Networks through   Inductivity**|Samidha Verma et.al.|[2306.04835v1](http://arxiv.org/abs/2306.04835v1)|[link](https://github.com/idea-iitd/induce)|
-|**2023-06-07 21:25:32**|**XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**|Eli Laird et.al.|[2306.04791v1](http://arxiv.org/abs/2306.04791v1)|null|
-|**2023-06-07 21:02:20**|**Learning to Navigate in Turbulent Flows with Aerial Robot Swarms: A   Cooperative Deep Reinforcement Learning Approach**|Diego Patiño et.al.|[2306.04781v1](http://arxiv.org/abs/2306.04781v1)|null|
-|**2023-06-07 20:23:05**|**Context-Aware Self-Supervised Learning of Whole Slide Images**|Milan Aryal et.al.|[2306.04763v1](http://arxiv.org/abs/2306.04763v1)|null|
-|**2023-06-07 19:37:09**|**Automatic graph representation algorithm for heterogeneous catalysis**|Zachary Gariepy et.al.|[2306.04742v1](http://arxiv.org/abs/2306.04742v1)|[link](https://github.com/feugmo-group/agra)|
-|**2023-06-07 18:08:11**|**Robust-DefReg: A Robust Deformable Point Cloud Registration Method based   on Graph Convolutional Neural Networks**|Sara Monji-Azad et.al.|[2306.04701v1](http://arxiv.org/abs/2306.04701v1)|null|
-|**2023-06-07 15:04:58**|**Limits, approximation and size transferability for GNNs on sparse graphs   via graphops**|Thien Le et.al.|[2306.04495v1](http://arxiv.org/abs/2306.04495v1)|null|
-|**2023-06-07 14:50:34**|**Neural Embeddings for Protein Graphs**|Francesco Ceccarelli et.al.|[2306.04667v1](http://arxiv.org/abs/2306.04667v1)|null|
-|**2023-06-07 13:19:15**|**Flavour tagging with graph neural networks with the ATLAS detector**|Arnaud Duperrin et.al.|[2306.04415v1](http://arxiv.org/abs/2306.04415v1)|null|
-|**2023-06-07 09:05:56**|**Permutation Equivariant Graph Framelets for Heterophilous   Semi-supervised Learning**|Jianfei Li et.al.|[2306.04265v1](http://arxiv.org/abs/2306.04265v1)|null|
-|**2023-06-07 07:40:04**|**DualHGNN: A Dual Hypergraph Neural Network for Semi-Supervised Node   Classification based on Multi-View Learning and Density Awareness**|Jianpeng Liao et.al.|[2306.04214v1](http://arxiv.org/abs/2306.04214v1)|null|
-|**2023-06-07 07:37:01**|**Migrate Demographic Group For Fair GNNs**|YanMing Hu et.al.|[2306.04212v1](http://arxiv.org/abs/2306.04212v1)|null|
-|**2023-06-07 06:23:12**|**Photon Reconstruction in the Belle II Calorimeter Using Graph Neural   Networks**|F. Wemmer et.al.|[2306.04179v1](http://arxiv.org/abs/2306.04179v1)|null|
-|**2023-06-07 02:16:36**|**BeMap: Balanced Message Passing for Fair Graph Neural Network**|Xiao Lin et.al.|[2306.04107v1](http://arxiv.org/abs/2306.04107v1)|null|
-|**2023-06-07 01:31:12**|**PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks   for Recommendation**|Ziyang Liu et.al.|[2306.04095v2](http://arxiv.org/abs/2306.04095v2)|null|
-|**2023-06-06 16:24:27**|**MTS2Graph: Interpretable Multivariate Time Series Classification with   Temporal Evolving Graphs**|Raneen Younis et.al.|[2306.03834v1](http://arxiv.org/abs/2306.03834v1)|null|
