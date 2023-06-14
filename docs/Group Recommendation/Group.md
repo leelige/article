@@ -2,11 +2,13 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-13 09:46:16**|**Inactivated COVID-19 Vaccination did not affect In vitro fertilization   (IVF) / Intra-Cytoplasmic Sperm Injection (ICSI) cycle outcomes**|Qi Wan et.al.|[2306.07652v1](http://arxiv.org/abs/2306.07652v1)|null|
 |**2023-06-09 15:02:23**|**Digital Twin-Assisted Resource Demand Prediction for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2306.05946v1](http://arxiv.org/abs/2306.05946v1)|null|
 |**2023-06-09 13:26:17**|**Social interactions mediated by the Internet and the Big-Five: a   cross-country analysis**|Andrea Mercado et.al.|[2306.05884v1](http://arxiv.org/abs/2306.05884v1)|null|
 |**2023-06-08 15:56:57**|**Are fairness metric scores enough to assess discrimination biases in   machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
-|**2023-06-08 11:39:57**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v1](http://arxiv.org/abs/2306.05118v1)|[link](https://github.com/lyingcs/controllable-multi-objective-reranking)|
+|**2023-06-08 11:39:57**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v2](http://arxiv.org/abs/2306.05118v2)|[link](https://github.com/lyingcs/controllable-multi-objective-reranking)|
 |**2023-06-06 10:37:37**|**Minimizing Hitting Time between Disparate Groups with Shortcut Edges**|Florian Adriaens et.al.|[2306.03571v1](http://arxiv.org/abs/2306.03571v1)|null|
+|**2023-06-02 14:47:56**|**STUDY: Socially Aware Temporally Casual Decoder Recommender Systems**|Eltayeb Ahmed et.al.|[2306.07946v1](http://arxiv.org/abs/2306.07946v1)|null|
 |**2023-06-01 21:38:50**|**A Multi-Modal Latent-Features based Service Recommendation System for   the Social Internet of Things**|Amar Khelloufi et.al.|[2306.01163v1](http://arxiv.org/abs/2306.01163v1)|null|
 |**2023-05-31 16:48:34**|**Bias Mitigation Methods for Binary Classification Decision-Making   Systems: Survey and Recommendations**|Madeleine Waller et.al.|[2305.20020v1](http://arxiv.org/abs/2305.20020v1)|null|
 |**2023-05-27 15:09:56**|**Dynamic User Segmentation and Usage Profiling**|Animesh Mitra et.al.|[2305.17492v1](http://arxiv.org/abs/2305.17492v1)|null|
@@ -30,5 +32,3 @@
 |**2023-05-02 01:09:48**|**Multidimensional Fairness in Paper Recommendation**|Reem Alsaffar et.al.|[2305.01141v1](http://arxiv.org/abs/2305.01141v1)|null|
 |**2023-04-30 21:16:53**|**Contextual Response Interpretation for Automated Structured Interviews:   A Case Study in Market Research**|Harshita Sahijwani et.al.|[2305.00577v1](http://arxiv.org/abs/2305.00577v1)|null|
 |**2023-04-28 01:06:15**|**Épilexie: A digital therapeutic approach for treating intractable   epilepsy via Amenable Neurostimulation**|Ishan Shivansh Bangroo et.al.|[2304.14583v1](http://arxiv.org/abs/2304.14583v1)|null|
-|**2023-04-27 14:54:31**|**Guidance note on best statistical practices for TOAR analyses**|Kai-Lan Chang et.al.|[2304.14236v1](http://arxiv.org/abs/2304.14236v1)|null|
-|**2023-04-27 11:59:13**|**A sensemaking system for grouping and suggesting stories from multiple   affective viewpoints in museums**|Antonio Lieto et.al.|[2304.14117v1](http://arxiv.org/abs/2304.14117v1)|null|

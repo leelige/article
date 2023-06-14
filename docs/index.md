@@ -1,20 +1,25 @@
 # arxiv-daily
- 自动更新 @ 2023-06-13 16:08:18 Asia/Shanghai
+ 自动更新 @ 2023-06-14 16:07:38 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-13 14:25:26**|**Inferring dynamic regulatory interaction graphs from time series data   with perturbations**|Dhananjay Bhaskar et.al.|[2306.07803v1](http://arxiv.org/abs/2306.07803v1)|null|
+|**2023-06-13 12:40:39**|**Vector-Quantized Graph Auto-Encoder**|Yoann Boget et.al.|[2306.07735v1](http://arxiv.org/abs/2306.07735v1)|null|
+|**2023-06-13 08:22:18**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618v1](http://arxiv.org/abs/2306.07618v1)|null|
+|**2023-06-13 00:29:57**|**Von Mises Mixture Distributions for Molecular Conformation Generation**|Kirk Swanson et.al.|[2306.07472v1](http://arxiv.org/abs/2306.07472v1)|[link](https://github.com/thejonaslab/vonmises-icml-2023)|
 |**2023-06-12 17:52:39**|**Operator Learning with Neural Fields: Tackling PDEs on General   Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|null|
 |**2023-06-12 13:42:56**|**Coupled Attention Networks for Multivariate Time Series Anomaly   Detection**|Feng Xia et.al.|[2306.07114v1](http://arxiv.org/abs/2306.07114v1)|[link](https://github.com/ML4ITS/mtad-gat-pytorch)|
 |**2023-06-12 10:46:31**|**Dynamic Causal Graph Convolutional Network for Traffic Prediction**|Junpeng Lin et.al.|[2306.07019v1](http://arxiv.org/abs/2306.07019v1)|null|
 |**2023-06-12 08:14:16**|**LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability   Types**|Xin-Cheng Wen et.al.|[2306.06935v1](http://arxiv.org/abs/2306.06935v1)|[link](https://github.com/livable01/livable)|
 |**2023-06-12 08:08:53**|**Localised Adaptive Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2306.06930v1](http://arxiv.org/abs/2306.06930v1)|null|
 |**2023-06-12 07:27:31**|**Graph Agent Network: Empowering Nodes with Decentralized Communications   Capabilities for Adversarial Resilience**|Ao Liu et.al.|[2306.06909v1](http://arxiv.org/abs/2306.06909v1)|null|
-|**2023-06-11 22:04:28**|**Graph Mixup with Soft Alignments**|Hongyi Ling et.al.|[2306.06788v1](http://arxiv.org/abs/2306.06788v1)|null|
+|**2023-06-11 23:28:02**|**A Holistic Approach to Unifying Automatic Concept Extraction and Concept   Importance Estimation**|Thomas Fel et.al.|[2306.07304v1](http://arxiv.org/abs/2306.07304v1)|null|
+|**2023-06-11 22:04:28**|**Graph Mixup with Soft Alignments**|Hongyi Ling et.al.|[2306.06788v1](http://arxiv.org/abs/2306.06788v1)|[link](https://github.com/divelab/DIG)|
 |**2023-06-11 20:56:21**|**Between-Sample Relationship in Learning Tabular Data Using Graph and   Attention Networks**|Shourav B. Rabbani et.al.|[2306.06772v1](http://arxiv.org/abs/2306.06772v1)|null|
-|**2023-06-11 00:22:44**|**Local-to-global Perspectives on Graph Neural Networks**|Chen Cai et.al.|[2306.06547v1](http://arxiv.org/abs/2306.06547v1)|null|
+|**2023-06-11 00:22:44**|**Local-to-global Perspectives on Graph Neural Networks**|Chen Cai et.al.|[2306.06547v1](http://arxiv.org/abs/2306.06547v1)|[link](https://github.com/chen-cai-osu/mpnn-gt-connection)|
 |**2023-06-10 23:50:02**|**Fault Localization for Framework Conversions of Image Recognition Models**|Nikolaos Louloudakis et.al.|[2306.06157v1](http://arxiv.org/abs/2306.06157v1)|null|
 |**2023-06-10 21:55:28**|**Neural Injective Functions for Multisets, Measures and Graphs via a   Finite Witness Theorem**|Tal Amir et.al.|[2306.06529v1](http://arxiv.org/abs/2306.06529v1)|null|
 |**2023-06-10 21:18:31**|**Finding Hamiltonian cycles with graph neural networks**|Filip Bosnić et.al.|[2306.06523v1](http://arxiv.org/abs/2306.06523v1)|[link](https://github.com/lbcb-sci/gnns-hamiltonian-cycles)|
@@ -31,17 +36,13 @@
 |**2023-06-08 17:58:57**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem   via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
 |**2023-06-08 17:12:08**|**Towards Predicting Equilibrium Distributions for Molecular Systems with   Deep Learning**|Shuxin Zheng et.al.|[2306.05445v1](http://arxiv.org/abs/2306.05445v1)|null|
 |**2023-06-08 14:54:50**|**Comprehensive evaluation of deep and graph learning on drug-drug   interactions prediction**|Xuan Lin et.al.|[2306.05257v1](http://arxiv.org/abs/2306.05257v1)|[link](https://github.com/xzenglab/resources-for-ddis-prediction-using-dl)|
-|**2023-06-08 14:38:43**|**Point-Voxel Absorbing Graph Representation Learning for Event Stream   based Recognition**|Bo Jiang et.al.|[2306.05239v1](http://arxiv.org/abs/2306.05239v1)|null|
-|**2023-06-08 11:15:34**|**Hybrid Graph: A Unified Graph Representation with Datasets and   Benchmarks for Complex Graphs**|Zehui Li et.al.|[2306.05108v1](http://arxiv.org/abs/2306.05108v1)|null|
-|**2023-06-08 07:10:35**|**CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive   Graph Classification**|Nan Yin et.al.|[2306.04979v2](http://arxiv.org/abs/2306.04979v2)|null|
-|**2023-06-08 03:17:00**|**ViG-UNet: Vision Graph Neural Networks for Medical Image Segmentation**|Juntao Jiang et.al.|[2306.04905v1](http://arxiv.org/abs/2306.04905v1)|null|
-|**2023-06-07 23:40:18**|**Empowering Counterfactual Reasoning over Graph Neural Networks through   Inductivity**|Samidha Verma et.al.|[2306.04835v1](http://arxiv.org/abs/2306.04835v1)|[link](https://github.com/idea-iitd/induce)|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-11 02:35:48**|**Multi-modal Representation Learning for Social Post Location Inference**|Ruiting Dai et.al.|[2306.07935v1](http://arxiv.org/abs/2306.07935v1)|null|
 |**2023-06-08 07:45:24**|**COURIER: Contrastive User Intention Reconstruction for Large-Scale   Pre-Train of Image Features**|Jia-Qi Yang et.al.|[2306.05001v1](http://arxiv.org/abs/2306.05001v1)|null|
 |**2023-05-23 21:47:31**|**Disincentivizing Polarization in Social Networks**|Christian Borgs et.al.|[2305.14537v1](http://arxiv.org/abs/2305.14537v1)|null|
 |**2023-05-21 10:29:25**|**Multi-factor Sequential Re-ranking with Perception-Aware Diversification**|Yue Xu et.al.|[2305.12420v1](http://arxiv.org/abs/2305.12420v1)|null|
@@ -71,18 +72,19 @@
 |**2023-02-12 19:51:32**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain   Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v2](http://arxiv.org/abs/2302.05990v2)|[link](https://github.com/alarca94/magrec)|
 |**2023-02-12 14:03:35**|**Neural Node Matching for Multi-Target Cross Domain Recommendation**|Wujiang Xu et.al.|[2302.05919v1](http://arxiv.org/abs/2302.05919v1)|null|
 |**2023-02-10 22:33:35**|**"Software is the easy part of Software Engineering" -- Lessons and   Experiences from A Large-Scale, Multi-Team Capstone Course**|Ze Shi Li et.al.|[2302.05536v1](http://arxiv.org/abs/2302.05536v1)|null|
-|**2023-02-10 20:18:13**|**Data-Driven Web-Based Patching Management Tool Using Multi-Sensor   Pavement Structure Measurements**|Sneha Jha et.al.|[2302.05494v1](http://arxiv.org/abs/2302.05494v1)|null|
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-13 09:46:16**|**Inactivated COVID-19 Vaccination did not affect In vitro fertilization   (IVF) / Intra-Cytoplasmic Sperm Injection (ICSI) cycle outcomes**|Qi Wan et.al.|[2306.07652v1](http://arxiv.org/abs/2306.07652v1)|null|
 |**2023-06-09 15:02:23**|**Digital Twin-Assisted Resource Demand Prediction for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2306.05946v1](http://arxiv.org/abs/2306.05946v1)|null|
 |**2023-06-09 13:26:17**|**Social interactions mediated by the Internet and the Big-Five: a   cross-country analysis**|Andrea Mercado et.al.|[2306.05884v1](http://arxiv.org/abs/2306.05884v1)|null|
 |**2023-06-08 15:56:57**|**Are fairness metric scores enough to assess discrimination biases in   machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
-|**2023-06-08 11:39:57**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v1](http://arxiv.org/abs/2306.05118v1)|[link](https://github.com/lyingcs/controllable-multi-objective-reranking)|
+|**2023-06-08 11:39:57**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v2](http://arxiv.org/abs/2306.05118v2)|[link](https://github.com/lyingcs/controllable-multi-objective-reranking)|
 |**2023-06-06 10:37:37**|**Minimizing Hitting Time between Disparate Groups with Shortcut Edges**|Florian Adriaens et.al.|[2306.03571v1](http://arxiv.org/abs/2306.03571v1)|null|
+|**2023-06-02 14:47:56**|**STUDY: Socially Aware Temporally Casual Decoder Recommender Systems**|Eltayeb Ahmed et.al.|[2306.07946v1](http://arxiv.org/abs/2306.07946v1)|null|
 |**2023-06-01 21:38:50**|**A Multi-Modal Latent-Features based Service Recommendation System for   the Social Internet of Things**|Amar Khelloufi et.al.|[2306.01163v1](http://arxiv.org/abs/2306.01163v1)|null|
 |**2023-05-31 16:48:34**|**Bias Mitigation Methods for Binary Classification Decision-Making   Systems: Survey and Recommendations**|Madeleine Waller et.al.|[2305.20020v1](http://arxiv.org/abs/2305.20020v1)|null|
 |**2023-05-27 15:09:56**|**Dynamic User Segmentation and Usage Profiling**|Animesh Mitra et.al.|[2305.17492v1](http://arxiv.org/abs/2305.17492v1)|null|
@@ -106,5 +108,3 @@
 |**2023-05-02 01:09:48**|**Multidimensional Fairness in Paper Recommendation**|Reem Alsaffar et.al.|[2305.01141v1](http://arxiv.org/abs/2305.01141v1)|null|
 |**2023-04-30 21:16:53**|**Contextual Response Interpretation for Automated Structured Interviews:   A Case Study in Market Research**|Harshita Sahijwani et.al.|[2305.00577v1](http://arxiv.org/abs/2305.00577v1)|null|
 |**2023-04-28 01:06:15**|**Épilexie: A digital therapeutic approach for treating intractable   epilepsy via Amenable Neurostimulation**|Ishan Shivansh Bangroo et.al.|[2304.14583v1](http://arxiv.org/abs/2304.14583v1)|null|
-|**2023-04-27 14:54:31**|**Guidance note on best statistical practices for TOAR analyses**|Kai-Lan Chang et.al.|[2304.14236v1](http://arxiv.org/abs/2304.14236v1)|null|
-|**2023-04-27 11:59:13**|**A sensemaking system for grouping and suggesting stories from multiple   affective viewpoints in museums**|Antonio Lieto et.al.|[2304.14117v1](http://arxiv.org/abs/2304.14117v1)|null|
