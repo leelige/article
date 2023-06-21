@@ -1,49 +1,52 @@
 # arxiv-daily
- 自动更新 @ 2023-06-20 16:07:56 Asia/Shanghai
+ 自动更新 @ 2023-06-21 16:07:43 Asia/Shanghai
 
-## Graph Neural Network
+## Group Recommendation
 
-### GNN
+### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-16 14:50:43**|**Uncertainty Quantification via Spatial-Temporal Tweedie Model for   Zero-inflated and Long-tail Travel Demand Prediction**|Xinke Jiang et.al.|[2306.09882v1](http://arxiv.org/abs/2306.09882v1)|[link](https://github.com/sttdanonymous/sttd)|
-|**2023-06-16 12:03:39**|**GPINN: Physics-informed Neural Network with Graph Embedding**|Yuyang Miao et.al.|[2306.09792v1](http://arxiv.org/abs/2306.09792v1)|null|
-|**2023-06-16 09:18:36**|**Representation and decomposition of functions in DAG-DNNs and structural   network pruning**|Wen-Liang Hwang et.al.|[2306.09707v1](http://arxiv.org/abs/2306.09707v1)|null|
-|**2023-06-16 06:47:47**|**Learning CO$_2$ plume migration in faulted reservoirs with Graph Neural   Networks**|Xin Ju et.al.|[2306.09648v1](http://arxiv.org/abs/2306.09648v1)|null|
-|**2023-06-16 04:40:59**|**From Hypergraph Energy Functions to Hypergraph Neural Networks**|Yuxin Wang et.al.|[2306.09623v1](http://arxiv.org/abs/2306.09623v1)|[link](https://github.com/yxzwang/phenomnn)|
-|**2023-06-16 04:05:58**|**GraphSHA: Synthesizing Harder Samples for Class-Imbalanced Node   Classification**|Wen-Zhi Li et.al.|[2306.09612v1](http://arxiv.org/abs/2306.09612v1)|[link](https://github.com/wenzhilics/graphsha)|
-|**2023-06-15 19:34:14**|**Kriging Convolutional Networks**|Gabriel Appleby et.al.|[2306.09463v1](http://arxiv.org/abs/2306.09463v1)|[link](https://github.com/tufts-ml/kcn-torch)|
-|**2023-06-15 13:29:09**|**The Split Matters: Flat Minima Methods for Improving the Performance of   GNNs**|Nicolas Lell et.al.|[2306.09121v1](http://arxiv.org/abs/2306.09121v1)|[link](https://github.com/foisunt/fmms-in-gnns)|
-|**2023-06-15 13:00:56**|**On Strengthening and Defending Graph Reconstruction Attack with Markov   Chain Approximation**|Zhanke Zhou et.al.|[2306.09104v1](http://arxiv.org/abs/2306.09104v1)|[link](https://github.com/tmlr-group/mc-gra)|
-|**2023-06-15 11:47:45**|**Spatiotemporal-Augmented Graph Neural Networks for Human Mobility   Simulation**|Yu Wang et.al.|[2306.09381v1](http://arxiv.org/abs/2306.09381v1)|null|
-|**2023-06-15 08:21:41**|**Scalable Resource Management for Dynamic MEC: An Unsupervised   Link-Output Graph Neural Network Approach**|Xiucheng Wang et.al.|[2306.08938v1](http://arxiv.org/abs/2306.08938v1)|[link](https://github.com/UNIC-Lab/LOGNN)|
-|**2023-06-15 07:48:32**|**Multi-Temporal Relationship Inference in Urban Areas**|Shuangli Li et.al.|[2306.08921v1](http://arxiv.org/abs/2306.08921v1)|[link](https://github.com/agave233/seenet)|
-|**2023-06-14 18:32:26**|**GHP-MOFassemble: Diffusion modeling, high throughput screening, and   molecular dynamics for rational discovery of novel metal-organic frameworks   for carbon capture at scale**|Hyun Park et.al.|[2306.08695v1](http://arxiv.org/abs/2306.08695v1)|null|
-|**2023-06-14 16:11:00**|**A Unified Framework of Graph Information Bottleneck for Robustness and   Membership Privacy**|Enyan Dai et.al.|[2306.08604v1](http://arxiv.org/abs/2306.08604v1)|null|
-|**2023-06-14 12:32:38**|**Self-supervised Learning and Graph Classification under Heterophily**|Yilin Ding et.al.|[2306.08469v1](http://arxiv.org/abs/2306.08469v1)|null|
-|**2023-06-14 09:21:15**|**NodeFormer: A Scalable Graph Structure Learning Transformer for Node   Classification**|Qitian Wu et.al.|[2306.08385v1](http://arxiv.org/abs/2306.08385v1)|[link](https://github.com/qitianwu/nodeformer)|
-|**2023-06-14 08:11:24**|**Carbon emissions and sustainability of launching 5G mobile networks in   China**|Tong Li et.al.|[2306.08337v1](http://arxiv.org/abs/2306.08337v1)|[link](https://github.com/tong89/sustainability_5g)|
-|**2023-06-14 06:28:26**|**FRIGATE: Frugal Spatio-temporal Forecasting on Road Networks**|Mridul Gupta et.al.|[2306.08277v1](http://arxiv.org/abs/2306.08277v1)|[link](https://github.com/idea-iitd/frigate)|
-|**2023-06-14 02:45:14**|**Uncertainty-Aware Robust Learning on Noisy Graphs**|Shuyi Chen et.al.|[2306.08210v1](http://arxiv.org/abs/2306.08210v1)|null|
-|**2023-06-14 01:53:17**|**Explainable and Position-Aware Learning in Digital Pathology**|Milan Aryal et.al.|[2306.08198v1](http://arxiv.org/abs/2306.08198v1)|null|
-|**2023-06-14 01:38:01**|**Learning on Graphs under Label Noise**|Jingyang Yuan et.al.|[2306.08194v1](http://arxiv.org/abs/2306.08194v1)|null|
-|**2023-06-13 14:25:26**|**Inferring dynamic regulatory interaction graphs from time series data   with perturbations**|Dhananjay Bhaskar et.al.|[2306.07803v1](http://arxiv.org/abs/2306.07803v1)|null|
-|**2023-06-13 14:06:16**|**Transferable Machine Learning Approach for Predicting Electronic   Structures of Charged Defects**|Yuxing Ma et.al.|[2306.08017v1](http://arxiv.org/abs/2306.08017v1)|null|
-|**2023-06-13 13:48:06**|**MolCAP: Molecular Chemical reActivity pretraining and   prompted-finetuning enhanced molecular representation learning**|Yu Wang et.al.|[2306.09187v1](http://arxiv.org/abs/2306.09187v1)|null|
-|**2023-06-13 12:40:39**|**Vector-Quantized Graph Auto-Encoder**|Yoann Boget et.al.|[2306.07735v1](http://arxiv.org/abs/2306.07735v1)|null|
-|**2023-06-13 08:22:18**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618v2](http://arxiv.org/abs/2306.07618v2)|null|
-|**2023-06-13 00:29:57**|**Von Mises Mixture Distributions for Molecular Conformation Generation**|Kirk Swanson et.al.|[2306.07472v1](http://arxiv.org/abs/2306.07472v1)|[link](https://github.com/thejonaslab/vonmises-icml-2023)|
-|**2023-06-12 17:52:39**|**Operator Learning with Neural Fields: Tackling PDEs on General   Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|null|
-|**2023-06-12 13:42:56**|**Coupled Attention Networks for Multivariate Time Series Anomaly   Detection**|Feng Xia et.al.|[2306.07114v1](http://arxiv.org/abs/2306.07114v1)|[link](https://github.com/ML4ITS/mtad-gat-pytorch)|
-|**2023-06-12 10:46:31**|**Dynamic Causal Graph Convolutional Network for Traffic Prediction**|Junpeng Lin et.al.|[2306.07019v1](http://arxiv.org/abs/2306.07019v1)|null|
+|**2023-06-20 04:16:53**|**Less Can Be More: Exploring Population Rating Dispositions with   Partitioned Models in Recommender Systems**|Ruixuan Sun et.al.|[2306.11279v1](http://arxiv.org/abs/2306.11279v1)|null|
+|**2023-06-19 22:10:24**|**Insufficiently Justified Disparate Impact: A New Criterion for Subgroup   Fairness**|Neil Menghani et.al.|[2306.11181v1](http://arxiv.org/abs/2306.11181v1)|null|
+|**2023-06-18 11:51:39**|**Personalized Elastic Embedding Learning for On-Device Recommendation**|Ruiqi Zheng et.al.|[2306.10532v1](http://arxiv.org/abs/2306.10532v1)|null|
+|**2023-06-16 23:32:54**|**Magnifying NASA Roman GBTDS exoplanet science with coordinated   observations by ESA Euclid**|Eamonn Kerins et.al.|[2306.10210v1](http://arxiv.org/abs/2306.10210v1)|null|
+|**2023-06-16 01:29:53**|**Reevaluation of Stark-induced transition polarizabilities in cesium**|H. B. Tran Tan et.al.|[2306.09573v1](http://arxiv.org/abs/2306.09573v1)|null|
+|**2023-06-13 09:46:16**|**Inactivated COVID-19 Vaccination did not affect In vitro fertilization   (IVF) / Intra-Cytoplasmic Sperm Injection (ICSI) cycle outcomes**|Qi Wan et.al.|[2306.07652v1](http://arxiv.org/abs/2306.07652v1)|null|
+|**2023-06-12 12:28:54**|**Neighborhood-based Hard Negative Mining for Sequential Recommendation**|Lu Fan et.al.|[2306.10047v1](http://arxiv.org/abs/2306.10047v1)|[link](https://github.com/floatSDSDS/GNNO})|
+|**2023-06-09 15:02:23**|**Digital Twin-Assisted Resource Demand Prediction for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2306.05946v1](http://arxiv.org/abs/2306.05946v1)|null|
+|**2023-06-09 13:26:17**|**Social interactions mediated by the Internet and the Big-Five: a   cross-country analysis**|Andrea Mercado et.al.|[2306.05884v1](http://arxiv.org/abs/2306.05884v1)|null|
+|**2023-06-08 15:56:57**|**Are fairness metric scores enough to assess discrimination biases in   machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
+|**2023-06-08 11:39:57**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v2](http://arxiv.org/abs/2306.05118v2)|[link](https://github.com/lyingcs/controllable-multi-objective-reranking)|
+|**2023-06-06 10:37:37**|**Minimizing Hitting Time between Disparate Groups with Shortcut Edges**|Florian Adriaens et.al.|[2306.03571v2](http://arxiv.org/abs/2306.03571v2)|null|
+|**2023-06-02 14:47:56**|**STUDY: Socially Aware Temporally Casual Decoder Recommender Systems**|Eltayeb Ahmed et.al.|[2306.07946v1](http://arxiv.org/abs/2306.07946v1)|null|
+|**2023-06-01 21:38:50**|**A Multi-Modal Latent-Features based Service Recommendation System for   the Social Internet of Things**|Amar Khelloufi et.al.|[2306.01163v1](http://arxiv.org/abs/2306.01163v1)|null|
+|**2023-05-31 16:48:34**|**Bias Mitigation Methods for Binary Classification Decision-Making   Systems: Survey and Recommendations**|Madeleine Waller et.al.|[2305.20020v1](http://arxiv.org/abs/2305.20020v1)|null|
+|**2023-05-27 15:09:56**|**Dynamic User Segmentation and Usage Profiling**|Animesh Mitra et.al.|[2305.17492v1](http://arxiv.org/abs/2305.17492v1)|null|
+|**2023-05-26 02:08:54**|**NLP Reproducibility For All: Understanding Experiences of Beginners**|Shane Storks et.al.|[2305.16579v3](http://arxiv.org/abs/2305.16579v3)|[link](https://github.com/sled-group/nlp-reproducibility-for-beginners)|
+|**2023-05-25 13:34:09**|**What about em? How Commercial Machine Translation Fails to Handle   (Neo-)Pronouns**|Anne Lauscher et.al.|[2305.16051v1](http://arxiv.org/abs/2305.16051v1)|null|
+|**2023-05-24 16:55:49**|**Is Your Model "MADD"? A Novel Metric to Evaluate Algorithmic Fairness   for Predictive Student Models**|Mélina Verger et.al.|[2305.15342v1](http://arxiv.org/abs/2305.15342v1)|[link](https://github.com/melinaverger/madd)|
+|**2023-05-20 04:32:59**|**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**|Wenyue Hua et.al.|[2305.12090v1](http://arxiv.org/abs/2305.12090v1)|null|
+|**2023-05-19 16:43:53**|**On the Fairness Impacts of Private Ensembles Models**|Cuong Tran et.al.|[2305.11807v1](http://arxiv.org/abs/2305.11807v1)|null|
+|**2023-05-19 00:45:55**|**Group fairness without demographics using social networks**|David Liu et.al.|[2305.11361v1](http://arxiv.org/abs/2305.11361v1)|null|
+|**2023-05-16 09:53:03**|**Fairness and Diversity in Information Access Systems**|Lorenzo Porcaro et.al.|[2305.09319v1](http://arxiv.org/abs/2305.09319v1)|null|
+|**2023-05-11 07:38:24**|**PerFedRec++: Enhancing Personalized Federated Recommendation with   Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622v1](http://arxiv.org/abs/2305.06622v1)|null|
+|**2023-05-10 13:16:39**|**Evaluating Twitter's Algorithmic Amplification of Low-Trust Content: An   Observational Study**|Giulio Corsi et.al.|[2305.06125v2](http://arxiv.org/abs/2305.06125v2)|[link](https://github.com/gc540/twitter-amplification-eval)|
+|**2023-05-10 11:15:22**|**A Classification of Feedback Loops and Their Relation to Biases in   Automated Decision-Making Systems**|Nicolò Pagan et.al.|[2305.06055v1](http://arxiv.org/abs/2305.06055v1)|[link](https://github.com/paganick/feedback-loops-and-biases)|
+|**2023-05-06 10:04:43**|**Attacking Pre-trained Recommendation**|Yiqing Wu et.al.|[2305.03995v1](http://arxiv.org/abs/2305.03995v1)|null|
+|**2023-05-05 21:25:35**|**CHAI-DT: A Framework for Prompting Conversational Generative AI Agents   to Actively Participate in Co-Creation**|Brandon Harwood et.al.|[2305.03852v1](http://arxiv.org/abs/2305.03852v1)|null|
+|**2023-05-05 02:33:45**|**Meta-Maintanance for Dockerfiles: Are We There Yet?**|Takeru Tanaka et.al.|[2305.03251v1](http://arxiv.org/abs/2305.03251v1)|null|
+|**2023-05-05 00:57:55**|**Algorithms for Social Justice: Affirmative Action in Social Networks**|Georgina Curto et.al.|[2305.03223v1](http://arxiv.org/abs/2305.03223v1)|null|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-16 05:46:27**|**M3PT: A Multi-Modal Model for POI Tagging**|Jingsong Yang et.al.|[2306.10079v1](http://arxiv.org/abs/2306.10079v1)|null|
+|**2023-06-12 15:00:58**|**Interpolating Item and User Fairness in Recommendation Systems**|Qinyi Chen et.al.|[2306.10050v1](http://arxiv.org/abs/2306.10050v1)|null|
 |**2023-06-11 02:35:48**|**Multi-modal Representation Learning for Social Post Location Inference**|Ruiting Dai et.al.|[2306.07935v1](http://arxiv.org/abs/2306.07935v1)|null|
 |**2023-06-08 07:45:24**|**COURIER: Contrastive User Intention Reconstruction for Large-Scale   Pre-Train of Image Features**|Jia-Qi Yang et.al.|[2306.05001v1](http://arxiv.org/abs/2306.05001v1)|null|
+|**2023-06-05 07:04:34**|**Graph Based Long-Term And Short-Term Interest Model for Click-Through   Rate Prediction**|Huinan Sun et.al.|[2306.10028v1](http://arxiv.org/abs/2306.10028v1)|null|
 |**2023-05-23 21:47:31**|**Disincentivizing Polarization in Social Networks**|Christian Borgs et.al.|[2305.14537v1](http://arxiv.org/abs/2305.14537v1)|null|
 |**2023-05-21 10:29:25**|**Multi-factor Sequential Re-ranking with Perception-Aware Diversification**|Yue Xu et.al.|[2305.12420v1](http://arxiv.org/abs/2305.12420v1)|null|
 |**2023-05-21 02:31:29**|**Multi-channel Integrated Recommendation with Exposure Constraints**|Yue Xu et.al.|[2305.12319v1](http://arxiv.org/abs/2305.12319v1)|null|
@@ -69,42 +72,39 @@
 |**2023-02-16 07:38:51**|**Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video   Rank Models**|Xuanji Xiao et.al.|[2302.08128v1](http://arxiv.org/abs/2302.08128v1)|null|
 |**2023-02-14 09:03:35**|**Effective Dimension in Bandit Problems under Censorship**|Gauthier Guinet et.al.|[2302.06916v1](http://arxiv.org/abs/2302.06916v1)|null|
 |**2023-02-13 15:56:53**|**Exploring High Tower Base Stations with Multi-User Massive MIMO for   Rural Connectivity**|Ammar El Falou et.al.|[2302.06481v3](http://arxiv.org/abs/2302.06481v3)|null|
-|**2023-02-12 19:51:32**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain   Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v2](http://arxiv.org/abs/2302.05990v2)|[link](https://github.com/alarca94/magrec)|
-|**2023-02-12 14:03:35**|**Neural Node Matching for Multi-Target Cross Domain Recommendation**|Wujiang Xu et.al.|[2302.05919v1](http://arxiv.org/abs/2302.05919v1)|null|
-|**2023-02-10 22:33:35**|**"Software is the easy part of Software Engineering" -- Lessons and   Experiences from A Large-Scale, Multi-Team Capstone Course**|Ze Shi Li et.al.|[2302.05536v1](http://arxiv.org/abs/2302.05536v1)|null|
 
-## Group Recommendation
+## Graph Neural Network
 
-### Group
+### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-16 01:29:53**|**Reevaluation of Stark-induced transition polarizabilities in cesium**|H. B. Tran Tan et.al.|[2306.09573v1](http://arxiv.org/abs/2306.09573v1)|null|
-|**2023-06-13 09:46:16**|**Inactivated COVID-19 Vaccination did not affect In vitro fertilization   (IVF) / Intra-Cytoplasmic Sperm Injection (ICSI) cycle outcomes**|Qi Wan et.al.|[2306.07652v1](http://arxiv.org/abs/2306.07652v1)|null|
-|**2023-06-09 15:02:23**|**Digital Twin-Assisted Resource Demand Prediction for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2306.05946v1](http://arxiv.org/abs/2306.05946v1)|null|
-|**2023-06-09 13:26:17**|**Social interactions mediated by the Internet and the Big-Five: a   cross-country analysis**|Andrea Mercado et.al.|[2306.05884v1](http://arxiv.org/abs/2306.05884v1)|null|
-|**2023-06-08 15:56:57**|**Are fairness metric scores enough to assess discrimination biases in   machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
-|**2023-06-08 11:39:57**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v2](http://arxiv.org/abs/2306.05118v2)|[link](https://github.com/lyingcs/controllable-multi-objective-reranking)|
-|**2023-06-06 10:37:37**|**Minimizing Hitting Time between Disparate Groups with Shortcut Edges**|Florian Adriaens et.al.|[2306.03571v1](http://arxiv.org/abs/2306.03571v1)|null|
-|**2023-06-02 14:47:56**|**STUDY: Socially Aware Temporally Casual Decoder Recommender Systems**|Eltayeb Ahmed et.al.|[2306.07946v1](http://arxiv.org/abs/2306.07946v1)|null|
-|**2023-06-01 21:38:50**|**A Multi-Modal Latent-Features based Service Recommendation System for   the Social Internet of Things**|Amar Khelloufi et.al.|[2306.01163v1](http://arxiv.org/abs/2306.01163v1)|null|
-|**2023-05-31 16:48:34**|**Bias Mitigation Methods for Binary Classification Decision-Making   Systems: Survey and Recommendations**|Madeleine Waller et.al.|[2305.20020v1](http://arxiv.org/abs/2305.20020v1)|null|
-|**2023-05-27 15:09:56**|**Dynamic User Segmentation and Usage Profiling**|Animesh Mitra et.al.|[2305.17492v1](http://arxiv.org/abs/2305.17492v1)|null|
-|**2023-05-26 02:08:54**|**NLP Reproducibility For All: Understanding Experiences of Beginners**|Shane Storks et.al.|[2305.16579v3](http://arxiv.org/abs/2305.16579v3)|[link](https://github.com/sled-group/nlp-reproducibility-for-beginners)|
-|**2023-05-25 13:34:09**|**What about em? How Commercial Machine Translation Fails to Handle   (Neo-)Pronouns**|Anne Lauscher et.al.|[2305.16051v1](http://arxiv.org/abs/2305.16051v1)|null|
-|**2023-05-24 16:55:49**|**Is Your Model "MADD"? A Novel Metric to Evaluate Algorithmic Fairness   for Predictive Student Models**|Mélina Verger et.al.|[2305.15342v1](http://arxiv.org/abs/2305.15342v1)|[link](https://github.com/melinaverger/madd)|
-|**2023-05-20 04:32:59**|**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**|Wenyue Hua et.al.|[2305.12090v1](http://arxiv.org/abs/2305.12090v1)|null|
-|**2023-05-19 16:43:53**|**On the Fairness Impacts of Private Ensembles Models**|Cuong Tran et.al.|[2305.11807v1](http://arxiv.org/abs/2305.11807v1)|null|
-|**2023-05-19 00:45:55**|**Group fairness without demographics using social networks**|David Liu et.al.|[2305.11361v1](http://arxiv.org/abs/2305.11361v1)|null|
-|**2023-05-16 09:53:03**|**Fairness and Diversity in Information Access Systems**|Lorenzo Porcaro et.al.|[2305.09319v1](http://arxiv.org/abs/2305.09319v1)|null|
-|**2023-05-11 07:38:24**|**PerFedRec++: Enhancing Personalized Federated Recommendation with   Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622v1](http://arxiv.org/abs/2305.06622v1)|null|
-|**2023-05-10 13:16:39**|**Evaluating Twitter's Algorithmic Amplification of Low-Trust Content: An   Observational Study**|Giulio Corsi et.al.|[2305.06125v2](http://arxiv.org/abs/2305.06125v2)|[link](https://github.com/gc540/twitter-amplification-eval)|
-|**2023-05-10 11:15:22**|**A Classification of Feedback Loops and Their Relation to Biases in   Automated Decision-Making Systems**|Nicolò Pagan et.al.|[2305.06055v1](http://arxiv.org/abs/2305.06055v1)|[link](https://github.com/paganick/feedback-loops-and-biases)|
-|**2023-05-06 10:04:43**|**Attacking Pre-trained Recommendation**|Yiqing Wu et.al.|[2305.03995v1](http://arxiv.org/abs/2305.03995v1)|null|
-|**2023-05-05 21:25:35**|**CHAI-DT: A Framework for Prompting Conversational Generative AI Agents   to Actively Participate in Co-Creation**|Brandon Harwood et.al.|[2305.03852v1](http://arxiv.org/abs/2305.03852v1)|null|
-|**2023-05-05 02:33:45**|**Meta-Maintanance for Dockerfiles: Are We There Yet?**|Takeru Tanaka et.al.|[2305.03251v1](http://arxiv.org/abs/2305.03251v1)|null|
-|**2023-05-05 00:57:55**|**Algorithms for Social Justice: Affirmative Action in Social Networks**|Georgina Curto et.al.|[2305.03223v1](http://arxiv.org/abs/2305.03223v1)|null|
-|**2023-05-03 18:14:26**|**Diffuse and Localized Functional Dysconnectivity in Schizophrenia: a   Bootstrapped Top-Down Approach**|Davide Coluzzi et.al.|[2305.02369v1](http://arxiv.org/abs/2305.02369v1)|null|
-|**2023-05-03 15:20:00**|**Maximizing Submodular Functions for Recommendation in the Presence of   Biases**|Anay Mehrotra et.al.|[2305.02806v1](http://arxiv.org/abs/2305.02806v1)|null|
-|**2023-05-03 08:21:59**|**Putting collective intelligence to the enforcement of the Digital   Services Act**|Suzanne Vergnolle et.al.|[2305.01959v1](http://arxiv.org/abs/2305.01959v1)|null|
-|**2023-05-02 01:09:48**|**Multidimensional Fairness in Paper Recommendation**|Reem Alsaffar et.al.|[2305.01141v1](http://arxiv.org/abs/2305.01141v1)|null|
-|**2023-04-30 21:16:53**|**Contextual Response Interpretation for Automated Structured Interviews:   A Case Study in Market Research**|Harshita Sahijwani et.al.|[2305.00577v1](http://arxiv.org/abs/2305.00577v1)|null|
+|**2023-06-20 16:40:41**|**Principles for Initialization and Architecture Selection in Graph Neural   Networks with ReLU Activations**|Gage DeZoort et.al.|[2306.11668v1](http://arxiv.org/abs/2306.11668v1)|null|
+|**2023-06-20 15:03:31**|**Provably Powerful Graph Neural Networks for Directed Multigraphs**|Béni Egressy et.al.|[2306.11586v1](http://arxiv.org/abs/2306.11586v1)|null|
+|**2023-06-20 12:15:48**|**Hypergraph Classification via Persistent Homology**|Mehmet Emin Aktas et.al.|[2306.11484v1](http://arxiv.org/abs/2306.11484v1)|null|
+|**2023-06-20 10:30:46**|**Graph Neural Stochastic Differential Equations for Learning Brownian   Dynamics**|Suresh Bishnoi et.al.|[2306.11435v1](http://arxiv.org/abs/2306.11435v1)|null|
+|**2023-06-20 09:40:32**|**Hierarchical GNNs for Large Graph Generation**|Alex O. Davies et.al.|[2306.11412v1](http://arxiv.org/abs/2306.11412v1)|null|
+|**2023-06-20 06:57:24**|**Low Latency Edge Classification GNN for Particle Trajectory Tracking on   FPGAs**|Shi-Yu Huang et.al.|[2306.11330v1](http://arxiv.org/abs/2306.11330v1)|null|
+|**2023-06-20 06:25:05**|**Variational Disentangled Graph Auto-Encoders for Link Prediction**|Jun Fu et.al.|[2306.11315v1](http://arxiv.org/abs/2306.11315v1)|null|
+|**2023-06-20 06:15:19**|**Deep graph kernel point processes**|Zheng Dong et.al.|[2306.11313v1](http://arxiv.org/abs/2306.11313v1)|null|
+|**2023-06-20 03:33:22**|**GraphGLOW: Universal and Generalizable Structure Learning for Graph   Neural Networks**|Wentao Zhao et.al.|[2306.11264v1](http://arxiv.org/abs/2306.11264v1)|[link](https://github.com/wtaozhao/graphglow)|
+|**2023-06-19 21:18:52**|**Learning Models of Adversarial Agent Behavior under Partial   Observability**|Sean Ye et.al.|[2306.11168v1](http://arxiv.org/abs/2306.11168v1)|[link](https://github.com/core-robotics-lab/opponent-modeling)|
+|**2023-06-19 19:53:41**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141v1](http://arxiv.org/abs/2306.11141v1)|[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)|
+|**2023-06-19 19:31:35**|**Fairness-aware Message Passing for Graph Neural Networks**|Huaisheng Zhu et.al.|[2306.11132v1](http://arxiv.org/abs/2306.11132v1)|null|
+|**2023-06-19 09:11:04**|**NAR-Former V2: Rethinking Transformer for Universal Neural Network   Representation Learning**|Yun Yi et.al.|[2306.10792v1](http://arxiv.org/abs/2306.10792v1)|null|
+|**2023-06-19 08:21:30**|**P-tensors: a General Formalism for Constructing Higher Order Message   Passing Networks**|Tianyi Sun et.al.|[2306.10767v1](http://arxiv.org/abs/2306.10767v1)|null|
+|**2023-06-19 08:18:17**|**Substitutional Alloying Using Crystal Graph Neural Networks**|Dario Massa et.al.|[2306.10766v1](http://arxiv.org/abs/2306.10766v1)|[link](https://github.com/danielcieslinski/suballoy)|
+|**2023-06-19 04:06:06**|**Many-body Localization in Clean Chains with Long-Range Interactions**|Chen Cheng et.al.|[2306.10691v1](http://arxiv.org/abs/2306.10691v1)|null|
+|**2023-06-18 19:25:13**|**Meta-Learning for Airflow Simulations with Graph Neural Networks**|Wenzhuo Liu et.al.|[2306.10624v1](http://arxiv.org/abs/2306.10624v1)|null|
+|**2023-06-18 19:01:56**|**UniSG^GA: A 3D scenegraph powered by Geometric Algebra unifying   geometry, behavior and GNNs towards generative AI**|Manos Kamarianakis et.al.|[2306.10621v1](http://arxiv.org/abs/2306.10621v1)|null|
+|**2023-06-18 03:33:46**|**Graph Ladling: Shockingly Simple Parallel GNN Training without   Intermediate Communication**|Ajay Jaiswal et.al.|[2306.10466v1](http://arxiv.org/abs/2306.10466v1)|[link](https://github.com/vita-group/graph_ladling)|
+|**2023-06-18 01:58:59**|**Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls   and New Benchmarking**|Juanhui Li et.al.|[2306.10453v1](http://arxiv.org/abs/2306.10453v1)|[link](https://github.com/juanhui28/heart)|
+|**2023-06-18 00:50:36**|**In-Process Global Interpretation for Graph Learning via Distribution   Matching**|Yi Nian et.al.|[2306.10447v1](http://arxiv.org/abs/2306.10447v1)|null|
+|**2023-06-17 23:20:19**|**Graph-based Active Learning for Surface Water and Sediment Detection in   Multispectral Images**|Bohan Chen et.al.|[2306.10440v1](http://arxiv.org/abs/2306.10440v1)|null|
+|**2023-06-17 20:29:55**|**Federated Learning Based Distributed Localization of False Data   Injection Attacks on Smart Grids**|Cihat Keçeci et.al.|[2306.10420v1](http://arxiv.org/abs/2306.10420v1)|null|
+|**2023-06-17 14:57:35**|**Query2GMM: Learning Representation with Gaussian Mixture Model for   Reasoning over Knowledge Graphs**|Yuhan Wu et.al.|[2306.10367v1](http://arxiv.org/abs/2306.10367v1)|null|
+|**2023-06-17 13:51:33**|**Bkd-FedGNN: A Benchmark for Classification Backdoor Attacks on Federated   Graph Neural Network**|Fan Liu et.al.|[2306.10351v1](http://arxiv.org/abs/2306.10351v1)|[link](https://github.com/usail-hkust/bkdfedgcn)|
+|**2023-06-17 07:22:25**|**OpenGSL: A Comprehensive Benchmark for Graph Structure Learning**|Zhiyao Zhou et.al.|[2306.10280v1](http://arxiv.org/abs/2306.10280v1)|[link](https://github.com/opengsl/opengsl)|
+|**2023-06-17 02:04:49**|**Multi-Task Offloading via Graph Neural Networks in Heterogeneous   Multi-access Edge Computing**|Mulei Ma et.al.|[2306.10232v1](http://arxiv.org/abs/2306.10232v1)|null|
+|**2023-06-16 18:18:37**|**Dual Node and Edge Fairness-Aware Graph Partition**|Tingwei Liu et.al.|[2306.10123v1](http://arxiv.org/abs/2306.10123v1)|null|
+|**2023-06-16 14:50:43**|**Uncertainty Quantification via Spatial-Temporal Tweedie Model for   Zero-inflated and Long-tail Travel Demand Prediction**|Xinke Jiang et.al.|[2306.09882v1](http://arxiv.org/abs/2306.09882v1)|[link](https://github.com/sttdanonymous/sttd)|
+|**2023-06-16 12:03:39**|**GPINN: Physics-informed Neural Network with Graph Embedding**|Yuyang Miao et.al.|[2306.09792v1](http://arxiv.org/abs/2306.09792v1)|[link](https://github.com/hl4220/physics-informed-neural-network-with-graph-embedding)|
