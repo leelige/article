@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-21 15:11:17**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327v1](http://arxiv.org/abs/2306.12327v1)|null|
+|**2023-06-21 13:16:10**|**GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection**|Jianheng Tang et.al.|[2306.12251v1](http://arxiv.org/abs/2306.12251v1)|[link](https://github.com/squareroot3/gadbench)|
+|**2023-06-21 12:44:52**|**Predicting protein variants with equivariant graph neural networks**|Antonia Boca et.al.|[2306.12231v1](http://arxiv.org/abs/2306.12231v1)|null|
+|**2023-06-21 11:55:15**|**Polygon Detection for Room Layout Estimation using Heterogeneous Graphs   and Wireframes**|David Gillsjö et.al.|[2306.12203v1](http://arxiv.org/abs/2306.12203v1)|null|
+|**2023-06-21 11:32:28**|**Adaptive DNN Surgery for Selfish Inference Acceleration with On-demand   Edge Resource**|Xiang Yang et.al.|[2306.12185v1](http://arxiv.org/abs/2306.12185v1)|null|
+|**2023-06-21 09:35:50**|**Spatial Heterophily Aware Graph Neural Networks**|Congxi Xiao et.al.|[2306.12139v1](http://arxiv.org/abs/2306.12139v1)|null|
+|**2023-06-21 08:11:40**|**Structure-Aware DropEdge Towards Deep Graph Convolutional Networks**|Jiaqi Han et.al.|[2306.12091v1](http://arxiv.org/abs/2306.12091v1)|null|
 |**2023-06-20 16:40:41**|**Principles for Initialization and Architecture Selection in Graph Neural   Networks with ReLU Activations**|Gage DeZoort et.al.|[2306.11668v1](http://arxiv.org/abs/2306.11668v1)|null|
 |**2023-06-20 15:03:31**|**Provably Powerful Graph Neural Networks for Directed Multigraphs**|Béni Egressy et.al.|[2306.11586v1](http://arxiv.org/abs/2306.11586v1)|null|
 |**2023-06-20 12:15:48**|**Hypergraph Classification via Persistent Homology**|Mehmet Emin Aktas et.al.|[2306.11484v1](http://arxiv.org/abs/2306.11484v1)|null|
@@ -25,10 +32,3 @@
 |**2023-06-18 00:50:36**|**In-Process Global Interpretation for Graph Learning via Distribution   Matching**|Yi Nian et.al.|[2306.10447v1](http://arxiv.org/abs/2306.10447v1)|null|
 |**2023-06-17 23:20:19**|**Graph-based Active Learning for Surface Water and Sediment Detection in   Multispectral Images**|Bohan Chen et.al.|[2306.10440v1](http://arxiv.org/abs/2306.10440v1)|null|
 |**2023-06-17 20:29:55**|**Federated Learning Based Distributed Localization of False Data   Injection Attacks on Smart Grids**|Cihat Keçeci et.al.|[2306.10420v1](http://arxiv.org/abs/2306.10420v1)|null|
-|**2023-06-17 14:57:35**|**Query2GMM: Learning Representation with Gaussian Mixture Model for   Reasoning over Knowledge Graphs**|Yuhan Wu et.al.|[2306.10367v1](http://arxiv.org/abs/2306.10367v1)|null|
-|**2023-06-17 13:51:33**|**Bkd-FedGNN: A Benchmark for Classification Backdoor Attacks on Federated   Graph Neural Network**|Fan Liu et.al.|[2306.10351v1](http://arxiv.org/abs/2306.10351v1)|[link](https://github.com/usail-hkust/bkdfedgcn)|
-|**2023-06-17 07:22:25**|**OpenGSL: A Comprehensive Benchmark for Graph Structure Learning**|Zhiyao Zhou et.al.|[2306.10280v1](http://arxiv.org/abs/2306.10280v1)|[link](https://github.com/opengsl/opengsl)|
-|**2023-06-17 02:04:49**|**Multi-Task Offloading via Graph Neural Networks in Heterogeneous   Multi-access Edge Computing**|Mulei Ma et.al.|[2306.10232v1](http://arxiv.org/abs/2306.10232v1)|null|
-|**2023-06-16 18:18:37**|**Dual Node and Edge Fairness-Aware Graph Partition**|Tingwei Liu et.al.|[2306.10123v1](http://arxiv.org/abs/2306.10123v1)|null|
-|**2023-06-16 14:50:43**|**Uncertainty Quantification via Spatial-Temporal Tweedie Model for   Zero-inflated and Long-tail Travel Demand Prediction**|Xinke Jiang et.al.|[2306.09882v1](http://arxiv.org/abs/2306.09882v1)|[link](https://github.com/sttdanonymous/sttd)|
-|**2023-06-16 12:03:39**|**GPINN: Physics-informed Neural Network with Graph Embedding**|Yuyang Miao et.al.|[2306.09792v1](http://arxiv.org/abs/2306.09792v1)|[link](https://github.com/hl4220/physics-informed-neural-network-with-graph-embedding)|
