@@ -19,7 +19,6 @@
 |**2023-04-12 05:13:54**|**Deep Stable Multi-Interest Learning for Out-of-distribution Sequential   Recommendation**|Qiang Liu et.al.|[2304.05615v1](http://arxiv.org/abs/2304.05615v1)|null|
 |**2023-04-11 05:53:08**|**Neural Multi-network Diffusion towards Social Recommendation**|Boxin Du et.al.|[2304.04994v1](http://arxiv.org/abs/2304.04994v1)|null|
 |**2023-04-08 00:30:08**|**GPT4Rec: A Generative Framework for Personalized Recommendation and User   Interests Interpretation**|Jinming Li et.al.|[2304.03879v1](http://arxiv.org/abs/2304.03879v1)|null|
-|**2023-04-05 16:44:36**|**Optimism Based Exploration in Large-Scale Recommender Systems**|Hongbo Guo et.al.|[2304.02572v1](http://arxiv.org/abs/2304.02572v1)|null|
 |**2023-03-31 06:47:56**|**ConceptEVA: Concept-Based Interactive Exploration and Customization of   Document Summaries**|Xiaoyu Zhang et.al.|[2303.17826v1](http://arxiv.org/abs/2303.17826v1)|null|
 |**2023-03-21 00:00:35**|**Optimal Individualized Treatment Rule for Combination Treatments Under   Budget Constraints**|Qi Xu et.al.|[2303.11507v2](http://arxiv.org/abs/2303.11507v2)|null|
 |**2023-02-28 12:43:17**|**Rethinking Multi-Interest Learning for Candidate Matching in Recommender   Systems**|Yueqi Xie et.al.|[2302.14532v1](http://arxiv.org/abs/2302.14532v1)|null|
@@ -32,3 +31,4 @@
 |**2023-02-16 07:38:51**|**Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video   Rank Models**|Xuanji Xiao et.al.|[2302.08128v1](http://arxiv.org/abs/2302.08128v1)|null|
 |**2023-02-14 09:03:35**|**Effective Dimension in Bandit Problems under Censorship**|Gauthier Guinet et.al.|[2302.06916v1](http://arxiv.org/abs/2302.06916v1)|null|
 |**2023-02-13 15:56:53**|**Exploring High Tower Base Stations with Multi-User Massive MIMO for   Rural Connectivity**|Ammar El Falou et.al.|[2302.06481v3](http://arxiv.org/abs/2302.06481v3)|null|
+|**2023-02-12 19:51:32**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain   Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v2](http://arxiv.org/abs/2302.05990v2)|[link](https://github.com/alarca94/magrec)|

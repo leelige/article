@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-22 05:51:49**|**Recent Developments in Recommender Systems: A Survey**|Yang Li et.al.|[2306.12680v1](http://arxiv.org/abs/2306.12680v1)|null|
 |**2023-06-20 04:16:53**|**Less Can Be More: Exploring Population Rating Dispositions with   Partitioned Models in Recommender Systems**|Ruixuan Sun et.al.|[2306.11279v1](http://arxiv.org/abs/2306.11279v1)|null|
 |**2023-06-19 22:10:24**|**Insufficiently Justified Disparate Impact: A New Criterion for Subgroup   Fairness**|Neil Menghani et.al.|[2306.11181v1](http://arxiv.org/abs/2306.11181v1)|null|
 |**2023-06-18 11:51:39**|**Personalized Elastic Embedding Learning for On-Device Recommendation**|Ruiqi Zheng et.al.|[2306.10532v1](http://arxiv.org/abs/2306.10532v1)|null|
@@ -31,4 +32,3 @@
 |**2023-05-06 10:04:43**|**Attacking Pre-trained Recommendation**|Yiqing Wu et.al.|[2305.03995v1](http://arxiv.org/abs/2305.03995v1)|null|
 |**2023-05-05 21:25:35**|**CHAI-DT: A Framework for Prompting Conversational Generative AI Agents   to Actively Participate in Co-Creation**|Brandon Harwood et.al.|[2305.03852v1](http://arxiv.org/abs/2305.03852v1)|null|
 |**2023-05-05 02:33:45**|**Meta-Maintanance for Dockerfiles: Are We There Yet?**|Takeru Tanaka et.al.|[2305.03251v1](http://arxiv.org/abs/2305.03251v1)|null|
-|**2023-05-05 00:57:55**|**Algorithms for Social Justice: Affirmative Action in Social Networks**|Georgina Curto et.al.|[2305.03223v1](http://arxiv.org/abs/2305.03223v1)|null|

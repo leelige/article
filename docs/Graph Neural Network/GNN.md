@@ -2,12 +2,18 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-22 15:40:59**|**Conversation Derailment Forecasting with Graph Convolutional Networks**|Enas Altarawneh et.al.|[2306.12982v1](http://arxiv.org/abs/2306.12982v1)|null|
+|**2023-06-22 14:58:18**|**Evolving Computation Graphs**|Andreea Deac et.al.|[2306.12943v1](http://arxiv.org/abs/2306.12943v1)|null|
+|**2023-06-22 11:34:08**|**StrainNet: Predicting crystal structure elastic properties using   SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818v1](http://arxiv.org/abs/2306.12818v1)|null|
+|**2023-06-22 02:50:16**|**On Addressing the Limitations of Graph Neural Networks**|Sitao Luan et.al.|[2306.12640v1](http://arxiv.org/abs/2306.12640v1)|null|
+|**2023-06-21 20:21:15**|**DGC-GNN: Descriptor-free Geometric-Color Graph Neural Network for 2D-3D   Matching**|Shuzhe Wang et.al.|[2306.12547v1](http://arxiv.org/abs/2306.12547v1)|null|
+|**2023-06-21 18:08:55**|**Verifying Global Neural Network Specifications using Hyperproperties**|David Boetius et.al.|[2306.12495v1](http://arxiv.org/abs/2306.12495v1)|null|
 |**2023-06-21 15:11:17**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327v1](http://arxiv.org/abs/2306.12327v1)|null|
 |**2023-06-21 13:16:10**|**GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection**|Jianheng Tang et.al.|[2306.12251v1](http://arxiv.org/abs/2306.12251v1)|[link](https://github.com/squareroot3/gadbench)|
 |**2023-06-21 12:44:52**|**Predicting protein variants with equivariant graph neural networks**|Antonia Boca et.al.|[2306.12231v1](http://arxiv.org/abs/2306.12231v1)|null|
 |**2023-06-21 11:55:15**|**Polygon Detection for Room Layout Estimation using Heterogeneous Graphs   and Wireframes**|David Gillsjö et.al.|[2306.12203v1](http://arxiv.org/abs/2306.12203v1)|null|
 |**2023-06-21 11:32:28**|**Adaptive DNN Surgery for Selfish Inference Acceleration with On-demand   Edge Resource**|Xiang Yang et.al.|[2306.12185v1](http://arxiv.org/abs/2306.12185v1)|null|
-|**2023-06-21 09:35:50**|**Spatial Heterophily Aware Graph Neural Networks**|Congxi Xiao et.al.|[2306.12139v1](http://arxiv.org/abs/2306.12139v1)|null|
+|**2023-06-21 09:35:50**|**Spatial Heterophily Aware Graph Neural Networks**|Congxi Xiao et.al.|[2306.12139v1](http://arxiv.org/abs/2306.12139v1)|[link](https://github.com/paddlepaddle/paddlespatial)|
 |**2023-06-21 08:11:40**|**Structure-Aware DropEdge Towards Deep Graph Convolutional Networks**|Jiaqi Han et.al.|[2306.12091v1](http://arxiv.org/abs/2306.12091v1)|null|
 |**2023-06-20 16:40:41**|**Principles for Initialization and Architecture Selection in Graph Neural   Networks with ReLU Activations**|Gage DeZoort et.al.|[2306.11668v1](http://arxiv.org/abs/2306.11668v1)|null|
 |**2023-06-20 15:03:31**|**Provably Powerful Graph Neural Networks for Directed Multigraphs**|Béni Egressy et.al.|[2306.11586v1](http://arxiv.org/abs/2306.11586v1)|null|
@@ -26,9 +32,3 @@
 |**2023-06-19 08:18:17**|**Substitutional Alloying Using Crystal Graph Neural Networks**|Dario Massa et.al.|[2306.10766v1](http://arxiv.org/abs/2306.10766v1)|[link](https://github.com/danielcieslinski/suballoy)|
 |**2023-06-19 04:06:06**|**Many-body Localization in Clean Chains with Long-Range Interactions**|Chen Cheng et.al.|[2306.10691v1](http://arxiv.org/abs/2306.10691v1)|null|
 |**2023-06-18 19:25:13**|**Meta-Learning for Airflow Simulations with Graph Neural Networks**|Wenzhuo Liu et.al.|[2306.10624v1](http://arxiv.org/abs/2306.10624v1)|null|
-|**2023-06-18 19:01:56**|**UniSG^GA: A 3D scenegraph powered by Geometric Algebra unifying   geometry, behavior and GNNs towards generative AI**|Manos Kamarianakis et.al.|[2306.10621v1](http://arxiv.org/abs/2306.10621v1)|null|
-|**2023-06-18 03:33:46**|**Graph Ladling: Shockingly Simple Parallel GNN Training without   Intermediate Communication**|Ajay Jaiswal et.al.|[2306.10466v1](http://arxiv.org/abs/2306.10466v1)|[link](https://github.com/vita-group/graph_ladling)|
-|**2023-06-18 01:58:59**|**Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls   and New Benchmarking**|Juanhui Li et.al.|[2306.10453v1](http://arxiv.org/abs/2306.10453v1)|[link](https://github.com/juanhui28/heart)|
-|**2023-06-18 00:50:36**|**In-Process Global Interpretation for Graph Learning via Distribution   Matching**|Yi Nian et.al.|[2306.10447v1](http://arxiv.org/abs/2306.10447v1)|null|
-|**2023-06-17 23:20:19**|**Graph-based Active Learning for Surface Water and Sediment Detection in   Multispectral Images**|Bohan Chen et.al.|[2306.10440v1](http://arxiv.org/abs/2306.10440v1)|null|
-|**2023-06-17 20:29:55**|**Federated Learning Based Distributed Localization of False Data   Injection Attacks on Smart Grids**|Cihat Keçeci et.al.|[2306.10420v1](http://arxiv.org/abs/2306.10420v1)|null|
