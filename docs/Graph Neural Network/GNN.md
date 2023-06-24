@@ -4,14 +4,14 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-06-22 15:40:59**|**Conversation Derailment Forecasting with Graph Convolutional Networks**|Enas Altarawneh et.al.|[2306.12982v1](http://arxiv.org/abs/2306.12982v1)|null|
 |**2023-06-22 14:58:18**|**Evolving Computation Graphs**|Andreea Deac et.al.|[2306.12943v1](http://arxiv.org/abs/2306.12943v1)|null|
-|**2023-06-22 11:34:08**|**StrainNet: Predicting crystal structure elastic properties using   SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818v1](http://arxiv.org/abs/2306.12818v1)|null|
+|**2023-06-22 11:34:08**|**StrainNet: Predicting crystal structure elastic properties using   SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818v1](http://arxiv.org/abs/2306.12818v1)|[link](https://github.com/trachote/predict_elastic_tensor)|
 |**2023-06-22 02:50:16**|**On Addressing the Limitations of Graph Neural Networks**|Sitao Luan et.al.|[2306.12640v1](http://arxiv.org/abs/2306.12640v1)|null|
 |**2023-06-21 20:21:15**|**DGC-GNN: Descriptor-free Geometric-Color Graph Neural Network for 2D-3D   Matching**|Shuzhe Wang et.al.|[2306.12547v1](http://arxiv.org/abs/2306.12547v1)|null|
 |**2023-06-21 18:08:55**|**Verifying Global Neural Network Specifications using Hyperproperties**|David Boetius et.al.|[2306.12495v1](http://arxiv.org/abs/2306.12495v1)|null|
-|**2023-06-21 15:11:17**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327v1](http://arxiv.org/abs/2306.12327v1)|null|
+|**2023-06-21 15:11:17**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327v1](http://arxiv.org/abs/2306.12327v1)|[link](https://github.com/jwuphysics/halo-gnns)|
 |**2023-06-21 13:16:10**|**GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection**|Jianheng Tang et.al.|[2306.12251v1](http://arxiv.org/abs/2306.12251v1)|[link](https://github.com/squareroot3/gadbench)|
 |**2023-06-21 12:44:52**|**Predicting protein variants with equivariant graph neural networks**|Antonia Boca et.al.|[2306.12231v1](http://arxiv.org/abs/2306.12231v1)|null|
-|**2023-06-21 11:55:15**|**Polygon Detection for Room Layout Estimation using Heterogeneous Graphs   and Wireframes**|David Gillsjö et.al.|[2306.12203v1](http://arxiv.org/abs/2306.12203v1)|null|
+|**2023-06-21 11:55:15**|**Polygon Detection for Room Layout Estimation using Heterogeneous Graphs   and Wireframes**|David Gillsjö et.al.|[2306.12203v1](http://arxiv.org/abs/2306.12203v1)|[link](https://github.com/davidgillsjo/polygon-hgt)|
 |**2023-06-21 11:32:28**|**Adaptive DNN Surgery for Selfish Inference Acceleration with On-demand   Edge Resource**|Xiang Yang et.al.|[2306.12185v1](http://arxiv.org/abs/2306.12185v1)|null|
 |**2023-06-21 09:35:50**|**Spatial Heterophily Aware Graph Neural Networks**|Congxi Xiao et.al.|[2306.12139v1](http://arxiv.org/abs/2306.12139v1)|[link](https://github.com/paddlepaddle/paddlespatial)|
 |**2023-06-21 08:11:40**|**Structure-Aware DropEdge Towards Deep Graph Convolutional Networks**|Jiaqi Han et.al.|[2306.12091v1](http://arxiv.org/abs/2306.12091v1)|null|
