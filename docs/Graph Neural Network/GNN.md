@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-23 15:02:23**|**Torsion Graph Neural Networks**|Cong Shen et.al.|[2306.13541v1](http://arxiv.org/abs/2306.13541v1)|[link](https://github.com/cs-bio/torgnn)|
+|**2023-06-23 14:52:58**|**PathMLP: Smooth Path Towards High-order Homophily**|Chenxuan Xie et.al.|[2306.13532v1](http://arxiv.org/abs/2306.13532v1)|null|
+|**2023-06-23 11:47:30**|**A Graph Neural Network Approach for Temporal Mesh Blending and   Correspondence**|Aalok Gangopadhyay et.al.|[2306.13452v1](http://arxiv.org/abs/2306.13452v1)|null|
+|**2023-06-23 09:32:11**|**Network community detection via neural embeddings**|Sadamori Kojaku et.al.|[2306.13400v1](http://arxiv.org/abs/2306.13400v1)|null|
+|**2023-06-23 07:39:12**|**TrustGuard: GNN-based Robust and Explainable Trust Evaluation with   Dynamicity Support**|Jie Wang et.al.|[2306.13339v1](http://arxiv.org/abs/2306.13339v1)|null|
+|**2023-06-22 21:27:48**|**Directional diffusion models for graph representation learning**|Run Yang et.al.|[2306.13210v1](http://arxiv.org/abs/2306.13210v1)|null|
+|**2023-06-22 20:03:09**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186v1](http://arxiv.org/abs/2306.13186v1)|null|
 |**2023-06-22 15:40:59**|**Conversation Derailment Forecasting with Graph Convolutional Networks**|Enas Altarawneh et.al.|[2306.12982v1](http://arxiv.org/abs/2306.12982v1)|null|
 |**2023-06-22 14:58:18**|**Evolving Computation Graphs**|Andreea Deac et.al.|[2306.12943v1](http://arxiv.org/abs/2306.12943v1)|null|
 |**2023-06-22 11:34:08**|**StrainNet: Predicting crystal structure elastic properties using   SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818v1](http://arxiv.org/abs/2306.12818v1)|[link](https://github.com/trachote/predict_elastic_tensor)|
@@ -16,6 +23,7 @@
 |**2023-06-21 09:35:50**|**Spatial Heterophily Aware Graph Neural Networks**|Congxi Xiao et.al.|[2306.12139v1](http://arxiv.org/abs/2306.12139v1)|[link](https://github.com/paddlepaddle/paddlespatial)|
 |**2023-06-21 08:11:40**|**Structure-Aware DropEdge Towards Deep Graph Convolutional Networks**|Jiaqi Han et.al.|[2306.12091v1](http://arxiv.org/abs/2306.12091v1)|null|
 |**2023-06-20 16:40:41**|**Principles for Initialization and Architecture Selection in Graph Neural   Networks with ReLU Activations**|Gage DeZoort et.al.|[2306.11668v1](http://arxiv.org/abs/2306.11668v1)|null|
+|**2023-06-20 16:29:00**|**EEG Decoding for Datasets with Heterogenous Electrode Configurations   using Transfer Learning Graph Neural Networks**|Jinpei Han et.al.|[2306.13109v1](http://arxiv.org/abs/2306.13109v1)|null|
 |**2023-06-20 15:03:31**|**Provably Powerful Graph Neural Networks for Directed Multigraphs**|Béni Egressy et.al.|[2306.11586v1](http://arxiv.org/abs/2306.11586v1)|null|
 |**2023-06-20 12:15:48**|**Hypergraph Classification via Persistent Homology**|Mehmet Emin Aktas et.al.|[2306.11484v1](http://arxiv.org/abs/2306.11484v1)|null|
 |**2023-06-20 10:30:46**|**Graph Neural Stochastic Differential Equations for Learning Brownian   Dynamics**|Suresh Bishnoi et.al.|[2306.11435v1](http://arxiv.org/abs/2306.11435v1)|null|
@@ -24,11 +32,3 @@
 |**2023-06-20 06:25:05**|**Variational Disentangled Graph Auto-Encoders for Link Prediction**|Jun Fu et.al.|[2306.11315v1](http://arxiv.org/abs/2306.11315v1)|null|
 |**2023-06-20 06:15:19**|**Deep graph kernel point processes**|Zheng Dong et.al.|[2306.11313v1](http://arxiv.org/abs/2306.11313v1)|null|
 |**2023-06-20 03:33:22**|**GraphGLOW: Universal and Generalizable Structure Learning for Graph   Neural Networks**|Wentao Zhao et.al.|[2306.11264v1](http://arxiv.org/abs/2306.11264v1)|[link](https://github.com/wtaozhao/graphglow)|
-|**2023-06-19 21:18:52**|**Learning Models of Adversarial Agent Behavior under Partial   Observability**|Sean Ye et.al.|[2306.11168v1](http://arxiv.org/abs/2306.11168v1)|[link](https://github.com/core-robotics-lab/opponent-modeling)|
-|**2023-06-19 19:53:41**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141v1](http://arxiv.org/abs/2306.11141v1)|[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)|
-|**2023-06-19 19:31:35**|**Fairness-aware Message Passing for Graph Neural Networks**|Huaisheng Zhu et.al.|[2306.11132v1](http://arxiv.org/abs/2306.11132v1)|null|
-|**2023-06-19 09:11:04**|**NAR-Former V2: Rethinking Transformer for Universal Neural Network   Representation Learning**|Yun Yi et.al.|[2306.10792v1](http://arxiv.org/abs/2306.10792v1)|null|
-|**2023-06-19 08:21:30**|**P-tensors: a General Formalism for Constructing Higher Order Message   Passing Networks**|Tianyi Sun et.al.|[2306.10767v1](http://arxiv.org/abs/2306.10767v1)|null|
-|**2023-06-19 08:18:17**|**Substitutional Alloying Using Crystal Graph Neural Networks**|Dario Massa et.al.|[2306.10766v1](http://arxiv.org/abs/2306.10766v1)|[link](https://github.com/danielcieslinski/suballoy)|
-|**2023-06-19 04:06:06**|**Many-body Localization in Clean Chains with Long-Range Interactions**|Chen Cheng et.al.|[2306.10691v1](http://arxiv.org/abs/2306.10691v1)|null|
-|**2023-06-18 19:25:13**|**Meta-Learning for Airflow Simulations with Graph Neural Networks**|Wenzhuo Liu et.al.|[2306.10624v1](http://arxiv.org/abs/2306.10624v1)|null|
