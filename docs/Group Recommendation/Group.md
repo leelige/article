@@ -9,7 +9,7 @@
 |**2023-06-16 23:32:54**|**Magnifying NASA Roman GBTDS exoplanet science with coordinated   observations by ESA Euclid**|Eamonn Kerins et.al.|[2306.10210v1](http://arxiv.org/abs/2306.10210v1)|null|
 |**2023-06-16 01:29:53**|**Reevaluation of Stark-induced transition polarizabilities in cesium**|H. B. Tran Tan et.al.|[2306.09573v1](http://arxiv.org/abs/2306.09573v1)|null|
 |**2023-06-13 09:46:16**|**Inactivated COVID-19 Vaccination did not affect In vitro fertilization   (IVF) / Intra-Cytoplasmic Sperm Injection (ICSI) cycle outcomes**|Qi Wan et.al.|[2306.07652v1](http://arxiv.org/abs/2306.07652v1)|null|
-|**2023-06-12 12:28:54**|**Neighborhood-based Hard Negative Mining for Sequential Recommendation**|Lu Fan et.al.|[2306.10047v1](http://arxiv.org/abs/2306.10047v1)|[link](https://github.com/floatSDSDS/GNNO})|
+|**2023-06-12 12:28:54**|**Neighborhood-based Hard Negative Mining for Sequential Recommendation**|Lu Fan et.al.|[2306.10047v1](http://arxiv.org/abs/2306.10047v1)|[link](https://github.com/floatsdsds/gnno)|
 |**2023-06-09 15:02:23**|**Digital Twin-Assisted Resource Demand Prediction for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2306.05946v1](http://arxiv.org/abs/2306.05946v1)|null|
 |**2023-06-09 13:26:17**|**Social interactions mediated by the Internet and the Big-Five: a   cross-country analysis**|Andrea Mercado et.al.|[2306.05884v1](http://arxiv.org/abs/2306.05884v1)|null|
 |**2023-06-08 15:56:57**|**Are fairness metric scores enough to assess discrimination biases in   machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|

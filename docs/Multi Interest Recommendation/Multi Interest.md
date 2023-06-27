@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-24 15:00:47**|**A clustering and graph deep learning-based framework for COVID-19 drug   repurposing**|Chaarvi Bansal et.al.|[2306.13995v1](http://arxiv.org/abs/2306.13995v1)|null|
 |**2023-06-16 05:46:27**|**M3PT: A Multi-Modal Model for POI Tagging**|Jingsong Yang et.al.|[2306.10079v1](http://arxiv.org/abs/2306.10079v1)|null|
 |**2023-06-12 15:00:58**|**Interpolating Item and User Fairness in Recommendation Systems**|Qinyi Chen et.al.|[2306.10050v1](http://arxiv.org/abs/2306.10050v1)|null|
 |**2023-06-11 02:35:48**|**Multi-modal Representation Learning for Social Post Location Inference**|Ruiting Dai et.al.|[2306.07935v1](http://arxiv.org/abs/2306.07935v1)|null|
@@ -31,4 +32,3 @@
 |**2023-02-16 07:38:51**|**Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video   Rank Models**|Xuanji Xiao et.al.|[2302.08128v1](http://arxiv.org/abs/2302.08128v1)|null|
 |**2023-02-14 09:03:35**|**Effective Dimension in Bandit Problems under Censorship**|Gauthier Guinet et.al.|[2302.06916v1](http://arxiv.org/abs/2302.06916v1)|null|
 |**2023-02-13 15:56:53**|**Exploring High Tower Base Stations with Multi-User Massive MIMO for   Rural Connectivity**|Ammar El Falou et.al.|[2302.06481v3](http://arxiv.org/abs/2302.06481v3)|null|
-|**2023-02-12 19:51:32**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain   Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v2](http://arxiv.org/abs/2302.05990v2)|[link](https://github.com/alarca94/magrec)|
