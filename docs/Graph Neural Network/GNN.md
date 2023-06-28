@@ -2,7 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-26 17:09:43**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic   Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857v1](http://arxiv.org/abs/2306.14857v1)|null|
+|**2023-06-27 17:13:20**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v1](http://arxiv.org/abs/2306.15632v1)|null|
+|**2023-06-27 15:46:45**|**Automated Static Warning Identification via Path-based Semantic   Representation**|Yuwei Zhang et.al.|[2306.15568v1](http://arxiv.org/abs/2306.15568v1)|null|
+|**2023-06-27 14:54:39**|**Higher-order Graph Attention Network for Stock Selection with Joint   Analysis**|Yang Qiao et.al.|[2306.15526v1](http://arxiv.org/abs/2306.15526v1)|null|
+|**2023-06-27 12:38:11**|**Adversarial Training for Graph Neural Networks**|Lukas Gosch et.al.|[2306.15427v1](http://arxiv.org/abs/2306.15427v1)|null|
+|**2023-06-27 02:24:05**|**Input-sensitive dense-sparse primitive compositions for GNN acceleration**|Damitha Lenadora et.al.|[2306.15155v1](http://arxiv.org/abs/2306.15155v1)|null|
+|**2023-06-26 19:49:44**|**Optimized Vectorizing of Building Structures with Swap: High-Efficiency   Convolutional Channel-Swap Hybridization Strategy**|Moule Lin et.al.|[2306.15035v1](http://arxiv.org/abs/2306.15035v1)|null|
+|**2023-06-26 18:00:13**|**Renormalization Group Analysis of the Anderson Model on Random Regular   Graphs**|Carlo Vanoni et.al.|[2306.14965v1](http://arxiv.org/abs/2306.14965v1)|null|
+|**2023-06-26 17:09:43**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic   Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857v2](http://arxiv.org/abs/2306.14857v2)|null|
 |**2023-06-26 16:24:31**|**Accelerating Molecular Graph Neural Networks via Knowledge Distillation**|Filip Ekström Kelvinius et.al.|[2306.14818v1](http://arxiv.org/abs/2306.14818v1)|null|
 |**2023-06-26 06:30:29**|**RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse   Tools**|Haochen Shi et.al.|[2306.14447v1](http://arxiv.org/abs/2306.14447v1)|null|
 |**2023-06-26 01:37:10**|**Interpretable Sparsification of Brain Graphs: Better Practices and   Effective Designs for Graph Neural Networks**|Gaotang Li et.al.|[2306.14375v1](http://arxiv.org/abs/2306.14375v1)|[link](https://github.com/motivationss/igs)|
@@ -25,10 +32,3 @@
 |**2023-06-23 07:39:12**|**TrustGuard: GNN-based Robust and Explainable Trust Evaluation with   Dynamicity Support**|Jie Wang et.al.|[2306.13339v1](http://arxiv.org/abs/2306.13339v1)|null|
 |**2023-06-22 21:27:48**|**Directional diffusion models for graph representation learning**|Run Yang et.al.|[2306.13210v1](http://arxiv.org/abs/2306.13210v1)|null|
 |**2023-06-22 20:03:09**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186v1](http://arxiv.org/abs/2306.13186v1)|[link](https://github.com/data-engineering-and-semantics/openkgbiblio)|
-|**2023-06-22 19:59:54**|**Prediction of Deep Ice Layer Thickness Using Adaptive Recurrent Graph   Neural Networks**|Benjamin Zalatan et.al.|[2306.13690v1](http://arxiv.org/abs/2306.13690v1)|null|
-|**2023-06-22 15:40:59**|**Conversation Derailment Forecasting with Graph Convolutional Networks**|Enas Altarawneh et.al.|[2306.12982v1](http://arxiv.org/abs/2306.12982v1)|null|
-|**2023-06-22 14:58:18**|**Evolving Computation Graphs**|Andreea Deac et.al.|[2306.12943v1](http://arxiv.org/abs/2306.12943v1)|null|
-|**2023-06-22 11:34:08**|**StrainNet: Predicting crystal structure elastic properties using   SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818v1](http://arxiv.org/abs/2306.12818v1)|[link](https://github.com/trachote/predict_elastic_tensor)|
-|**2023-06-22 02:50:16**|**On Addressing the Limitations of Graph Neural Networks**|Sitao Luan et.al.|[2306.12640v1](http://arxiv.org/abs/2306.12640v1)|null|
-|**2023-06-21 20:21:15**|**DGC-GNN: Descriptor-free Geometric-Color Graph Neural Network for 2D-3D   Matching**|Shuzhe Wang et.al.|[2306.12547v1](http://arxiv.org/abs/2306.12547v1)|null|
-|**2023-06-21 18:08:55**|**Verifying Global Neural Network Specifications using Hyperproperties**|David Boetius et.al.|[2306.12495v1](http://arxiv.org/abs/2306.12495v1)|null|
