@@ -2,7 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-27 17:13:20**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v1](http://arxiv.org/abs/2306.15632v1)|null|
+|**2023-06-28 17:22:15**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with   GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384v1](http://arxiv.org/abs/2306.16384v1)|[link](https://github.com/jeongminpark417/gids)|
+|**2023-06-28 13:21:00**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195v1](http://arxiv.org/abs/2306.16195v1)|[link](https://github.com/tangg555/SaBART)|
+|**2023-06-28 10:33:57**|**Mass Spectra Prediction with Structural Motif-based Graph Neural   Networks**|Jiwon Park et.al.|[2306.16085v1](http://arxiv.org/abs/2306.16085v1)|null|
+|**2023-06-28 10:27:53**|**Graph neural networks for sound source localization on distributed   microphone networks**|Eric Grinstein et.al.|[2306.16081v1](http://arxiv.org/abs/2306.16081v1)|null|
+|**2023-06-28 07:00:12**|**Graph Interpolation via Fast Fused-Gromovization**|Xinyu Ma et.al.|[2306.15963v1](http://arxiv.org/abs/2306.15963v1)|null|
+|**2023-06-28 05:14:03**|**Learning Dynamic Graphs from All Contextual Information for Accurate   Point-of-Interest Visit Forecasting**|Arash Hajisafi et.al.|[2306.15927v1](http://arxiv.org/abs/2306.15927v1)|null|
+|**2023-06-28 01:18:53**|**Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation   of In-hand Objects**|Alireza Rezazadeh et.al.|[2306.15858v1](http://arxiv.org/abs/2306.15858v1)|null|
+|**2023-06-27 18:09:15**|**Physics-inspired spatiotemporal-graph AI ensemble for gravitational wave   detection**|Minyang Tian et.al.|[2306.15728v1](http://arxiv.org/abs/2306.15728v1)|null|
+|**2023-06-27 17:13:20**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v2](http://arxiv.org/abs/2306.15632v2)|null|
 |**2023-06-27 15:46:45**|**Automated Static Warning Identification via Path-based Semantic   Representation**|Yuwei Zhang et.al.|[2306.15568v1](http://arxiv.org/abs/2306.15568v1)|null|
 |**2023-06-27 14:54:39**|**Higher-order Graph Attention Network for Stock Selection with Joint   Analysis**|Yang Qiao et.al.|[2306.15526v1](http://arxiv.org/abs/2306.15526v1)|null|
 |**2023-06-27 12:38:11**|**Adversarial Training for Graph Neural Networks**|Lukas Gosch et.al.|[2306.15427v1](http://arxiv.org/abs/2306.15427v1)|null|
@@ -24,11 +32,3 @@
 |**2023-06-24 09:46:18**|**Multi-task multi-station earthquake monitoring: An all-in-one seismic   Phase picking, Location, and Association Network (PLAN)**|Xu Si et.al.|[2306.13918v1](http://arxiv.org/abs/2306.13918v1)|null|
 |**2023-06-24 05:10:43**|**MIRACLE: Multi-task Learning based Interpretable Regulation of   Autoimmune Diseases through Common Latent Epigenetics**|Pengcheng Xu et.al.|[2306.13866v1](http://arxiv.org/abs/2306.13866v1)|null|
 |**2023-06-24 00:39:12**|**Generalised $f$-Mean Aggregation for Graph Neural Networks**|Ryan Kortvelesy et.al.|[2306.13826v1](http://arxiv.org/abs/2306.13826v1)|null|
-|**2023-06-23 19:50:48**|**Task-Driven Graph Attention for Hierarchical Relational Object   Navigation**|Michael Lingelbach et.al.|[2306.13760v1](http://arxiv.org/abs/2306.13760v1)|null|
-|**2023-06-23 15:02:23**|**Torsion Graph Neural Networks**|Cong Shen et.al.|[2306.13541v1](http://arxiv.org/abs/2306.13541v1)|[link](https://github.com/cs-bio/torgnn)|
-|**2023-06-23 14:52:58**|**PathMLP: Smooth Path Towards High-order Homophily**|Chenxuan Xie et.al.|[2306.13532v1](http://arxiv.org/abs/2306.13532v1)|null|
-|**2023-06-23 11:47:30**|**A Graph Neural Network Approach for Temporal Mesh Blending and   Correspondence**|Aalok Gangopadhyay et.al.|[2306.13452v1](http://arxiv.org/abs/2306.13452v1)|null|
-|**2023-06-23 09:32:11**|**Network community detection via neural embeddings**|Sadamori Kojaku et.al.|[2306.13400v1](http://arxiv.org/abs/2306.13400v1)|null|
-|**2023-06-23 07:39:12**|**TrustGuard: GNN-based Robust and Explainable Trust Evaluation with   Dynamicity Support**|Jie Wang et.al.|[2306.13339v1](http://arxiv.org/abs/2306.13339v1)|null|
-|**2023-06-22 21:27:48**|**Directional diffusion models for graph representation learning**|Run Yang et.al.|[2306.13210v1](http://arxiv.org/abs/2306.13210v1)|null|
-|**2023-06-22 20:03:09**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186v1](http://arxiv.org/abs/2306.13186v1)|[link](https://github.com/data-engineering-and-semantics/openkgbiblio)|
