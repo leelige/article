@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-29 16:48:00**|**Sparsity exploitation via discovering graphical models in multi-variate   time-series forecasting**|Ngoc-Dung Do et.al.|[2306.17090v1](http://arxiv.org/abs/2306.17090v1)|[link](https://github.com/HySonLab/GraphLASSO)|
+|**2023-06-29 14:31:07**|**Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters**|Ahmed Begga et.al.|[2306.16976v1](http://arxiv.org/abs/2306.16976v1)|null|
+|**2023-06-29 05:51:44**|**Dynamic-Resolution Model Learning for Object Pile Manipulation**|Yixuan Wang et.al.|[2306.16700v1](http://arxiv.org/abs/2306.16700v1)|null|
+|**2023-06-29 05:10:11**|**Decomposing spiking neural networks with Graphical Neural Activity   Threads**|Bradley H. Theilman et.al.|[2306.16684v1](http://arxiv.org/abs/2306.16684v1)|null|
 |**2023-06-28 17:22:15**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with   GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384v1](http://arxiv.org/abs/2306.16384v1)|[link](https://github.com/jeongminpark417/gids)|
 |**2023-06-28 13:21:00**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195v1](http://arxiv.org/abs/2306.16195v1)|[link](https://github.com/tangg555/SaBART)|
 |**2023-06-28 10:33:57**|**Mass Spectra Prediction with Structural Motif-based Graph Neural   Networks**|Jiwon Park et.al.|[2306.16085v1](http://arxiv.org/abs/2306.16085v1)|null|
@@ -28,7 +32,3 @@
 |**2023-06-24 23:45:47**|**Leveraging Brain Modularity Prior for Interpretable Representation   Learning of fMRI**|Qianqian Wang et.al.|[2306.14080v1](http://arxiv.org/abs/2306.14080v1)|null|
 |**2023-06-24 21:50:53**|**Modeling Graphs Beyond Hyperbolic: Graph Neural Networks in Symmetric   Positive Definite Matrices**|Wei Zhao et.al.|[2306.14064v1](http://arxiv.org/abs/2306.14064v1)|[link](https://github.com/andyweizhao/spd4gnns)|
 |**2023-06-24 20:20:45**|**A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and   Customized Hardware**|Shichang Zhang et.al.|[2306.14052v1](http://arxiv.org/abs/2306.14052v1)|null|
-|**2023-06-24 10:21:11**|**Graph Neural Networks Provably Benefit from Structural Information: A   Feature Learning Perspective**|Wei Huang et.al.|[2306.13926v1](http://arxiv.org/abs/2306.13926v1)|null|
-|**2023-06-24 09:46:18**|**Multi-task multi-station earthquake monitoring: An all-in-one seismic   Phase picking, Location, and Association Network (PLAN)**|Xu Si et.al.|[2306.13918v1](http://arxiv.org/abs/2306.13918v1)|null|
-|**2023-06-24 05:10:43**|**MIRACLE: Multi-task Learning based Interpretable Regulation of   Autoimmune Diseases through Common Latent Epigenetics**|Pengcheng Xu et.al.|[2306.13866v1](http://arxiv.org/abs/2306.13866v1)|null|
-|**2023-06-24 00:39:12**|**Generalised $f$-Mean Aggregation for Graph Neural Networks**|Ryan Kortvelesy et.al.|[2306.13826v1](http://arxiv.org/abs/2306.13826v1)|null|
