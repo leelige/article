@@ -9,7 +9,7 @@
 |**2023-06-28 17:22:15**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with   GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384v1](http://arxiv.org/abs/2306.16384v1)|[link](https://github.com/jeongminpark417/gids)|
 |**2023-06-28 13:21:00**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195v1](http://arxiv.org/abs/2306.16195v1)|[link](https://github.com/tangg555/SaBART)|
 |**2023-06-28 10:33:57**|**Mass Spectra Prediction with Structural Motif-based Graph Neural   Networks**|Jiwon Park et.al.|[2306.16085v1](http://arxiv.org/abs/2306.16085v1)|null|
-|**2023-06-28 10:27:53**|**Graph neural networks for sound source localization on distributed   microphone networks**|Eric Grinstein et.al.|[2306.16081v1](http://arxiv.org/abs/2306.16081v1)|null|
+|**2023-06-28 10:27:53**|**Graph neural networks for sound source localization on distributed   microphone networks**|Eric Grinstein et.al.|[2306.16081v1](http://arxiv.org/abs/2306.16081v1)|[link](https://github.com/egrinstein/gnn_ssl)|
 |**2023-06-28 07:00:12**|**Graph Interpolation via Fast Fused-Gromovization**|Xinyu Ma et.al.|[2306.15963v1](http://arxiv.org/abs/2306.15963v1)|null|
 |**2023-06-28 05:14:03**|**Learning Dynamic Graphs from All Contextual Information for Accurate   Point-of-Interest Visit Forecasting**|Arash Hajisafi et.al.|[2306.15927v1](http://arxiv.org/abs/2306.15927v1)|null|
 |**2023-06-28 01:18:53**|**Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation   of In-hand Objects**|Alireza Rezazadeh et.al.|[2306.15858v1](http://arxiv.org/abs/2306.15858v1)|null|
