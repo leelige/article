@@ -2,9 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-30 17:06:23**|**Topologically Attributed Graphs for Shape Discrimination**|Justin Curry et.al.|[2306.17805v1](http://arxiv.org/abs/2306.17805v1)|null|
+|**2023-06-30 10:28:20**|**MeLM, a generative pretrained language modeling framework that solves   forward and inverse mechanics problems**|Markus J. Buehler et.al.|[2306.17525v1](http://arxiv.org/abs/2306.17525v1)|null|
+|**2023-06-30 08:53:23**|**Graphtester: Exploring Theoretical Boundaries of GNNs on Graph Datasets**|Eren Akbiyik et.al.|[2306.17482v1](http://arxiv.org/abs/2306.17482v1)|[link](https://github.com/meakbiyik/graphtester)|
+|**2023-06-30 06:20:21**|**ReLU Neural Networks, Polyhedral Decompositions, and Persistent Homolog**|Yajing Liu et.al.|[2306.17418v1](http://arxiv.org/abs/2306.17418v1)|null|
+|**2023-06-30 05:50:26**|**LMBot: Distilling Graph Knowledge into Language Model for Graph-less   Deployment in Twitter Bot Detection**|Zijian Cai et.al.|[2306.17408v1](http://arxiv.org/abs/2306.17408v1)|null|
+|**2023-06-29 20:03:44**|**A Neural Separation Algorithm for the Rounded Capacity Inequalities**|Hyeonah Kim et.al.|[2306.17283v1](http://arxiv.org/abs/2306.17283v1)|null|
 |**2023-06-29 16:48:00**|**Sparsity exploitation via discovering graphical models in multi-variate   time-series forecasting**|Ngoc-Dung Do et.al.|[2306.17090v1](http://arxiv.org/abs/2306.17090v1)|[link](https://github.com/HySonLab/GraphLASSO)|
 |**2023-06-29 14:31:07**|**Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters**|Ahmed Begga et.al.|[2306.16976v1](http://arxiv.org/abs/2306.16976v1)|null|
-|**2023-06-29 05:51:44**|**Dynamic-Resolution Model Learning for Object Pile Manipulation**|Yixuan Wang et.al.|[2306.16700v1](http://arxiv.org/abs/2306.16700v1)|null|
+|**2023-06-29 11:20:47**|**An end-to-end framework for gene expression classification by   integrating a background knowledge graph: application to cancer prognosis   prediction**|Kazuma Inoue et.al.|[2306.17202v1](http://arxiv.org/abs/2306.17202v1)|null|
+|**2023-06-29 05:51:44**|**Dynamic-Resolution Model Learning for Object Pile Manipulation**|Yixuan Wang et.al.|[2306.16700v2](http://arxiv.org/abs/2306.16700v2)|null|
 |**2023-06-29 05:10:11**|**Decomposing spiking neural networks with Graphical Neural Activity   Threads**|Bradley H. Theilman et.al.|[2306.16684v1](http://arxiv.org/abs/2306.16684v1)|null|
 |**2023-06-28 17:22:15**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with   GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384v1](http://arxiv.org/abs/2306.16384v1)|[link](https://github.com/jeongminpark417/gids)|
 |**2023-06-28 13:21:00**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195v1](http://arxiv.org/abs/2306.16195v1)|[link](https://github.com/tangg555/SaBART)|
@@ -25,10 +32,3 @@
 |**2023-06-26 16:24:31**|**Accelerating Molecular Graph Neural Networks via Knowledge Distillation**|Filip Ekström Kelvinius et.al.|[2306.14818v1](http://arxiv.org/abs/2306.14818v1)|null|
 |**2023-06-26 06:30:29**|**RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse   Tools**|Haochen Shi et.al.|[2306.14447v1](http://arxiv.org/abs/2306.14447v1)|null|
 |**2023-06-26 01:37:10**|**Interpretable Sparsification of Brain Graphs: Better Practices and   Effective Designs for Graph Neural Networks**|Gaotang Li et.al.|[2306.14375v1](http://arxiv.org/abs/2306.14375v1)|[link](https://github.com/motivationss/igs)|
-|**2023-06-25 20:57:35**|**GPatcher: A Simple and Adaptive MLP Model for Alleviating Graph   Heterophily**|Shuaicheng Zhang et.al.|[2306.14340v1](http://arxiv.org/abs/2306.14340v1)|null|
-|**2023-06-25 20:42:11**|**Real-time Seismic Intensity Prediction using Self-supervised Contrastive   GNN for Earthquake Early Warning**|Rafid Umayer Murshed et.al.|[2306.14336v1](http://arxiv.org/abs/2306.14336v1)|null|
-|**2023-06-25 13:17:44**|**GPT-assisted learning of structure-property relationships by graph   neural networks: Application to rare-earth doped phosphors**|Xiang Zhang et.al.|[2306.14238v1](http://arxiv.org/abs/2306.14238v1)|null|
-|**2023-06-25 11:11:18**|**Weisfeiler-Lehman Graph Kernel Method: A New Approach to Weak Chemical   Tagging**|Yuan-Sen Ting et.al.|[2306.14206v1](http://arxiv.org/abs/2306.14206v1)|null|
-|**2023-06-24 23:45:47**|**Leveraging Brain Modularity Prior for Interpretable Representation   Learning of fMRI**|Qianqian Wang et.al.|[2306.14080v1](http://arxiv.org/abs/2306.14080v1)|null|
-|**2023-06-24 21:50:53**|**Modeling Graphs Beyond Hyperbolic: Graph Neural Networks in Symmetric   Positive Definite Matrices**|Wei Zhao et.al.|[2306.14064v1](http://arxiv.org/abs/2306.14064v1)|[link](https://github.com/andyweizhao/spd4gnns)|
-|**2023-06-24 20:20:45**|**A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and   Customized Hardware**|Shichang Zhang et.al.|[2306.14052v1](http://arxiv.org/abs/2306.14052v1)|null|
