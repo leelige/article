@@ -6,7 +6,7 @@
 |**2023-06-30 10:28:20**|**MeLM, a generative pretrained language modeling framework that solves   forward and inverse mechanics problems**|Markus J. Buehler et.al.|[2306.17525v1](http://arxiv.org/abs/2306.17525v1)|null|
 |**2023-06-30 08:53:23**|**Graphtester: Exploring Theoretical Boundaries of GNNs on Graph Datasets**|Eren Akbiyik et.al.|[2306.17482v1](http://arxiv.org/abs/2306.17482v1)|[link](https://github.com/meakbiyik/graphtester)|
 |**2023-06-30 06:20:21**|**ReLU Neural Networks, Polyhedral Decompositions, and Persistent Homolog**|Yajing Liu et.al.|[2306.17418v1](http://arxiv.org/abs/2306.17418v1)|null|
-|**2023-06-30 05:50:26**|**LMBot: Distilling Graph Knowledge into Language Model for Graph-less   Deployment in Twitter Bot Detection**|Zijian Cai et.al.|[2306.17408v1](http://arxiv.org/abs/2306.17408v1)|null|
+|**2023-06-30 05:50:26**|**LMBot: Distilling Graph Knowledge into Language Model for Graph-less   Deployment in Twitter Bot Detection**|Zijian Cai et.al.|[2306.17408v2](http://arxiv.org/abs/2306.17408v2)|null|
 |**2023-06-29 20:03:44**|**A Neural Separation Algorithm for the Rounded Capacity Inequalities**|Hyeonah Kim et.al.|[2306.17283v1](http://arxiv.org/abs/2306.17283v1)|null|
 |**2023-06-29 16:48:00**|**Sparsity exploitation via discovering graphical models in multi-variate   time-series forecasting**|Ngoc-Dung Do et.al.|[2306.17090v1](http://arxiv.org/abs/2306.17090v1)|[link](https://github.com/HySonLab/GraphLASSO)|
 |**2023-06-29 14:31:07**|**Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters**|Ahmed Begga et.al.|[2306.16976v1](http://arxiv.org/abs/2306.16976v1)|null|
