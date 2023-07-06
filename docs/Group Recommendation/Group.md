@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-05 14:06:45**|**Recommended Implementation of Quantitative Susceptibility Mapping for   Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic   Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306v1](http://arxiv.org/abs/2307.02306v1)|null|
+|**2023-07-04 14:14:12**|**Mitigating Calibration Bias Without Fixed Attribute Grouping for   Improved Fairness in Medical Imaging Analysis**|Changjian Shui et.al.|[2307.01738v1](http://arxiv.org/abs/2307.01738v1)|null|
 |**2023-07-01 20:00:30**|**Aggregation Consistency Errors in Semantic Layers and How to Avoid Them**|Zezhou Huang et.al.|[2307.00417v1](http://arxiv.org/abs/2307.00417v1)|null|
 |**2023-06-29 12:44:53**|**Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research**|Ji-Ung Lee et.al.|[2306.16900v1](http://arxiv.org/abs/2306.16900v1)|null|
 |**2023-06-22 05:51:49**|**Recent Developments in Recommender Systems: A Survey**|Yang Li et.al.|[2306.12680v1](http://arxiv.org/abs/2306.12680v1)|null|
@@ -30,5 +32,3 @@
 |**2023-05-16 09:53:03**|**Fairness and Diversity in Information Access Systems**|Lorenzo Porcaro et.al.|[2305.09319v1](http://arxiv.org/abs/2305.09319v1)|null|
 |**2023-05-11 07:38:24**|**PerFedRec++: Enhancing Personalized Federated Recommendation with   Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622v1](http://arxiv.org/abs/2305.06622v1)|null|
 |**2023-05-10 13:16:39**|**Evaluating Twitter's Algorithmic Amplification of Low-Trust Content: An   Observational Study**|Giulio Corsi et.al.|[2305.06125v2](http://arxiv.org/abs/2305.06125v2)|[link](https://github.com/gc540/twitter-amplification-eval)|
-|**2023-05-10 11:15:22**|**A Classification of Feedback Loops and Their Relation to Biases in   Automated Decision-Making Systems**|Nicolò Pagan et.al.|[2305.06055v1](http://arxiv.org/abs/2305.06055v1)|[link](https://github.com/paganick/feedback-loops-and-biases)|
-|**2023-05-06 10:04:43**|**Attacking Pre-trained Recommendation**|Yiqing Wu et.al.|[2305.03995v1](http://arxiv.org/abs/2305.03995v1)|null|
