@@ -2,8 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-06 15:35:14**|**A Hybrid End-to-End Spatio-Temporal Attention Neural Network with   Graph-Smooth Signals for EEG Emotion Recognition**|Shadi Sartipi et.al.|[2307.03068v1](http://arxiv.org/abs/2307.03068v1)|null|
+|**2023-07-06 15:19:53**|**Generalizing Backpropagation for Gradient-Based Interpretability**|Kevin Du et.al.|[2307.03056v1](http://arxiv.org/abs/2307.03056v1)|null|
+|**2023-07-06 07:18:22**|**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural   Networks**|Yuanchen Bei et.al.|[2307.02813v1](http://arxiv.org/abs/2307.02813v1)|null|
+|**2023-07-05 21:35:56**|**Only Pick Once -- Multi-Object Picking Algorithms for Picking Exact   Number of Objects Efficiently**|Zihe Ye et.al.|[2307.02662v1](http://arxiv.org/abs/2307.02662v1)|null|
 |**2023-07-05 17:21:08**|**An integrative dynamical perspective for graph theory and the study of   complex networks**|Gorka Zamora-López et.al.|[2307.02449v1](http://arxiv.org/abs/2307.02449v1)|null|
 |**2023-07-05 14:37:34**|**Equivariant graph neural network interatomic potential for Green-Kubo   thermal conductivity in phase change materials**|Sung-Ho Lee et.al.|[2307.02327v1](http://arxiv.org/abs/2307.02327v1)|null|
+|**2023-07-05 12:40:11**|**Exploring Multimodal Approaches for Alzheimer's Disease Detection Using   Patient Speech Transcript and Audio Data**|Hongmin Cai et.al.|[2307.02514v1](http://arxiv.org/abs/2307.02514v1)|null|
 |**2023-07-05 11:46:26**|**Chimera states in neural networks and power systems**|Shengfeng Deng et.al.|[2307.02216v1](http://arxiv.org/abs/2307.02216v1)|null|
 |**2023-07-05 10:50:40**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198v1](http://arxiv.org/abs/2307.02198v1)|null|
 |**2023-07-05 09:05:14**|**Robust Graph Structure Learning with the Alignment of Features and   Adjacency Matrix**|Shaogao Lv et.al.|[2307.02126v1](http://arxiv.org/abs/2307.02126v1)|null|
@@ -22,13 +27,8 @@
 |**2023-07-04 02:50:44**|**Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural   Network**|Zizhuo Li et.al.|[2307.01447v1](http://arxiv.org/abs/2307.01447v1)|null|
 |**2023-07-04 01:56:07**|**Learning to Branch in Combinatorial Optimization with Graph Pointer   Networks**|Rui Wang et.al.|[2307.01434v1](http://arxiv.org/abs/2307.01434v1)|null|
 |**2023-07-03 23:02:26**|**Identification of Causal Relationship between Amyloid-beta Accumulation   and Alzheimer's Disease Progression via Counterfactual Inference**|Haixing Dai et.al.|[2307.01389v1](http://arxiv.org/abs/2307.01389v1)|null|
-|**2023-07-03 17:45:01**|**PlanE: Representation Learning over Planar Graphs**|Radoslav Dimitrov et.al.|[2307.01180v1](http://arxiv.org/abs/2307.01180v1)|null|
+|**2023-07-03 17:45:01**|**PlanE: Representation Learning over Planar Graphs**|Radoslav Dimitrov et.al.|[2307.01180v1](http://arxiv.org/abs/2307.01180v1)|[link](https://github.com/zzysonny/plane)|
 |**2023-07-03 17:25:45**|**Data-driven decoding of quantum error correcting codes using graph   neural networks**|Moritz Lange et.al.|[2307.01241v1](http://arxiv.org/abs/2307.01241v1)|null|
 |**2023-07-03 13:25:54**|**Critical dynamics of long-range quantum disordered systems**|Weitao Chen et.al.|[2307.00999v1](http://arxiv.org/abs/2307.00999v1)|null|
 |**2023-07-03 12:49:59**|**Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis**|Arnaud Allera et.al.|[2307.00978v1](http://arxiv.org/abs/2307.00978v1)|null|
 |**2023-07-03 09:08:01**|**A Survey on Graph Classification and Link Prediction based on GNN**|Xingyu Liu et.al.|[2307.00865v1](http://arxiv.org/abs/2307.00865v1)|null|
-|**2023-07-03 08:58:32**|**CardiGraphormer: Unveiling the Power of Self-Supervised Learning in   Revolutionizing Drug Discovery**|Abhijit Gupta et.al.|[2307.00859v2](http://arxiv.org/abs/2307.00859v2)|null|
-|**2023-07-03 08:57:30**|**Beyond the Snapshot: Brain Tokenized Graph Transformer for Longitudinal   Brain Functional Connectome Embedding**|Zijian Dong et.al.|[2307.00858v1](http://arxiv.org/abs/2307.00858v1)|[link](https://github.com/zijiand/brain-tokengt)|
-|**2023-07-03 06:41:15**|**GA-DRL: Graph Neural Network-Augmented Deep Reinforcement Learning for   DAG Task Scheduling over Dynamic Vehicular Clouds**|Zhang Liu et.al.|[2307.00777v1](http://arxiv.org/abs/2307.00777v1)|null|
-|**2023-07-02 20:04:01**|**Neuro-Symbolic Sudoku Solver**|Ashutosh Hathidara et.al.|[2307.00653v1](http://arxiv.org/abs/2307.00653v1)|[link](https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver)|
-|**2023-07-02 10:03:01**|**Shared Growth of Graph Neural Networks via Free-direction Knowledge   Distillation**|Kaituo Feng et.al.|[2307.00534v1](http://arxiv.org/abs/2307.00534v1)|null|
