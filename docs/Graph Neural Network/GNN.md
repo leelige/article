@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-07 14:05:35**|**DE-TGN: Uncertainty-Aware Human Motion Forecasting using Deep Ensembles**|Kareem A. Eltouny et.al.|[2307.03610v1](http://arxiv.org/abs/2307.03610v1)|null|
+|**2023-07-07 13:38:16**|**GEANN: Scalable Graph Augmentations for Multi-Horizon Time Series   Forecasting**|Sitan Yang et.al.|[2307.03595v1](http://arxiv.org/abs/2307.03595v1)|null|
+|**2023-07-07 12:20:56**|**Roman Numeral Analysis with Graph Neural Networks: Onset-wise   Predictions from Note-wise Features**|Emmanouil Karystinaios et.al.|[2307.03544v1](http://arxiv.org/abs/2307.03544v1)|[link](https://github.com/manoskary/chordgnn)|
+|**2023-07-07 06:26:44**|**Learning from Heterogeneity: A Dynamic Learning Framework for   Hypergraphs**|Tiehua Zhang et.al.|[2307.03411v1](http://arxiv.org/abs/2307.03411v1)|null|
+|**2023-07-07 05:31:31**|**Exploring the Potential of Large Language Models (LLMs) in Learning on   Graphs**|Zhikai Chen et.al.|[2307.03393v1](http://arxiv.org/abs/2307.03393v1)|null|
 |**2023-07-06 15:35:14**|**A Hybrid End-to-End Spatio-Temporal Attention Neural Network with   Graph-Smooth Signals for EEG Emotion Recognition**|Shadi Sartipi et.al.|[2307.03068v1](http://arxiv.org/abs/2307.03068v1)|null|
 |**2023-07-06 15:19:53**|**Generalizing Backpropagation for Gradient-Based Interpretability**|Kevin Du et.al.|[2307.03056v1](http://arxiv.org/abs/2307.03056v1)|[link](https://github.com/kdu4108/brunoflow)|
 |**2023-07-06 07:18:22**|**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural   Networks**|Yuanchen Bei et.al.|[2307.02813v1](http://arxiv.org/abs/2307.02813v1)|null|
@@ -27,8 +32,3 @@
 |**2023-07-04 02:50:44**|**Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural   Network**|Zizhuo Li et.al.|[2307.01447v1](http://arxiv.org/abs/2307.01447v1)|null|
 |**2023-07-04 01:56:07**|**Learning to Branch in Combinatorial Optimization with Graph Pointer   Networks**|Rui Wang et.al.|[2307.01434v1](http://arxiv.org/abs/2307.01434v1)|null|
 |**2023-07-03 23:02:26**|**Identification of Causal Relationship between Amyloid-beta Accumulation   and Alzheimer's Disease Progression via Counterfactual Inference**|Haixing Dai et.al.|[2307.01389v1](http://arxiv.org/abs/2307.01389v1)|null|
-|**2023-07-03 17:45:01**|**PlanE: Representation Learning over Planar Graphs**|Radoslav Dimitrov et.al.|[2307.01180v1](http://arxiv.org/abs/2307.01180v1)|[link](https://github.com/zzysonny/plane)|
-|**2023-07-03 17:25:45**|**Data-driven decoding of quantum error correcting codes using graph   neural networks**|Moritz Lange et.al.|[2307.01241v1](http://arxiv.org/abs/2307.01241v1)|null|
-|**2023-07-03 13:25:54**|**Critical dynamics of long-range quantum disordered systems**|Weitao Chen et.al.|[2307.00999v1](http://arxiv.org/abs/2307.00999v1)|null|
-|**2023-07-03 12:49:59**|**Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis**|Arnaud Allera et.al.|[2307.00978v1](http://arxiv.org/abs/2307.00978v1)|null|
-|**2023-07-03 09:08:01**|**A Survey on Graph Classification and Link Prediction based on GNN**|Xingyu Liu et.al.|[2307.00865v1](http://arxiv.org/abs/2307.00865v1)|null|
