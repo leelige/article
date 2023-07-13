@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-12 14:56:44**|**Online Information Acquisition: Hiring Multiple Agents**|Federico Cacciamani et.al.|[2307.06210v1](http://arxiv.org/abs/2307.06210v1)|null|
 |**2023-07-11 07:06:13**|**Resilient Information Aggregation**|Itai Arieli et.al.|[2307.05054v1](http://arxiv.org/abs/2307.05054v1)|null|
 |**2023-07-08 03:59:58**|**Embedding Mental Health Discourse for Community Recommendation**|Hy Dang et.al.|[2307.03892v1](http://arxiv.org/abs/2307.03892v1)|null|
 |**2023-07-05 14:06:45**|**Recommended Implementation of Quantitative Susceptibility Mapping for   Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic   Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306v1](http://arxiv.org/abs/2307.02306v1)|null|
@@ -31,4 +32,3 @@
 |**2023-05-20 04:32:59**|**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**|Wenyue Hua et.al.|[2305.12090v1](http://arxiv.org/abs/2305.12090v1)|null|
 |**2023-05-19 16:43:53**|**On the Fairness Impacts of Private Ensembles Models**|Cuong Tran et.al.|[2305.11807v1](http://arxiv.org/abs/2305.11807v1)|null|
 |**2023-05-19 00:45:55**|**Group fairness without demographics using social networks**|David Liu et.al.|[2305.11361v1](http://arxiv.org/abs/2305.11361v1)|null|
-|**2023-05-16 09:53:03**|**Fairness and Diversity in Information Access Systems**|Lorenzo Porcaro et.al.|[2305.09319v1](http://arxiv.org/abs/2305.09319v1)|null|
