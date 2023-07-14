@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-13 13:59:54**|**Privacy-Utility Trade-offs in Neural Networks for Medical Population   Graphs: Insights from Differential Privacy and Graph Structure**|Tamara T. Mueller et.al.|[2307.06760v1](http://arxiv.org/abs/2307.06760v1)|null|
+|**2023-07-13 12:07:39**|**GRAN is superior to GraphRNN: node orderings, kernel- and graph   embeddings-based metrics for graph generators**|Ousmane Touat et.al.|[2307.06709v1](http://arxiv.org/abs/2307.06709v1)|null|
+|**2023-07-13 12:00:47**|**Anatomy of localisation protected quantum order on Hilbert space**|Sthitadhi Roy et.al.|[2307.06702v1](http://arxiv.org/abs/2307.06702v1)|null|
+|**2023-07-13 08:56:50**|**Frameless Graph Knowledge Distillation**|Dai Shi et.al.|[2307.06631v1](http://arxiv.org/abs/2307.06631v1)|null|
+|**2023-07-13 06:25:22**|**Going Beyond Local: Global Graph-Enhanced Personalized News   Recommendations**|Boming Yang et.al.|[2307.06576v1](http://arxiv.org/abs/2307.06576v1)|null|
+|**2023-07-12 19:58:50**|**Improved selective background Monte Carlo simulation at Belle II with   graph attention networks and weighted events**|Boyang Yu et.al.|[2307.06434v1](http://arxiv.org/abs/2307.06434v1)|null|
+|**2023-07-12 19:29:06**|**Differentially Private Decoupled Graph Convolutions for Multigranular   Topology Protection**|Eli Chien et.al.|[2307.06422v1](http://arxiv.org/abs/2307.06422v1)|null|
 |**2023-07-12 11:38:34**|**Learning Stochastic Dynamical Systems as an Implicit Regularization with   Graph Neural Networks**|Jin Guo et.al.|[2307.06097v1](http://arxiv.org/abs/2307.06097v1)|null|
 |**2023-07-12 09:49:15**|**An OOD Multi-Task Perspective for Link Prediction with New Relation   Types and Nodes**|Jincheng Zhou et.al.|[2307.06046v1](http://arxiv.org/abs/2307.06046v1)|null|
 |**2023-07-12 08:51:20**|**An Effective and Efficient Time-aware Entity Alignment Framework via   Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013v1](http://arxiv.org/abs/2307.06013v1)|null|
@@ -25,10 +32,3 @@
 |**2023-07-10 15:59:09**|**On the power of graph neural networks and the role of the activation   function**|Sammy Khalife et.al.|[2307.04661v1](http://arxiv.org/abs/2307.04661v1)|null|
 |**2023-07-10 10:16:57**|**Multi-modal Graph Learning over UMLS Knowledge Graphs**|Manuel Burger et.al.|[2307.04461v1](http://arxiv.org/abs/2307.04461v1)|null|
 |**2023-07-10 09:59:35**|**Graph Convolutional Networks for Simulating Multi-phase Flow and   Transport in Porous Media**|Jiamin Jiang et.al.|[2307.04449v1](http://arxiv.org/abs/2307.04449v1)|null|
-|**2023-07-10 08:13:27**|**Deep and Decentralized Multi-Agent Coverage of a Target with Unknown   Distribution**|Hossein Rastgoftar et.al.|[2307.04407v1](http://arxiv.org/abs/2307.04407v1)|null|
-|**2023-07-10 04:30:23**|**Privacy-Preserving Graph Machine Learning from Data to Computation: A   Survey**|Dongqi Fu et.al.|[2307.04338v1](http://arxiv.org/abs/2307.04338v1)|null|
-|**2023-07-10 00:29:25**|**Generalizing Graph ODE for Learning Complex System Dynamics across   Environments**|Zijie Huang et.al.|[2307.04287v1](http://arxiv.org/abs/2307.04287v1)|null|
-|**2023-07-09 09:08:38**|**Graph Neural Network-enabled Terahertz-based Flow-guided Nanoscale   Localization**|Gerard Calvo Bartra et.al.|[2307.05551v1](http://arxiv.org/abs/2307.05551v1)|null|
-|**2023-07-08 23:19:53**|**Manifold Filter-Combine Networks**|Joyce Chew et.al.|[2307.04056v1](http://arxiv.org/abs/2307.04056v1)|[link](https://github.com/krishnaswamylab/mfcn)|
-|**2023-07-08 12:52:31**|**Digital Twins for Patient Care via Knowledge Graphs and Closed-Form   Continuous-Time Liquid Neural Networks**|Logan Nye et.al.|[2307.04772v1](http://arxiv.org/abs/2307.04772v1)|null|
-|**2023-07-08 08:09:06**|**Fairness-Aware Graph Neural Networks: A Survey**|April Chen et.al.|[2307.03929v1](http://arxiv.org/abs/2307.03929v1)|null|
