@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-07-13 13:59:54**|**Privacy-Utility Trade-offs in Neural Networks for Medical Population   Graphs: Insights from Differential Privacy and Graph Structure**|Tamara T. Mueller et.al.|[2307.06760v1](http://arxiv.org/abs/2307.06760v1)|null|
-|**2023-07-13 12:07:39**|**GRAN is superior to GraphRNN: node orderings, kernel- and graph   embeddings-based metrics for graph generators**|Ousmane Touat et.al.|[2307.06709v1](http://arxiv.org/abs/2307.06709v1)|null|
+|**2023-07-13 12:07:39**|**GRAN is superior to GraphRNN: node orderings, kernel- and graph   embeddings-based metrics for graph generators**|Ousmane Touat et.al.|[2307.06709v1](http://arxiv.org/abs/2307.06709v1)|[link](https://github.com/otouat/gnnevaluationmetrics)|
 |**2023-07-13 12:00:47**|**Anatomy of localisation protected quantum order on Hilbert space**|Sthitadhi Roy et.al.|[2307.06702v1](http://arxiv.org/abs/2307.06702v1)|null|
 |**2023-07-13 08:56:50**|**Frameless Graph Knowledge Distillation**|Dai Shi et.al.|[2307.06631v1](http://arxiv.org/abs/2307.06631v1)|[link](https://github.com/dshi3553usyd/frameless_graph_distillation)|
 |**2023-07-13 06:25:22**|**Going Beyond Local: Global Graph-Enhanced Personalized News   Recommendations**|Boming Yang et.al.|[2307.06576v1](http://arxiv.org/abs/2307.06576v1)|[link](https://github.com/tinyrolls/glory)|
@@ -16,7 +16,7 @@
 |**2023-07-12 04:43:59**|**FIS-ONE: Floor Identification System with One Label for Crowdsourced RF   Signals**|Weipeng Zhuo et.al.|[2307.05914v1](http://arxiv.org/abs/2307.05914v1)|null|
 |**2023-07-12 03:06:15**|**Knowledge-Driven Resource Allocation for D2D Networks: A WMMSE Unrolled   Graph Neural Network Approach**|Hao Yang et.al.|[2307.05882v1](http://arxiv.org/abs/2307.05882v1)|null|
 |**2023-07-11 23:27:26**|**Influential Simplices Mining via Simplicial Convolutional Network**|Yujie Zeng et.al.|[2307.05841v1](http://arxiv.org/abs/2307.05841v1)|null|
-|**2023-07-11 20:06:12**|**Weisfeiler and Lehman Go Measurement Modeling: Probing the Validity of   the WL Test**|Arjun Subramonian et.al.|[2307.05775v1](http://arxiv.org/abs/2307.05775v1)|null|
+|**2023-07-11 20:06:12**|**Weisfeiler and Lehman Go Measurement Modeling: Probing the Validity of   the WL Test**|Arjun Subramonian et.al.|[2307.05775v1](http://arxiv.org/abs/2307.05775v1)|[link](https://github.com/arjunsubramonian/wl-test-exploration)|
 |**2023-07-11 14:43:25**|**Discovering Symbolic Laws Directly from Trajectories with Hamiltonian   Graph Neural Networks**|Suresh Bishnoi et.al.|[2307.05299v1](http://arxiv.org/abs/2307.05299v1)|null|
 |**2023-07-11 12:43:23**|**Supervised Attention Using Homophily in Graph Neural Networks**|Michail Chatzianastasis et.al.|[2307.05217v1](http://arxiv.org/abs/2307.05217v1)|null|
 |**2023-07-11 11:32:12**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180v1](http://arxiv.org/abs/2307.05180v1)|[link](https://github.com/acuooooo/resmatch)|
