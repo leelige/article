@@ -2,6 +2,9 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-14 12:02:26**|**Real-time Graph Building on FPGAs for Machine Learning Trigger   Applications in Particle Physics**|Marc Neu et.al.|[2307.07289v1](http://arxiv.org/abs/2307.07289v1)|null|
+|**2023-07-13 23:52:41**|**MaxCorrMGNN: A Multi-Graph Neural Network Framework for Generalized   Multimodal Fusion of Medical Data for Outcome Prediction**|Niharika S. D'Souza et.al.|[2307.07093v1](http://arxiv.org/abs/2307.07093v1)|null|
+|**2023-07-13 23:00:22**|**Espaloma-0.3.0: Machine-learned molecular mechanics force field for the   simulation of protein-ligand systems and beyond**|Kenichiro Takaba et.al.|[2307.07085v1](http://arxiv.org/abs/2307.07085v1)|null|
 |**2023-07-13 13:59:54**|**Privacy-Utility Trade-offs in Neural Networks for Medical Population   Graphs: Insights from Differential Privacy and Graph Structure**|Tamara T. Mueller et.al.|[2307.06760v1](http://arxiv.org/abs/2307.06760v1)|null|
 |**2023-07-13 12:07:39**|**GRAN is superior to GraphRNN: node orderings, kernel- and graph   embeddings-based metrics for graph generators**|Ousmane Touat et.al.|[2307.06709v1](http://arxiv.org/abs/2307.06709v1)|[link](https://github.com/otouat/gnnevaluationmetrics)|
 |**2023-07-13 12:00:47**|**Anatomy of localisation protected quantum order on Hilbert space**|Sthitadhi Roy et.al.|[2307.06702v1](http://arxiv.org/abs/2307.06702v1)|null|
@@ -26,9 +29,6 @@
 |**2023-07-11 06:29:31**|**Neural-Symbolic Recommendation with Graph-Enhanced Information**|Bang Chen et.al.|[2307.05036v1](http://arxiv.org/abs/2307.05036v1)|[link](https://github.com/hanzo2020/gnnlr)|
 |**2023-07-11 03:17:40**|**PowerFusion: A Tensor Compiler with Explicit Data Movement Description   and Instruction-level Graph IR**|Zixuan Ma et.al.|[2307.04995v1](http://arxiv.org/abs/2307.04995v1)|null|
 |**2023-07-11 01:53:19**|**DyCL: Dynamic Neural Network Compilation Via Program Rewriting and Graph   Optimization**|Simin Chen et.al.|[2307.04963v1](http://arxiv.org/abs/2307.04963v1)|null|
-|**2023-07-11 01:52:08**|**Intrinsically motivated graph exploration using network theories of   human curiosity**|Shubhankar P. Patankar et.al.|[2307.04962v1](http://arxiv.org/abs/2307.04962v1)|null|
+|**2023-07-11 01:52:08**|**Intrinsically motivated graph exploration using network theories of   human curiosity**|Shubhankar P. Patankar et.al.|[2307.04962v2](http://arxiv.org/abs/2307.04962v2)|null|
 |**2023-07-10 23:28:03**|**Improving Fairness of Graph Neural Networks: A Graph Counterfactual   Perspective**|Zhimeng Guo et.al.|[2307.04937v1](http://arxiv.org/abs/2307.04937v1)|null|
 |**2023-07-10 20:35:22**|**Learning to Solve Constraint Satisfaction Problems with Recurrent   Transformer**|Zhun Yang et.al.|[2307.04895v1](http://arxiv.org/abs/2307.04895v1)|[link](https://github.com/azreasoners/recurrent_transformer)|
-|**2023-07-10 15:59:09**|**On the power of graph neural networks and the role of the activation   function**|Sammy Khalife et.al.|[2307.04661v1](http://arxiv.org/abs/2307.04661v1)|null|
-|**2023-07-10 10:16:57**|**Multi-modal Graph Learning over UMLS Knowledge Graphs**|Manuel Burger et.al.|[2307.04461v1](http://arxiv.org/abs/2307.04461v1)|null|
-|**2023-07-10 09:59:35**|**Graph Convolutional Networks for Simulating Multi-phase Flow and   Transport in Porous Media**|Jiamin Jiang et.al.|[2307.04449v1](http://arxiv.org/abs/2307.04449v1)|null|
