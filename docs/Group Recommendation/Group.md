@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-17 02:28:19**|**A randomization-based theory for preliminary testing of covariate   balance in controlled trials**|Anqi Zhao et.al.|[2307.08203v1](http://arxiv.org/abs/2307.08203v1)|null|
+|**2023-07-15 09:28:16**|**Understanding Cyber Threats Against the Universities, Colleges, and   Schools**|Harjinder Singh Lallie et.al.|[2307.07755v1](http://arxiv.org/abs/2307.07755v1)|null|
 |**2023-07-12 14:56:44**|**Online Information Acquisition: Hiring Multiple Agents**|Federico Cacciamani et.al.|[2307.06210v1](http://arxiv.org/abs/2307.06210v1)|null|
 |**2023-07-11 07:06:13**|**Resilient Information Aggregation**|Itai Arieli et.al.|[2307.05054v1](http://arxiv.org/abs/2307.05054v1)|null|
 |**2023-07-08 03:59:58**|**Embedding Mental Health Discourse for Community Recommendation**|Hy Dang et.al.|[2307.03892v1](http://arxiv.org/abs/2307.03892v1)|null|
@@ -30,5 +32,3 @@
 |**2023-05-25 13:34:09**|**What about em? How Commercial Machine Translation Fails to Handle   (Neo-)Pronouns**|Anne Lauscher et.al.|[2305.16051v1](http://arxiv.org/abs/2305.16051v1)|null|
 |**2023-05-24 16:55:49**|**Is Your Model "MADD"? A Novel Metric to Evaluate Algorithmic Fairness   for Predictive Student Models**|Mélina Verger et.al.|[2305.15342v1](http://arxiv.org/abs/2305.15342v1)|[link](https://github.com/melinaverger/madd)|
 |**2023-05-20 04:32:59**|**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**|Wenyue Hua et.al.|[2305.12090v1](http://arxiv.org/abs/2305.12090v1)|null|
-|**2023-05-19 16:43:53**|**On the Fairness Impacts of Private Ensembles Models**|Cuong Tran et.al.|[2305.11807v1](http://arxiv.org/abs/2305.11807v1)|null|
-|**2023-05-19 00:45:55**|**Group fairness without demographics using social networks**|David Liu et.al.|[2305.11361v1](http://arxiv.org/abs/2305.11361v1)|null|
