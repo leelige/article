@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-18 17:22:19**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447v1](http://arxiv.org/abs/2307.09447v1)|null|
+|**2023-07-18 03:53:19**|**Data sharing and ontology use among agricultural genetics, genomics, and   breeding databases and resources of the AgBioData Consortium**|Jennifer L. Clarke et.al.|[2307.08958v1](http://arxiv.org/abs/2307.08958v1)|null|
 |**2023-07-17 02:28:19**|**A randomization-based theory for preliminary testing of covariate   balance in controlled trials**|Anqi Zhao et.al.|[2307.08203v1](http://arxiv.org/abs/2307.08203v1)|null|
 |**2023-07-15 09:28:16**|**Understanding Cyber Threats Against the Universities, Colleges, and   Schools**|Harjinder Singh Lallie et.al.|[2307.07755v1](http://arxiv.org/abs/2307.07755v1)|null|
 |**2023-07-12 14:56:44**|**Online Information Acquisition: Hiring Multiple Agents**|Federico Cacciamani et.al.|[2307.06210v1](http://arxiv.org/abs/2307.06210v1)|null|
@@ -22,7 +24,7 @@
 |**2023-06-09 15:02:23**|**Digital Twin-Assisted Resource Demand Prediction for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2306.05946v1](http://arxiv.org/abs/2306.05946v1)|null|
 |**2023-06-09 13:26:17**|**Social interactions mediated by the Internet and the Big-Five: a   cross-country analysis**|Andrea Mercado et.al.|[2306.05884v1](http://arxiv.org/abs/2306.05884v1)|null|
 |**2023-06-08 15:56:57**|**Are fairness metric scores enough to assess discrimination biases in   machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
-|**2023-06-08 11:39:57**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v2](http://arxiv.org/abs/2306.05118v2)|[link](https://github.com/lyingcs/controllable-multi-objective-reranking)|
+|**2023-06-08 11:39:57**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v3](http://arxiv.org/abs/2306.05118v3)|[link](https://github.com/lyingcs/controllable-multi-objective-reranking)|
 |**2023-06-06 10:37:37**|**Minimizing Hitting Time between Disparate Groups with Shortcut Edges**|Florian Adriaens et.al.|[2306.03571v2](http://arxiv.org/abs/2306.03571v2)|null|
 |**2023-06-02 14:47:56**|**STUDY: Socially Aware Temporally Casual Decoder Recommender Systems**|Eltayeb Ahmed et.al.|[2306.07946v1](http://arxiv.org/abs/2306.07946v1)|null|
 |**2023-06-01 21:38:50**|**A Multi-Modal Latent-Features based Service Recommendation System for   the Social Internet of Things**|Amar Khelloufi et.al.|[2306.01163v1](http://arxiv.org/abs/2306.01163v1)|null|
@@ -30,5 +32,3 @@
 |**2023-05-27 15:09:56**|**Dynamic User Segmentation and Usage Profiling**|Animesh Mitra et.al.|[2305.17492v1](http://arxiv.org/abs/2305.17492v1)|null|
 |**2023-05-26 02:08:54**|**NLP Reproducibility For All: Understanding Experiences of Beginners**|Shane Storks et.al.|[2305.16579v3](http://arxiv.org/abs/2305.16579v3)|[link](https://github.com/sled-group/nlp-reproducibility-for-beginners)|
 |**2023-05-25 13:34:09**|**What about em? How Commercial Machine Translation Fails to Handle   (Neo-)Pronouns**|Anne Lauscher et.al.|[2305.16051v1](http://arxiv.org/abs/2305.16051v1)|null|
-|**2023-05-24 16:55:49**|**Is Your Model "MADD"? A Novel Metric to Evaluate Algorithmic Fairness   for Predictive Student Models**|Mélina Verger et.al.|[2305.15342v1](http://arxiv.org/abs/2305.15342v1)|[link](https://github.com/melinaverger/madd)|
-|**2023-05-20 04:32:59**|**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**|Wenyue Hua et.al.|[2305.12090v1](http://arxiv.org/abs/2305.12090v1)|null|

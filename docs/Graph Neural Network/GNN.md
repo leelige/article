@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-18 17:16:42**|**Hardness of the Maximum Independent Set Problem on Unit-Disk Graphs and   Prospects for Quantum Speedups**|Ruben S. Andrist et.al.|[2307.09442v1](http://arxiv.org/abs/2307.09442v1)|null|
+|**2023-07-18 14:37:23**|**Rumor Detection with Diverse Counterfactual Evidence**|Kaiwei Zhang et.al.|[2307.09296v1](http://arxiv.org/abs/2307.09296v1)|[link](https://github.com/Vicinity111/DCE-RD)|
+|**2023-07-18 08:37:25**|**Learning Adaptive Neighborhoods for Graph Neural Networks**|Avishkar Saha et.al.|[2307.09065v1](http://arxiv.org/abs/2307.09065v1)|null|
+|**2023-07-18 01:02:20**|**Sharpness-Aware Graph Collaborative Filtering**|Huiyuan Chen et.al.|[2307.08910v1](http://arxiv.org/abs/2307.08910v1)|null|
+|**2023-07-17 22:19:12**|**Disentangling Node Attributes from Graph Topology for Improved   Generalizability in Link Prediction**|Ayan Chatterjee et.al.|[2307.08877v1](http://arxiv.org/abs/2307.08877v1)|[link](https://github.com/chatterjeeayan/upna)|
+|**2023-07-17 22:09:12**|**Latent Space Representations of Neural Algorithmic Reasoners**|Vladimir V. Mirjanić et.al.|[2307.08874v1](http://arxiv.org/abs/2307.08874v1)|[link](https://github.com/mirjanic/nar-latent-spaces)|
+|**2023-07-17 21:33:35**|**Curriculum Learning for Graph Neural Networks: A Multiview   Competence-based Approach**|Nidhi Vakil et.al.|[2307.08859v1](http://arxiv.org/abs/2307.08859v1)|null|
 |**2023-07-17 16:52:25**|**PolyGNN: Polyhedron-based Graph Neural Network for 3D Building   Reconstruction from Point Clouds**|Zhaiyu Chen et.al.|[2307.08636v1](http://arxiv.org/abs/2307.08636v1)|[link](https://github.com/chenzhaiyu/polygnn)|
 |**2023-07-17 15:11:03**|**G-Scan: Graph Neural Networks for Line-Level Vulnerability   Identification in Smart Contracts**|Christoph Sendner et.al.|[2307.08549v1](http://arxiv.org/abs/2307.08549v1)|null|
 |**2023-07-17 13:06:33**|**Towards eXplainable AI for Mobility Data Science**|Anahid Jalali et.al.|[2307.08461v1](http://arxiv.org/abs/2307.08461v1)|null|
@@ -25,10 +32,3 @@
 |**2023-07-13 08:56:50**|**Frameless Graph Knowledge Distillation**|Dai Shi et.al.|[2307.06631v1](http://arxiv.org/abs/2307.06631v1)|[link](https://github.com/dshi3553usyd/frameless_graph_distillation)|
 |**2023-07-13 06:25:22**|**Going Beyond Local: Global Graph-Enhanced Personalized News   Recommendations**|Boming Yang et.al.|[2307.06576v2](http://arxiv.org/abs/2307.06576v2)|[link](https://github.com/tinyrolls/glory)|
 |**2023-07-12 19:58:50**|**Improved selective background Monte Carlo simulation at Belle II with   graph attention networks and weighted events**|Boyang Yu et.al.|[2307.06434v1](http://arxiv.org/abs/2307.06434v1)|null|
-|**2023-07-12 19:29:06**|**Differentially Private Decoupled Graph Convolutions for Multigranular   Topology Protection**|Eli Chien et.al.|[2307.06422v1](http://arxiv.org/abs/2307.06422v1)|null|
-|**2023-07-12 11:38:34**|**Learning Stochastic Dynamical Systems as an Implicit Regularization with   Graph Neural Networks**|Jin Guo et.al.|[2307.06097v1](http://arxiv.org/abs/2307.06097v1)|null|
-|**2023-07-12 09:49:15**|**An OOD Multi-Task Perspective for Link Prediction with New Relation   Types and Nodes**|Jincheng Zhou et.al.|[2307.06046v1](http://arxiv.org/abs/2307.06046v1)|null|
-|**2023-07-12 08:51:20**|**An Effective and Efficient Time-aware Entity Alignment Framework via   Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013v1](http://arxiv.org/abs/2307.06013v1)|null|
-|**2023-07-12 06:31:43**|**Newell's theory based feature transformations for spatio-temporal   traffic prediction**|Agnimitra Sengupta et.al.|[2307.05949v2](http://arxiv.org/abs/2307.05949v2)|null|
-|**2023-07-12 04:43:59**|**FIS-ONE: Floor Identification System with One Label for Crowdsourced RF   Signals**|Weipeng Zhuo et.al.|[2307.05914v1](http://arxiv.org/abs/2307.05914v1)|null|
-|**2023-07-12 03:06:15**|**Knowledge-Driven Resource Allocation for D2D Networks: A WMMSE Unrolled   Graph Neural Network Approach**|Hao Yang et.al.|[2307.05882v1](http://arxiv.org/abs/2307.05882v1)|null|
