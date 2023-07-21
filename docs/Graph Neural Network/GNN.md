@@ -2,9 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-20 13:34:11**|**Addressing caveats of neural persistence with deep graph persistence**|Leander Girrbach et.al.|[2307.10865v1](http://arxiv.org/abs/2307.10865v1)|[link](https://github.com/ExplainableML/Deep-Graph-Persistence)|
+|**2023-07-20 07:56:28**|**A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System   Fault Detection**|Tianfu Li et.al.|[2307.10676v1](http://arxiv.org/abs/2307.10676v1)|null|
+|**2023-07-20 03:54:47**|**Air Traffic Controller Workload Level Prediction using Conformalized   Dynamical Graph Learning**|Yutian Pang et.al.|[2307.10559v1](http://arxiv.org/abs/2307.10559v1)|[link](https://github.com/ymlasu/para-atm-collection)|
+|**2023-07-20 02:34:03**|**Power Allocation for Device-to-Device Interference Channel Using   Truncated Graph Transformers**|Dohoon Kim et.al.|[2307.10538v1](http://arxiv.org/abs/2307.10538v1)|null|
+|**2023-07-19 20:03:42**|**Uncertainty Quantification for Molecular Property Predictions with Graph   Neural Architecture Search**|Shengli Jiang et.al.|[2307.10438v1](http://arxiv.org/abs/2307.10438v1)|null|
 |**2023-07-19 10:21:47**|**AutoAMG($θ$): An Auto-tuned AMG Method Based on Deep Learning for   Strong Threshold**|Haifeng Zou et.al.|[2307.09879v1](http://arxiv.org/abs/2307.09879v1)|null|
 |**2023-07-19 09:53:56**|**Detecting Vulnerable Nodes in Urban Infrastructure Interdependent   Network**|Jinzhu Mao et.al.|[2307.09866v1](http://arxiv.org/abs/2307.09866v1)|[link](https://github.com/tsinghua-fib-lab/kdd2023-id546-urbaninfra)|
-|**2023-07-19 06:05:33**|**How Curvature Enhance the Adaptation Power of Framelet GCNs**|Dai Shi et.al.|[2307.09768v1](http://arxiv.org/abs/2307.09768v1)|null|
+|**2023-07-19 06:05:33**|**How Curvature Enhance the Adaptation Power of Framelet GCNs**|Dai Shi et.al.|[2307.09768v1](http://arxiv.org/abs/2307.09768v1)|[link](https://github.com/dshi3553usyd/curvature_enhanced_graph_convolution)|
 |**2023-07-18 22:17:07**|**Anticipating Technical Expertise and Capability Evolution in Research   Communities using Dynamic Graph Transformers**|Sameera Horawalavithana et.al.|[2307.09665v1](http://arxiv.org/abs/2307.09665v1)|null|
 |**2023-07-18 22:01:08**|**Neural Priority Queues for Graph Neural Networks**|Rishabh Jain et.al.|[2307.09660v1](http://arxiv.org/abs/2307.09660v1)|null|
 |**2023-07-18 18:48:54**|**The semantic landscape paradigm for neural networks**|Shreyas Gokhale et.al.|[2307.09550v1](http://arxiv.org/abs/2307.09550v1)|null|
@@ -27,8 +32,3 @@
 |**2023-07-16 06:14:12**|**Automated Polynomial Filter Learning for Graph Neural Networks**|Wendi Yu et.al.|[2307.07956v1](http://arxiv.org/abs/2307.07956v1)|null|
 |**2023-07-16 01:56:41**|**Neural Architecture Retrieval**|Xiaohuan Pei et.al.|[2307.07919v1](http://arxiv.org/abs/2307.07919v1)|null|
 |**2023-07-15 16:16:22**|**RegExplainer: Generating Explanations for Graph Neural Networks in   Regression Task**|Jiaxing Zhang et.al.|[2307.07840v1](http://arxiv.org/abs/2307.07840v1)|null|
-|**2023-07-15 15:46:38**|**MixupExplainer: Generalizing Explanations for Graph Neural Networks with   Data Augmentation**|Jiaxing Zhang et.al.|[2307.07832v1](http://arxiv.org/abs/2307.07832v1)|[link](https://github.com/jz48/mixupexplainer)|
-|**2023-07-15 14:19:42**|**Graph Automorphism Group Equivariant Neural Networks**|Edward Pearce-Crump et.al.|[2307.07810v1](http://arxiv.org/abs/2307.07810v1)|null|
-|**2023-07-14 22:52:27**|**DistTGL: Distributed Memory-Based Temporal Graph Neural Network Training**|Hongkuan Zhou et.al.|[2307.07649v1](http://arxiv.org/abs/2307.07649v1)|null|
-|**2023-07-14 12:02:26**|**Real-time Graph Building on FPGAs for Machine Learning Trigger   Applications in Particle Physics**|Marc Neu et.al.|[2307.07289v1](http://arxiv.org/abs/2307.07289v1)|null|
-|**2023-07-13 23:52:41**|**MaxCorrMGNN: A Multi-Graph Neural Network Framework for Generalized   Multimodal Fusion of Medical Data for Outcome Prediction**|Niharika S. D'Souza et.al.|[2307.07093v1](http://arxiv.org/abs/2307.07093v1)|null|
