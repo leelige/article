@@ -2,6 +2,9 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-21 13:22:36**|**Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal   Approach**|Yuexin Li et.al.|[2307.11572v1](http://arxiv.org/abs/2307.11572v1)|null|
+|**2023-07-21 04:09:28**|**Chrion: Optimizing Recurrent Neural Network Inference by Collaboratively   Utilizing CPUs and GPUs**|Zinuo Cai et.al.|[2307.11339v1](http://arxiv.org/abs/2307.11339v1)|null|
+|**2023-07-20 21:10:54**|**QDC: Quantum Diffusion Convolution Kernels on Graphs**|Thomas Markovich et.al.|[2307.11234v1](http://arxiv.org/abs/2307.11234v1)|null|
 |**2023-07-20 13:34:11**|**Addressing caveats of neural persistence with deep graph persistence**|Leander Girrbach et.al.|[2307.10865v1](http://arxiv.org/abs/2307.10865v1)|[link](https://github.com/ExplainableML/Deep-Graph-Persistence)|
 |**2023-07-20 07:56:28**|**A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System   Fault Detection**|Tianfu Li et.al.|[2307.10676v1](http://arxiv.org/abs/2307.10676v1)|null|
 |**2023-07-20 03:54:47**|**Air Traffic Controller Workload Level Prediction using Conformalized   Dynamical Graph Learning**|Yutian Pang et.al.|[2307.10559v1](http://arxiv.org/abs/2307.10559v1)|[link](https://github.com/ymlasu/para-atm-collection)|
@@ -29,6 +32,3 @@
 |**2023-07-16 19:06:29**|**Heterogeneous graphs model spatial relationships between biological   entities for breast cancer diagnosis**|Akhila Krishna K et.al.|[2307.08132v1](http://arxiv.org/abs/2307.08132v1)|null|
 |**2023-07-16 19:04:48**|**INFLECT-DGNN: Influencer Prediction with Dynamic Graph Neural Networks**|Elena Tiukhova et.al.|[2307.08131v1](http://arxiv.org/abs/2307.08131v1)|[link](https://github.com/banking-analytics-lab/inflect)|
 |**2023-07-16 14:56:50**|**MaGNAS: A Mapping-Aware Graph Neural Architecture Search Framework for   Heterogeneous MPSoC Deployment**|Mohanad Odema et.al.|[2307.08065v1](http://arxiv.org/abs/2307.08065v1)|null|
-|**2023-07-16 06:14:12**|**Automated Polynomial Filter Learning for Graph Neural Networks**|Wendi Yu et.al.|[2307.07956v1](http://arxiv.org/abs/2307.07956v1)|null|
-|**2023-07-16 01:56:41**|**Neural Architecture Retrieval**|Xiaohuan Pei et.al.|[2307.07919v1](http://arxiv.org/abs/2307.07919v1)|null|
-|**2023-07-15 16:16:22**|**RegExplainer: Generating Explanations for Graph Neural Networks in   Regression Task**|Jiaxing Zhang et.al.|[2307.07840v1](http://arxiv.org/abs/2307.07840v1)|null|
