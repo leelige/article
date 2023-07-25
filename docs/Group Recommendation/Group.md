@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-22 10:03:32**|**Conformal Group Recommender System**|Venkateswara Rao Kagita et.al.|[2307.12034v1](http://arxiv.org/abs/2307.12034v1)|null|
 |**2023-07-21 01:57:51**|**A First Look at Fairness of Machine Learning Based Code Reviewer   Recommendation**|Mohammad Mahdi Mohajer et.al.|[2307.11298v1](http://arxiv.org/abs/2307.11298v1)|null|
 |**2023-07-20 12:41:39**|**Ride-pooling service assessment with rational, heterogeneous,   non-deterministic travellers**|Michal Bujak et.al.|[2307.10827v1](http://arxiv.org/abs/2307.10827v1)|null|
 |**2023-07-18 17:22:19**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447v1](http://arxiv.org/abs/2307.09447v1)|null|
@@ -31,4 +32,3 @@
 |**2023-06-06 10:37:37**|**Minimizing Hitting Time between Disparate Groups with Shortcut Edges**|Florian Adriaens et.al.|[2306.03571v2](http://arxiv.org/abs/2306.03571v2)|null|
 |**2023-06-02 14:47:56**|**STUDY: Socially Aware Temporally Casual Decoder Recommender Systems**|Eltayeb Ahmed et.al.|[2306.07946v1](http://arxiv.org/abs/2306.07946v1)|null|
 |**2023-06-01 21:38:50**|**A Multi-Modal Latent-Features based Service Recommendation System for   the Social Internet of Things**|Amar Khelloufi et.al.|[2306.01163v1](http://arxiv.org/abs/2306.01163v1)|null|
-|**2023-05-31 16:48:34**|**Bias Mitigation Methods for Binary Classification Decision-Making   Systems: Survey and Recommendations**|Madeleine Waller et.al.|[2305.20020v1](http://arxiv.org/abs/2305.20020v1)|null|
