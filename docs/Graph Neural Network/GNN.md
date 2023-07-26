@@ -2,8 +2,20 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-25 15:49:25**|**Multi-GPU Approach for Training of Graph ML Models on large CFD Meshes**|Sebastian Strönisch et.al.|[2307.13592v1](http://arxiv.org/abs/2307.13592v1)|null|
+|**2023-07-25 14:51:01**|**Node Injection Link Stealing Attack**|Oualid Zari et.al.|[2307.13548v1](http://arxiv.org/abs/2307.13548v1)|null|
+|**2023-07-25 14:27:49**|**Differentiable Turbulence II**|Varun Shankar et.al.|[2307.13533v1](http://arxiv.org/abs/2307.13533v1)|null|
+|**2023-07-25 13:49:15**|**Finding Money Launderers Using Heterogeneous Graph Neural Networks**|Fredrik Johannessen et.al.|[2307.13499v1](http://arxiv.org/abs/2307.13499v1)|[link](https://github.com/fredjo89/heterogeneous-mpnn)|
+|**2023-07-25 13:01:25**|**Combinatorial Auctions and Graph Neural Networks for Local Energy   Flexibility Markets**|Awadelrahman M. A. Ahmed et.al.|[2307.13470v1](http://arxiv.org/abs/2307.13470v1)|null|
+|**2023-07-25 12:56:41**|**Gaussian Graph with Prototypical Contrastive Learning in E-Commerce   Bundle Recommendation**|Zhao-Yang Liu et.al.|[2307.13468v1](http://arxiv.org/abs/2307.13468v1)|null|
+|**2023-07-25 06:13:01**|**Curvature-based Transformer for Molecular Property Prediction**|Yili Chen et.al.|[2307.13275v1](http://arxiv.org/abs/2307.13275v1)|null|
+|**2023-07-25 02:11:41**|**Transferability of Graph Neural Networks using Graphon and Sampling   Theories**|A. Martina Neuman et.al.|[2307.13206v1](http://arxiv.org/abs/2307.13206v1)|null|
+|**2023-07-24 19:57:21**|**An Explainable Geometric-Weighted Graph Attention Network for   Identifying Functional Networks Associated with Gait Impairment**|Favour Nerrise et.al.|[2307.13108v1](http://arxiv.org/abs/2307.13108v1)|[link](https://github.com/favour-nerrise/xgw-gat)|
+|**2023-07-24 18:05:22**|**MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph   Contrastive Learning**|Yun Zhu et.al.|[2307.13055v1](http://arxiv.org/abs/2307.13055v1)|[link](https://github.com/ZhuYun97/MARIO)|
 |**2023-07-24 17:03:28**|**Unsupervised Learning of Invariance Transformations**|Aleksandar Vučković et.al.|[2307.12937v1](http://arxiv.org/abs/2307.12937v1)|null|
+|**2023-07-24 16:14:32**|**Graph Neural Networks For Mapping Variables Between Programs -- Extended   Version**|Pedro Orvalho et.al.|[2307.13014v1](http://arxiv.org/abs/2307.13014v1)|[link](https://github.com/pmorvalho/ecai23-gnns-for-mapping-variables-between-programs)|
 |**2023-07-24 13:58:15**|**Comprehending Semantic Types in JSON Data with Graph Neural Networks**|Shuang Wei et.al.|[2307.12807v1](http://arxiv.org/abs/2307.12807v1)|null|
+|**2023-07-24 13:47:30**|**Maximal Independent Sets for Pooling in Graph Neural Networks**|Stevan Stanovic et.al.|[2307.13011v1](http://arxiv.org/abs/2307.13011v1)|null|
 |**2023-07-24 13:39:21**|**Compact & Capable: Harnessing Graph Neural Networks and Edge Convolution   for Medical Image Classification**|Aryan Singh et.al.|[2307.12790v1](http://arxiv.org/abs/2307.12790v1)|[link](https://github.com/anonrepo-keeper/gcnn-ec)|
 |**2023-07-24 13:07:22**|**HiHGNN: Accelerating HGNNs through Parallelism and Data Reusability   Exploitation**|Runzhen Xue et.al.|[2307.12765v1](http://arxiv.org/abs/2307.12765v1)|null|
 |**2023-07-24 12:21:33**|**Persistent-Transient Duality: A Multi-mechanism Approach for Modeling   Human-Object Interaction**|Hung Tran et.al.|[2307.12729v1](http://arxiv.org/abs/2307.12729v1)|null|
@@ -20,15 +32,3 @@
 |**2023-07-20 13:34:11**|**Addressing caveats of neural persistence with deep graph persistence**|Leander Girrbach et.al.|[2307.10865v1](http://arxiv.org/abs/2307.10865v1)|[link](https://github.com/ExplainableML/Deep-Graph-Persistence)|
 |**2023-07-20 07:56:28**|**A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System   Fault Detection**|Tianfu Li et.al.|[2307.10676v1](http://arxiv.org/abs/2307.10676v1)|null|
 |**2023-07-20 03:54:47**|**Air Traffic Controller Workload Level Prediction using Conformalized   Dynamical Graph Learning**|Yutian Pang et.al.|[2307.10559v2](http://arxiv.org/abs/2307.10559v2)|[link](https://github.com/ymlasu/para-atm-collection)|
-|**2023-07-20 02:34:03**|**Power Allocation for Device-to-Device Interference Channel Using   Truncated Graph Transformers**|Dohoon Kim et.al.|[2307.10538v2](http://arxiv.org/abs/2307.10538v2)|null|
-|**2023-07-19 20:03:42**|**Uncertainty Quantification for Molecular Property Predictions with Graph   Neural Architecture Search**|Shengli Jiang et.al.|[2307.10438v1](http://arxiv.org/abs/2307.10438v1)|null|
-|**2023-07-19 10:21:47**|**AutoAMG($θ$): An Auto-tuned AMG Method Based on Deep Learning for   Strong Threshold**|Haifeng Zou et.al.|[2307.09879v1](http://arxiv.org/abs/2307.09879v1)|null|
-|**2023-07-19 09:53:56**|**Detecting Vulnerable Nodes in Urban Infrastructure Interdependent   Network**|Jinzhu Mao et.al.|[2307.09866v1](http://arxiv.org/abs/2307.09866v1)|[link](https://github.com/tsinghua-fib-lab/kdd2023-id546-urbaninfra)|
-|**2023-07-19 06:05:33**|**How Curvature Enhance the Adaptation Power of Framelet GCNs**|Dai Shi et.al.|[2307.09768v1](http://arxiv.org/abs/2307.09768v1)|[link](https://github.com/dshi3553usyd/curvature_enhanced_graph_convolution)|
-|**2023-07-18 22:17:07**|**Anticipating Technical Expertise and Capability Evolution in Research   Communities using Dynamic Graph Transformers**|Sameera Horawalavithana et.al.|[2307.09665v1](http://arxiv.org/abs/2307.09665v1)|null|
-|**2023-07-18 22:01:08**|**Neural Priority Queues for Graph Neural Networks**|Rishabh Jain et.al.|[2307.09660v1](http://arxiv.org/abs/2307.09660v1)|null|
-|**2023-07-18 18:48:54**|**The semantic landscape paradigm for neural networks**|Shreyas Gokhale et.al.|[2307.09550v1](http://arxiv.org/abs/2307.09550v1)|null|
-|**2023-07-18 17:16:42**|**Hardness of the Maximum Independent Set Problem on Unit-Disk Graphs and   Prospects for Quantum Speedups**|Ruben S. Andrist et.al.|[2307.09442v1](http://arxiv.org/abs/2307.09442v1)|null|
-|**2023-07-18 14:37:23**|**Rumor Detection with Diverse Counterfactual Evidence**|Kaiwei Zhang et.al.|[2307.09296v1](http://arxiv.org/abs/2307.09296v1)|[link](https://github.com/Vicinity111/DCE-RD)|
-|**2023-07-18 08:37:25**|**Learning Adaptive Neighborhoods for Graph Neural Networks**|Avishkar Saha et.al.|[2307.09065v1](http://arxiv.org/abs/2307.09065v1)|null|
-|**2023-07-18 01:02:20**|**Sharpness-Aware Graph Collaborative Filtering**|Huiyuan Chen et.al.|[2307.08910v1](http://arxiv.org/abs/2307.08910v1)|null|
