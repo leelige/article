@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-26 13:51:12**|**Feature-enriched network geometry explains graph-structured data**|Roya Aliakbarisani et.al.|[2307.14198v1](http://arxiv.org/abs/2307.14198v1)|null|
+|**2023-07-26 13:47:52**|**Efficient Learning of Discrete-Continuous Computation Graphs**|David Friede et.al.|[2307.14193v1](http://arxiv.org/abs/2307.14193v1)|[link](https://github.com/nec-research/dccg)|
+|**2023-07-26 10:58:53**|**Investigating structural and functional aspects of the brain's   criticality in stroke**|Jakub Janarek et.al.|[2307.14099v1](http://arxiv.org/abs/2307.14099v1)|null|
+|**2023-07-26 06:52:53**|**Distributed Computing of Functions of Structured Sources with Helper   Side Information**|Derya Malak et.al.|[2307.13987v1](http://arxiv.org/abs/2307.13987v1)|null|
+|**2023-07-26 05:55:34**|**Towards a cosmic ray composition measurement with the IceAct telescopes   at the IceCube Neutrino Observatory**|Larissa Paul et.al.|[2307.13965v1](http://arxiv.org/abs/2307.13965v1)|null|
+|**2023-07-26 03:55:08**|**Entropy Neural Estimation for Graph Contrastive Learning**|Yixuan Ma et.al.|[2307.13944v1](http://arxiv.org/abs/2307.13944v1)|null|
+|**2023-07-26 02:18:04**|**Graph Neural Networks-based Hybrid Framework For Predicting Particle   Crushing Strength**|Tongya Zheng et.al.|[2307.13909v1](http://arxiv.org/abs/2307.13909v1)|[link](https://github.com/doujiang-zheng/gnn-for-particle-crushing)|
+|**2023-07-25 20:56:14**|**Uncertainty Quantification in the Road-level Traffic Risk Prediction by   Spatial-Temporal Zero-Inflated Negative Binomial Graph Neural   Network(STZINB-GNN)**|Xiaowei Gao et.al.|[2307.13816v1](http://arxiv.org/abs/2307.13816v1)|null|
 |**2023-07-25 15:49:25**|**Multi-GPU Approach for Training of Graph ML Models on large CFD Meshes**|Sebastian Strönisch et.al.|[2307.13592v1](http://arxiv.org/abs/2307.13592v1)|null|
 |**2023-07-25 14:51:01**|**Node Injection Link Stealing Attack**|Oualid Zari et.al.|[2307.13548v1](http://arxiv.org/abs/2307.13548v1)|null|
 |**2023-07-25 14:27:49**|**Differentiable Turbulence II**|Varun Shankar et.al.|[2307.13533v1](http://arxiv.org/abs/2307.13533v1)|null|
@@ -24,11 +32,3 @@
 |**2023-07-24 02:28:50**|**Learning Resource Allocation Policy: Vertex-GNN or Edge-GNN?**|Yao Peng et.al.|[2307.12480v1](http://arxiv.org/abs/2307.12480v1)|null|
 |**2023-07-23 22:35:09**|**WEPRO: Weight Prediction for Efficient Optimization of Hybrid   Quantum-Classical Algorithms**|Satwik Kundu et.al.|[2307.12449v1](http://arxiv.org/abs/2307.12449v1)|null|
 |**2023-07-23 05:31:47**|**EchoGLAD: Hierarchical Graph Neural Networks for Left Ventricle Landmark   Detection on Echocardiograms**|Masoud Mokhtari et.al.|[2307.12229v1](http://arxiv.org/abs/2307.12229v1)|[link](https://github.com/masoudmo/echoglad)|
-|**2023-07-22 12:10:23**|**Balancing Exploration and Exploitation in Hierarchical Reinforcement   Learning via Latent Landmark Graphs**|Qingyang Zhang et.al.|[2307.12063v1](http://arxiv.org/abs/2307.12063v1)|[link](https://github.com/papercode2022/hill)|
-|**2023-07-22 04:52:27**|**Collaborative Graph Neural Networks for Attributed Network Embedding**|Qiaoyu Tan et.al.|[2307.11981v1](http://arxiv.org/abs/2307.11981v1)|[link](https://github.com/qiaoyut/conn)|
-|**2023-07-21 13:22:36**|**Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal   Approach**|Yuexin Li et.al.|[2307.11572v1](http://arxiv.org/abs/2307.11572v1)|null|
-|**2023-07-21 04:09:28**|**Chrion: Optimizing Recurrent Neural Network Inference by Collaboratively   Utilizing CPUs and GPUs**|Zinuo Cai et.al.|[2307.11339v1](http://arxiv.org/abs/2307.11339v1)|null|
-|**2023-07-20 21:10:54**|**QDC: Quantum Diffusion Convolution Kernels on Graphs**|Thomas Markovich et.al.|[2307.11234v1](http://arxiv.org/abs/2307.11234v1)|null|
-|**2023-07-20 13:34:11**|**Addressing caveats of neural persistence with deep graph persistence**|Leander Girrbach et.al.|[2307.10865v1](http://arxiv.org/abs/2307.10865v1)|[link](https://github.com/ExplainableML/Deep-Graph-Persistence)|
-|**2023-07-20 07:56:28**|**A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System   Fault Detection**|Tianfu Li et.al.|[2307.10676v1](http://arxiv.org/abs/2307.10676v1)|null|
-|**2023-07-20 03:54:47**|**Air Traffic Controller Workload Level Prediction using Conformalized   Dynamical Graph Learning**|Yutian Pang et.al.|[2307.10559v2](http://arxiv.org/abs/2307.10559v2)|[link](https://github.com/ymlasu/para-atm-collection)|

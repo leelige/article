@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-26 02:24:23**|**Domain Disentanglement with Interpolative Data Augmentation for   Dual-Target Cross-Domain Recommendation**|Jiajie Zhu et.al.|[2307.13910v1](http://arxiv.org/abs/2307.13910v1)|null|
 |**2023-07-25 16:35:50**|**Exact Methods of Homogeneity Test of Proportions for Bilateral and   Unilateral Correlated Data**|Shuyi Liang et.al.|[2307.13634v1](http://arxiv.org/abs/2307.13634v1)|null|
 |**2023-07-22 10:03:32**|**Conformal Group Recommender System**|Venkateswara Rao Kagita et.al.|[2307.12034v1](http://arxiv.org/abs/2307.12034v1)|null|
 |**2023-07-21 01:57:51**|**A First Look at Fairness of Machine Learning Based Code Reviewer   Recommendation**|Mohammad Mahdi Mohajer et.al.|[2307.11298v1](http://arxiv.org/abs/2307.11298v1)|null|
@@ -31,4 +32,3 @@
 |**2023-06-08 15:56:57**|**Are fairness metric scores enough to assess discrimination biases in   machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
 |**2023-06-08 11:39:57**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v3](http://arxiv.org/abs/2306.05118v3)|[link](https://github.com/lyingcs/controllable-multi-objective-reranking)|
 |**2023-06-06 10:37:37**|**Minimizing Hitting Time between Disparate Groups with Shortcut Edges**|Florian Adriaens et.al.|[2306.03571v2](http://arxiv.org/abs/2306.03571v2)|null|
-|**2023-06-02 14:47:56**|**STUDY: Socially Aware Temporally Casual Decoder Recommender Systems**|Eltayeb Ahmed et.al.|[2306.07946v1](http://arxiv.org/abs/2306.07946v1)|null|
