@@ -10,7 +10,7 @@
 |**2023-07-26 18:00:07**|**Large-scale quantum approximate optimization on non-planar graphs with   machine learning noise mitigation**|Stefan H. Sack et.al.|[2307.14427v1](http://arxiv.org/abs/2307.14427v1)|null|
 |**2023-07-26 13:51:12**|**Feature-enriched network geometry explains graph-structured data**|Roya Aliakbarisani et.al.|[2307.14198v1](http://arxiv.org/abs/2307.14198v1)|null|
 |**2023-07-26 13:47:52**|**Efficient Learning of Discrete-Continuous Computation Graphs**|David Friede et.al.|[2307.14193v1](http://arxiv.org/abs/2307.14193v1)|[link](https://github.com/nec-research/dccg)|
-|**2023-07-26 10:58:53**|**Investigating structural and functional aspects of the brain's   criticality in stroke**|Jakub Janarek et.al.|[2307.14099v1](http://arxiv.org/abs/2307.14099v1)|null|
+|**2023-07-26 10:58:53**|**Investigating structural and functional aspects of the brain's   criticality in stroke**|Jakub Janarek et.al.|[2307.14099v1](http://arxiv.org/abs/2307.14099v1)|[link](https://github.com/grelade/critical-stroke)|
 |**2023-07-26 06:52:53**|**Distributed Computing of Functions of Structured Sources with Helper   Side Information**|Derya Malak et.al.|[2307.13987v1](http://arxiv.org/abs/2307.13987v1)|null|
 |**2023-07-26 05:55:34**|**Towards a cosmic ray composition measurement with the IceAct telescopes   at the IceCube Neutrino Observatory**|Larissa Paul et.al.|[2307.13965v1](http://arxiv.org/abs/2307.13965v1)|null|
 |**2023-07-26 03:55:08**|**Entropy Neural Estimation for Graph Contrastive Learning**|Yixuan Ma et.al.|[2307.13944v1](http://arxiv.org/abs/2307.13944v1)|null|
