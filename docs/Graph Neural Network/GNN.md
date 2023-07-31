@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-28 17:16:58**|**A supervised hybrid quantum machine learning solution to the emergency   escape routing problem**|Nathan Haboury et.al.|[2307.15682v1](http://arxiv.org/abs/2307.15682v1)|null|
+|**2023-07-28 15:26:31**|**$\ell_p$-sphere covering and approximating nuclear $p$-norm**|Jiewen Guan et.al.|[2307.15616v1](http://arxiv.org/abs/2307.15616v1)|null|
+|**2023-07-28 07:53:34**|**Co-attention Graph Pooling for Efficient Pairwise Graph Interaction   Learning**|Junhyun Lee et.al.|[2307.15377v1](http://arxiv.org/abs/2307.15377v1)|[link](https://github.com/leejunhyun/coattentiongraphpooling)|
+|**2023-07-28 07:04:30**|**Determination of impact parameter for CEE with Digi-input neural   networks**|Botan Wang et.al.|[2307.15355v1](http://arxiv.org/abs/2307.15355v1)|null|
+|**2023-07-28 06:51:01**|**The nature of hypergraph $k$-core percolation problems**|Ginestra Bianconi et.al.|[2307.15346v1](http://arxiv.org/abs/2307.15346v1)|null|
+|**2023-07-28 00:44:57**|**BOURNE: Bootstrapped Self-supervised Learning Framework for Unified   Graph Anomaly Detection**|Jie Liu et.al.|[2307.15244v1](http://arxiv.org/abs/2307.15244v1)|null|
+|**2023-07-28 00:43:51**|**A universal equivariant graph neural network for the elasticity tensors   of any crystal system**|Mingjian Wen et.al.|[2307.15242v1](http://arxiv.org/abs/2307.15242v1)|null|
 |**2023-07-27 17:59:58**|**Exponential speedups for quantum walks in random hierarchical graphs**|Shankar Balasubramanian et.al.|[2307.15062v1](http://arxiv.org/abs/2307.15062v1)|null|
 |**2023-07-27 08:10:19**|**TimeGNN: Temporal Dynamic Graph Learning for Time Series Forecasting**|Nancy Xu et.al.|[2307.14680v1](http://arxiv.org/abs/2307.14680v1)|null|
 |**2023-07-27 05:02:13**|**Multi-Agent Graph Reinforcement Learning based On-Demand Wireless Energy   Transfer in Multi-UAV-aided IoT Network**|Ze Yu Zhao et.al.|[2307.14626v1](http://arxiv.org/abs/2307.14626v1)|null|
@@ -25,10 +32,3 @@
 |**2023-07-25 09:35:43**|**Prot2Text: Multimodal Protein's Function Generation with GNNs and   Transformers**|Hadi Abdine et.al.|[2307.14367v1](http://arxiv.org/abs/2307.14367v1)|null|
 |**2023-07-25 06:13:01**|**Curvature-based Transformer for Molecular Property Prediction**|Yili Chen et.al.|[2307.13275v1](http://arxiv.org/abs/2307.13275v1)|null|
 |**2023-07-25 02:11:41**|**Transferability of Graph Neural Networks using Graphon and Sampling   Theories**|A. Martina Neuman et.al.|[2307.13206v1](http://arxiv.org/abs/2307.13206v1)|null|
-|**2023-07-24 19:57:21**|**An Explainable Geometric-Weighted Graph Attention Network for   Identifying Functional Networks Associated with Gait Impairment**|Favour Nerrise et.al.|[2307.13108v1](http://arxiv.org/abs/2307.13108v1)|[link](https://github.com/favour-nerrise/xgw-gat)|
-|**2023-07-24 18:05:22**|**MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph   Contrastive Learning**|Yun Zhu et.al.|[2307.13055v1](http://arxiv.org/abs/2307.13055v1)|[link](https://github.com/ZhuYun97/MARIO)|
-|**2023-07-24 17:03:28**|**Unsupervised Learning of Invariance Transformations**|Aleksandar Vučković et.al.|[2307.12937v1](http://arxiv.org/abs/2307.12937v1)|null|
-|**2023-07-24 16:14:32**|**Graph Neural Networks For Mapping Variables Between Programs -- Extended   Version**|Pedro Orvalho et.al.|[2307.13014v1](http://arxiv.org/abs/2307.13014v1)|[link](https://github.com/pmorvalho/ecai23-gnns-for-mapping-variables-between-programs)|
-|**2023-07-24 13:58:15**|**Comprehending Semantic Types in JSON Data with Graph Neural Networks**|Shuang Wei et.al.|[2307.12807v1](http://arxiv.org/abs/2307.12807v1)|null|
-|**2023-07-24 13:47:30**|**Maximal Independent Sets for Pooling in Graph Neural Networks**|Stevan Stanovic et.al.|[2307.13011v1](http://arxiv.org/abs/2307.13011v1)|null|
-|**2023-07-24 13:39:21**|**Compact & Capable: Harnessing Graph Neural Networks and Edge Convolution   for Medical Image Classification**|Aryan Singh et.al.|[2307.12790v1](http://arxiv.org/abs/2307.12790v1)|[link](https://github.com/anonrepo-keeper/gcnn-ec)|
