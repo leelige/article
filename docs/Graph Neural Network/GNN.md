@@ -2,6 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-31 14:32:40**|**TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for   Fine-grained Encrypted Traffic Classification**|Haozhen Zhang et.al.|[2307.16713v1](http://arxiv.org/abs/2307.16713v1)|null|
+|**2023-07-31 13:44:22**|**Graph Structure from Point Clouds: Geometric Attention is All You Need**|Daniel Murnane et.al.|[2307.16662v1](http://arxiv.org/abs/2307.16662v1)|[link](https://github.com/murnanedaniel/geometricattention)|
+|**2023-07-31 05:54:06**|**MRA-GNN: Minutiae Relation-Aware Model over Graph Neural Network for   Fingerprint Embedding**|Yapeng Su et.al.|[2307.16416v1](http://arxiv.org/abs/2307.16416v1)|null|
+|**2023-07-31 02:04:05**|**Multi-modal Graph Neural Network for Early Diagnosis of Alzheimer's   Disease from sMRI and PET Scans**|Yanteng Zhanga et.al.|[2307.16366v1](http://arxiv.org/abs/2307.16366v1)|null|
+|**2023-07-30 12:49:54**|**Question Answering with Deep Neural Networks for Semi-Structured   Heterogeneous Genealogical Knowledge Graphs**|Omri Suissa et.al.|[2307.16214v1](http://arxiv.org/abs/2307.16214v1)|[link](https://github.com/omrivm/uncle-bert)|
+|**2023-07-30 12:09:00**|**Around the GLOBE: Numerical Aggregation Question-Answering on   Heterogeneous Genealogical Knowledge Graphs with Deep Neural Networks**|Omri Suissa et.al.|[2307.16208v1](http://arxiv.org/abs/2307.16208v1)|null|
+|**2023-07-29 23:31:18**|**ADR-GNN: Advection-Diffusion-Reaction Graph Neural Networks**|Moshe Eliasof et.al.|[2307.16092v1](http://arxiv.org/abs/2307.16092v1)|null|
+|**2023-07-29 12:11:14**|**Graph Condensation for Inductive Node Representation Learning**|Xinyi Gao et.al.|[2307.15967v1](http://arxiv.org/abs/2307.15967v1)|null|
+|**2023-07-29 07:17:43**|**Opportunistic Air Quality Monitoring and Forecasting with Expandable   Graph Neural Networks**|Jingwei Zuo et.al.|[2307.15916v1](http://arxiv.org/abs/2307.15916v1)|null|
 |**2023-07-28 17:16:58**|**A supervised hybrid quantum machine learning solution to the emergency   escape routing problem**|Nathan Haboury et.al.|[2307.15682v1](http://arxiv.org/abs/2307.15682v1)|null|
 |**2023-07-28 15:26:31**|**$\ell_p$-sphere covering and approximating nuclear $p$-norm**|Jiewen Guan et.al.|[2307.15616v1](http://arxiv.org/abs/2307.15616v1)|null|
 |**2023-07-28 07:53:34**|**Co-attention Graph Pooling for Efficient Pairwise Graph Interaction   Learning**|Junhyun Lee et.al.|[2307.15377v1](http://arxiv.org/abs/2307.15377v1)|[link](https://github.com/leejunhyun/coattentiongraphpooling)|
@@ -23,12 +32,3 @@
 |**2023-07-26 03:55:08**|**Entropy Neural Estimation for Graph Contrastive Learning**|Yixuan Ma et.al.|[2307.13944v1](http://arxiv.org/abs/2307.13944v1)|null|
 |**2023-07-26 02:18:04**|**Graph Neural Networks-based Hybrid Framework For Predicting Particle   Crushing Strength**|Tongya Zheng et.al.|[2307.13909v1](http://arxiv.org/abs/2307.13909v1)|[link](https://github.com/doujiang-zheng/gnn-for-particle-crushing)|
 |**2023-07-25 20:56:14**|**Uncertainty Quantification in the Road-level Traffic Risk Prediction by   Spatial-Temporal Zero-Inflated Negative Binomial Graph Neural   Network(STZINB-GNN)**|Xiaowei Gao et.al.|[2307.13816v1](http://arxiv.org/abs/2307.13816v1)|null|
-|**2023-07-25 15:49:25**|**Multi-GPU Approach for Training of Graph ML Models on large CFD Meshes**|Sebastian Strönisch et.al.|[2307.13592v1](http://arxiv.org/abs/2307.13592v1)|null|
-|**2023-07-25 14:51:01**|**Node Injection Link Stealing Attack**|Oualid Zari et.al.|[2307.13548v1](http://arxiv.org/abs/2307.13548v1)|null|
-|**2023-07-25 14:27:49**|**Differentiable Turbulence II**|Varun Shankar et.al.|[2307.13533v1](http://arxiv.org/abs/2307.13533v1)|null|
-|**2023-07-25 13:49:15**|**Finding Money Launderers Using Heterogeneous Graph Neural Networks**|Fredrik Johannessen et.al.|[2307.13499v1](http://arxiv.org/abs/2307.13499v1)|[link](https://github.com/fredjo89/heterogeneous-mpnn)|
-|**2023-07-25 13:01:25**|**Combinatorial Auctions and Graph Neural Networks for Local Energy   Flexibility Markets**|Awadelrahman M. A. Ahmed et.al.|[2307.13470v1](http://arxiv.org/abs/2307.13470v1)|null|
-|**2023-07-25 12:56:41**|**Gaussian Graph with Prototypical Contrastive Learning in E-Commerce   Bundle Recommendation**|Zhao-Yang Liu et.al.|[2307.13468v1](http://arxiv.org/abs/2307.13468v1)|null|
-|**2023-07-25 09:35:43**|**Prot2Text: Multimodal Protein's Function Generation with GNNs and   Transformers**|Hadi Abdine et.al.|[2307.14367v1](http://arxiv.org/abs/2307.14367v1)|null|
-|**2023-07-25 06:13:01**|**Curvature-based Transformer for Molecular Property Prediction**|Yili Chen et.al.|[2307.13275v1](http://arxiv.org/abs/2307.13275v1)|null|
-|**2023-07-25 02:11:41**|**Transferability of Graph Neural Networks using Graphon and Sampling   Theories**|A. Martina Neuman et.al.|[2307.13206v1](http://arxiv.org/abs/2307.13206v1)|null|

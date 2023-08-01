@@ -1,48 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2023-07-31 16:08:53 Asia/Shanghai
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-28 17:16:58**|**A supervised hybrid quantum machine learning solution to the emergency   escape routing problem**|Nathan Haboury et.al.|[2307.15682v1](http://arxiv.org/abs/2307.15682v1)|null|
-|**2023-07-28 15:26:31**|**$\ell_p$-sphere covering and approximating nuclear $p$-norm**|Jiewen Guan et.al.|[2307.15616v1](http://arxiv.org/abs/2307.15616v1)|null|
-|**2023-07-28 07:53:34**|**Co-attention Graph Pooling for Efficient Pairwise Graph Interaction   Learning**|Junhyun Lee et.al.|[2307.15377v1](http://arxiv.org/abs/2307.15377v1)|[link](https://github.com/leejunhyun/coattentiongraphpooling)|
-|**2023-07-28 07:04:30**|**Determination of impact parameter for CEE with Digi-input neural   networks**|Botan Wang et.al.|[2307.15355v1](http://arxiv.org/abs/2307.15355v1)|null|
-|**2023-07-28 06:51:01**|**The nature of hypergraph $k$-core percolation problems**|Ginestra Bianconi et.al.|[2307.15346v1](http://arxiv.org/abs/2307.15346v1)|null|
-|**2023-07-28 00:44:57**|**BOURNE: Bootstrapped Self-supervised Learning Framework for Unified   Graph Anomaly Detection**|Jie Liu et.al.|[2307.15244v1](http://arxiv.org/abs/2307.15244v1)|null|
-|**2023-07-28 00:43:51**|**A universal equivariant graph neural network for the elasticity tensors   of any crystal system**|Mingjian Wen et.al.|[2307.15242v1](http://arxiv.org/abs/2307.15242v1)|null|
-|**2023-07-27 17:59:58**|**Exponential speedups for quantum walks in random hierarchical graphs**|Shankar Balasubramanian et.al.|[2307.15062v1](http://arxiv.org/abs/2307.15062v1)|null|
-|**2023-07-27 08:10:19**|**TimeGNN: Temporal Dynamic Graph Learning for Time Series Forecasting**|Nancy Xu et.al.|[2307.14680v1](http://arxiv.org/abs/2307.14680v1)|null|
-|**2023-07-27 05:02:13**|**Multi-Agent Graph Reinforcement Learning based On-Demand Wireless Energy   Transfer in Multi-UAV-aided IoT Network**|Ze Yu Zhao et.al.|[2307.14626v1](http://arxiv.org/abs/2307.14626v1)|null|
-|**2023-07-27 02:43:21**|**HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic   Forecasting**|Zezhi Shao et.al.|[2307.14596v1](http://arxiv.org/abs/2307.14596v1)|null|
-|**2023-07-26 21:01:14**|**Improving Reliable Navigation under Uncertainty via Predictions Informed   by Non-Local Information**|Raihan Islam Arnob et.al.|[2307.14501v1](http://arxiv.org/abs/2307.14501v1)|null|
-|**2023-07-26 18:00:07**|**Large-scale quantum approximate optimization on non-planar graphs with   machine learning noise mitigation**|Stefan H. Sack et.al.|[2307.14427v1](http://arxiv.org/abs/2307.14427v1)|null|
-|**2023-07-26 13:51:12**|**Feature-enriched network geometry explains graph-structured data**|Roya Aliakbarisani et.al.|[2307.14198v1](http://arxiv.org/abs/2307.14198v1)|null|
-|**2023-07-26 13:47:52**|**Efficient Learning of Discrete-Continuous Computation Graphs**|David Friede et.al.|[2307.14193v1](http://arxiv.org/abs/2307.14193v1)|[link](https://github.com/nec-research/dccg)|
-|**2023-07-26 10:58:53**|**Investigating structural and functional aspects of the brain's   criticality in stroke**|Jakub Janarek et.al.|[2307.14099v1](http://arxiv.org/abs/2307.14099v1)|[link](https://github.com/grelade/critical-stroke)|
-|**2023-07-26 06:52:53**|**Distributed Computing of Functions of Structured Sources with Helper   Side Information**|Derya Malak et.al.|[2307.13987v1](http://arxiv.org/abs/2307.13987v1)|null|
-|**2023-07-26 05:55:34**|**Towards a cosmic ray composition measurement with the IceAct telescopes   at the IceCube Neutrino Observatory**|Larissa Paul et.al.|[2307.13965v1](http://arxiv.org/abs/2307.13965v1)|null|
-|**2023-07-26 03:55:08**|**Entropy Neural Estimation for Graph Contrastive Learning**|Yixuan Ma et.al.|[2307.13944v1](http://arxiv.org/abs/2307.13944v1)|null|
-|**2023-07-26 02:18:04**|**Graph Neural Networks-based Hybrid Framework For Predicting Particle   Crushing Strength**|Tongya Zheng et.al.|[2307.13909v1](http://arxiv.org/abs/2307.13909v1)|[link](https://github.com/doujiang-zheng/gnn-for-particle-crushing)|
-|**2023-07-25 20:56:14**|**Uncertainty Quantification in the Road-level Traffic Risk Prediction by   Spatial-Temporal Zero-Inflated Negative Binomial Graph Neural   Network(STZINB-GNN)**|Xiaowei Gao et.al.|[2307.13816v1](http://arxiv.org/abs/2307.13816v1)|null|
-|**2023-07-25 15:49:25**|**Multi-GPU Approach for Training of Graph ML Models on large CFD Meshes**|Sebastian Strönisch et.al.|[2307.13592v1](http://arxiv.org/abs/2307.13592v1)|null|
-|**2023-07-25 14:51:01**|**Node Injection Link Stealing Attack**|Oualid Zari et.al.|[2307.13548v1](http://arxiv.org/abs/2307.13548v1)|null|
-|**2023-07-25 14:27:49**|**Differentiable Turbulence II**|Varun Shankar et.al.|[2307.13533v1](http://arxiv.org/abs/2307.13533v1)|null|
-|**2023-07-25 13:49:15**|**Finding Money Launderers Using Heterogeneous Graph Neural Networks**|Fredrik Johannessen et.al.|[2307.13499v1](http://arxiv.org/abs/2307.13499v1)|[link](https://github.com/fredjo89/heterogeneous-mpnn)|
-|**2023-07-25 13:01:25**|**Combinatorial Auctions and Graph Neural Networks for Local Energy   Flexibility Markets**|Awadelrahman M. A. Ahmed et.al.|[2307.13470v1](http://arxiv.org/abs/2307.13470v1)|null|
-|**2023-07-25 12:56:41**|**Gaussian Graph with Prototypical Contrastive Learning in E-Commerce   Bundle Recommendation**|Zhao-Yang Liu et.al.|[2307.13468v1](http://arxiv.org/abs/2307.13468v1)|null|
-|**2023-07-25 09:35:43**|**Prot2Text: Multimodal Protein's Function Generation with GNNs and   Transformers**|Hadi Abdine et.al.|[2307.14367v1](http://arxiv.org/abs/2307.14367v1)|null|
-|**2023-07-25 06:13:01**|**Curvature-based Transformer for Molecular Property Prediction**|Yili Chen et.al.|[2307.13275v1](http://arxiv.org/abs/2307.13275v1)|null|
-|**2023-07-25 02:11:41**|**Transferability of Graph Neural Networks using Graphon and Sampling   Theories**|A. Martina Neuman et.al.|[2307.13206v1](http://arxiv.org/abs/2307.13206v1)|null|
+ 自动更新 @ 2023-08-01 16:08:14 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-07-27 04:27:26**|**Imitating Complex Trajectories: Bridging Low-Level Stability and   High-Level Behavior**|Adam Block et.al.|[2307.14619v1](http://arxiv.org/abs/2307.14619v1)|null|
+|**2023-07-29 05:46:27**|**Online Matching: A Real-time Bandit System for Large-scale   Recommendations**|Xinyang Yi et.al.|[2307.15893v1](http://arxiv.org/abs/2307.15893v1)|null|
+|**2023-07-27 04:27:26**|**Imitating Complex Trajectories: Bridging Low-Level Stability and   High-Level Behavior**|Adam Block et.al.|[2307.14619v2](http://arxiv.org/abs/2307.14619v2)|null|
 |**2023-07-20 02:48:04**|**TREA: Tree-Structure Reasoning Schema for Conversational Recommendation**|Wendi Li et.al.|[2307.10543v1](http://arxiv.org/abs/2307.10543v1)|[link](https://github.com/windylee0822/trea)|
 |**2023-07-16 00:43:54**|**MESOB: Balancing Equilibria & Social Optimality**|Xin Guo et.al.|[2307.07911v1](http://arxiv.org/abs/2307.07911v1)|null|
 |**2023-07-05 14:06:45**|**Recommended Implementation of Quantitative Susceptibility Mapping for   Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic   Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306v1](http://arxiv.org/abs/2307.02306v1)|null|
@@ -66,18 +31,55 @@
 |**2023-04-08 00:30:08**|**GPT4Rec: A Generative Framework for Personalized Recommendation and User   Interests Interpretation**|Jinming Li et.al.|[2304.03879v1](http://arxiv.org/abs/2304.03879v1)|null|
 |**2023-03-31 06:47:56**|**ConceptEVA: Concept-Based Interactive Exploration and Customization of   Document Summaries**|Xiaoyu Zhang et.al.|[2303.17826v1](http://arxiv.org/abs/2303.17826v1)|null|
 |**2023-03-21 00:00:35**|**Optimal Individualized Treatment Rule for Combination Treatments Under   Budget Constraints**|Qi Xu et.al.|[2303.11507v2](http://arxiv.org/abs/2303.11507v2)|null|
-|**2023-02-28 12:43:17**|**Rethinking Multi-Interest Learning for Candidate Matching in Recommender   Systems**|Yueqi Xie et.al.|[2302.14532v1](http://arxiv.org/abs/2302.14532v1)|null|
+|**2023-02-28 12:43:17**|**Rethinking Multi-Interest Learning for Candidate Matching in Recommender   Systems**|Yueqi Xie et.al.|[2302.14532v2](http://arxiv.org/abs/2302.14532v2)|[link](https://github.com/tokkiu/remi)|
 |**2023-02-28 09:30:24**|**Self-Supervised Interest Transfer Network via Prototypical Contrastive   Learning for Recommendation**|Guoqiang Sun et.al.|[2302.14438v1](http://arxiv.org/abs/2302.14438v1)|[link](https://github.com/fanqieCoffee/SITN-Supplement)|
 |**2023-02-22 20:29:03**|**Sequential Re-estimation Learning of Optimal Individualized Treatment   Rules Among Ordinal Treatments with Application to Recommended Intervals   Between Blood Donations**|Yuejia Xu et.al.|[2302.11638v1](http://arxiv.org/abs/2302.11638v1)|null|
 |**2023-02-22 05:39:50**|**Multi-Objective Personalization in Multi-Stakeholder Organizational Bulk   E-mail: A Field Experiment**|Ruoyan Kong et.al.|[2302.11156v2](http://arxiv.org/abs/2302.11156v2)|null|
 |**2023-02-22 01:34:51**|**A Survey on User Behavior Modeling in Recommender Systems**|Zhicheng He et.al.|[2302.11087v1](http://arxiv.org/abs/2302.11087v1)|null|
-|**2023-02-21 10:06:01**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-07-31 14:32:40**|**TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for   Fine-grained Encrypted Traffic Classification**|Haozhen Zhang et.al.|[2307.16713v1](http://arxiv.org/abs/2307.16713v1)|null|
+|**2023-07-31 13:44:22**|**Graph Structure from Point Clouds: Geometric Attention is All You Need**|Daniel Murnane et.al.|[2307.16662v1](http://arxiv.org/abs/2307.16662v1)|[link](https://github.com/murnanedaniel/geometricattention)|
+|**2023-07-31 05:54:06**|**MRA-GNN: Minutiae Relation-Aware Model over Graph Neural Network for   Fingerprint Embedding**|Yapeng Su et.al.|[2307.16416v1](http://arxiv.org/abs/2307.16416v1)|null|
+|**2023-07-31 02:04:05**|**Multi-modal Graph Neural Network for Early Diagnosis of Alzheimer's   Disease from sMRI and PET Scans**|Yanteng Zhanga et.al.|[2307.16366v1](http://arxiv.org/abs/2307.16366v1)|null|
+|**2023-07-30 12:49:54**|**Question Answering with Deep Neural Networks for Semi-Structured   Heterogeneous Genealogical Knowledge Graphs**|Omri Suissa et.al.|[2307.16214v1](http://arxiv.org/abs/2307.16214v1)|[link](https://github.com/omrivm/uncle-bert)|
+|**2023-07-30 12:09:00**|**Around the GLOBE: Numerical Aggregation Question-Answering on   Heterogeneous Genealogical Knowledge Graphs with Deep Neural Networks**|Omri Suissa et.al.|[2307.16208v1](http://arxiv.org/abs/2307.16208v1)|null|
+|**2023-07-29 23:31:18**|**ADR-GNN: Advection-Diffusion-Reaction Graph Neural Networks**|Moshe Eliasof et.al.|[2307.16092v1](http://arxiv.org/abs/2307.16092v1)|null|
+|**2023-07-29 12:11:14**|**Graph Condensation for Inductive Node Representation Learning**|Xinyi Gao et.al.|[2307.15967v1](http://arxiv.org/abs/2307.15967v1)|null|
+|**2023-07-29 07:17:43**|**Opportunistic Air Quality Monitoring and Forecasting with Expandable   Graph Neural Networks**|Jingwei Zuo et.al.|[2307.15916v1](http://arxiv.org/abs/2307.15916v1)|null|
+|**2023-07-28 17:16:58**|**A supervised hybrid quantum machine learning solution to the emergency   escape routing problem**|Nathan Haboury et.al.|[2307.15682v1](http://arxiv.org/abs/2307.15682v1)|null|
+|**2023-07-28 15:26:31**|**$\ell_p$-sphere covering and approximating nuclear $p$-norm**|Jiewen Guan et.al.|[2307.15616v1](http://arxiv.org/abs/2307.15616v1)|null|
+|**2023-07-28 07:53:34**|**Co-attention Graph Pooling for Efficient Pairwise Graph Interaction   Learning**|Junhyun Lee et.al.|[2307.15377v1](http://arxiv.org/abs/2307.15377v1)|[link](https://github.com/leejunhyun/coattentiongraphpooling)|
+|**2023-07-28 07:04:30**|**Determination of impact parameter for CEE with Digi-input neural   networks**|Botan Wang et.al.|[2307.15355v1](http://arxiv.org/abs/2307.15355v1)|null|
+|**2023-07-28 06:51:01**|**The nature of hypergraph $k$-core percolation problems**|Ginestra Bianconi et.al.|[2307.15346v1](http://arxiv.org/abs/2307.15346v1)|null|
+|**2023-07-28 00:44:57**|**BOURNE: Bootstrapped Self-supervised Learning Framework for Unified   Graph Anomaly Detection**|Jie Liu et.al.|[2307.15244v1](http://arxiv.org/abs/2307.15244v1)|null|
+|**2023-07-28 00:43:51**|**A universal equivariant graph neural network for the elasticity tensors   of any crystal system**|Mingjian Wen et.al.|[2307.15242v1](http://arxiv.org/abs/2307.15242v1)|null|
+|**2023-07-27 17:59:58**|**Exponential speedups for quantum walks in random hierarchical graphs**|Shankar Balasubramanian et.al.|[2307.15062v1](http://arxiv.org/abs/2307.15062v1)|null|
+|**2023-07-27 08:10:19**|**TimeGNN: Temporal Dynamic Graph Learning for Time Series Forecasting**|Nancy Xu et.al.|[2307.14680v1](http://arxiv.org/abs/2307.14680v1)|null|
+|**2023-07-27 05:02:13**|**Multi-Agent Graph Reinforcement Learning based On-Demand Wireless Energy   Transfer in Multi-UAV-aided IoT Network**|Ze Yu Zhao et.al.|[2307.14626v1](http://arxiv.org/abs/2307.14626v1)|null|
+|**2023-07-27 02:43:21**|**HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic   Forecasting**|Zezhi Shao et.al.|[2307.14596v1](http://arxiv.org/abs/2307.14596v1)|null|
+|**2023-07-26 21:01:14**|**Improving Reliable Navigation under Uncertainty via Predictions Informed   by Non-Local Information**|Raihan Islam Arnob et.al.|[2307.14501v1](http://arxiv.org/abs/2307.14501v1)|null|
+|**2023-07-26 18:00:07**|**Large-scale quantum approximate optimization on non-planar graphs with   machine learning noise mitigation**|Stefan H. Sack et.al.|[2307.14427v1](http://arxiv.org/abs/2307.14427v1)|null|
+|**2023-07-26 13:51:12**|**Feature-enriched network geometry explains graph-structured data**|Roya Aliakbarisani et.al.|[2307.14198v1](http://arxiv.org/abs/2307.14198v1)|null|
+|**2023-07-26 13:47:52**|**Efficient Learning of Discrete-Continuous Computation Graphs**|David Friede et.al.|[2307.14193v1](http://arxiv.org/abs/2307.14193v1)|[link](https://github.com/nec-research/dccg)|
+|**2023-07-26 10:58:53**|**Investigating structural and functional aspects of the brain's   criticality in stroke**|Jakub Janarek et.al.|[2307.14099v1](http://arxiv.org/abs/2307.14099v1)|[link](https://github.com/grelade/critical-stroke)|
+|**2023-07-26 06:52:53**|**Distributed Computing of Functions of Structured Sources with Helper   Side Information**|Derya Malak et.al.|[2307.13987v1](http://arxiv.org/abs/2307.13987v1)|null|
+|**2023-07-26 05:55:34**|**Towards a cosmic ray composition measurement with the IceAct telescopes   at the IceCube Neutrino Observatory**|Larissa Paul et.al.|[2307.13965v1](http://arxiv.org/abs/2307.13965v1)|null|
+|**2023-07-26 03:55:08**|**Entropy Neural Estimation for Graph Contrastive Learning**|Yixuan Ma et.al.|[2307.13944v1](http://arxiv.org/abs/2307.13944v1)|null|
+|**2023-07-26 02:18:04**|**Graph Neural Networks-based Hybrid Framework For Predicting Particle   Crushing Strength**|Tongya Zheng et.al.|[2307.13909v1](http://arxiv.org/abs/2307.13909v1)|[link](https://github.com/doujiang-zheng/gnn-for-particle-crushing)|
+|**2023-07-25 20:56:14**|**Uncertainty Quantification in the Road-level Traffic Risk Prediction by   Spatial-Temporal Zero-Inflated Negative Binomial Graph Neural   Network(STZINB-GNN)**|Xiaowei Gao et.al.|[2307.13816v1](http://arxiv.org/abs/2307.13816v1)|null|
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-29 03:04:22**|**GraphDAC: A Graph-Analytic Approach to Dynamic Airspace Configuration**|Ke Feng et.al.|[2307.15876v1](http://arxiv.org/abs/2307.15876v1)|[link](https://github.com/kefenge2022/graphdac)|
+|**2023-07-28 20:48:59**|**Gender Inclusive Methods in Studies of STEM Practitioners**|Kaitlin Rasmussen et.al.|[2307.15802v1](http://arxiv.org/abs/2307.15802v1)|null|
 |**2023-07-26 02:24:23**|**Domain Disentanglement with Interpolative Data Augmentation for   Dual-Target Cross-Domain Recommendation**|Jiajie Zhu et.al.|[2307.13910v1](http://arxiv.org/abs/2307.13910v1)|null|
 |**2023-07-25 16:35:50**|**Exact Methods of Homogeneity Test of Proportions for Bilateral and   Unilateral Correlated Data**|Shuyi Liang et.al.|[2307.13634v1](http://arxiv.org/abs/2307.13634v1)|null|
 |**2023-07-22 10:03:32**|**Conformal Group Recommender System**|Venkateswara Rao Kagita et.al.|[2307.12034v1](http://arxiv.org/abs/2307.12034v1)|null|
@@ -106,5 +108,3 @@
 |**2023-06-09 15:02:23**|**Digital Twin-Assisted Resource Demand Prediction for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2306.05946v1](http://arxiv.org/abs/2306.05946v1)|null|
 |**2023-06-09 13:26:17**|**Social interactions mediated by the Internet and the Big-Five: a   cross-country analysis**|Andrea Mercado et.al.|[2306.05884v1](http://arxiv.org/abs/2306.05884v1)|null|
 |**2023-06-08 15:56:57**|**Are fairness metric scores enough to assess discrimination biases in   machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
-|**2023-06-08 11:39:57**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v3](http://arxiv.org/abs/2306.05118v3)|[link](https://github.com/lyingcs/controllable-multi-objective-reranking)|
-|**2023-06-06 10:37:37**|**Minimizing Hitting Time between Disparate Groups with Shortcut Edges**|Florian Adriaens et.al.|[2306.03571v2](http://arxiv.org/abs/2306.03571v2)|null|
