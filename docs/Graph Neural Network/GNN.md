@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-01 14:00:31**|**Reinforcement Learning-based Non-Autoregressive Solver for Traveling   Salesman Problems**|Yubin Xiao et.al.|[2308.00560v1](http://arxiv.org/abs/2308.00560v1)|null|
+|**2023-08-01 13:28:24**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535v1](http://arxiv.org/abs/2308.00535v1)|null|
+|**2023-08-01 12:22:44**|**Discovery of Stable Hybrid Organic-inorganic Double Perovskites for   High-performance Solar Cells via Machine-learning Algorithms and Crystal   Graph Convolution Neural Network Method**|Linkang Zhan et.al.|[2308.00490v1](http://arxiv.org/abs/2308.00490v1)|null|
+|**2023-08-01 09:31:44**|**Challenging the Myth of Graph Collaborative Filtering: a Reasoned and   Reproducibility-driven Analysis**|Vito Walter Anelli et.al.|[2308.00404v1](http://arxiv.org/abs/2308.00404v1)|[link](https://github.com/sisinflab/graph-rss-reproducibility)|
+|**2023-08-01 04:11:19**|**Neural approximation of Wasserstein distance via a universal   architecture for symmetric and factorwise group invariant functions**|Samantha Chen et.al.|[2308.00273v1](http://arxiv.org/abs/2308.00273v1)|null|
 |**2023-07-31 14:32:40**|**TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for   Fine-grained Encrypted Traffic Classification**|Haozhen Zhang et.al.|[2307.16713v1](http://arxiv.org/abs/2307.16713v1)|null|
 |**2023-07-31 13:44:22**|**Graph Structure from Point Clouds: Geometric Attention is All You Need**|Daniel Murnane et.al.|[2307.16662v1](http://arxiv.org/abs/2307.16662v1)|[link](https://github.com/murnanedaniel/geometricattention)|
 |**2023-07-31 05:54:06**|**MRA-GNN: Minutiae Relation-Aware Model over Graph Neural Network for   Fingerprint Embedding**|Yapeng Su et.al.|[2307.16416v1](http://arxiv.org/abs/2307.16416v1)|null|
@@ -27,8 +32,3 @@
 |**2023-07-26 13:51:12**|**Feature-enriched network geometry explains graph-structured data**|Roya Aliakbarisani et.al.|[2307.14198v1](http://arxiv.org/abs/2307.14198v1)|null|
 |**2023-07-26 13:47:52**|**Efficient Learning of Discrete-Continuous Computation Graphs**|David Friede et.al.|[2307.14193v1](http://arxiv.org/abs/2307.14193v1)|[link](https://github.com/nec-research/dccg)|
 |**2023-07-26 10:58:53**|**Investigating structural and functional aspects of the brain's   criticality in stroke**|Jakub Janarek et.al.|[2307.14099v1](http://arxiv.org/abs/2307.14099v1)|[link](https://github.com/grelade/critical-stroke)|
-|**2023-07-26 06:52:53**|**Distributed Computing of Functions of Structured Sources with Helper   Side Information**|Derya Malak et.al.|[2307.13987v1](http://arxiv.org/abs/2307.13987v1)|null|
-|**2023-07-26 05:55:34**|**Towards a cosmic ray composition measurement with the IceAct telescopes   at the IceCube Neutrino Observatory**|Larissa Paul et.al.|[2307.13965v1](http://arxiv.org/abs/2307.13965v1)|null|
-|**2023-07-26 03:55:08**|**Entropy Neural Estimation for Graph Contrastive Learning**|Yixuan Ma et.al.|[2307.13944v1](http://arxiv.org/abs/2307.13944v1)|null|
-|**2023-07-26 02:18:04**|**Graph Neural Networks-based Hybrid Framework For Predicting Particle   Crushing Strength**|Tongya Zheng et.al.|[2307.13909v1](http://arxiv.org/abs/2307.13909v1)|[link](https://github.com/doujiang-zheng/gnn-for-particle-crushing)|
-|**2023-07-25 20:56:14**|**Uncertainty Quantification in the Road-level Traffic Risk Prediction by   Spatial-Temporal Zero-Inflated Negative Binomial Graph Neural   Network(STZINB-GNN)**|Xiaowei Gao et.al.|[2307.13816v1](http://arxiv.org/abs/2307.13816v1)|null|
