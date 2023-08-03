@@ -9,7 +9,7 @@
 |**2023-07-22 10:03:32**|**Conformal Group Recommender System**|Venkateswara Rao Kagita et.al.|[2307.12034v1](http://arxiv.org/abs/2307.12034v1)|null|
 |**2023-07-21 01:57:51**|**A First Look at Fairness of Machine Learning Based Code Reviewer   Recommendation**|Mohammad Mahdi Mohajer et.al.|[2307.11298v1](http://arxiv.org/abs/2307.11298v1)|null|
 |**2023-07-20 12:41:39**|**Ride-pooling service assessment with rational, heterogeneous,   non-deterministic travellers**|Michal Bujak et.al.|[2307.10827v1](http://arxiv.org/abs/2307.10827v1)|null|
-|**2023-07-18 17:22:19**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447v1](http://arxiv.org/abs/2307.09447v1)|null|
+|**2023-07-18 17:22:19**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447v1](http://arxiv.org/abs/2307.09447v1)|[link](https://github.com/knodis-research-group/dl-cf-groups-deep-aggregation)|
 |**2023-07-18 03:53:19**|**Data sharing and ontology use among agricultural genetics, genomics, and   breeding databases and resources of the AgBioData Consortium**|Jennifer L. Clarke et.al.|[2307.08958v1](http://arxiv.org/abs/2307.08958v1)|null|
 |**2023-07-17 02:28:19**|**A randomization-based theory for preliminary testing of covariate   balance in controlled trials**|Anqi Zhao et.al.|[2307.08203v1](http://arxiv.org/abs/2307.08203v1)|null|
 |**2023-07-15 09:28:16**|**Understanding Cyber Threats Against the Universities, Colleges, and   Schools**|Harjinder Singh Lallie et.al.|[2307.07755v1](http://arxiv.org/abs/2307.07755v1)|null|
