@@ -1,15 +1,21 @@
 # arxiv-daily
- 自动更新 @ 2023-08-03 16:08:07 Asia/Shanghai
+ 自动更新 @ 2023-08-04 16:07:47 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-03 15:39:26**|**Local and extensive fluctuations in sparsely-interacting ecological   communities**|Stav Marcus et.al.|[2308.01828v1](http://arxiv.org/abs/2308.01828v1)|null|
+|**2023-08-03 10:48:37**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682v1](http://arxiv.org/abs/2308.01682v1)|null|
+|**2023-08-03 09:32:50**|**UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node   Classification**|Minhao Zou et.al.|[2308.01650v1](http://arxiv.org/abs/2308.01650v1)|[link](https://github.com/minhzou/unig-encoder)|
+|**2023-08-03 08:14:28**|**Deep Learning-based surrogate models for parametrized PDEs: handling   geometric variability through graph neural networks**|Nicola Rares Franco et.al.|[2308.01602v1](http://arxiv.org/abs/2308.01602v1)|null|
+|**2023-08-02 23:13:49**|**VertexSerum: Poisoning Graph Neural Networks for Link Inference**|Ruyi Ding et.al.|[2308.01469v1](http://arxiv.org/abs/2308.01469v1)|null|
 |**2023-08-02 13:28:12**|**Leveraging Expert Models for Training Deep Neural Networks in Scarce   Data Domains: Application to Offline Handwritten Signature Verification**|Dimitrios Tsourounis et.al.|[2308.01136v1](http://arxiv.org/abs/2308.01136v1)|null|
 |**2023-08-02 13:09:12**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature   Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
 |**2023-08-02 00:51:37**|**Tango: rethinking quantization for graph neural network training on GPUs**|Shiyang Chen et.al.|[2308.00890v1](http://arxiv.org/abs/2308.00890v1)|null|
 |**2023-08-02 00:32:02**|**Factor Graph Neural Networks**|Zhen Zhang et.al.|[2308.00887v1](http://arxiv.org/abs/2308.00887v1)|null|
+|**2023-08-01 14:39:03**|**Graph Neural Networks for Forecasting Multivariate Realized Volatility   with Spillover Effects**|Chao Zhang et.al.|[2308.01419v1](http://arxiv.org/abs/2308.01419v1)|null|
 |**2023-08-01 14:00:31**|**Reinforcement Learning-based Non-Autoregressive Solver for Traveling   Salesman Problems**|Yubin Xiao et.al.|[2308.00560v1](http://arxiv.org/abs/2308.00560v1)|null|
 |**2023-08-01 13:28:24**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535v1](http://arxiv.org/abs/2308.00535v1)|null|
 |**2023-08-01 12:22:44**|**Discovery of Stable Hybrid Organic-inorganic Double Perovskites for   High-performance Solar Cells via Machine-learning Algorithms and Crystal   Graph Convolution Neural Network Method**|Linkang Zhan et.al.|[2308.00490v1](http://arxiv.org/abs/2308.00490v1)|null|
@@ -30,18 +36,13 @@
 |**2023-07-28 07:04:30**|**Determination of impact parameter for CEE with Digi-input neural   networks**|Botan Wang et.al.|[2307.15355v1](http://arxiv.org/abs/2307.15355v1)|null|
 |**2023-07-28 06:51:01**|**The nature of hypergraph $k$-core percolation problems**|Ginestra Bianconi et.al.|[2307.15346v1](http://arxiv.org/abs/2307.15346v1)|null|
 |**2023-07-28 00:44:57**|**BOURNE: Bootstrapped Self-supervised Learning Framework for Unified   Graph Anomaly Detection**|Jie Liu et.al.|[2307.15244v1](http://arxiv.org/abs/2307.15244v1)|null|
-|**2023-07-28 00:43:51**|**A universal equivariant graph neural network for the elasticity tensors   of any crystal system**|Mingjian Wen et.al.|[2307.15242v1](http://arxiv.org/abs/2307.15242v1)|[link](https://github.com/wengroup/matten)|
-|**2023-07-27 17:59:58**|**Exponential speedups for quantum walks in random hierarchical graphs**|Shankar Balasubramanian et.al.|[2307.15062v1](http://arxiv.org/abs/2307.15062v1)|null|
-|**2023-07-27 08:10:19**|**TimeGNN: Temporal Dynamic Graph Learning for Time Series Forecasting**|Nancy Xu et.al.|[2307.14680v1](http://arxiv.org/abs/2307.14680v1)|null|
-|**2023-07-27 05:02:13**|**Multi-Agent Graph Reinforcement Learning based On-Demand Wireless Energy   Transfer in Multi-UAV-aided IoT Network**|Ze Yu Zhao et.al.|[2307.14626v1](http://arxiv.org/abs/2307.14626v1)|null|
-|**2023-07-27 02:43:21**|**HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic   Forecasting**|Zezhi Shao et.al.|[2307.14596v1](http://arxiv.org/abs/2307.14596v1)|null|
-|**2023-07-26 21:01:14**|**Improving Reliable Navigation under Uncertainty via Predictions Informed   by Non-Local Information**|Raihan Islam Arnob et.al.|[2307.14501v1](http://arxiv.org/abs/2307.14501v1)|null|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-03 07:06:35**|**Density Weighting for Multi-Interest Personalized Recommendation**|Nikhil Mehta et.al.|[2308.01563v1](http://arxiv.org/abs/2308.01563v1)|null|
 |**2023-07-29 05:46:27**|**Online Matching: A Real-time Bandit System for Large-scale   Recommendations**|Xinyang Yi et.al.|[2307.15893v1](http://arxiv.org/abs/2307.15893v1)|null|
 |**2023-07-27 04:27:26**|**Imitating Complex Trajectories: Bridging Low-Level Stability and   High-Level Behavior**|Adam Block et.al.|[2307.14619v2](http://arxiv.org/abs/2307.14619v2)|null|
 |**2023-07-20 02:48:04**|**TREA: Tree-Structure Reasoning Schema for Conversational Recommendation**|Wendi Li et.al.|[2307.10543v1](http://arxiv.org/abs/2307.10543v1)|[link](https://github.com/windylee0822/trea)|
@@ -71,7 +72,6 @@
 |**2023-02-28 09:30:24**|**Self-Supervised Interest Transfer Network via Prototypical Contrastive   Learning for Recommendation**|Guoqiang Sun et.al.|[2302.14438v1](http://arxiv.org/abs/2302.14438v1)|[link](https://github.com/fanqieCoffee/SITN-Supplement)|
 |**2023-02-22 20:29:03**|**Sequential Re-estimation Learning of Optimal Individualized Treatment   Rules Among Ordinal Treatments with Application to Recommended Intervals   Between Blood Donations**|Yuejia Xu et.al.|[2302.11638v1](http://arxiv.org/abs/2302.11638v1)|null|
 |**2023-02-22 05:39:50**|**Multi-Objective Personalization in Multi-Stakeholder Organizational Bulk   E-mail: A Field Experiment**|Ruoyan Kong et.al.|[2302.11156v2](http://arxiv.org/abs/2302.11156v2)|null|
-|**2023-02-22 01:34:51**|**A Survey on User Behavior Modeling in Recommender Systems**|Zhicheng He et.al.|[2302.11087v1](http://arxiv.org/abs/2302.11087v1)|null|
 
 ## Group Recommendation
 

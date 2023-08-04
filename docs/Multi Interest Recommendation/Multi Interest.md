@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-03 07:06:35**|**Density Weighting for Multi-Interest Personalized Recommendation**|Nikhil Mehta et.al.|[2308.01563v1](http://arxiv.org/abs/2308.01563v1)|null|
 |**2023-07-29 05:46:27**|**Online Matching: A Real-time Bandit System for Large-scale   Recommendations**|Xinyang Yi et.al.|[2307.15893v1](http://arxiv.org/abs/2307.15893v1)|null|
 |**2023-07-27 04:27:26**|**Imitating Complex Trajectories: Bridging Low-Level Stability and   High-Level Behavior**|Adam Block et.al.|[2307.14619v2](http://arxiv.org/abs/2307.14619v2)|null|
 |**2023-07-20 02:48:04**|**TREA: Tree-Structure Reasoning Schema for Conversational Recommendation**|Wendi Li et.al.|[2307.10543v1](http://arxiv.org/abs/2307.10543v1)|[link](https://github.com/windylee0822/trea)|
@@ -31,4 +32,3 @@
 |**2023-02-28 09:30:24**|**Self-Supervised Interest Transfer Network via Prototypical Contrastive   Learning for Recommendation**|Guoqiang Sun et.al.|[2302.14438v1](http://arxiv.org/abs/2302.14438v1)|[link](https://github.com/fanqieCoffee/SITN-Supplement)|
 |**2023-02-22 20:29:03**|**Sequential Re-estimation Learning of Optimal Individualized Treatment   Rules Among Ordinal Treatments with Application to Recommended Intervals   Between Blood Donations**|Yuejia Xu et.al.|[2302.11638v1](http://arxiv.org/abs/2302.11638v1)|null|
 |**2023-02-22 05:39:50**|**Multi-Objective Personalization in Multi-Stakeholder Organizational Bulk   E-mail: A Field Experiment**|Ruoyan Kong et.al.|[2302.11156v2](http://arxiv.org/abs/2302.11156v2)|null|
-|**2023-02-22 01:34:51**|**A Survey on User Behavior Modeling in Recommender Systems**|Zhicheng He et.al.|[2302.11087v1](http://arxiv.org/abs/2302.11087v1)|null|

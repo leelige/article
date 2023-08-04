@@ -2,10 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-03 15:39:26**|**Local and extensive fluctuations in sparsely-interacting ecological   communities**|Stav Marcus et.al.|[2308.01828v1](http://arxiv.org/abs/2308.01828v1)|null|
+|**2023-08-03 10:48:37**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682v1](http://arxiv.org/abs/2308.01682v1)|null|
+|**2023-08-03 09:32:50**|**UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node   Classification**|Minhao Zou et.al.|[2308.01650v1](http://arxiv.org/abs/2308.01650v1)|[link](https://github.com/minhzou/unig-encoder)|
+|**2023-08-03 08:14:28**|**Deep Learning-based surrogate models for parametrized PDEs: handling   geometric variability through graph neural networks**|Nicola Rares Franco et.al.|[2308.01602v1](http://arxiv.org/abs/2308.01602v1)|null|
+|**2023-08-02 23:13:49**|**VertexSerum: Poisoning Graph Neural Networks for Link Inference**|Ruyi Ding et.al.|[2308.01469v1](http://arxiv.org/abs/2308.01469v1)|null|
 |**2023-08-02 13:28:12**|**Leveraging Expert Models for Training Deep Neural Networks in Scarce   Data Domains: Application to Offline Handwritten Signature Verification**|Dimitrios Tsourounis et.al.|[2308.01136v1](http://arxiv.org/abs/2308.01136v1)|null|
 |**2023-08-02 13:09:12**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature   Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
 |**2023-08-02 00:51:37**|**Tango: rethinking quantization for graph neural network training on GPUs**|Shiyang Chen et.al.|[2308.00890v1](http://arxiv.org/abs/2308.00890v1)|null|
 |**2023-08-02 00:32:02**|**Factor Graph Neural Networks**|Zhen Zhang et.al.|[2308.00887v1](http://arxiv.org/abs/2308.00887v1)|null|
+|**2023-08-01 14:39:03**|**Graph Neural Networks for Forecasting Multivariate Realized Volatility   with Spillover Effects**|Chao Zhang et.al.|[2308.01419v1](http://arxiv.org/abs/2308.01419v1)|null|
 |**2023-08-01 14:00:31**|**Reinforcement Learning-based Non-Autoregressive Solver for Traveling   Salesman Problems**|Yubin Xiao et.al.|[2308.00560v1](http://arxiv.org/abs/2308.00560v1)|null|
 |**2023-08-01 13:28:24**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535v1](http://arxiv.org/abs/2308.00535v1)|null|
 |**2023-08-01 12:22:44**|**Discovery of Stable Hybrid Organic-inorganic Double Perovskites for   High-performance Solar Cells via Machine-learning Algorithms and Crystal   Graph Convolution Neural Network Method**|Linkang Zhan et.al.|[2308.00490v1](http://arxiv.org/abs/2308.00490v1)|null|
@@ -26,9 +32,3 @@
 |**2023-07-28 07:04:30**|**Determination of impact parameter for CEE with Digi-input neural   networks**|Botan Wang et.al.|[2307.15355v1](http://arxiv.org/abs/2307.15355v1)|null|
 |**2023-07-28 06:51:01**|**The nature of hypergraph $k$-core percolation problems**|Ginestra Bianconi et.al.|[2307.15346v1](http://arxiv.org/abs/2307.15346v1)|null|
 |**2023-07-28 00:44:57**|**BOURNE: Bootstrapped Self-supervised Learning Framework for Unified   Graph Anomaly Detection**|Jie Liu et.al.|[2307.15244v1](http://arxiv.org/abs/2307.15244v1)|null|
-|**2023-07-28 00:43:51**|**A universal equivariant graph neural network for the elasticity tensors   of any crystal system**|Mingjian Wen et.al.|[2307.15242v1](http://arxiv.org/abs/2307.15242v1)|[link](https://github.com/wengroup/matten)|
-|**2023-07-27 17:59:58**|**Exponential speedups for quantum walks in random hierarchical graphs**|Shankar Balasubramanian et.al.|[2307.15062v1](http://arxiv.org/abs/2307.15062v1)|null|
-|**2023-07-27 08:10:19**|**TimeGNN: Temporal Dynamic Graph Learning for Time Series Forecasting**|Nancy Xu et.al.|[2307.14680v1](http://arxiv.org/abs/2307.14680v1)|null|
-|**2023-07-27 05:02:13**|**Multi-Agent Graph Reinforcement Learning based On-Demand Wireless Energy   Transfer in Multi-UAV-aided IoT Network**|Ze Yu Zhao et.al.|[2307.14626v1](http://arxiv.org/abs/2307.14626v1)|null|
-|**2023-07-27 02:43:21**|**HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic   Forecasting**|Zezhi Shao et.al.|[2307.14596v1](http://arxiv.org/abs/2307.14596v1)|null|
-|**2023-07-26 21:01:14**|**Improving Reliable Navigation under Uncertainty via Predictions Informed   by Non-Local Information**|Raihan Islam Arnob et.al.|[2307.14501v1](http://arxiv.org/abs/2307.14501v1)|null|
