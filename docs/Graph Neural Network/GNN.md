@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-08-03 15:39:26**|**Local and extensive fluctuations in sparsely-interacting ecological   communities**|Stav Marcus et.al.|[2308.01828v1](http://arxiv.org/abs/2308.01828v1)|null|
-|**2023-08-03 10:48:37**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682v1](http://arxiv.org/abs/2308.01682v1)|null|
+|**2023-08-03 10:48:37**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682v1](http://arxiv.org/abs/2308.01682v1)|[link](https://github.com/cborile/eval_lp_xai)|
 |**2023-08-03 09:32:50**|**UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node   Classification**|Minhao Zou et.al.|[2308.01650v1](http://arxiv.org/abs/2308.01650v1)|[link](https://github.com/minhzou/unig-encoder)|
 |**2023-08-03 08:14:28**|**Deep Learning-based surrogate models for parametrized PDEs: handling   geometric variability through graph neural networks**|Nicola Rares Franco et.al.|[2308.01602v1](http://arxiv.org/abs/2308.01602v1)|null|
 |**2023-08-02 23:13:49**|**VertexSerum: Poisoning Graph Neural Networks for Link Inference**|Ruyi Ding et.al.|[2308.01469v1](http://arxiv.org/abs/2308.01469v1)|null|
