@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-04 04:12:33**|**Auditing Yelp's Business Ranking and Review Recommendation Through the   Lens of Fairness**|Mohit Singhal et.al.|[2308.02129v1](http://arxiv.org/abs/2308.02129v1)|null|
+|**2023-08-03 21:12:54**|**The Unequal Opportunities of Large Language Models: Revealing   Demographic Bias through Job Recommendations**|Abel Salinas et.al.|[2308.02053v1](http://arxiv.org/abs/2308.02053v1)|null|
 |**2023-07-29 03:04:22**|**GraphDAC: A Graph-Analytic Approach to Dynamic Airspace Configuration**|Ke Feng et.al.|[2307.15876v1](http://arxiv.org/abs/2307.15876v1)|[link](https://github.com/kefenge2022/graphdac)|
 |**2023-07-28 20:48:59**|**Gender Inclusive Methods in Studies of STEM Practitioners**|Kaitlin Rasmussen et.al.|[2307.15802v1](http://arxiv.org/abs/2307.15802v1)|null|
 |**2023-07-26 02:24:23**|**Domain Disentanglement with Interpolative Data Augmentation for   Dual-Target Cross-Domain Recommendation**|Jiajie Zhu et.al.|[2307.13910v1](http://arxiv.org/abs/2307.13910v1)|null|
@@ -30,5 +32,3 @@
 |**2023-06-13 09:46:16**|**Inactivated COVID-19 Vaccination did not affect In vitro fertilization   (IVF) / Intra-Cytoplasmic Sperm Injection (ICSI) cycle outcomes**|Qi Wan et.al.|[2306.07652v1](http://arxiv.org/abs/2306.07652v1)|null|
 |**2023-06-12 12:28:54**|**Neighborhood-based Hard Negative Mining for Sequential Recommendation**|Lu Fan et.al.|[2306.10047v1](http://arxiv.org/abs/2306.10047v1)|[link](https://github.com/floatsdsds/gnno)|
 |**2023-06-09 15:02:23**|**Digital Twin-Assisted Resource Demand Prediction for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2306.05946v1](http://arxiv.org/abs/2306.05946v1)|null|
-|**2023-06-09 13:26:17**|**Social interactions mediated by the Internet and the Big-Five: a   cross-country analysis**|Andrea Mercado et.al.|[2306.05884v1](http://arxiv.org/abs/2306.05884v1)|null|
-|**2023-06-08 15:56:57**|**Are fairness metric scores enough to assess discrimination biases in   machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|

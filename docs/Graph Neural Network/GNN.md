@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-04 17:04:58**|**BlindSage: Label Inference Attacks against Node-level Vertical Federated   Graph Neural Networks**|Marco Arazzi et.al.|[2308.02465v1](http://arxiv.org/abs/2308.02465v1)|null|
+|**2023-08-04 14:21:02**|**Stability and Generalization of Hypergraph Collaborative Networks**|Michael Ng et.al.|[2308.02347v1](http://arxiv.org/abs/2308.02347v1)|null|
+|**2023-08-04 14:06:44**|**RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph   Classification**|Zhengyang Mao et.al.|[2308.02335v1](http://arxiv.org/abs/2308.02335v1)|null|
+|**2023-08-04 02:58:08**|**VQGraph: Graph Vector-Quantization for Bridging GNNs and MLPs**|Ling Yang et.al.|[2308.02117v1](http://arxiv.org/abs/2308.02117v1)|[link](https://github.com/YangLing0818/VQGraph)|
+|**2023-08-03 21:09:59**|**A Graphical Approach to Document Layout Analysis**|Jilin Wang et.al.|[2308.02051v1](http://arxiv.org/abs/2308.02051v1)|null|
 |**2023-08-03 15:39:26**|**Local and extensive fluctuations in sparsely-interacting ecological   communities**|Stav Marcus et.al.|[2308.01828v1](http://arxiv.org/abs/2308.01828v1)|null|
 |**2023-08-03 10:48:37**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682v1](http://arxiv.org/abs/2308.01682v1)|[link](https://github.com/cborile/eval_lp_xai)|
 |**2023-08-03 09:32:50**|**UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node   Classification**|Minhao Zou et.al.|[2308.01650v1](http://arxiv.org/abs/2308.01650v1)|[link](https://github.com/minhzou/unig-encoder)|
@@ -27,8 +32,3 @@
 |**2023-07-29 12:11:14**|**Graph Condensation for Inductive Node Representation Learning**|Xinyi Gao et.al.|[2307.15967v1](http://arxiv.org/abs/2307.15967v1)|null|
 |**2023-07-29 07:17:43**|**Opportunistic Air Quality Monitoring and Forecasting with Expandable   Graph Neural Networks**|Jingwei Zuo et.al.|[2307.15916v1](http://arxiv.org/abs/2307.15916v1)|null|
 |**2023-07-28 17:16:58**|**A supervised hybrid quantum machine learning solution to the emergency   escape routing problem**|Nathan Haboury et.al.|[2307.15682v1](http://arxiv.org/abs/2307.15682v1)|null|
-|**2023-07-28 15:26:31**|**$\ell_p$-sphere covering and approximating nuclear $p$-norm**|Jiewen Guan et.al.|[2307.15616v1](http://arxiv.org/abs/2307.15616v1)|null|
-|**2023-07-28 07:53:34**|**Co-attention Graph Pooling for Efficient Pairwise Graph Interaction   Learning**|Junhyun Lee et.al.|[2307.15377v1](http://arxiv.org/abs/2307.15377v1)|[link](https://github.com/leejunhyun/coattentiongraphpooling)|
-|**2023-07-28 07:04:30**|**Determination of impact parameter for CEE with Digi-input neural   networks**|Botan Wang et.al.|[2307.15355v1](http://arxiv.org/abs/2307.15355v1)|null|
-|**2023-07-28 06:51:01**|**The nature of hypergraph $k$-core percolation problems**|Ginestra Bianconi et.al.|[2307.15346v1](http://arxiv.org/abs/2307.15346v1)|null|
-|**2023-07-28 00:44:57**|**BOURNE: Bootstrapped Self-supervised Learning Framework for Unified   Graph Anomaly Detection**|Jie Liu et.al.|[2307.15244v1](http://arxiv.org/abs/2307.15244v1)|null|
