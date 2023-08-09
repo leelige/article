@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-08 17:18:04**|**Probabilistic Invariant Learning with Randomized Linear Classifiers**|Leonardo Cotta et.al.|[2308.04412v1](http://arxiv.org/abs/2308.04412v1)|null|
+|**2023-08-08 16:15:35**|**SSTFormer: Bridging Spiking Neural Network and Memory Support   Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|[link](https://github.com/event-ahu/sstformer)|
+|**2023-08-08 12:34:32**|**Semantic Interpretation and Validation of Graph Attention-based   Explanations for GNN Models**|Efimia Panagiotaki et.al.|[2308.04220v1](http://arxiv.org/abs/2308.04220v1)|null|
+|**2023-08-08 10:07:22**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172v1](http://arxiv.org/abs/2308.04172v1)|null|
+|**2023-08-08 09:03:46**|**Class-level Structural Relation Modelling and Smoothing for Visual   Representation Learning**|Zitan Chen et.al.|[2308.04142v1](http://arxiv.org/abs/2308.04142v1)|[link](https://github.com/czt117/csrms)|
 |**2023-08-07 13:15:33**|**Global cognitive graph properties dynamics of hippocampal formation**|Konstantin Sorokin et.al.|[2308.03563v1](http://arxiv.org/abs/2308.03563v1)|null|
 |**2023-08-07 10:56:57**|**Uncertainty-aware Consistency Learning for Cold-Start Item   Recommendation**|Taichi Liu et.al.|[2308.03470v1](http://arxiv.org/abs/2308.03470v1)|null|
 |**2023-08-07 07:57:31**|**Friedrichs' systems discretized with the Discontinuous Galerkin method:   domain decomposable model order reduction and Graph Neural Networks   approximating vanishing viscosity solutions**|Francesco Romor et.al.|[2308.03378v1](http://arxiv.org/abs/2308.03378v1)|null|
@@ -27,8 +32,3 @@
 |**2023-08-03 07:00:04**|**SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning**|Keyu Duan et.al.|[2308.02565v1](http://arxiv.org/abs/2308.02565v1)|[link](https://github.com/vermouthdky/simteg)|
 |**2023-08-02 23:13:49**|**VertexSerum: Poisoning Graph Neural Networks for Link Inference**|Ruyi Ding et.al.|[2308.01469v1](http://arxiv.org/abs/2308.01469v1)|null|
 |**2023-08-02 21:32:41**|**DLSIA: Deep Learning for Scientific Image Analysis**|Eric J Roberts et.al.|[2308.02559v1](http://arxiv.org/abs/2308.02559v1)|null|
-|**2023-08-02 13:28:12**|**Leveraging Expert Models for Training Deep Neural Networks in Scarce   Data Domains: Application to Offline Handwritten Signature Verification**|Dimitrios Tsourounis et.al.|[2308.01136v1](http://arxiv.org/abs/2308.01136v1)|null|
-|**2023-08-02 13:09:12**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature   Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
-|**2023-08-02 03:41:24**|**Survey on Computer Vision Techniques for Internet-of-Things Devices**|Ishmeet Kaur et.al.|[2308.02553v1](http://arxiv.org/abs/2308.02553v1)|null|
-|**2023-08-02 00:51:37**|**Tango: rethinking quantization for graph neural network training on GPUs**|Shiyang Chen et.al.|[2308.00890v1](http://arxiv.org/abs/2308.00890v1)|null|
-|**2023-08-02 00:32:02**|**Factor Graph Neural Networks**|Zhen Zhang et.al.|[2308.00887v1](http://arxiv.org/abs/2308.00887v1)|null|

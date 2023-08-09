@@ -2,9 +2,13 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-08 14:42:00**|**Safeguarding Scientific Integrity: Examining Conflicts of Interest in   the Peer Review Process**|Leslie D. McIntosh et.al.|[2308.04297v1](http://arxiv.org/abs/2308.04297v1)|null|
+|**2023-08-08 13:26:36**|**UniRecSys: A Unified Framework for Personalized, Group, Package, and   Package-to-Group Recommendations**|Adamya Shyam et.al.|[2308.04247v1](http://arxiv.org/abs/2308.04247v1)|null|
+|**2023-08-08 09:47:44**|**Current and Future Challenges in Knowledge Representation and Reasoning**|James P. Delgrande et.al.|[2308.04161v1](http://arxiv.org/abs/2308.04161v1)|null|
+|**2023-08-08 03:24:44**|**Multi-Granularity Attention Model for Group Recommendation**|Jianye Ji et.al.|[2308.04017v1](http://arxiv.org/abs/2308.04017v1)|null|
 |**2023-08-06 10:25:31**|**Predicting Group Choices from Group Profiles**|Hanif Emamgholizadeh et.al.|[2308.03083v1](http://arxiv.org/abs/2308.03083v1)|null|
 |**2023-08-05 14:08:42**|**Group Membership Bias**|Ali Vardasbi et.al.|[2308.02887v1](http://arxiv.org/abs/2308.02887v1)|null|
-|**2023-08-04 04:12:33**|**Auditing Yelp's Business Ranking and Review Recommendation Through the   Lens of Fairness**|Mohit Singhal et.al.|[2308.02129v1](http://arxiv.org/abs/2308.02129v1)|null|
+|**2023-08-04 04:12:33**|**Auditing Yelp's Business Ranking and Review Recommendation Through the   Lens of Fairness**|Mohit Singhal et.al.|[2308.02129v1](http://arxiv.org/abs/2308.02129v1)|[link](https://github.com/msinghal10/yelp-unfairness)|
 |**2023-08-03 21:12:54**|**The Unequal Opportunities of Large Language Models: Revealing   Demographic Bias through Job Recommendations**|Abel Salinas et.al.|[2308.02053v1](http://arxiv.org/abs/2308.02053v1)|null|
 |**2023-07-29 03:04:22**|**GraphDAC: A Graph-Analytic Approach to Dynamic Airspace Configuration**|Ke Feng et.al.|[2307.15876v1](http://arxiv.org/abs/2307.15876v1)|[link](https://github.com/kefenge2022/graphdac)|
 |**2023-07-28 20:48:59**|**Gender Inclusive Methods in Studies of STEM Practitioners**|Kaitlin Rasmussen et.al.|[2307.15802v1](http://arxiv.org/abs/2307.15802v1)|null|
@@ -28,7 +32,3 @@
 |**2023-06-22 05:51:49**|**Recent Developments in Recommender Systems: A Survey**|Yang Li et.al.|[2306.12680v1](http://arxiv.org/abs/2306.12680v1)|null|
 |**2023-06-20 04:16:53**|**Less Can Be More: Exploring Population Rating Dispositions with   Partitioned Models in Recommender Systems**|Ruixuan Sun et.al.|[2306.11279v1](http://arxiv.org/abs/2306.11279v1)|null|
 |**2023-06-19 22:10:24**|**Insufficiently Justified Disparate Impact: A New Criterion for Subgroup   Fairness**|Neil Menghani et.al.|[2306.11181v1](http://arxiv.org/abs/2306.11181v1)|null|
-|**2023-06-18 11:51:39**|**Personalized Elastic Embedding Learning for On-Device Recommendation**|Ruiqi Zheng et.al.|[2306.10532v1](http://arxiv.org/abs/2306.10532v1)|null|
-|**2023-06-16 23:32:54**|**Magnifying NASA Roman GBTDS exoplanet science with coordinated   observations by ESA Euclid**|Eamonn Kerins et.al.|[2306.10210v1](http://arxiv.org/abs/2306.10210v1)|null|
-|**2023-06-16 01:29:53**|**Reevaluation of Stark-induced transition polarizabilities in cesium**|H. B. Tran Tan et.al.|[2306.09573v1](http://arxiv.org/abs/2306.09573v1)|null|
-|**2023-06-13 09:46:16**|**Inactivated COVID-19 Vaccination did not affect In vitro fertilization   (IVF) / Intra-Cytoplasmic Sperm Injection (ICSI) cycle outcomes**|Qi Wan et.al.|[2306.07652v1](http://arxiv.org/abs/2306.07652v1)|null|
