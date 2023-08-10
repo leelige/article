@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-09 16:58:03**|**Geometric Learning-Based Transformer Network for Estimation of   Segmentation Errors**|Sneha Sree C et.al.|[2308.05068v1](http://arxiv.org/abs/2308.05068v1)|null|
+|**2023-08-09 16:04:55**|**Kairos: : Practical Intrusion Detection and Investigation using   Whole-system Provenance**|Zijun Cheng et.al.|[2308.05034v1](http://arxiv.org/abs/2308.05034v1)|[link](https://github.com/provenanceanalytics/kairos)|
+|**2023-08-09 13:18:41**|**Differentially Private Graph Neural Network with Importance-Grained   Noise Adaption**|Yuxin Qi et.al.|[2308.04943v1](http://arxiv.org/abs/2308.04943v1)|null|
+|**2023-08-09 12:04:41**|**GraphCC: A Practical Graph Learning-based Approach to Congestion Control   in Datacenters**|Guillermo Bernárdez et.al.|[2308.04905v1](http://arxiv.org/abs/2308.04905v1)|null|
 |**2023-08-08 17:18:04**|**Probabilistic Invariant Learning with Randomized Linear Classifiers**|Leonardo Cotta et.al.|[2308.04412v1](http://arxiv.org/abs/2308.04412v1)|null|
 |**2023-08-08 16:15:35**|**SSTFormer: Bridging Spiking Neural Network and Memory Support   Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|[link](https://github.com/event-ahu/sstformer)|
 |**2023-08-08 12:34:32**|**Semantic Interpretation and Validation of Graph Attention-based   Explanations for GNN Models**|Efimia Panagiotaki et.al.|[2308.04220v1](http://arxiv.org/abs/2308.04220v1)|null|
@@ -15,7 +19,7 @@
 |**2023-08-07 02:25:06**|**Learning a Graph Neural Network with Cross Modality Interaction for   Image Fusion**|Jiawei Li et.al.|[2308.03256v1](http://arxiv.org/abs/2308.03256v1)|[link](https://github.com/lok-18/ignet)|
 |**2023-08-06 21:04:58**|**Communication-Free Distributed GNN Training with Vertex Cut**|Kaidi Cao et.al.|[2308.03209v1](http://arxiv.org/abs/2308.03209v1)|null|
 |**2023-08-05 16:21:12**|**Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery   Ticket**|Yuwen Wang et.al.|[2308.02916v1](http://arxiv.org/abs/2308.02916v1)|null|
-|**2023-08-05 16:12:26**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks   and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914v1](http://arxiv.org/abs/2308.02914v1)|null|
+|**2023-08-05 16:12:26**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks   and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914v2](http://arxiv.org/abs/2308.02914v2)|null|
 |**2023-08-04 23:57:55**|**Exploiting On-chip Heterogeneity of Versal Architecture for GNN   Inference Acceleration**|Paul Chen et.al.|[2308.02749v1](http://arxiv.org/abs/2308.02749v1)|null|
 |**2023-08-04 17:04:58**|**BlindSage: Label Inference Attacks against Node-level Vertical Federated   Graph Neural Networks**|Marco Arazzi et.al.|[2308.02465v1](http://arxiv.org/abs/2308.02465v1)|null|
 |**2023-08-04 14:21:02**|**Stability and Generalization of Hypergraph Collaborative Networks**|Michael Ng et.al.|[2308.02347v1](http://arxiv.org/abs/2308.02347v1)|null|
@@ -28,7 +32,3 @@
 |**2023-08-03 15:39:26**|**Local and extensive fluctuations in sparsely-interacting ecological   communities**|Stav Marcus et.al.|[2308.01828v1](http://arxiv.org/abs/2308.01828v1)|null|
 |**2023-08-03 10:48:37**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682v1](http://arxiv.org/abs/2308.01682v1)|[link](https://github.com/cborile/eval_lp_xai)|
 |**2023-08-03 09:32:50**|**UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node   Classification**|Minhao Zou et.al.|[2308.01650v1](http://arxiv.org/abs/2308.01650v1)|[link](https://github.com/minhzou/unig-encoder)|
-|**2023-08-03 08:14:28**|**Deep Learning-based surrogate models for parametrized PDEs: handling   geometric variability through graph neural networks**|Nicola Rares Franco et.al.|[2308.01602v1](http://arxiv.org/abs/2308.01602v1)|null|
-|**2023-08-03 07:00:04**|**SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning**|Keyu Duan et.al.|[2308.02565v1](http://arxiv.org/abs/2308.02565v1)|[link](https://github.com/vermouthdky/simteg)|
-|**2023-08-02 23:13:49**|**VertexSerum: Poisoning Graph Neural Networks for Link Inference**|Ruyi Ding et.al.|[2308.01469v1](http://arxiv.org/abs/2308.01469v1)|null|
-|**2023-08-02 21:32:41**|**DLSIA: Deep Learning for Scientific Image Analysis**|Eric J Roberts et.al.|[2308.02559v1](http://arxiv.org/abs/2308.02559v1)|null|
