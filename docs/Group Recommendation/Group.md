@@ -2,7 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-09 15:11:46**|**Dual Intents Graph Modeling for User-centric Group Discovery**|Xixi Wu et.al.|[2308.05013v1](http://arxiv.org/abs/2308.05013v1)|[link](https://github.com/wxxshirley/cikm2023direc)|
+|**2023-08-09 15:11:46**|**Dual Intents Graph Modeling for User-centric Group Discovery**|Xixi Wu et.al.|[2308.05013v2](http://arxiv.org/abs/2308.05013v2)|[link](https://github.com/wxxshirley/cikm2023direc)|
 |**2023-08-08 14:42:00**|**Safeguarding Scientific Integrity: Examining Conflicts of Interest in   the Peer Review Process**|Leslie D. McIntosh et.al.|[2308.04297v1](http://arxiv.org/abs/2308.04297v1)|null|
 |**2023-08-08 13:26:36**|**UniRecSys: A Unified Framework for Personalized, Group, Package, and   Package-to-Group Recommendations**|Adamya Shyam et.al.|[2308.04247v1](http://arxiv.org/abs/2308.04247v1)|null|
 |**2023-08-08 09:47:44**|**Current and Future Challenges in Knowledge Representation and Reasoning**|James P. Delgrande et.al.|[2308.04161v1](http://arxiv.org/abs/2308.04161v1)|null|
