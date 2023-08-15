@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-14 07:35:14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982v1](http://arxiv.org/abs/2308.06982v1)|null|
 |**2023-08-11 08:04:43**|**Deep Task-specific Bottom Representation Network for Multi-Task   Recommendation**|Qi Liu et.al.|[2308.05996v1](http://arxiv.org/abs/2308.05996v1)|null|
 |**2023-08-08 06:58:05**|**Understanding and Modeling Passive-Negative Feedback for Short-video   Sequential Recommendation**|Yunzhu Pan et.al.|[2308.04086v1](http://arxiv.org/abs/2308.04086v1)|[link](https://github.com/tsinghua-fib-lab/RecSys2023-SINE)|
 |**2023-08-08 03:24:44**|**Multi-Granularity Attention Model for Group Recommendation**|Jianye Ji et.al.|[2308.04017v1](http://arxiv.org/abs/2308.04017v1)|null|
@@ -31,4 +32,3 @@
 |**2023-04-08 00:30:08**|**GPT4Rec: A Generative Framework for Personalized Recommendation and User   Interests Interpretation**|Jinming Li et.al.|[2304.03879v1](http://arxiv.org/abs/2304.03879v1)|null|
 |**2023-03-31 06:47:56**|**ConceptEVA: Concept-Based Interactive Exploration and Customization of   Document Summaries**|Xiaoyu Zhang et.al.|[2303.17826v1](http://arxiv.org/abs/2303.17826v1)|null|
 |**2023-03-21 00:00:35**|**Optimal Individualized Treatment Rule for Combination Treatments Under   Budget Constraints**|Qi Xu et.al.|[2303.11507v2](http://arxiv.org/abs/2303.11507v2)|null|
-|**2023-02-28 12:43:17**|**Rethinking Multi-Interest Learning for Candidate Matching in Recommender   Systems**|Yueqi Xie et.al.|[2302.14532v2](http://arxiv.org/abs/2302.14532v2)|[link](https://github.com/tokkiu/remi)|
