@@ -1,77 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2023-08-16 16:07:52 Asia/Shanghai
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-15 17:13:16**|**Towards Temporal Edge Regression: A Case Study on Agriculture Trade   Between Nations**|Lekang Jiang et.al.|[2308.07883v1](http://arxiv.org/abs/2308.07883v1)|[link](https://github.com/scylj1/gnn_edge_regression)|
-|**2023-08-15 15:23:36**|**Simple and Efficient Partial Graph Adversarial Attack: A New Perspective**|Guanghui Zhu et.al.|[2308.07834v1](http://arxiv.org/abs/2308.07834v1)|[link](https://github.com/pasalab/pga)|
-|**2023-08-15 14:24:45**|**Solving optimization problems with local light shift encoding on Rydberg   quantum annealers**|Kapil Goswami et.al.|[2308.07798v1](http://arxiv.org/abs/2308.07798v1)|null|
-|**2023-08-15 13:49:12**|**A Graph Encoder-Decoder Network for Unsupervised Anomaly Detection**|Mahsa Mesgaran et.al.|[2308.07774v1](http://arxiv.org/abs/2308.07774v1)|null|
-|**2023-08-15 13:48:16**|**MOLE: MOdular Learning FramEwork via Mutual Information Maximization**|Tianchao Li et.al.|[2308.07772v1](http://arxiv.org/abs/2308.07772v1)|null|
-|**2023-08-15 13:12:19**|**Self-Supervised Dynamic Hypergraph Recommendation based on   Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752v1](http://arxiv.org/abs/2308.07752v1)|null|
-|**2023-08-15 08:21:20**|**Backpropagation Path Search On Adversarial Transferability**|Zhuoer Xu et.al.|[2308.07625v1](http://arxiv.org/abs/2308.07625v1)|null|
-|**2023-08-14 23:34:59**|**ST-MLP: A Cascaded Spatio-Temporal Linear Framework with   Channel-Independence Strategy for Traffic Forecasting**|Zepu Wang et.al.|[2308.07496v1](http://arxiv.org/abs/2308.07496v1)|null|
-|**2023-08-14 20:20:26**|**Interaction-Aware Personalized Vehicle Trajectory Prediction Using   Temporal Graph Neural Networks**|Amr Abdelraouf et.al.|[2308.07439v1](http://arxiv.org/abs/2308.07439v1)|null|
-|**2023-08-14 14:39:13**|**Conformal Predictions Enhanced Expert-guided Meshing with Graph Neural   Networks**|Amin Heyrani Nobari et.al.|[2308.07358v1](http://arxiv.org/abs/2308.07358v1)|[link](https://github.com/ahnobari/autosurf)|
-|**2023-08-14 06:32:02**|**Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level   Tasks**|Zhili Wang et.al.|[2308.06960v1](http://arxiv.org/abs/2308.06960v1)|null|
-|**2023-08-14 00:42:03**|**Shape-Graph Matching Network (SGM-net): Registration for Statistical   Shape Analysis**|Shenyuan Liang et.al.|[2308.06869v1](http://arxiv.org/abs/2308.06869v1)|null|
-|**2023-08-13 19:45:20**|**Generalizing Topological Graph Neural Networks with Paths**|Quang Truong et.al.|[2308.06838v1](http://arxiv.org/abs/2308.06838v1)|null|
-|**2023-08-13 18:12:28**|**Reinforcement Graph Clustering with Unknown Cluster Number**|Yue Liu et.al.|[2308.06827v1](http://arxiv.org/abs/2308.06827v1)|[link](https://github.com/yueliu1999/awesome-deep-graph-clustering)|
-|**2023-08-13 16:04:03**|**SAILOR: Structural Augmentation Based Tail Node Representation Learning**|Jie Liao et.al.|[2308.06801v2](http://arxiv.org/abs/2308.06801v2)|[link](https://github.com/jie-re/sailor)|
-|**2023-08-13 08:10:23**|**Learning on Graphs with Out-of-Distribution Nodes**|Yu Song et.al.|[2308.06714v1](http://arxiv.org/abs/2308.06714v1)|[link](https://github.com/songyyyy/kdd22-oodgat)|
-|**2023-08-12 13:17:09**|**EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory   Prediction**|Kehua Chen et.al.|[2308.06564v1](http://arxiv.org/abs/2308.06564v1)|null|
-|**2023-08-10 09:42:20**|**$\mathcal{G}^2Pxy$: Generative Open-Set Node Classification on Graphs   with Proxy Unknowns**|Qin Zhang et.al.|[2308.05463v1](http://arxiv.org/abs/2308.05463v1)|null|
-|**2023-08-10 03:48:18**|**DegUIL: Degree-aware Graph Neural Networks for Long-tailed User Identity   Linkage**|Meixiu Long et.al.|[2308.05322v1](http://arxiv.org/abs/2308.05322v1)|[link](https://github.com/longmeix/deguil)|
-|**2023-08-10 03:14:19**|**RLSAC: Reinforcement Learning enhanced Sample Consensus for End-to-End   Robust Estimation**|Chang Nie et.al.|[2308.05318v1](http://arxiv.org/abs/2308.05318v1)|[link](https://github.com/irmvlab/rlsac)|
-|**2023-08-10 02:53:30**|**Homophily-enhanced Structure Learning for Graph Clustering**|Ming Gu et.al.|[2308.05309v2](http://arxiv.org/abs/2308.05309v2)|[link](https://github.com/galogm/hole)|
-|**2023-08-10 01:25:28**|**Cross-heterogeneity Graph Few-shot Learning**|Pengfei Ding et.al.|[2308.05275v1](http://arxiv.org/abs/2308.05275v1)|null|
-|**2023-08-09 16:58:03**|**Geometric Learning-Based Transformer Network for Estimation of   Segmentation Errors**|Sneha Sree C et.al.|[2308.05068v2](http://arxiv.org/abs/2308.05068v2)|null|
-|**2023-08-09 16:04:55**|**Kairos: Practical Intrusion Detection and Investigation using   Whole-system Provenance**|Zijun Cheng et.al.|[2308.05034v2](http://arxiv.org/abs/2308.05034v2)|[link](https://github.com/provenanceanalytics/kairos)|
-|**2023-08-09 13:18:41**|**Differentially Private Graph Neural Network with Importance-Grained   Noise Adaption**|Yuxin Qi et.al.|[2308.04943v1](http://arxiv.org/abs/2308.04943v1)|null|
-|**2023-08-09 12:04:41**|**GraphCC: A Practical Graph Learning-based Approach to Congestion Control   in Datacenters**|Guillermo Bernárdez et.al.|[2308.04905v1](http://arxiv.org/abs/2308.04905v1)|null|
-|**2023-08-08 17:18:04**|**Probabilistic Invariant Learning with Randomized Linear Classifiers**|Leonardo Cotta et.al.|[2308.04412v1](http://arxiv.org/abs/2308.04412v1)|null|
-|**2023-08-08 16:15:35**|**SSTFormer: Bridging Spiking Neural Network and Memory Support   Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|[link](https://github.com/event-ahu/sstformer)|
-|**2023-08-08 12:34:32**|**Semantic Interpretation and Validation of Graph Attention-based   Explanations for GNN Models**|Efimia Panagiotaki et.al.|[2308.04220v1](http://arxiv.org/abs/2308.04220v1)|null|
-|**2023-08-08 10:07:22**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172v2](http://arxiv.org/abs/2308.04172v2)|null|
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-11 17:04:50**|**Help or Hinder? Evaluating the Impact of Fairness Metrics and Algorithms   in Visualizations for Consensus Ranking**|Hilson Shrestha et.al.|[2308.06233v1](http://arxiv.org/abs/2308.06233v1)|null|
-|**2023-08-09 15:11:46**|**Dual Intents Graph Modeling for User-centric Group Discovery**|Xixi Wu et.al.|[2308.05013v2](http://arxiv.org/abs/2308.05013v2)|[link](https://github.com/wxxshirley/cikm2023direc)|
-|**2023-08-08 14:42:00**|**Safeguarding Scientific Integrity: Examining Conflicts of Interest in   the Peer Review Process**|Leslie D. McIntosh et.al.|[2308.04297v1](http://arxiv.org/abs/2308.04297v1)|null|
-|**2023-08-08 13:26:36**|**UniRecSys: A Unified Framework for Personalized, Group, Package, and   Package-to-Group Recommendations**|Adamya Shyam et.al.|[2308.04247v1](http://arxiv.org/abs/2308.04247v1)|null|
-|**2023-08-08 09:47:44**|**Current and Future Challenges in Knowledge Representation and Reasoning**|James P. Delgrande et.al.|[2308.04161v1](http://arxiv.org/abs/2308.04161v1)|null|
-|**2023-08-08 03:24:44**|**Multi-Granularity Attention Model for Group Recommendation**|Jianye Ji et.al.|[2308.04017v1](http://arxiv.org/abs/2308.04017v1)|null|
-|**2023-08-06 10:25:31**|**Predicting Group Choices from Group Profiles**|Hanif Emamgholizadeh et.al.|[2308.03083v1](http://arxiv.org/abs/2308.03083v1)|null|
-|**2023-08-05 14:08:42**|**Group Membership Bias**|Ali Vardasbi et.al.|[2308.02887v1](http://arxiv.org/abs/2308.02887v1)|null|
-|**2023-08-04 04:12:33**|**Auditing Yelp's Business Ranking and Review Recommendation Through the   Lens of Fairness**|Mohit Singhal et.al.|[2308.02129v1](http://arxiv.org/abs/2308.02129v1)|[link](https://github.com/msinghal10/yelp-unfairness)|
-|**2023-08-03 21:12:54**|**The Unequal Opportunities of Large Language Models: Revealing   Demographic Bias through Job Recommendations**|Abel Salinas et.al.|[2308.02053v1](http://arxiv.org/abs/2308.02053v1)|null|
-|**2023-07-29 03:04:22**|**GraphDAC: A Graph-Analytic Approach to Dynamic Airspace Configuration**|Ke Feng et.al.|[2307.15876v1](http://arxiv.org/abs/2307.15876v1)|[link](https://github.com/kefenge2022/graphdac)|
-|**2023-07-28 20:48:59**|**Gender Inclusive Methods in Studies of STEM Practitioners**|Kaitlin Rasmussen et.al.|[2307.15802v1](http://arxiv.org/abs/2307.15802v1)|null|
-|**2023-07-26 02:24:23**|**Domain Disentanglement with Interpolative Data Augmentation for   Dual-Target Cross-Domain Recommendation**|Jiajie Zhu et.al.|[2307.13910v1](http://arxiv.org/abs/2307.13910v1)|null|
-|**2023-07-25 16:35:50**|**Exact Methods of Homogeneity Test of Proportions for Bilateral and   Unilateral Correlated Data**|Shuyi Liang et.al.|[2307.13634v1](http://arxiv.org/abs/2307.13634v1)|null|
-|**2023-07-22 10:03:32**|**Conformal Group Recommender System**|Venkateswara Rao Kagita et.al.|[2307.12034v1](http://arxiv.org/abs/2307.12034v1)|null|
-|**2023-07-21 01:57:51**|**A First Look at Fairness of Machine Learning Based Code Reviewer   Recommendation**|Mohammad Mahdi Mohajer et.al.|[2307.11298v1](http://arxiv.org/abs/2307.11298v1)|null|
-|**2023-07-20 12:41:39**|**Ride-pooling service assessment with rational, heterogeneous,   non-deterministic travellers**|Michal Bujak et.al.|[2307.10827v1](http://arxiv.org/abs/2307.10827v1)|null|
-|**2023-07-18 17:22:19**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447v1](http://arxiv.org/abs/2307.09447v1)|[link](https://github.com/knodis-research-group/dl-cf-groups-deep-aggregation)|
-|**2023-07-18 03:53:19**|**Data sharing and ontology use among agricultural genetics, genomics, and   breeding databases and resources of the AgBioData Consortium**|Jennifer L. Clarke et.al.|[2307.08958v1](http://arxiv.org/abs/2307.08958v1)|null|
-|**2023-07-17 02:28:19**|**A randomization-based theory for preliminary testing of covariate   balance in controlled trials**|Anqi Zhao et.al.|[2307.08203v1](http://arxiv.org/abs/2307.08203v1)|null|
-|**2023-07-15 09:28:16**|**Understanding Cyber Threats Against the Universities, Colleges, and   Schools**|Harjinder Singh Lallie et.al.|[2307.07755v1](http://arxiv.org/abs/2307.07755v1)|null|
-|**2023-07-14 01:44:03**|**An IPW-based Unbiased Ranking Metric in Two-sided Markets**|Keisho Oh et.al.|[2307.10204v1](http://arxiv.org/abs/2307.10204v1)|null|
-|**2023-07-12 14:56:44**|**Online Information Acquisition: Hiring Multiple Agents**|Federico Cacciamani et.al.|[2307.06210v1](http://arxiv.org/abs/2307.06210v1)|null|
-|**2023-07-11 07:06:13**|**Resilient Information Aggregation**|Itai Arieli et.al.|[2307.05054v1](http://arxiv.org/abs/2307.05054v1)|null|
-|**2023-07-08 03:59:58**|**Embedding Mental Health Discourse for Community Recommendation**|Hy Dang et.al.|[2307.03892v1](http://arxiv.org/abs/2307.03892v1)|null|
-|**2023-07-05 14:06:45**|**Recommended Implementation of Quantitative Susceptibility Mapping for   Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic   Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306v1](http://arxiv.org/abs/2307.02306v1)|null|
-|**2023-07-04 14:14:12**|**Mitigating Calibration Bias Without Fixed Attribute Grouping for   Improved Fairness in Medical Imaging Analysis**|Changjian Shui et.al.|[2307.01738v2](http://arxiv.org/abs/2307.01738v2)|null|
-|**2023-07-01 20:00:30**|**Aggregation Consistency Errors in Semantic Layers and How to Avoid Them**|Zezhou Huang et.al.|[2307.00417v1](http://arxiv.org/abs/2307.00417v1)|null|
-|**2023-06-29 12:44:53**|**Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research**|Ji-Ung Lee et.al.|[2306.16900v1](http://arxiv.org/abs/2306.16900v1)|null|
-|**2023-06-22 05:51:49**|**Recent Developments in Recommender Systems: A Survey**|Yang Li et.al.|[2306.12680v1](http://arxiv.org/abs/2306.12680v1)|null|
+ 自动更新 @ 2023-08-17 16:07:43 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -108,3 +36,75 @@
 |**2023-04-08 00:30:08**|**GPT4Rec: A Generative Framework for Personalized Recommendation and User   Interests Interpretation**|Jinming Li et.al.|[2304.03879v1](http://arxiv.org/abs/2304.03879v1)|null|
 |**2023-03-31 06:47:56**|**ConceptEVA: Concept-Based Interactive Exploration and Customization of   Document Summaries**|Xiaoyu Zhang et.al.|[2303.17826v1](http://arxiv.org/abs/2303.17826v1)|null|
 |**2023-03-21 00:00:35**|**Optimal Individualized Treatment Rule for Combination Treatments Under   Budget Constraints**|Qi Xu et.al.|[2303.11507v2](http://arxiv.org/abs/2303.11507v2)|null|
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-16 13:10:27**|**Graph Out-of-Distribution Generalization with Controllable Data   Augmentation**|Bin Lu et.al.|[2308.08344v1](http://arxiv.org/abs/2308.08344v1)|null|
+|**2023-08-16 11:59:44**|**Hierarchical High-Point Energy Flow Network for Jet Tagging**|Wei Shen et.al.|[2308.08300v1](http://arxiv.org/abs/2308.08300v1)|null|
+|**2023-08-16 09:12:21**|**The Expressive Power of Graph Neural Networks: A Survey**|Bingxu Zhang et.al.|[2308.08235v1](http://arxiv.org/abs/2308.08235v1)|null|
+|**2023-08-16 07:58:02**|**DeSCo: Towards Generalizable and Scalable Deep Subgraph Counting**|Tianyu Fu et.al.|[2308.08198v1](http://arxiv.org/abs/2308.08198v1)|null|
+|**2023-08-16 07:05:47**|**Accelerating Generic Graph Neural Networks via Architecture, Compiler,   Partition Method Co-Design**|Shuwen Lu et.al.|[2308.08174v1](http://arxiv.org/abs/2308.08174v1)|null|
+|**2023-08-16 07:05:41**|**Expressivity of Graph Neural Networks Through the Lens of Adversarial   Robustness**|Francesco Campi et.al.|[2308.08173v1](http://arxiv.org/abs/2308.08173v1)|[link](https://github.com/francesco-campi/rob-subgraphs)|
+|**2023-08-16 07:00:51**|**Learning to Pivot as a Smart Expert**|Tianhao Liu et.al.|[2308.08171v1](http://arxiv.org/abs/2308.08171v1)|null|
+|**2023-08-16 06:11:27**|**Characteristics of networks generated by kernel growing neural gas**|Kazuhisa Fujita et.al.|[2308.08163v1](http://arxiv.org/abs/2308.08163v1)|null|
+|**2023-08-16 02:08:46**|**S-Mixup: Structural Mixup for Graph Neural Networks**|Junghurn Kim et.al.|[2308.08097v1](http://arxiv.org/abs/2308.08097v1)|[link](https://github.com/sukwonyun/s-mixup)|
+|**2023-08-15 23:56:44**|**Decentralized Graph Neural Network for Privacy-Preserving Recommendation**|Xiaolin Zheng et.al.|[2308.08072v1](http://arxiv.org/abs/2308.08072v1)|null|
+|**2023-08-15 23:49:07**|**Freshness or Accuracy, Why Not Both? Addressing Delayed Feedback via   Dynamic Graph Neural Networks**|Xiaolin Zheng et.al.|[2308.08071v1](http://arxiv.org/abs/2308.08071v1)|null|
+|**2023-08-15 17:13:16**|**Towards Temporal Edge Regression: A Case Study on Agriculture Trade   Between Nations**|Lekang Jiang et.al.|[2308.07883v1](http://arxiv.org/abs/2308.07883v1)|[link](https://github.com/scylj1/gnn_edge_regression)|
+|**2023-08-15 15:23:36**|**Simple and Efficient Partial Graph Adversarial Attack: A New Perspective**|Guanghui Zhu et.al.|[2308.07834v1](http://arxiv.org/abs/2308.07834v1)|[link](https://github.com/pasalab/pga)|
+|**2023-08-15 14:24:45**|**Solving optimization problems with local light shift encoding on Rydberg   quantum annealers**|Kapil Goswami et.al.|[2308.07798v1](http://arxiv.org/abs/2308.07798v1)|null|
+|**2023-08-15 13:49:12**|**A Graph Encoder-Decoder Network for Unsupervised Anomaly Detection**|Mahsa Mesgaran et.al.|[2308.07774v1](http://arxiv.org/abs/2308.07774v1)|null|
+|**2023-08-15 13:48:16**|**MOLE: MOdular Learning FramEwork via Mutual Information Maximization**|Tianchao Li et.al.|[2308.07772v1](http://arxiv.org/abs/2308.07772v1)|null|
+|**2023-08-15 13:12:19**|**Self-Supervised Dynamic Hypergraph Recommendation based on   Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752v1](http://arxiv.org/abs/2308.07752v1)|null|
+|**2023-08-15 08:21:20**|**Backpropagation Path Search On Adversarial Transferability**|Zhuoer Xu et.al.|[2308.07625v1](http://arxiv.org/abs/2308.07625v1)|null|
+|**2023-08-14 23:34:59**|**ST-MLP: A Cascaded Spatio-Temporal Linear Framework with   Channel-Independence Strategy for Traffic Forecasting**|Zepu Wang et.al.|[2308.07496v1](http://arxiv.org/abs/2308.07496v1)|null|
+|**2023-08-14 21:01:29**|**Inductive Knowledge Graph Completion with GNNs and Rules: An Analysis**|Akash Anil et.al.|[2308.07942v1](http://arxiv.org/abs/2308.07942v1)|null|
+|**2023-08-14 20:20:26**|**Interaction-Aware Personalized Vehicle Trajectory Prediction Using   Temporal Graph Neural Networks**|Amr Abdelraouf et.al.|[2308.07439v2](http://arxiv.org/abs/2308.07439v2)|null|
+|**2023-08-14 14:39:13**|**Conformal Predictions Enhanced Expert-guided Meshing with Graph Neural   Networks**|Amin Heyrani Nobari et.al.|[2308.07358v1](http://arxiv.org/abs/2308.07358v1)|[link](https://github.com/ahnobari/autosurf)|
+|**2023-08-14 06:32:02**|**Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level   Tasks**|Zhili Wang et.al.|[2308.06960v1](http://arxiv.org/abs/2308.06960v1)|null|
+|**2023-08-14 00:42:03**|**Shape-Graph Matching Network (SGM-net): Registration for Statistical   Shape Analysis**|Shenyuan Liang et.al.|[2308.06869v1](http://arxiv.org/abs/2308.06869v1)|null|
+|**2023-08-13 19:45:20**|**Generalizing Topological Graph Neural Networks with Paths**|Quang Truong et.al.|[2308.06838v1](http://arxiv.org/abs/2308.06838v1)|null|
+|**2023-08-13 18:12:28**|**Reinforcement Graph Clustering with Unknown Cluster Number**|Yue Liu et.al.|[2308.06827v1](http://arxiv.org/abs/2308.06827v1)|[link](https://github.com/yueliu1999/awesome-deep-graph-clustering)|
+|**2023-08-13 16:04:03**|**SAILOR: Structural Augmentation Based Tail Node Representation Learning**|Jie Liao et.al.|[2308.06801v2](http://arxiv.org/abs/2308.06801v2)|[link](https://github.com/jie-re/sailor)|
+|**2023-08-13 08:10:23**|**Learning on Graphs with Out-of-Distribution Nodes**|Yu Song et.al.|[2308.06714v1](http://arxiv.org/abs/2308.06714v1)|[link](https://github.com/songyyyy/kdd22-oodgat)|
+|**2023-08-12 13:17:09**|**EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory   Prediction**|Kehua Chen et.al.|[2308.06564v1](http://arxiv.org/abs/2308.06564v1)|null|
+|**2023-08-10 09:42:20**|**$\mathcal{G}^2Pxy$: Generative Open-Set Node Classification on Graphs   with Proxy Unknowns**|Qin Zhang et.al.|[2308.05463v1](http://arxiv.org/abs/2308.05463v1)|null|
+
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-16 17:31:08**|**Patterns and Pathways: Applying Social Network Analysis to Understand   User Behavior in the Tourism Industry Websites**|Mehrdad Maghsoudi et.al.|[2308.08527v1](http://arxiv.org/abs/2308.08527v1)|null|
+|**2023-08-11 17:04:50**|**Help or Hinder? Evaluating the Impact of Fairness Metrics and Algorithms   in Visualizations for Consensus Ranking**|Hilson Shrestha et.al.|[2308.06233v1](http://arxiv.org/abs/2308.06233v1)|null|
+|**2023-08-09 15:11:46**|**Dual Intents Graph Modeling for User-centric Group Discovery**|Xixi Wu et.al.|[2308.05013v2](http://arxiv.org/abs/2308.05013v2)|[link](https://github.com/wxxshirley/cikm2023direc)|
+|**2023-08-08 14:42:00**|**Safeguarding Scientific Integrity: Examining Conflicts of Interest in   the Peer Review Process**|Leslie D. McIntosh et.al.|[2308.04297v1](http://arxiv.org/abs/2308.04297v1)|null|
+|**2023-08-08 13:26:36**|**UniRecSys: A Unified Framework for Personalized, Group, Package, and   Package-to-Group Recommendations**|Adamya Shyam et.al.|[2308.04247v1](http://arxiv.org/abs/2308.04247v1)|null|
+|**2023-08-08 09:47:44**|**Current and Future Challenges in Knowledge Representation and Reasoning**|James P. Delgrande et.al.|[2308.04161v1](http://arxiv.org/abs/2308.04161v1)|null|
+|**2023-08-08 03:24:44**|**Multi-Granularity Attention Model for Group Recommendation**|Jianye Ji et.al.|[2308.04017v1](http://arxiv.org/abs/2308.04017v1)|null|
+|**2023-08-06 10:25:31**|**Predicting Group Choices from Group Profiles**|Hanif Emamgholizadeh et.al.|[2308.03083v1](http://arxiv.org/abs/2308.03083v1)|null|
+|**2023-08-05 14:08:42**|**Group Membership Bias**|Ali Vardasbi et.al.|[2308.02887v1](http://arxiv.org/abs/2308.02887v1)|null|
+|**2023-08-04 04:12:33**|**Auditing Yelp's Business Ranking and Review Recommendation Through the   Lens of Fairness**|Mohit Singhal et.al.|[2308.02129v1](http://arxiv.org/abs/2308.02129v1)|[link](https://github.com/msinghal10/yelp-unfairness)|
+|**2023-08-03 21:12:54**|**The Unequal Opportunities of Large Language Models: Revealing   Demographic Bias through Job Recommendations**|Abel Salinas et.al.|[2308.02053v1](http://arxiv.org/abs/2308.02053v1)|null|
+|**2023-07-29 03:04:22**|**GraphDAC: A Graph-Analytic Approach to Dynamic Airspace Configuration**|Ke Feng et.al.|[2307.15876v1](http://arxiv.org/abs/2307.15876v1)|[link](https://github.com/kefenge2022/graphdac)|
+|**2023-07-28 20:48:59**|**Gender Inclusive Methods in Studies of STEM Practitioners**|Kaitlin Rasmussen et.al.|[2307.15802v1](http://arxiv.org/abs/2307.15802v1)|null|
+|**2023-07-26 02:24:23**|**Domain Disentanglement with Interpolative Data Augmentation for   Dual-Target Cross-Domain Recommendation**|Jiajie Zhu et.al.|[2307.13910v1](http://arxiv.org/abs/2307.13910v1)|null|
+|**2023-07-25 16:35:50**|**Exact Methods of Homogeneity Test of Proportions for Bilateral and   Unilateral Correlated Data**|Shuyi Liang et.al.|[2307.13634v1](http://arxiv.org/abs/2307.13634v1)|null|
+|**2023-07-22 10:03:32**|**Conformal Group Recommender System**|Venkateswara Rao Kagita et.al.|[2307.12034v1](http://arxiv.org/abs/2307.12034v1)|null|
+|**2023-07-21 01:57:51**|**A First Look at Fairness of Machine Learning Based Code Reviewer   Recommendation**|Mohammad Mahdi Mohajer et.al.|[2307.11298v1](http://arxiv.org/abs/2307.11298v1)|null|
+|**2023-07-20 12:41:39**|**Ride-pooling service assessment with rational, heterogeneous,   non-deterministic travellers**|Michal Bujak et.al.|[2307.10827v1](http://arxiv.org/abs/2307.10827v1)|null|
+|**2023-07-18 17:22:19**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447v1](http://arxiv.org/abs/2307.09447v1)|[link](https://github.com/knodis-research-group/dl-cf-groups-deep-aggregation)|
+|**2023-07-18 03:53:19**|**Data sharing and ontology use among agricultural genetics, genomics, and   breeding databases and resources of the AgBioData Consortium**|Jennifer L. Clarke et.al.|[2307.08958v1](http://arxiv.org/abs/2307.08958v1)|null|
+|**2023-07-17 02:28:19**|**A randomization-based theory for preliminary testing of covariate   balance in controlled trials**|Anqi Zhao et.al.|[2307.08203v1](http://arxiv.org/abs/2307.08203v1)|null|
+|**2023-07-15 09:28:16**|**Understanding Cyber Threats Against the Universities, Colleges, and   Schools**|Harjinder Singh Lallie et.al.|[2307.07755v1](http://arxiv.org/abs/2307.07755v1)|null|
+|**2023-07-14 01:44:03**|**An IPW-based Unbiased Ranking Metric in Two-sided Markets**|Keisho Oh et.al.|[2307.10204v1](http://arxiv.org/abs/2307.10204v1)|null|
+|**2023-07-12 14:56:44**|**Online Information Acquisition: Hiring Multiple Agents**|Federico Cacciamani et.al.|[2307.06210v1](http://arxiv.org/abs/2307.06210v1)|null|
+|**2023-07-11 07:06:13**|**Resilient Information Aggregation**|Itai Arieli et.al.|[2307.05054v1](http://arxiv.org/abs/2307.05054v1)|null|
+|**2023-07-08 03:59:58**|**Embedding Mental Health Discourse for Community Recommendation**|Hy Dang et.al.|[2307.03892v1](http://arxiv.org/abs/2307.03892v1)|null|
+|**2023-07-05 14:06:45**|**Recommended Implementation of Quantitative Susceptibility Mapping for   Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic   Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306v1](http://arxiv.org/abs/2307.02306v1)|null|
+|**2023-07-04 14:14:12**|**Mitigating Calibration Bias Without Fixed Attribute Grouping for   Improved Fairness in Medical Imaging Analysis**|Changjian Shui et.al.|[2307.01738v2](http://arxiv.org/abs/2307.01738v2)|null|
+|**2023-07-01 20:00:30**|**Aggregation Consistency Errors in Semantic Layers and How to Avoid Them**|Zezhou Huang et.al.|[2307.00417v1](http://arxiv.org/abs/2307.00417v1)|null|
+|**2023-06-29 12:44:53**|**Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research**|Ji-Ung Lee et.al.|[2306.16900v1](http://arxiv.org/abs/2306.16900v1)|null|
