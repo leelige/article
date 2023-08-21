@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-17 14:07:53**|**Digital Twin Based User-Centric Resource Management for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2308.08995v1](http://arxiv.org/abs/2308.08995v1)|null|
+|**2023-08-16 19:32:29**|**Non-monotone Sequential Submodular Maximization**|Shaojie Tang et.al.|[2308.08641v1](http://arxiv.org/abs/2308.08641v1)|null|
+|**2023-08-16 18:24:54**|**Group Identification via Transitional Hypergraph Convolution with   Cross-view Self-supervised Learning**|Mingdai Yang et.al.|[2308.08620v1](http://arxiv.org/abs/2308.08620v1)|null|
 |**2023-08-16 17:31:08**|**Patterns and Pathways: Applying Social Network Analysis to Understand   User Behavior in the Tourism Industry Websites**|Mehrdad Maghsoudi et.al.|[2308.08527v1](http://arxiv.org/abs/2308.08527v1)|null|
 |**2023-08-11 17:04:50**|**Help or Hinder? Evaluating the Impact of Fairness Metrics and Algorithms   in Visualizations for Consensus Ranking**|Hilson Shrestha et.al.|[2308.06233v1](http://arxiv.org/abs/2308.06233v1)|null|
 |**2023-08-09 15:11:46**|**Dual Intents Graph Modeling for User-centric Group Discovery**|Xixi Wu et.al.|[2308.05013v2](http://arxiv.org/abs/2308.05013v2)|[link](https://github.com/wxxshirley/cikm2023direc)|
@@ -29,6 +32,3 @@
 |**2023-07-11 07:06:13**|**Resilient Information Aggregation**|Itai Arieli et.al.|[2307.05054v1](http://arxiv.org/abs/2307.05054v1)|null|
 |**2023-07-08 03:59:58**|**Embedding Mental Health Discourse for Community Recommendation**|Hy Dang et.al.|[2307.03892v1](http://arxiv.org/abs/2307.03892v1)|null|
 |**2023-07-05 14:06:45**|**Recommended Implementation of Quantitative Susceptibility Mapping for   Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic   Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306v1](http://arxiv.org/abs/2307.02306v1)|null|
-|**2023-07-04 14:14:12**|**Mitigating Calibration Bias Without Fixed Attribute Grouping for   Improved Fairness in Medical Imaging Analysis**|Changjian Shui et.al.|[2307.01738v2](http://arxiv.org/abs/2307.01738v2)|null|
-|**2023-07-01 20:00:30**|**Aggregation Consistency Errors in Semantic Layers and How to Avoid Them**|Zezhou Huang et.al.|[2307.00417v1](http://arxiv.org/abs/2307.00417v1)|null|
-|**2023-06-29 12:44:53**|**Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research**|Ji-Ung Lee et.al.|[2306.16900v1](http://arxiv.org/abs/2306.16900v1)|null|

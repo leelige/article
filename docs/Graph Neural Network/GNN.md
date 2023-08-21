@@ -2,6 +2,19 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-18 16:02:15**|**A Potts model approach to unsupervised graph clustering with Graph   Neural Networks**|Co Tran et.al.|[2308.09644v1](http://arxiv.org/abs/2308.09644v1)|null|
+|**2023-08-18 14:45:28**|**Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks   for Node Classification**|Arpit Merchant et.al.|[2308.09596v1](http://arxiv.org/abs/2308.09596v1)|null|
+|**2023-08-18 13:05:10**|**Improving 3D Pose Estimation for Sign Language**|Maksym Ivashechkin et.al.|[2308.09525v1](http://arxiv.org/abs/2308.09525v1)|null|
+|**2023-08-18 12:49:57**|**Transitivity-Preserving Graph Representation Learning for Bridging Local   Connectivity and Role-based Similarity**|Van Thuy Hoang et.al.|[2308.09517v1](http://arxiv.org/abs/2308.09517v1)|[link](https://github.com/nslab-cuk/unified-graph-transformer)|
+|**2023-08-18 12:14:51**|**Bridged-GNN: Knowledge Bridge Learning for Effective Knowledge Transfer**|Wendong Bi et.al.|[2308.09499v1](http://arxiv.org/abs/2308.09499v1)|null|
+|**2023-08-18 07:07:36**|**Boosting Few-shot Action Recognition with Graph-guided Hybrid Matching**|Jiazheng Xing et.al.|[2308.09346v1](http://arxiv.org/abs/2308.09346v1)|[link](https://github.com/jiazheng-xing/gghm)|
+|**2023-08-18 02:34:37**|**Distribution shift mitigation at test time with performance guarantees**|Rui Ding et.al.|[2308.09259v1](http://arxiv.org/abs/2308.09259v1)|null|
+|**2023-08-18 02:24:32**|**Capacity Bounds for Hyperbolic Neural Network Representations of Latent   Tree Structures**|Anastasis Kratsios et.al.|[2308.09250v1](http://arxiv.org/abs/2308.09250v1)|null|
+|**2023-08-17 22:24:15**|**Half-Hop: A graph upsampling approach for slowing down message passing**|Mehdi Azabou et.al.|[2308.09198v1](http://arxiv.org/abs/2308.09198v1)|[link](https://github.com/nerdslab/halfhop)|
+|**2023-08-17 12:35:02**|**Interpretable Graph Neural Networks for Tabular Data**|Amr Alkhatib et.al.|[2308.08945v1](http://arxiv.org/abs/2308.08945v1)|null|
+|**2023-08-17 07:06:54**|**Mitigating Semantic Confusion from Hostile Neighborhood for Graph Active   Learning**|Tianmeng Yang et.al.|[2308.08823v1](http://arxiv.org/abs/2308.08823v1)|null|
+|**2023-08-17 03:50:37**|**Graph Neural Network Backend for Speaker Recognition**|Liang He et.al.|[2308.08767v1](http://arxiv.org/abs/2308.08767v1)|null|
+|**2023-08-16 18:24:54**|**Group Identification via Transitional Hypergraph Convolution with   Cross-view Self-supervised Learning**|Mingdai Yang et.al.|[2308.08620v1](http://arxiv.org/abs/2308.08620v1)|null|
 |**2023-08-16 13:10:27**|**Graph Out-of-Distribution Generalization with Controllable Data   Augmentation**|Bin Lu et.al.|[2308.08344v1](http://arxiv.org/abs/2308.08344v1)|null|
 |**2023-08-16 11:59:44**|**Hierarchical High-Point Energy Flow Network for Jet Tagging**|Wei Shen et.al.|[2308.08300v1](http://arxiv.org/abs/2308.08300v1)|null|
 |**2023-08-16 09:12:21**|**The Expressive Power of Graph Neural Networks: A Survey**|Bingxu Zhang et.al.|[2308.08235v1](http://arxiv.org/abs/2308.08235v1)|null|
@@ -19,16 +32,3 @@
 |**2023-08-15 13:49:12**|**A Graph Encoder-Decoder Network for Unsupervised Anomaly Detection**|Mahsa Mesgaran et.al.|[2308.07774v1](http://arxiv.org/abs/2308.07774v1)|null|
 |**2023-08-15 13:48:16**|**MOLE: MOdular Learning FramEwork via Mutual Information Maximization**|Tianchao Li et.al.|[2308.07772v1](http://arxiv.org/abs/2308.07772v1)|null|
 |**2023-08-15 13:12:19**|**Self-Supervised Dynamic Hypergraph Recommendation based on   Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752v1](http://arxiv.org/abs/2308.07752v1)|null|
-|**2023-08-15 08:21:20**|**Backpropagation Path Search On Adversarial Transferability**|Zhuoer Xu et.al.|[2308.07625v1](http://arxiv.org/abs/2308.07625v1)|null|
-|**2023-08-14 23:34:59**|**ST-MLP: A Cascaded Spatio-Temporal Linear Framework with   Channel-Independence Strategy for Traffic Forecasting**|Zepu Wang et.al.|[2308.07496v1](http://arxiv.org/abs/2308.07496v1)|null|
-|**2023-08-14 21:01:29**|**Inductive Knowledge Graph Completion with GNNs and Rules: An Analysis**|Akash Anil et.al.|[2308.07942v1](http://arxiv.org/abs/2308.07942v1)|null|
-|**2023-08-14 20:20:26**|**Interaction-Aware Personalized Vehicle Trajectory Prediction Using   Temporal Graph Neural Networks**|Amr Abdelraouf et.al.|[2308.07439v2](http://arxiv.org/abs/2308.07439v2)|null|
-|**2023-08-14 14:39:13**|**Conformal Predictions Enhanced Expert-guided Meshing with Graph Neural   Networks**|Amin Heyrani Nobari et.al.|[2308.07358v1](http://arxiv.org/abs/2308.07358v1)|[link](https://github.com/ahnobari/autosurf)|
-|**2023-08-14 06:32:02**|**Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level   Tasks**|Zhili Wang et.al.|[2308.06960v1](http://arxiv.org/abs/2308.06960v1)|null|
-|**2023-08-14 00:42:03**|**Shape-Graph Matching Network (SGM-net): Registration for Statistical   Shape Analysis**|Shenyuan Liang et.al.|[2308.06869v1](http://arxiv.org/abs/2308.06869v1)|null|
-|**2023-08-13 19:45:20**|**Generalizing Topological Graph Neural Networks with Paths**|Quang Truong et.al.|[2308.06838v1](http://arxiv.org/abs/2308.06838v1)|null|
-|**2023-08-13 18:12:28**|**Reinforcement Graph Clustering with Unknown Cluster Number**|Yue Liu et.al.|[2308.06827v1](http://arxiv.org/abs/2308.06827v1)|[link](https://github.com/yueliu1999/awesome-deep-graph-clustering)|
-|**2023-08-13 16:04:03**|**SAILOR: Structural Augmentation Based Tail Node Representation Learning**|Jie Liao et.al.|[2308.06801v2](http://arxiv.org/abs/2308.06801v2)|[link](https://github.com/jie-re/sailor)|
-|**2023-08-13 08:10:23**|**Learning on Graphs with Out-of-Distribution Nodes**|Yu Song et.al.|[2308.06714v1](http://arxiv.org/abs/2308.06714v1)|[link](https://github.com/songyyyy/kdd22-oodgat)|
-|**2023-08-12 13:17:09**|**EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory   Prediction**|Kehua Chen et.al.|[2308.06564v1](http://arxiv.org/abs/2308.06564v1)|null|
-|**2023-08-10 09:42:20**|**$\mathcal{G}^2Pxy$: Generative Open-Set Node Classification on Graphs   with Proxy Unknowns**|Qin Zhang et.al.|[2308.05463v1](http://arxiv.org/abs/2308.05463v1)|null|
