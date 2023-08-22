@@ -2,8 +2,25 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-21 16:48:11**|**Learning in Dynamic Systems and Its Application to Adaptive PID Control**|Omar Makke et.al.|[2308.10851v1](http://arxiv.org/abs/2308.10851v1)|null|
+|**2023-08-21 16:35:19**|**Enhancing Recommender Systems with Large Language Model Reasoning Graphs**|Yan Wang et.al.|[2308.10835v1](http://arxiv.org/abs/2308.10835v1)|null|
+|**2023-08-21 15:57:57**|**Graph Neural Bandits**|Yunzhe Qi et.al.|[2308.10808v1](http://arxiv.org/abs/2308.10808v1)|null|
+|**2023-08-21 15:09:51**|**Spear and Shield: Adversarial Attacks and Defense Methods for   Model-Based Link Prediction on Continuous-Time Dynamic Graphs**|Dongjin Lee et.al.|[2308.10779v1](http://arxiv.org/abs/2308.10779v1)|null|
+|**2023-08-21 15:09:19**|**A Topology-aware Analysis of Graph Collaborative Filtering**|Daniele Malitesta et.al.|[2308.10778v1](http://arxiv.org/abs/2308.10778v1)|[link](https://github.com/sisinflab/graph-characteristics)|
+|**2023-08-21 14:39:29**|**Comprehensive Molecular Representation from Equivariant Transformer**|Nianze Tao et.al.|[2308.10752v1](http://arxiv.org/abs/2308.10752v1)|null|
+|**2023-08-21 14:05:21**|**UGSL: A Unified Framework for Benchmarking Graph Structure Learning**|Bahare Fatemi et.al.|[2308.10737v1](http://arxiv.org/abs/2308.10737v1)|[link](https://github.com/google-research/google-research)|
+|**2023-08-21 10:18:26**|**ST-RAP: A Spatio-Temporal Framework for Real Estate Appraisal**|Hojoon Lee et.al.|[2308.10609v1](http://arxiv.org/abs/2308.10609v1)|[link](https://github.com/dojeon-ai/strap)|
+|**2023-08-21 03:13:38**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v1](http://arxiv.org/abs/2308.10436v1)|[link](https://github.com/nhuang37/approx_equivariant_graph_nets)|
+|**2023-08-20 16:59:17**|**Hyper Association Graph Matching with Uncertainty Quantification for   Coronary Artery Semantic Labeling**|Chen Zhao et.al.|[2308.10320v1](http://arxiv.org/abs/2308.10320v1)|null|
+|**2023-08-20 15:55:45**|**Preserving Specificity in Federated Graph Learning for fMRI-based   Neurological Disorder Identification**|Junhao Zhang et.al.|[2308.10302v1](http://arxiv.org/abs/2308.10302v1)|null|
+|**2023-08-20 14:12:11**|**Minimalist Traffic Prediction: Linear Layer Is All You Need**|Wenying Duan et.al.|[2308.10276v1](http://arxiv.org/abs/2308.10276v1)|null|
+|**2023-08-19 20:10:54**|**Geometric instability of graph neural networks on large graphs**|Emily Morris et.al.|[2308.10099v1](http://arxiv.org/abs/2308.10099v1)|[link](https://github.com/brs96/geometric-instability-gnn-large-graphs)|
+|**2023-08-19 15:21:12**|**The Snowflake Hypothesis: Training Deep GNN with One Node One Receptive   field**|Kun Wang et.al.|[2308.10051v1](http://arxiv.org/abs/2308.10051v1)|null|
+|**2023-08-19 14:25:59**|**Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural   Networks**|Zhihao Wen et.al.|[2308.10028v1](http://arxiv.org/abs/2308.10028v1)|null|
+|**2023-08-19 05:03:35**|**Imputing Brain Measurements Across Data Sets via Graph Neural Networks**|Yixin Wang et.al.|[2308.09907v1](http://arxiv.org/abs/2308.09907v1)|null|
+|**2023-08-18 21:35:45**|**Learning from A Single Graph is All You Need for Near-Shortest Path   Routing in Wireless Networks**|Yung-Fu Chen et.al.|[2308.09829v1](http://arxiv.org/abs/2308.09829v1)|null|
 |**2023-08-18 16:02:15**|**A Potts model approach to unsupervised graph clustering with Graph   Neural Networks**|Co Tran et.al.|[2308.09644v1](http://arxiv.org/abs/2308.09644v1)|null|
-|**2023-08-18 14:45:28**|**Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks   for Node Classification**|Arpit Merchant et.al.|[2308.09596v1](http://arxiv.org/abs/2308.09596v1)|null|
+|**2023-08-18 14:45:28**|**Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks   for Node Classification**|Arpit Merchant et.al.|[2308.09596v1](http://arxiv.org/abs/2308.09596v1)|[link](https://github.com/arpitdm/gnn_accuracy_fairness_tradeoff)|
 |**2023-08-18 13:05:10**|**Improving 3D Pose Estimation for Sign Language**|Maksym Ivashechkin et.al.|[2308.09525v1](http://arxiv.org/abs/2308.09525v1)|null|
 |**2023-08-18 12:49:57**|**Transitivity-Preserving Graph Representation Learning for Bridging Local   Connectivity and Role-based Similarity**|Van Thuy Hoang et.al.|[2308.09517v1](http://arxiv.org/abs/2308.09517v1)|[link](https://github.com/nslab-cuk/unified-graph-transformer)|
 |**2023-08-18 12:14:51**|**Bridged-GNN: Knowledge Bridge Learning for Effective Knowledge Transfer**|Wendong Bi et.al.|[2308.09499v1](http://arxiv.org/abs/2308.09499v1)|null|
@@ -15,20 +32,3 @@
 |**2023-08-17 07:06:54**|**Mitigating Semantic Confusion from Hostile Neighborhood for Graph Active   Learning**|Tianmeng Yang et.al.|[2308.08823v1](http://arxiv.org/abs/2308.08823v1)|null|
 |**2023-08-17 03:50:37**|**Graph Neural Network Backend for Speaker Recognition**|Liang He et.al.|[2308.08767v1](http://arxiv.org/abs/2308.08767v1)|null|
 |**2023-08-16 18:24:54**|**Group Identification via Transitional Hypergraph Convolution with   Cross-view Self-supervised Learning**|Mingdai Yang et.al.|[2308.08620v1](http://arxiv.org/abs/2308.08620v1)|null|
-|**2023-08-16 13:10:27**|**Graph Out-of-Distribution Generalization with Controllable Data   Augmentation**|Bin Lu et.al.|[2308.08344v1](http://arxiv.org/abs/2308.08344v1)|null|
-|**2023-08-16 11:59:44**|**Hierarchical High-Point Energy Flow Network for Jet Tagging**|Wei Shen et.al.|[2308.08300v1](http://arxiv.org/abs/2308.08300v1)|null|
-|**2023-08-16 09:12:21**|**The Expressive Power of Graph Neural Networks: A Survey**|Bingxu Zhang et.al.|[2308.08235v1](http://arxiv.org/abs/2308.08235v1)|null|
-|**2023-08-16 07:58:02**|**DeSCo: Towards Generalizable and Scalable Deep Subgraph Counting**|Tianyu Fu et.al.|[2308.08198v1](http://arxiv.org/abs/2308.08198v1)|null|
-|**2023-08-16 07:05:47**|**Accelerating Generic Graph Neural Networks via Architecture, Compiler,   Partition Method Co-Design**|Shuwen Lu et.al.|[2308.08174v1](http://arxiv.org/abs/2308.08174v1)|null|
-|**2023-08-16 07:05:41**|**Expressivity of Graph Neural Networks Through the Lens of Adversarial   Robustness**|Francesco Campi et.al.|[2308.08173v1](http://arxiv.org/abs/2308.08173v1)|[link](https://github.com/francesco-campi/rob-subgraphs)|
-|**2023-08-16 07:00:51**|**Learning to Pivot as a Smart Expert**|Tianhao Liu et.al.|[2308.08171v1](http://arxiv.org/abs/2308.08171v1)|null|
-|**2023-08-16 06:11:27**|**Characteristics of networks generated by kernel growing neural gas**|Kazuhisa Fujita et.al.|[2308.08163v1](http://arxiv.org/abs/2308.08163v1)|[link](https://github.com/kazuhisafujita/kernelgng)|
-|**2023-08-16 02:08:46**|**S-Mixup: Structural Mixup for Graph Neural Networks**|Junghurn Kim et.al.|[2308.08097v1](http://arxiv.org/abs/2308.08097v1)|[link](https://github.com/sukwonyun/s-mixup)|
-|**2023-08-15 23:56:44**|**Decentralized Graph Neural Network for Privacy-Preserving Recommendation**|Xiaolin Zheng et.al.|[2308.08072v1](http://arxiv.org/abs/2308.08072v1)|null|
-|**2023-08-15 23:49:07**|**Freshness or Accuracy, Why Not Both? Addressing Delayed Feedback via   Dynamic Graph Neural Networks**|Xiaolin Zheng et.al.|[2308.08071v1](http://arxiv.org/abs/2308.08071v1)|null|
-|**2023-08-15 17:13:16**|**Towards Temporal Edge Regression: A Case Study on Agriculture Trade   Between Nations**|Lekang Jiang et.al.|[2308.07883v1](http://arxiv.org/abs/2308.07883v1)|[link](https://github.com/scylj1/gnn_edge_regression)|
-|**2023-08-15 15:23:36**|**Simple and Efficient Partial Graph Adversarial Attack: A New Perspective**|Guanghui Zhu et.al.|[2308.07834v1](http://arxiv.org/abs/2308.07834v1)|[link](https://github.com/pasalab/pga)|
-|**2023-08-15 14:24:45**|**Solving optimization problems with local light shift encoding on Rydberg   quantum annealers**|Kapil Goswami et.al.|[2308.07798v1](http://arxiv.org/abs/2308.07798v1)|null|
-|**2023-08-15 13:49:12**|**A Graph Encoder-Decoder Network for Unsupervised Anomaly Detection**|Mahsa Mesgaran et.al.|[2308.07774v1](http://arxiv.org/abs/2308.07774v1)|null|
-|**2023-08-15 13:48:16**|**MOLE: MOdular Learning FramEwork via Mutual Information Maximization**|Tianchao Li et.al.|[2308.07772v1](http://arxiv.org/abs/2308.07772v1)|null|
-|**2023-08-15 13:12:19**|**Self-Supervised Dynamic Hypergraph Recommendation based on   Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752v1](http://arxiv.org/abs/2308.07752v1)|null|

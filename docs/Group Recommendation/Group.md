@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-19 04:46:01**|**RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework   with Large Language Models**|Yubo Shu et.al.|[2308.09904v1](http://arxiv.org/abs/2308.09904v1)|null|
 |**2023-08-17 14:07:53**|**Digital Twin Based User-Centric Resource Management for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2308.08995v1](http://arxiv.org/abs/2308.08995v1)|null|
 |**2023-08-16 19:32:29**|**Non-monotone Sequential Submodular Maximization**|Shaojie Tang et.al.|[2308.08641v1](http://arxiv.org/abs/2308.08641v1)|null|
 |**2023-08-16 18:24:54**|**Group Identification via Transitional Hypergraph Convolution with   Cross-view Self-supervised Learning**|Mingdai Yang et.al.|[2308.08620v1](http://arxiv.org/abs/2308.08620v1)|null|
@@ -31,4 +32,3 @@
 |**2023-07-12 14:56:44**|**Online Information Acquisition: Hiring Multiple Agents**|Federico Cacciamani et.al.|[2307.06210v1](http://arxiv.org/abs/2307.06210v1)|null|
 |**2023-07-11 07:06:13**|**Resilient Information Aggregation**|Itai Arieli et.al.|[2307.05054v1](http://arxiv.org/abs/2307.05054v1)|null|
 |**2023-07-08 03:59:58**|**Embedding Mental Health Discourse for Community Recommendation**|Hy Dang et.al.|[2307.03892v1](http://arxiv.org/abs/2307.03892v1)|null|
-|**2023-07-05 14:06:45**|**Recommended Implementation of Quantitative Susceptibility Mapping for   Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic   Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306v1](http://arxiv.org/abs/2307.02306v1)|null|
