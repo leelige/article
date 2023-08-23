@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-22 04:06:56**|**MISSRec: Pre-training and Transferring Multi-modal Interest-aware   Sequence Representation for Recommendation**|Jinpeng Wang et.al.|[2308.11175v1](http://arxiv.org/abs/2308.11175v1)|null|
 |**2023-08-19 09:47:22**|**Time-aligned Exposure-enhanced Model for Click-Through Rate Prediction**|Hengyu Zhang et.al.|[2308.09966v1](http://arxiv.org/abs/2308.09966v1)|null|
 |**2023-08-14 07:35:14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982v1](http://arxiv.org/abs/2308.06982v1)|null|
 |**2023-08-11 08:04:43**|**Deep Task-specific Bottom Representation Network for Multi-Task   Recommendation**|Qi Liu et.al.|[2308.05996v2](http://arxiv.org/abs/2308.05996v2)|null|
@@ -31,4 +32,3 @@
 |**2023-04-12 05:13:54**|**Deep Stable Multi-Interest Learning for Out-of-distribution Sequential   Recommendation**|Qiang Liu et.al.|[2304.05615v1](http://arxiv.org/abs/2304.05615v1)|null|
 |**2023-04-11 05:53:08**|**Neural Multi-network Diffusion towards Social Recommendation**|Boxin Du et.al.|[2304.04994v1](http://arxiv.org/abs/2304.04994v1)|null|
 |**2023-04-08 00:30:08**|**GPT4Rec: A Generative Framework for Personalized Recommendation and User   Interests Interpretation**|Jinming Li et.al.|[2304.03879v1](http://arxiv.org/abs/2304.03879v1)|null|
-|**2023-03-31 06:47:56**|**ConceptEVA: Concept-Based Interactive Exploration and Customization of   Document Summaries**|Xiaoyu Zhang et.al.|[2303.17826v1](http://arxiv.org/abs/2303.17826v1)|null|

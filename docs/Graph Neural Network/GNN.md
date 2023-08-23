@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-22 13:00:13**|**Extracting Relational Triples Based on Graph Recursive Neural Network   via Dynamic Feedback Forest Algorithm**|Hongyin Zhu et.al.|[2308.11411v1](http://arxiv.org/abs/2308.11411v1)|null|
+|**2023-08-22 10:24:42**|**Graph Neural Network-Enhanced Expectation Propagation Algorithm for MIMO   Turbo Receivers**|Xingyu Zhou et.al.|[2308.11335v1](http://arxiv.org/abs/2308.11335v1)|null|
+|**2023-08-22 03:34:18**|**Predicting Transition Temperature of Superconductors with Graph Neural   Networks**|Liang Gu et.al.|[2308.11160v1](http://arxiv.org/abs/2308.11160v1)|null|
+|**2023-08-22 02:51:42**|**Graph Encoding and Neural Network Approaches for Volleyball Analytics:   From Game Outcome to Individual Play Predictions**|Rhys Tracy et.al.|[2308.11142v1](http://arxiv.org/abs/2308.11142v1)|null|
+|**2023-08-22 02:17:34**|**How Expressive are Graph Neural Networks in Recommendation?**|Xuheng Cai et.al.|[2308.11127v1](http://arxiv.org/abs/2308.11127v1)|[link](https://github.com/hkuds/gte)|
+|**2023-08-21 22:26:21**|**Topological Graph Signal Compression**|Guillermo Bernárdez et.al.|[2308.11068v1](http://arxiv.org/abs/2308.11068v1)|null|
 |**2023-08-21 16:48:11**|**Learning in Dynamic Systems and Its Application to Adaptive PID Control**|Omar Makke et.al.|[2308.10851v1](http://arxiv.org/abs/2308.10851v1)|null|
 |**2023-08-21 16:35:19**|**Enhancing Recommender Systems with Large Language Model Reasoning Graphs**|Yan Wang et.al.|[2308.10835v1](http://arxiv.org/abs/2308.10835v1)|null|
 |**2023-08-21 15:57:57**|**Graph Neural Bandits**|Yunzhe Qi et.al.|[2308.10808v1](http://arxiv.org/abs/2308.10808v1)|null|
@@ -26,9 +32,3 @@
 |**2023-08-18 12:14:51**|**Bridged-GNN: Knowledge Bridge Learning for Effective Knowledge Transfer**|Wendong Bi et.al.|[2308.09499v1](http://arxiv.org/abs/2308.09499v1)|null|
 |**2023-08-18 07:07:36**|**Boosting Few-shot Action Recognition with Graph-guided Hybrid Matching**|Jiazheng Xing et.al.|[2308.09346v1](http://arxiv.org/abs/2308.09346v1)|[link](https://github.com/jiazheng-xing/gghm)|
 |**2023-08-18 02:34:37**|**Distribution shift mitigation at test time with performance guarantees**|Rui Ding et.al.|[2308.09259v1](http://arxiv.org/abs/2308.09259v1)|null|
-|**2023-08-18 02:24:32**|**Capacity Bounds for Hyperbolic Neural Network Representations of Latent   Tree Structures**|Anastasis Kratsios et.al.|[2308.09250v1](http://arxiv.org/abs/2308.09250v1)|null|
-|**2023-08-17 22:24:15**|**Half-Hop: A graph upsampling approach for slowing down message passing**|Mehdi Azabou et.al.|[2308.09198v1](http://arxiv.org/abs/2308.09198v1)|[link](https://github.com/nerdslab/halfhop)|
-|**2023-08-17 12:35:02**|**Interpretable Graph Neural Networks for Tabular Data**|Amr Alkhatib et.al.|[2308.08945v1](http://arxiv.org/abs/2308.08945v1)|null|
-|**2023-08-17 07:06:54**|**Mitigating Semantic Confusion from Hostile Neighborhood for Graph Active   Learning**|Tianmeng Yang et.al.|[2308.08823v1](http://arxiv.org/abs/2308.08823v1)|null|
-|**2023-08-17 03:50:37**|**Graph Neural Network Backend for Speaker Recognition**|Liang He et.al.|[2308.08767v1](http://arxiv.org/abs/2308.08767v1)|null|
-|**2023-08-16 18:24:54**|**Group Identification via Transitional Hypergraph Convolution with   Cross-view Self-supervised Learning**|Mingdai Yang et.al.|[2308.08620v1](http://arxiv.org/abs/2308.08620v1)|null|
