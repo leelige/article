@@ -14,10 +14,10 @@
 |**2023-08-23 06:32:14**|**RamseyRL: A Framework for Intelligent Ramsey Number Counterexample   Searching**|Steve Vott et.al.|[2308.11943v1](http://arxiv.org/abs/2308.11943v1)|null|
 |**2023-08-23 06:07:56**|**Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion   based Classification**|Chengguo Yuan et.al.|[2308.11937v1](http://arxiv.org/abs/2308.11937v1)|[link](https://github.com/event-ahu/efv_event_classification)|
 |**2023-08-22 20:50:19**|**Towards Safe Automated Refactoring of Imperative Deep Learning Programs   to Graph Execution**|Raffi Khatchadourian et.al.|[2308.11785v1](http://arxiv.org/abs/2308.11785v1)|null|
-|**2023-08-22 19:51:16**|**Multi-Instance Adversarial Attack on GNN-Based Malicious Domain   Detection**|Mahmoud Nazzal et.al.|[2308.11754v1](http://arxiv.org/abs/2308.11754v1)|null|
+|**2023-08-22 19:51:16**|**Multi-Instance Adversarial Attack on GNN-Based Malicious Domain   Detection**|Mahmoud Nazzal et.al.|[2308.11754v1](http://arxiv.org/abs/2308.11754v1)|[link](https://github.com/mahmoudkanazzal/minta)|
 |**2023-08-22 13:00:13**|**Extracting Relational Triples Based on Graph Recursive Neural Network   via Dynamic Feedback Forest Algorithm**|Hongyin Zhu et.al.|[2308.11411v1](http://arxiv.org/abs/2308.11411v1)|null|
 |**2023-08-22 10:24:42**|**Graph Neural Network-Enhanced Expectation Propagation Algorithm for MIMO   Turbo Receivers**|Xingyu Zhou et.al.|[2308.11335v1](http://arxiv.org/abs/2308.11335v1)|null|
-|**2023-08-22 03:34:18**|**Predicting Transition Temperature of Superconductors with Graph Neural   Networks**|Liang Gu et.al.|[2308.11160v3](http://arxiv.org/abs/2308.11160v3)|null|
+|**2023-08-22 03:34:18**|**Predicting Transition Temperature of Superconductors with Graph Neural   Networks**|Liang Gu et.al.|[2308.11160v3](http://arxiv.org/abs/2308.11160v3)|[link](https://github.com/glinustb/bsgnn)|
 |**2023-08-22 02:51:42**|**Graph Encoding and Neural Network Approaches for Volleyball Analytics:   From Game Outcome to Individual Play Predictions**|Rhys Tracy et.al.|[2308.11142v1](http://arxiv.org/abs/2308.11142v1)|null|
 |**2023-08-22 02:17:34**|**How Expressive are Graph Neural Networks in Recommendation?**|Xuheng Cai et.al.|[2308.11127v1](http://arxiv.org/abs/2308.11127v1)|[link](https://github.com/hkuds/gte)|
 |**2023-08-21 22:26:21**|**Topological Graph Signal Compression**|Guillermo Bernárdez et.al.|[2308.11068v1](http://arxiv.org/abs/2308.11068v1)|null|
