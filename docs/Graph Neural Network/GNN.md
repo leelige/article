@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-25 17:46:43**|**Unveiling the Role of Message Passing in Dual-Privacy Preservation on   GNNs**|Tianyi Zhao et.al.|[2308.13513v1](http://arxiv.org/abs/2308.13513v1)|null|
+|**2023-08-25 16:10:44**|**Staleness-Alleviated Distributed GNN Training via Online   Dynamic-Embedding Prediction**|Guangji Bai et.al.|[2308.13466v1](http://arxiv.org/abs/2308.13466v1)|null|
+|**2023-08-25 07:15:58**|**Physics-Inspired Neural Graph ODE for Long-term Dynamical Simulation**|Yang Liu et.al.|[2308.13212v1](http://arxiv.org/abs/2308.13212v1)|null|
+|**2023-08-24 20:32:57**|**SurGNN: Explainable visual scene understanding and assessment of   surgical skill using graph neural networks**|Shuja Khalid et.al.|[2308.13073v1](http://arxiv.org/abs/2308.13073v1)|[link](https://github.com/<redacted>)|
+|**2023-08-24 19:00:26**|**The intersection of video capsule endoscopy and artificial intelligence:   addressing unique challenges using machine learning**|Shan Guleria et.al.|[2308.13035v1](http://arxiv.org/abs/2308.13035v1)|null|
 |**2023-08-24 12:27:03**|**Asymmetric Co-Training with Explainable Cell Graph Ensembling for   Histopathological Image Classification**|Ziqi Yang et.al.|[2308.12737v1](http://arxiv.org/abs/2308.12737v1)|null|
 |**2023-08-24 07:50:51**|**Hydrogen jet diffusion modeling by using physics-informed graph neural   network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621v1](http://arxiv.org/abs/2308.12621v1)|null|
 |**2023-08-24 05:26:56**|**Hypergraph Convolutional Networks for Fine-grained ICU Patient   Similarity Analysis and Risk Prediction**|Yuxi Liu et.al.|[2308.12575v1](http://arxiv.org/abs/2308.12575v1)|null|
@@ -27,8 +32,3 @@
 |**2023-08-21 15:09:51**|**Spear and Shield: Adversarial Attacks and Defense Methods for   Model-Based Link Prediction on Continuous-Time Dynamic Graphs**|Dongjin Lee et.al.|[2308.10779v1](http://arxiv.org/abs/2308.10779v1)|null|
 |**2023-08-21 15:09:19**|**A Topology-aware Analysis of Graph Collaborative Filtering**|Daniele Malitesta et.al.|[2308.10778v1](http://arxiv.org/abs/2308.10778v1)|[link](https://github.com/sisinflab/graph-characteristics)|
 |**2023-08-21 14:39:29**|**Comprehensive Molecular Representation from Equivariant Transformer**|Nianze Tao et.al.|[2308.10752v1](http://arxiv.org/abs/2308.10752v1)|[link](https://github.com/augus1999/torch_cmret)|
-|**2023-08-21 14:05:21**|**UGSL: A Unified Framework for Benchmarking Graph Structure Learning**|Bahare Fatemi et.al.|[2308.10737v1](http://arxiv.org/abs/2308.10737v1)|[link](https://github.com/google-research/google-research)|
-|**2023-08-21 10:18:26**|**ST-RAP: A Spatio-Temporal Framework for Real Estate Appraisal**|Hojoon Lee et.al.|[2308.10609v1](http://arxiv.org/abs/2308.10609v1)|[link](https://github.com/dojeon-ai/strap)|
-|**2023-08-21 03:13:38**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v1](http://arxiv.org/abs/2308.10436v1)|[link](https://github.com/nhuang37/approx_equivariant_graph_nets)|
-|**2023-08-20 16:59:17**|**Hyper Association Graph Matching with Uncertainty Quantification for   Coronary Artery Semantic Labeling**|Chen Zhao et.al.|[2308.10320v1](http://arxiv.org/abs/2308.10320v1)|null|
-|**2023-08-20 15:55:45**|**Preserving Specificity in Federated Graph Learning for fMRI-based   Neurological Disorder Identification**|Junhao Zhang et.al.|[2308.10302v1](http://arxiv.org/abs/2308.10302v1)|null|
