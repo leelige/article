@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-29 17:44:02**|**A Comparative Study of Loss Functions: Traffic Predictions in Regular   and Congestion Scenarios**|Yangxinyu Xie et.al.|[2308.15464v1](http://arxiv.org/abs/2308.15464v1)|[link](https://github.com/xieyangxinyu/a-comparative-study-of-loss-functions-traffic-predictions-in-regular-and-congestion-scenarios)|
+|**2023-08-29 08:04:45**|**How Faithful are Self-Explainable GNNs?**|Marc Christiansen et.al.|[2308.15096v1](http://arxiv.org/abs/2308.15096v1)|null|
+|**2023-08-29 00:25:02**|**Low-bit Quantization for Deep Graph Neural Networks with   Smoothness-aware Message Propagation**|Shuang Wang et.al.|[2308.14949v1](http://arxiv.org/abs/2308.14949v1)|null|
+|**2023-08-28 22:29:57**|**Matbench Discovery -- An evaluation framework for machine learning   crystal stability prediction**|Janosh Riebesell et.al.|[2308.14920v1](http://arxiv.org/abs/2308.14920v1)|null|
 |**2023-08-28 15:19:18**|**Edge Generation Scheduling for DAG Tasks using Deep Reinforcement   Learning**|Binqi Sun et.al.|[2308.14647v1](http://arxiv.org/abs/2308.14647v1)|null|
 |**2023-08-28 14:12:25**|**Fairness Through Domain Awareness: Mitigating Popularity Bias For Music   Discovery**|Rebecca Salganik et.al.|[2308.14601v1](http://arxiv.org/abs/2308.14601v1)|null|
 |**2023-08-28 13:04:52**|**Deep graphical regression for jointly moderate and extreme Australian   wildfires**|Daniela Cisneros et.al.|[2308.14547v1](http://arxiv.org/abs/2308.14547v1)|null|
@@ -28,7 +32,3 @@
 |**2023-08-23 12:27:55**|**Cached Operator Reordering: A Unified View for Fast GNN Training**|Julia Bazinska et.al.|[2308.12093v1](http://arxiv.org/abs/2308.12093v1)|null|
 |**2023-08-23 09:20:38**|**Graph Neural Stochastic Differential Equations**|Richard Bergna et.al.|[2308.12316v1](http://arxiv.org/abs/2308.12316v1)|null|
 |**2023-08-23 07:57:45**|**Will More Expressive Graph Neural Networks do Better on Generative   Tasks?**|Xiandong Zou et.al.|[2308.11978v1](http://arxiv.org/abs/2308.11978v1)|null|
-|**2023-08-23 06:49:07**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v2](http://arxiv.org/abs/2308.11951v2)|null|
-|**2023-08-23 06:32:14**|**RamseyRL: A Framework for Intelligent Ramsey Number Counterexample   Searching**|Steve Vott et.al.|[2308.11943v1](http://arxiv.org/abs/2308.11943v1)|null|
-|**2023-08-23 06:07:56**|**Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion   based Classification**|Chengguo Yuan et.al.|[2308.11937v1](http://arxiv.org/abs/2308.11937v1)|[link](https://github.com/event-ahu/efv_event_classification)|
-|**2023-08-22 20:50:19**|**Towards Safe Automated Refactoring of Imperative Deep Learning Programs   to Graph Execution**|Raffi Khatchadourian et.al.|[2308.11785v1](http://arxiv.org/abs/2308.11785v1)|null|
