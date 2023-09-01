@@ -2,9 +2,20 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-31 17:05:14**|**Self-pruning Graph Neural Network for Predicting Inflammatory Disease   Activity in Multiple Sclerosis from Brain MR Images**|Chinmay Prabhakar et.al.|[2308.16863v1](http://arxiv.org/abs/2308.16863v1)|[link](https://github.com/chinmay5/ms_ida)|
+|**2023-08-31 15:22:31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural   Networks**|Andreas Roth et.al.|[2308.16800v1](http://arxiv.org/abs/2308.16800v1)|null|
+|**2023-08-31 14:54:06**|**Efficacy of Neural Prediction-Based NAS for Zero-Shot NAS Paradigm**|Minh Le et.al.|[2308.16775v1](http://arxiv.org/abs/2308.16775v1)|[link](https://github.com/minh1409/dft-npzs-nas)|
+|**2023-08-31 14:27:36**|**Constructing Indoor Region-based Radio Map without Location Labels**|Zheng Xing et.al.|[2308.16759v1](http://arxiv.org/abs/2308.16759v1)|null|
+|**2023-08-31 13:57:38**|**Parsing is All You Need for Accurate Gait Recognition in the Wild**|Jinkai Zheng et.al.|[2308.16739v1](http://arxiv.org/abs/2308.16739v1)|null|
+|**2023-08-31 09:34:38**|**Learning to Represent Patches**|Xunzhu Tang et.al.|[2308.16586v1](http://arxiv.org/abs/2308.16586v1)|null|
+|**2023-08-31 08:00:08**|**Curvature-based Pooling within Graph Neural Networks**|Cedric Sanders et.al.|[2308.16516v1](http://arxiv.org/abs/2308.16516v1)|[link](https://gitlab.com/cedric_sanders/masterarbeit)|
+|**2023-08-31 05:26:08**|**Domain-adaptive Message Passing Graph Neural Network**|Xiao Shen et.al.|[2308.16470v1](http://arxiv.org/abs/2308.16470v1)|[link](https://github.com/shenxiaocam/dm_gnn)|
+|**2023-08-31 02:20:25**|**CktGNN: Circuit Graph Neural Network for Electronic Design Automation**|Zehao Dong et.al.|[2308.16406v1](http://arxiv.org/abs/2308.16406v1)|[link](https://github.com/zehao-dong/CktGNN)|
+|**2023-08-31 01:03:27**|**BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural   Networks**|Qiang Huang et.al.|[2308.16385v1](http://arxiv.org/abs/2308.16385v1)|[link](https://github.com/qianghuangwhu/benchtemp)|
+|**2023-08-31 00:31:08**|**A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and   Applications**|Yi Zhang et.al.|[2308.16375v1](http://arxiv.org/abs/2308.16375v1)|null|
 |**2023-08-30 16:21:02**|**Spatial Graph Coarsening: Weather and Weekday Prediction with London's   Bike-Sharing Service using GNN**|Yuta Sato et.al.|[2308.16122v1](http://arxiv.org/abs/2308.16122v1)|null|
 |**2023-08-30 12:13:13**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984v1](http://arxiv.org/abs/2308.15984v1)|null|
-|**2023-08-30 12:09:18**|**Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems**|Hengchang Hu et.al.|[2308.15980v1](http://arxiv.org/abs/2308.15980v1)|null|
+|**2023-08-30 12:09:18**|**Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems**|Hengchang Hu et.al.|[2308.15980v1](http://arxiv.org/abs/2308.15980v1)|[link](https://github.com/holdenhu/mmsr)|
 |**2023-08-30 08:21:56**|**MSGNN: Multi-scale Spatio-temporal Graph Neural Network for Epidemic   Forecasting**|Mingjie Qiu et.al.|[2308.15840v1](http://arxiv.org/abs/2308.15840v1)|null|
 |**2023-08-30 03:21:45**|**Efficient and Explainable Graph Neural Architecture Search via   Monte-Carlo Tree Search**|Yuya Sasaki et.al.|[2308.15734v1](http://arxiv.org/abs/2308.15734v1)|null|
 |**2023-08-30 02:08:52**|**Representing the Disciplinary Structure of Physics: A Comparative   Evaluation of Graph and Text Embedding Methods**|Isabel Constantino et.al.|[2308.15706v1](http://arxiv.org/abs/2308.15706v1)|null|
@@ -21,14 +32,3 @@
 |**2023-08-28 22:29:57**|**Matbench Discovery -- An evaluation framework for machine learning   crystal stability prediction**|Janosh Riebesell et.al.|[2308.14920v1](http://arxiv.org/abs/2308.14920v1)|[link](https://github.com/janosh/matbench-discovery)|
 |**2023-08-28 15:19:18**|**Edge Generation Scheduling for DAG Tasks using Deep Reinforcement   Learning**|Binqi Sun et.al.|[2308.14647v1](http://arxiv.org/abs/2308.14647v1)|null|
 |**2023-08-28 14:12:25**|**Fairness Through Domain Awareness: Mitigating Popularity Bias For Music   Discovery**|Rebecca Salganik et.al.|[2308.14601v1](http://arxiv.org/abs/2308.14601v1)|null|
-|**2023-08-28 13:04:52**|**Deep graphical regression for jointly moderate and extreme Australian   wildfires**|Daniela Cisneros et.al.|[2308.14547v1](http://arxiv.org/abs/2308.14547v1)|null|
-|**2023-08-28 10:51:11**|**Multimodal Detection of Social Spambots in Twitter using Transformers**|Loukas Ilias et.al.|[2308.14484v1](http://arxiv.org/abs/2308.14484v1)|null|
-|**2023-08-28 07:50:04**|**GKGNet: Group K-Nearest Neighbor based Graph Convolutional Network for   Multi-Label Image Recognition**|Ruijie Yao et.al.|[2308.14378v1](http://arxiv.org/abs/2308.14378v1)|null|
-|**2023-08-28 07:03:08**|**Can Transformer and GNN Help Each Other?**|Peiyan Zhang et.al.|[2308.14355v1](http://arxiv.org/abs/2308.14355v1)|null|
-|**2023-08-28 06:32:09**|**HRGCN: Heterogeneous Graph-level Anomaly Detection with Hierarchical   Relation-augmented Graph Neural Networks**|Jiaxi Li et.al.|[2308.14340v1](http://arxiv.org/abs/2308.14340v1)|[link](https://github.com/jiaxililearn/hrgcn)|
-|**2023-08-27 01:19:19**|**Universal Graph Continual Learning**|Thanh Duc Hoang et.al.|[2308.13982v1](http://arxiv.org/abs/2308.13982v1)|null|
-|**2023-08-27 00:57:01**|**Understanding the Usage of QUBO-based Hamiltonian Function in   Combinatorial Optimization over Graphs: A Discussion Using Max Cut (MC)   Problem**|Redwan Ahmed Rizvee et.al.|[2308.13978v1](http://arxiv.org/abs/2308.13978v1)|null|
-|**2023-08-26 14:52:02**|**Memory-aware Scheduling for Complex Wired Networks with Iterative Graph   Optimization**|Shuzhang Zhong et.al.|[2308.13898v1](http://arxiv.org/abs/2308.13898v1)|null|
-|**2023-08-26 13:05:01**|**Graph Edit Distance Learning via Different Attention**|Jiaxi Lv et.al.|[2308.13871v1](http://arxiv.org/abs/2308.13871v1)|null|
-|**2023-08-26 11:10:54**|**Effectively Heterogeneous Federated Learning: A Pairing and Split   Learning Based Approach**|Jinglong Shen et.al.|[2308.13849v1](http://arxiv.org/abs/2308.13849v1)|null|
-|**2023-08-26 02:42:12**|**MST-compression: Compressing and Accelerating Binary Neural Networks   with Minimum Spanning Tree**|Quang Hieu Vo et.al.|[2308.13735v1](http://arxiv.org/abs/2308.13735v1)|null|
