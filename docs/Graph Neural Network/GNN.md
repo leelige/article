@@ -12,7 +12,7 @@
 |**2023-08-31 15:22:31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural   Networks**|Andreas Roth et.al.|[2308.16800v1](http://arxiv.org/abs/2308.16800v1)|[link](https://github.com/roth-andreas/rank_collapse)|
 |**2023-08-31 14:54:06**|**Efficacy of Neural Prediction-Based NAS for Zero-Shot NAS Paradigm**|Minh Le et.al.|[2308.16775v1](http://arxiv.org/abs/2308.16775v1)|[link](https://github.com/minh1409/dft-npzs-nas)|
 |**2023-08-31 14:27:36**|**Constructing Indoor Region-based Radio Map without Location Labels**|Zheng Xing et.al.|[2308.16759v1](http://arxiv.org/abs/2308.16759v1)|null|
-|**2023-08-31 13:57:38**|**Parsing is All You Need for Accurate Gait Recognition in the Wild**|Jinkai Zheng et.al.|[2308.16739v1](http://arxiv.org/abs/2308.16739v1)|null|
+|**2023-08-31 13:57:38**|**Parsing is All You Need for Accurate Gait Recognition in the Wild**|Jinkai Zheng et.al.|[2308.16739v1](http://arxiv.org/abs/2308.16739v1)|[link](https://github.com/Gait3D/Gait3D-Benchmark)|
 |**2023-08-31 09:34:38**|**Learning to Represent Patches**|Xunzhu Tang et.al.|[2308.16586v1](http://arxiv.org/abs/2308.16586v1)|null|
 |**2023-08-31 08:00:08**|**Curvature-based Pooling within Graph Neural Networks**|Cedric Sanders et.al.|[2308.16516v1](http://arxiv.org/abs/2308.16516v1)|[link](https://gitlab.com/cedric_sanders/masterarbeit)|
 |**2023-08-31 05:26:08**|**Domain-adaptive Message Passing Graph Neural Network**|Xiao Shen et.al.|[2308.16470v1](http://arxiv.org/abs/2308.16470v1)|[link](https://github.com/shenxiaocam/dm_gnn)|
