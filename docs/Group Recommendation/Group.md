@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-05 02:15:08**|**Inferring Actual Treatment Pathways from Patient Records**|Adrian Wilkins-Caruana et.al.|[2309.01897v1](http://arxiv.org/abs/2309.01897v1)|null|
+|**2023-09-04 03:34:54**|**In-processing User Constrained Dominant Sets for User-Oriented Fairness   in Recommender Systems**|Zhongxuan Han et.al.|[2309.01335v1](http://arxiv.org/abs/2309.01335v1)|null|
 |**2023-08-30 23:42:07**|**Strengthening the EU AI Act: Defining Key Terms on AI Manipulation**|Matija Franklin et.al.|[2308.16364v1](http://arxiv.org/abs/2308.16364v1)|null|
 |**2023-08-29 22:03:17**|**Ensuring User-side Fairness in Dynamic Recommender Systems**|Hyunsik Yoo et.al.|[2308.15651v1](http://arxiv.org/abs/2308.15651v1)|null|
 |**2023-08-28 16:58:44**|**TRIVEA: Transparent Ranking Interpretation using Visual Explanation of   Black-Box Algorithmic Rankers**|Jun Yuan et.al.|[2308.14622v1](http://arxiv.org/abs/2308.14622v1)|null|
@@ -30,5 +32,3 @@
 |**2023-07-21 01:57:51**|**A First Look at Fairness of Machine Learning Based Code Reviewer   Recommendation**|Mohammad Mahdi Mohajer et.al.|[2307.11298v1](http://arxiv.org/abs/2307.11298v1)|null|
 |**2023-07-20 12:41:39**|**Ride-pooling service assessment with rational, heterogeneous,   non-deterministic travellers**|Michal Bujak et.al.|[2307.10827v1](http://arxiv.org/abs/2307.10827v1)|null|
 |**2023-07-18 17:22:19**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447v1](http://arxiv.org/abs/2307.09447v1)|[link](https://github.com/knodis-research-group/dl-cf-groups-deep-aggregation)|
-|**2023-07-18 03:53:19**|**Data sharing and ontology use among agricultural genetics, genomics, and   breeding databases and resources of the AgBioData Consortium**|Jennifer L. Clarke et.al.|[2307.08958v1](http://arxiv.org/abs/2307.08958v1)|null|
-|**2023-07-17 02:28:19**|**A randomization-based theory for preliminary testing of covariate   balance in controlled trials**|Anqi Zhao et.al.|[2307.08203v1](http://arxiv.org/abs/2307.08203v1)|null|

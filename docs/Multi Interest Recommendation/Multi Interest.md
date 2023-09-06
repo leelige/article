@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-03 06:56:45**|**Multi-Relational Contrastive Learning for Recommendation**|Wei Wei et.al.|[2309.01103v1](http://arxiv.org/abs/2309.01103v1)|null|
 |**2023-08-30 07:53:27**|**DRGame: Diversified Recommendation for Multi-category Video Games with   Balanced Implicit Preferences**|Kangzhe Liu et.al.|[2308.15823v1](http://arxiv.org/abs/2308.15823v1)|null|
 |**2023-08-30 01:54:48**|**A Survey on Multi-Behavior Sequential Recommendation**|Xiaoqing Chen et.al.|[2308.15701v1](http://arxiv.org/abs/2308.15701v1)|null|
 |**2023-08-28 03:15:37**|**Alleviating Video-Length Effect for Micro-video Recommendation**|Yuhan Quan et.al.|[2308.14276v2](http://arxiv.org/abs/2308.14276v2)|null|
@@ -31,4 +32,3 @@
 |**2023-05-03 06:14:31**|**Denoising Multi-modal Sequential Recommenders with Contrastive Learning**|Dong Yao et.al.|[2305.01915v1](http://arxiv.org/abs/2305.01915v1)|null|
 |**2023-04-28 08:00:04**|**Ensemble Modeling with Contrastive Knowledge Distillation for Sequential   Recommendation**|Hanwen Du et.al.|[2304.14668v3](http://arxiv.org/abs/2304.14668v3)|[link](https://github.com/hw-du/emkd)|
 |**2023-04-17 19:00:55**|**CAM2: Conformity-Aware Multi-Task Ranking Model for Large-Scale   Recommender Systems**|Ameya Raul et.al.|[2304.08562v1](http://arxiv.org/abs/2304.08562v1)|null|
-|**2023-04-17 09:18:45**|**Transformer-based Graph Neural Networks for Outfit Generation**|Federico Becattini et.al.|[2304.08098v1](http://arxiv.org/abs/2304.08098v1)|null|
