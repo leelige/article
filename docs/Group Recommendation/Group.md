@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-06 23:45:09**|**The Role of Communication and Reference Songs in the Mixing Process:   Insights from Professional Mix Engineers**|Soumya Sai Vanka et.al.|[2309.03404v1](http://arxiv.org/abs/2309.03404v1)|null|
 |**2023-09-05 02:15:08**|**Inferring Actual Treatment Pathways from Patient Records**|Adrian Wilkins-Caruana et.al.|[2309.01897v1](http://arxiv.org/abs/2309.01897v1)|null|
 |**2023-09-04 03:34:54**|**In-processing User Constrained Dominant Sets for User-Oriented Fairness   in Recommender Systems**|Zhongxuan Han et.al.|[2309.01335v1](http://arxiv.org/abs/2309.01335v1)|null|
 |**2023-08-30 23:42:07**|**Strengthening the EU AI Act: Defining Key Terms on AI Manipulation**|Matija Franklin et.al.|[2308.16364v1](http://arxiv.org/abs/2308.16364v1)|null|
@@ -31,4 +32,3 @@
 |**2023-07-22 10:03:32**|**Conformal Group Recommender System**|Venkateswara Rao Kagita et.al.|[2307.12034v1](http://arxiv.org/abs/2307.12034v1)|null|
 |**2023-07-21 01:57:51**|**A First Look at Fairness of Machine Learning Based Code Reviewer   Recommendation**|Mohammad Mahdi Mohajer et.al.|[2307.11298v1](http://arxiv.org/abs/2307.11298v1)|null|
 |**2023-07-20 12:41:39**|**Ride-pooling service assessment with rational, heterogeneous,   non-deterministic travellers**|Michal Bujak et.al.|[2307.10827v1](http://arxiv.org/abs/2307.10827v1)|null|
-|**2023-07-18 17:22:19**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447v1](http://arxiv.org/abs/2307.09447v1)|[link](https://github.com/knodis-research-group/dl-cf-groups-deep-aggregation)|
