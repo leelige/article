@@ -2,6 +2,9 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-08 13:59:18**|**Graph Neural Networks Use Graphs When They Shouldn't**|Maya Bechler-Speicher et.al.|[2309.04332v1](http://arxiv.org/abs/2309.04332v1)|null|
+|**2023-09-08 07:53:21**|**A Long-Tail Friendly Representation Framework for Artist and Music   Similarity**|Haoran Xiang et.al.|[2309.04182v1](http://arxiv.org/abs/2309.04182v1)|null|
+|**2023-09-08 02:44:37**|**Curve Your Attention: Mixed-Curvature Transformers for Graph   Representation Learning**|Sungjun Cho et.al.|[2309.04082v1](http://arxiv.org/abs/2309.04082v1)|null|
 |**2023-09-07 15:24:18**|**Extending Transductive Knowledge Graph Embedding Models for Inductive   Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773v1](http://arxiv.org/abs/2309.03773v1)|null|
 |**2023-09-07 11:29:16**|**Characterizing Lipschitz Stability of GNN for Fairness**|Yaning Jia et.al.|[2309.03648v1](http://arxiv.org/abs/2309.03648v1)|null|
 |**2023-09-07 10:18:36**|**Filtration Surfaces for Dynamic Graph Classification**|Franz Srambical et.al.|[2309.03616v1](http://arxiv.org/abs/2309.03616v1)|null|
@@ -12,6 +15,7 @@
 |**2023-09-06 17:09:43**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical   Graph Attention Approach**|Dong Li et.al.|[2309.03169v2](http://arxiv.org/abs/2309.03169v2)|null|
 |**2023-09-06 16:24:26**|**Using Multiple Vector Channels Improves E(n)-Equivariant Graph Neural   Networks**|Daniel Levy et.al.|[2309.03139v1](http://arxiv.org/abs/2309.03139v1)|null|
 |**2023-09-06 15:55:01**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from   Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
+|**2023-09-06 11:56:33**|**A hybrid quantum-classical fusion neural network to improve   protein-ligand binding affinity predictions for drug discovery**|S. Banerjee et.al.|[2309.03919v1](http://arxiv.org/abs/2309.03919v1)|null|
 |**2023-09-06 11:33:25**|**Patched Line Segment Learning for Vector Road Mapping**|Jiakun Xu et.al.|[2309.02923v1](http://arxiv.org/abs/2309.02923v1)|null|
 |**2023-09-06 09:12:52**|**Prompt-based Node Feature Extractor for Few-shot Learning on   Text-Attributed Graphs**|Xuanwen Huang et.al.|[2309.02848v1](http://arxiv.org/abs/2309.02848v1)|null|
 |**2023-09-06 06:22:18**|**Unifying over-smoothing and over-squashing in graph neural networks: A   physics informed approach and beyond**|Zhiqi Shao et.al.|[2309.02769v1](http://arxiv.org/abs/2309.02769v1)|null|
@@ -28,7 +32,3 @@
 |**2023-09-05 08:32:07**|**Diffusion Generative Inverse Design**|Marin Vlastelica et.al.|[2309.02040v1](http://arxiv.org/abs/2309.02040v1)|null|
 |**2023-09-05 07:48:52**|**iLoRE: Dynamic Graph Representation with Instant Long-term Modeling and   Re-occurrence Preservation**|Siwei Zhang et.al.|[2309.02012v1](http://arxiv.org/abs/2309.02012v1)|null|
 |**2023-09-05 05:55:18**|**VFFINDER: A Graph-based Approach for Automated Silent Vulnerability-Fix   Identification**|Son Nguyen et.al.|[2309.01971v1](http://arxiv.org/abs/2309.01971v1)|null|
-|**2023-09-04 19:59:51**|**Hierarchical Grammar-Induced Geometry for Data-Efficient Molecular   Property Prediction**|Minghao Guo et.al.|[2309.01788v1](http://arxiv.org/abs/2309.01788v1)|[link](https://github.com/gmh14/Geo-DEG)|
-|**2023-09-04 16:35:04**|**On the Robustness of Post-hoc GNN Explainers to Label Noise**|Zhiqiang Zhong et.al.|[2309.01706v1](http://arxiv.org/abs/2309.01706v1)|null|
-|**2023-09-04 10:23:39**|**Layer-wise training for self-supervised learning on graphs**|Oscar Pina et.al.|[2309.01503v1](http://arxiv.org/abs/2309.01503v1)|null|
-|**2023-09-04 09:01:56**|**Effective Multi-Graph Neural Networks for Illicit Account Detection on   Cryptocurrency Transaction Networks**|Zhihao Ding et.al.|[2309.02460v1](http://arxiv.org/abs/2309.02460v1)|null|
