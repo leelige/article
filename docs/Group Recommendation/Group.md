@@ -2,6 +2,11 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-12 03:39:24**|**End-to-End Testing of Open-Source Hardware Documentation Developed in   Large Collaborations**|Melinda Yuan et.al.|[2309.05942v1](http://arxiv.org/abs/2309.05942v1)|null|
+|**2023-09-12 03:08:21**|**Workshop on a future muon program at FNAL**|S. Corrodi et.al.|[2309.05933v1](http://arxiv.org/abs/2309.05933v1)|null|
+|**2023-09-12 00:34:02**|**Distributionally-Informed Recommender System Evaluation**|Michael D. Ekstrand et.al.|[2309.05892v1](http://arxiv.org/abs/2309.05892v1)|null|
+|**2023-09-11 20:06:00**|**Enhancing Hyperedge Prediction with Context-Aware Self-Supervised   Learning**|Yunyong Ko et.al.|[2309.05798v1](http://arxiv.org/abs/2309.05798v1)|[link](https://github.com/yy-ko/cash)|
+|**2023-09-10 11:34:29**|**Computational Approaches for Predicting Drug-Disease Associations: A   Comprehensive Review**|Chunyan Ao et.al.|[2309.06388v1](http://arxiv.org/abs/2309.06388v1)|null|
 |**2023-09-06 23:45:09**|**The Role of Communication and Reference Songs in the Mixing Process:   Insights from Professional Mix Engineers**|Soumya Sai Vanka et.al.|[2309.03404v2](http://arxiv.org/abs/2309.03404v2)|null|
 |**2023-09-06 09:43:34**|**A recommender for the management of chronic pain in patients undergoing   spinal cord stimulation**|Tigran Tchrakian et.al.|[2309.03918v1](http://arxiv.org/abs/2309.03918v1)|null|
 |**2023-09-05 02:15:08**|**Inferring Actual Treatment Pathways from Patient Records**|Adrian Wilkins-Caruana et.al.|[2309.01897v1](http://arxiv.org/abs/2309.01897v1)|null|
@@ -27,8 +32,3 @@
 |**2023-08-04 04:12:33**|**Auditing Yelp's Business Ranking and Review Recommendation Through the   Lens of Fairness**|Mohit Singhal et.al.|[2308.02129v1](http://arxiv.org/abs/2308.02129v1)|[link](https://github.com/msinghal10/yelp-unfairness)|
 |**2023-08-03 21:12:54**|**The Unequal Opportunities of Large Language Models: Revealing   Demographic Bias through Job Recommendations**|Abel Salinas et.al.|[2308.02053v1](http://arxiv.org/abs/2308.02053v1)|null|
 |**2023-07-29 03:04:22**|**GraphDAC: A Graph-Analytic Approach to Dynamic Airspace Configuration**|Ke Feng et.al.|[2307.15876v1](http://arxiv.org/abs/2307.15876v1)|[link](https://github.com/kefenge2022/graphdac)|
-|**2023-07-28 20:48:59**|**Gender Inclusive Methods in Studies of STEM Practitioners**|Kaitlin Rasmussen et.al.|[2307.15802v1](http://arxiv.org/abs/2307.15802v1)|null|
-|**2023-07-26 02:24:23**|**Domain Disentanglement with Interpolative Data Augmentation for   Dual-Target Cross-Domain Recommendation**|Jiajie Zhu et.al.|[2307.13910v1](http://arxiv.org/abs/2307.13910v1)|null|
-|**2023-07-25 16:35:50**|**Exact Methods of Homogeneity Test of Proportions for Bilateral and   Unilateral Correlated Data**|Shuyi Liang et.al.|[2307.13634v1](http://arxiv.org/abs/2307.13634v1)|null|
-|**2023-07-22 10:03:32**|**Conformal Group Recommender System**|Venkateswara Rao Kagita et.al.|[2307.12034v1](http://arxiv.org/abs/2307.12034v1)|null|
-|**2023-07-21 01:57:51**|**A First Look at Fairness of Machine Learning Based Code Reviewer   Recommendation**|Mohammad Mahdi Mohajer et.al.|[2307.11298v1](http://arxiv.org/abs/2307.11298v1)|null|

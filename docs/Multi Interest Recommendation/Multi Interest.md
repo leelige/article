@@ -4,8 +4,8 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-09-09 14:07:11**|**CPMR: Context-Aware Incremental Sequential Recommendation with   Pseudo-Multi-Task Learning**|Qingtian Bian et.al.|[2309.04802v1](http://arxiv.org/abs/2309.04802v1)|[link](https://github.com/dimarziobian/cpmr)|
 |**2023-09-08 02:54:31**|**Sample-Efficient Co-Design of Robotic Agents Using Multi-fidelity   Training on Universal Policy Network**|Kishan R. Nagiredla et.al.|[2309.04085v1](http://arxiv.org/abs/2309.04085v1)|null|
-|**2023-09-06 15:40:33**|**FArMARe: a Furniture-Aware Multi-task methodology for Recommending   Apartments based on the user interests**|Ali Abdari et.al.|[2309.03100v1](http://arxiv.org/abs/2309.03100v1)|null|
-|**2023-09-03 06:56:45**|**Multi-Relational Contrastive Learning for Recommendation**|Wei Wei et.al.|[2309.01103v1](http://arxiv.org/abs/2309.01103v1)|null|
+|**2023-09-06 15:40:33**|**FArMARe: a Furniture-Aware Multi-task methodology for Recommending   Apartments based on the user interests**|Ali Abdari et.al.|[2309.03100v1](http://arxiv.org/abs/2309.03100v1)|[link](https://github.com/aliabdari/farmare)|
+|**2023-09-03 06:56:45**|**Multi-Relational Contrastive Learning for Recommendation**|Wei Wei et.al.|[2309.01103v1](http://arxiv.org/abs/2309.01103v1)|[link](https://github.com/HKUDS/RCL)|
 |**2023-08-30 07:53:27**|**DRGame: Diversified Recommendation for Multi-category Video Games with   Balanced Implicit Preferences**|Kangzhe Liu et.al.|[2308.15823v1](http://arxiv.org/abs/2308.15823v1)|null|
 |**2023-08-30 01:54:48**|**A Survey on Multi-Behavior Sequential Recommendation**|Xiaoqing Chen et.al.|[2308.15701v1](http://arxiv.org/abs/2308.15701v1)|null|
 |**2023-08-28 03:15:37**|**Alleviating Video-Length Effect for Micro-video Recommendation**|Yuhan Quan et.al.|[2308.14276v2](http://arxiv.org/abs/2308.14276v2)|null|
