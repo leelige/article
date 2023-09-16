@@ -21,7 +21,7 @@
 |**2023-09-12 23:54:24**|**Bregman Graph Neural Network**|Jiayu Zhai et.al.|[2309.06645v1](http://arxiv.org/abs/2309.06645v1)|[link](https://github.com/jiayuzhai1207/bregmangnn)|
 |**2023-09-12 20:12:08**|**Explainable Graph Neural Network for Alzheimer's Disease And Related   Dementias Risk Prediction**|Xinyue Hu et.al.|[2309.06584v1](http://arxiv.org/abs/2309.06584v1)|null|
 |**2023-09-12 19:19:47**|**Automatic quantification of abdominal subcutaneous and visceral adipose   tissue in children, through MRI study, using total intensity maps and   Convolutional Neural Networks**|José Gerardo Suárez-García et.al.|[2309.06535v1](http://arxiv.org/abs/2309.06535v1)|null|
-|**2023-09-12 19:11:31**|**Bayesian topology inference on partially known networks from   input-output pairs**|Martín Sevilla et.al.|[2309.06532v1](http://arxiv.org/abs/2309.06532v1)|null|
+|**2023-09-12 19:11:31**|**Bayesian topology inference on partially known networks from   input-output pairs**|Martín Sevilla et.al.|[2309.06532v1](http://arxiv.org/abs/2309.06532v1)|[link](https://github.com/tenceto/inference_langevin)|
 |**2023-09-12 17:40:23**|**Accelerating Defect Predictions in Semiconductors Using Graph Neural   Networks**|Md Habibur Rahman et.al.|[2309.06423v2](http://arxiv.org/abs/2309.06423v2)|[link](https://github.com/msehabibur/defect_gnn_gen_1)|
 |**2023-09-12 16:13:10**|**Band-gap regression with architecture-optimized message-passing neural   networks**|Tim Bechtel et.al.|[2309.06348v1](http://arxiv.org/abs/2309.06348v1)|[link](https://github.com/tisabe/jraph_mpeu)|
 |**2023-09-12 14:43:47**|**Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion   Model**|Yin Wang et.al.|[2309.06284v1](http://arxiv.org/abs/2309.06284v1)|null|
