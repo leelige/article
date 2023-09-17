@@ -8,7 +8,7 @@
 |**2023-09-14 06:25:39**|**SC-MAD: Mixtures of Higher-order Networks for Data Augmentation**|Madeline Navarro et.al.|[2309.07453v1](http://arxiv.org/abs/2309.07453v1)|null|
 |**2023-09-14 06:24:33**|**Is Solving Graph Neural Tangent Kernel Equivalent to Training Graph   Neural Network?**|Lianke Qin et.al.|[2309.07452v1](http://arxiv.org/abs/2309.07452v1)|null|
 |**2023-09-14 03:04:06**|**HIGT: Hierarchical Interaction Graph-Transformer for Whole Slide Image   Analysis**|Ziyu Guo et.al.|[2309.07400v1](http://arxiv.org/abs/2309.07400v1)|[link](https://github.com/hku-medai/higt)|
-|**2023-09-14 01:45:41**|**Domain-adaptive Graph Attention-supervised Network for Cross-network   Edge Classification**|Xiao Shen et.al.|[2309.07380v1](http://arxiv.org/abs/2309.07380v1)|null|
+|**2023-09-14 01:45:41**|**Domain-adaptive Graph Attention-supervised Network for Cross-network   Edge Classification**|Xiao Shen et.al.|[2309.07380v1](http://arxiv.org/abs/2309.07380v1)|[link](https://github.com/qqqq-shao/dgasn)|
 |**2023-09-13 16:13:54**|**Deep Quantum Graph Dreaming: Deciphering Neural Network Insights into   Quantum Experiments**|Tareq Jaouni et.al.|[2309.07056v1](http://arxiv.org/abs/2309.07056v1)|null|
 |**2023-09-13 14:08:01**|**Predicting Expressibility of Parameterized Quantum Circuits using Graph   Neural Network**|Shamminuj Aktar et.al.|[2309.06975v1](http://arxiv.org/abs/2309.06975v1)|null|
 |**2023-09-13 13:57:21**|**Attention-based Dynamic Graph Convolutional Recurrent Neural Network for   Traffic Flow Prediction in Highway Transportation**|Tianpu Zhang et.al.|[2309.07196v1](http://arxiv.org/abs/2309.07196v1)|null|
