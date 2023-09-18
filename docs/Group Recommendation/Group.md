@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-15 17:56:33**|**An assessment of racial disparities in pretrial decision-making using   misclassification models**|Kimberly A. Hochstedler Webb et.al.|[2309.08599v1](http://arxiv.org/abs/2309.08599v1)|null|
+|**2023-09-14 18:03:30**|**iHAS: Instance-wise Hierarchical Architecture Search for Deep Learning   Recommendation Models**|Yakun Yu et.al.|[2309.07967v1](http://arxiv.org/abs/2309.07967v1)|null|
 |**2023-09-13 18:04:52**|**ESRO: Experience Assisted Service Reliability against Outages**|Sarthak Chakraborty et.al.|[2309.07230v1](http://arxiv.org/abs/2309.07230v1)|[link](https://github.com/sarthak-chakraborty/esro)|
 |**2023-09-12 03:39:24**|**End-to-End Testing of Open-Source Hardware Documentation Developed in   Large Collaborations**|Melinda Yuan et.al.|[2309.05942v1](http://arxiv.org/abs/2309.05942v1)|null|
 |**2023-09-12 03:08:21**|**Workshop on a future muon program at FNAL**|S. Corrodi et.al.|[2309.05933v1](http://arxiv.org/abs/2309.05933v1)|null|
@@ -30,5 +32,3 @@
 |**2023-08-08 03:24:44**|**Multi-Granularity Attention Model for Group Recommendation**|Jianye Ji et.al.|[2308.04017v1](http://arxiv.org/abs/2308.04017v1)|null|
 |**2023-08-06 10:25:31**|**Predicting Group Choices from Group Profiles**|Hanif Emamgholizadeh et.al.|[2308.03083v1](http://arxiv.org/abs/2308.03083v1)|null|
 |**2023-08-05 14:08:42**|**Group Membership Bias**|Ali Vardasbi et.al.|[2308.02887v1](http://arxiv.org/abs/2308.02887v1)|null|
-|**2023-08-04 04:12:33**|**Auditing Yelp's Business Ranking and Review Recommendation Through the   Lens of Fairness**|Mohit Singhal et.al.|[2308.02129v1](http://arxiv.org/abs/2308.02129v1)|[link](https://github.com/msinghal10/yelp-unfairness)|
-|**2023-08-03 21:12:54**|**The Unequal Opportunities of Large Language Models: Revealing   Demographic Bias through Job Recommendations**|Abel Salinas et.al.|[2308.02053v1](http://arxiv.org/abs/2308.02053v1)|null|
