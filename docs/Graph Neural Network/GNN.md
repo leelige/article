@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-18 16:51:56**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose   Estimation**|Kathia Melbouci et.al.|[2309.09934v1](http://arxiv.org/abs/2309.09934v1)|null|
+|**2023-09-18 16:35:30**|**A Heterogeneous Graph-Based Multi-Task Learning for Fault Event   Diagnosis in Smart Grid**|Dibaloke Chanda et.al.|[2309.09921v1](http://arxiv.org/abs/2309.09921v1)|null|
+|**2023-09-18 14:59:11**|**CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs**|George Drayson et.al.|[2309.09844v1](http://arxiv.org/abs/2309.09844v1)|null|
+|**2023-09-18 06:55:14**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural   Networks**|Qiying Pan et.al.|[2309.09517v1](http://arxiv.org/abs/2309.09517v1)|null|
+|**2023-09-17 21:43:18**|**Mitigating Over-Smoothing and Over-Squashing using Augmentations of   Forman-Ricci Curvature**|Lukas Fesser et.al.|[2309.09384v1](http://arxiv.org/abs/2309.09384v1)|null|
+|**2023-09-17 03:05:13**|**Performance of Graph Neural Networks for Point Cloud Applications**|Dhruv Parikh et.al.|[2309.09142v1](http://arxiv.org/abs/2309.09142v1)|null|
+|**2023-09-16 17:09:13**|**CNS: Correspondence Encoded Neural Image Servo Policy**|Anzhe Chen et.al.|[2309.09047v1](http://arxiv.org/abs/2309.09047v1)|null|
+|**2023-09-16 16:52:49**|**Temporal Smoothness Regularisers for Neural Link Predictors**|Manuel Dileo et.al.|[2309.09045v1](http://arxiv.org/abs/2309.09045v1)|null|
 |**2023-09-15 17:35:51**|**Local Differential Privacy in Graph Neural Networks: a Reconstruction   Approach**|Karuna Bhaila et.al.|[2309.08569v1](http://arxiv.org/abs/2309.08569v1)|[link](https://github.com/karuna-bhaila/rgnn)|
 |**2023-09-15 15:44:09**|**XFedHunter: An Explainable Federated Learning Framework for Advanced   Persistent Threat Detection in SDN**|Huynh Thai Thi et.al.|[2309.08485v1](http://arxiv.org/abs/2309.08485v1)|null|
 |**2023-09-15 15:26:44**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts   by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474v1](http://arxiv.org/abs/2309.08474v1)|null|
@@ -24,11 +32,3 @@
 |**2023-09-13 06:15:37**|**MCNS: Mining Causal Natural Structures Inside Time Series via A Novel   Internal Causality Scheme**|Yuanhao Liu et.al.|[2309.06739v1](http://arxiv.org/abs/2309.06739v1)|null|
 |**2023-09-13 02:15:02**|**Multi-step prediction of chlorophyll concentration based on Adaptive   Graph-Temporal Convolutional Network with Series Decomposition**|Ying Chen et.al.|[2309.07187v1](http://arxiv.org/abs/2309.07187v1)|null|
 |**2023-09-12 23:54:24**|**Bregman Graph Neural Network**|Jiayu Zhai et.al.|[2309.06645v1](http://arxiv.org/abs/2309.06645v1)|[link](https://github.com/jiayuzhai1207/bregmangnn)|
-|**2023-09-12 20:12:08**|**Explainable Graph Neural Network for Alzheimer's Disease And Related   Dementias Risk Prediction**|Xinyue Hu et.al.|[2309.06584v2](http://arxiv.org/abs/2309.06584v2)|null|
-|**2023-09-12 19:19:47**|**Automatic quantification of abdominal subcutaneous and visceral adipose   tissue in children, through MRI study, using total intensity maps and   Convolutional Neural Networks**|José Gerardo Suárez-García et.al.|[2309.06535v1](http://arxiv.org/abs/2309.06535v1)|null|
-|**2023-09-12 19:11:31**|**Bayesian topology inference on partially known networks from   input-output pairs**|Martín Sevilla et.al.|[2309.06532v1](http://arxiv.org/abs/2309.06532v1)|[link](https://github.com/tenceto/inference_langevin)|
-|**2023-09-12 17:40:23**|**Accelerating Defect Predictions in Semiconductors Using Graph Neural   Networks**|Md Habibur Rahman et.al.|[2309.06423v2](http://arxiv.org/abs/2309.06423v2)|[link](https://github.com/msehabibur/defect_gnn_gen_1)|
-|**2023-09-12 16:13:10**|**Band-gap regression with architecture-optimized message-passing neural   networks**|Tim Bechtel et.al.|[2309.06348v1](http://arxiv.org/abs/2309.06348v1)|[link](https://github.com/tisabe/jraph_mpeu)|
-|**2023-09-12 14:43:47**|**Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion   Model**|Yin Wang et.al.|[2309.06284v1](http://arxiv.org/abs/2309.06284v1)|null|
-|**2023-09-12 09:18:12**|**Information Flow in Graph Neural Networks: A Clinical Triage Use Case**|Víctor Valls et.al.|[2309.06081v1](http://arxiv.org/abs/2309.06081v1)|null|
-|**2023-09-12 04:21:30**|**GLAD: Content-aware Dynamic Graphs For Log Anomaly Detection**|Yufei Li et.al.|[2309.05953v1](http://arxiv.org/abs/2309.05953v1)|null|
