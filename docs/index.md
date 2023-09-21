@@ -1,12 +1,20 @@
 # arxiv-daily
- 自动更新 @ 2023-09-20 16:08:28 Asia/Shanghai
+ 自动更新 @ 2023-09-21 16:08:29 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-19 17:50:27**|**AI Foundation Models for Weather and Climate: Applications, Design, and   Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v1](http://arxiv.org/abs/2309.10808v1)|null|
+|**2023-09-20 17:13:15**|**Multi-view Fuzzy Representation Learning with Rules based Model**|Wei Zhang et.al.|[2309.11473v1](http://arxiv.org/abs/2309.11473v1)|null|
+|**2023-09-20 16:27:52**|**Using deep learning to construct stochastic local search SAT solvers   with performance bounds**|Maximilian Kramer et.al.|[2309.11452v1](http://arxiv.org/abs/2309.11452v1)|null|
+|**2023-09-20 14:18:04**|**Improving Article Classification with Edge-Heterogeneous Graph Neural   Networks**|Khang Ly et.al.|[2309.11341v1](http://arxiv.org/abs/2309.11341v1)|[link](https://github.com/lyvykhang/edgehetero-nodeproppred}}$)|
+|**2023-09-20 05:34:52**|**InkStream: Real-time GNN Inference on Streaming Graphs via Incremental   Update**|Dan Wu et.al.|[2309.11071v1](http://arxiv.org/abs/2309.11071v1)|null|
+|**2023-09-20 03:52:34**|**Localize, Retrieve and Fuse: A Generalized Framework for Free-Form   Question Answering over Tables**|Wenting Zhao et.al.|[2309.11049v1](http://arxiv.org/abs/2309.11049v1)|null|
+|**2023-09-20 00:35:27**|**Accurate and Scalable Estimation of Epistemic Uncertainty for Graph   Neural Networks**|Puja Trivedi et.al.|[2309.10976v1](http://arxiv.org/abs/2309.10976v1)|null|
+|**2023-09-19 21:42:49**|**Data-driven design of complex network structures to promote   synchronization**|Marco Coraggio et.al.|[2309.10941v1](http://arxiv.org/abs/2309.10941v1)|null|
+|**2023-09-19 19:30:28**|**Crypto'Graph: Leveraging Privacy-Preserving Distributed Link Prediction   for Robust Graph Learning**|Sofiane Azogagh et.al.|[2309.10890v1](http://arxiv.org/abs/2309.10890v1)|null|
+|**2023-09-19 17:50:27**|**AI Foundation Models for Weather and Climate: Applications, Design, and   Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v2](http://arxiv.org/abs/2309.10808v2)|null|
 |**2023-09-19 13:31:49**|**Improving Medical Dialogue Generation with Abstract Meaning   Representations**|Bohao Yang et.al.|[2309.10608v1](http://arxiv.org/abs/2309.10608v1)|[link](https://github.com/Bernard-Yang/MedDiaAMR)|
 |**2023-09-19 08:30:10**|**Graph Neural Networks for Dynamic Modeling of Roller Bearing**|Vinay Sharma et.al.|[2309.10418v1](http://arxiv.org/abs/2309.10418v1)|null|
 |**2023-09-19 07:24:10**|**Graph Contrastive Learning Meets Graph Meta Learning: A Unified Method   for Few-shot Node Tasks**|Hao Liu et.al.|[2309.10376v1](http://arxiv.org/abs/2309.10376v1)|[link](https://github.com/haoliu-cola/cola)|
@@ -28,21 +36,13 @@
 |**2023-09-16 16:52:49**|**Temporal Smoothness Regularisers for Neural Link Predictors**|Manuel Dileo et.al.|[2309.09045v1](http://arxiv.org/abs/2309.09045v1)|null|
 |**2023-09-15 17:35:51**|**Local Differential Privacy in Graph Neural Networks: a Reconstruction   Approach**|Karuna Bhaila et.al.|[2309.08569v1](http://arxiv.org/abs/2309.08569v1)|[link](https://github.com/karuna-bhaila/rgnn)|
 |**2023-09-15 15:44:09**|**XFedHunter: An Explainable Federated Learning Framework for Advanced   Persistent Threat Detection in SDN**|Huynh Thai Thi et.al.|[2309.08485v1](http://arxiv.org/abs/2309.08485v1)|null|
-|**2023-09-15 15:26:44**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts   by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474v1](http://arxiv.org/abs/2309.08474v1)|null|
-|**2023-09-15 07:51:39**|**Silent Vulnerability-fixing Commit Identification Based on Graph Neural   Networks**|Hieu Dinh Vo et.al.|[2309.08225v1](http://arxiv.org/abs/2309.08225v1)|null|
-|**2023-09-14 16:52:01**|**The mass of simple and higher-order networks**|Ginestra Bianconi et.al.|[2309.07851v2](http://arxiv.org/abs/2309.07851v2)|null|
-|**2023-09-14 15:17:42**|**TiBGL: Template-induced Brain Graph Learning for Functional Neuroimaging   Analysis**|Xiangzhu Meng et.al.|[2309.07947v1](http://arxiv.org/abs/2309.07947v1)|null|
-|**2023-09-14 12:34:42**|**Physics-constrained robust learning of open-form PDEs from limited and   noisy data**|Mengge Du et.al.|[2309.07672v1](http://arxiv.org/abs/2309.07672v1)|null|
-|**2023-09-14 09:26:03**|**Naturalistic Robot Arm Trajectory Generation via Representation Learning**|Jayjun Lee et.al.|[2309.07550v1](http://arxiv.org/abs/2309.07550v1)|null|
-|**2023-09-14 06:25:39**|**SC-MAD: Mixtures of Higher-order Networks for Data Augmentation**|Madeline Navarro et.al.|[2309.07453v1](http://arxiv.org/abs/2309.07453v1)|null|
-|**2023-09-14 06:24:33**|**Is Solving Graph Neural Tangent Kernel Equivalent to Training Graph   Neural Network?**|Lianke Qin et.al.|[2309.07452v1](http://arxiv.org/abs/2309.07452v1)|null|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-18 22:54:36**|**Multi-modality Meets Re-learning: Mitigating Negative Transfer in   Sequential Recommendation**|Bo Peng et.al.|[2309.10195v1](http://arxiv.org/abs/2309.10195v1)|null|
+|**2023-09-18 22:54:36**|**Multi-modality Meets Re-learning: Mitigating Negative Transfer in   Sequential Recommendation**|Bo Peng et.al.|[2309.10195v2](http://arxiv.org/abs/2309.10195v2)|null|
 |**2023-09-09 14:07:11**|**CPMR: Context-Aware Incremental Sequential Recommendation with   Pseudo-Multi-Task Learning**|Qingtian Bian et.al.|[2309.04802v3](http://arxiv.org/abs/2309.04802v3)|[link](https://github.com/dimarziobian/cpmr)|
 |**2023-09-08 02:54:31**|**Sample-Efficient Co-Design of Robotic Agents Using Multi-fidelity   Training on Universal Policy Network**|Kishan R. Nagiredla et.al.|[2309.04085v1](http://arxiv.org/abs/2309.04085v1)|null|
 |**2023-09-06 15:40:33**|**FArMARe: a Furniture-Aware Multi-task methodology for Recommending   Apartments based on the user interests**|Ali Abdari et.al.|[2309.03100v1](http://arxiv.org/abs/2309.03100v1)|[link](https://github.com/aliabdari/farmare)|
