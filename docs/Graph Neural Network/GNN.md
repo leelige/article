@@ -2,11 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-21 16:57:09**|**SALSA-CLRS: A Sparse and Scalable Benchmark for Algorithmic Reasoning**|Julian Minder et.al.|[2309.12253v1](http://arxiv.org/abs/2309.12253v1)|[link](https://github.com/jkminder/salsa-clrs)|
+|**2023-09-21 12:44:55**|**Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting**|Yusheng Zhao et.al.|[2309.12028v1](http://arxiv.org/abs/2309.12028v1)|null|
+|**2023-09-21 07:59:08**|**Activation Compression of Graph Neural Networks using Block-wise   Quantization with Improved Variance Minimization**|Sebastian Eliassen et.al.|[2309.11856v1](http://arxiv.org/abs/2309.11856v1)|[link](https://github.com/saintslab/i-exact)|
+|**2023-09-20 23:43:42**|**Large-scale Pretraining Improves Sample Efficiency of Active Learning   based Molecule Virtual Screening**|Zhonglin Cao et.al.|[2309.11687v1](http://arxiv.org/abs/2309.11687v1)|null|
 |**2023-09-20 17:13:15**|**Multi-view Fuzzy Representation Learning with Rules based Model**|Wei Zhang et.al.|[2309.11473v1](http://arxiv.org/abs/2309.11473v1)|null|
 |**2023-09-20 16:27:52**|**Using deep learning to construct stochastic local search SAT solvers   with performance bounds**|Maximilian Kramer et.al.|[2309.11452v1](http://arxiv.org/abs/2309.11452v1)|null|
-|**2023-09-20 14:18:04**|**Improving Article Classification with Edge-Heterogeneous Graph Neural   Networks**|Khang Ly et.al.|[2309.11341v1](http://arxiv.org/abs/2309.11341v1)|[link](https://github.com/lyvykhang/edgehetero-nodeproppred}}$)|
+|**2023-09-20 14:18:04**|**Improving Article Classification with Edge-Heterogeneous Graph Neural   Networks**|Khang Ly et.al.|[2309.11341v1](http://arxiv.org/abs/2309.11341v1)|[link](https://github.com/lyvykhang/edgehetero-nodeproppred)|
 |**2023-09-20 05:34:52**|**InkStream: Real-time GNN Inference on Streaming Graphs via Incremental   Update**|Dan Wu et.al.|[2309.11071v1](http://arxiv.org/abs/2309.11071v1)|null|
-|**2023-09-20 03:52:34**|**Localize, Retrieve and Fuse: A Generalized Framework for Free-Form   Question Answering over Tables**|Wenting Zhao et.al.|[2309.11049v1](http://arxiv.org/abs/2309.11049v1)|null|
+|**2023-09-20 03:52:34**|**Localize, Retrieve and Fuse: A Generalized Framework for Free-Form   Question Answering over Tables**|Wenting Zhao et.al.|[2309.11049v2](http://arxiv.org/abs/2309.11049v2)|null|
 |**2023-09-20 00:35:27**|**Accurate and Scalable Estimation of Epistemic Uncertainty for Graph   Neural Networks**|Puja Trivedi et.al.|[2309.10976v1](http://arxiv.org/abs/2309.10976v1)|null|
 |**2023-09-19 21:42:49**|**Data-driven design of complex network structures to promote   synchronization**|Marco Coraggio et.al.|[2309.10941v1](http://arxiv.org/abs/2309.10941v1)|null|
 |**2023-09-19 19:30:28**|**Crypto'Graph: Leveraging Privacy-Preserving Distributed Link Prediction   for Robust Graph Learning**|Sofiane Azogagh et.al.|[2309.10890v1](http://arxiv.org/abs/2309.10890v1)|null|
@@ -20,15 +24,11 @@
 |**2023-09-18 20:17:10**|**GDM: Dual Mixup for Graph Classification with Limited Supervision**|Abdullah Alchihabi et.al.|[2309.10134v1](http://arxiv.org/abs/2309.10134v1)|null|
 |**2023-09-18 20:12:17**|**Deep Prompt Tuning for Graph Transformers**|Reza Shirkavand et.al.|[2309.10131v1](http://arxiv.org/abs/2309.10131v1)|null|
 |**2023-09-18 20:07:32**|**Markov Chain-Guided Graph Construction and Sampling Depth Optimization   for EEG-Based Mental Disorder Detection**|Yihan Wu et.al.|[2309.10128v1](http://arxiv.org/abs/2309.10128v1)|null|
-|**2023-09-18 18:06:21**|**Finite Volume Graph Network(FVGN): Predicting unsteady incompressible   fluid dynamics with finite volume informed neural network**|Tianyu Li et.al.|[2309.10050v1](http://arxiv.org/abs/2309.10050v1)|null|
+|**2023-09-18 18:06:21**|**Finite Volume Graph Network(FVGN): Predicting unsteady incompressible   fluid dynamics with finite volume informed neural network**|Tianyu Li et.al.|[2309.10050v2](http://arxiv.org/abs/2309.10050v2)|null|
 |**2023-09-18 16:51:56**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose   Estimation**|Kathia Melbouci et.al.|[2309.09934v1](http://arxiv.org/abs/2309.09934v1)|null|
 |**2023-09-18 16:35:30**|**A Heterogeneous Graph-Based Multi-Task Learning for Fault Event   Diagnosis in Smart Grid**|Dibaloke Chanda et.al.|[2309.09921v1](http://arxiv.org/abs/2309.09921v1)|null|
 |**2023-09-18 14:59:11**|**CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs**|George Drayson et.al.|[2309.09844v1](http://arxiv.org/abs/2309.09844v1)|null|
-|**2023-09-18 06:55:14**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural   Networks**|Qiying Pan et.al.|[2309.09517v2](http://arxiv.org/abs/2309.09517v2)|null|
+|**2023-09-18 06:55:14**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural   Networks**|Qiying Pan et.al.|[2309.09517v3](http://arxiv.org/abs/2309.09517v3)|null|
 |**2023-09-18 02:46:33**|**DeepHEN: quantitative prediction essential lncRNA genes and rethinking   essentialities of lncRNA genes**|Hanlin Zhang et.al.|[2309.10008v1](http://arxiv.org/abs/2309.10008v1)|null|
 |**2023-09-17 21:43:18**|**Mitigating Over-Smoothing and Over-Squashing using Augmentations of   Forman-Ricci Curvature**|Lukas Fesser et.al.|[2309.09384v1](http://arxiv.org/abs/2309.09384v1)|null|
-|**2023-09-17 03:05:13**|**Performance of Graph Neural Networks for Point Cloud Applications**|Dhruv Parikh et.al.|[2309.09142v1](http://arxiv.org/abs/2309.09142v1)|null|
-|**2023-09-16 17:09:13**|**CNS: Correspondence Encoded Neural Image Servo Policy**|Anzhe Chen et.al.|[2309.09047v1](http://arxiv.org/abs/2309.09047v1)|null|
-|**2023-09-16 16:52:49**|**Temporal Smoothness Regularisers for Neural Link Predictors**|Manuel Dileo et.al.|[2309.09045v1](http://arxiv.org/abs/2309.09045v1)|null|
-|**2023-09-15 17:35:51**|**Local Differential Privacy in Graph Neural Networks: a Reconstruction   Approach**|Karuna Bhaila et.al.|[2309.08569v1](http://arxiv.org/abs/2309.08569v1)|[link](https://github.com/karuna-bhaila/rgnn)|
-|**2023-09-15 15:44:09**|**XFedHunter: An Explainable Federated Learning Framework for Advanced   Persistent Threat Detection in SDN**|Huynh Thai Thi et.al.|[2309.08485v1](http://arxiv.org/abs/2309.08485v1)|null|
+|**2023-09-17 03:12:33**|**Towards Differential Privacy in Sequential Recommendation: A Noisy Graph   Neural Network Approach**|Wentao Hu et.al.|[2309.11515v1](http://arxiv.org/abs/2309.11515v1)|null|

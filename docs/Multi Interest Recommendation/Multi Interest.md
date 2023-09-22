@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-21 12:39:36**|**Demystifying Visual Features of Movie Posters for Multi-Label Genre   Identification**|Utsav Kumar Nareti et.al.|[2309.12022v1](http://arxiv.org/abs/2309.12022v1)|null|
 |**2023-09-18 22:54:36**|**Multi-modality Meets Re-learning: Mitigating Negative Transfer in   Sequential Recommendation**|Bo Peng et.al.|[2309.10195v2](http://arxiv.org/abs/2309.10195v2)|null|
 |**2023-09-09 14:07:11**|**CPMR: Context-Aware Incremental Sequential Recommendation with   Pseudo-Multi-Task Learning**|Qingtian Bian et.al.|[2309.04802v3](http://arxiv.org/abs/2309.04802v3)|[link](https://github.com/dimarziobian/cpmr)|
 |**2023-09-08 02:54:31**|**Sample-Efficient Co-Design of Robotic Agents Using Multi-fidelity   Training on Universal Policy Network**|Kishan R. Nagiredla et.al.|[2309.04085v1](http://arxiv.org/abs/2309.04085v1)|null|
@@ -31,4 +32,3 @@
 |**2023-06-05 07:04:34**|**Graph Based Long-Term And Short-Term Interest Model for Click-Through   Rate Prediction**|Huinan Sun et.al.|[2306.10028v1](http://arxiv.org/abs/2306.10028v1)|null|
 |**2023-05-23 21:47:31**|**Disincentivizing Polarization in Social Networks**|Christian Borgs et.al.|[2305.14537v1](http://arxiv.org/abs/2305.14537v1)|null|
 |**2023-05-21 10:29:25**|**Multi-factor Sequential Re-ranking with Perception-Aware Diversification**|Yue Xu et.al.|[2305.12420v1](http://arxiv.org/abs/2305.12420v1)|null|
-|**2023-05-21 02:31:29**|**Multi-channel Integrated Recommendation with Exposure Constraints**|Yue Xu et.al.|[2305.12319v1](http://arxiv.org/abs/2305.12319v1)|null|
