@@ -6,8 +6,8 @@
 |**2023-09-21 12:44:55**|**Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting**|Yusheng Zhao et.al.|[2309.12028v1](http://arxiv.org/abs/2309.12028v1)|null|
 |**2023-09-21 07:59:08**|**Activation Compression of Graph Neural Networks using Block-wise   Quantization with Improved Variance Minimization**|Sebastian Eliassen et.al.|[2309.11856v1](http://arxiv.org/abs/2309.11856v1)|[link](https://github.com/saintslab/i-exact)|
 |**2023-09-20 23:43:42**|**Large-scale Pretraining Improves Sample Efficiency of Active Learning   based Molecule Virtual Screening**|Zhonglin Cao et.al.|[2309.11687v1](http://arxiv.org/abs/2309.11687v1)|null|
-|**2023-09-20 17:13:15**|**Multi-view Fuzzy Representation Learning with Rules based Model**|Wei Zhang et.al.|[2309.11473v1](http://arxiv.org/abs/2309.11473v1)|null|
-|**2023-09-20 16:27:52**|**Using deep learning to construct stochastic local search SAT solvers   with performance bounds**|Maximilian Kramer et.al.|[2309.11452v1](http://arxiv.org/abs/2309.11452v1)|null|
+|**2023-09-20 17:13:15**|**Multi-view Fuzzy Representation Learning with Rules based Model**|Wei Zhang et.al.|[2309.11473v1](http://arxiv.org/abs/2309.11473v1)|[link](https://github.com/bbking49/mvrl_fs)|
+|**2023-09-20 16:27:52**|**Using deep learning to construct stochastic local search SAT solvers   with performance bounds**|Maximilian Kramer et.al.|[2309.11452v1](http://arxiv.org/abs/2309.11452v1)|[link](https://github.com/porscheofficial/sls_sat_solving_with_deep_learning)|
 |**2023-09-20 14:18:04**|**Improving Article Classification with Edge-Heterogeneous Graph Neural   Networks**|Khang Ly et.al.|[2309.11341v1](http://arxiv.org/abs/2309.11341v1)|[link](https://github.com/lyvykhang/edgehetero-nodeproppred)|
 |**2023-09-20 05:34:52**|**InkStream: Real-time GNN Inference on Streaming Graphs via Incremental   Update**|Dan Wu et.al.|[2309.11071v1](http://arxiv.org/abs/2309.11071v1)|null|
 |**2023-09-20 03:52:34**|**Localize, Retrieve and Fuse: A Generalized Framework for Free-Form   Question Answering over Tables**|Wenting Zhao et.al.|[2309.11049v2](http://arxiv.org/abs/2309.11049v2)|null|
