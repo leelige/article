@@ -2,6 +2,10 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-22 17:34:20**|**Graph Neural Network for Stress Predictions in Stiffened Panels Under   Uniform Loading**|Yuecheng Cai et.al.|[2309.13022v1](http://arxiv.org/abs/2309.13022v1)|null|
+|**2023-09-22 16:11:17**|**Higher-order Graph Convolutional Network with Flower-Petals Laplacians   on Simplicial Complexes**|Yiming Huang et.al.|[2309.12971v1](http://arxiv.org/abs/2309.12971v1)|null|
+|**2023-09-22 14:26:06**|**ProtoEM: A Prototype-Enhanced Matching Framework for Event Relation   Extraction**|Zhilei Hu et.al.|[2309.12892v1](http://arxiv.org/abs/2309.12892v1)|null|
+|**2023-09-22 08:09:55**|**Recurrent Temporal Revision Graph Networks**|Yizhou Chen et.al.|[2309.12694v1](http://arxiv.org/abs/2309.12694v1)|null|
 |**2023-09-21 16:57:09**|**SALSA-CLRS: A Sparse and Scalable Benchmark for Algorithmic Reasoning**|Julian Minder et.al.|[2309.12253v1](http://arxiv.org/abs/2309.12253v1)|[link](https://github.com/jkminder/salsa-clrs)|
 |**2023-09-21 12:44:55**|**Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting**|Yusheng Zhao et.al.|[2309.12028v1](http://arxiv.org/abs/2309.12028v1)|null|
 |**2023-09-21 07:59:08**|**Activation Compression of Graph Neural Networks using Block-wise   Quantization with Improved Variance Minimization**|Sebastian Eliassen et.al.|[2309.11856v1](http://arxiv.org/abs/2309.11856v1)|[link](https://github.com/saintslab/i-exact)|
@@ -24,11 +28,7 @@
 |**2023-09-18 20:17:10**|**GDM: Dual Mixup for Graph Classification with Limited Supervision**|Abdullah Alchihabi et.al.|[2309.10134v1](http://arxiv.org/abs/2309.10134v1)|null|
 |**2023-09-18 20:12:17**|**Deep Prompt Tuning for Graph Transformers**|Reza Shirkavand et.al.|[2309.10131v1](http://arxiv.org/abs/2309.10131v1)|null|
 |**2023-09-18 20:07:32**|**Markov Chain-Guided Graph Construction and Sampling Depth Optimization   for EEG-Based Mental Disorder Detection**|Yihan Wu et.al.|[2309.10128v1](http://arxiv.org/abs/2309.10128v1)|null|
-|**2023-09-18 18:06:21**|**Finite Volume Graph Network(FVGN): Predicting unsteady incompressible   fluid dynamics with finite volume informed neural network**|Tianyu Li et.al.|[2309.10050v2](http://arxiv.org/abs/2309.10050v2)|null|
+|**2023-09-18 18:06:21**|**Finite Volume Graph Network(FVGN): Predicting unsteady incompressible   fluid dynamics with finite volume informed neural network**|Tianyu Li et.al.|[2309.10050v3](http://arxiv.org/abs/2309.10050v3)|null|
 |**2023-09-18 16:51:56**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose   Estimation**|Kathia Melbouci et.al.|[2309.09934v1](http://arxiv.org/abs/2309.09934v1)|null|
 |**2023-09-18 16:35:30**|**A Heterogeneous Graph-Based Multi-Task Learning for Fault Event   Diagnosis in Smart Grid**|Dibaloke Chanda et.al.|[2309.09921v1](http://arxiv.org/abs/2309.09921v1)|null|
 |**2023-09-18 14:59:11**|**CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs**|George Drayson et.al.|[2309.09844v1](http://arxiv.org/abs/2309.09844v1)|null|
-|**2023-09-18 06:55:14**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural   Networks**|Qiying Pan et.al.|[2309.09517v3](http://arxiv.org/abs/2309.09517v3)|null|
-|**2023-09-18 02:46:33**|**DeepHEN: quantitative prediction essential lncRNA genes and rethinking   essentialities of lncRNA genes**|Hanlin Zhang et.al.|[2309.10008v1](http://arxiv.org/abs/2309.10008v1)|null|
-|**2023-09-17 21:43:18**|**Mitigating Over-Smoothing and Over-Squashing using Augmentations of   Forman-Ricci Curvature**|Lukas Fesser et.al.|[2309.09384v1](http://arxiv.org/abs/2309.09384v1)|null|
-|**2023-09-17 03:12:33**|**Towards Differential Privacy in Sequential Recommendation: A Noisy Graph   Neural Network Approach**|Wentao Hu et.al.|[2309.11515v1](http://arxiv.org/abs/2309.11515v1)|null|
