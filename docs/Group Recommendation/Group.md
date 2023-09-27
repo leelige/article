@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-24 15:34:56**|**Survey of Social Bias in Vision-Language Models**|Nayeon Lee et.al.|[2309.14381v1](http://arxiv.org/abs/2309.14381v1)|null|
 |**2023-09-23 07:38:56**|**Interactive Content Diversity and User Exploration in Online Movie   Recommenders: A Field Experiment**|Ruixuan Sun et.al.|[2309.13296v1](http://arxiv.org/abs/2309.13296v1)|null|
 |**2023-09-19 17:31:29**|**Towards affective computing that works for everyone**|Tessa Verhoef et.al.|[2309.10780v1](http://arxiv.org/abs/2309.10780v1)|null|
 |**2023-09-19 15:04:55**|**Social Interactions Mediated by the Internet and the Big- Five: a   Cross-Country Analysis**|Andrea Mercado et.al.|[2309.10681v1](http://arxiv.org/abs/2309.10681v1)|null|
@@ -31,4 +32,3 @@
 |**2023-08-16 18:24:54**|**Group Identification via Transitional Hypergraph Convolution with   Cross-view Self-supervised Learning**|Mingdai Yang et.al.|[2308.08620v1](http://arxiv.org/abs/2308.08620v1)|null|
 |**2023-08-16 17:31:08**|**Patterns and Pathways: Applying Social Network Analysis to Understand   User Behavior in the Tourism Industry Websites**|Mehrdad Maghsoudi et.al.|[2308.08527v1](http://arxiv.org/abs/2308.08527v1)|null|
 |**2023-08-11 17:04:50**|**Help or Hinder? Evaluating the Impact of Fairness Metrics and Algorithms   in Visualizations for Consensus Ranking**|Hilson Shrestha et.al.|[2308.06233v1](http://arxiv.org/abs/2308.06233v1)|null|
-|**2023-08-09 15:11:46**|**Dual Intents Graph Modeling for User-centric Group Discovery**|Xixi Wu et.al.|[2308.05013v2](http://arxiv.org/abs/2308.05013v2)|[link](https://github.com/wxxshirley/cikm2023direc)|
