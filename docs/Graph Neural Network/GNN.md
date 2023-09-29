@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-28 17:58:26**|**HyperPPO: A scalable method for finding small policies for robotic   control**|Shashank Hegde et.al.|[2309.16663v1](http://arxiv.org/abs/2309.16663v1)|null|
+|**2023-09-28 17:51:02**|**Reusability report: Prostate cancer stratification with diverse   biologically-informed neural architectures**|Christian Pedersen et.al.|[2309.16645v1](http://arxiv.org/abs/2309.16645v1)|null|
+|**2023-09-28 12:19:43**|**MHG-GNN: Combination of Molecular Hypergraph Grammar with Graph Neural   Network**|Akihiro Kishimoto et.al.|[2309.16374v1](http://arxiv.org/abs/2309.16374v1)|null|
+|**2023-09-28 11:06:55**|**Online Estimation of Articulated Objects with Factor Graphs using Vision   and Proprioceptive Sensing**|Russell Buchanan et.al.|[2309.16343v1](http://arxiv.org/abs/2309.16343v1)|null|
+|**2023-09-28 11:03:23**|**LagrangeBench: A Lagrangian Fluid Mechanics Benchmarking Suite**|Artur P. Toshev et.al.|[2309.16342v1](http://arxiv.org/abs/2309.16342v1)|[link](https://github.com/tumaer/lagrangebench)|
+|**2023-09-28 07:56:10**|**GInX-Eval: Towards In-Distribution Evaluation of Graph Neural Network   Explanations**|Kenza Amara et.al.|[2309.16223v1](http://arxiv.org/abs/2309.16223v1)|null|
+|**2023-09-28 05:09:14**|**Distill to Delete: Unlearning in Graph Networks with Knowledge   Distillation**|Yash Sinha et.al.|[2309.16173v1](http://arxiv.org/abs/2309.16173v1)|null|
+|**2023-09-27 20:58:33**|**GNNHLS: Evaluating Graph Neural Network Inference via High-Level   Synthesis**|Chenfeng Zhao et.al.|[2309.16022v1](http://arxiv.org/abs/2309.16022v1)|[link](https://github.com/chenfengzhao/gnnhls)|
 |**2023-09-27 15:34:44**|**Line Graph Neural Networks for Link Weight Prediction**|Jinbi Liang et.al.|[2309.15728v1](http://arxiv.org/abs/2309.15728v1)|null|
 |**2023-09-27 15:20:31**|**GPIP: Geometry-enhanced Pre-training on Interatomic Potentials**|Taoyong Cui et.al.|[2309.15718v1](http://arxiv.org/abs/2309.15718v1)|null|
 |**2023-09-27 13:19:30**|**Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding   (Technical Report)**|Yutong Ye et.al.|[2309.15641v1](http://arxiv.org/abs/2309.15641v1)|null|
@@ -9,6 +17,7 @@
 |**2023-09-27 09:31:13**|**GNN4EEG: A Benchmark and Toolkit for Electroencephalography   Classification with Graph Neural Network**|Kaiyuan Zhang et.al.|[2309.15515v1](http://arxiv.org/abs/2309.15515v1)|[link](https://github.com/miracle-2001/gnn4eeg)|
 |**2023-09-27 07:52:30**|**LogicMP: A Neuro-symbolic Approach for Encoding First-order Logic   Constraints**|Weidi Xu et.al.|[2309.15458v1](http://arxiv.org/abs/2309.15458v1)|null|
 |**2023-09-27 06:33:29**|**Graph Neural Prompting with Large Language Models**|Yijun Tian et.al.|[2309.15427v1](http://arxiv.org/abs/2309.15427v1)|null|
+|**2023-09-27 05:15:02**|**STAG: Enabling Low Latency and Low Staleness of GNN-based Services with   Dynamic Graphs**|Jiawen Wang et.al.|[2309.15875v1](http://arxiv.org/abs/2309.15875v1)|null|
 |**2023-09-27 03:15:45**|**Adversarial Object Rearrangement in Constrained Environments with   Heterogeneous Graph Neural Networks**|Xibai Lou et.al.|[2309.15378v1](http://arxiv.org/abs/2309.15378v1)|null|
 |**2023-09-26 13:09:43**|**Label Deconvolution for Node Representation Learning on Large-scale   Attributed Graphs against Learning Bias**|Zhihao Shi et.al.|[2309.14907v1](http://arxiv.org/abs/2309.14907v1)|null|
 |**2023-09-26 11:20:57**|**Graph Neural Network Based Method for Path Planning Problem**|Xingrong Diao et.al.|[2309.14845v1](http://arxiv.org/abs/2309.14845v1)|null|
@@ -23,12 +32,3 @@
 |**2023-09-25 05:44:40**|**TouchUp-G: Improving Feature Representation through Graph-Centric   Finetuning**|Jing Zhu et.al.|[2309.13885v1](http://arxiv.org/abs/2309.13885v1)|null|
 |**2023-09-25 05:44:17**|**Estimating Treatment Effects Under Heterogeneous Interference**|Xiaofeng Lin et.al.|[2309.13884v1](http://arxiv.org/abs/2309.13884v1)|[link](https://github.com/linxf208/hinite)|
 |**2023-09-25 05:20:57**|**Skip-Connected Neural Networks with Layout Graphs for Floor Plan   Auto-Generation**|Yuntae Jeon et.al.|[2309.13881v2](http://arxiv.org/abs/2309.13881v2)|[link](https://github.com/yuntaeJ/SkipNet-FloorPlanGen)|
-|**2023-09-24 23:01:00**|**GHN-QAT: Training Graph Hypernetworks to Predict Quantization-Robust   Parameters of Unseen Limited Precision Neural Networks**|Stone Yun et.al.|[2309.13773v1](http://arxiv.org/abs/2309.13773v1)|null|
-|**2023-09-24 16:11:58**|**Causal-DFQ: Causality Guided Data-free Network Quantization**|Yuzhang Shang et.al.|[2309.13682v1](http://arxiv.org/abs/2309.13682v1)|[link](https://github.com/42shawn/causal-dfq)|
-|**2023-09-24 05:43:19**|**LOGICSEG: Parsing Visual Semantics with Neural Logic Learning and   Reasoning**|Liulei Li et.al.|[2309.13556v1](http://arxiv.org/abs/2309.13556v1)|null|
-|**2023-09-23 23:37:55**|**Enhancing Student Performance Prediction on Learnersourced Questions   with SGNN-LLM Synergy**|Lin Ni et.al.|[2309.13500v1](http://arxiv.org/abs/2309.13500v1)|null|
-|**2023-09-23 19:07:03**|**A Model-Agnostic Graph Neural Network for Integrating Local and Global   Information**|Wenzhuo Zhou et.al.|[2309.13459v1](http://arxiv.org/abs/2309.13459v1)|null|
-|**2023-09-23 13:51:09**|**Deciphering Spatio-Temporal Graph Forecasting: A Causal Lens and   Treatment**|Yutong Xia et.al.|[2309.13378v1](http://arxiv.org/abs/2309.13378v1)|null|
-|**2023-09-22 17:34:20**|**Graph Neural Network for Stress Predictions in Stiffened Panels Under   Uniform Loading**|Yuecheng Cai et.al.|[2309.13022v1](http://arxiv.org/abs/2309.13022v1)|null|
-|**2023-09-22 16:11:17**|**Higher-order Graph Convolutional Network with Flower-Petals Laplacians   on Simplicial Complexes**|Yiming Huang et.al.|[2309.12971v1](http://arxiv.org/abs/2309.12971v1)|null|
-|**2023-09-22 14:26:06**|**ProtoEM: A Prototype-Enhanced Matching Framework for Event Relation   Extraction**|Zhilei Hu et.al.|[2309.12892v1](http://arxiv.org/abs/2309.12892v1)|null|
