@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-29 17:26:44**|**Networked Inequality: Preferential Attachment Bias in Graph Neural   Network Link Prediction**|Arjun Subramonian et.al.|[2309.17417v1](http://arxiv.org/abs/2309.17417v1)|[link](https://github.com/arjunsubramonian/link_bias_amplification)|
 |**2023-09-28 10:29:51**|**Multi-Granularity Click Confidence Learning via Self-Distillation in   Recommendation**|Chong Liu et.al.|[2309.16322v1](http://arxiv.org/abs/2309.16322v1)|null|
 |**2023-09-27 05:48:05**|**Automatic Feature Fairness in Recommendation via Adversaries**|Hengchang Hu et.al.|[2309.15418v1](http://arxiv.org/abs/2309.15418v1)|[link](https://github.com/holdenhu/advfm)|
 |**2023-09-24 15:34:56**|**Survey of Social Bias in Vision-Language Models**|Nayeon Lee et.al.|[2309.14381v1](http://arxiv.org/abs/2309.14381v1)|null|
@@ -19,7 +20,7 @@
 |**2023-09-12 00:34:02**|**Distributionally-Informed Recommender System Evaluation**|Michael D. Ekstrand et.al.|[2309.05892v1](http://arxiv.org/abs/2309.05892v1)|null|
 |**2023-09-11 20:06:00**|**Enhancing Hyperedge Prediction with Context-Aware Self-Supervised   Learning**|Yunyong Ko et.al.|[2309.05798v1](http://arxiv.org/abs/2309.05798v1)|[link](https://github.com/yy-ko/cash)|
 |**2023-09-10 11:34:29**|**Computational Approaches for Predicting Drug-Disease Associations: A   Comprehensive Review**|Chunyan Ao et.al.|[2309.06388v1](http://arxiv.org/abs/2309.06388v1)|null|
-|**2023-09-06 23:45:09**|**The Role of Communication and Reference Songs in the Mixing Process:   Insights from Professional Mix Engineers**|Soumya Sai Vanka et.al.|[2309.03404v2](http://arxiv.org/abs/2309.03404v2)|null|
+|**2023-09-06 23:45:09**|**The Role of Communication and Reference Songs in the Mixing Process:   Insights from Professional Mix Engineers**|Soumya Sai Vanka et.al.|[2309.03404v3](http://arxiv.org/abs/2309.03404v3)|null|
 |**2023-09-06 09:43:34**|**A recommender for the management of chronic pain in patients undergoing   spinal cord stimulation**|Tigran Tchrakian et.al.|[2309.03918v1](http://arxiv.org/abs/2309.03918v1)|null|
 |**2023-09-05 02:15:08**|**Inferring Actual Treatment Pathways from Patient Records**|Adrian Wilkins-Caruana et.al.|[2309.01897v1](http://arxiv.org/abs/2309.01897v1)|null|
 |**2023-09-04 03:34:54**|**In-processing User Constrained Dominant Sets for User-Oriented Fairness   in Recommender Systems**|Zhongxuan Han et.al.|[2309.01335v1](http://arxiv.org/abs/2309.01335v1)|null|
@@ -31,4 +32,3 @@
 |**2023-08-19 04:46:01**|**RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework   with Large Language Models**|Yubo Shu et.al.|[2308.09904v1](http://arxiv.org/abs/2308.09904v1)|null|
 |**2023-08-17 14:07:53**|**Digital Twin Based User-Centric Resource Management for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2308.08995v1](http://arxiv.org/abs/2308.08995v1)|null|
 |**2023-08-16 19:32:29**|**Non-monotone Sequential Submodular Maximization**|Shaojie Tang et.al.|[2308.08641v1](http://arxiv.org/abs/2308.08641v1)|null|
-|**2023-08-16 18:24:54**|**Group Identification via Transitional Hypergraph Convolution with   Cross-view Self-supervised Learning**|Mingdai Yang et.al.|[2308.08620v1](http://arxiv.org/abs/2308.08620v1)|null|
