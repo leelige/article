@@ -11,7 +11,7 @@
 |**2023-09-19 15:04:55**|**Social Interactions Mediated by the Internet and the Big- Five: a   Cross-Country Analysis**|Andrea Mercado et.al.|[2309.10681v1](http://arxiv.org/abs/2309.10681v1)|null|
 |**2023-09-19 02:54:08**|**Towards Measuring Fairness in Grid Layout in Recommender Systems**|Amifa Raj et.al.|[2309.10271v1](http://arxiv.org/abs/2309.10271v1)|null|
 |**2023-09-18 14:58:13**|**UNICON: A unified framework for behavior-based consumer segmentation in   e-commerce**|Manuel Dibak et.al.|[2309.13068v1](http://arxiv.org/abs/2309.13068v1)|null|
-|**2023-09-17 13:51:25**|**Fairness for All: Investigating Harms to Within-Group Individuals in   Producer Fairness Re-ranking Optimization -- A Reproducibility Study**|Giovanni Pellegrini et.al.|[2309.09277v1](http://arxiv.org/abs/2309.09277v1)|null|
+|**2023-09-17 13:51:25**|**Fairness for All: Investigating Harms to Within-Group Individuals in   Producer Fairness Re-ranking Optimization -- A Reproducibility Study**|Giovanni Pellegrini et.al.|[2309.09277v2](http://arxiv.org/abs/2309.09277v2)|null|
 |**2023-09-15 17:56:33**|**An assessment of racial disparities in pretrial decision-making using   misclassification models**|Kimberly A. Hochstedler Webb et.al.|[2309.08599v1](http://arxiv.org/abs/2309.08599v1)|null|
 |**2023-09-14 18:03:30**|**iHAS: Instance-wise Hierarchical Architecture Search for Deep Learning   Recommendation Models**|Yakun Yu et.al.|[2309.07967v1](http://arxiv.org/abs/2309.07967v1)|null|
 |**2023-09-13 18:04:52**|**ESRO: Experience Assisted Service Reliability against Outages**|Sarthak Chakraborty et.al.|[2309.07230v1](http://arxiv.org/abs/2309.07230v1)|[link](https://github.com/sarthak-chakraborty/esro)|

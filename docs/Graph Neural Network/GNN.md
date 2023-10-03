@@ -2,13 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-29 17:50:57**|**Learning Decentralized Flocking Controllers with Spatio-Temporal Graph   Neural Network**|Siji Chen et.al.|[2309.17437v1](http://arxiv.org/abs/2309.17437v1)|null|
+|**2023-09-29 17:50:57**|**Learning Decentralized Flocking Controllers with Spatio-Temporal Graph   Neural Network**|Siji Chen et.al.|[2309.17437v2](http://arxiv.org/abs/2309.17437v2)|null|
 |**2023-09-29 17:43:41**|**DREAM: Decentralized Reinforcement Learning for Exploration and   Efficient Energy Management in Multi-Robot Systems**|Dipam Patel et.al.|[2309.17433v1](http://arxiv.org/abs/2309.17433v1)|null|
 |**2023-09-29 17:26:44**|**Networked Inequality: Preferential Attachment Bias in Graph Neural   Network Link Prediction**|Arjun Subramonian et.al.|[2309.17417v1](http://arxiv.org/abs/2309.17417v1)|[link](https://github.com/arjunsubramonian/link_bias_amplification)|
 |**2023-09-29 16:17:12**|**Machine Learning for Practical Quantum Error Mitigation**|Haoran Liao et.al.|[2309.17368v1](http://arxiv.org/abs/2309.17368v1)|null|
 |**2023-09-29 15:46:41**|**Asynchronous Graph Generators**|Christopher P. Ley et.al.|[2309.17335v1](http://arxiv.org/abs/2309.17335v1)|null|
-|**2023-09-29 10:12:30**|**Meta-Path Learning for Multi-relational Graph Neural Networks**|Francesco Ferrini et.al.|[2309.17113v1](http://arxiv.org/abs/2309.17113v1)|null|
-|**2023-09-29 08:26:44**|**On the Power of the Weisfeiler-Leman Test for Graph Motif Parameters**|Pablo Barceló et.al.|[2309.17053v1](http://arxiv.org/abs/2309.17053v1)|null|
+|**2023-09-29 10:12:30**|**Meta-Path Learning for Multi-relational Graph Neural Networks**|Francesco Ferrini et.al.|[2309.17113v1](http://arxiv.org/abs/2309.17113v1)|[link](https://github.com/francescoferrini/multirelationalgnn)|
+|**2023-09-29 08:26:44**|**On the Power of the Weisfeiler-Leman Test for Graph Motif Parameters**|Matthias Lanzinger et.al.|[2309.17053v2](http://arxiv.org/abs/2309.17053v2)|null|
 |**2023-09-29 04:23:58**|**Controlling Continuous Relaxation for Combinatorial Optimization**|Yuma Ichikawa et.al.|[2309.16965v1](http://arxiv.org/abs/2309.16965v1)|null|
 |**2023-09-29 02:50:57**|**G4SATBench: Benchmarking and Advancing SAT Solving with Graph Neural   Networks**|Zhaoyu Li et.al.|[2309.16941v1](http://arxiv.org/abs/2309.16941v1)|[link](https://github.com/zhaoyu-li/g4satbench)|
 |**2023-09-29 01:20:28**|**ACGAN-GNNExplainer: Auxiliary Conditional Generative Explainer for Graph   Neural Networks**|Yiqiao Li et.al.|[2309.16918v1](http://arxiv.org/abs/2309.16918v1)|null|
@@ -25,7 +25,7 @@
 |**2023-09-27 20:58:33**|**GNNHLS: Evaluating Graph Neural Network Inference via High-Level   Synthesis**|Chenfeng Zhao et.al.|[2309.16022v1](http://arxiv.org/abs/2309.16022v1)|[link](https://github.com/chenfengzhao/gnnhls)|
 |**2023-09-27 15:34:44**|**Line Graph Neural Networks for Link Weight Prediction**|Jinbi Liang et.al.|[2309.15728v1](http://arxiv.org/abs/2309.15728v1)|null|
 |**2023-09-27 15:20:31**|**GPIP: Geometry-enhanced Pre-training on Interatomic Potentials**|Taoyong Cui et.al.|[2309.15718v1](http://arxiv.org/abs/2309.15718v1)|null|
-|**2023-09-27 13:19:30**|**Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding   (Technical Report)**|Yutong Ye et.al.|[2309.15641v1](http://arxiv.org/abs/2309.15641v1)|null|
+|**2023-09-27 13:19:30**|**Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding   (Technical Report)**|Yutong Ye et.al.|[2309.15641v2](http://arxiv.org/abs/2309.15641v2)|null|
 |**2023-09-27 09:33:56**|**Residual Scheduling: A New Reinforcement Learning Approach to Solving   Job Shop Scheduling Problem**|Kuo-Hao Ho et.al.|[2309.15517v1](http://arxiv.org/abs/2309.15517v1)|null|
 |**2023-09-27 09:31:13**|**GNN4EEG: A Benchmark and Toolkit for Electroencephalography   Classification with Graph Neural Network**|Kaiyuan Zhang et.al.|[2309.15515v1](http://arxiv.org/abs/2309.15515v1)|[link](https://github.com/miracle-2001/gnn4eeg)|
 |**2023-09-27 07:52:30**|**LogicMP: A Neuro-symbolic Approach for Encoding First-order Logic   Constraints**|Weidi Xu et.al.|[2309.15458v2](http://arxiv.org/abs/2309.15458v2)|null|
