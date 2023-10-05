@@ -2,12 +2,24 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-04 16:32:10**|**Local Max-Entropy and Free Energy Principles, Belief Diffusions and   their Singularities**|Olivier Peltre et.al.|[2310.02946v1](http://arxiv.org/abs/2310.02946v1)|null|
+|**2023-10-04 16:09:35**|**Graph data modelling for outcome prediction in oropharyngeal cancer   patients**|Nithya Bhasker et.al.|[2310.02931v1](http://arxiv.org/abs/2310.02931v1)|null|
+|**2023-10-04 15:24:00**|**A Grammatical Compositional Model for Video Action Detection**|Zhijun Zhang et.al.|[2310.02887v1](http://arxiv.org/abs/2310.02887v1)|null|
+|**2023-10-04 14:47:27**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly   Detection**|Xiangyu Dong et.al.|[2310.02861v1](http://arxiv.org/abs/2310.02861v1)|null|
+|**2023-10-04 12:43:38**|**Graph Neural Networks and Time Series as Directed Graphs for Quality   Recognition**|Angelica Simonetti et.al.|[2310.02774v1](http://arxiv.org/abs/2310.02774v1)|null|
+|**2023-10-04 06:42:33**|**Learning adjacency matrix for dynamic graph neural network**|Osama Ahmad et.al.|[2310.02606v1](http://arxiv.org/abs/2310.02606v1)|null|
+|**2023-10-04 06:13:22**|**Neural Bayes Estimators for Irregular Spatial Data using Graph Neural   Networks**|Matthew Sainsbury-Dale et.al.|[2310.02600v1](http://arxiv.org/abs/2310.02600v1)|[link](https://github.com/msainsburydale/neuralestimatorsgnn)|
+|**2023-10-04 04:48:55**|**On the Stability of Expressive Positional Encodings for Graph Neural   Networks**|Yinan Huang et.al.|[2310.02579v1](http://arxiv.org/abs/2310.02579v1)|null|
+|**2023-10-04 04:02:32**|**Stand for Something or Fall for Everything: Predict Misinformation   Spread with Stance-Aware Graph Neural Networks**|Zihan Chen et.al.|[2310.02568v1](http://arxiv.org/abs/2310.02568v1)|null|
+|**2023-10-03 20:49:00**|**EGraFFBench: Evaluation of Equivariant Graph Neural Network Force Fields   for Atomistic Simulations**|Vaibhav Bihani et.al.|[2310.02428v1](http://arxiv.org/abs/2310.02428v1)|null|
+|**2023-10-03 18:27:16**|**Neuromimetic Dynamic Networks with Hebbian Learning**|Zexin Sun et.al.|[2310.02350v1](http://arxiv.org/abs/2310.02350v1)|null|
 |**2023-10-03 15:43:59**|**Probabilistically Rewired Message-Passing Neural Networks**|Chendi Qian et.al.|[2310.02156v1](http://arxiv.org/abs/2310.02156v1)|null|
 |**2023-10-03 15:40:03**|**Graph Neural Network-based EEG Classification: A Survey**|Dominik Klepl et.al.|[2310.02152v1](http://arxiv.org/abs/2310.02152v1)|null|
 |**2023-10-03 13:51:01**|**Controlling Topic-Focus Articulation in Meaning-to-Text Generation using   Graph Neural Networks**|Chunliu Wang et.al.|[2310.02053v1](http://arxiv.org/abs/2310.02053v1)|null|
+|**2023-10-03 09:25:01**|**Beyond-Accuracy: A Review on Diversity, Serendipity and Fairness in   Recommender Systems Based on Graph Neural Networks**|Tomislav Duricic et.al.|[2310.02294v1](http://arxiv.org/abs/2310.02294v1)|null|
 |**2023-10-03 07:14:53**|**SelfGraphVQA: A Self-Supervised Graph Neural Network for Scene-based   Question Answering**|Bruno Souza et.al.|[2310.01842v1](http://arxiv.org/abs/2310.01842v1)|null|
 |**2023-10-03 06:25:14**|**Towards Robust Fidelity for Evaluating Explainability of Graph Neural   Networks**|Xu Zheng et.al.|[2310.01820v1](http://arxiv.org/abs/2310.01820v1)|null|
-|**2023-10-03 02:29:19**|**CausalTime: Realistically Generated Time-series for Benchmarking of   Causal Discovery**|Yuxiao Cheng et.al.|[2310.01753v1](http://arxiv.org/abs/2310.01753v1)|null|
+|**2023-10-03 02:29:19**|**CausalTime: Realistically Generated Time-series for Benchmarking of   Causal Discovery**|Yuxiao Cheng et.al.|[2310.01753v1](http://arxiv.org/abs/2310.01753v1)|[link](https://github.com/jarrycyx/unn)|
 |**2023-10-02 23:57:04**|**Transformers are efficient hierarchical chemical graph learners**|Zihan Pengmei et.al.|[2310.01704v1](http://arxiv.org/abs/2310.01704v1)|null|
 |**2023-10-02 22:29:45**|**Score dynamics: scaling molecular dynamics with picosecond timesteps via   conditional diffusion model**|Tim Hsu et.al.|[2310.01678v1](http://arxiv.org/abs/2310.01678v1)|null|
 |**2023-10-02 21:59:44**|**Locality-Aware Graph-Rewiring in GNNs**|Federico Barbero et.al.|[2310.01668v1](http://arxiv.org/abs/2310.01668v1)|null|
@@ -16,19 +28,7 @@
 |**2023-10-02 15:18:19**|**A Unified View on Neural Message Passing with Opinion Dynamics for   Social Networks**|Outongyi Lv et.al.|[2310.01272v2](http://arxiv.org/abs/2310.01272v2)|null|
 |**2023-10-02 15:08:52**|**Cooperative Graph Neural Networks**|Ben Finkelshtein et.al.|[2310.01267v1](http://arxiv.org/abs/2310.01267v1)|null|
 |**2023-10-02 14:31:56**|**Self-supervised Learning for Anomaly Detection in Computational   Workflows**|Hongwei Jin et.al.|[2310.01247v1](http://arxiv.org/abs/2310.01247v1)|null|
-|**2023-10-02 14:11:16**|**Revisiting Mobility Modeling with Graph: A Graph Transformer Model for   Next Point-of-Interest Recommendation**|Xiaohang Xu et.al.|[2310.01224v1](http://arxiv.org/abs/2310.01224v1)|[link](https://github.com/Yukayo/MobGT})|
+|**2023-10-02 14:11:16**|**Revisiting Mobility Modeling with Graph: A Graph Transformer Model for   Next Point-of-Interest Recommendation**|Xiaohang Xu et.al.|[2310.01224v1](http://arxiv.org/abs/2310.01224v1)|[link](https://github.com/yukayo/mobgt)|
 |**2023-10-02 13:55:38**|**From Bricks to Bridges: Product of Invariances to Enhance Latent Space   Communication**|Irene Cannistraci et.al.|[2310.01211v1](http://arxiv.org/abs/2310.01211v1)|null|
-|**2023-10-02 13:55:06**|**Towards Robust Cardiac Segmentation using Graph Convolutional Networks**|Gilles Van De Vyver et.al.|[2310.01210v1](http://arxiv.org/abs/2310.01210v1)|[link](https://github.com/gillesvntnu/GCN_multistructure)|
+|**2023-10-02 13:55:06**|**Towards Robust Cardiac Segmentation using Graph Convolutional Networks**|Gilles Van De Vyver et.al.|[2310.01210v1](http://arxiv.org/abs/2310.01210v1)|[link](https://github.com/gillesvntnu/gcn_multistructure)|
 |**2023-10-02 13:51:32**|**Learn to Follow: Decentralized Lifelong Multi-agent Pathfinding via   Planning and Learning**|Alexey Skrynnik et.al.|[2310.01207v1](http://arxiv.org/abs/2310.01207v1)|null|
-|**2023-10-02 13:19:35**|**Graph Isomorphic Networks for Assessing Reliability of the   Medium-Voltage Grid**|Charlotte Cambier van Nooten et.al.|[2310.01181v2](http://arxiv.org/abs/2310.01181v2)|null|
-|**2023-10-02 12:32:18**|**The Map Equation Goes Neural**|Christopher Blöcker et.al.|[2310.01144v1](http://arxiv.org/abs/2310.01144v1)|null|
-|**2023-10-02 11:13:59**|**NP$^2$L: Negative Pseudo Partial Labels Extraction for Graph Neural   Networks**|Xinjie Shen et.al.|[2310.01098v1](http://arxiv.org/abs/2310.01098v1)|null|
-|**2023-10-02 11:03:57**|**GraphText: Graph Reasoning in Text Space**|Jianan Zhao et.al.|[2310.01089v1](http://arxiv.org/abs/2310.01089v1)|null|
-|**2023-10-02 07:37:28**|**Distilling Influences to Mitigate Prediction Churn in Graph Neural   Networks**|Andreas Roth et.al.|[2310.00946v1](http://arxiv.org/abs/2310.00946v1)|null|
-|**2023-10-02 07:18:48**|**Improved Variational Bayesian Phylogenetic Inference using Mixtures**|Oskar Kviman et.al.|[2310.00941v1](http://arxiv.org/abs/2310.00941v1)|null|
-|**2023-10-02 06:39:08**|**Integration of Graph Neural Network and Neural-ODEs for Tumor Dynamic   Prediction**|Omid Bazgir et.al.|[2310.00926v1](http://arxiv.org/abs/2310.00926v1)|null|
-|**2023-10-02 02:36:44**|**Multi-triplet Feature Augmentation for Ponzi Scheme Detection in   Ethereum**|Chengxiang Jin et.al.|[2310.00856v1](http://arxiv.org/abs/2310.00856v1)|null|
-|**2023-10-02 01:07:33**|**Helios: An Efficient Out-of-core GNN Training System on Terabyte-scale   Graphs with In-memory Performance**|Jie Sun et.al.|[2310.00837v1](http://arxiv.org/abs/2310.00837v1)|null|
-|**2023-10-01 21:50:03**|**GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via   Test-time Augmentation**|Mingxuan Ju et.al.|[2310.00800v1](http://arxiv.org/abs/2310.00800v1)|[link](https://github.com/jumxglhf/GraphPatcher)|
-|**2023-10-01 17:02:29**|**Physics-Informed Graph Neural Network for Dynamic Reconfiguration of   Power Systems**|Jules Authier et.al.|[2310.00728v1](http://arxiv.org/abs/2310.00728v1)|null|
-|**2023-10-01 15:09:59**|**Learning How to Propagate Messages in Graph Neural Networks**|Teng Xiao et.al.|[2310.00697v1](http://arxiv.org/abs/2310.00697v1)|null|

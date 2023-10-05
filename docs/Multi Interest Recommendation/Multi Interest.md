@@ -24,7 +24,6 @@
 |**2023-08-08 03:24:44**|**Multi-Granularity Attention Model for Group Recommendation**|Jianye Ji et.al.|[2308.04017v1](http://arxiv.org/abs/2308.04017v1)|null|
 |**2023-08-03 07:06:35**|**Density Weighting for Multi-Interest Personalized Recommendation**|Nikhil Mehta et.al.|[2308.01563v1](http://arxiv.org/abs/2308.01563v1)|null|
 |**2023-07-29 05:46:27**|**Online Matching: A Real-time Bandit System for Large-scale   Recommendations**|Xinyang Yi et.al.|[2307.15893v1](http://arxiv.org/abs/2307.15893v1)|null|
-|**2023-07-27 04:27:26**|**Imitating Complex Trajectories: Bridging Low-Level Stability and   High-Level Behavior**|Adam Block et.al.|[2307.14619v3](http://arxiv.org/abs/2307.14619v3)|null|
 |**2023-07-20 02:48:04**|**TREA: Tree-Structure Reasoning Schema for Conversational Recommendation**|Wendi Li et.al.|[2307.10543v1](http://arxiv.org/abs/2307.10543v1)|[link](https://github.com/windylee0822/trea)|
 |**2023-07-16 00:43:54**|**MESOB: Balancing Equilibria & Social Optimality**|Xin Guo et.al.|[2307.07911v1](http://arxiv.org/abs/2307.07911v1)|null|
 |**2023-07-05 14:06:45**|**Recommended Implementation of Quantitative Susceptibility Mapping for   Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic   Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306v1](http://arxiv.org/abs/2307.02306v1)|null|
@@ -32,3 +31,4 @@
 |**2023-06-16 05:46:27**|**M3PT: A Multi-Modal Model for POI Tagging**|Jingsong Yang et.al.|[2306.10079v1](http://arxiv.org/abs/2306.10079v1)|null|
 |**2023-06-12 15:00:58**|**Interpolating Item and User Fairness in Recommendation Systems**|Qinyi Chen et.al.|[2306.10050v1](http://arxiv.org/abs/2306.10050v1)|null|
 |**2023-06-11 02:35:48**|**Multi-modal Representation Learning for Social Post Location Inference**|Ruiting Dai et.al.|[2306.07935v1](http://arxiv.org/abs/2306.07935v1)|null|
+|**2023-06-08 07:45:24**|**COURIER: Contrastive User Intention Reconstruction for Large-Scale   Pre-Train of Image Features**|Jia-Qi Yang et.al.|[2306.05001v1](http://arxiv.org/abs/2306.05001v1)|null|

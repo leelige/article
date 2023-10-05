@@ -2,6 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-04 16:54:03**|**Potential Factors Leading to Popularity Unfairness in Recommender   Systems: A User-Centered Analysis**|Masoud Mansoury et.al.|[2310.02961v1](http://arxiv.org/abs/2310.02961v1)|null|
+|**2023-10-04 08:35:54**|**Affirmative Action in India: Restricted Strategy Space, Complex   Constraints, and Direct Mechanism Design**|Orhan Aygün et.al.|[2310.02660v1](http://arxiv.org/abs/2310.02660v1)|null|
+|**2023-10-04 01:40:03**|**Who Audits the Auditors? Recommendations from a field scan of the   algorithmic auditing ecosystem**|Sasha Costanza-Chock et.al.|[2310.02521v1](http://arxiv.org/abs/2310.02521v1)|null|
+|**2023-10-03 18:35:08**|**Descriptive Discriminant Analysis of Multivariate Repeated Measures   Data: A Use Case**|Ricarda Graf et.al.|[2310.02359v1](http://arxiv.org/abs/2310.02359v1)|null|
 |**2023-10-02 21:18:57**|**Strategic Information Attacks on Incentive-Compatible Navigational   Recommendations in Intelligent Transportation Systems**|Ya-Ting Yang et.al.|[2310.01646v1](http://arxiv.org/abs/2310.01646v1)|null|
 |**2023-09-29 17:26:44**|**Networked Inequality: Preferential Attachment Bias in Graph Neural   Network Link Prediction**|Arjun Subramonian et.al.|[2309.17417v1](http://arxiv.org/abs/2309.17417v1)|[link](https://github.com/arjunsubramonian/link_bias_amplification)|
 |**2023-09-28 10:29:51**|**Multi-Granularity Click Confidence Learning via Self-Distillation in   Recommendation**|Chong Liu et.al.|[2309.16322v1](http://arxiv.org/abs/2309.16322v1)|null|
@@ -28,7 +32,3 @@
 |**2023-08-30 23:42:07**|**Strengthening the EU AI Act: Defining Key Terms on AI Manipulation**|Matija Franklin et.al.|[2308.16364v1](http://arxiv.org/abs/2308.16364v1)|null|
 |**2023-08-29 22:03:17**|**Ensuring User-side Fairness in Dynamic Recommender Systems**|Hyunsik Yoo et.al.|[2308.15651v1](http://arxiv.org/abs/2308.15651v1)|null|
 |**2023-08-28 16:58:44**|**TRIVEA: Transparent Ranking Interpretation using Visual Explanation of   Black-Box Algorithmic Rankers**|Jun Yuan et.al.|[2308.14622v1](http://arxiv.org/abs/2308.14622v1)|null|
-|**2023-08-25 11:51:42**|**The Arrangement of Marks Impacts Afforded Messages: Ordering,   Partitioning, Spacing, and Coloring in Bar Charts**|Racquel Fygenson et.al.|[2308.13321v1](http://arxiv.org/abs/2308.13321v1)|null|
-|**2023-08-22 19:13:45**|**A multi-case study of agile requirements engineering and the use of test   cases as requirements**|Elizabeth Bjarnason et.al.|[2308.11747v1](http://arxiv.org/abs/2308.11747v1)|null|
-|**2023-08-19 04:46:01**|**RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework   with Large Language Models**|Yubo Shu et.al.|[2308.09904v1](http://arxiv.org/abs/2308.09904v1)|null|
-|**2023-08-17 14:07:53**|**Digital Twin Based User-Centric Resource Management for Multicast Short   Video Streaming**|Xinyu Huang et.al.|[2308.08995v1](http://arxiv.org/abs/2308.08995v1)|null|
