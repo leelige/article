@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-04 21:43:30**|**Sensitivity analysis for causality in observational studies for   regulatory science**|Iván Díaz et.al.|[2310.03176v1](http://arxiv.org/abs/2310.03176v1)|null|
+|**2023-10-04 21:42:01**|**Test Case Recommendations with Distributed Representation of Code   Syntactic Features**|Mosab Rezaei et.al.|[2310.03174v1](http://arxiv.org/abs/2310.03174v1)|[link](https://github.com/mosabrezaei/test-case-recommendation)|
 |**2023-10-04 16:54:03**|**Potential Factors Leading to Popularity Unfairness in Recommender   Systems: A User-Centered Analysis**|Masoud Mansoury et.al.|[2310.02961v1](http://arxiv.org/abs/2310.02961v1)|null|
 |**2023-10-04 08:35:54**|**Affirmative Action in India: Restricted Strategy Space, Complex   Constraints, and Direct Mechanism Design**|Orhan Aygün et.al.|[2310.02660v1](http://arxiv.org/abs/2310.02660v1)|null|
 |**2023-10-04 01:40:03**|**Who Audits the Auditors? Recommendations from a field scan of the   algorithmic auditing ecosystem**|Sasha Costanza-Chock et.al.|[2310.02521v1](http://arxiv.org/abs/2310.02521v1)|null|
@@ -30,5 +32,3 @@
 |**2023-09-05 02:15:08**|**Inferring Actual Treatment Pathways from Patient Records**|Adrian Wilkins-Caruana et.al.|[2309.01897v1](http://arxiv.org/abs/2309.01897v1)|null|
 |**2023-09-04 03:34:54**|**In-processing User Constrained Dominant Sets for User-Oriented Fairness   in Recommender Systems**|Zhongxuan Han et.al.|[2309.01335v1](http://arxiv.org/abs/2309.01335v1)|null|
 |**2023-08-30 23:42:07**|**Strengthening the EU AI Act: Defining Key Terms on AI Manipulation**|Matija Franklin et.al.|[2308.16364v1](http://arxiv.org/abs/2308.16364v1)|null|
-|**2023-08-29 22:03:17**|**Ensuring User-side Fairness in Dynamic Recommender Systems**|Hyunsik Yoo et.al.|[2308.15651v1](http://arxiv.org/abs/2308.15651v1)|null|
-|**2023-08-28 16:58:44**|**TRIVEA: Transparent Ranking Interpretation using Visual Explanation of   Black-Box Algorithmic Rankers**|Jun Yuan et.al.|[2308.14622v1](http://arxiv.org/abs/2308.14622v1)|null|
