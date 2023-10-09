@@ -2,7 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-10-05 17:59:52**|**A High-Performance Design, Implementation, Deployment, and Evaluation of   The Slim Fly Network**|Nils Blach et.al.|[2310.03742v1](http://arxiv.org/abs/2310.03742v1)|null|
+|**2023-10-06 14:52:25**|**Graph learning in robotics: a survey**|Francesca Pistilli et.al.|[2310.04294v1](http://arxiv.org/abs/2310.04294v1)|null|
+|**2023-10-06 13:00:36**|**Topology-Aware Neural Networks for Fast Contingency Analysis of Power   Systems**|Agnes M. Nakiganda et.al.|[2310.04213v1](http://arxiv.org/abs/2310.04213v1)|null|
+|**2023-10-06 12:09:09**|**Non-Redundant Graph Neural Networks with Improved Expressiveness**|Franka Bause et.al.|[2310.04190v1](http://arxiv.org/abs/2310.04190v1)|null|
+|**2023-10-06 11:41:38**|**Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection**|Heehyeon Kim et.al.|[2310.04171v1](http://arxiv.org/abs/2310.04171v1)|null|
+|**2023-10-06 08:18:04**|**Robust Average Networks for Monte Carlo Denoising**|Javor Kalojanov et.al.|[2310.04080v1](http://arxiv.org/abs/2310.04080v1)|null|
+|**2023-10-06 06:51:16**|**AUTOPARLLM: GNN-Guided Automatic Code Parallelization using Large   Language Models**|Quazi Ishtiaque Mahmud et.al.|[2310.04047v1](http://arxiv.org/abs/2310.04047v1)|null|
+|**2023-10-06 06:19:16**|**Joint Projection Learning and Tensor Decomposition Based Incomplete   Multi-view Clustering**|Wei Lv et.al.|[2310.04038v1](http://arxiv.org/abs/2310.04038v1)|[link](https://github.com/weilvnju/jpltd)|
+|**2023-10-05 22:57:09**|**Universal insulating-to-metallic crossover in tight-binding random   geometric graphs**|A. M. Martínez-Argüello et.al.|[2310.03936v1](http://arxiv.org/abs/2310.03936v1)|null|
+|**2023-10-05 18:01:04**|**Fishnets: Information-Optimal, Scalable Aggregation for Sets and Graphs**|T. Lucas Makinen et.al.|[2310.03812v1](http://arxiv.org/abs/2310.03812v1)|null|
+|**2023-10-05 17:59:52**|**A High-Performance Design, Implementation, Deployment, and Evaluation of   The Slim Fly Network**|Nils Blach et.al.|[2310.03742v1](http://arxiv.org/abs/2310.03742v1)|[link](https://github.com/spcl/opensm)|
 |**2023-10-05 09:31:02**|**Localization transition in non-Hermitian systems depending on   reciprocity and hopping asymmetry**|Daniil Kochergin et.al.|[2310.03412v1](http://arxiv.org/abs/2310.03412v1)|null|
 |**2023-10-05 09:08:47**|**GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks**|Taraneh Younesian et.al.|[2310.03399v1](http://arxiv.org/abs/2310.03399v1)|[link](https://github.com/dfdazac/grapes)|
 |**2023-10-05 03:01:09**|**Fragment-based Pretraining and Finetuning on Molecular Graphs**|Kha-Dinh Luong et.al.|[2310.03274v1](http://arxiv.org/abs/2310.03274v1)|null|
@@ -23,12 +32,3 @@
 |**2023-10-03 15:43:59**|**Probabilistically Rewired Message-Passing Neural Networks**|Chendi Qian et.al.|[2310.02156v2](http://arxiv.org/abs/2310.02156v2)|null|
 |**2023-10-03 15:40:03**|**Graph Neural Network-based EEG Classification: A Survey**|Dominik Klepl et.al.|[2310.02152v1](http://arxiv.org/abs/2310.02152v1)|null|
 |**2023-10-03 13:51:01**|**Controlling Topic-Focus Articulation in Meaning-to-Text Generation using   Graph Neural Networks**|Chunliu Wang et.al.|[2310.02053v1](http://arxiv.org/abs/2310.02053v1)|null|
-|**2023-10-03 09:25:01**|**Beyond-Accuracy: A Review on Diversity, Serendipity and Fairness in   Recommender Systems Based on Graph Neural Networks**|Tomislav Duricic et.al.|[2310.02294v1](http://arxiv.org/abs/2310.02294v1)|null|
-|**2023-10-03 07:14:53**|**SelfGraphVQA: A Self-Supervised Graph Neural Network for Scene-based   Question Answering**|Bruno Souza et.al.|[2310.01842v1](http://arxiv.org/abs/2310.01842v1)|null|
-|**2023-10-03 06:25:14**|**Towards Robust Fidelity for Evaluating Explainability of Graph Neural   Networks**|Xu Zheng et.al.|[2310.01820v1](http://arxiv.org/abs/2310.01820v1)|null|
-|**2023-10-03 02:29:19**|**CausalTime: Realistically Generated Time-series for Benchmarking of   Causal Discovery**|Yuxiao Cheng et.al.|[2310.01753v1](http://arxiv.org/abs/2310.01753v1)|[link](https://github.com/jarrycyx/unn)|
-|**2023-10-02 23:57:04**|**Transformers are efficient hierarchical chemical graph learners**|Zihan Pengmei et.al.|[2310.01704v1](http://arxiv.org/abs/2310.01704v1)|null|
-|**2023-10-02 22:29:45**|**Score dynamics: scaling molecular dynamics with picosecond timesteps via   conditional diffusion model**|Tim Hsu et.al.|[2310.01678v1](http://arxiv.org/abs/2310.01678v1)|null|
-|**2023-10-02 21:59:44**|**Locality-Aware Graph-Rewiring in GNNs**|Federico Barbero et.al.|[2310.01668v1](http://arxiv.org/abs/2310.01668v1)|null|
-|**2023-10-02 20:25:36**|**Operator Learning Meets Numerical Analysis: Improving Neural Networks   through Iterative Methods**|Emanuele Zappala et.al.|[2310.01618v1](http://arxiv.org/abs/2310.01618v1)|null|
-|**2023-10-02 19:04:41**|**Contraction Properties of the Global Workspace Primitive**|Michaela Ennis et.al.|[2310.01571v1](http://arxiv.org/abs/2310.01571v1)|null|
