@@ -2,6 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-12 17:17:27**|**LLM-augmented Preference Learning from Natural Language**|Inwon Kang et.al.|[2310.08523v1](http://arxiv.org/abs/2310.08523v1)|null|
+|**2023-10-12 14:35:38**|**Map2Schedule: An End-to-End Link Scheduling Method for Urban V2V   Communications**|Lihao Zhang et.al.|[2310.08364v1](http://arxiv.org/abs/2310.08364v1)|null|
+|**2023-10-12 14:18:47**|**ALPHA: Attention-based Long-horizon Pathfinding in Highly-structured   Areas**|Chengyang He et.al.|[2310.08350v1](http://arxiv.org/abs/2310.08350v1)|null|
+|**2023-10-12 10:01:39**|**Infinite Width Graph Neural Networks for Node Regression/ Classification**|Yunus Cobanoglu et.al.|[2310.08176v1](http://arxiv.org/abs/2310.08176v1)|null|
+|**2023-10-12 08:52:36**|**Multi-Scale Spatial-Temporal Recurrent Networks for Traffic Flow   Prediction**|Haiyang Liu et.al.|[2310.08138v1](http://arxiv.org/abs/2310.08138v1)|null|
+|**2023-10-12 06:26:39**|**Age Estimation Based on Graph Convolutional Networks and Multi-head   Attention Mechanisms**|Miaomiao Yang et.al.|[2310.08064v1](http://arxiv.org/abs/2310.08064v1)|null|
+|**2023-10-12 06:23:12**|**ETDock: A Novel Equivariant Transformer for Protein-Ligand Docking**|Yiqiang Yi et.al.|[2310.08061v1](http://arxiv.org/abs/2310.08061v1)|null|
+|**2023-10-12 01:57:27**|**Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks**|Zohair Shafi et.al.|[2310.07979v1](http://arxiv.org/abs/2310.07979v1)|null|
+|**2023-10-11 22:52:27**|**Enhanced sampling of Crystal Nucleation with Graph Representation Learnt   Variables**|Ziyue Zou et.al.|[2310.07927v1](http://arxiv.org/abs/2310.07927v1)|null|
 |**2023-10-11 17:37:20**|**Large-scale photonic computing with nonlinear disordered media**|Hao Wang et.al.|[2310.07690v1](http://arxiv.org/abs/2310.07690v1)|null|
 |**2023-10-11 17:35:20**|**Hypergraph Neural Networks through the Lens of Message Passing: A Common   Perspective to Homophily and Architecture Design**|Lev Telyatnikov et.al.|[2310.07684v1](http://arxiv.org/abs/2310.07684v1)|null|
 |**2023-10-11 17:17:40**|**GRaMuFeN: Graph-based Multi-modal Fake News Detection in Social Media**|Makan Kananian et.al.|[2310.07668v1](http://arxiv.org/abs/2310.07668v1)|null|
@@ -15,7 +24,7 @@
 |**2023-10-11 00:50:55**|**GraphCloak: Safeguarding Task-specific Knowledge within Graph-structured   Data from Unauthorized Exploitation**|Yixin Liu et.al.|[2310.07100v1](http://arxiv.org/abs/2310.07100v1)|null|
 |**2023-10-10 21:05:13**|**Neural Relational Inference with Fast Modular Meta-learning**|Ferran Alet et.al.|[2310.07015v1](http://arxiv.org/abs/2310.07015v1)|[link](https://github.com/FerranAlet/modular-metalearning)|
 |**2023-10-10 20:26:46**|**Accelerated Modelling of Interfaces for Electronic Devices using Graph   Neural Networks**|Pratik Brahma et.al.|[2310.06995v1](http://arxiv.org/abs/2310.06995v1)|null|
-|**2023-10-10 19:47:58**|**Flood and Echo: Algorithmic Alignment of GNNs with Distributed Computing**|Joël Mathys et.al.|[2310.06970v1](http://arxiv.org/abs/2310.06970v1)|null|
+|**2023-10-10 19:47:58**|**Flood and Echo: Algorithmic Alignment of GNNs with Distributed Computing**|Joël Mathys et.al.|[2310.06970v2](http://arxiv.org/abs/2310.06970v2)|null|
 |**2023-10-10 14:59:22**|**Learning Multiplex Embeddings on Text-rich Networks with One Text   Encoder**|Bowen Jin et.al.|[2310.06684v1](http://arxiv.org/abs/2310.06684v1)|[link](https://github.com/PeterGriffinJin/METERN-submit)|
 |**2023-10-10 14:57:04**|**On the importance of catalyst-adsorbate 3D interactions for relaxed   energy predictions**|Alvaro Carbonero et.al.|[2310.06682v1](http://arxiv.org/abs/2310.06682v1)|null|
 |**2023-10-10 14:07:37**|**Zero-Level-Set Encoder for Neural Distance Fields**|Stefan Rhys Jeske et.al.|[2310.06644v1](http://arxiv.org/abs/2310.06644v1)|null|
@@ -23,12 +32,3 @@
 |**2023-10-10 08:40:47**|**Advective Diffusion Transformers for Topological Generalization in Graph   Learning**|Qitian Wu et.al.|[2310.06417v1](http://arxiv.org/abs/2310.06417v1)|null|
 |**2023-10-10 07:59:23**|**Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach**|Kai Zhao et.al.|[2310.06396v1](http://arxiv.org/abs/2310.06396v1)|[link](https://github.com/zknus/neurips-2023-hang-robustness)|
 |**2023-10-10 02:03:52**|**SCAR: Power Side-Channel Analysis at RTL-Level**|Amisha Srivastava et.al.|[2310.06257v1](http://arxiv.org/abs/2310.06257v1)|null|
-|**2023-10-09 16:37:19**|**Robust Angular Synchronization via Directed Graph Neural Networks**|Yixuan He et.al.|[2310.05842v1](http://arxiv.org/abs/2310.05842v1)|null|
-|**2023-10-09 14:33:32**|**Nonlinear Correct and Smooth for Semi-Supervised Learning**|Yuanhang Shao et.al.|[2310.05757v1](http://arxiv.org/abs/2310.05757v1)|null|
-|**2023-10-09 08:33:19**|**WeatherGNN: Exploiting Complicated Relationships in Numerical Weather   Prediction Bias Correction**|Binqing Wu et.al.|[2310.05517v1](http://arxiv.org/abs/2310.05517v1)|null|
-|**2023-10-08 21:47:18**|**Tailoring Self-Attention for Graph via Rooted Subtrees**|Siyuan Huang et.al.|[2310.05296v1](http://arxiv.org/abs/2310.05296v1)|[link](https://github.com/lumia-group/subtree-attention)|
-|**2023-10-08 16:25:32**|**PointGAT: A quantum chemical property prediction model integrating graph   attention and 3D geometry**|Rong Zhang et.al.|[2310.05217v1](http://arxiv.org/abs/2310.05217v1)|null|
-|**2023-10-08 14:13:03**|**GSLB: The Graph Structure Learning Benchmark**|Zhixun Li et.al.|[2310.05174v1](http://arxiv.org/abs/2310.05174v1)|[link](https://github.com/gsl-benchmark/gslb)|
-|**2023-10-08 10:19:56**|**How Graph Neural Networks Learn: Lessons from Training Dynamics in   Function Space**|Chenxiao Yang et.al.|[2310.05105v1](http://arxiv.org/abs/2310.05105v1)|null|
-|**2023-10-08 03:17:22**|**Data-centric Graph Learning: A Survey**|Cheng Yang et.al.|[2310.04987v1](http://arxiv.org/abs/2310.04987v1)|null|
-|**2023-10-07 23:25:22**|**Beyond Text: A Deep Dive into Large Language Models' Ability on   Understanding Graph Data**|Yuntong Hu et.al.|[2310.04944v1](http://arxiv.org/abs/2310.04944v1)|null|
