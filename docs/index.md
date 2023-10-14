@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2023-10-13 16:08:44 Asia/Shanghai
+ 自动更新 @ 2023-10-14 16:07:12 Asia/Shanghai
 
 ## Graph Neural Network
 
@@ -9,12 +9,12 @@
 |**2023-10-12 17:17:27**|**LLM-augmented Preference Learning from Natural Language**|Inwon Kang et.al.|[2310.08523v1](http://arxiv.org/abs/2310.08523v1)|null|
 |**2023-10-12 14:35:38**|**Map2Schedule: An End-to-End Link Scheduling Method for Urban V2V   Communications**|Lihao Zhang et.al.|[2310.08364v1](http://arxiv.org/abs/2310.08364v1)|null|
 |**2023-10-12 14:18:47**|**ALPHA: Attention-based Long-horizon Pathfinding in Highly-structured   Areas**|Chengyang He et.al.|[2310.08350v1](http://arxiv.org/abs/2310.08350v1)|null|
-|**2023-10-12 10:01:39**|**Infinite Width Graph Neural Networks for Node Regression/ Classification**|Yunus Cobanoglu et.al.|[2310.08176v1](http://arxiv.org/abs/2310.08176v1)|null|
+|**2023-10-12 10:01:39**|**Infinite Width Graph Neural Networks for Node Regression/ Classification**|Yunus Cobanoglu et.al.|[2310.08176v1](http://arxiv.org/abs/2310.08176v1)|[link](https://github.com/yCobanoglu/infinite-width-gnns)|
 |**2023-10-12 08:52:36**|**Multi-Scale Spatial-Temporal Recurrent Networks for Traffic Flow   Prediction**|Haiyang Liu et.al.|[2310.08138v1](http://arxiv.org/abs/2310.08138v1)|null|
 |**2023-10-12 06:26:39**|**Age Estimation Based on Graph Convolutional Networks and Multi-head   Attention Mechanisms**|Miaomiao Yang et.al.|[2310.08064v1](http://arxiv.org/abs/2310.08064v1)|null|
 |**2023-10-12 06:23:12**|**ETDock: A Novel Equivariant Transformer for Protein-Ligand Docking**|Yiqiang Yi et.al.|[2310.08061v1](http://arxiv.org/abs/2310.08061v1)|null|
 |**2023-10-12 01:57:27**|**Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks**|Zohair Shafi et.al.|[2310.07979v1](http://arxiv.org/abs/2310.07979v1)|null|
-|**2023-10-11 22:52:27**|**Enhanced sampling of Crystal Nucleation with Graph Representation Learnt   Variables**|Ziyue Zou et.al.|[2310.07927v1](http://arxiv.org/abs/2310.07927v1)|null|
+|**2023-10-11 22:52:27**|**Enhanced sampling of Crystal Nucleation with Graph Representation Learnt   Variables**|Ziyue Zou et.al.|[2310.07927v1](http://arxiv.org/abs/2310.07927v1)|[link](https://github.com/tiwarylab/GNN-PLUMED-Nucleation)|
 |**2023-10-11 17:37:20**|**Large-scale photonic computing with nonlinear disordered media**|Hao Wang et.al.|[2310.07690v1](http://arxiv.org/abs/2310.07690v1)|null|
 |**2023-10-11 17:35:20**|**Hypergraph Neural Networks through the Lens of Message Passing: A Common   Perspective to Homophily and Architecture Design**|Lev Telyatnikov et.al.|[2310.07684v1](http://arxiv.org/abs/2310.07684v1)|null|
 |**2023-10-11 17:17:40**|**GRaMuFeN: Graph-based Multi-modal Fake News Detection in Social Media**|Makan Kananian et.al.|[2310.07668v1](http://arxiv.org/abs/2310.07668v1)|null|
@@ -36,42 +36,6 @@
 |**2023-10-10 08:40:47**|**Advective Diffusion Transformers for Topological Generalization in Graph   Learning**|Qitian Wu et.al.|[2310.06417v1](http://arxiv.org/abs/2310.06417v1)|null|
 |**2023-10-10 07:59:23**|**Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach**|Kai Zhao et.al.|[2310.06396v1](http://arxiv.org/abs/2310.06396v1)|[link](https://github.com/zknus/neurips-2023-hang-robustness)|
 |**2023-10-10 02:03:52**|**SCAR: Power Side-Channel Analysis at RTL-Level**|Amisha Srivastava et.al.|[2310.06257v1](http://arxiv.org/abs/2310.06257v1)|null|
-
-## Multi Interest Recommendation
-
-### Multi Interest
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-02 02:53:49**|**Multi-Label Residual Weighted Learning for Individualized Combination   Treatment Rule**|Qi Xu et.al.|[2310.00864v1](http://arxiv.org/abs/2310.00864v1)|null|
-|**2023-09-29 07:52:47**|**Beyond Co-occurrence: Multi-modal Session-based Recommendation**|Xiaokun Zhang et.al.|[2309.17037v1](http://arxiv.org/abs/2309.17037v1)|[link](https://github.com/zhang-xiaokun/mmsbr)|
-|**2023-09-28 10:29:51**|**Multi-Granularity Click Confidence Learning via Self-Distillation in   Recommendation**|Chong Liu et.al.|[2309.16322v1](http://arxiv.org/abs/2309.16322v1)|null|
-|**2023-09-28 09:59:48**|**TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent   Reinforcement Learning**|Qirui Mi et.al.|[2309.16307v1](http://arxiv.org/abs/2309.16307v1)|[link](https://github.com/jidiai/taxai)|
-|**2023-09-21 12:39:36**|**Demystifying Visual Features of Movie Posters for Multi-Label Genre   Identification**|Utsav Kumar Nareti et.al.|[2309.12022v1](http://arxiv.org/abs/2309.12022v1)|null|
-|**2023-09-18 22:54:36**|**Multi-modality Meets Re-learning: Mitigating Negative Transfer in   Sequential Recommendation**|Bo Peng et.al.|[2309.10195v2](http://arxiv.org/abs/2309.10195v2)|null|
-|**2023-09-09 14:07:11**|**CPMR: Context-Aware Incremental Sequential Recommendation with   Pseudo-Multi-Task Learning**|Qingtian Bian et.al.|[2309.04802v3](http://arxiv.org/abs/2309.04802v3)|[link](https://github.com/dimarziobian/cpmr)|
-|**2023-09-08 02:54:31**|**Sample-Efficient Co-Design of Robotic Agents Using Multi-fidelity   Training on Universal Policy Network**|Kishan R. Nagiredla et.al.|[2309.04085v1](http://arxiv.org/abs/2309.04085v1)|null|
-|**2023-09-06 15:40:33**|**FArMARe: a Furniture-Aware Multi-task methodology for Recommending   Apartments based on the user interests**|Ali Abdari et.al.|[2309.03100v1](http://arxiv.org/abs/2309.03100v1)|[link](https://github.com/aliabdari/farmare)|
-|**2023-09-03 06:56:45**|**Multi-Relational Contrastive Learning for Recommendation**|Wei Wei et.al.|[2309.01103v2](http://arxiv.org/abs/2309.01103v2)|[link](https://github.com/HKUDS/RCL)|
-|**2023-08-30 07:53:27**|**DRGame: Diversified Recommendation for Multi-category Video Games with   Balanced Implicit Preferences**|Kangzhe Liu et.al.|[2308.15823v1](http://arxiv.org/abs/2308.15823v1)|null|
-|**2023-08-30 01:54:48**|**A Survey on Multi-Behavior Sequential Recommendation**|Xiaoqing Chen et.al.|[2308.15701v1](http://arxiv.org/abs/2308.15701v1)|null|
-|**2023-08-28 03:15:37**|**Alleviating Video-Length Effect for Micro-video Recommendation**|Yuhan Quan et.al.|[2308.14276v2](http://arxiv.org/abs/2308.14276v2)|null|
-|**2023-08-25 08:54:27**|**Learning and Optimization of Implicit Negative Feedback for Industrial   Short-video Recommender System**|Yunzhu Pan et.al.|[2308.13249v1](http://arxiv.org/abs/2308.13249v1)|null|
-|**2023-08-22 04:06:56**|**MISSRec: Pre-training and Transferring Multi-modal Interest-aware   Sequence Representation for Recommendation**|Jinpeng Wang et.al.|[2308.11175v1](http://arxiv.org/abs/2308.11175v1)|null|
-|**2023-08-19 09:47:22**|**Time-aligned Exposure-enhanced Model for Click-Through Rate Prediction**|Hengyu Zhang et.al.|[2308.09966v1](http://arxiv.org/abs/2308.09966v1)|null|
-|**2023-08-14 07:35:14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982v1](http://arxiv.org/abs/2308.06982v1)|null|
-|**2023-08-11 08:04:43**|**Deep Task-specific Bottom Representation Network for Multi-Task   Recommendation**|Qi Liu et.al.|[2308.05996v2](http://arxiv.org/abs/2308.05996v2)|null|
-|**2023-08-08 06:58:05**|**Understanding and Modeling Passive-Negative Feedback for Short-video   Sequential Recommendation**|Yunzhu Pan et.al.|[2308.04086v1](http://arxiv.org/abs/2308.04086v1)|[link](https://github.com/tsinghua-fib-lab/RecSys2023-SINE)|
-|**2023-08-08 03:24:44**|**Multi-Granularity Attention Model for Group Recommendation**|Jianye Ji et.al.|[2308.04017v1](http://arxiv.org/abs/2308.04017v1)|null|
-|**2023-08-03 07:06:35**|**Density Weighting for Multi-Interest Personalized Recommendation**|Nikhil Mehta et.al.|[2308.01563v1](http://arxiv.org/abs/2308.01563v1)|null|
-|**2023-07-29 05:46:27**|**Online Matching: A Real-time Bandit System for Large-scale   Recommendations**|Xinyang Yi et.al.|[2307.15893v1](http://arxiv.org/abs/2307.15893v1)|null|
-|**2023-07-20 02:48:04**|**TREA: Tree-Structure Reasoning Schema for Conversational Recommendation**|Wendi Li et.al.|[2307.10543v1](http://arxiv.org/abs/2307.10543v1)|[link](https://github.com/windylee0822/trea)|
-|**2023-07-16 00:43:54**|**MESOB: Balancing Equilibria & Social Optimality**|Xin Guo et.al.|[2307.07911v1](http://arxiv.org/abs/2307.07911v1)|null|
-|**2023-07-05 14:06:45**|**Recommended Implementation of Quantitative Susceptibility Mapping for   Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic   Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306v1](http://arxiv.org/abs/2307.02306v1)|null|
-|**2023-06-24 15:00:47**|**A clustering and graph deep learning-based framework for COVID-19 drug   repurposing**|Chaarvi Bansal et.al.|[2306.13995v1](http://arxiv.org/abs/2306.13995v1)|null|
-|**2023-06-16 05:46:27**|**M3PT: A Multi-Modal Model for POI Tagging**|Jingsong Yang et.al.|[2306.10079v1](http://arxiv.org/abs/2306.10079v1)|null|
-|**2023-06-12 15:00:58**|**Interpolating Item and User Fairness in Recommendation Systems**|Qinyi Chen et.al.|[2306.10050v1](http://arxiv.org/abs/2306.10050v1)|null|
-|**2023-06-11 02:35:48**|**Multi-modal Representation Learning for Social Post Location Inference**|Ruiting Dai et.al.|[2306.07935v1](http://arxiv.org/abs/2306.07935v1)|null|
-|**2023-06-08 07:45:24**|**COURIER: Contrastive User Intention Reconstruction for Large-Scale   Pre-Train of Image Features**|Jia-Qi Yang et.al.|[2306.05001v1](http://arxiv.org/abs/2306.05001v1)|null|
 
 ## Group Recommendation
 
@@ -108,3 +72,39 @@
 |**2023-09-06 23:45:09**|**The Role of Communication and Reference Songs in the Mixing Process:   Insights from Professional Mix Engineers**|Soumya Sai Vanka et.al.|[2309.03404v3](http://arxiv.org/abs/2309.03404v3)|null|
 |**2023-09-06 09:43:34**|**A recommender for the management of chronic pain in patients undergoing   spinal cord stimulation**|Tigran Tchrakian et.al.|[2309.03918v1](http://arxiv.org/abs/2309.03918v1)|null|
 |**2023-09-05 02:15:08**|**Inferring Actual Treatment Pathways from Patient Records**|Adrian Wilkins-Caruana et.al.|[2309.01897v1](http://arxiv.org/abs/2309.01897v1)|null|
+
+## Multi Interest Recommendation
+
+### Multi Interest
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-02 02:53:49**|**Multi-Label Residual Weighted Learning for Individualized Combination   Treatment Rule**|Qi Xu et.al.|[2310.00864v1](http://arxiv.org/abs/2310.00864v1)|null|
+|**2023-09-29 07:52:47**|**Beyond Co-occurrence: Multi-modal Session-based Recommendation**|Xiaokun Zhang et.al.|[2309.17037v1](http://arxiv.org/abs/2309.17037v1)|[link](https://github.com/zhang-xiaokun/mmsbr)|
+|**2023-09-28 10:29:51**|**Multi-Granularity Click Confidence Learning via Self-Distillation in   Recommendation**|Chong Liu et.al.|[2309.16322v1](http://arxiv.org/abs/2309.16322v1)|null|
+|**2023-09-28 09:59:48**|**TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent   Reinforcement Learning**|Qirui Mi et.al.|[2309.16307v1](http://arxiv.org/abs/2309.16307v1)|[link](https://github.com/jidiai/taxai)|
+|**2023-09-21 12:39:36**|**Demystifying Visual Features of Movie Posters for Multi-Label Genre   Identification**|Utsav Kumar Nareti et.al.|[2309.12022v1](http://arxiv.org/abs/2309.12022v1)|null|
+|**2023-09-18 22:54:36**|**Multi-modality Meets Re-learning: Mitigating Negative Transfer in   Sequential Recommendation**|Bo Peng et.al.|[2309.10195v2](http://arxiv.org/abs/2309.10195v2)|null|
+|**2023-09-09 14:07:11**|**CPMR: Context-Aware Incremental Sequential Recommendation with   Pseudo-Multi-Task Learning**|Qingtian Bian et.al.|[2309.04802v3](http://arxiv.org/abs/2309.04802v3)|[link](https://github.com/dimarziobian/cpmr)|
+|**2023-09-08 02:54:31**|**Sample-Efficient Co-Design of Robotic Agents Using Multi-fidelity   Training on Universal Policy Network**|Kishan R. Nagiredla et.al.|[2309.04085v1](http://arxiv.org/abs/2309.04085v1)|null|
+|**2023-09-06 15:40:33**|**FArMARe: a Furniture-Aware Multi-task methodology for Recommending   Apartments based on the user interests**|Ali Abdari et.al.|[2309.03100v1](http://arxiv.org/abs/2309.03100v1)|[link](https://github.com/aliabdari/farmare)|
+|**2023-09-03 06:56:45**|**Multi-Relational Contrastive Learning for Recommendation**|Wei Wei et.al.|[2309.01103v2](http://arxiv.org/abs/2309.01103v2)|[link](https://github.com/HKUDS/RCL)|
+|**2023-08-30 07:53:27**|**DRGame: Diversified Recommendation for Multi-category Video Games with   Balanced Implicit Preferences**|Kangzhe Liu et.al.|[2308.15823v1](http://arxiv.org/abs/2308.15823v1)|null|
+|**2023-08-30 01:54:48**|**A Survey on Multi-Behavior Sequential Recommendation**|Xiaoqing Chen et.al.|[2308.15701v1](http://arxiv.org/abs/2308.15701v1)|null|
+|**2023-08-28 03:15:37**|**Alleviating Video-Length Effect for Micro-video Recommendation**|Yuhan Quan et.al.|[2308.14276v2](http://arxiv.org/abs/2308.14276v2)|null|
+|**2023-08-25 08:54:27**|**Learning and Optimization of Implicit Negative Feedback for Industrial   Short-video Recommender System**|Yunzhu Pan et.al.|[2308.13249v1](http://arxiv.org/abs/2308.13249v1)|null|
+|**2023-08-22 04:06:56**|**MISSRec: Pre-training and Transferring Multi-modal Interest-aware   Sequence Representation for Recommendation**|Jinpeng Wang et.al.|[2308.11175v1](http://arxiv.org/abs/2308.11175v1)|null|
+|**2023-08-19 09:47:22**|**Time-aligned Exposure-enhanced Model for Click-Through Rate Prediction**|Hengyu Zhang et.al.|[2308.09966v1](http://arxiv.org/abs/2308.09966v1)|null|
+|**2023-08-14 07:35:14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982v1](http://arxiv.org/abs/2308.06982v1)|null|
+|**2023-08-11 08:04:43**|**Deep Task-specific Bottom Representation Network for Multi-Task   Recommendation**|Qi Liu et.al.|[2308.05996v2](http://arxiv.org/abs/2308.05996v2)|null|
+|**2023-08-08 06:58:05**|**Understanding and Modeling Passive-Negative Feedback for Short-video   Sequential Recommendation**|Yunzhu Pan et.al.|[2308.04086v1](http://arxiv.org/abs/2308.04086v1)|[link](https://github.com/tsinghua-fib-lab/RecSys2023-SINE)|
+|**2023-08-08 03:24:44**|**Multi-Granularity Attention Model for Group Recommendation**|Jianye Ji et.al.|[2308.04017v1](http://arxiv.org/abs/2308.04017v1)|null|
+|**2023-08-03 07:06:35**|**Density Weighting for Multi-Interest Personalized Recommendation**|Nikhil Mehta et.al.|[2308.01563v1](http://arxiv.org/abs/2308.01563v1)|null|
+|**2023-07-29 05:46:27**|**Online Matching: A Real-time Bandit System for Large-scale   Recommendations**|Xinyang Yi et.al.|[2307.15893v1](http://arxiv.org/abs/2307.15893v1)|null|
+|**2023-07-20 02:48:04**|**TREA: Tree-Structure Reasoning Schema for Conversational Recommendation**|Wendi Li et.al.|[2307.10543v1](http://arxiv.org/abs/2307.10543v1)|[link](https://github.com/windylee0822/trea)|
+|**2023-07-16 00:43:54**|**MESOB: Balancing Equilibria & Social Optimality**|Xin Guo et.al.|[2307.07911v1](http://arxiv.org/abs/2307.07911v1)|null|
+|**2023-07-05 14:06:45**|**Recommended Implementation of Quantitative Susceptibility Mapping for   Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic   Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306v1](http://arxiv.org/abs/2307.02306v1)|null|
+|**2023-06-24 15:00:47**|**A clustering and graph deep learning-based framework for COVID-19 drug   repurposing**|Chaarvi Bansal et.al.|[2306.13995v1](http://arxiv.org/abs/2306.13995v1)|null|
+|**2023-06-16 05:46:27**|**M3PT: A Multi-Modal Model for POI Tagging**|Jingsong Yang et.al.|[2306.10079v1](http://arxiv.org/abs/2306.10079v1)|null|
+|**2023-06-12 15:00:58**|**Interpolating Item and User Fairness in Recommendation Systems**|Qinyi Chen et.al.|[2306.10050v1](http://arxiv.org/abs/2306.10050v1)|null|
+|**2023-06-11 02:35:48**|**Multi-modal Representation Learning for Social Post Location Inference**|Ruiting Dai et.al.|[2306.07935v1](http://arxiv.org/abs/2306.07935v1)|null|
+|**2023-06-08 07:45:24**|**COURIER: Contrastive User Intention Reconstruction for Large-Scale   Pre-Train of Image Features**|Jia-Qi Yang et.al.|[2306.05001v1](http://arxiv.org/abs/2306.05001v1)|null|

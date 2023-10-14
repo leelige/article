@@ -5,12 +5,12 @@
 |**2023-10-12 17:17:27**|**LLM-augmented Preference Learning from Natural Language**|Inwon Kang et.al.|[2310.08523v1](http://arxiv.org/abs/2310.08523v1)|null|
 |**2023-10-12 14:35:38**|**Map2Schedule: An End-to-End Link Scheduling Method for Urban V2V   Communications**|Lihao Zhang et.al.|[2310.08364v1](http://arxiv.org/abs/2310.08364v1)|null|
 |**2023-10-12 14:18:47**|**ALPHA: Attention-based Long-horizon Pathfinding in Highly-structured   Areas**|Chengyang He et.al.|[2310.08350v1](http://arxiv.org/abs/2310.08350v1)|null|
-|**2023-10-12 10:01:39**|**Infinite Width Graph Neural Networks for Node Regression/ Classification**|Yunus Cobanoglu et.al.|[2310.08176v1](http://arxiv.org/abs/2310.08176v1)|null|
+|**2023-10-12 10:01:39**|**Infinite Width Graph Neural Networks for Node Regression/ Classification**|Yunus Cobanoglu et.al.|[2310.08176v1](http://arxiv.org/abs/2310.08176v1)|[link](https://github.com/yCobanoglu/infinite-width-gnns)|
 |**2023-10-12 08:52:36**|**Multi-Scale Spatial-Temporal Recurrent Networks for Traffic Flow   Prediction**|Haiyang Liu et.al.|[2310.08138v1](http://arxiv.org/abs/2310.08138v1)|null|
 |**2023-10-12 06:26:39**|**Age Estimation Based on Graph Convolutional Networks and Multi-head   Attention Mechanisms**|Miaomiao Yang et.al.|[2310.08064v1](http://arxiv.org/abs/2310.08064v1)|null|
 |**2023-10-12 06:23:12**|**ETDock: A Novel Equivariant Transformer for Protein-Ligand Docking**|Yiqiang Yi et.al.|[2310.08061v1](http://arxiv.org/abs/2310.08061v1)|null|
 |**2023-10-12 01:57:27**|**Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks**|Zohair Shafi et.al.|[2310.07979v1](http://arxiv.org/abs/2310.07979v1)|null|
-|**2023-10-11 22:52:27**|**Enhanced sampling of Crystal Nucleation with Graph Representation Learnt   Variables**|Ziyue Zou et.al.|[2310.07927v1](http://arxiv.org/abs/2310.07927v1)|null|
+|**2023-10-11 22:52:27**|**Enhanced sampling of Crystal Nucleation with Graph Representation Learnt   Variables**|Ziyue Zou et.al.|[2310.07927v1](http://arxiv.org/abs/2310.07927v1)|[link](https://github.com/tiwarylab/GNN-PLUMED-Nucleation)|
 |**2023-10-11 17:37:20**|**Large-scale photonic computing with nonlinear disordered media**|Hao Wang et.al.|[2310.07690v1](http://arxiv.org/abs/2310.07690v1)|null|
 |**2023-10-11 17:35:20**|**Hypergraph Neural Networks through the Lens of Message Passing: A Common   Perspective to Homophily and Architecture Design**|Lev Telyatnikov et.al.|[2310.07684v1](http://arxiv.org/abs/2310.07684v1)|null|
 |**2023-10-11 17:17:40**|**GRaMuFeN: Graph-based Multi-modal Fake News Detection in Social Media**|Makan Kananian et.al.|[2310.07668v1](http://arxiv.org/abs/2310.07668v1)|null|
