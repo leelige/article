@@ -2,12 +2,13 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-18 12:06:54**|**SHA-SCP: A UI Element Spatial Hierarchy Aware Smartphone User Click   Behavior Prediction Method**|Ling Chen et.al.|[2310.11915v1](http://arxiv.org/abs/2310.11915v1)|null|
 |**2023-10-17 13:39:26**|**Emulating Human Cognitive Processes for Expert-Level Medical   Question-Answering with Large Language Models**|Khushboo Verma et.al.|[2310.11266v1](http://arxiv.org/abs/2310.11266v1)|null|
 |**2023-10-17 07:02:26**|**Lyricist-Singer Entropy Affects Lyric-Lyricist Classification   Performance**|Mitsuki Morita et.al.|[2310.11035v1](http://arxiv.org/abs/2310.11035v1)|null|
 |**2023-10-15 13:18:31**|**VFLAIR: A Research Library and Benchmark for Vertical Federated Learning**|Tianyuan Zou et.al.|[2310.09827v1](http://arxiv.org/abs/2310.09827v1)|[link](https://github.com/flair-thu/vflair)|
 |**2023-10-12 16:15:30**|**Metrics for popularity bias in dynamic recommender systems**|Valentijn Braun et.al.|[2310.08455v1](http://arxiv.org/abs/2310.08455v1)|null|
 |**2023-10-10 16:23:41**|**Comparing AI Algorithms for Optimizing Elliptic Curve Cryptography   Parameters in Third-Party E-Commerce Integrations: A Pre-Quantum Era Analysis**|Felipe Tellez et.al.|[2310.06752v1](http://arxiv.org/abs/2310.06752v1)|[link](https://github.com/cftellezc/GA_PSO_ECC_parameter_Optimization)|
-|**2023-10-04 21:43:30**|**Sensitivity analysis for causality in observational studies for   regulatory science**|Iván Díaz et.al.|[2310.03176v1](http://arxiv.org/abs/2310.03176v1)|null|
+|**2023-10-04 21:43:30**|**Sensitivity analysis for causality in observational studies for   regulatory science**|Iván Díaz et.al.|[2310.03176v2](http://arxiv.org/abs/2310.03176v2)|null|
 |**2023-10-04 21:42:01**|**Test Case Recommendations with Distributed Representation of Code   Syntactic Features**|Mosab Rezaei et.al.|[2310.03174v1](http://arxiv.org/abs/2310.03174v1)|[link](https://github.com/mosabrezaei/test-case-recommendation)|
 |**2023-10-04 16:54:03**|**Potential Factors Leading to Popularity Unfairness in Recommender   Systems: A User-Centered Analysis**|Masoud Mansoury et.al.|[2310.02961v1](http://arxiv.org/abs/2310.02961v1)|null|
 |**2023-10-04 08:35:54**|**Affirmative Action in India: Restricted Strategy Space, Complex   Constraints, and Direct Mechanism Design**|Orhan Aygün et.al.|[2310.02660v1](http://arxiv.org/abs/2310.02660v1)|null|
@@ -31,4 +32,3 @@
 |**2023-09-12 03:08:21**|**Workshop on a future muon program at FNAL**|S. Corrodi et.al.|[2309.05933v1](http://arxiv.org/abs/2309.05933v1)|null|
 |**2023-09-12 00:34:02**|**Distributionally-Informed Recommender System Evaluation**|Michael D. Ekstrand et.al.|[2309.05892v1](http://arxiv.org/abs/2309.05892v1)|null|
 |**2023-09-11 20:06:00**|**Enhancing Hyperedge Prediction with Context-Aware Self-Supervised   Learning**|Yunyong Ko et.al.|[2309.05798v1](http://arxiv.org/abs/2309.05798v1)|[link](https://github.com/yy-ko/cash)|
-|**2023-09-10 11:34:29**|**Computational Approaches for Predicting Drug-Disease Associations: A   Comprehensive Review**|Chunyan Ao et.al.|[2309.06388v1](http://arxiv.org/abs/2309.06388v1)|null|
