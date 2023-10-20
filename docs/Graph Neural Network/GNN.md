@@ -2,13 +2,24 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-19 14:55:51**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri et.al.|[2310.12800v1](http://arxiv.org/abs/2310.12800v1)|null|
+|**2023-10-19 08:41:21**|**Pretraining Language Models with Text-Attributed Heterogeneous Graphs**|Tao Zou et.al.|[2310.12580v1](http://arxiv.org/abs/2310.12580v1)|[link](https://github.com/hope-rita/thlm)|
+|**2023-10-19 08:18:10**|**Open-World Lifelong Graph Learning**|Marcel Hoffmann et.al.|[2310.12565v1](http://arxiv.org/abs/2310.12565v1)|[link](https://github.com/bobowner/open-world-lgl)|
+|**2023-10-19 08:07:22**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial   Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557v1](http://arxiv.org/abs/2310.12557v1)|null|
+|**2023-10-19 06:32:12**|**WeaveNet for Approximating Two-sided Matching Problems**|Shusaku Sone et.al.|[2310.12515v1](http://arxiv.org/abs/2310.12515v1)|null|
+|**2023-10-19 04:30:14**|**MuseGNN: Interpretable and Convergent Graph Neural Network Layers at   Scale**|Haitian Jiang et.al.|[2310.12457v1](http://arxiv.org/abs/2310.12457v1)|null|
+|**2023-10-19 01:41:11**|**Classification-Aided Robust Multiple Target Tracking Using Neural   Enhanced Message Passing**|Xianglong Bai et.al.|[2310.12407v1](http://arxiv.org/abs/2310.12407v1)|null|
+|**2023-10-19 01:15:24**|**Cooperative Minibatching in Graph Neural Networks**|Muhammed Fatih Balin et.al.|[2310.12403v1](http://arxiv.org/abs/2310.12403v1)|null|
+|**2023-10-18 21:51:42**|**Equipping Federated Graph Neural Networks with Structure-aware Group   Fairness**|Nan Cui et.al.|[2310.12350v1](http://arxiv.org/abs/2310.12350v1)|[link](https://github.com/yuening-lab/f2gnn)|
+|**2023-10-18 21:22:48**|**Parisi's hypercube, Fock-space fluxes, and the microscopics of   near-AdS$_2$/near-CFT$_1$ duality**|Micha Berkooz et.al.|[2310.12335v1](http://arxiv.org/abs/2310.12335v1)|null|
 |**2023-10-18 11:16:32**|**Building a Graph-based Deep Learning network model from captured traffic   traces**|Carlos Güemes-Palau et.al.|[2310.11889v1](http://arxiv.org/abs/2310.11889v1)|null|
 |**2023-10-18 09:31:21**|**Towards Graph Foundation Models: A Survey and Beyond**|Jiawei Liu et.al.|[2310.11829v1](http://arxiv.org/abs/2310.11829v1)|null|
 |**2023-10-18 09:21:37**|**IntentDial: An Intent Graph based Multi-Turn Dialogue System with   Reasoning Path Visualization**|Zengguang Hao et.al.|[2310.11818v1](http://arxiv.org/abs/2310.11818v1)|null|
 |**2023-10-18 08:27:09**|**NeuroCUT: A Neural Approach for Robust Graph Partitioning**|Rishi Shah et.al.|[2310.11787v1](http://arxiv.org/abs/2310.11787v1)|null|
-|**2023-10-18 07:39:05**|**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**|Minjie Cheng et.al.|[2310.11762v1](http://arxiv.org/abs/2310.11762v1)|null|
+|**2023-10-18 07:39:05**|**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**|Minjie Cheng et.al.|[2310.11762v2](http://arxiv.org/abs/2310.11762v2)|null|
 |**2023-10-18 05:59:41**|**Federated Heterogeneous Graph Neural Network for Privacy-preserving   Recommendation**|Bo Yan et.al.|[2310.11730v1](http://arxiv.org/abs/2310.11730v1)|null|
-|**2023-10-18 04:54:32**|**Learning Co-Speech Gesture for Multimodal Aphasia Type Detection**|Daeun Lee et.al.|[2310.11710v1](http://arxiv.org/abs/2310.11710v1)|[link](https://github.com/DSAIL-SKKU/Multimodal-Aphasia-Type-Detection_EMNLP_2023}})|
+|**2023-10-18 04:54:32**|**Learning Co-Speech Gesture for Multimodal Aphasia Type Detection**|Daeun Lee et.al.|[2310.11710v1](http://arxiv.org/abs/2310.11710v1)|[link](https://github.com/dsail-skku/multimodal-aphasia-type-detection_emnlp_2023)|
+|**2023-10-18 04:13:48**|**Architectural Implications of GNN Aggregation Programming Abstractions**|Yingjie Qi et.al.|[2310.12184v1](http://arxiv.org/abs/2310.12184v1)|null|
 |**2023-10-18 02:19:12**|**Hetero$^2$Net: Heterophily-aware Representation Learning on   Heterogenerous Graphs**|Jintang Li et.al.|[2310.11664v1](http://arxiv.org/abs/2310.11664v1)|null|
 |**2023-10-17 20:20:38**|**RekomGNN: Visualizing, Contextualizing and Evaluating Graph Neural   Networks Recommendations**|Camelia D. Brumar et.al.|[2310.11562v1](http://arxiv.org/abs/2310.11562v1)|null|
 |**2023-10-17 17:25:31**|**VcT: Visual change Transformer for Remote Sensing Image Change Detection**|Bo Jiang et.al.|[2310.11417v1](http://arxiv.org/abs/2310.11417v1)|[link](https://github.com/event-ahu/vct_remote_sensing_change_detection)|
@@ -21,14 +32,3 @@
 |**2023-10-17 09:06:41**|**Multi-omics Sampling-based Graph Transformer for Synthetic Lethality   Prediction**|Xusheng Zhao et.al.|[2310.11082v1](http://arxiv.org/abs/2310.11082v1)|null|
 |**2023-10-17 07:25:59**|**Fast Graph Condensation with Structure-based Neural Tangent Kernel**|Lin Wang et.al.|[2310.11046v1](http://arxiv.org/abs/2310.11046v1)|null|
 |**2023-10-17 07:18:03**|**Spoofing Attack Detection in the Physical Layer with Robustness to User   Movement**|Daniel Romero et.al.|[2310.11043v1](http://arxiv.org/abs/2310.11043v1)|null|
-|**2023-10-17 06:42:11**|**SignGT: Signed Attention-based Graph Transformer for Graph   Representation Learning**|Jinsong Chen et.al.|[2310.11025v1](http://arxiv.org/abs/2310.11025v1)|null|
-|**2023-10-17 05:36:46**|**Adaptive Pairwise Encodings for Link Prediction**|Harry Shomer et.al.|[2310.11009v1](http://arxiv.org/abs/2310.11009v1)|[link](https://github.com/harryshomer/lpformer)|
-|**2023-10-17 05:03:00**|**Accelerating Scalable Graph Neural Network Inference with Node-Adaptive   Propagation**|Xinyi Gao et.al.|[2310.10998v1](http://arxiv.org/abs/2310.10998v1)|null|
-|**2023-10-17 02:58:49**|**A Local Graph Limits Perspective on Sampling-Based GNNs**|Yeganeh Alimohammadi et.al.|[2310.10953v1](http://arxiv.org/abs/2310.10953v1)|null|
-|**2023-10-17 02:46:04**|**Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL   for Coordinated Platooning and Traffic Signal Control**|Xianyue Peng et.al.|[2310.10948v1](http://arxiv.org/abs/2310.10948v1)|null|
-|**2023-10-17 01:05:28**|**Heterogenous Memory Augmented Neural Networks**|Zihan Qiu et.al.|[2310.10909v1](http://arxiv.org/abs/2310.10909v1)|[link](https://github.com/qiuzh20/hma)|
-|**2023-10-17 00:12:18**|**Analyzing Modularity Maximization in Approximation, Heuristic, and Graph   Neural Network Algorithms for Community Detection**|Samin Aref et.al.|[2310.10898v1](http://arxiv.org/abs/2310.10898v1)|null|
-|**2023-10-16 23:36:40**|**Calibrating the role of entanglement in variational quantum circuits**|Azar C. Nakhl et.al.|[2310.10885v1](http://arxiv.org/abs/2310.10885v1)|null|
-|**2023-10-16 19:54:21**|**Neural Tangent Kernels Motivate Graph Neural Networks with   Cross-Covariance Graphs**|Shervin Khalafi et.al.|[2310.10791v1](http://arxiv.org/abs/2310.10791v1)|null|
-|**2023-10-16 18:00:15**|**MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design**|Xiang Fu et.al.|[2310.10732v1](http://arxiv.org/abs/2310.10732v1)|null|
-|**2023-10-16 17:31:25**|**Exploring the Power of Graph Neural Networks in Solving Linear   Optimization Problems**|Chendi Qian et.al.|[2310.10603v1](http://arxiv.org/abs/2310.10603v1)|[link](https://github.com/chendiqian/IPM_MPNN)|
