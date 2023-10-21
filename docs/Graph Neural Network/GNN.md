@@ -5,7 +5,7 @@
 |**2023-10-19 14:55:51**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri et.al.|[2310.12800v1](http://arxiv.org/abs/2310.12800v1)|null|
 |**2023-10-19 08:41:21**|**Pretraining Language Models with Text-Attributed Heterogeneous Graphs**|Tao Zou et.al.|[2310.12580v1](http://arxiv.org/abs/2310.12580v1)|[link](https://github.com/hope-rita/thlm)|
 |**2023-10-19 08:18:10**|**Open-World Lifelong Graph Learning**|Marcel Hoffmann et.al.|[2310.12565v1](http://arxiv.org/abs/2310.12565v1)|[link](https://github.com/bobowner/open-world-lgl)|
-|**2023-10-19 08:07:22**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial   Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557v1](http://arxiv.org/abs/2310.12557v1)|null|
+|**2023-10-19 08:07:22**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial   Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557v1](http://arxiv.org/abs/2310.12557v1)|[link](https://github.com/syon-li/depwignn)|
 |**2023-10-19 06:32:12**|**WeaveNet for Approximating Two-sided Matching Problems**|Shusaku Sone et.al.|[2310.12515v1](http://arxiv.org/abs/2310.12515v1)|null|
 |**2023-10-19 04:30:14**|**MuseGNN: Interpretable and Convergent Graph Neural Network Layers at   Scale**|Haitian Jiang et.al.|[2310.12457v1](http://arxiv.org/abs/2310.12457v1)|null|
 |**2023-10-19 01:41:11**|**Classification-Aided Robust Multiple Target Tracking Using Neural   Enhanced Message Passing**|Xianglong Bai et.al.|[2310.12407v1](http://arxiv.org/abs/2310.12407v1)|null|
