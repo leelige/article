@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-20 09:12:37**|**Towards Multi-Subsession Conversational Recommendation**|Yu Ji et.al.|[2310.13365v1](http://arxiv.org/abs/2310.13365v1)|null|
 |**2023-10-16 03:00:17**|**Dual-Scale Interest Extraction Framework with Self-Supervision for   Sequential Recommendation**|Liangliang Chen et.al.|[2310.10025v1](http://arxiv.org/abs/2310.10025v1)|null|
 |**2023-10-14 14:29:52**|**Context-aware Session-based Recommendation with Graph Neural Networks**|Zhihui Zhang et.al.|[2310.09593v1](http://arxiv.org/abs/2310.09593v1)|[link](https://github.com/brilliantzhang/cares)|
 |**2023-10-02 02:53:49**|**Multi-Label Residual Weighted Learning for Individualized Combination   Treatment Rule**|Qi Xu et.al.|[2310.00864v1](http://arxiv.org/abs/2310.00864v1)|null|
@@ -13,7 +14,7 @@
 |**2023-09-09 14:07:11**|**CPMR: Context-Aware Incremental Sequential Recommendation with   Pseudo-Multi-Task Learning**|Qingtian Bian et.al.|[2309.04802v3](http://arxiv.org/abs/2309.04802v3)|[link](https://github.com/dimarziobian/cpmr)|
 |**2023-09-08 02:54:31**|**Sample-Efficient Co-Design of Robotic Agents Using Multi-fidelity   Training on Universal Policy Network**|Kishan R. Nagiredla et.al.|[2309.04085v1](http://arxiv.org/abs/2309.04085v1)|null|
 |**2023-09-06 15:40:33**|**FArMARe: a Furniture-Aware Multi-task methodology for Recommending   Apartments based on the user interests**|Ali Abdari et.al.|[2309.03100v1](http://arxiv.org/abs/2309.03100v1)|[link](https://github.com/aliabdari/farmare)|
-|**2023-09-03 06:56:45**|**Multi-Relational Contrastive Learning for Recommendation**|Wei Wei et.al.|[2309.01103v2](http://arxiv.org/abs/2309.01103v2)|[link](https://github.com/HKUDS/RCL)|
+|**2023-09-03 06:56:45**|**Multi-Relational Contrastive Learning for Recommendation**|Wei Wei et.al.|[2309.01103v3](http://arxiv.org/abs/2309.01103v3)|[link](https://github.com/HKUDS/RCL)|
 |**2023-08-30 07:53:27**|**DRGame: Diversified Recommendation for Multi-category Video Games with   Balanced Implicit Preferences**|Kangzhe Liu et.al.|[2308.15823v1](http://arxiv.org/abs/2308.15823v1)|null|
 |**2023-08-30 01:54:48**|**A Survey on Multi-Behavior Sequential Recommendation**|Xiaoqing Chen et.al.|[2308.15701v1](http://arxiv.org/abs/2308.15701v1)|null|
 |**2023-08-28 03:15:37**|**Alleviating Video-Length Effect for Micro-video Recommendation**|Yuhan Quan et.al.|[2308.14276v2](http://arxiv.org/abs/2308.14276v2)|null|
@@ -31,4 +32,3 @@
 |**2023-07-05 14:06:45**|**Recommended Implementation of Quantitative Susceptibility Mapping for   Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic   Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306v1](http://arxiv.org/abs/2307.02306v1)|null|
 |**2023-06-24 15:00:47**|**A clustering and graph deep learning-based framework for COVID-19 drug   repurposing**|Chaarvi Bansal et.al.|[2306.13995v1](http://arxiv.org/abs/2306.13995v1)|null|
 |**2023-06-16 05:46:27**|**M3PT: A Multi-Modal Model for POI Tagging**|Jingsong Yang et.al.|[2306.10079v1](http://arxiv.org/abs/2306.10079v1)|null|
-|**2023-06-12 15:00:58**|**Interpolating Item and User Fairness in Recommendation Systems**|Qinyi Chen et.al.|[2306.10050v1](http://arxiv.org/abs/2306.10050v1)|null|
