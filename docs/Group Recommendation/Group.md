@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-23 17:20:08**|**The Self 2.0: How AI-Enhanced Self-Clones Transform Self-Perception and   Improve Presentation Skills**|Qingxiao Zheng et.al.|[2310.15112v1](http://arxiv.org/abs/2310.15112v1)|null|
 |**2023-10-18 12:06:54**|**SHA-SCP: A UI Element Spatial Hierarchy Aware Smartphone User Click   Behavior Prediction Method**|Ling Chen et.al.|[2310.11915v1](http://arxiv.org/abs/2310.11915v1)|null|
 |**2023-10-17 13:39:26**|**Emulating Human Cognitive Processes for Expert-Level Medical   Question-Answering with Large Language Models**|Khushboo Verma et.al.|[2310.11266v1](http://arxiv.org/abs/2310.11266v1)|null|
 |**2023-10-17 07:02:26**|**Lyricist-Singer Entropy Affects Lyric-Lyricist Classification   Performance**|Mitsuki Morita et.al.|[2310.11035v1](http://arxiv.org/abs/2310.11035v1)|null|
@@ -31,4 +32,3 @@
 |**2023-09-12 03:39:24**|**End-to-End Testing of Open-Source Hardware Documentation Developed in   Large Collaborations**|Melinda Yuan et.al.|[2309.05942v1](http://arxiv.org/abs/2309.05942v1)|null|
 |**2023-09-12 03:08:21**|**Workshop on a future muon program at FNAL**|S. Corrodi et.al.|[2309.05933v1](http://arxiv.org/abs/2309.05933v1)|null|
 |**2023-09-12 00:34:02**|**Distributionally-Informed Recommender System Evaluation**|Michael D. Ekstrand et.al.|[2309.05892v1](http://arxiv.org/abs/2309.05892v1)|null|
-|**2023-09-11 20:06:00**|**Enhancing Hyperedge Prediction with Context-Aware Self-Supervised   Learning**|Yunyong Ko et.al.|[2309.05798v1](http://arxiv.org/abs/2309.05798v1)|[link](https://github.com/yy-ko/cash)|
