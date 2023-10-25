@@ -2,6 +2,21 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-24 16:26:38**|**Graph Deep Learning for Time Series Forecasting**|Andrea Cini et.al.|[2310.15978v1](http://arxiv.org/abs/2310.15978v1)|null|
+|**2023-10-24 15:51:13**|**Representation Learning with Large Language Models for Recommendation**|Xubin Ren et.al.|[2310.15950v1](http://arxiv.org/abs/2310.15950v1)|[link](https://github.com/hkuds/rlmrec)|
+|**2023-10-24 15:34:30**|**ABKD: Graph Neural Network Compression with Attention-Based Knowledge   Distillation**|Anshul Ahluwalia et.al.|[2310.15938v1](http://arxiv.org/abs/2310.15938v1)|null|
+|**2023-10-24 14:50:02**|**Dynamical Phase Transitions in Graph Cellular Automata**|Freya Behrens et.al.|[2310.15894v1](http://arxiv.org/abs/2310.15894v1)|null|
+|**2023-10-24 14:23:10**|**Using Causality-Aware Graph Neural Networks to Predict Temporal   Centralities in Dynamic Graphs**|Franziska Heeg et.al.|[2310.15865v1](http://arxiv.org/abs/2310.15865v1)|null|
+|**2023-10-24 10:58:33**|**Re-Temp: Relation-Aware Temporal Representation Learning for Temporal   Knowledge Graph Completion**|Kunze Wang et.al.|[2310.15722v1](http://arxiv.org/abs/2310.15722v1)|null|
+|**2023-10-24 10:35:08**|**Solving large flexible job shop scheduling instances by generating a   diverse set of scheduling policies with deep reinforcement learning**|Imanol Echeverria et.al.|[2310.15706v1](http://arxiv.org/abs/2310.15706v1)|null|
+|**2023-10-24 10:02:48**|**Graph-based Trajectory Prediction with Cooperative Information**|Jan Strohbeck et.al.|[2310.15692v1](http://arxiv.org/abs/2310.15692v1)|null|
+|**2023-10-24 09:10:45**|**Momentum Gradient-based Untargeted Attack on Hypergraph Neural Networks**|Yang Chen et.al.|[2310.15656v1](http://arxiv.org/abs/2310.15656v1)|null|
+|**2023-10-24 09:10:14**|**Deceptive Fairness Attacks on Graphs via Meta Learning**|Jian Kang et.al.|[2310.15653v1](http://arxiv.org/abs/2310.15653v1)|null|
+|**2023-10-24 08:52:04**|**Contextual directed acyclic graphs**|Ryan Thompson et.al.|[2310.15627v1](http://arxiv.org/abs/2310.15627v1)|[link](https://github.com/ryan-thompson/contextualdag.jl)|
+|**2023-10-24 07:58:14**|**RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous   Recipe Network**|Jialiang Shi et.al.|[2310.15593v1](http://arxiv.org/abs/2310.15593v1)|null|
+|**2023-10-24 04:16:27**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504v1](http://arxiv.org/abs/2310.15504v1)|null|
+|**2023-10-23 19:35:57**|**HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained   Heterogeneous Graph Neural Networks**|Yihong Ma et.al.|[2310.15318v1](http://arxiv.org/abs/2310.15318v1)|null|
+|**2023-10-23 18:00:07**|**Field-level simulation-based inference with galaxy catalogs: the impact   of systematic effects**|Natalí S. M. de Santi et.al.|[2310.15234v1](http://arxiv.org/abs/2310.15234v1)|null|
 |**2023-10-23 17:55:30**|**Accelerate Microstructure Evolution Simulation Using Graph Neural   Networks with Adaptive Spatiotemporal Resolution**|Shaoxun Fan et.al.|[2310.15153v1](http://arxiv.org/abs/2310.15153v1)|null|
 |**2023-10-23 17:32:38**|**Projected Stochastic Gradient Descent with Quantum Annealed Binary   Gradients**|Maximilian Krahn et.al.|[2310.15128v1](http://arxiv.org/abs/2310.15128v1)|null|
 |**2023-10-23 17:18:35**|**GRENADE: Graph-Centric Language Model for Self-Supervised Representation   Learning on Text-Attributed Graphs**|Yichuan Li et.al.|[2310.15109v1](http://arxiv.org/abs/2310.15109v1)|[link](https://github.com/bigheiniu/GRENADE})|
@@ -15,20 +30,5 @@
 |**2023-10-23 03:20:32**|**Marginal Nodes Matter: Towards Structure Fairness in Graphs**|Xiaotian Han et.al.|[2310.14527v1](http://arxiv.org/abs/2310.14527v1)|null|
 |**2023-10-23 01:25:44**|**Efficient Heterogeneous Graph Learning via Random Projection**|Jun Hu et.al.|[2310.14481v1](http://arxiv.org/abs/2310.14481v1)|[link](https://github.com/CrawlScript/RpHGNN)|
 |**2023-10-22 22:54:20**|**EDGE++: Improved Training and Sampling of EDGE**|Mingyang Wu et.al.|[2310.14441v1](http://arxiv.org/abs/2310.14441v1)|null|
-|**2023-10-22 07:46:31**|**Item-Graph2vec: a Efficient and Effective Approach using Item   Co-occurrence Graph Embedding for Collaborative Filtering**|Ruilin Yuan et.al.|[2310.14215v1](http://arxiv.org/abs/2310.14215v1)|null|
-|**2023-10-22 03:55:13**|**Ensemble Learning for Graph Neural Networks**|Zhen Hao Wong et.al.|[2310.14166v1](http://arxiv.org/abs/2310.14166v1)|[link](https://github.com/wongzhenhao/elgnn)|
-|**2023-10-22 02:46:37**|**Genetic Algorithms with Neural Cost Predictor for Solving Hierarchical   Vehicle Routing Problems**|Abhay Sobhanan et.al.|[2310.14157v1](http://arxiv.org/abs/2310.14157v1)|null|
-|**2023-10-21 21:51:25**|**Structural generalization in COGS: Supertagging is (almost) all you need**|Alban Petit et.al.|[2310.14124v1](http://arxiv.org/abs/2310.14124v1)|null|
-|**2023-10-21 18:37:56**|**Graph Neural Networks and Applied Linear Algebra**|Nicholas S. Moore et.al.|[2310.14084v1](http://arxiv.org/abs/2310.14084v1)|[link](https://github.com/sandialabs/gnn-applied-linear-algebra)|
-|**2023-10-21 14:49:58**|**LLM-Prop: Predicting Physical And Electronic Properties Of Crystalline   Solids From Their Text Descriptions**|Andre Niyongabo Rubungo et.al.|[2310.14029v1](http://arxiv.org/abs/2310.14029v1)|null|
-|**2023-10-20 22:47:18**|**FABULA: Intelligence Report Generation Using Retrieval-Augmented   Narrative Construction**|Priyanka Ranade et.al.|[2310.13848v1](http://arxiv.org/abs/2310.13848v1)|null|
-|**2023-10-20 21:19:54**|**Adversarial Attacks on Fairness of Graph Neural Networks**|Binchi Zhang et.al.|[2310.13822v1](http://arxiv.org/abs/2310.13822v1)|[link](https://github.com/zhangbinchi/g-fairattack)|
-|**2023-10-20 19:01:01**|**Graph AI in Medicine**|Ruth Johnson et.al.|[2310.13767v1](http://arxiv.org/abs/2310.13767v1)|null|
-|**2023-10-20 15:33:23**|**ReLM: Leveraging Language Models for Enhanced Chemical Reaction   Prediction**|Yaorui Shi et.al.|[2310.13590v1](http://arxiv.org/abs/2310.13590v1)|[link](https://github.com/syr-cn/relm)|
-|**2023-10-20 15:23:17**|**SPARE: A Single-Pass Neural Model for Relational Databases**|Benjamin Hilprecht et.al.|[2310.13581v1](http://arxiv.org/abs/2310.13581v1)|null|
-|**2023-10-20 10:38:28**|**Towards Enhancing Relational Rules for Knowledge Graph Link Prediction**|Shuhan Wu et.al.|[2310.13411v1](http://arxiv.org/abs/2310.13411v1)|[link](https://github.com/ninggirsu/run-gnn)|
-|**2023-10-20 09:46:12**|**Physics-Informed Graph Convolutional Networks: Towards a generalized   framework for complex geometries**|Marien Chenaud et.al.|[2310.14948v1](http://arxiv.org/abs/2310.14948v1)|null|
-|**2023-10-20 03:13:10**|**TempGNN: Temporal Graph Neural Networks for Dynamic Session-Based   Recommendations**|Eunkyu Oh et.al.|[2310.13249v1](http://arxiv.org/abs/2310.13249v1)|null|
-|**2023-10-20 03:06:41**|**FLEE-GNN: A Federated Learning System for Edge-Enhanced Graph Neural   Network in Analyzing Geospatial Resilience of Multicommodity Food Flows**|Yuxiao Qu et.al.|[2310.13248v1](http://arxiv.org/abs/2310.13248v1)|[link](https://github.com/geods/flee-gnn)|
-|**2023-10-20 01:55:10**|**HierCas: Hierarchical Temporal Graph Attention Networks for Popularity   Prediction in Information Cascades**|Zhizhen Zhang et.al.|[2310.13219v1](http://arxiv.org/abs/2310.13219v1)|null|
-|**2023-10-19 23:04:09**|**Heterogeneous Graph Neural Networks for Data-driven Traffic Assignment**|Tong Liu et.al.|[2310.13193v1](http://arxiv.org/abs/2310.13193v1)|null|
+|**2023-10-22 16:29:44**|**Can strong structural encoding reduce the importance of Message Passing?**|Floor Eijkelboom et.al.|[2310.15197v1](http://arxiv.org/abs/2310.15197v1)|null|
+|**2023-10-22 07:46:31**|**Item-Graph2vec: a Efficient and Effective Approach using Item   Co-occurrence Graph Embedding for Collaborative Filtering**|Ruilin Yuan et.al.|[2310.14215v1](http://arxiv.org/abs/2310.14215v1)|[link](https://github.com/cpu135/item-graph2vec)|
