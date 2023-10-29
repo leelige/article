@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2023-10-28 16:07:07 Asia/Shanghai
+ 自动更新 @ 2023-10-29 16:07:03 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -51,7 +51,7 @@
 |**2023-10-26 06:05:12**|**Graphical Object-Centric Actor-Critic**|Leonid Ugadiarov et.al.|[2310.17178v1](http://arxiv.org/abs/2310.17178v1)|null|
 |**2023-10-26 04:47:28**|**Explainable Spatio-Temporal Graph Neural Networks**|Jiabin Tang et.al.|[2310.17149v1](http://arxiv.org/abs/2310.17149v1)|[link](https://github.com/hkuds/stexplainer)|
 |**2023-10-26 01:45:20**|**Network Design through Graph Neural Networks: Identifying Challenges and   Improving Performance**|Donald Loveland et.al.|[2310.17100v1](http://arxiv.org/abs/2310.17100v1)|null|
-|**2023-10-25 17:59:34**|**RDBench: ML Benchmark for Relational Databases**|Zizhao Zhang et.al.|[2310.16837v1](http://arxiv.org/abs/2310.16837v1)|[link](https://github.com/jiaxuanyou/dbgym)|
+|**2023-10-25 17:59:34**|**RDBench: ML Benchmark for Relational Databases**|Zizhao Zhang et.al.|[2310.16837v1](http://arxiv.org/abs/2310.16837v1)|null|
 |**2023-10-25 17:04:11**|**AI Agent as Urban Planner: Steering Stakeholder Dynamics in Urban   Planning via Consensus-based Multi-Agent Reinforcement Learning**|Kejiang Qian et.al.|[2310.16772v1](http://arxiv.org/abs/2310.16772v1)|null|
 |**2023-10-25 15:06:32**|**From Pointwise to Powerhouse: Initialising Neural Networks with   Generative Models**|Christian Harder et.al.|[2310.16695v1](http://arxiv.org/abs/2310.16695v1)|null|
 |**2023-10-25 12:25:53**|**$\mathbb{VD}$-$\mathbb{GR}$: Boosting $\mathbb{V}$isual   $\mathbb{D}$ialog with Cascaded Spatial-Temporal Multi-Modal   $\mathbb{GR}$aphs**|Adnen Abdessaied et.al.|[2310.16590v1](http://arxiv.org/abs/2310.16590v1)|null|
