@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-31 13:27:04**|**Analyzing the Impact of Companies on AI Research Based on Publications**|Michael Färber et.al.|[2310.20444v1](http://arxiv.org/abs/2310.20444v1)|[link](https://github.com/LazaTabax/AI-Impact-Scientometrics)|
 |**2023-10-26 20:14:35**|**Forum on immune digital twins: a meeting report**|Reinhard Laubenbacher et.al.|[2310.18374v1](http://arxiv.org/abs/2310.18374v1)|null|
 |**2023-10-25 02:06:56**|**Producer-Side Experiments Based on Counterfactual Interleaving Designs   for Online Recommender Systems**|Yan Wang et.al.|[2310.16294v1](http://arxiv.org/abs/2310.16294v1)|null|
 |**2023-10-23 18:53:49**|**Early Career Perspectives For the NASA SMD Bridge Program**|Jenna M. Cann et.al.|[2310.15287v1](http://arxiv.org/abs/2310.15287v1)|null|
@@ -31,4 +32,3 @@
 |**2023-09-17 13:51:25**|**Fairness for All: Investigating Harms to Within-Group Individuals in   Producer Fairness Re-ranking Optimization -- A Reproducibility Study**|Giovanni Pellegrini et.al.|[2309.09277v2](http://arxiv.org/abs/2309.09277v2)|null|
 |**2023-09-15 17:56:33**|**An assessment of racial disparities in pretrial decision-making using   misclassification models**|Kimberly A. Hochstedler Webb et.al.|[2309.08599v1](http://arxiv.org/abs/2309.08599v1)|null|
 |**2023-09-14 18:03:30**|**iHAS: Instance-wise Hierarchical Architecture Search for Deep Learning   Recommendation Models**|Yakun Yu et.al.|[2309.07967v1](http://arxiv.org/abs/2309.07967v1)|null|
-|**2023-09-13 18:04:52**|**ESRO: Experience Assisted Service Reliability against Outages**|Sarthak Chakraborty et.al.|[2309.07230v1](http://arxiv.org/abs/2309.07230v1)|[link](https://github.com/sarthak-chakraborty/esro)|
