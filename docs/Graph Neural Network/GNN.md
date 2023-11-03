@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-02 14:44:50**|**Long-Range Neural Atom Learning for Molecular Graphs**|Xuan Li et.al.|[2311.01276v1](http://arxiv.org/abs/2311.01276v1)|null|
+|**2023-11-02 12:59:32**|**Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Lehman Go   Indifferent**|Lorenz Kummer et.al.|[2311.01205v1](http://arxiv.org/abs/2311.01205v1)|null|
+|**2023-11-02 12:47:49**|**Combating Bilateral Edge Noise for Robust Link Prediction**|Zhanke Zhou et.al.|[2311.01196v1](http://arxiv.org/abs/2311.01196v1)|[link](https://github.com/tmlr-group/rgib)|
+|**2023-11-02 12:36:52**|**Semantic Scene Graph Generation Based on an Edge Dual Scene Graph and   Message Passing Neural Network**|Hyeongjin Kim et.al.|[2311.01192v1](http://arxiv.org/abs/2311.01192v1)|null|
+|**2023-11-02 07:09:59**|**Better with Less: A Data-Active Perspective on Pre-Training Graph Neural   Networks**|Jiarong Xu et.al.|[2311.01038v1](http://arxiv.org/abs/2311.01038v1)|[link](https://github.com/galina0217/apt)|
+|**2023-11-02 02:03:30**|**Accelerated Data-Driven Discovery and Screening of Two-Dimensional   Magnets Using Graph Neural Networks**|Ahmed Elrashidy et.al.|[2311.00939v1](http://arxiv.org/abs/2311.00939v1)|null|
+|**2023-11-01 19:04:55**|**Rational design of oxide catalysts for OER with OC22**|Richard Tran et.al.|[2311.00784v1](http://arxiv.org/abs/2311.00784v1)|null|
 |**2023-11-01 16:37:00**|**Kronecker-Factored Approximate Curvature for Modern Neural Network   Architectures**|Runa Eschenhagen et.al.|[2311.00636v1](http://arxiv.org/abs/2311.00636v1)|null|
 |**2023-11-01 06:12:34**|**Robust Graph Clustering via Meta Weighting for Noisy Graphs**|Hyeonsoo Jo et.al.|[2311.00322v1](http://arxiv.org/abs/2311.00322v1)|[link](https://github.com/hyeonsoojo/metagc)|
 |**2023-11-01 05:04:55**|**Entity Alignment Method of Science and Technology Patent based on Graph   Convolution Network and Information Fusion**|Runze Fang et.al.|[2311.00300v1](http://arxiv.org/abs/2311.00300v1)|null|
@@ -25,10 +32,3 @@
 |**2023-10-30 09:57:06**|**LightSAGE: Graph Neural Networks for Large Scale Item Retrieval in   Shopee's Advertisement Recommendation**|Dang Minh Nguyen et.al.|[2310.19394v1](http://arxiv.org/abs/2310.19394v1)|null|
 |**2023-10-30 07:51:41**|**TempME: Towards the Explainability of Temporal Graph Neural Networks via   Motif Discovery**|Jialin Chen et.al.|[2310.19324v1](http://arxiv.org/abs/2310.19324v1)|[link](https://github.com/graph-and-geometric-learning/tempme)|
 |**2023-10-30 07:41:42**|**D4Explainer: In-Distribution GNN Explanations via Discrete Denoising   Diffusion**|Jialin Chen et.al.|[2310.19321v1](http://arxiv.org/abs/2310.19321v1)|[link](https://github.com/graph-and-geometric-learning/d4explainer)|
-|**2023-10-30 06:03:34**|**Facilitating Graph Neural Networks with Random Walk on Simplicial   Complexes**|Cai Zhou et.al.|[2310.19285v1](http://arxiv.org/abs/2310.19285v1)|[link](https://github.com/zhouc20/hodgerandomwalk)|
-|**2023-10-30 05:13:58**|**Prediction of Effective Elastic Moduli of Rocks using Graph Neural   Networks**|Jaehong Chung et.al.|[2310.19274v1](http://arxiv.org/abs/2310.19274v1)|null|
-|**2023-10-30 04:25:02**|**A Metadata-Driven Approach to Understand Graph Neural Networks**|Ting Wei Li et.al.|[2310.19263v1](http://arxiv.org/abs/2310.19263v1)|null|
-|**2023-10-29 20:32:21**|**MAG-GNN: Reinforcement Learning Boosted Graph Neural Network**|Lecheng Kong et.al.|[2310.19142v1](http://arxiv.org/abs/2310.19142v1)|null|
-|**2023-10-29 13:41:41**|**The Weisfeiler-Leman Dimension of Existential Conjunctive Queries**|Andreas Göbel et.al.|[2310.19006v1](http://arxiv.org/abs/2310.19006v1)|null|
-|**2023-10-29 06:11:49**|**Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**|Nurendra Choudhary et.al.|[2310.18918v1](http://arxiv.org/abs/2310.18918v1)|null|
-|**2023-10-29 05:29:49**|**Topological, or Non-topological? A Deep Learning Based Prediction**|Ashiqur Rasul et.al.|[2310.18907v1](http://arxiv.org/abs/2310.18907v1)|null|

@@ -2,6 +2,8 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-02 10:16:28**|**Bi-Preference Learning Heterogeneous Hypergraph Networks for   Session-based Recommendation**|Xiaokun Zhang et.al.|[2311.01125v1](http://arxiv.org/abs/2311.01125v1)|[link](https://github.com/zhang-xiaokun/bipnet)|
+|**2023-11-02 08:01:36**|**Collaboration and Transition: Distilling Item Transitions into   Multi-Query Self-Attention for Sequential Recommendation**|Tianyu Zhu et.al.|[2311.01056v1](http://arxiv.org/abs/2311.01056v1)|[link](https://github.com/zhuty16/mqsa-ted)|
 |**2023-11-01 09:25:21**|**Towards Automatic Sampling of User Behaviors for Sequential Recommender   Systems**|Hao Zhang et.al.|[2311.00388v1](http://arxiv.org/abs/2311.00388v1)|null|
 |**2023-10-31 00:12:13**|**Density-based User Representation through Gaussian Process Regression   for Multi-interest Personalized Retrieval**|Haolun Wu et.al.|[2310.20091v1](http://arxiv.org/abs/2310.20091v1)|null|
 |**2023-10-20 09:12:37**|**Towards Multi-Subsession Conversational Recommendation**|Yu Ji et.al.|[2310.13365v1](http://arxiv.org/abs/2310.13365v1)|null|
@@ -30,5 +32,3 @@
 |**2023-08-03 07:06:35**|**Density Weighting for Multi-Interest Personalized Recommendation**|Nikhil Mehta et.al.|[2308.01563v1](http://arxiv.org/abs/2308.01563v1)|null|
 |**2023-07-29 05:46:27**|**Online Matching: A Real-time Bandit System for Large-scale   Recommendations**|Xinyang Yi et.al.|[2307.15893v1](http://arxiv.org/abs/2307.15893v1)|null|
 |**2023-07-20 02:48:04**|**TREA: Tree-Structure Reasoning Schema for Conversational Recommendation**|Wendi Li et.al.|[2307.10543v1](http://arxiv.org/abs/2307.10543v1)|[link](https://github.com/windylee0822/trea)|
-|**2023-07-16 00:43:54**|**MESOB: Balancing Equilibria & Social Optimality**|Xin Guo et.al.|[2307.07911v1](http://arxiv.org/abs/2307.07911v1)|null|
-|**2023-07-05 14:06:45**|**Recommended Implementation of Quantitative Susceptibility Mapping for   Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic   Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306v1](http://arxiv.org/abs/2307.02306v1)|null|
