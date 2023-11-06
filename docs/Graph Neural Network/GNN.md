@@ -2,12 +2,19 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-03 15:40:20**|**Generalization of Graph-Based Active Learning Relaxation Strategies   Across Materials**|Xiaoxiao Wang et.al.|[2311.01987v1](http://arxiv.org/abs/2311.01987v1)|null|
+|**2023-11-03 14:09:31**|**Constructing Temporal Dynamic Knowledge Graphs from Interactive   Text-based Games**|Keunwoo Peter Yu et.al.|[2311.01928v1](http://arxiv.org/abs/2311.01928v1)|[link](https://github.com/yukw777/temporal-discrete-graph-updater})|
+|**2023-11-03 00:33:24**|**Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational   and Temporal Graphs**|Yeyuan Chen et.al.|[2311.01647v1](http://arxiv.org/abs/2311.01647v1)|null|
+|**2023-11-02 20:57:44**|**Better Fair than Sorry: Adversarial Missing Data Imputation for Fair   GNNs**|Debolina Halder Lina et.al.|[2311.01591v1](http://arxiv.org/abs/2311.01591v1)|null|
+|**2023-11-02 20:40:21**|**Domain Adaptive Graph Neural Networks for Constraining Cosmological   Parameters Across Multiple Data Sets**|Andrea Roncoli et.al.|[2311.01588v1](http://arxiv.org/abs/2311.01588v1)|null|
+|**2023-11-02 18:19:26**|**ATGNN: Audio Tagging Graph Neural Network**|Shubhr Singh et.al.|[2311.01526v1](http://arxiv.org/abs/2311.01526v1)|null|
 |**2023-11-02 14:44:50**|**Long-Range Neural Atom Learning for Molecular Graphs**|Xuan Li et.al.|[2311.01276v1](http://arxiv.org/abs/2311.01276v1)|null|
 |**2023-11-02 12:59:32**|**Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Lehman Go   Indifferent**|Lorenz Kummer et.al.|[2311.01205v1](http://arxiv.org/abs/2311.01205v1)|null|
 |**2023-11-02 12:47:49**|**Combating Bilateral Edge Noise for Robust Link Prediction**|Zhanke Zhou et.al.|[2311.01196v1](http://arxiv.org/abs/2311.01196v1)|[link](https://github.com/tmlr-group/rgib)|
 |**2023-11-02 12:36:52**|**Semantic Scene Graph Generation Based on an Edge Dual Scene Graph and   Message Passing Neural Network**|Hyeongjin Kim et.al.|[2311.01192v1](http://arxiv.org/abs/2311.01192v1)|null|
 |**2023-11-02 07:09:59**|**Better with Less: A Data-Active Perspective on Pre-Training Graph Neural   Networks**|Jiarong Xu et.al.|[2311.01038v1](http://arxiv.org/abs/2311.01038v1)|[link](https://github.com/galina0217/apt)|
 |**2023-11-02 02:03:30**|**Accelerated Data-Driven Discovery and Screening of Two-Dimensional   Magnets Using Graph Neural Networks**|Ahmed Elrashidy et.al.|[2311.00939v1](http://arxiv.org/abs/2311.00939v1)|null|
+|**2023-11-01 19:59:25**|**Patch-Based Deep Unsupervised Image Segmentation using Graph Cuts**|Isaac Wasserman et.al.|[2311.01475v1](http://arxiv.org/abs/2311.01475v1)|null|
 |**2023-11-01 19:04:55**|**Rational design of oxide catalysts for OER with OC22**|Richard Tran et.al.|[2311.00784v1](http://arxiv.org/abs/2311.00784v1)|null|
 |**2023-11-01 16:37:00**|**Kronecker-Factored Approximate Curvature for Modern Neural Network   Architectures**|Runa Eschenhagen et.al.|[2311.00636v1](http://arxiv.org/abs/2311.00636v1)|null|
 |**2023-11-01 06:12:34**|**Robust Graph Clustering via Meta Weighting for Noisy Graphs**|Hyeonsoo Jo et.al.|[2311.00322v1](http://arxiv.org/abs/2311.00322v1)|[link](https://github.com/hyeonsoojo/metagc)|
@@ -25,10 +32,3 @@
 |**2023-10-30 22:21:08**|**On the data-driven description of lattice materials mechanics**|Ismael Ben-Yelun et.al.|[2310.20056v1](http://arxiv.org/abs/2310.20056v1)|null|
 |**2023-10-30 20:31:50**|**Generative retrieval-augmented ontologic graph and multi-agent   strategies for interpretive large language model-based materials design**|Markus J. Buehler et.al.|[2310.19998v1](http://arxiv.org/abs/2310.19998v1)|null|
 |**2023-10-30 18:16:19**|**Interpretable Prototype-based Graph Information Bottleneck**|Sangwoo Seo et.al.|[2310.19906v1](http://arxiv.org/abs/2310.19906v1)|[link](https://github.com/sang-woo-seo/pgib)|
-|**2023-10-30 17:35:26**|**Autoregressive Renaissance in Neural PDE Solvers**|Yolanne Yi Ran Lee et.al.|[2310.19763v1](http://arxiv.org/abs/2310.19763v1)|null|
-|**2023-10-30 15:49:45**|**Dynamic Tensor Decomposition via Neural Diffusion-Reaction Processes**|Zheng Wang et.al.|[2310.19666v1](http://arxiv.org/abs/2310.19666v1)|[link](https://github.com/wzhut/dynamic-tensor-decomposition-via-neural-diffusion-reaction-processes)|
-|**2023-10-30 14:45:59**|**Modeling Dynamics over Meshes with Gauge Equivariant Nonlinear Message   Passing**|Jung Yeon Park et.al.|[2310.19589v1](http://arxiv.org/abs/2310.19589v1)|null|
-|**2023-10-30 12:48:45**|**Coarse-grained crystal graph neural networks for reticular materials   design**|Vadim Korolev et.al.|[2310.19500v1](http://arxiv.org/abs/2310.19500v1)|null|
-|**2023-10-30 09:57:06**|**LightSAGE: Graph Neural Networks for Large Scale Item Retrieval in   Shopee's Advertisement Recommendation**|Dang Minh Nguyen et.al.|[2310.19394v1](http://arxiv.org/abs/2310.19394v1)|null|
-|**2023-10-30 07:51:41**|**TempME: Towards the Explainability of Temporal Graph Neural Networks via   Motif Discovery**|Jialin Chen et.al.|[2310.19324v1](http://arxiv.org/abs/2310.19324v1)|[link](https://github.com/graph-and-geometric-learning/tempme)|
-|**2023-10-30 07:41:42**|**D4Explainer: In-Distribution GNN Explanations via Discrete Denoising   Diffusion**|Jialin Chen et.al.|[2310.19321v1](http://arxiv.org/abs/2310.19321v1)|[link](https://github.com/graph-and-geometric-learning/d4explainer)|
