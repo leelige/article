@@ -6,7 +6,7 @@
 |**2023-11-01 22:20:14**|**Notion of Explainable Artificial Intelligence -- An Empirical   Investigation from A Users Perspective**|AKM Bahalul Haque et.al.|[2311.02102v1](http://arxiv.org/abs/2311.02102v1)|null|
 |**2023-10-31 13:27:04**|**Analyzing the Impact of Companies on AI Research Based on Publications**|Michael Färber et.al.|[2310.20444v1](http://arxiv.org/abs/2310.20444v1)|[link](https://github.com/LazaTabax/AI-Impact-Scientometrics)|
 |**2023-10-26 20:14:35**|**Forum on immune digital twins: a meeting report**|Reinhard Laubenbacher et.al.|[2310.18374v1](http://arxiv.org/abs/2310.18374v1)|null|
-|**2023-10-25 02:06:56**|**Producer-Side Experiments Based on Counterfactual Interleaving Designs   for Online Recommender Systems**|Yan Wang et.al.|[2310.16294v1](http://arxiv.org/abs/2310.16294v1)|null|
+|**2023-10-25 02:06:56**|**Producer-Side Experiments Based on Counterfactual Interleaving Designs   for Online Recommender Systems**|Yan Wang et.al.|[2310.16294v2](http://arxiv.org/abs/2310.16294v2)|null|
 |**2023-10-23 18:53:49**|**Early Career Perspectives For the NASA SMD Bridge Program**|Jenna M. Cann et.al.|[2310.15287v1](http://arxiv.org/abs/2310.15287v1)|null|
 |**2023-10-23 17:20:08**|**The Self 2.0: How AI-Enhanced Self-Clones Transform Self-Perception and   Improve Presentation Skills**|Qingxiao Zheng et.al.|[2310.15112v1](http://arxiv.org/abs/2310.15112v1)|null|
 |**2023-10-18 12:06:54**|**SHA-SCP: A UI Element Spatial Hierarchy Aware Smartphone User Click   Behavior Prediction Method**|Ling Chen et.al.|[2310.11915v1](http://arxiv.org/abs/2310.11915v1)|null|
