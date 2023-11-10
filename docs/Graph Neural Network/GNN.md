@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-09 14:32:57**|**SIRE: scale-invariant, rotation-equivariant estimation of artery   orientations using graph neural networks**|Dieuwertje Alblas et.al.|[2311.05400v1](http://arxiv.org/abs/2311.05400v1)|null|
+|**2023-11-09 13:03:13**|**Atom: Neural Traffic Compression with Spatio-Temporal Graph Neural   Networks**|Paul Almasan et.al.|[2311.05337v1](http://arxiv.org/abs/2311.05337v1)|null|
+|**2023-11-09 12:18:35**|**Strongly clustered random graphs via triadic closure: an exactly   solvable model**|Lorenzo Cirigliano et.al.|[2311.05312v1](http://arxiv.org/abs/2311.05312v1)|null|
+|**2023-11-09 07:45:05**|**Mixture of Weak & Strong Experts on Graphs**|Hanqing Zeng et.al.|[2311.05185v1](http://arxiv.org/abs/2311.05185v1)|null|
+|**2023-11-09 04:08:47**|**Materials Properties Prediction (MAPP): Empowering the prediction of   material properties solely based on chemical formulas**|Si-Da Xue et.al.|[2311.05133v1](http://arxiv.org/abs/2311.05133v1)|null|
 |**2023-11-08 17:01:35**|**Identifying Semantic Component for Robust Molecular Property Prediction**|Zijian Li et.al.|[2311.04837v1](http://arxiv.org/abs/2311.04837v1)|[link](https://github.com/dmirlab-group/sci)|
 |**2023-11-08 13:12:55**|**A Complex Network Analysis on The Eigenvalue Spectra of Random Spin   Systems**|Qiaomu Xue et.al.|[2311.04665v1](http://arxiv.org/abs/2311.04665v1)|null|
 |**2023-11-08 12:53:07**|**Hybrid Focal and Full-Range Attention Based Graph Transformers**|Minhong Zhu et.al.|[2311.04653v1](http://arxiv.org/abs/2311.04653v1)|null|
@@ -17,7 +22,7 @@
 |**2023-11-07 02:08:25**|**GNN-Based Beamforming for Sum-Rate Maximization in MU-MISO Networks**|Yuhang Li et.al.|[2311.03659v1](http://arxiv.org/abs/2311.03659v1)|null|
 |**2023-11-07 00:54:04**|**HKTGNN: Hierarchical Knowledge Transferable Graph Neural Network-based   Supply Chain Risk Assessment**|Zhanting Zhou et.al.|[2311.04244v1](http://arxiv.org/abs/2311.04244v1)|null|
 |**2023-11-06 22:29:55**|**Finding Increasingly Large Extremal Graphs with AlphaZero and Tabu   Search**|Abbas Mehrabian et.al.|[2311.03583v1](http://arxiv.org/abs/2311.03583v1)|null|
-|**2023-11-06 20:58:07**|**Brain Networks and Intelligence: A Graph Neural Network Based Approach   to Resting State fMRI Data**|Bishal Thapaliya et.al.|[2311.03520v1](http://arxiv.org/abs/2311.03520v1)|null|
+|**2023-11-06 20:58:07**|**Brain Networks and Intelligence: A Graph Neural Network Based Approach   to Resting State fMRI Data**|Bishal Thapaliya et.al.|[2311.03520v1](http://arxiv.org/abs/2311.03520v1)|[link](https://github.com/bishalth01/Brain-ROI-Aware-Graph-Isomorphism-Networks-BrainRGIN-)|
 |**2023-11-06 17:18:37**|**Exploiting Latent Attribute Interaction with Transformer on   Heterogeneous Information Networks**|Zeyuan Zhao et.al.|[2311.03275v1](http://arxiv.org/abs/2311.03275v1)|null|
 |**2023-11-06 16:47:17**|**From Coupled Oscillators to Graph Neural Networks: Reducing   Over-smoothing via a Kuramoto Model-based Approach**|Tuan Nguyen et.al.|[2311.03260v1](http://arxiv.org/abs/2311.03260v1)|null|
 |**2023-11-06 14:34:30**|**End-to-end Material Thermal Conductivity Prediction through Machine   Learning**|Yagyank Srivastava et.al.|[2311.03139v1](http://arxiv.org/abs/2311.03139v1)|null|
@@ -27,8 +32,3 @@
 |**2023-11-06 08:11:32**|**Contrastive Multi-Level Graph Neural Networks for Session-based   Recommendation**|Fuyun Wang et.al.|[2311.02938v1](http://arxiv.org/abs/2311.02938v1)|null|
 |**2023-11-06 07:28:16**|**Edge2Node: Reducing Edge Prediction to Node Classification**|Zahed Rahmati et.al.|[2311.02921v1](http://arxiv.org/abs/2311.02921v1)|[link](https://github.com/arahmatiiii/E2N)|
 |**2023-11-06 06:40:43**|**Distributed Matrix-Based Sampling for Graph Neural Network Training**|Alok Tripathy et.al.|[2311.02909v1](http://arxiv.org/abs/2311.02909v1)|null|
-|**2023-11-06 04:49:09**|**Lightweight equivariant interaction graph neural network for accurate   and efficient interatomic potential and force predictions**|Ziduo Yang et.al.|[2311.02869v1](http://arxiv.org/abs/2311.02869v1)|null|
-|**2023-11-06 02:58:05**|**Barron Space for Graph Convolution Neural Networks**|Seok-Young Chung et.al.|[2311.02838v1](http://arxiv.org/abs/2311.02838v1)|null|
-|**2023-11-06 02:38:35**|**Prioritized Propagation in Graph Neural Networks**|Yao Cheng et.al.|[2311.02832v1](http://arxiv.org/abs/2311.02832v1)|null|
-|**2023-11-05 20:29:40**|**ELEGANT: Certified Defense on the Fairness of Graph Neural Networks**|Yushun Dong et.al.|[2311.02757v1](http://arxiv.org/abs/2311.02757v1)|[link](https://github.com/yushundong/elegant)|
-|**2023-11-05 14:04:09**|**GSC: Generalizable Service Coordination**|Farzad Mohammadi et.al.|[2311.02657v1](http://arxiv.org/abs/2311.02657v1)|[link](https://github.com/farzad1132/GSC)|
