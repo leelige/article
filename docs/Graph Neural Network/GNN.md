@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-11-09 14:32:57**|**SIRE: scale-invariant, rotation-equivariant estimation of artery   orientations using graph neural networks**|Dieuwertje Alblas et.al.|[2311.05400v1](http://arxiv.org/abs/2311.05400v1)|null|
-|**2023-11-09 13:03:13**|**Atom: Neural Traffic Compression with Spatio-Temporal Graph Neural   Networks**|Paul Almasan et.al.|[2311.05337v1](http://arxiv.org/abs/2311.05337v1)|null|
+|**2023-11-09 13:03:13**|**Atom: Neural Traffic Compression with Spatio-Temporal Graph Neural   Networks**|Paul Almasan et.al.|[2311.05337v1](http://arxiv.org/abs/2311.05337v1)|[link](https://github.com/bnn-upc/atom_neural_traffic_compression)|
 |**2023-11-09 12:18:35**|**Strongly clustered random graphs via triadic closure: an exactly   solvable model**|Lorenzo Cirigliano et.al.|[2311.05312v1](http://arxiv.org/abs/2311.05312v1)|null|
 |**2023-11-09 07:45:05**|**Mixture of Weak & Strong Experts on Graphs**|Hanqing Zeng et.al.|[2311.05185v1](http://arxiv.org/abs/2311.05185v1)|null|
 |**2023-11-09 04:08:47**|**Materials Properties Prediction (MAPP): Empowering the prediction of   material properties solely based on chemical formulas**|Si-Da Xue et.al.|[2311.05133v1](http://arxiv.org/abs/2311.05133v1)|null|
