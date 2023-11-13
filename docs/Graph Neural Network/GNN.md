@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-10 17:13:26**|**FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure   Graph Perspective**|Kun Yi et.al.|[2311.06190v1](http://arxiv.org/abs/2311.06190v1)|null|
+|**2023-11-10 16:14:21**|**Interpretable Graph Anomaly Detection using Gradient Attention Maps**|Yifei Yang et.al.|[2311.06153v1](http://arxiv.org/abs/2311.06153v1)|null|
+|**2023-11-10 16:12:35**|**Going beyond persistent homology using persistent homology**|Johanna Immonen et.al.|[2311.06152v1](http://arxiv.org/abs/2311.06152v1)|null|
+|**2023-11-10 13:22:14**|**Privacy-Preserving Individual-Level COVID-19 Infection Prediction via   Federated Graph Learning**|Wenjie Fu et.al.|[2311.06049v1](http://arxiv.org/abs/2311.06049v1)|[link](https://github.com/wjfu99/FL-epidemic)|
+|**2023-11-10 00:00:20**|**Improvements on Uncertainty Quantification for Node Classification via   Distance-Based Regularization**|Russell Alan Hart et.al.|[2311.05795v1](http://arxiv.org/abs/2311.05795v1)|[link](https://github.com/neoques/graph-posterior-network)|
+|**2023-11-09 22:22:18**|**Dirichlet Energy Enhancement of Graph Neural Networks by Framelet   Augmentation**|Jialin Chen et.al.|[2311.05767v1](http://arxiv.org/abs/2311.05767v1)|null|
+|**2023-11-09 22:07:15**|**Generative Explanations for Graph Neural Network: Methods and   Evaluations**|Jialin Chen et.al.|[2311.05764v1](http://arxiv.org/abs/2311.05764v1)|null|
 |**2023-11-09 14:32:57**|**SIRE: scale-invariant, rotation-equivariant estimation of artery   orientations using graph neural networks**|Dieuwertje Alblas et.al.|[2311.05400v1](http://arxiv.org/abs/2311.05400v1)|null|
 |**2023-11-09 13:03:13**|**Atom: Neural Traffic Compression with Spatio-Temporal Graph Neural   Networks**|Paul Almasan et.al.|[2311.05337v1](http://arxiv.org/abs/2311.05337v1)|[link](https://github.com/bnn-upc/atom_neural_traffic_compression)|
 |**2023-11-09 12:18:35**|**Strongly clustered random graphs via triadic closure: an exactly   solvable model**|Lorenzo Cirigliano et.al.|[2311.05312v1](http://arxiv.org/abs/2311.05312v1)|null|
@@ -25,10 +32,3 @@
 |**2023-11-06 20:58:07**|**Brain Networks and Intelligence: A Graph Neural Network Based Approach   to Resting State fMRI Data**|Bishal Thapaliya et.al.|[2311.03520v1](http://arxiv.org/abs/2311.03520v1)|[link](https://github.com/bishalth01/Brain-ROI-Aware-Graph-Isomorphism-Networks-BrainRGIN-)|
 |**2023-11-06 17:18:37**|**Exploiting Latent Attribute Interaction with Transformer on   Heterogeneous Information Networks**|Zeyuan Zhao et.al.|[2311.03275v1](http://arxiv.org/abs/2311.03275v1)|null|
 |**2023-11-06 16:47:17**|**From Coupled Oscillators to Graph Neural Networks: Reducing   Over-smoothing via a Kuramoto Model-based Approach**|Tuan Nguyen et.al.|[2311.03260v1](http://arxiv.org/abs/2311.03260v1)|null|
-|**2023-11-06 14:34:30**|**End-to-end Material Thermal Conductivity Prediction through Machine   Learning**|Yagyank Srivastava et.al.|[2311.03139v1](http://arxiv.org/abs/2311.03139v1)|null|
-|**2023-11-06 14:10:40**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118v1](http://arxiv.org/abs/2311.03118v1)|null|
-|**2023-11-06 13:37:00**|**Equivariance Is Not All You Need: Characterizing the Utility of   Equivariant Graph Neural Networks for Particle Physics Tasks**|Savannah Thais et.al.|[2311.03094v1](http://arxiv.org/abs/2311.03094v1)|null|
-|**2023-11-06 09:44:00**|**PowerFlowNet: Leveraging Message Passing GNNs for Improved Power Flow   Approximation**|Nan Lin et.al.|[2311.03415v1](http://arxiv.org/abs/2311.03415v1)|null|
-|**2023-11-06 08:11:32**|**Contrastive Multi-Level Graph Neural Networks for Session-based   Recommendation**|Fuyun Wang et.al.|[2311.02938v1](http://arxiv.org/abs/2311.02938v1)|null|
-|**2023-11-06 07:28:16**|**Edge2Node: Reducing Edge Prediction to Node Classification**|Zahed Rahmati et.al.|[2311.02921v1](http://arxiv.org/abs/2311.02921v1)|[link](https://github.com/arahmatiiii/E2N)|
-|**2023-11-06 06:40:43**|**Distributed Matrix-Based Sampling for Graph Neural Network Training**|Alok Tripathy et.al.|[2311.02909v1](http://arxiv.org/abs/2311.02909v1)|null|
