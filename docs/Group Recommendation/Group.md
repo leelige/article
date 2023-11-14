@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-13 03:42:17**|**Do LLMs Implicitly Exhibit User Discrimination in Recommendation? An   Empirical Study**|Chen Xu et.al.|[2311.07054v1](http://arxiv.org/abs/2311.07054v1)|null|
+|**2023-11-11 23:32:42**|**Metric Optimization and Mainstream Bias Mitigation in Recommender   Systems**|Roger Zhe Li et.al.|[2311.06689v1](http://arxiv.org/abs/2311.06689v1)|null|
 |**2023-11-09 13:37:27**|**ITRUSST Consensus on Biophysical Safety for Transcranial Ultrasonic   Stimulation**|Jean-Francois Aubry et.al.|[2311.05359v1](http://arxiv.org/abs/2311.05359v1)|null|
 |**2023-11-08 10:44:20**|**Rethinking Cross-Domain Sequential Recommendation under Open-World   Assumptions**|Wujiang Xu et.al.|[2311.04590v1](http://arxiv.org/abs/2311.04590v1)|null|
 |**2023-11-08 09:35:38**|**Assessing crop diversity across scales using high-resolution remote   sensing over the European Union: first insights for agro-environmental   policies**|Melissande Machefer et.al.|[2311.04551v1](http://arxiv.org/abs/2311.04551v1)|null|
@@ -30,5 +32,3 @@
 |**2023-09-27 05:48:05**|**Automatic Feature Fairness in Recommendation via Adversaries**|Hengchang Hu et.al.|[2309.15418v1](http://arxiv.org/abs/2309.15418v1)|[link](https://github.com/holdenhu/advfm)|
 |**2023-09-24 15:34:56**|**Survey of Social Bias in Vision-Language Models**|Nayeon Lee et.al.|[2309.14381v1](http://arxiv.org/abs/2309.14381v1)|null|
 |**2023-09-23 07:38:56**|**Interactive Content Diversity and User Exploration in Online Movie   Recommenders: A Field Experiment**|Ruixuan Sun et.al.|[2309.13296v1](http://arxiv.org/abs/2309.13296v1)|null|
-|**2023-09-19 17:31:29**|**Towards affective computing that works for everyone**|Tessa Verhoef et.al.|[2309.10780v1](http://arxiv.org/abs/2309.10780v1)|null|
-|**2023-09-19 15:04:55**|**Social Interactions Mediated by the Internet and the Big- Five: a   Cross-Country Analysis**|Andrea Mercado et.al.|[2309.10681v1](http://arxiv.org/abs/2309.10681v1)|null|
