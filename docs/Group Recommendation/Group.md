@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-14 16:07:16**|**Mixed Attention Network for Cross-domain Sequential Recommendation**|Guanyu Lin et.al.|[2311.08272v1](http://arxiv.org/abs/2311.08272v1)|[link](https://github.com/guanyu-lin/man)|
 |**2023-11-13 03:42:17**|**Do LLMs Implicitly Exhibit User Discrimination in Recommendation? An   Empirical Study**|Chen Xu et.al.|[2311.07054v1](http://arxiv.org/abs/2311.07054v1)|null|
 |**2023-11-11 23:32:42**|**Metric Optimization and Mainstream Bias Mitigation in Recommender   Systems**|Roger Zhe Li et.al.|[2311.06689v1](http://arxiv.org/abs/2311.06689v1)|null|
 |**2023-11-09 13:37:27**|**ITRUSST Consensus on Biophysical Safety for Transcranial Ultrasonic   Stimulation**|Jean-Francois Aubry et.al.|[2311.05359v1](http://arxiv.org/abs/2311.05359v1)|null|
@@ -31,4 +32,3 @@
 |**2023-09-28 10:29:51**|**Multi-Granularity Click Confidence Learning via Self-Distillation in   Recommendation**|Chong Liu et.al.|[2309.16322v1](http://arxiv.org/abs/2309.16322v1)|null|
 |**2023-09-27 05:48:05**|**Automatic Feature Fairness in Recommendation via Adversaries**|Hengchang Hu et.al.|[2309.15418v1](http://arxiv.org/abs/2309.15418v1)|[link](https://github.com/holdenhu/advfm)|
 |**2023-09-24 15:34:56**|**Survey of Social Bias in Vision-Language Models**|Nayeon Lee et.al.|[2309.14381v1](http://arxiv.org/abs/2309.14381v1)|null|
-|**2023-09-23 07:38:56**|**Interactive Content Diversity and User Exploration in Online Movie   Recommenders: A Field Experiment**|Ruixuan Sun et.al.|[2309.13296v1](http://arxiv.org/abs/2309.13296v1)|null|
