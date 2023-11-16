@@ -2,9 +2,17 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-15 18:00:17**|**Leaving No Branches Behind: Predicting Baryonic Properties of Galaxies   from Merger Trees**|Chen-Yu Chuang et.al.|[2311.09162v1](http://arxiv.org/abs/2311.09162v1)|null|
+|**2023-11-15 09:11:37**|**X-GRL: An Empirical Assessment of Explainable GNN-DRL in B5G/6G Networks**|Farhad Rezazadeh et.al.|[2311.08798v1](http://arxiv.org/abs/2311.08798v1)|null|
+|**2023-11-15 08:54:57**|**Language Semantic Graph Guided Data-Efficient Learning**|Wenxuan Ma et.al.|[2311.08782v1](http://arxiv.org/abs/2311.08782v1)|null|
+|**2023-11-15 06:35:01**|**Method for Text Entity Linking in Power Distribution Scheduling Oriented   to Power Distribution Network Knowledge Graph**|Xiang Li et.al.|[2311.08724v1](http://arxiv.org/abs/2311.08724v1)|null|
+|**2023-11-15 01:22:47**|**Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event   Prediction**|Guangyin Jin et.al.|[2311.08635v1](http://arxiv.org/abs/2311.08635v1)|null|
+|**2023-11-14 23:13:59**|**Unsupervised segmentation of irradiation$\unicode{x2010}$induced   order$\unicode{x2010}$disorder phase transitions in electron microscopy**|Arman H Ter-Petrosyan et.al.|[2311.08585v1](http://arxiv.org/abs/2311.08585v1)|null|
+|**2023-11-14 20:55:40**|**SceneScore: Learning a Cost Function for Object Arrangement**|Ivan Kapelyukh et.al.|[2311.08530v1](http://arxiv.org/abs/2311.08530v1)|null|
 |**2023-11-14 16:06:11**|**Mobility-Induced Graph Learning for WiFi Positioning**|Kyuwon Han et.al.|[2311.08271v1](http://arxiv.org/abs/2311.08271v1)|null|
-|**2023-11-14 12:33:19**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente et.al.|[2311.08118v1](http://arxiv.org/abs/2311.08118v1)|null|
+|**2023-11-14 12:33:19**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente et.al.|[2311.08118v1](http://arxiv.org/abs/2311.08118v1)|[link](https://github.com/ericssonresearch/gnn-neighbors-xai)|
 |**2023-11-14 07:44:46**|**Higher-Order Expander Graph Propagation**|Thomas Christie et.al.|[2311.07966v1](http://arxiv.org/abs/2311.07966v1)|null|
+|**2023-11-14 07:21:00**|**Uplift Modeling based on Graph Neural Network Combined with Causal   Knowledge**|Haowen Wang et.al.|[2311.08434v1](http://arxiv.org/abs/2311.08434v1)|null|
 |**2023-11-14 06:15:16**|**Self-supervised Heterogeneous Graph Variational Autoencoders**|Yige Zhao et.al.|[2311.07929v1](http://arxiv.org/abs/2311.07929v1)|null|
 |**2023-11-14 03:00:39**|**Hybrid GRU-CNN Bilinear Parameters Initialization for Quantum   Approximate Optimization Algorithm**|Zuyu Xu et.al.|[2311.07869v1](http://arxiv.org/abs/2311.07869v1)|null|
 |**2023-11-14 02:12:41**|**Topological and spectral properties of random digraphs**|C. T. Martínez-Martínez et.al.|[2311.07854v1](http://arxiv.org/abs/2311.07854v1)|null|
@@ -24,11 +32,3 @@
 |**2023-11-12 13:30:31**|**GraNNDis: Efficient Unified Distributed Training Framework for Deep GNNs   on Large Clusters**|Jaeyong Song et.al.|[2311.06837v1](http://arxiv.org/abs/2311.06837v1)|null|
 |**2023-11-12 07:45:35**|**CLAMP: A Contrastive Language And Molecule Pre-training Network**|Neel Redkar et.al.|[2311.07617v1](http://arxiv.org/abs/2311.07617v1)|[link](https://github.com/neelr/clamp)|
 |**2023-11-11 12:10:16**|**Identification of vortex in unstructured mesh with graph neural networks**|Lianfa Wang et.al.|[2311.06557v1](http://arxiv.org/abs/2311.06557v1)|null|
-|**2023-11-11 12:04:47**|**Graph ODE with Factorized Prototypes for Modeling Complicated   Interacting Dynamics**|Xiao Luo et.al.|[2311.06554v1](http://arxiv.org/abs/2311.06554v1)|null|
-|**2023-11-11 01:58:45**|**Asymmetric Contrastive Multimodal Learning for Advancing Chemical   Understanding**|Hao Xu et.al.|[2311.06456v1](http://arxiv.org/abs/2311.06456v1)|null|
-|**2023-11-10 22:42:11**|**A Computationally Efficient Hybrid Neural Network Architecture for   Porous Media: Integrating CNNs and GNNs for Improved Permeability Prediction**|Qingqi Zhao et.al.|[2311.06418v1](http://arxiv.org/abs/2311.06418v1)|null|
-|**2023-11-10 19:00:02**|**Schema Graph-Guided Prompt for Multi-Domain Dialogue State Tracking**|Ruolin Su et.al.|[2311.06345v1](http://arxiv.org/abs/2311.06345v1)|null|
-|**2023-11-10 17:13:26**|**FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure   Graph Perspective**|Kun Yi et.al.|[2311.06190v1](http://arxiv.org/abs/2311.06190v1)|null|
-|**2023-11-10 16:14:21**|**Interpretable Graph Anomaly Detection using Gradient Attention Maps**|Yifei Yang et.al.|[2311.06153v1](http://arxiv.org/abs/2311.06153v1)|null|
-|**2023-11-10 16:12:35**|**Going beyond persistent homology using persistent homology**|Johanna Immonen et.al.|[2311.06152v1](http://arxiv.org/abs/2311.06152v1)|null|
-|**2023-11-10 13:22:14**|**Privacy-Preserving Individual-Level COVID-19 Infection Prediction via   Federated Graph Learning**|Wenjie Fu et.al.|[2311.06049v1](http://arxiv.org/abs/2311.06049v1)|[link](https://github.com/wjfu99/fl-epidemic)|
