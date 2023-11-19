@@ -2,10 +2,18 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-16 15:29:21**|**VertDetect: Fully End-to-End 3D Vertebral Instance Segmentation Model**|Geoff Klein et.al.|[2311.09958v1](http://arxiv.org/abs/2311.09958v1)|null|
+|**2023-11-16 12:32:13**|**Scoring Anomalous Vertices Through Quantum Walks**|Andrew Vlasic et.al.|[2311.09855v1](http://arxiv.org/abs/2311.09855v1)|null|
+|**2023-11-16 10:58:34**|**MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware   Mixed-Precision Quantization**|Zeyu Zhu et.al.|[2311.09775v1](http://arxiv.org/abs/2311.09775v1)|null|
+|**2023-11-16 07:14:50**|**Apoptosis classification using attention based spatio temporal graph   convolution neural network**|Akash Awasthi et.al.|[2311.09623v1](http://arxiv.org/abs/2311.09623v1)|null|
+|**2023-11-16 02:43:13**|**Know Thy Neighbors: A Graph Based Approach for Effective Sensor-Based   Human Activity Recognition in Smart Homes**|Srivatsa P et.al.|[2311.09514v1](http://arxiv.org/abs/2311.09514v1)|null|
+|**2023-11-15 21:06:49**|**HypOp: Distributed Constrained Combinatorial Optimization leveraging   Hypergraph Neural Networks**|Nasimeh Heydaribeni et.al.|[2311.09375v1](http://arxiv.org/abs/2311.09375v1)|null|
 |**2023-11-15 18:00:17**|**Leaving No Branches Behind: Predicting Baryonic Properties of Galaxies   from Merger Trees**|Chen-Yu Chuang et.al.|[2311.09162v1](http://arxiv.org/abs/2311.09162v1)|null|
 |**2023-11-15 09:11:37**|**X-GRL: An Empirical Assessment of Explainable GNN-DRL in B5G/6G Networks**|Farhad Rezazadeh et.al.|[2311.08798v1](http://arxiv.org/abs/2311.08798v1)|null|
 |**2023-11-15 08:54:57**|**Language Semantic Graph Guided Data-Efficient Learning**|Wenxuan Ma et.al.|[2311.08782v1](http://arxiv.org/abs/2311.08782v1)|null|
+|**2023-11-15 07:21:11**|**Disentangling the Potential Impacts of Papers into Diffusion,   Conformity, and Contribution Values**|Zhikai Xue et.al.|[2311.09262v1](http://arxiv.org/abs/2311.09262v1)|null|
 |**2023-11-15 06:35:01**|**Method for Text Entity Linking in Power Distribution Scheduling Oriented   to Power Distribution Network Knowledge Graph**|Xiang Li et.al.|[2311.08724v1](http://arxiv.org/abs/2311.08724v1)|null|
+|**2023-11-15 06:34:00**|**Emerging Drug Interaction Prediction Enabled by Flow-based Graph Neural   Network with Biomedical Network**|Yongqi Zhang et.al.|[2311.09261v1](http://arxiv.org/abs/2311.09261v1)|[link](https://github.com/lars-research/emergnn)|
 |**2023-11-15 01:22:47**|**Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event   Prediction**|Guangyin Jin et.al.|[2311.08635v1](http://arxiv.org/abs/2311.08635v1)|null|
 |**2023-11-14 23:13:59**|**Unsupervised segmentation of irradiation$\unicode{x2010}$induced   order$\unicode{x2010}$disorder phase transitions in electron microscopy**|Arman H Ter-Petrosyan et.al.|[2311.08585v1](http://arxiv.org/abs/2311.08585v1)|null|
 |**2023-11-14 20:55:40**|**SceneScore: Learning a Cost Function for Object Arrangement**|Ivan Kapelyukh et.al.|[2311.08530v1](http://arxiv.org/abs/2311.08530v1)|null|
@@ -24,11 +32,3 @@
 |**2023-11-13 13:20:54**|**Connecting the Dots: Graph Neural Network Powered Ensemble and   Classification of Medical Images**|Aryan Singh et.al.|[2311.07321v1](http://arxiv.org/abs/2311.07321v1)|[link](https://github.com/aryan-at-ul/aics_2023_submission)|
 |**2023-11-13 13:16:35**|**ResMGCN: Residual Message Graph Convolution Network for Fast Biomedical   Interactions Discovering**|Zecheng Yin et.al.|[2311.07632v1](http://arxiv.org/abs/2311.07632v1)|null|
 |**2023-11-13 09:46:05**|**Optical Quantum Sensing for Agnostic Environments via Deep Learning**|Zeqiao Zhou et.al.|[2311.07203v1](http://arxiv.org/abs/2311.07203v1)|null|
-|**2023-11-13 07:40:23**|**Untargeted Black-box Attacks for Social Recommendations**|Wenqi Fan et.al.|[2311.07127v1](http://arxiv.org/abs/2311.07127v1)|null|
-|**2023-11-13 06:40:31**|**Collaborative Goal Tracking of Multiple Mobile Robots Based on Geometric   Graph Neural Network**|Qingquan Lin et.al.|[2311.07105v1](http://arxiv.org/abs/2311.07105v1)|null|
-|**2023-11-13 04:40:13**|**Exposition on over-squashing problem on GNNs: Current Methods,   Benchmarks and Challenges**|Dai Shi et.al.|[2311.07073v1](http://arxiv.org/abs/2311.07073v1)|null|
-|**2023-11-12 20:06:48**|**Contractive Systems Improve Graph Neural Networks Against Adversarial   Attacks**|Moshe Eliasof et.al.|[2311.06942v1](http://arxiv.org/abs/2311.06942v1)|null|
-|**2023-11-12 16:21:29**|**Preserving Node-level Privacy in Graph Neural Networks**|Zihang Xiang et.al.|[2311.06888v1](http://arxiv.org/abs/2311.06888v1)|null|
-|**2023-11-12 13:30:31**|**GraNNDis: Efficient Unified Distributed Training Framework for Deep GNNs   on Large Clusters**|Jaeyong Song et.al.|[2311.06837v1](http://arxiv.org/abs/2311.06837v1)|null|
-|**2023-11-12 07:45:35**|**CLAMP: A Contrastive Language And Molecule Pre-training Network**|Neel Redkar et.al.|[2311.07617v1](http://arxiv.org/abs/2311.07617v1)|[link](https://github.com/neelr/clamp)|
-|**2023-11-11 12:10:16**|**Identification of vortex in unstructured mesh with graph neural networks**|Lianfa Wang et.al.|[2311.06557v1](http://arxiv.org/abs/2311.06557v1)|null|
