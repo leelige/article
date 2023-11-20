@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-17 16:04:41**|**TacFR-Gripper: A Reconfigurable Fin Ray-Based Compliant Robotic Gripper   with Tactile Skin for In-Hand Manipulation**|Qingzheng Cong et.al.|[2311.10611v1](http://arxiv.org/abs/2311.10611v1)|null|
+|**2023-11-17 15:30:12**|**Graph Neural Networks for Pressure Estimation in Water Distribution   Systems**|Huy Truong et.al.|[2311.10579v1](http://arxiv.org/abs/2311.10579v1)|[link](https://github.com/ditec-project/gnn-pressure-estimation)|
+|**2023-11-17 13:31:19**|**Causal Fairness-Guided Dataset Reweighting using Neural Networks**|Xuan Zhao et.al.|[2311.10512v1](http://arxiv.org/abs/2311.10512v1)|null|
+|**2023-11-17 03:59:50**|**Graph Sparsifications using Neural Network Assisted Monte Carlo Tree   Search**|Alvin Chiu et.al.|[2311.10316v1](http://arxiv.org/abs/2311.10316v1)|[link](https://github.com/abureyanahmed/gnn-msts-sparsification)|
+|**2023-11-17 01:30:43**|**Multiscale Hodge Scattering Networks for Data Analysis**|Naoki Saito et.al.|[2311.10270v1](http://arxiv.org/abs/2311.10270v1)|null|
+|**2023-11-16 20:40:59**|**TAPA-CS: Enabling Scalable Accelerator Design on Distributed HBM-FPGAs**|Neha Prakriya et.al.|[2311.10189v1](http://arxiv.org/abs/2311.10189v1)|null|
+|**2023-11-16 19:24:20**|**Algebraic Topological Networks via the Persistent Local Homology Sheaf**|Gabriele Cesa et.al.|[2311.10156v1](http://arxiv.org/abs/2311.10156v1)|null|
 |**2023-11-16 15:29:21**|**VertDetect: Fully End-to-End 3D Vertebral Instance Segmentation Model**|Geoff Klein et.al.|[2311.09958v1](http://arxiv.org/abs/2311.09958v1)|null|
 |**2023-11-16 12:32:13**|**Scoring Anomalous Vertices Through Quantum Walks**|Andrew Vlasic et.al.|[2311.09855v1](http://arxiv.org/abs/2311.09855v1)|null|
 |**2023-11-16 10:58:34**|**MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware   Mixed-Precision Quantization**|Zeyu Zhu et.al.|[2311.09775v1](http://arxiv.org/abs/2311.09775v1)|null|
@@ -25,10 +32,3 @@
 |**2023-11-14 03:00:39**|**Hybrid GRU-CNN Bilinear Parameters Initialization for Quantum   Approximate Optimization Algorithm**|Zuyu Xu et.al.|[2311.07869v1](http://arxiv.org/abs/2311.07869v1)|null|
 |**2023-11-14 02:12:41**|**Topological and spectral properties of random digraphs**|C. T. Martínez-Martínez et.al.|[2311.07854v1](http://arxiv.org/abs/2311.07854v1)|null|
 |**2023-11-13 19:15:18**|**Correlated volumes for extended wavefunctions on a random-regular graph**|Manuel Pino et.al.|[2311.07690v1](http://arxiv.org/abs/2311.07690v1)|null|
-|**2023-11-13 19:00:02**|**Safe but Incalculable: Energy-weighting is not all you need**|Samuel Bright-Thonney et.al.|[2311.07652v1](http://arxiv.org/abs/2311.07652v1)|null|
-|**2023-11-13 18:37:07**|**Interpretable Fine-Tuning for Graph Neural Network Surrogate Models**|Shivam Barwey et.al.|[2311.07548v1](http://arxiv.org/abs/2311.07548v1)|null|
-|**2023-11-13 15:54:09**|**Three-dimensional granular flow simulation using graph neural   network-based learned simulator**|Yongjin Choi et.al.|[2311.07416v1](http://arxiv.org/abs/2311.07416v1)|null|
-|**2023-11-13 14:19:36**|**ADAMM: Anomaly Detection of Attributed Multi-graphs with Metadata: A   Unified Neural Network Approach**|Konstantinos Sotiropoulos et.al.|[2311.07355v1](http://arxiv.org/abs/2311.07355v1)|[link](https://github.com/konsotirop/adamm)|
-|**2023-11-13 13:20:54**|**Connecting the Dots: Graph Neural Network Powered Ensemble and   Classification of Medical Images**|Aryan Singh et.al.|[2311.07321v1](http://arxiv.org/abs/2311.07321v1)|[link](https://github.com/aryan-at-ul/aics_2023_submission)|
-|**2023-11-13 13:16:35**|**ResMGCN: Residual Message Graph Convolution Network for Fast Biomedical   Interactions Discovering**|Zecheng Yin et.al.|[2311.07632v1](http://arxiv.org/abs/2311.07632v1)|null|
-|**2023-11-13 09:46:05**|**Optical Quantum Sensing for Agnostic Environments via Deep Learning**|Zeqiao Zhou et.al.|[2311.07203v1](http://arxiv.org/abs/2311.07203v1)|null|
