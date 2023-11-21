@@ -2,6 +2,17 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-20 16:24:23**|**AMES: A Differentiable Embedding Space Selection Framework for Latent   Graph Inference**|Yuan Lu et.al.|[2311.11891v1](http://arxiv.org/abs/2311.11891v1)|null|
+|**2023-11-20 14:07:38**|**Robust Tumor Segmentation with Hyperspectral Imaging and Graph Neural   Networks**|Mayar Lotfy et.al.|[2311.11782v1](http://arxiv.org/abs/2311.11782v1)|null|
+|**2023-11-20 13:39:19**|**Unveiling the Unseen Potential of Graph Learning through MLPs: Effective   Graph Learners Using Propagation-Embracing MLPs**|Yong-Min Shin et.al.|[2311.11759v1](http://arxiv.org/abs/2311.11759v1)|null|
+|**2023-11-20 00:57:30**|**CSGNN: Conquering Noisy Node labels via Dynamic Class-wise Selection**|Yifan Li et.al.|[2311.11473v1](http://arxiv.org/abs/2311.11473v1)|null|
+|**2023-11-19 16:34:56**|**Self-Supervised Pretraining for Heterogeneous Hypergraph Neural Networks**|Abdalgader Abubaker et.al.|[2311.11368v1](http://arxiv.org/abs/2311.11368v1)|null|
+|**2023-11-19 16:20:28**|**Local environment-based machine learning for molecular adsorption energy   prediction**|Yifan Li et.al.|[2311.11364v1](http://arxiv.org/abs/2311.11364v1)|null|
+|**2023-11-19 04:52:05**|**A Universal Framework for Accurate and Efficient Geometric Deep Learning   of Molecular Systems**|Shuo Zhang et.al.|[2311.11228v1](http://arxiv.org/abs/2311.11228v1)|[link](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)|
+|**2023-11-18 21:01:38**|**Benchmarking Machine Learning Models for Quantum Error Correction**|Tim Fu et.al.|[2311.11167v1](http://arxiv.org/abs/2311.11167v1)|null|
+|**2023-11-18 16:31:10**|**Environment-Aware Dynamic Graph Learning for Out-of-Distribution   Generalization**|Haonan Yuan et.al.|[2311.11114v1](http://arxiv.org/abs/2311.11114v1)|[link](https://github.com/ringbdstack/eagle)|
+|**2023-11-18 04:33:26**|**2d Quantum Breakdown Model with Krylov Subspace Many-Body Localization**|Xinyu Liu et.al.|[2311.10968v1](http://arxiv.org/abs/2311.10968v1)|null|
+|**2023-11-17 17:57:56**|**Multiparameter Persistent Homology for Molecular Property Prediction**|Andac Demir et.al.|[2311.10808v1](http://arxiv.org/abs/2311.10808v1)|null|
 |**2023-11-17 16:04:41**|**TacFR-Gripper: A Reconfigurable Fin Ray-Based Compliant Robotic Gripper   with Tactile Skin for In-Hand Manipulation**|Qingzheng Cong et.al.|[2311.10611v1](http://arxiv.org/abs/2311.10611v1)|null|
 |**2023-11-17 15:30:12**|**Graph Neural Networks for Pressure Estimation in Water Distribution   Systems**|Huy Truong et.al.|[2311.10579v1](http://arxiv.org/abs/2311.10579v1)|[link](https://github.com/ditec-project/gnn-pressure-estimation)|
 |**2023-11-17 13:31:19**|**Causal Fairness-Guided Dataset Reweighting using Neural Networks**|Xuan Zhao et.al.|[2311.10512v1](http://arxiv.org/abs/2311.10512v1)|null|
@@ -21,14 +32,3 @@
 |**2023-11-15 07:21:11**|**Disentangling the Potential Impacts of Papers into Diffusion,   Conformity, and Contribution Values**|Zhikai Xue et.al.|[2311.09262v1](http://arxiv.org/abs/2311.09262v1)|null|
 |**2023-11-15 06:35:01**|**Method for Text Entity Linking in Power Distribution Scheduling Oriented   to Power Distribution Network Knowledge Graph**|Xiang Li et.al.|[2311.08724v1](http://arxiv.org/abs/2311.08724v1)|null|
 |**2023-11-15 06:34:00**|**Emerging Drug Interaction Prediction Enabled by Flow-based Graph Neural   Network with Biomedical Network**|Yongqi Zhang et.al.|[2311.09261v1](http://arxiv.org/abs/2311.09261v1)|[link](https://github.com/lars-research/emergnn)|
-|**2023-11-15 01:22:47**|**Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event   Prediction**|Guangyin Jin et.al.|[2311.08635v1](http://arxiv.org/abs/2311.08635v1)|null|
-|**2023-11-14 23:13:59**|**Unsupervised segmentation of irradiation$\unicode{x2010}$induced   order$\unicode{x2010}$disorder phase transitions in electron microscopy**|Arman H Ter-Petrosyan et.al.|[2311.08585v1](http://arxiv.org/abs/2311.08585v1)|null|
-|**2023-11-14 20:55:40**|**SceneScore: Learning a Cost Function for Object Arrangement**|Ivan Kapelyukh et.al.|[2311.08530v1](http://arxiv.org/abs/2311.08530v1)|null|
-|**2023-11-14 16:06:11**|**Mobility-Induced Graph Learning for WiFi Positioning**|Kyuwon Han et.al.|[2311.08271v1](http://arxiv.org/abs/2311.08271v1)|null|
-|**2023-11-14 12:33:19**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente et.al.|[2311.08118v1](http://arxiv.org/abs/2311.08118v1)|[link](https://github.com/ericssonresearch/gnn-neighbors-xai)|
-|**2023-11-14 07:44:46**|**Higher-Order Expander Graph Propagation**|Thomas Christie et.al.|[2311.07966v1](http://arxiv.org/abs/2311.07966v1)|null|
-|**2023-11-14 07:21:00**|**Uplift Modeling based on Graph Neural Network Combined with Causal   Knowledge**|Haowen Wang et.al.|[2311.08434v1](http://arxiv.org/abs/2311.08434v1)|null|
-|**2023-11-14 06:15:16**|**Self-supervised Heterogeneous Graph Variational Autoencoders**|Yige Zhao et.al.|[2311.07929v1](http://arxiv.org/abs/2311.07929v1)|null|
-|**2023-11-14 03:00:39**|**Hybrid GRU-CNN Bilinear Parameters Initialization for Quantum   Approximate Optimization Algorithm**|Zuyu Xu et.al.|[2311.07869v1](http://arxiv.org/abs/2311.07869v1)|null|
-|**2023-11-14 02:12:41**|**Topological and spectral properties of random digraphs**|C. T. Martínez-Martínez et.al.|[2311.07854v1](http://arxiv.org/abs/2311.07854v1)|null|
-|**2023-11-13 19:15:18**|**Correlated volumes for extended wavefunctions on a random-regular graph**|Manuel Pino et.al.|[2311.07690v1](http://arxiv.org/abs/2311.07690v1)|null|

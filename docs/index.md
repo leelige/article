@@ -1,11 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2023-11-20 16:09:22 Asia/Shanghai
+ 自动更新 @ 2023-11-21 16:09:03 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-19 05:59:19**|**Dependency Relationships-Enhanced Attentive Group Recommendation in HINs**|Juntao Zhang et.al.|[2311.11239v1](http://arxiv.org/abs/2311.11239v1)|null|
+|**2023-11-19 01:00:59**|**Assessing AI Impact Assessments: A Classroom Study**|Nari Johnson et.al.|[2311.11193v1](http://arxiv.org/abs/2311.11193v1)|null|
 |**2023-11-16 05:23:53**|**Group-Aware Interest Disentangled Dual-Training for Personalized   Recommendation**|Xiaolong Liu et.al.|[2311.09577v1](http://arxiv.org/abs/2311.09577v1)|[link](https://github.com/xiaolong-liu-bdsc/igrec)|
 |**2023-11-16 01:40:07**|**Peer Reviews of Peer Reviews: A Randomized Controlled Trial and Other   Experiments**|Alexander Goldberg et.al.|[2311.09497v1](http://arxiv.org/abs/2311.09497v1)|null|
 |**2023-11-14 16:07:16**|**Mixed Attention Network for Cross-domain Sequential Recommendation**|Guanyu Lin et.al.|[2311.08272v1](http://arxiv.org/abs/2311.08272v1)|[link](https://github.com/guanyu-lin/man)|
@@ -17,6 +19,7 @@
 |**2023-11-03 18:32:24**|**All People, One Sky: A Foundation for IAU CPS Community Engagement**|John C. Barentine et.al.|[2311.02184v1](http://arxiv.org/abs/2311.02184v1)|null|
 |**2023-11-01 22:20:14**|**Notion of Explainable Artificial Intelligence -- An Empirical   Investigation from A Users Perspective**|AKM Bahalul Haque et.al.|[2311.02102v1](http://arxiv.org/abs/2311.02102v1)|null|
 |**2023-10-31 13:27:04**|**Analyzing the Impact of Companies on AI Research Based on Publications**|Michael Färber et.al.|[2310.20444v1](http://arxiv.org/abs/2310.20444v1)|[link](https://github.com/LazaTabax/AI-Impact-Scientometrics)|
+|**2023-10-30 19:57:40**|**Advancing a Model of Students' Intentional Persistence in Machine   Learning and Artificial Intelligence**|Sharon Ferguson et.al.|[2311.10744v1](http://arxiv.org/abs/2311.10744v1)|null|
 |**2023-10-26 20:14:35**|**Forum on immune digital twins: a meeting report**|Reinhard Laubenbacher et.al.|[2310.18374v1](http://arxiv.org/abs/2310.18374v1)|null|
 |**2023-10-25 02:06:56**|**Producer-Side Experiments Based on Counterfactual Interleaving Designs   for Online Recommender Systems**|Yan Wang et.al.|[2310.16294v2](http://arxiv.org/abs/2310.16294v2)|null|
 |**2023-10-23 18:53:49**|**Early Career Perspectives For the NASA SMD Bridge Program**|Jenna M. Cann et.al.|[2310.15287v1](http://arxiv.org/abs/2310.15287v1)|null|
@@ -33,15 +36,23 @@
 |**2023-10-04 08:35:54**|**Affirmative Action in India: Restricted Strategy Space, Complex   Constraints, and Direct Mechanism Design**|Orhan Aygün et.al.|[2310.02660v1](http://arxiv.org/abs/2310.02660v1)|null|
 |**2023-10-04 01:40:03**|**Who Audits the Auditors? Recommendations from a field scan of the   algorithmic auditing ecosystem**|Sasha Costanza-Chock et.al.|[2310.02521v1](http://arxiv.org/abs/2310.02521v1)|null|
 |**2023-10-03 18:35:08**|**Descriptive Discriminant Analysis of Multivariate Repeated Measures   Data: A Use Case**|Ricarda Graf et.al.|[2310.02359v1](http://arxiv.org/abs/2310.02359v1)|null|
-|**2023-10-02 21:18:57**|**Strategic Information Attacks on Incentive-Compatible Navigational   Recommendations in Intelligent Transportation Systems**|Ya-Ting Yang et.al.|[2310.01646v1](http://arxiv.org/abs/2310.01646v1)|null|
-|**2023-09-29 17:26:44**|**Networked Inequality: Preferential Attachment Bias in Graph Neural   Network Link Prediction**|Arjun Subramonian et.al.|[2309.17417v1](http://arxiv.org/abs/2309.17417v1)|[link](https://github.com/arjunsubramonian/link_bias_amplification)|
-|**2023-09-28 10:29:51**|**Multi-Granularity Click Confidence Learning via Self-Distillation in   Recommendation**|Chong Liu et.al.|[2309.16322v1](http://arxiv.org/abs/2309.16322v1)|null|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-20 16:24:23**|**AMES: A Differentiable Embedding Space Selection Framework for Latent   Graph Inference**|Yuan Lu et.al.|[2311.11891v1](http://arxiv.org/abs/2311.11891v1)|null|
+|**2023-11-20 14:07:38**|**Robust Tumor Segmentation with Hyperspectral Imaging and Graph Neural   Networks**|Mayar Lotfy et.al.|[2311.11782v1](http://arxiv.org/abs/2311.11782v1)|null|
+|**2023-11-20 13:39:19**|**Unveiling the Unseen Potential of Graph Learning through MLPs: Effective   Graph Learners Using Propagation-Embracing MLPs**|Yong-Min Shin et.al.|[2311.11759v1](http://arxiv.org/abs/2311.11759v1)|null|
+|**2023-11-20 00:57:30**|**CSGNN: Conquering Noisy Node labels via Dynamic Class-wise Selection**|Yifan Li et.al.|[2311.11473v1](http://arxiv.org/abs/2311.11473v1)|null|
+|**2023-11-19 16:34:56**|**Self-Supervised Pretraining for Heterogeneous Hypergraph Neural Networks**|Abdalgader Abubaker et.al.|[2311.11368v1](http://arxiv.org/abs/2311.11368v1)|null|
+|**2023-11-19 16:20:28**|**Local environment-based machine learning for molecular adsorption energy   prediction**|Yifan Li et.al.|[2311.11364v1](http://arxiv.org/abs/2311.11364v1)|null|
+|**2023-11-19 04:52:05**|**A Universal Framework for Accurate and Efficient Geometric Deep Learning   of Molecular Systems**|Shuo Zhang et.al.|[2311.11228v1](http://arxiv.org/abs/2311.11228v1)|[link](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)|
+|**2023-11-18 21:01:38**|**Benchmarking Machine Learning Models for Quantum Error Correction**|Tim Fu et.al.|[2311.11167v1](http://arxiv.org/abs/2311.11167v1)|null|
+|**2023-11-18 16:31:10**|**Environment-Aware Dynamic Graph Learning for Out-of-Distribution   Generalization**|Haonan Yuan et.al.|[2311.11114v1](http://arxiv.org/abs/2311.11114v1)|[link](https://github.com/ringbdstack/eagle)|
+|**2023-11-18 04:33:26**|**2d Quantum Breakdown Model with Krylov Subspace Many-Body Localization**|Xinyu Liu et.al.|[2311.10968v1](http://arxiv.org/abs/2311.10968v1)|null|
+|**2023-11-17 17:57:56**|**Multiparameter Persistent Homology for Molecular Property Prediction**|Andac Demir et.al.|[2311.10808v1](http://arxiv.org/abs/2311.10808v1)|null|
 |**2023-11-17 16:04:41**|**TacFR-Gripper: A Reconfigurable Fin Ray-Based Compliant Robotic Gripper   with Tactile Skin for In-Hand Manipulation**|Qingzheng Cong et.al.|[2311.10611v1](http://arxiv.org/abs/2311.10611v1)|null|
 |**2023-11-17 15:30:12**|**Graph Neural Networks for Pressure Estimation in Water Distribution   Systems**|Huy Truong et.al.|[2311.10579v1](http://arxiv.org/abs/2311.10579v1)|[link](https://github.com/ditec-project/gnn-pressure-estimation)|
 |**2023-11-17 13:31:19**|**Causal Fairness-Guided Dataset Reweighting using Neural Networks**|Xuan Zhao et.al.|[2311.10512v1](http://arxiv.org/abs/2311.10512v1)|null|
@@ -61,17 +72,6 @@
 |**2023-11-15 07:21:11**|**Disentangling the Potential Impacts of Papers into Diffusion,   Conformity, and Contribution Values**|Zhikai Xue et.al.|[2311.09262v1](http://arxiv.org/abs/2311.09262v1)|null|
 |**2023-11-15 06:35:01**|**Method for Text Entity Linking in Power Distribution Scheduling Oriented   to Power Distribution Network Knowledge Graph**|Xiang Li et.al.|[2311.08724v1](http://arxiv.org/abs/2311.08724v1)|null|
 |**2023-11-15 06:34:00**|**Emerging Drug Interaction Prediction Enabled by Flow-based Graph Neural   Network with Biomedical Network**|Yongqi Zhang et.al.|[2311.09261v1](http://arxiv.org/abs/2311.09261v1)|[link](https://github.com/lars-research/emergnn)|
-|**2023-11-15 01:22:47**|**Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event   Prediction**|Guangyin Jin et.al.|[2311.08635v1](http://arxiv.org/abs/2311.08635v1)|null|
-|**2023-11-14 23:13:59**|**Unsupervised segmentation of irradiation$\unicode{x2010}$induced   order$\unicode{x2010}$disorder phase transitions in electron microscopy**|Arman H Ter-Petrosyan et.al.|[2311.08585v1](http://arxiv.org/abs/2311.08585v1)|null|
-|**2023-11-14 20:55:40**|**SceneScore: Learning a Cost Function for Object Arrangement**|Ivan Kapelyukh et.al.|[2311.08530v1](http://arxiv.org/abs/2311.08530v1)|null|
-|**2023-11-14 16:06:11**|**Mobility-Induced Graph Learning for WiFi Positioning**|Kyuwon Han et.al.|[2311.08271v1](http://arxiv.org/abs/2311.08271v1)|null|
-|**2023-11-14 12:33:19**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente et.al.|[2311.08118v1](http://arxiv.org/abs/2311.08118v1)|[link](https://github.com/ericssonresearch/gnn-neighbors-xai)|
-|**2023-11-14 07:44:46**|**Higher-Order Expander Graph Propagation**|Thomas Christie et.al.|[2311.07966v1](http://arxiv.org/abs/2311.07966v1)|null|
-|**2023-11-14 07:21:00**|**Uplift Modeling based on Graph Neural Network Combined with Causal   Knowledge**|Haowen Wang et.al.|[2311.08434v1](http://arxiv.org/abs/2311.08434v1)|null|
-|**2023-11-14 06:15:16**|**Self-supervised Heterogeneous Graph Variational Autoencoders**|Yige Zhao et.al.|[2311.07929v1](http://arxiv.org/abs/2311.07929v1)|null|
-|**2023-11-14 03:00:39**|**Hybrid GRU-CNN Bilinear Parameters Initialization for Quantum   Approximate Optimization Algorithm**|Zuyu Xu et.al.|[2311.07869v1](http://arxiv.org/abs/2311.07869v1)|null|
-|**2023-11-14 02:12:41**|**Topological and spectral properties of random digraphs**|C. T. Martínez-Martínez et.al.|[2311.07854v1](http://arxiv.org/abs/2311.07854v1)|null|
-|**2023-11-13 19:15:18**|**Correlated volumes for extended wavefunctions on a random-regular graph**|Manuel Pino et.al.|[2311.07690v1](http://arxiv.org/abs/2311.07690v1)|null|
 
 ## Multi Interest Recommendation
 

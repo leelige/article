@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-19 05:59:19**|**Dependency Relationships-Enhanced Attentive Group Recommendation in HINs**|Juntao Zhang et.al.|[2311.11239v1](http://arxiv.org/abs/2311.11239v1)|null|
+|**2023-11-19 01:00:59**|**Assessing AI Impact Assessments: A Classroom Study**|Nari Johnson et.al.|[2311.11193v1](http://arxiv.org/abs/2311.11193v1)|null|
 |**2023-11-16 05:23:53**|**Group-Aware Interest Disentangled Dual-Training for Personalized   Recommendation**|Xiaolong Liu et.al.|[2311.09577v1](http://arxiv.org/abs/2311.09577v1)|[link](https://github.com/xiaolong-liu-bdsc/igrec)|
 |**2023-11-16 01:40:07**|**Peer Reviews of Peer Reviews: A Randomized Controlled Trial and Other   Experiments**|Alexander Goldberg et.al.|[2311.09497v1](http://arxiv.org/abs/2311.09497v1)|null|
 |**2023-11-14 16:07:16**|**Mixed Attention Network for Cross-domain Sequential Recommendation**|Guanyu Lin et.al.|[2311.08272v1](http://arxiv.org/abs/2311.08272v1)|[link](https://github.com/guanyu-lin/man)|
@@ -13,6 +15,7 @@
 |**2023-11-03 18:32:24**|**All People, One Sky: A Foundation for IAU CPS Community Engagement**|John C. Barentine et.al.|[2311.02184v1](http://arxiv.org/abs/2311.02184v1)|null|
 |**2023-11-01 22:20:14**|**Notion of Explainable Artificial Intelligence -- An Empirical   Investigation from A Users Perspective**|AKM Bahalul Haque et.al.|[2311.02102v1](http://arxiv.org/abs/2311.02102v1)|null|
 |**2023-10-31 13:27:04**|**Analyzing the Impact of Companies on AI Research Based on Publications**|Michael Färber et.al.|[2310.20444v1](http://arxiv.org/abs/2310.20444v1)|[link](https://github.com/LazaTabax/AI-Impact-Scientometrics)|
+|**2023-10-30 19:57:40**|**Advancing a Model of Students' Intentional Persistence in Machine   Learning and Artificial Intelligence**|Sharon Ferguson et.al.|[2311.10744v1](http://arxiv.org/abs/2311.10744v1)|null|
 |**2023-10-26 20:14:35**|**Forum on immune digital twins: a meeting report**|Reinhard Laubenbacher et.al.|[2310.18374v1](http://arxiv.org/abs/2310.18374v1)|null|
 |**2023-10-25 02:06:56**|**Producer-Side Experiments Based on Counterfactual Interleaving Designs   for Online Recommender Systems**|Yan Wang et.al.|[2310.16294v2](http://arxiv.org/abs/2310.16294v2)|null|
 |**2023-10-23 18:53:49**|**Early Career Perspectives For the NASA SMD Bridge Program**|Jenna M. Cann et.al.|[2310.15287v1](http://arxiv.org/abs/2310.15287v1)|null|
@@ -29,6 +32,3 @@
 |**2023-10-04 08:35:54**|**Affirmative Action in India: Restricted Strategy Space, Complex   Constraints, and Direct Mechanism Design**|Orhan Aygün et.al.|[2310.02660v1](http://arxiv.org/abs/2310.02660v1)|null|
 |**2023-10-04 01:40:03**|**Who Audits the Auditors? Recommendations from a field scan of the   algorithmic auditing ecosystem**|Sasha Costanza-Chock et.al.|[2310.02521v1](http://arxiv.org/abs/2310.02521v1)|null|
 |**2023-10-03 18:35:08**|**Descriptive Discriminant Analysis of Multivariate Repeated Measures   Data: A Use Case**|Ricarda Graf et.al.|[2310.02359v1](http://arxiv.org/abs/2310.02359v1)|null|
-|**2023-10-02 21:18:57**|**Strategic Information Attacks on Incentive-Compatible Navigational   Recommendations in Intelligent Transportation Systems**|Ya-Ting Yang et.al.|[2310.01646v1](http://arxiv.org/abs/2310.01646v1)|null|
-|**2023-09-29 17:26:44**|**Networked Inequality: Preferential Attachment Bias in Graph Neural   Network Link Prediction**|Arjun Subramonian et.al.|[2309.17417v1](http://arxiv.org/abs/2309.17417v1)|[link](https://github.com/arjunsubramonian/link_bias_amplification)|
-|**2023-09-28 10:29:51**|**Multi-Granularity Click Confidence Learning via Self-Distillation in   Recommendation**|Chong Liu et.al.|[2309.16322v1](http://arxiv.org/abs/2309.16322v1)|null|
