@@ -2,8 +2,18 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-22 16:07:32**|**Benchmarking Toxic Molecule Classification using Graph Neural Networks   and Few Shot Learning**|Bhavya Mehta et.al.|[2311.13490v1](http://arxiv.org/abs/2311.13490v1)|null|
+|**2023-11-22 15:40:57**|**Complexity-Guided Curriculum Learning for Text Graphs**|Nidhi Vakil et.al.|[2311.13472v1](http://arxiv.org/abs/2311.13472v1)|null|
+|**2023-11-22 15:32:31**|**Accelerating Inference in Molecular Diffusion Models with Latent   Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466v1](http://arxiv.org/abs/2311.13466v1)|null|
+|**2023-11-22 14:20:15**|**From Images to Connections: Can DQN with GNNs learn the Strategic Game   of Hex?**|Yannik Keller et.al.|[2311.13414v1](http://arxiv.org/abs/2311.13414v1)|null|
+|**2023-11-22 10:27:19**|**Retargeting Visual Data with Deformation Fields**|Tim Elsner et.al.|[2311.13297v1](http://arxiv.org/abs/2311.13297v1)|null|
+|**2023-11-22 09:55:20**|**Comprehensive Evaluation of GNN Training Systems: A Data Management   Perspective**|Hao Yuan et.al.|[2311.13279v1](http://arxiv.org/abs/2311.13279v1)|null|
+|**2023-11-22 09:02:04**|**Hard Label Black Box Node Injection Attack on Graph Neural Networks**|Yu Zhou et.al.|[2311.13244v1](http://arxiv.org/abs/2311.13244v1)|null|
+|**2023-11-22 08:26:42**|**NeutronOrch: Rethinking Sample-based GNN Training under CPU-GPU   Heterogeneous Environments**|Xin Ai et.al.|[2311.13225v1](http://arxiv.org/abs/2311.13225v1)|null|
+|**2023-11-21 22:05:00**|**Unsupervised Multimodal Surface Registration with Geometric Deep   Learning**|Mohamed A. Suliman et.al.|[2311.13022v1](http://arxiv.org/abs/2311.13022v1)|null|
+|**2023-11-21 21:43:18**|**Neural Graph Control Barrier Functions Guided Distributed   Collision-avoidance Multi-agent Control**|Songyuan Zhang et.al.|[2311.13014v1](http://arxiv.org/abs/2311.13014v1)|null|
 |**2023-11-21 17:30:57**|**Content Augmented Graph Neural Networks**|Fatemeh Gholamzadeh Nasrabadi et.al.|[2311.12741v1](http://arxiv.org/abs/2311.12741v1)|[link](https://github.com/fatemehgholamzadeh/augss-gnn)|
-|**2023-11-21 15:01:14**|**Carbohydrate NMR chemical shift predictions using E(3) equivariant graph   neural networks**|Maria Bånkestad et.al.|[2311.12657v1](http://arxiv.org/abs/2311.12657v1)|null|
+|**2023-11-21 15:01:14**|**Carbohydrate NMR chemical shift predictions using E(3) equivariant graph   neural networks**|Maria Bånkestad et.al.|[2311.12657v1](http://arxiv.org/abs/2311.12657v1)|[link](https://github.com/mariabankestad/geqshift)|
 |**2023-11-21 14:44:51**|**Careful Selection and Thoughtful Discarding: Graph Explicit Pooling   Utilizing Discarded Nodes**|Chuang Liu et.al.|[2311.12644v1](http://arxiv.org/abs/2311.12644v1)|null|
 |**2023-11-21 14:24:21**|**Hierarchical Joint Graph Learning and Multivariate Time Series   Forecasting**|Juhyeon Kim et.al.|[2311.12630v1](http://arxiv.org/abs/2311.12630v1)|null|
 |**2023-11-21 13:59:50**|**DeepTreeGAN: Fast Generation of High Dimensional Point Clouds**|Moritz Alfons Wilhelm Scham et.al.|[2311.12616v1](http://arxiv.org/abs/2311.12616v1)|null|
@@ -22,13 +32,3 @@
 |**2023-11-20 00:57:30**|**CSGNN: Conquering Noisy Node labels via Dynamic Class-wise Selection**|Yifan Li et.al.|[2311.11473v1](http://arxiv.org/abs/2311.11473v1)|null|
 |**2023-11-19 16:34:56**|**Self-Supervised Pretraining for Heterogeneous Hypergraph Neural Networks**|Abdalgader Abubaker et.al.|[2311.11368v1](http://arxiv.org/abs/2311.11368v1)|null|
 |**2023-11-19 16:20:28**|**Local environment-based machine learning for molecular adsorption energy   prediction**|Yifan Li et.al.|[2311.11364v1](http://arxiv.org/abs/2311.11364v1)|null|
-|**2023-11-19 04:52:05**|**A Universal Framework for Accurate and Efficient Geometric Deep Learning   of Molecular Systems**|Shuo Zhang et.al.|[2311.11228v1](http://arxiv.org/abs/2311.11228v1)|[link](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)|
-|**2023-11-18 21:01:38**|**Benchmarking Machine Learning Models for Quantum Error Correction**|Tim Fu et.al.|[2311.11167v1](http://arxiv.org/abs/2311.11167v1)|null|
-|**2023-11-18 16:31:10**|**Environment-Aware Dynamic Graph Learning for Out-of-Distribution   Generalization**|Haonan Yuan et.al.|[2311.11114v1](http://arxiv.org/abs/2311.11114v1)|[link](https://github.com/ringbdstack/eagle)|
-|**2023-11-18 04:33:26**|**2d Quantum Breakdown Model with Krylov Subspace Many-Body Localization**|Xinyu Liu et.al.|[2311.10968v1](http://arxiv.org/abs/2311.10968v1)|null|
-|**2023-11-17 17:57:56**|**Multiparameter Persistent Homology for Molecular Property Prediction**|Andac Demir et.al.|[2311.10808v1](http://arxiv.org/abs/2311.10808v1)|null|
-|**2023-11-17 16:04:41**|**TacFR-Gripper: A Reconfigurable Fin Ray-Based Compliant Robotic Gripper   with Tactile Skin for In-Hand Manipulation**|Qingzheng Cong et.al.|[2311.10611v1](http://arxiv.org/abs/2311.10611v1)|null|
-|**2023-11-17 15:30:12**|**Graph Neural Networks for Pressure Estimation in Water Distribution   Systems**|Huy Truong et.al.|[2311.10579v1](http://arxiv.org/abs/2311.10579v1)|[link](https://github.com/ditec-project/gnn-pressure-estimation)|
-|**2023-11-17 13:31:19**|**Causal Fairness-Guided Dataset Reweighting using Neural Networks**|Xuan Zhao et.al.|[2311.10512v1](http://arxiv.org/abs/2311.10512v1)|null|
-|**2023-11-17 03:59:50**|**Graph Sparsifications using Neural Network Assisted Monte Carlo Tree   Search**|Alvin Chiu et.al.|[2311.10316v1](http://arxiv.org/abs/2311.10316v1)|[link](https://github.com/abureyanahmed/gnn-msts-sparsification)|
-|**2023-11-17 01:30:43**|**Multiscale Hodge Scattering Networks for Data Analysis**|Naoki Saito et.al.|[2311.10270v1](http://arxiv.org/abs/2311.10270v1)|null|
