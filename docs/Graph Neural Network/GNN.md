@@ -2,6 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-24 18:15:59**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for   Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641v1](http://arxiv.org/abs/2311.14641v1)|[link](https://github.com/neuromorphs/nir)|
+|**2023-11-24 13:23:54**|**Fault Detection in Telecom Networks using Bi-level Federated Graph   Neural Networks**|R. Bourgerie et.al.|[2311.14469v1](http://arxiv.org/abs/2311.14469v1)|null|
+|**2023-11-24 13:19:06**|**Finite Volume Features, Global Geometry Representations, and Residual   Training for Deep Learning-based CFD Simulation**|Loh Sher En Jessica et.al.|[2311.14464v1](http://arxiv.org/abs/2311.14464v1)|null|
+|**2023-11-24 10:56:09**|**BHGNN-RT: Network embedding for directed heterogeneous graphs**|Xiyang Sun et.al.|[2311.14404v1](http://arxiv.org/abs/2311.14404v1)|[link](https://github.com/albertlordsun/bhgnn-rt)|
+|**2023-11-24 08:15:54**|**Cycle Invariant Positional Encoding for Graph Representation Learning**|Zuoyu Yan et.al.|[2311.14333v1](http://arxiv.org/abs/2311.14333v1)|null|
+|**2023-11-24 07:53:48**|**Large Language Models as Topological Structure Enhancers for   Text-Attributed Graphs**|Shengyin Sun et.al.|[2311.14324v1](http://arxiv.org/abs/2311.14324v1)|null|
+|**2023-11-24 06:27:25**|**AdaMedGraph: Adaboosting Graph Neural Networks for Personalized Medicine**|Jie Lian et.al.|[2311.14304v1](http://arxiv.org/abs/2311.14304v1)|null|
+|**2023-11-24 02:42:42**|**Out-of-Distribution Generalized Dynamic Graph Neural Network with   Disentangled Intervention and Invariance Promotion**|Zeyang Zhang et.al.|[2311.14255v1](http://arxiv.org/abs/2311.14255v1)|null|
+|**2023-11-23 08:07:15**|**Exact Combinatorial Optimization with Temporo-Attentional Graph Neural   Networks**|Mehdi Seyfi et.al.|[2311.13843v1](http://arxiv.org/abs/2311.13843v1)|null|
+|**2023-11-22 21:51:29**|**Multi-view Hybrid Graph Convolutional Network for Volume-to-mesh   Reconstruction in Cardiovascular MRI**|Nicolás Gaggion et.al.|[2311.13706v1](http://arxiv.org/abs/2311.13706v1)|null|
 |**2023-11-22 16:07:32**|**Benchmarking Toxic Molecule Classification using Graph Neural Networks   and Few Shot Learning**|Bhavya Mehta et.al.|[2311.13490v1](http://arxiv.org/abs/2311.13490v1)|null|
 |**2023-11-22 15:40:57**|**Complexity-Guided Curriculum Learning for Text Graphs**|Nidhi Vakil et.al.|[2311.13472v1](http://arxiv.org/abs/2311.13472v1)|null|
 |**2023-11-22 15:32:31**|**Accelerating Inference in Molecular Diffusion Models with Latent   Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466v1](http://arxiv.org/abs/2311.13466v1)|[link](https://github.com/dunni3/keypoint-diffusion)|
@@ -22,13 +32,3 @@
 |**2023-11-21 03:42:15**|**Graph Neural Ordinary Differential Equations-based method for   Collaborative Filtering**|Ke Xu et.al.|[2311.12329v1](http://arxiv.org/abs/2311.12329v1)|null|
 |**2023-11-21 03:14:07**|**Demystifying Graph Sparsification Algorithms in Graph Properties   Preservation**|Yuhan Chen et.al.|[2311.12314v1](http://arxiv.org/abs/2311.12314v1)|[link](https://github.com/yuhanchan/sparsification)|
 |**2023-11-21 03:02:30**|**Power grid operational risk assessment using graph neural network   surrogates**|Yadong Zhang et.al.|[2311.12309v1](http://arxiv.org/abs/2311.12309v1)|null|
-|**2023-11-21 02:02:46**|**ATLANTIC: Structure-Aware Retrieval-Augmented Language Model for   Interdisciplinary Science**|Sai Munikoti et.al.|[2311.12289v1](http://arxiv.org/abs/2311.12289v1)|null|
-|**2023-11-21 00:34:53**|**Exploring Time Granularity on Temporal Graphs for Dynamic Link   Prediction in Real-world Networks**|Xiangjian Jiang et.al.|[2311.12255v1](http://arxiv.org/abs/2311.12255v1)|[link](https://github.com/silencex12138/time-granularity-on-temporal-graphs)|
-|**2023-11-20 23:24:58**|**Improvements in Interlayer Pipelining of CNN Accelerators Using Genetic   Algorithms**|Mark Horeni et.al.|[2311.12235v1](http://arxiv.org/abs/2311.12235v1)|null|
-|**2023-11-20 20:33:35**|**Node classification in random trees**|Wouter W. L. Nuijten et.al.|[2311.12167v1](http://arxiv.org/abs/2311.12167v1)|[link](https://github.com/wouterwln/neuralfactortrees)|
-|**2023-11-20 16:24:23**|**AMES: A Differentiable Embedding Space Selection Framework for Latent   Graph Inference**|Yuan Lu et.al.|[2311.11891v1](http://arxiv.org/abs/2311.11891v1)|null|
-|**2023-11-20 14:07:38**|**Robust Tumor Segmentation with Hyperspectral Imaging and Graph Neural   Networks**|Mayar Lotfy et.al.|[2311.11782v1](http://arxiv.org/abs/2311.11782v1)|null|
-|**2023-11-20 13:39:19**|**Unveiling the Unseen Potential of Graph Learning through MLPs: Effective   Graph Learners Using Propagation-Embracing MLPs**|Yong-Min Shin et.al.|[2311.11759v1](http://arxiv.org/abs/2311.11759v1)|null|
-|**2023-11-20 00:57:30**|**CSGNN: Conquering Noisy Node labels via Dynamic Class-wise Selection**|Yifan Li et.al.|[2311.11473v1](http://arxiv.org/abs/2311.11473v1)|null|
-|**2023-11-19 16:34:56**|**Self-Supervised Pretraining for Heterogeneous Hypergraph Neural Networks**|Abdalgader Abubaker et.al.|[2311.11368v1](http://arxiv.org/abs/2311.11368v1)|null|
-|**2023-11-19 16:20:28**|**Local environment-based machine learning for molecular adsorption energy   prediction**|Yifan Li et.al.|[2311.11364v1](http://arxiv.org/abs/2311.11364v1)|null|

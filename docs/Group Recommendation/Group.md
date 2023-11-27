@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-23 18:26:33**|**Retention in STEM: Factors Influencing Student Persistence and   Employment**|Linli Zhou et.al.|[2311.14142v1](http://arxiv.org/abs/2311.14142v1)|null|
 |**2023-11-20 19:50:44**|**Early Requirements Traceability with Domain-Specific Taxonomies -- A   Pilot Experiment**|Michael Unterkalmsteiner et.al.|[2311.12146v1](http://arxiv.org/abs/2311.12146v1)|null|
 |**2023-11-20 19:37:57**|**Multi-view Graph Convolution for Participant Recommendation**|Xiaolong Liu et.al.|[2311.12136v1](http://arxiv.org/abs/2311.12136v1)|null|
 |**2023-11-19 05:59:19**|**Dependency Relationships-Enhanced Attentive Group Recommendation in HINs**|Juntao Zhang et.al.|[2311.11239v1](http://arxiv.org/abs/2311.11239v1)|null|
@@ -31,4 +32,3 @@
 |**2023-10-04 21:43:30**|**Sensitivity analysis for causality in observational studies for   regulatory science**|Iván Díaz et.al.|[2310.03176v2](http://arxiv.org/abs/2310.03176v2)|null|
 |**2023-10-04 21:42:01**|**Test Case Recommendations with Distributed Representation of Code   Syntactic Features**|Mosab Rezaei et.al.|[2310.03174v1](http://arxiv.org/abs/2310.03174v1)|[link](https://github.com/mosabrezaei/test-case-recommendation)|
 |**2023-10-04 16:54:03**|**Potential Factors Leading to Popularity Unfairness in Recommender   Systems: A User-Centered Analysis**|Masoud Mansoury et.al.|[2310.02961v1](http://arxiv.org/abs/2310.02961v1)|null|
-|**2023-10-04 08:35:54**|**Affirmative Action in India: Restricted Strategy Space, Complex   Constraints, and Direct Mechanism Design**|Orhan Aygün et.al.|[2310.02660v1](http://arxiv.org/abs/2310.02660v1)|null|
