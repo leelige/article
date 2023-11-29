@@ -1,11 +1,19 @@
 # arxiv-daily
- 自动更新 @ 2023-11-28 16:08:59 Asia/Shanghai
+ 自动更新 @ 2023-11-29 16:09:08 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-28 15:05:13**|**Attentional Graph Neural Networks for Robust Massive Network   Localization**|Wenzhong Yan et.al.|[2311.16856v1](http://arxiv.org/abs/2311.16856v1)|null|
+|**2023-11-28 10:55:00**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683v1](http://arxiv.org/abs/2311.16683v1)|null|
+|**2023-11-28 10:34:48**|**PyTorch Geometric High Order: A Unified Library for High Order Graph   Neural Network**|Xiyuan Wang et.al.|[2311.16670v1](http://arxiv.org/abs/2311.16670v1)|[link](https://github.com/graphpku/pygho)|
+|**2023-11-28 10:28:35**|**MultiModal-Learning for Predicting Molecular Properties: A Framework   Based on Image and Graph Structures**|Zhuoyuan Wang et.al.|[2311.16666v1](http://arxiv.org/abs/2311.16666v1)|null|
+|**2023-11-28 08:45:37**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605v1](http://arxiv.org/abs/2311.16605v1)|null|
+|**2023-11-28 08:43:10**|**GSP-KalmanNet: Tracking Graph Signals via Neural-Aided Kalman Filtering**|Itay Buchnik et.al.|[2311.16602v1](http://arxiv.org/abs/2311.16602v1)|null|
+|**2023-11-28 05:00:27**|**Evaluation of dynamic characteristics of power grid based on GNN and   application on knowledge graph**|Hao Pei et.al.|[2311.16522v1](http://arxiv.org/abs/2311.16522v1)|null|
+|**2023-11-27 19:33:14**|**A Graph Neural Network-Based QUBO-Formulated Hamiltonian-Inspired Loss   Function for Combinatorial Optimization using Reinforcement Learning**|Redwan Ahmed Rizvee et.al.|[2311.16277v1](http://arxiv.org/abs/2311.16277v1)|null|
 |**2023-11-27 18:57:42**|**Interactive Autonomous Navigation with Internal State Inference and   Interactivity Estimation**|Jiachen Li et.al.|[2311.16091v1](http://arxiv.org/abs/2311.16091v1)|null|
 |**2023-11-27 18:13:50**|**An analysis of localization transitions using non-parametric   unsupervised learning**|Carlo Vanoni et.al.|[2311.16050v1](http://arxiv.org/abs/2311.16050v1)|null|
 |**2023-11-27 16:25:12**|**Soil Organic Carbon Estimation from Climate-related Features with Graph   Neural Network**|Weiying Zhao et.al.|[2311.15979v1](http://arxiv.org/abs/2311.15979v1)|null|
@@ -18,7 +26,7 @@
 |**2023-11-26 14:24:26**|**Low-Complexity Joint Beamforming for RIS-Assisted MU-MISO Systems Based   on Model-Driven Deep Learning**|Weijie Jin et.al.|[2311.15313v1](http://arxiv.org/abs/2311.15313v1)|null|
 |**2023-11-26 07:17:45**|**Solve Large-scale Unit Commitment Problems by Physics-informed Graph   Learning**|Jingtao Qin et.al.|[2311.15216v1](http://arxiv.org/abs/2311.15216v1)|null|
 |**2023-11-26 06:22:13**|**Efficient interpolation of molecular properties across chemical compound   space with low-dimensional descriptors**|Yun-Wen Mao et.al.|[2311.15207v1](http://arxiv.org/abs/2311.15207v1)|null|
-|**2023-11-25 20:06:46**|**Everybody Needs a Little HELP: Explaining Graphs via Hierarchical   Concepts**|Jonas Jürß et.al.|[2311.15112v1](http://arxiv.org/abs/2311.15112v1)|null|
+|**2023-11-25 20:06:46**|**Everybody Needs a Little HELP: Explaining Graphs via Hierarchical   Concepts**|Jonas Jürß et.al.|[2311.15112v1](http://arxiv.org/abs/2311.15112v1)|[link](https://github.com/jonasjuerss/help)|
 |**2023-11-25 17:25:07**|**Learning graph-Fourier spectra of textured surface images for defect   localization**|Tapan Ganatma Nakkina et.al.|[2311.15082v1](http://arxiv.org/abs/2311.15082v1)|null|
 |**2023-11-25 15:44:28**|**Accurate and interpretable drug-drug interaction prediction enabled by   knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056v1](http://arxiv.org/abs/2311.15056v1)|[link](https://github.com/lars-research/knowddi)|
 |**2023-11-25 10:46:06**|**Exploring Causal Learning through Graph Neural Networks: An In-depth   Review**|Simi Job et.al.|[2311.14994v1](http://arxiv.org/abs/2311.14994v1)|null|
@@ -28,14 +36,6 @@
 |**2023-11-24 23:51:53**|**Advancing Fluid-Based Thermal Management Systems Design: Leveraging   Graph Neural Networks for Graph Regression and Efficient Enumeration   Reduction**|Saeid Bayat et.al.|[2311.14874v1](http://arxiv.org/abs/2311.14874v1)|null|
 |**2023-11-24 22:42:37**|**Effective Structural Encodings via Local Curvature Profiles**|Lukas Fesser et.al.|[2311.14864v1](http://arxiv.org/abs/2311.14864v1)|null|
 |**2023-11-24 18:15:59**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for   Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641v1](http://arxiv.org/abs/2311.14641v1)|[link](https://github.com/neuromorphs/nir)|
-|**2023-11-24 15:07:29**|**READS-V: Real-time Automated Detection of Epileptic Seizures from   Surveillance Videos via Skeleton-based Spatiotemporal ViG**|Yankun Xu et.al.|[2311.14775v1](http://arxiv.org/abs/2311.14775v1)|null|
-|**2023-11-24 13:23:54**|**Fault Detection in Telecom Networks using Bi-level Federated Graph   Neural Networks**|R. Bourgerie et.al.|[2311.14469v1](http://arxiv.org/abs/2311.14469v1)|null|
-|**2023-11-24 13:19:06**|**Finite Volume Features, Global Geometry Representations, and Residual   Training for Deep Learning-based CFD Simulation**|Loh Sher En Jessica et.al.|[2311.14464v1](http://arxiv.org/abs/2311.14464v1)|null|
-|**2023-11-24 10:56:09**|**BHGNN-RT: Network embedding for directed heterogeneous graphs**|Xiyang Sun et.al.|[2311.14404v1](http://arxiv.org/abs/2311.14404v1)|[link](https://github.com/albertlordsun/bhgnn-rt)|
-|**2023-11-24 08:15:54**|**Cycle Invariant Positional Encoding for Graph Representation Learning**|Zuoyu Yan et.al.|[2311.14333v1](http://arxiv.org/abs/2311.14333v1)|null|
-|**2023-11-24 07:53:48**|**Large Language Models as Topological Structure Enhancers for   Text-Attributed Graphs**|Shengyin Sun et.al.|[2311.14324v1](http://arxiv.org/abs/2311.14324v1)|null|
-|**2023-11-24 06:27:25**|**AdaMedGraph: Adaboosting Graph Neural Networks for Personalized Medicine**|Jie Lian et.al.|[2311.14304v1](http://arxiv.org/abs/2311.14304v1)|null|
-|**2023-11-24 02:42:42**|**Out-of-Distribution Generalized Dynamic Graph Neural Network with   Disentangled Intervention and Invariance Promotion**|Zeyang Zhang et.al.|[2311.14255v1](http://arxiv.org/abs/2311.14255v1)|null|
 
 ## Multi Interest Recommendation
 
