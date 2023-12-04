@@ -2,8 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-01 09:41:40**|**Auto-encoding GPS data to reveal individual and collective behaviour**|Saint-Clair Chabert-Liddell et.al.|[2312.00456v1](http://arxiv.org/abs/2312.00456v1)|null|
+|**2023-12-01 04:10:00**|**Hypergraph Node Representation Learning with One-Stage Message Passing**|Shilin Qu et.al.|[2312.00336v1](http://arxiv.org/abs/2312.00336v1)|null|
+|**2023-11-30 22:32:24**|**Uncertainty in Graph Contrastive Learning with Bayesian Neural Networks**|Alexander Möllers et.al.|[2312.00232v1](http://arxiv.org/abs/2312.00232v1)|null|
 |**2023-11-30 16:19:13**|**A Comparison Between Invariant and Equivariant Classical and Quantum   Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672v1](http://arxiv.org/abs/2311.18672v1)|[link](https://github.com/royforestano/2023_gsoc_ml4sci_qmlhep_gnn)|
-|**2023-11-30 16:10:35**|**Solving the Team Orienteering Problem with Transformers**|Daniel Fuertes et.al.|[2311.18662v1](http://arxiv.org/abs/2311.18662v1)|[link](https://github.com/danifuertes/top_transformer)|
+|**2023-11-30 16:10:35**|**Solving the Team Orienteering Problem with Transformers**|Daniel Fuertes et.al.|[2311.18662v2](http://arxiv.org/abs/2311.18662v2)|[link](https://github.com/danifuertes/top_transformer)|
 |**2023-11-30 14:29:18**|**Optimizing ZX-Diagrams with Deep Reinforcement Learning**|Maximilian Nägele et.al.|[2311.18588v1](http://arxiv.org/abs/2311.18588v1)|[link](https://github.com/maxnaeg/zxreinforce)|
 |**2023-11-30 14:09:20**|**Multi-scale Iterative Refinement towards Robust and Versatile Molecular   Docking**|Jiaxian Yan et.al.|[2311.18574v1](http://arxiv.org/abs/2311.18574v1)|null|
 |**2023-11-30 13:50:21**|**Learning Radio Environments by Differentiable Ray Tracing**|Jakob Hoydis et.al.|[2311.18558v1](http://arxiv.org/abs/2311.18558v1)|null|
@@ -24,11 +27,8 @@
 |**2023-11-29 07:25:49**|**Dynamic Dense Graph Convolutional Network for Skeleton-based Human   Motion Prediction**|Xinshun Wang et.al.|[2311.17408v1](http://arxiv.org/abs/2311.17408v1)|null|
 |**2023-11-29 05:54:58**|**The Devil is in the Data: Learning Fair Graph Neural Networks via   Partial Knowledge Distillation**|Yuchang Zhu et.al.|[2311.17373v1](http://arxiv.org/abs/2311.17373v1)|[link](https://github.com/zzoomd/fairgkd)|
 |**2023-11-29 05:20:10**|**How does spatial structure affect psychological restoration? A method   based on Graph Neural Networks and Street View Imagery**|Haoran Ma et.al.|[2311.17361v2](http://arxiv.org/abs/2311.17361v2)|[link](https://github.com/MMHHRR/Restoration_Topology)|
-|**2023-11-29 01:25:00**|**Enhancing the Performance of Neural Networks Through Causal Discovery   and Integration of Domain Knowledge**|Xiaoge Zhang et.al.|[2311.17303v1](http://arxiv.org/abs/2311.17303v1)|null|
+|**2023-11-29 01:25:00**|**Enhancing the Performance of Neural Networks Through Causal Discovery   and Integration of Domain Knowledge**|Xiaoge Zhang et.al.|[2311.17303v2](http://arxiv.org/abs/2311.17303v2)|null|
 |**2023-11-28 18:51:19**|**GlycoNMR: Dataset and benchmarks for NMR chemical shift prediction of   carbohydrates with graph neural networks**|Zizhang Chen et.al.|[2311.17134v2](http://arxiv.org/abs/2311.17134v2)|null|
 |**2023-11-28 15:05:13**|**Attentional Graph Neural Networks for Robust Massive Network   Localization**|Wenzhong Yan et.al.|[2311.16856v1](http://arxiv.org/abs/2311.16856v1)|null|
 |**2023-11-28 10:55:00**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683v1](http://arxiv.org/abs/2311.16683v1)|null|
 |**2023-11-28 10:34:48**|**PyTorch Geometric High Order: A Unified Library for High Order Graph   Neural Network**|Xiyuan Wang et.al.|[2311.16670v1](http://arxiv.org/abs/2311.16670v1)|[link](https://github.com/graphpku/pygho)|
-|**2023-11-28 10:28:35**|**MultiModal-Learning for Predicting Molecular Properties: A Framework   Based on Image and Graph Structures**|Zhuoyuan Wang et.al.|[2311.16666v1](http://arxiv.org/abs/2311.16666v1)|null|
-|**2023-11-28 08:45:37**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605v2](http://arxiv.org/abs/2311.16605v2)|null|
-|**2023-11-28 08:43:10**|**GSP-KalmanNet: Tracking Graph Signals via Neural-Aided Kalman Filtering**|Itay Buchnik et.al.|[2311.16602v1](http://arxiv.org/abs/2311.16602v1)|null|
