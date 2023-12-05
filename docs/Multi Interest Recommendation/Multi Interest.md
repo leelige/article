@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-04 14:20:16**|**PEACE: Prototype lEarning Augmented transferable framework for   Cross-domain rEcommendation**|Chunjing Gan et.al.|[2312.01916v1](http://arxiv.org/abs/2312.01916v1)|null|
 |**2023-11-29 05:59:24**|**Attribute Simulation for Item Embedding Enhancement in Multi-interest   Recommendation**|Yaokun Liu et.al.|[2311.17374v1](http://arxiv.org/abs/2311.17374v1)|null|
 |**2023-11-22 02:49:14**|**GENET: Unleashing the Power of Side Information for Recommendation via   Hypergraph Pre-training**|Yang Li et.al.|[2311.13121v1](http://arxiv.org/abs/2311.13121v1)|null|
 |**2023-11-20 19:37:57**|**Multi-view Graph Convolution for Participant Recommendation**|Xiaolong Liu et.al.|[2311.12136v1](http://arxiv.org/abs/2311.12136v1)|null|
@@ -16,7 +17,7 @@
 |**2023-10-16 03:00:17**|**Dual-Scale Interest Extraction Framework with Self-Supervision for   Sequential Recommendation**|Liangliang Chen et.al.|[2310.10025v1](http://arxiv.org/abs/2310.10025v1)|null|
 |**2023-10-14 14:29:52**|**Context-aware Session-based Recommendation with Graph Neural Networks**|Zhihui Zhang et.al.|[2310.09593v1](http://arxiv.org/abs/2310.09593v1)|[link](https://github.com/brilliantzhang/cares)|
 |**2023-10-10 03:32:33**|**MuseChat: A Conversational Music Recommendation System for Videos**|Zhikang Dong et.al.|[2310.06282v3](http://arxiv.org/abs/2310.06282v3)|null|
-|**2023-10-02 02:53:49**|**Multi-Label Residual Weighted Learning for Individualized Combination   Treatment Rule**|Qi Xu et.al.|[2310.00864v1](http://arxiv.org/abs/2310.00864v1)|null|
+|**2023-10-02 02:53:49**|**Multi-Label Residual Weighted Learning for Individualized Combination   Treatment Rule**|Qi Xu et.al.|[2310.00864v2](http://arxiv.org/abs/2310.00864v2)|null|
 |**2023-09-29 07:52:47**|**Beyond Co-occurrence: Multi-modal Session-based Recommendation**|Xiaokun Zhang et.al.|[2309.17037v1](http://arxiv.org/abs/2309.17037v1)|[link](https://github.com/zhang-xiaokun/mmsbr)|
 |**2023-09-28 10:29:51**|**Multi-Granularity Click Confidence Learning via Self-Distillation in   Recommendation**|Chong Liu et.al.|[2309.16322v1](http://arxiv.org/abs/2309.16322v1)|null|
 |**2023-09-28 09:59:48**|**TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent   Reinforcement Learning**|Qirui Mi et.al.|[2309.16307v1](http://arxiv.org/abs/2309.16307v1)|[link](https://github.com/jidiai/taxai)|
@@ -31,4 +32,3 @@
 |**2023-08-28 03:15:37**|**Alleviating Video-Length Effect for Micro-video Recommendation**|Yuhan Quan et.al.|[2308.14276v2](http://arxiv.org/abs/2308.14276v2)|null|
 |**2023-08-25 08:54:27**|**Learning and Optimization of Implicit Negative Feedback for Industrial   Short-video Recommender System**|Yunzhu Pan et.al.|[2308.13249v1](http://arxiv.org/abs/2308.13249v1)|null|
 |**2023-08-22 04:06:56**|**MISSRec: Pre-training and Transferring Multi-modal Interest-aware   Sequence Representation for Recommendation**|Jinpeng Wang et.al.|[2308.11175v2](http://arxiv.org/abs/2308.11175v2)|[link](https://github.com/gimpong/MM23-MISSRec)|
-|**2023-08-19 09:47:22**|**Time-aligned Exposure-enhanced Model for Click-Through Rate Prediction**|Hengyu Zhang et.al.|[2308.09966v1](http://arxiv.org/abs/2308.09966v1)|null|

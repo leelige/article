@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-04 17:19:53**|**Know Your Audience: Do LLMs Adapt to Different Age and Education Levels?**|Donya Rooein et.al.|[2312.02065v1](http://arxiv.org/abs/2312.02065v1)|null|
+|**2023-12-03 21:52:51**|**SoK: The Gap Between Data Rights Ideals and Reality**|Yujin Kwon et.al.|[2312.01511v1](http://arxiv.org/abs/2312.01511v1)|null|
 |**2023-11-26 07:01:36**|**OpenPerf: A Benchmarking Framework for the Sustainable Development of   the Open-Source Ecosystem**|Fenglin Bi et.al.|[2311.15212v1](http://arxiv.org/abs/2311.15212v1)|null|
 |**2023-11-23 18:26:33**|**Retention in STEM: Factors Influencing Student Persistence and   Employment**|Linli Zhou et.al.|[2311.14142v1](http://arxiv.org/abs/2311.14142v1)|null|
 |**2023-11-20 19:50:44**|**Early Requirements Traceability with Domain-Specific Taxonomies -- A   Pilot Experiment**|Michael Unterkalmsteiner et.al.|[2311.12146v1](http://arxiv.org/abs/2311.12146v1)|null|
@@ -30,5 +32,3 @@
 |**2023-10-17 07:02:26**|**Lyricist-Singer Entropy Affects Lyric-Lyricist Classification   Performance**|Mitsuki Morita et.al.|[2310.11035v1](http://arxiv.org/abs/2310.11035v1)|null|
 |**2023-10-15 13:18:31**|**VFLAIR: A Research Library and Benchmark for Vertical Federated Learning**|Tianyuan Zou et.al.|[2310.09827v1](http://arxiv.org/abs/2310.09827v1)|[link](https://github.com/flair-thu/vflair)|
 |**2023-10-12 16:15:30**|**Metrics for popularity bias in dynamic recommender systems**|Valentijn Braun et.al.|[2310.08455v1](http://arxiv.org/abs/2310.08455v1)|null|
-|**2023-10-10 16:23:41**|**Comparing AI Algorithms for Optimizing Elliptic Curve Cryptography   Parameters in Third-Party E-Commerce Integrations: A Pre-Quantum Era Analysis**|Felipe Tellez et.al.|[2310.06752v1](http://arxiv.org/abs/2310.06752v1)|[link](https://github.com/cftellezc/GA_PSO_ECC_parameter_Optimization)|
-|**2023-10-04 21:43:30**|**Sensitivity analysis for causality in observational studies for   regulatory science**|Iván Díaz et.al.|[2310.03176v2](http://arxiv.org/abs/2310.03176v2)|null|
