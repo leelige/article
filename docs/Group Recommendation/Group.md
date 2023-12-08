@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-07 16:17:34**|**On the Impact of Multi-dimensional Local Differential Privacy on   Fairness**|karima Makhlouf et.al.|[2312.04404v1](http://arxiv.org/abs/2312.04404v1)|null|
+|**2023-12-06 21:32:32**|**Data Safety vs. App Privacy: Comparing the Usability of Android and iOS   Privacy Labels**|Yanzi Lin et.al.|[2312.03918v1](http://arxiv.org/abs/2312.03918v1)|null|
 |**2023-12-05 08:57:32**|**Mapping the Information Journey: Unveiling the Documentation Experience   of Software Developers in China**|Zhijun Gao et.al.|[2312.02586v1](http://arxiv.org/abs/2312.02586v1)|null|
 |**2023-12-04 17:19:53**|**Know Your Audience: Do LLMs Adapt to Different Age and Education Levels?**|Donya Rooein et.al.|[2312.02065v1](http://arxiv.org/abs/2312.02065v1)|null|
 |**2023-12-03 21:52:51**|**SoK: The Gap Between Data Rights Ideals and Reality**|Yujin Kwon et.al.|[2312.01511v1](http://arxiv.org/abs/2312.01511v1)|null|
@@ -30,5 +32,3 @@
 |**2023-10-18 12:06:54**|**SHA-SCP: A UI Element Spatial Hierarchy Aware Smartphone User Click   Behavior Prediction Method**|Ling Chen et.al.|[2310.11915v1](http://arxiv.org/abs/2310.11915v1)|null|
 |**2023-10-17 13:39:26**|**Emulating Human Cognitive Processes for Expert-Level Medical   Question-Answering with Large Language Models**|Khushboo Verma et.al.|[2310.11266v1](http://arxiv.org/abs/2310.11266v1)|null|
 |**2023-10-17 12:08:15**|**Adversarial Bandits with Multi-User Delayed Feedback: Theory and   Application**|Yandi Li et.al.|[2310.11188v2](http://arxiv.org/abs/2310.11188v2)|[link](https://github.com/chubbro/mud-exp3)|
-|**2023-10-17 07:02:26**|**Lyricist-Singer Entropy Affects Lyric-Lyricist Classification   Performance**|Mitsuki Morita et.al.|[2310.11035v1](http://arxiv.org/abs/2310.11035v1)|null|
-|**2023-10-15 13:18:31**|**VFLAIR: A Research Library and Benchmark for Vertical Federated Learning**|Tianyuan Zou et.al.|[2310.09827v1](http://arxiv.org/abs/2310.09827v1)|[link](https://github.com/flair-thu/vflair)|
