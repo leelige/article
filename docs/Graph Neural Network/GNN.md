@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-08 13:24:19**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031v1](http://arxiv.org/abs/2312.05031v1)|null|
+|**2023-12-08 03:05:42**|**Not All Negatives AreWorth Attending to: Meta-Bootstrapping Negative   Sampling Framework for Link Prediction**|Yakun Wang et.al.|[2312.04815v1](http://arxiv.org/abs/2312.04815v1)|null|
+|**2023-12-07 22:35:16**|**Efficient Large Language Models Fine-Tuning On Graphs**|Rui Xue et.al.|[2312.04737v1](http://arxiv.org/abs/2312.04737v1)|null|
+|**2023-12-07 20:56:07**|**GraphMETRO: Mitigating Complex Distribution Shifts in GNNs via Mixture   of Aligned Experts**|Shirley Wu et.al.|[2312.04693v1](http://arxiv.org/abs/2312.04693v1)|null|
+|**2023-12-07 19:04:47**|**Constraints on the trilinear and quartic Higgs couplings from triple   Higgs production at the LHC and beyond**|Panagiotis Stylianou et.al.|[2312.04646v1](http://arxiv.org/abs/2312.04646v1)|null|
+|**2023-12-07 18:51:41**|**Relational Deep Learning: Graph Representation Learning on Relational   Databases**|Matthias Fey et.al.|[2312.04615v1](http://arxiv.org/abs/2312.04615v1)|null|
 |**2023-12-07 18:21:52**|**Graph Metanetworks for Processing Diverse Neural Architectures**|Derek Lim et.al.|[2312.04501v1](http://arxiv.org/abs/2312.04501v1)|null|
 |**2023-12-07 17:53:02**|**GSGFormer: Generative Social Graph Transformer for Multimodal Pedestrian   Trajectory Prediction**|Zhongchang Luo et.al.|[2312.04479v1](http://arxiv.org/abs/2312.04479v1)|null|
 |**2023-12-07 16:48:32**|**Scalable Knowledge Graph Construction and Inference on Human Genome   Variants**|Shivika Prasanna et.al.|[2312.04423v1](http://arxiv.org/abs/2312.04423v1)|null|
@@ -25,10 +31,4 @@
 |**2023-12-06 05:02:10**|**Enhancing Molecular Property Prediction via Mixture of Collaborative   Experts**|Xu Yao et.al.|[2312.03292v1](http://arxiv.org/abs/2312.03292v1)|[link](https://github.com/Hyacinth-YX/mixture-of-collaborative-experts)|
 |**2023-12-06 02:16:44**|**Multicoated and Folded Graph Neural Networks with Strong Lottery Tickets**|Jiale Yan et.al.|[2312.03236v1](http://arxiv.org/abs/2312.03236v1)|[link](https://github.com/louivalley/slt-gnn)|
 |**2023-12-05 18:38:44**|**Simple evolving random graphs**|P. L. Krapivsky et.al.|[2312.02952v1](http://arxiv.org/abs/2312.02952v1)|null|
-|**2023-12-05 12:07:30**|**Large Knowledge Model: Perspectives and Challenges**|Huajun Chen et.al.|[2312.02706v1](http://arxiv.org/abs/2312.02706v1)|null|
-|**2023-12-05 12:04:34**|**Neural Sign Actors: A diffusion model for 3D sign language production   from text**|Vasileios Baltatzis et.al.|[2312.02702v1](http://arxiv.org/abs/2312.02702v1)|null|
-|**2023-12-05 09:55:49**|**On the Initialization of Graph Neural Networks**|Jiahang Li et.al.|[2312.02622v1](http://arxiv.org/abs/2312.02622v1)|[link](https://github.com/lspongebobjh/virgo_icml2023)|
-|**2023-12-05 09:19:26**|**A Neural Receiver for 5G NR Multi-user MIMO**|Sebastian Cammerer et.al.|[2312.02601v1](http://arxiv.org/abs/2312.02601v1)|null|
-|**2023-12-05 06:05:04**|**MASP: Scalable GNN-based Planning for Multi-Agent Navigation**|Xinyi Yang et.al.|[2312.02522v1](http://arxiv.org/abs/2312.02522v1)|null|
-|**2023-12-05 03:58:05**|**NeutronStream: A Dynamic GNN Training Framework with Sliding Window for   Graph Streams**|Chaoyi Chen et.al.|[2312.02473v1](http://arxiv.org/abs/2312.02473v1)|null|
-|**2023-12-05 03:46:30**|**Congestion-aware Distributed Task Offloading in Wireless Multi-hop   Networks Using Graph Neural Networks**|Zhongyuan Zhao et.al.|[2312.02471v1](http://arxiv.org/abs/2312.02471v1)|null|
+|**2023-12-05 13:25:35**|**Toward Energy-Efficient Massive MIMO: Graph Neural Network Precoding for   Mitigating Non-Linear PA Distortion**|Thomas Feys et.al.|[2312.04591v1](http://arxiv.org/abs/2312.04591v1)|null|
