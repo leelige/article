@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2023-12-14 16:08:45 Asia/Shanghai
+ 自动更新 @ 2023-12-15 16:08:42 Asia/Shanghai
 
 ## Group Recommendation
 
@@ -46,7 +46,7 @@
 |**2023-12-13 18:49:55**|**CUTTANA: Scalable Graph Partitioning for Faster Distributed Graph   Databases and Analytics**|Milad Rezaei Hajidehi et.al.|[2312.08356v1](http://arxiv.org/abs/2312.08356v1)|null|
 |**2023-12-13 17:04:09**|**On the verification of Embeddings using Hybrid Markov Logic**|Anup Shakya et.al.|[2312.08287v1](http://arxiv.org/abs/2312.08287v1)|null|
 |**2023-12-13 15:45:19**|**Patch-wise Graph Contrastive Learning for Image Translation**|Chanyong Jung et.al.|[2312.08223v1](http://arxiv.org/abs/2312.08223v1)|null|
-|**2023-12-13 15:42:14**|**Curriculum-Enhanced Residual Soft An-Isotropic Normalization for   Over-smoothness in Deep GNNs**|Jin Li et.al.|[2312.08221v1](http://arxiv.org/abs/2312.08221v1)|null|
+|**2023-12-13 15:42:14**|**Curriculum-Enhanced Residual Soft An-Isotropic Normalization for   Over-smoothness in Deep GNNs**|Jin Li et.al.|[2312.08221v2](http://arxiv.org/abs/2312.08221v2)|null|
 |**2023-12-13 14:47:39**|**Adversarial Attacks on Graph Neural Networks based Spatial Resource   Management in P2P Wireless Communications**|Ahmad Ghasemi et.al.|[2312.08181v1](http://arxiv.org/abs/2312.08181v1)|null|
 |**2023-12-13 11:39:56**|**TERM Model: Tensor Ring Mixture Model for Density Estimation**|Ruituo Wu et.al.|[2312.08075v1](http://arxiv.org/abs/2312.08075v1)|null|
 |**2023-12-13 06:39:49**|**Memory-Efficient Reversible Spiking Neural Networks**|Hong Zhang et.al.|[2312.07922v1](http://arxiv.org/abs/2312.07922v1)|[link](https://github.com/mi804/revsnn)|
