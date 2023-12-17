@@ -2,11 +2,25 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-14 16:17:20**|**COMBHelper: A Neural Approach to Reduce Search Space for Graph   Combinatorial Problems**|Hao Tian et.al.|[2312.09086v1](http://arxiv.org/abs/2312.09086v1)|[link](https://github.com/1041877801/COMBHelper)|
+|**2023-12-14 16:11:42**|**ProSGNeRF: Progressive Dynamic Neural Scene Graph with Frequency   Modulated Auto-Encoder in Urban Scenes**|Tianchen Deng et.al.|[2312.09076v1](http://arxiv.org/abs/2312.09076v1)|null|
+|**2023-12-14 15:38:12**|**Graph Neural Networks with Diverse Spectral Filtering**|Jingwei Guo et.al.|[2312.09041v1](http://arxiv.org/abs/2312.09041v1)|[link](https://github.com/jingweio/dsf)|
+|**2023-12-14 15:06:48**|**Symmetry Breaking and Equivariant Neural Networks**|Sékou-Oumar Kaba et.al.|[2312.09016v1](http://arxiv.org/abs/2312.09016v1)|null|
+|**2023-12-14 15:06:29**|**Uncertainty in GNN Learning Evaluations: A Comparison Between Measures   for Quantifying Randomness in GNN Community Detection**|William Leeney et.al.|[2312.09015v1](http://arxiv.org/abs/2312.09015v1)|null|
+|**2023-12-14 14:00:30**|**Multi-Scene Generalized Trajectory Global Graph Solver with Composite   Nodes for Multiple Object Tracking**|Yan Gao et.al.|[2312.08951v1](http://arxiv.org/abs/2312.08951v1)|null|
+|**2023-12-14 07:43:53**|**PairingNet: A Learning-based Pair-searching and -matching Network for   Image Fragments**|Rixin Zhou et.al.|[2312.08704v1](http://arxiv.org/abs/2312.08704v1)|null|
+|**2023-12-14 06:31:52**|**Heterogeneous Graph Neural Architecture Search with GPT-4**|Haoyuan Dong et.al.|[2312.08680v1](http://arxiv.org/abs/2312.08680v1)|null|
+|**2023-12-14 06:08:35**|**Uplifting the Expressive Power of Graph Neural Networks through Graph   Partitioning**|Asela Hevapathige et.al.|[2312.08671v1](http://arxiv.org/abs/2312.08671v1)|null|
+|**2023-12-14 05:00:49**|**MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural   Networks Training**|Hongwu Peng et.al.|[2312.08656v1](http://arxiv.org/abs/2312.08656v1)|[link](https://github.com/harveyp123/maxk-gnn)|
+|**2023-12-14 04:25:50**|**Towards Inductive Robustness: Distilling and Fostering Wave-induced   Resonance in Transductive GCNs Against Graph Adversarial Attacks**|Ao Liu et.al.|[2312.08651v1](http://arxiv.org/abs/2312.08651v1)|null|
+|**2023-12-14 02:41:12**|**A Generalized Neural Diffusion Framework on Graphs**|Yibo Li et.al.|[2312.08616v1](http://arxiv.org/abs/2312.08616v1)|null|
+|**2023-12-13 21:56:21**|**On Searching for Minimal Integer Representation of Undirected Graphs**|Victor Parque et.al.|[2312.08539v1](http://arxiv.org/abs/2312.08539v1)|null|
+|**2023-12-13 21:03:39**|**Simplicial Representation Learning with Neural $k$-forms**|Kelly Maggs et.al.|[2312.08515v1](http://arxiv.org/abs/2312.08515v1)|null|
 |**2023-12-13 18:59:58**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372v1](http://arxiv.org/abs/2312.08372v1)|null|
 |**2023-12-13 18:49:55**|**CUTTANA: Scalable Graph Partitioning for Faster Distributed Graph   Databases and Analytics**|Milad Rezaei Hajidehi et.al.|[2312.08356v1](http://arxiv.org/abs/2312.08356v1)|null|
 |**2023-12-13 17:04:09**|**On the verification of Embeddings using Hybrid Markov Logic**|Anup Shakya et.al.|[2312.08287v1](http://arxiv.org/abs/2312.08287v1)|null|
 |**2023-12-13 15:45:19**|**Patch-wise Graph Contrastive Learning for Image Translation**|Chanyong Jung et.al.|[2312.08223v1](http://arxiv.org/abs/2312.08223v1)|null|
-|**2023-12-13 15:42:14**|**Curriculum-Enhanced Residual Soft An-Isotropic Normalization for   Over-smoothness in Deep GNNs**|Jin Li et.al.|[2312.08221v2](http://arxiv.org/abs/2312.08221v2)|null|
+|**2023-12-13 15:42:14**|**Curriculum-Enhanced Residual Soft An-Isotropic Normalization for   Over-smoothness in Deep GNNs**|Jin Li et.al.|[2312.08221v2](http://arxiv.org/abs/2312.08221v2)|[link](https://github.com/jslijin/research-paper-codes)|
 |**2023-12-13 14:47:39**|**Adversarial Attacks on Graph Neural Networks based Spatial Resource   Management in P2P Wireless Communications**|Ahmad Ghasemi et.al.|[2312.08181v1](http://arxiv.org/abs/2312.08181v1)|null|
 |**2023-12-13 11:39:56**|**TERM Model: Tensor Ring Mixture Model for Density Estimation**|Ruituo Wu et.al.|[2312.08075v1](http://arxiv.org/abs/2312.08075v1)|null|
 |**2023-12-13 06:39:49**|**Memory-Efficient Reversible Spiking Neural Networks**|Hong Zhang et.al.|[2312.07922v1](http://arxiv.org/abs/2312.07922v1)|[link](https://github.com/mi804/revsnn)|
@@ -18,17 +32,3 @@
 |**2023-12-12 16:38:56**|**Random graphs and real networks with weak geometric coupling**|J. van der Kolk et.al.|[2312.07416v1](http://arxiv.org/abs/2312.07416v1)|null|
 |**2023-12-12 10:54:02**|**Cost Aware Untargeted Poisoning Attack against Graph Neural Networks,**|Yuwei Han et.al.|[2312.07158v1](http://arxiv.org/abs/2312.07158v1)|null|
 |**2023-12-12 09:52:35**|**Neural Reasoning About Agents' Goals, Preferences, and Actions**|Matteo Bortoletto et.al.|[2312.07122v1](http://arxiv.org/abs/2312.07122v1)|null|
-|**2023-12-12 02:20:39**|**Benchmarking Deep Learning Classifiers for SAR Automatic Target   Recognition**|Jacob Fein-Ashley et.al.|[2312.06940v1](http://arxiv.org/abs/2312.06940v1)|null|
-|**2023-12-11 23:03:17**|**A Novel Differentiable Loss Function for Unsupervised Graph Neural   Networks in Graph Partitioning**|Vivek Chaudhary et.al.|[2312.06877v1](http://arxiv.org/abs/2312.06877v1)|null|
-|**2023-12-11 22:30:13**|**Spatiotemporal Event Graphs for Dynamic Scene Understanding**|Salman Khan et.al.|[2312.07621v1](http://arxiv.org/abs/2312.07621v1)|null|
-|**2023-12-11 21:00:58**|**Optimizing High Throughput Inference on Graph Neural Networks at Shared   Computing Facilities with the NVIDIA Triton Inference Server**|Claire Savard et.al.|[2312.06838v1](http://arxiv.org/abs/2312.06838v1)|null|
-|**2023-12-11 18:00:27**|**HyPE-GT: where Graph Transformers meet Hyperbolic Positional Encodings**|Kushal Bose et.al.|[2312.06576v1](http://arxiv.org/abs/2312.06576v1)|[link](https://github.com/kushalbose92/hype-gt)|
-|**2023-12-11 17:52:46**|**Sparse but Strong: Crafting Adversarially Robust Graph Lottery Tickets**|Subhajit Dutta Chowdhury et.al.|[2312.06568v1](http://arxiv.org/abs/2312.06568v1)|null|
-|**2023-12-11 17:43:57**|**Robust Graph Neural Network based on Graph Denoising**|Victor M. Tenorio et.al.|[2312.06557v1](http://arxiv.org/abs/2312.06557v1)|[link](https://github.com/vmtenorio/robust_gnn)|
-|**2023-12-11 17:12:51**|**IndoorGNN: A Graph Neural Network based approach for Indoor Localization   using WiFi RSSI**|Rahul Vishwakarma et.al.|[2312.07609v1](http://arxiv.org/abs/2312.07609v1)|null|
-|**2023-12-11 16:52:20**|**A GAN Approach for Node Embedding in Heterogeneous Graphs Using Subgraph   Sampling**|Hung Chun Hsu et.al.|[2312.06519v1](http://arxiv.org/abs/2312.06519v1)|null|
-|**2023-12-11 15:18:51**|**Revisiting Graph-based Fraud Detection in Sight of Heterophily and   Spectrum**|Fan Xu et.al.|[2312.06441v1](http://arxiv.org/abs/2312.06441v1)|null|
-|**2023-12-11 12:45:43**|**Detecting Contextual Network Anomalies with Graph Neural Networks**|Hamid Latif-Martínez et.al.|[2312.06342v1](http://arxiv.org/abs/2312.06342v1)|null|
-|**2023-12-11 12:35:17**|**Deep Imbalanced Learning for Multimodal Emotion Recognition in   Conversations**|Tao Meng et.al.|[2312.06337v1](http://arxiv.org/abs/2312.06337v1)|null|
-|**2023-12-11 10:13:53**|**On the Prediction of Hardware Security Properties of HLS Designs Using   Graph Neural Networks**|Amalia Artemis Koufopoulou et.al.|[2312.07594v1](http://arxiv.org/abs/2312.07594v1)|null|
-|**2023-12-11 09:36:37**|**Pipeline for performance evaluation of flavour tagging dedicated Graph   Neural Network algorithms**|Greta Brianti et.al.|[2312.06245v1](http://arxiv.org/abs/2312.06245v1)|null|
