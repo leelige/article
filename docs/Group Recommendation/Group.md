@@ -5,7 +5,8 @@
 |**2023-12-15 17:01:35**|**Peer Learning: Learning Complex Policies in Groups from Scratch via   Action Recommendations**|Cedric Derstroff et.al.|[2312.09950v1](http://arxiv.org/abs/2312.09950v1)|null|
 |**2023-12-15 15:53:45**|**Temporally and Distributionally Robust Optimization for Cold-start   Recommendation**|Xinyu Lin et.al.|[2312.09901v1](http://arxiv.org/abs/2312.09901v1)|[link](https://github.com/linxyhaha/tdro)|
 |**2023-12-14 11:19:14**|**A manual categorization of new quality issues on automatically-generated   tests**|Geraldine Galindo-Gutierrez et.al.|[2312.08826v1](http://arxiv.org/abs/2312.08826v1)|null|
-|**2023-12-13 19:13:11**|**Best practices for machine learning in antibody discovery and   development**|Leonard Wossnig et.al.|[2312.08470v1](http://arxiv.org/abs/2312.08470v1)|null|
+|**2023-12-13 19:13:11**|**Best practices for machine learning in antibody discovery and   development**|Leonard Wossnig et.al.|[2312.08470v2](http://arxiv.org/abs/2312.08470v2)|null|
+|**2023-12-10 18:33:45**|**No prejudice! Fair Federated Graph Neural Networks for Personalized   Recommendation**|Nimesh Agrawal et.al.|[2312.10080v1](http://arxiv.org/abs/2312.10080v1)|null|
 |**2023-12-07 16:17:34**|**On the Impact of Multi-dimensional Local Differential Privacy on   Fairness**|Karima Makhlouf et.al.|[2312.04404v2](http://arxiv.org/abs/2312.04404v2)|[link](https://github.com/karimamakhlouf/impact_of_ldp_on_fairness)|
 |**2023-12-06 21:32:32**|**Data Safety vs. App Privacy: Comparing the Usability of Android and iOS   Privacy Labels**|Yanzi Lin et.al.|[2312.03918v1](http://arxiv.org/abs/2312.03918v1)|null|
 |**2023-12-05 08:57:32**|**Mapping the Information Journey: Unveiling the Documentation Experience   of Software Developers in China**|Zhijun Gao et.al.|[2312.02586v1](http://arxiv.org/abs/2312.02586v1)|null|
@@ -31,4 +32,3 @@
 |**2023-10-30 19:57:40**|**Advancing a Model of Students' Intentional Persistence in Machine   Learning and Artificial Intelligence**|Sharon Ferguson et.al.|[2311.10744v1](http://arxiv.org/abs/2311.10744v1)|null|
 |**2023-10-26 20:14:35**|**Forum on immune digital twins: a meeting report**|Reinhard Laubenbacher et.al.|[2310.18374v1](http://arxiv.org/abs/2310.18374v1)|null|
 |**2023-10-25 02:06:56**|**Producer-Side Experiments Based on Counterfactual Interleaving Designs   for Online Recommender Systems**|Yan Wang et.al.|[2310.16294v2](http://arxiv.org/abs/2310.16294v2)|null|
-|**2023-10-23 18:53:49**|**Early Career Perspectives For the NASA SMD Bridge Program**|Jenna M. Cann et.al.|[2310.15287v1](http://arxiv.org/abs/2310.15287v1)|null|

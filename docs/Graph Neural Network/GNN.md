@@ -2,6 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-17 20:21:33**|**Non-Euclidean Spatial Graph Neural Network**|Zheng Zhang et.al.|[2312.10808v1](http://arxiv.org/abs/2312.10808v1)|[link](https://github.com/anonymous-submitter-1234/manifold_spatial_networks)|
+|**2023-12-17 05:30:35**|**p-Laplacian Adaptation for Generative Pre-trained Vision-Language Models**|Haoyuan Wu et.al.|[2312.10613v1](http://arxiv.org/abs/2312.10613v1)|[link](https://github.com/wuhy68/p-adapter)|
+|**2023-12-17 01:49:40**|**DER-GCN: Dialogue and Event Relation-Aware Graph Convolutional Neural   Network for Multimodal Dialogue Emotion Recognition**|Wei Ai et.al.|[2312.10579v1](http://arxiv.org/abs/2312.10579v1)|null|
+|**2023-12-16 23:31:20**|**Enabling Accelerators for Graph Computing**|Kaustubh Shivdikar et.al.|[2312.10561v1](http://arxiv.org/abs/2312.10561v1)|null|
+|**2023-12-16 14:09:23**|**Degree-based stratification of nodes in Graph Neural Networks**|Ameen Ali et.al.|[2312.10458v1](http://arxiv.org/abs/2312.10458v1)|null|
+|**2023-12-16 07:27:07**|**Conformer-Based Speech Recognition On Extreme Edge-Computing Devices**|Mingbin Xu et.al.|[2312.10359v1](http://arxiv.org/abs/2312.10359v1)|null|
+|**2023-12-16 06:48:11**|**Opara: Exploiting Operator Parallelism for Expediting DNN Inference on   GPUs**|Aodong Chen et.al.|[2312.10351v1](http://arxiv.org/abs/2312.10351v1)|[link](https://github.com/icloud-ecnu/opara)|
+|**2023-12-16 03:54:26**|**scBiGNN: Bilevel Graph Representation Learning for Cell Type   Classification from Single-cell RNA Sequencing Data**|Rui Yang et.al.|[2312.10310v1](http://arxiv.org/abs/2312.10310v1)|null|
+|**2023-12-16 02:26:09**|**Inductive Link Prediction in Knowledge Graphs using Path-based Neural   Networks**|Canlin Zhang et.al.|[2312.10293v1](http://arxiv.org/abs/2312.10293v1)|null|
+|**2023-12-16 01:06:31**|**A charge-preserving method for solving graph neural diffusion networks**|Lidia Aceto et.al.|[2312.10279v1](http://arxiv.org/abs/2312.10279v1)|null|
 |**2023-12-15 16:41:48**|**RDR: the Recap, Deliberate, and Respond Method for Enhanced Language   Understanding**|Yuxin Zi et.al.|[2312.09932v1](http://arxiv.org/abs/2312.09932v1)|null|
 |**2023-12-15 14:01:56**|**Concept Prerequisite Relation Prediction by Using   Permutation-Equivariant Directed Graph Neural Networks**|Xiran Qu et.al.|[2312.09802v1](http://arxiv.org/abs/2312.09802v1)|null|
 |**2023-12-15 12:31:35**|**Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of   Cross-modal Knowledge Graph for Material Property Prediction**|Guangxuan Song et.al.|[2312.09744v1](http://arxiv.org/abs/2312.09744v1)|null|
@@ -21,14 +31,4 @@
 |**2023-12-14 07:43:53**|**PairingNet: A Learning-based Pair-searching and -matching Network for   Image Fragments**|Rixin Zhou et.al.|[2312.08704v1](http://arxiv.org/abs/2312.08704v1)|null|
 |**2023-12-14 06:31:52**|**Heterogeneous Graph Neural Architecture Search with GPT-4**|Haoyuan Dong et.al.|[2312.08680v1](http://arxiv.org/abs/2312.08680v1)|null|
 |**2023-12-14 06:08:35**|**Uplifting the Expressive Power of Graph Neural Networks through Graph   Partitioning**|Asela Hevapathige et.al.|[2312.08671v1](http://arxiv.org/abs/2312.08671v1)|null|
-|**2023-12-14 05:00:49**|**MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural   Networks Training**|Hongwu Peng et.al.|[2312.08656v1](http://arxiv.org/abs/2312.08656v1)|[link](https://github.com/harveyp123/maxk-gnn)|
-|**2023-12-14 04:25:50**|**Towards Inductive Robustness: Distilling and Fostering Wave-induced   Resonance in Transductive GCNs Against Graph Adversarial Attacks**|Ao Liu et.al.|[2312.08651v1](http://arxiv.org/abs/2312.08651v1)|null|
-|**2023-12-14 02:41:12**|**A Generalized Neural Diffusion Framework on Graphs**|Yibo Li et.al.|[2312.08616v1](http://arxiv.org/abs/2312.08616v1)|null|
-|**2023-12-13 21:56:21**|**On Searching for Minimal Integer Representation of Undirected Graphs**|Victor Parque et.al.|[2312.08539v1](http://arxiv.org/abs/2312.08539v1)|null|
-|**2023-12-13 21:03:39**|**Simplicial Representation Learning with Neural $k$-forms**|Kelly Maggs et.al.|[2312.08515v1](http://arxiv.org/abs/2312.08515v1)|null|
-|**2023-12-13 18:59:58**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372v1](http://arxiv.org/abs/2312.08372v1)|null|
-|**2023-12-13 18:49:55**|**CUTTANA: Scalable Graph Partitioning for Faster Distributed Graph   Databases and Analytics**|Milad Rezaei Hajidehi et.al.|[2312.08356v1](http://arxiv.org/abs/2312.08356v1)|null|
-|**2023-12-13 17:04:09**|**On the verification of Embeddings using Hybrid Markov Logic**|Anup Shakya et.al.|[2312.08287v1](http://arxiv.org/abs/2312.08287v1)|null|
-|**2023-12-13 15:45:19**|**Patch-wise Graph Contrastive Learning for Image Translation**|Chanyong Jung et.al.|[2312.08223v1](http://arxiv.org/abs/2312.08223v1)|null|
-|**2023-12-13 15:42:14**|**Curriculum-Enhanced Residual Soft An-Isotropic Normalization for   Over-smoothness in Deep GNNs**|Jin Li et.al.|[2312.08221v2](http://arxiv.org/abs/2312.08221v2)|[link](https://github.com/jslijin/research-paper-codes)|
-|**2023-12-13 14:47:39**|**Adversarial Attacks on Graph Neural Networks based Spatial Resource   Management in P2P Wireless Communications**|Ahmad Ghasemi et.al.|[2312.08181v1](http://arxiv.org/abs/2312.08181v1)|null|
+|**2023-12-14 05:00:49**|**MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural   Networks Training**|Hongwu Peng et.al.|[2312.08656v2](http://arxiv.org/abs/2312.08656v2)|[link](https://github.com/harveyp123/maxk-gnn)|
