@@ -2,14 +2,14 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-12-18 02:18:33**|**A novel diffusion recommendation algorithm based on multi-scale cnn and   residual lstm**|Yong Niu et.al.|[2312.10885v1](http://arxiv.org/abs/2312.10885v1)|null|
+|**2023-12-18 02:18:33**|**A novel diffusion recommendation algorithm based on multi-scale cnn and   residual lstm**|Yong Niu et.al.|[2312.10885v2](http://arxiv.org/abs/2312.10885v2)|null|
 |**2023-12-12 17:40:16**|**Multi-criteria recommendation systems to foster online grocery**|Manar Mohamed Hafez et.al.|[2312.08393v1](http://arxiv.org/abs/2312.08393v1)|null|
 |**2023-12-04 14:20:16**|**PEACE: Prototype lEarning Augmented transferable framework for   Cross-domain rEcommendation**|Chunjing Gan et.al.|[2312.01916v2](http://arxiv.org/abs/2312.01916v2)|null|
 |**2023-11-29 05:59:24**|**Attribute Simulation for Item Embedding Enhancement in Multi-interest   Recommendation**|Yaokun Liu et.al.|[2311.17374v1](http://arxiv.org/abs/2311.17374v1)|null|
 |**2023-11-22 02:49:14**|**GENET: Unleashing the Power of Side Information for Recommendation via   Hypergraph Pre-training**|Yang Li et.al.|[2311.13121v1](http://arxiv.org/abs/2311.13121v1)|null|
 |**2023-11-20 19:37:57**|**Multi-view Graph Convolution for Participant Recommendation**|Xiaolong Liu et.al.|[2311.12136v1](http://arxiv.org/abs/2311.12136v1)|null|
 |**2023-11-08 15:33:06**|**Towards Open-world Cross-Domain Sequential Recommendation: A   Model-Agnostic Contrastive Denoising Approach**|Wujiang Xu et.al.|[2311.04760v2](http://arxiv.org/abs/2311.04760v2)|null|
-|**2023-11-08 10:44:20**|**Rethinking Cross-Domain Sequential Recommendation under Open-World   Assumptions**|Wujiang Xu et.al.|[2311.04590v1](http://arxiv.org/abs/2311.04590v1)|null|
+|**2023-11-08 10:44:20**|**Rethinking Cross-Domain Sequential Recommendation under Open-World   Assumptions**|Wujiang Xu et.al.|[2311.04590v2](http://arxiv.org/abs/2311.04590v2)|null|
 |**2023-11-03 10:39:42**|**Universal Multi-modal Multi-domain Pre-trained Recommendation**|Wenqi Sun et.al.|[2311.01831v1](http://arxiv.org/abs/2311.01831v1)|null|
 |**2023-11-02 10:16:28**|**Bi-Preference Learning Heterogeneous Hypergraph Networks for   Session-based Recommendation**|Xiaokun Zhang et.al.|[2311.01125v1](http://arxiv.org/abs/2311.01125v1)|[link](https://github.com/zhang-xiaokun/bipnet)|
 |**2023-11-02 08:01:36**|**Collaboration and Transition: Distilling Item Transitions into   Multi-Query Self-Attention for Sequential Recommendation**|Tianyu Zhu et.al.|[2311.01056v1](http://arxiv.org/abs/2311.01056v1)|[link](https://github.com/zhuty16/mqsa-ted)|
