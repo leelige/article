@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-12-20 01:43:55**|**DGCLUSTER: A Neural Framework for Attributed Graph Clustering via   Modularity Maximization**|Aritra Bhowmick et.al.|[2312.12697v1](http://arxiv.org/abs/2312.12697v1)|[link](https://github.com/pyrobits/dgcluster)|
 |**2023-12-15 17:01:35**|**Peer Learning: Learning Complex Policies in Groups from Scratch via   Action Recommendations**|Cedric Derstroff et.al.|[2312.09950v1](http://arxiv.org/abs/2312.09950v1)|[link](https://github.com/kramerlab/peerlearning)|
-|**2023-12-15 15:53:45**|**Temporally and Distributionally Robust Optimization for Cold-start   Recommendation**|Xinyu Lin et.al.|[2312.09901v1](http://arxiv.org/abs/2312.09901v1)|[link](https://github.com/linxyhaha/tdro)|
+|**2023-12-15 15:53:45**|**Temporally and Distributionally Robust Optimization for Cold-start   Recommendation**|Xinyu Lin et.al.|[2312.09901v2](http://arxiv.org/abs/2312.09901v2)|[link](https://github.com/linxyhaha/tdro)|
 |**2023-12-14 11:19:14**|**A manual categorization of new quality issues on automatically-generated   tests**|Geraldine Galindo-Gutierrez et.al.|[2312.08826v1](http://arxiv.org/abs/2312.08826v1)|null|
 |**2023-12-13 19:13:11**|**Best practices for machine learning in antibody discovery and   development**|Leonard Wossnig et.al.|[2312.08470v2](http://arxiv.org/abs/2312.08470v2)|null|
 |**2023-12-10 18:33:45**|**No prejudice! Fair Federated Graph Neural Networks for Personalized   Recommendation**|Nimesh Agrawal et.al.|[2312.10080v2](http://arxiv.org/abs/2312.10080v2)|null|

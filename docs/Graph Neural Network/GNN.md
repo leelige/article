@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-22 17:52:15**|**Large-deviation analysis of rare resonances for the Many-Body   localization transition**|Giulio Biroli et.al.|[2312.14873v1](http://arxiv.org/abs/2312.14873v1)|null|
+|**2023-12-22 17:19:50**|**Large Scale Traning of Graph Neural Networks for Optimal Markov-Chain   Partitioning Using the Kemeny Constant**|Sam Alexander Martino et.al.|[2312.14847v1](http://arxiv.org/abs/2312.14847v1)|null|
+|**2023-12-22 17:09:34**|**Learning Lagrangian Multipliers for the Travelling Salesman Problem**|Augustin Parjadis et.al.|[2312.14836v1](http://arxiv.org/abs/2312.14836v1)|null|
+|**2023-12-22 12:13:19**|**Fluid Simulation on Neural Flow Maps**|Yitong Deng et.al.|[2312.14635v1](http://arxiv.org/abs/2312.14635v1)|null|
+|**2023-12-22 08:31:11**|**Joint Learning Neuronal Skeleton and Brain Circuit Topology with   Permutation Invariant Encoders for Neuron Classification**|Minghui Liao et.al.|[2312.14518v1](http://arxiv.org/abs/2312.14518v1)|[link](https://github.com/whuminghui/neunet)|
+|**2023-12-21 23:34:08**|**Behaviour Modelling of Social Animals via Causal Structure Discovery and   Graph Neural Networks**|Gaël Gendron et.al.|[2312.14333v1](http://arxiv.org/abs/2312.14333v1)|null|
+|**2023-12-21 21:36:43**|**Social Recommendation through Heterogeneous Graph Modeling of the   Long-term and Short-term Preference Defined by Dynamic Periods**|Behafarid Mohammad Jafari et.al.|[2312.14306v1](http://arxiv.org/abs/2312.14306v1)|null|
 |**2023-12-21 12:14:35**|**Benchmarking Evolutionary Community Detection Algorithms in Dynamic   Networks**|Giordano Paoletti et.al.|[2312.13784v1](http://arxiv.org/abs/2312.13784v1)|null|
 |**2023-12-21 07:03:15**|**Structure-Aware Path Inference for Neural Finite State Transducers**|Weiting Tan et.al.|[2312.13614v1](http://arxiv.org/abs/2312.13614v1)|null|
 |**2023-12-21 05:17:10**|**Fine-tuning Graph Neural Networks by Preserving Graph Generative   Patterns**|Yifei Sun et.al.|[2312.13583v1](http://arxiv.org/abs/2312.13583v1)|[link](https://github.com/zjunet/G-Tuning)|
@@ -25,10 +32,3 @@
 |**2023-12-19 05:14:31**|**Topo-MLP : A Simplicial Network Without Message Passing**|Karthikeyan Natesan Ramamurthy et.al.|[2312.11862v1](http://arxiv.org/abs/2312.11862v1)|null|
 |**2023-12-19 04:58:37**|**SimCalib: Graph Neural Network Calibration based on Similarity between   Nodes**|Boshi Tang et.al.|[2312.11858v1](http://arxiv.org/abs/2312.11858v1)|null|
 |**2023-12-19 04:56:59**|**Anderson transition and mobility edges on hyperbolic lattices**|Tianyu Li et.al.|[2312.11857v1](http://arxiv.org/abs/2312.11857v1)|null|
-|**2023-12-18 22:12:26**|**Stronger Graph Transformer with Regularized Attention Scores**|Eugene Ku et.al.|[2312.11730v1](http://arxiv.org/abs/2312.11730v1)|[link](https://github.com/eugene29/graphgps_edge_regularization)|
-|**2023-12-18 17:59:43**|**Reinforcement Learning Based Quantum Circuit Optimization via   ZX-Calculus**|Jordi Riu et.al.|[2312.11597v1](http://arxiv.org/abs/2312.11597v1)|null|
-|**2023-12-18 14:23:47**|**CaseGNN: Graph Neural Networks for Legal Case Retrieval with   Text-Attributed Graphs**|Yanran Tang et.al.|[2312.11229v2](http://arxiv.org/abs/2312.11229v2)|[link](https://github.com/yanran-tang/CaseGNN)|
-|**2023-12-18 13:45:33**|**Signed Graph Neural Ordinary Differential Equation for Modeling   Continuous-time Dynamics**|Lanlan Chen et.al.|[2312.11198v1](http://arxiv.org/abs/2312.11198v1)|[link](https://github.com/beautyonce/sgode)|
-|**2023-12-18 12:46:09**|**Prompt Based Tri-Channel Graph Convolution Neural Network for Aspect   Sentiment Triplet Extraction**|Kun Peng et.al.|[2312.11152v1](http://arxiv.org/abs/2312.11152v1)|[link](https://github.com/kunpuncn/pt-gcn)|
-|**2023-12-18 12:32:45**|**Learning Domain-Independent Heuristics for Grounded and Lifted Planning**|Dillon Z. Chen et.al.|[2312.11143v2](http://arxiv.org/abs/2312.11143v2)|null|
-|**2023-12-18 11:19:23**|**Graph Transformers for Large Graphs**|Vijay Prakash Dwivedi et.al.|[2312.11109v1](http://arxiv.org/abs/2312.11109v1)|[link](https://github.com/snap-research/largegt)|
