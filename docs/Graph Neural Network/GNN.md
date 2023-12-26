@@ -8,7 +8,7 @@
 |**2023-12-22 12:13:19**|**Fluid Simulation on Neural Flow Maps**|Yitong Deng et.al.|[2312.14635v1](http://arxiv.org/abs/2312.14635v1)|null|
 |**2023-12-22 08:31:11**|**Joint Learning Neuronal Skeleton and Brain Circuit Topology with   Permutation Invariant Encoders for Neuron Classification**|Minghui Liao et.al.|[2312.14518v1](http://arxiv.org/abs/2312.14518v1)|[link](https://github.com/whuminghui/neunet)|
 |**2023-12-21 23:34:08**|**Behaviour Modelling of Social Animals via Causal Structure Discovery and   Graph Neural Networks**|Gaël Gendron et.al.|[2312.14333v1](http://arxiv.org/abs/2312.14333v1)|null|
-|**2023-12-21 21:36:43**|**Social Recommendation through Heterogeneous Graph Modeling of the   Long-term and Short-term Preference Defined by Dynamic Periods**|Behafarid Mohammad Jafari et.al.|[2312.14306v1](http://arxiv.org/abs/2312.14306v1)|null|
+|**2023-12-21 21:36:43**|**Social Recommendation through Heterogeneous Graph Modeling of the   Long-term and Short-term Preference Defined by Dynamic Periods**|Behafarid Mohammad Jafari et.al.|[2312.14306v1](http://arxiv.org/abs/2312.14306v1)|[link](https://github.com/BehafaridMjf/Social-Recommendation-System)|
 |**2023-12-21 12:14:35**|**Benchmarking Evolutionary Community Detection Algorithms in Dynamic   Networks**|Giordano Paoletti et.al.|[2312.13784v1](http://arxiv.org/abs/2312.13784v1)|null|
 |**2023-12-21 07:03:15**|**Structure-Aware Path Inference for Neural Finite State Transducers**|Weiting Tan et.al.|[2312.13614v1](http://arxiv.org/abs/2312.13614v1)|null|
 |**2023-12-21 05:17:10**|**Fine-tuning Graph Neural Networks by Preserving Graph Generative   Patterns**|Yifei Sun et.al.|[2312.13583v1](http://arxiv.org/abs/2312.13583v1)|[link](https://github.com/zjunet/G-Tuning)|
