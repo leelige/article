@@ -1,13 +1,19 @@
 # arxiv-daily
- 自动更新 @ 2023-12-26 16:08:20 Asia/Shanghai
+ 自动更新 @ 2023-12-27 16:08:14 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-26 03:09:08**|**BalMCTS: Balancing Objective Function and Search Nodes in MCTS for   Constraint Optimization Problems**|Yingkai Xiao et.al.|[2312.15864v1](http://arxiv.org/abs/2312.15864v1)|null|
+|**2023-12-25 22:49:03**|**Comparative Analysis of Radiomic Features and Gene Expression Profiles   in Histopathology Data Using Graph Neural Networks**|Luis Carlos Rivera Monroy et.al.|[2312.15825v1](http://arxiv.org/abs/2312.15825v1)|null|
+|**2023-12-25 02:32:05**|**Privacy-Preserving Neural Graph Databases**|Qi Hu et.al.|[2312.15591v1](http://arxiv.org/abs/2312.15591v1)|null|
+|**2023-12-24 16:07:14**|**Graph Coarsening via Convolution Matching for Scalable Graph Neural   Network Training**|Charles Dickens et.al.|[2312.15520v1](http://arxiv.org/abs/2312.15520v1)|null|
+|**2023-12-24 04:09:30**|**Combinatorial music generation model with song structure graph analysis**|Seonghyeon Go et.al.|[2312.15400v1](http://arxiv.org/abs/2312.15400v1)|null|
+|**2023-12-23 12:13:23**|**Towards Fine-Grained Explainability for Heterogeneous Graph Neural   Network**|Tong Li et.al.|[2312.15237v1](http://arxiv.org/abs/2312.15237v1)|[link](https://github.com/litong99/xpath)|
 |**2023-12-22 17:52:15**|**Large-deviation analysis of rare resonances for the Many-Body   localization transition**|Giulio Biroli et.al.|[2312.14873v1](http://arxiv.org/abs/2312.14873v1)|null|
-|**2023-12-22 17:19:50**|**Large Scale Traning of Graph Neural Networks for Optimal Markov-Chain   Partitioning Using the Kemeny Constant**|Sam Alexander Martino et.al.|[2312.14847v1](http://arxiv.org/abs/2312.14847v1)|null|
+|**2023-12-22 17:19:50**|**Large Scale Training of Graph Neural Networks for Optimal Markov-Chain   Partitioning Using the Kemeny Constant**|Sam Alexander Martino et.al.|[2312.14847v2](http://arxiv.org/abs/2312.14847v2)|null|
 |**2023-12-22 17:09:34**|**Learning Lagrangian Multipliers for the Travelling Salesman Problem**|Augustin Parjadis et.al.|[2312.14836v1](http://arxiv.org/abs/2312.14836v1)|null|
 |**2023-12-22 12:13:19**|**Fluid Simulation on Neural Flow Maps**|Yitong Deng et.al.|[2312.14635v1](http://arxiv.org/abs/2312.14635v1)|null|
 |**2023-12-22 08:31:11**|**Joint Learning Neuronal Skeleton and Brain Circuit Topology with   Permutation Invariant Encoders for Neuron Classification**|Minghui Liao et.al.|[2312.14518v1](http://arxiv.org/abs/2312.14518v1)|[link](https://github.com/whuminghui/neunet)|
@@ -30,12 +36,6 @@
 |**2023-12-19 14:15:20**|**Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183v2](http://arxiv.org/abs/2312.12183v2)|null|
 |**2023-12-19 13:26:14**|**Survey on Trustworthy Graph Neural Networks: From A Causal Perspective**|Wenzhao Jiang et.al.|[2312.12477v1](http://arxiv.org/abs/2312.12477v1)|[link](https://github.com/usail-hkust/causality-inspired-gnns)|
 |**2023-12-19 12:25:10**|**Learning to Reweight for Graph Neural Network**|Zhengyu Chen et.al.|[2312.12475v1](http://arxiv.org/abs/2312.12475v1)|null|
-|**2023-12-19 10:55:46**|**Pose2Gaze: Generating Realistic Human Gaze Behaviour from Full-body   Poses using an Eye-body Coordination Model**|Zhiming Hu et.al.|[2312.12042v1](http://arxiv.org/abs/2312.12042v1)|null|
-|**2023-12-19 06:28:32**|**Hierarchical and Incremental Structural Entropy Minimization for   Unsupervised Social Event Detection**|Yuwei Cao et.al.|[2312.11891v1](http://arxiv.org/abs/2312.11891v1)|[link](https://github.com/selgroup/hisevent)|
-|**2023-12-19 05:30:08**|**Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh   Transformer**|Youn-Yeol Yu et.al.|[2312.12467v1](http://arxiv.org/abs/2312.12467v1)|null|
-|**2023-12-19 05:14:31**|**Topo-MLP : A Simplicial Network Without Message Passing**|Karthikeyan Natesan Ramamurthy et.al.|[2312.11862v1](http://arxiv.org/abs/2312.11862v1)|null|
-|**2023-12-19 04:58:37**|**SimCalib: Graph Neural Network Calibration based on Similarity between   Nodes**|Boshi Tang et.al.|[2312.11858v1](http://arxiv.org/abs/2312.11858v1)|null|
-|**2023-12-19 04:56:59**|**Anderson transition and mobility edges on hyperbolic lattices**|Tianyu Li et.al.|[2312.11857v1](http://arxiv.org/abs/2312.11857v1)|null|
 
 ## Multi Interest Recommendation
 
@@ -52,7 +52,7 @@
 |**2023-11-08 10:44:20**|**Rethinking Cross-Domain Sequential Recommendation under Open-World   Assumptions**|Wujiang Xu et.al.|[2311.04590v2](http://arxiv.org/abs/2311.04590v2)|null|
 |**2023-11-03 10:39:42**|**Universal Multi-modal Multi-domain Pre-trained Recommendation**|Wenqi Sun et.al.|[2311.01831v1](http://arxiv.org/abs/2311.01831v1)|null|
 |**2023-11-02 10:16:28**|**Bi-Preference Learning Heterogeneous Hypergraph Networks for   Session-based Recommendation**|Xiaokun Zhang et.al.|[2311.01125v1](http://arxiv.org/abs/2311.01125v1)|[link](https://github.com/zhang-xiaokun/bipnet)|
-|**2023-11-02 08:01:36**|**Collaboration and Transition: Distilling Item Transitions into   Multi-Query Self-Attention for Sequential Recommendation**|Tianyu Zhu et.al.|[2311.01056v1](http://arxiv.org/abs/2311.01056v1)|[link](https://github.com/zhuty16/mqsa-ted)|
+|**2023-11-02 08:01:36**|**Collaboration and Transition: Distilling Item Transitions into   Multi-Query Self-Attention for Sequential Recommendation**|Tianyu Zhu et.al.|[2311.01056v2](http://arxiv.org/abs/2311.01056v2)|[link](https://github.com/zhuty16/mqsa-ted)|
 |**2023-11-01 09:25:21**|**Towards Automatic Sampling of User Behaviors for Sequential Recommender   Systems**|Hao Zhang et.al.|[2311.00388v1](http://arxiv.org/abs/2311.00388v1)|null|
 |**2023-10-31 00:12:13**|**Density-based User Representation through Gaussian Process Regression   for Multi-interest Personalized Retrieval**|Haolun Wu et.al.|[2310.20091v2](http://arxiv.org/abs/2310.20091v2)|null|
 |**2023-10-20 09:12:37**|**Towards Multi-Subsession Conversational Recommendation**|Yu Ji et.al.|[2310.13365v1](http://arxiv.org/abs/2310.13365v1)|null|
@@ -91,6 +91,7 @@
 |**2023-12-03 21:52:51**|**SoK: The Gap Between Data Rights Ideals and Reality**|Yujin Kwon et.al.|[2312.01511v1](http://arxiv.org/abs/2312.01511v1)|null|
 |**2023-11-26 07:01:36**|**OpenPerf: A Benchmarking Framework for the Sustainable Development of   the Open-Source Ecosystem**|Fenglin Bi et.al.|[2311.15212v1](http://arxiv.org/abs/2311.15212v1)|null|
 |**2023-11-23 18:26:33**|**Retention in STEM: Factors Influencing Student Persistence and   Employment**|Linli Zhou et.al.|[2311.14142v1](http://arxiv.org/abs/2311.14142v1)|null|
+|**2023-11-21 23:35:44**|**YouTube Video Analytics for Patient Health Literacy: Evidence from   Colonoscopy Preparation Videos**|Yawen Guo et.al.|[2312.09425v2](http://arxiv.org/abs/2312.09425v2)|null|
 |**2023-11-20 19:50:44**|**Early Requirements Traceability with Domain-Specific Taxonomies -- A   Pilot Experiment**|Michael Unterkalmsteiner et.al.|[2311.12146v1](http://arxiv.org/abs/2311.12146v1)|null|
 |**2023-11-20 19:37:57**|**Multi-view Graph Convolution for Participant Recommendation**|Xiaolong Liu et.al.|[2311.12136v1](http://arxiv.org/abs/2311.12136v1)|null|
 |**2023-11-19 05:59:19**|**Dependency Relationships-Enhanced Attentive Group Recommendation in HINs**|Juntao Zhang et.al.|[2311.11239v1](http://arxiv.org/abs/2311.11239v1)|null|
@@ -107,4 +108,3 @@
 |**2023-11-01 22:20:14**|**Notion of Explainable Artificial Intelligence -- An Empirical   Investigation from A Users Perspective**|AKM Bahalul Haque et.al.|[2311.02102v1](http://arxiv.org/abs/2311.02102v1)|null|
 |**2023-10-31 13:27:04**|**Analyzing the Impact of Companies on AI Research Based on Publications**|Michael Färber et.al.|[2310.20444v1](http://arxiv.org/abs/2310.20444v1)|[link](https://github.com/LazaTabax/AI-Impact-Scientometrics)|
 |**2023-10-30 19:57:40**|**Advancing a Model of Students' Intentional Persistence in Machine   Learning and Artificial Intelligence**|Sharon Ferguson et.al.|[2311.10744v1](http://arxiv.org/abs/2311.10744v1)|null|
-|**2023-10-26 20:14:35**|**Forum on immune digital twins: a meeting report**|Reinhard Laubenbacher et.al.|[2310.18374v1](http://arxiv.org/abs/2310.18374v1)|null|

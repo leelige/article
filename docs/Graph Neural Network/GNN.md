@@ -2,8 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-26 03:09:08**|**BalMCTS: Balancing Objective Function and Search Nodes in MCTS for   Constraint Optimization Problems**|Yingkai Xiao et.al.|[2312.15864v1](http://arxiv.org/abs/2312.15864v1)|null|
+|**2023-12-25 22:49:03**|**Comparative Analysis of Radiomic Features and Gene Expression Profiles   in Histopathology Data Using Graph Neural Networks**|Luis Carlos Rivera Monroy et.al.|[2312.15825v1](http://arxiv.org/abs/2312.15825v1)|null|
+|**2023-12-25 02:32:05**|**Privacy-Preserving Neural Graph Databases**|Qi Hu et.al.|[2312.15591v1](http://arxiv.org/abs/2312.15591v1)|null|
+|**2023-12-24 16:07:14**|**Graph Coarsening via Convolution Matching for Scalable Graph Neural   Network Training**|Charles Dickens et.al.|[2312.15520v1](http://arxiv.org/abs/2312.15520v1)|null|
+|**2023-12-24 04:09:30**|**Combinatorial music generation model with song structure graph analysis**|Seonghyeon Go et.al.|[2312.15400v1](http://arxiv.org/abs/2312.15400v1)|null|
+|**2023-12-23 12:13:23**|**Towards Fine-Grained Explainability for Heterogeneous Graph Neural   Network**|Tong Li et.al.|[2312.15237v1](http://arxiv.org/abs/2312.15237v1)|[link](https://github.com/litong99/xpath)|
 |**2023-12-22 17:52:15**|**Large-deviation analysis of rare resonances for the Many-Body   localization transition**|Giulio Biroli et.al.|[2312.14873v1](http://arxiv.org/abs/2312.14873v1)|null|
-|**2023-12-22 17:19:50**|**Large Scale Traning of Graph Neural Networks for Optimal Markov-Chain   Partitioning Using the Kemeny Constant**|Sam Alexander Martino et.al.|[2312.14847v1](http://arxiv.org/abs/2312.14847v1)|null|
+|**2023-12-22 17:19:50**|**Large Scale Training of Graph Neural Networks for Optimal Markov-Chain   Partitioning Using the Kemeny Constant**|Sam Alexander Martino et.al.|[2312.14847v2](http://arxiv.org/abs/2312.14847v2)|null|
 |**2023-12-22 17:09:34**|**Learning Lagrangian Multipliers for the Travelling Salesman Problem**|Augustin Parjadis et.al.|[2312.14836v1](http://arxiv.org/abs/2312.14836v1)|null|
 |**2023-12-22 12:13:19**|**Fluid Simulation on Neural Flow Maps**|Yitong Deng et.al.|[2312.14635v1](http://arxiv.org/abs/2312.14635v1)|null|
 |**2023-12-22 08:31:11**|**Joint Learning Neuronal Skeleton and Brain Circuit Topology with   Permutation Invariant Encoders for Neuron Classification**|Minghui Liao et.al.|[2312.14518v1](http://arxiv.org/abs/2312.14518v1)|[link](https://github.com/whuminghui/neunet)|
@@ -26,9 +32,3 @@
 |**2023-12-19 14:15:20**|**Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183v2](http://arxiv.org/abs/2312.12183v2)|null|
 |**2023-12-19 13:26:14**|**Survey on Trustworthy Graph Neural Networks: From A Causal Perspective**|Wenzhao Jiang et.al.|[2312.12477v1](http://arxiv.org/abs/2312.12477v1)|[link](https://github.com/usail-hkust/causality-inspired-gnns)|
 |**2023-12-19 12:25:10**|**Learning to Reweight for Graph Neural Network**|Zhengyu Chen et.al.|[2312.12475v1](http://arxiv.org/abs/2312.12475v1)|null|
-|**2023-12-19 10:55:46**|**Pose2Gaze: Generating Realistic Human Gaze Behaviour from Full-body   Poses using an Eye-body Coordination Model**|Zhiming Hu et.al.|[2312.12042v1](http://arxiv.org/abs/2312.12042v1)|null|
-|**2023-12-19 06:28:32**|**Hierarchical and Incremental Structural Entropy Minimization for   Unsupervised Social Event Detection**|Yuwei Cao et.al.|[2312.11891v1](http://arxiv.org/abs/2312.11891v1)|[link](https://github.com/selgroup/hisevent)|
-|**2023-12-19 05:30:08**|**Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh   Transformer**|Youn-Yeol Yu et.al.|[2312.12467v1](http://arxiv.org/abs/2312.12467v1)|null|
-|**2023-12-19 05:14:31**|**Topo-MLP : A Simplicial Network Without Message Passing**|Karthikeyan Natesan Ramamurthy et.al.|[2312.11862v1](http://arxiv.org/abs/2312.11862v1)|null|
-|**2023-12-19 04:58:37**|**SimCalib: Graph Neural Network Calibration based on Similarity between   Nodes**|Boshi Tang et.al.|[2312.11858v1](http://arxiv.org/abs/2312.11858v1)|null|
-|**2023-12-19 04:56:59**|**Anderson transition and mobility edges on hyperbolic lattices**|Tianyu Li et.al.|[2312.11857v1](http://arxiv.org/abs/2312.11857v1)|null|

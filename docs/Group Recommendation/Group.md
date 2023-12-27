@@ -15,6 +15,7 @@
 |**2023-12-03 21:52:51**|**SoK: The Gap Between Data Rights Ideals and Reality**|Yujin Kwon et.al.|[2312.01511v1](http://arxiv.org/abs/2312.01511v1)|null|
 |**2023-11-26 07:01:36**|**OpenPerf: A Benchmarking Framework for the Sustainable Development of   the Open-Source Ecosystem**|Fenglin Bi et.al.|[2311.15212v1](http://arxiv.org/abs/2311.15212v1)|null|
 |**2023-11-23 18:26:33**|**Retention in STEM: Factors Influencing Student Persistence and   Employment**|Linli Zhou et.al.|[2311.14142v1](http://arxiv.org/abs/2311.14142v1)|null|
+|**2023-11-21 23:35:44**|**YouTube Video Analytics for Patient Health Literacy: Evidence from   Colonoscopy Preparation Videos**|Yawen Guo et.al.|[2312.09425v2](http://arxiv.org/abs/2312.09425v2)|null|
 |**2023-11-20 19:50:44**|**Early Requirements Traceability with Domain-Specific Taxonomies -- A   Pilot Experiment**|Michael Unterkalmsteiner et.al.|[2311.12146v1](http://arxiv.org/abs/2311.12146v1)|null|
 |**2023-11-20 19:37:57**|**Multi-view Graph Convolution for Participant Recommendation**|Xiaolong Liu et.al.|[2311.12136v1](http://arxiv.org/abs/2311.12136v1)|null|
 |**2023-11-19 05:59:19**|**Dependency Relationships-Enhanced Attentive Group Recommendation in HINs**|Juntao Zhang et.al.|[2311.11239v1](http://arxiv.org/abs/2311.11239v1)|null|
@@ -31,4 +32,3 @@
 |**2023-11-01 22:20:14**|**Notion of Explainable Artificial Intelligence -- An Empirical   Investigation from A Users Perspective**|AKM Bahalul Haque et.al.|[2311.02102v1](http://arxiv.org/abs/2311.02102v1)|null|
 |**2023-10-31 13:27:04**|**Analyzing the Impact of Companies on AI Research Based on Publications**|Michael Färber et.al.|[2310.20444v1](http://arxiv.org/abs/2310.20444v1)|[link](https://github.com/LazaTabax/AI-Impact-Scientometrics)|
 |**2023-10-30 19:57:40**|**Advancing a Model of Students' Intentional Persistence in Machine   Learning and Artificial Intelligence**|Sharon Ferguson et.al.|[2311.10744v1](http://arxiv.org/abs/2311.10744v1)|null|
-|**2023-10-26 20:14:35**|**Forum on immune digital twins: a meeting report**|Reinhard Laubenbacher et.al.|[2310.18374v1](http://arxiv.org/abs/2310.18374v1)|null|
