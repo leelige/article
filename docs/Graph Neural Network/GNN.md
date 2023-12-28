@@ -5,7 +5,7 @@
 |**2023-12-26 03:09:08**|**BalMCTS: Balancing Objective Function and Search Nodes in MCTS for   Constraint Optimization Problems**|Yingkai Xiao et.al.|[2312.15864v1](http://arxiv.org/abs/2312.15864v1)|null|
 |**2023-12-25 22:49:03**|**Comparative Analysis of Radiomic Features and Gene Expression Profiles   in Histopathology Data Using Graph Neural Networks**|Luis Carlos Rivera Monroy et.al.|[2312.15825v1](http://arxiv.org/abs/2312.15825v1)|null|
 |**2023-12-25 02:32:05**|**Privacy-Preserving Neural Graph Databases**|Qi Hu et.al.|[2312.15591v1](http://arxiv.org/abs/2312.15591v1)|null|
-|**2023-12-24 16:07:14**|**Graph Coarsening via Convolution Matching for Scalable Graph Neural   Network Training**|Charles Dickens et.al.|[2312.15520v1](http://arxiv.org/abs/2312.15520v1)|null|
+|**2023-12-24 16:07:14**|**Graph Coarsening via Convolution Matching for Scalable Graph Neural   Network Training**|Charles Dickens et.al.|[2312.15520v1](http://arxiv.org/abs/2312.15520v1)|[link](https://github.com/amazon-science/convolution-matching)|
 |**2023-12-24 04:09:30**|**Combinatorial music generation model with song structure graph analysis**|Seonghyeon Go et.al.|[2312.15400v1](http://arxiv.org/abs/2312.15400v1)|null|
 |**2023-12-23 12:13:23**|**Towards Fine-Grained Explainability for Heterogeneous Graph Neural   Network**|Tong Li et.al.|[2312.15237v1](http://arxiv.org/abs/2312.15237v1)|[link](https://github.com/litong99/xpath)|
 |**2023-12-22 17:52:15**|**Large-deviation analysis of rare resonances for the Many-Body   localization transition**|Giulio Biroli et.al.|[2312.14873v1](http://arxiv.org/abs/2312.14873v1)|null|
