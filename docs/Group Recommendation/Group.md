@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-28 15:34:54**|**An Adaptive Framework of Geographical Group-Specific Network on O2O   Recommendation**|Luo Ji et.al.|[2312.17072v1](http://arxiv.org/abs/2312.17072v1)|null|
+|**2023-12-27 16:39:48**|**Using Gray Literature to Influence Software Engineering Curricula**|James D Kiper et.al.|[2312.16634v1](http://arxiv.org/abs/2312.16634v1)|null|
 |**2023-12-20 01:43:55**|**DGCLUSTER: A Neural Framework for Attributed Graph Clustering via   Modularity Maximization**|Aritra Bhowmick et.al.|[2312.12697v1](http://arxiv.org/abs/2312.12697v1)|[link](https://github.com/pyrobits/dgcluster)|
 |**2023-12-15 17:01:35**|**Peer Learning: Learning Complex Policies in Groups from Scratch via   Action Recommendations**|Cedric Derstroff et.al.|[2312.09950v1](http://arxiv.org/abs/2312.09950v1)|[link](https://github.com/kramerlab/peerlearning)|
 |**2023-12-15 15:53:45**|**Temporally and Distributionally Robust Optimization for Cold-start   Recommendation**|Xinyu Lin et.al.|[2312.09901v2](http://arxiv.org/abs/2312.09901v2)|[link](https://github.com/linxyhaha/tdro)|
@@ -30,5 +32,3 @@
 |**2023-11-08 09:35:38**|**Assessing crop diversity across scales using high-resolution remote   sensing over the European Union: first insights for agro-environmental   policies**|Melissande Machefer et.al.|[2311.04551v1](http://arxiv.org/abs/2311.04551v1)|null|
 |**2023-11-03 18:32:24**|**All People, One Sky: A Foundation for IAU CPS Community Engagement**|John C. Barentine et.al.|[2311.02184v1](http://arxiv.org/abs/2311.02184v1)|null|
 |**2023-11-01 22:20:14**|**Notion of Explainable Artificial Intelligence -- An Empirical   Investigation from A Users Perspective**|AKM Bahalul Haque et.al.|[2311.02102v1](http://arxiv.org/abs/2311.02102v1)|null|
-|**2023-10-31 13:27:04**|**Analyzing the Impact of Companies on AI Research Based on Publications**|Michael Färber et.al.|[2310.20444v1](http://arxiv.org/abs/2310.20444v1)|[link](https://github.com/LazaTabax/AI-Impact-Scientometrics)|
-|**2023-10-30 19:57:40**|**Advancing a Model of Students' Intentional Persistence in Machine   Learning and Artificial Intelligence**|Sharon Ferguson et.al.|[2311.10744v1](http://arxiv.org/abs/2311.10744v1)|null|

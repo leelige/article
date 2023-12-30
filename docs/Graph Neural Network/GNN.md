@@ -2,11 +2,22 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-28 17:47:25**|**Replica Tree-based Federated Learning using Limited Data**|Ramona Ghilea et.al.|[2312.17159v1](http://arxiv.org/abs/2312.17159v1)|[link](https://github.com/basiralab/RepTreeFL)|
+|**2023-12-28 10:13:15**|**A data-dependent regularization method based on the graph Laplacian**|Davide Bianchi et.al.|[2312.16936v1](http://arxiv.org/abs/2312.16936v1)|null|
+|**2023-12-28 06:45:13**|**Molecular Property Prediction Based on Graph Structure Learning**|Bangyi Zhao et.al.|[2312.16855v1](http://arxiv.org/abs/2312.16855v1)|null|
+|**2023-12-28 05:00:19**|**GUITAR: Gradient Pruning toward Fast Neural Ranking**|Weijie Zhao et.al.|[2312.16828v1](http://arxiv.org/abs/2312.16828v1)|null|
+|**2023-12-28 02:30:13**|**Mitigating Degree Biases in Message Passing Mechanism by Utilizing   Community Structures**|Van Thuy Hoang et.al.|[2312.16788v1](http://arxiv.org/abs/2312.16788v1)|[link](https://github.com/nslab-cuk/community-aware-graph-transformer)|
+|**2023-12-28 02:21:40**|**Learning Scalable Structural Representations for Link Prediction with   Bloom Signatures**|Tianyi Zhang et.al.|[2312.16784v1](http://arxiv.org/abs/2312.16784v1)|null|
+|**2023-12-28 00:25:12**|**Graph Neural Networks for Antisocial Behavior Detection on Twitter**|Martina Toshevska et.al.|[2312.16755v1](http://arxiv.org/abs/2312.16755v1)|null|
+|**2023-12-27 19:24:26**|**Performance Comparison of Session-based Recommendation Algorithms based   on GNNs**|Faisal Shehzad et.al.|[2312.16695v1](http://arxiv.org/abs/2312.16695v1)|null|
+|**2023-12-27 11:53:17**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory   Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|[link](https://github.com/basiralab/FALCON)|
+|**2023-12-27 08:46:14**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property   Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|null|
+|**2023-12-27 04:23:43**|**Learning Time-aware Graph Structures for Spatially Correlated Time   Series Forecasting**|Minbo Ma et.al.|[2312.16403v1](http://arxiv.org/abs/2312.16403v1)|null|
 |**2023-12-26 03:09:08**|**BalMCTS: Balancing Objective Function and Search Nodes in MCTS for   Constraint Optimization Problems**|Yingkai Xiao et.al.|[2312.15864v1](http://arxiv.org/abs/2312.15864v1)|null|
 |**2023-12-25 22:49:03**|**Comparative Analysis of Radiomic Features and Gene Expression Profiles   in Histopathology Data Using Graph Neural Networks**|Luis Carlos Rivera Monroy et.al.|[2312.15825v1](http://arxiv.org/abs/2312.15825v1)|null|
 |**2023-12-25 02:32:05**|**Privacy-Preserving Neural Graph Databases**|Qi Hu et.al.|[2312.15591v1](http://arxiv.org/abs/2312.15591v1)|null|
 |**2023-12-24 16:07:14**|**Graph Coarsening via Convolution Matching for Scalable Graph Neural   Network Training**|Charles Dickens et.al.|[2312.15520v1](http://arxiv.org/abs/2312.15520v1)|[link](https://github.com/amazon-science/convolution-matching)|
-|**2023-12-24 04:09:30**|**Combinatorial music generation model with song structure graph analysis**|Seonghyeon Go et.al.|[2312.15400v1](http://arxiv.org/abs/2312.15400v1)|null|
+|**2023-12-24 04:09:30**|**Combinatorial music generation model with song structure graph analysis**|Seonghyeon Go et.al.|[2312.15400v1](http://arxiv.org/abs/2312.15400v1)|[link](https://github.com/slslslrhfem/song_structure_graph)|
 |**2023-12-23 12:13:23**|**Towards Fine-Grained Explainability for Heterogeneous Graph Neural   Network**|Tong Li et.al.|[2312.15237v1](http://arxiv.org/abs/2312.15237v1)|[link](https://github.com/litong99/xpath)|
 |**2023-12-22 17:52:15**|**Large-deviation analysis of rare resonances for the Many-Body   localization transition**|Giulio Biroli et.al.|[2312.14873v1](http://arxiv.org/abs/2312.14873v1)|null|
 |**2023-12-22 17:19:50**|**Large Scale Training of Graph Neural Networks for Optimal Markov-Chain   Partitioning Using the Kemeny Constant**|Sam Alexander Martino et.al.|[2312.14847v2](http://arxiv.org/abs/2312.14847v2)|null|
@@ -21,14 +32,3 @@
 |**2023-12-21 02:37:56**|**Domain Adaptive Graph Classification**|Siyang Luo et.al.|[2312.13536v1](http://arxiv.org/abs/2312.13536v1)|null|
 |**2023-12-20 15:56:40**|**Molecular Hypergraph Neural Networks**|Junwu Chen et.al.|[2312.13136v2](http://arxiv.org/abs/2312.13136v2)|[link](https://github.com/schwallergroup/mhnn)|
 |**2023-12-20 15:22:34**|**Optimizing Ego Vehicle Trajectory Prediction: The Graph Enhancement   Approach**|Sushil Sharma et.al.|[2312.13104v1](http://arxiv.org/abs/2312.13104v1)|null|
-|**2023-12-20 13:56:27**|**NodeMixup: Tackling Under-Reaching for Graph Neural Networks**|Weigang Lu et.al.|[2312.13032v2](http://arxiv.org/abs/2312.13032v2)|[link](https://github.com/weiganglu/nodemixup)|
-|**2023-12-20 11:20:35**|**Stability of Graph Convolutional Neural Networks through the lens of   small perturbation analysis**|Lucia Testa et.al.|[2312.12934v1](http://arxiv.org/abs/2312.12934v1)|null|
-|**2023-12-20 06:25:02**|**Model-Based Control with Sparse Neural Dynamics**|Ziang Liu et.al.|[2312.12791v1](http://arxiv.org/abs/2312.12791v1)|null|
-|**2023-12-20 06:10:27**|**Fast Cell Library Characterization for Design Technology Co-Optimization   Based on Graph Neural Networks**|Tianliang Ma et.al.|[2312.12784v1](http://arxiv.org/abs/2312.12784v1)|null|
-|**2023-12-20 02:30:39**|**Cross-Modal Reasoning with Event Correlation for Video Question   Answering**|Chengxiang Yin et.al.|[2312.12721v1](http://arxiv.org/abs/2312.12721v1)|null|
-|**2023-12-20 01:43:55**|**DGCLUSTER: A Neural Framework for Attributed Graph Clustering via   Modularity Maximization**|Aritra Bhowmick et.al.|[2312.12697v1](http://arxiv.org/abs/2312.12697v1)|[link](https://github.com/pyrobits/dgcluster)|
-|**2023-12-20 01:40:24**|**Data-driven Design of High Pressure Hydride Superconductors using DFT   and Deep Learning**|Daniel Wines et.al.|[2312.12694v2](http://arxiv.org/abs/2312.12694v2)|null|
-|**2023-12-19 18:00:15**|**Chasing Fairness in Graphs: A GNN Architecture Perspective**|Zhimeng Jiang et.al.|[2312.12369v1](http://arxiv.org/abs/2312.12369v1)|[link](https://github.com/zhimengj0326/fmp)|
-|**2023-12-19 14:15:20**|**Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183v2](http://arxiv.org/abs/2312.12183v2)|null|
-|**2023-12-19 13:26:14**|**Survey on Trustworthy Graph Neural Networks: From A Causal Perspective**|Wenzhao Jiang et.al.|[2312.12477v1](http://arxiv.org/abs/2312.12477v1)|[link](https://github.com/usail-hkust/causality-inspired-gnns)|
-|**2023-12-19 12:25:10**|**Learning to Reweight for Graph Neural Network**|Zhengyu Chen et.al.|[2312.12475v1](http://arxiv.org/abs/2312.12475v1)|null|
