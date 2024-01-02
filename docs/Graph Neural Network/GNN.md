@@ -2,7 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-29 18:45:38**|**Physics-informed Graphical Neural Network for Power System State   Estimation**|Quang-Ha Ngo et.al.|[2312.17738v1](http://arxiv.org/abs/2312.17738v1)|null|
+|**2023-12-29 16:50:40**|**Data Augmentation for Supervised Graph Outlier Detection with Latent   Diffusion Models**|Kay Liu et.al.|[2312.17679v1](http://arxiv.org/abs/2312.17679v1)|[link](https://github.com/kayzliu/godm)|
+|**2023-12-29 08:02:13**|**A graph neural network-based model with Out-of-Distribution Robustness   for enhancing Antiretroviral Therapy Outcome Prediction for HIV-1**|Giulia Di Teodoro et.al.|[2312.17506v1](http://arxiv.org/abs/2312.17506v1)|null|
 |**2023-12-28 17:47:25**|**Replica Tree-based Federated Learning using Limited Data**|Ramona Ghilea et.al.|[2312.17159v1](http://arxiv.org/abs/2312.17159v1)|[link](https://github.com/basiralab/RepTreeFL)|
+|**2023-12-28 17:41:30**|**Explainability-Based Adversarial Attack on Graphs Through Edge   Perturbation**|Dibaloke Chanda et.al.|[2312.17301v1](http://arxiv.org/abs/2312.17301v1)|null|
 |**2023-12-28 10:13:15**|**A data-dependent regularization method based on the graph Laplacian**|Davide Bianchi et.al.|[2312.16936v1](http://arxiv.org/abs/2312.16936v1)|null|
 |**2023-12-28 06:45:13**|**Molecular Property Prediction Based on Graph Structure Learning**|Bangyi Zhao et.al.|[2312.16855v1](http://arxiv.org/abs/2312.16855v1)|null|
 |**2023-12-28 05:00:19**|**GUITAR: Gradient Pruning toward Fast Neural Ranking**|Weijie Zhao et.al.|[2312.16828v1](http://arxiv.org/abs/2312.16828v1)|null|
@@ -28,7 +32,3 @@
 |**2023-12-21 21:36:43**|**Social Recommendation through Heterogeneous Graph Modeling of the   Long-term and Short-term Preference Defined by Dynamic Periods**|Behafarid Mohammad Jafari et.al.|[2312.14306v1](http://arxiv.org/abs/2312.14306v1)|[link](https://github.com/BehafaridMjf/Social-Recommendation-System)|
 |**2023-12-21 12:14:35**|**Benchmarking Evolutionary Community Detection Algorithms in Dynamic   Networks**|Giordano Paoletti et.al.|[2312.13784v1](http://arxiv.org/abs/2312.13784v1)|null|
 |**2023-12-21 07:03:15**|**Structure-Aware Path Inference for Neural Finite State Transducers**|Weiting Tan et.al.|[2312.13614v1](http://arxiv.org/abs/2312.13614v1)|null|
-|**2023-12-21 05:17:10**|**Fine-tuning Graph Neural Networks by Preserving Graph Generative   Patterns**|Yifei Sun et.al.|[2312.13583v1](http://arxiv.org/abs/2312.13583v1)|[link](https://github.com/zjunet/G-Tuning)|
-|**2023-12-21 02:37:56**|**Domain Adaptive Graph Classification**|Siyang Luo et.al.|[2312.13536v1](http://arxiv.org/abs/2312.13536v1)|null|
-|**2023-12-20 15:56:40**|**Molecular Hypergraph Neural Networks**|Junwu Chen et.al.|[2312.13136v2](http://arxiv.org/abs/2312.13136v2)|[link](https://github.com/schwallergroup/mhnn)|
-|**2023-12-20 15:22:34**|**Optimizing Ego Vehicle Trajectory Prediction: The Graph Enhancement   Approach**|Sushil Sharma et.al.|[2312.13104v1](http://arxiv.org/abs/2312.13104v1)|null|

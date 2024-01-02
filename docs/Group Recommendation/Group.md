@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-29 02:32:12**|**Break Out of a Pigeonhole: A Unified Framework for Examining   Miscalibration, Bias, and Stereotype in Recommender Systems**|Yongsu Ahn et.al.|[2312.17443v1](http://arxiv.org/abs/2312.17443v1)|null|
 |**2023-12-28 15:34:54**|**An Adaptive Framework of Geographical Group-Specific Network on O2O   Recommendation**|Luo Ji et.al.|[2312.17072v1](http://arxiv.org/abs/2312.17072v1)|null|
 |**2023-12-27 16:39:48**|**Using Gray Literature to Influence Software Engineering Curricula**|James D Kiper et.al.|[2312.16634v1](http://arxiv.org/abs/2312.16634v1)|null|
 |**2023-12-20 01:43:55**|**DGCLUSTER: A Neural Framework for Attributed Graph Clustering via   Modularity Maximization**|Aritra Bhowmick et.al.|[2312.12697v1](http://arxiv.org/abs/2312.12697v1)|[link](https://github.com/pyrobits/dgcluster)|
@@ -31,4 +32,3 @@
 |**2023-11-08 10:44:20**|**Rethinking Cross-Domain Sequential Recommendation under Open-World   Assumptions**|Wujiang Xu et.al.|[2311.04590v2](http://arxiv.org/abs/2311.04590v2)|null|
 |**2023-11-08 09:35:38**|**Assessing crop diversity across scales using high-resolution remote   sensing over the European Union: first insights for agro-environmental   policies**|Melissande Machefer et.al.|[2311.04551v1](http://arxiv.org/abs/2311.04551v1)|null|
 |**2023-11-03 18:32:24**|**All People, One Sky: A Foundation for IAU CPS Community Engagement**|John C. Barentine et.al.|[2311.02184v1](http://arxiv.org/abs/2311.02184v1)|null|
-|**2023-11-01 22:20:14**|**Notion of Explainable Artificial Intelligence -- An Empirical   Investigation from A Users Perspective**|AKM Bahalul Haque et.al.|[2311.02102v1](http://arxiv.org/abs/2311.02102v1)|null|
