@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2024-01-02 16:09:03 Asia/Shanghai
+ 自动更新 @ 2024-01-03 16:08:21 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -42,6 +42,20 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-02 14:58:59**|**Graph Elimination Networks**|Shuo Wang et.al.|[2401.01233v1](http://arxiv.org/abs/2401.01233v1)|null|
+|**2024-01-02 14:58:26**|**Motif-aware Riemannian Graph Neural Network with Generative-Contrastive   Learning**|Li Sun et.al.|[2401.01232v1](http://arxiv.org/abs/2401.01232v1)|[link](https://github.com/riemanngraph/motifrgc)|
+|**2024-01-01 13:44:16**|**Saliency-Aware Regularized Graph Neural Network**|Wenjie Pei et.al.|[2401.00755v1](http://arxiv.org/abs/2401.00755v1)|null|
+|**2024-01-01 12:57:15**|**Harmonizing Covariance and Expressiveness for Deep Hamiltonian   Regression in Crystalline Material Research: a Hybrid Cascaded Regression   Framework**|Shi Yin et.al.|[2401.00744v2](http://arxiv.org/abs/2401.00744v2)|null|
+|**2024-01-01 09:53:24**|**A Survey on Graph Neural Networks in Intelligent Transportation Systems**|Hourun Li et.al.|[2401.00713v2](http://arxiv.org/abs/2401.00713v2)|null|
+|**2024-01-01 02:03:35**|**On Discprecncies between Perturbation Evaluations of Graph Neural   Network Attributions**|Razieh Rezaei et.al.|[2401.00633v1](http://arxiv.org/abs/2401.00633v1)|null|
+|**2023-12-31 13:43:41**|**Generating High-Precision Force Fields for Molecular Dynamics   Simulations to Study Chemical Reaction Mechanisms using Molecular   Configuration Transformer**|Sihao Yuan et.al.|[2401.00499v1](http://arxiv.org/abs/2401.00499v1)|null|
+|**2023-12-31 08:59:59**|**Deeper and Wider Networks for Performance Metrics Prediction in   Communication Networks**|Aijia Liu et.al.|[2401.00429v1](http://arxiv.org/abs/2401.00429v1)|null|
+|**2023-12-31 03:51:31**|**FusionMind -- Improving question and answering with external context   fusion**|Shreyas Verma et.al.|[2401.00388v1](http://arxiv.org/abs/2401.00388v1)|null|
+|**2023-12-31 03:30:42**|**Predicting Evoked Emotions in Conversations**|Enas Altarawneh et.al.|[2401.00383v1](http://arxiv.org/abs/2401.00383v1)|null|
+|**2023-12-31 03:27:20**|**Modeling of Memory Mechanisms in Cerebral Cortex and Simulation of   Storage Performance**|Hui Wei et.al.|[2401.00381v1](http://arxiv.org/abs/2401.00381v1)|null|
+|**2023-12-30 07:58:19**|**A clean-label graph backdoor attack method in node classification task**|Xiaogang Xing et.al.|[2401.00163v1](http://arxiv.org/abs/2401.00163v1)|null|
+|**2023-12-30 07:18:54**|**ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained   Language Models for Question Answering over Knowledge Graph**|Jinhao Jiang et.al.|[2401.00158v1](http://arxiv.org/abs/2401.00158v1)|[link](https://github.com/RUCAIBox/ReasoningLM})|
+|**2023-12-30 06:50:52**|**Balanced Graph Structure Information for Brain Disease Detection**|Falih Gozi Febrinanto et.al.|[2401.00876v1](http://arxiv.org/abs/2401.00876v1)|[link](https://github.com/falihgoz/bargrain)|
 |**2023-12-29 18:45:38**|**Physics-informed Graphical Neural Network for Power System State   Estimation**|Quang-Ha Ngo et.al.|[2312.17738v1](http://arxiv.org/abs/2312.17738v1)|null|
 |**2023-12-29 16:50:40**|**Data Augmentation for Supervised Graph Outlier Detection with Latent   Diffusion Models**|Kay Liu et.al.|[2312.17679v1](http://arxiv.org/abs/2312.17679v1)|[link](https://github.com/kayzliu/godm)|
 |**2023-12-29 08:02:13**|**A graph neural network-based model with Out-of-Distribution Robustness   for enhancing Antiretroviral Therapy Outcome Prediction for HIV-1**|Giulia Di Teodoro et.al.|[2312.17506v1](http://arxiv.org/abs/2312.17506v1)|null|
@@ -55,29 +69,17 @@
 |**2023-12-28 00:25:12**|**Graph Neural Networks for Antisocial Behavior Detection on Twitter**|Martina Toshevska et.al.|[2312.16755v1](http://arxiv.org/abs/2312.16755v1)|null|
 |**2023-12-27 19:24:26**|**Performance Comparison of Session-based Recommendation Algorithms based   on GNNs**|Faisal Shehzad et.al.|[2312.16695v1](http://arxiv.org/abs/2312.16695v1)|null|
 |**2023-12-27 11:53:17**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory   Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|[link](https://github.com/basiralab/FALCON)|
-|**2023-12-27 08:46:14**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property   Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|null|
+|**2023-12-27 08:46:14**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property   Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|[link](https://github.com/henrium/molsets)|
 |**2023-12-27 04:23:43**|**Learning Time-aware Graph Structures for Spatially Correlated Time   Series Forecasting**|Minbo Ma et.al.|[2312.16403v1](http://arxiv.org/abs/2312.16403v1)|null|
 |**2023-12-26 03:09:08**|**BalMCTS: Balancing Objective Function and Search Nodes in MCTS for   Constraint Optimization Problems**|Yingkai Xiao et.al.|[2312.15864v1](http://arxiv.org/abs/2312.15864v1)|null|
-|**2023-12-25 22:49:03**|**Comparative Analysis of Radiomic Features and Gene Expression Profiles   in Histopathology Data Using Graph Neural Networks**|Luis Carlos Rivera Monroy et.al.|[2312.15825v1](http://arxiv.org/abs/2312.15825v1)|null|
-|**2023-12-25 02:32:05**|**Privacy-Preserving Neural Graph Databases**|Qi Hu et.al.|[2312.15591v1](http://arxiv.org/abs/2312.15591v1)|null|
-|**2023-12-24 16:07:14**|**Graph Coarsening via Convolution Matching for Scalable Graph Neural   Network Training**|Charles Dickens et.al.|[2312.15520v1](http://arxiv.org/abs/2312.15520v1)|[link](https://github.com/amazon-science/convolution-matching)|
-|**2023-12-24 04:09:30**|**Combinatorial music generation model with song structure graph analysis**|Seonghyeon Go et.al.|[2312.15400v1](http://arxiv.org/abs/2312.15400v1)|[link](https://github.com/slslslrhfem/song_structure_graph)|
-|**2023-12-23 12:13:23**|**Towards Fine-Grained Explainability for Heterogeneous Graph Neural   Network**|Tong Li et.al.|[2312.15237v1](http://arxiv.org/abs/2312.15237v1)|[link](https://github.com/litong99/xpath)|
-|**2023-12-22 17:52:15**|**Large-deviation analysis of rare resonances for the Many-Body   localization transition**|Giulio Biroli et.al.|[2312.14873v1](http://arxiv.org/abs/2312.14873v1)|null|
-|**2023-12-22 17:19:50**|**Large Scale Training of Graph Neural Networks for Optimal Markov-Chain   Partitioning Using the Kemeny Constant**|Sam Alexander Martino et.al.|[2312.14847v2](http://arxiv.org/abs/2312.14847v2)|null|
-|**2023-12-22 17:09:34**|**Learning Lagrangian Multipliers for the Travelling Salesman Problem**|Augustin Parjadis et.al.|[2312.14836v1](http://arxiv.org/abs/2312.14836v1)|null|
-|**2023-12-22 12:13:19**|**Fluid Simulation on Neural Flow Maps**|Yitong Deng et.al.|[2312.14635v1](http://arxiv.org/abs/2312.14635v1)|null|
-|**2023-12-22 08:31:11**|**Joint Learning Neuronal Skeleton and Brain Circuit Topology with   Permutation Invariant Encoders for Neuron Classification**|Minghui Liao et.al.|[2312.14518v1](http://arxiv.org/abs/2312.14518v1)|[link](https://github.com/whuminghui/neunet)|
-|**2023-12-21 23:34:08**|**Behaviour Modelling of Social Animals via Causal Structure Discovery and   Graph Neural Networks**|Gaël Gendron et.al.|[2312.14333v1](http://arxiv.org/abs/2312.14333v1)|null|
-|**2023-12-21 21:36:43**|**Social Recommendation through Heterogeneous Graph Modeling of the   Long-term and Short-term Preference Defined by Dynamic Periods**|Behafarid Mohammad Jafari et.al.|[2312.14306v1](http://arxiv.org/abs/2312.14306v1)|[link](https://github.com/BehafaridMjf/Social-Recommendation-System)|
-|**2023-12-21 12:14:35**|**Benchmarking Evolutionary Community Detection Algorithms in Dynamic   Networks**|Giordano Paoletti et.al.|[2312.13784v1](http://arxiv.org/abs/2312.13784v1)|null|
-|**2023-12-21 07:03:15**|**Structure-Aware Path Inference for Neural Finite State Transducers**|Weiting Tan et.al.|[2312.13614v1](http://arxiv.org/abs/2312.13614v1)|null|
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-31 10:55:26**|**Teaching Digital Accessibility to Industry Professionals using the   Community of Practice Framework: An Experience Report**|Parthasarathy PD et.al.|[2401.00449v1](http://arxiv.org/abs/2401.00449v1)|null|
+|**2023-12-30 23:56:35**|**EXPLORE -- Explainable Song Recommendation**|Abhinav Arun et.al.|[2401.00353v1](http://arxiv.org/abs/2401.00353v1)|null|
 |**2023-12-29 02:32:12**|**Break Out of a Pigeonhole: A Unified Framework for Examining   Miscalibration, Bias, and Stereotype in Recommender Systems**|Yongsu Ahn et.al.|[2312.17443v1](http://arxiv.org/abs/2312.17443v1)|null|
 |**2023-12-28 15:34:54**|**An Adaptive Framework of Geographical Group-Specific Network on O2O   Recommendation**|Luo Ji et.al.|[2312.17072v1](http://arxiv.org/abs/2312.17072v1)|null|
 |**2023-12-27 16:39:48**|**Using Gray Literature to Influence Software Engineering Curricula**|James D Kiper et.al.|[2312.16634v1](http://arxiv.org/abs/2312.16634v1)|null|
@@ -106,5 +108,3 @@
 |**2023-11-11 23:32:42**|**Metric Optimization and Mainstream Bias Mitigation in Recommender   Systems**|Roger Zhe Li et.al.|[2311.06689v1](http://arxiv.org/abs/2311.06689v1)|null|
 |**2023-11-09 13:37:27**|**ITRUSST Consensus on Biophysical Safety for Transcranial Ultrasonic   Stimulation**|Jean-Francois Aubry et.al.|[2311.05359v1](http://arxiv.org/abs/2311.05359v1)|null|
 |**2023-11-08 10:44:20**|**Rethinking Cross-Domain Sequential Recommendation under Open-World   Assumptions**|Wujiang Xu et.al.|[2311.04590v2](http://arxiv.org/abs/2311.04590v2)|null|
-|**2023-11-08 09:35:38**|**Assessing crop diversity across scales using high-resolution remote   sensing over the European Union: first insights for agro-environmental   policies**|Melissande Machefer et.al.|[2311.04551v1](http://arxiv.org/abs/2311.04551v1)|null|
-|**2023-11-03 18:32:24**|**All People, One Sky: A Foundation for IAU CPS Community Engagement**|John C. Barentine et.al.|[2311.02184v1](http://arxiv.org/abs/2311.02184v1)|null|
