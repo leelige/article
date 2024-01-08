@@ -2,9 +2,21 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-05 18:52:09**|**Graph2Tac: Learning Hierarchical Representations of Math Concepts in   Theorem proving**|Jason Rute et.al.|[2401.02949v1](http://arxiv.org/abs/2401.02949v1)|null|
+|**2024-01-05 18:28:51**|**Locally Adaptive Neural 3D Morphable Models**|Michail Tarasiou et.al.|[2401.02937v1](http://arxiv.org/abs/2401.02937v1)|[link](https://github.com/michaeltrs/LAMM)|
+|**2024-01-05 17:05:33**|**H2G2-Net: A Hierarchical Heterogeneous Graph Generative Network   Framework for Discovery of Multi-Modal Physiological Responses**|Haidong Gu et.al.|[2401.02905v1](http://arxiv.org/abs/2401.02905v1)|null|
+|**2024-01-05 14:15:36**|**DocGraphLM: Documental Graph Language Model for Information Extraction**|Dongsheng Wang et.al.|[2401.02823v1](http://arxiv.org/abs/2401.02823v1)|null|
+|**2024-01-05 12:01:19**|**Powerformer: A Section-adaptive Transformer for Power Flow Adjustment**|Kaixuan Chen et.al.|[2401.02771v1](http://arxiv.org/abs/2401.02771v1)|null|
+|**2024-01-05 09:36:42**|**Predicting Traffic Flow with Federated Learning and Graph Neural with   Asynchronous Computations Network**|Muhammad Yaqub et.al.|[2401.02723v1](http://arxiv.org/abs/2401.02723v1)|null|
+|**2024-01-05 08:14:51**|**Verifying Relational Explanations: A Probabilistic Approach**|Abisha Thapa Magar et.al.|[2401.02703v1](http://arxiv.org/abs/2401.02703v1)|null|
+|**2024-01-05 07:37:51**|**PAHD: Perception-Action based Human Decision Making using Explainable   Graph Neural Networks on SAR Images**|Sasindu Wijeratne et.al.|[2401.02687v1](http://arxiv.org/abs/2401.02687v1)|null|
+|**2024-01-05 07:29:21**|**Geometric-Facilitated Denoising Diffusion Model for 3D Molecule   Generation**|Can Xu et.al.|[2401.02683v1](http://arxiv.org/abs/2401.02683v1)|null|
+|**2024-01-05 07:27:29**|**Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph   Clustering**|Zichen Wen et.al.|[2401.02682v1](http://arxiv.org/abs/2401.02682v1)|null|
+|**2024-01-05 06:45:48**|**A backdoor attack against link prediction tasks with graph neural   networks**|Jiazhu Dai et.al.|[2401.02663v1](http://arxiv.org/abs/2401.02663v1)|null|
+|**2024-01-04 21:14:10**|**A Community Detection and Graph Neural Network Based Link Prediction   Approach for Scientific Literature**|Chunjiang Liu et.al.|[2401.02542v1](http://arxiv.org/abs/2401.02542v1)|null|
 |**2024-01-04 17:47:36**|**Detection and Discovery of Misinformation Sources using Attributed   Webgraphs**|Peter Carragher et.al.|[2401.02379v1](http://arxiv.org/abs/2401.02379v1)|null|
 |**2024-01-04 14:19:37**|**Path-based Explanation for Knowledge Graph Completion**|Heng Chang et.al.|[2401.02290v1](http://arxiv.org/abs/2401.02290v1)|null|
-|**2024-01-04 08:49:10**|**Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy   and Directions**|Cheng-Te Li et.al.|[2401.02143v1](http://arxiv.org/abs/2401.02143v1)|null|
+|**2024-01-04 08:49:10**|**Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy   and Directions**|Cheng-Te Li et.al.|[2401.02143v1](http://arxiv.org/abs/2401.02143v1)|[link](https://github.com/roytsai27/awesome-gnn4tdl)|
 |**2024-01-04 08:31:47**|**Spectral-based Graph Neutral Networks for Complementary Item   Recommendation**|Haitong Luo et.al.|[2401.02130v1](http://arxiv.org/abs/2401.02130v1)|null|
 |**2024-01-04 06:20:24**|**View-based Explanations for Graph Neural Networks**|Tingyang Chen et.al.|[2401.02086v1](http://arxiv.org/abs/2401.02086v1)|[link](https://github.com/zju-daily/gvex)|
 |**2024-01-04 01:41:48**|**Accelerated Band Offset Prediction in Semiconductor Interfaces with DFT   and Deep Learning**|Kamal Choudhary et.al.|[2401.02021v1](http://arxiv.org/abs/2401.02021v1)|null|
@@ -20,15 +32,3 @@
 |**2024-01-01 13:53:50**|**Strong Transitivity Relations and Graph Neural Networks**|Yassin Mohamadi et.al.|[2401.01384v1](http://arxiv.org/abs/2401.01384v1)|[link](https://github.com/yassinmihemedi/strong-transitivity-relations-and-graph-neural-network)|
 |**2024-01-01 13:44:16**|**Saliency-Aware Regularized Graph Neural Network**|Wenjie Pei et.al.|[2401.00755v1](http://arxiv.org/abs/2401.00755v1)|null|
 |**2024-01-01 12:57:15**|**Harmonizing Covariance and Expressiveness for Deep Hamiltonian   Regression in Crystalline Material Research: a Hybrid Cascaded Regression   Framework**|Shi Yin et.al.|[2401.00744v3](http://arxiv.org/abs/2401.00744v3)|null|
-|**2024-01-01 09:53:24**|**A Survey on Graph Neural Networks in Intelligent Transportation Systems**|Hourun Li et.al.|[2401.00713v2](http://arxiv.org/abs/2401.00713v2)|null|
-|**2024-01-01 02:03:35**|**On Discprecncies between Perturbation Evaluations of Graph Neural   Network Attributions**|Razieh Rezaei et.al.|[2401.00633v1](http://arxiv.org/abs/2401.00633v1)|[link](https://github.com/alirezadizaji/graphroar)|
-|**2023-12-31 13:43:41**|**Generating High-Precision Force Fields for Molecular Dynamics   Simulations to Study Chemical Reaction Mechanisms using Molecular   Configuration Transformer**|Sihao Yuan et.al.|[2401.00499v1](http://arxiv.org/abs/2401.00499v1)|null|
-|**2023-12-31 08:59:59**|**Deeper and Wider Networks for Performance Metrics Prediction in   Communication Networks**|Aijia Liu et.al.|[2401.00429v1](http://arxiv.org/abs/2401.00429v1)|null|
-|**2023-12-31 03:51:31**|**FusionMind -- Improving question and answering with external context   fusion**|Shreyas Verma et.al.|[2401.00388v1](http://arxiv.org/abs/2401.00388v1)|null|
-|**2023-12-31 03:30:42**|**Predicting Evoked Emotions in Conversations**|Enas Altarawneh et.al.|[2401.00383v1](http://arxiv.org/abs/2401.00383v1)|null|
-|**2023-12-31 03:27:20**|**Modeling of Memory Mechanisms in Cerebral Cortex and Simulation of   Storage Performance**|Hui Wei et.al.|[2401.00381v1](http://arxiv.org/abs/2401.00381v1)|null|
-|**2023-12-30 07:58:19**|**A clean-label graph backdoor attack method in node classification task**|Xiaogang Xing et.al.|[2401.00163v1](http://arxiv.org/abs/2401.00163v1)|null|
-|**2023-12-30 07:18:54**|**ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained   Language Models for Question Answering over Knowledge Graph**|Jinhao Jiang et.al.|[2401.00158v1](http://arxiv.org/abs/2401.00158v1)|[link](https://github.com/RUCAIBox/ReasoningLM})|
-|**2023-12-30 06:50:52**|**Balanced Graph Structure Information for Brain Disease Detection**|Falih Gozi Febrinanto et.al.|[2401.00876v1](http://arxiv.org/abs/2401.00876v1)|[link](https://github.com/falihgoz/bargrain)|
-|**2023-12-29 18:45:38**|**Physics-informed Graphical Neural Network for Power System State   Estimation**|Quang-Ha Ngo et.al.|[2312.17738v1](http://arxiv.org/abs/2312.17738v1)|null|
-|**2023-12-29 16:50:40**|**Data Augmentation for Supervised Graph Outlier Detection with Latent   Diffusion Models**|Kay Liu et.al.|[2312.17679v1](http://arxiv.org/abs/2312.17679v1)|[link](https://github.com/kayzliu/godm)|
