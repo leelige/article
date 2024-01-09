@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-08 02:23:17**|**Bridging the Skills Gap: Evaluating an AI-Assisted Provider Platform to   Support Care Providers with Empathetic Delivery of Protocolized Therapy**|William R. Kearns et.al.|[2401.03631v1](http://arxiv.org/abs/2401.03631v1)|null|
 |**2024-01-05 06:38:50**|**Nurse-in-the-Loop Artificial Intelligence for Precision Management of   Type 2 Diabetes in a Clinical Trial Utilizing Transfer-Learned Predictive   Digital Twin**|Syed Hasib Akhter Faruqui et.al.|[2401.02661v1](http://arxiv.org/abs/2401.02661v1)|null|
 |**2024-01-04 04:59:04**|**Windows on the Universe: Establishing the Infrastructure for a   Collaborative Multi-messenger Ecosystem**| The 2023 Windows on the Universe Workshop White Paper Working Group et.al.|[2401.02063v1](http://arxiv.org/abs/2401.02063v1)|null|
 |**2023-12-31 10:55:26**|**Teaching Digital Accessibility to Industry Professionals using the   Community of Practice Framework: An Experience Report**|Parthasarathy PD et.al.|[2401.00449v1](http://arxiv.org/abs/2401.00449v1)|null|
@@ -16,7 +17,6 @@
 |**2023-12-13 19:13:11**|**Best practices for machine learning in antibody discovery and   development**|Leonard Wossnig et.al.|[2312.08470v2](http://arxiv.org/abs/2312.08470v2)|null|
 |**2023-12-10 18:33:45**|**No prejudice! Fair Federated Graph Neural Networks for Personalized   Recommendation**|Nimesh Agrawal et.al.|[2312.10080v2](http://arxiv.org/abs/2312.10080v2)|null|
 |**2023-12-07 16:17:34**|**On the Impact of Multi-dimensional Local Differential Privacy on   Fairness**|Karima Makhlouf et.al.|[2312.04404v2](http://arxiv.org/abs/2312.04404v2)|[link](https://github.com/karimamakhlouf/impact_of_ldp_on_fairness)|
-|**2023-12-06 21:32:32**|**Data Safety vs. App Privacy: Comparing the Usability of Android and iOS   Privacy Labels**|Yanzi Lin et.al.|[2312.03918v1](http://arxiv.org/abs/2312.03918v1)|null|
 |**2023-12-05 08:57:32**|**Mapping the Information Journey: Unveiling the Documentation Experience   of Software Developers in China**|Zhijun Gao et.al.|[2312.02586v1](http://arxiv.org/abs/2312.02586v1)|null|
 |**2023-12-04 17:19:53**|**Know Your Audience: Do LLMs Adapt to Different Age and Education Levels?**|Donya Rooein et.al.|[2312.02065v1](http://arxiv.org/abs/2312.02065v1)|null|
 |**2023-12-03 21:52:51**|**SoK: The Gap Between Data Rights Ideals and Reality**|Yujin Kwon et.al.|[2312.01511v1](http://arxiv.org/abs/2312.01511v1)|null|
