@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-09 15:20:27**|**Effect on New Loan Repayment Fine Clause on Bank Jaya Artha's Customer   Satisfaction and Recommendation**|Mustaqim Adamrah et.al.|[2401.04605v1](http://arxiv.org/abs/2401.04605v1)|null|
 |**2024-01-08 02:23:17**|**Bridging the Skills Gap: Evaluating an AI-Assisted Provider Platform to   Support Care Providers with Empathetic Delivery of Protocolized Therapy**|William R. Kearns et.al.|[2401.03631v1](http://arxiv.org/abs/2401.03631v1)|null|
 |**2024-01-05 06:38:50**|**Nurse-in-the-Loop Artificial Intelligence for Precision Management of   Type 2 Diabetes in a Clinical Trial Utilizing Transfer-Learned Predictive   Digital Twin**|Syed Hasib Akhter Faruqui et.al.|[2401.02661v1](http://arxiv.org/abs/2401.02661v1)|null|
 |**2024-01-04 04:59:04**|**Windows on the Universe: Establishing the Infrastructure for a   Collaborative Multi-messenger Ecosystem**| The 2023 Windows on the Universe Workshop White Paper Working Group et.al.|[2401.02063v1](http://arxiv.org/abs/2401.02063v1)|null|
@@ -31,4 +32,3 @@
 |**2023-11-16 01:40:07**|**Peer Reviews of Peer Reviews: A Randomized Controlled Trial and Other   Experiments**|Alexander Goldberg et.al.|[2311.09497v1](http://arxiv.org/abs/2311.09497v1)|null|
 |**2023-11-14 16:07:16**|**Mixed Attention Network for Cross-domain Sequential Recommendation**|Guanyu Lin et.al.|[2311.08272v1](http://arxiv.org/abs/2311.08272v1)|[link](https://github.com/guanyu-lin/man)|
 |**2023-11-13 03:42:17**|**Do LLMs Implicitly Exhibit User Discrimination in Recommendation? An   Empirical Study**|Chen Xu et.al.|[2311.07054v1](http://arxiv.org/abs/2311.07054v1)|null|
-|**2023-11-11 23:32:42**|**Metric Optimization and Mainstream Bias Mitigation in Recommender   Systems**|Roger Zhe Li et.al.|[2311.06689v1](http://arxiv.org/abs/2311.06689v1)|null|
