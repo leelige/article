@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-17 17:55:06**|**Diverse Part Synthesis for 3D Shape Creation**|Yanran Guan et.al.|[2401.09384v1](http://arxiv.org/abs/2401.09384v1)|null|
+|**2024-01-17 16:47:39**|**BENO: Boundary-embedded Neural Operators for Elliptic PDEs**|Haixin Wang et.al.|[2401.09323v1](http://arxiv.org/abs/2401.09323v1)|[link](https://github.com/ai4science-westlakeu/beno)|
+|**2024-01-17 14:30:46**|**A Characterization Theorem for Equivariant Networks with Point-wise   Activations**|Marco Pacini et.al.|[2401.09235v1](http://arxiv.org/abs/2401.09235v1)|null|
+|**2024-01-17 13:04:23**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based   Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193v1](http://arxiv.org/abs/2401.09193v1)|null|
+|**2024-01-17 11:01:28**|**Understanding Heterophily for Graph Neural Networks**|Junfu Wang et.al.|[2401.09125v1](http://arxiv.org/abs/2401.09125v1)|null|
+|**2024-01-17 09:12:31**|**Rethinking Spectral Graph Neural Networks with Spatially Adaptive   Filtering**|Jingwei Guo et.al.|[2401.09071v1](http://arxiv.org/abs/2401.09071v1)|null|
+|**2024-01-16 17:23:23**|**Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN   Expressiveness**|Bohang Zhang et.al.|[2401.08514v1](http://arxiv.org/abs/2401.08514v1)|[link](https://github.com/subgraph23/homomorphism-expressivity)|
 |**2024-01-16 09:14:52**|**Spoofing Detection in the Physical Layer with Graph Neural Networks**|Tien Ngoc Ha et.al.|[2401.08220v1](http://arxiv.org/abs/2401.08220v1)|null|
 |**2024-01-16 01:03:39**|**Structure-based out-of-distribution (OOD) materials property prediction:   a benchmark study**|Sadman Sadeed Omee et.al.|[2401.08032v1](http://arxiv.org/abs/2401.08032v1)|null|
 |**2024-01-15 19:57:07**|**Integrate Any Omics: Towards genome-wide data integration for patient   stratification**|Shihao Ma et.al.|[2401.07937v1](http://arxiv.org/abs/2401.07937v1)|[link](https://github.com/bowang-lab/integrao)|
@@ -25,10 +32,3 @@
 |**2024-01-10 18:04:12**|**Population Graph Cross-Network Node Classification for Autism Detection   Across Sample Groups**|Anna Stephens et.al.|[2401.05478v1](http://arxiv.org/abs/2401.05478v1)|[link](https://github.com/ajoystephens/otgcn)|
 |**2024-01-10 17:24:24**|**Bound Tightening using Rolling-Horizon Decomposition for Neural Network   Verification**|Haoruo Zhao et.al.|[2401.05280v2](http://arxiv.org/abs/2401.05280v2)|[link](https://github.com/coin-or/Gravity)|
 |**2024-01-10 15:49:44**|**Physics guided dual Self-supervised learning for structure-based   materials property prediction**|Nihang Fu et.al.|[2401.05223v1](http://arxiv.org/abs/2401.05223v1)|[link](https://github.com/usccolumbia/dssl)|
-|**2024-01-10 15:05:03**|**Introducing New Node Prediction in Graph Mining: Predicting All Links   from Isolated Nodes with Graph Neural Networks**|Damiano Zanardini et.al.|[2401.05468v1](http://arxiv.org/abs/2401.05468v1)|null|
-|**2024-01-10 10:47:41**|**The two-way knowledge interaction interface between humans and neural   networks**|Zhanliang He et.al.|[2401.05461v1](http://arxiv.org/abs/2401.05461v1)|null|
-|**2024-01-10 08:37:39**|**GOODAT: Towards Test-time Graph Out-of-Distribution Detection**|Luzhi Wang et.al.|[2401.06176v1](http://arxiv.org/abs/2401.06176v1)|[link](https://github.com/ee1s/goodat)|
-|**2024-01-10 07:58:44**|**MGNet: Learning Correspondences via Multiple Graphs**|Luanyuan Dai et.al.|[2401.04984v1](http://arxiv.org/abs/2401.04984v1)|[link](https://github.com/DAILUANYUAN/MGNet-2024AAAI)|
-|**2024-01-10 05:50:34**|**Hierarchical Knowledge Distillation on Text Graph for Data-limited   Attribute Inference**|Quan Li et.al.|[2401.06802v1](http://arxiv.org/abs/2401.06802v1)|null|
-|**2024-01-10 01:57:12**|**Feature Network Methods in Machine Learning and Applications**|Xinying Mu et.al.|[2401.04874v1](http://arxiv.org/abs/2401.04874v1)|null|
-|**2024-01-10 00:08:00**|**LPAC: Learnable Perception-Action-Communication Loops with Applications   to Coverage Control**|Saurav Agarwal et.al.|[2401.04855v1](http://arxiv.org/abs/2401.04855v1)|null|
