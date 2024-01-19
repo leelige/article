@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-18 17:06:16**|**Wallets' explorations across non-fungible token collections**|Seonbin Jo et.al.|[2401.10138v1](http://arxiv.org/abs/2401.10138v1)|null|
 |**2024-01-17 08:01:18**|**UOEP: User-Oriented Exploration Policy for Enhancing Long-Term User   Experiences in Recommender Systems**|Changshuo Zhang et.al.|[2401.09034v1](http://arxiv.org/abs/2401.09034v1)|null|
 |**2024-01-16 17:31:35**|**Supporting Student Decisions on Learning Recommendations: An LLM-Based   Chatbot with Knowledge Graph Contextualization for Conversational   Explainability and Mentoring**|Hasan Abu-Rasheed et.al.|[2401.08517v1](http://arxiv.org/abs/2401.08517v1)|null|
 |**2024-01-16 03:32:15**|**'One Style Does Not Regulate All': Moderation Practices in Public and   Private WhatsApp Groups**|Farhana Shahid et.al.|[2401.08091v1](http://arxiv.org/abs/2401.08091v1)|null|
@@ -31,4 +32,3 @@
 |**2023-11-20 19:50:44**|**Early Requirements Traceability with Domain-Specific Taxonomies -- A   Pilot Experiment**|Michael Unterkalmsteiner et.al.|[2311.12146v1](http://arxiv.org/abs/2311.12146v1)|null|
 |**2023-11-20 19:37:57**|**Multi-view Graph Convolution for Participant Recommendation**|Xiaolong Liu et.al.|[2311.12136v1](http://arxiv.org/abs/2311.12136v1)|null|
 |**2023-11-19 05:59:19**|**Dependency Relationships-Enhanced Attentive Group Recommendation in HINs**|Juntao Zhang et.al.|[2311.11239v1](http://arxiv.org/abs/2311.11239v1)|null|
-|**2023-11-19 01:00:59**|**Assessing AI Impact Assessments: A Classroom Study**|Nari Johnson et.al.|[2311.11193v1](http://arxiv.org/abs/2311.11193v1)|null|

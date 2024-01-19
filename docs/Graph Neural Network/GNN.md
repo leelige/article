@@ -2,12 +2,21 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-18 12:58:53**|**Through the Dual-Prism: A Spectral Perspective on Graph Data   Augmentation for Graph Classification**|Yutong Xia et.al.|[2401.09953v1](http://arxiv.org/abs/2401.09953v1)|null|
+|**2024-01-18 12:47:13**|**HGAttack: Transferable Heterogeneous Graph Adversarial Attack**|He Zhao et.al.|[2401.09945v1](http://arxiv.org/abs/2401.09945v1)|null|
+|**2024-01-18 12:45:46**|**Infinite-Horizon Graph Filters: Leveraging Power Series to Enhance   Sparse Information Aggregation**|Ruizhe Zhang et.al.|[2401.09943v1](http://arxiv.org/abs/2401.09943v1)|null|
+|**2024-01-18 08:10:34**|**Adaptive Self-training Framework for Fine-grained Scene Graph Generation**|Kibum Kim et.al.|[2401.09786v1](http://arxiv.org/abs/2401.09786v1)|[link](https://github.com/rlqja1107/torch-st-sgg)|
+|**2024-01-18 06:57:29**|**Universally Robust Graph Neural Networks by Preserving Neighbor   Similarity**|Yulin Zhu et.al.|[2401.09754v1](http://arxiv.org/abs/2401.09754v1)|null|
+|**2024-01-18 06:57:29**|**Crystal Transformer Based Universal Atomic Embedding for Accurate and   Transferable Prediction of Materials Properties**|Luozhijie Jin et.al.|[2401.09755v1](http://arxiv.org/abs/2401.09755v1)|null|
+|**2024-01-18 04:57:12**|**Predicting Viral Rumors and Vulnerable Users for Infodemic Surveillance**|Xuan Zhang et.al.|[2401.09724v1](http://arxiv.org/abs/2401.09724v1)|[link](https://github.com/jadecurl/predicting-viral-rumors-and-vulnerable-users)|
+|**2024-01-18 02:48:06**|**EfficientRec an unlimited user-item scale recommendation system based on   clustering and users interaction embedding profile**|Vu Hong Quan et.al.|[2401.09693v1](http://arxiv.org/abs/2401.09693v1)|[link](https://github.com/quanvu0996/efficientrec)|
 |**2024-01-17 17:55:06**|**Diverse Part Synthesis for 3D Shape Creation**|Yanran Guan et.al.|[2401.09384v1](http://arxiv.org/abs/2401.09384v1)|null|
 |**2024-01-17 16:47:39**|**BENO: Boundary-embedded Neural Operators for Elliptic PDEs**|Haixin Wang et.al.|[2401.09323v1](http://arxiv.org/abs/2401.09323v1)|[link](https://github.com/ai4science-westlakeu/beno)|
 |**2024-01-17 14:30:46**|**A Characterization Theorem for Equivariant Networks with Point-wise   Activations**|Marco Pacini et.al.|[2401.09235v1](http://arxiv.org/abs/2401.09235v1)|null|
 |**2024-01-17 13:04:23**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based   Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193v1](http://arxiv.org/abs/2401.09193v1)|null|
 |**2024-01-17 11:01:28**|**Understanding Heterophily for Graph Neural Networks**|Junfu Wang et.al.|[2401.09125v1](http://arxiv.org/abs/2401.09125v1)|null|
 |**2024-01-17 09:12:31**|**Rethinking Spectral Graph Neural Networks with Spatially Adaptive   Filtering**|Jingwei Guo et.al.|[2401.09071v1](http://arxiv.org/abs/2401.09071v1)|null|
+|**2024-01-17 07:21:36**|**A novel hybrid time-varying graph neural network for traffic flow   forecasting**|Ben Ao Dai et.al.|[2401.10155v1](http://arxiv.org/abs/2401.10155v1)|[link](https://github.com/DaibenaoZSTU/HTVGNN)|
 |**2024-01-16 17:23:23**|**Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN   Expressiveness**|Bohang Zhang et.al.|[2401.08514v1](http://arxiv.org/abs/2401.08514v1)|[link](https://github.com/subgraph23/homomorphism-expressivity)|
 |**2024-01-16 09:14:52**|**Spoofing Detection in the Physical Layer with Graph Neural Networks**|Tien Ngoc Ha et.al.|[2401.08220v1](http://arxiv.org/abs/2401.08220v1)|null|
 |**2024-01-16 01:03:39**|**Structure-based out-of-distribution (OOD) materials property prediction:   a benchmark study**|Sadman Sadeed Omee et.al.|[2401.08032v1](http://arxiv.org/abs/2401.08032v1)|null|
@@ -22,13 +31,4 @@
 |**2024-01-12 17:57:07**|**Deep Manifold Graph Auto-Encoder for Attributed Graph Embedding**|Bozhen Hu et.al.|[2401.06727v1](http://arxiv.org/abs/2401.06727v1)|null|
 |**2024-01-12 13:12:07**|**A General Benchmark Framework is Dynamic Graph Neural Network Need**|Yusen Zhang et.al.|[2401.06559v1](http://arxiv.org/abs/2401.06559v1)|null|
 |**2024-01-12 13:02:39**|**Treatment-Aware Hyperbolic Representation Learning for Causal Effect   Estimation with Social Networks**|Ziqiang Cui et.al.|[2401.06557v1](http://arxiv.org/abs/2401.06557v1)|null|
-|**2024-01-12 04:41:23**|**Graph Relation Distillation for Efficient Biomedical Instance   Segmentation**|Xiaoyu Liu et.al.|[2401.06370v1](http://arxiv.org/abs/2401.06370v1)|[link](https://github.com/liuxy1103/GIDBIS)|
-|**2024-01-11 21:05:02**|**A Universal Knowledge Model and Cognitive Architecture for Prototyping   AGI**|Artem Sukhobokov et.al.|[2401.06256v1](http://arxiv.org/abs/2401.06256v1)|null|
-|**2024-01-11 17:09:40**|**On the Power of Graph Neural Networks and Feature Augmentation   Strategies to Classify Social Networks**|Walid Guettala et.al.|[2401.06048v1](http://arxiv.org/abs/2401.06048v1)|null|
-|**2024-01-11 16:55:48**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for   Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040v1](http://arxiv.org/abs/2401.06040v1)|[link](https://github.com/qqian99/wavgcrn)|
-|**2024-01-11 05:56:29**|**Use of Graph Neural Networks in Aiding Defensive Cyber Operations**|Shaswata Mitra et.al.|[2401.05680v1](http://arxiv.org/abs/2401.05680v1)|null|
-|**2024-01-11 01:15:28**|**Graph Q-Learning for Combinatorial Optimization**|Victoria M. Dax et.al.|[2401.05610v1](http://arxiv.org/abs/2401.05610v1)|null|
-|**2024-01-10 18:41:39**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real   World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
-|**2024-01-10 18:04:12**|**Population Graph Cross-Network Node Classification for Autism Detection   Across Sample Groups**|Anna Stephens et.al.|[2401.05478v1](http://arxiv.org/abs/2401.05478v1)|[link](https://github.com/ajoystephens/otgcn)|
-|**2024-01-10 17:24:24**|**Bound Tightening using Rolling-Horizon Decomposition for Neural Network   Verification**|Haoruo Zhao et.al.|[2401.05280v2](http://arxiv.org/abs/2401.05280v2)|[link](https://github.com/coin-or/Gravity)|
-|**2024-01-10 15:49:44**|**Physics guided dual Self-supervised learning for structure-based   materials property prediction**|Nihang Fu et.al.|[2401.05223v1](http://arxiv.org/abs/2401.05223v1)|[link](https://github.com/usccolumbia/dssl)|
+|**2024-01-12 04:41:23**|**Graph Relation Distillation for Efficient Biomedical Instance   Segmentation**|Xiaoyu Liu et.al.|[2401.06370v1](http://arxiv.org/abs/2401.06370v1)|[link](https://github.com/liuxy1103/grdbis)|
