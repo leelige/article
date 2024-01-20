@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-01-18 12:58:53**|**Through the Dual-Prism: A Spectral Perspective on Graph Data   Augmentation for Graph Classification**|Yutong Xia et.al.|[2401.09953v1](http://arxiv.org/abs/2401.09953v1)|null|
 |**2024-01-18 12:47:13**|**HGAttack: Transferable Heterogeneous Graph Adversarial Attack**|He Zhao et.al.|[2401.09945v1](http://arxiv.org/abs/2401.09945v1)|null|
-|**2024-01-18 12:45:46**|**Infinite-Horizon Graph Filters: Leveraging Power Series to Enhance   Sparse Information Aggregation**|Ruizhe Zhang et.al.|[2401.09943v1](http://arxiv.org/abs/2401.09943v1)|null|
+|**2024-01-18 12:45:46**|**Infinite-Horizon Graph Filters: Leveraging Power Series to Enhance   Sparse Information Aggregation**|Ruizhe Zhang et.al.|[2401.09943v1](http://arxiv.org/abs/2401.09943v1)|[link](https://github.com/GPFN-Anonymous/GPFN)|
 |**2024-01-18 08:10:34**|**Adaptive Self-training Framework for Fine-grained Scene Graph Generation**|Kibum Kim et.al.|[2401.09786v1](http://arxiv.org/abs/2401.09786v1)|[link](https://github.com/rlqja1107/torch-st-sgg)|
 |**2024-01-18 06:57:29**|**Universally Robust Graph Neural Networks by Preserving Neighbor   Similarity**|Yulin Zhu et.al.|[2401.09754v1](http://arxiv.org/abs/2401.09754v1)|null|
 |**2024-01-18 06:57:29**|**Crystal Transformer Based Universal Atomic Embedding for Accurate and   Transferable Prediction of Materials Properties**|Luozhijie Jin et.al.|[2401.09755v1](http://arxiv.org/abs/2401.09755v1)|null|
@@ -13,7 +13,7 @@
 |**2024-01-17 17:55:06**|**Diverse Part Synthesis for 3D Shape Creation**|Yanran Guan et.al.|[2401.09384v1](http://arxiv.org/abs/2401.09384v1)|null|
 |**2024-01-17 16:47:39**|**BENO: Boundary-embedded Neural Operators for Elliptic PDEs**|Haixin Wang et.al.|[2401.09323v1](http://arxiv.org/abs/2401.09323v1)|[link](https://github.com/ai4science-westlakeu/beno)|
 |**2024-01-17 14:30:46**|**A Characterization Theorem for Equivariant Networks with Point-wise   Activations**|Marco Pacini et.al.|[2401.09235v1](http://arxiv.org/abs/2401.09235v1)|null|
-|**2024-01-17 13:04:23**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based   Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193v1](http://arxiv.org/abs/2401.09193v1)|null|
+|**2024-01-17 13:04:23**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based   Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193v1](http://arxiv.org/abs/2401.09193v1)|[link](https://github.com/gdl-unive/histogram-intersection-kernel)|
 |**2024-01-17 11:01:28**|**Understanding Heterophily for Graph Neural Networks**|Junfu Wang et.al.|[2401.09125v1](http://arxiv.org/abs/2401.09125v1)|null|
 |**2024-01-17 09:12:31**|**Rethinking Spectral Graph Neural Networks with Spatially Adaptive   Filtering**|Jingwei Guo et.al.|[2401.09071v1](http://arxiv.org/abs/2401.09071v1)|null|
 |**2024-01-17 07:21:36**|**A novel hybrid time-varying graph neural network for traffic flow   forecasting**|Ben Ao Dai et.al.|[2401.10155v1](http://arxiv.org/abs/2401.10155v1)|[link](https://github.com/DaibenaoZSTU/HTVGNN)|
