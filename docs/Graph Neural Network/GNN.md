@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-01-18 12:58:53**|**Through the Dual-Prism: A Spectral Perspective on Graph Data   Augmentation for Graph Classification**|Yutong Xia et.al.|[2401.09953v1](http://arxiv.org/abs/2401.09953v1)|null|
 |**2024-01-18 12:47:13**|**HGAttack: Transferable Heterogeneous Graph Adversarial Attack**|He Zhao et.al.|[2401.09945v1](http://arxiv.org/abs/2401.09945v1)|null|
-|**2024-01-18 12:45:46**|**Infinite-Horizon Graph Filters: Leveraging Power Series to Enhance   Sparse Information Aggregation**|Ruizhe Zhang et.al.|[2401.09943v1](http://arxiv.org/abs/2401.09943v1)|[link](https://github.com/GPFN-Anonymous/GPFN)|
+|**2024-01-18 12:45:46**|**Infinite-Horizon Graph Filters: Leveraging Power Series to Enhance   Sparse Information Aggregation**|Ruizhe Zhang et.al.|[2401.09943v1](http://arxiv.org/abs/2401.09943v1)|null|
 |**2024-01-18 08:10:34**|**Adaptive Self-training Framework for Fine-grained Scene Graph Generation**|Kibum Kim et.al.|[2401.09786v1](http://arxiv.org/abs/2401.09786v1)|[link](https://github.com/rlqja1107/torch-st-sgg)|
 |**2024-01-18 06:57:29**|**Universally Robust Graph Neural Networks by Preserving Neighbor   Similarity**|Yulin Zhu et.al.|[2401.09754v1](http://arxiv.org/abs/2401.09754v1)|null|
 |**2024-01-18 06:57:29**|**Crystal Transformer Based Universal Atomic Embedding for Accurate and   Transferable Prediction of Materials Properties**|Luozhijie Jin et.al.|[2401.09755v1](http://arxiv.org/abs/2401.09755v1)|null|
