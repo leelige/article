@@ -2,6 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-19 17:03:37**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve   Health Outcomes**|Jodi Chiam et.al.|[2401.10816v1](http://arxiv.org/abs/2401.10816v1)|null|
+|**2024-01-19 16:50:22**|**DeepRLI: A Multi-objective Framework for Universal Protein--Ligand   Interaction Prediction**|Haoyu Lin et.al.|[2401.10806v1](http://arxiv.org/abs/2401.10806v1)|null|
+|**2024-01-19 16:34:37**|**Novel Representation Learning Technique using Graphs for Performance   Analytics**|Tarek Ramadan et.al.|[2401.10799v1](http://arxiv.org/abs/2401.10799v1)|null|
+|**2024-01-19 15:22:28**|**BoolGebra: Attributed Graph-learning for Boolean Algebraic Manipulation**|Yingjie Li et.al.|[2401.10753v1](http://arxiv.org/abs/2401.10753v1)|null|
+|**2024-01-19 10:02:20**|**Adversarially Robust Signed Graph Contrastive Learning from Balance   Augmentation**|Jialong Zhou et.al.|[2401.10590v1](http://arxiv.org/abs/2401.10590v1)|null|
+|**2024-01-19 08:44:52**|**Symbol as Points: Panoptic Symbol Spotting via Point-based   Representation**|Wenlong Liu et.al.|[2401.10556v1](http://arxiv.org/abs/2401.10556v1)|[link](https://github.com/nicehuster/SymPoint)|
+|**2024-01-19 06:56:09**|**FARe: Fault-Aware GNN Training on ReRAM-based PIM Accelerators**|Pratyush Dhingra et.al.|[2401.10522v1](http://arxiv.org/abs/2401.10522v1)|null|
+|**2024-01-18 22:07:48**|**Distribution Consistency based Self-Training for Graph Neural Networks   with Sparse Labels**|Fali Wang et.al.|[2401.10394v1](http://arxiv.org/abs/2401.10394v1)|null|
+|**2024-01-18 19:28:26**|**Exploring General Intelligence via Gated Graph Transformer in Functional   Connectivity Studies**|Gang Qu et.al.|[2401.10348v1](http://arxiv.org/abs/2401.10348v1)|null|
+|**2024-01-18 19:00:01**|**A rotation-equivariant graph neural network for learning hadronic SMEFT   effects**|Suman Chatterjee et.al.|[2401.10323v1](http://arxiv.org/abs/2401.10323v1)|null|
 |**2024-01-18 12:58:53**|**Through the Dual-Prism: A Spectral Perspective on Graph Data   Augmentation for Graph Classification**|Yutong Xia et.al.|[2401.09953v1](http://arxiv.org/abs/2401.09953v1)|null|
 |**2024-01-18 12:47:13**|**HGAttack: Transferable Heterogeneous Graph Adversarial Attack**|He Zhao et.al.|[2401.09945v1](http://arxiv.org/abs/2401.09945v1)|null|
 |**2024-01-18 12:45:46**|**Infinite-Horizon Graph Filters: Leveraging Power Series to Enhance   Sparse Information Aggregation**|Ruizhe Zhang et.al.|[2401.09943v1](http://arxiv.org/abs/2401.09943v1)|null|
@@ -22,13 +32,3 @@
 |**2024-01-16 01:03:39**|**Structure-based out-of-distribution (OOD) materials property prediction:   a benchmark study**|Sadman Sadeed Omee et.al.|[2401.08032v1](http://arxiv.org/abs/2401.08032v1)|null|
 |**2024-01-15 19:57:07**|**Integrate Any Omics: Towards genome-wide data integration for patient   stratification**|Shihao Ma et.al.|[2401.07937v1](http://arxiv.org/abs/2401.07937v1)|[link](https://github.com/bowang-lab/integrao)|
 |**2024-01-15 01:11:46**|**Multimodal Language and Graph Learning of Adsorption Configuration in   Catalysis**|Janghoon Ock et.al.|[2401.07408v1](http://arxiv.org/abs/2401.07408v1)|null|
-|**2024-01-14 01:38:27**|**Scaling Advantage in Approximate Optimization with Quantum Annealing**|Humberto Munoz Bauza et.al.|[2401.07184v1](http://arxiv.org/abs/2401.07184v1)|null|
-|**2024-01-13 16:09:49**|**Graph Language Models**|Moritz Plenz et.al.|[2401.07105v1](http://arxiv.org/abs/2401.07105v1)|[link](https://github.com/heidelberg-nlp/graphlanguagemodels)|
-|**2024-01-13 12:49:56**|**Tensor Graph Convolutional Network for Dynamic Graph Representation   Learning**|Ling Wang et.al.|[2401.07065v1](http://arxiv.org/abs/2401.07065v1)|null|
-|**2024-01-13 02:14:35**|**Reinforcement Learning for Scalable Train Timetable Rescheduling with   Graph Representation**|Peng Yue et.al.|[2401.06952v1](http://arxiv.org/abs/2401.06952v1)|null|
-|**2024-01-12 20:32:38**|**Accelerating Neural Networks for Large Language Models and Graph   Processing with Silicon Photonics**|Salma Afifi et.al.|[2401.06885v1](http://arxiv.org/abs/2401.06885v1)|null|
-|**2024-01-12 19:35:54**|**Deep Learning With DAGs**|Sourabh Balgi et.al.|[2401.06864v1](http://arxiv.org/abs/2401.06864v1)|null|
-|**2024-01-12 17:57:07**|**Deep Manifold Graph Auto-Encoder for Attributed Graph Embedding**|Bozhen Hu et.al.|[2401.06727v1](http://arxiv.org/abs/2401.06727v1)|null|
-|**2024-01-12 13:12:07**|**A General Benchmark Framework is Dynamic Graph Neural Network Need**|Yusen Zhang et.al.|[2401.06559v1](http://arxiv.org/abs/2401.06559v1)|null|
-|**2024-01-12 13:02:39**|**Treatment-Aware Hyperbolic Representation Learning for Causal Effect   Estimation with Social Networks**|Ziqiang Cui et.al.|[2401.06557v1](http://arxiv.org/abs/2401.06557v1)|null|
-|**2024-01-12 04:41:23**|**Graph Relation Distillation for Efficient Biomedical Instance   Segmentation**|Xiaoyu Liu et.al.|[2401.06370v1](http://arxiv.org/abs/2401.06370v1)|[link](https://github.com/liuxy1103/grdbis)|
