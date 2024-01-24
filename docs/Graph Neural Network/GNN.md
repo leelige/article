@@ -2,6 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-23 17:50:58**|**Neural deformation fields for template-based reconstruction of cortical   surfaces from MRI**|Fabian Bongratz et.al.|[2401.12938v1](http://arxiv.org/abs/2401.12938v1)|null|
+|**2024-01-23 17:14:01**|**Truck Parking Usage Prediction with Decomposed Graph Neural Networks**|Rei Tamaru et.al.|[2401.12920v1](http://arxiv.org/abs/2401.12920v1)|null|
+|**2024-01-23 15:39:18**|**Control-Aware Trajectory Predictions for Communication-Efficient Drone   Swarm Coordination in Cluttered Environments**|Longhao Yan et.al.|[2401.12852v1](http://arxiv.org/abs/2401.12852v1)|null|
+|**2024-01-23 15:35:44**|**Overlap-aware End-to-End Supervised Hierarchical Graph Clustering for   Speaker Diarization**|Prachi Singh et.al.|[2401.12850v1](http://arxiv.org/abs/2401.12850v1)|null|
+|**2024-01-23 14:59:46**|**MAPPING: Debiasing Graph Neural Networks for Fair Node Classification   with Limited Sensitive Information Leakage**|Ying Song et.al.|[2401.12824v1](http://arxiv.org/abs/2401.12824v1)|null|
+|**2024-01-23 14:06:08**|**DeepRicci: Self-supervised Graph Structure-Feature Co-Refinement for   Alleviating Over-squashing**|Li Sun et.al.|[2401.12780v1](http://arxiv.org/abs/2401.12780v1)|[link](https://github.com/RiemanGraph/)|
+|**2024-01-23 09:45:49**|**PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative   Filtering**|Yifang Qin et.al.|[2401.12590v1](http://arxiv.org/abs/2401.12590v1)|null|
+|**2024-01-23 09:43:30**|**Interpreting Equivariant Representations**|Andreas Abildtrup Hansen et.al.|[2401.12588v1](http://arxiv.org/abs/2401.12588v1)|null|
+|**2024-01-22 22:01:40**|**ACS: Concurrent Kernel Execution on Irregular, Input-Dependent   Computational Graphs**|Sankeerth Durvasula et.al.|[2401.12377v1](http://arxiv.org/abs/2401.12377v1)|null|
+|**2024-01-22 21:11:22**|**VC dimension of Graph Neural Networks with Pfaffian activation functions**|Giuseppe Alessio D'Inverno et.al.|[2401.12362v1](http://arxiv.org/abs/2401.12362v1)|null|
 |**2024-01-22 18:52:51**|**Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks   for Accurate Bangla Sign Language Recognition**|Haz Sameen Shahgir et.al.|[2401.12210v1](http://arxiv.org/abs/2401.12210v1)|null|
 |**2024-01-22 18:36:29**|**Learning Dynamics from Multicellular Graphs with Deep Neural Networks**|Haiqian Yang et.al.|[2401.12196v1](http://arxiv.org/abs/2401.12196v1)|null|
 |**2024-01-22 14:55:01**|**Tensor-view Topological Graph Neural Network**|Tao Wen et.al.|[2401.12007v1](http://arxiv.org/abs/2401.12007v1)|null|
@@ -22,13 +32,3 @@
 |**2024-01-19 21:50:32**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037v1](http://arxiv.org/abs/2401.11037v1)|null|
 |**2024-01-19 19:26:44**|**Leveraging Domain Adaptation for Accurate Machine Learning Predictions   of New Halide Perovskites**|Dipannoy Das Gupta et.al.|[2401.10998v1](http://arxiv.org/abs/2401.10998v1)|null|
 |**2024-01-19 17:03:37**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve   Health Outcomes**|Jodi Chiam et.al.|[2401.10816v1](http://arxiv.org/abs/2401.10816v1)|null|
-|**2024-01-19 16:50:22**|**DeepRLI: A Multi-objective Framework for Universal Protein--Ligand   Interaction Prediction**|Haoyu Lin et.al.|[2401.10806v1](http://arxiv.org/abs/2401.10806v1)|null|
-|**2024-01-19 16:34:37**|**Novel Representation Learning Technique using Graphs for Performance   Analytics**|Tarek Ramadan et.al.|[2401.10799v1](http://arxiv.org/abs/2401.10799v1)|null|
-|**2024-01-19 15:22:28**|**BoolGebra: Attributed Graph-learning for Boolean Algebraic Manipulation**|Yingjie Li et.al.|[2401.10753v1](http://arxiv.org/abs/2401.10753v1)|null|
-|**2024-01-19 10:02:20**|**Adversarially Robust Signed Graph Contrastive Learning from Balance   Augmentation**|Jialong Zhou et.al.|[2401.10590v1](http://arxiv.org/abs/2401.10590v1)|null|
-|**2024-01-19 08:44:52**|**Symbol as Points: Panoptic Symbol Spotting via Point-based   Representation**|Wenlong Liu et.al.|[2401.10556v1](http://arxiv.org/abs/2401.10556v1)|[link](https://github.com/nicehuster/SymPoint)|
-|**2024-01-19 06:56:09**|**FARe: Fault-Aware GNN Training on ReRAM-based PIM Accelerators**|Pratyush Dhingra et.al.|[2401.10522v1](http://arxiv.org/abs/2401.10522v1)|null|
-|**2024-01-18 22:07:48**|**Distribution Consistency based Self-Training for Graph Neural Networks   with Sparse Labels**|Fali Wang et.al.|[2401.10394v1](http://arxiv.org/abs/2401.10394v1)|null|
-|**2024-01-18 19:28:26**|**Exploring General Intelligence via Gated Graph Transformer in Functional   Connectivity Studies**|Gang Qu et.al.|[2401.10348v1](http://arxiv.org/abs/2401.10348v1)|null|
-|**2024-01-18 19:00:01**|**A rotation-equivariant graph neural network for learning hadronic SMEFT   effects**|Suman Chatterjee et.al.|[2401.10323v1](http://arxiv.org/abs/2401.10323v1)|null|
-|**2024-01-18 12:58:53**|**Through the Dual-Prism: A Spectral Perspective on Graph Data   Augmentation for Graph Classification**|Yutong Xia et.al.|[2401.09953v2](http://arxiv.org/abs/2401.09953v2)|null|
