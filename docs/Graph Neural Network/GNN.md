@@ -2,13 +2,18 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-01 18:29:16**|**X-CBA: Explainability Aided CatBoosted Anomal-E for Intrusion Detection   System**|Kiymet Kaya et.al.|[2402.00839v1](http://arxiv.org/abs/2402.00839v1)|null|
+|**2024-02-01 12:50:48**|**A Single Graph Convolution Is All You Need: Efficient Grayscale Image   Classification**|Jacob Fein-Ashley et.al.|[2402.00564v1](http://arxiv.org/abs/2402.00564v1)|null|
+|**2024-02-01 09:36:56**|**CPT: Competence-progressive Training Strategy for Few-shot Node   Classification**|Qilong Yan et.al.|[2402.00450v1](http://arxiv.org/abs/2402.00450v1)|null|
+|**2024-02-01 09:28:48**|**A Survey of Data-Efficient Graph Learning**|Wei Ju et.al.|[2402.00447v1](http://arxiv.org/abs/2402.00447v1)|null|
+|**2024-02-01 03:20:53**|**Attention-based Dynamic Multilayer Graph Neural Networks for Loan   Default Prediction**|Sahab Zandi et.al.|[2402.00299v1](http://arxiv.org/abs/2402.00299v1)|null|
 |**2024-01-31 18:20:42**|**Benchmarking Sensitivity of Continual Graph Learning for Skeleton-Based   Action Recognition**|Wei Wei et.al.|[2401.18054v1](http://arxiv.org/abs/2401.18054v1)|null|
 |**2024-01-31 16:16:48**|**CONCORD: Towards a DSL for Configurable Graph Code Representation**|Mootez Saad et.al.|[2401.17967v1](http://arxiv.org/abs/2401.17967v1)|null|
 |**2024-01-31 15:24:13**|**Attention Graph for Multi-Robot Social Navigation with Deep   Reinforcement Learning**|Erwan Escudie et.al.|[2401.17914v1](http://arxiv.org/abs/2401.17914v1)|null|
 |**2024-01-31 12:33:31**|**Graph Transformers without Positional Encodings**|Ayush Garg et.al.|[2401.17791v1](http://arxiv.org/abs/2401.17791v1)|null|
 |**2024-01-31 11:26:03**|**PF-GNN: Differentiable particle filtering based approximation of   universal graph representations**|Mohammed Haroon Dupty et.al.|[2401.17752v1](http://arxiv.org/abs/2401.17752v1)|[link](https://github.com/pfgnn/pf-gnn)|
 |**2024-01-31 07:20:56**|**Towards Personalized Privacy: User-Governed Data Contribution for   Federated Recommendation**|Liang Qu et.al.|[2401.17630v1](http://arxiv.org/abs/2401.17630v1)|null|
-|**2024-01-31 05:52:11**|**IGCN: Integrative Graph Convolutional Networks for Multi-modal Data**|Cagri Ozdemir et.al.|[2401.17612v1](http://arxiv.org/abs/2401.17612v1)|null|
+|**2024-01-31 05:52:11**|**IGCN: Integrative Graph Convolutional Networks for Multi-modal Data**|Cagri Ozdemir et.al.|[2401.17612v1](http://arxiv.org/abs/2401.17612v1)|[link](https://github.com/bozdaglab/igcn)|
 |**2024-01-30 17:57:07**|**Timeseries Suppliers Allocation Risk Optimization via Deep Black   Litterman Model**|Jiayuan Luo et.al.|[2401.17350v1](http://arxiv.org/abs/2401.17350v1)|null|
 |**2024-01-30 15:21:50**|**Traffic estimation in unobserved network locations using data-driven   macroscopic models**|Pablo Guarda et.al.|[2401.17095v1](http://arxiv.org/abs/2401.17095v1)|[link](https://github.com/pabloguarda/mate)|
 |**2024-01-30 11:25:49**|**Energy-conserving equivariant GNN for elasticity of lattice architected   metamaterials**|Ivan Grega et.al.|[2401.16914v1](http://arxiv.org/abs/2401.16914v1)|null|
@@ -27,8 +32,3 @@
 |**2024-01-29 05:26:17**|**A Gated MLP Architecture for Learning Topological Dependencies in   Spatio-Temporal Graphs**|Yun Young Choi et.al.|[2401.15894v1](http://arxiv.org/abs/2401.15894v1)|null|
 |**2024-01-28 14:06:06**|**Learnability of a hybrid quantum-classical neural network for   graph-structured quantum data**|Yan-Ying Liang et.al.|[2401.15665v1](http://arxiv.org/abs/2401.15665v1)|null|
 |**2024-01-28 08:12:00**|**Improving Expressive Power of Spectral Graph Neural Networks with   Eigenvalue Correction**|Kangkang Lu et.al.|[2401.15603v1](http://arxiv.org/abs/2401.15603v1)|null|
-|**2024-01-28 06:43:13**|**DGNN: Decoupled Graph Neural Networks with Structural Consistency   between Attribute and Graph Embedding Representations**|Jinlu Wang et.al.|[2401.15584v1](http://arxiv.org/abs/2401.15584v1)|[link](https://github.com/jinluwang1002/dgnn)|
-|**2024-01-28 05:12:09**|**Efficient Tuning and Inference for Large Language Models on Textual   Graphs**|Yun Zhu et.al.|[2401.15569v1](http://arxiv.org/abs/2401.15569v1)|null|
-|**2024-01-27 18:46:19**|**Product Manifold Representations for Learning on Biological Pathways**|Daniel McNeela et.al.|[2401.15478v1](http://arxiv.org/abs/2401.15478v1)|[link](https://github.com/mcneela/mixed-curvature-pathways)|
-|**2024-01-27 18:43:44**|**Application of Graph Neural Networks in Dark Photon Search with Visible   Decays at Future Beam Dump Experiment**|Zejia Lu et.al.|[2401.15477v1](http://arxiv.org/abs/2401.15477v1)|null|
-|**2024-01-27 15:35:05**|**Towards Causal Classification: A Comprehensive Study on Graph Neural   Networks**|Simi Job et.al.|[2401.15444v1](http://arxiv.org/abs/2401.15444v1)|null|
