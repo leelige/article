@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-02-01 18:29:16**|**X-CBA: Explainability Aided CatBoosted Anomal-E for Intrusion Detection   System**|Kiymet Kaya et.al.|[2402.00839v1](http://arxiv.org/abs/2402.00839v1)|null|
-|**2024-02-01 12:50:48**|**A Single Graph Convolution Is All You Need: Efficient Grayscale Image   Classification**|Jacob Fein-Ashley et.al.|[2402.00564v1](http://arxiv.org/abs/2402.00564v1)|null|
+|**2024-02-01 12:50:48**|**A Single Graph Convolution Is All You Need: Efficient Grayscale Image   Classification**|Jacob Fein-Ashley et.al.|[2402.00564v1](http://arxiv.org/abs/2402.00564v1)|[link](https://github.com/geccoproject/gecco)|
 |**2024-02-01 09:36:56**|**CPT: Competence-progressive Training Strategy for Few-shot Node   Classification**|Qilong Yan et.al.|[2402.00450v1](http://arxiv.org/abs/2402.00450v1)|null|
 |**2024-02-01 09:28:48**|**A Survey of Data-Efficient Graph Learning**|Wei Ju et.al.|[2402.00447v1](http://arxiv.org/abs/2402.00447v1)|null|
 |**2024-02-01 03:20:53**|**Attention-based Dynamic Multilayer Graph Neural Networks for Loan   Default Prediction**|Sahab Zandi et.al.|[2402.00299v1](http://arxiv.org/abs/2402.00299v1)|null|
