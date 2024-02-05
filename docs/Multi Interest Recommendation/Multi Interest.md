@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-02 09:20:48**|**HimiRec: Modeling Hierarchical Multi-interest for Recommendation**|Haolei Pei et.al.|[2402.01253v1](http://arxiv.org/abs/2402.01253v1)|null|
 |**2024-01-21 23:56:57**|**What Are We Optimizing For? A Human-centric Evaluation Of Deep   Learning-based Recommender Systems**|Ruixuan Sun et.al.|[2401.11632v1](http://arxiv.org/abs/2401.11632v1)|null|
 |**2024-01-19 11:22:04**|**Automatic Construction of Multi-faceted User Profiles using Text   Clustering and its Application to Expert Recommendation and Filtering   Problems**|Luis M. de Campos et.al.|[2401.10634v1](http://arxiv.org/abs/2401.10634v1)|null|
 |**2024-01-16 09:04:17**|**LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable   Recommendation**|Zhixuan Chu et.al.|[2401.08217v1](http://arxiv.org/abs/2401.08217v1)|null|
@@ -31,4 +32,3 @@
 |**2023-09-21 12:39:36**|**Demystifying Visual Features of Movie Posters for Multi-Label Genre   Identification**|Utsav Kumar Nareti et.al.|[2309.12022v1](http://arxiv.org/abs/2309.12022v1)|null|
 |**2023-09-18 22:54:36**|**Multi-modality Meets Re-learning: Mitigating Negative Transfer in   Sequential Recommendation**|Bo Peng et.al.|[2309.10195v2](http://arxiv.org/abs/2309.10195v2)|null|
 |**2023-09-09 14:07:11**|**CPMR: Context-Aware Incremental Sequential Recommendation with   Pseudo-Multi-Task Learning**|Qingtian Bian et.al.|[2309.04802v3](http://arxiv.org/abs/2309.04802v3)|[link](https://github.com/dimarziobian/cpmr)|
-|**2023-09-08 02:54:31**|**Sample-Efficient Co-Design of Robotic Agents Using Multi-fidelity   Training on Universal Policy Network**|Kishan R. Nagiredla et.al.|[2309.04085v1](http://arxiv.org/abs/2309.04085v1)|null|

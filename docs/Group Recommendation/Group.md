@@ -31,4 +31,4 @@
 |**2023-12-27 16:39:48**|**Using Gray Literature to Influence Software Engineering Curricula**|James D Kiper et.al.|[2312.16634v1](http://arxiv.org/abs/2312.16634v1)|null|
 |**2023-12-20 01:43:55**|**DGCLUSTER: A Neural Framework for Attributed Graph Clustering via   Modularity Maximization**|Aritra Bhowmick et.al.|[2312.12697v1](http://arxiv.org/abs/2312.12697v1)|[link](https://github.com/pyrobits/dgcluster)|
 |**2023-12-15 17:01:35**|**Peer Learning: Learning Complex Policies in Groups from Scratch via   Action Recommendations**|Cedric Derstroff et.al.|[2312.09950v1](http://arxiv.org/abs/2312.09950v1)|[link](https://github.com/kramerlab/peerlearning)|
-|**2023-12-15 15:53:45**|**Temporally and Distributionally Robust Optimization for Cold-start   Recommendation**|Xinyu Lin et.al.|[2312.09901v2](http://arxiv.org/abs/2312.09901v2)|[link](https://github.com/linxyhaha/tdro)|
+|**2023-12-15 15:53:45**|**Temporally and Distributionally Robust Optimization for Cold-Start   Recommendation**|Xinyu Lin et.al.|[2312.09901v3](http://arxiv.org/abs/2312.09901v3)|[link](https://github.com/linxyhaha/tdro)|
