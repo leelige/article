@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2024-02-06 16:08:59 Asia/Shanghai
+ 自动更新 @ 2024-02-07 16:07:53 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -7,7 +7,8 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-02-05 09:53:08**|**Trinity: Syncretizing Multi-/Long-tail/Long-term Interests All in One**|Jing Yan et.al.|[2402.02842v1](http://arxiv.org/abs/2402.02842v1)|null|
-|**2024-02-02 09:20:48**|**RimiRec: Modeling Refined Multi-interest in Hierarchical Structure for   Recommendation**|Haolei Pei et.al.|[2402.01253v2](http://arxiv.org/abs/2402.01253v2)|null|
+|**2024-02-02 09:20:48**|**RimiRec: Modeling Refined Multi-interest in Hierarchical Structure for   Recommendation**|Haolei Pei et.al.|[2402.01253v3](http://arxiv.org/abs/2402.01253v3)|null|
+|**2024-01-31 14:06:26**|**Uncertainty-Aware Explainable Recommendation with Large Language Models**|Yicui Peng et.al.|[2402.03366v1](http://arxiv.org/abs/2402.03366v1)|null|
 |**2024-01-21 23:56:57**|**What Are We Optimizing For? A Human-centric Evaluation Of Deep   Learning-based Recommender Systems**|Ruixuan Sun et.al.|[2401.11632v1](http://arxiv.org/abs/2401.11632v1)|null|
 |**2024-01-19 11:22:04**|**Automatic Construction of Multi-faceted User Profiles using Text   Clustering and its Application to Expert Recommendation and Filtering   Problems**|Luis M. de Campos et.al.|[2401.10634v1](http://arxiv.org/abs/2401.10634v1)|null|
 |**2024-01-16 09:04:17**|**LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable   Recommendation**|Zhixuan Chu et.al.|[2401.08217v1](http://arxiv.org/abs/2401.08217v1)|null|
@@ -35,49 +36,51 @@
 |**2023-09-28 10:29:51**|**Multi-Granularity Click Confidence Learning via Self-Distillation in   Recommendation**|Chong Liu et.al.|[2309.16322v1](http://arxiv.org/abs/2309.16322v1)|null|
 |**2023-09-28 09:59:48**|**TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent   Reinforcement Learning**|Qirui Mi et.al.|[2309.16307v1](http://arxiv.org/abs/2309.16307v1)|[link](https://github.com/jidiai/taxai)|
 |**2023-09-21 12:39:36**|**Demystifying Visual Features of Movie Posters for Multi-Label Genre   Identification**|Utsav Kumar Nareti et.al.|[2309.12022v1](http://arxiv.org/abs/2309.12022v1)|null|
-|**2023-09-18 22:54:36**|**Multi-modality Meets Re-learning: Mitigating Negative Transfer in   Sequential Recommendation**|Bo Peng et.al.|[2309.10195v2](http://arxiv.org/abs/2309.10195v2)|null|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-06 18:42:51**|**LIPSTICK: Corruptibility-Aware and Explainable Graph Neural   Network-based Oracle-Less Attack on Logic Locking**|Yeganeh Aghamohammadi et.al.|[2402.04235v1](http://arxiv.org/abs/2402.04235v1)|null|
+|**2024-02-06 15:05:40**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062v1](http://arxiv.org/abs/2402.04062v1)|null|
+|**2024-02-06 14:34:17**|**PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural   Network**|Tan Sun et.al.|[2402.04038v1](http://arxiv.org/abs/2402.04038v1)|null|
+|**2024-02-06 14:26:22**|**On provable privacy vulnerabilities of graph representations**|Ruofan Wu et.al.|[2402.04033v1](http://arxiv.org/abs/2402.04033v1)|null|
+|**2024-02-06 12:56:55**|**On dimensionality of feature vectors in MPNNs**|César Bravo et.al.|[2402.03966v1](http://arxiv.org/abs/2402.03966v1)|null|
+|**2024-02-06 11:38:23**|**Dynastic Potential Crossover Operator**|Francisco Chicano et.al.|[2402.03918v1](http://arxiv.org/abs/2402.03918v1)|[link](https://github.com/jfrchicanog/efficienthillclimbers)|
+|**2024-02-06 10:32:39**|**Geometric quantum machine learning of BQP$^A$ protocols and latent graph   classifiers**|Chukwudubem Umeano et.al.|[2402.03871v1](http://arxiv.org/abs/2402.03871v1)|null|
+|**2024-02-06 09:37:42**|**Belief Scene Graphs: Expanding Partial Scenes with Objects through   Computation of Expectation**|Mario A. V. Saucedo et.al.|[2402.03840v1](http://arxiv.org/abs/2402.03840v1)|null|
+|**2024-02-06 09:07:26**|**Asymptotic generalization error of a single-layer graph convolutional   network**|O. Duranthon et.al.|[2402.03818v1](http://arxiv.org/abs/2402.03818v1)|null|
+|**2024-02-06 08:57:49**|**Masked Graph Autoencoder with Non-discrete Bandwidths**|Ziwen Zhao et.al.|[2402.03814v1](http://arxiv.org/abs/2402.03814v1)|[link](https://github.com/newiz430/bandana)|
+|**2024-02-06 08:10:02**|**Scalable Parallel Algorithm for Graph Neural Network Interatomic   Potentials in Molecular Dynamics Simulations**|Yutack Park et.al.|[2402.03789v1](http://arxiv.org/abs/2402.03789v1)|null|
+|**2024-02-06 07:55:54**|**AirPhyNet: Harnessing Physics-Guided Neural Networks for Air Quality   Prediction**|Kethmi Hirushini Hettige et.al.|[2402.03784v1](http://arxiv.org/abs/2402.03784v1)|null|
+|**2024-02-06 03:47:49**|**ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on   Multi-Core Processor**|Yi-Chien Lin et.al.|[2402.03671v1](http://arxiv.org/abs/2402.03671v1)|null|
+|**2024-02-06 01:01:23**|**Bayesian Factorised Granger-Causal Graphs For Multivariate Time-series   Data**|He Zhao et.al.|[2402.03614v1](http://arxiv.org/abs/2402.03614v1)|null|
+|**2024-02-05 22:16:05**|**Path Signatures and Graph Neural Networks for Slow Earthquake Analysis:   Better Together?**|Hans Riess et.al.|[2402.03558v1](http://arxiv.org/abs/2402.03558v1)|null|
+|**2024-02-05 22:07:58**|**Single-GPU GNN Systems: Traps and Pitfalls**|Yidong Gong et.al.|[2402.03548v1](http://arxiv.org/abs/2402.03548v1)|null|
+|**2024-02-05 21:55:24**|**HAMLET: Graph Transformer Neural Operator for Partial Differential   Equations**|Andrey Bryutkin et.al.|[2402.03541v1](http://arxiv.org/abs/2402.03541v1)|null|
+|**2024-02-05 19:21:52**|**Physics-Encoded Graph Neural Networks for Deformation Prediction under   Contact**|Mahdi Saleh et.al.|[2402.03466v1](http://arxiv.org/abs/2402.03466v1)|null|
 |**2024-02-05 10:22:15**|**Graph Neural Machine: A New Model for Learning with Tabular Data**|Giannis Nikolentzos et.al.|[2402.02862v1](http://arxiv.org/abs/2402.02862v1)|null|
 |**2024-02-05 09:24:52**|**PowerGraph: A power grid benchmark dataset for graph neural networks**|Anna Varbella et.al.|[2402.02827v1](http://arxiv.org/abs/2402.02827v1)|null|
 |**2024-02-05 03:03:00**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692v1](http://arxiv.org/abs/2402.02692v1)|null|
 |**2024-02-05 01:10:51**|**GraphRT: A graph-based deep learning model for predicting the retention   time of peptides**|Mark Drvodelic et.al.|[2402.02661v1](http://arxiv.org/abs/2402.02661v1)|null|
 |**2024-02-04 13:25:18**|**Weisfeiler Leman for Euclidean Equivariant Machine Learning**|Snir Hordan et.al.|[2402.02484v1](http://arxiv.org/abs/2402.02484v1)|null|
-|**2024-02-04 10:41:40**|**TopoX: A Suite of Python Packages for Machine Learning on Topological   Domains**|Mustafa Hajij et.al.|[2402.02441v1](http://arxiv.org/abs/2402.02441v1)|[link](https://github.com/pyt-team)|
+|**2024-02-04 10:41:40**|**TopoX: A Suite of Python Packages for Machine Learning on Topological   Domains**|Mustafa Hajij et.al.|[2402.02441v2](http://arxiv.org/abs/2402.02441v2)|[link](https://github.com/pyt-team/toponetx)|
+|**2024-02-04 09:58:22**|**Overcoming Order in Autoregressive Graph Generation**|Edo Cohen-Karlik et.al.|[2402.03387v1](http://arxiv.org/abs/2402.03387v1)|null|
 |**2024-02-04 02:23:45**|**Active Learning for Graphs with Noisy Structures**|Hongliang Chi et.al.|[2402.02321v1](http://arxiv.org/abs/2402.02321v1)|null|
 |**2024-02-03 23:03:51**|**SemPool: Simple, robust, and interpretable KG pooling for enhancing   language models**|Costas Mavromatis et.al.|[2402.02289v1](http://arxiv.org/abs/2402.02289v1)|null|
 |**2024-02-03 22:55:31**|**Future Directions in Foundations of Graph Machine Learning**|Christopher Morris et.al.|[2402.02287v1](http://arxiv.org/abs/2402.02287v1)|null|
 |**2024-02-03 17:24:36**|**Graph Foundation Models**|Haitao Mao et.al.|[2402.02216v1](http://arxiv.org/abs/2402.02216v1)|null|
 |**2024-02-03 06:17:21**|**Neural Scaling Laws on Graphs**|Jingzhe Liu et.al.|[2402.02054v1](http://arxiv.org/abs/2402.02054v1)|null|
-|**2024-02-03 05:19:02**|**Interpreting Graph Neural Networks with In-Distributed Proxies**|Zhuomin Chen et.al.|[2402.02036v1](http://arxiv.org/abs/2402.02036v1)|null|
-|**2024-02-03 03:17:44**|**Topology-Informed Graph Transformer**|Yun Young Choi et.al.|[2402.02005v1](http://arxiv.org/abs/2402.02005v1)|null|
-|**2024-02-03 00:58:05**|**Hypergraph-Transformer (HGT) for Interactive Event Prediction in   Laparoscopic and Robotic Surgery**|Lianhao Yin et.al.|[2402.01974v1](http://arxiv.org/abs/2402.01974v1)|null|
-|**2024-02-02 11:35:21**|**PhenoLinker: Phenotype-Gene Link Prediction and Explanation using   Heterogeneous Graph Neural Networks**|Jose L. Mellina Andreu et.al.|[2402.01809v1](http://arxiv.org/abs/2402.01809v1)|null|
-|**2024-02-02 11:07:27**|**AutoGCN -- Towards Generic Human Activity Recognition with Neural   Architecture Search**|Felix Tempel et.al.|[2402.01313v2](http://arxiv.org/abs/2402.01313v2)|[link](https://github.com/deepinmotion/autogcn)|
-|**2024-02-02 09:32:03**|**TEDDY: Trimming Edges with Degree-based Discrimination strategY**|Hyunjin Seo et.al.|[2402.01261v1](http://arxiv.org/abs/2402.01261v1)|null|
-|**2024-02-02 09:10:35**|**Two Heads Are Better Than One: Boosting Graph Sparse Training via   Semantic and Topological Awareness**|Guibin Zhang et.al.|[2402.01242v1](http://arxiv.org/abs/2402.01242v1)|null|
-|**2024-02-02 08:55:23**|**Unveiling Delay Effects in Traffic Forecasting: A Perspective from   Spatial-Temporal Delay Differential Equations**|Qingqing Long et.al.|[2402.01231v1](http://arxiv.org/abs/2402.01231v1)|null|
-|**2024-02-02 04:30:58**|**Graph Neural Networks in EEG-based Emotion Recognition: A Survey**|Chenyu Liu et.al.|[2402.01138v1](http://arxiv.org/abs/2402.01138v1)|null|
-|**2024-02-02 02:48:03**|**Simulation of Graph Algorithms with Looped Transformers**|Artur Back de Luca et.al.|[2402.01107v1](http://arxiv.org/abs/2402.01107v1)|null|
-|**2024-02-02 02:47:51**|**Learning Which Side to Scan: Multi-View Informed Active Perception with   Side Scan Sonar for Autonomous Underwater Vehicles**|Advaith V. Sethuraman et.al.|[2402.01106v1](http://arxiv.org/abs/2402.01106v1)|null|
-|**2024-02-02 00:28:19**|**DoseGNN: Improving the Performance of Deep Learning Models in Adaptive   Dose-Volume Histogram Prediction through Graph Neural Networks**|Zehao Dong et.al.|[2402.01076v1](http://arxiv.org/abs/2402.01076v1)|null|
-|**2024-02-01 22:24:58**|**LatticeGraphNet: A two-scale graph neural operator for simulating   lattice structures**|Ayush Jain et.al.|[2402.01045v1](http://arxiv.org/abs/2402.01045v1)|null|
-|**2024-02-01 18:29:16**|**X-CBA: Explainability Aided CatBoosted Anomal-E for Intrusion Detection   System**|Kiymet Kaya et.al.|[2402.00839v1](http://arxiv.org/abs/2402.00839v1)|null|
-|**2024-02-01 18:17:36**|**A Comparative Analysis of Gene Expression Profiling by Statistical and   Machine Learning Approaches**|Myriam Bontonou et.al.|[2402.00926v1](http://arxiv.org/abs/2402.00926v1)|[link](https://github.com/mbonto/xai_in_genomics)|
-|**2024-02-01 12:50:48**|**A Single Graph Convolution Is All You Need: Efficient Grayscale Image   Classification**|Jacob Fein-Ashley et.al.|[2402.00564v1](http://arxiv.org/abs/2402.00564v1)|[link](https://github.com/geccoproject/gecco)|
-|**2024-02-01 09:36:56**|**CPT: Competence-progressive Training Strategy for Few-shot Node   Classification**|Qilong Yan et.al.|[2402.00450v1](http://arxiv.org/abs/2402.00450v1)|null|
-|**2024-02-01 09:28:48**|**A Survey of Data-Efficient Graph Learning**|Wei Ju et.al.|[2402.00447v1](http://arxiv.org/abs/2402.00447v1)|null|
-|**2024-02-01 03:20:53**|**Attention-based Dynamic Multilayer Graph Neural Networks for Loan   Default Prediction**|Sahab Zandi et.al.|[2402.00299v1](http://arxiv.org/abs/2402.00299v1)|null|
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-06 14:26:22**|**HEAM : Hashed Embedding Acceleration using Processing-In-Memory**|Youngsuk Kim et.al.|[2402.04032v1](http://arxiv.org/abs/2402.04032v1)|null|
+|**2024-02-06 00:20:49**|**Understanding and Counteracting Feature-Level Bias in Click-Through Rate   Prediction**|Jinqiu Jin et.al.|[2402.03600v1](http://arxiv.org/abs/2402.03600v1)|[link](https://github.com/mitao-cat/feature-level_bias)|
+|**2024-02-05 19:03:23**|**Recommendation Fairness in Social Networks Over Time**|Meng Cao et.al.|[2402.03450v1](http://arxiv.org/abs/2402.03450v1)|null|
 |**2024-02-05 08:56:24**|**Intersectional Two-sided Fairness in Recommendation**|Yifan Wang et.al.|[2402.02816v1](http://arxiv.org/abs/2402.02816v1)|null|
 |**2024-02-01 16:45:31**|**To tweak or not to tweak. How exploiting flexibilities in gene set   analysis leads to over-optimism**|Milena Wünsch et.al.|[2402.00754v1](http://arxiv.org/abs/2402.00754v1)|null|
 |**2024-02-01 10:49:31**|**Proton Pencil-Beam Scanning Stereotactic Body Radiation Therapy and   Hypofractionated Radiation Therapy for Thoracic Malignancies: Patterns of   Practice Survey and Recommendations for Future Development from NRG Oncology   and PTCOG**|Wei Liu et.al.|[2402.00489v1](http://arxiv.org/abs/2402.00489v1)|null|
@@ -105,6 +108,3 @@
 |**2023-12-30 23:56:35**|**EXPLORE -- Explainable Song Recommendation**|Abhinav Arun et.al.|[2401.00353v1](http://arxiv.org/abs/2401.00353v1)|null|
 |**2023-12-29 02:32:12**|**Break Out of a Pigeonhole: A Unified Framework for Examining   Miscalibration, Bias, and Stereotype in Recommender Systems**|Yongsu Ahn et.al.|[2312.17443v1](http://arxiv.org/abs/2312.17443v1)|null|
 |**2023-12-28 15:34:54**|**An Adaptive Framework of Geographical Group-Specific Network on O2O   Recommendation**|Luo Ji et.al.|[2312.17072v1](http://arxiv.org/abs/2312.17072v1)|null|
-|**2023-12-27 16:39:48**|**Using Gray Literature to Influence Software Engineering Curricula**|James D Kiper et.al.|[2312.16634v1](http://arxiv.org/abs/2312.16634v1)|null|
-|**2023-12-20 01:43:55**|**DGCLUSTER: A Neural Framework for Attributed Graph Clustering via   Modularity Maximization**|Aritra Bhowmick et.al.|[2312.12697v1](http://arxiv.org/abs/2312.12697v1)|[link](https://github.com/pyrobits/dgcluster)|
-|**2023-12-15 17:01:35**|**Peer Learning: Learning Complex Policies in Groups from Scratch via   Action Recommendations**|Cedric Derstroff et.al.|[2312.09950v1](http://arxiv.org/abs/2312.09950v1)|[link](https://github.com/kramerlab/peerlearning)|
