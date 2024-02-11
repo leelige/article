@@ -14,7 +14,7 @@
 |**2024-02-07 22:10:36**|**Graph Neural Networks as Fast and High-fidelity Emulators for   Finite-Element Ice Sheet Modeling**|Maryam Rahnemoonfar et.al.|[2402.05291v1](http://arxiv.org/abs/2402.05291v1)|null|
 |**2024-02-07 22:09:46**|**Do Transformer World Models Give Better Policy Gradients?**|Michel Ma et.al.|[2402.05290v1](http://arxiv.org/abs/2402.05290v1)|null|
 |**2024-02-07 17:23:15**|**PAC Learnability under Explanation-Preserving Graph Perturbations**|Xu Zheng et.al.|[2402.05039v1](http://arxiv.org/abs/2402.05039v1)|null|
-|**2024-02-07 16:32:02**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding   Window Matching**|Yuchen Zhang et.al.|[2402.05011v1](http://arxiv.org/abs/2402.05011v1)|[link](https://github.com/NUS-HPC-AI-Lab/GEOM)|
+|**2024-02-07 16:32:02**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding   Window Matching**|Yuchen Zhang et.al.|[2402.05011v1](http://arxiv.org/abs/2402.05011v1)|[link](https://github.com/nus-hpc-ai-lab/geom)|
 |**2024-02-07 14:41:17**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915v1](http://arxiv.org/abs/2402.04915v1)|[link](https://github.com/timd3/moco)|
 |**2024-02-07 13:32:53**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836v1](http://arxiv.org/abs/2402.04836v1)|null|
 |**2024-02-07 13:21:41**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821v1](http://arxiv.org/abs/2402.04821v1)|[link](https://github.com/hysonlab/equimesh)|
@@ -22,7 +22,7 @@
 |**2024-02-07 07:09:15**|**Feature Distribution on Graph Topology Mediates the Effect of Graph   Convolution: Homophily Perspective**|Soo Yong Lee et.al.|[2402.04621v1](http://arxiv.org/abs/2402.04621v1)|null|
 |**2024-02-07 01:48:29**|**A Deep Reinforcement Learning Approach for Adaptive Traffic Routing in   Next-gen Networks**|Akshita Abrol et.al.|[2402.04515v1](http://arxiv.org/abs/2402.04515v1)|null|
 |**2024-02-06 22:13:49**|**PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep   Intellectual Property Protection**|Enyan Dai et.al.|[2402.04435v1](http://arxiv.org/abs/2402.04435v1)|null|
-|**2024-02-06 19:02:33**|**Human Observation-Inspired Trajectory Prediction for Autonomous Driving   in Mixed-Autonomy Traffic Environments**|Haicheng Liao et.al.|[2402.04318v1](http://arxiv.org/abs/2402.04318v1)|null|
+|**2024-02-06 19:02:33**|**Human Observation-Inspired Trajectory Prediction for Autonomous Driving   in Mixed-Autonomy Traffic Environments**|Haicheng Liao et.al.|[2402.04318v1](http://arxiv.org/abs/2402.04318v1)|[link](https://github.com/petrichor625/gava)|
 |**2024-02-06 18:42:51**|**LIPSTICK: Corruptibility-Aware and Explainable Graph Neural   Network-based Oracle-Less Attack on Logic Locking**|Yeganeh Aghamohammadi et.al.|[2402.04235v1](http://arxiv.org/abs/2402.04235v1)|null|
 |**2024-02-06 15:05:40**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062v1](http://arxiv.org/abs/2402.04062v1)|null|
 |**2024-02-06 14:40:26**|**LightHGNN: Distilling Hypergraph Neural Networks into MLPs for   $100\times$ Faster Inference**|Yifan Feng et.al.|[2402.04296v1](http://arxiv.org/abs/2402.04296v1)|null|
