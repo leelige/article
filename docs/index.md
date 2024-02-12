@@ -1,41 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2024-02-11 16:07:21 Asia/Shanghai
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-08 18:59:30**|**Classifying Nodes in Graphs without GNNs**|Daniel Winter et.al.|[2402.05934v1](http://arxiv.org/abs/2402.05934v1)|[link](https://github.com/dani3lwinter/cohop)|
-|**2024-02-08 18:51:55**|**GenEFT: Understanding Statics and Dynamics of Model Generalization via   Effective Theory**|David D. Baek et.al.|[2402.05916v1](http://arxiv.org/abs/2402.05916v1)|null|
-|**2024-02-08 18:33:21**|**Large Language Model Meets Graph Neural Network in Knowledge   Distillation**|Shengxiang Hu et.al.|[2402.05894v1](http://arxiv.org/abs/2402.05894v1)|null|
-|**2024-02-08 18:23:05**|**EUGENE: Explainable Unsupervised Approximation of Graph Edit Distance**|Aditya Bommakanti et.al.|[2402.05885v1](http://arxiv.org/abs/2402.05885v1)|null|
-|**2024-02-08 13:24:57**|**Rethinking Propagation for Unsupervised Graph Domain Adaptation**|Meihan Liu et.al.|[2402.05660v1](http://arxiv.org/abs/2402.05660v1)|[link](https://github.com/meihan-liu/24aaai-a2gnn)|
-|**2024-02-08 12:45:50**|**LCAONet: Message-passing with physically optimized atomic basis   functions**|Kento Nishio et.al.|[2402.05634v1](http://arxiv.org/abs/2402.05634v1)|null|
-|**2024-02-08 11:10:39**|**Hypergraph Node Classification With Graph Neural Networks**|Bohan Tang et.al.|[2402.05569v1](http://arxiv.org/abs/2402.05569v1)|null|
-|**2024-02-08 04:16:35**|**TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph   Representation Learning**|Gangda Deng et.al.|[2402.05396v1](http://arxiv.org/abs/2402.05396v1)|null|
-|**2024-02-08 03:22:12**|**Graph Neural Networks for Physical-Layer Security in Multi-User   Flexible-Duplex Networks**|Tharaka Perera et.al.|[2402.05378v1](http://arxiv.org/abs/2402.05378v1)|null|
-|**2024-02-07 22:10:36**|**Graph Neural Networks as Fast and High-fidelity Emulators for   Finite-Element Ice Sheet Modeling**|Maryam Rahnemoonfar et.al.|[2402.05291v1](http://arxiv.org/abs/2402.05291v1)|null|
-|**2024-02-07 22:09:46**|**Do Transformer World Models Give Better Policy Gradients?**|Michel Ma et.al.|[2402.05290v1](http://arxiv.org/abs/2402.05290v1)|null|
-|**2024-02-07 17:23:15**|**PAC Learnability under Explanation-Preserving Graph Perturbations**|Xu Zheng et.al.|[2402.05039v1](http://arxiv.org/abs/2402.05039v1)|null|
-|**2024-02-07 16:32:02**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding   Window Matching**|Yuchen Zhang et.al.|[2402.05011v1](http://arxiv.org/abs/2402.05011v1)|[link](https://github.com/nus-hpc-ai-lab/geom)|
-|**2024-02-07 14:41:17**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915v1](http://arxiv.org/abs/2402.04915v1)|[link](https://github.com/timd3/moco)|
-|**2024-02-07 13:32:53**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836v1](http://arxiv.org/abs/2402.04836v1)|null|
-|**2024-02-07 13:21:41**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821v1](http://arxiv.org/abs/2402.04821v1)|[link](https://github.com/hysonlab/equimesh)|
-|**2024-02-07 09:57:39**|**Incorporating Retrieval-based Causal Learning with Information   Bottlenecks for Interpretable Graph Neural Networks**|Jiahua Rao et.al.|[2402.04710v1](http://arxiv.org/abs/2402.04710v1)|null|
-|**2024-02-07 07:09:15**|**Feature Distribution on Graph Topology Mediates the Effect of Graph   Convolution: Homophily Perspective**|Soo Yong Lee et.al.|[2402.04621v1](http://arxiv.org/abs/2402.04621v1)|null|
-|**2024-02-07 01:48:29**|**A Deep Reinforcement Learning Approach for Adaptive Traffic Routing in   Next-gen Networks**|Akshita Abrol et.al.|[2402.04515v1](http://arxiv.org/abs/2402.04515v1)|null|
-|**2024-02-06 22:13:49**|**PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep   Intellectual Property Protection**|Enyan Dai et.al.|[2402.04435v1](http://arxiv.org/abs/2402.04435v1)|null|
-|**2024-02-06 19:02:33**|**Human Observation-Inspired Trajectory Prediction for Autonomous Driving   in Mixed-Autonomy Traffic Environments**|Haicheng Liao et.al.|[2402.04318v1](http://arxiv.org/abs/2402.04318v1)|[link](https://github.com/petrichor625/gava)|
-|**2024-02-06 18:42:51**|**LIPSTICK: Corruptibility-Aware and Explainable Graph Neural   Network-based Oracle-Less Attack on Logic Locking**|Yeganeh Aghamohammadi et.al.|[2402.04235v1](http://arxiv.org/abs/2402.04235v1)|null|
-|**2024-02-06 15:05:40**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062v1](http://arxiv.org/abs/2402.04062v1)|null|
-|**2024-02-06 14:40:26**|**LightHGNN: Distilling Hypergraph Neural Networks into MLPs for   $100\times$ Faster Inference**|Yifan Feng et.al.|[2402.04296v1](http://arxiv.org/abs/2402.04296v1)|null|
-|**2024-02-06 14:34:17**|**PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural   Network**|Tan Sun et.al.|[2402.04038v1](http://arxiv.org/abs/2402.04038v1)|null|
-|**2024-02-06 14:26:22**|**On provable privacy vulnerabilities of graph representations**|Ruofan Wu et.al.|[2402.04033v1](http://arxiv.org/abs/2402.04033v1)|null|
-|**2024-02-06 12:56:55**|**On dimensionality of feature vectors in MPNNs**|César Bravo et.al.|[2402.03966v1](http://arxiv.org/abs/2402.03966v1)|null|
-|**2024-02-06 11:38:23**|**Dynastic Potential Crossover Operator**|Francisco Chicano et.al.|[2402.03918v1](http://arxiv.org/abs/2402.03918v1)|[link](https://github.com/jfrchicanog/efficienthillclimbers)|
-|**2024-02-06 11:23:33**|**Embedding Knowledge Graphs in Degenerate Clifford Algebras**|Louis Mozart Kamdem et.al.|[2402.04870v1](http://arxiv.org/abs/2402.04870v1)|null|
-|**2024-02-06 10:32:39**|**Geometric quantum machine learning of BQP$^A$ protocols and latent graph   classifiers**|Chukwudubem Umeano et.al.|[2402.03871v1](http://arxiv.org/abs/2402.03871v1)|null|
+ 自动更新 @ 2024-02-12 16:08:55 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -93,7 +57,7 @@
 |**2024-01-24 16:23:14**|**A Cost-Sensitive Meta-Learning Strategy for Fair Provider Exposure in   Recommendation**|Ludovico Boratto et.al.|[2401.13566v1](http://arxiv.org/abs/2401.13566v1)|[link](https://github.com/alessandraperniciano/meta-learning-strategy-fair-provider-exposure)|
 |**2024-01-22 21:41:26**|**SubgroupTE: Advancing Treatment Effect Estimation with Subgroup   Identification**|Seungyeon Lee et.al.|[2401.12369v1](http://arxiv.org/abs/2401.12369v1)|[link](https://github.com/yeon-lab/subgroupte)|
 |**2024-01-19 21:16:41**|**PressProtect: Helping Journalists Navigate Social Media in the Face of   Online Harassment**|Catherine Han et.al.|[2401.11032v1](http://arxiv.org/abs/2401.11032v1)|null|
-|**2024-01-19 17:03:37**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve   Health Outcomes**|Jodi Chiam et.al.|[2401.10816v1](http://arxiv.org/abs/2401.10816v1)|null|
+|**2024-01-19 17:03:37**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve   Health Outcomes**|Jodi Chiam et.al.|[2401.10816v2](http://arxiv.org/abs/2401.10816v2)|null|
 |**2024-01-18 17:45:25**|**Methodology to assess prosumer participation in European electricity   markets**|Rubén Rodríguez-Vilches et.al.|[2401.10696v1](http://arxiv.org/abs/2401.10696v1)|null|
 |**2024-01-18 17:06:16**|**Wallets' explorations across non-fungible token collections**|Seonbin Jo et.al.|[2401.10138v1](http://arxiv.org/abs/2401.10138v1)|null|
 |**2024-01-17 08:01:18**|**UOEP: User-Oriented Exploration Policy for Enhancing Long-Term User   Experiences in Recommender Systems**|Changshuo Zhang et.al.|[2401.09034v1](http://arxiv.org/abs/2401.09034v1)|null|
@@ -108,3 +72,39 @@
 |**2023-12-30 23:56:35**|**EXPLORE -- Explainable Song Recommendation**|Abhinav Arun et.al.|[2401.00353v1](http://arxiv.org/abs/2401.00353v1)|null|
 |**2023-12-29 02:32:12**|**Break Out of a Pigeonhole: A Unified Framework for Examining   Miscalibration, Bias, and Stereotype in Recommender Systems**|Yongsu Ahn et.al.|[2312.17443v1](http://arxiv.org/abs/2312.17443v1)|null|
 |**2023-12-28 15:34:54**|**An Adaptive Framework of Geographical Group-Specific Network on O2O   Recommendation**|Luo Ji et.al.|[2312.17072v1](http://arxiv.org/abs/2312.17072v1)|null|
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-09 17:07:31**|**Deceptive Path Planning via Reinforcement Learning with Graph Neural   Networks**|Michael Y. Fatemi et.al.|[2402.06552v1](http://arxiv.org/abs/2402.06552v1)|[link](https://github.com/myfatemi04/rl-deceptive-graph-planning)|
+|**2024-02-09 16:37:08**|**Flexible infinite-width graph convolutional networks and the importance   of representation learning**|Ben Anson et.al.|[2402.06525v1](http://arxiv.org/abs/2402.06525v1)|null|
+|**2024-02-09 14:46:50**|**The Deep Equilibrium Algorithmic Reasoner**|Dobrik Georgiev et.al.|[2402.06445v1](http://arxiv.org/abs/2402.06445v1)|null|
+|**2024-02-09 09:40:12**|**Neural SPH: Improved Neural Modeling of Lagrangian Fluid Dynamics**|Artur P. Toshev et.al.|[2402.06275v1](http://arxiv.org/abs/2402.06275v1)|[link](https://github.com/tumaer/neuralsph)|
+|**2024-02-09 07:23:27**|**N-1 Reduced Optimal Power Flow Using Augmented Hierarchical Graph Neural   Network**|Thuan Pham et.al.|[2402.06226v1](http://arxiv.org/abs/2402.06226v1)|null|
+|**2024-02-09 01:19:47**|**Rethinking Node-wise Propagation for Large-scale Graph Learning**|Xunkai Li et.al.|[2402.06128v1](http://arxiv.org/abs/2402.06128v1)|[link](https://github.com/xkli-allen/atp)|
+|**2024-02-08 23:12:02**|**TWIG: Towards pre-hoc Hyperparameter Optimisation and Cross-Graph   Generalisation via Simulated KGE Models**|Jeffrey Sardina et.al.|[2402.06097v1](http://arxiv.org/abs/2402.06097v1)|null|
+|**2024-02-08 20:23:21**|**Deep Learning for Data-Driven Districting-and-Routing**|Arthur Ferraz et.al.|[2402.06040v1](http://arxiv.org/abs/2402.06040v1)|null|
+|**2024-02-08 20:07:43**|**Game-theoretic Counterfactual Explanation for Graph Neural Networks**|Chirag Chhablani et.al.|[2402.06030v1](http://arxiv.org/abs/2402.06030v1)|null|
+|**2024-02-08 18:59:30**|**Classifying Nodes in Graphs without GNNs**|Daniel Winter et.al.|[2402.05934v1](http://arxiv.org/abs/2402.05934v1)|[link](https://github.com/dani3lwinter/cohop)|
+|**2024-02-08 18:51:55**|**GenEFT: Understanding Statics and Dynamics of Model Generalization via   Effective Theory**|David D. Baek et.al.|[2402.05916v1](http://arxiv.org/abs/2402.05916v1)|null|
+|**2024-02-08 18:33:21**|**Large Language Model Meets Graph Neural Network in Knowledge   Distillation**|Shengxiang Hu et.al.|[2402.05894v2](http://arxiv.org/abs/2402.05894v2)|null|
+|**2024-02-08 18:23:05**|**EUGENE: Explainable Unsupervised Approximation of Graph Edit Distance**|Aditya Bommakanti et.al.|[2402.05885v1](http://arxiv.org/abs/2402.05885v1)|null|
+|**2024-02-08 13:24:57**|**Rethinking Propagation for Unsupervised Graph Domain Adaptation**|Meihan Liu et.al.|[2402.05660v1](http://arxiv.org/abs/2402.05660v1)|[link](https://github.com/meihan-liu/24aaai-a2gnn)|
+|**2024-02-08 13:02:05**|**Anfinsen Goes Neural: a Graphical Model for Conditional Antibody Design**|Nayoung Kim et.al.|[2402.05982v1](http://arxiv.org/abs/2402.05982v1)|[link](https://github.com/lkny123/agn)|
+|**2024-02-08 12:45:50**|**LCAONet: Message-passing with physically optimized atomic basis   functions**|Kento Nishio et.al.|[2402.05634v1](http://arxiv.org/abs/2402.05634v1)|null|
+|**2024-02-08 11:10:39**|**Hypergraph Node Classification With Graph Neural Networks**|Bohan Tang et.al.|[2402.05569v1](http://arxiv.org/abs/2402.05569v1)|null|
+|**2024-02-08 04:16:35**|**TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph   Representation Learning**|Gangda Deng et.al.|[2402.05396v1](http://arxiv.org/abs/2402.05396v1)|null|
+|**2024-02-08 03:22:12**|**Graph Neural Networks for Physical-Layer Security in Multi-User   Flexible-Duplex Networks**|Tharaka Perera et.al.|[2402.05378v1](http://arxiv.org/abs/2402.05378v1)|null|
+|**2024-02-07 22:10:36**|**Graph Neural Networks as Fast and High-fidelity Emulators for   Finite-Element Ice Sheet Modeling**|Maryam Rahnemoonfar et.al.|[2402.05291v1](http://arxiv.org/abs/2402.05291v1)|null|
+|**2024-02-07 22:09:46**|**Do Transformer World Models Give Better Policy Gradients?**|Michel Ma et.al.|[2402.05290v1](http://arxiv.org/abs/2402.05290v1)|null|
+|**2024-02-07 17:23:15**|**PAC Learnability under Explanation-Preserving Graph Perturbations**|Xu Zheng et.al.|[2402.05039v1](http://arxiv.org/abs/2402.05039v1)|null|
+|**2024-02-07 16:32:02**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding   Window Matching**|Yuchen Zhang et.al.|[2402.05011v1](http://arxiv.org/abs/2402.05011v1)|[link](https://github.com/nus-hpc-ai-lab/geom)|
+|**2024-02-07 14:41:17**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915v2](http://arxiv.org/abs/2402.04915v2)|[link](https://github.com/timd3/moco)|
+|**2024-02-07 13:32:53**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836v1](http://arxiv.org/abs/2402.04836v1)|null|
+|**2024-02-07 13:21:41**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821v1](http://arxiv.org/abs/2402.04821v1)|[link](https://github.com/hysonlab/equimesh)|
+|**2024-02-07 09:57:39**|**Incorporating Retrieval-based Causal Learning with Information   Bottlenecks for Interpretable Graph Neural Networks**|Jiahua Rao et.al.|[2402.04710v1](http://arxiv.org/abs/2402.04710v1)|null|
+|**2024-02-07 07:09:15**|**Feature Distribution on Graph Topology Mediates the Effect of Graph   Convolution: Homophily Perspective**|Soo Yong Lee et.al.|[2402.04621v1](http://arxiv.org/abs/2402.04621v1)|null|
+|**2024-02-07 01:48:29**|**A Deep Reinforcement Learning Approach for Adaptive Traffic Routing in   Next-gen Networks**|Akshita Abrol et.al.|[2402.04515v1](http://arxiv.org/abs/2402.04515v1)|null|
+|**2024-02-06 22:13:49**|**PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep   Intellectual Property Protection**|Enyan Dai et.al.|[2402.04435v1](http://arxiv.org/abs/2402.04435v1)|null|
