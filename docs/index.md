@@ -1,5 +1,41 @@
 # arxiv-daily
- 自动更新 @ 2024-02-13 16:09:13 Asia/Shanghai
+ 自动更新 @ 2024-02-14 16:08:35 Asia/Shanghai
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-13 18:58:17**|**Graph Mamba: Towards Learning on Graphs with State Space Models**|Ali Behrouz et.al.|[2402.08678v1](http://arxiv.org/abs/2402.08678v1)|[link](https://github.com/graphmamba/gmn)|
+|**2024-02-13 18:33:45**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v1](http://arxiv.org/abs/2402.08653v1)|null|
+|**2024-02-13 16:57:06**|**Homomorphism Counts for Graph Neural Networks: All About That Basis**|Emily Jin et.al.|[2402.08595v1](http://arxiv.org/abs/2402.08595v1)|null|
+|**2024-02-13 16:53:48**|**Graph Feature Preprocessor: Real-time Extraction of Subgraph-based   Features from Transaction Graphs**|Jovan Blanuša et.al.|[2402.08593v1](http://arxiv.org/abs/2402.08593v1)|null|
+|**2024-02-13 16:36:50**|**Mixture of Link Predictors**|Li Ma et.al.|[2402.08583v1](http://arxiv.org/abs/2402.08583v1)|null|
+|**2024-02-13 14:13:17**|**Revealing Decurve Flows for Generalized Graph Propagation**|Chen Lin et.al.|[2402.08480v1](http://arxiv.org/abs/2402.08480v1)|null|
+|**2024-02-13 14:00:59**|**Parallel-friendly Spatio-Temporal Graph Learning for Photovoltaic   Degradation Analysis at Scale**|Yangxin Fan et.al.|[2402.08470v1](http://arxiv.org/abs/2402.08470v1)|[link](https://github.com/yangxin666/st-gtrend)|
+|**2024-02-13 13:37:13**|**Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph   Products**|Guy Bar-Shalom et.al.|[2402.08450v1](http://arxiv.org/abs/2402.08450v1)|null|
+|**2024-02-13 12:02:37**|**LOSS-GAT: Label Propagation and One-Class Semi-Supervised Graph   Attention Network for Fake News Detection**|Batool Lakzaei et.al.|[2402.08401v1](http://arxiv.org/abs/2402.08401v1)|null|
+|**2024-02-13 10:50:54**|**NeuRes: Learning Proofs of Propositional Satisfiability**|Mohamed Ghanem et.al.|[2402.08365v1](http://arxiv.org/abs/2402.08365v1)|null|
+|**2024-02-13 08:50:14**|**Multi-Level GNN Preconditioner for Solving Large Scale Problems**|Matthieu Nastorg et.al.|[2402.08296v1](http://arxiv.org/abs/2402.08296v1)|null|
+|**2024-02-13 07:12:44**|**Modeling Balanced Explicit and Implicit Relations with Contrastive   Learning for Knowledge Concept Recommendation in MOOCs**|Hengnian Gu et.al.|[2402.08256v1](http://arxiv.org/abs/2402.08256v1)|null|
+|**2024-02-13 05:38:45**|**Investigating Out-of-Distribution Generalization of GNNs: An   Architecture Perspective**|Kai Guo et.al.|[2402.08228v1](http://arxiv.org/abs/2402.08228v1)|null|
+|**2024-02-13 03:14:32**|**Learning time-dependent PDE via graph neural networks and deep operator   network for robust accuracy on irregular grids**|Sung Woong Cho et.al.|[2402.08187v1](http://arxiv.org/abs/2402.08187v1)|null|
+|**2024-02-13 02:03:26**|**LLaGA: Large Language and Graph Assistant**|Runjin Chen et.al.|[2402.08170v1](http://arxiv.org/abs/2402.08170v1)|[link](https://github.com/chenrunjin/llaga)|
+|**2024-02-12 22:06:37**|**Message Detouring: A Simple Yet Effective Cycle Representation for   Expressive Graph Learning**|Ziquan Wei et.al.|[2402.08085v1](http://arxiv.org/abs/2402.08085v1)|null|
+|**2024-02-12 19:04:32**|**NetInfoF Framework: Measuring and Exploiting Network Usable Information**|Meng-Chieh Lee et.al.|[2402.07999v1](http://arxiv.org/abs/2402.07999v1)|null|
+|**2024-02-12 19:01:57**|**How the Galaxy-Halo Connection Depends on Large-Scale Environment**|John F. Wu et.al.|[2402.07995v1](http://arxiv.org/abs/2402.07995v1)|null|
+|**2024-02-12 17:53:43**|**An Investigation into Using Unsupervised Metrics to Optimise GNNs for   Node Clustering**|William Leeney et.al.|[2402.07845v1](http://arxiv.org/abs/2402.07845v1)|null|
+|**2024-02-12 16:52:26**|**Extensible Multi-Granularity Fusion Network for Aspect-based Sentiment   Analysis**|Xiaowei Zhao et.al.|[2402.07787v2](http://arxiv.org/abs/2402.07787v2)|[link](https://github.com/TYZY89/EMGF)|
+|**2024-02-12 15:48:58**|**Graph Structure Inference with BAM: Introducing the Bilinear Attention   Mechanism**|Philipp Froehlich et.al.|[2402.07735v2](http://arxiv.org/abs/2402.07735v2)|null|
+|**2024-02-12 13:15:08**|**Higher-order Connection Laplacians for Directed Simplicial Complexes**|Xue Gong et.al.|[2402.07631v1](http://arxiv.org/abs/2402.07631v1)|null|
+|**2024-02-12 13:13:04**|**G-Retriever: Retrieval-Augmented Generation for Textual Graph   Understanding and Question Answering**|Xiaoxin He et.al.|[2402.07630v1](http://arxiv.org/abs/2402.07630v1)|[link](https://github.com/xiaoxinhe/g-retriever)|
+|**2024-02-12 11:03:52**|**Weisfeiler-Leman at the margin: When more expressivity matters**|Billy J. Franks et.al.|[2402.07568v1](http://arxiv.org/abs/2402.07568v1)|null|
+|**2024-02-12 09:05:01**|**Understanding Deep Learning defenses Against Adversarial Examples   Through Visualizations for Dynamic Risk Assessment**|Xabier Echeberria-Barrio et.al.|[2402.07496v1](http://arxiv.org/abs/2402.07496v1)|null|
+|**2024-02-12 08:39:40**|**Topological safeguard for evasion attack interpreting the neural   networks' behavior**|Xabier Echeberria-Barrio et.al.|[2402.07480v2](http://arxiv.org/abs/2402.07480v2)|null|
+|**2024-02-12 00:18:25**|**Random Geometric Graph Alignment with Graph Neural Networks**|Suqi Liu et.al.|[2402.07340v1](http://arxiv.org/abs/2402.07340v1)|null|
+|**2024-02-11 19:14:28**|**Power Transformer Fault Prediction Based on Knowledge Graphs**|Chao Wang et.al.|[2402.07283v1](http://arxiv.org/abs/2402.07283v1)|null|
+|**2024-02-11 18:23:54**|**Highly Accurate Disease Diagnosis and Highly Reproducible Biomarker   Identification with PathFormer**|Zehao Dong et.al.|[2402.07268v1](http://arxiv.org/abs/2402.07268v1)|null|
+|**2024-02-11 11:24:09**|**Large-Language-Model Empowered Dose Volume Histogram Prediction for   Intensity Modulated Radiotherapy**|Zehao Dong et.al.|[2402.07167v1](http://arxiv.org/abs/2402.07167v1)|null|
 
 ## Group Recommendation
 
@@ -42,6 +78,8 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-13 11:02:12**|**Helping university students to choose elective courses by using a hybrid   multi-criteria recommendation system with genetic optimization**|A. Esteban et.al.|[2402.08371v1](http://arxiv.org/abs/2402.08371v1)|null|
+|**2024-02-13 07:12:44**|**Modeling Balanced Explicit and Implicit Relations with Contrastive   Learning for Knowledge Concept Recommendation in MOOCs**|Hengnian Gu et.al.|[2402.08256v1](http://arxiv.org/abs/2402.08256v1)|null|
 |**2024-02-05 09:53:08**|**Trinity: Syncretizing Multi-/Long-tail/Long-term Interests All in One**|Jing Yan et.al.|[2402.02842v1](http://arxiv.org/abs/2402.02842v1)|null|
 |**2024-02-02 09:20:48**|**RimiRec: Modeling Refined Multi-interest in Hierarchical Structure for   Recommendation**|Haolei Pei et.al.|[2402.01253v3](http://arxiv.org/abs/2402.01253v3)|null|
 |**2024-01-31 14:06:26**|**Uncertainty-Aware Explainable Recommendation with Large Language Models**|Yicui Peng et.al.|[2402.03366v1](http://arxiv.org/abs/2402.03366v1)|null|
@@ -70,41 +108,3 @@
 |**2023-10-02 02:53:49**|**Multi-Label Residual Weighted Learning for Individualized Combination   Treatment Rule**|Qi Xu et.al.|[2310.00864v2](http://arxiv.org/abs/2310.00864v2)|null|
 |**2023-09-29 07:52:47**|**Beyond Co-occurrence: Multi-modal Session-based Recommendation**|Xiaokun Zhang et.al.|[2309.17037v1](http://arxiv.org/abs/2309.17037v1)|[link](https://github.com/zhang-xiaokun/mmsbr)|
 |**2023-09-28 10:29:51**|**Multi-Granularity Click Confidence Learning via Self-Distillation in   Recommendation**|Chong Liu et.al.|[2309.16322v1](http://arxiv.org/abs/2309.16322v1)|null|
-|**2023-09-28 09:59:48**|**TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent   Reinforcement Learning**|Qirui Mi et.al.|[2309.16307v1](http://arxiv.org/abs/2309.16307v1)|[link](https://github.com/jidiai/taxai)|
-|**2023-09-21 12:39:36**|**Demystifying Visual Features of Movie Posters for Multi-Label Genre   Identification**|Utsav Kumar Nareti et.al.|[2309.12022v1](http://arxiv.org/abs/2309.12022v1)|null|
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-12 17:53:43**|**An Investigation into Using Unsupervised Metrics to Optimise GNNs for   Node Clustering**|William Leeney et.al.|[2402.07845v1](http://arxiv.org/abs/2402.07845v1)|null|
-|**2024-02-12 16:52:26**|**Extensible Multi-Granularity Fusion Network for Aspect-based Sentiment   Analysis**|Xiaowei Zhao et.al.|[2402.07787v1](http://arxiv.org/abs/2402.07787v1)|null|
-|**2024-02-12 15:48:58**|**Graph Structure Inference with BAM: Introducing the Bilinear Attention   Mechanism**|Philipp Froehlich et.al.|[2402.07735v1](http://arxiv.org/abs/2402.07735v1)|null|
-|**2024-02-12 13:15:08**|**Higher-order Connection Laplacians for Directed Simplicial Complexes**|Xue Gong et.al.|[2402.07631v1](http://arxiv.org/abs/2402.07631v1)|null|
-|**2024-02-12 13:13:04**|**G-Retriever: Retrieval-Augmented Generation for Textual Graph   Understanding and Question Answering**|Xiaoxin He et.al.|[2402.07630v1](http://arxiv.org/abs/2402.07630v1)|[link](https://github.com/xiaoxinhe/g-retriever)|
-|**2024-02-12 11:03:52**|**Weisfeiler-Leman at the margin: When more expressivity matters**|Billy J. Franks et.al.|[2402.07568v1](http://arxiv.org/abs/2402.07568v1)|null|
-|**2024-02-12 09:05:01**|**Understanding Deep Learning defenses Against Adversarial Examples   Through Visualizations for Dynamic Risk Assessment**|Xabier Echeberria-Barrio et.al.|[2402.07496v1](http://arxiv.org/abs/2402.07496v1)|null|
-|**2024-02-12 08:39:40**|**Topological Safeguard for Evasion Attack based on the Interpretability   of Artificial Neural Network Behavior**|Xabier Echeberria-Barrio et.al.|[2402.07480v1](http://arxiv.org/abs/2402.07480v1)|null|
-|**2024-02-12 00:18:25**|**Random Geometric Graph Alignment with Graph Neural Networks**|Suqi Liu et.al.|[2402.07340v1](http://arxiv.org/abs/2402.07340v1)|null|
-|**2024-02-11 19:14:28**|**Power Transformer Fault Prediction Based on Knowledge Graphs**|Chao Wang et.al.|[2402.07283v1](http://arxiv.org/abs/2402.07283v1)|null|
-|**2024-02-11 18:23:54**|**Highly Accurate Disease Diagnosis and Highly Reproducible Biomarker   Identification with PathFormer**|Zehao Dong et.al.|[2402.07268v1](http://arxiv.org/abs/2402.07268v1)|null|
-|**2024-02-11 11:24:09**|**Large-Language-Model Empowered Dose Volume Histogram Prediction for   Intensity Modulated Radiotherapy**|Zehao Dong et.al.|[2402.07167v1](http://arxiv.org/abs/2402.07167v1)|null|
-|**2024-02-11 10:44:41**|**Explainable Global Wildfire Prediction Models using Graph Neural   Networks**|Dayou Chen et.al.|[2402.07152v1](http://arxiv.org/abs/2402.07152v1)|[link](https://github.com/dl-wg/gcn-lstm-wildfire)|
-|**2024-02-11 10:23:34**|**X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for   Large Language Models with Applications in Protein Mechanics and Design**|Eric L. Buehler et.al.|[2402.07148v1](http://arxiv.org/abs/2402.07148v1)|[link](https://github.com/ericlbuehler/xlora)|
-|**2024-02-11 04:09:50**|**Rethinking the Capacity of Graph Neural Networks for Branching Strategy**|Ziang Chen et.al.|[2402.07099v1](http://arxiv.org/abs/2402.07099v1)|null|
-|**2024-02-10 19:12:31**|**Generalization Error of Graph Neural Networks in the Mean-field Regime**|Gholamali Aminian et.al.|[2402.07025v1](http://arxiv.org/abs/2402.07025v1)|null|
-|**2024-02-10 12:10:13**|**Learning Attributed Graphlets: Predictive Graph Mining by Graphlets with   Trainable Attribute**|Tajima Shinji et.al.|[2402.06932v1](http://arxiv.org/abs/2402.06932v1)|null|
-|**2024-02-10 12:05:52**|**ORIENT: A Priority-Aware Energy-Efficient Approach for Latency-Sensitive   Applications in 6G**|Masoud Shokrnezhad et.al.|[2402.06931v1](http://arxiv.org/abs/2402.06931v1)|null|
-|**2024-02-10 08:26:06**|**Topological Neural Networks: Mitigating the Bottlenecks of Graph Neural   Networks via Higher-Order Interactions**|Lorenzo Giusti et.al.|[2402.06908v1](http://arxiv.org/abs/2402.06908v1)|null|
-|**2024-02-09 17:07:31**|**Deceptive Path Planning via Reinforcement Learning with Graph Neural   Networks**|Michael Y. Fatemi et.al.|[2402.06552v1](http://arxiv.org/abs/2402.06552v1)|[link](https://github.com/myfatemi04/rl-deceptive-graph-planning)|
-|**2024-02-09 17:02:41**|**Dynamic Graph Information Bottleneck**|Haonan Yuan et.al.|[2402.06716v1](http://arxiv.org/abs/2402.06716v1)|[link](https://github.com/ringbdstack/dgib)|
-|**2024-02-09 16:37:08**|**Flexible infinite-width graph convolutional networks and the importance   of representation learning**|Ben Anson et.al.|[2402.06525v1](http://arxiv.org/abs/2402.06525v1)|null|
-|**2024-02-09 14:46:50**|**The Deep Equilibrium Algorithmic Reasoner**|Dobrik Georgiev et.al.|[2402.06445v1](http://arxiv.org/abs/2402.06445v1)|null|
-|**2024-02-09 10:50:45**|**CoRe-GD: A Hierarchical Framework for Scalable Graph Visualization with   GNNs**|Florian Grötschla et.al.|[2402.06706v1](http://arxiv.org/abs/2402.06706v1)|null|
-|**2024-02-09 09:40:12**|**Neural SPH: Improved Neural Modeling of Lagrangian Fluid Dynamics**|Artur P. Toshev et.al.|[2402.06275v1](http://arxiv.org/abs/2402.06275v1)|[link](https://github.com/tumaer/neuralsph)|
-|**2024-02-09 07:23:27**|**N-1 Reduced Optimal Power Flow Using Augmented Hierarchical Graph Neural   Network**|Thuan Pham et.al.|[2402.06226v1](http://arxiv.org/abs/2402.06226v1)|null|
-|**2024-02-09 01:19:47**|**Rethinking Node-wise Propagation for Large-scale Graph Learning**|Xunkai Li et.al.|[2402.06128v1](http://arxiv.org/abs/2402.06128v1)|[link](https://github.com/xkli-allen/atp)|
-|**2024-02-08 23:12:02**|**TWIG: Towards pre-hoc Hyperparameter Optimisation and Cross-Graph   Generalisation via Simulated KGE Models**|Jeffrey Sardina et.al.|[2402.06097v1](http://arxiv.org/abs/2402.06097v1)|null|
-|**2024-02-08 20:23:21**|**Deep Learning for Data-Driven Districting-and-Routing**|Arthur Ferraz et.al.|[2402.06040v1](http://arxiv.org/abs/2402.06040v1)|null|
-|**2024-02-08 20:07:43**|**Game-theoretic Counterfactual Explanation for Graph Neural Networks**|Chirag Chhablani et.al.|[2402.06030v1](http://arxiv.org/abs/2402.06030v1)|null|
