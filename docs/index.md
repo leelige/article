@@ -1,15 +1,16 @@
 # arxiv-daily
- 自动更新 @ 2024-02-15 16:08:19 Asia/Shanghai
+ 自动更新 @ 2024-02-16 16:08:29 Asia/Shanghai
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-15 14:04:17**|**Ad interim recommendations for the Higgs boson production cross sections   at $\sqrt{s} = 13.6$ TeV**|Alexander Karlberg et.al.|[2402.09955v1](http://arxiv.org/abs/2402.09955v1)|null|
 |**2024-02-06 14:26:22**|**HEAM : Hashed Embedding Acceleration using Processing-In-Memory**|Youngsuk Kim et.al.|[2402.04032v1](http://arxiv.org/abs/2402.04032v1)|null|
 |**2024-02-06 00:20:49**|**Understanding and Counteracting Feature-Level Bias in Click-Through Rate   Prediction**|Jinqiu Jin et.al.|[2402.03600v1](http://arxiv.org/abs/2402.03600v1)|[link](https://github.com/mitao-cat/feature-level_bias)|
 |**2024-02-05 19:03:23**|**Recommendation Fairness in Social Networks Over Time**|Meng Cao et.al.|[2402.03450v1](http://arxiv.org/abs/2402.03450v1)|null|
-|**2024-02-05 08:56:24**|**Intersectional Two-sided Fairness in Recommendation**|Yifan Wang et.al.|[2402.02816v1](http://arxiv.org/abs/2402.02816v1)|null|
+|**2024-02-05 08:56:24**|**Intersectional Two-sided Fairness in Recommendation**|Yifan Wang et.al.|[2402.02816v2](http://arxiv.org/abs/2402.02816v2)|null|
 |**2024-02-01 16:45:31**|**To tweak or not to tweak. How exploiting flexibilities in gene set   analysis leads to over-optimism**|Milena Wünsch et.al.|[2402.00754v1](http://arxiv.org/abs/2402.00754v1)|null|
 |**2024-02-01 10:49:31**|**Proton Pencil-Beam Scanning Stereotactic Body Radiation Therapy and   Hypofractionated Radiation Therapy for Thoracic Malignancies: Patterns of   Practice Survey and Recommendations for Future Development from NRG Oncology   and PTCOG**|Wei Liu et.al.|[2402.00489v1](http://arxiv.org/abs/2402.00489v1)|null|
 |**2024-02-01 10:42:05**|**A Personalized Framework for Consumer and Producer Group Fairness   Optimization in Recommender Systems**|Hossein A. Rahmani et.al.|[2402.00485v1](http://arxiv.org/abs/2402.00485v1)|null|
@@ -35,43 +36,6 @@
 |**2023-12-31 10:55:26**|**Teaching Digital Accessibility to Industry Professionals using the   Community of Practice Framework: An Experience Report**|Parthasarathy PD et.al.|[2401.00449v1](http://arxiv.org/abs/2401.00449v1)|null|
 |**2023-12-30 23:56:35**|**EXPLORE -- Explainable Song Recommendation**|Abhinav Arun et.al.|[2401.00353v1](http://arxiv.org/abs/2401.00353v1)|null|
 |**2023-12-29 02:32:12**|**Break Out of a Pigeonhole: A Unified Framework for Examining   Miscalibration, Bias, and Stereotype in Recommender Systems**|Yongsu Ahn et.al.|[2312.17443v1](http://arxiv.org/abs/2312.17443v1)|null|
-|**2023-12-28 15:34:54**|**An Adaptive Framework of Geographical Group-Specific Network on O2O   Recommendation**|Luo Ji et.al.|[2312.17072v1](http://arxiv.org/abs/2312.17072v1)|null|
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-14 18:26:58**|**GraSSRep: Graph-Based Self-Supervised Learning for Repeat Detection in   Metagenomic Assembly**|Ali Azizpour et.al.|[2402.09381v1](http://arxiv.org/abs/2402.09381v1)|[link](https://github.com/aliaaz99/grassrep)|
-|**2024-02-14 18:26:58**|**Safe Distributed Control of Multi-Robot Systems with Communication   Delays**|Luca Ballotta et.al.|[2402.09382v1](http://arxiv.org/abs/2402.09382v1)|null|
-|**2024-02-14 16:49:13**|**Embracing the black box: Heading towards foundation models for causal   discovery from time series data**|Gideon Stein et.al.|[2402.09305v1](http://arxiv.org/abs/2402.09305v1)|null|
-|**2024-02-14 15:51:01**|**Uncertainty-Aware Transient Stability-Constrained Preventive Redispatch:   A Distributional Reinforcement Learning Approach**|Zhengcheng Wang et.al.|[2402.09263v1](http://arxiv.org/abs/2402.09263v1)|null|
-|**2024-02-14 15:27:53**|**Robust Training of Temporal GNNs using Nearest Neighbours based Hard   Negatives**|Shubham Gupta et.al.|[2402.09239v1](http://arxiv.org/abs/2402.09239v1)|null|
-|**2024-02-14 15:22:59**|**Multi-Hierarchical Surrogate Learning for Structural Dynamics of   Automotive Crashworthiness Using Graph Convolutional Neural Networks**|Jonas Kneifl et.al.|[2402.09234v1](http://arxiv.org/abs/2402.09234v1)|null|
-|**2024-02-14 10:40:09**|**DisGNet: A Distance Graph Neural Network for Forward Kinematics Learning   of Gough-Stewart Platform**|Huizhi Zhu et.al.|[2402.09077v1](http://arxiv.org/abs/2402.09077v1)|[link](https://github.com/FLAMEZZ5201/DisGNet)|
-|**2024-02-14 03:16:13**|**Graph Inference Acceleration by Learning MLPs on Graphs without   Supervision**|Zehong Wang et.al.|[2402.08918v1](http://arxiv.org/abs/2402.08918v1)|[link](https://github.com/zehong-wang/simmlp)|
-|**2024-02-14 00:16:50**|**Multiscale graph neural networks with adaptive mesh refinement for   accelerating mesh-based simulations**|Roberto Perera et.al.|[2402.08863v1](http://arxiv.org/abs/2402.08863v1)|null|
-|**2024-02-13 22:07:57**|**Disambiguated Node Classification with Graph Neural Networks**|Tianxiang Zhao et.al.|[2402.08824v1](http://arxiv.org/abs/2402.08824v1)|[link](https://github.com/tianxiangzhao/disambiguatedgnn)|
-|**2024-02-13 18:58:17**|**Graph Mamba: Towards Learning on Graphs with State Space Models**|Ali Behrouz et.al.|[2402.08678v1](http://arxiv.org/abs/2402.08678v1)|[link](https://github.com/graphmamba/gmn)|
-|**2024-02-13 18:33:45**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v1](http://arxiv.org/abs/2402.08653v1)|null|
-|**2024-02-13 16:57:06**|**Homomorphism Counts for Graph Neural Networks: All About That Basis**|Emily Jin et.al.|[2402.08595v1](http://arxiv.org/abs/2402.08595v1)|null|
-|**2024-02-13 16:53:48**|**Graph Feature Preprocessor: Real-time Extraction of Subgraph-based   Features from Transaction Graphs**|Jovan Blanuša et.al.|[2402.08593v1](http://arxiv.org/abs/2402.08593v1)|null|
-|**2024-02-13 16:36:50**|**Mixture of Link Predictors**|Li Ma et.al.|[2402.08583v1](http://arxiv.org/abs/2402.08583v1)|null|
-|**2024-02-13 14:13:17**|**Revealing Decurve Flows for Generalized Graph Propagation**|Chen Lin et.al.|[2402.08480v1](http://arxiv.org/abs/2402.08480v1)|null|
-|**2024-02-13 14:00:59**|**Parallel-friendly Spatio-Temporal Graph Learning for Photovoltaic   Degradation Analysis at Scale**|Yangxin Fan et.al.|[2402.08470v1](http://arxiv.org/abs/2402.08470v1)|[link](https://github.com/yangxin666/st-gtrend)|
-|**2024-02-13 13:37:13**|**Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph   Products**|Guy Bar-Shalom et.al.|[2402.08450v1](http://arxiv.org/abs/2402.08450v1)|null|
-|**2024-02-13 12:02:37**|**LOSS-GAT: Label Propagation and One-Class Semi-Supervised Graph   Attention Network for Fake News Detection**|Batool Lakzaei et.al.|[2402.08401v1](http://arxiv.org/abs/2402.08401v1)|null|
-|**2024-02-13 10:50:54**|**NeuRes: Learning Proofs of Propositional Satisfiability**|Mohamed Ghanem et.al.|[2402.08365v1](http://arxiv.org/abs/2402.08365v1)|null|
-|**2024-02-13 08:50:14**|**Multi-Level GNN Preconditioner for Solving Large Scale Problems**|Matthieu Nastorg et.al.|[2402.08296v1](http://arxiv.org/abs/2402.08296v1)|null|
-|**2024-02-13 07:12:44**|**Modeling Balanced Explicit and Implicit Relations with Contrastive   Learning for Knowledge Concept Recommendation in MOOCs**|Hengnian Gu et.al.|[2402.08256v1](http://arxiv.org/abs/2402.08256v1)|null|
-|**2024-02-13 05:38:45**|**Investigating Out-of-Distribution Generalization of GNNs: An   Architecture Perspective**|Kai Guo et.al.|[2402.08228v2](http://arxiv.org/abs/2402.08228v2)|null|
-|**2024-02-13 03:14:32**|**Learning time-dependent PDE via graph neural networks and deep operator   network for robust accuracy on irregular grids**|Sung Woong Cho et.al.|[2402.08187v1](http://arxiv.org/abs/2402.08187v1)|null|
-|**2024-02-13 02:03:26**|**LLaGA: Large Language and Graph Assistant**|Runjin Chen et.al.|[2402.08170v1](http://arxiv.org/abs/2402.08170v1)|[link](https://github.com/chenrunjin/llaga)|
-|**2024-02-12 22:06:37**|**Message Detouring: A Simple Yet Effective Cycle Representation for   Expressive Graph Learning**|Ziquan Wei et.al.|[2402.08085v1](http://arxiv.org/abs/2402.08085v1)|null|
-|**2024-02-12 19:04:32**|**NetInfoF Framework: Measuring and Exploiting Network Usable Information**|Meng-Chieh Lee et.al.|[2402.07999v1](http://arxiv.org/abs/2402.07999v1)|null|
-|**2024-02-12 19:01:57**|**How the Galaxy-Halo Connection Depends on Large-Scale Environment**|John F. Wu et.al.|[2402.07995v1](http://arxiv.org/abs/2402.07995v1)|null|
-|**2024-02-12 17:53:43**|**An Investigation into Using Unsupervised Metrics to Optimise GNNs for   Node Clustering**|William Leeney et.al.|[2402.07845v1](http://arxiv.org/abs/2402.07845v1)|null|
-|**2024-02-12 16:52:26**|**Extensible Multi-Granularity Fusion Network for Aspect-based Sentiment   Analysis**|Xiaowei Zhao et.al.|[2402.07787v2](http://arxiv.org/abs/2402.07787v2)|[link](https://github.com/TYZY89/EMGF)|
 
 ## Multi Interest Recommendation
 
@@ -108,3 +72,39 @@
 |**2023-10-02 02:53:49**|**Multi-Label Residual Weighted Learning for Individualized Combination   Treatment Rule**|Qi Xu et.al.|[2310.00864v2](http://arxiv.org/abs/2310.00864v2)|null|
 |**2023-09-29 07:52:47**|**Beyond Co-occurrence: Multi-modal Session-based Recommendation**|Xiaokun Zhang et.al.|[2309.17037v1](http://arxiv.org/abs/2309.17037v1)|[link](https://github.com/zhang-xiaokun/mmsbr)|
 |**2023-09-28 10:29:51**|**Multi-Granularity Click Confidence Learning via Self-Distillation in   Recommendation**|Chong Liu et.al.|[2309.16322v1](http://arxiv.org/abs/2309.16322v1)|null|
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-15 18:58:18**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206v1](http://arxiv.org/abs/2402.10206v1)|null|
+|**2024-02-15 17:55:04**|**Reconstruction of Short-Lived Particles using Graph-Hypergraph   Representation Learning**|Callum Birch-Sykes et.al.|[2402.10149v1](http://arxiv.org/abs/2402.10149v1)|null|
+|**2024-02-15 16:37:14**|**GraphCBAL: Class-Balanced Active Learning for Graph Neural Networks via   Reinforcement Learning**|Chengcheng Yu et.al.|[2402.10074v1](http://arxiv.org/abs/2402.10074v1)|null|
+|**2024-02-15 16:34:11**|**Approximate Message Passing-Enhanced Graph Neural Network for OTFS Data   Detection**|Wenhao Zhuang et.al.|[2402.10071v1](http://arxiv.org/abs/2402.10071v1)|null|
+|**2024-02-15 15:18:53**|**Clifford Group Equivariant Simplicial Message Passing Networks**|Cong Liu et.al.|[2402.10011v1](http://arxiv.org/abs/2402.10011v1)|[link](https://github.com/congliuuva/clifford-group-equivariant-simplicial-message-passing-networks)|
+|**2024-02-15 14:16:59**|**ViGEO: an Assessment of Vision GNNs in Earth Observation**|Luca Colomba et.al.|[2402.09962v1](http://arxiv.org/abs/2402.09962v1)|[link](https://github.com/lccol/vig-eo)|
+|**2024-02-15 09:48:20**|**Utilizing GANs for Fraud Detection: Model Training with Synthetic   Transaction Data**|Mengran Zhu et.al.|[2402.09830v1](http://arxiv.org/abs/2402.09830v1)|null|
+|**2024-02-15 05:07:39**|**Node Duplication Improves Cold-start Link Prediction**|Zhichun Guo et.al.|[2402.09711v1](http://arxiv.org/abs/2402.09711v1)|null|
+|**2024-02-15 03:05:45**|**HyperMagNet: A Magnetic Laplacian based Hypergraph Neural Network**|Tatyana Benko et.al.|[2402.09676v1](http://arxiv.org/abs/2402.09676v1)|null|
+|**2024-02-15 00:23:25**|**Graph Neural Network-based Tracking as a Service**|Haoran Zhao et.al.|[2402.09633v1](http://arxiv.org/abs/2402.09633v1)|null|
+|**2024-02-14 23:12:09**|**LLM-Enhanced User-Item Interactions: Leveraging Edge Information for   Optimized Recommendations**|Xinyuan Wang et.al.|[2402.09617v1](http://arxiv.org/abs/2402.09617v1)|null|
+|**2024-02-14 22:15:37**|**Low-Rank Graph Contrastive Learning for Node Classification**|Yancheng Wang et.al.|[2402.09600v1](http://arxiv.org/abs/2402.09600v1)|null|
+|**2024-02-14 18:26:58**|**GraSSRep: Graph-Based Self-Supervised Learning for Repeat Detection in   Metagenomic Assembly**|Ali Azizpour et.al.|[2402.09381v1](http://arxiv.org/abs/2402.09381v1)|[link](https://github.com/aliaaz99/grassrep)|
+|**2024-02-14 18:26:58**|**Safe Distributed Control of Multi-Robot Systems with Communication   Delays**|Luca Ballotta et.al.|[2402.09382v1](http://arxiv.org/abs/2402.09382v1)|null|
+|**2024-02-14 16:49:13**|**Embracing the black box: Heading towards foundation models for causal   discovery from time series data**|Gideon Stein et.al.|[2402.09305v1](http://arxiv.org/abs/2402.09305v1)|null|
+|**2024-02-14 15:51:01**|**Uncertainty-Aware Transient Stability-Constrained Preventive Redispatch:   A Distributional Reinforcement Learning Approach**|Zhengcheng Wang et.al.|[2402.09263v1](http://arxiv.org/abs/2402.09263v1)|null|
+|**2024-02-14 15:27:53**|**Robust Training of Temporal GNNs using Nearest Neighbours based Hard   Negatives**|Shubham Gupta et.al.|[2402.09239v1](http://arxiv.org/abs/2402.09239v1)|null|
+|**2024-02-14 15:22:59**|**Multi-Hierarchical Surrogate Learning for Structural Dynamical Crash   Simulations Using Graph Convolutional Neural Networks**|Jonas Kneifl et.al.|[2402.09234v2](http://arxiv.org/abs/2402.09234v2)|null|
+|**2024-02-14 10:40:09**|**DisGNet: A Distance Graph Neural Network for Forward Kinematics Learning   of Gough-Stewart Platform**|Huizhi Zhu et.al.|[2402.09077v1](http://arxiv.org/abs/2402.09077v1)|[link](https://github.com/FLAMEZZ5201/DisGNet)|
+|**2024-02-14 03:16:13**|**Graph Inference Acceleration by Learning MLPs on Graphs without   Supervision**|Zehong Wang et.al.|[2402.08918v1](http://arxiv.org/abs/2402.08918v1)|[link](https://github.com/zehong-wang/simmlp)|
+|**2024-02-14 00:16:50**|**Multiscale graph neural networks with adaptive mesh refinement for   accelerating mesh-based simulations**|Roberto Perera et.al.|[2402.08863v1](http://arxiv.org/abs/2402.08863v1)|null|
+|**2024-02-13 22:07:57**|**Disambiguated Node Classification with Graph Neural Networks**|Tianxiang Zhao et.al.|[2402.08824v1](http://arxiv.org/abs/2402.08824v1)|[link](https://github.com/tianxiangzhao/disambiguatedgnn)|
+|**2024-02-13 18:58:17**|**Graph Mamba: Towards Learning on Graphs with State Space Models**|Ali Behrouz et.al.|[2402.08678v1](http://arxiv.org/abs/2402.08678v1)|[link](https://github.com/graphmamba/gmn)|
+|**2024-02-13 18:33:45**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v1](http://arxiv.org/abs/2402.08653v1)|null|
+|**2024-02-13 16:57:06**|**Homomorphism Counts for Graph Neural Networks: All About That Basis**|Emily Jin et.al.|[2402.08595v2](http://arxiv.org/abs/2402.08595v2)|null|
+|**2024-02-13 16:53:48**|**Graph Feature Preprocessor: Real-time Extraction of Subgraph-based   Features from Transaction Graphs**|Jovan Blanuša et.al.|[2402.08593v1](http://arxiv.org/abs/2402.08593v1)|null|
+|**2024-02-13 16:36:50**|**Mixture of Link Predictors**|Li Ma et.al.|[2402.08583v1](http://arxiv.org/abs/2402.08583v1)|null|
+|**2024-02-13 14:13:17**|**Revealing Decurve Flows for Generalized Graph Propagation**|Chen Lin et.al.|[2402.08480v1](http://arxiv.org/abs/2402.08480v1)|null|
+|**2024-02-13 14:00:59**|**Parallel-friendly Spatio-Temporal Graph Learning for Photovoltaic   Degradation Analysis at Scale**|Yangxin Fan et.al.|[2402.08470v1](http://arxiv.org/abs/2402.08470v1)|[link](https://github.com/yangxin666/st-gtrend)|
+|**2024-02-13 13:37:13**|**Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph   Products**|Guy Bar-Shalom et.al.|[2402.08450v1](http://arxiv.org/abs/2402.08450v1)|null|

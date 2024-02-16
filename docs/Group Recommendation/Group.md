@@ -2,10 +2,11 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-15 14:04:17**|**Ad interim recommendations for the Higgs boson production cross sections   at $\sqrt{s} = 13.6$ TeV**|Alexander Karlberg et.al.|[2402.09955v1](http://arxiv.org/abs/2402.09955v1)|null|
 |**2024-02-06 14:26:22**|**HEAM : Hashed Embedding Acceleration using Processing-In-Memory**|Youngsuk Kim et.al.|[2402.04032v1](http://arxiv.org/abs/2402.04032v1)|null|
 |**2024-02-06 00:20:49**|**Understanding and Counteracting Feature-Level Bias in Click-Through Rate   Prediction**|Jinqiu Jin et.al.|[2402.03600v1](http://arxiv.org/abs/2402.03600v1)|[link](https://github.com/mitao-cat/feature-level_bias)|
 |**2024-02-05 19:03:23**|**Recommendation Fairness in Social Networks Over Time**|Meng Cao et.al.|[2402.03450v1](http://arxiv.org/abs/2402.03450v1)|null|
-|**2024-02-05 08:56:24**|**Intersectional Two-sided Fairness in Recommendation**|Yifan Wang et.al.|[2402.02816v1](http://arxiv.org/abs/2402.02816v1)|null|
+|**2024-02-05 08:56:24**|**Intersectional Two-sided Fairness in Recommendation**|Yifan Wang et.al.|[2402.02816v2](http://arxiv.org/abs/2402.02816v2)|null|
 |**2024-02-01 16:45:31**|**To tweak or not to tweak. How exploiting flexibilities in gene set   analysis leads to over-optimism**|Milena Wünsch et.al.|[2402.00754v1](http://arxiv.org/abs/2402.00754v1)|null|
 |**2024-02-01 10:49:31**|**Proton Pencil-Beam Scanning Stereotactic Body Radiation Therapy and   Hypofractionated Radiation Therapy for Thoracic Malignancies: Patterns of   Practice Survey and Recommendations for Future Development from NRG Oncology   and PTCOG**|Wei Liu et.al.|[2402.00489v1](http://arxiv.org/abs/2402.00489v1)|null|
 |**2024-02-01 10:42:05**|**A Personalized Framework for Consumer and Producer Group Fairness   Optimization in Recommender Systems**|Hossein A. Rahmani et.al.|[2402.00485v1](http://arxiv.org/abs/2402.00485v1)|null|
@@ -31,4 +32,3 @@
 |**2023-12-31 10:55:26**|**Teaching Digital Accessibility to Industry Professionals using the   Community of Practice Framework: An Experience Report**|Parthasarathy PD et.al.|[2401.00449v1](http://arxiv.org/abs/2401.00449v1)|null|
 |**2023-12-30 23:56:35**|**EXPLORE -- Explainable Song Recommendation**|Abhinav Arun et.al.|[2401.00353v1](http://arxiv.org/abs/2401.00353v1)|null|
 |**2023-12-29 02:32:12**|**Break Out of a Pigeonhole: A Unified Framework for Examining   Miscalibration, Bias, and Stereotype in Recommender Systems**|Yongsu Ahn et.al.|[2312.17443v1](http://arxiv.org/abs/2312.17443v1)|null|
-|**2023-12-28 15:34:54**|**An Adaptive Framework of Geographical Group-Specific Network on O2O   Recommendation**|Luo Ji et.al.|[2312.17072v1](http://arxiv.org/abs/2312.17072v1)|null|
