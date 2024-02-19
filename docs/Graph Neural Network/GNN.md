@@ -2,6 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-16 16:20:11**|**Masked Attention is All You Need for Graphs**|David Buterez et.al.|[2402.10793v1](http://arxiv.org/abs/2402.10793v1)|null|
+|**2024-02-16 14:59:55**|**Construction of a Syntactic Analysis Map for Yi Shui School through Text   Mining and Natural Language Processing Research**|Hanqing Zhao et.al.|[2402.10743v1](http://arxiv.org/abs/2402.10743v1)|null|
+|**2024-02-16 13:58:23**|**Unlink to Unlearn: Simplifying Edge Unlearning in GNNs**|Jiajun Tan et.al.|[2402.10695v1](http://arxiv.org/abs/2402.10695v1)|null|
+|**2024-02-16 12:33:31**|**Graph-based Forecasting with Missing Data through Spatiotemporal   Downsampling**|Ivan Marisca et.al.|[2402.10634v1](http://arxiv.org/abs/2402.10634v1)|null|
+|**2024-02-16 12:16:04**|**Towards quantum gravity with neural networks: Solving the quantum   Hamilton constraint of U(1) BF theory**|Hanno Sahlmann et.al.|[2402.10622v1](http://arxiv.org/abs/2402.10622v1)|null|
+|**2024-02-16 07:28:59**|**Random Projection Layers for Multidimensional Time Sires Forecasting**|Chin-Chia Michael Yeh et.al.|[2402.10487v1](http://arxiv.org/abs/2402.10487v1)|null|
+|**2024-02-16 00:25:24**|**Subgraph-level Universal Prompt Tuning**|Junhyun Lee et.al.|[2402.10380v1](http://arxiv.org/abs/2402.10380v1)|null|
+|**2024-02-15 23:17:08**|**Deep Spectral Meshes: Multi-Frequency Facial Mesh Processing with Graph   Neural Networks**|Robert Kosk et.al.|[2402.10365v1](http://arxiv.org/abs/2402.10365v1)|null|
+|**2024-02-15 23:09:42**|**Can we soft prompt LLMs for graph learning tasks?**|Zheyuan Liu et.al.|[2402.10359v1](http://arxiv.org/abs/2402.10359v1)|null|
 |**2024-02-15 18:58:18**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206v1](http://arxiv.org/abs/2402.10206v1)|null|
 |**2024-02-15 17:55:04**|**Reconstruction of Short-Lived Particles using Graph-Hypergraph   Representation Learning**|Callum Birch-Sykes et.al.|[2402.10149v1](http://arxiv.org/abs/2402.10149v1)|null|
 |**2024-02-15 16:37:14**|**GraphCBAL: Class-Balanced Active Learning for Graph Neural Networks via   Reinforcement Learning**|Chengcheng Yu et.al.|[2402.10074v1](http://arxiv.org/abs/2402.10074v1)|null|
@@ -23,12 +32,3 @@
 |**2024-02-14 10:40:09**|**DisGNet: A Distance Graph Neural Network for Forward Kinematics Learning   of Gough-Stewart Platform**|Huizhi Zhu et.al.|[2402.09077v1](http://arxiv.org/abs/2402.09077v1)|[link](https://github.com/FLAMEZZ5201/DisGNet)|
 |**2024-02-14 03:16:13**|**Graph Inference Acceleration by Learning MLPs on Graphs without   Supervision**|Zehong Wang et.al.|[2402.08918v1](http://arxiv.org/abs/2402.08918v1)|[link](https://github.com/zehong-wang/simmlp)|
 |**2024-02-14 00:16:50**|**Multiscale graph neural networks with adaptive mesh refinement for   accelerating mesh-based simulations**|Roberto Perera et.al.|[2402.08863v1](http://arxiv.org/abs/2402.08863v1)|null|
-|**2024-02-13 22:07:57**|**Disambiguated Node Classification with Graph Neural Networks**|Tianxiang Zhao et.al.|[2402.08824v1](http://arxiv.org/abs/2402.08824v1)|[link](https://github.com/tianxiangzhao/disambiguatedgnn)|
-|**2024-02-13 18:58:17**|**Graph Mamba: Towards Learning on Graphs with State Space Models**|Ali Behrouz et.al.|[2402.08678v1](http://arxiv.org/abs/2402.08678v1)|[link](https://github.com/graphmamba/gmn)|
-|**2024-02-13 18:33:45**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v1](http://arxiv.org/abs/2402.08653v1)|null|
-|**2024-02-13 16:57:06**|**Homomorphism Counts for Graph Neural Networks: All About That Basis**|Emily Jin et.al.|[2402.08595v2](http://arxiv.org/abs/2402.08595v2)|null|
-|**2024-02-13 16:53:48**|**Graph Feature Preprocessor: Real-time Extraction of Subgraph-based   Features from Transaction Graphs**|Jovan Blanuša et.al.|[2402.08593v1](http://arxiv.org/abs/2402.08593v1)|null|
-|**2024-02-13 16:36:50**|**Mixture of Link Predictors**|Li Ma et.al.|[2402.08583v1](http://arxiv.org/abs/2402.08583v1)|null|
-|**2024-02-13 14:13:17**|**Revealing Decurve Flows for Generalized Graph Propagation**|Chen Lin et.al.|[2402.08480v1](http://arxiv.org/abs/2402.08480v1)|null|
-|**2024-02-13 14:00:59**|**Parallel-friendly Spatio-Temporal Graph Learning for Photovoltaic   Degradation Analysis at Scale**|Yangxin Fan et.al.|[2402.08470v1](http://arxiv.org/abs/2402.08470v1)|[link](https://github.com/yangxin666/st-gtrend)|
-|**2024-02-13 13:37:13**|**Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph   Products**|Guy Bar-Shalom et.al.|[2402.08450v1](http://arxiv.org/abs/2402.08450v1)|null|
