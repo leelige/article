@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-19 21:05:55**|**Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness   in Online Dating Recommendations Based on User Sexual Orientation**|Yuying Zhao et.al.|[2402.12541v1](http://arxiv.org/abs/2402.12541v1)|null|
 |**2024-02-17 12:27:30**|**Mirror Gradient: Towards Robust Multimodal Recommender Systems via   Exploring Flat Local Minima**|Shanshan Zhong et.al.|[2402.11262v1](http://arxiv.org/abs/2402.11262v1)|[link](https://github.com/qrange-group/mirror-gradient)|
 |**2024-02-17 00:10:33**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139v1](http://arxiv.org/abs/2402.11139v1)|null|
 |**2024-02-16 12:26:59**|**FairSync: Ensuring Amortized Group Exposure in Distributed   Recommendation Retrieval**|Chen Xu et.al.|[2402.10628v1](http://arxiv.org/abs/2402.10628v1)|[link](https://github.com/xuchen0427/fairsync)|
@@ -31,4 +32,3 @@
 |**2024-01-09 15:20:27**|**Effect on New Loan Repayment Fine Clause on Bank Jaya Artha's Customer   Satisfaction and Recommendation**|Mustaqim Adamrah et.al.|[2401.04605v1](http://arxiv.org/abs/2401.04605v1)|null|
 |**2024-01-08 02:23:17**|**Bridging the Skills Gap: Evaluating an AI-Assisted Provider Platform to   Support Care Providers with Empathetic Delivery of Protocolized Therapy**|William R. Kearns et.al.|[2401.03631v1](http://arxiv.org/abs/2401.03631v1)|null|
 |**2024-01-05 06:38:50**|**Nurse-in-the-Loop Artificial Intelligence for Precision Management of   Type 2 Diabetes in a Clinical Trial Utilizing Transfer-Learned Predictive   Digital Twin**|Syed Hasib Akhter Faruqui et.al.|[2401.02661v1](http://arxiv.org/abs/2401.02661v1)|null|
-|**2024-01-04 04:59:04**|**Windows on the Universe: Establishing the Infrastructure for a   Collaborative Multi-messenger Ecosystem**| The 2023 Windows on the Universe Workshop White Paper Working Group et.al.|[2401.02063v1](http://arxiv.org/abs/2401.02063v1)|null|
