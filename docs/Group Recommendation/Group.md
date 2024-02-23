@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-22 13:52:02**|**LLMs with Industrial Lens: Deciphering the Challenges and Prospects -- A   Survey**|Ashok Urlana et.al.|[2402.14558v1](http://arxiv.org/abs/2402.14558v1)|null|
+|**2024-02-22 01:19:12**|**The impact of Facebook-Cambridge Analytica data scandal on the USA tech   stock market: An event study based on clustering method**|Vahidin Jeleskovic et.al.|[2402.14206v1](http://arxiv.org/abs/2402.14206v1)|null|
 |**2024-02-19 21:05:55**|**Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness   in Online Dating Recommendations Based on User Sexual Orientation**|Yuying Zhao et.al.|[2402.12541v1](http://arxiv.org/abs/2402.12541v1)|null|
 |**2024-02-17 12:27:30**|**Mirror Gradient: Towards Robust Multimodal Recommender Systems via   Exploring Flat Local Minima**|Shanshan Zhong et.al.|[2402.11262v1](http://arxiv.org/abs/2402.11262v1)|[link](https://github.com/qrange-group/mirror-gradient)|
 |**2024-02-17 00:10:33**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139v1](http://arxiv.org/abs/2402.11139v1)|null|
@@ -30,5 +32,3 @@
 |**2024-01-16 03:32:15**|**'One Style Does Not Regulate All': Moderation Practices in Public and   Private WhatsApp Groups**|Farhana Shahid et.al.|[2401.08091v1](http://arxiv.org/abs/2401.08091v1)|null|
 |**2024-01-11 04:45:29**|**Engineering Adaptive Information Graphics for Disabled Communities: A   Case Study with Public Space Indoor Maps**|Anuradha Madugalla et.al.|[2401.05659v1](http://arxiv.org/abs/2401.05659v1)|null|
 |**2024-01-09 15:20:27**|**Effect on New Loan Repayment Fine Clause on Bank Jaya Artha's Customer   Satisfaction and Recommendation**|Mustaqim Adamrah et.al.|[2401.04605v1](http://arxiv.org/abs/2401.04605v1)|null|
-|**2024-01-08 02:23:17**|**Bridging the Skills Gap: Evaluating an AI-Assisted Provider Platform to   Support Care Providers with Empathetic Delivery of Protocolized Therapy**|William R. Kearns et.al.|[2401.03631v1](http://arxiv.org/abs/2401.03631v1)|null|
-|**2024-01-05 06:38:50**|**Nurse-in-the-Loop Artificial Intelligence for Precision Management of   Type 2 Diabetes in a Clinical Trial Utilizing Transfer-Learned Predictive   Digital Twin**|Syed Hasib Akhter Faruqui et.al.|[2401.02661v1](http://arxiv.org/abs/2401.02661v1)|null|
