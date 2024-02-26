@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-23 15:07:13**|**Dual Encoder: Exploiting the Potential of Syntactic and Semantic for   Aspect Sentiment Triplet Extraction**|Xiaowei Zhao et.al.|[2402.15370v1](http://arxiv.org/abs/2402.15370v1)|null|
+|**2024-02-23 13:44:57**|**Understanding Oversmoothing in Diffusion-Based GNNs From the Perspective   of Operator Semigroup Theory**|Weichen Zhao et.al.|[2402.15326v1](http://arxiv.org/abs/2402.15326v1)|null|
+|**2024-02-23 11:04:33**|**Open Ad Hoc Teamwork with Cooperative Game Theory**|Jianhong Wang et.al.|[2402.15259v1](http://arxiv.org/abs/2402.15259v1)|null|
+|**2024-02-23 08:29:42**|**GraphEdit: Large Language Models for Graph Structure Learning**|Zirui Guo et.al.|[2402.15183v1](http://arxiv.org/abs/2402.15183v1)|[link](https://github.com/hkuds/graphedit)|
+|**2024-02-23 07:05:32**|**TREC: APT Tactic / Technique Recognition via Few-Shot Provenance   Subgraph Learning**|Mingqi Lv et.al.|[2402.15147v1](http://arxiv.org/abs/2402.15147v1)|null|
+|**2024-02-23 05:57:22**|**MSPipe: Efficient Temporal GNN Training via Staleness-aware Pipeline**|Guangming Sheng et.al.|[2402.15113v1](http://arxiv.org/abs/2402.15113v1)|[link](https://github.com/petersh6/mspipe)|
+|**2024-02-23 05:33:43**|**Sampling-based Distributed Training with Message Passing Neural Network**|Priyesh Kakka et.al.|[2402.15106v1](http://arxiv.org/abs/2402.15106v1)|null|
+|**2024-02-22 19:34:56**|**Path Planning based on 2D Object Bounding-box**|Yanliang Huang et.al.|[2402.14933v1](http://arxiv.org/abs/2402.14933v1)|null|
 |**2024-02-22 18:56:31**|**Link Prediction under Heterophily: A Physics-Inspired Graph Neural   Network Approach**|Andrea Giuseppe Di Francesco et.al.|[2402.14802v1](http://arxiv.org/abs/2402.14802v1)|null|
 |**2024-02-22 17:08:09**|**CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph   Neural Networks**|Yifan Duan et.al.|[2402.14708v1](http://arxiv.org/abs/2402.14708v1)|null|
 |**2024-02-22 08:11:22**|**Representation Learning for Frequent Subgraph Mining**|Rex Ying et.al.|[2402.14367v1](http://arxiv.org/abs/2402.14367v1)|null|
@@ -20,15 +28,7 @@
 |**2024-02-21 04:36:30**|**Balancing Spectral, Temporal and Spatial Information for EEG-based   Alzheimer's Disease Classification**|Stephan Goerttler et.al.|[2402.13523v1](http://arxiv.org/abs/2402.13523v1)|null|
 |**2024-02-21 03:14:45**|**HetTree: Heterogeneous Tree Graph Neural Network**|Mingyu Guan et.al.|[2402.13496v1](http://arxiv.org/abs/2402.13496v1)|null|
 |**2024-02-21 03:04:34**|**VN Network: Embedding Newly Emerging Entities with Virtual Neighbors**|Yongquan He et.al.|[2402.14033v1](http://arxiv.org/abs/2402.14033v1)|null|
+|**2024-02-21 01:29:17**|**CloudNine: Analyzing Meteorological Observation Impact on Weather   Prediction Using Explainable Graph Neural Networks**|Hyeon-Ju Jeon et.al.|[2402.14861v1](http://arxiv.org/abs/2402.14861v1)|null|
 |**2024-02-21 00:24:34**|**PaCKD: Pattern-Clustered Knowledge Distillation for Compressing Memory   Access Prediction Models**|Neelesh Gupta et.al.|[2402.13441v1](http://arxiv.org/abs/2402.13441v1)|[link](https://github.com/neeleshg23/packd)|
 |**2024-02-20 23:49:25**|**LinkSAGE: Optimizing Job Matching Using Graph Neural Networks**|Ping Liu et.al.|[2402.13430v1](http://arxiv.org/abs/2402.13430v1)|null|
 |**2024-02-20 19:19:56**|**Double machine learning for causal hybrid modeling -- applications in   the Earth sciences**|Kai-Hendrik Cohrs et.al.|[2402.13332v1](http://arxiv.org/abs/2402.13332v1)|null|
-|**2024-02-20 16:11:59**|**BuffGraph: Enhancing Class-Imbalanced Node Classification via Buffer   Nodes**|Qian Wang et.al.|[2402.13114v1](http://arxiv.org/abs/2402.13114v1)|null|
-|**2024-02-20 15:54:24**|**A Microstructure-based Graph Neural Network for Accelerating Multiscale   Simulations**|J. Storm et.al.|[2402.13101v1](http://arxiv.org/abs/2402.13101v1)|[link](https://github.com/joepstorm/microscale-gnn-surrogate)|
-|**2024-02-20 14:18:43**|**Enhancing Real-World Complex Network Representations with Hyperedge   Augmentation**|Xiangyu Zhao et.al.|[2402.13033v1](http://arxiv.org/abs/2402.13033v1)|null|
-|**2024-02-20 14:10:40**|**Heterogeneous Graph Reasoning for Fact Checking over Texts and Tables**|Haisong Gong et.al.|[2402.13028v1](http://arxiv.org/abs/2402.13028v1)|[link](https://github.com/deno-v/heterfc)|
-|**2024-02-20 13:32:00**|**A unifying primary framework for quantum graph neural networks from   quantum graph states**|Ammar Daskin et.al.|[2402.13001v2](http://arxiv.org/abs/2402.13001v2)|null|
-|**2024-02-20 13:21:57**|**Distributionally Robust Graph-based Recommendation System**|Bohao Wang et.al.|[2402.12994v2](http://arxiv.org/abs/2402.12994v2)|[link](https://github.com/WANGBohaO-jpg/DR-GNN)|
-|**2024-02-20 13:13:13**|**Can GNN be Good Adapter for LLMs?**|Xuanwen Huang et.al.|[2402.12984v1](http://arxiv.org/abs/2402.12984v1)|null|
-|**2024-02-20 12:01:30**|**Cell Graph Transformer for Nuclei Classification**|Wei Lou et.al.|[2402.12946v1](http://arxiv.org/abs/2402.12946v1)|[link](https://github.com/lhaof/cgt)|
-|**2024-02-20 11:38:52**|**GRAPHGINI: Fostering Individual and Group Fairness in Graph Neural   Networks**|Anuj Kumar Sirohi et.al.|[2402.12937v1](http://arxiv.org/abs/2402.12937v1)|null|
