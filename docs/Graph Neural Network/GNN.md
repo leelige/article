@@ -2,6 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-26 12:55:51**|**Integrating Large Language Models with Graphical Session-Based   Recommendation**|Naicheng Guo et.al.|[2402.16539v1](http://arxiv.org/abs/2402.16539v1)|null|
+|**2024-02-26 11:23:42**|**Cluster Counting Algorithm for Drift Chamber using LSTM and DGCNN**|Zhefei Tian et.al.|[2402.16493v1](http://arxiv.org/abs/2402.16493v1)|null|
+|**2024-02-26 08:55:10**|**Graph Learning with Distributional Edge Layouts**|Xinjian Zhao et.al.|[2402.16402v1](http://arxiv.org/abs/2402.16402v1)|null|
+|**2024-02-26 07:00:24**|**Boosting Graph Pooling with Persistent Homology**|Chaolong Ying et.al.|[2402.16346v1](http://arxiv.org/abs/2402.16346v1)|null|
+|**2024-02-26 02:01:00**|**High-Frequency-aware Hierarchical Contrastive Selective Coding for   Representation Learning on Text-attributed Graphs**|Peiyan Zhang et.al.|[2402.16240v1](http://arxiv.org/abs/2402.16240v1)|null|
+|**2024-02-26 01:18:53**|**GARNN: An Interpretable Graph Attentive Recurrent Neural Network for   Predicting Blood Glucose Levels via Multivariate Time Series**|Chengzhe Piao et.al.|[2402.16230v1](http://arxiv.org/abs/2402.16230v1)|null|
+|**2024-02-25 08:07:22**|**HiGPT: Heterogeneous Graph Language Model**|Jiabin Tang et.al.|[2402.16024v1](http://arxiv.org/abs/2402.16024v1)|[link](https://github.com/hkuds/higpt)|
+|**2024-02-25 07:20:49**|**Network analysis of memristive device circuits: dynamics, stability and   correlations**|Frank Barrows et.al.|[2402.16015v1](http://arxiv.org/abs/2402.16015v1)|null|
+|**2024-02-24 22:32:34**|**Pretraining Strategy for Neural Potentials**|Zehua Zhang et.al.|[2402.15921v1](http://arxiv.org/abs/2402.15921v1)|null|
 |**2024-02-23 15:07:13**|**Dual Encoder: Exploiting the Potential of Syntactic and Semantic for   Aspect Sentiment Triplet Extraction**|Xiaowei Zhao et.al.|[2402.15370v1](http://arxiv.org/abs/2402.15370v1)|null|
 |**2024-02-23 13:44:57**|**Understanding Oversmoothing in Diffusion-Based GNNs From the Perspective   of Operator Semigroup Theory**|Weichen Zhao et.al.|[2402.15326v1](http://arxiv.org/abs/2402.15326v1)|null|
 |**2024-02-23 11:04:33**|**Open Ad Hoc Teamwork with Cooperative Game Theory**|Jianhong Wang et.al.|[2402.15259v1](http://arxiv.org/abs/2402.15259v1)|null|
@@ -23,12 +32,3 @@
 |**2024-02-21 12:16:51**|**Reasoning Algorithmically in Graph Neural Networks**|Danilo Numeroso et.al.|[2402.13744v1](http://arxiv.org/abs/2402.13744v1)|null|
 |**2024-02-21 09:06:31**|**UniGraph: Learning a Cross-Domain Graph Foundation Model From Natural   Language**|Yufei He et.al.|[2402.13630v1](http://arxiv.org/abs/2402.13630v1)|null|
 |**2024-02-21 07:59:44**|**Near-Field Multiuser Beam-Training for Extremely Large-Scale MIMO   Systems**|Wang Liu et.al.|[2402.13597v1](http://arxiv.org/abs/2402.13597v1)|null|
-|**2024-02-21 06:25:54**|**Inductive Graph Alignment Prompt: Bridging the Gap between Graph   Pre-training and Inductive Fine-tuning From Spectral Perspective**|Yuchen Yan et.al.|[2402.13556v1](http://arxiv.org/abs/2402.13556v1)|null|
-|**2024-02-21 05:55:00**|**Quantum Annealing and Graph Neural Networks for Solving TSP with QUBO**|Haoqi He et.al.|[2402.14036v1](http://arxiv.org/abs/2402.14036v1)|null|
-|**2024-02-21 04:36:30**|**Balancing Spectral, Temporal and Spatial Information for EEG-based   Alzheimer's Disease Classification**|Stephan Goerttler et.al.|[2402.13523v1](http://arxiv.org/abs/2402.13523v1)|null|
-|**2024-02-21 03:14:45**|**HetTree: Heterogeneous Tree Graph Neural Network**|Mingyu Guan et.al.|[2402.13496v1](http://arxiv.org/abs/2402.13496v1)|null|
-|**2024-02-21 03:04:34**|**VN Network: Embedding Newly Emerging Entities with Virtual Neighbors**|Yongquan He et.al.|[2402.14033v1](http://arxiv.org/abs/2402.14033v1)|null|
-|**2024-02-21 01:29:17**|**CloudNine: Analyzing Meteorological Observation Impact on Weather   Prediction Using Explainable Graph Neural Networks**|Hyeon-Ju Jeon et.al.|[2402.14861v1](http://arxiv.org/abs/2402.14861v1)|null|
-|**2024-02-21 00:24:34**|**PaCKD: Pattern-Clustered Knowledge Distillation for Compressing Memory   Access Prediction Models**|Neelesh Gupta et.al.|[2402.13441v1](http://arxiv.org/abs/2402.13441v1)|[link](https://github.com/neeleshg23/packd)|
-|**2024-02-20 23:49:25**|**LinkSAGE: Optimizing Job Matching Using Graph Neural Networks**|Ping Liu et.al.|[2402.13430v1](http://arxiv.org/abs/2402.13430v1)|null|
-|**2024-02-20 19:19:56**|**Double machine learning for causal hybrid modeling -- applications in   the Earth sciences**|Kai-Hendrik Cohrs et.al.|[2402.13332v1](http://arxiv.org/abs/2402.13332v1)|null|
