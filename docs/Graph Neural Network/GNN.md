@@ -5,7 +5,7 @@
 |**2024-02-29 17:13:25**|**Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient   Sparse Matrix Multiplication**|Lukas Gianinazzi et.al.|[2402.19364v1](http://arxiv.org/abs/2402.19364v1)|[link](https://github.com/spcl/arrow-matrix)|
 |**2024-02-29 16:09:12**|**DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly**|Gianluca Scarpellini et.al.|[2402.19302v1](http://arxiv.org/abs/2402.19302v1)|[link](https://github.com/iit-pavis/diffassemble)|
 |**2024-02-29 13:57:09**|**Deep Mapper Graph and its Application to Visualize Plausible Pathways on   High-Dimensional Distribution with Small Time-Complexity**|Ziyad Oulhaj et.al.|[2402.19177v1](http://arxiv.org/abs/2402.19177v1)|null|
-|**2024-02-29 11:45:24**|**Graph Convolutional Neural Networks for Automated Echocardiography View   Recognition: A Holistic Approach**|Sarina Thomas et.al.|[2402.19062v1](http://arxiv.org/abs/2402.19062v1)|null|
+|**2024-02-29 11:45:24**|**Graph Convolutional Neural Networks for Automated Echocardiography View   Recognition: A Holistic Approach**|Sarina Thomas et.al.|[2402.19062v2](http://arxiv.org/abs/2402.19062v2)|null|
 |**2024-02-29 10:29:05**|**Machine learning-enabled exploration of mesoscale architectures in   amphiphilic-molecule self-assembly**|Takeo Sudo et.al.|[2402.19019v1](http://arxiv.org/abs/2402.19019v1)|null|
 |**2024-02-29 09:40:07**|**Always be Pre-Training: Representation Learning for Network Intrusion   Detection with GNNs**|Zhengyao Gu et.al.|[2402.18986v1](http://arxiv.org/abs/2402.18986v1)|null|
 |**2024-02-29 06:30:27**|**Benchmarking phonon anharmonicity in machine learning interatomic   potentials**|Sasaank Bandi et.al.|[2402.18891v1](http://arxiv.org/abs/2402.18891v1)|null|
