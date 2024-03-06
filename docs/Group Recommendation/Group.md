@@ -2,6 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-05 06:23:00**|**Uplift Modeling for Target User Attacks on Recommender Systems**|Wenjie Wang et.al.|[2403.02692v1](http://arxiv.org/abs/2403.02692v1)|[link](https://github.com/wcsa23187/uba)|
+|**2024-03-04 17:45:52**|**Human-AI Collaboration Increases Skill Tagging Speed but Degrades   Accuracy**|Cheng Ren et.al.|[2403.02259v1](http://arxiv.org/abs/2403.02259v1)|null|
+|**2024-03-04 07:32:28**|**Beyond Recommender: An Exploratory Study of the Effects of Different AI   Roles in AI-Assisted Decision Making**|Shuai Ma et.al.|[2403.01791v1](http://arxiv.org/abs/2403.01791v1)|null|
+|**2024-03-04 00:03:00**|**Recommendations for Government Development and Use of Advanced Automated   Systems to Make Decisions about Individuals**|Susan Landau et.al.|[2403.01649v1](http://arxiv.org/abs/2403.01649v1)|null|
 |**2024-03-02 14:30:57**|**A Two-Stage Algorithm for Cost-Efficient Multi-instance Counterfactual   Explanations**|André Artelt et.al.|[2403.01221v1](http://arxiv.org/abs/2403.01221v1)|[link](https://github.com/andreartelt/twostagemultiinstcfs)|
 |**2024-02-29 19:14:24**|**The Constitutions of Web3**|Joshua Z. Tan et.al.|[2403.00081v1](http://arxiv.org/abs/2403.00081v1)|null|
 |**2024-02-27 10:40:15**|**Designing Chatbots to Support Victims and Survivors of Domestic Abuse**|Rahime Belen Saglam et.al.|[2402.17393v1](http://arxiv.org/abs/2402.17393v1)|null|
@@ -28,7 +32,3 @@
 |**2024-01-22 21:41:26**|**SubgroupTE: Advancing Treatment Effect Estimation with Subgroup   Identification**|Seungyeon Lee et.al.|[2401.12369v1](http://arxiv.org/abs/2401.12369v1)|[link](https://github.com/yeon-lab/subgroupte)|
 |**2024-01-19 21:16:41**|**PressProtect: Helping Journalists Navigate Social Media in the Face of   Online Harassment**|Catherine Han et.al.|[2401.11032v1](http://arxiv.org/abs/2401.11032v1)|null|
 |**2024-01-19 17:03:37**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve   Health Outcomes**|Jodi Chiam et.al.|[2401.10816v2](http://arxiv.org/abs/2401.10816v2)|null|
-|**2024-01-18 17:45:25**|**Methodology to assess prosumer participation in European electricity   markets**|Rubén Rodríguez-Vilches et.al.|[2401.10696v1](http://arxiv.org/abs/2401.10696v1)|null|
-|**2024-01-18 17:06:16**|**Wallets' explorations across non-fungible token collections**|Seonbin Jo et.al.|[2401.10138v1](http://arxiv.org/abs/2401.10138v1)|null|
-|**2024-01-17 08:01:18**|**UOEP: User-Oriented Exploration Policy for Enhancing Long-Term User   Experiences in Recommender Systems**|Changshuo Zhang et.al.|[2401.09034v1](http://arxiv.org/abs/2401.09034v1)|null|
-|**2024-01-16 17:31:35**|**Supporting Student Decisions on Learning Recommendations: An LLM-Based   Chatbot with Knowledge Graph Contextualization for Conversational   Explainability and Mentoring**|Hasan Abu-Rasheed et.al.|[2401.08517v3](http://arxiv.org/abs/2401.08517v3)|null|
