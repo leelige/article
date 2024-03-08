@@ -2,6 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-07 18:57:46**|**BloomGML: Graph Machine Learning through the Lens of Bilevel   Optimization**|Amber Yijia Zheng et.al.|[2403.04763v1](http://arxiv.org/abs/2403.04763v1)|[link](https://github.com/amberyzheng/BloomGML.LetgraphMLbloom)|
+|**2024-03-07 18:52:27**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural   Networks**|Lisa Schneckenreiter et.al.|[2403.04747v1](http://arxiv.org/abs/2403.04747v1)|null|
+|**2024-03-07 16:21:09**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636v1](http://arxiv.org/abs/2403.04636v1)|null|
+|**2024-03-07 15:54:46**|**In-n-Out: Calibrating Graph Neural Networks for Link Prediction**|Erik Nascimento et.al.|[2403.04605v1](http://arxiv.org/abs/2403.04605v1)|null|
+|**2024-03-07 14:23:25**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge   Graph Completion**|Qian Li et.al.|[2403.04521v1](http://arxiv.org/abs/2403.04521v1)|null|
+|**2024-03-07 14:04:33**|**Improving Matrix Completion by Exploiting Rating Ordinality in Graph   Neural Networks**|Jaehyun Lee et.al.|[2403.04504v1](http://arxiv.org/abs/2403.04504v1)|null|
+|**2024-03-07 13:33:30**|**On the Topology Awareness and Generalization Performance of Graph Neural   Networks**|Junwei Su et.al.|[2403.04482v1](http://arxiv.org/abs/2403.04482v1)|null|
+|**2024-03-07 13:10:37**|**A Survey of Graph Neural Networks in Real world: Imbalance, Noise,   Privacy and OOD Challenges**|Wei Ju et.al.|[2403.04468v1](http://arxiv.org/abs/2403.04468v1)|null|
+|**2024-03-07 04:39:48**|**Performance Assessment of Universal Machine Learning Interatomic   Potentials: Challenges and Directions for Materials' Surfaces**|Bruno Focassio et.al.|[2403.04217v1](http://arxiv.org/abs/2403.04217v1)|null|
+|**2024-03-06 19:42:34**|**Three Revisits to Node-Level Graph Anomaly Detection: Outliers, Message   Passing and Hyperbolic Neural Networks**|Jing Gu et.al.|[2403.04010v1](http://arxiv.org/abs/2403.04010v1)|[link](https://github.com/jing-ds/hnn_gad)|
 |**2024-03-06 17:40:26**|**Graph neural network outputs are almost surely asymptotically constant**|Sam Adam-Day et.al.|[2403.03880v1](http://arxiv.org/abs/2403.03880v1)|[link](https://github.com/benfinkelshtein/gnn-asymptotically-constant)|
 |**2024-03-06 15:03:04**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph   Neural Networks**|Christoforos Brozos et.al.|[2403.03767v1](http://arxiv.org/abs/2403.03767v1)|null|
 |**2024-03-06 13:59:53**|**Intent-aware Recommendation via Disentangled Graph Contrastive Learning**|Yuling Wang et.al.|[2403.03714v1](http://arxiv.org/abs/2403.03714v1)|null|
@@ -20,15 +30,5 @@
 |**2024-03-06 02:36:15**|**Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales   for Pruning Recurrent SNN**|Biswadeep Chakraborty et.al.|[2403.03409v1](http://arxiv.org/abs/2403.03409v1)|null|
 |**2024-03-05 20:23:25**|**Graph Learning for Parameter Prediction of Quantum Approximate   Optimization Algorithm**|Zhiding Liang et.al.|[2403.03310v1](http://arxiv.org/abs/2403.03310v1)|null|
 |**2024-03-05 19:10:18**|**Active Information Gathering for Long-Horizon Navigation Under   Uncertainty by Learning the Value of Information**|Raihan Islam Arnob et.al.|[2403.03269v1](http://arxiv.org/abs/2403.03269v1)|null|
-|**2024-03-05 16:55:06**|**CoRMF: Criticality-Ordered Recurrent Mean Field Ising Solver**|Zhenyu Pan et.al.|[2403.03391v1](http://arxiv.org/abs/2403.03391v1)|null|
+|**2024-03-05 16:55:06**|**CoRMF: Criticality-Ordered Recurrent Mean Field Ising Solver**|Zhenyu Pan et.al.|[2403.03391v2](http://arxiv.org/abs/2403.03391v2)|null|
 |**2024-03-05 08:59:45**|**Semi-Supervised Graph Representation Learning with Human-centric   Explanation for Predicting Fatty Liver Disease**|So Yeon Kim et.al.|[2403.02786v1](http://arxiv.org/abs/2403.02786v1)|null|
-|**2024-03-05 07:29:12**|**Minimum Topology Attacks for Graph Neural Networks**|Mengmei Zhang et.al.|[2403.02723v1](http://arxiv.org/abs/2403.02723v1)|null|
-|**2024-03-04 22:08:37**|**MPI Errors Detection using GNN Embedding and Vector Embedding over LLVM   IR**|Jad El Karchi et.al.|[2403.02518v1](http://arxiv.org/abs/2403.02518v1)|null|
-|**2024-03-04 21:05:52**|**Encodings for Prediction-based Neural Architecture Search**|Yash Akhauri et.al.|[2403.02484v1](http://arxiv.org/abs/2403.02484v1)|[link](https://github.com/abdelfattah-lab/flan_nas)|
-|**2024-03-04 17:33:39**|**Better Schedules for Low Precision Training of Deep Neural Networks**|Cameron R. Wolfe et.al.|[2403.02243v1](http://arxiv.org/abs/2403.02243v1)|null|
-|**2024-03-04 17:08:57**|**TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language   Models**|Yilong Ren et.al.|[2403.02221v1](http://arxiv.org/abs/2403.02221v1)|null|
-|**2024-03-04 15:18:05**|**Constraining primordial non-Gaussianity using Neural Networks**|Chandan Ganjigere Nagarajappa et.al.|[2403.02115v1](http://arxiv.org/abs/2403.02115v1)|null|
-|**2024-03-04 12:16:35**|**Renormalization group for Anderson localization on high-dimensional   lattices**|Boris L. Altshuler et.al.|[2403.01974v1](http://arxiv.org/abs/2403.01974v1)|null|
-|**2024-03-04 11:24:51**|**Mitigating Label Noise on Graph via Topological Sample Selection**|Yuhao Wu et.al.|[2403.01942v1](http://arxiv.org/abs/2403.01942v1)|null|
-|**2024-03-04 09:16:12**|**MaliGNNoma: GNN-Based Malicious Circuit Classifier for Secure Cloud   FPGAs**|Lilas Alrahis et.al.|[2403.01860v1](http://arxiv.org/abs/2403.01860v1)|null|
-|**2024-03-04 07:40:55**|**Superpixel Graph Contrastive Clustering with Semantic-Invariant   Augmentations for Hyperspectral Images**|Jianhan Qi et.al.|[2403.01799v1](http://arxiv.org/abs/2403.01799v1)|null|
