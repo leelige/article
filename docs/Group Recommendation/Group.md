@@ -10,7 +10,7 @@
 |**2024-03-04 07:32:28**|**Beyond Recommender: An Exploratory Study of the Effects of Different AI   Roles in AI-Assisted Decision Making**|Shuai Ma et.al.|[2403.01791v1](http://arxiv.org/abs/2403.01791v1)|null|
 |**2024-03-04 00:03:00**|**Recommendations for Government Development and Use of Advanced Automated   Systems to Make Decisions about Individuals**|Susan Landau et.al.|[2403.01649v1](http://arxiv.org/abs/2403.01649v1)|null|
 |**2024-03-02 14:30:57**|**A Two-Stage Algorithm for Cost-Efficient Multi-instance Counterfactual   Explanations**|André Artelt et.al.|[2403.01221v1](http://arxiv.org/abs/2403.01221v1)|[link](https://github.com/andreartelt/twostagemultiinstcfs)|
-|**2024-02-29 19:14:24**|**The Constitutions of Web3**|Joshua Z. Tan et.al.|[2403.00081v1](http://arxiv.org/abs/2403.00081v1)|null|
+|**2024-02-29 19:14:24**|**The Constitutions of Web3**|Joshua Z. Tan et.al.|[2403.00081v1](http://arxiv.org/abs/2403.00081v1)|[link](https://github.com/metagov/constitution-template)|
 |**2024-02-27 10:40:15**|**Designing Chatbots to Support Victims and Survivors of Domestic Abuse**|Rahime Belen Saglam et.al.|[2402.17393v1](http://arxiv.org/abs/2402.17393v1)|null|
 |**2024-02-22 13:52:02**|**LLMs with Industrial Lens: Deciphering the Challenges and Prospects -- A   Survey**|Ashok Urlana et.al.|[2402.14558v1](http://arxiv.org/abs/2402.14558v1)|null|
 |**2024-02-22 01:19:12**|**The impact of Facebook-Cambridge Analytica data scandal on the USA tech   stock market: An event study based on clustering method**|Vahidin Jeleskovic et.al.|[2402.14206v1](http://arxiv.org/abs/2402.14206v1)|null|
