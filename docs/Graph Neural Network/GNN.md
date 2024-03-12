@@ -2,6 +2,25 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-11 16:54:44**|**LIBR+: Improving Intraoperative Liver Registration by Learning the   Residual of Biomechanics-Based Deformable Registration**|Dingrong Wang et.al.|[2403.06901v1](http://arxiv.org/abs/2403.06901v1)|null|
+|**2024-03-11 15:34:57**|**Are Targeted Messages More Effective?**|Martin Grohe et.al.|[2403.06817v1](http://arxiv.org/abs/2403.06817v1)|null|
+|**2024-03-11 13:04:21**|**Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and   Attention Mechanism Approach for Heterogeneous Graph-Structured Data**|Jinghan Huang et.al.|[2403.06687v1](http://arxiv.org/abs/2403.06687v1)|null|
+|**2024-03-11 09:21:11**|**Decentralized and Lifelong-Adaptive Multi-Agent Collaborative Learning**|Shuo Tang et.al.|[2403.06535v1](http://arxiv.org/abs/2403.06535v1)|[link](https://github.com/ShuoTang123/DeLAMA)|
+|**2024-03-11 07:51:27**|**Graph Neural Network with Two Uplift Estimators for Label-Scarcity   Individual Uplift Modeling**|Dingyuan Zhu et.al.|[2403.06489v1](http://arxiv.org/abs/2403.06489v1)|null|
+|**2024-03-11 07:44:56**|**Financial Default Prediction via Motif-preserving Graph Neural Network   with Curriculum Learning**|Daixin Wang et.al.|[2403.06482v1](http://arxiv.org/abs/2403.06482v1)|null|
+|**2024-03-11 06:34:05**|**Ensemble Quadratic Assignment Network for Graph Matching**|Haoru Tan et.al.|[2403.06457v1](http://arxiv.org/abs/2403.06457v1)|null|
+|**2024-03-11 04:49:41**|**Joint-Embedding Masked Autoencoder for Self-supervised Learning of   Dynamic Functional Connectivity from the Human Brain**|Jungwon Choi et.al.|[2403.06432v1](http://arxiv.org/abs/2403.06432v1)|null|
+|**2024-03-11 04:26:18**|**A Differential Geometric View and Explainability of GNN on Evolving   Graphs**|Yazheng Liu et.al.|[2403.06425v1](http://arxiv.org/abs/2403.06425v1)|null|
+|**2024-03-10 15:38:20**|**Cooperative Classification and Rationalization for Graph Generalization**|Linan Yue et.al.|[2403.06239v1](http://arxiv.org/abs/2403.06239v1)|[link](https://github.com/yuelinan/Codes-of-C2R)|
+|**2024-03-10 03:59:24**|**Local Vertex Colouring Graph Neural Networks**|Shouheng Li et.al.|[2403.06080v1](http://arxiv.org/abs/2403.06080v1)|[link](https://github.com/seanli3/lvc)|
+|**2024-03-10 03:51:59**|**Generalization of Graph Neural Networks through the Lens of Homomorphism**|Shouheng Li et.al.|[2403.06079v1](http://arxiv.org/abs/2403.06079v1)|null|
+|**2024-03-10 02:16:13**|**L$^2$GC: Lorentzian Linear Graph Convolutional Networks For Node   Classification**|Qiuyu Liang et.al.|[2403.06064v1](http://arxiv.org/abs/2403.06064v1)|[link](https://github.com/llqy123/LLGC-master)|
+|**2024-03-09 22:28:46**|**Towards a Generic Representation of Cominatorial Problems for   Learning-Based Approaches**|Léo Boisvert et.al.|[2403.06026v1](http://arxiv.org/abs/2403.06026v1)|[link](https://github.com/corail-research/learning-generic-csp})|
+|**2024-03-09 21:45:31**|**Multi-conditioned Graph Diffusion for Neural Architecture Search**|Rohan Asthana et.al.|[2403.06020v1](http://arxiv.org/abs/2403.06020v1)|[link](https://github.com/rohanasthana/dinas)|
+|**2024-03-09 21:33:26**|**Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New   Benchmark**|Xiaowei Qian et.al.|[2403.06017v1](http://arxiv.org/abs/2403.06017v1)|[link](https://github.com/xweiq/benchmark-graphfairness)|
+|**2024-03-09 02:17:43**|**HDReason: Algorithm-Hardware Codesign for Hyperdimensional Knowledge   Graph Reasoning**|Hanning Chen et.al.|[2403.05763v1](http://arxiv.org/abs/2403.05763v1)|null|
+|**2024-03-09 01:17:26**|**Task-Oriented GNNs Training on Large Knowledge Graphs for Accurate and   Efficient Modeling**|Hussein Abdallah et.al.|[2403.05752v1](http://arxiv.org/abs/2403.05752v1)|[link](https://github.com/cods-gcs/kgtosa)|
+|**2024-03-08 23:53:20**|**Systematic assessment of various universal machine-learning interatomic   potentials**|Haochen Yu et.al.|[2403.05729v1](http://arxiv.org/abs/2403.05729v1)|null|
 |**2024-03-08 13:45:32**|**Advances of Deep Learning in Protein Science: A Comprehensive Survey**|Bozhen Hu et.al.|[2403.05314v1](http://arxiv.org/abs/2403.05314v1)|null|
 |**2024-03-08 09:53:07**|**Personalized Audiobook Recommendations at Spotify Through Graph Neural   Networks**|Marco De Nadai et.al.|[2403.05185v1](http://arxiv.org/abs/2403.05185v1)|null|
 |**2024-03-08 08:31:48**|**Simulating adiabatic quantum computation with a variational approach**|Giuseppe Carleo et.al.|[2403.05147v1](http://arxiv.org/abs/2403.05147v1)|null|
@@ -12,23 +31,4 @@
 |**2024-03-08 01:23:12**|**Node Centrality Approximation For Large Networks Based On Inductive   Graph Neural Networks**|Yiwei Zou et.al.|[2403.04977v1](http://arxiv.org/abs/2403.04977v1)|null|
 |**2024-03-07 18:57:46**|**BloomGML: Graph Machine Learning through the Lens of Bilevel   Optimization**|Amber Yijia Zheng et.al.|[2403.04763v1](http://arxiv.org/abs/2403.04763v1)|[link](https://github.com/amberyzheng/BloomGML.LetgraphMLbloom)|
 |**2024-03-07 18:52:27**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural   Networks**|Lisa Schneckenreiter et.al.|[2403.04747v1](http://arxiv.org/abs/2403.04747v1)|[link](https://github.com/ml-jku/gnn-vpa)|
-|**2024-03-07 16:21:09**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636v1](http://arxiv.org/abs/2403.04636v1)|null|
-|**2024-03-07 15:54:46**|**In-n-Out: Calibrating Graph Neural Networks for Link Prediction**|Erik Nascimento et.al.|[2403.04605v2](http://arxiv.org/abs/2403.04605v2)|null|
-|**2024-03-07 14:23:25**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge   Graph Completion**|Qian Li et.al.|[2403.04521v1](http://arxiv.org/abs/2403.04521v1)|null|
-|**2024-03-07 14:04:33**|**Improving Matrix Completion by Exploiting Rating Ordinality in Graph   Neural Networks**|Jaehyun Lee et.al.|[2403.04504v1](http://arxiv.org/abs/2403.04504v1)|null|
-|**2024-03-07 13:33:30**|**On the Topology Awareness and Generalization Performance of Graph Neural   Networks**|Junwei Su et.al.|[2403.04482v1](http://arxiv.org/abs/2403.04482v1)|null|
-|**2024-03-07 13:10:37**|**A Survey of Graph Neural Networks in Real world: Imbalance, Noise,   Privacy and OOD Challenges**|Wei Ju et.al.|[2403.04468v1](http://arxiv.org/abs/2403.04468v1)|null|
-|**2024-03-07 04:39:48**|**Performance Assessment of Universal Machine Learning Interatomic   Potentials: Challenges and Directions for Materials' Surfaces**|Bruno Focassio et.al.|[2403.04217v1](http://arxiv.org/abs/2403.04217v1)|null|
-|**2024-03-06 19:42:34**|**Three Revisits to Node-Level Graph Anomaly Detection: Outliers, Message   Passing and Hyperbolic Neural Networks**|Jing Gu et.al.|[2403.04010v1](http://arxiv.org/abs/2403.04010v1)|[link](https://github.com/jing-ds/hnn_gad)|
-|**2024-03-06 17:40:26**|**Graph neural network outputs are almost surely asymptotically constant**|Sam Adam-Day et.al.|[2403.03880v1](http://arxiv.org/abs/2403.03880v1)|[link](https://github.com/benfinkelshtein/gnn-asymptotically-constant)|
-|**2024-03-06 15:03:04**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph   Neural Networks**|Christoforos Brozos et.al.|[2403.03767v1](http://arxiv.org/abs/2403.03767v1)|[link](https://github.com/brozosc/predicting-the-temperature-dependence-of-surfactant-cmcs-using-graph-neural-networks)|
-|**2024-03-06 13:59:53**|**Intent-aware Recommendation via Disentangled Graph Contrastive Learning**|Yuling Wang et.al.|[2403.03714v1](http://arxiv.org/abs/2403.03714v1)|null|
-|**2024-03-06 13:29:00**|**Model Parallelism on Distributed Infrastructure: A Literature Review   from Theory to LLM Case-Studies**|Felix Brakel et.al.|[2403.03699v1](http://arxiv.org/abs/2403.03699v1)|null|
-|**2024-03-06 13:17:41**|**MolNexTR: A Generalized Deep Learning Model for Molecular Image   Recognition**|Yufan Chen et.al.|[2403.03691v2](http://arxiv.org/abs/2403.03691v2)|[link](https://github.com/cyf2000127/molnextr)|
-|**2024-03-06 12:57:48**|**Simplified PCNet with Robustness**|Bingheng Li et.al.|[2403.03676v1](http://arxiv.org/abs/2403.03676v1)|null|
-|**2024-03-06 12:37:49**|**Provable Filter for Real-world Graph Clustering**|Xuanting Xie et.al.|[2403.03666v1](http://arxiv.org/abs/2403.03666v1)|null|
-|**2024-03-06 12:08:14**|**K-Link: Knowledge-Link Graph from LLMs for Enhanced Representation   Learning in Multivariate Time-Series Data**|Yucheng Wang et.al.|[2403.03645v1](http://arxiv.org/abs/2403.03645v1)|null|
-|**2024-03-06 10:36:56**|**Learning Invariant Representations of Graph Neural Networks via Cluster   Generalization**|Donglin Xia et.al.|[2403.03599v1](http://arxiv.org/abs/2403.03599v1)|[link](https://github.com/bupt-gamma/citgnn)|
-|**2024-03-06 09:57:52**|**Design of an Open-Source Architecture for Neural Machine Translation**|Séamus Lankford et.al.|[2403.03582v1](http://arxiv.org/abs/2403.03582v1)|null|
-|**2024-03-06 08:05:58**|**LDSF: Lightweight Dual-Stream Framework for SAR Target Recognition by   Coupling Local Electromagnetic Scattering Features and Global Visual Features**|Xuying Xiong et.al.|[2403.03527v1](http://arxiv.org/abs/2403.03527v1)|null|
-|**2024-03-06 07:54:40**|**IB-Net: Initial Branch Network for Variable Decision in Boolean   Satisfiability**|Tsz Ho Chan et.al.|[2403.03517v1](http://arxiv.org/abs/2403.03517v1)|null|
+|**2024-03-07 16:21:09**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636v1](http://arxiv.org/abs/2403.04636v1)|[link](https://github.com/oliver-lemke/entropy_aware_message_passing)|
