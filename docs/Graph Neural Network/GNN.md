@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-14 15:54:29**|**Code Revert Prediction with Graph Neural Networks: A Case Study at J.P.   Morgan Chase**|Yulong Pei et.al.|[2403.09507v1](http://arxiv.org/abs/2403.09507v1)|null|
+|**2024-03-14 13:15:46**|**DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local   Climate Zone Classification**|Qianqian Wu et.al.|[2403.09367v1](http://arxiv.org/abs/2403.09367v1)|[link](https://github.com/ctrlovefly/DF4LCZ)|
+|**2024-03-14 09:32:25**|**Rumor Mitigation in Social Media Platforms with Deep Reinforcement   Learning**|Hongyuan Su et.al.|[2403.09217v1](http://arxiv.org/abs/2403.09217v1)|[link](https://github.com/tsinghua-fib-lab/DRL-Rumor-Mitigation)|
+|**2024-03-14 09:09:15**|**MetroGNN: Metro Network Expansion with Reinforcement Learning**|Hongyuan Su et.al.|[2403.09197v1](http://arxiv.org/abs/2403.09197v1)|[link](https://github.com/tsinghua-fib-lab/MetroGNN)|
+|**2024-03-14 08:31:39**|**ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks**|Zhaoliang Chen et.al.|[2403.09171v1](http://arxiv.org/abs/2403.09171v1)|null|
+|**2024-03-14 05:37:33**|**Frustrated Quantum Magnetism on Complex Networks: What Sets the Total   Spin**|Preethi G et.al.|[2403.09116v1](http://arxiv.org/abs/2403.09116v1)|null|
+|**2024-03-14 02:26:10**|**Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly   Detection in Dynamic Graphs**|Jie Liu et.al.|[2403.09039v1](http://arxiv.org/abs/2403.09039v1)|null|
 |**2024-03-13 15:23:55**|**Link Prediction for Social Networks using Representation Learning and   Heuristic-based Features**|Samarth Khanna et.al.|[2403.08613v1](http://arxiv.org/abs/2403.08613v1)|null|
 |**2024-03-13 14:25:15**|**A Physics-driven GraphSAGE Method for Physical Process Simulations   Described by Partial Differential Equations**|Hang Hu et.al.|[2403.08569v1](http://arxiv.org/abs/2403.08569v1)|null|
 |**2024-03-13 11:44:30**|**Reproducibility and Geometric Intrinsic Dimensionality: An Investigation   on Graph Neural Network Research**|Tobias Hille et.al.|[2403.08438v1](http://arxiv.org/abs/2403.08438v1)|null|
@@ -25,10 +32,3 @@
 |**2024-03-11 19:55:08**|**Bigraph Matching Weighted with Learnt Incentive Function for Multi-Robot   Task Allocation**|Steve Paul et.al.|[2403.07131v1](http://arxiv.org/abs/2403.07131v1)|null|
 |**2024-03-11 18:33:21**|**Graph learning methods to extract empathy supporting regions in a   naturalistic stimuli fMRI**|Sasanka GRS et.al.|[2403.07089v1](http://arxiv.org/abs/2403.07089v1)|null|
 |**2024-03-11 16:54:44**|**LIBR+: Improving Intraoperative Liver Registration by Learning the   Residual of Biomechanics-Based Deformable Registration**|Dingrong Wang et.al.|[2403.06901v1](http://arxiv.org/abs/2403.06901v1)|null|
-|**2024-03-11 16:26:06**|**Ant Colony Sampling with GFlowNets for Combinatorial Optimization**|Minsu Kim et.al.|[2403.07041v1](http://arxiv.org/abs/2403.07041v1)|[link](https://github.com/ai4co/gfacs})|
-|**2024-03-11 16:04:58**|**All in One: Multi-Task Prompting for Graph Neural Networks (Extended   Abstract)**|Xiangguo Sun et.al.|[2403.07040v1](http://arxiv.org/abs/2403.07040v1)|null|
-|**2024-03-11 15:34:57**|**Are Targeted Messages More Effective?**|Martin Grohe et.al.|[2403.06817v1](http://arxiv.org/abs/2403.06817v1)|null|
-|**2024-03-11 13:04:21**|**Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and   Attention Mechanism Approach for Heterogeneous Graph-Structured Data**|Jinghan Huang et.al.|[2403.06687v1](http://arxiv.org/abs/2403.06687v1)|null|
-|**2024-03-11 09:54:35**|**Leveraging graph neural networks for supporting Automatic Triage of   Patients**|Annamaria Defilippo et.al.|[2403.07038v1](http://arxiv.org/abs/2403.07038v1)|null|
-|**2024-03-11 09:21:11**|**Decentralized and Lifelong-Adaptive Multi-Agent Collaborative Learning**|Shuo Tang et.al.|[2403.06535v1](http://arxiv.org/abs/2403.06535v1)|[link](https://github.com/ShuoTang123/DeLAMA)|
-|**2024-03-11 07:51:27**|**Graph Neural Network with Two Uplift Estimators for Label-Scarcity   Individual Uplift Modeling**|Dingyuan Zhu et.al.|[2403.06489v1](http://arxiv.org/abs/2403.06489v1)|null|
