@@ -18,7 +18,7 @@
 |**2024-03-13 03:03:40**|**BG-HGNN: Toward Scalable and Efficient Heterogeneous Graph Neural   Network**|Junwei Su et.al.|[2403.08207v1](http://arxiv.org/abs/2403.08207v1)|null|
 |**2024-03-12 20:02:39**|**DrivAerNet: A Parametric Car Dataset for Data-Driven Aerodynamic Design   and Graph-Based Drag Prediction**|Mohamed Elrefaie et.al.|[2403.08055v1](http://arxiv.org/abs/2403.08055v1)|[link](https://github.com/mohamedelrefaie/drivaernet)|
 |**2024-03-12 17:41:27**|**Iterative Graph Neural Network Enhancement via Frequent Subgraph Mining   of Explanations**|Harish G. Naik et.al.|[2403.07849v1](http://arxiv.org/abs/2403.07849v1)|null|
-|**2024-03-12 13:54:25**|**Enabling self-identification in intelligent agent: insights from   computational psychoanalysis**|Lingyu Li et.al.|[2403.07664v1](http://arxiv.org/abs/2403.07664v1)|null|
+|**2024-03-12 13:54:25**|**Enabling self-identification in intelligent agent: insights from   computational psychoanalysis**|Lingyu Li et.al.|[2403.07664v1](http://arxiv.org/abs/2403.07664v1)|[link](https://github.com/yabyum/lacanagent)|
 |**2024-03-12 13:42:49**|**OmniMatch: Effective Self-Supervised Any-Join Discovery in Tabular Data   Repositories**|Christos Koutras et.al.|[2403.07653v1](http://arxiv.org/abs/2403.07653v1)|null|
 |**2024-03-12 11:56:38**|**Conditional computation in neural networks: principles and research   trends**|Simone Scardapane et.al.|[2403.07965v1](http://arxiv.org/abs/2403.07965v1)|null|
 |**2024-03-12 10:12:59**|**Towards Graph Foundation Models for Personalization**|Andreas Damianou et.al.|[2403.07478v1](http://arxiv.org/abs/2403.07478v1)|null|
