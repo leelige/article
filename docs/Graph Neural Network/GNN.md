@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-15 14:26:53**|**Generation is better than Modification: Combating High Class Homophily   Variance in Graph Anomaly Detection**|Rui Zhang et.al.|[2403.10339v1](http://arxiv.org/abs/2403.10339v1)|null|
+|**2024-03-15 13:40:37**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints   Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297v1](http://arxiv.org/abs/2403.10297v1)|[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)|
+|**2024-03-15 11:39:12**|**From Chaos to Clarity: Time Series Anomaly Detection in Astronomical   Observations**|Xinli Hao et.al.|[2403.10220v1](http://arxiv.org/abs/2403.10220v1)|[link](https://github.com/xinlihao/aero)|
+|**2024-03-15 07:54:36**|**HeR-DRL:Heterogeneous Relational Deep Reinforcement Learning for   Decentralized Multi-Robot Crowd Navigation**|Xinyu Zhou et.al.|[2403.10083v1](http://arxiv.org/abs/2403.10083v1)|[link](https://github.com/Zhouxy-Debugging-Den/HeR-DRL)|
+|**2024-03-15 01:55:07**|**Thermal Earth Model for the Conterminous United States Using an   Interpolative Physics-Informed Graph Neural Network (InterPIGNN)**|Mohammad J. Aljubran et.al.|[2403.09961v1](http://arxiv.org/abs/2403.09961v1)|null|
+|**2024-03-14 22:25:37**|**Robust Subgraph Learning by Monitoring Early Training Representations**|Sepideh Neshatfar et.al.|[2403.09901v1](http://arxiv.org/abs/2403.09901v1)|null|
 |**2024-03-14 15:54:29**|**Code Revert Prediction with Graph Neural Networks: A Case Study at J.P.   Morgan Chase**|Yulong Pei et.al.|[2403.09507v1](http://arxiv.org/abs/2403.09507v1)|null|
 |**2024-03-14 13:15:46**|**DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local   Climate Zone Classification**|Qianqian Wu et.al.|[2403.09367v1](http://arxiv.org/abs/2403.09367v1)|[link](https://github.com/ctrlovefly/DF4LCZ)|
 |**2024-03-14 09:32:25**|**Rumor Mitigation in Social Media Platforms with Deep Reinforcement   Learning**|Hongyuan Su et.al.|[2403.09217v1](http://arxiv.org/abs/2403.09217v1)|[link](https://github.com/tsinghua-fib-lab/DRL-Rumor-Mitigation)|
@@ -9,6 +15,7 @@
 |**2024-03-14 08:31:39**|**ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks**|Zhaoliang Chen et.al.|[2403.09171v1](http://arxiv.org/abs/2403.09171v1)|null|
 |**2024-03-14 05:37:33**|**Frustrated Quantum Magnetism on Complex Networks: What Sets the Total   Spin**|Preethi G et.al.|[2403.09116v1](http://arxiv.org/abs/2403.09116v1)|null|
 |**2024-03-14 02:26:10**|**Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly   Detection in Dynamic Graphs**|Jie Liu et.al.|[2403.09039v1](http://arxiv.org/abs/2403.09039v1)|null|
+|**2024-03-13 20:12:05**|**A Short Review on Novel Approaches for Maximum Clique Problem: from   Classical algorithms to Graph Neural Networks and Quantum algorithms**|Raffaele Marino et.al.|[2403.09742v1](http://arxiv.org/abs/2403.09742v1)|null|
 |**2024-03-13 15:23:55**|**Link Prediction for Social Networks using Representation Learning and   Heuristic-based Features**|Samarth Khanna et.al.|[2403.08613v1](http://arxiv.org/abs/2403.08613v1)|null|
 |**2024-03-13 14:25:15**|**A Physics-driven GraphSAGE Method for Physical Process Simulations   Described by Partial Differential Equations**|Hang Hu et.al.|[2403.08569v1](http://arxiv.org/abs/2403.08569v1)|null|
 |**2024-03-13 11:44:30**|**Reproducibility and Geometric Intrinsic Dimensionality: An Investigation   on Graph Neural Network Research**|Tobias Hille et.al.|[2403.08438v1](http://arxiv.org/abs/2403.08438v1)|null|
@@ -25,10 +32,3 @@
 |**2024-03-12 10:00:06**|**One for All and All for One: GNN-based Control-Flow Attestation for   Embedded Devices**|Marco Chilese et.al.|[2403.07465v1](http://arxiv.org/abs/2403.07465v1)|null|
 |**2024-03-12 06:26:17**|**Optimizing Polynomial Graph Filters: A Novel Adaptive Krylov Subspace   Approach**|Keke Huang et.al.|[2403.07954v1](http://arxiv.org/abs/2403.07954v1)|null|
 |**2024-03-12 06:22:10**|**Graph Unlearning with Efficient Partial Retraining**|Jiahao Zhang et.al.|[2403.07353v2](http://arxiv.org/abs/2403.07353v2)|null|
-|**2024-03-12 04:20:32**|**A Spin model for global flat-foldability of random origami**|Chihiro Nakajima et.al.|[2403.07306v1](http://arxiv.org/abs/2403.07306v1)|null|
-|**2024-03-12 03:54:25**|**Graph Data Condensation via Self-expressive Graph Structure   Reconstruction**|Zhanyu Liu et.al.|[2403.07294v1](http://arxiv.org/abs/2403.07294v1)|null|
-|**2024-03-12 02:05:06**|**Dataset Condensation for Time Series Classification via Dual Domain   Matching**|Zhanyu Liu et.al.|[2403.07245v1](http://arxiv.org/abs/2403.07245v1)|null|
-|**2024-03-11 21:54:52**|**Uncertainty in Graph Neural Networks: A Survey**|Fangxin Wang et.al.|[2403.07185v1](http://arxiv.org/abs/2403.07185v1)|null|
-|**2024-03-11 19:55:08**|**Bigraph Matching Weighted with Learnt Incentive Function for Multi-Robot   Task Allocation**|Steve Paul et.al.|[2403.07131v1](http://arxiv.org/abs/2403.07131v1)|null|
-|**2024-03-11 18:33:21**|**Graph learning methods to extract empathy supporting regions in a   naturalistic stimuli fMRI**|Sasanka GRS et.al.|[2403.07089v1](http://arxiv.org/abs/2403.07089v1)|null|
-|**2024-03-11 16:54:44**|**LIBR+: Improving Intraoperative Liver Registration by Learning the   Residual of Biomechanics-Based Deformable Registration**|Dingrong Wang et.al.|[2403.06901v1](http://arxiv.org/abs/2403.06901v1)|null|
