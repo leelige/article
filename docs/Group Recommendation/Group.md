@@ -3,10 +3,12 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-03-16 00:12:02**|**Assessing Delayed Treatment Benefits of Immunotherapy Using Long-Term   Average Hazard: A Novel Test/Estimation Approach**|Miki Horiguchi et.al.|[2403.10742v1](http://arxiv.org/abs/2403.10742v1)|null|
+|**2024-03-11 12:02:01**|**Group Movie Selection using Multi-channel Emotion Recognition**|Elnara Kadyrgali et.al.|[2403.12087v1](http://arxiv.org/abs/2403.12087v1)|null|
 |**2024-03-09 10:49:31**|**LEGION: Harnessing Pre-trained Language Models for GitHub Topic   Recommendations with Distribution-Balance Loss**|Yen-Trang Dang et.al.|[2403.05873v1](http://arxiv.org/abs/2403.05873v1)|[link](https://github.com/rise-bkai/legion)|
 |**2024-03-07 17:24:32**|**Canadian Physics Counts: An exploration of the diverse identities of   physics students and professionals in Canada**|Eden J. Hennessey et.al.|[2403.04679v1](http://arxiv.org/abs/2403.04679v1)|null|
 |**2024-03-07 14:14:40**|**Uncovering the Deep Filter Bubble: Narrow Exposure in Short-Video   Recommendation**|Nicholas Sukiennik et.al.|[2403.04511v1](http://arxiv.org/abs/2403.04511v1)|null|
 |**2024-03-06 20:37:29**|**Sample size planning for conditional counterfactual mean estimation with   a K-armed randomized experiment**|Gabriel Ruiz et.al.|[2403.04039v1](http://arxiv.org/abs/2403.04039v1)|null|
+|**2024-03-06 15:41:41**|**Comparing the efficacy of fixed effect and MAIHDA models in predicting   outcomes for intersectional social strata**|Ben Van Dusen et.al.|[2403.12081v1](http://arxiv.org/abs/2403.12081v1)|null|
 |**2024-03-05 06:23:00**|**Uplift Modeling for Target User Attacks on Recommender Systems**|Wenjie Wang et.al.|[2403.02692v1](http://arxiv.org/abs/2403.02692v1)|[link](https://github.com/wcsa23187/uba)|
 |**2024-03-04 17:45:52**|**Human-AI Collaboration Increases Skill Tagging Speed but Degrades   Accuracy**|Cheng Ren et.al.|[2403.02259v1](http://arxiv.org/abs/2403.02259v1)|null|
 |**2024-03-04 07:32:28**|**Beyond Recommender: An Exploratory Study of the Effects of Different AI   Roles in AI-Assisted Decision Making**|Shuai Ma et.al.|[2403.01791v1](http://arxiv.org/abs/2403.01791v1)|null|
@@ -30,5 +32,3 @@
 |**2024-02-01 10:42:05**|**A Personalized Framework for Consumer and Producer Group Fairness   Optimization in Recommender Systems**|Hossein A. Rahmani et.al.|[2402.00485v1](http://arxiv.org/abs/2402.00485v1)|null|
 |**2024-01-30 09:04:44**|**Smart Fitting Room: A Generative Approach to Matching-aware Virtual   Try-On**|Mingzhe Yu et.al.|[2401.16825v1](http://arxiv.org/abs/2401.16825v1)|null|
 |**2024-01-29 07:42:46**|**Assessment of the area measurement on Cartosat-1 image**|Joanna Pluto-Kossakowska et.al.|[2401.15932v1](http://arxiv.org/abs/2401.15932v1)|null|
-|**2024-01-29 02:35:42**|**APIGen: Generative API Method Recommendation**|Yujia Chen et.al.|[2401.15843v1](http://arxiv.org/abs/2401.15843v1)|[link](https://github.com/hitcoderr/apigen)|
-|**2024-01-26 15:23:25**|**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**|Hao Chen et.al.|[2401.14939v1](http://arxiv.org/abs/2401.14939v1)|[link](https://github.com/yuanchenbei/macgnn)|
