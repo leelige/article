@@ -2,7 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-22 17:31:21**|**Cascading Blackout Severity Prediction with Statistically-Augmented   Graph Neural Networks**|Joe Gorka et.al.|[2403.15363v1](http://arxiv.org/abs/2403.15363v1)|null|
+|**2024-03-22 16:40:03**|**Benchmarking of machine learning interatomic potentials for reactive   hydrogen dynamics at metal surfaces**|Wojciech G. Stark et.al.|[2403.15334v1](http://arxiv.org/abs/2403.15334v1)|null|
+|**2024-03-22 15:06:06**|**Graph neural network coarse-grain force field for the molecular crystal   RDX**|Brian H. Lee et.al.|[2403.15266v1](http://arxiv.org/abs/2403.15266v1)|null|
+|**2024-03-22 13:55:52**|**GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition**|Lei Jiang et.al.|[2403.15212v1](http://arxiv.org/abs/2403.15212v1)|[link](https://github.com/DeepIntoStreams/GCN-DevLSTM)|
+|**2024-03-22 10:02:13**|**GTAGCN: Generalized Topology Adaptive Graph Convolutional Networks**|Sukhdeep Singh et.al.|[2403.15077v1](http://arxiv.org/abs/2403.15077v1)|null|
+|**2024-03-22 09:48:50**|**Integrating multiscale topology in digital pathology with pyramidal   graph convolutional networks**|Victor Ibañez et.al.|[2403.15068v1](http://arxiv.org/abs/2403.15068v1)|null|
+|**2024-03-22 05:04:48**|**Simple Graph Condensation**|Zhenbang Xiao et.al.|[2403.14951v1](http://arxiv.org/abs/2403.14951v1)|null|
+|**2024-03-21 21:56:44**|**iSpLib: A Library for Accelerating Graph Neural Networks using   Auto-tuned Sparse Operations**|Md Saidul Hoque Anik et.al.|[2403.14853v1](http://arxiv.org/abs/2403.14853v1)|[link](https://github.com/HipGraph/iSpLib(https://doi.org/10.5281/zenodo.10806511))|
 |**2024-03-21 16:36:40**|**Transfer Learning for Cross-dataset Isolated Sign Language Recognition   in Under-Resourced Datasets**|Ahmet Alp Kindiroglu et.al.|[2403.14534v1](http://arxiv.org/abs/2403.14534v1)|[link](https://github.com/alpk/tid-supervised-transfer-learning-dataset)|
+|**2024-03-21 13:27:57**|**NaNa and MiGu: Semantic Data Augmentation Techniques to Enhance Protein   Classification in Graph Neural Networks**|Yi-Shan Lan et.al.|[2403.14736v1](http://arxiv.org/abs/2403.14736v1)|[link](https://github.com/r08b46009/Code_for_MIGU_NANA/tree/main)|
 |**2024-03-21 13:09:23**|**Knowledge-Enhanced Recommendation with User-Centric Subgraph Network**|Guangyi Liu et.al.|[2403.14377v1](http://arxiv.org/abs/2403.14377v1)|[link](https://github.com/leolouis14/kucnet)|
 |**2024-03-20 22:31:30**|**Data-Driven Modeling of Dislocation Mobility from Atomistics using   Physics-Informed Machine Learning**|Yifeng Tian et.al.|[2403.14015v1](http://arxiv.org/abs/2403.14015v1)|null|
 |**2024-03-20 19:49:21**|**Considerations in the use of ML interaction potentials for free energy   calculations**|Orlando A. Mendible et.al.|[2403.13952v1](http://arxiv.org/abs/2403.13952v1)|[link](https://github.com/omendibleba/considerations_for_mlps_fes)|
@@ -23,12 +32,3 @@
 |**2024-03-18 23:16:17**|**Molecular Classification Using Hyperdimensional Graph Classification**|Pere Verges et.al.|[2403.12307v1](http://arxiv.org/abs/2403.12307v1)|null|
 |**2024-03-18 18:01:01**|**Graph Neural Networks for Learning Equivariant Representations of Neural   Networks**|Miltiadis Kofinas et.al.|[2403.12143v2](http://arxiv.org/abs/2403.12143v2)|[link](https://github.com/mkofinas/neural-graphs)|
 |**2024-03-18 17:47:39**|**Leveraging Spatial and Semantic Feature Extraction for Skin Cancer   Diagnosis with Capsule Networks and Graph Neural Networks**|K. P. Santoso et.al.|[2403.12009v2](http://arxiv.org/abs/2403.12009v2)|null|
-|**2024-03-18 16:57:16**|**CASPER: Causality-Aware Spatiotemporal Graph Neural Networks for   Spatiotemporal Time Series Imputation**|Baoyu Jing et.al.|[2403.11960v1](http://arxiv.org/abs/2403.11960v1)|null|
-|**2024-03-18 15:26:05**|**NuGraph2: A Graph Neural Network for Neutrino Physics Event   Reconstruction**|V Hewes et.al.|[2403.11872v1](http://arxiv.org/abs/2403.11872v1)|null|
-|**2024-03-18 15:24:47**|**The Real Tropical Geometry of Neural Networks**|Marie-Charlotte Brandenburg et.al.|[2403.11871v1](http://arxiv.org/abs/2403.11871v1)|null|
-|**2024-03-18 14:40:33**|**Problem space structural adversarial attacks for Network Intrusion   Detection Systems based on Graph Neural Networks**|Andrea Venturi et.al.|[2403.11830v1](http://arxiv.org/abs/2403.11830v1)|null|
-|**2024-03-18 14:37:27**|**Graphs Unveiled: Graph Neural Networks and Graph Generation**|László Kovács et.al.|[2403.13849v1](http://arxiv.org/abs/2403.13849v1)|null|
-|**2024-03-18 14:31:09**|**CapsLorentzNet: Integrating Physics Inspired Features with Graph   Convolution**|Rameswar Sahu et.al.|[2403.11826v1](http://arxiv.org/abs/2403.11826v1)|[link](https://github.com/rama726/capslorentznet)|
-|**2024-03-18 09:56:00**|**Dual-Channel Multiplex Graph Neural Networks for Recommendation**|Xiang Li et.al.|[2403.11624v1](http://arxiv.org/abs/2403.11624v1)|null|
-|**2024-03-18 03:56:34**|**Graph Partial Label Learning with Potential Cause Discovering**|Hang Gao et.al.|[2403.11449v1](http://arxiv.org/abs/2403.11449v1)|null|
-|**2024-03-18 01:48:50**|**Layer-diverse Negative Sampling for Graph Neural Networks**|Wei Duan et.al.|[2403.11408v1](http://arxiv.org/abs/2403.11408v1)|null|

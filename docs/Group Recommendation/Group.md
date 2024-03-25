@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-18 01:12:02**|**Visualizing Progress in Broadening Participation in Computing: The Value   of Context**|Valerie Barr et.al.|[2403.14708v1](http://arxiv.org/abs/2403.14708v1)|null|
+|**2024-03-17 21:06:38**|**Synergy of Information in Multimodal IoT Systems -- Discovering the   impact of daily behaviour routines on physical activity level**|Mohsen Shirali et.al.|[2403.14707v1](http://arxiv.org/abs/2403.14707v1)|null|
 |**2024-03-16 00:12:02**|**Assessing Delayed Treatment Benefits of Immunotherapy Using Long-Term   Average Hazard: A Novel Test/Estimation Approach**|Miki Horiguchi et.al.|[2403.10742v1](http://arxiv.org/abs/2403.10742v1)|null|
 |**2024-03-11 12:02:01**|**Group Movie Selection using Multi-channel Emotion Recognition**|Elnara Kadyrgali et.al.|[2403.12087v1](http://arxiv.org/abs/2403.12087v1)|null|
 |**2024-03-09 10:49:31**|**LEGION: Harnessing Pre-trained Language Models for GitHub Topic   Recommendations with Distribution-Balance Loss**|Yen-Trang Dang et.al.|[2403.05873v1](http://arxiv.org/abs/2403.05873v1)|[link](https://github.com/rise-bkai/legion)|
@@ -30,5 +32,3 @@
 |**2024-02-01 16:45:31**|**To tweak or not to tweak. How exploiting flexibilities in gene set   analysis leads to over-optimism**|Milena Wünsch et.al.|[2402.00754v1](http://arxiv.org/abs/2402.00754v1)|null|
 |**2024-02-01 10:49:31**|**Proton Pencil-Beam Scanning Stereotactic Body Radiation Therapy and   Hypofractionated Radiation Therapy for Thoracic Malignancies: Patterns of   Practice Survey and Recommendations for Future Development from NRG Oncology   and PTCOG**|Wei Liu et.al.|[2402.00489v1](http://arxiv.org/abs/2402.00489v1)|null|
 |**2024-02-01 10:42:05**|**A Personalized Framework for Consumer and Producer Group Fairness   Optimization in Recommender Systems**|Hossein A. Rahmani et.al.|[2402.00485v1](http://arxiv.org/abs/2402.00485v1)|null|
-|**2024-01-30 09:04:44**|**Smart Fitting Room: A Generative Approach to Matching-aware Virtual   Try-On**|Mingzhe Yu et.al.|[2401.16825v1](http://arxiv.org/abs/2401.16825v1)|null|
-|**2024-01-29 07:42:46**|**Assessment of the area measurement on Cartosat-1 image**|Joanna Pluto-Kossakowska et.al.|[2401.15932v1](http://arxiv.org/abs/2401.15932v1)|null|
