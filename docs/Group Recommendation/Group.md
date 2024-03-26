@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-25 02:52:42**|**Play to Your Strengths: Collaborative Intelligence of Conventional   Recommender Models and Large Language Models**|Yunjia Xi et.al.|[2403.16378v1](http://arxiv.org/abs/2403.16378v1)|null|
 |**2024-03-18 01:12:02**|**Visualizing Progress in Broadening Participation in Computing: The Value   of Context**|Valerie Barr et.al.|[2403.14708v1](http://arxiv.org/abs/2403.14708v1)|null|
 |**2024-03-17 21:06:38**|**Synergy of Information in Multimodal IoT Systems -- Discovering the   impact of daily behaviour routines on physical activity level**|Mohsen Shirali et.al.|[2403.14707v1](http://arxiv.org/abs/2403.14707v1)|null|
 |**2024-03-16 00:12:02**|**Assessing Delayed Treatment Benefits of Immunotherapy Using Long-Term   Average Hazard: A Novel Test/Estimation Approach**|Miki Horiguchi et.al.|[2403.10742v1](http://arxiv.org/abs/2403.10742v1)|null|
@@ -31,4 +32,3 @@
 |**2024-02-05 08:56:24**|**Intersectional Two-sided Fairness in Recommendation**|Yifan Wang et.al.|[2402.02816v2](http://arxiv.org/abs/2402.02816v2)|null|
 |**2024-02-01 16:45:31**|**To tweak or not to tweak. How exploiting flexibilities in gene set   analysis leads to over-optimism**|Milena Wünsch et.al.|[2402.00754v1](http://arxiv.org/abs/2402.00754v1)|null|
 |**2024-02-01 10:49:31**|**Proton Pencil-Beam Scanning Stereotactic Body Radiation Therapy and   Hypofractionated Radiation Therapy for Thoracic Malignancies: Patterns of   Practice Survey and Recommendations for Future Development from NRG Oncology   and PTCOG**|Wei Liu et.al.|[2402.00489v1](http://arxiv.org/abs/2402.00489v1)|null|
-|**2024-02-01 10:42:05**|**A Personalized Framework for Consumer and Producer Group Fairness   Optimization in Recommender Systems**|Hossein A. Rahmani et.al.|[2402.00485v1](http://arxiv.org/abs/2402.00485v1)|null|
