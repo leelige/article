@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2024-03-29 16:08:34 Asia/Shanghai
+ 自动更新 @ 2024-03-30 16:08:07 Asia/Shanghai
 
 ## Graph Neural Network
 
@@ -13,12 +13,12 @@
 |**2024-03-28 05:07:41**|**Topological Cycle Graph Attention Network for Brain Functional   Connectivity**|Jinghan Huang et.al.|[2403.19149v1](http://arxiv.org/abs/2403.19149v1)|null|
 |**2024-03-28 04:35:27**|**Tiny Graph Neural Networks for Radio Resource Management**|Ahmad Ghasemi et.al.|[2403.19143v1](http://arxiv.org/abs/2403.19143v1)|null|
 |**2024-03-27 16:54:45**|**Many-Objective Evolutionary Influence Maximization: Balancing Spread,   Budget, Fairness, and Time**|Elia Cunegatti et.al.|[2403.18755v2](http://arxiv.org/abs/2403.18755v2)|[link](https://github.com/eliacunegatti/moeim)|
-|**2024-03-27 15:09:46**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for   Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666v2](http://arxiv.org/abs/2403.18666v2)|null|
+|**2024-03-27 15:09:46**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for   Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666v2](http://arxiv.org/abs/2403.18666v2)|[link](https://github.com/kierensharma/fluxgat)|
 |**2024-03-27 13:51:26**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570v1](http://arxiv.org/abs/2403.18570v1)|[link](https://github.com/HammerLabML/physics_informed_gnns_for_wds)|
 |**2024-03-27 11:49:55**|**Lightweight Embeddings for Graph Collaborative Filtering**|Xurong Liang et.al.|[2403.18479v2](http://arxiv.org/abs/2403.18479v2)|[link](https://github.com/xurong-liang/LEGCF)|
 |**2024-03-27 10:06:33**|**The Topos of Transformer Networks**|Mattia Jacopo Villani et.al.|[2403.18415v1](http://arxiv.org/abs/2403.18415v1)|null|
 |**2024-03-27 06:53:52**|**Deciphering Chemical Ordering in High Entropy Materials: A Machine   Learning-Accelerated High-throughput Cluster Expansion Approach**|Guillermo Vazquez et.al.|[2403.18298v1](http://arxiv.org/abs/2403.18298v1)|null|
-|**2024-03-27 06:46:59**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic   Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296v1](http://arxiv.org/abs/2403.18296v1)|null|
+|**2024-03-27 06:46:59**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic   Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296v1](http://arxiv.org/abs/2403.18296v1)|[link](https://github.com/chunbaobao/genet)|
 |**2024-03-27 00:05:48**|**Optimizing Cyber Response Time on Temporal Active Directory Networks   Using Decoys**|Huy Q. Ngo et.al.|[2403.18162v1](http://arxiv.org/abs/2403.18162v1)|null|
 |**2024-03-26 23:03:06**|**HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded   Graph Neural Networks**|Yongyi Yang et.al.|[2403.18142v1](http://arxiv.org/abs/2403.18142v1)|null|
 |**2024-03-26 22:41:41**|**Securing GNNs: Explanation-Based Identification of Backdoored Training   Graphs**|Jane Downer et.al.|[2403.18136v1](http://arxiv.org/abs/2403.18136v1)|null|
@@ -36,42 +36,6 @@
 |**2024-03-25 21:40:44**|**AnimateMe: 4D Facial Expressions via Diffusion Models**|Dimitrios Gerogiannis et.al.|[2403.17213v1](http://arxiv.org/abs/2403.17213v1)|null|
 |**2024-03-25 20:16:16**|**Less Is More -- On the Importance of Sparsification for Transformers and   Graph Neural Networks for TSP**|Attila Lischka et.al.|[2403.17159v1](http://arxiv.org/abs/2403.17159v1)|null|
 |**2024-03-25 18:28:48**|**A Unified CPU-GPU Protocol for GNN Training**|Yi-Chien Lin et.al.|[2403.17092v1](http://arxiv.org/abs/2403.17092v1)|[link](https://github.com/jasonlin316/a-unified-cpu-gpu-protocol-for-gnn-training)|
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-27 13:12:41**|**A Novel Behavior-Based Recommendation System for E-commerce**|Reza Barzegar Nozari et.al.|[2403.18536v1](http://arxiv.org/abs/2403.18536v1)|null|
-|**2024-03-26 23:32:52**|**Large Language Models as Financial Data Annotators: A Study on   Effectiveness and Efficiency**|Toyin Aguda et.al.|[2403.18152v1](http://arxiv.org/abs/2403.18152v1)|null|
-|**2024-03-25 22:35:43**|**A recommender network perspective on the informational value of critics   and crowds**|Pantelis P. Analytis et.al.|[2403.18868v1](http://arxiv.org/abs/2403.18868v1)|null|
-|**2024-03-25 02:52:42**|**Play to Your Strengths: Collaborative Intelligence of Conventional   Recommender Models and Large Language Models**|Yunjia Xi et.al.|[2403.16378v1](http://arxiv.org/abs/2403.16378v1)|null|
-|**2024-03-18 01:12:02**|**Visualizing Progress in Broadening Participation in Computing: The Value   of Context**|Valerie Barr et.al.|[2403.14708v1](http://arxiv.org/abs/2403.14708v1)|null|
-|**2024-03-17 21:06:38**|**Synergy of Information in Multimodal IoT Systems -- Discovering the   impact of daily behaviour routines on physical activity level**|Mohsen Shirali et.al.|[2403.14707v1](http://arxiv.org/abs/2403.14707v1)|null|
-|**2024-03-16 00:12:02**|**Assessing Delayed Treatment Benefits of Immunotherapy Using Long-Term   Average Hazard: A Novel Test/Estimation Approach**|Miki Horiguchi et.al.|[2403.10742v1](http://arxiv.org/abs/2403.10742v1)|null|
-|**2024-03-11 12:02:01**|**Group Movie Selection using Multi-channel Emotion Recognition**|Elnara Kadyrgali et.al.|[2403.12087v1](http://arxiv.org/abs/2403.12087v1)|null|
-|**2024-03-09 10:49:31**|**LEGION: Harnessing Pre-trained Language Models for GitHub Topic   Recommendations with Distribution-Balance Loss**|Yen-Trang Dang et.al.|[2403.05873v1](http://arxiv.org/abs/2403.05873v1)|[link](https://github.com/rise-bkai/legion)|
-|**2024-03-07 17:24:32**|**Canadian Physics Counts: An exploration of the diverse identities of   physics students and professionals in Canada**|Eden J. Hennessey et.al.|[2403.04679v1](http://arxiv.org/abs/2403.04679v1)|null|
-|**2024-03-07 14:14:40**|**Uncovering the Deep Filter Bubble: Narrow Exposure in Short-Video   Recommendation**|Nicholas Sukiennik et.al.|[2403.04511v1](http://arxiv.org/abs/2403.04511v1)|null|
-|**2024-03-06 20:37:29**|**Sample size planning for conditional counterfactual mean estimation with   a K-armed randomized experiment**|Gabriel Ruiz et.al.|[2403.04039v1](http://arxiv.org/abs/2403.04039v1)|null|
-|**2024-03-06 15:41:41**|**Comparing the efficacy of fixed effect and MAIHDA models in predicting   outcomes for intersectional social strata**|Ben Van Dusen et.al.|[2403.12081v1](http://arxiv.org/abs/2403.12081v1)|null|
-|**2024-03-05 06:23:00**|**Uplift Modeling for Target User Attacks on Recommender Systems**|Wenjie Wang et.al.|[2403.02692v1](http://arxiv.org/abs/2403.02692v1)|[link](https://github.com/wcsa23187/uba)|
-|**2024-03-04 17:45:52**|**Human-AI Collaboration Increases Skill Tagging Speed but Degrades   Accuracy**|Cheng Ren et.al.|[2403.02259v1](http://arxiv.org/abs/2403.02259v1)|null|
-|**2024-03-04 07:32:28**|**Beyond Recommender: An Exploratory Study of the Effects of Different AI   Roles in AI-Assisted Decision Making**|Shuai Ma et.al.|[2403.01791v1](http://arxiv.org/abs/2403.01791v1)|null|
-|**2024-03-04 00:03:00**|**Recommendations for Government Development and Use of Advanced Automated   Systems to Make Decisions about Individuals**|Susan Landau et.al.|[2403.01649v1](http://arxiv.org/abs/2403.01649v1)|null|
-|**2024-03-02 14:30:57**|**A Two-Stage Algorithm for Cost-Efficient Multi-instance Counterfactual   Explanations**|André Artelt et.al.|[2403.01221v1](http://arxiv.org/abs/2403.01221v1)|[link](https://github.com/andreartelt/twostagemultiinstcfs)|
-|**2024-02-29 19:14:24**|**The Constitutions of Web3**|Joshua Z. Tan et.al.|[2403.00081v1](http://arxiv.org/abs/2403.00081v1)|[link](https://github.com/metagov/constitution-template)|
-|**2024-02-27 10:40:15**|**Designing Chatbots to Support Victims and Survivors of Domestic Abuse**|Rahime Belen Saglam et.al.|[2402.17393v1](http://arxiv.org/abs/2402.17393v1)|null|
-|**2024-02-22 13:52:02**|**LLMs with Industrial Lens: Deciphering the Challenges and Prospects -- A   Survey**|Ashok Urlana et.al.|[2402.14558v1](http://arxiv.org/abs/2402.14558v1)|null|
-|**2024-02-22 01:19:12**|**The impact of Facebook-Cambridge Analytica data scandal on the USA tech   stock market: An event study based on clustering method**|Vahidin Jeleskovic et.al.|[2402.14206v1](http://arxiv.org/abs/2402.14206v1)|null|
-|**2024-02-19 21:05:55**|**Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness   in Online Dating Recommendations Based on User Sexual Orientation**|Yuying Zhao et.al.|[2402.12541v1](http://arxiv.org/abs/2402.12541v1)|null|
-|**2024-02-17 12:27:30**|**Mirror Gradient: Towards Robust Multimodal Recommender Systems via   Exploring Flat Local Minima**|Shanshan Zhong et.al.|[2402.11262v1](http://arxiv.org/abs/2402.11262v1)|[link](https://github.com/qrange-group/mirror-gradient)|
-|**2024-02-17 00:10:33**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139v1](http://arxiv.org/abs/2402.11139v1)|null|
-|**2024-02-16 12:26:59**|**FairSync: Ensuring Amortized Group Exposure in Distributed   Recommendation Retrieval**|Chen Xu et.al.|[2402.10628v1](http://arxiv.org/abs/2402.10628v1)|[link](https://github.com/xuchen0427/fairsync)|
-|**2024-02-15 14:04:17**|**Ad interim recommendations for the Higgs boson production cross sections   at $\sqrt{s} = 13.6$ TeV**|Alexander Karlberg et.al.|[2402.09955v1](http://arxiv.org/abs/2402.09955v1)|null|
-|**2024-02-06 14:26:22**|**HEAM : Hashed Embedding Acceleration using Processing-In-Memory**|Youngsuk Kim et.al.|[2402.04032v3](http://arxiv.org/abs/2402.04032v3)|null|
-|**2024-02-06 00:20:49**|**Understanding and Counteracting Feature-Level Bias in Click-Through Rate   Prediction**|Jinqiu Jin et.al.|[2402.03600v1](http://arxiv.org/abs/2402.03600v1)|[link](https://github.com/mitao-cat/feature-level_bias)|
-|**2024-02-05 19:03:23**|**Recommendation Fairness in Social Networks Over Time**|Meng Cao et.al.|[2402.03450v1](http://arxiv.org/abs/2402.03450v1)|null|
 
 ## Multi Interest Recommendation
 
@@ -108,3 +72,39 @@
 |**2023-11-03 10:39:42**|**Universal Multi-modal Multi-domain Pre-trained Recommendation**|Wenqi Sun et.al.|[2311.01831v1](http://arxiv.org/abs/2311.01831v1)|null|
 |**2023-11-02 10:16:28**|**Bi-Preference Learning Heterogeneous Hypergraph Networks for   Session-based Recommendation**|Xiaokun Zhang et.al.|[2311.01125v1](http://arxiv.org/abs/2311.01125v1)|[link](https://github.com/zhang-xiaokun/bipnet)|
 |**2023-11-02 08:01:36**|**Collaboration and Transition: Distilling Item Transitions into   Multi-Query Self-Attention for Sequential Recommendation**|Tianyu Zhu et.al.|[2311.01056v2](http://arxiv.org/abs/2311.01056v2)|[link](https://github.com/zhuty16/mqsa-ted)|
+
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-27 13:12:41**|**A Novel Behavior-Based Recommendation System for E-commerce**|Reza Barzegar Nozari et.al.|[2403.18536v1](http://arxiv.org/abs/2403.18536v1)|null|
+|**2024-03-26 23:32:52**|**Large Language Models as Financial Data Annotators: A Study on   Effectiveness and Efficiency**|Toyin Aguda et.al.|[2403.18152v1](http://arxiv.org/abs/2403.18152v1)|null|
+|**2024-03-25 22:35:43**|**A recommender network perspective on the informational value of critics   and crowds**|Pantelis P. Analytis et.al.|[2403.18868v1](http://arxiv.org/abs/2403.18868v1)|null|
+|**2024-03-25 02:52:42**|**Play to Your Strengths: Collaborative Intelligence of Conventional   Recommender Models and Large Language Models**|Yunjia Xi et.al.|[2403.16378v1](http://arxiv.org/abs/2403.16378v1)|null|
+|**2024-03-18 01:12:02**|**Visualizing Progress in Broadening Participation in Computing: The Value   of Context**|Valerie Barr et.al.|[2403.14708v1](http://arxiv.org/abs/2403.14708v1)|null|
+|**2024-03-17 21:06:38**|**Synergy of Information in Multimodal IoT Systems -- Discovering the   impact of daily behaviour routines on physical activity level**|Mohsen Shirali et.al.|[2403.14707v1](http://arxiv.org/abs/2403.14707v1)|null|
+|**2024-03-16 00:12:02**|**Assessing Delayed Treatment Benefits of Immunotherapy Using Long-Term   Average Hazard: A Novel Test/Estimation Approach**|Miki Horiguchi et.al.|[2403.10742v1](http://arxiv.org/abs/2403.10742v1)|null|
+|**2024-03-11 12:02:01**|**Group Movie Selection using Multi-channel Emotion Recognition**|Elnara Kadyrgali et.al.|[2403.12087v1](http://arxiv.org/abs/2403.12087v1)|null|
+|**2024-03-09 10:49:31**|**LEGION: Harnessing Pre-trained Language Models for GitHub Topic   Recommendations with Distribution-Balance Loss**|Yen-Trang Dang et.al.|[2403.05873v1](http://arxiv.org/abs/2403.05873v1)|[link](https://github.com/rise-bkai/legion)|
+|**2024-03-07 17:24:32**|**Canadian Physics Counts: An exploration of the diverse identities of   physics students and professionals in Canada**|Eden J. Hennessey et.al.|[2403.04679v1](http://arxiv.org/abs/2403.04679v1)|null|
+|**2024-03-07 14:14:40**|**Uncovering the Deep Filter Bubble: Narrow Exposure in Short-Video   Recommendation**|Nicholas Sukiennik et.al.|[2403.04511v1](http://arxiv.org/abs/2403.04511v1)|null|
+|**2024-03-06 20:37:29**|**Sample size planning for conditional counterfactual mean estimation with   a K-armed randomized experiment**|Gabriel Ruiz et.al.|[2403.04039v1](http://arxiv.org/abs/2403.04039v1)|null|
+|**2024-03-06 15:41:41**|**Comparing the efficacy of fixed effect and MAIHDA models in predicting   outcomes for intersectional social strata**|Ben Van Dusen et.al.|[2403.12081v1](http://arxiv.org/abs/2403.12081v1)|null|
+|**2024-03-05 06:23:00**|**Uplift Modeling for Target User Attacks on Recommender Systems**|Wenjie Wang et.al.|[2403.02692v1](http://arxiv.org/abs/2403.02692v1)|[link](https://github.com/wcsa23187/uba)|
+|**2024-03-04 17:45:52**|**Human-AI Collaboration Increases Skill Tagging Speed but Degrades   Accuracy**|Cheng Ren et.al.|[2403.02259v1](http://arxiv.org/abs/2403.02259v1)|null|
+|**2024-03-04 07:32:28**|**Beyond Recommender: An Exploratory Study of the Effects of Different AI   Roles in AI-Assisted Decision Making**|Shuai Ma et.al.|[2403.01791v1](http://arxiv.org/abs/2403.01791v1)|null|
+|**2024-03-04 00:03:00**|**Recommendations for Government Development and Use of Advanced Automated   Systems to Make Decisions about Individuals**|Susan Landau et.al.|[2403.01649v1](http://arxiv.org/abs/2403.01649v1)|null|
+|**2024-03-02 14:30:57**|**A Two-Stage Algorithm for Cost-Efficient Multi-instance Counterfactual   Explanations**|André Artelt et.al.|[2403.01221v1](http://arxiv.org/abs/2403.01221v1)|[link](https://github.com/andreartelt/twostagemultiinstcfs)|
+|**2024-02-29 19:14:24**|**The Constitutions of Web3**|Joshua Z. Tan et.al.|[2403.00081v1](http://arxiv.org/abs/2403.00081v1)|[link](https://github.com/metagov/constitution-template)|
+|**2024-02-27 10:40:15**|**Designing Chatbots to Support Victims and Survivors of Domestic Abuse**|Rahime Belen Saglam et.al.|[2402.17393v1](http://arxiv.org/abs/2402.17393v1)|null|
+|**2024-02-22 13:52:02**|**LLMs with Industrial Lens: Deciphering the Challenges and Prospects -- A   Survey**|Ashok Urlana et.al.|[2402.14558v1](http://arxiv.org/abs/2402.14558v1)|null|
+|**2024-02-22 01:19:12**|**The impact of Facebook-Cambridge Analytica data scandal on the USA tech   stock market: An event study based on clustering method**|Vahidin Jeleskovic et.al.|[2402.14206v1](http://arxiv.org/abs/2402.14206v1)|null|
+|**2024-02-19 21:05:55**|**Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness   in Online Dating Recommendations Based on User Sexual Orientation**|Yuying Zhao et.al.|[2402.12541v1](http://arxiv.org/abs/2402.12541v1)|null|
+|**2024-02-17 12:27:30**|**Mirror Gradient: Towards Robust Multimodal Recommender Systems via   Exploring Flat Local Minima**|Shanshan Zhong et.al.|[2402.11262v1](http://arxiv.org/abs/2402.11262v1)|[link](https://github.com/qrange-group/mirror-gradient)|
+|**2024-02-17 00:10:33**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139v1](http://arxiv.org/abs/2402.11139v1)|null|
+|**2024-02-16 12:26:59**|**FairSync: Ensuring Amortized Group Exposure in Distributed   Recommendation Retrieval**|Chen Xu et.al.|[2402.10628v1](http://arxiv.org/abs/2402.10628v1)|[link](https://github.com/xuchen0427/fairsync)|
+|**2024-02-15 14:04:17**|**Ad interim recommendations for the Higgs boson production cross sections   at $\sqrt{s} = 13.6$ TeV**|Alexander Karlberg et.al.|[2402.09955v1](http://arxiv.org/abs/2402.09955v1)|null|
+|**2024-02-06 14:26:22**|**HEAM : Hashed Embedding Acceleration using Processing-In-Memory**|Youngsuk Kim et.al.|[2402.04032v3](http://arxiv.org/abs/2402.04032v3)|null|
+|**2024-02-06 00:20:49**|**Understanding and Counteracting Feature-Level Bias in Click-Through Rate   Prediction**|Jinqiu Jin et.al.|[2402.03600v1](http://arxiv.org/abs/2402.03600v1)|[link](https://github.com/mitao-cat/feature-level_bias)|
+|**2024-02-05 19:03:23**|**Recommendation Fairness in Social Networks Over Time**|Meng Cao et.al.|[2402.03450v1](http://arxiv.org/abs/2402.03450v1)|null|

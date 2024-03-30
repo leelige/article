@@ -9,12 +9,12 @@
 |**2024-03-28 05:07:41**|**Topological Cycle Graph Attention Network for Brain Functional   Connectivity**|Jinghan Huang et.al.|[2403.19149v1](http://arxiv.org/abs/2403.19149v1)|null|
 |**2024-03-28 04:35:27**|**Tiny Graph Neural Networks for Radio Resource Management**|Ahmad Ghasemi et.al.|[2403.19143v1](http://arxiv.org/abs/2403.19143v1)|null|
 |**2024-03-27 16:54:45**|**Many-Objective Evolutionary Influence Maximization: Balancing Spread,   Budget, Fairness, and Time**|Elia Cunegatti et.al.|[2403.18755v2](http://arxiv.org/abs/2403.18755v2)|[link](https://github.com/eliacunegatti/moeim)|
-|**2024-03-27 15:09:46**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for   Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666v2](http://arxiv.org/abs/2403.18666v2)|null|
+|**2024-03-27 15:09:46**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for   Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666v2](http://arxiv.org/abs/2403.18666v2)|[link](https://github.com/kierensharma/fluxgat)|
 |**2024-03-27 13:51:26**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570v1](http://arxiv.org/abs/2403.18570v1)|[link](https://github.com/HammerLabML/physics_informed_gnns_for_wds)|
 |**2024-03-27 11:49:55**|**Lightweight Embeddings for Graph Collaborative Filtering**|Xurong Liang et.al.|[2403.18479v2](http://arxiv.org/abs/2403.18479v2)|[link](https://github.com/xurong-liang/LEGCF)|
 |**2024-03-27 10:06:33**|**The Topos of Transformer Networks**|Mattia Jacopo Villani et.al.|[2403.18415v1](http://arxiv.org/abs/2403.18415v1)|null|
 |**2024-03-27 06:53:52**|**Deciphering Chemical Ordering in High Entropy Materials: A Machine   Learning-Accelerated High-throughput Cluster Expansion Approach**|Guillermo Vazquez et.al.|[2403.18298v1](http://arxiv.org/abs/2403.18298v1)|null|
-|**2024-03-27 06:46:59**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic   Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296v1](http://arxiv.org/abs/2403.18296v1)|null|
+|**2024-03-27 06:46:59**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic   Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296v1](http://arxiv.org/abs/2403.18296v1)|[link](https://github.com/chunbaobao/genet)|
 |**2024-03-27 00:05:48**|**Optimizing Cyber Response Time on Temporal Active Directory Networks   Using Decoys**|Huy Q. Ngo et.al.|[2403.18162v1](http://arxiv.org/abs/2403.18162v1)|null|
 |**2024-03-26 23:03:06**|**HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded   Graph Neural Networks**|Yongyi Yang et.al.|[2403.18142v1](http://arxiv.org/abs/2403.18142v1)|null|
 |**2024-03-26 22:41:41**|**Securing GNNs: Explanation-Based Identification of Backdoored Training   Graphs**|Jane Downer et.al.|[2403.18136v1](http://arxiv.org/abs/2403.18136v1)|null|
