@@ -2,6 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-29 15:05:57**|**Graph Neural Aggregation-diffusion with Metastability**|Kaiyuan Cui et.al.|[2403.20221v1](http://arxiv.org/abs/2403.20221v1)|null|
+|**2024-03-29 14:47:54**|**On Size and Hardness Generalization in Unsupervised Learning for the   Travelling Salesman Problem**|Yimeng Min et.al.|[2403.20212v1](http://arxiv.org/abs/2403.20212v1)|null|
+|**2024-03-29 14:24:15**|**NeuraLunaDTNet: Feedforward Neural Network-Based Routing Protocol for   Delay-Tolerant Lunar Communication Networks**|Parth Patel et.al.|[2403.20199v1](http://arxiv.org/abs/2403.20199v1)|null|
+|**2024-03-29 12:15:25**|**Na Vacancy Driven Phase Transformation and Fast Ion Conduction in   W-doped Na$_3$SbS$_4$ from Machine Learning Force Fields**|Johan Klarbring et.al.|[2403.20138v1](http://arxiv.org/abs/2403.20138v1)|null|
+|**2024-03-29 10:18:19**|**KGUF: Simple Knowledge-aware Graph-based Recommender with User-based   Semantic Features Filtering**|Salvatore Bufi et.al.|[2403.20095v1](http://arxiv.org/abs/2403.20095v1)|[link](https://github.com/sisinflab/kguf)|
+|**2024-03-29 02:48:54**|**Spin cones in random-field XY models**|Rajiv G Pereira et.al.|[2403.19939v1](http://arxiv.org/abs/2403.19939v1)|null|
+|**2024-03-29 02:42:39**|**SLFNet: Generating Semantic Logic Forms from Natural Language Using   Semantic Probability Graphs**|Hao Wu et.al.|[2403.19936v1](http://arxiv.org/abs/2403.19936v1)|null|
+|**2024-03-29 01:25:05**|**Beyond the Known: Novel Class Discovery for Open-world Graph Learning**|Yucheng Jin et.al.|[2403.19907v1](http://arxiv.org/abs/2403.19907v1)|null|
+|**2024-03-28 21:54:48**|**A Review of Graph Neural Networks in Epidemic Modeling**|Zewen Liu et.al.|[2403.19852v1](http://arxiv.org/abs/2403.19852v1)|null|
+|**2024-03-28 19:29:17**|**Gegenbauer Graph Neural Networks for Time-varying Signal Reconstruction**|Jhon A. Castro-Correa et.al.|[2403.19800v1](http://arxiv.org/abs/2403.19800v1)|[link](https://github.com/jcastro295/gegengnn)|
 |**2024-03-28 15:01:58**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion   for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474v1](http://arxiv.org/abs/2403.19474v1)|[link](https://github.com/dfki-av/sg-pgm)|
 |**2024-03-28 14:11:40**|**Exploiting Individual Graph Structures to Enhance Ecological Momentary   Assessment (EMA) Forecasting**|Mandani Ntekouli et.al.|[2403.19442v1](http://arxiv.org/abs/2403.19442v1)|null|
 |**2024-03-28 10:19:36**|**Graph Neural Networks for Treatment Effect Prediction**|George Panagopoulos et.al.|[2403.19289v1](http://arxiv.org/abs/2403.19289v1)|null|
@@ -22,13 +32,3 @@
 |**2024-03-26 14:46:28**|**Neural Attributed Community Search at Billion Scale**|Jianwei Wang et.al.|[2403.18874v1](http://arxiv.org/abs/2403.18874v1)|null|
 |**2024-03-26 13:24:52**|**Assessing the similarity of real matrices with arbitrary shape**|Jasper Albers et.al.|[2403.17687v1](http://arxiv.org/abs/2403.17687v1)|[link](https://github.com/inm-6/sas)|
 |**2024-03-26 12:47:04**|**CANOS: A Fast and Scalable Neural AC-OPF Solver Robust To N-1   Perturbations**|Luis Piloto et.al.|[2403.17660v1](http://arxiv.org/abs/2403.17660v1)|null|
-|**2024-03-26 12:29:18**|**Intrinsic Subgraph Generation for Interpretable Graph based Visual   Question Answering**|Pascal Tilli et.al.|[2403.17647v2](http://arxiv.org/abs/2403.17647v2)|[link](https://github.com/digitalphonetics/intrinsic-subgraph-generation-for-vqa)|
-|**2024-03-26 09:09:40**|**EL-MLFFs: Ensemble Learning of Machine Leaning Force Fields**|Bangchen Yin et.al.|[2403.17507v1](http://arxiv.org/abs/2403.17507v1)|null|
-|**2024-03-26 08:59:37**|**Variational Graph Auto-Encoder Based Inductive Learning Method for   Semi-Supervised Classification**|Hanxuan Yang et.al.|[2403.17500v1](http://arxiv.org/abs/2403.17500v1)|null|
-|**2024-03-26 06:14:19**|**AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering   for Recommendations**|Wei Wu et.al.|[2403.17416v1](http://arxiv.org/abs/2403.17416v1)|null|
-|**2024-03-26 05:10:47**|**Explainable Graph Neural Networks for Observation Impact Analysis in   Atmospheric State Estimation**|Hyeon-Ju Jeon et.al.|[2403.17384v1](http://arxiv.org/abs/2403.17384v1)|null|
-|**2024-03-26 03:29:42**|**Learn from Heterophily: Heterophilous Information-enhanced Graph Neural   Network**|Yilun Zheng et.al.|[2403.17351v1](http://arxiv.org/abs/2403.17351v1)|null|
-|**2024-03-25 22:39:47**|**Manufacturing Service Capability Prediction with Graph Neural Networks**|Yunqing Li et.al.|[2403.17239v1](http://arxiv.org/abs/2403.17239v1)|null|
-|**2024-03-25 21:40:44**|**AnimateMe: 4D Facial Expressions via Diffusion Models**|Dimitrios Gerogiannis et.al.|[2403.17213v1](http://arxiv.org/abs/2403.17213v1)|null|
-|**2024-03-25 20:16:16**|**Less Is More -- On the Importance of Sparsification for Transformers and   Graph Neural Networks for TSP**|Attila Lischka et.al.|[2403.17159v1](http://arxiv.org/abs/2403.17159v1)|null|
-|**2024-03-25 18:28:48**|**A Unified CPU-GPU Protocol for GNN Training**|Yi-Chien Lin et.al.|[2403.17092v1](http://arxiv.org/abs/2403.17092v1)|[link](https://github.com/jasonlin316/a-unified-cpu-gpu-protocol-for-gnn-training)|
