@@ -1,5 +1,41 @@
 # arxiv-daily
- 自动更新 @ 2024-04-01 16:10:12 Asia/Shanghai
+ 自动更新 @ 2024-04-02 16:08:23 Asia/Shanghai
+
+## Multi Interest Recommendation
+
+### Multi Interest
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-26 11:28:31**|**END4Rec: Efficient Noise-Decoupling for Multi-Behavior Sequential   Recommendation**|Yongqiang Han et.al.|[2403.17603v1](http://arxiv.org/abs/2403.17603v1)|null|
+|**2024-03-26 07:19:26**|**Touch the Core: Exploring Task Dependence Among Hybrid Targets for   Recommendation**|Xing Tang et.al.|[2403.17442v1](http://arxiv.org/abs/2403.17442v1)|null|
+|**2024-03-17 08:43:12**|**Learning Time Slot Preferences via Mobility Tree for Next POI   Recommendation**|Tianhao Huang et.al.|[2403.12100v1](http://arxiv.org/abs/2403.12100v1)|[link](https://github.com/skyyyy0920/mtnet)|
+|**2024-03-08 07:36:14**|**Multi-Tower Multi-Interest Recommendation with User Representation Repel**|Tianyu Xiong et.al.|[2403.05122v1](http://arxiv.org/abs/2403.05122v1)|null|
+|**2024-02-27 09:10:41**|**BiVRec: Bidirectional View-based Multimodal Sequential Recommendation**|Jiaxi Hu et.al.|[2402.17334v2](http://arxiv.org/abs/2402.17334v2)|null|
+|**2024-02-22 09:32:34**|**Ensure Timeliness and Accuracy: A Novel Sliding Window Data Stream   Paradigm for Live Streaming Recommendation**|Fengqi Liang et.al.|[2402.14399v1](http://arxiv.org/abs/2402.14399v1)|null|
+|**2024-02-21 03:14:37**|**Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards   Improving User Interest Diversity Fairness**|Yuying Zhao et.al.|[2402.13495v1](http://arxiv.org/abs/2402.13495v1)|null|
+|**2024-02-20 05:57:01**|**BMLP: Behavior-aware MLP for Heterogeneous Sequential Recommendation**|Weixin Li et.al.|[2402.12733v1](http://arxiv.org/abs/2402.12733v1)|null|
+|**2024-02-17 00:10:33**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139v1](http://arxiv.org/abs/2402.11139v1)|null|
+|**2024-02-13 11:02:12**|**Helping university students to choose elective courses by using a hybrid   multi-criteria recommendation system with genetic optimization**|A. Esteban et.al.|[2402.08371v1](http://arxiv.org/abs/2402.08371v1)|null|
+|**2024-02-13 07:12:44**|**Modeling Balanced Explicit and Implicit Relations with Contrastive   Learning for Knowledge Concept Recommendation in MOOCs**|Hengnian Gu et.al.|[2402.08256v1](http://arxiv.org/abs/2402.08256v1)|null|
+|**2024-02-05 09:53:08**|**Trinity: Syncretizing Multi-/Long-tail/Long-term Interests All in One**|Jing Yan et.al.|[2402.02842v1](http://arxiv.org/abs/2402.02842v1)|null|
+|**2024-02-02 09:20:48**|**RimiRec: Modeling Refined Multi-interest in Hierarchical Structure for   Recommendation**|Haolei Pei et.al.|[2402.01253v3](http://arxiv.org/abs/2402.01253v3)|null|
+|**2024-01-31 14:06:26**|**Uncertainty-Aware Explainable Recommendation with Large Language Models**|Yicui Peng et.al.|[2402.03366v1](http://arxiv.org/abs/2402.03366v1)|null|
+|**2024-01-21 23:56:57**|**What Are We Optimizing For? A Human-centric Evaluation Of Deep   Learning-based Recommender Systems**|Ruixuan Sun et.al.|[2401.11632v1](http://arxiv.org/abs/2401.11632v1)|null|
+|**2024-01-19 11:22:04**|**Automatic Construction of Multi-faceted User Profiles using Text   Clustering and its Application to Expert Recommendation and Filtering   Problems**|Luis M. de Campos et.al.|[2401.10634v1](http://arxiv.org/abs/2401.10634v1)|null|
+|**2024-01-16 09:04:17**|**LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable   Recommendation**|Zhixuan Chu et.al.|[2401.08217v2](http://arxiv.org/abs/2401.08217v2)|null|
+|**2024-01-12 09:32:34**|**UNEX-RL: Reinforcing Long-Term Rewards in Multi-Stage Recommender   Systems with UNidirectional EXecution**|Gengrui Zhang et.al.|[2401.06470v1](http://arxiv.org/abs/2401.06470v1)|null|
+|**2024-01-09 02:04:06**|**Prompt-based Multi-interest Learning Method for Sequential   Recommendation**|Xue Dong et.al.|[2401.04312v1](http://arxiv.org/abs/2401.04312v1)|null|
+|**2023-12-18 02:18:33**|**A novel diffusion recommendation algorithm based on multi-scale cnn and   residual lstm**|Yong Niu et.al.|[2312.10885v2](http://arxiv.org/abs/2312.10885v2)|null|
+|**2023-12-12 17:40:16**|**Multi-criteria recommendation systems to foster online grocery**|Manar Mohamed Hafez et.al.|[2312.08393v1](http://arxiv.org/abs/2312.08393v1)|null|
+|**2023-12-04 14:20:16**|**PEACE: Prototype lEarning Augmented transferable framework for   Cross-domain rEcommendation**|Chunjing Gan et.al.|[2312.01916v2](http://arxiv.org/abs/2312.01916v2)|null|
+|**2023-11-29 05:59:24**|**Attribute Simulation for Item Embedding Enhancement in Multi-interest   Recommendation**|Yaokun Liu et.al.|[2311.17374v1](http://arxiv.org/abs/2311.17374v1)|null|
+|**2023-11-22 02:49:14**|**GENET: Unleashing the Power of Side Information for Recommendation via   Hypergraph Pre-training**|Yang Li et.al.|[2311.13121v1](http://arxiv.org/abs/2311.13121v1)|null|
+|**2023-11-20 19:37:57**|**Multi-view Graph Convolution for Participant Recommendation**|Xiaolong Liu et.al.|[2311.12136v1](http://arxiv.org/abs/2311.12136v1)|null|
+|**2023-11-08 15:33:06**|**Towards Open-world Cross-Domain Sequential Recommendation: A   Model-Agnostic Contrastive Denoising Approach**|Wujiang Xu et.al.|[2311.04760v2](http://arxiv.org/abs/2311.04760v2)|null|
+|**2023-11-08 10:44:20**|**Rethinking Cross-Domain Sequential Recommendation under Open-World   Assumptions**|Wujiang Xu et.al.|[2311.04590v5](http://arxiv.org/abs/2311.04590v5)|[link](https://github.com/wujiangxu/amid)|
+|**2023-11-03 10:39:42**|**Universal Multi-modal Multi-domain Pre-trained Recommendation**|Wenqi Sun et.al.|[2311.01831v1](http://arxiv.org/abs/2311.01831v1)|null|
+|**2023-11-02 10:16:28**|**Bi-Preference Learning Heterogeneous Hypergraph Networks for   Session-based Recommendation**|Xiaokun Zhang et.al.|[2311.01125v1](http://arxiv.org/abs/2311.01125v1)|[link](https://github.com/zhang-xiaokun/bipnet)|
+|**2023-11-02 08:01:36**|**Collaboration and Transition: Distilling Item Transitions into   Multi-Query Self-Attention for Sequential Recommendation**|Tianyu Zhu et.al.|[2311.01056v2](http://arxiv.org/abs/2311.01056v2)|[link](https://github.com/zhuty16/mqsa-ted)|
 
 ## Graph Neural Network
 
@@ -72,39 +108,3 @@
 |**2024-02-06 14:26:22**|**HEAM : Hashed Embedding Acceleration using Processing-In-Memory**|Youngsuk Kim et.al.|[2402.04032v3](http://arxiv.org/abs/2402.04032v3)|null|
 |**2024-02-06 00:20:49**|**Understanding and Counteracting Feature-Level Bias in Click-Through Rate   Prediction**|Jinqiu Jin et.al.|[2402.03600v1](http://arxiv.org/abs/2402.03600v1)|[link](https://github.com/mitao-cat/feature-level_bias)|
 |**2024-02-05 19:03:23**|**Recommendation Fairness in Social Networks Over Time**|Meng Cao et.al.|[2402.03450v1](http://arxiv.org/abs/2402.03450v1)|null|
-
-## Multi Interest Recommendation
-
-### Multi Interest
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-26 11:28:31**|**END4Rec: Efficient Noise-Decoupling for Multi-Behavior Sequential   Recommendation**|Yongqiang Han et.al.|[2403.17603v1](http://arxiv.org/abs/2403.17603v1)|null|
-|**2024-03-26 07:19:26**|**Touch the Core: Exploring Task Dependence Among Hybrid Targets for   Recommendation**|Xing Tang et.al.|[2403.17442v1](http://arxiv.org/abs/2403.17442v1)|null|
-|**2024-03-17 08:43:12**|**Learning Time Slot Preferences via Mobility Tree for Next POI   Recommendation**|Tianhao Huang et.al.|[2403.12100v1](http://arxiv.org/abs/2403.12100v1)|[link](https://github.com/skyyyy0920/mtnet)|
-|**2024-03-08 07:36:14**|**Multi-Tower Multi-Interest Recommendation with User Representation Repel**|Tianyu Xiong et.al.|[2403.05122v1](http://arxiv.org/abs/2403.05122v1)|null|
-|**2024-02-27 09:10:41**|**BiVRec: Bidirectional View-based Multimodal Sequential Recommendation**|Jiaxi Hu et.al.|[2402.17334v2](http://arxiv.org/abs/2402.17334v2)|null|
-|**2024-02-22 09:32:34**|**Ensure Timeliness and Accuracy: A Novel Sliding Window Data Stream   Paradigm for Live Streaming Recommendation**|Fengqi Liang et.al.|[2402.14399v1](http://arxiv.org/abs/2402.14399v1)|null|
-|**2024-02-21 03:14:37**|**Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards   Improving User Interest Diversity Fairness**|Yuying Zhao et.al.|[2402.13495v1](http://arxiv.org/abs/2402.13495v1)|null|
-|**2024-02-20 05:57:01**|**BMLP: Behavior-aware MLP for Heterogeneous Sequential Recommendation**|Weixin Li et.al.|[2402.12733v1](http://arxiv.org/abs/2402.12733v1)|null|
-|**2024-02-17 00:10:33**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139v1](http://arxiv.org/abs/2402.11139v1)|null|
-|**2024-02-13 11:02:12**|**Helping university students to choose elective courses by using a hybrid   multi-criteria recommendation system with genetic optimization**|A. Esteban et.al.|[2402.08371v1](http://arxiv.org/abs/2402.08371v1)|null|
-|**2024-02-13 07:12:44**|**Modeling Balanced Explicit and Implicit Relations with Contrastive   Learning for Knowledge Concept Recommendation in MOOCs**|Hengnian Gu et.al.|[2402.08256v1](http://arxiv.org/abs/2402.08256v1)|null|
-|**2024-02-05 09:53:08**|**Trinity: Syncretizing Multi-/Long-tail/Long-term Interests All in One**|Jing Yan et.al.|[2402.02842v1](http://arxiv.org/abs/2402.02842v1)|null|
-|**2024-02-02 09:20:48**|**RimiRec: Modeling Refined Multi-interest in Hierarchical Structure for   Recommendation**|Haolei Pei et.al.|[2402.01253v3](http://arxiv.org/abs/2402.01253v3)|null|
-|**2024-01-31 14:06:26**|**Uncertainty-Aware Explainable Recommendation with Large Language Models**|Yicui Peng et.al.|[2402.03366v1](http://arxiv.org/abs/2402.03366v1)|null|
-|**2024-01-21 23:56:57**|**What Are We Optimizing For? A Human-centric Evaluation Of Deep   Learning-based Recommender Systems**|Ruixuan Sun et.al.|[2401.11632v1](http://arxiv.org/abs/2401.11632v1)|null|
-|**2024-01-19 11:22:04**|**Automatic Construction of Multi-faceted User Profiles using Text   Clustering and its Application to Expert Recommendation and Filtering   Problems**|Luis M. de Campos et.al.|[2401.10634v1](http://arxiv.org/abs/2401.10634v1)|null|
-|**2024-01-16 09:04:17**|**LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable   Recommendation**|Zhixuan Chu et.al.|[2401.08217v2](http://arxiv.org/abs/2401.08217v2)|null|
-|**2024-01-12 09:32:34**|**UNEX-RL: Reinforcing Long-Term Rewards in Multi-Stage Recommender   Systems with UNidirectional EXecution**|Gengrui Zhang et.al.|[2401.06470v1](http://arxiv.org/abs/2401.06470v1)|null|
-|**2024-01-09 02:04:06**|**Prompt-based Multi-interest Learning Method for Sequential   Recommendation**|Xue Dong et.al.|[2401.04312v1](http://arxiv.org/abs/2401.04312v1)|null|
-|**2023-12-18 02:18:33**|**A novel diffusion recommendation algorithm based on multi-scale cnn and   residual lstm**|Yong Niu et.al.|[2312.10885v2](http://arxiv.org/abs/2312.10885v2)|null|
-|**2023-12-12 17:40:16**|**Multi-criteria recommendation systems to foster online grocery**|Manar Mohamed Hafez et.al.|[2312.08393v1](http://arxiv.org/abs/2312.08393v1)|null|
-|**2023-12-04 14:20:16**|**PEACE: Prototype lEarning Augmented transferable framework for   Cross-domain rEcommendation**|Chunjing Gan et.al.|[2312.01916v2](http://arxiv.org/abs/2312.01916v2)|null|
-|**2023-11-29 05:59:24**|**Attribute Simulation for Item Embedding Enhancement in Multi-interest   Recommendation**|Yaokun Liu et.al.|[2311.17374v1](http://arxiv.org/abs/2311.17374v1)|null|
-|**2023-11-22 02:49:14**|**GENET: Unleashing the Power of Side Information for Recommendation via   Hypergraph Pre-training**|Yang Li et.al.|[2311.13121v1](http://arxiv.org/abs/2311.13121v1)|null|
-|**2023-11-20 19:37:57**|**Multi-view Graph Convolution for Participant Recommendation**|Xiaolong Liu et.al.|[2311.12136v1](http://arxiv.org/abs/2311.12136v1)|null|
-|**2023-11-08 15:33:06**|**Towards Open-world Cross-Domain Sequential Recommendation: A   Model-Agnostic Contrastive Denoising Approach**|Wujiang Xu et.al.|[2311.04760v2](http://arxiv.org/abs/2311.04760v2)|null|
-|**2023-11-08 10:44:20**|**Rethinking Cross-Domain Sequential Recommendation under Open-World   Assumptions**|Wujiang Xu et.al.|[2311.04590v5](http://arxiv.org/abs/2311.04590v5)|[link](https://github.com/wujiangxu/amid)|
-|**2023-11-03 10:39:42**|**Universal Multi-modal Multi-domain Pre-trained Recommendation**|Wenqi Sun et.al.|[2311.01831v1](http://arxiv.org/abs/2311.01831v1)|null|
-|**2023-11-02 10:16:28**|**Bi-Preference Learning Heterogeneous Hypergraph Networks for   Session-based Recommendation**|Xiaokun Zhang et.al.|[2311.01125v1](http://arxiv.org/abs/2311.01125v1)|[link](https://github.com/zhang-xiaokun/bipnet)|
-|**2023-11-02 08:01:36**|**Collaboration and Transition: Distilling Item Transitions into   Multi-Query Self-Attention for Sequential Recommendation**|Tianyu Zhu et.al.|[2311.01056v2](http://arxiv.org/abs/2311.01056v2)|[link](https://github.com/zhuty16/mqsa-ted)|
