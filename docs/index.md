@@ -1,11 +1,18 @@
 # arxiv-daily
- 自动更新 @ 2024-04-03 16:08:52 Asia/Shanghai
+ 自动更新 @ 2024-04-04 16:09:09 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-03 16:30:48**|**Efficient Structure-Informed Featurization and Property Prediction of   Ordered, Dilute, and Random Atomic Structures**|Adam M. Krajewski et.al.|[2404.02849v1](http://arxiv.org/abs/2404.02849v1)|null|
+|**2024-04-03 15:31:18**|**Generative-Contrastive Heterogeneous Graph Neural Network**|Yu Wang et.al.|[2404.02810v1](http://arxiv.org/abs/2404.02810v1)|[link](https://github.com/xxx)|
+|**2024-04-03 07:30:09**|**Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic   Assisted Pseudo-labeling**|Xu Wang et.al.|[2404.02527v1](http://arxiv.org/abs/2404.02527v1)|null|
+|**2024-04-03 03:57:46**|**A neuroergonomics model to evaluating nuclear power plants operators'   performance under heat stress driven by ECG time-frequency spectrums and   fNIRS prefrontal cortex network: a CNN-GAT fusion model**|Yan Zhang et.al.|[2404.02439v1](http://arxiv.org/abs/2404.02439v1)|null|
+|**2024-04-02 22:10:08**|**Unmasking Correlations in Nuclear Cross Sections with Graph Neural   Networks**|Sinjini Mitra et.al.|[2404.02332v1](http://arxiv.org/abs/2404.02332v1)|null|
+|**2024-04-02 21:03:17**|**Virtual Sensor for Real-Time Bearing Load Prediction Using Heterogeneous   Temporal Graph Neural Networks**|Mengjie Zhao et.al.|[2404.02304v1](http://arxiv.org/abs/2404.02304v1)|null|
+|**2024-04-02 20:55:39**|**CATGNN: Cost-Efficient and Scalable Distributed Training for Graph   Neural Networks**|Xin Huang et.al.|[2404.02300v1](http://arxiv.org/abs/2404.02300v1)|null|
 |**2024-04-02 16:06:20**|**Multi-Level Label Correction by Distilling Proximate Patterns for   Semi-supervised Semantic Segmentation**|Hui Xiao et.al.|[2404.02065v1](http://arxiv.org/abs/2404.02065v1)|null|
 |**2024-04-02 14:16:57**|**DSGNN: A Dual-View Supergrid-Aware Graph Neural Network for Regional Air   Quality Estimation**|Xin Zhang et.al.|[2404.01975v1](http://arxiv.org/abs/2404.01975v1)|null|
 |**2024-04-02 12:36:40**|**Continuous Spiking Graph Neural Networks**|Nan Yin et.al.|[2404.01897v1](http://arxiv.org/abs/2404.01897v1)|null|
@@ -29,13 +36,6 @@
 |**2024-03-29 02:48:54**|**Spin cones in random-field XY models**|Rajiv G Pereira et.al.|[2403.19939v1](http://arxiv.org/abs/2403.19939v1)|null|
 |**2024-03-29 02:42:39**|**SLFNet: Generating Semantic Logic Forms from Natural Language Using   Semantic Probability Graphs**|Hao Wu et.al.|[2403.19936v1](http://arxiv.org/abs/2403.19936v1)|null|
 |**2024-03-29 01:25:05**|**Beyond the Known: Novel Class Discovery for Open-world Graph Learning**|Yucheng Jin et.al.|[2403.19907v1](http://arxiv.org/abs/2403.19907v1)|null|
-|**2024-03-28 21:54:48**|**A Review of Graph Neural Networks in Epidemic Modeling**|Zewen Liu et.al.|[2403.19852v1](http://arxiv.org/abs/2403.19852v1)|null|
-|**2024-03-28 19:29:17**|**Gegenbauer Graph Neural Networks for Time-varying Signal Reconstruction**|Jhon A. Castro-Correa et.al.|[2403.19800v1](http://arxiv.org/abs/2403.19800v1)|[link](https://github.com/jcastro295/gegengnn)|
-|**2024-03-28 15:01:58**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion   for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474v1](http://arxiv.org/abs/2403.19474v1)|[link](https://github.com/dfki-av/sg-pgm)|
-|**2024-03-28 14:11:40**|**Exploiting Individual Graph Structures to Enhance Ecological Momentary   Assessment (EMA) Forecasting**|Mandani Ntekouli et.al.|[2403.19442v1](http://arxiv.org/abs/2403.19442v1)|null|
-|**2024-03-28 10:19:36**|**Graph Neural Networks for Treatment Effect Prediction**|George Panagopoulos et.al.|[2403.19289v1](http://arxiv.org/abs/2403.19289v1)|null|
-|**2024-03-28 10:14:24**|**Adaptive optimization of isogeometric multi-patch discretizations using   artificial neural networks**|Dany Rios et.al.|[2403.19286v1](http://arxiv.org/abs/2403.19286v1)|null|
-|**2024-03-28 05:07:41**|**Topological Cycle Graph Attention Network for Brain Functional   Connectivity**|Jinghan Huang et.al.|[2403.19149v1](http://arxiv.org/abs/2403.19149v1)|null|
 
 ## Multi Interest Recommendation
 
