@@ -2,6 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-04 15:31:21**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with   Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528v1](http://arxiv.org/abs/2404.03528v1)|[link](https://github.com/azminewasi/banglaautokg)|
+|**2024-04-04 14:26:47**|**Generalization Bounds for Message Passing Networks on Mixture of   Graphons**|Sohir Maskey et.al.|[2404.03473v1](http://arxiv.org/abs/2404.03473v1)|null|
+|**2024-04-04 13:27:22**|**Learning From Simplicial Data Based on Random Walks and 1D Convolutions**|Florian Frantzen et.al.|[2404.03434v1](http://arxiv.org/abs/2404.03434v1)|[link](https://git.rwth-aachen.de/netsci/scrawl)|
+|**2024-04-04 11:26:51**|**On the Theoretical Expressive Power and the Design Space of Higher-Order   Graph Transformers**|Cai Zhou et.al.|[2404.03380v1](http://arxiv.org/abs/2404.03380v1)|null|
+|**2024-04-04 11:09:49**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance   Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368v1](http://arxiv.org/abs/2404.03368v1)|null|
+|**2024-04-04 06:24:11**|**Decentralized Learning Strategies for Estimation Error Minimization with   Graph Neural Networks**|Xingran Chen et.al.|[2404.03227v1](http://arxiv.org/abs/2404.03227v1)|null|
+|**2024-04-04 02:07:15**|**TEGRA -- Scaling Up Terascale Graph Processing with Disaggregated   Computing**|William Shaddix et.al.|[2404.03155v1](http://arxiv.org/abs/2404.03155v1)|null|
+|**2024-04-04 01:24:27**|**Theoretical and Empirical Insights into the Origins of Degree Bias in   Graph Neural Networks**|Arjun Subramonian et.al.|[2404.03139v1](http://arxiv.org/abs/2404.03139v1)|[link](https://github.com/arjunsubramonian/degree-bias-exploration)|
+|**2024-04-03 21:47:02**|**First-order PDES for Graph Neural Networks: Advection And Burgers   Equation Models**|Yifan Qu et.al.|[2404.03081v1](http://arxiv.org/abs/2404.03081v1)|null|
+|**2024-04-03 19:03:15**|**GeoT: Tensor Centric Library for Graph Neural Network via Efficient   Segment Reduction on GPU**|Zhongming Yu et.al.|[2404.03019v1](http://arxiv.org/abs/2404.03019v1)|[link](https://github.com/fishmingyu/geot)|
 |**2024-04-03 16:30:48**|**Efficient Structure-Informed Featurization and Property Prediction of   Ordered, Dilute, and Random Atomic Structures**|Adam M. Krajewski et.al.|[2404.02849v1](http://arxiv.org/abs/2404.02849v1)|null|
 |**2024-04-03 15:31:18**|**Generative-Contrastive Heterogeneous Graph Neural Network**|Yu Wang et.al.|[2404.02810v1](http://arxiv.org/abs/2404.02810v1)|[link](https://github.com/xxx)|
 |**2024-04-03 07:30:09**|**Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic   Assisted Pseudo-labeling**|Xu Wang et.al.|[2404.02527v1](http://arxiv.org/abs/2404.02527v1)|null|
@@ -22,13 +32,3 @@
 |**2024-03-31 03:16:08**|**Deep Extrinsic Manifold Representation for Vision Tasks**|Tongtong Zhang et.al.|[2404.00544v1](http://arxiv.org/abs/2404.00544v1)|null|
 |**2024-03-30 21:54:01**|**DE-HNN: An effective neural model for Circuit Netlist representation**|Zhishang Luo et.al.|[2404.00477v1](http://arxiv.org/abs/2404.00477v1)|[link](https://github.com/YusuLab/chips.git)|
 |**2024-03-30 14:58:40**|**Constrained Layout Generation with Factor Graphs**|Mohammed Haroon Dupty et.al.|[2404.00385v1](http://arxiv.org/abs/2404.00385v1)|null|
-|**2024-03-30 07:25:30**|**TG-NAS: Leveraging Zero-Cost Proxies with Transformer and Graph   Convolution Networks for Efficient Neural Architecture Search**|Ye Qiao et.al.|[2404.00271v1](http://arxiv.org/abs/2404.00271v1)|null|
-|**2024-03-30 01:16:37**|**EventGround: Narrative Reasoning by Grounding to Eventuality-centric   Knowledge Graphs**|Cheng Jiayang et.al.|[2404.00209v1](http://arxiv.org/abs/2404.00209v1)|null|
-|**2024-03-29 15:05:57**|**Graph Neural Aggregation-diffusion with Metastability**|Kaiyuan Cui et.al.|[2403.20221v1](http://arxiv.org/abs/2403.20221v1)|null|
-|**2024-03-29 14:47:54**|**On Size and Hardness Generalization in Unsupervised Learning for the   Travelling Salesman Problem**|Yimeng Min et.al.|[2403.20212v1](http://arxiv.org/abs/2403.20212v1)|null|
-|**2024-03-29 14:24:15**|**NeuraLunaDTNet: Feedforward Neural Network-Based Routing Protocol for   Delay-Tolerant Lunar Communication Networks**|Parth Patel et.al.|[2403.20199v1](http://arxiv.org/abs/2403.20199v1)|null|
-|**2024-03-29 12:15:25**|**Na Vacancy Driven Phase Transformation and Fast Ion Conduction in   W-doped Na$_3$SbS$_4$ from Machine Learning Force Fields**|Johan Klarbring et.al.|[2403.20138v1](http://arxiv.org/abs/2403.20138v1)|null|
-|**2024-03-29 10:18:19**|**KGUF: Simple Knowledge-aware Graph-based Recommender with User-based   Semantic Features Filtering**|Salvatore Bufi et.al.|[2403.20095v1](http://arxiv.org/abs/2403.20095v1)|[link](https://github.com/sisinflab/kguf)|
-|**2024-03-29 02:48:54**|**Spin cones in random-field XY models**|Rajiv G Pereira et.al.|[2403.19939v1](http://arxiv.org/abs/2403.19939v1)|null|
-|**2024-03-29 02:42:39**|**SLFNet: Generating Semantic Logic Forms from Natural Language Using   Semantic Probability Graphs**|Hao Wu et.al.|[2403.19936v1](http://arxiv.org/abs/2403.19936v1)|null|
-|**2024-03-29 01:25:05**|**Beyond the Known: Novel Class Discovery for Open-world Graph Learning**|Yucheng Jin et.al.|[2403.19907v1](http://arxiv.org/abs/2403.19907v1)|null|
