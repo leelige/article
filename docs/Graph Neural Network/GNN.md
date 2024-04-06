@@ -30,5 +30,5 @@
 |**2024-03-31 22:22:10**|**HeteroMILE: a Multi-Level Graph Representation Learning Framework for   Heterogeneous Graphs**|Yue Zhang et.al.|[2404.00816v1](http://arxiv.org/abs/2404.00816v1)|null|
 |**2024-03-31 19:15:09**|**PyTorch Frame: A Modular Framework for Multi-Modal Tabular Learning**|Weihua Hu et.al.|[2404.00776v1](http://arxiv.org/abs/2404.00776v1)|[link](https://github.com/pyg-team/pytorch-frame)|
 |**2024-03-31 03:16:08**|**Deep Extrinsic Manifold Representation for Vision Tasks**|Tongtong Zhang et.al.|[2404.00544v1](http://arxiv.org/abs/2404.00544v1)|null|
-|**2024-03-30 21:54:01**|**DE-HNN: An effective neural model for Circuit Netlist representation**|Zhishang Luo et.al.|[2404.00477v1](http://arxiv.org/abs/2404.00477v1)|[link](https://github.com/YusuLab/chips.git)|
+|**2024-03-30 21:54:01**|**DE-HNN: An effective neural model for Circuit Netlist representation**|Zhishang Luo et.al.|[2404.00477v1](http://arxiv.org/abs/2404.00477v1)|[link](https://github.com/yusulab/chips)|
 |**2024-03-30 14:58:40**|**Constrained Layout Generation with Factor Graphs**|Mohammed Haroon Dupty et.al.|[2404.00385v1](http://arxiv.org/abs/2404.00385v1)|null|
