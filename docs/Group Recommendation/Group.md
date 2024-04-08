@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-04 21:39:49**|**I Did Not Notice: A Comparison of Immersive Analytics with Augmented and   Virtual Reality**|Xiaoyan Zhou et.al.|[2404.03814v1](http://arxiv.org/abs/2404.03814v1)|null|
+|**2024-04-04 20:44:56**|**Learning Social Fairness Preferences from Non-Expert Stakeholder   Opinions in Kidney Placement**|Mukund Telukunta et.al.|[2404.03800v1](http://arxiv.org/abs/2404.03800v1)|null|
 |**2024-04-02 19:43:28**|**Report of the Working Group on Strategic Exoplanet Initiatives with HST   and JWST**|Seth Redfield et.al.|[2404.02932v1](http://arxiv.org/abs/2404.02932v1)|null|
 |**2024-04-02 02:46:18**|**Helmsman of the Masses? Evaluate the Opinion Leadership of Large   Language Models in the Werewolf Game**|Silin Du et.al.|[2404.01602v1](http://arxiv.org/abs/2404.01602v1)|null|
 |**2024-03-27 13:12:41**|**A Novel Behavior-Based Recommendation System for E-commerce**|Reza Barzegar Nozari et.al.|[2403.18536v1](http://arxiv.org/abs/2403.18536v1)|null|
@@ -30,5 +32,3 @@
 |**2024-02-17 12:27:30**|**Mirror Gradient: Towards Robust Multimodal Recommender Systems via   Exploring Flat Local Minima**|Shanshan Zhong et.al.|[2402.11262v1](http://arxiv.org/abs/2402.11262v1)|[link](https://github.com/qrange-group/mirror-gradient)|
 |**2024-02-17 00:10:33**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139v1](http://arxiv.org/abs/2402.11139v1)|null|
 |**2024-02-16 12:26:59**|**FairSync: Ensuring Amortized Group Exposure in Distributed   Recommendation Retrieval**|Chen Xu et.al.|[2402.10628v1](http://arxiv.org/abs/2402.10628v1)|[link](https://github.com/xuchen0427/fairsync)|
-|**2024-02-15 14:04:17**|**Ad interim recommendations for the Higgs boson production cross sections   at $\sqrt{s} = 13.6$ TeV**|Alexander Karlberg et.al.|[2402.09955v1](http://arxiv.org/abs/2402.09955v1)|null|
-|**2024-02-06 14:26:22**|**HEAM : Hashed Embedding Acceleration using Processing-In-Memory**|Youngsuk Kim et.al.|[2402.04032v3](http://arxiv.org/abs/2402.04032v3)|null|

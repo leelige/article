@@ -2,7 +2,9 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-04 15:31:21**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with   Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528v1](http://arxiv.org/abs/2404.03528v1)|[link](https://github.com/azminewasi/banglaautokg)|
+|**2024-04-05 11:02:02**|**Superior Genetic Algorithms for the Target Set Selection Problem Based   on Power-Law Parameter Choices and Simple Greedy Heuristics**|Benjamin Doerr et.al.|[2404.04018v1](http://arxiv.org/abs/2404.04018v1)|[link](https://github.com/nnguyenu/brkgatss)|
+|**2024-04-04 19:48:02**|**Free Energy Calculations using Smooth Basin Classification**|Sander Vandenhaute et.al.|[2404.03777v1](http://arxiv.org/abs/2404.03777v1)|null|
+|**2024-04-04 15:31:21**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with   Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528v2](http://arxiv.org/abs/2404.03528v2)|[link](https://github.com/azminewasi/banglaautokg)|
 |**2024-04-04 14:26:47**|**Generalization Bounds for Message Passing Networks on Mixture of   Graphons**|Sohir Maskey et.al.|[2404.03473v1](http://arxiv.org/abs/2404.03473v1)|null|
 |**2024-04-04 13:27:22**|**Learning From Simplicial Data Based on Random Walks and 1D Convolutions**|Florian Frantzen et.al.|[2404.03434v1](http://arxiv.org/abs/2404.03434v1)|[link](https://git.rwth-aachen.de/netsci/scrawl)|
 |**2024-04-04 11:26:51**|**On the Theoretical Expressive Power and the Design Space of Higher-Order   Graph Transformers**|Cai Zhou et.al.|[2404.03380v1](http://arxiv.org/abs/2404.03380v1)|null|
@@ -30,5 +32,3 @@
 |**2024-03-31 22:22:10**|**HeteroMILE: a Multi-Level Graph Representation Learning Framework for   Heterogeneous Graphs**|Yue Zhang et.al.|[2404.00816v1](http://arxiv.org/abs/2404.00816v1)|null|
 |**2024-03-31 19:15:09**|**PyTorch Frame: A Modular Framework for Multi-Modal Tabular Learning**|Weihua Hu et.al.|[2404.00776v1](http://arxiv.org/abs/2404.00776v1)|[link](https://github.com/pyg-team/pytorch-frame)|
 |**2024-03-31 03:16:08**|**Deep Extrinsic Manifold Representation for Vision Tasks**|Tongtong Zhang et.al.|[2404.00544v1](http://arxiv.org/abs/2404.00544v1)|null|
-|**2024-03-30 21:54:01**|**DE-HNN: An effective neural model for Circuit Netlist representation**|Zhishang Luo et.al.|[2404.00477v1](http://arxiv.org/abs/2404.00477v1)|[link](https://github.com/yusulab/chips)|
-|**2024-03-30 14:58:40**|**Constrained Layout Generation with Factor Graphs**|Mohammed Haroon Dupty et.al.|[2404.00385v1](http://arxiv.org/abs/2404.00385v1)|null|
