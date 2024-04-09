@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-05 23:12:41**|**HIV Client Perspectives on Digital Health in Malawi**|Lisa Orii et.al.|[2404.04444v1](http://arxiv.org/abs/2404.04444v1)|null|
 |**2024-04-04 21:39:49**|**I Did Not Notice: A Comparison of Immersive Analytics with Augmented and   Virtual Reality**|Xiaoyan Zhou et.al.|[2404.03814v1](http://arxiv.org/abs/2404.03814v1)|null|
 |**2024-04-04 20:44:56**|**Learning Social Fairness Preferences from Non-Expert Stakeholder   Opinions in Kidney Placement**|Mukund Telukunta et.al.|[2404.03800v1](http://arxiv.org/abs/2404.03800v1)|null|
 |**2024-04-02 19:43:28**|**Report of the Working Group on Strategic Exoplanet Initiatives with HST   and JWST**|Seth Redfield et.al.|[2404.02932v1](http://arxiv.org/abs/2404.02932v1)|null|
@@ -31,4 +32,3 @@
 |**2024-02-19 21:05:55**|**Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness   in Online Dating Recommendations Based on User Sexual Orientation**|Yuying Zhao et.al.|[2402.12541v1](http://arxiv.org/abs/2402.12541v1)|null|
 |**2024-02-17 12:27:30**|**Mirror Gradient: Towards Robust Multimodal Recommender Systems via   Exploring Flat Local Minima**|Shanshan Zhong et.al.|[2402.11262v1](http://arxiv.org/abs/2402.11262v1)|[link](https://github.com/qrange-group/mirror-gradient)|
 |**2024-02-17 00:10:33**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139v1](http://arxiv.org/abs/2402.11139v1)|null|
-|**2024-02-16 12:26:59**|**FairSync: Ensuring Amortized Group Exposure in Distributed   Recommendation Retrieval**|Chen Xu et.al.|[2402.10628v1](http://arxiv.org/abs/2402.10628v1)|[link](https://github.com/xuchen0427/fairsync)|

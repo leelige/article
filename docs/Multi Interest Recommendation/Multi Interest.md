@@ -2,7 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-03-31 14:41:49**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702v1](http://arxiv.org/abs/2404.00702v1)|null|
+|**2024-03-31 14:41:49**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702v2](http://arxiv.org/abs/2404.00702v2)|null|
 |**2024-03-30 13:40:25**|**SA-LSPL:Sequence-Aware Long- and Short- Term Preference Learning for   next POI recommendation**|Bin Wang et.al.|[2404.00367v1](http://arxiv.org/abs/2404.00367v1)|null|
 |**2024-03-26 11:28:31**|**END4Rec: Efficient Noise-Decoupling for Multi-Behavior Sequential   Recommendation**|Yongqiang Han et.al.|[2403.17603v1](http://arxiv.org/abs/2403.17603v1)|null|
 |**2024-03-26 07:19:26**|**Touch the Core: Exploring Task Dependence Among Hybrid Targets for   Recommendation**|Xing Tang et.al.|[2403.17442v1](http://arxiv.org/abs/2403.17442v1)|null|
