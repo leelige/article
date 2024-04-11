@@ -2,7 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-09 16:54:19**|**PURE: Turning Polysemantic Neurons Into Pure Features by Identifying   Relevant Circuits**|Maximilian Dreyer et.al.|[2404.06453v1](http://arxiv.org/abs/2404.06453v1)|[link](https://github.com/maxdreyer/PURE)|
+|**2024-04-10 17:50:29**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes   Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194v1](http://arxiv.org/abs/2404.07194v1)|[link](https://github.com/ml-jku/vnegnn)|
+|**2024-04-10 17:41:41**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on   FPGA**|Bingyi Zhang et.al.|[2404.07188v1](http://arxiv.org/abs/2404.07188v1)|null|
+|**2024-04-10 11:43:26**|**Fast System Technology Co-Optimization Framework for Emerging Technology   Based on Graph Neural Networks**|Tianliang Ma et.al.|[2404.06939v1](http://arxiv.org/abs/2404.06939v1)|null|
+|**2024-04-10 11:30:07**|**Multifractal phase in the weighted adjacency matrices of random   Erdös-Rényi graphs**|Leticia F. Cugliandolo et.al.|[2404.06931v1](http://arxiv.org/abs/2404.06931v1)|null|
+|**2024-04-10 11:03:57**|**GraSAME: Injecting Token-Level Structural Information to Pretrained   Language Models via Graph-guided Self-Attention Mechanism**|Shuzhou Yuan et.al.|[2404.06911v1](http://arxiv.org/abs/2404.06911v1)|null|
+|**2024-04-10 10:45:30**|**NFARec: A Negative Feedback-Aware Recommender Model**|Xinfeng Wang et.al.|[2404.06900v1](http://arxiv.org/abs/2404.06900v1)|[link](https://github.com/wangxfng/nfarec)|
+|**2024-04-10 10:38:24**|**CaDRec: Contextualized and Debiased Recommender Model**|Xinfeng Wang et.al.|[2404.06895v1](http://arxiv.org/abs/2404.06895v1)|[link](https://github.com/wangxfng/cadrec)|
+|**2024-04-10 00:52:54**|**Forecasting the Future with Future Technologies: Advancements in Large   Meteorological Models**|Hailong Shu et.al.|[2404.06668v1](http://arxiv.org/abs/2404.06668v1)|null|
+|**2024-04-09 21:35:51**|**Quantum graph models for transport in filamentary switching**|Alison A. Silva et.al.|[2404.06628v1](http://arxiv.org/abs/2404.06628v1)|null|
+|**2024-04-09 16:54:19**|**PURE: Turning Polysemantic Neurons Into Pure Features by Identifying   Relevant Circuits**|Maximilian Dreyer et.al.|[2404.06453v1](http://arxiv.org/abs/2404.06453v1)|[link](https://github.com/maxdreyer/pure)|
 |**2024-04-09 16:25:07**|**Quantum Graph Optimization Algorithm**|Yuhan Huang et.al.|[2404.06434v1](http://arxiv.org/abs/2404.06434v1)|null|
 |**2024-04-09 16:03:26**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot   Systems**|Kunal Garg et.al.|[2404.06413v1](http://arxiv.org/abs/2404.06413v1)|null|
 |**2024-04-09 14:26:05**|**Oracle-Net for nonlinear compressed sensing in Electrical Impedance   Tomography reconstruction problems**|Damiana Lazzaro et.al.|[2404.06342v1](http://arxiv.org/abs/2404.06342v1)|null|
@@ -23,12 +32,3 @@
 |**2024-04-08 04:41:03**|**Graph-based Untrained Neural Network Detector for OTFS Systems**|Hao Chang et.al.|[2404.05191v1](http://arxiv.org/abs/2404.05191v1)|null|
 |**2024-04-07 16:47:18**|**Inducing a Metal-Insulator Transition through Systematic Alterations of   Local Rewriting Rules in a Quantum Graph**|Richard Berkovits et.al.|[2404.05013v1](http://arxiv.org/abs/2404.05013v1)|null|
 |**2024-04-07 14:19:22**|**Temporal Generalization Estimation in Evolving Graphs**|Bin Lu et.al.|[2404.04969v1](http://arxiv.org/abs/2404.04969v1)|null|
-|**2024-04-07 11:48:07**|**GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing   Sparsity, Trained from Scratch on Small Datasets**|Dongjing Shan et.al.|[2404.04924v1](http://arxiv.org/abs/2404.04924v1)|null|
-|**2024-04-07 09:48:05**|**Graph Neural Network Meets Multi-Agent Reinforcement Learning:   Fundamentals, Applications, and Future Directions**|Ziheng Liu et.al.|[2404.04898v1](http://arxiv.org/abs/2404.04898v1)|null|
-|**2024-04-07 08:38:35**|**Graph Neural Networks for Binary Programming**|Moshe Eliasof et.al.|[2404.04874v1](http://arxiv.org/abs/2404.04874v1)|null|
-|**2024-04-07 02:44:33**|**GDR-HGNN: A Heterogeneous Graph Neural Networks Accelerator Frontend   with Graph Decoupling and Recoupling**|Runzhen Xue et.al.|[2404.04792v1](http://arxiv.org/abs/2404.04792v1)|null|
-|**2024-04-06 12:40:21**|**Spectral Graph Pruning Against Over-Squashing and Over-Smoothing**|Adarsh Jamadandi et.al.|[2404.04612v1](http://arxiv.org/abs/2404.04612v1)|null|
-|**2024-04-06 08:53:26**|**Spectral GNN via Two-dimensional (2-D) Graph Convolution**|Guoming Li et.al.|[2404.04559v1](http://arxiv.org/abs/2404.04559v1)|null|
-|**2024-04-06 04:13:01**|**Towards Better Graph Neural Neural Network-based Fault Localization   Through Enhanced Code Representation**|Md Nakhla Rafi et.al.|[2404.04496v1](http://arxiv.org/abs/2404.04496v1)|null|
-|**2024-04-05 11:02:02**|**Superior Genetic Algorithms for the Target Set Selection Problem Based   on Power-Law Parameter Choices and Simple Greedy Heuristics**|Benjamin Doerr et.al.|[2404.04018v1](http://arxiv.org/abs/2404.04018v1)|[link](https://github.com/nnguyenu/brkgatss)|
-|**2024-04-04 19:48:02**|**Free Energy Calculations using Smooth Basin Classification**|Sander Vandenhaute et.al.|[2404.03777v1](http://arxiv.org/abs/2404.03777v1)|null|
