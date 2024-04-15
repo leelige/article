@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-12 09:57:17**|**Large-Scale Multi-Domain Recommendation: an Automatic Domain Feature   Extraction and Personalized Integration Framework**|Dongbo Xi et.al.|[2404.08361v1](http://arxiv.org/abs/2404.08361v1)|[link](https://github.com/xidongbo/dfei)|
 |**2024-04-11 09:13:52**|**M-scan: A Multi-Scenario Causal-driven Adaptive Network for   Recommendation**|Jiachen Zhu et.al.|[2404.07581v1](http://arxiv.org/abs/2404.07581v1)|null|
 |**2024-03-31 14:41:49**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702v2](http://arxiv.org/abs/2404.00702v2)|null|
 |**2024-03-30 13:40:25**|**SA-LSPL:Sequence-Aware Long- and Short- Term Preference Learning for   next POI recommendation**|Bin Wang et.al.|[2404.00367v1](http://arxiv.org/abs/2404.00367v1)|null|
@@ -31,4 +32,3 @@
 |**2023-11-22 02:49:14**|**GENET: Unleashing the Power of Side Information for Recommendation via   Hypergraph Pre-training**|Yang Li et.al.|[2311.13121v1](http://arxiv.org/abs/2311.13121v1)|null|
 |**2023-11-20 19:37:57**|**Multi-view Graph Convolution for Participant Recommendation**|Xiaolong Liu et.al.|[2311.12136v1](http://arxiv.org/abs/2311.12136v1)|null|
 |**2023-11-08 15:33:06**|**Towards Open-world Cross-Domain Sequential Recommendation: A   Model-Agnostic Contrastive Denoising Approach**|Wujiang Xu et.al.|[2311.04760v2](http://arxiv.org/abs/2311.04760v2)|null|
-|**2023-11-08 10:44:20**|**Rethinking Cross-Domain Sequential Recommendation under Open-World   Assumptions**|Wujiang Xu et.al.|[2311.04590v5](http://arxiv.org/abs/2311.04590v5)|[link](https://github.com/wujiangxu/amid)|

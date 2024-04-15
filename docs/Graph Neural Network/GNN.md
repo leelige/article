@@ -2,8 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-12 17:13:50**|**Learning-Based Joint Antenna Selection and Precoding Design for   Cell-Free MIMO Networks**|Liangzhi Wang et.al.|[2404.08607v1](http://arxiv.org/abs/2404.08607v1)|null|
+|**2024-04-12 06:23:07**|**Relational Prompt-based Pre-trained Language Models for Social Event   Detection**|Pu Li et.al.|[2404.08263v1](http://arxiv.org/abs/2404.08263v1)|null|
+|**2024-04-11 18:03:59**|**Physics-Enhanced Graph Neural Networks For Soft Sensing in Industrial   Internet of Things**|Keivan Faghih Niresi et.al.|[2404.08061v1](http://arxiv.org/abs/2404.08061v1)|null|
+|**2024-04-11 18:03:54**|**Resource-aware Deployment of Dynamic DNNs over Multi-tiered   Interconnected Systems**|Chetna Singhal et.al.|[2404.08060v1](http://arxiv.org/abs/2404.08060v1)|null|
+|**2024-04-11 09:07:40**|**Pathology-genomic fusion via biologically informed cross-modality graph   learning for survival analysis**|Zeyu Zhang et.al.|[2404.08023v1](http://arxiv.org/abs/2404.08023v1)|null|
 |**2024-04-11 07:36:00**|**GNN-based Probabilistic Supply and Inventory Predictions in Supply Chain   Networks**|Hyung-il Ahn et.al.|[2404.07523v1](http://arxiv.org/abs/2404.07523v1)|null|
 |**2024-04-11 07:06:58**|**Generative Probabilistic Planning for Optimizing Supply Chain Networks**|Hyung-il Ahn et.al.|[2404.07511v1](http://arxiv.org/abs/2404.07511v1)|null|
+|**2024-04-11 06:19:55**|**VeTraSS: Vehicle Trajectory Similarity Search Through Graph Modeling and   Representation Learning**|Ming Cheng et.al.|[2404.08021v1](http://arxiv.org/abs/2404.08021v1)|null|
 |**2024-04-11 06:04:06**|**Characterizing the Influence of Topology on Graph Learning Tasks**|Kailong Wu et.al.|[2404.07493v1](http://arxiv.org/abs/2404.07493v1)|null|
 |**2024-04-11 03:02:06**|**Graph Attention Network for Lane-Wise and Topology-Invariant   Intersection Traffic Simulation**|Nooshin Yousefzadeh et.al.|[2404.07446v1](http://arxiv.org/abs/2404.07446v1)|null|
 |**2024-04-10 21:03:23**|**Gaze-Guided Graph Neural Network for Action Anticipation Conditioned on   Intention**|Suleyman Ozdel et.al.|[2404.07347v1](http://arxiv.org/abs/2404.07347v1)|null|
@@ -21,14 +27,8 @@
 |**2024-04-09 16:25:07**|**Quantum Graph Optimization Algorithm**|Yuhan Huang et.al.|[2404.06434v1](http://arxiv.org/abs/2404.06434v1)|null|
 |**2024-04-09 16:03:26**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot   Systems**|Kunal Garg et.al.|[2404.06413v1](http://arxiv.org/abs/2404.06413v1)|null|
 |**2024-04-09 14:26:05**|**Oracle-Net for nonlinear compressed sensing in Electrical Impedance   Tomography reconstruction problems**|Damiana Lazzaro et.al.|[2404.06342v1](http://arxiv.org/abs/2404.06342v1)|null|
+|**2024-04-09 11:45:16**|**Learning Efficient and Fair Policies for Uncertainty-Aware Collaborative   Human-Robot Order Picking**|Igor G. Smit et.al.|[2404.08006v1](http://arxiv.org/abs/2404.08006v1)|null|
 |**2024-04-09 11:27:07**|**Message Passing Variational Autoregressive Network for Solving   Intractable Ising Models**|Qunlong Ma et.al.|[2404.06225v1](http://arxiv.org/abs/2404.06225v1)|null|
 |**2024-04-09 09:46:17**|**scCDCG: Efficient Deep Structural Clustering for single-cell RNA-seq via   Deep Cut-informed Graph Embedding**|Ping Xu et.al.|[2404.06167v1](http://arxiv.org/abs/2404.06167v1)|[link](https://github.com/xpgogogo/sccdcg)|
 |**2024-04-09 07:49:05**|**Fair Graph Neural Network with Supervised Contrastive Regularization**|Mahdi Tavassoli Kejani et.al.|[2404.06090v1](http://arxiv.org/abs/2404.06090v1)|null|
 |**2024-04-09 06:10:15**|**Object Dynamics Modeling with Hierarchical Point Cloud-based   Representations**|Chanho Kim et.al.|[2404.06044v1](http://arxiv.org/abs/2404.06044v1)|null|
-|**2024-04-09 03:38:59**|**Commute with Community: Enhancing Shared Travel through Social Networks**|Tian Siyuan et.al.|[2404.05987v1](http://arxiv.org/abs/2404.05987v1)|null|
-|**2024-04-08 22:40:57**|**Learning Heuristics for Transit Network Design and Improvement with Deep   Reinforcement Learning**|Andrew Holliday et.al.|[2404.05894v1](http://arxiv.org/abs/2404.05894v1)|null|
-|**2024-04-08 21:26:04**|**Rapid and Precise Topological Comparison with Merge Tree Neural Networks**|Yu Qin et.al.|[2404.05879v1](http://arxiv.org/abs/2404.05879v1)|null|
-|**2024-04-08 17:33:11**|**Dynamical stability and chaos in artificial neural network trajectories   along training**|Kaloyan Danovski et.al.|[2404.05782v1](http://arxiv.org/abs/2404.05782v1)|[link](https://github.com/gitkalo/ann_dynamics)|
-|**2024-04-08 15:25:25**|**Graph Neural Networks Automated Design and Deployment on Device-Edge   Co-Inference Systems**|Ao Zhou et.al.|[2404.05605v1](http://arxiv.org/abs/2404.05605v1)|null|
-|**2024-04-08 15:24:20**|**Technical Report: The Graph Spectral Token -- Enhancing Graph   Transformers with Spectral Information**|Zihan Pengmei et.al.|[2404.05604v1](http://arxiv.org/abs/2404.05604v1)|[link](https://github.com/zpengmei/SubFormer-Spec)|
-|**2024-04-08 13:25:13**|**Level-Set Percolation of Gaussian Random Fields on Complex Networks**|Reimer Kuehn et.al.|[2404.05503v1](http://arxiv.org/abs/2404.05503v1)|null|
