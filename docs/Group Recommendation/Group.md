@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-15 11:20:44**|**AntDT: A Self-Adaptive Distributed Training Framework for Leader and   Straggler Nodes**|Youshao Xiao et.al.|[2404.09679v1](http://arxiv.org/abs/2404.09679v1)|null|
+|**2024-04-15 10:54:47**|**Closing the Gap in the Trade-off between Fair Representations and   Accuracy**|Biswajit Rout et.al.|[2404.09664v1](http://arxiv.org/abs/2404.09664v1)|null|
+|**2024-04-14 06:59:25**|**A computational model for gender asset gap management with a focus on   gender disparity in land acquisition and land tenure security**|Oluwatosin Ogundare et.al.|[2404.09164v1](http://arxiv.org/abs/2404.09164v1)|null|
 |**2024-04-10 20:10:58**|**Assessing Engraftment Following Fecal Microbiota Transplant**|Chloe Herman et.al.|[2404.07325v1](http://arxiv.org/abs/2404.07325v1)|null|
 |**2024-04-09 16:45:21**|**Introducing Quantum Information and Computation to a Broader Audience   with MOOCs at OpenHPI**|Gerhard Hellstern et.al.|[2404.07241v1](http://arxiv.org/abs/2404.07241v1)|null|
 |**2024-04-05 23:12:41**|**HIV Client Perspectives on Digital Health in Malawi**|Lisa Orii et.al.|[2404.04444v1](http://arxiv.org/abs/2404.04444v1)|null|
@@ -29,6 +32,3 @@
 |**2024-03-04 00:03:00**|**Recommendations for Government Development and Use of Advanced Automated   Systems to Make Decisions about Individuals**|Susan Landau et.al.|[2403.01649v1](http://arxiv.org/abs/2403.01649v1)|null|
 |**2024-03-02 14:30:57**|**A Two-Stage Algorithm for Cost-Efficient Multi-instance Counterfactual   Explanations**|André Artelt et.al.|[2403.01221v1](http://arxiv.org/abs/2403.01221v1)|[link](https://github.com/andreartelt/twostagemultiinstcfs)|
 |**2024-02-29 19:14:24**|**The Constitutions of Web3**|Joshua Z. Tan et.al.|[2403.00081v1](http://arxiv.org/abs/2403.00081v1)|[link](https://github.com/metagov/constitution-template)|
-|**2024-02-27 10:40:15**|**Designing Chatbots to Support Victims and Survivors of Domestic Abuse**|Rahime Belen Saglam et.al.|[2402.17393v1](http://arxiv.org/abs/2402.17393v1)|null|
-|**2024-02-22 13:52:02**|**LLMs with Industrial Lens: Deciphering the Challenges and Prospects -- A   Survey**|Ashok Urlana et.al.|[2402.14558v1](http://arxiv.org/abs/2402.14558v1)|null|
-|**2024-02-22 01:19:12**|**The impact of Facebook-Cambridge Analytica data scandal on the USA tech   stock market: An event study based on clustering method**|Vahidin Jeleskovic et.al.|[2402.14206v1](http://arxiv.org/abs/2402.14206v1)|null|

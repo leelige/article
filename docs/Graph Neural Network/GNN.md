@@ -2,8 +2,17 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-15 09:10:52**|**Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data   Augmentation**|Shangqing Liu et.al.|[2404.09599v1](http://arxiv.org/abs/2404.09599v1)|null|
+|**2024-04-15 08:11:21**|**GNNavigator: Towards Adaptive Training of Graph Neural Networks via   Automatic Guideline Exploration**|Tong Qiao et.al.|[2404.09544v1](http://arxiv.org/abs/2404.09544v1)|null|
+|**2024-04-15 04:02:39**|**Hybrid FedGraph: An efficient hybrid federated learning algorithm using   graph convolutional neural network**|Jaeyeon Jang et.al.|[2404.09443v1](http://arxiv.org/abs/2404.09443v1)|null|
+|**2024-04-15 01:41:18**|**EQO: Exploring Ultra-Efficient Private Inference with Winograd-Based   Protocol and Quantization Co-Optimization**|Wenxuan Zeng et.al.|[2404.09404v1](http://arxiv.org/abs/2404.09404v1)|null|
+|**2024-04-14 21:37:39**|**Hierarchical Attention Models for Multi-Relational Graphs**|Roshni G. Iyer et.al.|[2404.09365v1](http://arxiv.org/abs/2404.09365v1)|null|
+|**2024-04-14 10:04:44**|**DEGNN: Dual Experts Graph Neural Network Handling Both Edge and Node   Feature Noise**|Tai Hasegawa et.al.|[2404.09207v1](http://arxiv.org/abs/2404.09207v1)|[link](https://github.com/taihasegawa/degnn)|
+|**2024-04-14 07:15:59**|**Survey on Embedding Models for Knowledge Graph and its Applications**|Manita Pote et.al.|[2404.09167v1](http://arxiv.org/abs/2404.09167v1)|null|
+|**2024-04-12 19:09:56**|**Phase transitions of correlated systems from graph neural networks with   quantum embedding techniques**|Rishi Rao et.al.|[2404.08782v1](http://arxiv.org/abs/2404.08782v1)|null|
 |**2024-04-12 17:13:50**|**Learning-Based Joint Antenna Selection and Precoding Design for   Cell-Free MIMO Networks**|Liangzhi Wang et.al.|[2404.08607v1](http://arxiv.org/abs/2404.08607v1)|null|
 |**2024-04-12 06:23:07**|**Relational Prompt-based Pre-trained Language Models for Social Event   Detection**|Pu Li et.al.|[2404.08263v1](http://arxiv.org/abs/2404.08263v1)|null|
+|**2024-04-11 21:47:13**|**Survival Prediction Across Diverse Cancer Types Using Neural Networks**|Xu Yan et.al.|[2404.08713v1](http://arxiv.org/abs/2404.08713v1)|null|
 |**2024-04-11 18:03:59**|**Physics-Enhanced Graph Neural Networks For Soft Sensing in Industrial   Internet of Things**|Keivan Faghih Niresi et.al.|[2404.08061v1](http://arxiv.org/abs/2404.08061v1)|null|
 |**2024-04-11 18:03:54**|**Resource-aware Deployment of Dynamic DNNs over Multi-tiered   Interconnected Systems**|Chetna Singhal et.al.|[2404.08060v1](http://arxiv.org/abs/2404.08060v1)|null|
 |**2024-04-11 09:07:40**|**Pathology-genomic fusion via biologically informed cross-modality graph   learning for survival analysis**|Zeyu Zhang et.al.|[2404.08023v1](http://arxiv.org/abs/2404.08023v1)|null|
@@ -23,12 +32,3 @@
 |**2024-04-10 10:38:24**|**CaDRec: Contextualized and Debiased Recommender Model**|Xinfeng Wang et.al.|[2404.06895v1](http://arxiv.org/abs/2404.06895v1)|[link](https://github.com/wangxfng/cadrec)|
 |**2024-04-10 00:52:54**|**Forecasting the Future with Future Technologies: Advancements in Large   Meteorological Models**|Hailong Shu et.al.|[2404.06668v1](http://arxiv.org/abs/2404.06668v1)|null|
 |**2024-04-09 21:35:51**|**Quantum graph models for transport in filamentary switching**|Alison A. Silva et.al.|[2404.06628v1](http://arxiv.org/abs/2404.06628v1)|null|
-|**2024-04-09 16:54:19**|**PURE: Turning Polysemantic Neurons Into Pure Features by Identifying   Relevant Circuits**|Maximilian Dreyer et.al.|[2404.06453v1](http://arxiv.org/abs/2404.06453v1)|[link](https://github.com/maxdreyer/pure)|
-|**2024-04-09 16:25:07**|**Quantum Graph Optimization Algorithm**|Yuhan Huang et.al.|[2404.06434v1](http://arxiv.org/abs/2404.06434v1)|null|
-|**2024-04-09 16:03:26**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot   Systems**|Kunal Garg et.al.|[2404.06413v1](http://arxiv.org/abs/2404.06413v1)|null|
-|**2024-04-09 14:26:05**|**Oracle-Net for nonlinear compressed sensing in Electrical Impedance   Tomography reconstruction problems**|Damiana Lazzaro et.al.|[2404.06342v1](http://arxiv.org/abs/2404.06342v1)|null|
-|**2024-04-09 11:45:16**|**Learning Efficient and Fair Policies for Uncertainty-Aware Collaborative   Human-Robot Order Picking**|Igor G. Smit et.al.|[2404.08006v1](http://arxiv.org/abs/2404.08006v1)|null|
-|**2024-04-09 11:27:07**|**Message Passing Variational Autoregressive Network for Solving   Intractable Ising Models**|Qunlong Ma et.al.|[2404.06225v1](http://arxiv.org/abs/2404.06225v1)|null|
-|**2024-04-09 09:46:17**|**scCDCG: Efficient Deep Structural Clustering for single-cell RNA-seq via   Deep Cut-informed Graph Embedding**|Ping Xu et.al.|[2404.06167v1](http://arxiv.org/abs/2404.06167v1)|[link](https://github.com/xpgogogo/sccdcg)|
-|**2024-04-09 07:49:05**|**Fair Graph Neural Network with Supervised Contrastive Regularization**|Mahdi Tavassoli Kejani et.al.|[2404.06090v1](http://arxiv.org/abs/2404.06090v1)|null|
-|**2024-04-09 06:10:15**|**Object Dynamics Modeling with Hierarchical Point Cloud-based   Representations**|Chanho Kim et.al.|[2404.06044v1](http://arxiv.org/abs/2404.06044v1)|null|
