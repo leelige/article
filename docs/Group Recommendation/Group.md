@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-17 13:32:05**|**Tensor Factorisation for Polypharmacy Side Effect Prediction**|Oliver Lloyd et.al.|[2404.11374v1](http://arxiv.org/abs/2404.11374v1)|null|
+|**2024-04-17 10:36:56**|**PartiPlay: A Participatory Game Design Kit for Neurodiverse Classrooms**|Patricia Piedade et.al.|[2404.11234v1](http://arxiv.org/abs/2404.11234v1)|null|
 |**2024-04-15 11:20:44**|**AntDT: A Self-Adaptive Distributed Training Framework for Leader and   Straggler Nodes**|Youshao Xiao et.al.|[2404.09679v1](http://arxiv.org/abs/2404.09679v1)|null|
 |**2024-04-15 10:54:47**|**Closing the Gap in the Trade-off between Fair Representations and   Accuracy**|Biswajit Rout et.al.|[2404.09664v1](http://arxiv.org/abs/2404.09664v1)|null|
 |**2024-04-14 06:59:25**|**A computational model for gender asset gap management with a focus on   gender disparity in land acquisition and land tenure security**|Oluwatosin Ogundare et.al.|[2404.09164v1](http://arxiv.org/abs/2404.09164v1)|null|
@@ -16,7 +18,7 @@
 |**2024-03-26 23:32:52**|**Large Language Models as Financial Data Annotators: A Study on   Effectiveness and Efficiency**|Toyin Aguda et.al.|[2403.18152v1](http://arxiv.org/abs/2403.18152v1)|null|
 |**2024-03-25 22:35:43**|**A recommender network perspective on the informational value of critics   and crowds**|Pantelis P. Analytis et.al.|[2403.18868v1](http://arxiv.org/abs/2403.18868v1)|null|
 |**2024-03-25 02:52:42**|**Play to Your Strengths: Collaborative Intelligence of Conventional   Recommender Models and Large Language Models**|Yunjia Xi et.al.|[2403.16378v1](http://arxiv.org/abs/2403.16378v1)|null|
-|**2024-03-22 12:27:21**|**Leave No One Behind: Online Self-Supervised Self-Distillation for   Sequential Recommendation**|Shaowei Wei et.al.|[2404.07219v1](http://arxiv.org/abs/2404.07219v1)|[link](https://github.com/xjaw/S4Rec)|
+|**2024-03-22 12:27:21**|**Leave No One Behind: Online Self-Supervised Self-Distillation for   Sequential Recommendation**|Shaowei Wei et.al.|[2404.07219v2](http://arxiv.org/abs/2404.07219v2)|null|
 |**2024-03-18 01:12:02**|**Visualizing Progress in Broadening Participation in Computing: The Value   of Context**|Valerie Barr et.al.|[2403.14708v1](http://arxiv.org/abs/2403.14708v1)|null|
 |**2024-03-17 21:06:38**|**Synergy of Information in Multimodal IoT Systems -- Discovering the   impact of daily behaviour routines on physical activity level**|Mohsen Shirali et.al.|[2403.14707v1](http://arxiv.org/abs/2403.14707v1)|null|
 |**2024-03-16 00:12:02**|**Assessing Delayed Treatment Benefits of Immunotherapy Using Long-Term   Average Hazard: A Novel Test/Estimation Approach**|Miki Horiguchi et.al.|[2403.10742v1](http://arxiv.org/abs/2403.10742v1)|null|
@@ -30,5 +32,3 @@
 |**2024-03-04 17:45:52**|**Human-AI Collaboration Increases Skill Tagging Speed but Degrades   Accuracy**|Cheng Ren et.al.|[2403.02259v1](http://arxiv.org/abs/2403.02259v1)|null|
 |**2024-03-04 07:32:28**|**Beyond Recommender: An Exploratory Study of the Effects of Different AI   Roles in AI-Assisted Decision Making**|Shuai Ma et.al.|[2403.01791v1](http://arxiv.org/abs/2403.01791v1)|null|
 |**2024-03-04 00:03:00**|**Recommendations for Government Development and Use of Advanced Automated   Systems to Make Decisions about Individuals**|Susan Landau et.al.|[2403.01649v1](http://arxiv.org/abs/2403.01649v1)|null|
-|**2024-03-02 14:30:57**|**A Two-Stage Algorithm for Cost-Efficient Multi-instance Counterfactual   Explanations**|André Artelt et.al.|[2403.01221v1](http://arxiv.org/abs/2403.01221v1)|[link](https://github.com/andreartelt/twostagemultiinstcfs)|
-|**2024-02-29 19:14:24**|**The Constitutions of Web3**|Joshua Z. Tan et.al.|[2403.00081v1](http://arxiv.org/abs/2403.00081v1)|[link](https://github.com/metagov/constitution-template)|
