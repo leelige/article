@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-18 10:23:10**|**PureForest: A Large-scale Aerial Lidar and Aerial Imagery Dataset for   Tree Species Classification in Monospecific Forests**|Charles Gaydon et.al.|[2404.12064v1](http://arxiv.org/abs/2404.12064v1)|null|
 |**2024-04-17 13:32:05**|**Tensor Factorisation for Polypharmacy Side Effect Prediction**|Oliver Lloyd et.al.|[2404.11374v1](http://arxiv.org/abs/2404.11374v1)|null|
 |**2024-04-17 10:36:56**|**PartiPlay: A Participatory Game Design Kit for Neurodiverse Classrooms**|Patricia Piedade et.al.|[2404.11234v1](http://arxiv.org/abs/2404.11234v1)|null|
 |**2024-04-15 11:20:44**|**AntDT: A Self-Adaptive Distributed Training Framework for Leader and   Straggler Nodes**|Youshao Xiao et.al.|[2404.09679v1](http://arxiv.org/abs/2404.09679v1)|null|
@@ -20,7 +21,6 @@
 |**2024-03-25 02:52:42**|**Play to Your Strengths: Collaborative Intelligence of Conventional   Recommender Models and Large Language Models**|Yunjia Xi et.al.|[2403.16378v1](http://arxiv.org/abs/2403.16378v1)|null|
 |**2024-03-22 12:27:21**|**Leave No One Behind: Online Self-Supervised Self-Distillation for   Sequential Recommendation**|Shaowei Wei et.al.|[2404.07219v2](http://arxiv.org/abs/2404.07219v2)|null|
 |**2024-03-18 01:12:02**|**Visualizing Progress in Broadening Participation in Computing: The Value   of Context**|Valerie Barr et.al.|[2403.14708v1](http://arxiv.org/abs/2403.14708v1)|null|
-|**2024-03-17 21:06:38**|**Synergy of Information in Multimodal IoT Systems -- Discovering the   impact of daily behaviour routines on physical activity level**|Mohsen Shirali et.al.|[2403.14707v1](http://arxiv.org/abs/2403.14707v1)|null|
 |**2024-03-16 00:12:02**|**Assessing Delayed Treatment Benefits of Immunotherapy Using Long-Term   Average Hazard: A Novel Test/Estimation Approach**|Miki Horiguchi et.al.|[2403.10742v1](http://arxiv.org/abs/2403.10742v1)|null|
 |**2024-03-11 12:02:01**|**Group Movie Selection using Multi-channel Emotion Recognition**|Elnara Kadyrgali et.al.|[2403.12087v1](http://arxiv.org/abs/2403.12087v1)|null|
 |**2024-03-09 10:49:31**|**LEGION: Harnessing Pre-trained Language Models for GitHub Topic   Recommendations with Distribution-Balance Loss**|Yen-Trang Dang et.al.|[2403.05873v1](http://arxiv.org/abs/2403.05873v1)|[link](https://github.com/rise-bkai/legion)|
