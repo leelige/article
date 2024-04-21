@@ -2,7 +2,7 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-18 17:34:47**|**Improving the interpretability of GNN predictions through   conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356v1](http://arxiv.org/abs/2404.12356v1)|null|
+|**2024-04-18 17:34:47**|**Improving the interpretability of GNN predictions through   conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356v1](http://arxiv.org/abs/2404.12356v1)|[link](https://github.com/psanch21/cores)|
 |**2024-04-18 14:57:17**|**Neural Networks with Causal Graph Constraints: A New Approach for   Treatment Effects Estimation**|Roger Pros et.al.|[2404.12238v1](http://arxiv.org/abs/2404.12238v1)|null|
 |**2024-04-18 08:39:52**|**Knowledge-Aware Multi-Intent Contrastive Learning for Multi-Behavior   Recommendation**|Shunpan Liang et.al.|[2404.11993v1](http://arxiv.org/abs/2404.11993v1)|null|
 |**2024-04-18 02:30:59**|**Graph Neural Networks for Wireless Networks: Graph Representation,   Architecture and Evaluation**|Yang Lu et.al.|[2404.11858v1](http://arxiv.org/abs/2404.11858v1)|null|
