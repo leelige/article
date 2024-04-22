@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-19 09:08:12**|**Graph Learning Dual Graph Convolutional Network For Semi-Supervised Node   Classification With Subgraph Sketch**|Zibin Huang et.al.|[2404.12724v1](http://arxiv.org/abs/2404.12724v1)|null|
+|**2024-04-19 08:46:33**|**uTRAND: Unsupervised Anomaly Detection in Traffic Trajectories**|Giacomo D'Amicantonio et.al.|[2404.12712v1](http://arxiv.org/abs/2404.12712v1)|null|
+|**2024-04-19 04:54:38**|**Grasper: A Generalist Pursuer for Pursuit-Evasion Problems**|Pengdeng Li et.al.|[2404.12626v1](http://arxiv.org/abs/2404.12626v1)|[link](https://github.com/ipadli/grasper)|
+|**2024-04-19 02:32:43**|**Reinforcement Learning Approach for Integrating Compressed Contexts into   Knowledge Graphs**|Ngoc Quach et.al.|[2404.12587v1](http://arxiv.org/abs/2404.12587v1)|null|
+|**2024-04-19 01:36:50**|**Multi-View Subgraph Neural Networks: Self-Supervised Learning with   Scarce Labeled Data**|Zhenzhong Wang et.al.|[2404.12569v1](http://arxiv.org/abs/2404.12569v1)|null|
 |**2024-04-18 17:34:47**|**Improving the interpretability of GNN predictions through   conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356v1](http://arxiv.org/abs/2404.12356v1)|[link](https://github.com/psanch21/cores)|
 |**2024-04-18 14:57:17**|**Neural Networks with Causal Graph Constraints: A New Approach for   Treatment Effects Estimation**|Roger Pros et.al.|[2404.12238v1](http://arxiv.org/abs/2404.12238v1)|null|
 |**2024-04-18 08:39:52**|**Knowledge-Aware Multi-Intent Contrastive Learning for Multi-Behavior   Recommendation**|Shunpan Liang et.al.|[2404.11993v1](http://arxiv.org/abs/2404.11993v1)|null|
@@ -27,8 +32,3 @@
 |**2024-04-16 07:08:04**|**Graph neural network-based surrogate modelling for real-time hydraulic   prediction of urban drainage networks**|Zhiyu Zhang et.al.|[2404.10324v1](http://arxiv.org/abs/2404.10324v1)|[link](https://github.com/Zhiyu014/GNN-UDS)|
 |**2024-04-16 02:18:30**|**Two-Stage Stance Labeling: User-Hashtag Heuristics with Graph Neural   Networks**|Joshua Melton et.al.|[2404.10228v1](http://arxiv.org/abs/2404.10228v1)|null|
 |**2024-04-16 01:41:22**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and   Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210v1](http://arxiv.org/abs/2404.10210v1)|null|
-|**2024-04-16 00:02:12**|**Advancing Network Intrusion Detection: Integrating Graph Neural Networks   with Scattering Transform and Node2Vec for Enhanced Anomaly Detection**|Abdeljalil Zoubir et.al.|[2404.10800v1](http://arxiv.org/abs/2404.10800v1)|null|
-|**2024-04-15 15:42:12**|**Explainable Online Unsupervised Anomaly Detection for Cyber-Physical   Systems via Causal Discovery from Time Series**|Daniele Meli et.al.|[2404.09871v1](http://arxiv.org/abs/2404.09871v1)|null|
-|**2024-04-15 14:10:06**|**Solving the Tree Containment Problem Using Graph Neural Networks**|Arkadiy Dushatskiy et.al.|[2404.09812v1](http://arxiv.org/abs/2404.09812v1)|null|
-|**2024-04-15 09:10:52**|**Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data   Augmentation**|Shangqing Liu et.al.|[2404.09599v1](http://arxiv.org/abs/2404.09599v1)|null|
-|**2024-04-15 08:11:21**|**GNNavigator: Towards Adaptive Training of Graph Neural Networks via   Automatic Guideline Exploration**|Tong Qiao et.al.|[2404.09544v1](http://arxiv.org/abs/2404.09544v1)|null|
