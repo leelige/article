@@ -2,6 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-22 14:38:58**|**A Survey of Decomposition-Based Evolutionary Multi-Objective   Optimization: Part II -- A Data Science Perspective**|Mingyu Huang et.al.|[2404.14228v1](http://arxiv.org/abs/2404.14228v1)|null|
+|**2024-04-22 10:19:02**|**FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph   Federated Learning**|Yinlin Zhu et.al.|[2404.14061v1](http://arxiv.org/abs/2404.14061v1)|null|
+|**2024-04-22 08:44:07**|**Liquid-Graph Time-Constant Network for Multi-Agent Systems Control**|Antonio Marino et.al.|[2404.13982v1](http://arxiv.org/abs/2404.13982v1)|null|
+|**2024-04-21 13:11:59**|**SPGNN: Recognizing Salient Subgraph Patterns via Enhanced Graph   Convolution and Pooling**|Zehao Dong et.al.|[2404.13655v1](http://arxiv.org/abs/2404.13655v1)|null|
+|**2024-04-21 09:29:20**|**Unsupervised Social Bot Detection via Structural Information Theory**|Hao Peng et.al.|[2404.13595v1](http://arxiv.org/abs/2404.13595v1)|null|
+|**2024-04-21 08:20:02**|**Test-Time Training on Graphs with Large Language Models (LLMs)**|Jiaxin Zhang et.al.|[2404.13571v1](http://arxiv.org/abs/2404.13571v1)|null|
+|**2024-04-21 04:06:09**|**Graph4GUI: Graph Neural Networks for Representing Graphical User   Interfaces**|Yue Jiang et.al.|[2404.13521v1](http://arxiv.org/abs/2404.13521v1)|null|
+|**2024-04-21 00:14:03**|**Authentic Emotion Mapping: Benchmarking Facial Expressions in Real News**|Qixuan Zhang et.al.|[2404.13493v1](http://arxiv.org/abs/2404.13493v1)|[link](https://github.com/wangzhifengharrison/benchmark_real_news)|
+|**2024-04-20 13:37:55**|**Social Force Embedded Mixed Graph Convolutional Network for Multi-class   Trajectory Prediction**|Quancheng Du et.al.|[2404.13378v1](http://arxiv.org/abs/2404.13378v1)|null|
+|**2024-04-20 10:44:13**|**GRANOLA: Adaptive Normalization for Graph Neural Networks**|Moshe Eliasof et.al.|[2404.13344v1](http://arxiv.org/abs/2404.13344v1)|null|
 |**2024-04-19 09:08:12**|**Graph Learning Dual Graph Convolutional Network For Semi-Supervised Node   Classification With Subgraph Sketch**|Zibin Huang et.al.|[2404.12724v1](http://arxiv.org/abs/2404.12724v1)|null|
 |**2024-04-19 08:46:33**|**uTRAND: Unsupervised Anomaly Detection in Traffic Trajectories**|Giacomo D'Amicantonio et.al.|[2404.12712v1](http://arxiv.org/abs/2404.12712v1)|null|
 |**2024-04-19 04:54:38**|**Grasper: A Generalist Pursuer for Pursuit-Evasion Problems**|Pengdeng Li et.al.|[2404.12626v1](http://arxiv.org/abs/2404.12626v1)|[link](https://github.com/ipadli/grasper)|
@@ -22,13 +32,3 @@
 |**2024-04-17 02:52:11**|**You do not have to train Graph Neural Networks at all on text-attributed   graphs**|Kaiwen Dong et.al.|[2404.11019v1](http://arxiv.org/abs/2404.11019v1)|null|
 |**2024-04-17 01:31:00**|**Graph Continual Learning with Debiased Lossless Memory Replay**|Chaoxi Niu et.al.|[2404.10984v1](http://arxiv.org/abs/2404.10984v1)|null|
 |**2024-04-16 22:44:29**|**Neuromorphic Vision-based Motion Segmentation with Graph Transformer   Neural Network**|Yusra Alkendi et.al.|[2404.10940v1](http://arxiv.org/abs/2404.10940v1)|null|
-|**2024-04-16 17:24:22**|**Interpolation and differentiation of alchemical degrees of freedom in   machine learning interatomic potentials**|Juno Nam et.al.|[2404.10746v1](http://arxiv.org/abs/2404.10746v1)|null|
-|**2024-04-16 12:20:49**|**A Sentiment Analysis of Medical Text Based on Deep Learning**|Yinan Chen et.al.|[2404.10503v1](http://arxiv.org/abs/2404.10503v1)|null|
-|**2024-04-16 10:39:25**|**Graph Neural Networks for Protein-Protein Interactions -- A Short Survey**|Mingda Xu et.al.|[2404.10450v1](http://arxiv.org/abs/2404.10450v1)|null|
-|**2024-04-16 10:30:48**|**AGHINT: Attribute-Guided Representation Learning on Heterogeneous   Information Networks with Transformer**|Jinhui Yuan et.al.|[2404.10443v1](http://arxiv.org/abs/2404.10443v1)|null|
-|**2024-04-16 07:55:34**|**Learning Wireless Data Knowledge Graph for Green Intelligent   Communications: Methodology and Experiments**|Yongming Huang et.al.|[2404.10365v1](http://arxiv.org/abs/2404.10365v1)|null|
-|**2024-04-16 07:42:55**|**Physical formula enhanced multi-task learning for pharmacokinetics   prediction**|Ruifeng Li et.al.|[2404.10354v1](http://arxiv.org/abs/2404.10354v1)|null|
-|**2024-04-16 07:41:29**|**Rethinking the Graph Polynomial Filter via Positive and Negative   Coupling Analysis**|Haodong Wen et.al.|[2404.10353v1](http://arxiv.org/abs/2404.10353v1)|null|
-|**2024-04-16 07:08:04**|**Graph neural network-based surrogate modelling for real-time hydraulic   prediction of urban drainage networks**|Zhiyu Zhang et.al.|[2404.10324v1](http://arxiv.org/abs/2404.10324v1)|[link](https://github.com/Zhiyu014/GNN-UDS)|
-|**2024-04-16 02:18:30**|**Two-Stage Stance Labeling: User-Hashtag Heuristics with Graph Neural   Networks**|Joshua Melton et.al.|[2404.10228v1](http://arxiv.org/abs/2404.10228v1)|null|
-|**2024-04-16 01:41:22**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and   Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210v1](http://arxiv.org/abs/2404.10210v1)|null|
