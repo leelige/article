@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-25 09:20:51**|**Contextual Categorization Enhancement through LLMs Latent-Space**|Zineddine Bettouche et.al.|[2404.16442v1](http://arxiv.org/abs/2404.16442v1)|null|
 |**2024-04-24 02:23:12**|**Human-in-the-loop Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2404.15599v1](http://arxiv.org/abs/2404.15599v1)|null|
 |**2024-04-23 10:59:44**|**Sum of Group Error Differences: A Critical Examination of Bias   Evaluation in Biometric Verification and a Dual-Metric Measure**|Alaa Elobaid et.al.|[2404.15385v1](http://arxiv.org/abs/2404.15385v1)|[link](https://github.com/alaaobeid/SEDG})|
 |**2024-04-22 17:19:09**|**Lessons Learned in Performing a Trustworthy AI and Fundamental Rights   Assessment**|Marjolein Boonstra et.al.|[2404.14366v1](http://arxiv.org/abs/2404.14366v1)|null|
@@ -21,6 +22,7 @@
 |**2024-04-02 02:46:18**|**Helmsman of the Masses? Evaluate the Opinion Leadership of Large   Language Models in the Werewolf Game**|Silin Du et.al.|[2404.01602v1](http://arxiv.org/abs/2404.01602v1)|null|
 |**2024-03-29 04:33:39**|**Facilitating Human Feedback for GenAI Prompt Optimization**|Jacob Sherson et.al.|[2404.15304v1](http://arxiv.org/abs/2404.15304v1)|null|
 |**2024-03-27 13:12:41**|**A Novel Behavior-Based Recommendation System for E-commerce**|Reza Barzegar Nozari et.al.|[2403.18536v1](http://arxiv.org/abs/2403.18536v1)|null|
+|**2024-03-27 01:43:50**|**Pilot Study to Discover Candidate Biomarkers for Autism based on   Perception and Production of Facial Expressions**|Megan A. Witherow et.al.|[2404.16040v1](http://arxiv.org/abs/2404.16040v1)|null|
 |**2024-03-26 23:32:52**|**Large Language Models as Financial Data Annotators: A Study on   Effectiveness and Efficiency**|Toyin Aguda et.al.|[2403.18152v1](http://arxiv.org/abs/2403.18152v1)|null|
 |**2024-03-25 22:35:43**|**A recommender network perspective on the informational value of critics   and crowds**|Pantelis P. Analytis et.al.|[2403.18868v1](http://arxiv.org/abs/2403.18868v1)|null|
 |**2024-03-25 02:52:42**|**Play to Your Strengths: Collaborative Intelligence of Conventional   Recommender Models and Large Language Models**|Yunjia Xi et.al.|[2403.16378v1](http://arxiv.org/abs/2403.16378v1)|null|
@@ -30,5 +32,3 @@
 |**2024-03-11 12:02:01**|**Group Movie Selection using Multi-channel Emotion Recognition**|Elnara Kadyrgali et.al.|[2403.12087v1](http://arxiv.org/abs/2403.12087v1)|null|
 |**2024-03-09 10:49:31**|**LEGION: Harnessing Pre-trained Language Models for GitHub Topic   Recommendations with Distribution-Balance Loss**|Yen-Trang Dang et.al.|[2403.05873v1](http://arxiv.org/abs/2403.05873v1)|[link](https://github.com/rise-bkai/legion)|
 |**2024-03-07 17:24:32**|**Canadian Physics Counts: An exploration of the diverse identities of   physics students and professionals in Canada**|Eden J. Hennessey et.al.|[2403.04679v1](http://arxiv.org/abs/2403.04679v1)|null|
-|**2024-03-07 14:14:40**|**Uncovering the Deep Filter Bubble: Narrow Exposure in Short-Video   Recommendation**|Nicholas Sukiennik et.al.|[2403.04511v1](http://arxiv.org/abs/2403.04511v1)|null|
-|**2024-03-06 20:37:29**|**Sample size planning for conditional counterfactual mean estimation with   a K-armed randomized experiment**|Gabriel Ruiz et.al.|[2403.04039v1](http://arxiv.org/abs/2403.04039v1)|null|
