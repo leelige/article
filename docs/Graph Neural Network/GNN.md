@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-25 12:07:41**|**Surprisingly Strong Performance Prediction with Neural Graph Features**|Gabriela Kadlecová et.al.|[2404.16551v1](http://arxiv.org/abs/2404.16551v1)|null|
-|**2024-04-25 11:43:46**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532v1](http://arxiv.org/abs/2404.16532v1)|null|
+|**2024-04-25 11:43:46**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532v1](http://arxiv.org/abs/2404.16532v1)|[link](https://github.com/aimat-lab/megan_global_explanations)|
 |**2024-04-25 07:09:05**|**Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**|Yuanchen Bei et.al.|[2404.16366v1](http://arxiv.org/abs/2404.16366v1)|null|
 |**2024-04-25 04:21:56**|**Improved impedance inversion by deep learning and iterated graph   Laplacian**|Davide Bianchi et.al.|[2404.16324v1](http://arxiv.org/abs/2404.16324v1)|null|
 |**2024-04-24 18:45:50**|**Power Failure Cascade Prediction using Graph Neural Networks**|Sathwik Chadaga et.al.|[2404.16134v1](http://arxiv.org/abs/2404.16134v1)|[link](https://github.com/sathwikchadaga/failure-cascade)|
@@ -22,7 +22,7 @@
 |**2024-04-23 11:35:35**|**Delayed Bottlenecking: Alleviating Forgetting in Pre-trained Graph   Neural Networks**|Zhe Zhao et.al.|[2404.14941v1](http://arxiv.org/abs/2404.14941v1)|null|
 |**2024-04-23 11:13:39**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928v1](http://arxiv.org/abs/2404.14928v1)|null|
 |**2024-04-23 08:19:08**|**CNN2GNN: How to Bridge CNN with GNN**|Ziheng Jiao et.al.|[2404.14822v1](http://arxiv.org/abs/2404.14822v1)|null|
-|**2024-04-23 03:48:18**|**Source Code Vulnerability Detection: Combining Code Language Models and   Code Property Graphs**|Ruitong Liu et.al.|[2404.14719v1](http://arxiv.org/abs/2404.14719v1)|[link](https://github.com/Vul-LMGNN/vul-LMGGNN)|
+|**2024-04-23 03:48:18**|**Source Code Vulnerability Detection: Combining Code Language Models and   Code Property Graphs**|Ruitong Liu et.al.|[2404.14719v1](http://arxiv.org/abs/2404.14719v1)|[link](https://github.com/vul-lmgnn/vul-lmggnn)|
 |**2024-04-23 02:49:58**|**Deep Overlapping Community Search via Subspace Embedding**|Qing Sima et.al.|[2404.14692v1](http://arxiv.org/abs/2404.14692v1)|null|
 |**2024-04-23 00:39:26**|**Uncertainty Quantification on Graph Learning: A Survey**|Chao Chen et.al.|[2404.14642v1](http://arxiv.org/abs/2404.14642v1)|null|
 |**2024-04-22 14:38:58**|**A Survey of Decomposition-Based Evolutionary Multi-Objective   Optimization: Part II -- A Data Science Perspective**|Mingyu Huang et.al.|[2404.14228v1](http://arxiv.org/abs/2404.14228v1)|null|
