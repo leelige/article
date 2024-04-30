@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-29 12:14:54**|**Citizen Science in European Research Infrastructures**|Stephen Serjeant et.al.|[2404.18635v1](http://arxiv.org/abs/2404.18635v1)|null|
+|**2024-04-28 00:57:17**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040v1](http://arxiv.org/abs/2404.18040v1)|null|
 |**2024-04-26 17:42:29**|**Structured Conformal Inference for Matrix Completion with Applications   to Group Recommender Systems**|Ziyi Liang et.al.|[2404.17561v1](http://arxiv.org/abs/2404.17561v1)|null|
 |**2024-04-26 16:26:11**|**Bridging the Fairness Divide: Achieving Group and Individual Fairness in   Graph Neural Networks**|Duna Zhan et.al.|[2404.17511v1](http://arxiv.org/abs/2404.17511v1)|null|
 |**2024-04-26 10:45:34**|**Towards Group-aware Search Success**|Haolun Wu et.al.|[2404.17313v1](http://arxiv.org/abs/2404.17313v1)|null|
@@ -9,6 +11,7 @@
 |**2024-04-25 09:20:51**|**Contextual Categorization Enhancement through LLMs Latent-Space**|Zineddine Bettouche et.al.|[2404.16442v1](http://arxiv.org/abs/2404.16442v1)|null|
 |**2024-04-24 02:23:12**|**Human-in-the-loop Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2404.15599v1](http://arxiv.org/abs/2404.15599v1)|null|
 |**2024-04-23 10:59:44**|**Sum of Group Error Differences: A Critical Examination of Bias   Evaluation in Biometric Verification and a Dual-Metric Measure**|Alaa Elobaid et.al.|[2404.15385v1](http://arxiv.org/abs/2404.15385v1)|[link](https://github.com/alaaobeid/SEDG})|
+|**2024-04-23 06:43:58**|**Revealing and Utilizing In-group Favoritism for Graph-based   Collaborative Filtering**|Hoin Jung et.al.|[2404.17598v1](http://arxiv.org/abs/2404.17598v1)|null|
 |**2024-04-22 17:19:09**|**Lessons Learned in Performing a Trustworthy AI and Fundamental Rights   Assessment**|Marjolein Boonstra et.al.|[2404.14366v1](http://arxiv.org/abs/2404.14366v1)|null|
 |**2024-04-21 21:19:31**|**Multi-channel Emotion Analysis for Consensus Reaching in Group Movie   Recommendation Systems**|Adilet Yerkin et.al.|[2404.13778v1](http://arxiv.org/abs/2404.13778v1)|null|
 |**2024-04-18 10:23:10**|**PureForest: A Large-scale Aerial Lidar and Aerial Imagery Dataset for   Tree Species Classification in Monospecific Forests**|Charles Gaydon et.al.|[2404.12064v1](http://arxiv.org/abs/2404.12064v1)|null|
@@ -29,6 +32,3 @@
 |**2024-03-27 01:43:50**|**Pilot Study to Discover Candidate Biomarkers for Autism based on   Perception and Production of Facial Expressions**|Megan A. Witherow et.al.|[2404.16040v1](http://arxiv.org/abs/2404.16040v1)|null|
 |**2024-03-26 23:32:52**|**Large Language Models as Financial Data Annotators: A Study on   Effectiveness and Efficiency**|Toyin Aguda et.al.|[2403.18152v1](http://arxiv.org/abs/2403.18152v1)|null|
 |**2024-03-25 22:35:43**|**A recommender network perspective on the informational value of critics   and crowds**|Pantelis P. Analytis et.al.|[2403.18868v1](http://arxiv.org/abs/2403.18868v1)|null|
-|**2024-03-25 02:52:42**|**Play to Your Strengths: Collaborative Intelligence of Conventional   Recommender Models and Large Language Models**|Yunjia Xi et.al.|[2403.16378v1](http://arxiv.org/abs/2403.16378v1)|null|
-|**2024-03-22 12:27:21**|**Leave No One Behind: Online Self-Supervised Self-Distillation for   Sequential Recommendation**|Shaowei Wei et.al.|[2404.07219v2](http://arxiv.org/abs/2404.07219v2)|null|
-|**2024-03-18 01:12:02**|**Visualizing Progress in Broadening Participation in Computing: The Value   of Context**|Valerie Barr et.al.|[2403.14708v1](http://arxiv.org/abs/2403.14708v1)|null|
