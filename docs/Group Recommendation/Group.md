@@ -2,8 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-29 19:52:09**|**Longitudinal Mammogram Risk Prediction**|Batuhan K. Karaman et.al.|[2404.19083v1](http://arxiv.org/abs/2404.19083v1)|[link](https://github.com/batuhankmkaraman/lomar)|
 |**2024-04-29 12:14:54**|**Citizen Science in European Research Infrastructures**|Stephen Serjeant et.al.|[2404.18635v1](http://arxiv.org/abs/2404.18635v1)|null|
-|**2024-04-28 00:57:17**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040v1](http://arxiv.org/abs/2404.18040v1)|null|
+|**2024-04-28 00:57:17**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040v1](http://arxiv.org/abs/2404.18040v1)|[link](https://github.com/outfit-net/outfit-commpatibility)|
 |**2024-04-26 17:42:29**|**Structured Conformal Inference for Matrix Completion with Applications   to Group Recommender Systems**|Ziyi Liang et.al.|[2404.17561v1](http://arxiv.org/abs/2404.17561v1)|null|
 |**2024-04-26 16:26:11**|**Bridging the Fairness Divide: Achieving Group and Individual Fairness in   Graph Neural Networks**|Duna Zhan et.al.|[2404.17511v1](http://arxiv.org/abs/2404.17511v1)|null|
 |**2024-04-26 10:45:34**|**Towards Group-aware Search Success**|Haolun Wu et.al.|[2404.17313v1](http://arxiv.org/abs/2404.17313v1)|null|
@@ -31,4 +32,3 @@
 |**2024-03-27 13:12:41**|**A Novel Behavior-Based Recommendation System for E-commerce**|Reza Barzegar Nozari et.al.|[2403.18536v1](http://arxiv.org/abs/2403.18536v1)|null|
 |**2024-03-27 01:43:50**|**Pilot Study to Discover Candidate Biomarkers for Autism based on   Perception and Production of Facial Expressions**|Megan A. Witherow et.al.|[2404.16040v1](http://arxiv.org/abs/2404.16040v1)|null|
 |**2024-03-26 23:32:52**|**Large Language Models as Financial Data Annotators: A Study on   Effectiveness and Efficiency**|Toyin Aguda et.al.|[2403.18152v1](http://arxiv.org/abs/2403.18152v1)|null|
-|**2024-03-25 22:35:43**|**A recommender network perspective on the informational value of critics   and crowds**|Pantelis P. Analytis et.al.|[2403.18868v1](http://arxiv.org/abs/2403.18868v1)|null|
