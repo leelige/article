@@ -1,41 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2024-05-04 16:07:59 Asia/Shanghai
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-29 19:52:09**|**Longitudinal Mammogram Risk Prediction**|Batuhan K. Karaman et.al.|[2404.19083v1](http://arxiv.org/abs/2404.19083v1)|[link](https://github.com/batuhankmkaraman/lomar)|
-|**2024-04-29 12:14:54**|**Citizen Science in European Research Infrastructures**|Stephen Serjeant et.al.|[2404.18635v1](http://arxiv.org/abs/2404.18635v1)|null|
-|**2024-04-28 00:57:17**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040v1](http://arxiv.org/abs/2404.18040v1)|[link](https://github.com/outfit-net/outfit-commpatibility)|
-|**2024-04-26 17:42:29**|**Structured Conformal Inference for Matrix Completion with Applications   to Group Recommender Systems**|Ziyi Liang et.al.|[2404.17561v1](http://arxiv.org/abs/2404.17561v1)|null|
-|**2024-04-26 16:26:11**|**Bridging the Fairness Divide: Achieving Group and Individual Fairness in   Graph Neural Networks**|Duna Zhan et.al.|[2404.17511v1](http://arxiv.org/abs/2404.17511v1)|null|
-|**2024-04-26 10:45:34**|**Towards Group-aware Search Success**|Haolun Wu et.al.|[2404.17313v1](http://arxiv.org/abs/2404.17313v1)|null|
-|**2024-04-26 09:51:24**|**Lazy Data Practices Harm Fairness Research**|Jan Simson et.al.|[2404.17293v1](http://arxiv.org/abs/2404.17293v1)|[link](https://github.com/reliable-ai/lazy-data-practices)|
-|**2024-04-25 09:20:51**|**Contextual Categorization Enhancement through LLMs Latent-Space**|Zineddine Bettouche et.al.|[2404.16442v1](http://arxiv.org/abs/2404.16442v1)|null|
-|**2024-04-24 02:23:12**|**Human-in-the-loop Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2404.15599v1](http://arxiv.org/abs/2404.15599v1)|null|
-|**2024-04-23 10:59:44**|**Sum of Group Error Differences: A Critical Examination of Bias   Evaluation in Biometric Verification and a Dual-Metric Measure**|Alaa Elobaid et.al.|[2404.15385v1](http://arxiv.org/abs/2404.15385v1)|[link](https://github.com/alaaobeid/SEDG})|
-|**2024-04-23 06:43:58**|**Revealing and Utilizing In-group Favoritism for Graph-based   Collaborative Filtering**|Hoin Jung et.al.|[2404.17598v1](http://arxiv.org/abs/2404.17598v1)|null|
-|**2024-04-22 17:19:09**|**Lessons Learned in Performing a Trustworthy AI and Fundamental Rights   Assessment**|Marjolein Boonstra et.al.|[2404.14366v1](http://arxiv.org/abs/2404.14366v1)|null|
-|**2024-04-21 21:19:31**|**Multi-channel Emotion Analysis for Consensus Reaching in Group Movie   Recommendation Systems**|Adilet Yerkin et.al.|[2404.13778v1](http://arxiv.org/abs/2404.13778v1)|null|
-|**2024-04-18 10:23:10**|**PureForest: A Large-scale Aerial Lidar and Aerial Imagery Dataset for   Tree Species Classification in Monospecific Forests**|Charles Gaydon et.al.|[2404.12064v1](http://arxiv.org/abs/2404.12064v1)|null|
-|**2024-04-17 13:32:05**|**Tensor Factorisation for Polypharmacy Side Effect Prediction**|Oliver Lloyd et.al.|[2404.11374v1](http://arxiv.org/abs/2404.11374v1)|null|
-|**2024-04-17 10:36:56**|**PartiPlay: A Participatory Game Design Kit for Neurodiverse Classrooms**|Patricia Piedade et.al.|[2404.11234v1](http://arxiv.org/abs/2404.11234v1)|null|
-|**2024-04-15 11:20:44**|**AntDT: A Self-Adaptive Distributed Training Framework for Leader and   Straggler Nodes**|Youshao Xiao et.al.|[2404.09679v1](http://arxiv.org/abs/2404.09679v1)|null|
-|**2024-04-15 10:54:47**|**Closing the Gap in the Trade-off between Fair Representations and   Accuracy**|Biswajit Rout et.al.|[2404.09664v1](http://arxiv.org/abs/2404.09664v1)|null|
-|**2024-04-14 06:59:25**|**A computational model for gender asset gap management with a focus on   gender disparity in land acquisition and land tenure security**|Oluwatosin Ogundare et.al.|[2404.09164v1](http://arxiv.org/abs/2404.09164v1)|null|
-|**2024-04-10 20:10:58**|**Assessing Engraftment Following Fecal Microbiota Transplant**|Chloe Herman et.al.|[2404.07325v1](http://arxiv.org/abs/2404.07325v1)|null|
-|**2024-04-09 16:45:21**|**Introducing Quantum Information and Computation to a Broader Audience   with MOOCs at OpenHPI**|Gerhard Hellstern et.al.|[2404.07241v1](http://arxiv.org/abs/2404.07241v1)|null|
-|**2024-04-05 23:12:41**|**HIV Client Perspectives on Digital Health in Malawi**|Lisa Orii et.al.|[2404.04444v1](http://arxiv.org/abs/2404.04444v1)|null|
-|**2024-04-04 21:39:49**|**I Did Not Notice: A Comparison of Immersive Analytics with Augmented and   Virtual Reality**|Xiaoyan Zhou et.al.|[2404.03814v1](http://arxiv.org/abs/2404.03814v1)|null|
-|**2024-04-04 20:44:56**|**Learning Social Fairness Preferences from Non-Expert Stakeholder   Opinions in Kidney Placement**|Mukund Telukunta et.al.|[2404.03800v1](http://arxiv.org/abs/2404.03800v1)|null|
-|**2024-04-02 19:43:28**|**Report of the Working Group on Strategic Exoplanet Initiatives with HST   and JWST**|Seth Redfield et.al.|[2404.02932v1](http://arxiv.org/abs/2404.02932v1)|null|
-|**2024-04-02 02:46:18**|**Helmsman of the Masses? Evaluate the Opinion Leadership of Large   Language Models in the Werewolf Game**|Silin Du et.al.|[2404.01602v1](http://arxiv.org/abs/2404.01602v1)|null|
-|**2024-03-29 04:33:39**|**Facilitating Human Feedback for GenAI Prompt Optimization**|Jacob Sherson et.al.|[2404.15304v1](http://arxiv.org/abs/2404.15304v1)|null|
-|**2024-03-27 13:12:41**|**A Novel Behavior-Based Recommendation System for E-commerce**|Reza Barzegar Nozari et.al.|[2403.18536v1](http://arxiv.org/abs/2403.18536v1)|null|
-|**2024-03-27 01:43:50**|**Pilot Study to Discover Candidate Biomarkers for Autism based on   Perception and Production of Facial Expressions**|Megan A. Witherow et.al.|[2404.16040v1](http://arxiv.org/abs/2404.16040v1)|null|
-|**2024-03-26 23:32:52**|**Large Language Models as Financial Data Annotators: A Study on   Effectiveness and Efficiency**|Toyin Aguda et.al.|[2403.18152v1](http://arxiv.org/abs/2403.18152v1)|null|
+ 自动更新 @ 2024-05-05 16:07:57 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -72,6 +36,42 @@
 |**2023-12-04 14:20:16**|**PEACE: Prototype lEarning Augmented transferable framework for   Cross-domain rEcommendation**|Chunjing Gan et.al.|[2312.01916v2](http://arxiv.org/abs/2312.01916v2)|null|
 |**2023-11-29 05:59:24**|**Attribute Simulation for Item Embedding Enhancement in Multi-interest   Recommendation**|Yaokun Liu et.al.|[2311.17374v1](http://arxiv.org/abs/2311.17374v1)|null|
 |**2023-11-22 02:49:14**|**GENET: Unleashing the Power of Side Information for Recommendation via   Hypergraph Pre-training**|Yang Li et.al.|[2311.13121v1](http://arxiv.org/abs/2311.13121v1)|null|
+
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-29 19:52:09**|**Longitudinal Mammogram Risk Prediction**|Batuhan K. Karaman et.al.|[2404.19083v1](http://arxiv.org/abs/2404.19083v1)|[link](https://github.com/batuhankmkaraman/lomar)|
+|**2024-04-29 12:14:54**|**Citizen Science in European Research Infrastructures**|Stephen Serjeant et.al.|[2404.18635v1](http://arxiv.org/abs/2404.18635v1)|null|
+|**2024-04-28 00:57:17**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040v1](http://arxiv.org/abs/2404.18040v1)|[link](https://github.com/outfit-net/outfit-commpatibility)|
+|**2024-04-26 17:42:29**|**Structured Conformal Inference for Matrix Completion with Applications   to Group Recommender Systems**|Ziyi Liang et.al.|[2404.17561v1](http://arxiv.org/abs/2404.17561v1)|null|
+|**2024-04-26 16:26:11**|**Bridging the Fairness Divide: Achieving Group and Individual Fairness in   Graph Neural Networks**|Duna Zhan et.al.|[2404.17511v1](http://arxiv.org/abs/2404.17511v1)|null|
+|**2024-04-26 10:45:34**|**Towards Group-aware Search Success**|Haolun Wu et.al.|[2404.17313v1](http://arxiv.org/abs/2404.17313v1)|null|
+|**2024-04-26 09:51:24**|**Lazy Data Practices Harm Fairness Research**|Jan Simson et.al.|[2404.17293v1](http://arxiv.org/abs/2404.17293v1)|[link](https://github.com/reliable-ai/lazy-data-practices)|
+|**2024-04-25 09:20:51**|**Contextual Categorization Enhancement through LLMs Latent-Space**|Zineddine Bettouche et.al.|[2404.16442v1](http://arxiv.org/abs/2404.16442v1)|null|
+|**2024-04-24 02:23:12**|**Human-in-the-loop Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2404.15599v1](http://arxiv.org/abs/2404.15599v1)|null|
+|**2024-04-23 10:59:44**|**Sum of Group Error Differences: A Critical Examination of Bias   Evaluation in Biometric Verification and a Dual-Metric Measure**|Alaa Elobaid et.al.|[2404.15385v1](http://arxiv.org/abs/2404.15385v1)|[link](https://github.com/alaaobeid/SEDG})|
+|**2024-04-23 06:43:58**|**Revealing and Utilizing In-group Favoritism for Graph-based   Collaborative Filtering**|Hoin Jung et.al.|[2404.17598v1](http://arxiv.org/abs/2404.17598v1)|null|
+|**2024-04-22 17:19:09**|**Lessons Learned in Performing a Trustworthy AI and Fundamental Rights   Assessment**|Marjolein Boonstra et.al.|[2404.14366v1](http://arxiv.org/abs/2404.14366v1)|null|
+|**2024-04-21 21:19:31**|**Multi-channel Emotion Analysis for Consensus Reaching in Group Movie   Recommendation Systems**|Adilet Yerkin et.al.|[2404.13778v1](http://arxiv.org/abs/2404.13778v1)|null|
+|**2024-04-18 10:23:10**|**PureForest: A Large-scale Aerial Lidar and Aerial Imagery Dataset for   Tree Species Classification in Monospecific Forests**|Charles Gaydon et.al.|[2404.12064v1](http://arxiv.org/abs/2404.12064v1)|null|
+|**2024-04-17 13:32:05**|**Tensor Factorisation for Polypharmacy Side Effect Prediction**|Oliver Lloyd et.al.|[2404.11374v1](http://arxiv.org/abs/2404.11374v1)|null|
+|**2024-04-17 10:36:56**|**PartiPlay: A Participatory Game Design Kit for Neurodiverse Classrooms**|Patricia Piedade et.al.|[2404.11234v1](http://arxiv.org/abs/2404.11234v1)|null|
+|**2024-04-15 11:20:44**|**AntDT: A Self-Adaptive Distributed Training Framework for Leader and   Straggler Nodes**|Youshao Xiao et.al.|[2404.09679v1](http://arxiv.org/abs/2404.09679v1)|null|
+|**2024-04-15 10:54:47**|**Closing the Gap in the Trade-off between Fair Representations and   Accuracy**|Biswajit Rout et.al.|[2404.09664v1](http://arxiv.org/abs/2404.09664v1)|null|
+|**2024-04-14 06:59:25**|**A computational model for gender asset gap management with a focus on   gender disparity in land acquisition and land tenure security**|Oluwatosin Ogundare et.al.|[2404.09164v1](http://arxiv.org/abs/2404.09164v1)|null|
+|**2024-04-10 20:10:58**|**Assessing Engraftment Following Fecal Microbiota Transplant**|Chloe Herman et.al.|[2404.07325v1](http://arxiv.org/abs/2404.07325v1)|null|
+|**2024-04-09 16:45:21**|**Introducing Quantum Information and Computation to a Broader Audience   with MOOCs at OpenHPI**|Gerhard Hellstern et.al.|[2404.07241v1](http://arxiv.org/abs/2404.07241v1)|null|
+|**2024-04-05 23:12:41**|**HIV Client Perspectives on Digital Health in Malawi**|Lisa Orii et.al.|[2404.04444v1](http://arxiv.org/abs/2404.04444v1)|null|
+|**2024-04-04 21:39:49**|**I Did Not Notice: A Comparison of Immersive Analytics with Augmented and   Virtual Reality**|Xiaoyan Zhou et.al.|[2404.03814v1](http://arxiv.org/abs/2404.03814v1)|null|
+|**2024-04-04 20:44:56**|**Learning Social Fairness Preferences from Non-Expert Stakeholder   Opinions in Kidney Placement**|Mukund Telukunta et.al.|[2404.03800v1](http://arxiv.org/abs/2404.03800v1)|null|
+|**2024-04-02 19:43:28**|**Report of the Working Group on Strategic Exoplanet Initiatives with HST   and JWST**|Seth Redfield et.al.|[2404.02932v1](http://arxiv.org/abs/2404.02932v1)|null|
+|**2024-04-02 02:46:18**|**Helmsman of the Masses? Evaluate the Opinion Leadership of Large   Language Models in the Werewolf Game**|Silin Du et.al.|[2404.01602v1](http://arxiv.org/abs/2404.01602v1)|null|
+|**2024-03-29 04:33:39**|**Facilitating Human Feedback for GenAI Prompt Optimization**|Jacob Sherson et.al.|[2404.15304v1](http://arxiv.org/abs/2404.15304v1)|null|
+|**2024-03-27 13:12:41**|**A Novel Behavior-Based Recommendation System for E-commerce**|Reza Barzegar Nozari et.al.|[2403.18536v1](http://arxiv.org/abs/2403.18536v1)|null|
+|**2024-03-27 01:43:50**|**Pilot Study to Discover Candidate Biomarkers for Autism based on   Perception and Production of Facial Expressions**|Megan A. Witherow et.al.|[2404.16040v1](http://arxiv.org/abs/2404.16040v1)|null|
+|**2024-03-26 23:32:52**|**Large Language Models as Financial Data Annotators: A Study on   Effectiveness and Efficiency**|Toyin Aguda et.al.|[2403.18152v1](http://arxiv.org/abs/2403.18152v1)|null|
 
 ## Graph Neural Network
 
