@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-03 16:25:27**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in   Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219v1](http://arxiv.org/abs/2405.02219v1)|null|
+|**2024-05-03 12:30:27**|**Ah, that's the great puzzle: On the Quest of a Holistic Understanding of   the Harms of Recommender Systems on Children**|Robin Ungruh et.al.|[2405.02050v1](http://arxiv.org/abs/2405.02050v1)|null|
+|**2024-05-03 05:03:07**|**Robust Explainable Recommendation**|Sairamvinay Vijayaraghavan et.al.|[2405.01855v1](http://arxiv.org/abs/2405.01855v1)|null|
 |**2024-04-29 19:52:09**|**Longitudinal Mammogram Risk Prediction**|Batuhan K. Karaman et.al.|[2404.19083v1](http://arxiv.org/abs/2404.19083v1)|[link](https://github.com/batuhankmkaraman/lomar)|
 |**2024-04-29 12:14:54**|**Citizen Science in European Research Infrastructures**|Stephen Serjeant et.al.|[2404.18635v1](http://arxiv.org/abs/2404.18635v1)|null|
 |**2024-04-28 00:57:17**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040v1](http://arxiv.org/abs/2404.18040v1)|[link](https://github.com/outfit-net/outfit-commpatibility)|
@@ -29,6 +32,3 @@
 |**2024-04-02 19:43:28**|**Report of the Working Group on Strategic Exoplanet Initiatives with HST   and JWST**|Seth Redfield et.al.|[2404.02932v1](http://arxiv.org/abs/2404.02932v1)|null|
 |**2024-04-02 02:46:18**|**Helmsman of the Masses? Evaluate the Opinion Leadership of Large   Language Models in the Werewolf Game**|Silin Du et.al.|[2404.01602v1](http://arxiv.org/abs/2404.01602v1)|null|
 |**2024-03-29 04:33:39**|**Facilitating Human Feedback for GenAI Prompt Optimization**|Jacob Sherson et.al.|[2404.15304v1](http://arxiv.org/abs/2404.15304v1)|null|
-|**2024-03-27 13:12:41**|**A Novel Behavior-Based Recommendation System for E-commerce**|Reza Barzegar Nozari et.al.|[2403.18536v1](http://arxiv.org/abs/2403.18536v1)|null|
-|**2024-03-27 01:43:50**|**Pilot Study to Discover Candidate Biomarkers for Autism based on   Perception and Production of Facial Expressions**|Megan A. Witherow et.al.|[2404.16040v1](http://arxiv.org/abs/2404.16040v1)|null|
-|**2024-03-26 23:32:52**|**Large Language Models as Financial Data Annotators: A Study on   Effectiveness and Efficiency**|Toyin Aguda et.al.|[2403.18152v1](http://arxiv.org/abs/2403.18152v1)|null|
