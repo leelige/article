@@ -2,8 +2,18 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-08 17:27:11**|**DiskGNN: Bridging I/O Efficiency and Model Accuracy for Out-of-Core GNN   Training**|Renjie Liu et.al.|[2405.05231v1](http://arxiv.org/abs/2405.05231v1)|null|
+|**2024-05-08 16:43:25**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205v1](http://arxiv.org/abs/2405.05205v1)|null|
+|**2024-05-08 15:47:38**|**Crystal structure identification with 3D convolutional neural networks   with application to high-pressure phase transitions in SiO$_2$**|Linus C. Erhard et.al.|[2405.05156v1](http://arxiv.org/abs/2405.05156v1)|null|
+|**2024-05-08 10:23:08**|**Dual-domain Collaborative Denoising for Social Recommendation**|Wenjie Chen et.al.|[2405.04942v1](http://arxiv.org/abs/2405.04942v1)|null|
+|**2024-05-08 09:45:54**|**DataSP: A Differential All-to-All Shortest Path Algorithm for Learning   Costs and Predicting Paths with Context**|Alan A. Lahoud et.al.|[2405.04923v1](http://arxiv.org/abs/2405.04923v1)|null|
+|**2024-05-08 09:24:51**|**Empowering Wireless Networks with Artificial Intelligence Generated   Graph**|Jiacheng Wang et.al.|[2405.04907v1](http://arxiv.org/abs/2405.04907v1)|null|
+|**2024-05-08 09:16:54**|**Imbalanced Graph Classification with Multi-scale Oversampling Graph   Neural Networks**|Rongrong Ma et.al.|[2405.04903v1](http://arxiv.org/abs/2405.04903v1)|null|
+|**2024-05-08 04:59:59**|**A Novel Technique for Query Plan Representation Based on Graph Neural   Networks**|Baoming Chang et.al.|[2405.04814v1](http://arxiv.org/abs/2405.04814v1)|null|
+|**2024-05-08 02:44:13**|**Hypergraph-enhanced Dual Semi-supervised Graph Classification**|Wei Ju et.al.|[2405.04773v1](http://arxiv.org/abs/2405.04773v1)|null|
+|**2024-05-08 01:51:19**|**Conditional Local Feature Encoding for Graph Neural Networks**|Yongze Wang et.al.|[2405.04755v1](http://arxiv.org/abs/2405.04755v1)|null|
 |**2024-05-07 16:44:24**|**Exploration of Novel Neuromorphic Methodologies for Materials   Applications**|Derek Gobin et.al.|[2405.04478v1](http://arxiv.org/abs/2405.04478v1)|null|
-|**2024-05-07 16:30:02**|**A fully differentiable GNN-based PDE Solver: With Applications to   Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466v1](http://arxiv.org/abs/2405.04466v1)|null|
+|**2024-05-07 16:30:02**|**A fully differentiable GNN-based PDE Solver: With Applications to   Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466v1](http://arxiv.org/abs/2405.04466v1)|[link](https://github.com/Litianyu141/Gen-FVGN-steady)|
 |**2024-05-07 15:13:18**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387v1](http://arxiv.org/abs/2405.04387v1)|null|
 |**2024-05-07 14:08:57**|**Temporal and Heterogeneous Graph Neural Network for Remaining Useful   Life Prediction**|Zhihao Wen et.al.|[2405.04336v1](http://arxiv.org/abs/2405.04336v1)|null|
 |**2024-05-07 08:34:33**|**Acceleration Algorithms in GNNs: A Survey**|Lu Ma et.al.|[2405.04114v1](http://arxiv.org/abs/2405.04114v1)|[link](https://github.com/PKU-DAIR/SGL)|
@@ -22,13 +32,3 @@
 |**2024-05-06 14:33:35**|**Reinforcement Nash Equilibrium Solver**|Xinrun Wang et.al.|[2405.03518v1](http://arxiv.org/abs/2405.03518v1)|null|
 |**2024-05-06 13:53:09**|**AnchorGT: Efficient and Flexible Attention Architecture for Scalable   Graph Transformers**|Wenhao Zhu et.al.|[2405.03481v1](http://arxiv.org/abs/2405.03481v1)|null|
 |**2024-05-06 12:58:48**|**A method for quantifying the generalization capabilities of generative   models for solving Ising models**|Qunlong Ma et.al.|[2405.03435v1](http://arxiv.org/abs/2405.03435v1)|null|
-|**2024-05-06 12:11:46**|**E2GNN: Efficient Graph Neural Network Ensembles for Semi-Supervised   Classification**|Xin Zhang et.al.|[2405.03401v1](http://arxiv.org/abs/2405.03401v1)|null|
-|**2024-05-06 09:55:11**|**Denoising of Geodetic Time Series Using Spatiotemporal Graph Neural   Networks: Application to Slow Slip Event Extraction**|Giuseppe Costantino et.al.|[2405.03320v1](http://arxiv.org/abs/2405.03320v1)|null|
-|**2024-05-06 09:17:23**|**Coefficient Decomposition for Spectral Graph Convolution**|Feng Huang et.al.|[2405.03296v1](http://arxiv.org/abs/2405.03296v1)|null|
-|**2024-05-06 08:21:33**|**Automatic Assessment of Dysarthria Using Audio-visual Vowel Graph   Attention Network**|Xiaokang Liu et.al.|[2405.03254v2](http://arxiv.org/abs/2405.03254v2)|null|
-|**2024-05-06 06:23:06**|**Spatiotemporal Implicit Neural Representation as a Generalized Traffic   Data Learner**|Tong Nie et.al.|[2405.03185v1](http://arxiv.org/abs/2405.03185v1)|null|
-|**2024-05-06 02:53:51**|**Active Sensing for Multiuser Beam Tracking with Reconfigurable   Intelligent Surface**|Han Han et.al.|[2405.03129v1](http://arxiv.org/abs/2405.03129v1)|null|
-|**2024-05-05 21:30:18**|**Convolutional Learning on Directed Acyclic Graphs**|Samuel Rey et.al.|[2405.03056v1](http://arxiv.org/abs/2405.03056v1)|null|
-|**2024-05-05 16:07:23**|**E-TSL: A Continuous Educational Turkish Sign Language Dataset with   Baseline Methods**|Şükrü Öztürk et.al.|[2405.02984v1](http://arxiv.org/abs/2405.02984v1)|null|
-|**2024-05-05 15:20:36**|**Robust Collaborative Perception without External Localization and Clock   Devices**|Zixing Lei et.al.|[2405.02965v1](http://arxiv.org/abs/2405.02965v1)|null|
-|**2024-05-05 02:29:41**|**Graph as Point Set**|Xiyuan Wang et.al.|[2405.02795v1](http://arxiv.org/abs/2405.02795v1)|null|

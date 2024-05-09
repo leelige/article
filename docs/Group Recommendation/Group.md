@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-08 17:24:24**|**myAURA: Personalized health library for epilepsy management via   knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229v1](http://arxiv.org/abs/2405.05229v1)|null|
 |**2024-05-07 17:38:39**|**New allometric models for the USA create a step-change in forest carbon   estimation, modeling, and mapping**|Lucas K. Johnson et.al.|[2405.04507v1](http://arxiv.org/abs/2405.04507v1)|null|
 |**2024-05-05 18:50:35**|**Distributed Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2405.03031v1](http://arxiv.org/abs/2405.03031v1)|null|
 |**2024-05-03 16:25:27**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in   Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219v1](http://arxiv.org/abs/2405.02219v1)|null|
@@ -31,4 +32,3 @@
 |**2024-04-05 23:12:41**|**HIV Client Perspectives on Digital Health in Malawi**|Lisa Orii et.al.|[2404.04444v1](http://arxiv.org/abs/2404.04444v1)|null|
 |**2024-04-04 21:39:49**|**I Did Not Notice: A Comparison of Immersive Analytics with Augmented and   Virtual Reality**|Xiaoyan Zhou et.al.|[2404.03814v1](http://arxiv.org/abs/2404.03814v1)|null|
 |**2024-04-04 20:44:56**|**Learning Social Fairness Preferences from Non-Expert Stakeholder   Opinions in Kidney Placement**|Mukund Telukunta et.al.|[2404.03800v1](http://arxiv.org/abs/2404.03800v1)|null|
-|**2024-04-02 19:43:28**|**Report of the Working Group on Strategic Exoplanet Initiatives with HST   and JWST**|Seth Redfield et.al.|[2404.02932v1](http://arxiv.org/abs/2404.02932v1)|null|
