@@ -2,11 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-09 14:37:08**|**Deploying Graph Neural Networks in Wireless Networks: A Link Stability   Viewpoint**|Jun Li et.al.|[2405.05802v1](http://arxiv.org/abs/2405.05802v1)|null|
+|**2024-05-09 14:03:52**|**Link Stealing Attacks Against Inductive Graph Neural Networks**|Yixin Wu et.al.|[2405.05784v1](http://arxiv.org/abs/2405.05784v1)|[link](https://github.com/yxoh/link_steal_pets2024)|
+|**2024-05-09 08:28:12**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous   Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616v1](http://arxiv.org/abs/2405.05616v1)|null|
 |**2024-05-08 17:27:11**|**DiskGNN: Bridging I/O Efficiency and Model Accuracy for Out-of-Core GNN   Training**|Renjie Liu et.al.|[2405.05231v1](http://arxiv.org/abs/2405.05231v1)|null|
 |**2024-05-08 16:43:25**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205v1](http://arxiv.org/abs/2405.05205v1)|null|
 |**2024-05-08 15:47:38**|**Crystal structure identification with 3D convolutional neural networks   with application to high-pressure phase transitions in SiO$_2$**|Linus C. Erhard et.al.|[2405.05156v1](http://arxiv.org/abs/2405.05156v1)|null|
 |**2024-05-08 10:23:08**|**Dual-domain Collaborative Denoising for Social Recommendation**|Wenjie Chen et.al.|[2405.04942v1](http://arxiv.org/abs/2405.04942v1)|null|
-|**2024-05-08 09:45:54**|**DataSP: A Differential All-to-All Shortest Path Algorithm for Learning   Costs and Predicting Paths with Context**|Alan A. Lahoud et.al.|[2405.04923v1](http://arxiv.org/abs/2405.04923v1)|null|
+|**2024-05-08 09:45:54**|**DataSP: A Differential All-to-All Shortest Path Algorithm for Learning   Costs and Predicting Paths with Context**|Alan A. Lahoud et.al.|[2405.04923v1](http://arxiv.org/abs/2405.04923v1)|[link](https://github.com/alanlahoud/datasp)|
 |**2024-05-08 09:24:51**|**Empowering Wireless Networks with Artificial Intelligence Generated   Graph**|Jiacheng Wang et.al.|[2405.04907v1](http://arxiv.org/abs/2405.04907v1)|null|
 |**2024-05-08 09:16:54**|**Imbalanced Graph Classification with Multi-scale Oversampling Graph   Neural Networks**|Rongrong Ma et.al.|[2405.04903v1](http://arxiv.org/abs/2405.04903v1)|null|
 |**2024-05-08 04:59:59**|**A Novel Technique for Query Plan Representation Based on Graph Neural   Networks**|Baoming Chang et.al.|[2405.04814v1](http://arxiv.org/abs/2405.04814v1)|null|
@@ -28,7 +31,4 @@
 |**2024-05-06 19:47:23**|**SocialFormer: Social Interaction Modeling with Edge-enhanced   Heterogeneous Graph Transformers for Trajectory Prediction**|Zixu Wang et.al.|[2405.03809v1](http://arxiv.org/abs/2405.03809v1)|null|
 |**2024-05-06 19:04:13**|**Tensor Network Computations That Capture Strict Variationality, Volume   Law Behavior, and the Efficient Representation of Neural Network States**|Wen-Yuan Liu et.al.|[2405.03797v1](http://arxiv.org/abs/2405.03797v1)|null|
 |**2024-05-06 17:54:54**|**AtomGPT: Atomistic Generative Pre-trained Transformer for Forward and   Inverse Materials Design**|Kamal Choudhary et.al.|[2405.03680v1](http://arxiv.org/abs/2405.03680v1)|null|
-|**2024-05-06 14:40:50**|**Exploring knowledge graph-based neural-symbolic system from application   perspective**|Shenzhe Zhu et.al.|[2405.03524v1](http://arxiv.org/abs/2405.03524v1)|null|
-|**2024-05-06 14:33:35**|**Reinforcement Nash Equilibrium Solver**|Xinrun Wang et.al.|[2405.03518v1](http://arxiv.org/abs/2405.03518v1)|null|
-|**2024-05-06 13:53:09**|**AnchorGT: Efficient and Flexible Attention Architecture for Scalable   Graph Transformers**|Wenhao Zhu et.al.|[2405.03481v1](http://arxiv.org/abs/2405.03481v1)|null|
-|**2024-05-06 12:58:48**|**A method for quantifying the generalization capabilities of generative   models for solving Ising models**|Qunlong Ma et.al.|[2405.03435v1](http://arxiv.org/abs/2405.03435v1)|null|
+|**2024-05-06 14:40:50**|**Exploring knowledge graph-based neural-symbolic system from application   perspective**|Shenzhe Zhu et.al.|[2405.03524v2](http://arxiv.org/abs/2405.03524v2)|null|
