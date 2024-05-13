@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-10 16:46:32**|**Decomposing weather forecasting into advection and convection with   neural networks**|Mengxuan Chen et.al.|[2405.06590v1](http://arxiv.org/abs/2405.06590v1)|null|
+|**2024-05-10 15:54:55**|**Scalable Property Valuation Models via Graph-based Deep Learning**|Enrique Riveros et.al.|[2405.06553v1](http://arxiv.org/abs/2405.06553v1)|null|
+|**2024-05-10 15:06:53**|**Heterogeneous Graph Neural Networks with Loss-decrease-aware Curriculum   Learning**|Yili Wang et.al.|[2405.06522v1](http://arxiv.org/abs/2405.06522v1)|[link](https://github.com/wangyili00/ldhgnn)|
+|**2024-05-10 12:03:53**|**PAC-Bayesian Generalization Bounds for Knowledge Graph Representation   Learning**|Jaejun Lee et.al.|[2405.06418v1](http://arxiv.org/abs/2405.06418v1)|null|
+|**2024-05-10 05:09:59**|**Disttack: Graph Adversarial Attacks Toward Distributed GNN Training**|Yuxiang Zhang et.al.|[2405.06247v1](http://arxiv.org/abs/2405.06247v1)|[link](https://github.com/zhangyxrepo/disttack)|
+|**2024-05-09 19:02:00**|**UnSegGNet: Unsupervised Image Segmentation using Graph Neural Networks**|Kovvuri Sai Gopal Reddy et.al.|[2405.06057v1](http://arxiv.org/abs/2405.06057v1)|[link](https://github.com/ksgr5566/unseggnet)|
 |**2024-05-09 14:37:08**|**Deploying Graph Neural Networks in Wireless Networks: A Link Stability   Viewpoint**|Jun Li et.al.|[2405.05802v1](http://arxiv.org/abs/2405.05802v1)|null|
 |**2024-05-09 14:03:52**|**Link Stealing Attacks Against Inductive Graph Neural Networks**|Yixin Wu et.al.|[2405.05784v1](http://arxiv.org/abs/2405.05784v1)|[link](https://github.com/yxoh/link_steal_pets2024)|
 |**2024-05-09 08:28:12**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous   Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616v1](http://arxiv.org/abs/2405.05616v1)|null|
@@ -26,9 +32,3 @@
 |**2024-05-07 02:46:11**|**ESIHGNN: Event-State Interactions Infused Heterogeneous Graph Neural   Network for Conversational Emotion Recognition**|Xupeng Zha et.al.|[2405.03960v1](http://arxiv.org/abs/2405.03960v1)|null|
 |**2024-05-07 02:16:54**|**Relating-Up: Advancing Graph Neural Networks through Inter-Graph   Relationships**|Qi Zou et.al.|[2405.03950v1](http://arxiv.org/abs/2405.03950v1)|null|
 |**2024-05-07 00:08:15**|**Federated Graph Condensation with Information Bottleneck Principles**|Bo Yan et.al.|[2405.03911v1](http://arxiv.org/abs/2405.03911v1)|null|
-|**2024-05-06 22:44:32**|**Out-of-Distribution Adaptation in Offline RL: Counterfactual Reasoning   via Causal Normalizing Flows**|Minjae Cho et.al.|[2405.03892v1](http://arxiv.org/abs/2405.03892v1)|null|
-|**2024-05-06 22:27:24**|**Enhancing O-RAN Security: Evasion Attacks and Robust Defenses for Graph   Reinforcement Learning-based Connection Management**|Ravikumar Balakrishnan et.al.|[2405.03891v1](http://arxiv.org/abs/2405.03891v1)|null|
-|**2024-05-06 19:47:23**|**SocialFormer: Social Interaction Modeling with Edge-enhanced   Heterogeneous Graph Transformers for Trajectory Prediction**|Zixu Wang et.al.|[2405.03809v1](http://arxiv.org/abs/2405.03809v1)|null|
-|**2024-05-06 19:04:13**|**Tensor Network Computations That Capture Strict Variationality, Volume   Law Behavior, and the Efficient Representation of Neural Network States**|Wen-Yuan Liu et.al.|[2405.03797v1](http://arxiv.org/abs/2405.03797v1)|null|
-|**2024-05-06 17:54:54**|**AtomGPT: Atomistic Generative Pre-trained Transformer for Forward and   Inverse Materials Design**|Kamal Choudhary et.al.|[2405.03680v1](http://arxiv.org/abs/2405.03680v1)|null|
-|**2024-05-06 14:40:50**|**Exploring knowledge graph-based neural-symbolic system from application   perspective**|Shenzhe Zhu et.al.|[2405.03524v2](http://arxiv.org/abs/2405.03524v2)|null|
