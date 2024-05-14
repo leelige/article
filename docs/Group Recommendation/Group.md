@@ -2,7 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-08 17:24:24**|**myAURA: Personalized health library for epilepsy management via   knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229v1](http://arxiv.org/abs/2405.05229v1)|[link](https://github.com/cns-iu/myaura)|
+|**2024-05-08 17:24:24**|**myAURA: Personalized health library for epilepsy management via   knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229v2](http://arxiv.org/abs/2405.05229v2)|[link](https://github.com/cns-iu/myaura)|
 |**2024-05-07 17:38:39**|**New allometric models for the USA create a step-change in forest carbon   estimation, modeling, and mapping**|Lucas K. Johnson et.al.|[2405.04507v1](http://arxiv.org/abs/2405.04507v1)|null|
 |**2024-05-05 18:50:35**|**Distributed Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2405.03031v1](http://arxiv.org/abs/2405.03031v1)|null|
 |**2024-05-03 16:25:27**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in   Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219v1](http://arxiv.org/abs/2405.02219v1)|null|

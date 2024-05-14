@@ -2,6 +2,20 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-13 17:43:05**|**KG-Planner: Knowledge-Informed Graph Neural Planning for Collaborative   Manipulators**|Wansong Liu et.al.|[2405.07962v1](http://arxiv.org/abs/2405.07962v1)|null|
+|**2024-05-13 16:47:06**|**Discovery of highly anisotropic dielectric crystals with equivariant   graph neural networks**|Yuchen Lou et.al.|[2405.07915v1](http://arxiv.org/abs/2405.07915v1)|null|
+|**2024-05-13 16:27:12**|**All Nodes are created Not Equal: Node-Specific Layer Aggregation and   Filtration for GNN**|Shilong Wang et.al.|[2405.07892v1](http://arxiv.org/abs/2405.07892v1)|null|
+|**2024-05-13 14:36:22**|**Hamiltonian-based Quantum Reinforcement Learning for Neural   Combinatorial Optimization**|Georg Kruse et.al.|[2405.07790v1](http://arxiv.org/abs/2405.07790v1)|null|
+|**2024-05-12 22:18:25**|**Semantic Loss Functions for Neuro-Symbolic Structured Prediction**|Kareem Ahmed et.al.|[2405.07387v1](http://arxiv.org/abs/2405.07387v1)|null|
+|**2024-05-12 17:40:27**|**Graph neural networks for power grid operational risk assessment under   evolving grid topology**|Yadong Zhang et.al.|[2405.07343v1](http://arxiv.org/abs/2405.07343v1)|null|
+|**2024-05-12 00:21:57**|**Context Neural Networks: A Scalable Multivariate Model for Time Series   Forecasting**|Abishek Sriramulu et.al.|[2405.07117v1](http://arxiv.org/abs/2405.07117v1)|null|
+|**2024-05-11 13:11:53**|**Fair Graph Representation Learning via Sensitive Attribute   Disentanglement**|Yuchang Zhu et.al.|[2405.07011v1](http://arxiv.org/abs/2405.07011v1)|[link](https://github.com/zzoomd/fairsad)|
+|**2024-05-11 12:02:24**|**GRASP-GCN: Graph-Shape Prioritization for Neural Architecture Search   under Distribution Shifts**|Sofia Casarin et.al.|[2405.06994v1](http://arxiv.org/abs/2405.06994v1)|null|
+|**2024-05-11 10:05:55**|**Input Snapshots Fusion for Scalable Discrete Dynamic Graph Nerual   Networks**|QingGuo Qi et.al.|[2405.06975v1](http://arxiv.org/abs/2405.06975v1)|null|
+|**2024-05-11 05:13:10**|**Design Requirements for Human-Centered Graph Neural Network Explanations**|Pantea Habibi et.al.|[2405.06917v1](http://arxiv.org/abs/2405.06917v1)|null|
+|**2024-05-10 23:21:16**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849v1](http://arxiv.org/abs/2405.06849v1)|null|
+|**2024-05-10 21:58:40**|**G-FARS: Gradient-Field-based Auto-Regressive Sampling for 3D Part   Grouping**|Junfeng Cheng et.al.|[2405.06828v1](http://arxiv.org/abs/2405.06828v1)|[link](https://github.com/j-f-cheng/g-fars-3dpartgrouping)|
+|**2024-05-10 19:18:02**|**GraphRelate3D: Context-Dependent 3D Object Detection with Inter-Object   Relationship Graphs**|Mingyu Liu et.al.|[2405.06782v1](http://arxiv.org/abs/2405.06782v1)|null|
 |**2024-05-10 16:46:32**|**Decomposing weather forecasting into advection and convection with   neural networks**|Mengxuan Chen et.al.|[2405.06590v1](http://arxiv.org/abs/2405.06590v1)|null|
 |**2024-05-10 15:54:55**|**Scalable Property Valuation Models via Graph-based Deep Learning**|Enrique Riveros et.al.|[2405.06553v1](http://arxiv.org/abs/2405.06553v1)|null|
 |**2024-05-10 15:06:53**|**Heterogeneous Graph Neural Networks with Loss-decrease-aware Curriculum   Learning**|Yili Wang et.al.|[2405.06522v1](http://arxiv.org/abs/2405.06522v1)|[link](https://github.com/wangyili00/ldhgnn)|
@@ -18,17 +32,3 @@
 |**2024-05-08 09:45:54**|**DataSP: A Differential All-to-All Shortest Path Algorithm for Learning   Costs and Predicting Paths with Context**|Alan A. Lahoud et.al.|[2405.04923v1](http://arxiv.org/abs/2405.04923v1)|[link](https://github.com/alanlahoud/datasp)|
 |**2024-05-08 09:24:51**|**Empowering Wireless Networks with Artificial Intelligence Generated   Graph**|Jiacheng Wang et.al.|[2405.04907v1](http://arxiv.org/abs/2405.04907v1)|null|
 |**2024-05-08 09:16:54**|**Imbalanced Graph Classification with Multi-scale Oversampling Graph   Neural Networks**|Rongrong Ma et.al.|[2405.04903v1](http://arxiv.org/abs/2405.04903v1)|null|
-|**2024-05-08 04:59:59**|**A Novel Technique for Query Plan Representation Based on Graph Neural   Networks**|Baoming Chang et.al.|[2405.04814v1](http://arxiv.org/abs/2405.04814v1)|null|
-|**2024-05-08 02:44:13**|**Hypergraph-enhanced Dual Semi-supervised Graph Classification**|Wei Ju et.al.|[2405.04773v1](http://arxiv.org/abs/2405.04773v1)|null|
-|**2024-05-08 01:51:19**|**Conditional Local Feature Encoding for Graph Neural Networks**|Yongze Wang et.al.|[2405.04755v1](http://arxiv.org/abs/2405.04755v1)|null|
-|**2024-05-07 16:44:24**|**Exploration of Novel Neuromorphic Methodologies for Materials   Applications**|Derek Gobin et.al.|[2405.04478v1](http://arxiv.org/abs/2405.04478v1)|null|
-|**2024-05-07 16:30:02**|**A fully differentiable GNN-based PDE Solver: With Applications to   Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466v1](http://arxiv.org/abs/2405.04466v1)|[link](https://github.com/Litianyu141/Gen-FVGN-steady)|
-|**2024-05-07 15:13:18**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387v1](http://arxiv.org/abs/2405.04387v1)|null|
-|**2024-05-07 14:08:57**|**Temporal and Heterogeneous Graph Neural Network for Remaining Useful   Life Prediction**|Zhihao Wen et.al.|[2405.04336v1](http://arxiv.org/abs/2405.04336v1)|null|
-|**2024-05-07 08:34:33**|**Acceleration Algorithms in GNNs: A Survey**|Lu Ma et.al.|[2405.04114v1](http://arxiv.org/abs/2405.04114v1)|[link](https://github.com/PKU-DAIR/SGL)|
-|**2024-05-07 08:28:51**|**Adaptive Least Mean pth Power Graph Neural Networks**|Changran Peng et.al.|[2405.04111v1](http://arxiv.org/abs/2405.04111v1)|null|
-|**2024-05-07 08:05:20**|**Binarized Simplicial Convolutional Neural Networks**|Yi Yan et.al.|[2405.04098v1](http://arxiv.org/abs/2405.04098v1)|null|
-|**2024-05-07 04:57:25**|**Structured Click Control in Transformer-based Interactive Segmentation**|Long Xu et.al.|[2405.04009v1](http://arxiv.org/abs/2405.04009v1)|[link](https://github.com/hahamyt/scc)|
-|**2024-05-07 02:46:11**|**ESIHGNN: Event-State Interactions Infused Heterogeneous Graph Neural   Network for Conversational Emotion Recognition**|Xupeng Zha et.al.|[2405.03960v1](http://arxiv.org/abs/2405.03960v1)|null|
-|**2024-05-07 02:16:54**|**Relating-Up: Advancing Graph Neural Networks through Inter-Graph   Relationships**|Qi Zou et.al.|[2405.03950v1](http://arxiv.org/abs/2405.03950v1)|null|
-|**2024-05-07 00:08:15**|**Federated Graph Condensation with Information Bottleneck Principles**|Bo Yan et.al.|[2405.03911v1](http://arxiv.org/abs/2405.03911v1)|null|
