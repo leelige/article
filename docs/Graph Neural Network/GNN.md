@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-16 16:08:49**|**ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph   Neural Networks**|Zhehan Zhao et.al.|[2405.10218v1](http://arxiv.org/abs/2405.10218v1)|null|
+|**2024-05-16 15:46:30**|**Hierarchical Attention Graph for Scientific Document Summarization in   Global and Local Level**|Chenlong Zhao et.al.|[2405.10202v1](http://arxiv.org/abs/2405.10202v1)|[link](https://github.com/molichenxi/haesum)|
+|**2024-05-16 15:31:28**|**Influence Maximization in Hypergraphs using Multi-Objective Evolutionary   Algorithms**|Stefano Genetti et.al.|[2405.10187v1](http://arxiv.org/abs/2405.10187v1)|[link](https://github.com/diol-unitn/hn-moea-im)|
+|**2024-05-16 14:31:15**|**Towards Consistent and Explainable Motion Prediction using Heterogeneous   Graph Attention**|Tobias Demmler et.al.|[2405.10134v1](http://arxiv.org/abs/2405.10134v1)|null|
+|**2024-05-16 02:52:21**|**Integrating Uncertainty-Aware Human Motion Prediction into Graph-Based   Manipulator Motion Planning**|Wansong Liu et.al.|[2405.09779v1](http://arxiv.org/abs/2405.09779v1)|null|
 |**2024-05-15 17:25:59**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment   Simulations**|Artur Grigorev et.al.|[2405.09522v1](http://arxiv.org/abs/2405.09522v1)|null|
 |**2024-05-15 15:39:35**|**Desk-AId: Humanitarian Aid Desk Assessment with Geospatial AI for   Predicting Landmine Areas**|Flavio Cirillo et.al.|[2405.09444v1](http://arxiv.org/abs/2405.09444v1)|null|
 |**2024-05-15 14:00:48**|**Analysis of the Geometric Structure of Neural Networks and Neural ODEs   via Morse Functions**|Christian Kuehn et.al.|[2405.09351v1](http://arxiv.org/abs/2405.09351v1)|null|
@@ -27,8 +32,3 @@
 |**2024-05-12 17:40:27**|**Graph neural networks for power grid operational risk assessment under   evolving grid topology**|Yadong Zhang et.al.|[2405.07343v1](http://arxiv.org/abs/2405.07343v1)|null|
 |**2024-05-12 00:21:57**|**Context Neural Networks: A Scalable Multivariate Model for Time Series   Forecasting**|Abishek Sriramulu et.al.|[2405.07117v1](http://arxiv.org/abs/2405.07117v1)|null|
 |**2024-05-11 13:11:53**|**Fair Graph Representation Learning via Sensitive Attribute   Disentanglement**|Yuchang Zhu et.al.|[2405.07011v1](http://arxiv.org/abs/2405.07011v1)|[link](https://github.com/zzoomd/fairsad)|
-|**2024-05-11 12:02:24**|**GRASP-GCN: Graph-Shape Prioritization for Neural Architecture Search   under Distribution Shifts**|Sofia Casarin et.al.|[2405.06994v1](http://arxiv.org/abs/2405.06994v1)|null|
-|**2024-05-11 10:05:55**|**Input Snapshots Fusion for Scalable Discrete Dynamic Graph Nerual   Networks**|QingGuo Qi et.al.|[2405.06975v1](http://arxiv.org/abs/2405.06975v1)|null|
-|**2024-05-11 05:13:10**|**Design Requirements for Human-Centered Graph Neural Network Explanations**|Pantea Habibi et.al.|[2405.06917v1](http://arxiv.org/abs/2405.06917v1)|null|
-|**2024-05-10 23:21:16**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849v1](http://arxiv.org/abs/2405.06849v1)|[link](https://github.com/SLDGroup/GreedyViG)|
-|**2024-05-10 21:58:40**|**G-FARS: Gradient-Field-based Auto-Regressive Sampling for 3D Part   Grouping**|Junfeng Cheng et.al.|[2405.06828v1](http://arxiv.org/abs/2405.06828v1)|[link](https://github.com/j-f-cheng/g-fars-3dpartgrouping)|
