@@ -2,6 +2,8 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-20 03:47:12**|**Modeling User Fatigue for Sequential Recommendation**|Li Nian et.al.|[2405.11764v1](http://arxiv.org/abs/2405.11764v1)|[link](https://github.com/tsinghua-fib-lab/sigir24-frec)|
+|**2024-05-17 14:57:52**|**A Unified Search and Recommendation Framework Based on Multi-Scenario   Learning for Ranking in E-commerce**|Jinhan Liu et.al.|[2405.10835v1](http://arxiv.org/abs/2405.10835v1)|null|
 |**2024-05-13 09:36:17**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580v1](http://arxiv.org/abs/2405.07580v1)|null|
 |**2024-05-08 06:35:04**|**Full Stage Learning to Rank: A Unified Framework for Multi-Stage Systems**|Kai Zheng et.al.|[2405.04844v1](http://arxiv.org/abs/2405.04844v1)|null|
 |**2024-05-07 18:58:32**|**Multi-Margin Loss: Proposal and Application in Recommender Systems**|Makbule Gulcin Ozsoy et.al.|[2405.04614v1](http://arxiv.org/abs/2405.04614v1)|null|
@@ -24,11 +26,9 @@
 |**2024-02-17 00:10:33**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139v1](http://arxiv.org/abs/2402.11139v1)|null|
 |**2024-02-13 11:02:12**|**Helping university students to choose elective courses by using a hybrid   multi-criteria recommendation system with genetic optimization**|A. Esteban et.al.|[2402.08371v1](http://arxiv.org/abs/2402.08371v1)|null|
 |**2024-02-13 07:12:44**|**Modeling Balanced Explicit and Implicit Relations with Contrastive   Learning for Knowledge Concept Recommendation in MOOCs**|Hengnian Gu et.al.|[2402.08256v1](http://arxiv.org/abs/2402.08256v1)|null|
+|**2024-02-10 03:21:13**|**Non-autoregressive Generative Models for Reranking Recommendation**|Yuxin Ren et.al.|[2402.06871v2](http://arxiv.org/abs/2402.06871v2)|null|
 |**2024-02-05 09:53:08**|**Trinity: Syncretizing Multi-/Long-tail/Long-term Interests All in One**|Jing Yan et.al.|[2402.02842v1](http://arxiv.org/abs/2402.02842v1)|null|
 |**2024-02-02 09:20:48**|**RimiRec: Modeling Refined Multi-interest in Hierarchical Structure for   Recommendation**|Haolei Pei et.al.|[2402.01253v3](http://arxiv.org/abs/2402.01253v3)|null|
 |**2024-01-31 14:06:26**|**Uncertainty-Aware Explainable Recommendation with Large Language Models**|Yicui Peng et.al.|[2402.03366v1](http://arxiv.org/abs/2402.03366v1)|null|
 |**2024-01-19 11:22:04**|**Automatic Construction of Multi-faceted User Profiles using Text   Clustering and its Application to Expert Recommendation and Filtering   Problems**|Luis M. de Campos et.al.|[2401.10634v1](http://arxiv.org/abs/2401.10634v1)|null|
 |**2024-01-16 09:04:17**|**LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable   Recommendation**|Zhixuan Chu et.al.|[2401.08217v2](http://arxiv.org/abs/2401.08217v2)|null|
-|**2024-01-12 09:32:34**|**UNEX-RL: Reinforcing Long-Term Rewards in Multi-Stage Recommender   Systems with UNidirectional EXecution**|Gengrui Zhang et.al.|[2401.06470v1](http://arxiv.org/abs/2401.06470v1)|null|
-|**2024-01-09 02:04:06**|**Prompt-based Multi-interest Learning Method for Sequential   Recommendation**|Xue Dong et.al.|[2401.04312v2](http://arxiv.org/abs/2401.04312v2)|[link](https://github.com/hello-dx/pomrec)|
-|**2023-12-18 02:18:33**|**A novel diffusion recommendation algorithm based on multi-scale cnn and   residual lstm**|Yong Niu et.al.|[2312.10885v2](http://arxiv.org/abs/2312.10885v2)|null|

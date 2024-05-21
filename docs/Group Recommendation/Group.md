@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-17 21:06:34**|**What metrics of participation balance predict outcomes of collaborative   learning with a robot?**|Yuya Asano et.al.|[2405.11092v1](http://arxiv.org/abs/2405.11092v1)|null|
+|**2024-05-15 20:28:15**|**Benchmark Early and Red Team Often: A Framework for Assessing and   Managing Dual-Use Hazards of AI Foundation Models**|Anthony M. Barrett et.al.|[2405.10986v1](http://arxiv.org/abs/2405.10986v1)|null|
 |**2024-05-14 13:22:33**|**Treatment Effect Estimation for User Interest Exploration on Recommender   Systems**|Jiaju Chen et.al.|[2405.08582v1](http://arxiv.org/abs/2405.08582v1)|[link](https://github.com/Jiaju-Chen/UpliftRec)|
 |**2024-05-08 17:24:24**|**myAURA: Personalized health library for epilepsy management via   knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229v2](http://arxiv.org/abs/2405.05229v2)|[link](https://github.com/cns-iu/myaura)|
 |**2024-05-07 17:38:39**|**New allometric models for the USA create a step-change in forest carbon   estimation, modeling, and mapping**|Lucas K. Johnson et.al.|[2405.04507v1](http://arxiv.org/abs/2405.04507v1)|null|
@@ -30,5 +32,3 @@
 |**2024-04-14 06:59:25**|**A computational model for gender asset gap management with a focus on   gender disparity in land acquisition and land tenure security**|Oluwatosin Ogundare et.al.|[2404.09164v1](http://arxiv.org/abs/2404.09164v1)|null|
 |**2024-04-10 20:10:58**|**Assessing Engraftment Following Fecal Microbiota Transplant**|Chloe Herman et.al.|[2404.07325v1](http://arxiv.org/abs/2404.07325v1)|null|
 |**2024-04-09 16:45:21**|**Introducing Quantum Information and Computation to a Broader Audience   with MOOCs at OpenHPI**|Gerhard Hellstern et.al.|[2404.07241v1](http://arxiv.org/abs/2404.07241v1)|null|
-|**2024-04-05 23:12:41**|**HIV Client Perspectives on Digital Health in Malawi**|Lisa Orii et.al.|[2404.04444v1](http://arxiv.org/abs/2404.04444v1)|null|
-|**2024-04-04 21:39:49**|**I Did Not Notice: A Comparison of Immersive Analytics with Augmented and   Virtual Reality**|Xiaoyan Zhou et.al.|[2404.03814v1](http://arxiv.org/abs/2404.03814v1)|null|
