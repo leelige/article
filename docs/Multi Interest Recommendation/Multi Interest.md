@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-21 11:54:16**|**Disentangled Representation with Cross Experts Covariance Loss for   Multi-Domain Recommendation**|Zhutian Lin et.al.|[2405.12706v1](http://arxiv.org/abs/2405.12706v1)|null|
 |**2024-05-20 03:47:12**|**Modeling User Fatigue for Sequential Recommendation**|Li Nian et.al.|[2405.11764v1](http://arxiv.org/abs/2405.11764v1)|[link](https://github.com/tsinghua-fib-lab/sigir24-frec)|
 |**2024-05-17 14:57:52**|**A Unified Search and Recommendation Framework Based on Multi-Scenario   Learning for Ranking in E-commerce**|Jinhan Liu et.al.|[2405.10835v1](http://arxiv.org/abs/2405.10835v1)|null|
 |**2024-05-13 09:36:17**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580v1](http://arxiv.org/abs/2405.07580v1)|null|
@@ -31,4 +32,3 @@
 |**2024-02-02 09:20:48**|**RimiRec: Modeling Refined Multi-interest in Hierarchical Structure for   Recommendation**|Haolei Pei et.al.|[2402.01253v3](http://arxiv.org/abs/2402.01253v3)|null|
 |**2024-01-31 14:06:26**|**Uncertainty-Aware Explainable Recommendation with Large Language Models**|Yicui Peng et.al.|[2402.03366v1](http://arxiv.org/abs/2402.03366v1)|null|
 |**2024-01-19 11:22:04**|**Automatic Construction of Multi-faceted User Profiles using Text   Clustering and its Application to Expert Recommendation and Filtering   Problems**|Luis M. de Campos et.al.|[2401.10634v1](http://arxiv.org/abs/2401.10634v1)|null|
-|**2024-01-16 09:04:17**|**LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable   Recommendation**|Zhixuan Chu et.al.|[2401.08217v2](http://arxiv.org/abs/2401.08217v2)|null|
