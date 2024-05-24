@@ -2,8 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-23 14:24:11**|**Is the EJRA proportionate and therefore justified? A critical review of   the EJRA policy at Cambridge**|Oliver Linton et.al.|[2405.14611v1](http://arxiv.org/abs/2405.14611v1)|null|
 |**2024-05-20 18:04:02**|**HST/JWST Long-Term Monitoring Working Group Final Report**|Saurabh W. Jha et.al.|[2405.12297v1](http://arxiv.org/abs/2405.12297v1)|null|
 |**2024-05-17 21:06:34**|**What metrics of participation balance predict outcomes of collaborative   learning with a robot?**|Yuya Asano et.al.|[2405.11092v1](http://arxiv.org/abs/2405.11092v1)|null|
+|**2024-05-15 23:25:19**|**A survey on fairness of large language models in e-commerce: progress,   application, and challenge**|Qingyang Ren et.al.|[2405.13025v1](http://arxiv.org/abs/2405.13025v1)|null|
 |**2024-05-15 20:28:15**|**Benchmark Early and Red Team Often: A Framework for Assessing and   Managing Dual-Use Hazards of AI Foundation Models**|Anthony M. Barrett et.al.|[2405.10986v1](http://arxiv.org/abs/2405.10986v1)|null|
 |**2024-05-14 13:22:33**|**Treatment Effect Estimation for User Interest Exploration on Recommender   Systems**|Jiaju Chen et.al.|[2405.08582v1](http://arxiv.org/abs/2405.08582v1)|[link](https://github.com/Jiaju-Chen/UpliftRec)|
 |**2024-05-08 17:24:24**|**myAURA: Personalized health library for epilepsy management via   knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229v2](http://arxiv.org/abs/2405.05229v2)|[link](https://github.com/cns-iu/myaura)|
@@ -30,5 +32,3 @@
 |**2024-04-17 10:36:56**|**PartiPlay: A Participatory Game Design Kit for Neurodiverse Classrooms**|Patricia Piedade et.al.|[2404.11234v1](http://arxiv.org/abs/2404.11234v1)|null|
 |**2024-04-15 11:20:44**|**AntDT: A Self-Adaptive Distributed Training Framework for Leader and   Straggler Nodes**|Youshao Xiao et.al.|[2404.09679v1](http://arxiv.org/abs/2404.09679v1)|null|
 |**2024-04-15 10:54:47**|**Closing the Gap in the Trade-off between Fair Representations and   Accuracy**|Biswajit Rout et.al.|[2404.09664v1](http://arxiv.org/abs/2404.09664v1)|null|
-|**2024-04-14 06:59:25**|**A computational model for gender asset gap management with a focus on   gender disparity in land acquisition and land tenure security**|Oluwatosin Ogundare et.al.|[2404.09164v1](http://arxiv.org/abs/2404.09164v1)|null|
-|**2024-04-10 20:10:58**|**Assessing Engraftment Following Fecal Microbiota Transplant**|Chloe Herman et.al.|[2404.07325v1](http://arxiv.org/abs/2404.07325v1)|null|
