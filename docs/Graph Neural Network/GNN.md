@@ -23,11 +23,11 @@
 |**2024-05-22 04:50:29**|**Floor-Plan-aided Indoor Localization: Zero-Shot Learning Framework, Data   Sets, and Prototype**|Haiyao Yu et.al.|[2405.13339v1](http://arxiv.org/abs/2405.13339v1)|null|
 |**2024-05-21 18:45:18**|**Enhancing Interaction Modeling with Agent Selection and Physical Methods   for Trajectory Prediction**|Shiji Huang et.al.|[2405.13152v1](http://arxiv.org/abs/2405.13152v1)|null|
 |**2024-05-21 18:00:03**|**Cosmology from point clouds**|Atrideb Chatterjee et.al.|[2405.13119v1](http://arxiv.org/abs/2405.13119v1)|null|
-|**2024-05-21 15:33:21**|**Equivariant Spatio-Temporal Attentive Graph Networks to Simulate   Physical Dynamics**|Liming Wu et.al.|[2405.12868v1](http://arxiv.org/abs/2405.12868v1)|null|
+|**2024-05-21 15:33:21**|**Equivariant Spatio-Temporal Attentive Graph Networks to Simulate   Physical Dynamics**|Liming Wu et.al.|[2405.12868v1](http://arxiv.org/abs/2405.12868v1)|[link](https://github.com/ManlioWu/ESTAG)|
 |**2024-05-21 13:52:33**|**Presentations are not always linear! GNN meets LLM for   Document-to-Presentation Transformation with Attribution**|Himanshu Maheshwari et.al.|[2405.13095v1](http://arxiv.org/abs/2405.13095v1)|null|
 |**2024-05-21 13:13:43**|**KPG: Key Propagation Graph Generator for Rumor Detection based on   Reinforcement Learning**|Yusong Zhang et.al.|[2405.13094v1](http://arxiv.org/abs/2405.13094v1)|null|
 |**2024-05-21 12:57:10**|**Graph neural networks informed locally by thermodynamics**|Alicia Tierz et.al.|[2405.13093v1](http://arxiv.org/abs/2405.13093v1)|null|
-|**2024-05-21 10:07:29**|**Utilizing Description Logics for Global Explanations of Heterogeneous   Graph Neural Networks**|Dominik Köhler et.al.|[2405.12654v1](http://arxiv.org/abs/2405.12654v1)|null|
+|**2024-05-21 10:07:29**|**Utilizing Description Logics for Global Explanations of Heterogeneous   Graph Neural Networks**|Dominik Köhler et.al.|[2405.12654v1](http://arxiv.org/abs/2405.12654v1)|[link](https://github.com/ds-jrg/xgnn-dl)|
 |**2024-05-21 09:56:48**|**Scene Graph Generation Strategy with Co-occurrence Knowledge and   Learnable Term Frequency**|Hyeongjin Kim et.al.|[2405.12648v1](http://arxiv.org/abs/2405.12648v1)|null|
 |**2024-05-21 08:22:14**|**Multi-domain Knowledge Graph Collaborative Pre-training and Prompt   Tuning for Diverse Downstream Tasks**|Yichi Zhang et.al.|[2405.13085v1](http://arxiv.org/abs/2405.13085v1)|null|
 |**2024-05-21 06:23:47**|**Unleash Graph Neural Networks from Heavy Tuning**|Lequan Lin et.al.|[2405.12521v1](http://arxiv.org/abs/2405.12521v1)|null|
