@@ -2,6 +2,19 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-24 16:12:39**|**Consistency of Neural Causal Partial Identification**|Jiyuan Tan et.al.|[2405.15673v1](http://arxiv.org/abs/2405.15673v1)|null|
+|**2024-05-24 14:36:02**|**Kronecker-Factored Approximate Curvature for Physics-Informed Neural   Networks**|Felix Dangel et.al.|[2405.15603v1](http://arxiv.org/abs/2405.15603v1)|null|
+|**2024-05-24 13:52:41**|**Rethinking Independent Cross-Entropy Loss For Graph-Structured Data**|Rui Miao et.al.|[2405.15564v1](http://arxiv.org/abs/2405.15564v1)|null|
+|**2024-05-24 13:44:30**|**Learning from Linear Algebra: A Graph Neural Network Approach to   Preconditioner Design for Conjugate Gradient Solvers**|Vladislav Trifonov et.al.|[2405.15557v1](http://arxiv.org/abs/2405.15557v1)|null|
+|**2024-05-24 13:29:57**|**SATSense: Multi-Satellite Collaborative Framework for Spectrum Sensing**|Haoxuan Yuan et.al.|[2405.15542v1](http://arxiv.org/abs/2405.15542v1)|null|
+|**2024-05-24 13:28:48**|**Bundle Neural Networks for message diffusion on graphs**|Jacob Bamberger et.al.|[2405.15540v1](http://arxiv.org/abs/2405.15540v1)|null|
+|**2024-05-24 10:55:38**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429v1](http://arxiv.org/abs/2405.15429v1)|null|
+|**2024-05-24 09:52:00**|**PriCE: Privacy-Preserving and Cost-Effective Scheduling for   Parallelizing the Large Medical Image Processing Workflow over Hybrid Clouds**|Yuandou Wang et.al.|[2405.15398v1](http://arxiv.org/abs/2405.15398v1)|[link](https://github.com/yuandou168/price)|
+|**2024-05-24 07:07:41**|**DFGNN: Dual-frequency Graph Neural Network for Sign-aware Feedback**|Yiqing Wu et.al.|[2405.15280v1](http://arxiv.org/abs/2405.15280v1)|null|
+|**2024-05-24 05:44:43**|**Cardinality Estimation on Hyper-relational Knowledge Graphs**|Fei Teng et.al.|[2405.15231v1](http://arxiv.org/abs/2405.15231v1)|null|
+|**2024-05-24 05:15:46**|**AGS-GNN: Attribute-guided Sampling for Graph Neural Networks**|Siddhartha Shankar Das et.al.|[2405.15218v1](http://arxiv.org/abs/2405.15218v1)|null|
+|**2024-05-24 03:37:32**|**TrojanForge: Adversarial Hardware Trojan Examples with Reinforcement   Learning**|Amin Sarihi et.al.|[2405.15184v1](http://arxiv.org/abs/2405.15184v1)|null|
+|**2024-05-23 21:17:20**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via   Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059v1](http://arxiv.org/abs/2405.15059v1)|null|
 |**2024-05-23 17:51:05**|**Analysis of Atom-level pretraining with QM data for Graph Neural   Networks Molecular property models**|Jose Arjona-Medina et.al.|[2405.14837v1](http://arxiv.org/abs/2405.14837v1)|null|
 |**2024-05-23 15:19:34**|**Development of a Gaussian Approximation Potential to Study Structure and   Thermodynamics of Nickel Nanoclusters**|Suvo Banik et.al.|[2405.14683v1](http://arxiv.org/abs/2405.14683v1)|null|
 |**2024-05-23 14:19:21**|**Logical Characterizations of Recurrent Graph Neural Networks with Reals   and Floats**|Veeti Ahvonen et.al.|[2405.14606v1](http://arxiv.org/abs/2405.14606v1)|null|
@@ -19,16 +32,3 @@
 |**2024-05-22 14:57:09**|**Rethinking and Accelerating Graph Condensation: A Training-Free Approach   with Class Partition**|Xinyi Gao et.al.|[2405.13707v1](http://arxiv.org/abs/2405.13707v1)|null|
 |**2024-05-22 14:11:10**|**GNN-based Anomaly Detection for Encoded Network Traffic**|Anasuya Chattopadhyay et.al.|[2405.13670v1](http://arxiv.org/abs/2405.13670v1)|null|
 |**2024-05-22 12:30:25**|**Bond Graphs for multi-physics informed Neural Networks for multi-variate   time series**|Alexis-Raja Brachet et.al.|[2405.13586v1](http://arxiv.org/abs/2405.13586v1)|null|
-|**2024-05-22 10:51:12**|**Understanding Virtual Nodes: Oversmoothing, Oversquashing, and Node   Heterogeneity**|Joshua Southern et.al.|[2405.13526v1](http://arxiv.org/abs/2405.13526v1)|null|
-|**2024-05-22 04:50:29**|**Floor-Plan-aided Indoor Localization: Zero-Shot Learning Framework, Data   Sets, and Prototype**|Haiyao Yu et.al.|[2405.13339v1](http://arxiv.org/abs/2405.13339v1)|null|
-|**2024-05-21 18:45:18**|**Enhancing Interaction Modeling with Agent Selection and Physical Methods   for Trajectory Prediction**|Shiji Huang et.al.|[2405.13152v1](http://arxiv.org/abs/2405.13152v1)|null|
-|**2024-05-21 18:00:03**|**Cosmology from point clouds**|Atrideb Chatterjee et.al.|[2405.13119v1](http://arxiv.org/abs/2405.13119v1)|null|
-|**2024-05-21 15:33:21**|**Equivariant Spatio-Temporal Attentive Graph Networks to Simulate   Physical Dynamics**|Liming Wu et.al.|[2405.12868v1](http://arxiv.org/abs/2405.12868v1)|[link](https://github.com/ManlioWu/ESTAG)|
-|**2024-05-21 13:52:33**|**Presentations are not always linear! GNN meets LLM for   Document-to-Presentation Transformation with Attribution**|Himanshu Maheshwari et.al.|[2405.13095v1](http://arxiv.org/abs/2405.13095v1)|null|
-|**2024-05-21 13:13:43**|**KPG: Key Propagation Graph Generator for Rumor Detection based on   Reinforcement Learning**|Yusong Zhang et.al.|[2405.13094v1](http://arxiv.org/abs/2405.13094v1)|null|
-|**2024-05-21 12:57:10**|**Graph neural networks informed locally by thermodynamics**|Alicia Tierz et.al.|[2405.13093v1](http://arxiv.org/abs/2405.13093v1)|null|
-|**2024-05-21 10:07:29**|**Utilizing Description Logics for Global Explanations of Heterogeneous   Graph Neural Networks**|Dominik Köhler et.al.|[2405.12654v1](http://arxiv.org/abs/2405.12654v1)|[link](https://github.com/ds-jrg/xgnn-dl)|
-|**2024-05-21 09:56:48**|**Scene Graph Generation Strategy with Co-occurrence Knowledge and   Learnable Term Frequency**|Hyeongjin Kim et.al.|[2405.12648v1](http://arxiv.org/abs/2405.12648v1)|null|
-|**2024-05-21 08:22:14**|**Multi-domain Knowledge Graph Collaborative Pre-training and Prompt   Tuning for Diverse Downstream Tasks**|Yichi Zhang et.al.|[2405.13085v1](http://arxiv.org/abs/2405.13085v1)|null|
-|**2024-05-21 06:23:47**|**Unleash Graph Neural Networks from Heavy Tuning**|Lequan Lin et.al.|[2405.12521v1](http://arxiv.org/abs/2405.12521v1)|null|
-|**2024-05-21 06:12:24**|**MAGE: Model-Level Graph Neural Networks Explanations via Motif-based   Graph Generation**|Zhaoning Yu et.al.|[2405.12519v1](http://arxiv.org/abs/2405.12519v1)|null|
