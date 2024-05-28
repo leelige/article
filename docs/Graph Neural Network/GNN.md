@@ -2,33 +2,33 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-27 17:52:12**|**Spectral Greedy Coresets for Graph Neural Networks**|Mucong Ding et.al.|[2405.17404v1](http://arxiv.org/abs/2405.17404v1)|null|
+|**2024-05-27 17:48:32**|**CrEIMBO: Cross Ensemble Interactions in Multi-view Brain Observations**|Noga Mudrik et.al.|[2405.17395v1](http://arxiv.org/abs/2405.17395v1)|null|
+|**2024-05-27 16:11:49**|**Probabilistic Graph Rewiring via Virtual Nodes**|Chendi Qian et.al.|[2405.17311v1](http://arxiv.org/abs/2405.17311v1)|null|
+|**2024-05-27 16:10:49**|**Survey of Graph Neural Network for Internet of Things and NextG Networks**|Sabarish Krishna Moorthy et.al.|[2405.17309v1](http://arxiv.org/abs/2405.17309v1)|null|
+|**2024-05-27 15:46:52**|**R-ODE: Ricci Curvature Tells When You Will be Informed**|Li Sun et.al.|[2405.17282v1](http://arxiv.org/abs/2405.17282v1)|null|
+|**2024-05-27 13:36:50**|**Injecting Hamiltonian Architectural Bias into Deep Graph Networks for   Long-Range Propagation**|Simon Heilig et.al.|[2405.17163v1](http://arxiv.org/abs/2405.17163v1)|null|
+|**2024-05-27 12:49:07**|**Your decision path does matter in pre-training industrial recommenders   with multi-source behaviors**|Chunjing Gan et.al.|[2405.17132v1](http://arxiv.org/abs/2405.17132v1)|null|
+|**2024-05-27 11:31:08**|**Graph Neural Networks on Quantum Computers**|Yidong Liao et.al.|[2405.17060v1](http://arxiv.org/abs/2405.17060v1)|null|
+|**2024-05-27 10:40:21**|**FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks**|Renqiang Luo et.al.|[2405.17034v1](http://arxiv.org/abs/2405.17034v1)|[link](https://github.com/yushuowiki/FUGNN)|
+|**2024-05-27 09:47:09**|**Graph Condensation for Open-World Graph Learning**|Xinyi Gao et.al.|[2405.17003v1](http://arxiv.org/abs/2405.17003v1)|null|
+|**2024-05-27 05:53:30**|**Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning**|Mingqing Xiao et.al.|[2405.16851v1](http://arxiv.org/abs/2405.16851v1)|[link](https://github.com/pkuxmq/GRSNN)|
+|**2024-05-26 16:39:19**|**Graph neural networks with configuration cross-attention for tensor   compilers**|Dmitrii Khizbullin et.al.|[2405.16623v1](http://arxiv.org/abs/2405.16623v1)|null|
+|**2024-05-26 16:08:55**|**DPHGNN: A Dual Perspective Hypergraph Neural Networks**|Siddhant Saxena et.al.|[2405.16616v1](http://arxiv.org/abs/2405.16616v1)|null|
+|**2024-05-26 15:31:28**|**Link Prediction on Textual Edge Graphs**|Chen Ling et.al.|[2405.16606v1](http://arxiv.org/abs/2405.16606v1)|null|
+|**2024-05-26 10:43:16**|**SE3Set: Harnessing equivariant hypergraph neural networks for molecular   representation learning**|Hongfei Wu et.al.|[2405.16511v1](http://arxiv.org/abs/2405.16511v1)|null|
+|**2024-05-26 09:47:17**|**Integrating GNN and Neural ODEs for Estimating Two-Body Interactions in   Mixed-Species Collective Motion**|Masahito Uwamichi et.al.|[2405.16503v1](http://arxiv.org/abs/2405.16503v1)|null|
+|**2024-05-26 09:22:15**|**Boosting probes of CP violation in the top Yukawa coupling with Deep   Learning**|Waleed Esmail et.al.|[2405.16499v1](http://arxiv.org/abs/2405.16499v1)|null|
+|**2024-05-26 05:22:38**|**Structure-aware Semantic Node Identifiers for Learning on Graphs**|Yuankai Luo et.al.|[2405.16435v1](http://arxiv.org/abs/2405.16435v1)|null|
+|**2024-05-26 02:34:26**|**Network Interdiction Goes Neural**|Lei Zhang et.al.|[2405.16409v1](http://arxiv.org/abs/2405.16409v1)|null|
+|**2024-05-26 02:12:02**|**Intruding with Words: Towards Understanding Graph Injection Attacks at   the Text Level**|Runlin Lei et.al.|[2405.16405v1](http://arxiv.org/abs/2405.16405v1)|null|
+|**2024-05-25 15:56:15**|**LoGAH: Predicting 774-Million-Parameter Transformers using Graph   HyperNetworks with 1/100 Parameters**|Xinyu Zhou et.al.|[2405.16287v1](http://arxiv.org/abs/2405.16287v1)|[link](https://github.com/blackzxy/logah)|
+|**2024-05-25 15:23:27**|**A Topological Classification of Finite Chiral Structures using Complete   Matchings**|Maxine M. McCarthy et.al.|[2405.16274v1](http://arxiv.org/abs/2405.16274v1)|null|
+|**2024-05-25 12:35:31**|**GlycanML: A Multi-Task and Multi-Structure Benchmark for Glycan Machine   Learning**|Minghao Xu et.al.|[2405.16206v1](http://arxiv.org/abs/2405.16206v1)|[link](https://github.com/glycanml/glycanml)|
+|**2024-05-25 11:23:39**|**Differentiable Cluster Graph Neural Network**|Yanfei Dong et.al.|[2405.16185v1](http://arxiv.org/abs/2405.16185v1)|null|
+|**2024-05-25 11:18:27**|**Graph Neural PDE Solvers with Conservation and Similarity-Equivariance**|Masanobu Horie et.al.|[2405.16183v1](http://arxiv.org/abs/2405.16183v1)|[link](https://github.com/yellowshippo/fluxgnn-icml2024)|
+|**2024-05-25 04:51:41**|**FedSheafHN: Personalized Federated Learning on Graph-structured Data**|Wenfei Liang et.al.|[2405.16056v1](http://arxiv.org/abs/2405.16056v1)|null|
 |**2024-05-24 16:12:39**|**Consistency of Neural Causal Partial Identification**|Jiyuan Tan et.al.|[2405.15673v1](http://arxiv.org/abs/2405.15673v1)|null|
-|**2024-05-24 14:36:02**|**Kronecker-Factored Approximate Curvature for Physics-Informed Neural   Networks**|Felix Dangel et.al.|[2405.15603v1](http://arxiv.org/abs/2405.15603v1)|null|
-|**2024-05-24 13:52:41**|**Rethinking Independent Cross-Entropy Loss For Graph-Structured Data**|Rui Miao et.al.|[2405.15564v1](http://arxiv.org/abs/2405.15564v1)|null|
+|**2024-05-24 14:36:02**|**Kronecker-Factored Approximate Curvature for Physics-Informed Neural   Networks**|Felix Dangel et.al.|[2405.15603v2](http://arxiv.org/abs/2405.15603v2)|null|
+|**2024-05-24 13:52:41**|**Rethinking Independent Cross-Entropy Loss For Graph-Structured Data**|Rui Miao et.al.|[2405.15564v2](http://arxiv.org/abs/2405.15564v2)|[link](https://github.com/mr9812/joint-cluster-supervised-learning)|
 |**2024-05-24 13:44:30**|**Learning from Linear Algebra: A Graph Neural Network Approach to   Preconditioner Design for Conjugate Gradient Solvers**|Vladislav Trifonov et.al.|[2405.15557v1](http://arxiv.org/abs/2405.15557v1)|null|
-|**2024-05-24 13:29:57**|**SATSense: Multi-Satellite Collaborative Framework for Spectrum Sensing**|Haoxuan Yuan et.al.|[2405.15542v1](http://arxiv.org/abs/2405.15542v1)|null|
-|**2024-05-24 13:28:48**|**Bundle Neural Networks for message diffusion on graphs**|Jacob Bamberger et.al.|[2405.15540v1](http://arxiv.org/abs/2405.15540v1)|null|
-|**2024-05-24 10:55:38**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429v1](http://arxiv.org/abs/2405.15429v1)|null|
-|**2024-05-24 09:52:00**|**PriCE: Privacy-Preserving and Cost-Effective Scheduling for   Parallelizing the Large Medical Image Processing Workflow over Hybrid Clouds**|Yuandou Wang et.al.|[2405.15398v1](http://arxiv.org/abs/2405.15398v1)|[link](https://github.com/yuandou168/price)|
-|**2024-05-24 07:07:41**|**DFGNN: Dual-frequency Graph Neural Network for Sign-aware Feedback**|Yiqing Wu et.al.|[2405.15280v1](http://arxiv.org/abs/2405.15280v1)|null|
-|**2024-05-24 05:44:43**|**Cardinality Estimation on Hyper-relational Knowledge Graphs**|Fei Teng et.al.|[2405.15231v1](http://arxiv.org/abs/2405.15231v1)|null|
-|**2024-05-24 05:15:46**|**AGS-GNN: Attribute-guided Sampling for Graph Neural Networks**|Siddhartha Shankar Das et.al.|[2405.15218v1](http://arxiv.org/abs/2405.15218v1)|null|
-|**2024-05-24 03:37:32**|**TrojanForge: Adversarial Hardware Trojan Examples with Reinforcement   Learning**|Amin Sarihi et.al.|[2405.15184v1](http://arxiv.org/abs/2405.15184v1)|null|
-|**2024-05-23 21:17:20**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via   Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059v1](http://arxiv.org/abs/2405.15059v1)|null|
-|**2024-05-23 17:51:05**|**Analysis of Atom-level pretraining with QM data for Graph Neural   Networks Molecular property models**|Jose Arjona-Medina et.al.|[2405.14837v1](http://arxiv.org/abs/2405.14837v1)|null|
-|**2024-05-23 15:19:34**|**Development of a Gaussian Approximation Potential to Study Structure and   Thermodynamics of Nickel Nanoclusters**|Suvo Banik et.al.|[2405.14683v1](http://arxiv.org/abs/2405.14683v1)|null|
-|**2024-05-23 14:19:21**|**Logical Characterizations of Recurrent Graph Neural Networks with Reals   and Floats**|Veeti Ahvonen et.al.|[2405.14606v1](http://arxiv.org/abs/2405.14606v1)|null|
-|**2024-05-23 10:26:18**|**Gradient Transformation: Towards Efficient and Model-Agnostic Unlearning   for Dynamic Graph Neural Networks**|He Zhang et.al.|[2405.14407v1](http://arxiv.org/abs/2405.14407v1)|null|
-|**2024-05-23 09:24:33**|**Explaining Graph Neural Networks via Structure-aware Interaction Index**|Ngoc Bui et.al.|[2405.14352v1](http://arxiv.org/abs/2405.14352v1)|null|
-|**2024-05-23 08:32:40**|**Deep Learning Fusion For Effective Malware Detection: Leveraging Visual   Features**|Jahez Abraham Johny et.al.|[2405.14311v1](http://arxiv.org/abs/2405.14311v1)|null|
-|**2024-05-23 08:28:44**|**AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation**|Weigang Lu et.al.|[2405.14307v1](http://arxiv.org/abs/2405.14307v1)|[link](https://github.com/WeigangLu/AdaGMLP-KDD24))|
-|**2024-05-23 08:23:22**|**Similarity-Navigated Conformal Prediction for Graph Neural Networks**|Jianqing Song et.al.|[2405.14303v1](http://arxiv.org/abs/2405.14303v1)|null|
-|**2024-05-23 08:22:00**|**Graphcode: Learning from multiparameter persistent homology using graph   neural networks**|Michael Kerber et.al.|[2405.14302v1](http://arxiv.org/abs/2405.14302v1)|null|
-|**2024-05-23 07:40:21**|**Graph Sparsification via Mixture of Graphs**|Guibin Zhang et.al.|[2405.14260v1](http://arxiv.org/abs/2405.14260v1)|null|
-|**2024-05-23 03:12:49**|**Automated Loss function Search for Class-imbalanced Node Classification**|Xinyu Guo et.al.|[2405.14133v1](http://arxiv.org/abs/2405.14133v1)|null|
-|**2024-05-23 01:48:32**|**Attending to Topological Spaces: The Cellular Transformer**|Rubén Ballester et.al.|[2405.14094v1](http://arxiv.org/abs/2405.14094v1)|null|
-|**2024-05-22 19:10:24**|**DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs**|Xingtong Yu et.al.|[2405.13937v1](http://arxiv.org/abs/2405.13937v1)|null|
-|**2024-05-22 18:17:20**|**LOGIN: A Large Language Model Consulted Graph Neural Network Training   Framework**|Yiran Qiao et.al.|[2405.13902v1](http://arxiv.org/abs/2405.13902v1)|[link](https://github.com/QiaoYRan/LOGIN)|
-|**2024-05-22 14:57:09**|**Rethinking and Accelerating Graph Condensation: A Training-Free Approach   with Class Partition**|Xinyi Gao et.al.|[2405.13707v1](http://arxiv.org/abs/2405.13707v1)|null|
-|**2024-05-22 14:11:10**|**GNN-based Anomaly Detection for Encoded Network Traffic**|Anasuya Chattopadhyay et.al.|[2405.13670v1](http://arxiv.org/abs/2405.13670v1)|null|
-|**2024-05-22 12:30:25**|**Bond Graphs for multi-physics informed Neural Networks for multi-variate   time series**|Alexis-Raja Brachet et.al.|[2405.13586v1](http://arxiv.org/abs/2405.13586v1)|null|

@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-26 18:18:11**|**"I Searched for a Religious Song in Amharic and Got Sexual Content   Instead": Investigating Online Harm in Low-Resourced Languages on YouTube**|Hellina Hailu Nigatu et.al.|[2405.16656v1](http://arxiv.org/abs/2405.16656v1)|null|
 |**2024-05-23 14:24:11**|**Is the EJRA proportionate and therefore justified? A critical review of   the EJRA policy at Cambridge**|Oliver Linton et.al.|[2405.14611v1](http://arxiv.org/abs/2405.14611v1)|null|
 |**2024-05-20 18:04:02**|**HST/JWST Long-Term Monitoring Working Group Final Report**|Saurabh W. Jha et.al.|[2405.12297v1](http://arxiv.org/abs/2405.12297v1)|null|
 |**2024-05-17 21:06:34**|**What metrics of participation balance predict outcomes of collaborative   learning with a robot?**|Yuya Asano et.al.|[2405.11092v1](http://arxiv.org/abs/2405.11092v1)|null|
@@ -31,4 +32,3 @@
 |**2024-04-17 13:32:05**|**Tensor Factorisation for Polypharmacy Side Effect Prediction**|Oliver Lloyd et.al.|[2404.11374v1](http://arxiv.org/abs/2404.11374v1)|null|
 |**2024-04-17 10:36:56**|**PartiPlay: A Participatory Game Design Kit for Neurodiverse Classrooms**|Patricia Piedade et.al.|[2404.11234v1](http://arxiv.org/abs/2404.11234v1)|null|
 |**2024-04-15 11:20:44**|**AntDT: A Self-Adaptive Distributed Training Framework for Leader and   Straggler Nodes**|Youshao Xiao et.al.|[2404.09679v1](http://arxiv.org/abs/2404.09679v1)|null|
-|**2024-04-15 10:54:47**|**Closing the Gap in the Trade-off between Fair Representations and   Accuracy**|Biswajit Rout et.al.|[2404.09664v1](http://arxiv.org/abs/2404.09664v1)|null|
