@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2024-06-01 16:08:07 Asia/Shanghai
+ 自动更新 @ 2024-06-02 16:08:04 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
