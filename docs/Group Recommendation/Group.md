@@ -2,6 +2,11 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-04 16:56:51**|**Investigating the Online Recruitment and Selection Journey of Novice   Software Engineers: Anti-patterns and Recommendations**|Miguel Setúbal et.al.|[2406.02487v1](http://arxiv.org/abs/2406.02487v1)|null|
+|**2024-06-03 18:02:13**|**Session Context Embedding for Intent Understanding in Product Search**|Navid Mehrdad et.al.|[2406.01702v1](http://arxiv.org/abs/2406.01702v1)|null|
+|**2024-06-03 14:54:36**|**How to design research-aligned DEI interventions in physics**|Angela Johnson et.al.|[2406.01390v1](http://arxiv.org/abs/2406.01390v1)|null|
+|**2024-06-03 13:44:38**|**Structural Interventions and the Dynamics of Inequality**|Aurora Zhang et.al.|[2406.01323v1](http://arxiv.org/abs/2406.01323v1)|null|
+|**2024-06-02 16:07:49**|**COVID-19: post infection implications in different age groups,   mechanism, diagnosis, effective prevention, treatment, and recommendations**|Muhammad Akmal Raheem et.al.|[2406.01636v1](http://arxiv.org/abs/2406.01636v1)|null|
 |**2024-05-30 18:09:27**|**AI Diffusion to Low-Middle Income Countries; A Blessing or a Curse?**|Rafael Andersson Lipcsey et.al.|[2405.20399v2](http://arxiv.org/abs/2405.20399v2)|null|
 |**2024-05-30 17:07:07**|**Conversational Agents to Facilitate Deliberation on Harmful Content in   WhatsApp Groups**|Dhruv Agarwal et.al.|[2405.20254v1](http://arxiv.org/abs/2405.20254v1)|null|
 |**2024-05-27 19:12:53**|**Advancing Cultural Inclusivity: Optimizing Embedding Spaces for Balanced   Music Recommendations**|Armin Moradi et.al.|[2405.17607v1](http://arxiv.org/abs/2405.17607v1)|null|
@@ -27,8 +32,3 @@
 |**2024-04-26 09:51:24**|**Lazy Data Practices Harm Fairness Research**|Jan Simson et.al.|[2404.17293v1](http://arxiv.org/abs/2404.17293v1)|[link](https://github.com/reliable-ai/lazy-data-practices)|
 |**2024-04-25 09:20:51**|**Contextual Categorization Enhancement through LLMs Latent-Space**|Zineddine Bettouche et.al.|[2404.16442v1](http://arxiv.org/abs/2404.16442v1)|null|
 |**2024-04-24 02:23:12**|**Human-in-the-loop Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2404.15599v1](http://arxiv.org/abs/2404.15599v1)|null|
-|**2024-04-23 10:59:44**|**Sum of Group Error Differences: A Critical Examination of Bias   Evaluation in Biometric Verification and a Dual-Metric Measure**|Alaa Elobaid et.al.|[2404.15385v1](http://arxiv.org/abs/2404.15385v1)|[link](https://github.com/alaaobeid/SEDG})|
-|**2024-04-23 06:43:58**|**Revealing and Utilizing In-group Favoritism for Graph-based   Collaborative Filtering**|Hoin Jung et.al.|[2404.17598v1](http://arxiv.org/abs/2404.17598v1)|null|
-|**2024-04-22 17:19:09**|**Lessons Learned in Performing a Trustworthy AI and Fundamental Rights   Assessment**|Marjolein Boonstra et.al.|[2404.14366v1](http://arxiv.org/abs/2404.14366v1)|null|
-|**2024-04-21 21:19:31**|**Multi-channel Emotion Analysis for Consensus Reaching in Group Movie   Recommendation Systems**|Adilet Yerkin et.al.|[2404.13778v1](http://arxiv.org/abs/2404.13778v1)|null|
-|**2024-04-18 10:23:10**|**PureForest: A Large-Scale Aerial Lidar and Aerial Imagery Dataset for   Tree Species Classification in Monospecific Forests**|Charles Gaydon et.al.|[2404.12064v2](http://arxiv.org/abs/2404.12064v2)|[link](https://github.com/ignf/pacasam)|
