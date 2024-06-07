@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-06 16:18:20**|**Multi-Agent Imitation Learning: Value is Easy, Regret is Hard**|Jingwu Tang et.al.|[2406.04219v1](http://arxiv.org/abs/2406.04219v1)|null|
 |**2024-06-05 10:33:04**|**The Harder You Try, The Harder You Fail: The KeyTrap Denial-of-Service   Algorithmic Complexity Attacks on DNSSEC**|Elias Heftrig et.al.|[2406.03133v1](http://arxiv.org/abs/2406.03133v1)|null|
 |**2024-06-04 16:56:51**|**Investigating the Online Recruitment and Selection Journey of Novice   Software Engineers: Anti-patterns and Recommendations**|Miguel Setúbal et.al.|[2406.02487v1](http://arxiv.org/abs/2406.02487v1)|null|
 |**2024-06-03 18:02:13**|**Session Context Embedding for Intent Understanding in Product Search**|Navid Mehrdad et.al.|[2406.01702v1](http://arxiv.org/abs/2406.01702v1)|null|
@@ -31,4 +32,3 @@
 |**2024-04-26 17:42:29**|**Structured Conformal Inference for Matrix Completion with Applications   to Group Recommender Systems**|Ziyi Liang et.al.|[2404.17561v1](http://arxiv.org/abs/2404.17561v1)|null|
 |**2024-04-26 16:26:11**|**Bridging the Fairness Divide: Achieving Group and Individual Fairness in   Graph Neural Networks**|Duna Zhan et.al.|[2404.17511v1](http://arxiv.org/abs/2404.17511v1)|null|
 |**2024-04-26 10:45:34**|**Towards Group-aware Search Success**|Haolun Wu et.al.|[2404.17313v1](http://arxiv.org/abs/2404.17313v1)|null|
-|**2024-04-26 09:51:24**|**Lazy Data Practices Harm Fairness Research**|Jan Simson et.al.|[2404.17293v1](http://arxiv.org/abs/2404.17293v1)|[link](https://github.com/reliable-ai/lazy-data-practices)|
