@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-05 14:33:51**|**Decision synthesis in monetary policy**|Tony Chernis et.al.|[2406.03321v1](http://arxiv.org/abs/2406.03321v1)|null|
-|**2024-06-05 09:57:58**|**CAPRI-FAIR: Integration of Multi-sided Fairness in Contextual POI   Recommendation Framework**|Francis Zac dela Cruz et.al.|[2406.03109v1](http://arxiv.org/abs/2406.03109v1)|null|
+|**2024-06-05 09:57:58**|**CAPRI-FAIR: Integration of Multi-sided Fairness in Contextual POI   Recommendation Framework**|Francis Zac dela Cruz et.al.|[2406.03109v1](http://arxiv.org/abs/2406.03109v1)|[link](https://github.com/cruiseresearchgroup/CAPRI-FAIR)|
 |**2024-05-30 21:08:42**|**Hiding Your Awful Online Choices Made More Efficient and Secure: A New   Privacy-Aware Recommender System**|Shibam Mukherjee et.al.|[2405.20483v1](http://arxiv.org/abs/2405.20483v1)|null|
 |**2024-05-28 15:13:29**|**A Vlogger-augmented Graph Neural Network Model for Micro-video   Recommendation**|Weijiang Lai et.al.|[2405.18260v1](http://arxiv.org/abs/2405.18260v1)|[link](https://github.com/laiweijiang/VAGNN)|
 |**2024-05-27 18:10:55**|**Bluesky: Network Topology, Polarisation, and Algorithmic Curation**|Dorian Quelle et.al.|[2405.17571v1](http://arxiv.org/abs/2405.17571v1)|null|
