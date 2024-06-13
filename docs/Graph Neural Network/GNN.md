@@ -2,6 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-12 15:10:44**|**GraphFM: A Comprehensive Benchmark for Graph Foundation Model**|Yuhao Xu et.al.|[2406.08310v1](http://arxiv.org/abs/2406.08310v1)|[link](https://github.com/nyushcs/graphfm)|
+|**2024-06-12 14:53:23**|**Pre-Training Identification of Graph Winning Tickets in Adaptive   Spatial-Temporal Graph Neural Networks**|Wenying Duan et.al.|[2406.08287v1](http://arxiv.org/abs/2406.08287v1)|null|
+|**2024-06-12 14:47:27**|**Conformal Load Prediction with Transductive Graph Autoencoders**|Rui Luo et.al.|[2406.08281v1](http://arxiv.org/abs/2406.08281v1)|null|
+|**2024-06-12 13:41:07**|**Expressivity and Generalization: Fragment-Biases for Molecular GNNs**|Tom Wollschläger et.al.|[2406.08210v1](http://arxiv.org/abs/2406.08210v1)|null|
+|**2024-06-12 13:21:29**|**Deep learning of optical spectra of semiconductors and insulators**|Malte Grunert et.al.|[2406.08191v1](http://arxiv.org/abs/2406.08191v1)|null|
+|**2024-06-12 10:51:00**|**Balancing Molecular Information and Empirical Data in the Prediction of   Physico-Chemical Properties**|Johannes Zenn et.al.|[2406.08075v1](http://arxiv.org/abs/2406.08075v1)|null|
+|**2024-06-12 08:05:45**|**Heuristic Learning with Graph Neural Networks: A Unified Framework for   Link Prediction**|Juzhen Zhang et.al.|[2406.07979v1](http://arxiv.org/abs/2406.07979v1)|null|
+|**2024-06-12 07:28:28**|**How Interpretable Are Interpretable Graph Neural Networks?**|Yongqiang Chen et.al.|[2406.07955v1](http://arxiv.org/abs/2406.07955v1)|null|
+|**2024-06-12 06:45:03**|**Efficient Neural Common Neighbor for Temporal Graph Link Prediction**|Xiaohui Zhang et.al.|[2406.07926v1](http://arxiv.org/abs/2406.07926v1)|null|
+|**2024-06-12 06:36:37**|**Graph Transductive Defense: a Two-Stage Defense for Graph Membership   Inference Attacks**|Peizhi Niu et.al.|[2406.07917v1](http://arxiv.org/abs/2406.07917v1)|null|
 |**2024-06-11 17:32:21**|**TextGrad: Automatic "Differentiation" via Text**|Mert Yuksekgonul et.al.|[2406.07496v1](http://arxiv.org/abs/2406.07496v1)|[link](https://github.com/zou-group/textgrad)|
 |**2024-06-11 16:21:57**|**Graph Reasoning for Explainable Cold Start Recommendation**|Jibril Frej et.al.|[2406.07420v1](http://arxiv.org/abs/2406.07420v1)|null|
 |**2024-06-11 14:44:37**|**Rethinking the impact of noisy labels in graph classification: A utility   and privacy perspective**|De Li et.al.|[2406.07314v1](http://arxiv.org/abs/2406.07314v1)|null|
@@ -22,13 +32,3 @@
 |**2024-06-09 05:27:23**|**Distributed Combinatorial Optimization of Downlink User Assignment in   mmWave Cell-free Massive MIMO Using Graph Neural Networks**|Bile Peng et.al.|[2406.05652v1](http://arxiv.org/abs/2406.05652v1)|null|
 |**2024-06-09 04:11:41**|**What is my quantum computer good for? Quantum capability learning with   physics-aware neural networks**|Daniel Hothem et.al.|[2406.05636v1](http://arxiv.org/abs/2406.05636v1)|null|
 |**2024-06-08 21:25:24**|**Prioritizing Potential Wetland Areas via Region-to-Region Knowledge   Transfer and Adaptive Propagation**|Yoonhyuk Choi et.al.|[2406.05578v1](http://arxiv.org/abs/2406.05578v1)|null|
-|**2024-06-08 20:09:17**|**Transfer Entropy in Graph Convolutional Neural Networks**|Adrian Moldovan et.al.|[2406.06632v1](http://arxiv.org/abs/2406.06632v1)|null|
-|**2024-06-08 14:14:19**|**Efficient Topology-aware Data Augmentation for High-Degree Graph Neural   Networks**|Yurui Lai et.al.|[2406.05482v2](http://arxiv.org/abs/2406.05482v2)|[link](https://github.com/hkbu-lagas/tada)|
-|**2024-06-07 19:25:02**|**A Manifold Perspective on the Statistical Generalization of Graph Neural   Networks**|Zhiyang Wang et.al.|[2406.05225v1](http://arxiv.org/abs/2406.05225v1)|null|
-|**2024-06-07 19:18:09**|**ON-OFF Neuromorphic ISING Machines using Fowler-Nordheim Annealers**|Zihao Chen et.al.|[2406.05224v1](http://arxiv.org/abs/2406.05224v1)|null|
-|**2024-06-07 16:14:51**|**Online Frequency Scheduling by Learning Parallel Actions**|Anastasios Giovanidis et.al.|[2406.05041v1](http://arxiv.org/abs/2406.05041v1)|null|
-|**2024-06-07 13:46:23**|**SpanGNN: Towards Memory-Efficient Graph Neural Networks via Spanning   Subgraph Training**|Xizhi Gu et.al.|[2406.04938v1](http://arxiv.org/abs/2406.04938v1)|[link](https://github.com/guxizhi/spangnn)|
-|**2024-06-07 10:52:37**|**QAGCF: Graph Collaborative Filtering for Q&A Recommendation**|Changshuo Zhang et.al.|[2406.04828v1](http://arxiv.org/abs/2406.04828v1)|null|
-|**2024-06-07 10:50:03**|**Graph Mining under Data scarcity**|Appan Rakaraddi et.al.|[2406.04825v2](http://arxiv.org/abs/2406.04825v2)|null|
-|**2024-06-07 10:12:01**|**GENIE: Watermarking Graph Neural Networks for Link Prediction**|Venkata Sai Pranav Bachina et.al.|[2406.04805v1](http://arxiv.org/abs/2406.04805v1)|null|
-|**2024-06-07 09:28:18**|**Mobile Network Configuration Recommendation using Deep Generative Graph   Neural Network**|Shirwan Piroti et.al.|[2406.04779v1](http://arxiv.org/abs/2406.04779v1)|null|
