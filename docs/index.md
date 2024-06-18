@@ -1,77 +1,41 @@
 # arxiv-daily
- 自动更新 @ 2024-06-17 16:10:20 Asia/Shanghai
+ 自动更新 @ 2024-06-18 16:10:48 Asia/Shanghai
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-17 17:56:01**|**Composing Object Relations and Attributes for Image-Text Matching**|Khoi Pham et.al.|[2406.11820v1](http://arxiv.org/abs/2406.11820v1)|null|
+|**2024-06-17 16:38:19**|**Graph Neural Re-Ranking via Corpus Graph**|Andrea Giuseppe Di Francesco et.al.|[2406.11720v1](http://arxiv.org/abs/2406.11720v1)|null|
+|**2024-06-17 16:32:57**|**Scalable Expressiveness through Preprocessed Graph Perturbations**|Danial Saber et.al.|[2406.11714v1](http://arxiv.org/abs/2406.11714v1)|null|
+|**2024-06-17 14:10:45**|**Harmonizing Feature Maps: A Graph Convolutional Approach for Enhancing   Adversarial Robustness**|Kejia Zhang et.al.|[2406.11576v1](http://arxiv.org/abs/2406.11576v1)|null|
+|**2024-06-17 13:23:33**|**Operator Deep Smoothing for Implied Volatility**|Lukas Gonon et.al.|[2406.11520v1](http://arxiv.org/abs/2406.11520v1)|null|
+|**2024-06-17 13:05:00**|**On the Feasibility of Fidelity$^-$ for Graph Pruning**|Yong-Min Shin et.al.|[2406.11504v1](http://arxiv.org/abs/2406.11504v1)|null|
+|**2024-06-17 12:09:11**|**Attention-Based Deep Reinforcement Learning for Qubit Allocation in   Modular Quantum Architectures**|Enrico Russo et.al.|[2406.11452v1](http://arxiv.org/abs/2406.11452v1)|null|
+|**2024-06-17 11:47:14**|**Analysing the Behaviour of Tree-Based Neural Networks in Regression   Tasks**|Peter Samoaa et.al.|[2406.11437v1](http://arxiv.org/abs/2406.11437v1)|[link](https://github.com/petersamoaa/tree_based_nn_error_analysis)|
+|**2024-06-17 11:22:04**|**Dredge Word, Social Media, and Webgraph Networks for Unreliable Website   Classification and Identification**|Evan M. Williams et.al.|[2406.11423v1](http://arxiv.org/abs/2406.11423v1)|null|
+|**2024-06-17 03:02:04**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario?   Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162v1](http://arxiv.org/abs/2406.11162v1)|null|
+|**2024-06-17 02:51:18**|**DeFiGuard: A Price Manipulation Detection Service in DeFi using Graph   Neural Networks**|Dabao Wang et.al.|[2406.11157v1](http://arxiv.org/abs/2406.11157v1)|null|
+|**2024-06-16 17:13:58**|**Latent Communication in Artificial Neural Networks**|Luca Moschella et.al.|[2406.11014v1](http://arxiv.org/abs/2406.11014v1)|null|
+|**2024-06-16 09:46:58**|**Graph Neural Reaction Diffusion Models**|Moshe Eliasof et.al.|[2406.10871v1](http://arxiv.org/abs/2406.10871v1)|null|
+|**2024-06-16 09:13:30**|**Global-Local Graph Neural Networks for Node-Classification**|Moshe Eliasof et.al.|[2406.10863v1](http://arxiv.org/abs/2406.10863v1)|null|
+|**2024-06-15 18:53:45**|**Planning with Adaptive World Models for Autonomous Driving**|Arun Balajee Vasudevan et.al.|[2406.10714v1](http://arxiv.org/abs/2406.10714v1)|null|
+|**2024-06-15 16:45:27**|**Graph Neural Thompson Sampling**|Shuang Wu et.al.|[2406.10686v1](http://arxiv.org/abs/2406.10686v1)|null|
+|**2024-06-15 16:41:04**|**Scale Equivariant Graph Metanetworks**|Ioannis Kalogeropoulos et.al.|[2406.10685v1](http://arxiv.org/abs/2406.10685v1)|null|
+|**2024-06-15 14:50:41**|**E-SAGE: Explainability-based Defense Against Backdoor Attacks on Graph   Neural Networks**|Dingqiang Yuan et.al.|[2406.10655v1](http://arxiv.org/abs/2406.10655v1)|null|
+|**2024-06-15 11:26:10**|**SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data**|Jialong Wu et.al.|[2406.10600v1](http://arxiv.org/abs/2406.10600v1)|null|
+|**2024-06-15 10:35:22**|**Polytopal mesh agglomeration via geometrical deep learning for   three-dimensional heterogeneous domains**|Paola F. Antonietti et.al.|[2406.10587v1](http://arxiv.org/abs/2406.10587v1)|null|
+|**2024-06-15 09:23:46**|**Graph Neural Backdoor: Fundamentals, Methodologies, Applications, and   Future Directions**|Xiao Yang et.al.|[2406.10573v1](http://arxiv.org/abs/2406.10573v1)|null|
+|**2024-06-15 07:30:40**|**A Finite Difference Informed Graph Network for Solving Steady-State   Incompressible Flows on Block-Structured Grids**|Yiye Zou et.al.|[2406.10534v1](http://arxiv.org/abs/2406.10534v1)|null|
+|**2024-06-15 05:29:07**|**Lift Your Molecules: Molecular Graph Generation in Latent Euclidean   Space**|Mohamed Amine Ketata et.al.|[2406.10513v1](http://arxiv.org/abs/2406.10513v1)|null|
+|**2024-06-15 04:47:40**|**Geodesic Distance Between Graphs: A Spectral Metric for Assessing the   Stability of Graph Neural Networks**|Soumen Sikder Shuvo et.al.|[2406.10500v1](http://arxiv.org/abs/2406.10500v1)|null|
+|**2024-06-15 04:36:40**|**A Unified Graph Selective Prompt Learning for Graph Neural Networks**|Bo Jiang et.al.|[2406.10498v1](http://arxiv.org/abs/2406.10498v1)|null|
+|**2024-06-15 04:09:31**|**Large Language Models as Event Forecasters**|Libo Zhang et.al.|[2406.10492v1](http://arxiv.org/abs/2406.10492v1)|null|
+|**2024-06-14 22:07:11**|**Towards Neural Scaling Laws for Foundation Models on Temporal Graphs**|Razieh Shirzadkhani et.al.|[2406.10426v1](http://arxiv.org/abs/2406.10426v1)|null|
 |**2024-06-14 15:47:13**|**Compressed Sensor Caching and Collaborative Sparse Data Recovery with   Anchor Alignment**|Yi-Jen Yang et.al.|[2406.10137v1](http://arxiv.org/abs/2406.10137v1)|null|
 |**2024-06-14 12:01:18**|**Rule Based Learning with Dynamic (Graph) Neural Networks**|Florian Seiffarth et.al.|[2406.09954v1](http://arxiv.org/abs/2406.09954v1)|null|
 |**2024-06-14 08:46:26**|**Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural   Networks**|Zhiwei Zhang et.al.|[2406.09836v1](http://arxiv.org/abs/2406.09836v1)|null|
-|**2024-06-14 07:36:21**|**Evolving Self-Assembling Neural Networks: From Spontaneous Activity to   Experience-Dependent Learning**|Erwan Plantec et.al.|[2406.09787v1](http://arxiv.org/abs/2406.09787v1)|null|
-|**2024-06-14 06:53:20**|**Autonomous Constellation Fault Monitoring with Inter-satellite Links: A   Rigidity-Based Approach**|Keidai Iiyama et.al.|[2406.09759v1](http://arxiv.org/abs/2406.09759v1)|null|
-|**2024-06-14 02:56:57**|**Benchmarking Spectral Graph Neural Networks: A Comprehensive Study on   Effectiveness and Efficiency**|Ningyi Liao et.al.|[2406.09675v1](http://arxiv.org/abs/2406.09675v1)|[link](https://github.com/gdmnl/spectral-gnn-benchmark)|
-|**2024-06-13 22:44:08**|**Automated Molecular Concept Generation and Labeling with Large Language   Models**|Shichang Zhang et.al.|[2406.09612v1](http://arxiv.org/abs/2406.09612v1)|null|
-|**2024-06-13 18:37:24**|**Differentiable Reasoning about Knowledge Graphs with Region-based Graph   Neural Networks**|Aleksandar Pavlovic et.al.|[2406.09529v1](http://arxiv.org/abs/2406.09529v1)|null|
-|**2024-06-13 17:38:26**|**On the Expressibility of the Reconstructional Color Refinement**|V. Arvind et.al.|[2406.09351v1](http://arxiv.org/abs/2406.09351v1)|null|
-|**2024-06-13 17:31:02**|**Scoreformer: A Surrogate Model For Large-Scale Prediction of Docking   Scores**|Álvaro Ciudad et.al.|[2406.09346v1](http://arxiv.org/abs/2406.09346v1)|null|
-|**2024-06-13 16:42:06**|**Transformers meet Neural Algorithmic Reasoners**|Wilfried Bounsi et.al.|[2406.09308v1](http://arxiv.org/abs/2406.09308v1)|null|
-|**2024-06-13 16:29:06**|**A Flexible, Equivariant Framework for Subgraph GNNs via Graph Products   and Graph Coarsening**|Guy Bar-Shalom et.al.|[2406.09291v1](http://arxiv.org/abs/2406.09291v1)|null|
-|**2024-06-13 15:56:55**|**Deep Sketched Output Kernel Regression for Structured Prediction**|Tamim El Ahmad et.al.|[2406.09253v1](http://arxiv.org/abs/2406.09253v1)|null|
-|**2024-06-13 14:39:40**|**Scalable and Flexible Causal Discovery with an Efficient Test for   Adjacency**|Alan Nawzad Amin et.al.|[2406.09177v1](http://arxiv.org/abs/2406.09177v1)|[link](https://github.com/alannawzadamin/dat-graph)|
-|**2024-06-13 14:22:12**|**ALPHAGMUT: A Rationale-Guided Alpha Shape Graph Neural Network to   Evaluate Mutation Effects**|Boshen Wang et.al.|[2406.09159v1](http://arxiv.org/abs/2406.09159v1)|null|
-|**2024-06-13 11:56:20**|**Schur's Positive-Definite Network: Deep Learning in the SPD cone with   structure**|Can Pouliquen et.al.|[2406.09023v1](http://arxiv.org/abs/2406.09023v1)|null|
-|**2024-06-13 10:53:33**|**Classic GNNs are Strong Baselines: Reassessing GNNs for Node   Classification**|Yuankai Luo et.al.|[2406.08993v1](http://arxiv.org/abs/2406.08993v1)|[link](https://github.com/LUOyk1999/tunedGNN)|
-|**2024-06-13 06:56:49**|**Self-supervised Graph Neural Network for Mechanical CAD Retrieval**|Yuhan Quan et.al.|[2406.08863v1](http://arxiv.org/abs/2406.08863v1)|null|
-|**2024-06-13 06:39:49**|**Trajectory Planning for Autonomous Driving in Unstructured Scenarios   Based on Graph Neural Network and Numerical Optimization**|Sumin Zhang et.al.|[2406.08855v1](http://arxiv.org/abs/2406.08855v1)|null|
-|**2024-06-13 02:47:38**|**LGB: Language Model and Graph Neural Network-Driven Social Bot Detection**|Ming Zhou et.al.|[2406.08762v2](http://arxiv.org/abs/2406.08762v2)|null|
-|**2024-06-13 02:03:22**|**Generalizable Implicit Neural Representation As a Universal   Spatiotemporal Traffic Data Learner**|Tong Nie et.al.|[2406.08743v1](http://arxiv.org/abs/2406.08743v1)|null|
-|**2024-06-13 00:18:20**|**Introducing Diminutive Causal Structure into Graph Representation   Learning**|Hang Gao et.al.|[2406.08709v1](http://arxiv.org/abs/2406.08709v1)|null|
-|**2024-06-12 22:49:45**|**FIP-GNN: Graph neural networks for scalable prediction of grain-level   fatigue indicator parameters**|Gyu-Jang Sim et.al.|[2406.08682v1](http://arxiv.org/abs/2406.08682v1)|null|
-|**2024-06-12 21:31:32**|**BaSeNet: A Learning-based Mobile Manipulator Base Pose Sequence Planning   for Pickup Tasks**|Lakshadeep Naik et.al.|[2406.08653v1](http://arxiv.org/abs/2406.08653v1)|null|
-|**2024-06-12 21:18:14**|**MOTI$\mathcal{VE}$: A Drug-Target Interaction Graph For Inductive Link   Prediction**|John Arevalo et.al.|[2406.08649v1](http://arxiv.org/abs/2406.08649v1)|[link](https://github.com/carpenter-singh-lab/motive)|
-|**2024-06-12 15:10:44**|**GraphFM: A Comprehensive Benchmark for Graph Foundation Model**|Yuhao Xu et.al.|[2406.08310v2](http://arxiv.org/abs/2406.08310v2)|[link](https://github.com/nyushcs/graphfm)|
-|**2024-06-12 14:53:23**|**Pre-Training Identification of Graph Winning Tickets in Adaptive   Spatial-Temporal Graph Neural Networks**|Wenying Duan et.al.|[2406.08287v2](http://arxiv.org/abs/2406.08287v2)|null|
-|**2024-06-12 14:47:27**|**Conformal Load Prediction with Transductive Graph Autoencoders**|Rui Luo et.al.|[2406.08281v1](http://arxiv.org/abs/2406.08281v1)|null|
-|**2024-06-12 13:41:07**|**Expressivity and Generalization: Fragment-Biases for Molecular GNNs**|Tom Wollschläger et.al.|[2406.08210v1](http://arxiv.org/abs/2406.08210v1)|null|
-|**2024-06-12 13:21:29**|**Deep learning of optical spectra of semiconductors and insulators**|Malte Grunert et.al.|[2406.08191v1](http://arxiv.org/abs/2406.08191v1)|null|
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-13 09:44:04**|**Beyond Recommendations: From Backward to Forward AI Support of Pilots'   Decision-Making Process**|Zelun Tony Zhang et.al.|[2406.08959v1](http://arxiv.org/abs/2406.08959v1)|null|
-|**2024-06-12 14:57:30**|**A minimalistic and general weighted averaging method for inconsistent   data**|Martino Trassinelli et.al.|[2406.08293v1](http://arxiv.org/abs/2406.08293v1)|null|
-|**2024-06-12 06:55:35**|**Counteracting Duration Bias in Video Recommendation via Counterfactual   Watch Time**|Haiyuan Zhao et.al.|[2406.07932v2](http://arxiv.org/abs/2406.07932v2)|[link](https://github.com/hyz20/CWM)|
-|**2024-06-06 16:18:20**|**Multi-Agent Imitation Learning: Value is Easy, Regret is Hard**|Jingwu Tang et.al.|[2406.04219v1](http://arxiv.org/abs/2406.04219v1)|null|
-|**2024-06-05 10:33:04**|**The Harder You Try, The Harder You Fail: The KeyTrap Denial-of-Service   Algorithmic Complexity Attacks on DNSSEC**|Elias Heftrig et.al.|[2406.03133v1](http://arxiv.org/abs/2406.03133v1)|null|
-|**2024-06-04 16:56:51**|**Investigating the Online Recruitment and Selection Journey of Novice   Software Engineers: Anti-patterns and Recommendations**|Miguel Setúbal et.al.|[2406.02487v1](http://arxiv.org/abs/2406.02487v1)|null|
-|**2024-06-03 18:02:13**|**Session Context Embedding for Intent Understanding in Product Search**|Navid Mehrdad et.al.|[2406.01702v1](http://arxiv.org/abs/2406.01702v1)|null|
-|**2024-06-03 14:54:36**|**How to design research-aligned DEI interventions in physics**|Angela Johnson et.al.|[2406.01390v1](http://arxiv.org/abs/2406.01390v1)|null|
-|**2024-06-03 13:44:38**|**Structural Interventions and the Dynamics of Inequality**|Aurora Zhang et.al.|[2406.01323v1](http://arxiv.org/abs/2406.01323v1)|null|
-|**2024-06-02 16:07:49**|**COVID-19: post infection implications in different age groups,   mechanism, diagnosis, effective prevention, treatment, and recommendations**|Muhammad Akmal Raheem et.al.|[2406.01636v1](http://arxiv.org/abs/2406.01636v1)|null|
-|**2024-06-01 23:07:05**|**Data Quality in Edge Machine Learning: A State-of-the-Art Survey**|Mohammed Djameleddine Belgoumri et.al.|[2406.02600v1](http://arxiv.org/abs/2406.02600v1)|null|
-|**2024-05-30 18:09:27**|**AI Diffusion to Low-Middle Income Countries; A Blessing or a Curse?**|Rafael Andersson Lipcsey et.al.|[2405.20399v2](http://arxiv.org/abs/2405.20399v2)|null|
-|**2024-05-30 17:07:07**|**Conversational Agents to Facilitate Deliberation on Harmful Content in   WhatsApp Groups**|Dhruv Agarwal et.al.|[2405.20254v1](http://arxiv.org/abs/2405.20254v1)|null|
-|**2024-05-27 19:12:53**|**Advancing Cultural Inclusivity: Optimizing Embedding Spaces for Balanced   Music Recommendations**|Armin Moradi et.al.|[2405.17607v1](http://arxiv.org/abs/2405.17607v1)|null|
-|**2024-05-26 18:18:11**|**"I Searched for a Religious Song in Amharic and Got Sexual Content   Instead": Investigating Online Harm in Low-Resourced Languages on YouTube**|Hellina Hailu Nigatu et.al.|[2405.16656v1](http://arxiv.org/abs/2405.16656v1)|null|
-|**2024-05-23 14:24:11**|**Is the EJRA proportionate and therefore justified? A critical review of   the EJRA policy at Cambridge**|Oliver Linton et.al.|[2405.14611v3](http://arxiv.org/abs/2405.14611v3)|null|
-|**2024-05-20 18:04:02**|**HST/JWST Long-Term Monitoring Working Group Final Report**|Saurabh W. Jha et.al.|[2405.12297v2](http://arxiv.org/abs/2405.12297v2)|null|
-|**2024-05-17 21:06:34**|**What metrics of participation balance predict outcomes of collaborative   learning with a robot?**|Yuya Asano et.al.|[2405.11092v1](http://arxiv.org/abs/2405.11092v1)|null|
-|**2024-05-15 23:25:19**|**A survey on fairness of large language models in e-commerce: progress,   application, and challenge**|Qingyang Ren et.al.|[2405.13025v1](http://arxiv.org/abs/2405.13025v1)|null|
-|**2024-05-15 20:28:15**|**Benchmark Early and Red Team Often: A Framework for Assessing and   Managing Dual-Use Hazards of AI Foundation Models**|Anthony M. Barrett et.al.|[2405.10986v1](http://arxiv.org/abs/2405.10986v1)|null|
-|**2024-05-14 13:22:33**|**Treatment Effect Estimation for User Interest Exploration on Recommender   Systems**|Jiaju Chen et.al.|[2405.08582v1](http://arxiv.org/abs/2405.08582v1)|[link](https://github.com/Jiaju-Chen/UpliftRec)|
-|**2024-05-08 17:24:24**|**myAURA: Personalized health library for epilepsy management via   knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229v2](http://arxiv.org/abs/2405.05229v2)|[link](https://github.com/cns-iu/myaura)|
-|**2024-05-07 17:38:39**|**New allometric models for the USA create a step-change in forest carbon   estimation, modeling, and mapping**|Lucas K. Johnson et.al.|[2405.04507v1](http://arxiv.org/abs/2405.04507v1)|null|
-|**2024-05-05 18:50:35**|**Distributed Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2405.03031v1](http://arxiv.org/abs/2405.03031v1)|null|
-|**2024-05-03 16:25:27**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in   Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219v1](http://arxiv.org/abs/2405.02219v1)|null|
-|**2024-05-03 12:30:27**|**Ah, that's the great puzzle: On the Quest of a Holistic Understanding of   the Harms of Recommender Systems on Children**|Robin Ungruh et.al.|[2405.02050v1](http://arxiv.org/abs/2405.02050v1)|null|
-|**2024-05-03 05:03:07**|**Robust Explainable Recommendation**|Sairamvinay Vijayaraghavan et.al.|[2405.01855v1](http://arxiv.org/abs/2405.01855v1)|null|
-|**2024-04-29 19:52:09**|**Longitudinal Mammogram Risk Prediction**|Batuhan K. Karaman et.al.|[2404.19083v1](http://arxiv.org/abs/2404.19083v1)|[link](https://github.com/batuhankmkaraman/lomar)|
-|**2024-04-29 12:14:54**|**Citizen Science in European Research Infrastructures**|Stephen Serjeant et.al.|[2404.18635v1](http://arxiv.org/abs/2404.18635v1)|null|
-|**2024-04-28 00:57:17**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040v1](http://arxiv.org/abs/2404.18040v1)|[link](https://github.com/outfit-net/outfit-commpatibility)|
 
 ## Multi Interest Recommendation
 
@@ -108,3 +72,39 @@
 |**2024-02-20 05:57:01**|**BMLP: Behavior-aware MLP for Heterogeneous Sequential Recommendation**|Weixin Li et.al.|[2402.12733v1](http://arxiv.org/abs/2402.12733v1)|null|
 |**2024-02-17 00:10:33**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139v1](http://arxiv.org/abs/2402.11139v1)|null|
 |**2024-02-13 11:02:12**|**Helping university students to choose elective courses by using a hybrid   multi-criteria recommendation system with genetic optimization**|A. Esteban et.al.|[2402.08371v1](http://arxiv.org/abs/2402.08371v1)|null|
+
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-17 00:53:19**|**Conversational Agents as Catalysts for Critical Thinking: Challenging   Design Fixation in Group Design**|Soohwan Lee et.al.|[2406.11125v1](http://arxiv.org/abs/2406.11125v1)|null|
+|**2024-06-15 14:02:26**|**Exploring the Impact of AI-generated Image Tools on Professional and   Non-professional Users in the Art and Design Fields**|Yuying Tang et.al.|[2406.10640v1](http://arxiv.org/abs/2406.10640v1)|null|
+|**2024-06-15 02:29:37**|**Design-based variance estimation of the Hájek effect estimator in   stratified and clustered experiments**|Xinhe Wang et.al.|[2406.10473v1](http://arxiv.org/abs/2406.10473v1)|null|
+|**2024-06-15 01:14:23**|**Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns,   Mitigation Strategies, and Design Implications**|Yaman Yu et.al.|[2406.10461v1](http://arxiv.org/abs/2406.10461v1)|null|
+|**2024-06-13 09:44:04**|**Beyond Recommendations: From Backward to Forward AI Support of Pilots'   Decision-Making Process**|Zelun Tony Zhang et.al.|[2406.08959v1](http://arxiv.org/abs/2406.08959v1)|null|
+|**2024-06-12 14:57:30**|**A minimalistic and general weighted averaging method for inconsistent   data**|Martino Trassinelli et.al.|[2406.08293v1](http://arxiv.org/abs/2406.08293v1)|null|
+|**2024-06-12 06:55:35**|**Counteracting Duration Bias in Video Recommendation via Counterfactual   Watch Time**|Haiyuan Zhao et.al.|[2406.07932v2](http://arxiv.org/abs/2406.07932v2)|[link](https://github.com/hyz20/CWM)|
+|**2024-06-06 16:18:20**|**Multi-Agent Imitation Learning: Value is Easy, Regret is Hard**|Jingwu Tang et.al.|[2406.04219v1](http://arxiv.org/abs/2406.04219v1)|null|
+|**2024-06-05 10:33:04**|**The Harder You Try, The Harder You Fail: The KeyTrap Denial-of-Service   Algorithmic Complexity Attacks on DNSSEC**|Elias Heftrig et.al.|[2406.03133v1](http://arxiv.org/abs/2406.03133v1)|null|
+|**2024-06-04 16:56:51**|**Investigating the Online Recruitment and Selection Journey of Novice   Software Engineers: Anti-patterns and Recommendations**|Miguel Setúbal et.al.|[2406.02487v1](http://arxiv.org/abs/2406.02487v1)|null|
+|**2024-06-03 18:02:13**|**Session Context Embedding for Intent Understanding in Product Search**|Navid Mehrdad et.al.|[2406.01702v1](http://arxiv.org/abs/2406.01702v1)|null|
+|**2024-06-03 14:54:36**|**How to design research-aligned DEI interventions in physics**|Angela Johnson et.al.|[2406.01390v1](http://arxiv.org/abs/2406.01390v1)|null|
+|**2024-06-03 13:44:38**|**Structural Interventions and the Dynamics of Inequality**|Aurora Zhang et.al.|[2406.01323v1](http://arxiv.org/abs/2406.01323v1)|null|
+|**2024-06-02 16:07:49**|**COVID-19: post infection implications in different age groups,   mechanism, diagnosis, effective prevention, treatment, and recommendations**|Muhammad Akmal Raheem et.al.|[2406.01636v1](http://arxiv.org/abs/2406.01636v1)|null|
+|**2024-06-01 23:07:05**|**Data Quality in Edge Machine Learning: A State-of-the-Art Survey**|Mohammed Djameleddine Belgoumri et.al.|[2406.02600v1](http://arxiv.org/abs/2406.02600v1)|null|
+|**2024-05-30 18:09:27**|**AI Diffusion to Low-Middle Income Countries; A Blessing or a Curse?**|Rafael Andersson Lipcsey et.al.|[2405.20399v2](http://arxiv.org/abs/2405.20399v2)|null|
+|**2024-05-30 17:07:07**|**Conversational Agents to Facilitate Deliberation on Harmful Content in   WhatsApp Groups**|Dhruv Agarwal et.al.|[2405.20254v1](http://arxiv.org/abs/2405.20254v1)|null|
+|**2024-05-27 19:12:53**|**Advancing Cultural Inclusivity: Optimizing Embedding Spaces for Balanced   Music Recommendations**|Armin Moradi et.al.|[2405.17607v1](http://arxiv.org/abs/2405.17607v1)|null|
+|**2024-05-26 18:18:11**|**"I Searched for a Religious Song in Amharic and Got Sexual Content   Instead": Investigating Online Harm in Low-Resourced Languages on YouTube**|Hellina Hailu Nigatu et.al.|[2405.16656v1](http://arxiv.org/abs/2405.16656v1)|null|
+|**2024-05-23 14:24:11**|**Is the EJRA proportionate and therefore justified? A critical review of   the EJRA policy at Cambridge**|Oliver Linton et.al.|[2405.14611v3](http://arxiv.org/abs/2405.14611v3)|null|
+|**2024-05-20 18:04:02**|**HST/JWST Long-Term Monitoring Working Group Final Report**|Saurabh W. Jha et.al.|[2405.12297v2](http://arxiv.org/abs/2405.12297v2)|null|
+|**2024-05-17 21:06:34**|**What metrics of participation balance predict outcomes of collaborative   learning with a robot?**|Yuya Asano et.al.|[2405.11092v1](http://arxiv.org/abs/2405.11092v1)|null|
+|**2024-05-15 23:25:19**|**A survey on fairness of large language models in e-commerce: progress,   application, and challenge**|Qingyang Ren et.al.|[2405.13025v1](http://arxiv.org/abs/2405.13025v1)|null|
+|**2024-05-15 20:28:15**|**Benchmark Early and Red Team Often: A Framework for Assessing and   Managing Dual-Use Hazards of AI Foundation Models**|Anthony M. Barrett et.al.|[2405.10986v1](http://arxiv.org/abs/2405.10986v1)|null|
+|**2024-05-14 13:22:33**|**Treatment Effect Estimation for User Interest Exploration on Recommender   Systems**|Jiaju Chen et.al.|[2405.08582v1](http://arxiv.org/abs/2405.08582v1)|[link](https://github.com/Jiaju-Chen/UpliftRec)|
+|**2024-05-08 17:24:24**|**myAURA: Personalized health library for epilepsy management via   knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229v2](http://arxiv.org/abs/2405.05229v2)|[link](https://github.com/cns-iu/myaura)|
+|**2024-05-07 17:38:39**|**New allometric models for the USA create a step-change in forest carbon   estimation, modeling, and mapping**|Lucas K. Johnson et.al.|[2405.04507v1](http://arxiv.org/abs/2405.04507v1)|null|
+|**2024-05-05 18:50:35**|**Distributed Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2405.03031v1](http://arxiv.org/abs/2405.03031v1)|null|
+|**2024-05-03 16:25:27**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in   Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219v1](http://arxiv.org/abs/2405.02219v1)|null|
+|**2024-05-03 12:30:27**|**Ah, that's the great puzzle: On the Quest of a Holistic Understanding of   the Harms of Recommender Systems on Children**|Robin Ungruh et.al.|[2405.02050v1](http://arxiv.org/abs/2405.02050v1)|null|

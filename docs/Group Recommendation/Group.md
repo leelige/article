@@ -2,6 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-17 00:53:19**|**Conversational Agents as Catalysts for Critical Thinking: Challenging   Design Fixation in Group Design**|Soohwan Lee et.al.|[2406.11125v1](http://arxiv.org/abs/2406.11125v1)|null|
+|**2024-06-15 14:02:26**|**Exploring the Impact of AI-generated Image Tools on Professional and   Non-professional Users in the Art and Design Fields**|Yuying Tang et.al.|[2406.10640v1](http://arxiv.org/abs/2406.10640v1)|null|
+|**2024-06-15 02:29:37**|**Design-based variance estimation of the Hájek effect estimator in   stratified and clustered experiments**|Xinhe Wang et.al.|[2406.10473v1](http://arxiv.org/abs/2406.10473v1)|null|
+|**2024-06-15 01:14:23**|**Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns,   Mitigation Strategies, and Design Implications**|Yaman Yu et.al.|[2406.10461v1](http://arxiv.org/abs/2406.10461v1)|null|
 |**2024-06-13 09:44:04**|**Beyond Recommendations: From Backward to Forward AI Support of Pilots'   Decision-Making Process**|Zelun Tony Zhang et.al.|[2406.08959v1](http://arxiv.org/abs/2406.08959v1)|null|
 |**2024-06-12 14:57:30**|**A minimalistic and general weighted averaging method for inconsistent   data**|Martino Trassinelli et.al.|[2406.08293v1](http://arxiv.org/abs/2406.08293v1)|null|
 |**2024-06-12 06:55:35**|**Counteracting Duration Bias in Video Recommendation via Counterfactual   Watch Time**|Haiyuan Zhao et.al.|[2406.07932v2](http://arxiv.org/abs/2406.07932v2)|[link](https://github.com/hyz20/CWM)|
@@ -28,7 +32,3 @@
 |**2024-05-05 18:50:35**|**Distributed Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2405.03031v1](http://arxiv.org/abs/2405.03031v1)|null|
 |**2024-05-03 16:25:27**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in   Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219v1](http://arxiv.org/abs/2405.02219v1)|null|
 |**2024-05-03 12:30:27**|**Ah, that's the great puzzle: On the Quest of a Holistic Understanding of   the Harms of Recommender Systems on Children**|Robin Ungruh et.al.|[2405.02050v1](http://arxiv.org/abs/2405.02050v1)|null|
-|**2024-05-03 05:03:07**|**Robust Explainable Recommendation**|Sairamvinay Vijayaraghavan et.al.|[2405.01855v1](http://arxiv.org/abs/2405.01855v1)|null|
-|**2024-04-29 19:52:09**|**Longitudinal Mammogram Risk Prediction**|Batuhan K. Karaman et.al.|[2404.19083v1](http://arxiv.org/abs/2404.19083v1)|[link](https://github.com/batuhankmkaraman/lomar)|
-|**2024-04-29 12:14:54**|**Citizen Science in European Research Infrastructures**|Stephen Serjeant et.al.|[2404.18635v1](http://arxiv.org/abs/2404.18635v1)|null|
-|**2024-04-28 00:57:17**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040v1](http://arxiv.org/abs/2404.18040v1)|[link](https://github.com/outfit-net/outfit-commpatibility)|
