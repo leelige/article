@@ -21,7 +21,7 @@
 |**2024-06-17 17:49:19**|**GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs   with Large Language Models**|Yi Fang et.al.|[2406.11945v1](http://arxiv.org/abs/2406.11945v1)|null|
 |**2024-06-17 16:38:19**|**Graph Neural Re-Ranking via Corpus Graph**|Andrea Giuseppe Di Francesco et.al.|[2406.11720v1](http://arxiv.org/abs/2406.11720v1)|null|
 |**2024-06-17 16:33:23**|**Using graph neural networks to reconstruct charged pion showers in the   CMS High Granularity Calorimeter**|A. Alpana et.al.|[2406.11937v1](http://arxiv.org/abs/2406.11937v1)|null|
-|**2024-06-17 16:32:57**|**Scalable Expressiveness through Preprocessed Graph Perturbations**|Danial Saber et.al.|[2406.11714v1](http://arxiv.org/abs/2406.11714v1)|null|
+|**2024-06-17 16:32:57**|**Scalable Expressiveness through Preprocessed Graph Perturbations**|Danial Saber et.al.|[2406.11714v1](http://arxiv.org/abs/2406.11714v1)|[link](https://github.com/Danial-sb/SE2P)|
 |**2024-06-17 14:10:45**|**Harmonizing Feature Maps: A Graph Convolutional Approach for Enhancing   Adversarial Robustness**|Kejia Zhang et.al.|[2406.11576v1](http://arxiv.org/abs/2406.11576v1)|null|
 |**2024-06-17 13:23:33**|**Operator Deep Smoothing for Implied Volatility**|Lukas Gonon et.al.|[2406.11520v1](http://arxiv.org/abs/2406.11520v1)|null|
 |**2024-06-17 13:05:00**|**On the Feasibility of Fidelity$^-$ for Graph Pruning**|Yong-Min Shin et.al.|[2406.11504v1](http://arxiv.org/abs/2406.11504v1)|null|
