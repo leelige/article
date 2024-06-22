@@ -13,7 +13,7 @@
 |**2024-06-15 02:29:37**|**Design-based variance estimation of the Hájek effect estimator in   stratified and clustered experiments**|Xinhe Wang et.al.|[2406.10473v2](http://arxiv.org/abs/2406.10473v2)|null|
 |**2024-06-15 01:14:23**|**Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns,   Mitigation Strategies, and Design Implications**|Yaman Yu et.al.|[2406.10461v1](http://arxiv.org/abs/2406.10461v1)|null|
 |**2024-06-13 09:44:04**|**Beyond Recommendations: From Backward to Forward AI Support of Pilots'   Decision-Making Process**|Zelun Tony Zhang et.al.|[2406.08959v1](http://arxiv.org/abs/2406.08959v1)|null|
-|**2024-06-12 14:57:30**|**A minimalistic and general weighted averaging method for inconsistent   data**|Martino Trassinelli et.al.|[2406.08293v1](http://arxiv.org/abs/2406.08293v1)|null|
+|**2024-06-12 14:57:30**|**A minimalistic and general weighted averaging method for inconsistent   data**|Martino Trassinelli et.al.|[2406.08293v1](http://arxiv.org/abs/2406.08293v1)|[link](https://github.com/martinit18/bayesian_average)|
 |**2024-06-12 06:55:35**|**Counteracting Duration Bias in Video Recommendation via Counterfactual   Watch Time**|Haiyuan Zhao et.al.|[2406.07932v2](http://arxiv.org/abs/2406.07932v2)|[link](https://github.com/hyz20/CWM)|
 |**2024-06-06 16:18:20**|**Multi-Agent Imitation Learning: Value is Easy, Regret is Hard**|Jingwu Tang et.al.|[2406.04219v1](http://arxiv.org/abs/2406.04219v1)|null|
 |**2024-06-05 10:33:04**|**The Harder You Try, The Harder You Fail: The KeyTrap Denial-of-Service   Algorithmic Complexity Attacks on DNSSEC**|Elias Heftrig et.al.|[2406.03133v1](http://arxiv.org/abs/2406.03133v1)|null|
