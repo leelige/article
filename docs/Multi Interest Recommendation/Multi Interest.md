@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-25 17:31:04**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in   E-commerce Search**|Pai Peng et.al.|[2406.17745v1](http://arxiv.org/abs/2406.17745v1)|null|
 |**2024-06-18 11:59:36**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529v1](http://arxiv.org/abs/2406.12529v1)|null|
 |**2024-06-05 14:33:51**|**Decision synthesis in monetary policy**|Tony Chernis et.al.|[2406.03321v1](http://arxiv.org/abs/2406.03321v1)|null|
 |**2024-06-05 09:57:58**|**CAPRI-FAIR: Integration of Multi-sided Fairness in Contextual POI   Recommendation Framework**|Francis Zac dela Cruz et.al.|[2406.03109v1](http://arxiv.org/abs/2406.03109v1)|[link](https://github.com/cruiseresearchgroup/CAPRI-FAIR)|
@@ -31,4 +32,3 @@
 |**2024-02-22 09:32:34**|**Ensure Timeliness and Accuracy: A Novel Sliding Window Data Stream   Paradigm for Live Streaming Recommendation**|Fengqi Liang et.al.|[2402.14399v1](http://arxiv.org/abs/2402.14399v1)|null|
 |**2024-02-21 03:14:37**|**Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards   Improving User Interest Diversity Fairness**|Yuying Zhao et.al.|[2402.13495v1](http://arxiv.org/abs/2402.13495v1)|null|
 |**2024-02-20 05:57:01**|**BMLP: Behavior-aware MLP for Heterogeneous Sequential Recommendation**|Weixin Li et.al.|[2402.12733v1](http://arxiv.org/abs/2402.12733v1)|null|
-|**2024-02-17 00:10:33**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139v1](http://arxiv.org/abs/2402.11139v1)|null|
