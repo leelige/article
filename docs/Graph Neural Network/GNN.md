@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-26 15:18:49**|**Graph Neural Networks for Emulation of Finite-Element Ice Dynamics in   Greenland and Antarctic Ice Sheets**|Younghyun Koo et.al.|[2406.18423v1](http://arxiv.org/abs/2406.18423v1)|null|
+|**2024-06-26 14:21:21**|**KAGNNs: Kolmogorov-Arnold Networks meet Graph Learning**|Roman Bresson et.al.|[2406.18380v1](http://arxiv.org/abs/2406.18380v1)|null|
+|**2024-06-26 13:54:59**|**Kolmogorov-Arnold Graph Neural Networks**|Gianluca De Carlo et.al.|[2406.18354v1](http://arxiv.org/abs/2406.18354v1)|null|
+|**2024-06-26 13:42:11**|**EmT: A Novel Transformer for Generalized Cross-subject EEG Emotion   Recognition**|Yi Ding et.al.|[2406.18345v1](http://arxiv.org/abs/2406.18345v1)|[link](https://github.com/yi-ding-cs/emt)|
+|**2024-06-26 12:54:41**|**ContactNet: Geometric-Based Deep Learning Model for Predicting   Protein-Protein Interactions**|Matan Halfon et.al.|[2406.18314v1](http://arxiv.org/abs/2406.18314v1)|null|
+|**2024-06-25 22:12:22**|**Symmetry classes of classical stochastic processes**|Lucas Sá et.al.|[2406.17955v1](http://arxiv.org/abs/2406.17955v1)|null|
+|**2024-06-25 19:07:21**|**Efficient and Effective Implicit Dynamic Graph Neural Network**|Yongjian Zhong et.al.|[2406.17894v1](http://arxiv.org/abs/2406.17894v1)|null|
 |**2024-06-25 16:56:17**|**Compositional Models for Estimating Causal Effects**|Purva Pruthi et.al.|[2406.17714v1](http://arxiv.org/abs/2406.17714v1)|null|
 |**2024-06-25 14:57:38**|**Distributed Training of Large Graph Neural Networks with Variable   Communication Rates**|Juan Cervino et.al.|[2406.17611v1](http://arxiv.org/abs/2406.17611v1)|null|
 |**2024-06-25 07:42:30**|**Joint Admission Control and Resource Allocation of Virtual Network   Embedding via Hierarchical Deep Reinforcement Learning**|Tianfu Wang et.al.|[2406.17334v1](http://arxiv.org/abs/2406.17334v1)|[link](https://github.com/geminilight/hrl-acra)|
@@ -25,10 +32,3 @@
 |**2024-06-23 21:05:31**|**Trace is the New AutoDiff -- Unlocking Efficient Optimization of   Computational Workflows**|Ching-An Cheng et.al.|[2406.16218v1](http://arxiv.org/abs/2406.16218v1)|null|
 |**2024-06-22 15:24:08**|**NeuralSCF: Neural network self-consistent fields for density functional   theory**|Feitong Song et.al.|[2406.15873v1](http://arxiv.org/abs/2406.15873v1)|null|
 |**2024-06-22 13:57:09**|**Next Level Message-Passing with Hierarchical Support Graphs**|Carlos Vonessen et.al.|[2406.15852v1](http://arxiv.org/abs/2406.15852v1)|[link](https://github.com/carlosinator/support-graphs)|
-|**2024-06-22 11:17:50**|**Automatic AI Model Selection for Wireless Systems: Online Learning via   Digital Twinning**|Qiushuo Hou et.al.|[2406.15819v1](http://arxiv.org/abs/2406.15819v1)|null|
-|**2024-06-22 09:40:34**|**Synergistic Deep Graph Clustering Network**|Benyu Wu et.al.|[2406.15797v1](http://arxiv.org/abs/2406.15797v1)|null|
-|**2024-06-22 02:47:24**|**Large Language Models for Link Stealing Attacks Against Graph Neural   Networks**|Faqian Guan et.al.|[2406.16963v1](http://arxiv.org/abs/2406.16963v1)|null|
-|**2024-06-21 20:34:08**|**Root Cause Analysis of Anomalies in 5G RAN Using Graph Neural Network   and Transformer**|Antor Hasan et.al.|[2406.15638v1](http://arxiv.org/abs/2406.15638v1)|null|
-|**2024-06-21 18:22:11**|**Sketch-GNN: Scalable Graph Neural Networks with Sublinear Training   Complexity**|Mucong Ding et.al.|[2406.15575v1](http://arxiv.org/abs/2406.15575v1)|null|
-|**2024-06-21 16:41:02**|**Learning Spatio-Temporal Patterns of Polar Ice Layers With   Physics-Informed Graph Neural Network**|Zesheng Liu et.al.|[2406.15299v1](http://arxiv.org/abs/2406.15299v1)|null|
-|**2024-06-21 16:27:17**|**FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event   Detection**|Austin Coursey et.al.|[2406.15283v2](http://arxiv.org/abs/2406.15283v2)|null|
