@@ -26,9 +26,9 @@
 |**2024-06-03 18:02:13**|**Session Context Embedding for Intent Understanding in Product Search**|Navid Mehrdad et.al.|[2406.01702v1](http://arxiv.org/abs/2406.01702v1)|null|
 |**2024-06-03 14:54:36**|**How to design research-aligned DEI interventions in physics**|Angela Johnson et.al.|[2406.01390v1](http://arxiv.org/abs/2406.01390v1)|null|
 |**2024-06-03 13:44:38**|**Structural Interventions and the Dynamics of Inequality**|Aurora Zhang et.al.|[2406.01323v1](http://arxiv.org/abs/2406.01323v1)|null|
+|**2024-06-02 21:40:13**|**Scaffold Splits Overestimate Virtual Screening Performance**|Qianrong Guo et.al.|[2406.00873v2](http://arxiv.org/abs/2406.00873v2)|[link](https://github.com/ScaffoldSplitsOverestimateVS)|
 |**2024-06-02 16:07:49**|**COVID-19: post infection implications in different age groups,   mechanism, diagnosis, effective prevention, treatment, and recommendations**|Muhammad Akmal Raheem et.al.|[2406.01636v1](http://arxiv.org/abs/2406.01636v1)|null|
 |**2024-06-01 23:07:05**|**Data Quality in Edge Machine Learning: A State-of-the-Art Survey**|Mohammed Djameleddine Belgoumri et.al.|[2406.02600v1](http://arxiv.org/abs/2406.02600v1)|null|
 |**2024-05-30 18:09:27**|**AI Diffusion to Low-Middle Income Countries; A Blessing or a Curse?**|Rafael Andersson Lipcsey et.al.|[2405.20399v2](http://arxiv.org/abs/2405.20399v2)|null|
 |**2024-05-30 17:07:07**|**Conversational Agents to Facilitate Deliberation on Harmful Content in   WhatsApp Groups**|Dhruv Agarwal et.al.|[2405.20254v1](http://arxiv.org/abs/2405.20254v1)|null|
 |**2024-05-27 19:12:53**|**Advancing Cultural Inclusivity: Optimizing Embedding Spaces for Balanced   Music Recommendations**|Armin Moradi et.al.|[2405.17607v1](http://arxiv.org/abs/2405.17607v1)|null|
-|**2024-05-26 18:18:11**|**"I Searched for a Religious Song in Amharic and Got Sexual Content   Instead": Investigating Online Harm in Low-Resourced Languages on YouTube**|Hellina Hailu Nigatu et.al.|[2405.16656v1](http://arxiv.org/abs/2405.16656v1)|null|

@@ -2,7 +2,7 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-28 14:17:16**|**GRACE: Graph-Regularized Attentive Convolutional Entanglement with   Laplacian Smoothing for Robust DeepFake Video Detection**|Chih-Chung Hsu et.al.|[2406.19941v1](http://arxiv.org/abs/2406.19941v1)|[link](https://github.com/ming053l/grace)|
+|**2024-06-28 14:17:16**|**GRACE: Graph-Regularized Attentive Convolutional Entanglement with   Laplacian Smoothing for Robust DeepFake Video Detection**|Chih-Chung Hsu et.al.|[2406.19941v2](http://arxiv.org/abs/2406.19941v2)|[link](https://github.com/ming053l/grace)|
 |**2024-06-28 13:36:08**|**Automated Deep Neural Network Inference Partitioning for Distributed   Embedded Systems**|Fabian Kreß et.al.|[2406.19913v1](http://arxiv.org/abs/2406.19913v1)|null|
 |**2024-06-28 10:13:50**|**Modeling the Real World with High-Density Visual Particle Dynamics**|William F. Whitney et.al.|[2406.19800v1](http://arxiv.org/abs/2406.19800v1)|null|
 |**2024-06-28 08:48:14**|**SPIRONet: Spatial-Frequency Learning and Topological Channel Interaction   Network for Vessel Segmentation**|De-Xing Huang et.al.|[2406.19749v1](http://arxiv.org/abs/2406.19749v1)|[link](https://github.com/dxhuang-casia/spironet)|
@@ -14,8 +14,8 @@
 |**2024-06-27 15:10:56**|**Improving the Expressiveness of $K$-hop Message-Passing GNNs by   Injecting Contextualized Substructure Information**|Tianjun Yao et.al.|[2406.19244v1](http://arxiv.org/abs/2406.19244v1)|[link](https://github.com/tianyao-aka/expresive_k_hop_gnns)|
 |**2024-06-27 13:17:33**|**Heterogeneous Causal Metapath Graph Neural Network for   Gene-Microbe-Disease Association Prediction**|Kexin Zhang et.al.|[2406.19156v1](http://arxiv.org/abs/2406.19156v1)|null|
 |**2024-06-27 09:43:53**|**Constructing and Analyzing Different Density Graphs for Path   Extrapolation in Wikipedia**|Martha Sotiroudi et.al.|[2406.19039v1](http://arxiv.org/abs/2406.19039v1)|null|
-|**2024-06-27 08:26:20**|**Amplify Graph Learning for Recommendation via Sparsity Completion**|Peng Yuan et.al.|[2406.18984v1](http://arxiv.org/abs/2406.18984v1)|[link](https://github.com/yp8976/AGL_SC)|
-|**2024-06-27 07:08:28**|**Federated Graph Semantic and Structural Learning**|Wenke Huang et.al.|[2406.18937v1](http://arxiv.org/abs/2406.18937v1)|[link](https://github.com/guanchengwan/fgssl)|
+|**2024-06-27 08:26:20**|**Amplify Graph Learning for Recommendation via Sparsity Completion**|Peng Yuan et.al.|[2406.18984v2](http://arxiv.org/abs/2406.18984v2)|[link](https://github.com/yp8976/AGL_SC)|
+|**2024-06-27 07:08:28**|**Federated Graph Semantic and Structural Learning**|Wenke Huang et.al.|[2406.18937v2](http://arxiv.org/abs/2406.18937v2)|[link](https://github.com/guanchengwan/fgssl)|
 |**2024-06-27 04:25:35**|**Anomalous random networks**|Hong Zhang et.al.|[2406.18882v1](http://arxiv.org/abs/2406.18882v1)|null|
 |**2024-06-27 02:48:33**|**What Is Missing In Homophily? Disentangling Graph Homophily For Graph   Neural Networks**|Yilun Zheng et.al.|[2406.18854v1](http://arxiv.org/abs/2406.18854v1)|[link](https://github.com/zylmozart/disentangle_graphhom)|
 |**2024-06-27 02:32:46**|**Retain, Blend, and Exchange: A Quality-aware Spatial-Stereo Fusion   Approach for Event Stream Recognition**|Lan Chen et.al.|[2406.18845v1](http://arxiv.org/abs/2406.18845v1)|[link](https://github.com/event-ahu/efv_event_classification)|
@@ -23,7 +23,7 @@
 |**2024-06-26 21:17:37**|**Conformalized Link Prediction on Graph Neural Networks**|Tianyi Zhao et.al.|[2406.18763v1](http://arxiv.org/abs/2406.18763v1)|null|
 |**2024-06-26 17:59:54**|**Improving Hyperparameter Optimization with Checkpointed Model Weights**|Nikhil Mehta et.al.|[2406.18630v1](http://arxiv.org/abs/2406.18630v1)|[link](https://github.com/nvlabs/forecasting-model-search)|
 |**2024-06-26 15:18:49**|**Graph Neural Networks for Emulation of Finite-Element Ice Dynamics in   Greenland and Antarctic Ice Sheets**|Younghyun Koo et.al.|[2406.18423v1](http://arxiv.org/abs/2406.18423v1)|null|
-|**2024-06-26 14:21:21**|**KAGNNs: Kolmogorov-Arnold Networks meet Graph Learning**|Roman Bresson et.al.|[2406.18380v1](http://arxiv.org/abs/2406.18380v1)|[link](https://github.com/RomanBresson/KAGNN)|
+|**2024-06-26 14:21:21**|**KAGNNs: Kolmogorov-Arnold Networks meet Graph Learning**|Roman Bresson et.al.|[2406.18380v2](http://arxiv.org/abs/2406.18380v2)|[link](https://github.com/RomanBresson/KAGNN)|
 |**2024-06-26 13:54:59**|**Kolmogorov-Arnold Graph Neural Networks**|Gianluca De Carlo et.al.|[2406.18354v1](http://arxiv.org/abs/2406.18354v1)|null|
 |**2024-06-26 13:42:11**|**EmT: A Novel Transformer for Generalized Cross-subject EEG Emotion   Recognition**|Yi Ding et.al.|[2406.18345v1](http://arxiv.org/abs/2406.18345v1)|[link](https://github.com/yi-ding-cs/emt)|
 |**2024-06-26 12:54:41**|**ContactNet: Geometric-Based Deep Learning Model for Predicting   Protein-Protein Interactions**|Matan Halfon et.al.|[2406.18314v1](http://arxiv.org/abs/2406.18314v1)|null|
