@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-29 16:02:52**|**Development of an interactive GUI using MATLAB for the detection of type   and stage of Breast Tumor**|Poulmi Banerjee et.al.|[2407.00480v1](http://arxiv.org/abs/2407.00480v1)|null|
 |**2024-06-27 17:21:00**|**Estimation of Shannon differential entropy: An extensive comparative   review**|Mbanefo S. Madukaife et.al.|[2406.19432v1](http://arxiv.org/abs/2406.19432v1)|null|
 |**2024-06-24 16:03:57**|**Addressing Polarization and Unfairness in Performative Prediction**|Kun Jin et.al.|[2406.16756v1](http://arxiv.org/abs/2406.16756v1)|null|
 |**2024-06-24 10:02:24**|**Cross-domain Transfer of Valence Preferences via a Meta-optimization   Approach**|Chuang Zhao et.al.|[2406.16494v1](http://arxiv.org/abs/2406.16494v1)|[link](https://github.com/data-designer/maprec)|
@@ -31,4 +32,3 @@
 |**2024-06-01 23:07:05**|**Data Quality in Edge Machine Learning: A State-of-the-Art Survey**|Mohammed Djameleddine Belgoumri et.al.|[2406.02600v1](http://arxiv.org/abs/2406.02600v1)|null|
 |**2024-05-30 18:09:27**|**AI Diffusion to Low-Middle Income Countries; A Blessing or a Curse?**|Rafael Andersson Lipcsey et.al.|[2405.20399v2](http://arxiv.org/abs/2405.20399v2)|null|
 |**2024-05-30 17:07:07**|**Conversational Agents to Facilitate Deliberation on Harmful Content in   WhatsApp Groups**|Dhruv Agarwal et.al.|[2405.20254v1](http://arxiv.org/abs/2405.20254v1)|null|
-|**2024-05-27 19:12:53**|**Advancing Cultural Inclusivity: Optimizing Embedding Spaces for Balanced   Music Recommendations**|Armin Moradi et.al.|[2405.17607v1](http://arxiv.org/abs/2405.17607v1)|null|
