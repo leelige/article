@@ -1,41 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2024-07-03 16:10:36 Asia/Shanghai
-
-## Group Recommendation
-
-### Group
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-29 16:02:52**|**Development of an interactive GUI using MATLAB for the detection of type   and stage of Breast Tumor**|Poulmi Banerjee et.al.|[2407.00480v1](http://arxiv.org/abs/2407.00480v1)|null|
-|**2024-06-27 17:21:00**|**Estimation of Shannon differential entropy: An extensive comparative   review**|Mbanefo S. Madukaife et.al.|[2406.19432v1](http://arxiv.org/abs/2406.19432v1)|null|
-|**2024-06-24 16:03:57**|**Addressing Polarization and Unfairness in Performative Prediction**|Kun Jin et.al.|[2406.16756v1](http://arxiv.org/abs/2406.16756v1)|null|
-|**2024-06-24 10:02:24**|**Cross-domain Transfer of Valence Preferences via a Meta-optimization   Approach**|Chuang Zhao et.al.|[2406.16494v1](http://arxiv.org/abs/2406.16494v1)|[link](https://github.com/data-designer/maprec)|
-|**2024-06-23 08:24:08**|**Evaluating D-MERIT of Partial-annotation on Information Retrieval**|Royi Rassin et.al.|[2406.16048v1](http://arxiv.org/abs/2406.16048v1)|null|
-|**2024-06-21 15:50:10**|**V-RECS, a Low-Cost LLM4VIS Recommender with Explanations, Captioning and   Suggestions**|Luca Podo et.al.|[2406.15259v1](http://arxiv.org/abs/2406.15259v1)|null|
-|**2024-06-20 08:12:11**|**Personalized Music Recommendation with a Heterogeneity-aware Deep   Bayesian Network**|Erkang Jing et.al.|[2406.14090v1](http://arxiv.org/abs/2406.14090v1)|[link](https://github.com/jingrk/hdbn)|
-|**2024-06-19 17:14:41**|**BEACON: Balancing Convenience and Nutrition in Meals With Long-Term   Group Recommendations and Reasoning on Multimodal Recipes**|Vansh Nagpal et.al.|[2406.13714v1](http://arxiv.org/abs/2406.13714v1)|null|
-|**2024-06-19 07:54:45**|**Spectral analysis of three hot subdwarf stars: EC 11481-2303, Feige 110,   and PG 0909+276: A critical oscillator-strength evaluation for iron-group   elements**|A. Landstorfer et.al.|[2406.13307v1](http://arxiv.org/abs/2406.13307v1)|[link](https://github.com/iaatue/LandstorferPhD)|
-|**2024-06-19 05:50:15**|**Enhancing Collaborative Semantics of Language Model-Driven   Recommendations via Graph-Aware Learning**|Zhong Guan et.al.|[2406.13235v1](http://arxiv.org/abs/2406.13235v1)|null|
-|**2024-06-18 07:42:22**|**Certified ML Object Detection for Surveillance Missions**|Mohammed Belcaid et.al.|[2406.12362v1](http://arxiv.org/abs/2406.12362v1)|null|
-|**2024-06-18 03:11:43**|**"You Gotta be a Doctor, Lin": An Investigation of Name-Based Bias of   Large Language Models in Employment Recommendations**|Huy Nghiem et.al.|[2406.12232v1](http://arxiv.org/abs/2406.12232v1)|null|
-|**2024-06-17 00:53:19**|**Conversational Agents as Catalysts for Critical Thinking: Challenging   Design Fixation in Group Design**|Soohwan Lee et.al.|[2406.11125v1](http://arxiv.org/abs/2406.11125v1)|null|
-|**2024-06-15 14:02:26**|**Exploring the Impact of AI-generated Image Tools on Professional and   Non-professional Users in the Art and Design Fields**|Yuying Tang et.al.|[2406.10640v1](http://arxiv.org/abs/2406.10640v1)|null|
-|**2024-06-15 02:29:37**|**Design-based variance estimation of the Hájek effect estimator in   stratified and clustered experiments**|Xinhe Wang et.al.|[2406.10473v2](http://arxiv.org/abs/2406.10473v2)|null|
-|**2024-06-15 01:14:23**|**Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns,   Mitigation Strategies, and Design Implications**|Yaman Yu et.al.|[2406.10461v1](http://arxiv.org/abs/2406.10461v1)|null|
-|**2024-06-13 09:44:04**|**Beyond Recommendations: From Backward to Forward AI Support of Pilots'   Decision-Making Process**|Zelun Tony Zhang et.al.|[2406.08959v1](http://arxiv.org/abs/2406.08959v1)|null|
-|**2024-06-12 14:57:30**|**A minimalistic and general weighted averaging method for inconsistent   data**|Martino Trassinelli et.al.|[2406.08293v1](http://arxiv.org/abs/2406.08293v1)|[link](https://github.com/martinit18/bayesian_average)|
-|**2024-06-12 06:55:35**|**Counteracting Duration Bias in Video Recommendation via Counterfactual   Watch Time**|Haiyuan Zhao et.al.|[2406.07932v2](http://arxiv.org/abs/2406.07932v2)|[link](https://github.com/hyz20/CWM)|
-|**2024-06-06 16:18:20**|**Multi-Agent Imitation Learning: Value is Easy, Regret is Hard**|Jingwu Tang et.al.|[2406.04219v2](http://arxiv.org/abs/2406.04219v2)|null|
-|**2024-06-05 10:33:04**|**The Harder You Try, The Harder You Fail: The KeyTrap Denial-of-Service   Algorithmic Complexity Attacks on DNSSEC**|Elias Heftrig et.al.|[2406.03133v1](http://arxiv.org/abs/2406.03133v1)|null|
-|**2024-06-04 16:56:51**|**Investigating the Online Recruitment and Selection Journey of Novice   Software Engineers: Anti-patterns and Recommendations**|Miguel Setúbal et.al.|[2406.02487v1](http://arxiv.org/abs/2406.02487v1)|null|
-|**2024-06-03 18:02:13**|**Session Context Embedding for Intent Understanding in Product Search**|Navid Mehrdad et.al.|[2406.01702v1](http://arxiv.org/abs/2406.01702v1)|null|
-|**2024-06-03 14:54:36**|**How to design research-aligned DEI interventions in physics**|Angela Johnson et.al.|[2406.01390v1](http://arxiv.org/abs/2406.01390v1)|null|
-|**2024-06-03 13:44:38**|**Structural Interventions and the Dynamics of Inequality**|Aurora Zhang et.al.|[2406.01323v1](http://arxiv.org/abs/2406.01323v1)|null|
-|**2024-06-02 21:40:13**|**Scaffold Splits Overestimate Virtual Screening Performance**|Qianrong Guo et.al.|[2406.00873v2](http://arxiv.org/abs/2406.00873v2)|[link](https://github.com/ScaffoldSplitsOverestimateVS)|
-|**2024-06-02 16:07:49**|**COVID-19: post infection implications in different age groups,   mechanism, diagnosis, effective prevention, treatment, and recommendations**|Muhammad Akmal Raheem et.al.|[2406.01636v1](http://arxiv.org/abs/2406.01636v1)|null|
-|**2024-06-01 23:07:05**|**Data Quality in Edge Machine Learning: A State-of-the-Art Survey**|Mohammed Djameleddine Belgoumri et.al.|[2406.02600v1](http://arxiv.org/abs/2406.02600v1)|null|
-|**2024-05-30 18:09:27**|**AI Diffusion to Low-Middle Income Countries; A Blessing or a Curse?**|Rafael Andersson Lipcsey et.al.|[2405.20399v2](http://arxiv.org/abs/2405.20399v2)|null|
-|**2024-05-30 17:07:07**|**Conversational Agents to Facilitate Deliberation on Harmful Content in   WhatsApp Groups**|Dhruv Agarwal et.al.|[2405.20254v1](http://arxiv.org/abs/2405.20254v1)|null|
+ 自动更新 @ 2024-07-04 16:09:42 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -73,11 +37,54 @@
 |**2024-02-22 09:32:34**|**Ensure Timeliness and Accuracy: A Novel Sliding Window Data Stream   Paradigm for Live Streaming Recommendation**|Fengqi Liang et.al.|[2402.14399v1](http://arxiv.org/abs/2402.14399v1)|null|
 |**2024-02-21 03:14:37**|**Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards   Improving User Interest Diversity Fairness**|Yuying Zhao et.al.|[2402.13495v1](http://arxiv.org/abs/2402.13495v1)|null|
 
+## Group Recommendation
+
+### Group
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-29 16:02:52**|**Development of an interactive GUI using MATLAB for the detection of type   and stage of Breast Tumor**|Poulmi Banerjee et.al.|[2407.00480v1](http://arxiv.org/abs/2407.00480v1)|null|
+|**2024-06-27 17:21:00**|**Estimation of Shannon differential entropy: An extensive comparative   review**|Mbanefo S. Madukaife et.al.|[2406.19432v1](http://arxiv.org/abs/2406.19432v1)|null|
+|**2024-06-24 16:03:57**|**Addressing Polarization and Unfairness in Performative Prediction**|Kun Jin et.al.|[2406.16756v1](http://arxiv.org/abs/2406.16756v1)|null|
+|**2024-06-24 10:02:24**|**Cross-domain Transfer of Valence Preferences via a Meta-optimization   Approach**|Chuang Zhao et.al.|[2406.16494v1](http://arxiv.org/abs/2406.16494v1)|[link](https://github.com/data-designer/maprec)|
+|**2024-06-23 08:24:08**|**Evaluating D-MERIT of Partial-annotation on Information Retrieval**|Royi Rassin et.al.|[2406.16048v1](http://arxiv.org/abs/2406.16048v1)|null|
+|**2024-06-21 15:50:10**|**V-RECS, a Low-Cost LLM4VIS Recommender with Explanations, Captioning and   Suggestions**|Luca Podo et.al.|[2406.15259v1](http://arxiv.org/abs/2406.15259v1)|null|
+|**2024-06-20 08:12:11**|**Personalized Music Recommendation with a Heterogeneity-aware Deep   Bayesian Network**|Erkang Jing et.al.|[2406.14090v1](http://arxiv.org/abs/2406.14090v1)|[link](https://github.com/jingrk/hdbn)|
+|**2024-06-19 17:14:41**|**BEACON: Balancing Convenience and Nutrition in Meals With Long-Term   Group Recommendations and Reasoning on Multimodal Recipes**|Vansh Nagpal et.al.|[2406.13714v1](http://arxiv.org/abs/2406.13714v1)|null|
+|**2024-06-19 07:54:45**|**Spectral analysis of three hot subdwarf stars: EC 11481-2303, Feige 110,   and PG 0909+276: A critical oscillator-strength evaluation for iron-group   elements**|A. Landstorfer et.al.|[2406.13307v1](http://arxiv.org/abs/2406.13307v1)|[link](https://github.com/iaatue/LandstorferPhD)|
+|**2024-06-19 05:50:15**|**Enhancing Collaborative Semantics of Language Model-Driven   Recommendations via Graph-Aware Learning**|Zhong Guan et.al.|[2406.13235v1](http://arxiv.org/abs/2406.13235v1)|null|
+|**2024-06-18 07:42:22**|**Certified ML Object Detection for Surveillance Missions**|Mohammed Belcaid et.al.|[2406.12362v1](http://arxiv.org/abs/2406.12362v1)|null|
+|**2024-06-18 03:11:43**|**"You Gotta be a Doctor, Lin": An Investigation of Name-Based Bias of   Large Language Models in Employment Recommendations**|Huy Nghiem et.al.|[2406.12232v1](http://arxiv.org/abs/2406.12232v1)|null|
+|**2024-06-17 00:53:19**|**Conversational Agents as Catalysts for Critical Thinking: Challenging   Design Fixation in Group Design**|Soohwan Lee et.al.|[2406.11125v1](http://arxiv.org/abs/2406.11125v1)|null|
+|**2024-06-15 14:02:26**|**Exploring the Impact of AI-generated Image Tools on Professional and   Non-professional Users in the Art and Design Fields**|Yuying Tang et.al.|[2406.10640v1](http://arxiv.org/abs/2406.10640v1)|null|
+|**2024-06-15 02:29:37**|**Design-based variance estimation of the Hájek effect estimator in   stratified and clustered experiments**|Xinhe Wang et.al.|[2406.10473v2](http://arxiv.org/abs/2406.10473v2)|null|
+|**2024-06-15 01:14:23**|**Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns,   Mitigation Strategies, and Design Implications**|Yaman Yu et.al.|[2406.10461v1](http://arxiv.org/abs/2406.10461v1)|null|
+|**2024-06-13 09:44:04**|**Beyond Recommendations: From Backward to Forward AI Support of Pilots'   Decision-Making Process**|Zelun Tony Zhang et.al.|[2406.08959v1](http://arxiv.org/abs/2406.08959v1)|null|
+|**2024-06-12 14:57:30**|**A minimalistic and general weighted averaging method for inconsistent   data**|Martino Trassinelli et.al.|[2406.08293v1](http://arxiv.org/abs/2406.08293v1)|[link](https://github.com/martinit18/bayesian_average)|
+|**2024-06-12 06:55:35**|**Counteracting Duration Bias in Video Recommendation via Counterfactual   Watch Time**|Haiyuan Zhao et.al.|[2406.07932v2](http://arxiv.org/abs/2406.07932v2)|[link](https://github.com/hyz20/CWM)|
+|**2024-06-06 16:18:20**|**Multi-Agent Imitation Learning: Value is Easy, Regret is Hard**|Jingwu Tang et.al.|[2406.04219v2](http://arxiv.org/abs/2406.04219v2)|null|
+|**2024-06-05 10:33:04**|**The Harder You Try, The Harder You Fail: The KeyTrap Denial-of-Service   Algorithmic Complexity Attacks on DNSSEC**|Elias Heftrig et.al.|[2406.03133v1](http://arxiv.org/abs/2406.03133v1)|null|
+|**2024-06-04 16:56:51**|**Investigating the Online Recruitment and Selection Journey of Novice   Software Engineers: Anti-patterns and Recommendations**|Miguel Setúbal et.al.|[2406.02487v1](http://arxiv.org/abs/2406.02487v1)|null|
+|**2024-06-03 18:02:13**|**Session Context Embedding for Intent Understanding in Product Search**|Navid Mehrdad et.al.|[2406.01702v1](http://arxiv.org/abs/2406.01702v1)|null|
+|**2024-06-03 14:54:36**|**How to design research-aligned DEI interventions in physics**|Angela Johnson et.al.|[2406.01390v1](http://arxiv.org/abs/2406.01390v1)|null|
+|**2024-06-03 13:44:38**|**Structural Interventions and the Dynamics of Inequality**|Aurora Zhang et.al.|[2406.01323v1](http://arxiv.org/abs/2406.01323v1)|null|
+|**2024-06-02 21:40:13**|**Scaffold Splits Overestimate Virtual Screening Performance**|Qianrong Guo et.al.|[2406.00873v2](http://arxiv.org/abs/2406.00873v2)|[link](https://github.com/ScaffoldSplitsOverestimateVS)|
+|**2024-06-02 16:07:49**|**COVID-19: post infection implications in different age groups,   mechanism, diagnosis, effective prevention, treatment, and recommendations**|Muhammad Akmal Raheem et.al.|[2406.01636v1](http://arxiv.org/abs/2406.01636v1)|null|
+|**2024-06-01 23:07:05**|**Data Quality in Edge Machine Learning: A State-of-the-Art Survey**|Mohammed Djameleddine Belgoumri et.al.|[2406.02600v1](http://arxiv.org/abs/2406.02600v1)|null|
+|**2024-05-30 18:09:27**|**AI Diffusion to Low-Middle Income Countries; A Blessing or a Curse?**|Rafael Andersson Lipcsey et.al.|[2405.20399v2](http://arxiv.org/abs/2405.20399v2)|null|
+|**2024-05-30 17:07:07**|**Conversational Agents to Facilitate Deliberation on Harmful Content in   WhatsApp Groups**|Dhruv Agarwal et.al.|[2405.20254v1](http://arxiv.org/abs/2405.20254v1)|null|
+
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-03 17:04:47**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for   UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280v1](http://arxiv.org/abs/2407.03280v1)|null|
+|**2024-07-03 15:45:48**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental   Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v1](http://arxiv.org/abs/2407.03217v1)|null|
+|**2024-07-03 14:07:41**|**Foundations and Frontiers of Graph Learning Theory**|Yu Huang et.al.|[2407.03125v1](http://arxiv.org/abs/2407.03125v1)|null|
+|**2024-07-03 11:28:09**|**Identification of Device Dependencies Using Link Prediction**|Lukáš Sadlek et.al.|[2407.03019v1](http://arxiv.org/abs/2407.03019v1)|null|
+|**2024-07-03 02:40:39**|**SF-GNN: Self Filter for Message Lossless Propagation in Deep Graph   Neural Network**|Yushan Zhu et.al.|[2407.02762v1](http://arxiv.org/abs/2407.02762v1)|null|
+|**2024-07-02 20:29:23**|**Spectral Graph Reasoning Network for Hyperspectral Image Classification**|Huiling Wang et.al.|[2407.02647v1](http://arxiv.org/abs/2407.02647v1)|null|
+|**2024-07-02 20:11:09**|**Holistically-Nested Structure-Aware Graph Neural Network for Road   Extraction**|Tinghuai Wang et.al.|[2407.02639v1](http://arxiv.org/abs/2407.02639v1)|null|
 |**2024-07-02 17:08:38**|**On the Robustness of Graph Reduction Against GNN Backdoor**|Yuxuan Zhu et.al.|[2407.02431v1](http://arxiv.org/abs/2407.02431v1)|null|
 |**2024-07-02 15:27:33**|**GCF: Graph Convolutional Networks for Facial Expression Recognition**|Hozaifa Kassab et.al.|[2407.02361v1](http://arxiv.org/abs/2407.02361v1)|null|
 |**2024-07-02 11:46:07**|**Structure-Aware Consensus Network on Graphs with Few Labeled Nodes**|Shuaike Xu et.al.|[2407.02188v1](http://arxiv.org/abs/2407.02188v1)|[link](https://github.com/kunzhan/SACN)|
@@ -101,10 +108,3 @@
 |**2024-06-30 16:13:13**|**Self-consistent Deep Geometric Learning for Heterogeneous Multi-source   Spatial Point Data Prediction**|Dazhou Yu et.al.|[2407.00748v1](http://arxiv.org/abs/2407.00748v1)|[link](https://github.com/dyu62/multisource-spatial-point-prediction)|
 |**2024-06-30 14:20:12**|**Heterogeneous Graph Contrastive Learning with Spectral Augmentation**|Jing Zhang et.al.|[2407.00708v1](http://arxiv.org/abs/2407.00708v1)|null|
 |**2024-06-30 13:37:06**|**Graph in Graph Neural Network**|Jiongshu Wang et.al.|[2407.00696v1](http://arxiv.org/abs/2407.00696v1)|[link](https://github.com/wangjs96/graph-in-graph-neural-network)|
-|**2024-06-30 10:53:40**|**Commute Graph Neural Networks**|Wei Zhuo et.al.|[2407.01635v1](http://arxiv.org/abs/2407.01635v1)|null|
-|**2024-06-30 06:58:04**|**ESGNN: Towards Equivariant Scene Graph Neural Network for 3D Scene   Understanding**|Quang P. M. Pham et.al.|[2407.00609v1](http://arxiv.org/abs/2407.00609v1)|null|
-|**2024-06-29 17:11:09**|**Graph Neural Networks Gone Hogwild**|Olga Solodova et.al.|[2407.00494v1](http://arxiv.org/abs/2407.00494v1)|null|
-|**2024-06-29 04:29:03**|**UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale   Combinatorial Optimization Problems**|Zhi Zheng et.al.|[2407.00312v1](http://arxiv.org/abs/2407.00312v1)|null|
-|**2024-06-28 21:50:37**|**Improving Locality in Sparse and Dense Matrix Multiplications**|Mohammad Mahdi Salehi Dezfuli et.al.|[2407.00243v1](http://arxiv.org/abs/2407.00243v1)|null|
-|**2024-06-28 18:38:30**|**Top-philic Machine Learning**|Rahool Kumar Barman et.al.|[2407.00183v2](http://arxiv.org/abs/2407.00183v2)|null|
-|**2024-06-28 15:53:36**|**Graph Neural Networks for Gut Microbiome Metaomic data: A preliminary   work**|Christopher Irwin et.al.|[2407.00142v1](http://arxiv.org/abs/2407.00142v1)|null|

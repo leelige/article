@@ -2,6 +2,13 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-03 17:04:47**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for   UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280v1](http://arxiv.org/abs/2407.03280v1)|null|
+|**2024-07-03 15:45:48**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental   Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v1](http://arxiv.org/abs/2407.03217v1)|null|
+|**2024-07-03 14:07:41**|**Foundations and Frontiers of Graph Learning Theory**|Yu Huang et.al.|[2407.03125v1](http://arxiv.org/abs/2407.03125v1)|null|
+|**2024-07-03 11:28:09**|**Identification of Device Dependencies Using Link Prediction**|Lukáš Sadlek et.al.|[2407.03019v1](http://arxiv.org/abs/2407.03019v1)|null|
+|**2024-07-03 02:40:39**|**SF-GNN: Self Filter for Message Lossless Propagation in Deep Graph   Neural Network**|Yushan Zhu et.al.|[2407.02762v1](http://arxiv.org/abs/2407.02762v1)|null|
+|**2024-07-02 20:29:23**|**Spectral Graph Reasoning Network for Hyperspectral Image Classification**|Huiling Wang et.al.|[2407.02647v1](http://arxiv.org/abs/2407.02647v1)|null|
+|**2024-07-02 20:11:09**|**Holistically-Nested Structure-Aware Graph Neural Network for Road   Extraction**|Tinghuai Wang et.al.|[2407.02639v1](http://arxiv.org/abs/2407.02639v1)|null|
 |**2024-07-02 17:08:38**|**On the Robustness of Graph Reduction Against GNN Backdoor**|Yuxuan Zhu et.al.|[2407.02431v1](http://arxiv.org/abs/2407.02431v1)|null|
 |**2024-07-02 15:27:33**|**GCF: Graph Convolutional Networks for Facial Expression Recognition**|Hozaifa Kassab et.al.|[2407.02361v1](http://arxiv.org/abs/2407.02361v1)|null|
 |**2024-07-02 11:46:07**|**Structure-Aware Consensus Network on Graphs with Few Labeled Nodes**|Shuaike Xu et.al.|[2407.02188v1](http://arxiv.org/abs/2407.02188v1)|[link](https://github.com/kunzhan/SACN)|
@@ -25,10 +32,3 @@
 |**2024-06-30 16:13:13**|**Self-consistent Deep Geometric Learning for Heterogeneous Multi-source   Spatial Point Data Prediction**|Dazhou Yu et.al.|[2407.00748v1](http://arxiv.org/abs/2407.00748v1)|[link](https://github.com/dyu62/multisource-spatial-point-prediction)|
 |**2024-06-30 14:20:12**|**Heterogeneous Graph Contrastive Learning with Spectral Augmentation**|Jing Zhang et.al.|[2407.00708v1](http://arxiv.org/abs/2407.00708v1)|null|
 |**2024-06-30 13:37:06**|**Graph in Graph Neural Network**|Jiongshu Wang et.al.|[2407.00696v1](http://arxiv.org/abs/2407.00696v1)|[link](https://github.com/wangjs96/graph-in-graph-neural-network)|
-|**2024-06-30 10:53:40**|**Commute Graph Neural Networks**|Wei Zhuo et.al.|[2407.01635v1](http://arxiv.org/abs/2407.01635v1)|null|
-|**2024-06-30 06:58:04**|**ESGNN: Towards Equivariant Scene Graph Neural Network for 3D Scene   Understanding**|Quang P. M. Pham et.al.|[2407.00609v1](http://arxiv.org/abs/2407.00609v1)|null|
-|**2024-06-29 17:11:09**|**Graph Neural Networks Gone Hogwild**|Olga Solodova et.al.|[2407.00494v1](http://arxiv.org/abs/2407.00494v1)|null|
-|**2024-06-29 04:29:03**|**UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale   Combinatorial Optimization Problems**|Zhi Zheng et.al.|[2407.00312v1](http://arxiv.org/abs/2407.00312v1)|null|
-|**2024-06-28 21:50:37**|**Improving Locality in Sparse and Dense Matrix Multiplications**|Mohammad Mahdi Salehi Dezfuli et.al.|[2407.00243v1](http://arxiv.org/abs/2407.00243v1)|null|
-|**2024-06-28 18:38:30**|**Top-philic Machine Learning**|Rahool Kumar Barman et.al.|[2407.00183v2](http://arxiv.org/abs/2407.00183v2)|null|
-|**2024-06-28 15:53:36**|**Graph Neural Networks for Gut Microbiome Metaomic data: A preliminary   work**|Christopher Irwin et.al.|[2407.00142v1](http://arxiv.org/abs/2407.00142v1)|null|
