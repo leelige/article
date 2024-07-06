@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-03 17:04:47**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for   UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280v1](http://arxiv.org/abs/2407.03280v1)|null|
-|**2024-07-03 15:45:48**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental   Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v1](http://arxiv.org/abs/2407.03217v1)|null|
+|**2024-07-03 15:45:48**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental   Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v1](http://arxiv.org/abs/2407.03217v1)|[link](https://github.com/wayfear/brainnetworktransformer)|
 |**2024-07-03 14:07:41**|**Foundations and Frontiers of Graph Learning Theory**|Yu Huang et.al.|[2407.03125v1](http://arxiv.org/abs/2407.03125v1)|null|
 |**2024-07-03 11:28:09**|**Identification of Device Dependencies Using Link Prediction**|Lukáš Sadlek et.al.|[2407.03019v1](http://arxiv.org/abs/2407.03019v1)|null|
 |**2024-07-03 02:40:39**|**SF-GNN: Self Filter for Message Lossless Propagation in Deep Graph   Neural Network**|Yushan Zhu et.al.|[2407.02762v1](http://arxiv.org/abs/2407.02762v1)|null|
@@ -12,7 +12,7 @@
 |**2024-07-02 17:08:38**|**On the Robustness of Graph Reduction Against GNN Backdoor**|Yuxuan Zhu et.al.|[2407.02431v1](http://arxiv.org/abs/2407.02431v1)|null|
 |**2024-07-02 15:27:33**|**GCF: Graph Convolutional Networks for Facial Expression Recognition**|Hozaifa Kassab et.al.|[2407.02361v1](http://arxiv.org/abs/2407.02361v1)|null|
 |**2024-07-02 11:46:07**|**Structure-Aware Consensus Network on Graphs with Few Labeled Nodes**|Shuaike Xu et.al.|[2407.02188v1](http://arxiv.org/abs/2407.02188v1)|[link](https://github.com/kunzhan/SACN)|
-|**2024-07-02 10:37:54**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph   Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143v1](http://arxiv.org/abs/2407.02143v1)|null|
+|**2024-07-02 10:37:54**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph   Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143v1](http://arxiv.org/abs/2407.02143v1)|[link](https://github.com/ChunjingXiao/CAGAD)|
 |**2024-07-02 09:07:19**|**CGAP: Urban Region Representation Learning with Coarsened Graph   Attention Pooling**|Zhuo Xu et.al.|[2407.02074v1](http://arxiv.org/abs/2407.02074v1)|null|
 |**2024-07-02 08:38:32**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised   Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057v1](http://arxiv.org/abs/2407.02057v1)|[link](https://github.com/yali-f/hc-glad)|
 |**2024-07-02 07:48:22**|**On the Expressive Power of Sparse Geometric MPNNs**|Yonatan Sverdlov et.al.|[2407.02025v1](http://arxiv.org/abs/2407.02025v1)|null|
