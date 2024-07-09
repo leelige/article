@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-08 16:57:03**|**Report on the NSF Workshop on Sustainable Computing for Sustainability   (NSF WSCS 2024)**|Roch Guérin et.al.|[2407.06119v1](http://arxiv.org/abs/2407.06119v1)|null|
+|**2024-07-06 21:47:55**|**Collective Upkeep**|Erik Madsen et.al.|[2407.05196v1](http://arxiv.org/abs/2407.05196v1)|null|
+|**2024-07-06 16:22:23**|**Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning   for Recommendations**|Linxin Guo et.al.|[2407.05126v1](http://arxiv.org/abs/2407.05126v1)|null|
 |**2024-07-04 12:18:42**|**How to Evaluate Games in Education: A Literature Review**|Giulio Barbero et.al.|[2407.03879v1](http://arxiv.org/abs/2407.03879v1)|null|
 |**2024-07-04 06:09:11**|**Heterogeneous Hypergraph Embedding for Recommendation Systems**|Darnbi Sakong et.al.|[2407.03665v1](http://arxiv.org/abs/2407.03665v1)|[link](https://github.com/viethungvu1998/KHGRec})|
 |**2024-07-03 09:05:03**|**Passenger Route and Departure Time Guidance under Disruptions in   Oversaturated Urban Rail Transit Networks**|Siyu Zhuo et.al.|[2407.03388v1](http://arxiv.org/abs/2407.03388v1)|null|
@@ -29,6 +32,3 @@
 |**2024-06-04 16:56:51**|**Investigating the Online Recruitment and Selection Journey of Novice   Software Engineers: Anti-patterns and Recommendations**|Miguel Setúbal et.al.|[2406.02487v1](http://arxiv.org/abs/2406.02487v1)|null|
 |**2024-06-03 18:02:13**|**Session Context Embedding for Intent Understanding in Product Search**|Navid Mehrdad et.al.|[2406.01702v1](http://arxiv.org/abs/2406.01702v1)|null|
 |**2024-06-03 14:54:36**|**How to design research-aligned DEI interventions in physics**|Angela Johnson et.al.|[2406.01390v1](http://arxiv.org/abs/2406.01390v1)|null|
-|**2024-06-03 13:44:38**|**Structural Interventions and the Dynamics of Inequality**|Aurora Zhang et.al.|[2406.01323v1](http://arxiv.org/abs/2406.01323v1)|null|
-|**2024-06-02 21:40:13**|**Scaffold Splits Overestimate Virtual Screening Performance**|Qianrong Guo et.al.|[2406.00873v2](http://arxiv.org/abs/2406.00873v2)|[link](https://github.com/ScaffoldSplitsOverestimateVS)|
-|**2024-06-02 16:07:49**|**COVID-19: post infection implications in different age groups,   mechanism, diagnosis, effective prevention, treatment, and recommendations**|Muhammad Akmal Raheem et.al.|[2406.01636v1](http://arxiv.org/abs/2406.01636v1)|null|
