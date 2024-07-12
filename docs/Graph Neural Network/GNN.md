@@ -7,8 +7,8 @@
 |**2024-07-10 15:06:59**|**Prediction of Frequency-Dependent Optical Spectrum for Solid Materials:   A Multi-Output & Multi-Fidelity Machine Learning Approach**|Akram Ibrahim et.al.|[2407.07736v1](http://arxiv.org/abs/2407.07736v1)|null|
 |**2024-07-10 14:44:25**|**Deep-Graph-Sprints: Accelerated Representation Learning in   Continuous-Time Dynamic Graphs**|Ahmad Naser Eddin et.al.|[2407.07712v1](http://arxiv.org/abs/2407.07712v1)|null|
 |**2024-07-10 13:20:47**|**Explaining Graph Neural Networks for Node Similarity on Graphs**|Daniel Daza et.al.|[2407.07639v1](http://arxiv.org/abs/2407.07639v1)|null|
-|**2024-07-10 10:23:17**|**Graph Permutation Entropy: Extensions to the Continuous Case, A step   towards Ordinal Deep Learning, and More**|Om Roy et.al.|[2407.07524v1](http://arxiv.org/abs/2407.07524v1)|null|
-|**2024-07-10 08:20:47**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v1](http://arxiv.org/abs/2407.07457v1)|[link](https://github.com/nineabyss/glbench)|
+|**2024-07-10 10:23:17**|**Graph Permutation Entropy: Extensions to the Continuous Case, A step   towards Ordinal Deep Learning, and More**|Om Roy et.al.|[2407.07524v2](http://arxiv.org/abs/2407.07524v2)|null|
+|**2024-07-10 08:20:47**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v2](http://arxiv.org/abs/2407.07457v2)|[link](https://github.com/nineabyss/glbench)|
 |**2024-07-10 04:31:50**|**SGM-PINN: Sampling Graphical Models for Faster Training of   Physics-Informed Neural Networks**|John Anticev et.al.|[2407.07358v1](http://arxiv.org/abs/2407.07358v1)|null|
 |**2024-07-09 19:44:59**|**Graph Reinforcement Learning for Exploring BSM Model Spaces**|George N. Wojcik et.al.|[2407.07203v1](http://arxiv.org/abs/2407.07203v1)|null|
 |**2024-07-09 17:00:39**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to   Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038v1](http://arxiv.org/abs/2407.07038v1)|null|

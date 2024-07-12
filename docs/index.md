@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2024-07-11 16:09:38 Asia/Shanghai
+ 自动更新 @ 2024-07-12 16:10:32 Asia/Shanghai
 
 ## Group Recommendation
 
@@ -7,7 +7,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-09 00:08:51**|**Increased risk of type I errors for detecting heterogeneity of treatment   effects in cluster-randomized trials using mixed-effect models**|Noorie Hyun et.al.|[2407.06466v1](http://arxiv.org/abs/2407.06466v1)|null|
-|**2024-07-08 16:57:03**|**Report on the NSF Workshop on Sustainable Computing for Sustainability   (NSF WSCS 2024)**|Roch Guérin et.al.|[2407.06119v1](http://arxiv.org/abs/2407.06119v1)|null|
+|**2024-07-08 16:57:03**|**Report on the NSF Workshop on Sustainable Computing for Sustainability   (NSF WSCS 2024)**|Roch Guérin et.al.|[2407.06119v2](http://arxiv.org/abs/2407.06119v2)|null|
 |**2024-07-06 21:47:55**|**Collective Upkeep**|Erik Madsen et.al.|[2407.05196v1](http://arxiv.org/abs/2407.05196v1)|null|
 |**2024-07-06 16:22:23**|**Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning   for Recommendations**|Linxin Guo et.al.|[2407.05126v1](http://arxiv.org/abs/2407.05126v1)|[link](https://github.com/foodfaust/CDR)|
 |**2024-07-04 12:18:42**|**How to Evaluate Games in Education: A Literature Review**|Giulio Barbero et.al.|[2407.03879v1](http://arxiv.org/abs/2407.03879v1)|null|
@@ -35,7 +35,7 @@
 |**2024-06-06 16:18:20**|**Multi-Agent Imitation Learning: Value is Easy, Regret is Hard**|Jingwu Tang et.al.|[2406.04219v2](http://arxiv.org/abs/2406.04219v2)|null|
 |**2024-06-05 10:33:04**|**The Harder You Try, The Harder You Fail: The KeyTrap Denial-of-Service   Algorithmic Complexity Attacks on DNSSEC**|Elias Heftrig et.al.|[2406.03133v1](http://arxiv.org/abs/2406.03133v1)|null|
 |**2024-06-04 16:56:51**|**Investigating the Online Recruitment and Selection Journey of Novice   Software Engineers: Anti-patterns and Recommendations**|Miguel Setúbal et.al.|[2406.02487v1](http://arxiv.org/abs/2406.02487v1)|null|
-|**2024-06-03 18:02:13**|**Session Context Embedding for Intent Understanding in Product Search**|Navid Mehrdad et.al.|[2406.01702v1](http://arxiv.org/abs/2406.01702v1)|null|
+|**2024-06-03 18:02:13**|**Session Context Embedding for Intent Understanding in Product Search**|Navid Mehrdad et.al.|[2406.01702v2](http://arxiv.org/abs/2406.01702v2)|null|
 
 ## Graph Neural Network
 
@@ -47,8 +47,8 @@
 |**2024-07-10 15:06:59**|**Prediction of Frequency-Dependent Optical Spectrum for Solid Materials:   A Multi-Output & Multi-Fidelity Machine Learning Approach**|Akram Ibrahim et.al.|[2407.07736v1](http://arxiv.org/abs/2407.07736v1)|null|
 |**2024-07-10 14:44:25**|**Deep-Graph-Sprints: Accelerated Representation Learning in   Continuous-Time Dynamic Graphs**|Ahmad Naser Eddin et.al.|[2407.07712v1](http://arxiv.org/abs/2407.07712v1)|null|
 |**2024-07-10 13:20:47**|**Explaining Graph Neural Networks for Node Similarity on Graphs**|Daniel Daza et.al.|[2407.07639v1](http://arxiv.org/abs/2407.07639v1)|null|
-|**2024-07-10 10:23:17**|**Graph Permutation Entropy: Extensions to the Continuous Case, A step   towards Ordinal Deep Learning, and More**|Om Roy et.al.|[2407.07524v1](http://arxiv.org/abs/2407.07524v1)|null|
-|**2024-07-10 08:20:47**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v1](http://arxiv.org/abs/2407.07457v1)|[link](https://github.com/nineabyss/glbench)|
+|**2024-07-10 10:23:17**|**Graph Permutation Entropy: Extensions to the Continuous Case, A step   towards Ordinal Deep Learning, and More**|Om Roy et.al.|[2407.07524v2](http://arxiv.org/abs/2407.07524v2)|null|
+|**2024-07-10 08:20:47**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v2](http://arxiv.org/abs/2407.07457v2)|[link](https://github.com/nineabyss/glbench)|
 |**2024-07-10 04:31:50**|**SGM-PINN: Sampling Graphical Models for Faster Training of   Physics-Informed Neural Networks**|John Anticev et.al.|[2407.07358v1](http://arxiv.org/abs/2407.07358v1)|null|
 |**2024-07-09 19:44:59**|**Graph Reinforcement Learning for Exploring BSM Model Spaces**|George N. Wojcik et.al.|[2407.07203v1](http://arxiv.org/abs/2407.07203v1)|null|
 |**2024-07-09 17:00:39**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to   Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038v1](http://arxiv.org/abs/2407.07038v1)|null|
