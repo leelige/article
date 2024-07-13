@@ -12,7 +12,7 @@
 |**2024-07-10 04:31:50**|**SGM-PINN: Sampling Graphical Models for Faster Training of   Physics-Informed Neural Networks**|John Anticev et.al.|[2407.07358v1](http://arxiv.org/abs/2407.07358v1)|null|
 |**2024-07-09 19:44:59**|**Graph Reinforcement Learning for Exploring BSM Model Spaces**|George N. Wojcik et.al.|[2407.07203v1](http://arxiv.org/abs/2407.07203v1)|null|
 |**2024-07-09 17:00:39**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to   Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038v1](http://arxiv.org/abs/2407.07038v1)|null|
-|**2024-07-09 16:12:44**|**Changepoint Detection in Highly-Attributed Dynamic Graphs**|Emiliano Penaloza et.al.|[2407.06998v1](http://arxiv.org/abs/2407.06998v1)|null|
+|**2024-07-09 16:12:44**|**Changepoint Detection in Highly-Attributed Dynamic Graphs**|Emiliano Penaloza et.al.|[2407.06998v1](http://arxiv.org/abs/2407.06998v1)|[link](https://github.com/Emilianopp/ChangesHighlyAttributedGraphs)|
 |**2024-07-09 16:01:43**|**Limiting Over-Smoothing and Over-Squashing of Graph Message Passing by   Deep Scattering Transforms**|Yuanhong Jiang et.al.|[2407.06988v1](http://arxiv.org/abs/2407.06988v1)|null|
 |**2024-07-09 10:42:19**|**Modularity aided consistent attributed graph clustering via coarsening**|Samarth Bhatia et.al.|[2407.07128v1](http://arxiv.org/abs/2407.07128v1)|null|
 |**2024-07-09 09:07:18**|**Deep-Motion-Net: GNN-based volumetric organ shape reconstruction from   single-view 2D projections**|Isuru Wijesinghe et.al.|[2407.06692v1](http://arxiv.org/abs/2407.06692v1)|null|
