@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-11 17:56:03**|**Topological Generalization Bounds for Discrete-Time Stochastic   Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723v1](http://arxiv.org/abs/2407.08723v1)|[link](https://github.com/rorondre/TDAGeneralization)|
+|**2024-07-11 14:00:53**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in   LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v1](http://arxiv.org/abs/2407.08516v1)|null|
+|**2024-07-11 13:16:02**|**Learning Localization of Body and Finger Animation Skeleton Joints on   Three-Dimensional Models of Human Bodies**|Stefan Novaković et.al.|[2407.08484v1](http://arxiv.org/abs/2407.08484v1)|[link](https://github.com/sznov/joint-localization)|
+|**2024-07-11 13:13:24**|**Robust Generalization of Graph Neural Networks for Carrier Scheduling**|Daniel F. Perez-Ramirez et.al.|[2407.08479v1](http://arxiv.org/abs/2407.08479v1)|null|
+|**2024-07-11 12:58:07**|**Graph Expansions of Deep Neural Networks and their Universal Scaling   Limits**|Nicola Muca Cirone et.al.|[2407.08459v1](http://arxiv.org/abs/2407.08459v1)|null|
+|**2024-07-11 09:04:12**|**Improving Molecular Modeling with Geometric GNNs: an Empirical Study**|Ali Ramlaoui et.al.|[2407.08313v1](http://arxiv.org/abs/2407.08313v1)|null|
+|**2024-07-11 07:19:23**|**HRRPGraphNet: A Graph Neural Network Based Approach for HRRP Radar   Target Recognition**|Lingfeng Chen et.al.|[2407.08236v1](http://arxiv.org/abs/2407.08236v1)|null|
+|**2024-07-10 21:54:12**|**TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks**|Yezi Liu et.al.|[2407.08064v1](http://arxiv.org/abs/2407.08064v1)|[link](https://github.com/brandones/graphpca)|
 |**2024-07-10 17:57:04**|**AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic   Manipulation**|Kaifeng Zhang et.al.|[2407.07889v1](http://arxiv.org/abs/2407.07889v1)|null|
 |**2024-07-10 16:50:59**|**Estimating the stability number of a random graph using convolutional   neural networks**|Randy Davila et.al.|[2407.07827v1](http://arxiv.org/abs/2407.07827v1)|null|
 |**2024-07-10 15:06:59**|**Prediction of Frequency-Dependent Optical Spectrum for Solid Materials:   A Multi-Output & Multi-Fidelity Machine Learning Approach**|Akram Ibrahim et.al.|[2407.07736v1](http://arxiv.org/abs/2407.07736v1)|null|
@@ -24,11 +32,3 @@
 |**2024-07-08 16:48:26**|**Enhancing the Prediction of Glass Dynamics by Incorporating the   Direction of Deviation from Equilibrium Positions**|Xiao Jiang et.al.|[2407.06111v2](http://arxiv.org/abs/2407.06111v2)|null|
 |**2024-07-08 13:32:01**|**Graph-Boosted Attentive Network for Semantic Body Parsing**|Tinghuai Wang et.al.|[2407.05924v1](http://arxiv.org/abs/2407.05924v1)|null|
 |**2024-07-08 10:53:49**|**Graph Reasoning Networks**|Markus Zopf et.al.|[2407.05816v1](http://arxiv.org/abs/2407.05816v1)|null|
-|**2024-07-08 09:34:22**|**Structural Generalization in Autonomous Cyber Incident Response with   Message-Passing Neural Networks and Reinforcement Learning**|Jakob Nyberg et.al.|[2407.05775v1](http://arxiv.org/abs/2407.05775v1)|[link](https://github.com/kasanari/incident-response-rl-gnn)|
-|**2024-07-08 07:28:24**|**Fine-Grained Multi-View Hand Reconstruction Using Inverse Rendering**|Qijun Gan et.al.|[2407.05680v2](http://arxiv.org/abs/2407.05680v2)|[link](https://github.com/agnjason/fmhr)|
-|**2024-07-08 06:21:56**|**Graph Attention with Random Rewiring**|Tongzhou Liao et.al.|[2407.05649v1](http://arxiv.org/abs/2407.05649v1)|null|
-|**2024-07-08 01:58:48**|**MEEG and AT-DGNN: Advancing EEG Emotion Recognition with Music and Graph   Learning**|Minghao Xiao et.al.|[2407.05550v1](http://arxiv.org/abs/2407.05550v1)|[link](https://github.com/xmh1011/AT-DGNN})|
-|**2024-07-07 10:23:21**|**PICA: Physics-Integrated Clothed Avatar**|Bo Peng et.al.|[2407.05324v1](http://arxiv.org/abs/2407.05324v1)|null|
-|**2024-07-07 10:13:41**|**Vulnerability-Hunter: An Adaptive Feature Perception Attention Network   for Smart Contract Vulnerabilities**|Yizhou Chen et.al.|[2407.05318v1](http://arxiv.org/abs/2407.05318v1)|null|
-|**2024-07-06 23:07:59**|**Leveraging Persistent Homology Features for Accurate Defect Formation   Energy Predictions via Graph Neural Networks**|Zhenyao Fang et.al.|[2407.05204v1](http://arxiv.org/abs/2407.05204v1)|null|
-|**2024-07-06 21:57:23**|**A Generalized Transformer-based Radio Link Failure Prediction Framework   in 5G RANs**|Kazi Hasan et.al.|[2407.05197v1](http://arxiv.org/abs/2407.05197v1)|null|
