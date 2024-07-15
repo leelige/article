@@ -2,6 +2,18 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-12 17:27:43**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441v1](http://arxiv.org/abs/2407.09441v1)|null|
+|**2024-07-12 17:09:47**|**A Perspective on Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434v1](http://arxiv.org/abs/2407.09434v1)|null|
+|**2024-07-12 16:03:58**|**The Effectiveness of Curvature-Based Rewiring and the Role of   Hyperparameters in GNNs Revisited**|Floriano Tori et.al.|[2407.09381v1](http://arxiv.org/abs/2407.09381v1)|null|
+|**2024-07-12 15:56:33**|**Graph Neural Network Causal Explanation via Neural Causal Models**|Arman Behnam et.al.|[2407.09378v1](http://arxiv.org/abs/2407.09378v1)|[link](https://github.com/armanbehnam/cxgnn)|
+|**2024-07-12 13:21:35**|**GNN with Model-based RL for Multi-agent Systems**|Hanxiao Chen et.al.|[2407.09249v1](http://arxiv.org/abs/2407.09249v1)|null|
+|**2024-07-12 12:20:39**|**Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding   Learning**|Yunjie He et.al.|[2407.09212v1](http://arxiv.org/abs/2407.09212v1)|null|
+|**2024-07-12 11:12:49**|**Conformal Inductive Graph Neural Networks**|Soroush H. Zargarbashi et.al.|[2407.09173v1](http://arxiv.org/abs/2407.09173v1)|null|
+|**2024-07-12 03:32:13**|**SlideGCD: Slide-based Graph Collaborative Training with Knowledge   Distillation for Whole Slide Image Classification**|Tong Shu et.al.|[2407.08968v1](http://arxiv.org/abs/2407.08968v1)|[link](https://github.com/HFUT-miaLab/SlideGCD)|
+|**2024-07-12 03:21:57**|**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for   Few-shot Hierarchical Text Classification**|Ke Ji et.al.|[2407.08959v1](http://arxiv.org/abs/2407.08959v1)|null|
+|**2024-07-12 00:57:36**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic   Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907v1](http://arxiv.org/abs/2407.08907v1)|null|
+|**2024-07-11 22:14:57**|**TractGraphFormer: Anatomically Informed Hybrid Graph CNN-Transformer   Network for Classification from Diffusion MRI Tractography**|Yuqian Chen et.al.|[2407.08883v1](http://arxiv.org/abs/2407.08883v1)|null|
+|**2024-07-11 18:13:38**|**Deep Inverse Design for High-Level Synthesis**|Ping Chang et.al.|[2407.08797v1](http://arxiv.org/abs/2407.08797v1)|null|
 |**2024-07-11 17:56:03**|**Topological Generalization Bounds for Discrete-Time Stochastic   Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723v1](http://arxiv.org/abs/2407.08723v1)|[link](https://github.com/rorondre/TDAGeneralization)|
 |**2024-07-11 14:00:53**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in   LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v1](http://arxiv.org/abs/2407.08516v1)|null|
 |**2024-07-11 13:16:02**|**Learning Localization of Body and Finger Animation Skeleton Joints on   Three-Dimensional Models of Human Bodies**|Stefan Novaković et.al.|[2407.08484v1](http://arxiv.org/abs/2407.08484v1)|[link](https://github.com/sznov/joint-localization)|
@@ -20,15 +32,3 @@
 |**2024-07-10 04:31:50**|**SGM-PINN: Sampling Graphical Models for Faster Training of   Physics-Informed Neural Networks**|John Anticev et.al.|[2407.07358v1](http://arxiv.org/abs/2407.07358v1)|null|
 |**2024-07-09 19:44:59**|**Graph Reinforcement Learning for Exploring BSM Model Spaces**|George N. Wojcik et.al.|[2407.07203v1](http://arxiv.org/abs/2407.07203v1)|null|
 |**2024-07-09 17:00:39**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to   Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038v1](http://arxiv.org/abs/2407.07038v1)|null|
-|**2024-07-09 16:12:44**|**Changepoint Detection in Highly-Attributed Dynamic Graphs**|Emiliano Penaloza et.al.|[2407.06998v1](http://arxiv.org/abs/2407.06998v1)|[link](https://github.com/Emilianopp/ChangesHighlyAttributedGraphs)|
-|**2024-07-09 16:01:43**|**Limiting Over-Smoothing and Over-Squashing of Graph Message Passing by   Deep Scattering Transforms**|Yuanhong Jiang et.al.|[2407.06988v1](http://arxiv.org/abs/2407.06988v1)|null|
-|**2024-07-09 10:42:19**|**Modularity aided consistent attributed graph clustering via coarsening**|Samarth Bhatia et.al.|[2407.07128v1](http://arxiv.org/abs/2407.07128v1)|null|
-|**2024-07-09 09:07:18**|**Deep-Motion-Net: GNN-based volumetric organ shape reconstruction from   single-view 2D projections**|Isuru Wijesinghe et.al.|[2407.06692v1](http://arxiv.org/abs/2407.06692v1)|null|
-|**2024-07-09 03:59:06**|**Advanced Financial Fraud Detection Using GNN-CL Model**|Yu Cheng et.al.|[2407.06529v1](http://arxiv.org/abs/2407.06529v1)|null|
-|**2024-07-09 03:14:11**|**Graph Neural Networks and Deep Reinforcement Learning Based Resource   Allocation for V2X Communications**|Maoxin Ji et.al.|[2407.06518v1](http://arxiv.org/abs/2407.06518v1)|[link](https://github.com/qiongwu86/gnn-and-drl-based-resource-allocation-for-v2x-communications)|
-|**2024-07-09 01:50:59**|**Using Graph Neural Networks and Frequency Domain Data for Automated   Operational Modal Analysis of Populations of Structures**|Xudong Jian et.al.|[2407.06492v1](http://arxiv.org/abs/2407.06492v1)|null|
-|**2024-07-09 01:39:34**|**T2MAT (text-to-materials): A universal framework for generating material   structures with goal properties from a single sentence**|Zhilong Song et.al.|[2407.06489v1](http://arxiv.org/abs/2407.06489v1)|null|
-|**2024-07-08 17:13:37**|**Physics-informed machine learning approaches to reactor antineutrino   detection**|Sophia Farrell et.al.|[2407.06139v1](http://arxiv.org/abs/2407.06139v1)|null|
-|**2024-07-08 16:48:26**|**Enhancing the Prediction of Glass Dynamics by Incorporating the   Direction of Deviation from Equilibrium Positions**|Xiao Jiang et.al.|[2407.06111v2](http://arxiv.org/abs/2407.06111v2)|null|
-|**2024-07-08 13:32:01**|**Graph-Boosted Attentive Network for Semantic Body Parsing**|Tinghuai Wang et.al.|[2407.05924v1](http://arxiv.org/abs/2407.05924v1)|null|
-|**2024-07-08 10:53:49**|**Graph Reasoning Networks**|Markus Zopf et.al.|[2407.05816v1](http://arxiv.org/abs/2407.05816v1)|null|
