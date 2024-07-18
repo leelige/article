@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-17 09:57:30**|**Interim report for the International Muon Collider Collaboration (IMCC)**|C. Accettura et.al.|[2407.12450v1](http://arxiv.org/abs/2407.12450v1)|null|
 |**2024-07-16 17:27:47**|**Generalized Difference-in-Differences**|Yiqing Xu et.al.|[2407.11937v1](http://arxiv.org/abs/2407.11937v1)|null|
 |**2024-07-16 13:50:19**|**Using shrinkage methods to estimate treatment effects in overlapping   subgroups in randomized clinical trials with a time-to-event endpoint**|Marcel Wolbers et.al.|[2407.11729v1](http://arxiv.org/abs/2407.11729v1)|null|
 |**2024-07-16 11:22:22**|**Improving Engagement and Efficacy of mHealth Micro-Interventions for   Stress Coping: an In-The-Wild Study**|Chaya Ben Yehuda et.al.|[2407.11612v1](http://arxiv.org/abs/2407.11612v1)|null|
@@ -31,4 +32,3 @@
 |**2024-06-15 14:02:26**|**Exploring the Impact of AI-generated Image Tools on Professional and   Non-professional Users in the Art and Design Fields**|Yuying Tang et.al.|[2406.10640v1](http://arxiv.org/abs/2406.10640v1)|null|
 |**2024-06-15 02:29:37**|**Design-based variance estimation of the Hájek effect estimator in   stratified and clustered experiments**|Xinhe Wang et.al.|[2406.10473v2](http://arxiv.org/abs/2406.10473v2)|null|
 |**2024-06-15 01:14:23**|**Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns,   Mitigation Strategies, and Design Implications**|Yaman Yu et.al.|[2406.10461v1](http://arxiv.org/abs/2406.10461v1)|null|
-|**2024-06-13 09:44:04**|**Beyond Recommendations: From Backward to Forward AI Support of Pilots'   Decision-Making Process**|Zelun Tony Zhang et.al.|[2406.08959v1](http://arxiv.org/abs/2406.08959v1)|null|

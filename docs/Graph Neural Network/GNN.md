@@ -2,6 +2,18 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-17 15:54:09**|**GraphMuse: A Library for Symbolic Music Graph Processing**|Emmanouil Karystinaios et.al.|[2407.12671v1](http://arxiv.org/abs/2407.12671v1)|[link](https://github.com/manoskary/graphmuse)|
+|**2024-07-17 15:16:23**|**Fusion Flow-enhanced Graph Pooling Residual Networks for Unmanned Aerial   Vehicles Surveillance in Day and Night Dual Visions**|Alam Noor et.al.|[2407.12647v1](http://arxiv.org/abs/2407.12647v1)|null|
+|**2024-07-17 14:44:47**|**A Brief Review of Quantum Machine Learning for Financial Services**|Mina Doosti et.al.|[2407.12618v1](http://arxiv.org/abs/2407.12618v1)|null|
+|**2024-07-17 11:37:34**|**Subequivariant Reinforcement Learning in 3D Multi-Entity Physical   Environments**|Runfa Chen et.al.|[2407.12505v1](http://arxiv.org/abs/2407.12505v1)|null|
+|**2024-07-17 11:05:31**|**SENC: Handling Self-collision in Neural Cloth Simulation**|Zhouyingcheng Liao et.al.|[2407.12479v1](http://arxiv.org/abs/2407.12479v1)|null|
+|**2024-07-17 09:01:38**|**SafePowerGraph: Safety-aware Evaluation of Graph Neural Networks for   Transmission Power Grids**|Salah Ghamizi et.al.|[2407.12421v1](http://arxiv.org/abs/2407.12421v1)|[link](https://github.com/yamizi/SafePowerGraphouropen-sourcerepository,acomprehensiveleaderboard,adatasetandmodelzooandexpectourframeworktostandardizeandadvanceresearchinthecriticalfieldofGNNforpowersystems)|
+|**2024-07-17 08:59:00**|**Dirac--Bianconi Graph Neural Networks -- Enabling Non-Diffusive   Long-Range Graph Predictions**|Christian Nauck et.al.|[2407.12419v1](http://arxiv.org/abs/2407.12419v1)|null|
+|**2024-07-17 01:59:06**|**Enhancing Polygonal Building Segmentation via Oriented Corners**|Mohammad Moein Sheikholeslami et.al.|[2407.12256v1](http://arxiv.org/abs/2407.12256v1)|null|
+|**2024-07-17 01:11:07**|**Urban Traffic Forecasting with Integrated Travel Time and Data   Availability in a Conformal Graph Neural Network Framework**|Mayur Patil et.al.|[2407.12238v1](http://arxiv.org/abs/2407.12238v1)|null|
+|**2024-07-16 19:45:34**|**Molecular Topological Profile (MOLTOP) -- Simple and Strong Baseline for   Molecular Graph Classification**|Jakub Adamczyk et.al.|[2407.12136v1](http://arxiv.org/abs/2407.12136v1)|null|
+|**2024-07-16 19:05:38**|**Graph Neural Network-Based Track Finding in the LHCb Vertex Detector**|Anthony Correia et.al.|[2407.12119v1](http://arxiv.org/abs/2407.12119v1)|null|
+|**2024-07-16 18:51:24**|**A Graph-based Adversarial Imitation Learning Framework for Reliable &   Realtime Fleet Scheduling in Urban Air Mobility**|Prithvi Poddar et.al.|[2407.12113v1](http://arxiv.org/abs/2407.12113v1)|null|
 |**2024-07-16 17:21:36**|**Tackling Oversmoothing in GNN via Graph Sparsification: A Truss-based   Approach**|Tanvir Hossain et.al.|[2407.11928v1](http://arxiv.org/abs/2407.11928v1)|null|
 |**2024-07-16 16:51:43**|**GraphFM: A Scalable Framework for Multi-Graph Pretraining**|Divyansha Lachi et.al.|[2407.11907v1](http://arxiv.org/abs/2407.11907v1)|null|
 |**2024-07-16 14:45:46**|**Characterizing and Understanding HGNN Training on GPUs**|Dengke Han et.al.|[2407.11790v1](http://arxiv.org/abs/2407.11790v1)|null|
@@ -20,15 +32,3 @@
 |**2024-07-15 19:45:34**|**Machine learning accelerated prediction of Ce-based ternary compounds   involving antagonistic pairs**|Weiyi Xia et.al.|[2407.11208v1](http://arxiv.org/abs/2407.11208v1)|null|
 |**2024-07-15 16:12:51**|**Provable Robustness of (Graph) Neural Networks Against Data Poisoning   and Backdoor Attacks**|Lukas Gosch et.al.|[2407.10867v1](http://arxiv.org/abs/2407.10867v1)|null|
 |**2024-07-15 15:59:39**|**Rotationally Invariant Latent Distances for Uncertainty Estimation of   Relaxed Energy Predictions by Graph Neural Network Potentials**|Joseph Musielewicz et.al.|[2407.10844v1](http://arxiv.org/abs/2407.10844v1)|null|
-|**2024-07-15 13:58:24**|**ConvBench: A Comprehensive Benchmark for 2D Convolution Primitive   Evaluation**|Lucas Alvarenga et.al.|[2407.10730v1](http://arxiv.org/abs/2407.10730v1)|null|
-|**2024-07-15 13:01:47**|**Probability Passing for Graph Neural Networks: Graph Structure and   Representations Joint Learning**|Ziyan Wang et.al.|[2407.10688v1](http://arxiv.org/abs/2407.10688v1)|null|
-|**2024-07-15 08:42:10**|**Automated Label Unification for Multi-Dataset Semantic Segmentation with   GNNs**|Rong Ma et.al.|[2407.10534v1](http://arxiv.org/abs/2407.10534v1)|null|
-|**2024-07-15 07:37:31**|**Improving Hyperbolic Representations via Gromov-Wasserstein   Regularization**|Yifei Yang et.al.|[2407.10495v1](http://arxiv.org/abs/2407.10495v1)|null|
-|**2024-07-15 06:15:16**|**Predicting doping strategies for ternary nickel-cobalt-manganese cathode   materials to enhance battery performance using graph neural networks**|Zirui Zhao et.al.|[2407.10458v1](http://arxiv.org/abs/2407.10458v1)|null|
-|**2024-07-15 04:16:20**|**Expanding the Scope: Inductive Knowledge Graph Reasoning with   Multi-Starting Progressive Propagation**|Zhoutian Shao et.al.|[2407.10430v1](http://arxiv.org/abs/2407.10430v1)|[link](https://github.com/nju-websoft/mstar)|
-|**2024-07-15 02:44:21**|**DeepGate3: Towards Scalable Circuit Representation Learning**|Zhengyuan Shi et.al.|[2407.11095v1](http://arxiv.org/abs/2407.11095v1)|null|
-|**2024-07-14 22:23:07**|**MambaForGCN: Enhancing Long-Range Dependency with State Space Model and   Kolmogorov-Arnold Networks for Aspect-Based Sentiment Analysis**|Adamu Lawan et.al.|[2407.10347v1](http://arxiv.org/abs/2407.10347v1)|null|
-|**2024-07-14 13:09:49**|**Toward Explainable Reasoning in 6G: A Proof of Concept Study on Radio   Resource Allocation**|Farhad Rezazadeh et.al.|[2407.10186v1](http://arxiv.org/abs/2407.10186v1)|null|
-|**2024-07-14 07:58:13**|**Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature   Interactions**|Yaqing Wang et.al.|[2407.10112v1](http://arxiv.org/abs/2407.10112v1)|null|
-|**2024-07-13 14:18:47**|**Empowering Graph Invariance Learning with Deep Spurious Infomax**|Tianjun Yao et.al.|[2407.11083v1](http://arxiv.org/abs/2407.11083v1)|[link](https://github.com/tianyao-aka/equad)|
-|**2024-07-13 13:40:06**|**Imbalanced Graph-Level Anomaly Detection via Counterfactual Augmentation   and Feature Learning**|Zitong Wang et.al.|[2407.11082v1](http://arxiv.org/abs/2407.11082v1)|[link](https://github.com/whb605/igad-cf)|
