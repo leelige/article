@@ -2,7 +2,23 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-19 17:44:29**|**Red-QAOA: Efficient Variational Optimization through Circuit Reduction**|Meng Wang et.al.|[2407.14490v1](http://arxiv.org/abs/2407.14490v1)|null|
+|**2024-07-22 14:02:28**|**Link Polarity Prediction from Sparse and Noisy Labels via Multiscale   Social Balance**|Marco Minici et.al.|[2407.15643v1](http://arxiv.org/abs/2407.15643v1)|null|
+|**2024-07-22 10:50:47**|**Large-scale Time-Varying Portfolio Optimisation using Graph Attention   Networks**|Kamesh Korangi et.al.|[2407.15532v1](http://arxiv.org/abs/2407.15532v1)|null|
+|**2024-07-22 08:09:36**|**GraphScale: A Framework to Enable Machine Learning over Billion-node   Graphs**|Vipul Gupta et.al.|[2407.15452v1](http://arxiv.org/abs/2407.15452v1)|null|
+|**2024-07-22 07:24:21**|**Pre-Training and Prompting for Few-Shot Node Classification on   Text-Attributed Graphs**|Huanjing Zhao et.al.|[2407.15431v1](http://arxiv.org/abs/2407.15431v1)|null|
+|**2024-07-22 03:36:38**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph   Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v1](http://arxiv.org/abs/2407.15351v1)|null|
+|**2024-07-21 22:37:24**|**Revisiting Neighborhood Aggregation in Graph Neural Networks for Node   Classification using Statistical Signal Processing**|Mounir Ghogho et.al.|[2407.15284v1](http://arxiv.org/abs/2407.15284v1)|null|
+|**2024-07-21 20:41:39**|**LSM-GNN: Large-scale Storage-based Multi-GPU GNN Training by Optimizing   Data Transfer Scheme**|Jeongmin Brian Park et.al.|[2407.15264v1](http://arxiv.org/abs/2407.15264v1)|null|
+|**2024-07-21 14:48:14**|**A Spatio-Temporal Approach with Self-Corrective Causal Inference for   Flight Delay Prediction**|Qihui Zhu et.al.|[2407.15185v1](http://arxiv.org/abs/2407.15185v1)|null|
+|**2024-07-20 22:09:42**|**All Against Some: Efficient Integration of Large Language Models for   Message Passing in Graph Neural Networks**|Ajay Jaiswal et.al.|[2407.14996v1](http://arxiv.org/abs/2407.14996v1)|null|
+|**2024-07-20 12:40:03**|**Enhancing High-Energy Particle Physics Collision Analysis through Graph   Data Attribution Techniques**|A. Verdone et.al.|[2407.14859v1](http://arxiv.org/abs/2407.14859v1)|null|
+|**2024-07-20 06:32:00**|**Subgraph Clustering and Atom Learning for Improved Image Classification**|Aryan Singh et.al.|[2407.14772v1](http://arxiv.org/abs/2407.14772v1)|null|
+|**2024-07-20 06:22:51**|**SLInterpreter: An Exploratory and Iterative Human-AI Collaborative   System for GNN-based Synthetic Lethal Prediction**|Haoran Jiang et.al.|[2407.14770v1](http://arxiv.org/abs/2407.14770v1)|null|
+|**2024-07-20 06:13:00**|**Teach Harder, Learn Poorer: Rethinking Hard Sample Distillation for   GNN-to-MLP Knowledge Distillation**|Lirong Wu et.al.|[2407.14768v1](http://arxiv.org/abs/2407.14768v1)|null|
+|**2024-07-20 06:05:26**|**Data Augmentation in Graph Neural Networks: The Role of Generated   Synthetic Graphs**|Sumeyye Bas et.al.|[2407.14765v1](http://arxiv.org/abs/2407.14765v1)|null|
+|**2024-07-20 03:05:12**|**Meta-GPS++: Enhancing Graph Meta-Learning with Contrastive Learning and   Self-Training**|Yonghao Liu et.al.|[2407.14732v1](http://arxiv.org/abs/2407.14732v1)|null|
+|**2024-07-19 20:34:40**|**A New Lightweight Hybrid Graph Convolutional Neural Network -- CNN   Scheme for Scene Classification using Object Detection Inference**|Ayman Beghdadi et.al.|[2407.14658v1](http://arxiv.org/abs/2407.14658v1)|[link](https://github.com/Aymanbegh/Hybrid-GCNN-CNN)|
+|**2024-07-19 17:44:29**|**Red-QAOA: Efficient Variational Optimization through Circuit Reduction**|Meng Wang et.al.|[2407.14490v2](http://arxiv.org/abs/2407.14490v2)|null|
 |**2024-07-19 17:01:41**|**PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer**|Jiahong Ma et.al.|[2407.14459v1](http://arxiv.org/abs/2407.14459v1)|[link](https://github.com/air029/polyformer)|
 |**2024-07-19 16:01:37**|**The Extrapolation Power of Implicit Models**|Juliette Decugis et.al.|[2407.14430v1](http://arxiv.org/abs/2407.14430v1)|null|
 |**2024-07-19 12:45:21**|**L^2CL: Embarrassingly Simple Layer-to-Layer Contrastive Learning for   Graph Collaborative Filtering**|Xinzhou Jin et.al.|[2407.14266v1](http://arxiv.org/abs/2407.14266v1)|[link](https://github.com/downeykking/l2cl)|
@@ -16,19 +32,3 @@
 |**2024-07-18 17:40:38**|**Predicting dark matter halo masses from simulated galaxy images and   environments**|Austin J. Larson et.al.|[2407.13735v1](http://arxiv.org/abs/2407.13735v1)|null|
 |**2024-07-18 16:44:16**|**Projection-based model-order reduction for unstructured meshes with   graph autoencoders**|Liam K. Magargal et.al.|[2407.13669v2](http://arxiv.org/abs/2407.13669v2)|null|
 |**2024-07-18 11:51:07**|**The Structure of Emulations in Classical Spin Models: Modularity and   Universality**|Tobias Reinhart et.al.|[2407.13428v1](http://arxiv.org/abs/2407.13428v1)|null|
-|**2024-07-18 11:42:58**|**Exploring End-to-end Differentiable Neural Charged Particle Tracking --   A Loss Landscape Perspective**|Tobias Kortus et.al.|[2407.13420v1](http://arxiv.org/abs/2407.13420v1)|[link](https://github.com/SIVERT-pCT/e2e-tracking)|
-|**2024-07-18 04:58:27**|**HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous   Graph Representation Learning**|Qiuyu Zhu et.al.|[2407.13158v1](http://arxiv.org/abs/2407.13158v1)|null|
-|**2024-07-18 00:25:49**|**Krait: A Backdoor Attack Against Graph Prompt Tuning**|Ying Song et.al.|[2407.13068v1](http://arxiv.org/abs/2407.13068v1)|null|
-|**2024-07-17 15:54:09**|**GraphMuse: A Library for Symbolic Music Graph Processing**|Emmanouil Karystinaios et.al.|[2407.12671v1](http://arxiv.org/abs/2407.12671v1)|[link](https://github.com/manoskary/graphmuse)|
-|**2024-07-17 15:16:23**|**Fusion Flow-enhanced Graph Pooling Residual Networks for Unmanned Aerial   Vehicles Surveillance in Day and Night Dual Visions**|Alam Noor et.al.|[2407.12647v1](http://arxiv.org/abs/2407.12647v1)|null|
-|**2024-07-17 14:44:47**|**A Brief Review of Quantum Machine Learning for Financial Services**|Mina Doosti et.al.|[2407.12618v1](http://arxiv.org/abs/2407.12618v1)|null|
-|**2024-07-17 11:37:34**|**Subequivariant Reinforcement Learning in 3D Multi-Entity Physical   Environments**|Runfa Chen et.al.|[2407.12505v1](http://arxiv.org/abs/2407.12505v1)|null|
-|**2024-07-17 11:05:31**|**SENC: Handling Self-collision in Neural Cloth Simulation**|Zhouyingcheng Liao et.al.|[2407.12479v1](http://arxiv.org/abs/2407.12479v1)|null|
-|**2024-07-17 09:01:38**|**SafePowerGraph: Safety-aware Evaluation of Graph Neural Networks for   Transmission Power Grids**|Salah Ghamizi et.al.|[2407.12421v1](http://arxiv.org/abs/2407.12421v1)|[link](https://github.com/yamizi/safepowergraph)|
-|**2024-07-17 08:59:00**|**Dirac--Bianconi Graph Neural Networks -- Enabling Non-Diffusive   Long-Range Graph Predictions**|Christian Nauck et.al.|[2407.12419v1](http://arxiv.org/abs/2407.12419v1)|[link](https://github.com/PIK-ICoNe/DBGNN_paper-companion)|
-|**2024-07-17 01:59:06**|**Enhancing Polygonal Building Segmentation via Oriented Corners**|Mohammad Moein Sheikholeslami et.al.|[2407.12256v1](http://arxiv.org/abs/2407.12256v1)|null|
-|**2024-07-17 01:11:07**|**Urban Traffic Forecasting with Integrated Travel Time and Data   Availability in a Conformal Graph Neural Network Framework**|Mayur Patil et.al.|[2407.12238v1](http://arxiv.org/abs/2407.12238v1)|null|
-|**2024-07-16 19:45:34**|**Molecular Topological Profile (MOLTOP) -- Simple and Strong Baseline for   Molecular Graph Classification**|Jakub Adamczyk et.al.|[2407.12136v1](http://arxiv.org/abs/2407.12136v1)|null|
-|**2024-07-16 19:05:38**|**Graph Neural Network-Based Track Finding in the LHCb Vertex Detector**|Anthony Correia et.al.|[2407.12119v1](http://arxiv.org/abs/2407.12119v1)|null|
-|**2024-07-16 18:51:24**|**A Graph-based Adversarial Imitation Learning Framework for Reliable &   Realtime Fleet Scheduling in Urban Air Mobility**|Prithvi Poddar et.al.|[2407.12113v1](http://arxiv.org/abs/2407.12113v1)|null|
-|**2024-07-16 17:21:36**|**Tackling Oversmoothing in GNN via Graph Sparsification: A Truss-based   Approach**|Tanvir Hossain et.al.|[2407.11928v1](http://arxiv.org/abs/2407.11928v1)|null|
