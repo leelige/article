@@ -2,11 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-23 15:04:38**|**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with   Applications to Calibration, Regression Curves, and Simulation-Based   Inference)**|Anirban Chatterjee et.al.|[2407.16550v1](http://arxiv.org/abs/2407.16550v1)|null|
+|**2024-07-23 13:34:35**|**Enhancing GNNs Performance on Combinatorial Optimization by Recurrent   Feature Update**|Daria Pugacheva et.al.|[2407.16468v1](http://arxiv.org/abs/2407.16468v1)|null|
+|**2024-07-23 10:51:35**|**Ranking protein-protein models with large language models and graph   neural networks**|Xiaotong Xu et.al.|[2407.16375v1](http://arxiv.org/abs/2407.16375v1)|[link](https://github.com/haddocking/deeprank-gnn-esm)|
+|**2024-07-23 07:17:46**|**A Multi-view Mask Contrastive Learning Graph Convolutional Neural   Network for Age Estimation**|Yiping Zhang et.al.|[2407.16234v1](http://arxiv.org/abs/2407.16234v1)|null|
+|**2024-07-23 01:33:21**|**Transformer-based Graph Neural Networks for Battery Range Prediction in   AIoT Battery-Swap Services**|Zhao Li et.al.|[2407.16115v1](http://arxiv.org/abs/2407.16115v1)|null|
 |**2024-07-22 14:02:28**|**Link Polarity Prediction from Sparse and Noisy Labels via Multiscale   Social Balance**|Marco Minici et.al.|[2407.15643v1](http://arxiv.org/abs/2407.15643v1)|null|
 |**2024-07-22 10:50:47**|**Large-scale Time-Varying Portfolio Optimisation using Graph Attention   Networks**|Kamesh Korangi et.al.|[2407.15532v1](http://arxiv.org/abs/2407.15532v1)|null|
 |**2024-07-22 08:09:36**|**GraphScale: A Framework to Enable Machine Learning over Billion-node   Graphs**|Vipul Gupta et.al.|[2407.15452v1](http://arxiv.org/abs/2407.15452v1)|null|
 |**2024-07-22 07:24:21**|**Pre-Training and Prompting for Few-Shot Node Classification on   Text-Attributed Graphs**|Huanjing Zhao et.al.|[2407.15431v1](http://arxiv.org/abs/2407.15431v1)|null|
-|**2024-07-22 03:36:38**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph   Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v1](http://arxiv.org/abs/2407.15351v1)|null|
+|**2024-07-22 03:36:38**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph   Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v2](http://arxiv.org/abs/2407.15351v2)|null|
 |**2024-07-21 22:37:24**|**Revisiting Neighborhood Aggregation in Graph Neural Networks for Node   Classification using Statistical Signal Processing**|Mounir Ghogho et.al.|[2407.15284v1](http://arxiv.org/abs/2407.15284v1)|null|
 |**2024-07-21 20:41:39**|**LSM-GNN: Large-scale Storage-based Multi-GPU GNN Training by Optimizing   Data Transfer Scheme**|Jeongmin Brian Park et.al.|[2407.15264v1](http://arxiv.org/abs/2407.15264v1)|null|
 |**2024-07-21 14:48:14**|**A Spatio-Temporal Approach with Self-Corrective Causal Inference for   Flight Delay Prediction**|Qihui Zhu et.al.|[2407.15185v1](http://arxiv.org/abs/2407.15185v1)|null|
@@ -27,8 +32,3 @@
 |**2024-07-19 02:34:10**|**Enhancing Data-Limited Graph Neural Networks by Actively Distilling   Knowledge from Large Language Models**|Quan Li et.al.|[2407.13989v1](http://arxiv.org/abs/2407.13989v1)|null|
 |**2024-07-18 22:29:24**|**EggNet: An Evolving Graph-based Graph Attention Network for Particle   Track Reconstruction**|Paolo Calafiura et.al.|[2407.13925v1](http://arxiv.org/abs/2407.13925v1)|null|
 |**2024-07-18 22:06:20**|**Improving Malware Detection with Adversarial Domain Adaptation and   Control Flow Graphs**|Adrian Shuai Li et.al.|[2407.13918v1](http://arxiv.org/abs/2407.13918v1)|null|
-|**2024-07-18 22:05:21**|**LinSATNet: The Positive Linear Satisfiability Neural Networks**|Runzhong Wang et.al.|[2407.13917v1](http://arxiv.org/abs/2407.13917v1)|[link](https://github.com/thinklab-sjtu/linsatnet)|
-|**2024-07-18 18:14:47**|**Temperature Distribution Prediction in Laser Powder Bed Fusion using   Transferable and Scalable Graph Neural Networks**|Riddhiman Raut et.al.|[2407.13838v1](http://arxiv.org/abs/2407.13838v1)|null|
-|**2024-07-18 17:40:38**|**Predicting dark matter halo masses from simulated galaxy images and   environments**|Austin J. Larson et.al.|[2407.13735v1](http://arxiv.org/abs/2407.13735v1)|null|
-|**2024-07-18 16:44:16**|**Projection-based model-order reduction for unstructured meshes with   graph autoencoders**|Liam K. Magargal et.al.|[2407.13669v2](http://arxiv.org/abs/2407.13669v2)|null|
-|**2024-07-18 11:51:07**|**The Structure of Emulations in Classical Spin Models: Modularity and   Universality**|Tobias Reinhart et.al.|[2407.13428v1](http://arxiv.org/abs/2407.13428v1)|null|
