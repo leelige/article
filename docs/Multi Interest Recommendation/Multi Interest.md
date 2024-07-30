@@ -2,9 +2,11 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-29 03:54:00**|**GradCraft: Elevating Multi-task Recommendations through Holistic   Gradient Crafting**|Yimeng Bai et.al.|[2407.19682v1](http://arxiv.org/abs/2407.19682v1)|[link](https://github.com/baiyimeng/gradcraft)|
 |**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v1](http://arxiv.org/abs/2407.16357v1)|null|
 |**2024-07-15 14:54:55**|**Multi-Objective Optimization and Multi-Criteria Decision-Making Approach   to Design Multi-Tubular Packed-Bed Membrane Reactor in Oxidative   Dehydrogenation of Ethane**|Seyed Reza Nabavi et.al.|[2407.10774v1](http://arxiv.org/abs/2407.10774v1)|null|
 |**2024-07-15 13:33:30**|**SEMINAR: Search Enhanced Multi-modal Interest Network and Approximate   Retrieval for Lifelong Sequential Recommendation**|Kaiming Shen et.al.|[2407.10714v1](http://arxiv.org/abs/2407.10714v1)|null|
+|**2024-07-10 14:02:21**|**Advancements in Recommender Systems: A Comprehensive Analysis Based on   Data, Algorithms, and Evaluation**|Xin Ma et.al.|[2407.18937v1](http://arxiv.org/abs/2407.18937v1)|null|
 |**2024-07-06 04:57:25**|**MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems   with Large Language Models**|Yunjia Xi et.al.|[2407.04960v1](http://arxiv.org/abs/2407.04960v1)|[link](https://github.com/mindspore-lab/models)|
 |**2024-06-25 17:31:04**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in   E-commerce Search**|Pipi Peng et.al.|[2406.17745v3](http://arxiv.org/abs/2406.17745v3)|null|
 |**2024-06-18 11:59:36**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529v1](http://arxiv.org/abs/2406.12529v1)|null|
@@ -30,5 +32,3 @@
 |**2024-03-31 14:41:49**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702v2](http://arxiv.org/abs/2404.00702v2)|null|
 |**2024-03-30 13:40:25**|**SA-LSPL:Sequence-Aware Long- and Short- Term Preference Learning for   next POI recommendation**|Bin Wang et.al.|[2404.00367v1](http://arxiv.org/abs/2404.00367v1)|null|
 |**2024-03-26 11:28:31**|**END4Rec: Efficient Noise-Decoupling for Multi-Behavior Sequential   Recommendation**|Yongqiang Han et.al.|[2403.17603v1](http://arxiv.org/abs/2403.17603v1)|null|
-|**2024-03-26 07:19:26**|**Touch the Core: Exploring Task Dependence Among Hybrid Targets for   Recommendation**|Xing Tang et.al.|[2403.17442v1](http://arxiv.org/abs/2403.17442v1)|null|
-|**2024-03-17 08:43:12**|**Learning Time Slot Preferences via Mobility Tree for Next POI   Recommendation**|Tianhao Huang et.al.|[2403.12100v1](http://arxiv.org/abs/2403.12100v1)|[link](https://github.com/skyyyy0920/mtnet)|

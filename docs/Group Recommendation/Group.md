@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-29 02:39:17**|**AI-Driven Healthcare: A Survey on Ensuring Fairness and Mitigating Bias**|Sribala Vidyadhari Chinta et.al.|[2407.19655v1](http://arxiv.org/abs/2407.19655v1)|null|
 |**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v1](http://arxiv.org/abs/2407.16357v1)|null|
 |**2024-07-22 17:35:18**|**Towards Effective Collaboration between Software Engineers and Data   Scientists developing Machine Learning-Enabled Systems**|Gabriel Busquim et.al.|[2407.15821v1](http://arxiv.org/abs/2407.15821v1)|null|
 |**2024-07-19 00:01:18**|**Knowledge Distillation Approaches for Accurate and Efficient Recommender   System**|SeongKu Kang et.al.|[2407.13952v1](http://arxiv.org/abs/2407.13952v1)|[link](https://github.com/SeongKu-Kang/DE-RRD_CIKM20)|
@@ -31,4 +32,3 @@
 |**2024-06-19 05:50:15**|**Enhancing Collaborative Semantics of Language Model-Driven   Recommendations via Graph-Aware Learning**|Zhong Guan et.al.|[2406.13235v1](http://arxiv.org/abs/2406.13235v1)|null|
 |**2024-06-18 07:42:22**|**Certified ML Object Detection for Surveillance Missions**|Mohammed Belcaid et.al.|[2406.12362v1](http://arxiv.org/abs/2406.12362v1)|null|
 |**2024-06-18 03:11:43**|**"You Gotta be a Doctor, Lin": An Investigation of Name-Based Bias of   Large Language Models in Employment Recommendations**|Huy Nghiem et.al.|[2406.12232v1](http://arxiv.org/abs/2406.12232v1)|null|
-|**2024-06-17 00:53:19**|**Conversational Agents as Catalysts for Critical Thinking: Challenging   Design Fixation in Group Design**|Soohwan Lee et.al.|[2406.11125v1](http://arxiv.org/abs/2406.11125v1)|null|
