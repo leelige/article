@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-31 16:06:43**|**UMMAN: Unsupervised Multi-graph Merge Adversarial Network for Disease   Prediction Based on Intestinal Flora**|Dingkun Liu et.al.|[2407.21714v1](http://arxiv.org/abs/2407.21714v1)|null|
+|**2024-07-31 14:31:49**|**MART: MultiscAle Relational Transformer Networks for Multi-agent   Trajectory Prediction**|Seongju Lee et.al.|[2407.21635v1](http://arxiv.org/abs/2407.21635v1)|[link](https://github.com/gist-ailab/MART)|
+|**2024-07-31 13:38:47**|**MicroMIL: Graph-based Contextual Multiple Instance Learning for Patient   Diagnosis Using Microscopy Images**|JongWoo Kim et.al.|[2407.21604v1](http://arxiv.org/abs/2407.21604v1)|null|
+|**2024-07-31 07:15:33**|**GEGA: Graph Convolutional Networks and Evidence Retrieval Guided   Attention for Enhanced Document-level Relation Extraction**|Yanxu Mao et.al.|[2407.21384v1](http://arxiv.org/abs/2407.21384v1)|null|
+|**2024-07-30 22:58:23**|**GNUMAP: A Parameter-Free Approach to Unsupervised Dimensionality   Reduction via Graph Neural Networks**|Jihee You et.al.|[2407.21236v1](http://arxiv.org/abs/2407.21236v1)|null|
+|**2024-07-30 20:50:30**|**Optical Computing for Deep Neural Network Acceleration: Foundations,   Recent Developments, and Emerging Directions**|Sudeep Pasricha et.al.|[2407.21184v1](http://arxiv.org/abs/2407.21184v1)|null|
 |**2024-07-30 15:38:14**|**What Are Good Positional Encodings for Directed Graphs?**|Yinan Huang et.al.|[2407.20912v1](http://arxiv.org/abs/2407.20912v1)|[link](https://github.com/graph-com/multi-q-maglap)|
 |**2024-07-30 08:45:32**|**Leveraging Multi-facet Paths for Heterogeneous Graph Representation   Learning**|JongWoo Kim et.al.|[2407.20648v1](http://arxiv.org/abs/2407.20648v1)|null|
 |**2024-07-30 07:24:58**|**Investigating Sparsity in Recurrent Neural Networks**|Harshil Darji et.al.|[2407.20601v1](http://arxiv.org/abs/2407.20601v1)|[link](https://github.com/harshildarji/thesis)|
@@ -24,11 +30,5 @@
 |**2024-07-28 08:34:27**|**Reputation-Driven Asynchronous Federated Learning for Enhanced   Trajectory Prediction with Blockchain**|Weiliang Chen et.al.|[2407.19428v1](http://arxiv.org/abs/2407.19428v1)|null|
 |**2024-07-28 07:44:13**|**UniGAP: A Universal and Adaptive Graph Upsampling Approach to Mitigate   Over-Smoothing in Node Classification Tasks**|Xiaotang Wang et.al.|[2407.19420v1](http://arxiv.org/abs/2407.19420v1)|[link](https://github.com/wangxiaotang0906/unigap)|
 |**2024-07-28 04:59:59**|**IDEA: A Flexible Framework of Certified Unlearning for Graph Neural   Networks**|Yushun Dong et.al.|[2407.19398v1](http://arxiv.org/abs/2407.19398v1)|null|
-|**2024-07-28 03:23:02**|**CIDER: Counterfactual-Invariant Diffusion-based GNN Explainer for Causal   Subgraph Inference**|Qibin Zhang et.al.|[2407.19376v1](http://arxiv.org/abs/2407.19376v1)|null|
+|**2024-07-28 03:23:02**|**CIDER: Counterfactual-Invariant Diffusion-based GNN Explainer for Causal   Subgraph Inference**|Qibin Zhang et.al.|[2407.19376v1](http://arxiv.org/abs/2407.19376v1)|[link](https://github.com/zhangqib/CIDER)|
 |**2024-07-27 20:57:10**|**Semantic Communication Enhanced by Knowledge Graph Representation   Learning**|Nour Hello et.al.|[2407.19338v1](http://arxiv.org/abs/2407.19338v1)|null|
-|**2024-07-27 17:56:31**|**Can Modifying Data Address Graph Domain Adaptation?**|Renhong Huang et.al.|[2407.19311v1](http://arxiv.org/abs/2407.19311v1)|null|
-|**2024-07-27 11:02:12**|**Alleviating Over-Smoothing via Aggregation over Compact Manifolds**|Dongzhuoran Zhou et.al.|[2407.19231v1](http://arxiv.org/abs/2407.19231v1)|[link](https://github.com/dongzhuoranzhou/acm)|
-|**2024-07-27 05:50:54**|**Graph Memory Learning: Imitating Lifelong Remembering and Forgetting of   Brain Networks**|Jiaxing Miao et.al.|[2407.19183v1](http://arxiv.org/abs/2407.19183v1)|null|
-|**2024-07-27 04:03:12**|**Decomposing heterogeneous dynamical systems with graph neural networks**|Cédric Allier et.al.|[2407.19160v1](http://arxiv.org/abs/2407.19160v1)|null|
-|**2024-07-27 03:20:03**|**Debiased Graph Poisoning Attack via Contrastive Surrogate Objective**|Kanghoon Yoon et.al.|[2407.19155v1](http://arxiv.org/abs/2407.19155v1)|null|
-|**2024-07-26 18:00:03**|**Comparison of Geometrical Layouts for Next-Generation Large-volume   Cherenkov Neutrino Telescopes**|Tong Zhu et.al.|[2407.19010v1](http://arxiv.org/abs/2407.19010v1)|null|
