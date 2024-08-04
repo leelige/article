@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-01 16:43:55**|**You Can't Ignore Either: Unifying Structure and Feature Denoising for   Robust Graph Learning**|Tianmeng Yang et.al.|[2408.00700v1](http://arxiv.org/abs/2408.00700v1)|[link](https://github.com/YoungTimmy/UGD)|
+|**2024-08-01 13:08:02**|**ReSi: A Comprehensive Benchmark for Representational Similarity Measures**|Max Klabunde et.al.|[2408.00531v1](http://arxiv.org/abs/2408.00531v1)|null|
+|**2024-08-01 11:51:52**|**Graph Representation Learning via Causal Diffusion for   Out-of-Distribution Recommendation**|Chu Zhao et.al.|[2408.00490v1](http://arxiv.org/abs/2408.00490v1)|null|
+|**2024-08-01 07:31:23**|**Neural Graph Matching for Video Retrieval in Large-Scale Video-driven   E-commerce**|Houye Ji et.al.|[2408.00346v1](http://arxiv.org/abs/2408.00346v1)|null|
+|**2024-08-01 05:45:21**|**Contrastive Graph Representation Learning with Adversarial Cross-view   Reconstruction and Information Bottleneck**|Yuntao Shou et.al.|[2408.00295v1](http://arxiv.org/abs/2408.00295v1)|null|
+|**2024-08-01 05:24:20**|**Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network**|Bin Cheng et.al.|[2408.00290v1](http://arxiv.org/abs/2408.00290v1)|[link](https://github.com/yunche0/GA-Net/tree/master)|
+|**2024-08-01 01:57:09**|**CDFGNN: a Systematic Design of Cache-based Distributed Full-Batch Graph   Neural Network Training with Communication Reduction**|Shuai Zhang et.al.|[2408.00232v1](http://arxiv.org/abs/2408.00232v1)|null|
+|**2024-07-31 21:29:26**|**Non-convolutional Graph Neural Networks**|Yuanqing Wang et.al.|[2408.00165v1](http://arxiv.org/abs/2408.00165v1)|null|
 |**2024-07-31 16:06:43**|**UMMAN: Unsupervised Multi-graph Merge Adversarial Network for Disease   Prediction Based on Intestinal Flora**|Dingkun Liu et.al.|[2407.21714v1](http://arxiv.org/abs/2407.21714v1)|null|
 |**2024-07-31 14:31:49**|**MART: MultiscAle Relational Transformer Networks for Multi-agent   Trajectory Prediction**|Seongju Lee et.al.|[2407.21635v1](http://arxiv.org/abs/2407.21635v1)|[link](https://github.com/gist-ailab/MART)|
 |**2024-07-31 13:38:47**|**MicroMIL: Graph-based Contextual Multiple Instance Learning for Patient   Diagnosis Using Microscopy Images**|JongWoo Kim et.al.|[2407.21604v1](http://arxiv.org/abs/2407.21604v1)|null|
@@ -24,11 +32,3 @@
 |**2024-07-29 12:24:28**|**Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop   Feature Quality Estimation**|Shiyuan Li et.al.|[2407.19944v1](http://arxiv.org/abs/2407.19944v1)|null|
 |**2024-07-29 11:48:44**|**Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations**|Giovanni Catalani et.al.|[2407.19916v1](http://arxiv.org/abs/2407.19916v1)|null|
 |**2024-07-29 11:04:31**|**A Unified Graph Transformer for Overcoming Isolations in Multi-modal   Recommendation**|Zixuan Yi et.al.|[2407.19886v1](http://arxiv.org/abs/2407.19886v1)|null|
-|**2024-07-29 06:12:47**|**Constructing artificial life and materials scientists with accelerated   AI using Deep AndersoNN**|Saleem Abdul Fattah Ahmed Al Dajani et.al.|[2407.19724v1](http://arxiv.org/abs/2407.19724v1)|null|
-|**2024-07-28 19:23:56**|**Sharp Bounds for Poly-GNNs and the Effect of Graph Noise**|Luciano Vinas et.al.|[2407.19567v1](http://arxiv.org/abs/2407.19567v1)|null|
-|**2024-07-28 11:46:55**|**Interpretable Triplet Importance for Personalized Ranking**|Bowei He et.al.|[2407.19469v1](http://arxiv.org/abs/2407.19469v1)|[link](https://github.com/bokwaiho/itipr)|
-|**2024-07-28 08:34:27**|**Reputation-Driven Asynchronous Federated Learning for Enhanced   Trajectory Prediction with Blockchain**|Weiliang Chen et.al.|[2407.19428v1](http://arxiv.org/abs/2407.19428v1)|null|
-|**2024-07-28 07:44:13**|**UniGAP: A Universal and Adaptive Graph Upsampling Approach to Mitigate   Over-Smoothing in Node Classification Tasks**|Xiaotang Wang et.al.|[2407.19420v1](http://arxiv.org/abs/2407.19420v1)|[link](https://github.com/wangxiaotang0906/unigap)|
-|**2024-07-28 04:59:59**|**IDEA: A Flexible Framework of Certified Unlearning for Graph Neural   Networks**|Yushun Dong et.al.|[2407.19398v1](http://arxiv.org/abs/2407.19398v1)|null|
-|**2024-07-28 03:23:02**|**CIDER: Counterfactual-Invariant Diffusion-based GNN Explainer for Causal   Subgraph Inference**|Qibin Zhang et.al.|[2407.19376v1](http://arxiv.org/abs/2407.19376v1)|[link](https://github.com/zhangqib/CIDER)|
-|**2024-07-27 20:57:10**|**Semantic Communication Enhanced by Knowledge Graph Representation   Learning**|Nour Hello et.al.|[2407.19338v1](http://arxiv.org/abs/2407.19338v1)|null|

@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-31 13:30:34**|**MIMNet: Multi-Interest Meta Network with Multi-Granularity Target-Guided   Attention for Cross-domain Recommendation**|Xiaofei Zhu et.al.|[2408.00038v1](http://arxiv.org/abs/2408.00038v1)|[link](https://github.com/marqu22/MIMNet)|
 |**2024-07-29 23:41:26**|**Graphite: A Graph-based Extreme Multi-Label Short Text Classifier for   Keyphrase Recommendation**|Ashirbad Mishra et.al.|[2407.20462v1](http://arxiv.org/abs/2407.20462v1)|null|
 |**2024-07-29 03:54:00**|**GradCraft: Elevating Multi-task Recommendations through Holistic   Gradient Crafting**|Yimeng Bai et.al.|[2407.19682v1](http://arxiv.org/abs/2407.19682v1)|[link](https://github.com/baiyimeng/gradcraft)|
 |**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v1](http://arxiv.org/abs/2407.16357v1)|null|
@@ -31,4 +32,3 @@
 |**2024-04-15 12:08:44**|**Scenario-Adaptive Fine-Grained Personalization Network: Tailoring User   Behavior Representation to the Scenario Context**|Moyu Zhang et.al.|[2404.09709v3](http://arxiv.org/abs/2404.09709v3)|null|
 |**2024-04-12 09:57:17**|**Large-Scale Multi-Domain Recommendation: an Automatic Domain Feature   Extraction and Personalized Integration Framework**|Dongbo Xi et.al.|[2404.08361v2](http://arxiv.org/abs/2404.08361v2)|[link](https://github.com/xidongbo/dfei)|
 |**2024-04-11 09:13:52**|**M-scan: A Multi-Scenario Causal-driven Adaptive Network for   Recommendation**|Jiachen Zhu et.al.|[2404.07581v2](http://arxiv.org/abs/2404.07581v2)|null|
-|**2024-03-31 14:41:49**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702v2](http://arxiv.org/abs/2404.00702v2)|null|
