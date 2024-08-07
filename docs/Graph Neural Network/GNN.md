@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-06 16:35:25**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287v1](http://arxiv.org/abs/2408.03287v1)|null|
+|**2024-08-06 13:55:51**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195v1](http://arxiv.org/abs/2408.03195v1)|null|
+|**2024-08-06 13:49:01**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193v1](http://arxiv.org/abs/2408.03193v1)|null|
+|**2024-08-06 13:07:08**|**CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable   Recommendations over Knowledge Graphs**|Shangfei Zheng et.al.|[2408.03166v1](http://arxiv.org/abs/2408.03166v1)|null|
+|**2024-08-06 12:52:03**|**TSC: A Simple Two-Sided Constraint against Over-Smoothing**|Furong Peng et.al.|[2408.03152v1](http://arxiv.org/abs/2408.03152v1)|null|
+|**2024-08-06 06:42:53**|**A Differential Smoothness-based Compact-Dynamic Graph Convolutional   Network for Spatiotemporal Signal Recovery**|Pengcheng Gao et.al.|[2408.02987v1](http://arxiv.org/abs/2408.02987v1)|null|
+|**2024-08-06 02:07:37**|**SETN: Stock Embedding Enhanced with Textual and Network Information**|Takehiro Takayanagi et.al.|[2408.02899v1](http://arxiv.org/abs/2408.02899v1)|null|
+|**2024-08-05 19:25:05**|**Algorithm-Informed Graph Neural Networks for Leakage Detection and   Localization in Water Distribution Networks**|Zepeng Zhang et.al.|[2408.02797v1](http://arxiv.org/abs/2408.02797v1)|null|
 |**2024-08-04 18:47:55**|**Understanding Deep Learning via Notions of Rank**|Noam Razin et.al.|[2408.02111v1](http://arxiv.org/abs/2408.02111v1)|null|
 |**2024-08-04 09:09:13**|**Optimal and efficient text counterfactuals using Graph Neural Networks**|Dimitris Lymperopoulos et.al.|[2408.01969v1](http://arxiv.org/abs/2408.01969v1)|null|
 |**2024-08-04 08:44:00**|**Top K Enhanced Reinforcement Learning Attacks on Heterogeneous Graph   Node Classification**|Honglin Gao et.al.|[2408.01964v1](http://arxiv.org/abs/2408.01964v1)|null|
@@ -24,11 +32,3 @@
 |**2024-08-01 07:31:23**|**Neural Graph Matching for Video Retrieval in Large-Scale Video-driven   E-commerce**|Houye Ji et.al.|[2408.00346v1](http://arxiv.org/abs/2408.00346v1)|null|
 |**2024-08-01 05:45:21**|**Contrastive Graph Representation Learning with Adversarial Cross-view   Reconstruction and Information Bottleneck**|Yuntao Shou et.al.|[2408.00295v1](http://arxiv.org/abs/2408.00295v1)|null|
 |**2024-08-01 05:24:20**|**Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network**|Bin Cheng et.al.|[2408.00290v1](http://arxiv.org/abs/2408.00290v1)|[link](https://github.com/yunche0/GA-Net/tree/master)|
-|**2024-08-01 01:57:09**|**CDFGNN: a Systematic Design of Cache-based Distributed Full-Batch Graph   Neural Network Training with Communication Reduction**|Shuai Zhang et.al.|[2408.00232v1](http://arxiv.org/abs/2408.00232v1)|null|
-|**2024-07-31 21:29:26**|**Non-convolutional Graph Neural Networks**|Yuanqing Wang et.al.|[2408.00165v2](http://arxiv.org/abs/2408.00165v2)|null|
-|**2024-07-31 16:06:43**|**UMMAN: Unsupervised Multi-graph Merge Adversarial Network for Disease   Prediction Based on Intestinal Flora**|Dingkun Liu et.al.|[2407.21714v1](http://arxiv.org/abs/2407.21714v1)|null|
-|**2024-07-31 14:31:49**|**MART: MultiscAle Relational Transformer Networks for Multi-agent   Trajectory Prediction**|Seongju Lee et.al.|[2407.21635v1](http://arxiv.org/abs/2407.21635v1)|[link](https://github.com/gist-ailab/MART)|
-|**2024-07-31 13:38:47**|**MicroMIL: Graph-based Contextual Multiple Instance Learning for Patient   Diagnosis Using Microscopy Images**|JongWoo Kim et.al.|[2407.21604v1](http://arxiv.org/abs/2407.21604v1)|null|
-|**2024-07-31 07:15:33**|**GEGA: Graph Convolutional Networks and Evidence Retrieval Guided   Attention for Enhanced Document-level Relation Extraction**|Yanxu Mao et.al.|[2407.21384v1](http://arxiv.org/abs/2407.21384v1)|null|
-|**2024-07-30 22:58:23**|**GNUMAP: A Parameter-Free Approach to Unsupervised Dimensionality   Reduction via Graph Neural Networks**|Jihee You et.al.|[2407.21236v1](http://arxiv.org/abs/2407.21236v1)|null|
-|**2024-07-30 20:50:30**|**Optical Computing for Deep Neural Network Acceleration: Foundations,   Recent Developments, and Emerging Directions**|Sudeep Pasricha et.al.|[2407.21184v1](http://arxiv.org/abs/2407.21184v1)|null|
