@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-08 15:21:07**|**Advancing Molecular Machine (Learned) Representations with   Stereoelectronics-Infused Molecular Graphs**|Daniil A. Boiko et.al.|[2408.04520v1](http://arxiv.org/abs/2408.04520v1)|[link](https://github.com/gomesgroup/simg)|
+|**2024-08-08 12:08:55**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400v1](http://arxiv.org/abs/2408.04400v1)|null|
+|**2024-08-08 11:35:52**|**Understanding and Modeling Job Marketplace with Pretrained Language   Models**|Yaochen Zhu et.al.|[2408.04381v1](http://arxiv.org/abs/2408.04381v1)|null|
+|**2024-08-08 08:17:50**|**Dual-branch PolSAR Image Classification Based on GraphMAE and Local   Feature Extraction**|Yuchen Wang et.al.|[2408.04294v1](http://arxiv.org/abs/2408.04294v1)|null|
+|**2024-08-08 03:25:41**|**Uncertainty-Aware Crime Prediction With Spatial Temporal Multivariate   Graph Neural Networks**|Zepu Wang et.al.|[2408.04193v1](http://arxiv.org/abs/2408.04193v1)|null|
+|**2024-08-08 02:36:04**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from   Speech**|Khai Le-Duc et.al.|[2408.04174v1](http://arxiv.org/abs/2408.04174v1)|null|
+|**2024-08-07 23:41:09**|**Heterogeneous Graph Sequence Neural Networks for Dynamic Traffic   Assignment**|Tong Liu et.al.|[2408.04131v1](http://arxiv.org/abs/2408.04131v1)|null|
+|**2024-08-07 19:24:02**|**Deep Generative Models for Subgraph Prediction**|Erfaneh Mahmoudzadeh et.al.|[2408.04053v1](http://arxiv.org/abs/2408.04053v1)|null|
 |**2024-08-07 16:27:45**|**Knowledge Probing for Graph Representation Learning**|Mingyu Zhao et.al.|[2408.03877v1](http://arxiv.org/abs/2408.03877v1)|null|
 |**2024-08-07 10:24:59**|**Beyond Over-smoothing: Uncovering the Trainability Challenges in Deep   Graph Neural Networks**|Jie Peng et.al.|[2408.03669v1](http://arxiv.org/abs/2408.03669v1)|null|
 |**2024-08-07 03:08:57**|**AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM   System**|Kuan Xu et.al.|[2408.03520v1](http://arxiv.org/abs/2408.03520v1)|null|
@@ -24,11 +32,3 @@
 |**2024-08-03 07:38:04**|**Invariant Graph Learning Meets Information Bottleneck for   Out-of-Distribution Generalization**|Wenyu Mao et.al.|[2408.01697v1](http://arxiv.org/abs/2408.01697v1)|[link](https://github.com/maowenyu-11/infoigl)|
 |**2024-08-03 02:57:37**|**Leveraging GNSS and Onboard Visual Data from Consumer Vehicles for   Robust Road Network Estimation**|Balázs Opra et.al.|[2408.01640v1](http://arxiv.org/abs/2408.01640v1)|null|
 |**2024-08-02 18:02:51**|**Efficient Graph Coloring with Neural Networks: A Physics-Inspired   Approach for Large Graphs**|Lorenzo Colantonio et.al.|[2408.01503v1](http://arxiv.org/abs/2408.01503v1)|null|
-|**2024-08-02 17:33:52**|**Derivation of Back-propagation for Graph Convolutional Networks using   Matrix Calculus and its Application to Explainable Artificial Intelligence**|Yen-Che Hsiao et.al.|[2408.01408v1](http://arxiv.org/abs/2408.01408v1)|null|
-|**2024-08-02 12:58:08**|**Tailoring Graph Neural Network-based Flow-guided Localization to   Individual Bloodstreams and Activities**|Pablo Galván et.al.|[2408.01239v1](http://arxiv.org/abs/2408.01239v1)|null|
-|**2024-08-02 12:40:01**|**HeteroMorpheus: Universal Control Based on Morphological Heterogeneity   Modeling**|YiFan Hao et.al.|[2408.01230v1](http://arxiv.org/abs/2408.01230v1)|null|
-|**2024-08-02 08:09:13**|**General-purpose Dataflow Model with Neuromorphic Primitives**|Weihao Zhang et.al.|[2408.01090v1](http://arxiv.org/abs/2408.01090v1)|null|
-|**2024-08-02 05:36:14**|**GNN-MolKAN: Harnessing the Power of KAN to Advance Molecular   Representation Learning with GNNs**|Ruifeng Li et.al.|[2408.01018v1](http://arxiv.org/abs/2408.01018v1)|null|
-|**2024-08-02 02:55:56**|**GraphAge: Unleashing the power of Graph Neural Network to Decode   Epigenetic Aging**|Saleh Sakib Ahmed et.al.|[2408.00984v1](http://arxiv.org/abs/2408.00984v1)|null|
-|**2024-08-01 20:54:33**|**Parkinson's Disease Detection from Resting State EEG using Multi-Head   Graph Structure Learning with Gradient Weighted Graph Attention Explanations**|Christopher Neves et.al.|[2408.00906v1](http://arxiv.org/abs/2408.00906v1)|null|
-|**2024-08-01 16:43:55**|**You Can't Ignore Either: Unifying Structure and Feature Denoising for   Robust Graph Learning**|Tianmeng Yang et.al.|[2408.00700v1](http://arxiv.org/abs/2408.00700v1)|[link](https://github.com/YoungTimmy/UGD)|
