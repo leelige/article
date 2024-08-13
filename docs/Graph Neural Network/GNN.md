@@ -2,6 +2,22 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-12 13:50:23**|**Graph-based Descriptors for Condensed Matter**|An Wang et.al.|[2408.06156v1](http://arxiv.org/abs/2408.06156v1)|null|
+|**2024-08-12 13:48:06**|**Palantir: Towards Efficient Super Resolution for Ultra-high-definition   Live Streaming**|Xinqi Jin et.al.|[2408.06152v1](http://arxiv.org/abs/2408.06152v1)|null|
+|**2024-08-12 10:55:29**|**What Ails Generative Structure-based Drug Design: Too Little or Too Much   Expressivity?**|Rafał Karczewski et.al.|[2408.06050v1](http://arxiv.org/abs/2408.06050v1)|null|
+|**2024-08-12 10:15:13**|**ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation   Using Large Language Models and Transformers**|Aristi Papastavrou et.al.|[2408.06040v1](http://arxiv.org/abs/2408.06040v1)|null|
+|**2024-08-12 10:13:45**|**Spacetime $E(n)$-Transformer: Equivariant Attention for Spatio-temporal   Graphs**|Sergio G. Charles et.al.|[2408.06039v1](http://arxiv.org/abs/2408.06039v1)|null|
+|**2024-08-12 09:07:40**|**Graph-Based Feature Engineering to Predict the Dynamical Properties of   Condensed Matter**|An Wang et.al.|[2408.06016v1](http://arxiv.org/abs/2408.06016v1)|null|
+|**2024-08-11 20:50:16**|**The Cognitive Revolution in Interpretability: From Explaining Behavior   to Interpreting Representations and Algorithms**|Adam Davies et.al.|[2408.05859v1](http://arxiv.org/abs/2408.05859v1)|null|
+|**2024-08-11 14:47:34**|**GraphTransfer: A Generic Feature Fusion Framework for Collaborative   Filtering**|Jiafeng Xia et.al.|[2408.05792v1](http://arxiv.org/abs/2408.05792v1)|null|
+|**2024-08-11 14:33:23**|**On zero-shot learning in neural state estimation of power distribution   systems**|Aleksandr Berezin et.al.|[2408.05787v1](http://arxiv.org/abs/2408.05787v1)|[link](https://gitlab.com/transense/nse-tl-paper)|
+|**2024-08-11 03:19:29**|**Swarm-Net: Firmware Attestation in IoT Swarms using Graph Neural   Networks and Volatile Memory**|Varun Kohli et.al.|[2408.05680v1](http://arxiv.org/abs/2408.05680v1)|null|
+|**2024-08-10 20:11:11**|**An Information-Theoretic Analysis of Temporal GNNs**|Amirmohammad Farzaneh et.al.|[2408.05624v1](http://arxiv.org/abs/2408.05624v1)|null|
+|**2024-08-10 09:13:42**|**A Laplacian-based Quantum Graph Neural Network for Semi-Supervised   Learning**|Hamed Gholipour et.al.|[2408.05498v1](http://arxiv.org/abs/2408.05498v1)|null|
+|**2024-08-10 08:27:58**|**Topological Blind Spots: Understanding and Extending Topological Deep   Learning Through the Lens of Expressivity**|Yam Eitan et.al.|[2408.05486v1](http://arxiv.org/abs/2408.05486v1)|null|
+|**2024-08-10 06:35:11**|**Path-LLM: A Shortest-Path-based LLM Learning for Unified Graph   Representation**|Wenbo Shang et.al.|[2408.05456v1](http://arxiv.org/abs/2408.05456v1)|null|
+|**2024-08-10 04:03:51**|**Modeling Multi-Step Scientific Processes with Graph Transformer Networks**|Amanda A. Volk et.al.|[2408.05425v1](http://arxiv.org/abs/2408.05425v1)|null|
+|**2024-08-09 18:10:02**|**MUSE: Multi-Knowledge Passing on the Edges, Boosting Knowledge Graph   Completion**|Pengjie Liu et.al.|[2408.05283v1](http://arxiv.org/abs/2408.05283v1)|[link](https://github.com/NxxTGT/MUSE)|
 |**2024-08-09 16:47:49**|**Decoding Quantum LDPC Codes Using Graph Neural Networks**|Vukan Ninkovic et.al.|[2408.05170v1](http://arxiv.org/abs/2408.05170v1)|null|
 |**2024-08-09 16:31:41**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160v1](http://arxiv.org/abs/2408.05160v1)|null|
 |**2024-08-09 13:29:08**|**Variational Bayesian Phylogenetic Inference with Semi-implicit Branch   Length Distributions**|Tianyu Xie et.al.|[2408.05058v1](http://arxiv.org/abs/2408.05058v1)|[link](https://github.com/tyuxie/vbpi-sibranch)|
@@ -15,20 +31,4 @@
 |**2024-08-08 11:35:52**|**Understanding and Modeling Job Marketplace with Pretrained Language   Models**|Yaochen Zhu et.al.|[2408.04381v1](http://arxiv.org/abs/2408.04381v1)|null|
 |**2024-08-08 08:17:50**|**Dual-branch PolSAR Image Classification Based on GraphMAE and Local   Feature Extraction**|Yuchen Wang et.al.|[2408.04294v1](http://arxiv.org/abs/2408.04294v1)|null|
 |**2024-08-08 03:25:41**|**Uncertainty-Aware Crime Prediction With Spatial Temporal Multivariate   Graph Neural Networks**|Zepu Wang et.al.|[2408.04193v1](http://arxiv.org/abs/2408.04193v1)|null|
-|**2024-08-08 02:36:04**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from   Speech**|Khai Le-Duc et.al.|[2408.04174v1](http://arxiv.org/abs/2408.04174v1)|null|
-|**2024-08-07 23:41:09**|**Heterogeneous Graph Sequence Neural Networks for Dynamic Traffic   Assignment**|Tong Liu et.al.|[2408.04131v1](http://arxiv.org/abs/2408.04131v1)|null|
-|**2024-08-07 19:24:02**|**Deep Generative Models for Subgraph Prediction**|Erfaneh Mahmoudzadeh et.al.|[2408.04053v1](http://arxiv.org/abs/2408.04053v1)|null|
-|**2024-08-07 16:27:45**|**Knowledge Probing for Graph Representation Learning**|Mingyu Zhao et.al.|[2408.03877v1](http://arxiv.org/abs/2408.03877v1)|null|
-|**2024-08-07 10:24:59**|**Beyond Over-smoothing: Uncovering the Trainability Challenges in Deep   Graph Neural Networks**|Jie Peng et.al.|[2408.03669v1](http://arxiv.org/abs/2408.03669v1)|null|
-|**2024-08-07 03:08:57**|**AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM   System**|Kuan Xu et.al.|[2408.03520v1](http://arxiv.org/abs/2408.03520v1)|null|
-|**2024-08-06 20:06:48**|**A Study on Quantum Graph Neural Networks Applied to Molecular Physics**|Simone Piperno et.al.|[2408.03427v1](http://arxiv.org/abs/2408.03427v1)|null|
-|**2024-08-06 16:35:25**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287v2](http://arxiv.org/abs/2408.03287v2)|null|
-|**2024-08-06 14:18:36**|**MLC-GCN: Multi-Level Generated Connectome Based GCN for AD Analysis**|Wenqi Zhu et.al.|[2408.03358v1](http://arxiv.org/abs/2408.03358v1)|null|
-|**2024-08-06 13:55:51**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195v1](http://arxiv.org/abs/2408.03195v1)|null|
-|**2024-08-06 13:49:01**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193v1](http://arxiv.org/abs/2408.03193v1)|null|
-|**2024-08-06 13:07:08**|**CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable   Recommendations over Knowledge Graphs**|Shangfei Zheng et.al.|[2408.03166v1](http://arxiv.org/abs/2408.03166v1)|null|
-|**2024-08-06 12:52:03**|**TSC: A Simple Two-Sided Constraint against Over-Smoothing**|Furong Peng et.al.|[2408.03152v1](http://arxiv.org/abs/2408.03152v1)|null|
-|**2024-08-06 06:42:53**|**A Differential Smoothness-based Compact-Dynamic Graph Convolutional   Network for Spatiotemporal Signal Recovery**|Pengcheng Gao et.al.|[2408.02987v1](http://arxiv.org/abs/2408.02987v1)|null|
-|**2024-08-06 02:07:37**|**SETN: Stock Embedding Enhanced with Textual and Network Information**|Takehiro Takayanagi et.al.|[2408.02899v1](http://arxiv.org/abs/2408.02899v1)|null|
-|**2024-08-05 19:25:05**|**Algorithm-Informed Graph Neural Networks for Leakage Detection and   Localization in Water Distribution Networks**|Zepeng Zhang et.al.|[2408.02797v1](http://arxiv.org/abs/2408.02797v1)|null|
-|**2024-08-04 18:47:55**|**Understanding Deep Learning via Notions of Rank**|Noam Razin et.al.|[2408.02111v1](http://arxiv.org/abs/2408.02111v1)|null|
+|**2024-08-08 02:36:04**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from   Speech**|Khai Le-Duc et.al.|[2408.04174v1](http://arxiv.org/abs/2408.04174v1)|[link](https://github.com/leduckhai/wav2graph)|
