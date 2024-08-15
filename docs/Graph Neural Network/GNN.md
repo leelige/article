@@ -2,9 +2,17 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-14 16:49:25**|**Interpretable Graph Neural Networks for Heterogeneous Tabular Data**|Amr Alkhatib et.al.|[2408.07661v1](http://arxiv.org/abs/2408.07661v1)|null|
+|**2024-08-14 14:06:13**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569v1](http://arxiv.org/abs/2408.07569v1)|null|
+|**2024-08-14 09:13:27**|**Sum-Product-Set Networks**|Milan Papež et.al.|[2408.07394v1](http://arxiv.org/abs/2408.07394v1)|[link](https://github.com/aicenter/sumproductset.jl)|
+|**2024-08-14 07:31:11**|**Towards Few-shot Self-explaining Graph Neural Networks**|Jingyu Peng et.al.|[2408.07340v1](http://arxiv.org/abs/2408.07340v1)|[link](https://github.com/jypeng28/mse-gnn)|
+|**2024-08-14 07:13:36**|**RSEA-MVGNN: Multi-View Graph Neural Network with Reliable Structural   Enhancement and Aggregation**|Junyu Chen et.al.|[2408.07331v1](http://arxiv.org/abs/2408.07331v1)|null|
+|**2024-08-13 23:24:36**|**Pan-cancer gene set discovery via scRNA-seq for optimal deep learning   based downstream tasks**|Jong Hyun Kim et.al.|[2408.07233v1](http://arxiv.org/abs/2408.07233v1)|null|
+|**2024-08-13 20:16:11**|**Joint Graph Rewiring and Feature Denoising via Spectral Resonance**|Jonas Linkerhägner et.al.|[2408.07191v1](http://arxiv.org/abs/2408.07191v1)|null|
 |**2024-08-13 17:05:45**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC   Codes**|Arshpreet Singh Maan et.al.|[2408.07038v1](http://arxiv.org/abs/2408.07038v1)|[link](https://github.com/arshpreetmaan/astra})|
 |**2024-08-13 15:53:58**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993v1](http://arxiv.org/abs/2408.06993v1)|[link](https://github.com/starjob42/datasetjsp)|
-|**2024-08-13 13:38:32**|**Automatic Feature Recognition and Dimensional Attributes Extraction From   CAD Models for Hybrid Additive-Subtractive Manufacturing**|Muhammad Tayyab Khan et.al.|[2408.06891v1](http://arxiv.org/abs/2408.06891v1)|null|
+|**2024-08-13 13:38:32**|**Automatic Feature Recognition and Dimensional Attributes Extraction From   CAD Models for Hybrid Additive-Subtractive Manufacturing**|Muhammad Tayyab Khan et.al.|[2408.06891v2](http://arxiv.org/abs/2408.06891v2)|null|
+|**2024-08-13 13:09:28**|**Physics-informed graph neural networks for flow field estimation in   carotid arteries**|Julian Suk et.al.|[2408.07110v1](http://arxiv.org/abs/2408.07110v1)|null|
 |**2024-08-13 09:38:59**|**Graph Neural Network Approach to Predict the Effects of Road Capacity   Reduction Policies: A Case Study for Paris, France**|Elena Natterer et.al.|[2408.06762v1](http://arxiv.org/abs/2408.06762v1)|null|
 |**2024-08-13 08:22:01**|**Computation-friendly Graph Neural Network Design by Accumulating   Knowledge on Large Language Models**|Jialiang Wang et.al.|[2408.06717v1](http://arxiv.org/abs/2408.06717v1)|null|
 |**2024-08-13 06:34:56**|**RW-NSGCN: A Robust Approach to Structural Attacks via Negative Sampling**|Shuqi He et.al.|[2408.06665v1](http://arxiv.org/abs/2408.06665v1)|null|
@@ -19,16 +27,8 @@
 |**2024-08-12 10:15:13**|**ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation   Using Large Language Models and Transformers**|Aristi Papastavrou et.al.|[2408.06040v1](http://arxiv.org/abs/2408.06040v1)|null|
 |**2024-08-12 10:13:45**|**Spacetime $E(n)$-Transformer: Equivariant Attention for Spatio-temporal   Graphs**|Sergio G. Charles et.al.|[2408.06039v1](http://arxiv.org/abs/2408.06039v1)|null|
 |**2024-08-12 09:07:40**|**Graph-Based Feature Engineering to Predict the Dynamical Properties of   Condensed Matter**|An Wang et.al.|[2408.06016v1](http://arxiv.org/abs/2408.06016v1)|null|
+|**2024-08-12 08:20:38**|**Attention Please: What Transformer Models Really Learn for Process   Prediction**|Martin Käppel et.al.|[2408.07097v1](http://arxiv.org/abs/2408.07097v1)|null|
 |**2024-08-11 20:50:16**|**The Cognitive Revolution in Interpretability: From Explaining Behavior   to Interpreting Representations and Algorithms**|Adam Davies et.al.|[2408.05859v1](http://arxiv.org/abs/2408.05859v1)|null|
 |**2024-08-11 14:47:34**|**GraphTransfer: A Generic Feature Fusion Framework for Collaborative   Filtering**|Jiafeng Xia et.al.|[2408.05792v1](http://arxiv.org/abs/2408.05792v1)|null|
 |**2024-08-11 14:33:23**|**On zero-shot learning in neural state estimation of power distribution   systems**|Aleksandr Berezin et.al.|[2408.05787v1](http://arxiv.org/abs/2408.05787v1)|[link](https://gitlab.com/transense/nse-tl-paper)|
 |**2024-08-11 03:19:29**|**Swarm-Net: Firmware Attestation in IoT Swarms using Graph Neural   Networks and Volatile Memory**|Varun Kohli et.al.|[2408.05680v1](http://arxiv.org/abs/2408.05680v1)|null|
-|**2024-08-10 20:11:11**|**An Information-Theoretic Analysis of Temporal GNNs**|Amirmohammad Farzaneh et.al.|[2408.05624v1](http://arxiv.org/abs/2408.05624v1)|null|
-|**2024-08-10 09:13:42**|**A Laplacian-based Quantum Graph Neural Network for Semi-Supervised   Learning**|Hamed Gholipour et.al.|[2408.05498v2](http://arxiv.org/abs/2408.05498v2)|null|
-|**2024-08-10 08:27:58**|**Topological Blind Spots: Understanding and Extending Topological Deep   Learning Through the Lens of Expressivity**|Yam Eitan et.al.|[2408.05486v1](http://arxiv.org/abs/2408.05486v1)|null|
-|**2024-08-10 06:35:11**|**Path-LLM: A Shortest-Path-based LLM Learning for Unified Graph   Representation**|Wenbo Shang et.al.|[2408.05456v1](http://arxiv.org/abs/2408.05456v1)|null|
-|**2024-08-10 04:03:51**|**Modeling Multi-Step Scientific Processes with Graph Transformer Networks**|Amanda A. Volk et.al.|[2408.05425v1](http://arxiv.org/abs/2408.05425v1)|null|
-|**2024-08-09 18:10:02**|**MUSE: Multi-Knowledge Passing on the Edges, Boosting Knowledge Graph   Completion**|Pengjie Liu et.al.|[2408.05283v1](http://arxiv.org/abs/2408.05283v1)|[link](https://github.com/NxxTGT/MUSE)|
-|**2024-08-09 16:47:49**|**Decoding Quantum LDPC Codes Using Graph Neural Networks**|Vukan Ninkovic et.al.|[2408.05170v1](http://arxiv.org/abs/2408.05170v1)|null|
-|**2024-08-09 16:31:41**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160v1](http://arxiv.org/abs/2408.05160v1)|null|
-|**2024-08-09 13:29:08**|**Variational Bayesian Phylogenetic Inference with Semi-implicit Branch   Length Distributions**|Tianyu Xie et.al.|[2408.05058v1](http://arxiv.org/abs/2408.05058v1)|[link](https://github.com/tyuxie/vbpi-sibranch)|

@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-02 22:33:59**|**SumRecom: A Personalized Summarization Approach by Learning from Users'   Feedback**|Samira Ghodratnama et.al.|[2408.07294v1](http://arxiv.org/abs/2408.07294v1)|null|
 |**2024-08-02 15:29:59**|**HMDN: Hierarchical Multi-Distribution Network for Click-Through Rate   Prediction**|Xingyu Lou et.al.|[2408.01332v1](http://arxiv.org/abs/2408.01332v1)|null|
 |**2024-07-31 13:30:34**|**MIMNet: Multi-Interest Meta Network with Multi-Granularity Target-Guided   Attention for Cross-domain Recommendation**|Xiaofei Zhu et.al.|[2408.00038v1](http://arxiv.org/abs/2408.00038v1)|[link](https://github.com/marqu22/MIMNet)|
 |**2024-07-29 23:41:26**|**Graphite: A Graph-based Extreme Multi-Label Short Text Classifier for   Keyphrase Recommendation**|Ashirbad Mishra et.al.|[2407.20462v1](http://arxiv.org/abs/2407.20462v1)|null|
@@ -16,7 +17,7 @@
 |**2024-06-18 11:59:36**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529v1](http://arxiv.org/abs/2406.12529v1)|null|
 |**2024-06-15 04:59:00**|**MMBee: Live Streaming Gift-Sending Recommendations via Multi-Modal   Fusion and Behaviour Expansion**|Jiaxin Deng et.al.|[2407.00056v1](http://arxiv.org/abs/2407.00056v1)|null|
 |**2024-06-05 14:33:51**|**Decision synthesis in monetary policy**|Tony Chernis et.al.|[2406.03321v1](http://arxiv.org/abs/2406.03321v1)|null|
-|**2024-06-05 09:57:58**|**CAPRI-FAIR: Integration of Multi-sided Fairness in Contextual POI   Recommendation Framework**|Francis Zac dela Cruz et.al.|[2406.03109v2](http://arxiv.org/abs/2406.03109v2)|[link](https://github.com/cruiseresearchgroup/CAPRI-FAIR)|
+|**2024-06-05 09:57:58**|**CAPRI-FAIR: Integration of Multi-sided Fairness in Contextual POI   Recommendation Framework**|Francis Zac dela Cruz et.al.|[2406.03109v3](http://arxiv.org/abs/2406.03109v3)|[link](https://github.com/cruiseresearchgroup/CAPRI-FAIR)|
 |**2024-05-30 21:08:42**|**Hiding Your Awful Online Choices Made More Efficient and Secure: A New   Privacy-Aware Recommender System**|Shibam Mukherjee et.al.|[2405.20483v1](http://arxiv.org/abs/2405.20483v1)|null|
 |**2024-05-28 15:13:29**|**A Vlogger-augmented Graph Neural Network Model for Micro-video   Recommendation**|Weijiang Lai et.al.|[2405.18260v1](http://arxiv.org/abs/2405.18260v1)|[link](https://github.com/laiweijiang/VAGNN)|
 |**2024-05-27 12:49:07**|**Your decision path does matter in pre-training industrial recommenders   with multi-source behaviors**|Chunjing Gan et.al.|[2405.17132v1](http://arxiv.org/abs/2405.17132v1)|null|
@@ -31,4 +32,3 @@
 |**2024-04-22 04:57:33**|**Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning   for Sequential Recommendation**|Xiaofei Zhu et.al.|[2404.13878v2](http://arxiv.org/abs/2404.13878v2)|[link](https://github.com/lalunex/msdccl)|
 |**2024-04-15 12:08:44**|**Scenario-Adaptive Fine-Grained Personalization Network: Tailoring User   Behavior Representation to the Scenario Context**|Moyu Zhang et.al.|[2404.09709v3](http://arxiv.org/abs/2404.09709v3)|null|
 |**2024-04-12 09:57:17**|**Large-Scale Multi-Domain Recommendation: an Automatic Domain Feature   Extraction and Personalized Integration Framework**|Dongbo Xi et.al.|[2404.08361v2](http://arxiv.org/abs/2404.08361v2)|[link](https://github.com/xidongbo/dfei)|
-|**2024-04-11 09:13:52**|**M-scan: A Multi-Scenario Causal-driven Adaptive Network for   Recommendation**|Jiachen Zhu et.al.|[2404.07581v2](http://arxiv.org/abs/2404.07581v2)|null|

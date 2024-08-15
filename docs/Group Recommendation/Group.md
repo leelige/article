@@ -3,6 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-11 18:49:52**|**Online Matrix Completion: A Collaborative Approach with Hott Items**|Dheeraj Baby et.al.|[2408.05843v1](http://arxiv.org/abs/2408.05843v1)|null|
+|**2024-08-10 20:11:52**|**Hierarchical Multi-Armed Bandits for the Concurrent Intelligent Tutoring   of Concepts and Problems of Varying Difficulty Levels**|Blake Castleman et.al.|[2408.07208v1](http://arxiv.org/abs/2408.07208v1)|[link](https://github.com/b-castleman/hierarchical-mab-tutoring)|
 |**2024-08-08 15:52:55**|**Balancing Efficiency with Equality: Auction Design with Group Fairness   Concerns**|Fengjuan Jia et.al.|[2408.04545v2](http://arxiv.org/abs/2408.04545v2)|null|
 |**2024-07-31 02:09:52**|**Unlocking the Potential of Binding Corporate Rules (BCRs) in Health Data   Transfers**|Marcelo Corrales Compagnucci et.al.|[2407.21281v1](http://arxiv.org/abs/2407.21281v1)|null|
 |**2024-07-29 02:39:17**|**AI-Driven Healthcare: A Survey on Ensuring Fairness and Mitigating Bias**|Sribala Vidyadhari Chinta et.al.|[2407.19655v1](http://arxiv.org/abs/2407.19655v1)|null|
@@ -31,4 +32,3 @@
 |**2024-06-21 11:50:50**|**Impact on clinical guideline adherence of Orient-COVID, a CDSS based on   dynamic medical decision trees for COVID19 management: a randomized   simulation trial**|Mouin Jammal et.al.|[2407.11205v1](http://arxiv.org/abs/2407.11205v1)|null|
 |**2024-06-20 08:12:11**|**Personalized Music Recommendation with a Heterogeneity-aware Deep   Bayesian Network**|Erkang Jing et.al.|[2406.14090v1](http://arxiv.org/abs/2406.14090v1)|[link](https://github.com/jingrk/hdbn)|
 |**2024-06-19 17:14:41**|**BEACON: Balancing Convenience and Nutrition in Meals With Long-Term   Group Recommendations and Reasoning on Multimodal Recipes**|Vansh Nagpal et.al.|[2406.13714v1](http://arxiv.org/abs/2406.13714v1)|null|
-|**2024-06-19 07:54:45**|**Spectral analysis of three hot subdwarf stars: EC 11481-2303, Feige 110,   and PG 0909+276: A critical oscillator-strength evaluation for iron-group   elements**|A. Landstorfer et.al.|[2406.13307v1](http://arxiv.org/abs/2406.13307v1)|[link](https://github.com/iaatue/LandstorferPhD)|
