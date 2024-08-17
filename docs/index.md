@@ -1,41 +1,41 @@
 # arxiv-daily
- 自动更新 @ 2024-08-16 16:10:26 Asia/Shanghai
+ 自动更新 @ 2024-08-17 16:09:22 Asia/Shanghai
 
-## Multi Interest Recommendation
+## Graph Neural Network
 
-### Multi Interest
+### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-15 15:18:55**|**Modeling Domain and Feedback Transitions for Cross-Domain Sequential   Recommendation**|Changshuo Zhang et.al.|[2408.08209v1](http://arxiv.org/abs/2408.08209v1)|null|
-|**2024-08-02 22:33:59**|**SumRecom: A Personalized Summarization Approach by Learning from Users'   Feedback**|Samira Ghodratnama et.al.|[2408.07294v1](http://arxiv.org/abs/2408.07294v1)|null|
-|**2024-08-02 15:29:59**|**HMDN: Hierarchical Multi-Distribution Network for Click-Through Rate   Prediction**|Xingyu Lou et.al.|[2408.01332v1](http://arxiv.org/abs/2408.01332v1)|null|
-|**2024-07-31 13:30:34**|**MIMNet: Multi-Interest Meta Network with Multi-Granularity Target-Guided   Attention for Cross-domain Recommendation**|Xiaofei Zhu et.al.|[2408.00038v1](http://arxiv.org/abs/2408.00038v1)|[link](https://github.com/marqu22/MIMNet)|
-|**2024-07-29 23:41:26**|**Graphite: A Graph-based Extreme Multi-Label Short Text Classifier for   Keyphrase Recommendation**|Ashirbad Mishra et.al.|[2407.20462v1](http://arxiv.org/abs/2407.20462v1)|null|
-|**2024-07-29 03:54:00**|**GradCraft: Elevating Multi-task Recommendations through Holistic   Gradient Crafting**|Yimeng Bai et.al.|[2407.19682v1](http://arxiv.org/abs/2407.19682v1)|[link](https://github.com/baiyimeng/gradcraft)|
-|**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v1](http://arxiv.org/abs/2407.16357v1)|null|
-|**2024-07-15 14:54:55**|**Multi-Objective Optimization and Multi-Criteria Decision-Making Approach   to Design Multi-Tubular Packed-Bed Membrane Reactor in Oxidative   Dehydrogenation of Ethane**|Seyed Reza Nabavi et.al.|[2407.10774v1](http://arxiv.org/abs/2407.10774v1)|null|
-|**2024-07-15 13:33:30**|**SEMINAR: Search Enhanced Multi-modal Interest Network and Approximate   Retrieval for Lifelong Sequential Recommendation**|Kaiming Shen et.al.|[2407.10714v1](http://arxiv.org/abs/2407.10714v1)|null|
-|**2024-07-11 07:09:59**|**A Comprehensive Survey on Retrieval Methods in Recommender Systems**|Junjie Huang et.al.|[2407.21022v1](http://arxiv.org/abs/2407.21022v1)|null|
-|**2024-07-10 14:02:21**|**Advancements in Recommender Systems: A Comprehensive Analysis Based on   Data, Algorithms, and Evaluation**|Xin Ma et.al.|[2407.18937v1](http://arxiv.org/abs/2407.18937v1)|null|
-|**2024-07-06 04:57:25**|**MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems   with Large Language Models**|Yunjia Xi et.al.|[2407.04960v1](http://arxiv.org/abs/2407.04960v1)|[link](https://github.com/mindspore-lab/models)|
-|**2024-06-25 17:31:04**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in   E-commerce Search**|Pipi Peng et.al.|[2406.17745v3](http://arxiv.org/abs/2406.17745v3)|null|
-|**2024-06-18 11:59:36**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529v1](http://arxiv.org/abs/2406.12529v1)|null|
-|**2024-06-15 04:59:00**|**MMBee: Live Streaming Gift-Sending Recommendations via Multi-Modal   Fusion and Behaviour Expansion**|Jiaxin Deng et.al.|[2407.00056v1](http://arxiv.org/abs/2407.00056v1)|null|
-|**2024-06-05 14:33:51**|**Decision synthesis in monetary policy**|Tony Chernis et.al.|[2406.03321v1](http://arxiv.org/abs/2406.03321v1)|null|
-|**2024-06-05 09:57:58**|**CAPRI-FAIR: Integration of Multi-sided Fairness in Contextual POI   Recommendation Framework**|Francis Zac dela Cruz et.al.|[2406.03109v3](http://arxiv.org/abs/2406.03109v3)|[link](https://github.com/cruiseresearchgroup/CAPRI-FAIR)|
-|**2024-05-30 21:08:42**|**Hiding Your Awful Online Choices Made More Efficient and Secure: A New   Privacy-Aware Recommender System**|Shibam Mukherjee et.al.|[2405.20483v1](http://arxiv.org/abs/2405.20483v1)|null|
-|**2024-05-28 15:13:29**|**A Vlogger-augmented Graph Neural Network Model for Micro-video   Recommendation**|Weijiang Lai et.al.|[2405.18260v1](http://arxiv.org/abs/2405.18260v1)|[link](https://github.com/laiweijiang/VAGNN)|
-|**2024-05-27 12:49:07**|**Your decision path does matter in pre-training industrial recommenders   with multi-source behaviors**|Chunjing Gan et.al.|[2405.17132v1](http://arxiv.org/abs/2405.17132v1)|null|
-|**2024-05-21 11:54:16**|**Disentangled Representation with Cross Experts Covariance Loss for   Multi-Domain Recommendation**|Zhutian Lin et.al.|[2405.12706v1](http://arxiv.org/abs/2405.12706v1)|null|
-|**2024-05-20 03:47:12**|**Modeling User Fatigue for Sequential Recommendation**|Nian Li et.al.|[2405.11764v2](http://arxiv.org/abs/2405.11764v2)|[link](https://github.com/tsinghua-fib-lab/sigir24-frec)|
-|**2024-05-17 14:57:52**|**A Unified Search and Recommendation Framework Based on Multi-Scenario   Learning for Ranking in E-commerce**|Jinhan Liu et.al.|[2405.10835v2](http://arxiv.org/abs/2405.10835v2)|null|
-|**2024-05-13 09:36:17**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580v1](http://arxiv.org/abs/2405.07580v1)|null|
-|**2024-05-08 06:35:04**|**Full Stage Learning to Rank: A Unified Framework for Multi-Stage Systems**|Kai Zheng et.al.|[2405.04844v1](http://arxiv.org/abs/2405.04844v1)|null|
-|**2024-05-07 18:58:32**|**Multi-Margin Loss: Proposal and Application in Recommender Systems**|Makbule Gulcin Ozsoy et.al.|[2405.04614v2](http://arxiv.org/abs/2405.04614v2)|null|
-|**2024-05-02 22:26:55**|**SoMeR: Multi-View User Representation Learning for Social Media**|Siyi Guo et.al.|[2405.05275v1](http://arxiv.org/abs/2405.05275v1)|null|
-|**2024-04-22 07:54:56**|**A survey of air combat behavior modeling using machine learning**|Patrick Ribu Gorton et.al.|[2404.13954v1](http://arxiv.org/abs/2404.13954v1)|null|
-|**2024-04-22 04:57:33**|**Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning   for Sequential Recommendation**|Xiaofei Zhu et.al.|[2404.13878v2](http://arxiv.org/abs/2404.13878v2)|[link](https://github.com/lalunex/msdccl)|
-|**2024-04-15 12:08:44**|**Scenario-Adaptive Fine-Grained Personalization Network: Tailoring User   Behavior Representation to the Scenario Context**|Moyu Zhang et.al.|[2404.09709v3](http://arxiv.org/abs/2404.09709v3)|null|
+|**2024-08-15 08:43:28**|**Causal Discovery from Time-Series Data with Short-Term Invariance-Based   Convolutional Neural Networks**|Rujia Shen et.al.|[2408.08023v1](http://arxiv.org/abs/2408.08023v1)|[link](https://github.com/hitshenrj/stic)|
+|**2024-08-14 16:49:25**|**Interpretable Graph Neural Networks for Heterogeneous Tabular Data**|Amr Alkhatib et.al.|[2408.07661v1](http://arxiv.org/abs/2408.07661v1)|null|
+|**2024-08-14 14:18:47**|**Graph neural network surrogate for strategic transport planning**|Nikita Makarov et.al.|[2408.07726v1](http://arxiv.org/abs/2408.07726v1)|[link](https://github.com/nikita6187/transportplanningdataset)|
+|**2024-08-14 14:06:13**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569v1](http://arxiv.org/abs/2408.07569v1)|null|
+|**2024-08-14 09:13:27**|**Sum-Product-Set Networks**|Milan Papež et.al.|[2408.07394v1](http://arxiv.org/abs/2408.07394v1)|[link](https://github.com/aicenter/sumproductset.jl)|
+|**2024-08-14 07:31:11**|**Towards Few-shot Self-explaining Graph Neural Networks**|Jingyu Peng et.al.|[2408.07340v1](http://arxiv.org/abs/2408.07340v1)|[link](https://github.com/jypeng28/mse-gnn)|
+|**2024-08-14 07:13:36**|**RSEA-MVGNN: Multi-View Graph Neural Network with Reliable Structural   Enhancement and Aggregation**|Junyu Chen et.al.|[2408.07331v1](http://arxiv.org/abs/2408.07331v1)|null|
+|**2024-08-13 23:24:36**|**Pan-cancer gene set discovery via scRNA-seq for optimal deep learning   based downstream tasks**|Jong Hyun Kim et.al.|[2408.07233v1](http://arxiv.org/abs/2408.07233v1)|null|
+|**2024-08-13 20:16:11**|**Joint Graph Rewiring and Feature Denoising via Spectral Resonance**|Jonas Linkerhägner et.al.|[2408.07191v1](http://arxiv.org/abs/2408.07191v1)|[link](https://github.com/jlinki/JDR)|
+|**2024-08-13 17:05:45**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC   Codes**|Arshpreet Singh Maan et.al.|[2408.07038v1](http://arxiv.org/abs/2408.07038v1)|[link](https://github.com/arshpreetmaan/astra)|
+|**2024-08-13 15:53:58**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993v1](http://arxiv.org/abs/2408.06993v1)|[link](https://github.com/starjob42/datasetjsp)|
+|**2024-08-13 13:38:32**|**Automatic Feature Recognition and Dimensional Attributes Extraction From   CAD Models for Hybrid Additive-Subtractive Manufacturing**|Muhammad Tayyab Khan et.al.|[2408.06891v2](http://arxiv.org/abs/2408.06891v2)|null|
+|**2024-08-13 13:09:28**|**Physics-informed graph neural networks for flow field estimation in   carotid arteries**|Julian Suk et.al.|[2408.07110v1](http://arxiv.org/abs/2408.07110v1)|null|
+|**2024-08-13 09:38:59**|**Graph Neural Network Approach to Predict the Effects of Road Capacity   Reduction Policies: A Case Study for Paris, France**|Elena Natterer et.al.|[2408.06762v1](http://arxiv.org/abs/2408.06762v1)|null|
+|**2024-08-13 08:22:01**|**Computation-friendly Graph Neural Network Design by Accumulating   Knowledge on Large Language Models**|Jialiang Wang et.al.|[2408.06717v1](http://arxiv.org/abs/2408.06717v1)|null|
+|**2024-08-13 06:34:56**|**RW-NSGCN: A Robust Approach to Structural Attacks via Negative Sampling**|Shuqi He et.al.|[2408.06665v1](http://arxiv.org/abs/2408.06665v1)|null|
+|**2024-08-13 04:06:45**|**Generalized knowledge-enhanced framework for biomedical entity and   relation extraction**|Minh Nguyen et.al.|[2408.06618v1](http://arxiv.org/abs/2408.06618v1)|null|
+|**2024-08-13 03:43:10**|**A Neural-Network-Based Mapping and Optimization Framework for   High-Precision Coarse-Grained Simulation**|Zhixuan Zhong et.al.|[2408.06609v1](http://arxiv.org/abs/2408.06609v1)|null|
+|**2024-08-12 22:53:14**|**From Graphs to Qubits: A Critical Review of Quantum Graph Neural   Networks**|Andrea Ceschini et.al.|[2408.06524v1](http://arxiv.org/abs/2408.06524v1)|null|
+|**2024-08-12 21:38:40**|**Decentralized Cooperation in Heterogeneous Multi-Agent Reinforcement   Learning via Graph Neural Network-Based Intrinsic Motivation**|Jahir Sadik Monon et.al.|[2408.06503v1](http://arxiv.org/abs/2408.06503v1)|[link](https://github.com/jahirsadik/cohet-implementation)|
+|**2024-08-12 20:41:07**|**Implicit Neural Representation For Accurate CFD Flow Field Prediction**|Laurent de Vito et.al.|[2408.06486v1](http://arxiv.org/abs/2408.06486v1)|null|
+|**2024-08-12 13:50:23**|**Graph-based Descriptors for Condensed Matter**|An Wang et.al.|[2408.06156v1](http://arxiv.org/abs/2408.06156v1)|null|
+|**2024-08-12 13:48:06**|**Palantir: Towards Efficient Super Resolution for Ultra-high-definition   Live Streaming**|Xinqi Jin et.al.|[2408.06152v1](http://arxiv.org/abs/2408.06152v1)|null|
+|**2024-08-12 10:55:29**|**What Ails Generative Structure-based Drug Design: Too Little or Too Much   Expressivity?**|Rafał Karczewski et.al.|[2408.06050v1](http://arxiv.org/abs/2408.06050v1)|null|
+|**2024-08-12 10:15:13**|**ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation   Using Large Language Models and Transformers**|Aristi Papastavrou et.al.|[2408.06040v1](http://arxiv.org/abs/2408.06040v1)|null|
+|**2024-08-12 10:13:45**|**Spacetime $E(n)$-Transformer: Equivariant Attention for Spatio-temporal   Graphs**|Sergio G. Charles et.al.|[2408.06039v1](http://arxiv.org/abs/2408.06039v1)|null|
+|**2024-08-12 09:07:40**|**Graph-Based Feature Engineering to Predict the Dynamical Properties of   Condensed Matter**|An Wang et.al.|[2408.06016v1](http://arxiv.org/abs/2408.06016v1)|null|
+|**2024-08-12 08:20:38**|**Attention Please: What Transformer Models Really Learn for Process   Prediction**|Martin Käppel et.al.|[2408.07097v1](http://arxiv.org/abs/2408.07097v1)|[link](https://github.com/mkaep/transformer-explainability)|
+|**2024-08-11 20:50:16**|**The Cognitive Revolution in Interpretability: From Explaining Behavior   to Interpreting Representations and Algorithms**|Adam Davies et.al.|[2408.05859v1](http://arxiv.org/abs/2408.05859v1)|null|
+|**2024-08-11 14:47:34**|**GraphTransfer: A Generic Feature Fusion Framework for Collaborative   Filtering**|Jiafeng Xia et.al.|[2408.05792v1](http://arxiv.org/abs/2408.05792v1)|null|
 
 ## Group Recommendation
 
@@ -73,38 +73,38 @@
 |**2024-06-24 10:02:24**|**Cross-domain Transfer of Valence Preferences via a Meta-optimization   Approach**|Chuang Zhao et.al.|[2406.16494v1](http://arxiv.org/abs/2406.16494v1)|[link](https://github.com/data-designer/maprec)|
 |**2024-06-23 08:24:08**|**Evaluating D-MERIT of Partial-annotation on Information Retrieval**|Royi Rassin et.al.|[2406.16048v1](http://arxiv.org/abs/2406.16048v1)|null|
 
-## Graph Neural Network
+## Multi Interest Recommendation
 
-### GNN
+### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-15 08:43:28**|**Causal Discovery from Time-Series Data with Short-Term Invariance-Based   Convolutional Neural Networks**|Rujia Shen et.al.|[2408.08023v1](http://arxiv.org/abs/2408.08023v1)|[link](https://github.com/hitshenrj/stic)|
-|**2024-08-14 16:49:25**|**Interpretable Graph Neural Networks for Heterogeneous Tabular Data**|Amr Alkhatib et.al.|[2408.07661v1](http://arxiv.org/abs/2408.07661v1)|null|
-|**2024-08-14 14:18:47**|**Graph neural network surrogate for strategic transport planning**|Nikita Makarov et.al.|[2408.07726v1](http://arxiv.org/abs/2408.07726v1)|[link](https://github.com/nikita6187/transportplanningdataset)|
-|**2024-08-14 14:06:13**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569v1](http://arxiv.org/abs/2408.07569v1)|null|
-|**2024-08-14 09:13:27**|**Sum-Product-Set Networks**|Milan Papež et.al.|[2408.07394v1](http://arxiv.org/abs/2408.07394v1)|[link](https://github.com/aicenter/sumproductset.jl)|
-|**2024-08-14 07:31:11**|**Towards Few-shot Self-explaining Graph Neural Networks**|Jingyu Peng et.al.|[2408.07340v1](http://arxiv.org/abs/2408.07340v1)|[link](https://github.com/jypeng28/mse-gnn)|
-|**2024-08-14 07:13:36**|**RSEA-MVGNN: Multi-View Graph Neural Network with Reliable Structural   Enhancement and Aggregation**|Junyu Chen et.al.|[2408.07331v1](http://arxiv.org/abs/2408.07331v1)|null|
-|**2024-08-13 23:24:36**|**Pan-cancer gene set discovery via scRNA-seq for optimal deep learning   based downstream tasks**|Jong Hyun Kim et.al.|[2408.07233v1](http://arxiv.org/abs/2408.07233v1)|null|
-|**2024-08-13 20:16:11**|**Joint Graph Rewiring and Feature Denoising via Spectral Resonance**|Jonas Linkerhägner et.al.|[2408.07191v1](http://arxiv.org/abs/2408.07191v1)|null|
-|**2024-08-13 17:05:45**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC   Codes**|Arshpreet Singh Maan et.al.|[2408.07038v1](http://arxiv.org/abs/2408.07038v1)|[link](https://github.com/arshpreetmaan/astra})|
-|**2024-08-13 15:53:58**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993v1](http://arxiv.org/abs/2408.06993v1)|[link](https://github.com/starjob42/datasetjsp)|
-|**2024-08-13 13:38:32**|**Automatic Feature Recognition and Dimensional Attributes Extraction From   CAD Models for Hybrid Additive-Subtractive Manufacturing**|Muhammad Tayyab Khan et.al.|[2408.06891v2](http://arxiv.org/abs/2408.06891v2)|null|
-|**2024-08-13 13:09:28**|**Physics-informed graph neural networks for flow field estimation in   carotid arteries**|Julian Suk et.al.|[2408.07110v1](http://arxiv.org/abs/2408.07110v1)|null|
-|**2024-08-13 09:38:59**|**Graph Neural Network Approach to Predict the Effects of Road Capacity   Reduction Policies: A Case Study for Paris, France**|Elena Natterer et.al.|[2408.06762v1](http://arxiv.org/abs/2408.06762v1)|null|
-|**2024-08-13 08:22:01**|**Computation-friendly Graph Neural Network Design by Accumulating   Knowledge on Large Language Models**|Jialiang Wang et.al.|[2408.06717v1](http://arxiv.org/abs/2408.06717v1)|null|
-|**2024-08-13 06:34:56**|**RW-NSGCN: A Robust Approach to Structural Attacks via Negative Sampling**|Shuqi He et.al.|[2408.06665v1](http://arxiv.org/abs/2408.06665v1)|null|
-|**2024-08-13 04:06:45**|**Generalized knowledge-enhanced framework for biomedical entity and   relation extraction**|Minh Nguyen et.al.|[2408.06618v1](http://arxiv.org/abs/2408.06618v1)|null|
-|**2024-08-13 03:43:10**|**A Neural-Network-Based Mapping and Optimization Framework for   High-Precision Coarse-Grained Simulation**|Zhixuan Zhong et.al.|[2408.06609v1](http://arxiv.org/abs/2408.06609v1)|null|
-|**2024-08-12 22:53:14**|**From Graphs to Qubits: A Critical Review of Quantum Graph Neural   Networks**|Andrea Ceschini et.al.|[2408.06524v1](http://arxiv.org/abs/2408.06524v1)|null|
-|**2024-08-12 21:38:40**|**Decentralized Cooperation in Heterogeneous Multi-Agent Reinforcement   Learning via Graph Neural Network-Based Intrinsic Motivation**|Jahir Sadik Monon et.al.|[2408.06503v1](http://arxiv.org/abs/2408.06503v1)|[link](https://github.com/jahirsadik/cohet-implementation)|
-|**2024-08-12 20:41:07**|**Implicit Neural Representation For Accurate CFD Flow Field Prediction**|Laurent de Vito et.al.|[2408.06486v1](http://arxiv.org/abs/2408.06486v1)|null|
-|**2024-08-12 13:50:23**|**Graph-based Descriptors for Condensed Matter**|An Wang et.al.|[2408.06156v1](http://arxiv.org/abs/2408.06156v1)|null|
-|**2024-08-12 13:48:06**|**Palantir: Towards Efficient Super Resolution for Ultra-high-definition   Live Streaming**|Xinqi Jin et.al.|[2408.06152v1](http://arxiv.org/abs/2408.06152v1)|null|
-|**2024-08-12 10:55:29**|**What Ails Generative Structure-based Drug Design: Too Little or Too Much   Expressivity?**|Rafał Karczewski et.al.|[2408.06050v1](http://arxiv.org/abs/2408.06050v1)|null|
-|**2024-08-12 10:15:13**|**ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation   Using Large Language Models and Transformers**|Aristi Papastavrou et.al.|[2408.06040v1](http://arxiv.org/abs/2408.06040v1)|null|
-|**2024-08-12 10:13:45**|**Spacetime $E(n)$-Transformer: Equivariant Attention for Spatio-temporal   Graphs**|Sergio G. Charles et.al.|[2408.06039v1](http://arxiv.org/abs/2408.06039v1)|null|
-|**2024-08-12 09:07:40**|**Graph-Based Feature Engineering to Predict the Dynamical Properties of   Condensed Matter**|An Wang et.al.|[2408.06016v1](http://arxiv.org/abs/2408.06016v1)|null|
-|**2024-08-12 08:20:38**|**Attention Please: What Transformer Models Really Learn for Process   Prediction**|Martin Käppel et.al.|[2408.07097v1](http://arxiv.org/abs/2408.07097v1)|null|
-|**2024-08-11 20:50:16**|**The Cognitive Revolution in Interpretability: From Explaining Behavior   to Interpreting Representations and Algorithms**|Adam Davies et.al.|[2408.05859v1](http://arxiv.org/abs/2408.05859v1)|null|
-|**2024-08-11 14:47:34**|**GraphTransfer: A Generic Feature Fusion Framework for Collaborative   Filtering**|Jiafeng Xia et.al.|[2408.05792v1](http://arxiv.org/abs/2408.05792v1)|null|
+|**2024-08-15 15:18:55**|**Modeling Domain and Feedback Transitions for Cross-Domain Sequential   Recommendation**|Changshuo Zhang et.al.|[2408.08209v1](http://arxiv.org/abs/2408.08209v1)|null|
+|**2024-08-02 22:33:59**|**SumRecom: A Personalized Summarization Approach by Learning from Users'   Feedback**|Samira Ghodratnama et.al.|[2408.07294v1](http://arxiv.org/abs/2408.07294v1)|null|
+|**2024-08-02 15:29:59**|**HMDN: Hierarchical Multi-Distribution Network for Click-Through Rate   Prediction**|Xingyu Lou et.al.|[2408.01332v1](http://arxiv.org/abs/2408.01332v1)|null|
+|**2024-07-31 13:30:34**|**MIMNet: Multi-Interest Meta Network with Multi-Granularity Target-Guided   Attention for Cross-domain Recommendation**|Xiaofei Zhu et.al.|[2408.00038v1](http://arxiv.org/abs/2408.00038v1)|[link](https://github.com/marqu22/MIMNet)|
+|**2024-07-29 23:41:26**|**Graphite: A Graph-based Extreme Multi-Label Short Text Classifier for   Keyphrase Recommendation**|Ashirbad Mishra et.al.|[2407.20462v1](http://arxiv.org/abs/2407.20462v1)|null|
+|**2024-07-29 03:54:00**|**GradCraft: Elevating Multi-task Recommendations through Holistic   Gradient Crafting**|Yimeng Bai et.al.|[2407.19682v1](http://arxiv.org/abs/2407.19682v1)|[link](https://github.com/baiyimeng/gradcraft)|
+|**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v1](http://arxiv.org/abs/2407.16357v1)|null|
+|**2024-07-15 14:54:55**|**Multi-Objective Optimization and Multi-Criteria Decision-Making Approach   to Design Multi-Tubular Packed-Bed Membrane Reactor in Oxidative   Dehydrogenation of Ethane**|Seyed Reza Nabavi et.al.|[2407.10774v1](http://arxiv.org/abs/2407.10774v1)|null|
+|**2024-07-15 13:33:30**|**SEMINAR: Search Enhanced Multi-modal Interest Network and Approximate   Retrieval for Lifelong Sequential Recommendation**|Kaiming Shen et.al.|[2407.10714v1](http://arxiv.org/abs/2407.10714v1)|null|
+|**2024-07-11 07:09:59**|**A Comprehensive Survey on Retrieval Methods in Recommender Systems**|Junjie Huang et.al.|[2407.21022v1](http://arxiv.org/abs/2407.21022v1)|null|
+|**2024-07-10 14:02:21**|**Advancements in Recommender Systems: A Comprehensive Analysis Based on   Data, Algorithms, and Evaluation**|Xin Ma et.al.|[2407.18937v1](http://arxiv.org/abs/2407.18937v1)|null|
+|**2024-07-06 04:57:25**|**MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems   with Large Language Models**|Yunjia Xi et.al.|[2407.04960v1](http://arxiv.org/abs/2407.04960v1)|[link](https://github.com/mindspore-lab/models)|
+|**2024-06-25 17:31:04**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in   E-commerce Search**|Pipi Peng et.al.|[2406.17745v3](http://arxiv.org/abs/2406.17745v3)|null|
+|**2024-06-18 11:59:36**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529v1](http://arxiv.org/abs/2406.12529v1)|null|
+|**2024-06-15 04:59:00**|**MMBee: Live Streaming Gift-Sending Recommendations via Multi-Modal   Fusion and Behaviour Expansion**|Jiaxin Deng et.al.|[2407.00056v1](http://arxiv.org/abs/2407.00056v1)|null|
+|**2024-06-05 14:33:51**|**Decision synthesis in monetary policy**|Tony Chernis et.al.|[2406.03321v1](http://arxiv.org/abs/2406.03321v1)|null|
+|**2024-06-05 09:57:58**|**CAPRI-FAIR: Integration of Multi-sided Fairness in Contextual POI   Recommendation Framework**|Francis Zac dela Cruz et.al.|[2406.03109v3](http://arxiv.org/abs/2406.03109v3)|[link](https://github.com/cruiseresearchgroup/CAPRI-FAIR)|
+|**2024-05-30 21:08:42**|**Hiding Your Awful Online Choices Made More Efficient and Secure: A New   Privacy-Aware Recommender System**|Shibam Mukherjee et.al.|[2405.20483v1](http://arxiv.org/abs/2405.20483v1)|null|
+|**2024-05-28 15:13:29**|**A Vlogger-augmented Graph Neural Network Model for Micro-video   Recommendation**|Weijiang Lai et.al.|[2405.18260v1](http://arxiv.org/abs/2405.18260v1)|[link](https://github.com/laiweijiang/VAGNN)|
+|**2024-05-27 12:49:07**|**Your decision path does matter in pre-training industrial recommenders   with multi-source behaviors**|Chunjing Gan et.al.|[2405.17132v1](http://arxiv.org/abs/2405.17132v1)|null|
+|**2024-05-21 11:54:16**|**Disentangled Representation with Cross Experts Covariance Loss for   Multi-Domain Recommendation**|Zhutian Lin et.al.|[2405.12706v1](http://arxiv.org/abs/2405.12706v1)|null|
+|**2024-05-20 03:47:12**|**Modeling User Fatigue for Sequential Recommendation**|Nian Li et.al.|[2405.11764v2](http://arxiv.org/abs/2405.11764v2)|[link](https://github.com/tsinghua-fib-lab/sigir24-frec)|
+|**2024-05-17 14:57:52**|**A Unified Search and Recommendation Framework Based on Multi-Scenario   Learning for Ranking in E-commerce**|Jinhan Liu et.al.|[2405.10835v2](http://arxiv.org/abs/2405.10835v2)|null|
+|**2024-05-13 09:36:17**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580v1](http://arxiv.org/abs/2405.07580v1)|null|
+|**2024-05-08 06:35:04**|**Full Stage Learning to Rank: A Unified Framework for Multi-Stage Systems**|Kai Zheng et.al.|[2405.04844v1](http://arxiv.org/abs/2405.04844v1)|null|
+|**2024-05-07 18:58:32**|**Multi-Margin Loss: Proposal and Application in Recommender Systems**|Makbule Gulcin Ozsoy et.al.|[2405.04614v2](http://arxiv.org/abs/2405.04614v2)|null|
+|**2024-05-02 22:26:55**|**SoMeR: Multi-View User Representation Learning for Social Media**|Siyi Guo et.al.|[2405.05275v1](http://arxiv.org/abs/2405.05275v1)|null|
+|**2024-04-22 07:54:56**|**A survey of air combat behavior modeling using machine learning**|Patrick Ribu Gorton et.al.|[2404.13954v1](http://arxiv.org/abs/2404.13954v1)|null|
+|**2024-04-22 04:57:33**|**Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning   for Sequential Recommendation**|Xiaofei Zhu et.al.|[2404.13878v2](http://arxiv.org/abs/2404.13878v2)|[link](https://github.com/lalunex/msdccl)|
+|**2024-04-15 12:08:44**|**Scenario-Adaptive Fine-Grained Personalization Network: Tailoring User   Behavior Representation to the Scenario Context**|Moyu Zhang et.al.|[2404.09709v3](http://arxiv.org/abs/2404.09709v3)|null|

@@ -10,8 +10,8 @@
 |**2024-08-14 07:31:11**|**Towards Few-shot Self-explaining Graph Neural Networks**|Jingyu Peng et.al.|[2408.07340v1](http://arxiv.org/abs/2408.07340v1)|[link](https://github.com/jypeng28/mse-gnn)|
 |**2024-08-14 07:13:36**|**RSEA-MVGNN: Multi-View Graph Neural Network with Reliable Structural   Enhancement and Aggregation**|Junyu Chen et.al.|[2408.07331v1](http://arxiv.org/abs/2408.07331v1)|null|
 |**2024-08-13 23:24:36**|**Pan-cancer gene set discovery via scRNA-seq for optimal deep learning   based downstream tasks**|Jong Hyun Kim et.al.|[2408.07233v1](http://arxiv.org/abs/2408.07233v1)|null|
-|**2024-08-13 20:16:11**|**Joint Graph Rewiring and Feature Denoising via Spectral Resonance**|Jonas Linkerhägner et.al.|[2408.07191v1](http://arxiv.org/abs/2408.07191v1)|null|
-|**2024-08-13 17:05:45**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC   Codes**|Arshpreet Singh Maan et.al.|[2408.07038v1](http://arxiv.org/abs/2408.07038v1)|[link](https://github.com/arshpreetmaan/astra})|
+|**2024-08-13 20:16:11**|**Joint Graph Rewiring and Feature Denoising via Spectral Resonance**|Jonas Linkerhägner et.al.|[2408.07191v1](http://arxiv.org/abs/2408.07191v1)|[link](https://github.com/jlinki/JDR)|
+|**2024-08-13 17:05:45**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC   Codes**|Arshpreet Singh Maan et.al.|[2408.07038v1](http://arxiv.org/abs/2408.07038v1)|[link](https://github.com/arshpreetmaan/astra)|
 |**2024-08-13 15:53:58**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993v1](http://arxiv.org/abs/2408.06993v1)|[link](https://github.com/starjob42/datasetjsp)|
 |**2024-08-13 13:38:32**|**Automatic Feature Recognition and Dimensional Attributes Extraction From   CAD Models for Hybrid Additive-Subtractive Manufacturing**|Muhammad Tayyab Khan et.al.|[2408.06891v2](http://arxiv.org/abs/2408.06891v2)|null|
 |**2024-08-13 13:09:28**|**Physics-informed graph neural networks for flow field estimation in   carotid arteries**|Julian Suk et.al.|[2408.07110v1](http://arxiv.org/abs/2408.07110v1)|null|
@@ -29,6 +29,6 @@
 |**2024-08-12 10:15:13**|**ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation   Using Large Language Models and Transformers**|Aristi Papastavrou et.al.|[2408.06040v1](http://arxiv.org/abs/2408.06040v1)|null|
 |**2024-08-12 10:13:45**|**Spacetime $E(n)$-Transformer: Equivariant Attention for Spatio-temporal   Graphs**|Sergio G. Charles et.al.|[2408.06039v1](http://arxiv.org/abs/2408.06039v1)|null|
 |**2024-08-12 09:07:40**|**Graph-Based Feature Engineering to Predict the Dynamical Properties of   Condensed Matter**|An Wang et.al.|[2408.06016v1](http://arxiv.org/abs/2408.06016v1)|null|
-|**2024-08-12 08:20:38**|**Attention Please: What Transformer Models Really Learn for Process   Prediction**|Martin Käppel et.al.|[2408.07097v1](http://arxiv.org/abs/2408.07097v1)|null|
+|**2024-08-12 08:20:38**|**Attention Please: What Transformer Models Really Learn for Process   Prediction**|Martin Käppel et.al.|[2408.07097v1](http://arxiv.org/abs/2408.07097v1)|[link](https://github.com/mkaep/transformer-explainability)|
 |**2024-08-11 20:50:16**|**The Cognitive Revolution in Interpretability: From Explaining Behavior   to Interpreting Representations and Algorithms**|Adam Davies et.al.|[2408.05859v1](http://arxiv.org/abs/2408.05859v1)|null|
 |**2024-08-11 14:47:34**|**GraphTransfer: A Generic Feature Fusion Framework for Collaborative   Filtering**|Jiafeng Xia et.al.|[2408.05792v1](http://arxiv.org/abs/2408.05792v1)|null|
