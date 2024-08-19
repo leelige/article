@@ -1,18 +1,19 @@
 # arxiv-daily
- 自动更新 @ 2024-08-18 16:09:11 Asia/Shanghai
+ 自动更新 @ 2024-08-19 16:10:50 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-16 05:51:00**|**Don't Click the Bait: Title Debiasing News Recommendation via   Cross-Field Contrastive Learning**|Yijie Shu et.al.|[2408.08538v1](http://arxiv.org/abs/2408.08538v1)|null|
 |**2024-08-15 15:18:55**|**Modeling Domain and Feedback Transitions for Cross-Domain Sequential   Recommendation**|Changshuo Zhang et.al.|[2408.08209v1](http://arxiv.org/abs/2408.08209v1)|null|
 |**2024-08-02 22:33:59**|**SumRecom: A Personalized Summarization Approach by Learning from Users'   Feedback**|Samira Ghodratnama et.al.|[2408.07294v1](http://arxiv.org/abs/2408.07294v1)|null|
 |**2024-08-02 15:29:59**|**HMDN: Hierarchical Multi-Distribution Network for Click-Through Rate   Prediction**|Xingyu Lou et.al.|[2408.01332v1](http://arxiv.org/abs/2408.01332v1)|null|
 |**2024-07-31 13:30:34**|**MIMNet: Multi-Interest Meta Network with Multi-Granularity Target-Guided   Attention for Cross-domain Recommendation**|Xiaofei Zhu et.al.|[2408.00038v1](http://arxiv.org/abs/2408.00038v1)|[link](https://github.com/marqu22/MIMNet)|
 |**2024-07-29 23:41:26**|**Graphite: A Graph-based Extreme Multi-Label Short Text Classifier for   Keyphrase Recommendation**|Ashirbad Mishra et.al.|[2407.20462v1](http://arxiv.org/abs/2407.20462v1)|null|
 |**2024-07-29 03:54:00**|**GradCraft: Elevating Multi-task Recommendations through Holistic   Gradient Crafting**|Yimeng Bai et.al.|[2407.19682v1](http://arxiv.org/abs/2407.19682v1)|[link](https://github.com/baiyimeng/gradcraft)|
-|**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v1](http://arxiv.org/abs/2407.16357v1)|null|
+|**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v2](http://arxiv.org/abs/2407.16357v2)|null|
 |**2024-07-15 14:54:55**|**Multi-Objective Optimization and Multi-Criteria Decision-Making Approach   to Design Multi-Tubular Packed-Bed Membrane Reactor in Oxidative   Dehydrogenation of Ethane**|Seyed Reza Nabavi et.al.|[2407.10774v1](http://arxiv.org/abs/2407.10774v1)|null|
 |**2024-07-15 13:33:30**|**SEMINAR: Search Enhanced Multi-modal Interest Network and Approximate   Retrieval for Lifelong Sequential Recommendation**|Kaiming Shen et.al.|[2407.10714v1](http://arxiv.org/abs/2407.10714v1)|null|
 |**2024-07-11 07:09:59**|**A Comprehensive Survey on Retrieval Methods in Recommender Systems**|Junjie Huang et.al.|[2407.21022v1](http://arxiv.org/abs/2407.21022v1)|null|
@@ -35,13 +36,20 @@
 |**2024-05-02 22:26:55**|**SoMeR: Multi-View User Representation Learning for Social Media**|Siyi Guo et.al.|[2405.05275v1](http://arxiv.org/abs/2405.05275v1)|null|
 |**2024-04-22 07:54:56**|**A survey of air combat behavior modeling using machine learning**|Patrick Ribu Gorton et.al.|[2404.13954v1](http://arxiv.org/abs/2404.13954v1)|null|
 |**2024-04-22 04:57:33**|**Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning   for Sequential Recommendation**|Xiaofei Zhu et.al.|[2404.13878v2](http://arxiv.org/abs/2404.13878v2)|[link](https://github.com/lalunex/msdccl)|
-|**2024-04-15 12:08:44**|**Scenario-Adaptive Fine-Grained Personalization Network: Tailoring User   Behavior Representation to the Scenario Context**|Moyu Zhang et.al.|[2404.09709v3](http://arxiv.org/abs/2404.09709v3)|null|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-16 15:16:35**|**Representation Learning of Geometric Trees**|Zheng Zhang et.al.|[2408.08799v1](http://arxiv.org/abs/2408.08799v1)|null|
+|**2024-08-16 15:01:28**|**Neighbor Overlay-Induced Graph Attention Network**|Tiqiao Wei et.al.|[2408.08788v1](http://arxiv.org/abs/2408.08788v1)|null|
+|**2024-08-16 13:54:50**|**SE-SGformer: A Self-Explainable Signed Graph Transformer for Link Sign   Prediction**|Lu Li et.al.|[2408.08754v1](http://arxiv.org/abs/2408.08754v1)|null|
+|**2024-08-16 11:58:34**|**Can Large Language Models Improve the Adversarial Robustness of Graph   Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685v1](http://arxiv.org/abs/2408.08685v1)|null|
+|**2024-08-16 07:33:58**|**GrassNet: State Space Model Meets Graph Neural Network**|Gongpei Zhao et.al.|[2408.08583v1](http://arxiv.org/abs/2408.08583v1)|null|
+|**2024-08-16 03:22:18**|**Mitigating Degree Bias in Signed Graph Neural Networks**|Fang He et.al.|[2408.08508v1](http://arxiv.org/abs/2408.08508v1)|null|
+|**2024-08-16 02:19:04**|**Accelerating Mini-batch HGNN Training by Reducing CUDA Kernels**|Meng Wu et.al.|[2408.08490v1](http://arxiv.org/abs/2408.08490v1)|null|
+|**2024-08-16 02:07:34**|**An Unsupervised Learning Framework Combined with Heuristics for the   Maximum Minimal Cut Problem**|Huaiyuan Liu et.al.|[2408.08484v1](http://arxiv.org/abs/2408.08484v1)|[link](https://github.com/luckyseasalt/pioneer)|
 |**2024-08-15 08:43:28**|**Causal Discovery from Time-Series Data with Short-Term Invariance-Based   Convolutional Neural Networks**|Rujia Shen et.al.|[2408.08023v1](http://arxiv.org/abs/2408.08023v1)|[link](https://github.com/hitshenrj/stic)|
 |**2024-08-14 16:49:25**|**Interpretable Graph Neural Networks for Heterogeneous Tabular Data**|Amr Alkhatib et.al.|[2408.07661v1](http://arxiv.org/abs/2408.07661v1)|null|
 |**2024-08-14 14:18:47**|**Graph neural network surrogate for strategic transport planning**|Nikita Makarov et.al.|[2408.07726v1](http://arxiv.org/abs/2408.07726v1)|[link](https://github.com/nikita6187/transportplanningdataset)|
@@ -64,30 +72,23 @@
 |**2024-08-12 21:38:40**|**Decentralized Cooperation in Heterogeneous Multi-Agent Reinforcement   Learning via Graph Neural Network-Based Intrinsic Motivation**|Jahir Sadik Monon et.al.|[2408.06503v1](http://arxiv.org/abs/2408.06503v1)|[link](https://github.com/jahirsadik/cohet-implementation)|
 |**2024-08-12 20:41:07**|**Implicit Neural Representation For Accurate CFD Flow Field Prediction**|Laurent de Vito et.al.|[2408.06486v1](http://arxiv.org/abs/2408.06486v1)|null|
 |**2024-08-12 13:50:23**|**Graph-based Descriptors for Condensed Matter**|An Wang et.al.|[2408.06156v1](http://arxiv.org/abs/2408.06156v1)|null|
-|**2024-08-12 13:48:06**|**Palantir: Towards Efficient Super Resolution for Ultra-high-definition   Live Streaming**|Xinqi Jin et.al.|[2408.06152v1](http://arxiv.org/abs/2408.06152v1)|null|
-|**2024-08-12 10:55:29**|**What Ails Generative Structure-based Drug Design: Too Little or Too Much   Expressivity?**|Rafał Karczewski et.al.|[2408.06050v1](http://arxiv.org/abs/2408.06050v1)|null|
-|**2024-08-12 10:15:13**|**ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation   Using Large Language Models and Transformers**|Aristi Papastavrou et.al.|[2408.06040v1](http://arxiv.org/abs/2408.06040v1)|null|
-|**2024-08-12 10:13:45**|**Spacetime $E(n)$-Transformer: Equivariant Attention for Spatio-temporal   Graphs**|Sergio G. Charles et.al.|[2408.06039v1](http://arxiv.org/abs/2408.06039v1)|null|
-|**2024-08-12 09:07:40**|**Graph-Based Feature Engineering to Predict the Dynamical Properties of   Condensed Matter**|An Wang et.al.|[2408.06016v1](http://arxiv.org/abs/2408.06016v1)|null|
-|**2024-08-12 08:20:38**|**Attention Please: What Transformer Models Really Learn for Process   Prediction**|Martin Käppel et.al.|[2408.07097v1](http://arxiv.org/abs/2408.07097v1)|[link](https://github.com/mkaep/transformer-explainability)|
-|**2024-08-11 20:50:16**|**The Cognitive Revolution in Interpretability: From Explaining Behavior   to Interpreting Representations and Algorithms**|Adam Davies et.al.|[2408.05859v1](http://arxiv.org/abs/2408.05859v1)|null|
-|**2024-08-11 14:47:34**|**GraphTransfer: A Generic Feature Fusion Framework for Collaborative   Filtering**|Jiafeng Xia et.al.|[2408.05792v1](http://arxiv.org/abs/2408.05792v1)|null|
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-16 09:17:39**|**Colorectal cancer risk mapping through Bayesian Networks**|Daniel Corrales et.al.|[2408.08618v1](http://arxiv.org/abs/2408.08618v1)|null|
 |**2024-08-14 20:30:27**|**Reduction to depth zero for tame p-adic groups via Hecke algebra   isomorphisms**|Jeffrey D. Adler et.al.|[2408.07805v1](http://arxiv.org/abs/2408.07805v1)|null|
 |**2024-08-14 20:23:09**|**Structure of Hecke algebras arising from types**|Jeffrey D. Adler et.al.|[2408.07801v1](http://arxiv.org/abs/2408.07801v1)|null|
 |**2024-08-14 18:14:40**|**RAVE Checklist: Recommendations for Overcoming Challenges in   Retrospective Safety Studies of Automated Driving Systems**|John M. Scanlon et.al.|[2408.07758v1](http://arxiv.org/abs/2408.07758v1)|null|
-|**2024-08-14 10:45:15**|**DOME Registry: Implementing community-wide recommendations for reporting   supervised machine learning in biology**|Omar Abdelghani Attafi et.al.|[2408.07721v1](http://arxiv.org/abs/2408.07721v1)|null|
+|**2024-08-14 10:45:15**|**DOME Registry: Implementing community-wide recommendations for reporting   supervised machine learning in biology**|Omar Abdelghani Attafi et.al.|[2408.07721v2](http://arxiv.org/abs/2408.07721v2)|null|
 |**2024-08-11 18:49:52**|**Online Matrix Completion: A Collaborative Approach with Hott Items**|Dheeraj Baby et.al.|[2408.05843v1](http://arxiv.org/abs/2408.05843v1)|null|
 |**2024-08-10 20:11:52**|**Hierarchical Multi-Armed Bandits for the Concurrent Intelligent Tutoring   of Concepts and Problems of Varying Difficulty Levels**|Blake Castleman et.al.|[2408.07208v1](http://arxiv.org/abs/2408.07208v1)|[link](https://github.com/b-castleman/hierarchical-mab-tutoring)|
 |**2024-08-08 15:52:55**|**Balancing Efficiency with Equality: Auction Design with Group Fairness   Concerns**|Fengjuan Jia et.al.|[2408.04545v2](http://arxiv.org/abs/2408.04545v2)|null|
 |**2024-07-31 02:09:52**|**Unlocking the Potential of Binding Corporate Rules (BCRs) in Health Data   Transfers**|Marcelo Corrales Compagnucci et.al.|[2407.21281v1](http://arxiv.org/abs/2407.21281v1)|null|
 |**2024-07-29 02:39:17**|**AI-Driven Healthcare: A Survey on Ensuring Fairness and Mitigating Bias**|Sribala Vidyadhari Chinta et.al.|[2407.19655v1](http://arxiv.org/abs/2407.19655v1)|null|
-|**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v1](http://arxiv.org/abs/2407.16357v1)|null|
+|**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v2](http://arxiv.org/abs/2407.16357v2)|null|
 |**2024-07-22 17:35:18**|**Towards Effective Collaboration between Software Engineers and Data   Scientists developing Machine Learning-Enabled Systems**|Gabriel Busquim et.al.|[2407.15821v1](http://arxiv.org/abs/2407.15821v1)|null|
 |**2024-07-19 00:01:18**|**Knowledge Distillation Approaches for Accurate and Efficient Recommender   System**|SeongKu Kang et.al.|[2407.13952v1](http://arxiv.org/abs/2407.13952v1)|[link](https://github.com/SeongKu-Kang/DE-RRD_CIKM20)|
 |**2024-07-17 09:57:30**|**Interim report for the International Muon Collider Collaboration (IMCC)**|C. Accettura et.al.|[2407.12450v1](http://arxiv.org/abs/2407.12450v1)|null|
@@ -107,4 +108,3 @@
 |**2024-06-27 17:21:00**|**Estimation of Shannon differential entropy: An extensive comparative   review**|Mbanefo S. Madukaife et.al.|[2406.19432v1](http://arxiv.org/abs/2406.19432v1)|null|
 |**2024-06-24 16:03:57**|**Addressing Polarization and Unfairness in Performative Prediction**|Kun Jin et.al.|[2406.16756v1](http://arxiv.org/abs/2406.16756v1)|null|
 |**2024-06-24 10:02:24**|**Cross-domain Transfer of Valence Preferences via a Meta-optimization   Approach**|Chuang Zhao et.al.|[2406.16494v1](http://arxiv.org/abs/2406.16494v1)|[link](https://github.com/data-designer/maprec)|
-|**2024-06-23 08:24:08**|**Evaluating D-MERIT of Partial-annotation on Information Retrieval**|Royi Rassin et.al.|[2406.16048v1](http://arxiv.org/abs/2406.16048v1)|null|

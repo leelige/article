@@ -2,16 +2,17 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-16 09:17:39**|**Colorectal cancer risk mapping through Bayesian Networks**|Daniel Corrales et.al.|[2408.08618v1](http://arxiv.org/abs/2408.08618v1)|null|
 |**2024-08-14 20:30:27**|**Reduction to depth zero for tame p-adic groups via Hecke algebra   isomorphisms**|Jeffrey D. Adler et.al.|[2408.07805v1](http://arxiv.org/abs/2408.07805v1)|null|
 |**2024-08-14 20:23:09**|**Structure of Hecke algebras arising from types**|Jeffrey D. Adler et.al.|[2408.07801v1](http://arxiv.org/abs/2408.07801v1)|null|
 |**2024-08-14 18:14:40**|**RAVE Checklist: Recommendations for Overcoming Challenges in   Retrospective Safety Studies of Automated Driving Systems**|John M. Scanlon et.al.|[2408.07758v1](http://arxiv.org/abs/2408.07758v1)|null|
-|**2024-08-14 10:45:15**|**DOME Registry: Implementing community-wide recommendations for reporting   supervised machine learning in biology**|Omar Abdelghani Attafi et.al.|[2408.07721v1](http://arxiv.org/abs/2408.07721v1)|null|
+|**2024-08-14 10:45:15**|**DOME Registry: Implementing community-wide recommendations for reporting   supervised machine learning in biology**|Omar Abdelghani Attafi et.al.|[2408.07721v2](http://arxiv.org/abs/2408.07721v2)|null|
 |**2024-08-11 18:49:52**|**Online Matrix Completion: A Collaborative Approach with Hott Items**|Dheeraj Baby et.al.|[2408.05843v1](http://arxiv.org/abs/2408.05843v1)|null|
 |**2024-08-10 20:11:52**|**Hierarchical Multi-Armed Bandits for the Concurrent Intelligent Tutoring   of Concepts and Problems of Varying Difficulty Levels**|Blake Castleman et.al.|[2408.07208v1](http://arxiv.org/abs/2408.07208v1)|[link](https://github.com/b-castleman/hierarchical-mab-tutoring)|
 |**2024-08-08 15:52:55**|**Balancing Efficiency with Equality: Auction Design with Group Fairness   Concerns**|Fengjuan Jia et.al.|[2408.04545v2](http://arxiv.org/abs/2408.04545v2)|null|
 |**2024-07-31 02:09:52**|**Unlocking the Potential of Binding Corporate Rules (BCRs) in Health Data   Transfers**|Marcelo Corrales Compagnucci et.al.|[2407.21281v1](http://arxiv.org/abs/2407.21281v1)|null|
 |**2024-07-29 02:39:17**|**AI-Driven Healthcare: A Survey on Ensuring Fairness and Mitigating Bias**|Sribala Vidyadhari Chinta et.al.|[2407.19655v1](http://arxiv.org/abs/2407.19655v1)|null|
-|**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v1](http://arxiv.org/abs/2407.16357v1)|null|
+|**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v2](http://arxiv.org/abs/2407.16357v2)|null|
 |**2024-07-22 17:35:18**|**Towards Effective Collaboration between Software Engineers and Data   Scientists developing Machine Learning-Enabled Systems**|Gabriel Busquim et.al.|[2407.15821v1](http://arxiv.org/abs/2407.15821v1)|null|
 |**2024-07-19 00:01:18**|**Knowledge Distillation Approaches for Accurate and Efficient Recommender   System**|SeongKu Kang et.al.|[2407.13952v1](http://arxiv.org/abs/2407.13952v1)|[link](https://github.com/SeongKu-Kang/DE-RRD_CIKM20)|
 |**2024-07-17 09:57:30**|**Interim report for the International Muon Collider Collaboration (IMCC)**|C. Accettura et.al.|[2407.12450v1](http://arxiv.org/abs/2407.12450v1)|null|
@@ -31,4 +32,3 @@
 |**2024-06-27 17:21:00**|**Estimation of Shannon differential entropy: An extensive comparative   review**|Mbanefo S. Madukaife et.al.|[2406.19432v1](http://arxiv.org/abs/2406.19432v1)|null|
 |**2024-06-24 16:03:57**|**Addressing Polarization and Unfairness in Performative Prediction**|Kun Jin et.al.|[2406.16756v1](http://arxiv.org/abs/2406.16756v1)|null|
 |**2024-06-24 10:02:24**|**Cross-domain Transfer of Valence Preferences via a Meta-optimization   Approach**|Chuang Zhao et.al.|[2406.16494v1](http://arxiv.org/abs/2406.16494v1)|[link](https://github.com/data-designer/maprec)|
-|**2024-06-23 08:24:08**|**Evaluating D-MERIT of Partial-annotation on Information Retrieval**|Royi Rassin et.al.|[2406.16048v1](http://arxiv.org/abs/2406.16048v1)|null|

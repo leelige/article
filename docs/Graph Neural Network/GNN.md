@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-16 15:16:35**|**Representation Learning of Geometric Trees**|Zheng Zhang et.al.|[2408.08799v1](http://arxiv.org/abs/2408.08799v1)|null|
+|**2024-08-16 15:01:28**|**Neighbor Overlay-Induced Graph Attention Network**|Tiqiao Wei et.al.|[2408.08788v1](http://arxiv.org/abs/2408.08788v1)|null|
+|**2024-08-16 13:54:50**|**SE-SGformer: A Self-Explainable Signed Graph Transformer for Link Sign   Prediction**|Lu Li et.al.|[2408.08754v1](http://arxiv.org/abs/2408.08754v1)|null|
+|**2024-08-16 11:58:34**|**Can Large Language Models Improve the Adversarial Robustness of Graph   Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685v1](http://arxiv.org/abs/2408.08685v1)|null|
+|**2024-08-16 07:33:58**|**GrassNet: State Space Model Meets Graph Neural Network**|Gongpei Zhao et.al.|[2408.08583v1](http://arxiv.org/abs/2408.08583v1)|null|
+|**2024-08-16 03:22:18**|**Mitigating Degree Bias in Signed Graph Neural Networks**|Fang He et.al.|[2408.08508v1](http://arxiv.org/abs/2408.08508v1)|null|
+|**2024-08-16 02:19:04**|**Accelerating Mini-batch HGNN Training by Reducing CUDA Kernels**|Meng Wu et.al.|[2408.08490v1](http://arxiv.org/abs/2408.08490v1)|null|
+|**2024-08-16 02:07:34**|**An Unsupervised Learning Framework Combined with Heuristics for the   Maximum Minimal Cut Problem**|Huaiyuan Liu et.al.|[2408.08484v1](http://arxiv.org/abs/2408.08484v1)|[link](https://github.com/luckyseasalt/pioneer)|
 |**2024-08-15 08:43:28**|**Causal Discovery from Time-Series Data with Short-Term Invariance-Based   Convolutional Neural Networks**|Rujia Shen et.al.|[2408.08023v1](http://arxiv.org/abs/2408.08023v1)|[link](https://github.com/hitshenrj/stic)|
 |**2024-08-14 16:49:25**|**Interpretable Graph Neural Networks for Heterogeneous Tabular Data**|Amr Alkhatib et.al.|[2408.07661v1](http://arxiv.org/abs/2408.07661v1)|null|
 |**2024-08-14 14:18:47**|**Graph neural network surrogate for strategic transport planning**|Nikita Makarov et.al.|[2408.07726v1](http://arxiv.org/abs/2408.07726v1)|[link](https://github.com/nikita6187/transportplanningdataset)|
@@ -24,11 +32,3 @@
 |**2024-08-12 21:38:40**|**Decentralized Cooperation in Heterogeneous Multi-Agent Reinforcement   Learning via Graph Neural Network-Based Intrinsic Motivation**|Jahir Sadik Monon et.al.|[2408.06503v1](http://arxiv.org/abs/2408.06503v1)|[link](https://github.com/jahirsadik/cohet-implementation)|
 |**2024-08-12 20:41:07**|**Implicit Neural Representation For Accurate CFD Flow Field Prediction**|Laurent de Vito et.al.|[2408.06486v1](http://arxiv.org/abs/2408.06486v1)|null|
 |**2024-08-12 13:50:23**|**Graph-based Descriptors for Condensed Matter**|An Wang et.al.|[2408.06156v1](http://arxiv.org/abs/2408.06156v1)|null|
-|**2024-08-12 13:48:06**|**Palantir: Towards Efficient Super Resolution for Ultra-high-definition   Live Streaming**|Xinqi Jin et.al.|[2408.06152v1](http://arxiv.org/abs/2408.06152v1)|null|
-|**2024-08-12 10:55:29**|**What Ails Generative Structure-based Drug Design: Too Little or Too Much   Expressivity?**|Rafał Karczewski et.al.|[2408.06050v1](http://arxiv.org/abs/2408.06050v1)|null|
-|**2024-08-12 10:15:13**|**ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation   Using Large Language Models and Transformers**|Aristi Papastavrou et.al.|[2408.06040v1](http://arxiv.org/abs/2408.06040v1)|null|
-|**2024-08-12 10:13:45**|**Spacetime $E(n)$-Transformer: Equivariant Attention for Spatio-temporal   Graphs**|Sergio G. Charles et.al.|[2408.06039v1](http://arxiv.org/abs/2408.06039v1)|null|
-|**2024-08-12 09:07:40**|**Graph-Based Feature Engineering to Predict the Dynamical Properties of   Condensed Matter**|An Wang et.al.|[2408.06016v1](http://arxiv.org/abs/2408.06016v1)|null|
-|**2024-08-12 08:20:38**|**Attention Please: What Transformer Models Really Learn for Process   Prediction**|Martin Käppel et.al.|[2408.07097v1](http://arxiv.org/abs/2408.07097v1)|[link](https://github.com/mkaep/transformer-explainability)|
-|**2024-08-11 20:50:16**|**The Cognitive Revolution in Interpretability: From Explaining Behavior   to Interpreting Representations and Algorithms**|Adam Davies et.al.|[2408.05859v1](http://arxiv.org/abs/2408.05859v1)|null|
-|**2024-08-11 14:47:34**|**GraphTransfer: A Generic Feature Fusion Framework for Collaborative   Filtering**|Jiafeng Xia et.al.|[2408.05792v1](http://arxiv.org/abs/2408.05792v1)|null|
