@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-20 17:49:51**|**Reconciling Methodological Paradigms: Employing Large Language Models as   Novice Qualitative Research Assistants in Talent Management Research**|Sreyoshi Bhaduri et.al.|[2408.11043v1](http://arxiv.org/abs/2408.11043v1)|null|
+|**2024-08-20 03:28:10**|**Relativistic and Electron Correlation Effects in Static Dipole   Polarizabilities for Main-Group Elements**|YingXing Cheng et.al.|[2408.10513v1](http://arxiv.org/abs/2408.10513v1)|null|
 |**2024-08-16 09:17:39**|**Colorectal cancer risk mapping through Bayesian Networks**|Daniel Corrales et.al.|[2408.08618v1](http://arxiv.org/abs/2408.08618v1)|null|
 |**2024-08-14 20:30:27**|**Reduction to depth zero for tame p-adic groups via Hecke algebra   isomorphisms**|Jeffrey D. Adler et.al.|[2408.07805v1](http://arxiv.org/abs/2408.07805v1)|null|
 |**2024-08-14 20:23:09**|**Structure of Hecke algebras arising from types**|Jeffrey D. Adler et.al.|[2408.07801v1](http://arxiv.org/abs/2408.07801v1)|null|
@@ -30,5 +32,3 @@
 |**2024-07-03 09:05:03**|**Passenger Route and Departure Time Guidance under Disruptions in   Oversaturated Urban Rail Transit Networks**|Siyu Zhuo et.al.|[2407.03388v1](http://arxiv.org/abs/2407.03388v1)|null|
 |**2024-06-29 16:02:52**|**Development of an interactive GUI using MATLAB for the detection of type   and stage of Breast Tumor**|Poulmi Banerjee et.al.|[2407.00480v1](http://arxiv.org/abs/2407.00480v1)|null|
 |**2024-06-27 17:21:00**|**Estimation of Shannon differential entropy: An extensive comparative   review**|Mbanefo S. Madukaife et.al.|[2406.19432v1](http://arxiv.org/abs/2406.19432v1)|null|
-|**2024-06-24 16:03:57**|**Addressing Polarization and Unfairness in Performative Prediction**|Kun Jin et.al.|[2406.16756v1](http://arxiv.org/abs/2406.16756v1)|null|
-|**2024-06-24 10:02:24**|**Cross-domain Transfer of Valence Preferences via a Meta-optimization   Approach**|Chuang Zhao et.al.|[2406.16494v1](http://arxiv.org/abs/2406.16494v1)|[link](https://github.com/data-designer/maprec)|
