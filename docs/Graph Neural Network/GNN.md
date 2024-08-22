@@ -2,13 +2,22 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-21 16:34:53**|**A Novel Evaluation Perspective on GNNs-based Recommender Systems through   the Topology of the User-Item Graph**|Daniele Malitesta et.al.|[2408.11762v1](http://arxiv.org/abs/2408.11762v1)|[link](https://github.com/sisinflab/topology-graph-collaborative-filtering)|
+|**2024-08-21 14:37:50**|**Optimizing Federated Graph Learning with Inherent Structural Knowledge   and Dual-Densely Connected GNNs**|Longwen Wang et.al.|[2408.11662v1](http://arxiv.org/abs/2408.11662v1)|null|
+|**2024-08-21 10:18:41**|**Slicing Input Features to Accelerate Deep Learning: A Case Study with   Graph Neural Networks**|Zhengjia Xu et.al.|[2408.11500v1](http://arxiv.org/abs/2408.11500v1)|null|
+|**2024-08-21 10:02:05**|**Estimating Peer Direct and Indirect Effects in Observational Network   Data**|Xiaojing Du et.al.|[2408.11492v1](http://arxiv.org/abs/2408.11492v1)|null|
+|**2024-08-21 06:42:22**|**Graph Classification via Reference Distribution Learning: Theory and   Practice**|Zixiao Wang et.al.|[2408.11370v1](http://arxiv.org/abs/2408.11370v1)|null|
+|**2024-08-21 06:38:49**|**Towards Probabilistic Inductive Logic Programming with Neurosymbolic   Inference and Relaxation**|Fieke Hillerstrom et.al.|[2408.11367v1](http://arxiv.org/abs/2408.11367v1)|null|
+|**2024-08-21 03:14:25**|**Modeling Reference-dependent Choices with Graph Neural Networks**|Liang Zhang et.al.|[2408.11302v1](http://arxiv.org/abs/2408.11302v1)|null|
+|**2024-08-20 23:08:07**|**Multi-User Continuous-Aperture Array Communications: How to Learn   Current Distribution?**|Jia Guo et.al.|[2408.11230v1](http://arxiv.org/abs/2408.11230v1)|null|
+|**2024-08-20 18:31:20**|**Public Health in Disaster: Emotional Health and Life Incidents   Extraction during Hurricane Harvey**|Thomas Hoang et.al.|[2408.11133v1](http://arxiv.org/abs/2408.11133v1)|null|
 |**2024-08-20 15:41:20**|**GAIM: Attacking Graph Neural Networks via Adversarial Influence   Maximization**|Xiaodong Yang et.al.|[2408.10948v1](http://arxiv.org/abs/2408.10948v1)|null|
 |**2024-08-20 13:18:21**|**Navigating Spatio-Temporal Heterogeneity: A Graph Transformer Approach   for Traffic Forecasting**|Jianxiang Zhou et.al.|[2408.10822v1](http://arxiv.org/abs/2408.10822v1)|null|
 |**2024-08-20 13:13:36**|**Learning Randomized Algorithms with Transformers**|Johannes von Oswald et.al.|[2408.10818v1](http://arxiv.org/abs/2408.10818v1)|null|
 |**2024-08-20 13:08:47**|**Data-driven prediction of structure of metal-organic frameworks**|Elizaveta Yakovenko et.al.|[2408.10814v1](http://arxiv.org/abs/2408.10814v1)|null|
 |**2024-08-20 04:07:27**|**First return times on sparse random graphs**|Oleg Evnin et.al.|[2408.10530v1](http://arxiv.org/abs/2408.10530v1)|null|
 |**2024-08-19 22:03:02**|**Learning Regularization for Graph Inverse Problems**|Moshe Eliasof et.al.|[2408.10436v1](http://arxiv.org/abs/2408.10436v1)|null|
-|**2024-08-19 18:59:52**|**Query languages for neural networks**|Martin Grohe et.al.|[2408.10362v1](http://arxiv.org/abs/2408.10362v1)|null|
+|**2024-08-19 18:59:52**|**Query languages for neural networks**|Martin Grohe et.al.|[2408.10362v2](http://arxiv.org/abs/2408.10362v2)|null|
 |**2024-08-19 17:59:04**|**KAN 2.0: Kolmogorov-Arnold Networks Meet Science**|Ziming Liu et.al.|[2408.10205v1](http://arxiv.org/abs/2408.10205v1)|null|
 |**2024-08-19 11:47:05**|**Expressive Power of Temporal Message Passing**|Przemysław Andrzej Wałęga et.al.|[2408.09918v1](http://arxiv.org/abs/2408.09918v1)|null|
 |**2024-08-19 09:47:37**|**Predicting Long-term Dynamics of Complex Networks via Identifying   Skeleton in Hyperbolic Space**|Ruikun Li et.al.|[2408.09845v1](http://arxiv.org/abs/2408.09845v1)|[link](https://github.com/tsinghua-fib-lab/DiskNet)|
@@ -23,12 +32,3 @@
 |**2024-08-17 14:41:02**|**Scalable and Certifiable Graph Unlearning via Lazy Local Propagation**|Lu Yi et.al.|[2408.09212v1](http://arxiv.org/abs/2408.09212v1)|null|
 |**2024-08-17 13:01:45**|**SA-GDA: Spectral Augmentation for Graph Domain Adaptation**|Jinhui Pang et.al.|[2408.09189v1](http://arxiv.org/abs/2408.09189v1)|null|
 |**2024-08-17 07:13:12**|**Dynamic Neural Dowker Network: Approximating Persistent Homology in   Dynamic Directed Graphs**|Hao Li et.al.|[2408.09123v1](http://arxiv.org/abs/2408.09123v1)|null|
-|**2024-08-16 15:20:36**|**OpenCity: Open Spatio-Temporal Foundation Models for Traffic Prediction**|Zhonghang Li et.al.|[2408.10269v1](http://arxiv.org/abs/2408.10269v1)|[link](https://github.com/HKUDS/OpenCity)|
-|**2024-08-16 15:16:35**|**Representation Learning of Geometric Trees**|Zheng Zhang et.al.|[2408.08799v1](http://arxiv.org/abs/2408.08799v1)|null|
-|**2024-08-16 15:01:28**|**Neighbor Overlay-Induced Graph Attention Network**|Tiqiao Wei et.al.|[2408.08788v1](http://arxiv.org/abs/2408.08788v1)|null|
-|**2024-08-16 13:54:50**|**SE-SGformer: A Self-Explainable Signed Graph Transformer for Link Sign   Prediction**|Lu Li et.al.|[2408.08754v1](http://arxiv.org/abs/2408.08754v1)|null|
-|**2024-08-16 11:58:34**|**Can Large Language Models Improve the Adversarial Robustness of Graph   Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685v1](http://arxiv.org/abs/2408.08685v1)|null|
-|**2024-08-16 07:33:58**|**GrassNet: State Space Model Meets Graph Neural Network**|Gongpei Zhao et.al.|[2408.08583v1](http://arxiv.org/abs/2408.08583v1)|null|
-|**2024-08-16 03:22:18**|**Mitigating Degree Bias in Signed Graph Neural Networks**|Fang He et.al.|[2408.08508v1](http://arxiv.org/abs/2408.08508v1)|null|
-|**2024-08-16 02:19:04**|**Accelerating Mini-batch HGNN Training by Reducing CUDA Kernels**|Meng Wu et.al.|[2408.08490v1](http://arxiv.org/abs/2408.08490v1)|null|
-|**2024-08-16 02:07:34**|**An Unsupervised Learning Framework Combined with Heuristics for the   Maximum Minimal Cut Problem**|Huaiyuan Liu et.al.|[2408.08484v1](http://arxiv.org/abs/2408.08484v1)|[link](https://github.com/luckyseasalt/pioneer)|

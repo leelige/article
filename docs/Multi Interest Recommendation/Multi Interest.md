@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-21 13:39:21**|**DTN: Deep Multiple Task-specific Feature Interactions Network for   Multi-Task Recommendation**|Yaowen Bi et.al.|[2408.11611v1](http://arxiv.org/abs/2408.11611v1)|null|
 |**2024-08-19 04:44:32**|**Harnessing Multimodal Large Language Models for Multimodal Sequential   Recommendation**|Yuyang Ye et.al.|[2408.09698v2](http://arxiv.org/abs/2408.09698v2)|null|
 |**2024-08-16 05:51:00**|**Don't Click the Bait: Title Debiasing News Recommendation via   Cross-Field Contrastive Learning**|Yijie Shu et.al.|[2408.08538v1](http://arxiv.org/abs/2408.08538v1)|null|
 |**2024-08-15 15:18:55**|**Modeling Domain and Feedback Transitions for Cross-Domain Sequential   Recommendation**|Changshuo Zhang et.al.|[2408.08209v1](http://arxiv.org/abs/2408.08209v1)|null|
@@ -31,4 +32,3 @@
 |**2024-05-08 06:35:04**|**Full Stage Learning to Rank: A Unified Framework for Multi-Stage Systems**|Kai Zheng et.al.|[2405.04844v1](http://arxiv.org/abs/2405.04844v1)|null|
 |**2024-05-07 18:58:32**|**Multi-Margin Loss: Proposal and Application in Recommender Systems**|Makbule Gulcin Ozsoy et.al.|[2405.04614v2](http://arxiv.org/abs/2405.04614v2)|null|
 |**2024-05-02 22:26:55**|**SoMeR: Multi-View User Representation Learning for Social Media**|Siyi Guo et.al.|[2405.05275v1](http://arxiv.org/abs/2405.05275v1)|null|
-|**2024-04-22 07:54:56**|**A survey of air combat behavior modeling using machine learning**|Patrick Ribu Gorton et.al.|[2404.13954v1](http://arxiv.org/abs/2404.13954v1)|null|

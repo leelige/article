@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-21 13:06:28**|**Calibrating the Predictions for Top-N Recommendations**|Masahiro Sato et.al.|[2408.11596v1](http://arxiv.org/abs/2408.11596v1)|null|
 |**2024-08-20 17:49:51**|**Reconciling Methodological Paradigms: Employing Large Language Models as   Novice Qualitative Research Assistants in Talent Management Research**|Sreyoshi Bhaduri et.al.|[2408.11043v1](http://arxiv.org/abs/2408.11043v1)|null|
 |**2024-08-20 03:28:10**|**Relativistic and Electron Correlation Effects in Static Dipole   Polarizabilities for Main-Group Elements**|YingXing Cheng et.al.|[2408.10513v1](http://arxiv.org/abs/2408.10513v1)|null|
 |**2024-08-16 09:17:39**|**Colorectal cancer risk mapping through Bayesian Networks**|Daniel Corrales et.al.|[2408.08618v1](http://arxiv.org/abs/2408.08618v1)|null|
@@ -31,4 +32,3 @@
 |**2024-07-04 06:09:11**|**Heterogeneous Hypergraph Embedding for Recommendation Systems**|Darnbi Sakong et.al.|[2407.03665v1](http://arxiv.org/abs/2407.03665v1)|[link](https://github.com/viethungvu1998/KHGRec})|
 |**2024-07-03 09:05:03**|**Passenger Route and Departure Time Guidance under Disruptions in   Oversaturated Urban Rail Transit Networks**|Siyu Zhuo et.al.|[2407.03388v1](http://arxiv.org/abs/2407.03388v1)|null|
 |**2024-06-29 16:02:52**|**Development of an interactive GUI using MATLAB for the detection of type   and stage of Breast Tumor**|Poulmi Banerjee et.al.|[2407.00480v1](http://arxiv.org/abs/2407.00480v1)|null|
-|**2024-06-27 17:21:00**|**Estimation of Shannon differential entropy: An extensive comparative   review**|Mbanefo S. Madukaife et.al.|[2406.19432v1](http://arxiv.org/abs/2406.19432v1)|null|
