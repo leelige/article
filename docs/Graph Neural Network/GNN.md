@@ -2,6 +2,22 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-29 17:11:38**|**H-SGANet: Hybrid Sparse Graph Attention Network for Deformable Medical   Image Registration**|Yufeng Zhou et.al.|[2408.16719v1](http://arxiv.org/abs/2408.16719v1)|null|
+|**2024-08-29 17:07:43**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717v1](http://arxiv.org/abs/2408.16717v1)|null|
+|**2024-08-29 16:47:58**|**SympGNNs: Symplectic Graph Neural Networks for identifiying   high-dimensional Hamiltonian systems and node classification**|Alan John Varghese et.al.|[2408.16698v1](http://arxiv.org/abs/2408.16698v1)|null|
+|**2024-08-29 15:19:06**|**Data Quality Monitoring through Transfer Learning on Anomaly Detection   for the Hadron Calorimeters**|Mulugeta Weldezgina Asres et.al.|[2408.16612v1](http://arxiv.org/abs/2408.16612v1)|null|
+|**2024-08-29 13:52:28**|**SFR-GNN: Simple and Fast Robust GNNs against Structural Attacks**|Xing Ai et.al.|[2408.16537v1](http://arxiv.org/abs/2408.16537v1)|null|
+|**2024-08-29 09:54:46**|**TempoKGAT: A Novel Graph Attention Network Approach for Temporal Graph   Analysis**|Lena Sasal et.al.|[2408.16391v1](http://arxiv.org/abs/2408.16391v1)|null|
+|**2024-08-29 09:41:17**|**TG-PhyNN: An Enhanced Physically-Aware Graph Neural Network framework   for forecasting Spatio-Temporal Data**|Zakaria Elabid et.al.|[2408.16379v1](http://arxiv.org/abs/2408.16379v1)|null|
+|**2024-08-29 08:20:02**|**Do Graph Neural Networks Work for High Entropy Alloys?**|Hengrui Zhang et.al.|[2408.16337v1](http://arxiv.org/abs/2408.16337v1)|[link](https://github.com/Henrium/LESets)|
+|**2024-08-29 06:40:01**|**OpenFGL: A Comprehensive Benchmarks for Federated Graph Learning**|Xunkai Li et.al.|[2408.16288v1](http://arxiv.org/abs/2408.16288v1)|null|
+|**2024-08-29 04:46:37**|**A General Framework for Optimizing and Learning Nash Equilibrium**|Di Zhang et.al.|[2408.16260v1](http://arxiv.org/abs/2408.16260v1)|null|
+|**2024-08-29 04:22:35**|**Neural Network-Assisted Hybrid Model Based Message Passing for   Parametric Holographic MIMO Near Field Channel Estimation**|Zhengdao Yuan et.al.|[2408.16251v1](http://arxiv.org/abs/2408.16251v1)|null|
+|**2024-08-29 03:41:43**|**Meta-Learning Empowered Graph Neural Networks for Radio Resource   Management**|Kai Huang et.al.|[2408.16239v1](http://arxiv.org/abs/2408.16239v1)|null|
+|**2024-08-29 02:21:11**|**Targeted Cause Discovery with Data-Driven Learning**|Jang-Hyun Kim et.al.|[2408.16218v1](http://arxiv.org/abs/2408.16218v1)|[link](https://github.com/snu-mllab/targeted-cause-discovery)|
+|**2024-08-29 02:13:20**|**Action potential dynamics on heterogenous neural networks: from kinetic   to macroscopic equations**|Marzia Bisi et.al.|[2408.16214v1](http://arxiv.org/abs/2408.16214v1)|null|
+|**2024-08-29 01:09:30**|**Variational Mode-Driven Graph Convolutional Network for Spatiotemporal   Traffic Forecasting**|Osama Ahmad et.al.|[2408.16191v1](http://arxiv.org/abs/2408.16191v1)|[link](https://github.com/OsamaAhmad369/VMGCN)|
+|**2024-08-28 19:59:58**|**Uncertainty Modeling in Graph Neural Networks via Stochastic   Differential Equations**|Richard Bergna et.al.|[2408.16115v1](http://arxiv.org/abs/2408.16115v1)|null|
 |**2024-08-28 16:04:40**|**The Role of Fibration Symmetries in Geometric Deep Learning**|Osvaldo Velarde et.al.|[2408.15894v1](http://arxiv.org/abs/2408.15894v1)|null|
 |**2024-08-28 12:33:26**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose   Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750v1](http://arxiv.org/abs/2408.15750v1)|null|
 |**2024-08-28 06:50:09**|**Affordable HPC: Leveraging Small Clusters for Big Data and Graph   Computing**|Ruilong Wu et.al.|[2408.15568v1](http://arxiv.org/abs/2408.15568v1)|null|
@@ -12,23 +28,7 @@
 |**2024-08-27 13:10:26**|**Earth Observation Satellite Scheduling with Graph Neural Networks**|Antoine Jacquet et.al.|[2408.15041v1](http://arxiv.org/abs/2408.15041v1)|null|
 |**2024-08-27 11:10:39**|**Cross-Modal Learning for Chemistry Property Prediction: Large Language   Models Meet Graph Machine Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14964v1](http://arxiv.org/abs/2408.14964v1)|null|
 |**2024-08-27 10:54:51**|**Domain-decoupled Physics-informed Neural Networks with Closed-form   Gradients for Fast Model Learning of Dynamical Systems**|Henrik Krauss et.al.|[2408.14951v2](http://arxiv.org/abs/2408.14951v2)|null|
-|**2024-08-27 09:48:25**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph   Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294v1](http://arxiv.org/abs/2408.15294v1)|null|
+|**2024-08-27 09:48:25**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph   Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294v2](http://arxiv.org/abs/2408.15294v2)|null|
 |**2024-08-27 08:19:34**|**Learning Granularity Representation for Temporal Knowledge Graph   Completion**|Jinchuan Zhang et.al.|[2408.15293v1](http://arxiv.org/abs/2408.15293v1)|[link](https://github.com/kcacozhang/lgre)|
 |**2024-08-27 08:08:05**|**Graph and Sequential Neural Networks in Session-based Recommendation: A   Survey**|Zihao Li et.al.|[2408.14851v1](http://arxiv.org/abs/2408.14851v1)|null|
-|**2024-08-26 20:05:31**|**Meta Flow Matching: Integrating Vector Fields on the Wasserstein   Manifold**|Lazar Atanackovic et.al.|[2408.14608v1](http://arxiv.org/abs/2408.14608v1)|null|
-|**2024-08-26 18:51:57**|**Accelerated structure-stability energy-free calculator**|Alexandre Boucher et.al.|[2408.14577v1](http://arxiv.org/abs/2408.14577v1)|null|
-|**2024-08-26 16:04:13**|**Learning Tree-Structured Composition of Data Augmentation**|Dongyue Li et.al.|[2408.14381v1](http://arxiv.org/abs/2408.14381v1)|[link](https://github.com/virtuosoresearch/tree-data-augmentation)|
-|**2024-08-26 13:16:42**|**Integrated Brain Connectivity Analysis with fMRI, DTI, and sMRI Powered   by Interpretable Graph Neural Networks**|Gang Qu et.al.|[2408.14254v1](http://arxiv.org/abs/2408.14254v1)|null|
-|**2024-08-26 12:35:16**|**Emergence of brain function from structure: an algebraic quantum model**|Elkaïoum M. Moutuou et.al.|[2408.14221v1](http://arxiv.org/abs/2408.14221v1)|null|
-|**2024-08-26 09:29:56**|**Exploring the Potential of Large Language Models for Heterophilic Graphs**|Yuxia Wu et.al.|[2408.14134v1](http://arxiv.org/abs/2408.14134v1)|null|
-|**2024-08-26 09:23:35**|**Retrieval Augmented Generation for Dynamic Graph Modeling**|Yuxia Wu et.al.|[2408.14523v1](http://arxiv.org/abs/2408.14523v1)|null|
-|**2024-08-26 09:11:36**|**FG-SAT: Efficient Flow Graph for Encrypted Traffic Classification under   Environment Shifts**|Susu Cui et.al.|[2408.14122v1](http://arxiv.org/abs/2408.14122v1)|null|
-|**2024-08-26 06:39:49**|**PAGE: Parametric Generative Explainer for Graph Neural Network**|Yang Qiu et.al.|[2408.14042v1](http://arxiv.org/abs/2408.14042v1)|null|
-|**2024-08-25 23:49:35**|**Optimizing Luxury Vehicle Dealership Networks: A Graph Neural Network   Approach to Site Selection**|Luca Silvano Carocci et.al.|[2408.13961v1](http://arxiv.org/abs/2408.13961v1)|null|
-|**2024-08-25 16:26:55**|**Neural Spacetimes for DAG Representation Learning**|Haitz Sáez de Ocáriz Borde et.al.|[2408.13885v1](http://arxiv.org/abs/2408.13885v1)|null|
-|**2024-08-25 16:00:44**|**Generalization of Graph Neural Networks is Robust to Model Mismatch**|Zhiyang Wang et.al.|[2408.13878v1](http://arxiv.org/abs/2408.13878v1)|null|
-|**2024-08-25 13:15:55**|**Multi-SIGATnet: A multimodal schizophrenia MRI classification algorithm   using sparse interaction mechanisms and graph attention networks**|Yuhong Jiao et.al.|[2408.13830v1](http://arxiv.org/abs/2408.13830v1)|null|
-|**2024-08-25 12:51:19**|**RoCP-GNN: Robust Conformal Prediction for Graph Neural Networks in   Node-Classification**|S. Akansha et.al.|[2408.13825v1](http://arxiv.org/abs/2408.13825v1)|null|
-|**2024-08-25 08:11:22**|**Self-Parameterization Based Multi-Resolution Mesh Convolution Networks**|Shi Hezi et.al.|[2408.13762v1](http://arxiv.org/abs/2408.13762v1)|null|
-|**2024-08-25 04:32:45**|**LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with   LLM Token Embeddings**|Duo Wang et.al.|[2408.14512v1](http://arxiv.org/abs/2408.14512v1)|null|
-|**2024-08-24 15:43:02**|**GNN: Graph Neural Network and Large Language Model for Data Discovery**|Thomas Hoang et.al.|[2408.13609v2](http://arxiv.org/abs/2408.13609v2)|null|
+|**2024-08-27 01:14:34**|**XG-NID: Dual-Modality Network Intrusion Detection using a Heterogeneous   Graph Neural Network and Large Language Model**|Yasir Ali Farrukh et.al.|[2408.16021v1](http://arxiv.org/abs/2408.16021v1)|null|
