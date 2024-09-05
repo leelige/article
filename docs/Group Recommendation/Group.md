@@ -2,6 +2,12 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-04 10:03:09**|**AlignGroup: Learning and Aligning Group Consensus with Member   Preferences for Group Recommendation**|Jinfeng Xu et.al.|[2409.02580v1](http://arxiv.org/abs/2409.02580v1)|null|
+|**2024-09-04 01:21:56**|**Examining Caregiving Roles to Differentiate the Effects of Using a   Mobile App for Community Oversight for Privacy and Security**|Mamtaj Akter et.al.|[2409.02364v1](http://arxiv.org/abs/2409.02364v1)|null|
+|**2024-09-03 15:48:24**|**The overlooked need for Ethics in Complexity Science: Why it matters**|Olumide Adisa et.al.|[2409.02002v1](http://arxiv.org/abs/2409.02002v1)|null|
+|**2024-09-03 04:46:02**|**MCBA: A Matroid Constraint-Based Approach for Composite Service   Recommendation Considering Compatibility and Diversity**|Ying Sun et.al.|[2409.01600v1](http://arxiv.org/abs/2409.01600v1)|null|
+|**2024-09-02 15:24:00**|**A Roadmap to Holographic Focused Ultrasound Approaches to Generate   Thermal Patterns**|Ceren Cengiz et.al.|[2409.01323v1](http://arxiv.org/abs/2409.01323v1)|null|
+|**2024-08-30 20:28:21**|**PRADA: Proactive Risk Assessment and Mitigation of Misinformed Demand   Attacks on Navigational Route Recommendations**|Ya-Ting Yang et.al.|[2409.00243v1](http://arxiv.org/abs/2409.00243v1)|null|
 |**2024-08-29 06:52:57**|**IC always bad? : Information Cocooning as a Group Emotional   Stabilization Role in Social Networks**|Jinhu Ren et.al.|[2408.16295v2](http://arxiv.org/abs/2408.16295v2)|null|
 |**2024-08-26 23:29:03**|**Federated User Preference Modeling for Privacy-Preserving Cross-Domain   Recommendation**|Li Wang et.al.|[2408.14689v1](http://arxiv.org/abs/2408.14689v1)|[link](https://github.com/lili1013/fupm)|
 |**2024-08-26 06:10:26**|**Robust subgroup-classifier learning and testing in change-plane   regressions**|Xu Liu et.al.|[2408.14036v1](http://arxiv.org/abs/2408.14036v1)|null|
@@ -26,9 +32,3 @@
 |**2024-07-19 00:01:18**|**Knowledge Distillation Approaches for Accurate and Efficient Recommender   System**|SeongKu Kang et.al.|[2407.13952v1](http://arxiv.org/abs/2407.13952v1)|[link](https://github.com/SeongKu-Kang/DE-RRD_CIKM20)|
 |**2024-07-17 09:57:30**|**Interim report for the International Muon Collider Collaboration (IMCC)**|C. Accettura et.al.|[2407.12450v1](http://arxiv.org/abs/2407.12450v1)|null|
 |**2024-07-16 17:27:47**|**Factorial Difference-in-Differences**|Yiqing Xu et.al.|[2407.11937v2](http://arxiv.org/abs/2407.11937v2)|null|
-|**2024-07-16 13:50:19**|**Using shrinkage methods to estimate treatment effects in overlapping   subgroups in randomized clinical trials with a time-to-event endpoint**|Marcel Wolbers et.al.|[2407.11729v1](http://arxiv.org/abs/2407.11729v1)|null|
-|**2024-07-16 11:22:22**|**Improving Engagement and Efficacy of mHealth Micro-Interventions for   Stress Coping: an In-The-Wild Study**|Chaya Ben Yehuda et.al.|[2407.11612v1](http://arxiv.org/abs/2407.11612v1)|null|
-|**2024-07-14 21:21:01**|**Beyond Meditation: Understanding Everyday Mindfulness Practices and   Technology Use Among Experienced Practitioners**|Jingjin Li et.al.|[2407.10334v1](http://arxiv.org/abs/2407.10334v1)|null|
-|**2024-07-11 14:36:58**|**Authenticity and exclusion: social media recommendation algorithms and   the dynamics of belonging in professional networks**|Nil-Jana Akpinar et.al.|[2407.08552v1](http://arxiv.org/abs/2407.08552v1)|[link](https://github.com/nakpinar/authenticity-exclusion-rec-sys)|
-|**2024-07-09 00:08:51**|**Increased risk of type I errors for detecting heterogeneity of treatment   effects in cluster-randomized trials using mixed-effect models**|Noorie Hyun et.al.|[2407.06466v1](http://arxiv.org/abs/2407.06466v1)|null|
-|**2024-07-08 16:57:03**|**Report on the NSF Workshop on Sustainable Computing for Sustainability   (NSF WSCS 2024)**|Roch Guérin et.al.|[2407.06119v2](http://arxiv.org/abs/2407.06119v2)|null|
