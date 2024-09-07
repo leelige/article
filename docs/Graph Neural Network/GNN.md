@@ -24,7 +24,7 @@
 |**2024-09-02 06:18:30**|**Solving Integrated Process Planning and Scheduling Problem via Graph   Neural Network Based Deep Reinforcement Learning**|Hongpei Li et.al.|[2409.00968v1](http://arxiv.org/abs/2409.00968v1)|null|
 |**2024-09-01 20:15:08**|**Curvy: A Parametric Cross-section based Surface Reconstruction**|Aradhya N. Mathur et.al.|[2409.00829v1](http://arxiv.org/abs/2409.00829v1)|null|
 |**2024-09-01 19:43:40**|**RTop-K: Ultra-Fast Row-Wise Top-K Algorithm and GPU Implementation for   Neural Networks**|Xi Xie et.al.|[2409.00822v1](http://arxiv.org/abs/2409.00822v1)|null|
-|**2024-09-01 12:58:09**|**Detecting Homeomorphic 3-manifolds via Graph Neural Networks**|Craig Lawrie et.al.|[2409.02126v1](http://arxiv.org/abs/2409.02126v1)|null|
+|**2024-09-01 12:58:09**|**Detecting Homeomorphic 3-manifolds via Graph Neural Networks**|Craig Lawrie et.al.|[2409.02126v1](http://arxiv.org/abs/2409.02126v1)|[link](https://github.com/Lollo0900/Plumbed_3-Manifolds)|
 |**2024-09-01 09:41:42**|**Automatic Grouping of Redundant Sensors and Actuators Using Functional   and Spatial Connections: Application to Muscle Grouping for Musculoskeletal   Humanoids**|Kento Kawaharazuka et.al.|[2409.00678v1](http://arxiv.org/abs/2409.00678v1)|null|
 |**2024-09-01 08:16:58**|**HopGNN: Boosting Distributed GNN Training Efficiency via Feature-Centric   Model Migration**|Weijian Chen et.al.|[2409.00657v1](http://arxiv.org/abs/2409.00657v1)|null|
 |**2024-09-01 05:47:58**|**Roundabout Dilemma Zone Data Mining and Forecasting with Trajectory   Prediction and Graph Neural Networks**|Manthan Chelenahalli Satish et.al.|[2409.00622v1](http://arxiv.org/abs/2409.00622v1)|null|
