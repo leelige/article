@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-06 17:01:48**|**Paradoxes of Openness and Trans Experiences in Open Source Software**|Hana Frluckaj et.al.|[2409.04511v1](http://arxiv.org/abs/2409.04511v1)|null|
 |**2024-09-04 10:03:09**|**AlignGroup: Learning and Aligning Group Consensus with Member   Preferences for Group Recommendation**|Jinfeng Xu et.al.|[2409.02580v1](http://arxiv.org/abs/2409.02580v1)|null|
 |**2024-09-04 01:21:56**|**Examining Caregiving Roles to Differentiate the Effects of Using a   Mobile App for Community Oversight for Privacy and Security**|Mamtaj Akter et.al.|[2409.02364v1](http://arxiv.org/abs/2409.02364v1)|null|
 |**2024-09-03 15:48:24**|**The overlooked need for Ethics in Complexity Science: Why it matters**|Olumide Adisa et.al.|[2409.02002v1](http://arxiv.org/abs/2409.02002v1)|null|
@@ -31,4 +32,3 @@
 |**2024-07-22 17:35:18**|**Towards Effective Collaboration between Software Engineers and Data   Scientists developing Machine Learning-Enabled Systems**|Gabriel Busquim et.al.|[2407.15821v1](http://arxiv.org/abs/2407.15821v1)|null|
 |**2024-07-19 00:01:18**|**Knowledge Distillation Approaches for Accurate and Efficient Recommender   System**|SeongKu Kang et.al.|[2407.13952v1](http://arxiv.org/abs/2407.13952v1)|[link](https://github.com/SeongKu-Kang/DE-RRD_CIKM20)|
 |**2024-07-17 09:57:30**|**Interim report for the International Muon Collider Collaboration (IMCC)**|C. Accettura et.al.|[2407.12450v1](http://arxiv.org/abs/2407.12450v1)|null|
-|**2024-07-16 17:27:47**|**Factorial Difference-in-Differences**|Yiqing Xu et.al.|[2407.11937v2](http://arxiv.org/abs/2407.11937v2)|null|
