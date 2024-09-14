@@ -14,7 +14,7 @@
 |**2024-09-12 08:59:53**|**Improve Machine Learning carbon footprint using Nvidia GPU and Mixed   Precision training for classification algorithms**|Andrew Antonopoulos et.al.|[2409.07853v1](http://arxiv.org/abs/2409.07853v1)|null|
 |**2024-09-12 05:52:19**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural   Networks**|Shivam Barwey et.al.|[2409.07769v1](http://arxiv.org/abs/2409.07769v1)|null|
 |**2024-09-12 03:09:05**|**GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional   Contrastive Learning**|Kaizhe Fan et.al.|[2409.07725v1](http://arxiv.org/abs/2409.07725v1)|null|
-|**2024-09-11 23:34:48**|**Rapid Assessment of Stable Crystal Structures in Single Phase High   Entropy Alloys Via Graph Neural Network Based Surrogate Modelling**|Nicholas Beaver et.al.|[2409.07664v1](http://arxiv.org/abs/2409.07664v1)|null|
+|**2024-09-11 23:34:48**|**Rapid Assessment of Stable Crystal Structures in Single Phase High   Entropy Alloys Via Graph Neural Network Based Surrogate Modelling**|Nicholas Beaver et.al.|[2409.07664v1](http://arxiv.org/abs/2409.07664v1)|[link](https://github.com/nicholasjbeaver/HEA-Energy-Sampling)|
 |**2024-09-11 21:18:21**|**Leveraging User-Generated Reviews for Recommender Systems with Dynamic   Headers**|Shanu Vashishtha et.al.|[2409.07627v1](http://arxiv.org/abs/2409.07627v1)|null|
 |**2024-09-11 15:56:15**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation   of Code**|Khiem Ton et.al.|[2409.07368v1](http://arxiv.org/abs/2409.07368v1)|null|
 |**2024-09-11 15:20:18**|**Descriptors-free Collective Variables From Geometric Graph Neural   Networks**|Jintu Zhang et.al.|[2409.07339v1](http://arxiv.org/abs/2409.07339v1)|null|
