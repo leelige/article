@@ -2,6 +2,20 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-16 16:40:40**|**Signed Graph Autoencoder for Explainable and Polarization-Aware Network   Embeddings**|Nikolaos Nakis et.al.|[2409.10452v1](http://arxiv.org/abs/2409.10452v1)|null|
+|**2024-09-16 14:56:10**|**Hyperedge Modeling in Hypergraph Neural Networks by using Densest   Overlapping Subgraphs**|Mehrad Soltani et.al.|[2409.10340v1](http://arxiv.org/abs/2409.10340v1)|null|
+|**2024-09-16 14:22:00**|**Soft modes in vector spin glass models on sparse random graphs**|Silvio Franz et.al.|[2409.10312v1](http://arxiv.org/abs/2409.10312v1)|null|
+|**2024-09-16 13:31:04**|**Causal Discovery in Recommender Systems: Example and Discussion**|Emanuele Cavenaghi et.al.|[2409.10271v1](http://arxiv.org/abs/2409.10271v1)|null|
+|**2024-09-16 08:05:58**|**Spatiotemporal Covariance Neural Networks**|Andrea Cavallo et.al.|[2409.10068v1](http://arxiv.org/abs/2409.10068v1)|null|
+|**2024-09-16 03:05:11**|**Deep Graph Anomaly Detection: A Survey and New Perspectives**|Hezhe Qiao et.al.|[2409.09957v1](http://arxiv.org/abs/2409.09957v1)|[link](https://github.com/mala-lab/awesome-deep-graph-anomaly-detection)|
+|**2024-09-16 02:37:51**|**Tracking the spatial dynamics of the synthetic opioid crisis in the USA,   2013-2020 using human mobility-based graph neural network**|Zhiyue Xia et.al.|[2409.09945v1](http://arxiv.org/abs/2409.09945v1)|null|
+|**2024-09-16 02:14:26**|**Generalizability of Graph Neural Network Force Fields for Predicting   Solid-State Properties**|Shaswat Mohanty et.al.|[2409.09931v1](http://arxiv.org/abs/2409.09931v1)|null|
+|**2024-09-15 23:08:31**|**Dynamic Fraud Detection: Integrating Reinforcement Learning into Graph   Neural Networks**|Yuxin Dong et.al.|[2409.09892v1](http://arxiv.org/abs/2409.09892v1)|null|
+|**2024-09-15 22:52:46**|**Flexible Diffusion Scopes with Parameterized Laplacian for Heterophilic   Graph Learning**|Qincheng Lu et.al.|[2409.09888v1](http://arxiv.org/abs/2409.09888v1)|null|
+|**2024-09-15 11:02:45**|**Predicting building types and functions at transnational scale**|Jonas Fill et.al.|[2409.09692v1](http://arxiv.org/abs/2409.09692v1)|null|
+|**2024-09-14 15:25:42**|**Improved Physics-Informed Neural Network based AC Power Flow for   Distribution Networks**|Victor Eeckhout et.al.|[2409.09466v1](http://arxiv.org/abs/2409.09466v1)|null|
+|**2024-09-14 02:16:02**|**Operational Wind Speed Forecasts for Chile's Electric Power Sector Using   a Hybrid ML Model**|Dhruv Suri et.al.|[2409.09263v1](http://arxiv.org/abs/2409.09263v1)|null|
+|**2024-09-13 17:54:41**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111v1](http://arxiv.org/abs/2409.09111v1)|null|
 |**2024-09-13 17:53:06**|**Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for   Recommender Tasks**|Florian Grötschla et.al.|[2409.09026v1](http://arxiv.org/abs/2409.09026v1)|null|
 |**2024-09-13 16:00:27**|**Representing Born effective charges with equivariant graph convolutional   neural networks**|Alex Kutana et.al.|[2409.08940v1](http://arxiv.org/abs/2409.08940v1)|null|
 |**2024-09-13 13:07:36**|**Graph grammars and Physics Informed Neural Networks for simulating of   pollution propagation on Spitzbergen**|Maciej Sikora et.al.|[2409.08799v1](http://arxiv.org/abs/2409.08799v1)|null|
@@ -18,17 +32,3 @@
 |**2024-09-13 03:23:11**|**Learning Graph-based Patch Representations for Identifying and Assessing   Silent Vulnerability Fixes**|Mei Han et.al.|[2409.08512v1](http://arxiv.org/abs/2409.08512v1)|null|
 |**2024-09-13 02:23:55**|**Sub-graph Based Diffusion Model for Link Prediction**|Hang Li et.al.|[2409.08487v1](http://arxiv.org/abs/2409.08487v1)|null|
 |**2024-09-12 20:37:14**|**Higher-Order Topological Directionality and Directed Simplicial Neural   Networks**|Manuel Lecha et.al.|[2409.08389v1](http://arxiv.org/abs/2409.08389v1)|[link](https://github.com/andrea-cavallo-98/DirSNN)|
-|**2024-09-12 17:55:44**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262v1](http://arxiv.org/abs/2409.08262v1)|[link](https://github.com/paulhausner/neural-incomplete-factorization)|
-|**2024-09-12 16:56:26**|**CliquePH: Higher-Order Information for Graph Neural Networks through   Persistent Homology on Clique Graphs**|Davide Buffelli et.al.|[2409.08217v1](http://arxiv.org/abs/2409.08217v1)|null|
-|**2024-09-12 16:26:47**|**Gaussian Garments: Reconstructing Simulation-Ready Clothing with   Photorealistic Appearance from Multi-View Video**|Boxiang Rong et.al.|[2409.08189v1](http://arxiv.org/abs/2409.08189v1)|null|
-|**2024-09-12 15:51:09**|**Hierarchical Symbolic Pop Music Generation with Graph Neural Networks**|Wen Qing Lim et.al.|[2409.08155v1](http://arxiv.org/abs/2409.08155v1)|null|
-|**2024-09-12 13:38:08**|**Heterogeneous Sheaf Neural Networks**|Luke Braithwaite et.al.|[2409.08036v1](http://arxiv.org/abs/2409.08036v1)|null|
-|**2024-09-12 13:05:28**|**Edge-Wise Graph-Instructed Neural Networks**|Francesco Della Santa et.al.|[2409.08023v1](http://arxiv.org/abs/2409.08023v1)|null|
-|**2024-09-12 11:18:00**|**Data-efficient multi-fidelity training for high-fidelity machine   learning interatomic potentials**|Jaesun Kim et.al.|[2409.07947v1](http://arxiv.org/abs/2409.07947v1)|null|
-|**2024-09-12 10:26:17**|**Tera-SpaceCom: GNN-based Deep Reinforcement Learning for Joint Resource   Allocation and Task Offloading in TeraHertz Band Space Networks**|Zhifeng Hu et.al.|[2409.07911v1](http://arxiv.org/abs/2409.07911v1)|null|
-|**2024-09-12 09:44:13**|**Graph Neural Networks for Parkinsons Disease Detection**|Shakeel A. Sheikh et.al.|[2409.07884v2](http://arxiv.org/abs/2409.07884v2)|null|
-|**2024-09-12 08:59:53**|**Improve Machine Learning carbon footprint using Nvidia GPU and Mixed   Precision training for classification algorithms**|Andrew Antonopoulos et.al.|[2409.07853v1](http://arxiv.org/abs/2409.07853v1)|null|
-|**2024-09-12 05:52:19**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural   Networks**|Shivam Barwey et.al.|[2409.07769v1](http://arxiv.org/abs/2409.07769v1)|null|
-|**2024-09-12 03:09:05**|**GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional   Contrastive Learning**|Kaizhe Fan et.al.|[2409.07725v1](http://arxiv.org/abs/2409.07725v1)|null|
-|**2024-09-11 23:34:48**|**Rapid Assessment of Stable Crystal Structures in Single Phase High   Entropy Alloys Via Graph Neural Network Based Surrogate Modelling**|Nicholas Beaver et.al.|[2409.07664v1](http://arxiv.org/abs/2409.07664v1)|[link](https://github.com/nicholasjbeaver/HEA-Energy-Sampling)|
-|**2024-09-11 21:18:21**|**Leveraging User-Generated Reviews for Recommender Systems with Dynamic   Headers**|Shanu Vashishtha et.al.|[2409.07627v1](http://arxiv.org/abs/2409.07627v1)|null|
