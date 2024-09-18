@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2024-09-17 16:10:49 Asia/Shanghai
+ 自动更新 @ 2024-09-18 16:11:07 Asia/Shanghai
 
 ## Multi Interest Recommendation
 
@@ -42,6 +42,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-17 01:37:57**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based   Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825v1](http://arxiv.org/abs/2409.10825v1)|null|
 |**2024-09-16 13:01:22**|**Questioning AI: Promoting Decision-Making Autonomy Through Reflection**|Simon WS Fischer et.al.|[2409.10250v1](http://arxiv.org/abs/2409.10250v1)|null|
 |**2024-09-12 15:27:09**|**Reducing Population-level Inequality Can Improve Demographic Group   Fairness: a Twitter Case Study**|Avijit Ghosh et.al.|[2409.08135v1](http://arxiv.org/abs/2409.08135v1)|null|
 |**2024-09-11 16:49:31**|**Trust Dynamics in Human-Autonomy Interaction: Uncover Associations   between Trust Dynamics and Personal Characteristics**|Hyesun Chung et.al.|[2409.07406v1](http://arxiv.org/abs/2409.07406v1)|null|
@@ -71,26 +72,35 @@
 |**2024-08-08 15:52:55**|**Balancing Efficiency with Equality: Auction Design with Group Fairness   Concerns**|Fengjuan Jia et.al.|[2408.04545v2](http://arxiv.org/abs/2408.04545v2)|null|
 |**2024-07-31 02:09:52**|**Unlocking the Potential of Binding Corporate Rules (BCRs) in Health Data   Transfers**|Marcelo Corrales Compagnucci et.al.|[2407.21281v1](http://arxiv.org/abs/2407.21281v1)|null|
 |**2024-07-29 02:39:17**|**AI-Driven Healthcare: A Survey on Ensuring Fairness and Mitigating Bias**|Sribala Vidyadhari Chinta et.al.|[2407.19655v1](http://arxiv.org/abs/2407.19655v1)|null|
-|**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v2](http://arxiv.org/abs/2407.16357v2)|null|
 
 ## Graph Neural Network
 
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-17 17:20:21**|**Uncertainty and Prediction Quality Estimation for Semantic Segmentation   via Graph Neural Networks**|Edgar Heinert et.al.|[2409.11373v1](http://arxiv.org/abs/2409.11373v1)|null|
+|**2024-09-17 15:45:30**|**Neural Networks for Vehicle Routing Problem**|László Kovács et.al.|[2409.11290v1](http://arxiv.org/abs/2409.11290v1)|null|
+|**2024-09-17 14:00:58**|**High-Order Evolving Graphs for Enhanced Representation of Traffic   Dynamics**|Aditya Humnabadkar et.al.|[2409.11206v1](http://arxiv.org/abs/2409.11206v1)|[link](https://github.com/Addy-1998/High\_Order\_Graphs)|
+|**2024-09-17 12:55:37**|**MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for   Legged Robot Contact Perception**|Daniel Butterfield et.al.|[2409.11146v1](http://arxiv.org/abs/2409.11146v1)|[link](https://github.com/lunarlab-gatech/Morphology-Informed-HGNN)|
+|**2024-09-17 12:28:02**|**Can Graph Reordering Speed Up Graph Neural Network Training? An   Experimental Study**|Nikolai Merkel et.al.|[2409.11129v1](http://arxiv.org/abs/2409.11129v1)|[link](https://github.com/nikolaimerkel/reordering)|
+|**2024-09-17 10:53:03**|**Improve Machine Learning carbon footprint using Parquet dataset format   and Mixed Precision training for regression algorithms**|Andrew Antonopoulos et.al.|[2409.11071v1](http://arxiv.org/abs/2409.11071v1)|null|
+|**2024-09-17 08:58:40**|**GINTRIP: Interpretable Temporal Graph Regression using Information   bottleneck and Prototype-based method**|Ali Royat et.al.|[2409.10996v1](http://arxiv.org/abs/2409.10996v1)|null|
+|**2024-09-17 07:26:02**|**Contrasformer: A Brain Network Contrastive Transformer for   Neurodegenerative Condition Identification**|Jiaxing Xu et.al.|[2409.10944v1](http://arxiv.org/abs/2409.10944v1)|[link](https://github.com/angusmonroe/contrasformer)|
+|**2024-09-17 04:34:49**|**Spatio-Temporal-Network Point Processes for Modeling Crime Events with   Landmarks**|Zheng Dong et.al.|[2409.10882v1](http://arxiv.org/abs/2409.10882v1)|null|
+|**2024-09-16 23:54:48**|**Recurrent Graph Transformer Network for Multiple Fault Localization in   Naval Shipboard Systems**|Quang-Ha Ngo et.al.|[2409.10792v1](http://arxiv.org/abs/2409.10792v1)|null|
 |**2024-09-16 16:40:40**|**Signed Graph Autoencoder for Explainable and Polarization-Aware Network   Embeddings**|Nikolaos Nakis et.al.|[2409.10452v1](http://arxiv.org/abs/2409.10452v1)|null|
 |**2024-09-16 14:56:10**|**Hyperedge Modeling in Hypergraph Neural Networks by using Densest   Overlapping Subgraphs**|Mehrad Soltani et.al.|[2409.10340v1](http://arxiv.org/abs/2409.10340v1)|null|
 |**2024-09-16 14:22:00**|**Soft modes in vector spin glass models on sparse random graphs**|Silvio Franz et.al.|[2409.10312v1](http://arxiv.org/abs/2409.10312v1)|null|
 |**2024-09-16 13:31:04**|**Causal Discovery in Recommender Systems: Example and Discussion**|Emanuele Cavenaghi et.al.|[2409.10271v1](http://arxiv.org/abs/2409.10271v1)|null|
 |**2024-09-16 08:05:58**|**Spatiotemporal Covariance Neural Networks**|Andrea Cavallo et.al.|[2409.10068v1](http://arxiv.org/abs/2409.10068v1)|null|
 |**2024-09-16 03:05:11**|**Deep Graph Anomaly Detection: A Survey and New Perspectives**|Hezhe Qiao et.al.|[2409.09957v1](http://arxiv.org/abs/2409.09957v1)|[link](https://github.com/mala-lab/awesome-deep-graph-anomaly-detection)|
-|**2024-09-16 02:37:51**|**Tracking the spatial dynamics of the synthetic opioid crisis in the USA,   2013-2020 using human mobility-based graph neural network**|Zhiyue Xia et.al.|[2409.09945v1](http://arxiv.org/abs/2409.09945v1)|null|
+|**2024-09-16 02:37:51**|**Mobility-GNN: a human mobility-based graph neural network for tracking   and analyzing the spatial dynamics of the synthetic opioid crisis in the USA,   2013-2020**|Zhiyue Xia et.al.|[2409.09945v2](http://arxiv.org/abs/2409.09945v2)|null|
 |**2024-09-16 02:14:26**|**Generalizability of Graph Neural Network Force Fields for Predicting   Solid-State Properties**|Shaswat Mohanty et.al.|[2409.09931v1](http://arxiv.org/abs/2409.09931v1)|null|
 |**2024-09-15 23:08:31**|**Dynamic Fraud Detection: Integrating Reinforcement Learning into Graph   Neural Networks**|Yuxin Dong et.al.|[2409.09892v1](http://arxiv.org/abs/2409.09892v1)|null|
 |**2024-09-15 22:52:46**|**Flexible Diffusion Scopes with Parameterized Laplacian for Heterophilic   Graph Learning**|Qincheng Lu et.al.|[2409.09888v1](http://arxiv.org/abs/2409.09888v1)|null|
 |**2024-09-15 11:02:45**|**Predicting building types and functions at transnational scale**|Jonas Fill et.al.|[2409.09692v1](http://arxiv.org/abs/2409.09692v1)|null|
 |**2024-09-14 15:25:42**|**Improved Physics-Informed Neural Network based AC Power Flow for   Distribution Networks**|Victor Eeckhout et.al.|[2409.09466v1](http://arxiv.org/abs/2409.09466v1)|null|
-|**2024-09-14 02:16:02**|**Operational Wind Speed Forecasts for Chile's Electric Power Sector Using   a Hybrid ML Model**|Dhruv Suri et.al.|[2409.09263v1](http://arxiv.org/abs/2409.09263v1)|null|
+|**2024-09-14 02:16:02**|**Operational Wind Speed Forecasts for Chile's Electric Power Sector Using   a Hybrid ML Model**|Dhruv Suri et.al.|[2409.09263v2](http://arxiv.org/abs/2409.09263v2)|null|
 |**2024-09-13 17:54:41**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111v1](http://arxiv.org/abs/2409.09111v1)|null|
 |**2024-09-13 17:53:06**|**Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for   Recommender Tasks**|Florian Grötschla et.al.|[2409.09026v1](http://arxiv.org/abs/2409.09026v1)|null|
 |**2024-09-13 16:00:27**|**Representing Born effective charges with equivariant graph convolutional   neural networks**|Alex Kutana et.al.|[2409.08940v1](http://arxiv.org/abs/2409.08940v1)|null|
@@ -98,13 +108,3 @@
 |**2024-09-13 12:20:02**|**SAUC: Sparsity-Aware Uncertainty Calibration for Spatiotemporal   Prediction with Graph Neural Networks**|Dingyi Zhuang et.al.|[2409.08766v1](http://arxiv.org/abs/2409.08766v1)|null|
 |**2024-09-13 11:19:51**|**FLAMO: An Open-Source Library for Frequency-Domain Differentiable Audio   Processing**|Gloria Dal Santo et.al.|[2409.08723v1](http://arxiv.org/abs/2409.08723v1)|null|
 |**2024-09-13 09:43:36**|**Redesigning graph filter-based GNNs to relax the homophily assumption**|Samuel Rey et.al.|[2409.08676v1](http://arxiv.org/abs/2409.08676v1)|null|
-|**2024-09-13 08:35:28**|**Sybil Detection using Graph Neural Networks**|Stuart Heeb et.al.|[2409.08631v1](http://arxiv.org/abs/2409.08631v1)|null|
-|**2024-09-13 07:27:55**|**Automatic Generation of Fast and Accurate Performance Models for Deep   Neural Network Accelerators**|Konstantin Lübeck et.al.|[2409.08595v1](http://arxiv.org/abs/2409.08595v1)|null|
-|**2024-09-13 06:59:10**|**Molecular Graph Representation Learning via Structural Similarity   Information**|Chengyu Yao et.al.|[2409.08580v1](http://arxiv.org/abs/2409.08580v1)|[link](https://github.com/yaoyao-yaoyao-cell/mssm-gnn)|
-|**2024-09-13 06:24:18**|**Fair CoVariance Neural Networks**|Andrea Cavallo et.al.|[2409.08558v1](http://arxiv.org/abs/2409.08558v1)|null|
-|**2024-09-13 05:39:00**|**Causal GNNs: A GNN-Driven Instrumental Variable Approach for Causal   Inference in Networks**|Xiaojing Du et.al.|[2409.08544v1](http://arxiv.org/abs/2409.08544v1)|null|
-|**2024-09-13 05:33:09**|**ATFLRec: A Multimodal Recommender System with Audio-Text Fusion and   Low-Rank Adaptation via Instruction-Tuned Large Language Model**|Zezheng Qin et.al.|[2409.08543v1](http://arxiv.org/abs/2409.08543v1)|null|
-|**2024-09-13 04:59:35**|**An Efficient Privacy-aware Split Learning Framework for Satellite   Communications**|Jianfei Sun et.al.|[2409.08538v1](http://arxiv.org/abs/2409.08538v1)|null|
-|**2024-09-13 03:23:11**|**Learning Graph-based Patch Representations for Identifying and Assessing   Silent Vulnerability Fixes**|Mei Han et.al.|[2409.08512v1](http://arxiv.org/abs/2409.08512v1)|null|
-|**2024-09-13 02:23:55**|**Sub-graph Based Diffusion Model for Link Prediction**|Hang Li et.al.|[2409.08487v1](http://arxiv.org/abs/2409.08487v1)|null|
-|**2024-09-12 20:37:14**|**Higher-Order Topological Directionality and Directed Simplicial Neural   Networks**|Manuel Lecha et.al.|[2409.08389v1](http://arxiv.org/abs/2409.08389v1)|[link](https://github.com/andrea-cavallo-98/DirSNN)|
