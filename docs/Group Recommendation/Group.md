@@ -2,16 +2,24 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-24 11:58:32**|**Bridging the Transparency Gap: Exploring Multi-Stakeholder Preferences   for Targeted Advertisement Explanations**|Dina Zilbershtein et.al.|[2409.15998v1](http://arxiv.org/abs/2409.15998v1)|null|
+|**2024-09-24 11:03:17**|**Creating Healthy Friction: Determining Stakeholder Requirements of Job   Recommendation Explanations**|Roan Schellingerhout et.al.|[2409.15971v1](http://arxiv.org/abs/2409.15971v1)|[link](https://github.com/roan-schellingerhout/evaluating_job_recommendations)|
+|**2024-09-23 21:48:32**|**Asking an AI for salary negotiation advice is a matter of concern:   Controlled experimental perturbation of ChatGPT for protected and   non-protected group discrimination on a contextual task with no clear ground   truth answers**|R. Stuart Geiger et.al.|[2409.15567v1](http://arxiv.org/abs/2409.15567v1)|null|
+|**2024-09-21 09:13:50**|**Data Generation via Latent Factor Simulation for Fairness-aware   Re-ranking**|Elena Stefancova et.al.|[2409.14078v1](http://arxiv.org/abs/2409.14078v1)|null|
+|**2024-09-20 12:50:17**|**Engagement, Content Quality and Ideology over Time on the Facebook URL   Dataset**|Emma Fraxanet et.al.|[2409.13461v1](http://arxiv.org/abs/2409.13461v1)|null|
+|**2024-09-19 11:00:35**|**A Deep Dive into Fairness, Bias, Threats, and Privacy in Recommender   Systems: Insights and Future Research**|Falguni Roy et.al.|[2409.12651v1](http://arxiv.org/abs/2409.12651v1)|null|
 |**2024-09-17 01:37:57**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based   Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825v1](http://arxiv.org/abs/2409.10825v1)|null|
 |**2024-09-16 13:01:22**|**Questioning AI: Promoting Decision-Making Autonomy Through Reflection**|Simon WS Fischer et.al.|[2409.10250v1](http://arxiv.org/abs/2409.10250v1)|null|
 |**2024-09-12 15:27:09**|**Reducing Population-level Inequality Can Improve Demographic Group   Fairness: a Twitter Case Study**|Avijit Ghosh et.al.|[2409.08135v1](http://arxiv.org/abs/2409.08135v1)|null|
 |**2024-09-11 16:49:31**|**Trust Dynamics in Human-Autonomy Interaction: Uncover Associations   between Trust Dynamics and Personal Characteristics**|Hyesun Chung et.al.|[2409.07406v1](http://arxiv.org/abs/2409.07406v1)|null|
+|**2024-09-09 16:56:31**|**Explainable AI: Definition and attributes of a good explanation for   health AI**|Evangelia Kyrimi et.al.|[2409.15338v1](http://arxiv.org/abs/2409.15338v1)|null|
 |**2024-09-06 17:01:48**|**Paradoxes of Openness and Trans Experiences in Open Source Software**|Hana Frluckaj et.al.|[2409.04511v1](http://arxiv.org/abs/2409.04511v1)|null|
 |**2024-09-04 10:03:09**|**AlignGroup: Learning and Aligning Group Consensus with Member   Preferences for Group Recommendation**|Jinfeng Xu et.al.|[2409.02580v1](http://arxiv.org/abs/2409.02580v1)|null|
 |**2024-09-04 01:21:56**|**Examining Caregiving Roles to Differentiate the Effects of Using a   Mobile App for Community Oversight for Privacy and Security**|Mamtaj Akter et.al.|[2409.02364v1](http://arxiv.org/abs/2409.02364v1)|null|
 |**2024-09-03 15:48:24**|**The overlooked need for Ethics in Complexity Science: Why it matters**|Olumide Adisa et.al.|[2409.02002v1](http://arxiv.org/abs/2409.02002v1)|null|
 |**2024-09-03 04:46:02**|**MCBA: A Matroid Constraint-Based Approach for Composite Service   Recommendation Considering Compatibility and Diversity**|Ying Sun et.al.|[2409.01600v1](http://arxiv.org/abs/2409.01600v1)|null|
 |**2024-09-02 15:24:00**|**A Roadmap to Holographic Focused Ultrasound Approaches to Generate   Thermal Patterns**|Ceren Cengiz et.al.|[2409.01323v1](http://arxiv.org/abs/2409.01323v1)|null|
+|**2024-09-02 13:30:53**|**How Consistent Are Humans When Grading Programming Assignments?**|Marcus Messer et.al.|[2409.12967v1](http://arxiv.org/abs/2409.12967v1)|null|
 |**2024-08-30 20:28:21**|**PRADA: Proactive Risk Assessment and Mitigation of Misinformed Demand   Attacks on Navigational Route Recommendations**|Ya-Ting Yang et.al.|[2409.00243v1](http://arxiv.org/abs/2409.00243v1)|null|
 |**2024-08-29 06:52:57**|**IC always bad? : Information Cocooning as a Group Emotional   Stabilization Role in Social Networks**|Jinhu Ren et.al.|[2408.16295v2](http://arxiv.org/abs/2408.16295v2)|null|
 |**2024-08-26 23:29:03**|**Federated User Preference Modeling for Privacy-Preserving Cross-Domain   Recommendation**|Li Wang et.al.|[2408.14689v1](http://arxiv.org/abs/2408.14689v1)|[link](https://github.com/lili1013/fupm)|
@@ -24,11 +32,3 @@
 |**2024-08-16 09:17:39**|**Colorectal cancer risk mapping through Bayesian Networks**|Daniel Corrales et.al.|[2408.08618v2](http://arxiv.org/abs/2408.08618v2)|[link](https://github.com/DanielCorralesAlonso/CRC_Risk_BN)|
 |**2024-08-14 20:30:27**|**Reduction to depth zero for tame p-adic groups via Hecke algebra   isomorphisms**|Jeffrey D. Adler et.al.|[2408.07805v1](http://arxiv.org/abs/2408.07805v1)|null|
 |**2024-08-14 20:23:09**|**Structure of Hecke algebras arising from types**|Jeffrey D. Adler et.al.|[2408.07801v1](http://arxiv.org/abs/2408.07801v1)|null|
-|**2024-08-14 18:14:40**|**RAVE Checklist: Recommendations for Overcoming Challenges in   Retrospective Safety Studies of Automated Driving Systems**|John M. Scanlon et.al.|[2408.07758v1](http://arxiv.org/abs/2408.07758v1)|null|
-|**2024-08-14 10:45:15**|**DOME Registry: Implementing community-wide recommendations for reporting   supervised machine learning in biology**|Omar Abdelghani Attafi et.al.|[2408.07721v2](http://arxiv.org/abs/2408.07721v2)|null|
-|**2024-08-14 09:06:58**|**Ranking evaluation metrics from a group-theoretic perspective**|Chiara Balestra et.al.|[2408.16009v1](http://arxiv.org/abs/2408.16009v1)|null|
-|**2024-08-11 18:49:52**|**Online Matrix Completion: A Collaborative Approach with Hott Items**|Dheeraj Baby et.al.|[2408.05843v1](http://arxiv.org/abs/2408.05843v1)|null|
-|**2024-08-10 20:11:52**|**Hierarchical Multi-Armed Bandits for the Concurrent Intelligent Tutoring   of Concepts and Problems of Varying Difficulty Levels**|Blake Castleman et.al.|[2408.07208v1](http://arxiv.org/abs/2408.07208v1)|[link](https://github.com/b-castleman/hierarchical-mab-tutoring)|
-|**2024-08-08 15:52:55**|**Balancing Efficiency with Equality: Auction Design with Group Fairness   Concerns**|Fengjuan Jia et.al.|[2408.04545v2](http://arxiv.org/abs/2408.04545v2)|null|
-|**2024-07-31 02:09:52**|**Unlocking the Potential of Binding Corporate Rules (BCRs) in Health Data   Transfers**|Marcelo Corrales Compagnucci et.al.|[2407.21281v1](http://arxiv.org/abs/2407.21281v1)|null|
-|**2024-07-29 02:39:17**|**AI-Driven Healthcare: A Survey on Ensuring Fairness and Mitigating Bias**|Sribala Vidyadhari Chinta et.al.|[2407.19655v1](http://arxiv.org/abs/2407.19655v1)|null|

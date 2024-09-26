@@ -2,6 +2,8 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-20 01:17:54**|**Autonomous Driving at Unsignalized Intersections: A Review of   Decision-Making Challenges and Reinforcement Learning-Based Solutions**|Mohammad Al-Sharman et.al.|[2409.13144v1](http://arxiv.org/abs/2409.13144v1)|null|
+|**2024-09-05 02:47:49**|**MAS4POI: a Multi-Agents Collaboration System for Next POI Recommendation**|Yuqian Wu et.al.|[2409.13700v1](http://arxiv.org/abs/2409.13700v1)|[link](https://github.com/yuqian2003/MAS4POI)|
 |**2024-09-04 17:21:47**|**Cost-Effectiveness Analysis for Disease Prevention -- A Case Study on   Colorectal Cancer Screening**|Yi Xiong et.al.|[2409.02888v1](http://arxiv.org/abs/2409.02888v1)|null|
 |**2024-09-02 07:44:48**|**Improved Diversity-Promoting Collaborative Metric Learning for   Recommendation**|Shilong Bao et.al.|[2409.01012v1](http://arxiv.org/abs/2409.01012v1)|[link](https://github.com/statusrank/LibCML})|
 |**2024-08-21 13:39:21**|**DTN: Deep Multiple Task-specific Feature Interactions Network for   Multi-Task Recommendation**|Yaowen Bi et.al.|[2408.11611v2](http://arxiv.org/abs/2408.11611v2)|null|
@@ -30,5 +32,3 @@
 |**2024-05-21 11:54:16**|**Disentangled Representation with Cross Experts Covariance Loss for   Multi-Domain Recommendation**|Zhutian Lin et.al.|[2405.12706v1](http://arxiv.org/abs/2405.12706v1)|null|
 |**2024-05-20 03:47:12**|**Modeling User Fatigue for Sequential Recommendation**|Nian Li et.al.|[2405.11764v2](http://arxiv.org/abs/2405.11764v2)|[link](https://github.com/tsinghua-fib-lab/sigir24-frec)|
 |**2024-05-17 14:57:52**|**A Unified Search and Recommendation Framework Based on Multi-Scenario   Learning for Ranking in E-commerce**|Jinhan Liu et.al.|[2405.10835v2](http://arxiv.org/abs/2405.10835v2)|null|
-|**2024-05-13 09:36:17**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580v1](http://arxiv.org/abs/2405.07580v1)|null|
-|**2024-05-08 06:35:04**|**Full Stage Learning to Rank: A Unified Framework for Multi-Stage Systems**|Kai Zheng et.al.|[2405.04844v1](http://arxiv.org/abs/2405.04844v1)|null|
