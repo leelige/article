@@ -2,9 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-26 12:07:46**|**Value Identification in Multistakeholder Recommender Systems for   Humanities and Historical Research: The Case of the Digital Archive   Monasterium.net**|Florian Atzenhofer-Baumgartner et.al.|[2409.17769v1](http://arxiv.org/abs/2409.17769v1)|null|
 |**2024-09-24 11:58:32**|**Bridging the Transparency Gap: Exploring Multi-Stakeholder Preferences   for Targeted Advertisement Explanations**|Dina Zilbershtein et.al.|[2409.15998v1](http://arxiv.org/abs/2409.15998v1)|null|
 |**2024-09-24 11:03:17**|**Creating Healthy Friction: Determining Stakeholder Requirements of Job   Recommendation Explanations**|Roan Schellingerhout et.al.|[2409.15971v1](http://arxiv.org/abs/2409.15971v1)|[link](https://github.com/roan-schellingerhout/evaluating_job_recommendations)|
-|**2024-09-23 21:48:32**|**Asking an AI for salary negotiation advice is a matter of concern:   Controlled experimental perturbation of ChatGPT for protected and   non-protected group discrimination on a contextual task with no clear ground   truth answers**|R. Stuart Geiger et.al.|[2409.15567v1](http://arxiv.org/abs/2409.15567v1)|null|
+|**2024-09-23 21:48:32**|**Asking an AI for salary negotiation advice is a matter of concern:   Controlled experimental perturbation of ChatGPT for protected and   non-protected group discrimination on a contextual task with no clear ground   truth answers**|R. Stuart Geiger et.al.|[2409.15567v2](http://arxiv.org/abs/2409.15567v2)|null|
 |**2024-09-21 09:13:50**|**Data Generation via Latent Factor Simulation for Fairness-aware   Re-ranking**|Elena Stefancova et.al.|[2409.14078v1](http://arxiv.org/abs/2409.14078v1)|null|
 |**2024-09-20 12:50:17**|**Engagement, Content Quality and Ideology over Time on the Facebook URL   Dataset**|Emma Fraxanet et.al.|[2409.13461v1](http://arxiv.org/abs/2409.13461v1)|null|
 |**2024-09-19 11:00:35**|**A Deep Dive into Fairness, Bias, Threats, and Privacy in Recommender   Systems: Insights and Future Research**|Falguni Roy et.al.|[2409.12651v1](http://arxiv.org/abs/2409.12651v1)|null|
@@ -31,4 +32,3 @@
 |**2024-08-20 03:28:10**|**Relativistic and Electron Correlation Effects in Static Dipole   Polarizabilities for Main-Group Elements**|YingXing Cheng et.al.|[2408.10513v2](http://arxiv.org/abs/2408.10513v2)|null|
 |**2024-08-16 09:17:39**|**Colorectal cancer risk mapping through Bayesian Networks**|Daniel Corrales et.al.|[2408.08618v2](http://arxiv.org/abs/2408.08618v2)|[link](https://github.com/DanielCorralesAlonso/CRC_Risk_BN)|
 |**2024-08-14 20:30:27**|**Reduction to depth zero for tame p-adic groups via Hecke algebra   isomorphisms**|Jeffrey D. Adler et.al.|[2408.07805v1](http://arxiv.org/abs/2408.07805v1)|null|
-|**2024-08-14 20:23:09**|**Structure of Hecke algebras arising from types**|Jeffrey D. Adler et.al.|[2408.07801v1](http://arxiv.org/abs/2408.07801v1)|null|
