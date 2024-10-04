@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-02 22:46:51**|**Price-guided user attention in large-scale E-commerce group   recommendation**|Yang Shi et.al.|[2410.02074v1](http://arxiv.org/abs/2410.02074v1)|null|
 |**2024-10-02 12:44:02**|**Relativistic and electron-correlation effects in static dipole   polarizabilities for group 11 elements**|YingXing Cheng et.al.|[2410.01493v1](http://arxiv.org/abs/2410.01493v1)|null|
 |**2024-09-30 18:00:02**|**APOKASC-3: The Third Joint Spectroscopic and Asteroseismic catalog for   Evolved Stars in the Kepler Fields**|Marc H. Pinsonneault et.al.|[2410.00102v1](http://arxiv.org/abs/2410.00102v1)|null|
 |**2024-09-30 16:42:57**|**RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News   Recommendations**|Johannes Kruse et.al.|[2409.20483v1](http://arxiv.org/abs/2409.20483v1)|null|
@@ -31,4 +32,3 @@
 |**2024-08-29 06:52:57**|**IC always bad? : Information Cocooning as a Group Emotional   Stabilization Role in Social Networks**|Jinhu Ren et.al.|[2408.16295v2](http://arxiv.org/abs/2408.16295v2)|null|
 |**2024-08-26 23:29:03**|**Federated User Preference Modeling for Privacy-Preserving Cross-Domain   Recommendation**|Li Wang et.al.|[2408.14689v1](http://arxiv.org/abs/2408.14689v1)|[link](https://github.com/lili1013/fupm)|
 |**2024-08-26 06:10:26**|**Robust subgroup-classifier learning and testing in change-plane   regressions**|Xu Liu et.al.|[2408.14036v1](http://arxiv.org/abs/2408.14036v1)|null|
-|**2024-08-24 16:04:51**|**As Biased as You Measure: Methodological Pitfalls of Bias Evaluations in   Speaker Verification Research**|Wiebke Hutiri et.al.|[2408.13614v1](http://arxiv.org/abs/2408.13614v1)|null|
