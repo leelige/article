@@ -4,6 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-28 06:33:18**|**An Efficient Multi-threaded Collaborative Filtering Approach in   Recommendation System**|Mahamudul Hasan et.al.|[2409.19262v1](http://arxiv.org/abs/2409.19262v1)|null|
 |**2024-09-20 01:17:54**|**Autonomous Driving at Unsignalized Intersections: A Review of   Decision-Making Challenges and Reinforcement Learning-Based Solutions**|Mohammad Al-Sharman et.al.|[2409.13144v1](http://arxiv.org/abs/2409.13144v1)|null|
+|**2024-09-15 06:40:38**|**Dreamming User Multimodal Representation for Micro-Video Recommendation**|Chengzhi Lin et.al.|[2410.03538v1](http://arxiv.org/abs/2410.03538v1)|null|
 |**2024-09-05 02:47:49**|**MAS4POI: a Multi-Agents Collaboration System for Next POI Recommendation**|Yuqian Wu et.al.|[2409.13700v1](http://arxiv.org/abs/2409.13700v1)|[link](https://github.com/yuqian2003/MAS4POI)|
 |**2024-09-04 17:21:47**|**Cost-Effectiveness Analysis for Disease Prevention -- A Case Study on   Colorectal Cancer Screening**|Yi Xiong et.al.|[2409.02888v1](http://arxiv.org/abs/2409.02888v1)|null|
 |**2024-09-02 07:44:48**|**Improved Diversity-Promoting Collaborative Metric Learning for   Recommendation**|Shilong Bao et.al.|[2409.01012v1](http://arxiv.org/abs/2409.01012v1)|[link](https://github.com/statusrank/LibCML)|
@@ -31,4 +32,3 @@
 |**2024-05-28 15:13:29**|**A Vlogger-augmented Graph Neural Network Model for Micro-video   Recommendation**|Weijiang Lai et.al.|[2405.18260v1](http://arxiv.org/abs/2405.18260v1)|[link](https://github.com/laiweijiang/VAGNN)|
 |**2024-05-27 12:49:07**|**Your decision path does matter in pre-training industrial recommenders   with multi-source behaviors**|Chunjing Gan et.al.|[2405.17132v1](http://arxiv.org/abs/2405.17132v1)|null|
 |**2024-05-21 11:54:16**|**Disentangled Representation with Cross Experts Covariance Loss for   Multi-Domain Recommendation**|Zhutian Lin et.al.|[2405.12706v1](http://arxiv.org/abs/2405.12706v1)|null|
-|**2024-05-20 03:47:12**|**Modeling User Fatigue for Sequential Recommendation**|Nian Li et.al.|[2405.11764v2](http://arxiv.org/abs/2405.11764v2)|[link](https://github.com/tsinghua-fib-lab/sigir24-frec)|

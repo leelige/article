@@ -2,6 +2,11 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-04 15:36:48**|**Fine-Grained Expressive Power of Weisfeiler-Leman: A Homomorphism   Counting Perspective**|Junru Zhou et.al.|[2410.03517v1](http://arxiv.org/abs/2410.03517v1)|null|
+|**2024-10-04 13:45:50**|**Self-supervised Spatio-Temporal Graph Mask-Passing Attention Network for   Perceptual Importance Prediction of Multi-point Tactility**|Dazhong He et.al.|[2410.03434v1](http://arxiv.org/abs/2410.03434v1)|null|
+|**2024-10-04 13:32:34**|**Cayley Graph Propagation**|JJ Wilson et.al.|[2410.03424v1](http://arxiv.org/abs/2410.03424v1)|[link](https://github.com/josephjwilson/cayley_graph_propagation)|
+|**2024-10-04 03:03:06**|**MBDS: A Multi-Body Dynamics Simulation Dataset for Graph Networks   Simulators**|Sheng Yang et.al.|[2410.03107v1](http://arxiv.org/abs/2410.03107v1)|[link](https://github.com/sherlocktein/mbds)|
+|**2024-10-03 19:48:45**|**LLMCO2: Advancing Accurate Carbon Footprint Prediction for LLM   Inferences**|Zhenxiao Fu et.al.|[2410.02950v1](http://arxiv.org/abs/2410.02950v1)|null|
 |**2024-10-03 16:02:02**|**Diss-l-ECT: Dissecting Graph Data with local Euler Characteristic   Transforms**|Julius von Rohrscheidt et.al.|[2410.02622v1](http://arxiv.org/abs/2410.02622v1)|null|
 |**2024-10-03 15:25:37**|**Boosting Sample Efficiency and Generalization in Multi-agent   Reinforcement Learning via Equivariance**|Joshua McClellan et.al.|[2410.02581v1](http://arxiv.org/abs/2410.02581v1)|null|
 |**2024-10-03 11:13:55**|**MANTRA: The Manifold Triangulations Assemblage**|Rubén Ballester et.al.|[2410.02392v1](http://arxiv.org/abs/2410.02392v1)|[link](https://github.com/aidos-lab/MANTRA)|
@@ -22,13 +27,8 @@
 |**2024-10-02 15:37:12**|**Sparse Covariance Neural Networks**|Andrea Cavallo et.al.|[2410.01669v1](http://arxiv.org/abs/2410.01669v1)|null|
 |**2024-10-02 15:22:27**|**Scalable and Consistent Graph Neural Networks for Distributed Mesh-based   Data-driven Modeling**|Shivam Barwey et.al.|[2410.01657v1](http://arxiv.org/abs/2410.01657v1)|null|
 |**2024-10-02 15:17:10**|**Accessing Numerical Energy Hessians with Graph Neural Network Potentials   and Their Application in Heterogeneous Catalysis**|Brook Wander et.al.|[2410.01650v1](http://arxiv.org/abs/2410.01650v1)|null|
-|**2024-10-02 12:07:47**|**Verbalized Graph Representation Learning: A Fully Interpretable Graph   Model Based on Large Language Models Throughout the Entire Process**|Xingyu Ji et.al.|[2410.01457v1](http://arxiv.org/abs/2410.01457v1)|[link](https://github.com/Erican-Ji/VGRL)|
+|**2024-10-02 12:07:47**|**Verbalized Graph Representation Learning: A Fully Interpretable Graph   Model Based on Large Language Models Throughout the Entire Process**|Xingyu Ji et.al.|[2410.01457v2](http://arxiv.org/abs/2410.01457v2)|null|
 |**2024-10-02 11:00:52**|**Dynamic Portfolio Rebalancing: A Hybrid new Model Using GNNs and   Pathfinding for Cost Efficiency**|Diego Vallarino et.al.|[2410.01864v1](http://arxiv.org/abs/2410.01864v1)|null|
 |**2024-10-02 09:28:59**|**Towards Dynamic Graph Neural Networks with Provably High-Order   Expressive Power**|Zhe Wang et.al.|[2410.01367v1](http://arxiv.org/abs/2410.01367v1)|null|
 |**2024-10-02 08:54:18**|**PhyMPGN: Physics-encoded Message Passing Graph Network for   spatiotemporal PDE systems**|Bocheng Zeng et.al.|[2410.01337v1](http://arxiv.org/abs/2410.01337v1)|null|
 |**2024-10-02 08:01:50**|**Rethinking the Expressiveness of GNNs: A Computational Model Perspective**|Guanyu Cui et.al.|[2410.01308v1](http://arxiv.org/abs/2410.01308v1)|null|
-|**2024-10-02 06:30:49**|**"No Matter What You Do!": Mitigating Backdoor Attacks in Graph Neural   Networks**|Jiale Zhang et.al.|[2410.01272v1](http://arxiv.org/abs/2410.01272v1)|[link](https://github.com/graph-axis/gcleaner)|
-|**2024-10-01 19:18:51**|**Recovering Time-Varying Networks From Single-Cell Data**|Euxhen Hasanaj et.al.|[2410.01853v1](http://arxiv.org/abs/2410.01853v1)|null|
-|**2024-10-01 17:11:22**|**Review of blockchain application with Graph Neural Networks, Graph   Convolutional Networks and Convolutional Neural Networks**|Amy Ancelotti et.al.|[2410.00875v1](http://arxiv.org/abs/2410.00875v1)|null|
-|**2024-10-01 15:54:07**|**WiGNet: Windowed Vision Graph Neural Network**|Gabriele Spadaro et.al.|[2410.00807v1](http://arxiv.org/abs/2410.00807v1)|[link](https://github.com/eidoslab/wignet)|
-|**2024-10-01 15:51:33**|**GAMMA-PD: Graph-based Analysis of Multi-Modal Motor Impairment   Assessments in Parkinson's Disease**|Favour Nerrise et.al.|[2410.00944v1](http://arxiv.org/abs/2410.00944v1)|[link](https://github.com/favour-nerrise/GAMMA-PD)|
