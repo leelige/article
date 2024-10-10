@@ -2,8 +2,10 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-08 01:51:55**|**Stereotype or Personalization? User Identity Biases Chatbot   Recommendations**|Anjali Kantharuban et.al.|[2410.05613v1](http://arxiv.org/abs/2410.05613v1)|null|
+|**2024-10-07 21:05:57**|**Intuitions of Compromise: Utilitarianism vs. Contractualism**|Jared Moore et.al.|[2410.05496v1](http://arxiv.org/abs/2410.05496v1)|[link](https://github.com/jlcmoore/valueaggregation)|
 |**2024-10-07 16:37:35**|**Are causal effect estimations enough for optimal recommendations under   multitreatment scenarios?**|Sherly Alfonso-Sánchez et.al.|[2410.05177v1](http://arxiv.org/abs/2410.05177v1)|null|
-|**2024-10-07 11:09:50**|**Random-projection ensemble dimension reduction**|Wenxing Zhou et.al.|[2410.04922v1](http://arxiv.org/abs/2410.04922v1)|null|
+|**2024-10-07 11:09:50**|**Random-projection ensemble dimension reduction**|Wenxing Zhou et.al.|[2410.04922v1](http://arxiv.org/abs/2410.04922v1)|[link](https://github.com/Wenxing99/RPEDR)|
 |**2024-10-07 08:34:18**|**Correcting for Popularity Bias in Recommender Systems via Item Loss   Equalization**|Juno Prent et.al.|[2410.04830v1](http://arxiv.org/abs/2410.04830v1)|null|
 |**2024-10-05 15:56:38**|**Assessing the Impact of Disorganized Background Noise on Timed Stress   Task Performance Through Attention Using Machine-Learning Based Eye-Tracking   Techniques**|Hubert Huang et.al.|[2410.04208v1](http://arxiv.org/abs/2410.04208v1)|null|
 |**2024-10-04 15:00:17**|**Applying the FAIR Principles to Computational Workflows**|Sean R. Wilkinson et.al.|[2410.03490v1](http://arxiv.org/abs/2410.03490v1)|null|
@@ -19,7 +21,7 @@
 |**2024-09-26 12:07:46**|**Value Identification in Multistakeholder Recommender Systems for   Humanities and Historical Research: The Case of the Digital Archive   Monasterium.net**|Florian Atzenhofer-Baumgartner et.al.|[2409.17769v1](http://arxiv.org/abs/2409.17769v1)|null|
 |**2024-09-24 11:58:32**|**Bridging the Transparency Gap: Exploring Multi-Stakeholder Preferences   for Targeted Advertisement Explanations**|Dina Zilbershtein et.al.|[2409.15998v1](http://arxiv.org/abs/2409.15998v1)|null|
 |**2024-09-24 11:03:17**|**Creating Healthy Friction: Determining Stakeholder Requirements of Job   Recommendation Explanations**|Roan Schellingerhout et.al.|[2409.15971v1](http://arxiv.org/abs/2409.15971v1)|[link](https://github.com/roan-schellingerhout/evaluating_job_recommendations)|
-|**2024-09-23 21:48:32**|**Asking an AI for salary negotiation advice is a matter of concern:   Controlled experimental perturbation of ChatGPT for protected and   non-protected group discrimination on a contextual task with no clear ground   truth answers**|R. Stuart Geiger et.al.|[2409.15567v2](http://arxiv.org/abs/2409.15567v2)|null|
+|**2024-09-23 21:48:32**|**Asking an AI for salary negotiation advice is a matter of concern:   Controlled experimental perturbation of ChatGPT for protected and   non-protected group discrimination on a contextual task with no clear ground   truth answers**|R. Stuart Geiger et.al.|[2409.15567v3](http://arxiv.org/abs/2409.15567v3)|null|
 |**2024-09-21 09:13:50**|**Data Generation via Latent Factor Simulation for Fairness-aware   Re-ranking**|Elena Stefancova et.al.|[2409.14078v1](http://arxiv.org/abs/2409.14078v1)|null|
 |**2024-09-20 12:50:17**|**Engagement, Content Quality and Ideology over Time on the Facebook URL   Dataset**|Emma Fraxanet et.al.|[2409.13461v1](http://arxiv.org/abs/2409.13461v1)|null|
 |**2024-09-19 11:00:35**|**A Deep Dive into Fairness, Bias, Threats, and Privacy in Recommender   Systems: Insights and Future Research**|Falguni Roy et.al.|[2409.12651v1](http://arxiv.org/abs/2409.12651v1)|null|
@@ -30,5 +32,3 @@
 |**2024-09-12 15:27:09**|**Reducing Population-level Inequality Can Improve Demographic Group   Fairness: a Twitter Case Study**|Avijit Ghosh et.al.|[2409.08135v1](http://arxiv.org/abs/2409.08135v1)|null|
 |**2024-09-11 16:49:31**|**Trust Dynamics in Human-Autonomy Interaction: Uncover Associations   between Trust Dynamics and Personal Characteristics**|Hyesun Chung et.al.|[2409.07406v1](http://arxiv.org/abs/2409.07406v1)|null|
 |**2024-09-09 16:56:31**|**Explainable AI: Definition and attributes of a good explanation for   health AI**|Evangelia Kyrimi et.al.|[2409.15338v1](http://arxiv.org/abs/2409.15338v1)|null|
-|**2024-09-06 17:01:48**|**Paradoxes of Openness and Trans Experiences in Open Source Software**|Hana Frluckaj et.al.|[2409.04511v1](http://arxiv.org/abs/2409.04511v1)|null|
-|**2024-09-04 10:03:09**|**AlignGroup: Learning and Aligning Group Consensus with Member   Preferences for Group Recommendation**|Jinfeng Xu et.al.|[2409.02580v1](http://arxiv.org/abs/2409.02580v1)|null|

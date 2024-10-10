@@ -1,13 +1,51 @@
 # arxiv-daily
- 自动更新 @ 2024-10-09 16:11:13 Asia/Shanghai
+ 自动更新 @ 2024-10-10 16:11:05 Asia/Shanghai
+
+## Graph Neural Network
+
+### GNN
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-09 17:31:41**|**Collusion Detection with Graph Neural Networks**|Lucas Gomes et.al.|[2410.07091v1](http://arxiv.org/abs/2410.07091v1)|null|
+|**2024-10-09 17:19:12**|**Let's Ask GNN: Empowering Large Language Model for Graph In-Context   Learning**|Zhengyu Hu et.al.|[2410.07074v1](http://arxiv.org/abs/2410.07074v1)|null|
+|**2024-10-09 15:15:40**|**AdaRC: Mitigating Graph Structure Shifts during Test-Time**|Wenxuan Bao et.al.|[2410.06976v1](http://arxiv.org/abs/2410.06976v1)|null|
+|**2024-10-09 15:07:53**|**DLGNet: Hyperedge Classification through Directed Line Graphs for   Chemical Reactions**|Stefano Fiorini et.al.|[2410.06969v1](http://arxiv.org/abs/2410.06969v1)|null|
+|**2024-10-09 14:47:12**|**Faithful Interpretation for Graph Neural Networks**|Lijie Hu et.al.|[2410.06950v1](http://arxiv.org/abs/2410.06950v1)|null|
+|**2024-10-09 10:41:08**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh   Hybrid Representation**|Zhiqi Li et.al.|[2410.06756v1](http://arxiv.org/abs/2410.06756v1)|null|
+|**2024-10-09 04:07:20**|**TopoTune : A Framework for Generalized Combinatorial Complex Neural   Networks**|Mathilde Papillon et.al.|[2410.06530v1](http://arxiv.org/abs/2410.06530v1)|null|
+|**2024-10-09 01:32:48**|**A Benchmark on Directed Graph Representation Learning in Hardware   Designs**|Haoyu Wang et.al.|[2410.06460v1](http://arxiv.org/abs/2410.06460v1)|null|
+|**2024-10-08 21:57:46**|**Multimodal Representation Learning using Adaptive Graph Construction**|Weichen Huang et.al.|[2410.06395v1](http://arxiv.org/abs/2410.06395v1)|null|
+|**2024-10-08 15:10:09**|**UnSeGArmaNet: Unsupervised Image Segmentation using Graph Neural   Networks with Convolutional ARMA Filters**|Kovvuri Sai Gopal Reddy et.al.|[2410.06114v1](http://arxiv.org/abs/2410.06114v1)|[link](https://github.com/ksgr5566/unsegarmanet)|
+|**2024-10-08 11:10:06**|**TIMBA: Time series Imputation with Bi-directional Mamba Blocks and   Diffusion models**|Javier Solís-García et.al.|[2410.05916v1](http://arxiv.org/abs/2410.05916v1)|null|
+|**2024-10-08 11:07:55**|**Accelerating Error Correction Code Transformers**|Matan Levy et.al.|[2410.05911v1](http://arxiv.org/abs/2410.05911v1)|[link](https://github.com/mlaetvayn/aecct)|
+|**2024-10-08 06:48:01**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud   Registration**|Xueyang Kang et.al.|[2410.05729v1](http://arxiv.org/abs/2410.05729v1)|[link](https://github.com/alexandor91/se3-equi-graph-registration)|
+|**2024-10-08 05:27:34**|**Diffusing to the Top: Boost Graph Neural Networks with Minimal   Hyperparameter Tuning**|Lequan Lin et.al.|[2410.05697v1](http://arxiv.org/abs/2410.05697v1)|[link](https://github.com/lequanlin/gnn-diff)|
+|**2024-10-08 01:09:48**|**When Graph Neural Networks Meet Dynamic Mode Decomposition**|Dai Shi et.al.|[2410.05593v1](http://arxiv.org/abs/2410.05593v1)|null|
+|**2024-10-07 22:22:02**|**Optimizing Tensor Computation Graphs with Equality Saturation and Monte   Carlo Tree Search**|Jakob Hartmann et.al.|[2410.05534v1](http://arxiv.org/abs/2410.05534v1)|null|
+|**2024-10-07 21:09:14**|**Unitary convolutions for learning on graphs and groups**|Bobak T. Kiani et.al.|[2410.05499v1](http://arxiv.org/abs/2410.05499v1)|null|
+|**2024-10-07 18:29:02**|**Haste Makes Waste: A Simple Approach for Scaling Graph Neural Networks**|Rui Xue et.al.|[2410.05416v1](http://arxiv.org/abs/2410.05416v1)|null|
+|**2024-10-07 16:28:47**|**Interactive Event Sifting using Bayesian Graph Neural Networks**|José Nascimento et.al.|[2410.05359v1](http://arxiv.org/abs/2410.05359v1)|null|
+|**2024-10-07 15:52:51**|**BSG4Bot: Efficient Bot Detection based on Biased Heterogeneous Subgraphs**|Hao Miao et.al.|[2410.05356v1](http://arxiv.org/abs/2410.05356v1)|null|
+|**2024-10-07 08:22:20**|**Taming Gradient Oversmoothing and Expansion in Graph Neural Networks**|MoonJeong Park et.al.|[2410.04824v1](http://arxiv.org/abs/2410.04824v1)|null|
+|**2024-10-07 08:08:36**|**Physics-Informed GNN for non-linear constrained optimization: PINCO a   solver for the AC-optimal power flow**|Anna Varbella et.al.|[2410.04818v1](http://arxiv.org/abs/2410.04818v1)|null|
+|**2024-10-07 06:48:27**|**When GDD meets GNN: A Knowledge-driven Neural Connection for Effective   Entity Resolution in Property Graphs**|Junwei Hu et.al.|[2410.04783v1](http://arxiv.org/abs/2410.04783v1)|null|
+|**2024-10-07 05:44:02**|**Molecular topological deep learning for polymer property prediction**|Cong Shen et.al.|[2410.04765v1](http://arxiv.org/abs/2410.04765v1)|null|
+|**2024-10-07 02:12:42**|**A Clifford Algebraic Approach to E(n)-Equivariant High-order Graph   Neural Networks**|Hoang-Viet Tran et.al.|[2410.04692v1](http://arxiv.org/abs/2410.04692v1)|null|
+|**2024-10-06 23:55:34**|**Graph Fourier Neural Kernels (G-FuNK): Learning Solutions of Nonlinear   Diffusive Parametric PDEs on Multiple Domains**|Shane E. Loeffler et.al.|[2410.04655v2](http://arxiv.org/abs/2410.04655v2)|null|
+|**2024-10-06 17:03:27**|**Modeling Social Media Recommendation Impacts Using Academic Networks: A   Graph Neural Network Approach**|Sabrina Guidotti et.al.|[2410.04552v1](http://arxiv.org/abs/2410.04552v1)|[link](https://github.com/DimNeuroLab/academic_network_project)|
+|**2024-10-05 21:21:40**|**Unveiling the Impact of Local Homophily on GNN Fairness: In-Depth   Analysis and New Benchmarks**|Donald Loveland et.al.|[2410.04287v1](http://arxiv.org/abs/2410.04287v1)|null|
+|**2024-10-05 20:49:05**|**Applying Hybrid Graph Neural Networks to Strengthen Credit Risk Analysis**|Mengfang Sun et.al.|[2410.04283v1](http://arxiv.org/abs/2410.04283v1)|null|
+|**2024-10-05 18:16:07**|**Enhancing Future Link Prediction in Quantum Computing Semantic Networks   through LLM-Initiated Node Features**|Gilchan Park et.al.|[2410.04251v1](http://arxiv.org/abs/2410.04251v1)|[link](https://github.com/boxorange/QC-LinkPrediction)|
 
 ## Group Recommendation
 
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-08 01:51:55**|**Stereotype or Personalization? User Identity Biases Chatbot   Recommendations**|Anjali Kantharuban et.al.|[2410.05613v1](http://arxiv.org/abs/2410.05613v1)|null|
+|**2024-10-07 21:05:57**|**Intuitions of Compromise: Utilitarianism vs. Contractualism**|Jared Moore et.al.|[2410.05496v1](http://arxiv.org/abs/2410.05496v1)|[link](https://github.com/jlcmoore/valueaggregation)|
 |**2024-10-07 16:37:35**|**Are causal effect estimations enough for optimal recommendations under   multitreatment scenarios?**|Sherly Alfonso-Sánchez et.al.|[2410.05177v1](http://arxiv.org/abs/2410.05177v1)|null|
-|**2024-10-07 11:09:50**|**Random-projection ensemble dimension reduction**|Wenxing Zhou et.al.|[2410.04922v1](http://arxiv.org/abs/2410.04922v1)|null|
+|**2024-10-07 11:09:50**|**Random-projection ensemble dimension reduction**|Wenxing Zhou et.al.|[2410.04922v1](http://arxiv.org/abs/2410.04922v1)|[link](https://github.com/Wenxing99/RPEDR)|
 |**2024-10-07 08:34:18**|**Correcting for Popularity Bias in Recommender Systems via Item Loss   Equalization**|Juno Prent et.al.|[2410.04830v1](http://arxiv.org/abs/2410.04830v1)|null|
 |**2024-10-05 15:56:38**|**Assessing the Impact of Disorganized Background Noise on Timed Stress   Task Performance Through Attention Using Machine-Learning Based Eye-Tracking   Techniques**|Hubert Huang et.al.|[2410.04208v1](http://arxiv.org/abs/2410.04208v1)|null|
 |**2024-10-04 15:00:17**|**Applying the FAIR Principles to Computational Workflows**|Sean R. Wilkinson et.al.|[2410.03490v1](http://arxiv.org/abs/2410.03490v1)|null|
@@ -23,7 +61,7 @@
 |**2024-09-26 12:07:46**|**Value Identification in Multistakeholder Recommender Systems for   Humanities and Historical Research: The Case of the Digital Archive   Monasterium.net**|Florian Atzenhofer-Baumgartner et.al.|[2409.17769v1](http://arxiv.org/abs/2409.17769v1)|null|
 |**2024-09-24 11:58:32**|**Bridging the Transparency Gap: Exploring Multi-Stakeholder Preferences   for Targeted Advertisement Explanations**|Dina Zilbershtein et.al.|[2409.15998v1](http://arxiv.org/abs/2409.15998v1)|null|
 |**2024-09-24 11:03:17**|**Creating Healthy Friction: Determining Stakeholder Requirements of Job   Recommendation Explanations**|Roan Schellingerhout et.al.|[2409.15971v1](http://arxiv.org/abs/2409.15971v1)|[link](https://github.com/roan-schellingerhout/evaluating_job_recommendations)|
-|**2024-09-23 21:48:32**|**Asking an AI for salary negotiation advice is a matter of concern:   Controlled experimental perturbation of ChatGPT for protected and   non-protected group discrimination on a contextual task with no clear ground   truth answers**|R. Stuart Geiger et.al.|[2409.15567v2](http://arxiv.org/abs/2409.15567v2)|null|
+|**2024-09-23 21:48:32**|**Asking an AI for salary negotiation advice is a matter of concern:   Controlled experimental perturbation of ChatGPT for protected and   non-protected group discrimination on a contextual task with no clear ground   truth answers**|R. Stuart Geiger et.al.|[2409.15567v3](http://arxiv.org/abs/2409.15567v3)|null|
 |**2024-09-21 09:13:50**|**Data Generation via Latent Factor Simulation for Fairness-aware   Re-ranking**|Elena Stefancova et.al.|[2409.14078v1](http://arxiv.org/abs/2409.14078v1)|null|
 |**2024-09-20 12:50:17**|**Engagement, Content Quality and Ideology over Time on the Facebook URL   Dataset**|Emma Fraxanet et.al.|[2409.13461v1](http://arxiv.org/abs/2409.13461v1)|null|
 |**2024-09-19 11:00:35**|**A Deep Dive into Fairness, Bias, Threats, and Privacy in Recommender   Systems: Insights and Future Research**|Falguni Roy et.al.|[2409.12651v1](http://arxiv.org/abs/2409.12651v1)|null|
@@ -34,14 +72,13 @@
 |**2024-09-12 15:27:09**|**Reducing Population-level Inequality Can Improve Demographic Group   Fairness: a Twitter Case Study**|Avijit Ghosh et.al.|[2409.08135v1](http://arxiv.org/abs/2409.08135v1)|null|
 |**2024-09-11 16:49:31**|**Trust Dynamics in Human-Autonomy Interaction: Uncover Associations   between Trust Dynamics and Personal Characteristics**|Hyesun Chung et.al.|[2409.07406v1](http://arxiv.org/abs/2409.07406v1)|null|
 |**2024-09-09 16:56:31**|**Explainable AI: Definition and attributes of a good explanation for   health AI**|Evangelia Kyrimi et.al.|[2409.15338v1](http://arxiv.org/abs/2409.15338v1)|null|
-|**2024-09-06 17:01:48**|**Paradoxes of Openness and Trans Experiences in Open Source Software**|Hana Frluckaj et.al.|[2409.04511v1](http://arxiv.org/abs/2409.04511v1)|null|
-|**2024-09-04 10:03:09**|**AlignGroup: Learning and Aligning Group Consensus with Member   Preferences for Group Recommendation**|Jinfeng Xu et.al.|[2409.02580v1](http://arxiv.org/abs/2409.02580v1)|null|
 
 ## Multi Interest Recommendation
 
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-09 04:20:15**|**Learning Recommender Systems with Soft Target: A Decoupled Perspective**|Hao Zhang et.al.|[2410.06536v1](http://arxiv.org/abs/2410.06536v1)|null|
 |**2024-10-06 17:01:18**|**Social Choice for Heterogeneous Fairness in Recommendation**|Amanda Aird et.al.|[2410.04551v1](http://arxiv.org/abs/2410.04551v1)|null|
 |**2024-09-28 06:33:18**|**An Efficient Multi-threaded Collaborative Filtering Approach in   Recommendation System**|Mahamudul Hasan et.al.|[2409.19262v1](http://arxiv.org/abs/2409.19262v1)|null|
 |**2024-09-20 01:17:54**|**Autonomous Driving at Unsignalized Intersections: A Review of   Decision-Making Challenges and Reinforcement Learning-Based Solutions**|Mohammad Al-Sharman et.al.|[2409.13144v1](http://arxiv.org/abs/2409.13144v1)|null|
@@ -71,40 +108,3 @@
 |**2024-06-05 09:57:58**|**CAPRI-FAIR: Integration of Multi-sided Fairness in Contextual POI   Recommendation Framework**|Francis Zac dela Cruz et.al.|[2406.03109v3](http://arxiv.org/abs/2406.03109v3)|[link](https://github.com/cruiseresearchgroup/CAPRI-FAIR)|
 |**2024-05-30 21:08:42**|**Hiding Your Awful Online Choices Made More Efficient and Secure: A New   Privacy-Aware Recommender System**|Shibam Mukherjee et.al.|[2405.20483v1](http://arxiv.org/abs/2405.20483v1)|null|
 |**2024-05-28 15:13:29**|**A Vlogger-augmented Graph Neural Network Model for Micro-video   Recommendation**|Weijiang Lai et.al.|[2405.18260v1](http://arxiv.org/abs/2405.18260v1)|[link](https://github.com/laiweijiang/VAGNN)|
-|**2024-05-27 12:49:07**|**Your decision path does matter in pre-training industrial recommenders   with multi-source behaviors**|Chunjing Gan et.al.|[2405.17132v1](http://arxiv.org/abs/2405.17132v1)|null|
-
-## Graph Neural Network
-
-### GNN
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-07 08:22:20**|**Taming Gradient Oversmoothing and Expansion in Graph Neural Networks**|MoonJeong Park et.al.|[2410.04824v1](http://arxiv.org/abs/2410.04824v1)|null|
-|**2024-10-07 08:08:36**|**Physics-Informed GNN for non-linear constrained optimization: PINCO a   solver for the AC-optimal power flow**|Anna Varbella et.al.|[2410.04818v1](http://arxiv.org/abs/2410.04818v1)|null|
-|**2024-10-07 06:48:27**|**When GDD meets GNN: A Knowledge-driven Neural Connection for Effective   Entity Resolution in Property Graphs**|Junwei Hu et.al.|[2410.04783v1](http://arxiv.org/abs/2410.04783v1)|null|
-|**2024-10-07 05:44:02**|**Molecular topological deep learning for polymer property prediction**|Cong Shen et.al.|[2410.04765v1](http://arxiv.org/abs/2410.04765v1)|null|
-|**2024-10-07 02:12:42**|**A Clifford Algebraic Approach to E(n)-Equivariant High-order Graph   Neural Networks**|Hoang-Viet Tran et.al.|[2410.04692v1](http://arxiv.org/abs/2410.04692v1)|null|
-|**2024-10-06 23:55:34**|**Graph Fourier Neural Kernels (G-FuNK): Learning Solutions of Nonlinear   Diffusive Parametric PDEs on Multiple Domains**|Shane E. Loeffler et.al.|[2410.04655v1](http://arxiv.org/abs/2410.04655v1)|null|
-|**2024-10-06 17:03:27**|**Modeling Social Media Recommendation Impacts Using Academic Networks: A   Graph Neural Network Approach**|Sabrina Guidotti et.al.|[2410.04552v1](http://arxiv.org/abs/2410.04552v1)|[link](https://github.com/DimNeuroLab/academic_network_project)|
-|**2024-10-05 21:21:40**|**Unveiling the Impact of Local Homophily on GNN Fairness: In-Depth   Analysis and New Benchmarks**|Donald Loveland et.al.|[2410.04287v1](http://arxiv.org/abs/2410.04287v1)|null|
-|**2024-10-05 20:49:05**|**Applying Hybrid Graph Neural Networks to Strengthen Credit Risk Analysis**|Mengfang Sun et.al.|[2410.04283v1](http://arxiv.org/abs/2410.04283v1)|null|
-|**2024-10-05 18:16:07**|**Enhancing Future Link Prediction in Quantum Computing Semantic Networks   through LLM-Initiated Node Features**|Gilchan Park et.al.|[2410.04251v1](http://arxiv.org/abs/2410.04251v1)|null|
-|**2024-10-05 16:35:32**|**Multimodal Large Language Models for Inverse Molecular Design with   Retrosynthetic Planning**|Gang Liu et.al.|[2410.04223v1](http://arxiv.org/abs/2410.04223v1)|null|
-|**2024-10-05 16:10:19**|**Equivariant Polynomial Functional Networks**|Thieu N. Vo et.al.|[2410.04213v1](http://arxiv.org/abs/2410.04213v1)|null|
-|**2024-10-05 03:09:02**|**Improving Temporal Link Prediction via Temporal Walk Matrix Projection**|Xiaodong Lu et.al.|[2410.04013v1](http://arxiv.org/abs/2410.04013v1)|[link](https://github.com/lxd99/tpnet)|
-|**2024-10-04 20:50:18**|**Scaling Graph Neural Networks to Large Proteins**|Justin Airas et.al.|[2410.03921v1](http://arxiv.org/abs/2410.03921v1)|null|
-|**2024-10-04 20:25:44**|**Improving Efficiency of Sampling-based Motion Planning via   Message-Passing Monte Carlo**|Makram Chahine et.al.|[2410.03909v1](http://arxiv.org/abs/2410.03909v1)|null|
-|**2024-10-04 15:36:48**|**Fine-Grained Expressive Power of Weisfeiler-Leman: A Homomorphism   Counting Perspective**|Junru Zhou et.al.|[2410.03517v1](http://arxiv.org/abs/2410.03517v1)|null|
-|**2024-10-04 13:45:50**|**Self-supervised Spatio-Temporal Graph Mask-Passing Attention Network for   Perceptual Importance Prediction of Multi-point Tactility**|Dazhong He et.al.|[2410.03434v1](http://arxiv.org/abs/2410.03434v1)|null|
-|**2024-10-04 13:32:34**|**Cayley Graph Propagation**|JJ Wilson et.al.|[2410.03424v1](http://arxiv.org/abs/2410.03424v1)|[link](https://github.com/josephjwilson/cayley_graph_propagation)|
-|**2024-10-04 09:39:15**|**Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction**|Giuseppe Alessio D'Inverno et.al.|[2410.03802v1](http://arxiv.org/abs/2410.03802v1)|null|
-|**2024-10-04 03:03:06**|**MBDS: A Multi-Body Dynamics Simulation Dataset for Graph Networks   Simulators**|Sheng Yang et.al.|[2410.03107v1](http://arxiv.org/abs/2410.03107v1)|[link](https://github.com/sherlocktein/mbds)|
-|**2024-10-03 19:48:45**|**LLMCO2: Advancing Accurate Carbon Footprint Prediction for LLM   Inferences**|Zhenxiao Fu et.al.|[2410.02950v1](http://arxiv.org/abs/2410.02950v1)|null|
-|**2024-10-03 16:02:02**|**Diss-l-ECT: Dissecting Graph Data with local Euler Characteristic   Transforms**|Julius von Rohrscheidt et.al.|[2410.02622v1](http://arxiv.org/abs/2410.02622v1)|null|
-|**2024-10-03 15:25:37**|**Boosting Sample Efficiency and Generalization in Multi-agent   Reinforcement Learning via Equivariance**|Joshua McClellan et.al.|[2410.02581v1](http://arxiv.org/abs/2410.02581v1)|null|
-|**2024-10-03 15:18:00**|**Discovering Message Passing Hierarchies for Mesh-Based Physics   Simulation**|Huayu Deng et.al.|[2410.03779v1](http://arxiv.org/abs/2410.03779v1)|null|
-|**2024-10-03 11:13:55**|**MANTRA: The Manifold Triangulations Assemblage**|Rubén Ballester et.al.|[2410.02392v1](http://arxiv.org/abs/2410.02392v1)|[link](https://github.com/aidos-lab/MANTRA)|
-|**2024-10-03 10:23:03**|**A Comprehensive Survey of Mamba Architectures for Medical Image   Analysis: Classification, Segmentation, Restoration and Beyond**|Shubhi Bansal et.al.|[2410.02362v1](http://arxiv.org/abs/2410.02362v1)|[link](https://github.com/madhavaprasath23/awesome-mamba-papers-on-medical-domain)|
-|**2024-10-03 09:36:37**|**Fragility of Chess positions: measure, universality and tipping points**|Marc Barthelemy et.al.|[2410.02333v1](http://arxiv.org/abs/2410.02333v1)|null|
-|**2024-10-03 08:27:54**|**Language Models are Graph Learners**|Zhe Xu et.al.|[2410.02296v1](http://arxiv.org/abs/2410.02296v1)|null|
-|**2024-10-03 08:13:30**|**Model-Based GNN Enabled Energy-Efficient Beamforming for Ultra-Dense   Wireless Networks**|Rongsheng Zhang et.al.|[2410.02289v1](http://arxiv.org/abs/2410.02289v1)|null|
-|**2024-10-03 07:56:42**|**GNN-Enabled Optimization of Placement and Transmission Design for UAV   Communications**|Qinyu Wang et.al.|[2410.02277v1](http://arxiv.org/abs/2410.02277v1)|null|
