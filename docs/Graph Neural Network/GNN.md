@@ -2,9 +2,24 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-16 17:01:28**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using   Graph Convolutional Network**|Asish Bera et.al.|[2410.12742v1](http://arxiv.org/abs/2410.12742v1)|null|
+|**2024-10-16 16:59:56**|**Just Ramp-up: Unleash the Potential of Regression-based Estimator for   A/B Tests under Network Interference**|Qianyi Chen et.al.|[2410.12740v1](http://arxiv.org/abs/2410.12740v1)|null|
+|**2024-10-16 16:13:19**|**FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs   with Adaptive Compression**|Zhenheng Tang et.al.|[2410.12707v1](http://arxiv.org/abs/2410.12707v1)|null|
+|**2024-10-16 14:12:11**|**Expand and Compress: Exploring Tuning Principles for Continual   Spatio-Temporal Graph Forecasting**|Wei Chen et.al.|[2410.12593v1](http://arxiv.org/abs/2410.12593v1)|null|
+|**2024-10-16 10:08:02**|**Perseus: Leveraging Common Data Patterns with Curriculum Learning for   More Robust Graph Neural Networks**|Kaiwen Xia et.al.|[2410.12425v1](http://arxiv.org/abs/2410.12425v1)|null|
+|**2024-10-16 08:46:26**|**PRefLexOR: Preference-based Recursive Language Modeling for Exploratory   Optimization of Reasoning and Agentic Thinking**|Markus J. Buehler et.al.|[2410.12375v1](http://arxiv.org/abs/2410.12375v1)|null|
+|**2024-10-16 08:04:57**|**Federated Temporal Graph Clustering**|Yang Liu et.al.|[2410.12343v1](http://arxiv.org/abs/2410.12343v1)|null|
+|**2024-10-16 06:47:18**|**A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context   Reasoning**|Yuanning Cui et.al.|[2410.12288v1](http://arxiv.org/abs/2410.12288v1)|[link](https://github.com/nju-websoft/KG-ICL)|
+|**2024-10-16 04:24:11**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216v1](http://arxiv.org/abs/2410.12216v1)|[link](https://github.com/nchen9191/tensegrity_gnn_simulator_public)|
+|**2024-10-16 01:37:01**|**FragNet: A Graph Neural Network for Molecular Property Prediction with   Four Layers of Interpretability**|Gihan Panapitiya et.al.|[2410.12156v1](http://arxiv.org/abs/2410.12156v1)|null|
+|**2024-10-16 00:01:31**|**Parametric Graph Representations in the Era of Foundation Models: A   Survey and Position**|Dongqi Fu et.al.|[2410.12126v1](http://arxiv.org/abs/2410.12126v1)|null|
+|**2024-10-15 22:43:32**|**Bridging Large Language Models and Graph Structure Learning Models for   Robust Representation Learning**|Guangxin Su et.al.|[2410.12096v1](http://arxiv.org/abs/2410.12096v1)|null|
+|**2024-10-15 20:08:08**|**A Survey on Deep Tabular Learning**|Shriyank Somvanshi et.al.|[2410.12034v1](http://arxiv.org/abs/2410.12034v1)|null|
+|**2024-10-15 18:38:12**|**An Online Self-learning Graph-based Lateral Controller for Self-Driving   Cars**|Jilan Samiuddin et.al.|[2410.11979v1](http://arxiv.org/abs/2410.11979v1)|null|
 |**2024-10-15 17:34:50**|**Regional Ocean Forecasting with Hierarchical Graph Neural Networks**|Daniel Holmberg et.al.|[2410.11807v1](http://arxiv.org/abs/2410.11807v1)|null|
 |**2024-10-15 17:01:21**|**G-Designer: Architecting Multi-agent Communication Topologies via Graph   Neural Networks**|Guibin Zhang et.al.|[2410.11782v1](http://arxiv.org/abs/2410.11782v1)|null|
-|**2024-10-15 16:39:38**|**ECGN: A Cluster-Aware Approach to Graph Neural Networks for Imbalanced   Classification**|Bishal Thapaliya et.al.|[2410.11765v1](http://arxiv.org/abs/2410.11765v1)|null|
+|**2024-10-15 16:39:38**|**ECGN: A Cluster-Aware Approach to Graph Neural Networks for Imbalanced   Classification**|Bishal Thapaliya et.al.|[2410.11765v1](http://arxiv.org/abs/2410.11765v1)|[link](https://github.com/anonymous753341/ecgn)|
+|**2024-10-15 12:55:57**|**Spatial-Temporal Bearing Fault Detection Using Graph Attention Networks   and LSTM**|Moirangthem Tiken Singh et.al.|[2410.11923v1](http://arxiv.org/abs/2410.11923v1)|null|
 |**2024-10-15 11:54:39**|**Electrical Transport in Tunably-Disordered Metamaterials**|Caitlyn Obrero et.al.|[2410.11525v1](http://arxiv.org/abs/2410.11525v1)|null|
 |**2024-10-15 11:16:54**|**Network Representation Learning for Biophysical Neural Network Analysis**|Youngmok Ha et.al.|[2410.11503v1](http://arxiv.org/abs/2410.11503v1)|null|
 |**2024-10-15 10:57:02**|**Towards Fair Graph Representation Learning in Social Networks**|Guixian Zhang et.al.|[2410.11493v1](http://arxiv.org/abs/2410.11493v1)|null|
@@ -16,19 +31,4 @@
 |**2024-10-15 07:25:33**|**Reducing Labeling Costs in Sentiment Analysis via Semi-Supervised   Learning**|Minoo Jafarlou et.al.|[2410.11355v1](http://arxiv.org/abs/2410.11355v1)|null|
 |**2024-10-15 06:44:57**|**KA-GNN: Kolmogorov-Arnold Graph Neural Networks for Molecular Property   Prediction**|Longlong Li et.al.|[2410.11323v1](http://arxiv.org/abs/2410.11323v1)|null|
 |**2024-10-15 05:26:20**|**Backdoor Attack on Vertical Federated Graph Neural Network Learning**|Jirui Yang et.al.|[2410.11290v1](http://arxiv.org/abs/2410.11290v1)|null|
-|**2024-10-15 02:08:16**|**Rethinking Graph Transformer Architecture Design for Node Classification**|Jiajun Zhou et.al.|[2410.11189v1](http://arxiv.org/abs/2410.11189v1)|null|
-|**2024-10-15 01:33:20**|**Combining Reinforcement Learning with Graph Convolutional Neural   Networks for Efficient Design of TiAl/TiAlN Atomic-Scale Interfaces**|Xinyu Jiang et.al.|[2410.11178v1](http://arxiv.org/abs/2410.11178v1)|null|
-|**2024-10-14 20:21:11**|**Parsing altered brain connectivity in neurodevelopmental disorders by   integrating graph-based normative modeling and deep generative networks**|Rui Sherry Shen et.al.|[2410.11064v1](http://arxiv.org/abs/2410.11064v1)|null|
-|**2024-10-14 19:51:32**|**SGUQ: Staged Graph Convolution Neural Network for Alzheimer's Disease   Diagnosis using Multi-Omics Data**|Liang Tao et.al.|[2410.11046v1](http://arxiv.org/abs/2410.11046v1)|[link](https://github.com/chenzhao2023/multiomicsuncertainty)|
-|**2024-10-14 19:33:46**|**NAR-*ICP: Neural Execution of Classical ICP-based Pointcloud   Registration Algorithms**|Efimia Panagiotaki et.al.|[2410.11031v1](http://arxiv.org/abs/2410.11031v1)|null|
-|**2024-10-14 18:20:09**|**GraFPrint: A GNN-Based Approach for Audio Identification**|Aditya Bhattacharjee et.al.|[2410.10994v1](http://arxiv.org/abs/2410.10994v1)|null|
-|**2024-10-14 17:41:32**|**How to realize compact and Anderson-like localized states in   disorder-free hypercube bosonic networks**|Ievgen I. Arkhipov et.al.|[2410.10763v1](http://arxiv.org/abs/2410.10763v1)|null|
-|**2024-10-14 17:38:37**|**Arrhythmia Classification Using Graph Neural Networks Based on   Correlation Matrix**|Seungwoo Han et.al.|[2410.10758v1](http://arxiv.org/abs/2410.10758v1)|null|
-|**2024-10-14 17:21:57**|**NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into   Large Language Models**|Yanbiao Ji et.al.|[2410.10743v1](http://arxiv.org/abs/2410.10743v1)|null|
-|**2024-10-14 16:26:16**|**Fully Programmable Spatial Photonic Ising Machine by Focal Plane   Division**|Daniele Veraldi et.al.|[2410.10689v1](http://arxiv.org/abs/2410.10689v1)|null|
-|**2024-10-14 16:06:56**|**A Personalized MOOC Learning Group and Course Recommendation Method   Based on Graph Neural Network and Social Network Analysis**|Zijin Luo et.al.|[2410.10658v1](http://arxiv.org/abs/2410.10658v1)|null|
-|**2024-10-14 14:58:30**|**TopoFR: A Closer Look at Topology Alignment on Face Recognition**|Jun Dan et.al.|[2410.10587v1](http://arxiv.org/abs/2410.10587v1)|[link](https://github.com/modelscope/facechain)|
-|**2024-10-14 14:26:46**|**Graph Classification Gaussian Processes via Hodgelet Spectral Features**|Mathieu Alain et.al.|[2410.10546v1](http://arxiv.org/abs/2410.10546v1)|null|
-|**2024-10-14 10:46:32**|**A Hybrid Filtering for Micro-video Hashtag Recommendation using   Graph-based Deep Neural Network**|Shubhi Bansal et.al.|[2410.10367v1](http://arxiv.org/abs/2410.10367v1)|null|
-|**2024-10-14 09:54:20**|**Replay-and-Forget-Free Graph Class-Incremental Learning: A Task   Profiling and Prompting Approach**|Chaoxi Niu et.al.|[2410.10341v1](http://arxiv.org/abs/2410.10341v1)|[link](https://github.com/mala-lab/tpp)|
-|**2024-10-14 09:26:56**|**DiRW: Path-Aware Digraph Learning for Heterophily**|Daohan Su et.al.|[2410.10320v1](http://arxiv.org/abs/2410.10320v1)|null|
+|**2024-10-15 02:13:41**|**Statistical field theory of random graphs with prescribed degrees**|Pawat Akara-pipattana et.al.|[2410.11191v1](http://arxiv.org/abs/2410.11191v1)|null|
