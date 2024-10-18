@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-17 14:22:57**|**Cross-Domain Sequential Recommendation via Neural Process**|Haipeng Li et.al.|[2410.13588v1](http://arxiv.org/abs/2410.13588v1)|null|
 |**2024-10-16 13:23:30**|**Exploring Plural Perspectives in Self-Tracking Technologies: Trust and   Reflection in Self Tracking Practices**|Sujay Shalawadi et.al.|[2410.12546v1](http://arxiv.org/abs/2410.12546v1)|null|
 |**2024-10-14 16:06:56**|**A Personalized MOOC Learning Group and Course Recommendation Method   Based on Graph Neural Network and Social Network Analysis**|Zijin Luo et.al.|[2410.10658v1](http://arxiv.org/abs/2410.10658v1)|null|
 |**2024-10-11 10:02:52**|**The Design Space of in-IDE Human-AI Experience**|Agnia Sergeyuk et.al.|[2410.08676v1](http://arxiv.org/abs/2410.08676v1)|null|
@@ -18,7 +19,7 @@
 |**2024-10-01 19:38:46**|**YouTube Video Analytics for Patient Engagement: Evidence from   Colonoscopy Preparation Videos**|Yawen Guo et.al.|[2410.02830v1](http://arxiv.org/abs/2410.02830v1)|null|
 |**2024-09-30 18:00:02**|**APOKASC-3: The Third Joint Spectroscopic and Asteroseismic catalog for   Evolved Stars in the Kepler Fields**|Marc H. Pinsonneault et.al.|[2410.00102v1](http://arxiv.org/abs/2410.00102v1)|null|
 |**2024-09-30 16:42:57**|**RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News   Recommendations**|Johannes Kruse et.al.|[2409.20483v1](http://arxiv.org/abs/2409.20483v1)|null|
-|**2024-09-30 14:04:27**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305v1](http://arxiv.org/abs/2409.20305v1)|[link](https://github.com/leopold1423/mpe)|
+|**2024-09-30 14:04:27**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305v2](http://arxiv.org/abs/2409.20305v2)|[link](https://github.com/leopold1423/mpe)|
 |**2024-09-27 07:32:05**|**Improved Approximation Algorithms for Relational Clustering**|Aryan Esmailpour et.al.|[2409.18498v1](http://arxiv.org/abs/2409.18498v1)|null|
 |**2024-09-26 19:46:50**|**Bridging the Protection Gap: Innovative Approaches to Shield Older   Adults from AI-Enhanced Scams**|LD Herrera et.al.|[2409.18249v1](http://arxiv.org/abs/2409.18249v1)|null|
 |**2024-09-26 12:07:46**|**Value Identification in Multistakeholder Recommender Systems for   Humanities and Historical Research: The Case of the Digital Archive   Monasterium.net**|Florian Atzenhofer-Baumgartner et.al.|[2409.17769v1](http://arxiv.org/abs/2409.17769v1)|null|
@@ -31,4 +32,3 @@
 |**2024-09-18 07:39:33**|**DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model**|Zhenhao Jiang et.al.|[2410.02791v1](http://arxiv.org/abs/2410.02791v1)|null|
 |**2024-09-17 15:40:55**|**Bypassing the Popularity Bias: Repurposing Models for Better Long-Tail   Recommendation**|Václav Blahut et.al.|[2410.02776v1](http://arxiv.org/abs/2410.02776v1)|null|
 |**2024-09-17 01:37:57**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based   Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825v1](http://arxiv.org/abs/2409.10825v1)|null|
-|**2024-09-16 13:01:22**|**Questioning AI: Promoting Decision-Making Autonomy Through Reflection**|Simon WS Fischer et.al.|[2409.10250v1](http://arxiv.org/abs/2409.10250v1)|null|
