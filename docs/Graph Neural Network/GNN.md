@@ -8,7 +8,7 @@
 |**2024-10-17 16:56:01**|**GDeR: Safeguarding Efficiency, Balancing, and Robustness via   Prototypical Graph Pruning**|Guibin Zhang et.al.|[2410.13761v1](http://arxiv.org/abs/2410.13761v1)|[link](https://github.com/ins1stenc3/gder)|
 |**2024-10-17 13:03:54**|**Observation of a rare beta decay of the charmed baryon with a Graph   Neural Network**| BESIII Collaboration et.al.|[2410.13515v1](http://arxiv.org/abs/2410.13515v1)|null|
 |**2024-10-17 13:02:06**|**CERES: Critical-Event Reconstruction via Temporal Scene Graph Completion**|Efimia Panagiotaki et.al.|[2410.13514v1](http://arxiv.org/abs/2410.13514v1)|null|
-|**2024-10-17 11:56:33**|**Interpreting Temporal Graph Neural Networks with Koopman Theory**|Michele Guerra et.al.|[2410.13469v1](http://arxiv.org/abs/2410.13469v1)|null|
+|**2024-10-17 11:56:33**|**Interpreting Temporal Graph Neural Networks with Koopman Theory**|Michele Guerra et.al.|[2410.13469v1](http://arxiv.org/abs/2410.13469v1)|[link](https://github.com/ngmlgroup/koopman-tgnn-interpretability)|
 |**2024-10-17 11:06:06**|**Multi-frame Detection via Graph Neural Networks: A Link Prediction   Approach**|Zhihao Lin et.al.|[2410.13436v1](http://arxiv.org/abs/2410.13436v1)|null|
 |**2024-10-17 09:23:53**|**Addressing Heterogeneity and Heterophily in Graphs: A Heterogeneous   Heterophilic Spectral Graph Neural Network**|Kangkang Lu et.al.|[2410.13373v1](http://arxiv.org/abs/2410.13373v1)|null|
 |**2024-10-17 02:58:57**|**GeSubNet: Gene Interaction Inference for Disease Subtype Network   Generation**|Ziwei Yang et.al.|[2410.13178v1](http://arxiv.org/abs/2410.13178v1)|null|
@@ -24,7 +24,7 @@
 |**2024-10-16 08:04:57**|**Federated Temporal Graph Clustering**|Yang Liu et.al.|[2410.12343v1](http://arxiv.org/abs/2410.12343v1)|null|
 |**2024-10-16 06:47:18**|**A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context   Reasoning**|Yuanning Cui et.al.|[2410.12288v1](http://arxiv.org/abs/2410.12288v1)|[link](https://github.com/nju-websoft/KG-ICL)|
 |**2024-10-16 04:24:11**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216v1](http://arxiv.org/abs/2410.12216v1)|[link](https://github.com/nchen9191/tensegrity_gnn_simulator_public)|
-|**2024-10-16 01:37:01**|**FragNet: A Graph Neural Network for Molecular Property Prediction with   Four Layers of Interpretability**|Gihan Panapitiya et.al.|[2410.12156v1](http://arxiv.org/abs/2410.12156v1)|null|
+|**2024-10-16 01:37:01**|**FragNet: A Graph Neural Network for Molecular Property Prediction with   Four Layers of Interpretability**|Gihan Panapitiya et.al.|[2410.12156v1](http://arxiv.org/abs/2410.12156v1)|[link](https://github.com/pnnl/FragNet)|
 |**2024-10-16 00:01:31**|**Parametric Graph Representations in the Era of Foundation Models: A   Survey and Position**|Dongqi Fu et.al.|[2410.12126v1](http://arxiv.org/abs/2410.12126v1)|null|
 |**2024-10-15 22:43:32**|**Bridging Large Language Models and Graph Structure Learning Models for   Robust Representation Learning**|Guangxin Su et.al.|[2410.12096v1](http://arxiv.org/abs/2410.12096v1)|null|
 |**2024-10-15 20:08:08**|**A Survey on Deep Tabular Learning**|Shriyank Somvanshi et.al.|[2410.12034v1](http://arxiv.org/abs/2410.12034v1)|null|
