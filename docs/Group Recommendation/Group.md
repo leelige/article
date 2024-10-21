@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-17 21:44:58**|**Student Reflections on Self-Initiated GenAI Use in HCI Education**|Hauke Sandhaus et.al.|[2410.14048v1](http://arxiv.org/abs/2410.14048v1)|null|
 |**2024-10-17 14:22:57**|**Cross-Domain Sequential Recommendation via Neural Process**|Haipeng Li et.al.|[2410.13588v1](http://arxiv.org/abs/2410.13588v1)|null|
 |**2024-10-16 13:23:30**|**Exploring Plural Perspectives in Self-Tracking Technologies: Trust and   Reflection in Self Tracking Practices**|Sujay Shalawadi et.al.|[2410.12546v1](http://arxiv.org/abs/2410.12546v1)|null|
 |**2024-10-14 16:06:56**|**A Personalized MOOC Learning Group and Course Recommendation Method   Based on Graph Neural Network and Social Network Analysis**|Zijin Luo et.al.|[2410.10658v1](http://arxiv.org/abs/2410.10658v1)|null|
@@ -31,4 +32,3 @@
 |**2024-09-19 11:00:35**|**A Deep Dive into Fairness, Bias, Threats, and Privacy in Recommender   Systems: Insights and Future Research**|Falguni Roy et.al.|[2409.12651v1](http://arxiv.org/abs/2409.12651v1)|null|
 |**2024-09-18 07:39:33**|**DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model**|Zhenhao Jiang et.al.|[2410.02791v1](http://arxiv.org/abs/2410.02791v1)|null|
 |**2024-09-17 15:40:55**|**Bypassing the Popularity Bias: Repurposing Models for Better Long-Tail   Recommendation**|Václav Blahut et.al.|[2410.02776v1](http://arxiv.org/abs/2410.02776v1)|null|
-|**2024-09-17 01:37:57**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based   Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825v1](http://arxiv.org/abs/2409.10825v1)|null|
