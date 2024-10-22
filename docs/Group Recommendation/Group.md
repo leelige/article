@@ -2,6 +2,8 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-21 14:02:40**|**ComPO: Community Preferences for Language Model Personalization**|Sachin Kumar et.al.|[2410.16027v1](http://arxiv.org/abs/2410.16027v1)|null|
+|**2024-10-19 13:15:36**|**Incorporating Group Prior into Variational Inference for Tail-User   Behavior Modeling in CTR Prediction**|Han Xu et.al.|[2410.15098v1](http://arxiv.org/abs/2410.15098v1)|null|
 |**2024-10-17 21:44:58**|**Student Reflections on Self-Initiated GenAI Use in HCI Education**|Hauke Sandhaus et.al.|[2410.14048v1](http://arxiv.org/abs/2410.14048v1)|null|
 |**2024-10-17 14:22:57**|**Cross-Domain Sequential Recommendation via Neural Process**|Haipeng Li et.al.|[2410.13588v1](http://arxiv.org/abs/2410.13588v1)|null|
 |**2024-10-16 13:23:30**|**Exploring Plural Perspectives in Self-Tracking Technologies: Trust and   Reflection in Self Tracking Practices**|Sujay Shalawadi et.al.|[2410.12546v1](http://arxiv.org/abs/2410.12546v1)|null|
@@ -30,5 +32,3 @@
 |**2024-09-21 09:13:50**|**Data Generation via Latent Factor Simulation for Fairness-aware   Re-ranking**|Elena Stefancova et.al.|[2409.14078v1](http://arxiv.org/abs/2409.14078v1)|null|
 |**2024-09-20 12:50:17**|**Engagement, Content Quality and Ideology over Time on the Facebook URL   Dataset**|Emma Fraxanet et.al.|[2409.13461v1](http://arxiv.org/abs/2409.13461v1)|null|
 |**2024-09-19 11:00:35**|**A Deep Dive into Fairness, Bias, Threats, and Privacy in Recommender   Systems: Insights and Future Research**|Falguni Roy et.al.|[2409.12651v1](http://arxiv.org/abs/2409.12651v1)|null|
-|**2024-09-18 07:39:33**|**DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model**|Zhenhao Jiang et.al.|[2410.02791v1](http://arxiv.org/abs/2410.02791v1)|null|
-|**2024-09-17 15:40:55**|**Bypassing the Popularity Bias: Repurposing Models for Better Long-Tail   Recommendation**|Václav Blahut et.al.|[2410.02776v1](http://arxiv.org/abs/2410.02776v1)|null|

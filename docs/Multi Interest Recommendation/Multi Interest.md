@@ -2,6 +2,7 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-21 14:58:38**|**Unleashing the Potential of Multi-Channel Fusion in Retrieval for   Personalized Recommendations**|Junjie Huang et.al.|[2410.16080v1](http://arxiv.org/abs/2410.16080v1)|null|
 |**2024-10-16 04:44:15**|**Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with   Large Language Models for Multi-Behavior Recommendations**|Luyi Ma et.al.|[2410.12228v1](http://arxiv.org/abs/2410.12228v1)|null|
 |**2024-10-15 10:11:18**|**CoActionGraphRec: Sequential Multi-Interest Recommendations Using   Co-Action Graphs**|Yi Sun et.al.|[2410.11464v1](http://arxiv.org/abs/2410.11464v1)|null|
 |**2024-10-14 16:06:56**|**A Personalized MOOC Learning Group and Course Recommendation Method   Based on Graph Neural Network and Social Network Analysis**|Zijin Luo et.al.|[2410.10658v1](http://arxiv.org/abs/2410.10658v1)|null|
@@ -9,7 +10,7 @@
 |**2024-10-06 17:01:18**|**Social Choice for Heterogeneous Fairness in Recommendation**|Amanda Aird et.al.|[2410.04551v1](http://arxiv.org/abs/2410.04551v1)|null|
 |**2024-09-28 06:33:18**|**An Efficient Multi-threaded Collaborative Filtering Approach in   Recommendation System**|Mahamudul Hasan et.al.|[2409.19262v1](http://arxiv.org/abs/2409.19262v1)|null|
 |**2024-09-20 01:17:54**|**Autonomous Driving at Unsignalized Intersections: A Review of   Decision-Making Challenges and Reinforcement Learning-Based Solutions**|Mohammad Al-Sharman et.al.|[2409.13144v1](http://arxiv.org/abs/2409.13144v1)|null|
-|**2024-09-15 06:40:38**|**Dreamming User Multimodal Representation for Micro-Video Recommendation**|Chengzhi Lin et.al.|[2410.03538v1](http://arxiv.org/abs/2410.03538v1)|null|
+|**2024-09-15 06:40:38**|**Dreaming User Multimodal Representation Guided by The Platonic   Representation Hypothesis for Micro-Video Recommendation**|Chengzhi Lin et.al.|[2410.03538v2](http://arxiv.org/abs/2410.03538v2)|null|
 |**2024-09-05 02:47:49**|**MAS4POI: a Multi-Agents Collaboration System for Next POI Recommendation**|Yuqian Wu et.al.|[2409.13700v1](http://arxiv.org/abs/2409.13700v1)|[link](https://github.com/yuqian2003/MAS4POI)|
 |**2024-09-04 17:21:47**|**Cost-Effectiveness Analysis for Disease Prevention -- A Case Study on   Colorectal Cancer Screening**|Yi Xiong et.al.|[2409.02888v1](http://arxiv.org/abs/2409.02888v1)|null|
 |**2024-09-02 07:44:48**|**Improved Diversity-Promoting Collaborative Metric Learning for   Recommendation**|Shilong Bao et.al.|[2409.01012v1](http://arxiv.org/abs/2409.01012v1)|[link](https://github.com/statusrank/LibCML)|
@@ -31,4 +32,3 @@
 |**2024-06-25 17:31:04**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in   E-commerce Search**|Pipi Peng et.al.|[2406.17745v3](http://arxiv.org/abs/2406.17745v3)|null|
 |**2024-06-18 11:59:36**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529v1](http://arxiv.org/abs/2406.12529v1)|null|
 |**2024-06-15 04:59:00**|**MMBee: Live Streaming Gift-Sending Recommendations via Multi-Modal   Fusion and Behaviour Expansion**|Jiaxin Deng et.al.|[2407.00056v1](http://arxiv.org/abs/2407.00056v1)|null|
-|**2024-06-05 14:33:51**|**Decision synthesis in monetary policy**|Tony Chernis et.al.|[2406.03321v1](http://arxiv.org/abs/2406.03321v1)|null|
