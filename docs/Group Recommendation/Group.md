@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-22 07:20:37**|**Coarse-to-fine Dynamic Uplift Modeling for Real-time Video   Recommendation**|Chang Meng et.al.|[2410.16755v1](http://arxiv.org/abs/2410.16755v1)|null|
 |**2024-10-21 14:02:40**|**ComPO: Community Preferences for Language Model Personalization**|Sachin Kumar et.al.|[2410.16027v1](http://arxiv.org/abs/2410.16027v1)|null|
 |**2024-10-19 13:15:36**|**Incorporating Group Prior into Variational Inference for Tail-User   Behavior Modeling in CTR Prediction**|Han Xu et.al.|[2410.15098v1](http://arxiv.org/abs/2410.15098v1)|null|
 |**2024-10-17 21:44:58**|**Student Reflections on Self-Initiated GenAI Use in HCI Education**|Hauke Sandhaus et.al.|[2410.14048v1](http://arxiv.org/abs/2410.14048v1)|null|
@@ -31,4 +32,3 @@
 |**2024-09-23 21:48:32**|**Asking an AI for salary negotiation advice is a matter of concern:   Controlled experimental perturbation of ChatGPT for protected and   non-protected group discrimination on a contextual task with no clear ground   truth answers**|R. Stuart Geiger et.al.|[2409.15567v3](http://arxiv.org/abs/2409.15567v3)|null|
 |**2024-09-21 09:13:50**|**Data Generation via Latent Factor Simulation for Fairness-aware   Re-ranking**|Elena Stefancova et.al.|[2409.14078v1](http://arxiv.org/abs/2409.14078v1)|null|
 |**2024-09-20 12:50:17**|**Engagement, Content Quality and Ideology over Time on the Facebook URL   Dataset**|Emma Fraxanet et.al.|[2409.13461v1](http://arxiv.org/abs/2409.13461v1)|null|
-|**2024-09-19 11:00:35**|**A Deep Dive into Fairness, Bias, Threats, and Privacy in Recommender   Systems: Insights and Future Research**|Falguni Roy et.al.|[2409.12651v1](http://arxiv.org/abs/2409.12651v1)|null|

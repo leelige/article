@@ -2,6 +2,8 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-22 15:13:13**|**Exploration and Persuasion**|Aleksandrs Slivkins et.al.|[2410.17086v1](http://arxiv.org/abs/2410.17086v1)|null|
+|**2024-10-22 08:49:43**|**Bridging Search and Recommendation in Generative Retrieval: Does One   Task Help the Other?**|Gustavo Penha et.al.|[2410.16823v1](http://arxiv.org/abs/2410.16823v1)|null|
 |**2024-10-21 14:58:38**|**Unleashing the Potential of Multi-Channel Fusion in Retrieval for   Personalized Recommendations**|Junjie Huang et.al.|[2410.16080v1](http://arxiv.org/abs/2410.16080v1)|null|
 |**2024-10-16 04:44:15**|**Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with   Large Language Models for Multi-Behavior Recommendations**|Luyi Ma et.al.|[2410.12228v1](http://arxiv.org/abs/2410.12228v1)|null|
 |**2024-10-15 10:11:18**|**CoActionGraphRec: Sequential Multi-Interest Recommendations Using   Co-Action Graphs**|Yi Sun et.al.|[2410.11464v1](http://arxiv.org/abs/2410.11464v1)|null|
@@ -30,5 +32,3 @@
 |**2024-07-10 14:02:21**|**Advancements in Recommender Systems: A Comprehensive Analysis Based on   Data, Algorithms, and Evaluation**|Xin Ma et.al.|[2407.18937v1](http://arxiv.org/abs/2407.18937v1)|null|
 |**2024-07-06 04:57:25**|**MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems   with Large Language Models**|Yunjia Xi et.al.|[2407.04960v1](http://arxiv.org/abs/2407.04960v1)|[link](https://github.com/mindspore-lab/models)|
 |**2024-06-25 17:31:04**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in   E-commerce Search**|Pipi Peng et.al.|[2406.17745v3](http://arxiv.org/abs/2406.17745v3)|null|
-|**2024-06-18 11:59:36**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529v1](http://arxiv.org/abs/2406.12529v1)|null|
-|**2024-06-15 04:59:00**|**MMBee: Live Streaming Gift-Sending Recommendations via Multi-Modal   Fusion and Behaviour Expansion**|Jiaxin Deng et.al.|[2407.00056v1](http://arxiv.org/abs/2407.00056v1)|null|

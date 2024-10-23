@@ -2,6 +2,15 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-22 15:49:53**|**Learning Load Balancing with GNN in MPTCP-Enabled Heterogeneous Networks**|Han Ji et.al.|[2410.17118v1](http://arxiv.org/abs/2410.17118v1)|[link](https://github.com/hanji-ucd/gnn-hetnet)|
+|**2024-10-22 12:55:02**|**Publishing Neural Networks in Drug Discovery Might Compromise Training   Data Privacy**|Fabian P. Krüger et.al.|[2410.16975v1](http://arxiv.org/abs/2410.16975v1)|null|
+|**2024-10-22 12:12:43**|**Graph Neural Networks for Edge Signals: Orientation Equivariance and   Invariance**|Dominik Fuchsgruber et.al.|[2410.16935v1](http://arxiv.org/abs/2410.16935v1)|null|
+|**2024-10-22 10:20:36**|**Topological and Graph Theoretical Analysis of Dynamic Functional   Connectivity for Autism Spectrum Disorder**|Yuzhe Chen et.al.|[2410.16874v1](http://arxiv.org/abs/2410.16874v1)|null|
+|**2024-10-22 09:52:15**|**Dynamic graph neural networks for enhanced volatility prediction in   financial markets**|Pulikandala Nithish Kumar et.al.|[2410.16858v1](http://arxiv.org/abs/2410.16858v1)|null|
+|**2024-10-22 09:33:29**|**Fast Graph Sharpness-Aware Minimization for Enhancing and Accelerating   Few-Shot Node Classification**|Yihong Luo et.al.|[2410.16845v1](http://arxiv.org/abs/2410.16845v1)|[link](https://github.com/draym28/fgsam_neurips24)|
+|**2024-10-22 08:48:52**|**Can Large Language Models Act as Ensembler for Multi-GNNs?**|Hanqi Duan et.al.|[2410.16822v1](http://arxiv.org/abs/2410.16822v1)|null|
+|**2024-10-22 01:32:46**|**GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain   Adaptation**|Junyu Luo et.al.|[2410.16606v1](http://arxiv.org/abs/2410.16606v1)|[link](https://github.com/luo-junyu/gala)|
+|**2024-10-22 00:30:31**|**Graph Sampling for Scalable and Expressive Graph Neural Networks on   Homophilic Graphs**|Haolin Li et.al.|[2410.16593v1](http://arxiv.org/abs/2410.16593v1)|null|
 |**2024-10-21 16:04:50**|**Theoretical Insights into Line Graph Transformation on Graph Learning**|Fan Yang et.al.|[2410.16138v1](http://arxiv.org/abs/2410.16138v1)|[link](https://github.com/lukeyf/graphs-and-lines)|
 |**2024-10-21 14:46:09**|**Accelerating Discovery of Extreme Lattice Thermal Conductivity by   Crystal Attention Graph Neural Network (CATGNN) Using Chemical Bonding   Intuitive Descriptors**|Mohammed Al-Fahdi et.al.|[2410.16066v1](http://arxiv.org/abs/2410.16066v1)|null|
 |**2024-10-21 13:41:27**|**Resilient Temporal GCN for Smart Grid State Estimation Under Topology   Inaccuracies**|Seyed Hamed Haghshenas et.al.|[2410.16008v1](http://arxiv.org/abs/2410.16008v1)|null|
@@ -23,12 +32,3 @@
 |**2024-10-18 07:44:12**|**Graph Neural Patching for Cold-Start Recommendations**|Hao Chen et.al.|[2410.14241v1](http://arxiv.org/abs/2410.14241v1)|null|
 |**2024-10-18 01:34:35**|**Improving Graph Neural Networks by Learning Continuous Edge Directions**|Seong Ho Pahng et.al.|[2410.14109v1](http://arxiv.org/abs/2410.14109v1)|null|
 |**2024-10-18 01:08:03**|**DMGNN: Detecting and Mitigating Backdoor Attacks in Graph Neural   Networks**|Hao Sui et.al.|[2410.14105v1](http://arxiv.org/abs/2410.14105v1)|null|
-|**2024-10-18 00:13:56**|**Towards Effective Planning Strategies for Dynamic Opinion Networks**|Bharath Muppasani et.al.|[2410.14091v1](http://arxiv.org/abs/2410.14091v1)|[link](https://github.com/BharathMuppasani/NeurIPS-Submission-2024)|
-|**2024-10-17 20:22:25**|**Conformal Prediction for Federated Graph Neural Networks with Missing   Neighbor Information**|Ömer Faruk Akgül et.al.|[2410.14010v1](http://arxiv.org/abs/2410.14010v1)|null|
-|**2024-10-17 18:57:27**|**Trojan Prompt Attacks on Graph Neural Networks**|Minhua Lin et.al.|[2410.13974v1](http://arxiv.org/abs/2410.13974v1)|null|
-|**2024-10-17 17:47:39**|**Enhancing universal machine learning potentials with polarizable   long-range interactions**|Rongzhi Gao et.al.|[2410.13820v1](http://arxiv.org/abs/2410.13820v1)|[link](https://github.com/reaxnet/jax-nb)|
-|**2024-10-17 17:38:24**|**Learning Graph Quantized Tokenizers for Transformers**|Limei Wang et.al.|[2410.13798v1](http://arxiv.org/abs/2410.13798v1)|[link](https://github.com/limei0307/graph-tokenizer)|
-|**2024-10-17 17:06:26**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered   LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768v1](http://arxiv.org/abs/2410.13768v1)|null|
-|**2024-10-17 16:56:01**|**GDeR: Safeguarding Efficiency, Balancing, and Robustness via   Prototypical Graph Pruning**|Guibin Zhang et.al.|[2410.13761v1](http://arxiv.org/abs/2410.13761v1)|[link](https://github.com/ins1stenc3/gder)|
-|**2024-10-17 13:03:54**|**Observation of a rare beta decay of the charmed baryon with a Graph   Neural Network**| BESIII Collaboration et.al.|[2410.13515v1](http://arxiv.org/abs/2410.13515v1)|null|
-|**2024-10-17 13:02:06**|**CERES: Critical-Event Reconstruction via Temporal Scene Graph Completion**|Efimia Panagiotaki et.al.|[2410.13514v1](http://arxiv.org/abs/2410.13514v1)|null|
