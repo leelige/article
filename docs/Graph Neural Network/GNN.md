@@ -2,6 +2,14 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-24 17:02:52**|**Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling**|Mingtong Zhang et.al.|[2410.18912v1](http://arxiv.org/abs/2410.18912v1)|null|
+|**2024-10-24 12:09:01**|**Homomorphism Counts as Structural Encodings for Graph Learning**|Linus Bao et.al.|[2410.18676v1](http://arxiv.org/abs/2410.18676v1)|null|
+|**2024-10-24 10:43:04**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning   for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631v1](http://arxiv.org/abs/2410.18631v1)|null|
+|**2024-10-24 09:09:20**|**Binary Code Similarity Detection via Graph Contrastive Learning on   Intermediate Representations**|Xiuwei Shang et.al.|[2410.18561v1](http://arxiv.org/abs/2410.18561v1)|null|
+|**2024-10-24 07:50:10**|**Enhancing Graph Attention Neural Network Performance for Marijuana   Consumption Classification through Large-scale Augmented Granger Causality   (lsAGC) Analysis of Functional MR Images**|Ali Vosoughi et.al.|[2410.18506v1](http://arxiv.org/abs/2410.18506v1)|null|
+|**2024-10-24 07:22:18**|**Graph Pre-Training Models Are Strong Anomaly Detectors**|Jiashun Cheng et.al.|[2410.18487v1](http://arxiv.org/abs/2410.18487v1)|null|
+|**2024-10-24 04:23:57**|**A Causal Graph-Enhanced Gaussian Process Regression for Modeling   Engine-out NOx**|Shrenik Zinage et.al.|[2410.18424v1](http://arxiv.org/abs/2410.18424v1)|null|
+|**2024-10-23 18:53:10**|**KMS states of Information Flow in Directed Brain Synaptic Networks**|El-kaïoum M. Moutuou et.al.|[2410.18222v1](http://arxiv.org/abs/2410.18222v1)|null|
 |**2024-10-23 17:02:59**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via   Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032v1](http://arxiv.org/abs/2410.18032v1)|[link](https://github.com/bupt-gamma/graphteam)|
 |**2024-10-23 15:09:02**|**Spiking Graph Neural Network on Riemannian Manifolds**|Li Sun et.al.|[2410.17941v1](http://arxiv.org/abs/2410.17941v1)|null|
 |**2024-10-23 12:18:44**|**TopoQA: a topological deep learning-based approach for protein complex   structure interface quality assessment**|Bingqing Han et.al.|[2410.17815v1](http://arxiv.org/abs/2410.17815v1)|null|
@@ -24,11 +32,3 @@
 |**2024-10-22 01:32:46**|**GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain   Adaptation**|Junyu Luo et.al.|[2410.16606v1](http://arxiv.org/abs/2410.16606v1)|[link](https://github.com/luo-junyu/gala)|
 |**2024-10-22 00:30:31**|**Graph Sampling for Scalable and Expressive Graph Neural Networks on   Homophilic Graphs**|Haolin Li et.al.|[2410.16593v1](http://arxiv.org/abs/2410.16593v1)|null|
 |**2024-10-21 16:04:50**|**Theoretical Insights into Line Graph Transformation on Graph Learning**|Fan Yang et.al.|[2410.16138v1](http://arxiv.org/abs/2410.16138v1)|[link](https://github.com/lukeyf/graphs-and-lines)|
-|**2024-10-21 14:46:09**|**Accelerating Discovery of Extreme Lattice Thermal Conductivity by   Crystal Attention Graph Neural Network (CATGNN) Using Chemical Bonding   Intuitive Descriptors**|Mohammed Al-Fahdi et.al.|[2410.16066v1](http://arxiv.org/abs/2410.16066v1)|null|
-|**2024-10-21 13:41:27**|**Resilient Temporal GCN for Smart Grid State Estimation Under Topology   Inaccuracies**|Seyed Hamed Haghshenas et.al.|[2410.16008v1](http://arxiv.org/abs/2410.16008v1)|null|
-|**2024-10-21 13:06:38**|**Visual Representation Learning Guided By Multi-modal Prior Knowledge**|Hongkuan Zhou et.al.|[2410.15981v1](http://arxiv.org/abs/2410.15981v1)|null|
-|**2024-10-21 10:25:52**|**Focus Where It Matters: Graph Selective State Focused Attention Networks**|Shikhar Vashistha et.al.|[2410.15849v1](http://arxiv.org/abs/2410.15849v1)|null|
-|**2024-10-21 04:58:33**|**Deep Graph Attention Networks**|Jun Kato et.al.|[2410.15640v1](http://arxiv.org/abs/2410.15640v1)|null|
-|**2024-10-21 01:01:50**|**Gradient Rewiring for Editable Graph Neural Network Training**|Zhimeng Jiang et.al.|[2410.15556v1](http://arxiv.org/abs/2410.15556v1)|[link](https://github.com/zhimengj0326/gradient_rewiring_editing)|
-|**2024-10-20 20:09:47**|**Structural Causality-based Generalizable Concept Discovery Models**|Sanchit Sinha et.al.|[2410.15491v1](http://arxiv.org/abs/2410.15491v1)|null|
-|**2024-10-20 11:50:37**|**DNA Language Model and Interpretable Graph Neural Network Identify Genes   and Pathways Involved in Rare Diseases**|Ali Saadat et.al.|[2410.15367v1](http://arxiv.org/abs/2410.15367v1)|null|
