@@ -2,6 +2,12 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-25 17:52:16**|**Sparse Decomposition of Graph Neural Networks**|Yaochen Hu et.al.|[2410.19723v1](http://arxiv.org/abs/2410.19723v1)|null|
+|**2024-10-25 14:59:58**|**Analyzing Neural Network Robustness Using Graph Curvature**|Shuhang Tan et.al.|[2410.19607v1](http://arxiv.org/abs/2410.19607v1)|null|
+|**2024-10-25 13:24:04**|**DeMuVGN: Effective Software Defect Prediction Model by Learning   Multi-view Software Dependency via Graph Neural Networks**|Yu Qiao et.al.|[2410.19550v1](http://arxiv.org/abs/2410.19550v1)|null|
+|**2024-10-25 08:20:06**|**An Enhanced Hierarchical Planning Framework for Multi-Robot Autonomous   Exploration**|Gengyuan Cai et.al.|[2410.19373v1](http://arxiv.org/abs/2410.19373v1)|null|
+|**2024-10-25 06:15:05**|**Double Difference Earthquake Location with Graph Neural Networks**|Ian W. McBrearty et.al.|[2410.19323v1](http://arxiv.org/abs/2410.19323v1)|null|
+|**2024-10-24 22:57:17**|**Enriching GNNs with Text Contextual Representations for Detecting   Disinformation Campaigns on Social Media**|Bruno Croso Cunha da Silva et.al.|[2410.19193v1](http://arxiv.org/abs/2410.19193v1)|null|
 |**2024-10-24 17:02:52**|**Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling**|Mingtong Zhang et.al.|[2410.18912v1](http://arxiv.org/abs/2410.18912v1)|null|
 |**2024-10-24 12:09:01**|**Homomorphism Counts as Structural Encodings for Graph Learning**|Linus Bao et.al.|[2410.18676v1](http://arxiv.org/abs/2410.18676v1)|[link](https://github.com/linusbao/MoSE)|
 |**2024-10-24 10:43:04**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning   for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631v1](http://arxiv.org/abs/2410.18631v1)|null|
@@ -26,9 +32,3 @@
 |**2024-10-22 12:55:02**|**Publishing Neural Networks in Drug Discovery Might Compromise Training   Data Privacy**|Fabian P. Krüger et.al.|[2410.16975v1](http://arxiv.org/abs/2410.16975v1)|null|
 |**2024-10-22 12:12:43**|**Graph Neural Networks for Edge Signals: Orientation Equivariance and   Invariance**|Dominik Fuchsgruber et.al.|[2410.16935v1](http://arxiv.org/abs/2410.16935v1)|null|
 |**2024-10-22 10:20:36**|**Topological and Graph Theoretical Analysis of Dynamic Functional   Connectivity for Autism Spectrum Disorder**|Yuzhe Chen et.al.|[2410.16874v1](http://arxiv.org/abs/2410.16874v1)|null|
-|**2024-10-22 09:52:15**|**Dynamic graph neural networks for enhanced volatility prediction in   financial markets**|Pulikandala Nithish Kumar et.al.|[2410.16858v1](http://arxiv.org/abs/2410.16858v1)|null|
-|**2024-10-22 09:33:29**|**Fast Graph Sharpness-Aware Minimization for Enhancing and Accelerating   Few-Shot Node Classification**|Yihong Luo et.al.|[2410.16845v1](http://arxiv.org/abs/2410.16845v1)|[link](https://github.com/draym28/fgsam_neurips24)|
-|**2024-10-22 08:48:52**|**Can Large Language Models Act as Ensembler for Multi-GNNs?**|Hanqi Duan et.al.|[2410.16822v1](http://arxiv.org/abs/2410.16822v1)|null|
-|**2024-10-22 01:32:46**|**GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain   Adaptation**|Junyu Luo et.al.|[2410.16606v1](http://arxiv.org/abs/2410.16606v1)|[link](https://github.com/luo-junyu/gala)|
-|**2024-10-22 00:30:31**|**Graph Sampling for Scalable and Expressive Graph Neural Networks on   Homophilic Graphs**|Haolin Li et.al.|[2410.16593v1](http://arxiv.org/abs/2410.16593v1)|null|
-|**2024-10-21 16:04:50**|**Theoretical Insights into Line Graph Transformation on Graph Learning**|Fan Yang et.al.|[2410.16138v1](http://arxiv.org/abs/2410.16138v1)|[link](https://github.com/lukeyf/graphs-and-lines)|
