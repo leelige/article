@@ -2,7 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-24 22:13:48**|**Sentiment-Driven Community Detection in a Network of Perfume Preferences**|Kamand Kalashi et.al.|[2410.19177v1](http://arxiv.org/abs/2410.19177v1)|[link](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection)|
+|**2024-10-28 12:36:00**|**Simultaneous Unlearning of Multiple Protected User Attributes From   Variational Autoencoder Recommenders Using Adversarial Training**|Gustavo Escobedo et.al.|[2410.20965v1](http://arxiv.org/abs/2410.20965v1)|null|
+|**2024-10-28 04:49:05**|**GPRec: Bi-level User Modeling for Deep Recommenders**|Yejing Wang et.al.|[2410.20730v1](http://arxiv.org/abs/2410.20730v1)|null|
+|**2024-10-24 22:13:48**|**Sentiment-Driven Community Detection in a Network of Perfume Preferences**|Kamand Kalashi et.al.|[2410.19177v2](http://arxiv.org/abs/2410.19177v2)|[link](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection)|
 |**2024-10-23 08:01:07**|**Comprehensive Evaluation of Matrix Factorization Models for   Collaborative Filtering Recommender Systems**|Jesús Bobadilla et.al.|[2410.17644v2](http://arxiv.org/abs/2410.17644v2)|null|
 |**2024-10-23 04:43:03**|**FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive   Learning**|Wei Chen et.al.|[2410.17555v1](http://arxiv.org/abs/2410.17555v1)|[link](https://github.com/cwei01/fairdgcl)|
 |**2024-10-22 18:08:25**|**Are Large Language Models Ready for Travel Planning?**|Ruiping Ren et.al.|[2410.17333v1](http://arxiv.org/abs/2410.17333v1)|null|
@@ -30,5 +32,3 @@
 |**2024-09-30 14:04:27**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305v2](http://arxiv.org/abs/2409.20305v2)|[link](https://github.com/leopold1423/mpe)|
 |**2024-09-27 07:32:05**|**Improved Approximation Algorithms for Relational Clustering**|Aryan Esmailpour et.al.|[2409.18498v1](http://arxiv.org/abs/2409.18498v1)|null|
 |**2024-09-26 19:46:50**|**Bridging the Protection Gap: Innovative Approaches to Shield Older   Adults from AI-Enhanced Scams**|LD Herrera et.al.|[2409.18249v1](http://arxiv.org/abs/2409.18249v1)|null|
-|**2024-09-26 12:07:46**|**Value Identification in Multistakeholder Recommender Systems for   Humanities and Historical Research: The Case of the Digital Archive   Monasterium.net**|Florian Atzenhofer-Baumgartner et.al.|[2409.17769v1](http://arxiv.org/abs/2409.17769v1)|null|
-|**2024-09-24 11:58:32**|**Bridging the Transparency Gap: Exploring Multi-Stakeholder Preferences   for Targeted Advertisement Explanations**|Dina Zilbershtein et.al.|[2409.15998v1](http://arxiv.org/abs/2409.15998v1)|null|

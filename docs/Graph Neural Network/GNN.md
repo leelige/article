@@ -2,6 +2,17 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-28 13:50:00**|**Graph Based Traffic Analysis and Delay Prediction**|Gabriele Borg et.al.|[2410.21028v1](http://arxiv.org/abs/2410.21028v1)|null|
+|**2024-10-28 13:30:22**|**A Review of Graph-Powered Data Quality Applications for IoT Monitoring   Sensor Networks**|Pau Ferrer-Cid et.al.|[2410.21006v1](http://arxiv.org/abs/2410.21006v1)|null|
+|**2024-10-28 04:50:46**|**SEG:Seeds-Enhanced Iterative Refinement Graph Neural Network for Entity   Alignment**|Wei Ai et.al.|[2410.20733v1](http://arxiv.org/abs/2410.20733v1)|null|
+|**2024-10-27 16:58:48**|**A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing**|Julia Balla et.al.|[2410.20516v1](http://arxiv.org/abs/2410.20516v1)|null|
+|**2024-10-27 15:14:06**|**Graph Neural Networks on Discriminative Graphs of Words**|Yassine Abbahaddou et.al.|[2410.20469v1](http://arxiv.org/abs/2410.20469v1)|null|
+|**2024-10-27 07:09:31**|**Uncovering Capabilities of Model Pruning in Graph Contrastive Learning**|Wu Junran et.al.|[2410.20356v1](http://arxiv.org/abs/2410.20356v1)|null|
+|**2024-10-27 00:22:18**|**DeCaf: A Causal Decoupling Framework for OOD Generalization on Node   Classification**|Xiaoxue Han et.al.|[2410.20295v1](http://arxiv.org/abs/2410.20295v1)|null|
+|**2024-10-26 16:40:24**|**Recursive Function Definitions in Static Dataflow Graphs and their   Implementation in TensorFlow**|Kelly Kostopoulou et.al.|[2410.20225v1](http://arxiv.org/abs/2410.20225v1)|null|
+|**2024-10-26 15:02:11**|**Age of Information-Oriented Probabilistic Link Scheduling for   Device-to-Device Networks**|Lixin Wang et.al.|[2410.20196v1](http://arxiv.org/abs/2410.20196v1)|null|
+|**2024-10-26 07:09:27**|**FedSSP: Federated Graph Learning with Spectral Knowledge and   Personalized Preference**|Zihan Tan et.al.|[2410.20105v1](http://arxiv.org/abs/2410.20105v1)|[link](https://github.com/OakleyTan/FedSSP)|
+|**2024-10-25 21:39:05**|**Global Graph Counterfactual Explanation: A Subgraph Mapping Approach**|Yinhan He et.al.|[2410.19978v1](http://arxiv.org/abs/2410.19978v1)|null|
 |**2024-10-25 17:52:16**|**Sparse Decomposition of Graph Neural Networks**|Yaochen Hu et.al.|[2410.19723v1](http://arxiv.org/abs/2410.19723v1)|null|
 |**2024-10-25 14:59:58**|**Analyzing Neural Network Robustness Using Graph Curvature**|Shuhang Tan et.al.|[2410.19607v1](http://arxiv.org/abs/2410.19607v1)|null|
 |**2024-10-25 13:24:04**|**DeMuVGN: Effective Software Defect Prediction Model by Learning   Multi-view Software Dependency via Graph Neural Networks**|Yu Qiao et.al.|[2410.19550v1](http://arxiv.org/abs/2410.19550v1)|null|
@@ -15,20 +26,9 @@
 |**2024-10-24 07:50:10**|**Enhancing Graph Attention Neural Network Performance for Marijuana   Consumption Classification through Large-scale Augmented Granger Causality   (lsAGC) Analysis of Functional MR Images**|Ali Vosoughi et.al.|[2410.18506v1](http://arxiv.org/abs/2410.18506v1)|null|
 |**2024-10-24 07:22:18**|**Graph Pre-Training Models Are Strong Anomaly Detectors**|Jiashun Cheng et.al.|[2410.18487v1](http://arxiv.org/abs/2410.18487v1)|null|
 |**2024-10-24 04:23:57**|**A Causal Graph-Enhanced Gaussian Process Regression for Modeling   Engine-out NOx**|Shrenik Zinage et.al.|[2410.18424v1](http://arxiv.org/abs/2410.18424v1)|null|
+|**2024-10-23 23:32:50**|**Hypergraph Neural Networks Reveal Spatial Domains from Single-cell   Transcriptomics Data**|Mehrad Soltani et.al.|[2410.19868v1](http://arxiv.org/abs/2410.19868v1)|null|
 |**2024-10-23 18:53:10**|**KMS states of Information Flow in Directed Brain Synaptic Networks**|El-kaïoum M. Moutuou et.al.|[2410.18222v1](http://arxiv.org/abs/2410.18222v1)|null|
 |**2024-10-23 17:02:59**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via   Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032v1](http://arxiv.org/abs/2410.18032v1)|[link](https://github.com/bupt-gamma/graphteam)|
 |**2024-10-23 15:09:02**|**Spiking Graph Neural Network on Riemannian Manifolds**|Li Sun et.al.|[2410.17941v1](http://arxiv.org/abs/2410.17941v1)|[link](https://github.com/ZhenhHuang/MSG)|
 |**2024-10-23 12:18:44**|**TopoQA: a topological deep learning-based approach for protein complex   structure interface quality assessment**|Bingqing Han et.al.|[2410.17815v1](http://arxiv.org/abs/2410.17815v1)|null|
 |**2024-10-23 10:56:05**|**Topology meets Machine Learning: An Introduction using the Euler   Characteristic Transform**|Bastian Rieck et.al.|[2410.17760v1](http://arxiv.org/abs/2410.17760v1)|null|
-|**2024-10-23 09:33:13**|**Proteome-wide prediction of mode of inheritance and molecular mechanism   underlying genetic diseases using structural interactomics**|Ali Saadat et.al.|[2410.17708v1](http://arxiv.org/abs/2410.17708v1)|[link](https://github.com/alisaadatv/structural-interactomics)|
-|**2024-10-23 09:13:11**|**Longitudinal Causal Image Synthesis**|Yujia Li et.al.|[2410.17691v1](http://arxiv.org/abs/2410.17691v1)|[link](https://github.com/jessyblues/Causal-Longitudinal-Image-Synthesis)|
-|**2024-10-23 07:48:35**|**Exploring structure diversity in atomic resolution microscopy with graph   neural networks**|Zheng Luo et.al.|[2410.17631v1](http://arxiv.org/abs/2410.17631v1)|null|
-|**2024-10-23 07:14:37**|**Self-Supervised Graph Neural Networks for Enhanced Feature Extraction in   Heterogeneous Information Networks**|Jianjun Wei et.al.|[2410.17617v1](http://arxiv.org/abs/2410.17617v1)|null|
-|**2024-10-23 03:05:33**|**GDDA: Semantic OOD Detection on Graphs under Covariate Shift via   Score-Based Diffusion Models**|Zhixia He et.al.|[2410.17526v1](http://arxiv.org/abs/2410.17526v1)|null|
-|**2024-10-22 22:44:24**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464v1](http://arxiv.org/abs/2410.17464v1)|[link](https://github.com/aliaaz99/SIGL)|
-|**2024-10-22 22:35:09**|**Graph Neural Network-Accelerated Network-Reconfigured Optimal Power Flow**|Thuan Pham et.al.|[2410.17460v1](http://arxiv.org/abs/2410.17460v1)|null|
-|**2024-10-22 20:33:10**|**Geometric Graph Neural Network Modeling of Human Interactions in Crowded   Environments**|Sara Honarvar et.al.|[2410.17409v1](http://arxiv.org/abs/2410.17409v1)|null|
-|**2024-10-22 15:49:53**|**Learning Load Balancing with GNN in MPTCP-Enabled Heterogeneous Networks**|Han Ji et.al.|[2410.17118v1](http://arxiv.org/abs/2410.17118v1)|[link](https://github.com/hanji-ucd/gnn-hetnet)|
-|**2024-10-22 12:55:02**|**Publishing Neural Networks in Drug Discovery Might Compromise Training   Data Privacy**|Fabian P. Krüger et.al.|[2410.16975v1](http://arxiv.org/abs/2410.16975v1)|null|
-|**2024-10-22 12:12:43**|**Graph Neural Networks for Edge Signals: Orientation Equivariance and   Invariance**|Dominik Fuchsgruber et.al.|[2410.16935v1](http://arxiv.org/abs/2410.16935v1)|null|
-|**2024-10-22 10:20:36**|**Topological and Graph Theoretical Analysis of Dynamic Functional   Connectivity for Autism Spectrum Disorder**|Yuzhe Chen et.al.|[2410.16874v1](http://arxiv.org/abs/2410.16874v1)|null|
