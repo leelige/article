@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-29 13:10:03**|**Path-based summary explanations for graph recommenders -- extended   version**|Danae Pla Karidi et.al.|[2410.22020v1](http://arxiv.org/abs/2410.22020v1)|null|
 |**2024-10-28 12:36:00**|**Simultaneous Unlearning of Multiple Protected User Attributes From   Variational Autoencoder Recommenders Using Adversarial Training**|Gustavo Escobedo et.al.|[2410.20965v1](http://arxiv.org/abs/2410.20965v1)|null|
 |**2024-10-28 04:49:05**|**GPRec: Bi-level User Modeling for Deep Recommenders**|Yejing Wang et.al.|[2410.20730v1](http://arxiv.org/abs/2410.20730v1)|null|
 |**2024-10-24 22:13:48**|**Sentiment-Driven Community Detection in a Network of Perfume Preferences**|Kamand Kalashi et.al.|[2410.19177v2](http://arxiv.org/abs/2410.19177v2)|[link](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection)|
@@ -31,4 +32,3 @@
 |**2024-09-30 16:42:57**|**RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News   Recommendations**|Johannes Kruse et.al.|[2409.20483v1](http://arxiv.org/abs/2409.20483v1)|null|
 |**2024-09-30 14:04:27**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305v2](http://arxiv.org/abs/2409.20305v2)|[link](https://github.com/leopold1423/mpe)|
 |**2024-09-27 07:32:05**|**Improved Approximation Algorithms for Relational Clustering**|Aryan Esmailpour et.al.|[2409.18498v1](http://arxiv.org/abs/2409.18498v1)|null|
-|**2024-09-26 19:46:50**|**Bridging the Protection Gap: Innovative Approaches to Shield Older   Adults from AI-Enhanced Scams**|LD Herrera et.al.|[2409.18249v1](http://arxiv.org/abs/2409.18249v1)|null|
