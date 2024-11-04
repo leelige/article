@@ -15,7 +15,7 @@
 |**2024-10-30 20:48:34**|**Graph-Augmented Relation Extraction Model with LLMs-Generated Support   Document**|Vicky Dong et.al.|[2410.23452v1](http://arxiv.org/abs/2410.23452v1)|null|
 |**2024-10-30 18:09:53**|**Tightening convex relaxations of trained neural networks: a unified   approach for convex and S-shaped activations**|Pablo Carrasco et.al.|[2410.23362v1](http://arxiv.org/abs/2410.23362v1)|null|
 |**2024-10-30 17:55:41**|**Conditional Forecasting of Margin Calls using Dynamic Graph Neural   Networks**|Matteo Citterio et.al.|[2410.23275v1](http://arxiv.org/abs/2410.23275v1)|null|
-|**2024-10-30 15:20:10**|**NASM: Neural Anisotropic Surface Meshing**|Hongbo Li et.al.|[2410.23109v1](http://arxiv.org/abs/2410.23109v1)|null|
+|**2024-10-30 15:20:10**|**NASM: Neural Anisotropic Surface Meshing**|Hongbo Li et.al.|[2410.23109v2](http://arxiv.org/abs/2410.23109v2)|null|
 |**2024-10-30 12:50:21**|**Dual-Optimized Adaptive Graph Reconstruction for Multi-View Graph   Clustering**|Zichen Wen et.al.|[2410.22983v1](http://arxiv.org/abs/2410.22983v1)|null|
 |**2024-10-30 12:04:22**|**KALAM: toolKit for Automating high-Level synthesis of Analog computing   systeMs**|Ankita Nandi et.al.|[2410.22946v1](http://arxiv.org/abs/2410.22946v1)|null|
 |**2024-10-30 06:52:46**|**Beyond Current Boundaries: Integrating Deep Learning and AlphaFold for   Enhanced Protein Structure Prediction from Low-Resolution Cryo-EM Maps**| Xin et.al.|[2410.23321v1](http://arxiv.org/abs/2410.23321v1)|null|
