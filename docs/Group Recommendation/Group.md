@@ -2,6 +2,13 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-04 18:21:53**|**Social-RAG: Retrieving from Group Interactions to Socially Ground   Proactive AI Generation to Group Preferences**|Ruotong Wang et.al.|[2411.02353v1](http://arxiv.org/abs/2411.02353v1)|null|
+|**2024-11-04 07:06:03**|**Auditing Political Exposure Bias: Algorithmic Amplification on Twitter/X   Approaching the 2024 U.S. Presidential Election**|Jinyi Ye et.al.|[2411.01852v1](http://arxiv.org/abs/2411.01852v1)|null|
+|**2024-11-04 06:27:14**|**Leveraging Label Semantics and Meta-Label Refinement for Multi-Label   Question Classification**|Shi Dong et.al.|[2411.01841v1](http://arxiv.org/abs/2411.01841v1)|null|
+|**2024-11-04 04:16:11**|**Transferable Sequential Recommendation via Vector Quantized Meta   Learning**|Zhenrui Yue et.al.|[2411.01785v1](http://arxiv.org/abs/2411.01785v1)|null|
+|**2024-11-04 00:45:14**|**Comparing multilevel and fixed effect approaches in the generalized   linear model setting**|He Bai et.al.|[2411.01723v1](http://arxiv.org/abs/2411.01723v1)|null|
+|**2024-11-03 21:32:07**|**Co-clustering for Federated Recommender System**|Xinrui He et.al.|[2411.01690v1](http://arxiv.org/abs/2411.01690v1)|null|
+|**2024-11-03 16:18:14**|**Can education correct appearance discrimination in the labor market?**|Hambur Wang et.al.|[2411.01621v1](http://arxiv.org/abs/2411.01621v1)|null|
 |**2024-10-31 09:24:22**|**Identify Then Recommend: Towards Unsupervised Group Recommendation**|Yue Liu et.al.|[2410.23757v1](http://arxiv.org/abs/2410.23757v1)|null|
 |**2024-10-29 13:10:03**|**Path-based summary explanations for graph recommenders -- extended   version**|Danae Pla Karidi et.al.|[2410.22020v1](http://arxiv.org/abs/2410.22020v1)|[link](https://github.com/xsum-rec/xsum)|
 |**2024-10-28 12:36:00**|**Simultaneous Unlearning of Multiple Protected User Attributes From   Variational Autoencoder Recommenders Using Adversarial Training**|Gustavo Escobedo et.al.|[2410.20965v1](http://arxiv.org/abs/2410.20965v1)|[link](https://github.com/hcai-mms/advx-multvae)|
@@ -25,10 +32,3 @@
 |**2024-10-07 08:34:18**|**Correcting for Popularity Bias in Recommender Systems via Item Loss   Equalization**|Juno Prent et.al.|[2410.04830v1](http://arxiv.org/abs/2410.04830v1)|null|
 |**2024-10-05 15:56:38**|**Assessing the Impact of Disorganized Background Noise on Timed Stress   Task Performance Through Attention Using Machine-Learning Based Eye-Tracking   Techniques**|Hubert Huang et.al.|[2410.04208v1](http://arxiv.org/abs/2410.04208v1)|null|
 |**2024-10-04 15:00:17**|**Applying the FAIR Principles to Computational Workflows**|Sean R. Wilkinson et.al.|[2410.03490v1](http://arxiv.org/abs/2410.03490v1)|null|
-|**2024-10-03 18:42:07**|**Cognitive Biases in Large Language Models for News Recommendation**|Yougang Lyu et.al.|[2410.02897v1](http://arxiv.org/abs/2410.02897v1)|null|
-|**2024-10-02 22:46:51**|**Price-guided user attention in large-scale E-commerce group   recommendation**|Yang Shi et.al.|[2410.02074v1](http://arxiv.org/abs/2410.02074v1)|null|
-|**2024-10-02 12:44:02**|**Relativistic and electron-correlation effects in static dipole   polarizabilities for group 11 elements**|YingXing Cheng et.al.|[2410.01493v2](http://arxiv.org/abs/2410.01493v2)|null|
-|**2024-10-01 19:38:46**|**YouTube Video Analytics for Patient Engagement: Evidence from   Colonoscopy Preparation Videos**|Yawen Guo et.al.|[2410.02830v1](http://arxiv.org/abs/2410.02830v1)|null|
-|**2024-09-30 18:00:02**|**APOKASC-3: The Third Joint Spectroscopic and Asteroseismic catalog for   Evolved Stars in the Kepler Fields**|Marc H. Pinsonneault et.al.|[2410.00102v1](http://arxiv.org/abs/2410.00102v1)|null|
-|**2024-09-30 16:42:57**|**RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News   Recommendations**|Johannes Kruse et.al.|[2409.20483v1](http://arxiv.org/abs/2409.20483v1)|null|
-|**2024-09-30 14:04:27**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305v2](http://arxiv.org/abs/2409.20305v2)|[link](https://github.com/leopold1423/mpe)|

@@ -2,6 +2,8 @@
 ### Multi Interest
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-04 09:53:03**|**Differentially private and decentralized randomized power method**|Julien Nicolas et.al.|[2411.01931v1](http://arxiv.org/abs/2411.01931v1)|null|
+|**2024-11-02 07:40:16**|**Bi-Level Graph Structure Learning for Next POI Recommendation**|Liang Wang et.al.|[2411.01169v1](http://arxiv.org/abs/2411.01169v1)|null|
 |**2024-10-28 00:38:06**|**Collaborative Knowledge Fusion: A Novel Approach for Multi-task   Recommender Systems via LLMs**|Chuang Zhao et.al.|[2410.20642v1](http://arxiv.org/abs/2410.20642v1)|null|
 |**2024-10-24 16:05:38**|**Guiding Empowerment Model: Liberating Neurodiversity in Online Higher   Education**|Hannah Beaux et.al.|[2410.18876v1](http://arxiv.org/abs/2410.18876v1)|null|
 |**2024-10-22 15:13:13**|**Exploration and Persuasion**|Aleksandrs Slivkins et.al.|[2410.17086v1](http://arxiv.org/abs/2410.17086v1)|null|
@@ -30,5 +32,3 @@
 |**2024-07-29 03:54:00**|**GradCraft: Elevating Multi-task Recommendations through Holistic   Gradient Crafting**|Yimeng Bai et.al.|[2407.19682v1](http://arxiv.org/abs/2407.19682v1)|[link](https://github.com/baiyimeng/gradcraft)|
 |**2024-07-23 10:00:45**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced   CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v2](http://arxiv.org/abs/2407.16357v2)|null|
 |**2024-07-15 14:54:55**|**Multi-Objective Optimization and Multi-Criteria Decision-Making Approach   to Design Multi-Tubular Packed-Bed Membrane Reactor in Oxidative   Dehydrogenation of Ethane**|Seyed Reza Nabavi et.al.|[2407.10774v1](http://arxiv.org/abs/2407.10774v1)|null|
-|**2024-07-15 13:33:30**|**SEMINAR: Search Enhanced Multi-modal Interest Network and Approximate   Retrieval for Lifelong Sequential Recommendation**|Kaiming Shen et.al.|[2407.10714v1](http://arxiv.org/abs/2407.10714v1)|null|
-|**2024-07-11 07:09:59**|**A Comprehensive Survey on Retrieval Methods in Recommender Systems**|Junjie Huang et.al.|[2407.21022v1](http://arxiv.org/abs/2407.21022v1)|null|
