@@ -22,7 +22,7 @@
 |**2024-09-04 17:21:47**|**Cost-Effectiveness Analysis for Disease Prevention -- A Case Study on   Colorectal Cancer Screening**|Yi Xiong et.al.|[2409.02888v1](http://arxiv.org/abs/2409.02888v1)|null|
 |**2024-09-02 07:44:48**|**Improved Diversity-Promoting Collaborative Metric Learning for   Recommendation**|Shilong Bao et.al.|[2409.01012v1](http://arxiv.org/abs/2409.01012v1)|[link](https://github.com/statusrank/LibCML)|
 |**2024-08-21 13:39:21**|**DTN: Deep Multiple Task-specific Feature Interactions Network for   Multi-Task Recommendation**|Yaowen Bi et.al.|[2408.11611v3](http://arxiv.org/abs/2408.11611v3)|null|
-|**2024-08-19 04:44:32**|**Harnessing Multimodal Large Language Models for Multimodal Sequential   Recommendation**|Yuyang Ye et.al.|[2408.09698v3](http://arxiv.org/abs/2408.09698v3)|null|
+|**2024-08-19 04:44:32**|**Harnessing Multimodal Large Language Models for Multimodal Sequential   Recommendation**|Yuyang Ye et.al.|[2408.09698v4](http://arxiv.org/abs/2408.09698v4)|null|
 |**2024-08-16 05:51:00**|**Don't Click the Bait: Title Debiasing News Recommendation via   Cross-Field Contrastive Learning**|Yijie Shu et.al.|[2408.08538v1](http://arxiv.org/abs/2408.08538v1)|null|
 |**2024-08-15 15:18:55**|**Modeling Domain and Feedback Transitions for Cross-Domain Sequential   Recommendation**|Changshuo Zhang et.al.|[2408.08209v1](http://arxiv.org/abs/2408.08209v1)|null|
 |**2024-08-02 22:33:59**|**SumRecom: A Personalized Summarization Approach by Learning from Users'   Feedback**|Samira Ghodratnama et.al.|[2408.07294v1](http://arxiv.org/abs/2408.07294v1)|null|
