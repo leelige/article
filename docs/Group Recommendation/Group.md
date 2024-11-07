@@ -2,14 +2,15 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-06 06:50:50**|**The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms   in Aligned Language Models**|Anaelia Ovalle et.al.|[2411.03700v1](http://arxiv.org/abs/2411.03700v1)|null|
 |**2024-11-05 16:02:54**|**What Makes an Educational Robot Game Fun? Framework Analysis of   Children's Design Ideas**|Elaheh Sanoubari et.al.|[2411.03213v1](http://arxiv.org/abs/2411.03213v1)|null|
 |**2024-11-05 10:53:25**|**Efficient and Effective Adaptation of Multimodal Foundation Models in   Sequential Recommendation**|Junchen Fu et.al.|[2411.02992v1](http://arxiv.org/abs/2411.02992v1)|null|
 |**2024-11-04 18:21:53**|**Social-RAG: Retrieving from Group Interactions to Socially Ground   Proactive AI Generation to Group Preferences**|Ruotong Wang et.al.|[2411.02353v1](http://arxiv.org/abs/2411.02353v1)|null|
 |**2024-11-04 07:06:03**|**Auditing Political Exposure Bias: Algorithmic Amplification on Twitter/X   Approaching the 2024 U.S. Presidential Election**|Jinyi Ye et.al.|[2411.01852v1](http://arxiv.org/abs/2411.01852v1)|null|
-|**2024-11-04 06:27:14**|**Leveraging Label Semantics and Meta-Label Refinement for Multi-Label   Question Classification**|Shi Dong et.al.|[2411.01841v1](http://arxiv.org/abs/2411.01841v1)|null|
+|**2024-11-04 06:27:14**|**Leveraging Label Semantics and Meta-Label Refinement for Multi-Label   Question Classification**|Shi Dong et.al.|[2411.01841v1](http://arxiv.org/abs/2411.01841v1)|[link](https://github.com/78Erii/RR2QC)|
 |**2024-11-04 04:16:11**|**Transferable Sequential Recommendation via Vector Quantized Meta   Learning**|Zhenrui Yue et.al.|[2411.01785v1](http://arxiv.org/abs/2411.01785v1)|null|
 |**2024-11-04 00:45:14**|**Comparing multilevel and fixed effect approaches in the generalized   linear model setting**|He Bai et.al.|[2411.01723v1](http://arxiv.org/abs/2411.01723v1)|null|
-|**2024-11-03 21:32:07**|**Co-clustering for Federated Recommender System**|Xinrui He et.al.|[2411.01690v1](http://arxiv.org/abs/2411.01690v1)|null|
+|**2024-11-03 21:32:07**|**Co-clustering for Federated Recommender System**|Xinrui He et.al.|[2411.01690v1](http://arxiv.org/abs/2411.01690v1)|[link](https://github.com/Xinrui17/CoFedRec)|
 |**2024-11-03 16:18:14**|**Can education correct appearance discrimination in the labor market?**|Hambur Wang et.al.|[2411.01621v1](http://arxiv.org/abs/2411.01621v1)|null|
 |**2024-10-31 09:24:22**|**Identify Then Recommend: Towards Unsupervised Group Recommendation**|Yue Liu et.al.|[2410.23757v1](http://arxiv.org/abs/2410.23757v1)|null|
 |**2024-10-29 13:10:03**|**Path-based summary explanations for graph recommenders -- extended   version**|Danae Pla Karidi et.al.|[2410.22020v1](http://arxiv.org/abs/2410.22020v1)|[link](https://github.com/xsum-rec/xsum)|
@@ -31,4 +32,3 @@
 |**2024-10-08 01:51:55**|**Stereotype or Personalization? User Identity Biases Chatbot   Recommendations**|Anjali Kantharuban et.al.|[2410.05613v1](http://arxiv.org/abs/2410.05613v1)|null|
 |**2024-10-07 21:05:57**|**Intuitions of Compromise: Utilitarianism vs. Contractualism**|Jared Moore et.al.|[2410.05496v1](http://arxiv.org/abs/2410.05496v1)|[link](https://github.com/jlcmoore/valueaggregation)|
 |**2024-10-07 16:37:35**|**Are causal effect estimations enough for optimal recommendations under   multitreatment scenarios?**|Sherly Alfonso-Sánchez et.al.|[2410.05177v1](http://arxiv.org/abs/2410.05177v1)|null|
-|**2024-10-07 11:09:50**|**Random-projection ensemble dimension reduction**|Wenxing Zhou et.al.|[2410.04922v1](http://arxiv.org/abs/2410.04922v1)|[link](https://github.com/Wenxing99/RPEDR)|
