@@ -2,6 +2,16 @@
 ### GNN
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-07 17:48:37**|**Enhancing Missing Data Imputation through Combined Bipartite Graph and   Complete Directed Graph**|Zhaoyang Zhang et.al.|[2411.04907v1](http://arxiv.org/abs/2411.04907v1)|null|
+|**2024-11-07 17:41:07**|**Sampling-guided Heterogeneous Graph Neural Network with Temporal   Smoothing for Scalable Longitudinal Data Imputation**|Zhaoyang Zhang et.al.|[2411.04899v1](http://arxiv.org/abs/2411.04899v1)|null|
+|**2024-11-07 12:32:24**|**Centrality Graph Shift Operators for Graph Neural Networks**|Yassine Abbahaddou et.al.|[2411.04655v1](http://arxiv.org/abs/2411.04655v1)|null|
+|**2024-11-07 12:10:01**|**Quantum adiabatic optimization with Rydberg arrays: localization   phenomena and encoding strategies**|Lisa Bombieri et.al.|[2411.04645v1](http://arxiv.org/abs/2411.04645v1)|null|
+|**2024-11-07 11:46:48**|**Cybercrime Prediction via Geographically Weighted Learning**|Muhammad Al-Zafar Khan et.al.|[2411.04635v1](http://arxiv.org/abs/2411.04635v1)|null|
+|**2024-11-07 09:53:11**|**Higher-Order GNNs Meet Efficiency: Sparse Sobolev Graph Neural Networks**|Jhony H. Giraldo et.al.|[2411.04570v1](http://arxiv.org/abs/2411.04570v1)|null|
+|**2024-11-07 02:04:34**|**ComFairGNN: Community Fair Graph Neural Network**|Yonas Sium et.al.|[2411.04371v1](http://arxiv.org/abs/2411.04371v1)|null|
+|**2024-11-07 01:23:48**|**GaGSL: Global-augmented Graph Structure Learning via Graph Information   Bottleneck**|Shuangjie Li et.al.|[2411.04356v1](http://arxiv.org/abs/2411.04356v1)|null|
+|**2024-11-06 21:22:46**|**Increasing the scalability of graph convolution for FPGA-implemented   event-based vision**|Piotr Wzorek et.al.|[2411.04269v1](http://arxiv.org/abs/2411.04269v1)|null|
+|**2024-11-06 21:17:14**|**Graph neural networks and non-commuting operators**|Mauricio Velasco et.al.|[2411.04265v1](http://arxiv.org/abs/2411.04265v1)|[link](https://github.com/kkylie/gtnn_weighted_circulant_graphs)|
 |**2024-11-06 16:59:51**|**Multi-branch Spatio-Temporal Graph Neural Network For Efficient Ice   Layer Thickness Prediction**|Zesheng Liu et.al.|[2411.04055v1](http://arxiv.org/abs/2411.04055v1)|null|
 |**2024-11-06 14:03:49**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|[link](https://github.com/arclab-hku/DEIO)|
 |**2024-11-06 11:29:47**|**Reconsidering the Performance of GAE in Link Prediction**|Weishuo Ma et.al.|[2411.03845v1](http://arxiv.org/abs/2411.03845v1)|[link](https://github.com/graphpku/refined-gae)|
@@ -22,13 +32,3 @@
 |**2024-11-04 20:31:22**|**Geometry of orofacial neuromuscular signals: speech articulation   decoding using surface electromyography**|Harshavardhana T. Gowda et.al.|[2411.02591v1](http://arxiv.org/abs/2411.02591v1)|[link](https://github.com/HarshavardhanaTG/geometryOfOrofacialNeuromuscularSystem)|
 |**2024-11-04 20:22:28**|**EOSnet: Embedded Overlap Structures for Graph Neural Networks in   Predicting Material Properties**|Shuo Tao et.al.|[2411.02579v1](http://arxiv.org/abs/2411.02579v1)|null|
 |**2024-11-04 19:56:57**|**On the shape of Gaussian scale-free polymer networks**|V. Blavatska et.al.|[2411.02566v1](http://arxiv.org/abs/2411.02566v1)|null|
-|**2024-11-04 19:22:33**|**Enhancing Graph Neural Networks in Large-scale Traffic Incident Analysis   with Concurrency Hypothesis**|Xiwen Chen et.al.|[2411.02542v1](http://arxiv.org/abs/2411.02542v1)|[link](https://github.com/xiwenc1/incident-gnn-cp)|
-|**2024-11-04 19:21:06**|**GraphXAIN: Narratives to Explain Graph Neural Networks**|Mateusz Cedro et.al.|[2411.02540v1](http://arxiv.org/abs/2411.02540v1)|[link](https://github.com/ADMAntwerp/GraphXAIN)|
-|**2024-11-04 19:00:01**|**Reconstruction of Continuous Cosmological Fields from Discrete Tracers   with Graph Neural Networks**|Yurii Kvasiuk et.al.|[2411.02496v1](http://arxiv.org/abs/2411.02496v1)|null|
-|**2024-11-04 17:57:27**|**Graph Neural Networks Based Deep Learning for Predicting Structural and   Electronic Properties**|Selva Chandrasekaran Selvaraj et.al.|[2411.02331v1](http://arxiv.org/abs/2411.02331v1)|[link](https://github.com/selvachandrasekaranselvaraj/GNN_prediction)|
-|**2024-11-04 17:13:35**|**Federated GNNs for EEG-Based Stroke Assessment**|Andrea Protani et.al.|[2411.02286v1](http://arxiv.org/abs/2411.02286v1)|null|
-|**2024-11-04 17:03:52**|**On the Utilization of Unique Node Identifiers in Graph Neural Networks**|Maya Bechler-Speicher et.al.|[2411.02271v1](http://arxiv.org/abs/2411.02271v1)|null|
-|**2024-11-04 16:38:35**|**Advancing Cyber-Attack Detection in Power Systems: A Comparative Study   of Machine Learning and Graph Neural Network Approaches**|Tianzhixi Yin et.al.|[2411.02248v1](http://arxiv.org/abs/2411.02248v1)|null|
-|**2024-11-04 16:17:57**|**Predicting the Temperature-Dependent CMC of Surfactant Mixtures with   Graph Neural Networks**|Christoforos Brozos et.al.|[2411.02224v2](http://arxiv.org/abs/2411.02224v2)|[link](https://github.com/brozosc/Predicting-the-Temperature-Dependent-CMC-of-Surfactant-Mixtures-with-Graph-Neural-Networks)|
-|**2024-11-04 15:26:07**|**Do graph neural network states contain graph properties?**|Tom Pelletreau-Duris et.al.|[2411.02168v1](http://arxiv.org/abs/2411.02168v1)|null|
-|**2024-11-04 14:51:35**|**SpecRaGE: Robust and Generalizable Multi-view Spectral Representation   Learning**|Amitai Yacobi et.al.|[2411.02138v1](http://arxiv.org/abs/2411.02138v1)|null|
