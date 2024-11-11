@@ -2,6 +2,9 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-08 15:32:20**|**Impact of Fake News on Social Media Towards Public Users of Different   Age Groups**|Kahlil bin Abdul Hakim et.al.|[2411.05638v1](http://arxiv.org/abs/2411.05638v1)|null|
+|**2024-11-08 08:18:18**|**Relativistic and electron-correlation effects in static dipole   polarizabilities for group 12 elements**|YingXing Cheng et.al.|[2411.05394v1](http://arxiv.org/abs/2411.05394v1)|null|
+|**2024-11-07 19:45:39**|**Innovative Weight Simulation in Virtual Reality Cube Games: A   Pseudo-Haptic Approach**|Woan Ning Lim et.al.|[2411.05133v1](http://arxiv.org/abs/2411.05133v1)|null|
 |**2024-11-06 06:50:50**|**The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms   in Aligned Language Models**|Anaelia Ovalle et.al.|[2411.03700v1](http://arxiv.org/abs/2411.03700v1)|null|
 |**2024-11-05 16:02:54**|**What Makes an Educational Robot Game Fun? Framework Analysis of   Children's Design Ideas**|Elaheh Sanoubari et.al.|[2411.03213v1](http://arxiv.org/abs/2411.03213v1)|null|
 |**2024-11-05 10:53:25**|**Efficient and Effective Adaptation of Multimodal Foundation Models in   Sequential Recommendation**|Junchen Fu et.al.|[2411.02992v1](http://arxiv.org/abs/2411.02992v1)|null|
@@ -17,6 +20,7 @@
 |**2024-10-28 12:36:00**|**Simultaneous Unlearning of Multiple Protected User Attributes From   Variational Autoencoder Recommenders Using Adversarial Training**|Gustavo Escobedo et.al.|[2410.20965v1](http://arxiv.org/abs/2410.20965v1)|[link](https://github.com/hcai-mms/advx-multvae)|
 |**2024-10-28 04:49:05**|**GPRec: Bi-level User Modeling for Deep Recommenders**|Yejing Wang et.al.|[2410.20730v1](http://arxiv.org/abs/2410.20730v1)|[link](https://github.com/applied-machine-learning-lab/gprec)|
 |**2024-10-24 22:13:48**|**Sentiment-Driven Community Detection in a Network of Perfume Preferences**|Kamand Kalashi et.al.|[2410.19177v2](http://arxiv.org/abs/2410.19177v2)|[link](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection)|
+|**2024-10-24 13:58:37**|**Considerations and recommendations from the ISMRM Diffusion Study Group   for preclinical diffusion MRI: Part 3 -- Ex vivo imaging: data processing,   comparisons with microscopy, and tractography**|Kurt G Schilling et.al.|[2411.05021v1](http://arxiv.org/abs/2411.05021v1)|null|
 |**2024-10-23 08:01:07**|**Comprehensive Evaluation of Matrix Factorization Models for   Collaborative Filtering Recommender Systems**|Jesús Bobadilla et.al.|[2410.17644v2](http://arxiv.org/abs/2410.17644v2)|null|
 |**2024-10-23 04:43:03**|**FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive   Learning**|Wei Chen et.al.|[2410.17555v1](http://arxiv.org/abs/2410.17555v1)|[link](https://github.com/cwei01/fairdgcl)|
 |**2024-10-22 18:08:25**|**Are Large Language Models Ready for Travel Planning?**|Ruiping Ren et.al.|[2410.17333v1](http://arxiv.org/abs/2410.17333v1)|null|
@@ -28,7 +32,3 @@
 |**2024-10-17 14:22:57**|**Cross-Domain Sequential Recommendation via Neural Process**|Haipeng Li et.al.|[2410.13588v1](http://arxiv.org/abs/2410.13588v1)|null|
 |**2024-10-16 13:23:30**|**Exploring Plural Perspectives in Self-Tracking Technologies: Trust and   Reflection in Self Tracking Practices**|Sujay Shalawadi et.al.|[2410.12546v1](http://arxiv.org/abs/2410.12546v1)|null|
 |**2024-10-14 16:06:56**|**A Personalized MOOC Learning Group and Course Recommendation Method   Based on Graph Neural Network and Social Network Analysis**|Zijin Luo et.al.|[2410.10658v1](http://arxiv.org/abs/2410.10658v1)|null|
-|**2024-10-11 10:02:52**|**The Design Space of in-IDE Human-AI Experience**|Agnia Sergeyuk et.al.|[2410.08676v1](http://arxiv.org/abs/2410.08676v1)|null|
-|**2024-10-08 01:51:55**|**Stereotype or Personalization? User Identity Biases Chatbot   Recommendations**|Anjali Kantharuban et.al.|[2410.05613v1](http://arxiv.org/abs/2410.05613v1)|null|
-|**2024-10-07 21:05:57**|**Intuitions of Compromise: Utilitarianism vs. Contractualism**|Jared Moore et.al.|[2410.05496v1](http://arxiv.org/abs/2410.05496v1)|[link](https://github.com/jlcmoore/valueaggregation)|
-|**2024-10-07 16:37:35**|**Are causal effect estimations enough for optimal recommendations under   multitreatment scenarios?**|Sherly Alfonso-Sánchez et.al.|[2410.05177v1](http://arxiv.org/abs/2410.05177v1)|null|
