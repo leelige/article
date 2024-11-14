@@ -2,6 +2,7 @@
 ### Group
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-12 19:26:43**|**On the Role of Speech Data in Reducing Toxicity Detection Bias**|Samuel J. Bell et.al.|[2411.08135v1](http://arxiv.org/abs/2411.08135v1)|null|
 |**2024-11-08 15:32:20**|**Impact of Fake News on Social Media Towards Public Users of Different   Age Groups**|Kahlil bin Abdul Hakim et.al.|[2411.05638v1](http://arxiv.org/abs/2411.05638v1)|null|
 |**2024-11-08 08:18:18**|**Relativistic and electron-correlation effects in static dipole   polarizabilities for group 12 elements**|YingXing Cheng et.al.|[2411.05394v1](http://arxiv.org/abs/2411.05394v1)|null|
 |**2024-11-07 19:45:39**|**Innovative Weight Simulation in Virtual Reality Cube Games: A   Pseudo-Haptic Approach**|Woan Ning Lim et.al.|[2411.05133v1](http://arxiv.org/abs/2411.05133v1)|null|
@@ -9,7 +10,7 @@
 |**2024-11-05 16:02:54**|**What Makes an Educational Robot Game Fun? Framework Analysis of   Children's Design Ideas**|Elaheh Sanoubari et.al.|[2411.03213v1](http://arxiv.org/abs/2411.03213v1)|null|
 |**2024-11-05 10:53:25**|**Efficient and Effective Adaptation of Multimodal Foundation Models in   Sequential Recommendation**|Junchen Fu et.al.|[2411.02992v1](http://arxiv.org/abs/2411.02992v1)|null|
 |**2024-11-04 18:21:53**|**Social-RAG: Retrieving from Group Interactions to Socially Ground   Proactive AI Generation to Group Preferences**|Ruotong Wang et.al.|[2411.02353v1](http://arxiv.org/abs/2411.02353v1)|null|
-|**2024-11-04 07:06:03**|**Auditing Political Exposure Bias: Algorithmic Amplification on Twitter/X   Approaching the 2024 U.S. Presidential Election**|Jinyi Ye et.al.|[2411.01852v1](http://arxiv.org/abs/2411.01852v1)|null|
+|**2024-11-04 07:06:03**|**Auditing Political Exposure Bias: Algorithmic Amplification on Twitter/X   Approaching the 2024 U.S. Presidential Election**|Jinyi Ye et.al.|[2411.01852v2](http://arxiv.org/abs/2411.01852v2)|null|
 |**2024-11-04 06:27:14**|**Leveraging Label Semantics and Meta-Label Refinement for Multi-Label   Question Classification**|Shi Dong et.al.|[2411.01841v1](http://arxiv.org/abs/2411.01841v1)|[link](https://github.com/78Erii/RR2QC)|
 |**2024-11-04 04:16:11**|**Transferable Sequential Recommendation via Vector Quantized Meta   Learning**|Zhenrui Yue et.al.|[2411.01785v1](http://arxiv.org/abs/2411.01785v1)|null|
 |**2024-11-04 00:45:14**|**Comparing multilevel and fixed effect approaches in the generalized   linear model setting**|He Bai et.al.|[2411.01723v1](http://arxiv.org/abs/2411.01723v1)|null|
@@ -31,4 +32,3 @@
 |**2024-10-17 21:44:58**|**Student Reflections on Self-Initiated GenAI Use in HCI Education**|Hauke Sandhaus et.al.|[2410.14048v1](http://arxiv.org/abs/2410.14048v1)|null|
 |**2024-10-17 14:22:57**|**Cross-Domain Sequential Recommendation via Neural Process**|Haipeng Li et.al.|[2410.13588v1](http://arxiv.org/abs/2410.13588v1)|null|
 |**2024-10-16 13:23:30**|**Exploring Plural Perspectives in Self-Tracking Technologies: Trust and   Reflection in Self Tracking Practices**|Sujay Shalawadi et.al.|[2410.12546v1](http://arxiv.org/abs/2410.12546v1)|null|
-|**2024-10-14 16:06:56**|**A Personalized MOOC Learning Group and Course Recommendation Method   Based on Graph Neural Network and Social Network Analysis**|Zijin Luo et.al.|[2410.10658v1](http://arxiv.org/abs/2410.10658v1)|null|
