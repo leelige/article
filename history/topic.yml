@@ -1,8 +1,17 @@
-"Multi Interest Recommendation":
-  "Multi Interest": '(all:multi+OR+all:Multi)+AND+(all:interest+OR+all:Interest)+AND+(all:recommendation+OR+all:Recommendation)'
+# "Multi Interest Recommendation":
+#   "Multi Interest": '(all:multi+OR+all:Multi)+AND+(all:interest+OR+all:Interest)+AND+(all:recommendation+OR+all:Recommendation)'
 
-"Group Recommendation":
-  "Group": '(all:group+OR+all:Group)+AND+(all:recommendation+OR+all:Recommendation)'
+# "Group Recommendation":
+#   "Group": '(all:group+OR+all:Group)+AND+(all:recommendation+OR+all:Recommendation)'
   
-"Graph Neural Network":
-  "GNN": '(all:Graph+OR+all:graph)+AND+(all:neural+OR+all:Neural)+AND+(all:network+OR+all:Network)'
+# "Graph Neural Network":
+#   "GNN": '(all:Graph+OR+all:graph)+AND+(all:neural+OR+all:Neural)+AND+(all:network+OR+all:Network)'
+
+"Decision Tree":
+  "Decsion Tree": '(all:Decision+OR+all:decision)+AND+(all:Tree+OR+all:tree)+AND+(all:Algorithm+OR+all:algorithm)'
+
+"Cost Model":
+  "Cost Model": '(all:Cost+OR+all:cost)+AND+(all:Model+OR+all:model)'
+
+"Query Optimization":
+  "Query Optimization": '(all:Query+OR+all:query)+AND+(all:Optimization+OR+all:optimization)'
