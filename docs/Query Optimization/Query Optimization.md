@@ -2,6 +2,10 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-14 18:54:19**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688v1](http://arxiv.org/abs/2411.09688v1)|null|
+|**2024-11-14 08:25:31**|**Pkd-tree: Parallel $k$d-tree with Batch Updates**|Ziyang Men et.al.|[2411.09275v1](http://arxiv.org/abs/2411.09275v1)|null|
+|**2024-11-14 01:48:08**|**DROJ: A Prompt-Driven Attack against Large Language Models**|Leyang Hu et.al.|[2411.09125v1](http://arxiv.org/abs/2411.09125v1)|[link](https://github.com/leon-leyang/llm-safeguard)|
+|**2024-11-13 22:38:51**|**Sublinear Metric Steiner Tree via Improved Bounds for Set Cover**|Sepideh Mahabadi et.al.|[2411.09059v1](http://arxiv.org/abs/2411.09059v1)|null|
 |**2024-11-13 13:30:21**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599v1](http://arxiv.org/abs/2411.08599v1)|null|
 |**2024-11-13 08:43:37**|**Towards Optimizing a Retrieval Augmented Generation using Large Language   Model on Academic Data**|Anum Afzal et.al.|[2411.08438v1](http://arxiv.org/abs/2411.08438v1)|null|
 |**2024-11-12 14:12:45**|**Query Optimization for Parametric Knowledge Refinement in   Retrieval-Augmented Large Language Models**|Youan Cong et.al.|[2411.07820v2](http://arxiv.org/abs/2411.07820v2)|null|
@@ -28,7 +32,3 @@
 |**2024-11-04 16:34:50**|**Tolerant Quantum Junta Testing**|Zhaoyang Chen et.al.|[2411.02244v1](http://arxiv.org/abs/2411.02244v1)|null|
 |**2024-11-04 14:23:07**|**Optimizing AoI at Query in Multiuser Wireless Uplink Networks: A Whittle   Index Approach**|Jingwei Liu et.al.|[2411.02108v4](http://arxiv.org/abs/2411.02108v4)|null|
 |**2024-11-04 00:39:52**|**Computational Lower Bounds for Regret Minimization in Normal-Form Games**|Ioannis Anagnostides et.al.|[2411.01721v1](http://arxiv.org/abs/2411.01721v1)|null|
-|**2024-11-03 00:20:40**|**Near-Optimal Relative Error Streaming Quantile Estimation via Elastic   Compactors**|Elena Gribelyuk et.al.|[2411.01384v1](http://arxiv.org/abs/2411.01384v1)|null|
-|**2024-11-02 10:50:22**|**MultiPull: Detailing Signed Distance Functions by Pulling Multi-Level   Queries at Multi-Step**|Takeshi Noda et.al.|[2411.01208v1](http://arxiv.org/abs/2411.01208v1)|null|
-|**2024-11-01 17:11:16**|**CORAG: A Cost-Constrained Retrieval Optimization System for   Retrieval-Augmented Generation**|Ziting Wang et.al.|[2411.00744v1](http://arxiv.org/abs/2411.00744v1)|null|
-|**2024-11-01 16:36:14**|**Token-level Proximal Policy Optimization for Query Generation**|Yichen Ouyang et.al.|[2411.00722v1](http://arxiv.org/abs/2411.00722v1)|null|
