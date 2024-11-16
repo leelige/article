@@ -7,11 +7,11 @@
 |**2024-11-14 16:49:43**|**Safety Filter for Robust Disturbance Rejection via Online Optimization**|Joyce Lai et.al.|[2411.09582v1](http://arxiv.org/abs/2411.09582v1)|null|
 |**2024-11-14 15:13:13**|**Golden Noise for Diffusion Models: A Learning Framework**|Zikai Zhou et.al.|[2411.09502v1](http://arxiv.org/abs/2411.09502v1)|null|
 |**2024-11-14 14:51:43**|**Positive Focusing is Directly Useful**|Beniamino Accattoli et.al.|[2411.09489v1](http://arxiv.org/abs/2411.09489v1)|null|
-|**2024-11-14 12:05:08**|**A survey of probabilistic generative frameworks for molecular   simulations**|Richard John et.al.|[2411.09388v1](http://arxiv.org/abs/2411.09388v1)|null|
+|**2024-11-14 12:05:08**|**A survey of probabilistic generative frameworks for molecular   simulations**|Richard John et.al.|[2411.09388v1](http://arxiv.org/abs/2411.09388v1)|[link](https://github.com/shams-mehdi/aib9_openmm)|
 |**2024-11-14 09:03:54**|**StreamAdapter: Efficient Test Time Adaptation from Contextual Streams**|Dilxat Muhtar et.al.|[2411.09289v1](http://arxiv.org/abs/2411.09289v1)|null|
 |**2024-11-14 08:30:52**|**A Comparative Analysis of Electricity Consumption Flexibility in   Different Industrial Plant Configurations**|Sebastián Rojas-Innocenti et.al.|[2411.09279v1](http://arxiv.org/abs/2411.09279v1)|null|
 |**2024-11-14 07:34:31**|**Cross Space and Time: A Spatio-Temporal Unitized Model for Traffic Flow   Forecasting**|Weilin Ruan et.al.|[2411.09251v1](http://arxiv.org/abs/2411.09251v1)|null|
-|**2024-11-14 00:59:13**|**Reducing Reasoning Costs - The Path of Optimization for Chain of Thought   via Sparse Attention Mechanism**|Libo Wang et.al.|[2411.09111v1](http://arxiv.org/abs/2411.09111v1)|[link](https://github.com/brucewang123456789/GeniusTrail)|
+|**2024-11-14 00:59:13**|**Reducing Reasoning Costs -- The Path of Optimization for Chain of   Thought via Sparse Attention Mechanism**|Libo Wang et.al.|[2411.09111v1](http://arxiv.org/abs/2411.09111v1)|[link](https://github.com/brucewang123456789/GeniusTrail)|
 |**2024-11-13 23:09:53**|**Drone Detection using Deep Neural Networks Trained on Pure Synthetic   Data**|Mariusz Wisniewski et.al.|[2411.09077v1](http://arxiv.org/abs/2411.09077v1)|[link](https://github.com/mazqtpopx/cranfield-synthetic-drone-detection)|
 |**2024-11-13 22:56:00**|**Code-mixed LLM: Improve Large Language Models' Capability to Handle   Code-Mixing through Reinforcement Learning from AI Feedback**|Wenbo Zhang et.al.|[2411.09073v1](http://arxiv.org/abs/2411.09073v1)|null|
 |**2024-11-13 22:49:16**|**Liner Shipping Network Design with Reinforcement Learning**|Utsav Dutta et.al.|[2411.09068v1](http://arxiv.org/abs/2411.09068v1)|null|

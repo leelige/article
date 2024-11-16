@@ -6,7 +6,7 @@
 |**2024-11-14 08:25:31**|**Pkd-tree: Parallel $k$d-tree with Batch Updates**|Ziyang Men et.al.|[2411.09275v1](http://arxiv.org/abs/2411.09275v1)|null|
 |**2024-11-14 01:48:08**|**DROJ: A Prompt-Driven Attack against Large Language Models**|Leyang Hu et.al.|[2411.09125v1](http://arxiv.org/abs/2411.09125v1)|[link](https://github.com/leon-leyang/llm-safeguard)|
 |**2024-11-13 22:38:51**|**Sublinear Metric Steiner Tree via Improved Bounds for Set Cover**|Sepideh Mahabadi et.al.|[2411.09059v1](http://arxiv.org/abs/2411.09059v1)|null|
-|**2024-11-13 13:30:21**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599v1](http://arxiv.org/abs/2411.08599v1)|null|
+|**2024-11-13 13:30:21**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599v1](http://arxiv.org/abs/2411.08599v1)|[link](https://github.com/XGenerationLab/XiYan-SQL)|
 |**2024-11-13 08:43:37**|**Towards Optimizing a Retrieval Augmented Generation using Large Language   Model on Academic Data**|Anum Afzal et.al.|[2411.08438v1](http://arxiv.org/abs/2411.08438v1)|null|
 |**2024-11-12 14:12:45**|**Query Optimization for Parametric Knowledge Refinement in   Retrieval-Augmented Large Language Models**|Youan Cong et.al.|[2411.07820v2](http://arxiv.org/abs/2411.07820v2)|null|
 |**2024-11-12 04:25:31**|**Model Stealing for Any Low-Rank Language Model**|Allen Liu et.al.|[2411.07536v1](http://arxiv.org/abs/2411.07536v1)|null|
