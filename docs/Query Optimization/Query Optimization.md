@@ -2,11 +2,14 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-15 15:01:00**|**Morpho-Aware Global Attention for Image Matting**|Jingru Yang et.al.|[2411.10251v1](http://arxiv.org/abs/2411.10251v1)|null|
+|**2024-11-15 14:41:47**|**Optimally Rewriting Formulas and Database Queries: A Confluence of Term   Rewriting, Structural Decomposition, and Complexity**|Hubie Chen et.al.|[2411.10229v1](http://arxiv.org/abs/2411.10229v1)|null|
+|**2024-11-15 07:06:22**|**DBenVis: A Visual Analytics System for Comparing DBMS Performance via   Benchmark Programs**|Yoojin Choi et.al.|[2411.09997v1](http://arxiv.org/abs/2411.09997v1)|null|
 |**2024-11-14 18:54:19**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688v1](http://arxiv.org/abs/2411.09688v1)|null|
 |**2024-11-14 08:25:31**|**Pkd-tree: Parallel $k$d-tree with Batch Updates**|Ziyang Men et.al.|[2411.09275v1](http://arxiv.org/abs/2411.09275v1)|null|
 |**2024-11-14 01:48:08**|**DROJ: A Prompt-Driven Attack against Large Language Models**|Leyang Hu et.al.|[2411.09125v1](http://arxiv.org/abs/2411.09125v1)|[link](https://github.com/leon-leyang/llm-safeguard)|
 |**2024-11-13 22:38:51**|**Sublinear Metric Steiner Tree via Improved Bounds for Set Cover**|Sepideh Mahabadi et.al.|[2411.09059v1](http://arxiv.org/abs/2411.09059v1)|null|
-|**2024-11-13 13:30:21**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599v1](http://arxiv.org/abs/2411.08599v1)|[link](https://github.com/XGenerationLab/XiYan-SQL)|
+|**2024-11-13 13:30:21**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599v1](http://arxiv.org/abs/2411.08599v1)|[link](https://github.com/XGenerationLab/M-Schema)|
 |**2024-11-13 08:43:37**|**Towards Optimizing a Retrieval Augmented Generation using Large Language   Model on Academic Data**|Anum Afzal et.al.|[2411.08438v1](http://arxiv.org/abs/2411.08438v1)|null|
 |**2024-11-12 14:12:45**|**Query Optimization for Parametric Knowledge Refinement in   Retrieval-Augmented Large Language Models**|Youan Cong et.al.|[2411.07820v2](http://arxiv.org/abs/2411.07820v2)|null|
 |**2024-11-12 04:25:31**|**Model Stealing for Any Low-Rank Language Model**|Allen Liu et.al.|[2411.07536v1](http://arxiv.org/abs/2411.07536v1)|null|
@@ -29,6 +32,3 @@
 |**2024-11-05 15:40:53**|**Online Data Collection for Efficient Semiparametric Inference**|Shantanu Gupta et.al.|[2411.03195v1](http://arxiv.org/abs/2411.03195v1)|[link](https://github.com/shantanu95/online-moment-selection)|
 |**2024-11-05 07:10:00**|**The Unreasonable Effectiveness of LLMs for Query Optimization**|Peter Akioyamen et.al.|[2411.02862v1](http://arxiv.org/abs/2411.02862v1)|[link](https://github.com/peter-ai/LLMSteer)|
 |**2024-11-05 02:16:23**|**An information-matching approach to optimal experimental design and   active learning**|Yonatan Kurniawan et.al.|[2411.02740v1](http://arxiv.org/abs/2411.02740v1)|null|
-|**2024-11-04 16:34:50**|**Tolerant Quantum Junta Testing**|Zhaoyang Chen et.al.|[2411.02244v1](http://arxiv.org/abs/2411.02244v1)|null|
-|**2024-11-04 14:23:07**|**Optimizing AoI at Query in Multiuser Wireless Uplink Networks: A Whittle   Index Approach**|Jingwei Liu et.al.|[2411.02108v4](http://arxiv.org/abs/2411.02108v4)|null|
-|**2024-11-04 00:39:52**|**Computational Lower Bounds for Regret Minimization in Normal-Form Games**|Ioannis Anagnostides et.al.|[2411.01721v1](http://arxiv.org/abs/2411.01721v1)|null|
