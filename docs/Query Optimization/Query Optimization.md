@@ -2,6 +2,11 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-18 12:05:27**|**LaVin-DiT: Large Vision Diffusion Transformer**|Zhaoqing Wang et.al.|[2411.11505v1](http://arxiv.org/abs/2411.11505v1)|null|
+|**2024-11-18 09:28:58**|**The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on   Large Language Models**|Xikang Yang et.al.|[2411.11407v1](http://arxiv.org/abs/2411.11407v1)|null|
+|**2024-11-18 02:13:11**|**Reliable Learning of Halfspaces under Gaussian Marginals**|Ilias Diakonikolas et.al.|[2411.11238v1](http://arxiv.org/abs/2411.11238v1)|null|
+|**2024-11-17 14:47:15**|**KV-Tandem -- a Modular Approach to Building High-Speed LSM Storage   Engines**|Edward Bortnikov et.al.|[2411.11091v1](http://arxiv.org/abs/2411.11091v1)|null|
+|**2024-11-16 08:47:32**|**MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map**|Yuhong Chou et.al.|[2411.10741v1](http://arxiv.org/abs/2411.10741v1)|null|
 |**2024-11-15 15:01:00**|**Morpho-Aware Global Attention for Image Matting**|Jingru Yang et.al.|[2411.10251v1](http://arxiv.org/abs/2411.10251v1)|null|
 |**2024-11-15 14:41:47**|**Optimally Rewriting Formulas and Database Queries: A Confluence of Term   Rewriting, Structural Decomposition, and Complexity**|Hubie Chen et.al.|[2411.10229v1](http://arxiv.org/abs/2411.10229v1)|null|
 |**2024-11-15 07:06:22**|**DBenVis: A Visual Analytics System for Comparing DBMS Performance via   Benchmark Programs**|Yoojin Choi et.al.|[2411.09997v1](http://arxiv.org/abs/2411.09997v1)|null|
@@ -27,8 +32,3 @@
 |**2024-11-06 23:47:54**|**Towards Optimizing SQL Generation via LLM Routing**|Mohammadhossein Malekpour et.al.|[2411.04319v1](http://arxiv.org/abs/2411.04319v1)|null|
 |**2024-11-06 16:41:41**|**Instance-Optimal Acyclic Join Processing Without Regret: Engineering the   Yannakakis Algorithm in Column Stores**|Liese Bekkers et.al.|[2411.04042v1](http://arxiv.org/abs/2411.04042v1)|null|
 |**2024-11-06 09:20:40**|**Optimal prefix-suffix queries with applications**|Solon P. Pissis et.al.|[2411.03784v1](http://arxiv.org/abs/2411.03784v1)|null|
-|**2024-11-06 04:12:42**|**Quantum Programmable Reflections**|Eddie Schoute et.al.|[2411.03648v1](http://arxiv.org/abs/2411.03648v1)|null|
-|**2024-11-05 16:50:54**|**Discovering Data Structures: Nearest Neighbor Search and Beyond**|Omar Salemohamed et.al.|[2411.03253v1](http://arxiv.org/abs/2411.03253v1)|null|
-|**2024-11-05 15:40:53**|**Online Data Collection for Efficient Semiparametric Inference**|Shantanu Gupta et.al.|[2411.03195v1](http://arxiv.org/abs/2411.03195v1)|[link](https://github.com/shantanu95/online-moment-selection)|
-|**2024-11-05 07:10:00**|**The Unreasonable Effectiveness of LLMs for Query Optimization**|Peter Akioyamen et.al.|[2411.02862v1](http://arxiv.org/abs/2411.02862v1)|[link](https://github.com/peter-ai/LLMSteer)|
-|**2024-11-05 02:16:23**|**An information-matching approach to optimal experimental design and   active learning**|Yonatan Kurniawan et.al.|[2411.02740v1](http://arxiv.org/abs/2411.02740v1)|null|
