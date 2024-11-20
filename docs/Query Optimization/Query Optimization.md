@@ -2,6 +2,9 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-19 16:58:03**|**PseudoSeer: a Search Engine for Pseudocode**|Levent Toksoz et.al.|[2411.12649v1](http://arxiv.org/abs/2411.12649v1)|null|
+|**2024-11-19 05:19:53**|**BoolQuestions: Does Dense Retrieval Understand Boolean Logic in   Language?**|Zongmeng Zhang et.al.|[2411.12235v1](http://arxiv.org/abs/2411.12235v1)|null|
+|**2024-11-18 22:12:14**|**Sorted Consecutive Occurrence Queries in Substrings**|Waseem Akram et.al.|[2411.12099v1](http://arxiv.org/abs/2411.12099v1)|null|
 |**2024-11-18 12:05:27**|**LaVin-DiT: Large Vision Diffusion Transformer**|Zhaoqing Wang et.al.|[2411.11505v1](http://arxiv.org/abs/2411.11505v1)|null|
 |**2024-11-18 09:28:58**|**The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on   Large Language Models**|Xikang Yang et.al.|[2411.11407v1](http://arxiv.org/abs/2411.11407v1)|null|
 |**2024-11-18 02:13:11**|**Reliable Learning of Halfspaces under Gaussian Marginals**|Ilias Diakonikolas et.al.|[2411.11238v1](http://arxiv.org/abs/2411.11238v1)|null|
@@ -29,6 +32,3 @@
 |**2024-11-07 18:40:17**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal   Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963v1](http://arxiv.org/abs/2411.04963v1)|null|
 |**2024-11-07 14:05:57**|**Quantum Speedup for Polar Maximum Likelihood Decoding**|Shintaro Fujiwara et.al.|[2411.04727v1](http://arxiv.org/abs/2411.04727v1)|null|
 |**2024-11-07 08:31:01**|**GenJoin: Conditional Generative Plan-to-Plan Query Optimizer that Learns   from Subplan Hints**|Pavel Sulimov et.al.|[2411.04525v1](http://arxiv.org/abs/2411.04525v1)|null|
-|**2024-11-06 23:47:54**|**Towards Optimizing SQL Generation via LLM Routing**|Mohammadhossein Malekpour et.al.|[2411.04319v1](http://arxiv.org/abs/2411.04319v1)|null|
-|**2024-11-06 16:41:41**|**Instance-Optimal Acyclic Join Processing Without Regret: Engineering the   Yannakakis Algorithm in Column Stores**|Liese Bekkers et.al.|[2411.04042v1](http://arxiv.org/abs/2411.04042v1)|null|
-|**2024-11-06 09:20:40**|**Optimal prefix-suffix queries with applications**|Solon P. Pissis et.al.|[2411.03784v1](http://arxiv.org/abs/2411.03784v1)|null|
