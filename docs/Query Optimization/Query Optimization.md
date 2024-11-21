@@ -2,11 +2,15 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-20 12:03:50**|**[Experiments \& Analysis] Hash-Based vs. Sort-Based Group-By-Aggregate:   A Focused Empirical Study [Extended Version]**|Gaurav Vaghasiya et.al.|[2411.13245v1](http://arxiv.org/abs/2411.13245v1)|null|
+|**2024-11-20 09:43:30**|**DMQR-RAG: Diverse Multi-Query Rewriting for RAG**|Zhicong Li et.al.|[2411.13154v1](http://arxiv.org/abs/2411.13154v1)|null|
+|**2024-11-20 02:14:07**|**LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with   Token Selection, Recovery and Enhancement**|Siwen Jiao et.al.|[2411.12980v1](http://arxiv.org/abs/2411.12980v1)|null|
+|**2024-11-19 22:17:18**|**Selective Attention: Enhancing Transformer through Principled Context   Control**|Xuechen Zhang et.al.|[2411.12892v1](http://arxiv.org/abs/2411.12892v1)|null|
 |**2024-11-19 16:58:03**|**PseudoSeer: a Search Engine for Pseudocode**|Levent Toksoz et.al.|[2411.12649v1](http://arxiv.org/abs/2411.12649v1)|null|
 |**2024-11-19 05:19:53**|**BoolQuestions: Does Dense Retrieval Understand Boolean Logic in   Language?**|Zongmeng Zhang et.al.|[2411.12235v1](http://arxiv.org/abs/2411.12235v1)|null|
-|**2024-11-18 22:12:14**|**Sorted Consecutive Occurrence Queries in Substrings**|Waseem Akram et.al.|[2411.12099v1](http://arxiv.org/abs/2411.12099v1)|null|
+|**2024-11-18 22:12:14**|**Sorted Consecutive Occurrence Queries in Substrings**|Waseem Akram et.al.|[2411.12099v2](http://arxiv.org/abs/2411.12099v2)|null|
 |**2024-11-18 12:05:27**|**LaVin-DiT: Large Vision Diffusion Transformer**|Zhaoqing Wang et.al.|[2411.11505v1](http://arxiv.org/abs/2411.11505v1)|null|
-|**2024-11-18 09:28:58**|**The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on   Large Language Models**|Xikang Yang et.al.|[2411.11407v1](http://arxiv.org/abs/2411.11407v1)|null|
+|**2024-11-18 09:28:58**|**The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on   Large Language Models**|Xikang Yang et.al.|[2411.11407v1](http://arxiv.org/abs/2411.11407v1)|[link](https://github.com/YancyKahn/DarkCite)|
 |**2024-11-18 02:13:11**|**Reliable Learning of Halfspaces under Gaussian Marginals**|Ilias Diakonikolas et.al.|[2411.11238v1](http://arxiv.org/abs/2411.11238v1)|null|
 |**2024-11-17 14:47:15**|**KV-Tandem -- a Modular Approach to Building High-Speed LSM Storage   Engines**|Edward Bortnikov et.al.|[2411.11091v1](http://arxiv.org/abs/2411.11091v1)|null|
 |**2024-11-16 08:47:32**|**MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map**|Yuhong Chou et.al.|[2411.10741v1](http://arxiv.org/abs/2411.10741v1)|null|
@@ -28,7 +32,3 @@
 |**2024-11-10 06:10:34**|**One Attack to Rule Them All: Tight Quadratic Bounds for Adaptive Queries   on Cardinality Sketches**|Edith Cohen et.al.|[2411.06370v1](http://arxiv.org/abs/2411.06370v1)|null|
 |**2024-11-09 19:01:34**|**Knowledge Authoring with Factual English, Rules, and Actions**|Yuheng Wang et.al.|[2411.06253v1](http://arxiv.org/abs/2411.06253v1)|null|
 |**2024-11-09 01:04:48**|**TourSynbio-Search: A Large Language Model Driven Agent Framework for   Unified Search Method for Protein Engineering**|Yungeng Liu et.al.|[2411.06024v1](http://arxiv.org/abs/2411.06024v1)|[link](https://github.com/tsynbio/Toursynbio-Search)|
-|**2024-11-08 13:51:37**|**Why These Documents? Explainable Generative Retrieval with Hierarchical   Category Paths**|Sangam Lee et.al.|[2411.05572v1](http://arxiv.org/abs/2411.05572v1)|null|
-|**2024-11-07 18:40:17**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal   Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963v1](http://arxiv.org/abs/2411.04963v1)|null|
-|**2024-11-07 14:05:57**|**Quantum Speedup for Polar Maximum Likelihood Decoding**|Shintaro Fujiwara et.al.|[2411.04727v1](http://arxiv.org/abs/2411.04727v1)|null|
-|**2024-11-07 08:31:01**|**GenJoin: Conditional Generative Plan-to-Plan Query Optimizer that Learns   from Subplan Hints**|Pavel Sulimov et.al.|[2411.04525v1](http://arxiv.org/abs/2411.04525v1)|null|
