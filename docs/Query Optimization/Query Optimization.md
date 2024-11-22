@@ -2,10 +2,22 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-21 18:59:52**|**On Optimal Testing of Linearity**|Vipul Arora et.al.|[2411.14431v1](http://arxiv.org/abs/2411.14431v1)|null|
+|**2024-11-21 17:43:51**|**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals**|Anxin Guo et.al.|[2411.14349v1](http://arxiv.org/abs/2411.14349v1)|null|
+|**2024-11-21 17:24:36**|**Data Formats in Analytical DBMSs: Performance Trade-offs and Future   Directions**|Chunwei Liu et.al.|[2411.14331v1](http://arxiv.org/abs/2411.14331v1)|null|
+|**2024-11-21 16:42:41**|**Improving Routability Prediction via NAS Using a Smooth One-shot   Augmented Predictor**|Arjun Sridhar et.al.|[2411.14296v1](http://arxiv.org/abs/2411.14296v1)|null|
+|**2024-11-21 16:39:35**|**Hypothesis testing of symmetry in quantum dynamics**|Yu-Ao Chen et.al.|[2411.14292v1](http://arxiv.org/abs/2411.14292v1)|null|
+|**2024-11-21 16:34:52**|**CAIP: Detecting Router Misconfigurations with Context-Aware Iterative   Prompting of LLMs**|Xi Jiang et.al.|[2411.14283v1](http://arxiv.org/abs/2411.14283v1)|null|
+|**2024-11-21 16:31:27**|**Neuro-Symbolic Query Optimization in Knowledge Graphs**|Maribel Acosta et.al.|[2411.14277v1](http://arxiv.org/abs/2411.14277v1)|null|
+|**2024-11-21 16:31:26**|**A $k^{\frac{q}{q-2}}$ Lower Bound for Odd Query Locally Decodable Codes   from Bipartite Kikuchi Graphs**|Oliver Janzer et.al.|[2411.14276v1](http://arxiv.org/abs/2411.14276v1)|null|
+|**2024-11-21 14:40:49**|**CompetitorFormer: Competitor Transformer for 3D Instance Segmentation**|Duanchu Wang et.al.|[2411.14179v1](http://arxiv.org/abs/2411.14179v1)|null|
+|**2024-11-20 22:05:54**|**Distributed Distance Sensitivity Oracles**|Vignesh Manoharan et.al.|[2411.13728v1](http://arxiv.org/abs/2411.13728v1)|null|
+|**2024-11-20 20:47:03**|**Towards Query Optimizer as a Service (QOaaS) in a Unified LakeHouse   Ecosystem: Can One QO Rule Them All?**|Rana Alotaibi et.al.|[2411.13704v1](http://arxiv.org/abs/2411.13704v1)|null|
+|**2024-11-20 20:10:43**|**Retrieval-Augmented Generation for Domain-Specific Question Answering: A   Case Study on Pittsburgh and CMU**|Haojia Sun et.al.|[2411.13691v1](http://arxiv.org/abs/2411.13691v1)|null|
 |**2024-11-20 12:03:50**|**[Experiments \& Analysis] Hash-Based vs. Sort-Based Group-By-Aggregate:   A Focused Empirical Study [Extended Version]**|Gaurav Vaghasiya et.al.|[2411.13245v1](http://arxiv.org/abs/2411.13245v1)|null|
 |**2024-11-20 09:43:30**|**DMQR-RAG: Diverse Multi-Query Rewriting for RAG**|Zhicong Li et.al.|[2411.13154v1](http://arxiv.org/abs/2411.13154v1)|null|
 |**2024-11-20 02:14:07**|**LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with   Token Selection, Recovery and Enhancement**|Siwen Jiao et.al.|[2411.12980v1](http://arxiv.org/abs/2411.12980v1)|null|
-|**2024-11-19 22:17:18**|**Selective Attention: Enhancing Transformer through Principled Context   Control**|Xuechen Zhang et.al.|[2411.12892v1](http://arxiv.org/abs/2411.12892v1)|null|
+|**2024-11-19 22:17:18**|**Selective Attention: Enhancing Transformer through Principled Context   Control**|Xuechen Zhang et.al.|[2411.12892v1](http://arxiv.org/abs/2411.12892v1)|[link](https://github.com/umich-sota/selective_attention)|
 |**2024-11-19 16:58:03**|**PseudoSeer: a Search Engine for Pseudocode**|Levent Toksoz et.al.|[2411.12649v1](http://arxiv.org/abs/2411.12649v1)|null|
 |**2024-11-19 05:19:53**|**BoolQuestions: Does Dense Retrieval Understand Boolean Logic in   Language?**|Zongmeng Zhang et.al.|[2411.12235v1](http://arxiv.org/abs/2411.12235v1)|null|
 |**2024-11-18 22:12:14**|**Sorted Consecutive Occurrence Queries in Substrings**|Waseem Akram et.al.|[2411.12099v2](http://arxiv.org/abs/2411.12099v2)|null|
@@ -17,18 +29,6 @@
 |**2024-11-15 15:01:00**|**Morpho-Aware Global Attention for Image Matting**|Jingru Yang et.al.|[2411.10251v1](http://arxiv.org/abs/2411.10251v1)|null|
 |**2024-11-15 14:41:47**|**Optimally Rewriting Formulas and Database Queries: A Confluence of Term   Rewriting, Structural Decomposition, and Complexity**|Hubie Chen et.al.|[2411.10229v1](http://arxiv.org/abs/2411.10229v1)|null|
 |**2024-11-15 07:06:22**|**DBenVis: A Visual Analytics System for Comparing DBMS Performance via   Benchmark Programs**|Yoojin Choi et.al.|[2411.09997v1](http://arxiv.org/abs/2411.09997v1)|null|
-|**2024-11-14 18:54:19**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688v1](http://arxiv.org/abs/2411.09688v1)|null|
+|**2024-11-14 18:54:19**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688v1](http://arxiv.org/abs/2411.09688v1)|[link](https://github.com/SqueezeAILab/SqueezedAttention)|
 |**2024-11-14 08:25:31**|**Pkd-tree: Parallel $k$d-tree with Batch Updates**|Ziyang Men et.al.|[2411.09275v1](http://arxiv.org/abs/2411.09275v1)|null|
 |**2024-11-14 01:48:08**|**DROJ: A Prompt-Driven Attack against Large Language Models**|Leyang Hu et.al.|[2411.09125v1](http://arxiv.org/abs/2411.09125v1)|[link](https://github.com/leon-leyang/llm-safeguard)|
-|**2024-11-13 22:38:51**|**Sublinear Metric Steiner Tree via Improved Bounds for Set Cover**|Sepideh Mahabadi et.al.|[2411.09059v1](http://arxiv.org/abs/2411.09059v1)|null|
-|**2024-11-13 13:30:21**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599v1](http://arxiv.org/abs/2411.08599v1)|[link](https://github.com/XGenerationLab/M-Schema)|
-|**2024-11-13 08:43:37**|**Towards Optimizing a Retrieval Augmented Generation using Large Language   Model on Academic Data**|Anum Afzal et.al.|[2411.08438v1](http://arxiv.org/abs/2411.08438v1)|null|
-|**2024-11-12 14:12:45**|**Query Optimization for Parametric Knowledge Refinement in   Retrieval-Augmented Large Language Models**|Youan Cong et.al.|[2411.07820v2](http://arxiv.org/abs/2411.07820v2)|null|
-|**2024-11-12 04:25:31**|**Model Stealing for Any Low-Rank Language Model**|Allen Liu et.al.|[2411.07536v1](http://arxiv.org/abs/2411.07536v1)|null|
-|**2024-11-11 16:31:02**|**Improved Greedy Identification of Latent Dynamics with Application to   Fluid Flows**|R. Ayoub et.al.|[2411.08071v1](http://arxiv.org/abs/2411.08071v1)|null|
-|**2024-11-11 11:08:26**|**CapeLLM: Support-Free Category-Agnostic Pose Estimation with Multimodal   Large Language Models**|Junho Kim et.al.|[2411.06869v1](http://arxiv.org/abs/2411.06869v1)|null|
-|**2024-11-11 08:18:49**|**HSTrack: Bootstrap End-to-End Multi-Camera 3D Multi-object Tracking with   Hybrid Supervision**|Shubo Lin et.al.|[2411.06780v1](http://arxiv.org/abs/2411.06780v1)|null|
-|**2024-11-10 11:08:28**|**SequentialBreak: Large Language Models Can be Fooled by Embedding   Jailbreak Prompts into Sequential Prompt Chains**|Bijoy Ahmed Saiem et.al.|[2411.06426v1](http://arxiv.org/abs/2411.06426v1)|null|
-|**2024-11-10 06:10:34**|**One Attack to Rule Them All: Tight Quadratic Bounds for Adaptive Queries   on Cardinality Sketches**|Edith Cohen et.al.|[2411.06370v1](http://arxiv.org/abs/2411.06370v1)|null|
-|**2024-11-09 19:01:34**|**Knowledge Authoring with Factual English, Rules, and Actions**|Yuheng Wang et.al.|[2411.06253v1](http://arxiv.org/abs/2411.06253v1)|null|
-|**2024-11-09 01:04:48**|**TourSynbio-Search: A Large Language Model Driven Agent Framework for   Unified Search Method for Protein Engineering**|Yungeng Liu et.al.|[2411.06024v1](http://arxiv.org/abs/2411.06024v1)|[link](https://github.com/tsynbio/Toursynbio-Search)|
