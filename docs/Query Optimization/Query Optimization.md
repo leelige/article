@@ -2,8 +2,11 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-22 14:24:51**|**Optimization Strategies for Parallel Computation of Skylines**|Paolo Ciaccia et.al.|[2411.14968v1](http://arxiv.org/abs/2411.14968v1)|null|
+|**2024-11-22 13:49:56**|**Geminio: Language-Guided Gradient Inversion Attacks in Federated   Learning**|Junjie Shan et.al.|[2411.14937v1](http://arxiv.org/abs/2411.14937v1)|null|
+|**2024-11-22 08:16:22**|**Jovis: A Visualization Tool for PostgreSQL Query Optimizer**|Yoojin Choi et.al.|[2411.14788v1](http://arxiv.org/abs/2411.14788v1)|[link](https://github.com/snu-jovis)|
 |**2024-11-21 18:59:52**|**On Optimal Testing of Linearity**|Vipul Arora et.al.|[2411.14431v1](http://arxiv.org/abs/2411.14431v1)|null|
-|**2024-11-21 17:43:51**|**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals**|Anxin Guo et.al.|[2411.14349v1](http://arxiv.org/abs/2411.14349v1)|null|
+|**2024-11-21 17:43:51**|**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals**|Anxin Guo et.al.|[2411.14349v2](http://arxiv.org/abs/2411.14349v2)|null|
 |**2024-11-21 17:24:36**|**Data Formats in Analytical DBMSs: Performance Trade-offs and Future   Directions**|Chunwei Liu et.al.|[2411.14331v1](http://arxiv.org/abs/2411.14331v1)|null|
 |**2024-11-21 16:42:41**|**Improving Routability Prediction via NAS Using a Smooth One-shot   Augmented Predictor**|Arjun Sridhar et.al.|[2411.14296v1](http://arxiv.org/abs/2411.14296v1)|null|
 |**2024-11-21 16:39:35**|**Hypothesis testing of symmetry in quantum dynamics**|Yu-Ao Chen et.al.|[2411.14292v1](http://arxiv.org/abs/2411.14292v1)|null|
@@ -19,6 +22,7 @@
 |**2024-11-20 02:14:07**|**LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with   Token Selection, Recovery and Enhancement**|Siwen Jiao et.al.|[2411.12980v1](http://arxiv.org/abs/2411.12980v1)|null|
 |**2024-11-19 22:17:18**|**Selective Attention: Enhancing Transformer through Principled Context   Control**|Xuechen Zhang et.al.|[2411.12892v1](http://arxiv.org/abs/2411.12892v1)|[link](https://github.com/umich-sota/selective_attention)|
 |**2024-11-19 16:58:03**|**PseudoSeer: a Search Engine for Pseudocode**|Levent Toksoz et.al.|[2411.12649v1](http://arxiv.org/abs/2411.12649v1)|null|
+|**2024-11-19 10:52:25**|**GRL-Prompt: Towards Knowledge Graph based Prompt Optimization via   Reinforcement Learning**|Yuze Liu et.al.|[2411.14479v1](http://arxiv.org/abs/2411.14479v1)|null|
 |**2024-11-19 05:19:53**|**BoolQuestions: Does Dense Retrieval Understand Boolean Logic in   Language?**|Zongmeng Zhang et.al.|[2411.12235v1](http://arxiv.org/abs/2411.12235v1)|null|
 |**2024-11-18 22:12:14**|**Sorted Consecutive Occurrence Queries in Substrings**|Waseem Akram et.al.|[2411.12099v2](http://arxiv.org/abs/2411.12099v2)|null|
 |**2024-11-18 12:05:27**|**LaVin-DiT: Large Vision Diffusion Transformer**|Zhaoqing Wang et.al.|[2411.11505v1](http://arxiv.org/abs/2411.11505v1)|null|
@@ -28,7 +32,3 @@
 |**2024-11-16 08:47:32**|**MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map**|Yuhong Chou et.al.|[2411.10741v1](http://arxiv.org/abs/2411.10741v1)|null|
 |**2024-11-15 15:01:00**|**Morpho-Aware Global Attention for Image Matting**|Jingru Yang et.al.|[2411.10251v1](http://arxiv.org/abs/2411.10251v1)|null|
 |**2024-11-15 14:41:47**|**Optimally Rewriting Formulas and Database Queries: A Confluence of Term   Rewriting, Structural Decomposition, and Complexity**|Hubie Chen et.al.|[2411.10229v1](http://arxiv.org/abs/2411.10229v1)|null|
-|**2024-11-15 07:06:22**|**DBenVis: A Visual Analytics System for Comparing DBMS Performance via   Benchmark Programs**|Yoojin Choi et.al.|[2411.09997v1](http://arxiv.org/abs/2411.09997v1)|null|
-|**2024-11-14 18:54:19**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688v1](http://arxiv.org/abs/2411.09688v1)|[link](https://github.com/SqueezeAILab/SqueezedAttention)|
-|**2024-11-14 08:25:31**|**Pkd-tree: Parallel $k$d-tree with Batch Updates**|Ziyang Men et.al.|[2411.09275v1](http://arxiv.org/abs/2411.09275v1)|null|
-|**2024-11-14 01:48:08**|**DROJ: A Prompt-Driven Attack against Large Language Models**|Leyang Hu et.al.|[2411.09125v1](http://arxiv.org/abs/2411.09125v1)|[link](https://github.com/leon-leyang/llm-safeguard)|

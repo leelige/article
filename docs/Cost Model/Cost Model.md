@@ -2,6 +2,28 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-22 18:51:51**|**Health AI Developer Foundations**|Atilla P. Kiraly et.al.|[2411.15128v1](http://arxiv.org/abs/2411.15128v1)|null|
+|**2024-11-22 18:30:46**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model   agents against human experts**|Hjalmar Wijk et.al.|[2411.15114v1](http://arxiv.org/abs/2411.15114v1)|null|
+|**2024-11-22 17:28:07**|**Quantum-enhanced unsupervised image segmentation for medical images   analysis**|Laia Domingo et.al.|[2411.15086v1](http://arxiv.org/abs/2411.15086v1)|null|
+|**2024-11-22 16:46:00**|**Detecting Hallucinations in Virtual Histology with Neural Precursors**|Ji-Hun Oh et.al.|[2411.15060v1](http://arxiv.org/abs/2411.15060v1)|null|
+|**2024-11-22 16:43:26**|**Financial Risk Assessment via Long-term Payment Behavior Sequence   Folding**|Yiran Qiao et.al.|[2411.15056v1](http://arxiv.org/abs/2411.15056v1)|null|
+|**2024-11-22 15:55:19**|**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language   Models**|Keda Tao et.al.|[2411.15024v1](http://arxiv.org/abs/2411.15024v1)|null|
+|**2024-11-22 15:19:40**|**A New Way: Kronecker-Factored Approximate Curvature Deep Hedging and its   Benefits**|Tsogt-Ochir Enkhbayar et.al.|[2411.15002v1](http://arxiv.org/abs/2411.15002v1)|null|
+|**2024-11-22 14:43:28**|**Large sample scaling analysis of the Zig-Zag algorithm for Bayesian   inference**|Sanket Agrawal et.al.|[2411.14983v1](http://arxiv.org/abs/2411.14983v1)|null|
+|**2024-11-22 14:19:01**|**LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and   Initialization Refinement**|Jieming Bian et.al.|[2411.14961v1](http://arxiv.org/abs/2411.14961v1)|null|
+|**2024-11-22 14:12:35**|**Evaluating Vision Transformer Models for Visual Quality Control in   Industrial Manufacturing**|Miriam Alber et.al.|[2411.14953v1](http://arxiv.org/abs/2411.14953v1)|null|
+|**2024-11-22 12:10:03**|**CardioLab: Laboratory Values Estimation and Monitoring from   Electrocardiogram Signals -- A Multimodal Deep Learning Approach**|Juan Miguel Lopez Alcaraz et.al.|[2411.14886v1](http://arxiv.org/abs/2411.14886v1)|null|
+|**2024-11-22 11:59:15**|**Astro-HEP-BERT: A bidirectional language model for studying the meanings   of concepts in astrophysics and high energy physics**|Arno Simons et.al.|[2411.14877v1](http://arxiv.org/abs/2411.14877v1)|null|
+|**2024-11-22 11:24:14**|**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired   Image-to-Image Translation**|Jeongsol Kim et.al.|[2411.14863v1](http://arxiv.org/abs/2411.14863v1)|null|
+|**2024-11-22 09:44:13**|**Omni-IML: Towards Unified Image Manipulation Localization**|Chenfan Qu et.al.|[2411.14823v1](http://arxiv.org/abs/2411.14823v1)|null|
+|**2024-11-22 09:22:39**|**Unsupervised Multi-view UAV Image Geo-localization via Iterative   Rendering**|Haoyuan Li et.al.|[2411.14816v1](http://arxiv.org/abs/2411.14816v1)|null|
+|**2024-11-22 08:21:03**|**KBAda: Efficient Self Adaptation on Specific Knowledge Bases**|Zheni Zeng et.al.|[2411.14790v1](http://arxiv.org/abs/2411.14790v1)|[link](https://github.com/thunlp/KBAda))|
+|**2024-11-22 07:32:11**|**Resolution-Agnostic Transformer-based Climate Downscaling**|Declan Curran et.al.|[2411.14774v1](http://arxiv.org/abs/2411.14774v1)|null|
+|**2024-11-22 06:50:44**|**Efficient Long Video Tokenization via Coordinated-based Patch   Reconstruction**|Huiwon Jang et.al.|[2411.14762v1](http://arxiv.org/abs/2411.14762v1)|null|
+|**2024-11-22 06:13:42**|**TopoSD: Topology-Enhanced Lane Segment Perception with SDMap Prior**|Sen Yang et.al.|[2411.14751v1](http://arxiv.org/abs/2411.14751v1)|null|
+|**2024-11-22 04:36:12**|**Effective SAM Combination for Open-Vocabulary Semantic Segmentation**|Minhyeok Lee et.al.|[2411.14723v1](http://arxiv.org/abs/2411.14723v1)|null|
+|**2024-11-21 20:46:23**|**Functional Array Programming in an Extended Pi-Calculus**|Hans Hüttel et.al.|[2411.14579v1](http://arxiv.org/abs/2411.14579v1)|null|
+|**2024-11-21 20:41:55**|**SRSA: A Cost-Efficient Strategy-Router Search Agent for Real-world   Human-Machine Interactions**|Yaqi Wang et.al.|[2411.14574v1](http://arxiv.org/abs/2411.14574v1)|null|
 |**2024-11-21 18:54:43**|**From RNNs to Foundation Models: An Empirical Study on Commercial   Building Energy Consumption**|Shourya Bose et.al.|[2411.14421v1](http://arxiv.org/abs/2411.14421v1)|null|
 |**2024-11-21 18:30:11**|**Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding**|Yiming Zhang et.al.|[2411.14401v1](http://arxiv.org/abs/2411.14401v1)|null|
 |**2024-11-21 18:27:25**|**Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings**|Aaron Zheng et.al.|[2411.14398v1](http://arxiv.org/abs/2411.14398v1)|null|
@@ -10,25 +32,3 @@
 |**2024-11-21 18:08:03**|**Convergence and Stability Analysis of the Extended Infinite Horizon   Model Predictive Control**|Luz A. Alvarez et.al.|[2411.14370v1](http://arxiv.org/abs/2411.14370v1)|null|
 |**2024-11-21 17:49:15**|**Enhancing Medical Image Segmentation with Deep Learning and Diffusion   Models**|Houze Liu et.al.|[2411.14353v1](http://arxiv.org/abs/2411.14353v1)|null|
 |**2024-11-21 17:41:27**|**Layer Pruning with Consensus: A Triple-Win Solution**|Leandro Giusti Mugnaini et.al.|[2411.14345v1](http://arxiv.org/abs/2411.14345v1)|[link](https://github.com/carolinatavaresduarte/consensus-layer-pruning)|
-|**2024-11-21 17:10:09**|**Iteration-Free Cooperative Distributed MPC through Multiparametric   Programming**|Radhe S. T. Saini et.al.|[2411.14319v1](http://arxiv.org/abs/2411.14319v1)|null|
-|**2024-11-21 17:10:02**|**Velocitune: A Velocity-based Dynamic Domain Reweighting Method for   Continual Pre-training**|Zheheng Luo et.al.|[2411.14318v1](http://arxiv.org/abs/2411.14318v1)|null|
-|**2024-11-21 17:06:53**|**Introducing a Harmonic Balance Navier-Stokes Finite Element Solver to   Accelerate Cardiovascular Simulations**|Dongjie Jia et.al.|[2411.14315v1](http://arxiv.org/abs/2411.14315v1)|null|
-|**2024-11-21 16:31:27**|**Neuro-Symbolic Query Optimization in Knowledge Graphs**|Maribel Acosta et.al.|[2411.14277v1](http://arxiv.org/abs/2411.14277v1)|null|
-|**2024-11-21 16:15:30**|**Accelerating Construction of Non-Intrusive Nonlinear Structural Dynamics   Reduced Order Models through Hyperreduction**|Alexander Saccani et.al.|[2411.14262v1](http://arxiv.org/abs/2411.14262v1)|null|
-|**2024-11-21 16:04:10**|**Generalizing End-To-End Autonomous Driving In Real-World Environments   Using Zero-Shot LLMs**|Zeyu Dong et.al.|[2411.14256v1](http://arxiv.org/abs/2411.14256v1)|null|
-|**2024-11-21 15:37:52**|**FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual   Token Compression**|Yuke Zhu et.al.|[2411.14228v1](http://arxiv.org/abs/2411.14228v1)|null|
-|**2024-11-21 12:51:56**|**Path Tracking Hybrid A* For Autonomous Agricultural Vehicles**|Mingke Lu et.al.|[2411.14086v1](http://arxiv.org/abs/2411.14086v1)|null|
-|**2024-11-21 12:38:23**|**Meaning at the Planck scale? Contextualized word embeddings for doing   history, philosophy, and sociology of science**|Arno Simons et.al.|[2411.14073v1](http://arxiv.org/abs/2411.14073v1)|null|
-|**2024-11-21 12:02:39**|**DRPruning: Efficient Large Language Model Pruning through   Distributionally Robust Optimization**|Hexuan Deng et.al.|[2411.14055v1](http://arxiv.org/abs/2411.14055v1)|[link](https://github.com/hexuandeng/drpruning)|
-|**2024-11-21 10:46:41**|**Spectral domain likelihoods for Bayesian inference in time-varying   parameter models**|Oskar Gustafsson et.al.|[2411.14010v1](http://arxiv.org/abs/2411.14010v1)|null|
-|**2024-11-21 10:40:11**|**The Double Emulator**|Conor Crilly et.al.|[2411.14005v1](http://arxiv.org/abs/2411.14005v1)|null|
-|**2024-11-21 09:47:15**|**Learning Two-agent Motion Planning Strategies from Generalized Nash   Equilibrium for Model Predictive Control**|Hansung Kim et.al.|[2411.13983v1](http://arxiv.org/abs/2411.13983v1)|null|
-|**2024-11-21 09:06:33**|**Material synthesis through simulations guided by machine learning: a   position paper**|Usman Syed et.al.|[2411.13953v1](http://arxiv.org/abs/2411.13953v1)|null|
-|**2024-11-21 08:36:29**|**Fast Stochastic MPC using Affine Disturbance Feedback Gains Learned   Offline**|Hotae Lee et.al.|[2411.13935v1](http://arxiv.org/abs/2411.13935v1)|null|
-|**2024-11-21 08:13:24**|**Quantization without Tears**|Minghao Fu et.al.|[2411.13918v1](http://arxiv.org/abs/2411.13918v1)|null|
-|**2024-11-21 07:47:27**|**Panther: Illuminate the Sight of Multimodal LLMs with Instruction-Guided   Visual Prompts**|Honglin Li et.al.|[2411.13909v1](http://arxiv.org/abs/2411.13909v1)|null|
-|**2024-11-21 07:37:07**|**Structure-preserving model reduction of Hamiltonian systems by learning   a symplectic autoencoder**|F. K. J. Niggl et.al.|[2411.13906v1](http://arxiv.org/abs/2411.13906v1)|null|
-|**2024-11-21 07:03:10**|**A Hierarchical Poisson Generator for Universal Graphs under Limited   Resources**|Xiaorui Qi et.al.|[2411.13888v1](http://arxiv.org/abs/2411.13888v1)|null|
-|**2024-11-21 06:07:36**|**Topology optimization of periodic lattice structures for specified   mechanical properties using machine learning considering member connectivity**|Tomoya Matsuoka et.al.|[2411.13869v1](http://arxiv.org/abs/2411.13869v1)|null|
-|**2024-11-21 05:35:27**|**Data-Driven Multi-step Nonlinear Model Predictive Control for Industrial   Heavy Load Hydraulic Robot**|Dexian Ma et.al.|[2411.13859v1](http://arxiv.org/abs/2411.13859v1)|null|
-|**2024-11-21 05:27:42**|**A Multimodal Approach to The Detection and Classification of Skin   Diseases**|Allen Yang et.al.|[2411.13855v1](http://arxiv.org/abs/2411.13855v1)|null|
