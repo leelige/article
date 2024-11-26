@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-22 18:51:51**|**Health AI Developer Foundations**|Atilla P. Kiraly et.al.|[2411.15128v1](http://arxiv.org/abs/2411.15128v1)|null|
-|**2024-11-22 18:30:46**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model   agents against human experts**|Hjalmar Wijk et.al.|[2411.15114v1](http://arxiv.org/abs/2411.15114v1)|null|
-|**2024-11-22 17:28:07**|**Quantum-enhanced unsupervised image segmentation for medical images   analysis**|Laia Domingo et.al.|[2411.15086v1](http://arxiv.org/abs/2411.15086v1)|null|
-|**2024-11-22 16:46:00**|**Detecting Hallucinations in Virtual Histology with Neural Precursors**|Ji-Hun Oh et.al.|[2411.15060v1](http://arxiv.org/abs/2411.15060v1)|null|
-|**2024-11-22 16:43:26**|**Financial Risk Assessment via Long-term Payment Behavior Sequence   Folding**|Yiran Qiao et.al.|[2411.15056v1](http://arxiv.org/abs/2411.15056v1)|null|
-|**2024-11-22 15:55:19**|**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language   Models**|Keda Tao et.al.|[2411.15024v1](http://arxiv.org/abs/2411.15024v1)|null|
-|**2024-11-22 15:19:40**|**A New Way: Kronecker-Factored Approximate Curvature Deep Hedging and its   Benefits**|Tsogt-Ochir Enkhbayar et.al.|[2411.15002v1](http://arxiv.org/abs/2411.15002v1)|null|
-|**2024-11-22 14:43:28**|**Large sample scaling analysis of the Zig-Zag algorithm for Bayesian   inference**|Sanket Agrawal et.al.|[2411.14983v1](http://arxiv.org/abs/2411.14983v1)|null|
-|**2024-11-22 14:19:01**|**LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and   Initialization Refinement**|Jieming Bian et.al.|[2411.14961v1](http://arxiv.org/abs/2411.14961v1)|null|
-|**2024-11-22 14:12:35**|**Evaluating Vision Transformer Models for Visual Quality Control in   Industrial Manufacturing**|Miriam Alber et.al.|[2411.14953v1](http://arxiv.org/abs/2411.14953v1)|null|
-|**2024-11-22 12:10:03**|**CardioLab: Laboratory Values Estimation and Monitoring from   Electrocardiogram Signals -- A Multimodal Deep Learning Approach**|Juan Miguel Lopez Alcaraz et.al.|[2411.14886v1](http://arxiv.org/abs/2411.14886v1)|null|
-|**2024-11-22 11:59:15**|**Astro-HEP-BERT: A bidirectional language model for studying the meanings   of concepts in astrophysics and high energy physics**|Arno Simons et.al.|[2411.14877v1](http://arxiv.org/abs/2411.14877v1)|null|
-|**2024-11-22 11:24:14**|**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired   Image-to-Image Translation**|Jeongsol Kim et.al.|[2411.14863v1](http://arxiv.org/abs/2411.14863v1)|null|
-|**2024-11-22 09:44:13**|**Omni-IML: Towards Unified Image Manipulation Localization**|Chenfan Qu et.al.|[2411.14823v1](http://arxiv.org/abs/2411.14823v1)|null|
-|**2024-11-22 09:22:39**|**Unsupervised Multi-view UAV Image Geo-localization via Iterative   Rendering**|Haoyuan Li et.al.|[2411.14816v1](http://arxiv.org/abs/2411.14816v1)|null|
-|**2024-11-22 08:21:03**|**KBAda: Efficient Self Adaptation on Specific Knowledge Bases**|Zheni Zeng et.al.|[2411.14790v1](http://arxiv.org/abs/2411.14790v1)|[link](https://github.com/thunlp/KBAda))|
-|**2024-11-22 07:32:11**|**Resolution-Agnostic Transformer-based Climate Downscaling**|Declan Curran et.al.|[2411.14774v1](http://arxiv.org/abs/2411.14774v1)|null|
-|**2024-11-22 06:50:44**|**Efficient Long Video Tokenization via Coordinated-based Patch   Reconstruction**|Huiwon Jang et.al.|[2411.14762v1](http://arxiv.org/abs/2411.14762v1)|null|
-|**2024-11-22 06:13:42**|**TopoSD: Topology-Enhanced Lane Segment Perception with SDMap Prior**|Sen Yang et.al.|[2411.14751v1](http://arxiv.org/abs/2411.14751v1)|null|
-|**2024-11-22 04:36:12**|**Effective SAM Combination for Open-Vocabulary Semantic Segmentation**|Minhyeok Lee et.al.|[2411.14723v1](http://arxiv.org/abs/2411.14723v1)|null|
-|**2024-11-21 20:46:23**|**Functional Array Programming in an Extended Pi-Calculus**|Hans Hüttel et.al.|[2411.14579v1](http://arxiv.org/abs/2411.14579v1)|null|
-|**2024-11-21 20:41:55**|**SRSA: A Cost-Efficient Strategy-Router Search Agent for Real-world   Human-Machine Interactions**|Yaqi Wang et.al.|[2411.14574v1](http://arxiv.org/abs/2411.14574v1)|null|
-|**2024-11-21 18:54:43**|**From RNNs to Foundation Models: An Empirical Study on Commercial   Building Energy Consumption**|Shourya Bose et.al.|[2411.14421v1](http://arxiv.org/abs/2411.14421v1)|null|
-|**2024-11-21 18:30:11**|**Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding**|Yiming Zhang et.al.|[2411.14401v1](http://arxiv.org/abs/2411.14401v1)|null|
-|**2024-11-21 18:27:25**|**Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings**|Aaron Zheng et.al.|[2411.14398v1](http://arxiv.org/abs/2411.14398v1)|null|
-|**2024-11-21 18:23:28**|**Hardness Amplification for Dynamic Binary Search Trees**|Shunhua Jiang et.al.|[2411.14387v1](http://arxiv.org/abs/2411.14387v1)|null|
-|**2024-11-21 18:21:59**|**Learning Humanoid Locomotion with Perceptive Internal Model**|Junfeng Long et.al.|[2411.14386v1](http://arxiv.org/abs/2411.14386v1)|null|
-|**2024-11-21 18:08:03**|**Convergence and Stability Analysis of the Extended Infinite Horizon   Model Predictive Control**|Luz A. Alvarez et.al.|[2411.14370v1](http://arxiv.org/abs/2411.14370v1)|null|
-|**2024-11-21 17:49:15**|**Enhancing Medical Image Segmentation with Deep Learning and Diffusion   Models**|Houze Liu et.al.|[2411.14353v1](http://arxiv.org/abs/2411.14353v1)|null|
-|**2024-11-21 17:41:27**|**Layer Pruning with Consensus: A Triple-Win Solution**|Leandro Giusti Mugnaini et.al.|[2411.14345v1](http://arxiv.org/abs/2411.14345v1)|[link](https://github.com/carolinatavaresduarte/consensus-layer-pruning)|
+|**2024-11-25 17:12:55**|**An FFT based chemo-mechanical framework with fracture: application to   mesoscopic electrode degradation**|Gabriel Zarzoso et.al.|[2411.16583v1](http://arxiv.org/abs/2411.16583v1)|null|
+|**2024-11-25 16:02:26**|**Reinforcement Learning for Bidding Strategy Optimization in Day-Ahead   Energy Market**|Luca Di Persio et.al.|[2411.16519v1](http://arxiv.org/abs/2411.16519v1)|null|
+|**2024-11-25 15:46:54**|**Jaya R Package -- A Parameter-Free Solution for Advanced Single and   Multi-Objective Optimization**|Neeraj Dhanraj Bokde et.al.|[2411.16509v1](http://arxiv.org/abs/2411.16509v1)|null|
+|**2024-11-25 15:34:47**|**Non-Linear Super-Stencils for Turbulence Model Corrections**|Jonas Luther et.al.|[2411.16493v1](http://arxiv.org/abs/2411.16493v1)|null|
+|**2024-11-25 15:20:40**|**Distributed, communication-efficient, and differentially private   estimation of KL divergence**|Mary Scott et.al.|[2411.16478v1](http://arxiv.org/abs/2411.16478v1)|null|
+|**2024-11-25 15:14:36**|**Efficient Video Face Enhancement with Enhanced Spatial-Temporal   Consistency**|Yutong Wang et.al.|[2411.16468v1](http://arxiv.org/abs/2411.16468v1)|[link](https://github.com/Dixin-Lab/BFVR-STC})|
+|**2024-11-25 15:11:07**|**Generating social networks with static and dynamic utility-maximization   approaches**|Aldric Labarthe et.al.|[2411.16464v1](http://arxiv.org/abs/2411.16464v1)|null|
+|**2024-11-25 14:59:21**|**Truffle: Efficient Data Passing for Data-Intensive Serverless Workflows   in the Edge-Cloud Continuum**|Cynthia Marcelino et.al.|[2411.16451v1](http://arxiv.org/abs/2411.16451v1)|null|
+|**2024-11-25 14:51:13**|**Plastic Arbor: a modern simulation framework for synaptic plasticity   $\unicode{x2013}$ from single synapses to networks of morphological neurons**|Jannik Luboeinski et.al.|[2411.16445v1](http://arxiv.org/abs/2411.16445v1)|null|
+|**2024-11-25 14:27:07**|**Turbofan Engine Remaining Useful Life (RUL) Prediction Based on   Bi-Directional Long Short-Term Memory (BLSTM)**|Abedin Sherifi et.al.|[2411.16422v1](http://arxiv.org/abs/2411.16422v1)|null|
+|**2024-11-25 14:20:53**|**Comparison of Generative Learning Methods for Turbulence Modeling**|Claudia Drygala et.al.|[2411.16417v1](http://arxiv.org/abs/2411.16417v1)|null|
+|**2024-11-25 13:33:41**|**Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal   Generation and Cache Sharing**|Kaifeng Gao et.al.|[2411.16375v1](http://arxiv.org/abs/2411.16375v1)|[link](https://github.com/dawn-lx/causalcache-vdm)|
+|**2024-11-25 13:15:31**|**Optimal switching strategies in multi-drug therapies for chronic   diseases**|Juan Magalang et.al.|[2411.16362v1](http://arxiv.org/abs/2411.16362v1)|null|
+|**2024-11-25 12:05:49**|**CATP-LLM: Empowering Large Language Models for Cost-Aware Tool Planning**|Duo Wu et.al.|[2411.16313v1](http://arxiv.org/abs/2411.16313v1)|null|
+|**2024-11-25 12:01:57**|**EPS: Efficient Patch Sampling for Video Overfitting in Deep   Super-Resolution Model Training**|Yiying Wei et.al.|[2411.16312v1](http://arxiv.org/abs/2411.16312v1)|null|
+|**2024-11-25 10:12:27**|**NormXLogit: The Head-on-Top Never Lies**|Sina Abbasi et.al.|[2411.16252v1](http://arxiv.org/abs/2411.16252v1)|null|
+|**2024-11-25 09:47:24**|**Divergence-free algorithms for solving nonlinear differential equations   on quantum computers**|Katsuhiro Endo et.al.|[2411.16233v1](http://arxiv.org/abs/2411.16233v1)|null|
+|**2024-11-25 09:43:47**|**Interplay-robust optimization for treating irregularly breathing lung   patients with pencil beam scanning**|Ivar Bengtsson et.al.|[2411.16230v1](http://arxiv.org/abs/2411.16230v1)|null|
+|**2024-11-25 07:56:13**|**CARE Transformer: Mobile-Friendly Linear Visual Transformer via   Decoupled Dual Interaction**|Yuan Zhou et.al.|[2411.16170v1](http://arxiv.org/abs/2411.16170v1)|null|
+|**2024-11-25 07:32:02**|**VideoOrion: Tokenizing Object Dynamics in Videos**|Yicheng Feng et.al.|[2411.16156v1](http://arxiv.org/abs/2411.16156v1)|null|
+|**2024-11-25 07:30:52**|**Graph Adapter of EEG Foundation Models for Parameter Efficient Fine   Tuning**|Toyotaro Suzumura et.al.|[2411.16155v1](http://arxiv.org/abs/2411.16155v1)|null|
+|**2024-11-25 06:59:16**|**Beyond Task Vectors: Selective Task Arithmetic Based on Importance   Metrics**|Tian Bowen et.al.|[2411.16139v1](http://arxiv.org/abs/2411.16139v1)|null|
+|**2024-11-25 05:24:53**|**BlendServe: Optimizing Offline Inference for Auto-regressive Large   Models with Resource-aware Batching**|Yilong Zhao et.al.|[2411.16102v1](http://arxiv.org/abs/2411.16102v1)|null|
+|**2024-11-25 05:07:00**|**LDACP: Long-Delayed Ad Conversions Prediction Model for Bidding Strategy**|Peng Cui et.al.|[2411.16095v1](http://arxiv.org/abs/2411.16095v1)|null|
+|**2024-11-25 04:48:32**|**Mismatch cost of computing: from circuits to algorithms**|Abhishek Yadav et.al.|[2411.16088v1](http://arxiv.org/abs/2411.16088v1)|null|
+|**2024-11-25 03:05:41**|**Scaling Spike-driven Transformer with Efficient Spike Firing   Approximation Training**|Man Yao et.al.|[2411.16061v1](http://arxiv.org/abs/2411.16061v1)|[link](https://github.com/biclab/spike-driven-transformer-v3)|
+|**2024-11-25 00:52:18**|**SuperGCN: General and Scalable Framework for GCN Training on CPU-powered   Supercomputers**|Chen Zhuang et.al.|[2411.16025v1](http://arxiv.org/abs/2411.16025v1)|null|
+|**2024-11-24 22:59:11**|**Performance Implications of Multi-Chiplet Neural Processing Units on   Autonomous Driving Perception**|Mohanad Odema et.al.|[2411.16007v1](http://arxiv.org/abs/2411.16007v1)|null|
+|**2024-11-24 17:35:04**|**Nonlinear Model Predictive Control of a Hybrid Thermal Management System**|Demetrius Gulewicz et.al.|[2411.15929v1](http://arxiv.org/abs/2411.15929v1)|null|
+|**2024-11-24 17:07:39**|**Enhancing Symbolic Regression and Universal Physics-Informed Neural   Networks with Dimensional Analysis**|Lena Podina et.al.|[2411.15919v1](http://arxiv.org/abs/2411.15919v1)|null|
