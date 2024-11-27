@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-26 00:18:18**|**Can a Single Tree Outperform an Entire Forest?**|Qiangqiang Mao et.al.|[2411.17003v1](http://arxiv.org/abs/2411.17003v1)|null|
 |**2024-11-23 20:31:58**|**MC-NEST -- Enhancing Mathematical Reasoning in Large Language Models   with a Monte Carlo Nash Equilibrium Self-Refine Tree**|Gollam Rabby et.al.|[2411.15645v1](http://arxiv.org/abs/2411.15645v1)|null|
 |**2024-11-23 08:27:08**|**SilentWood: Private Inference Over Gradient-Boosting Decision Forests**|Ronny Ko et.al.|[2411.15494v1](http://arxiv.org/abs/2411.15494v1)|null|
 |**2024-11-22 18:19:33**|**Imperfect-Information Games on Quantum Computers: A Case Study in Skat**|Erik Schulze et.al.|[2411.15294v1](http://arxiv.org/abs/2411.15294v1)|null|
@@ -31,4 +32,3 @@
 |**2024-10-21 13:58:38**|**A New Approach to Solving SMAC Task: Generating Decision Tree Code from   Large Language Models**|Yue Deng et.al.|[2410.16024v1](http://arxiv.org/abs/2410.16024v1)|[link](https://github.com/devindeng94/llm-smac)|
 |**2024-10-18 14:00:44**|**Enhancing Cryptocurrency Market Forecasting: Advanced Machine Learning   Techniques and Industrial Engineering Contributions**|Jannatun Nayeem Pinky et.al.|[2410.14475v1](http://arxiv.org/abs/2410.14475v1)|null|
 |**2024-10-18 12:29:10**|**An explainable machine learning approach for energy forecasting at the   household level**|Pauline Béraud et.al.|[2410.14416v1](http://arxiv.org/abs/2410.14416v1)|null|
-|**2024-10-18 11:05:52**|**Advancing Physics Data Analysis through Machine Learning and   Physics-Informed Neural Networks**|Vasileios Vatellis et.al.|[2410.14760v1](http://arxiv.org/abs/2410.14760v1)|null|
