@@ -2,16 +2,23 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-27 13:07:04**|**Undirected 3-Fault Replacement Path in Nearly Cubic Time**|Shucheng Chi et.al.|[2411.18312v1](http://arxiv.org/abs/2411.18312v1)|null|
+|**2024-11-27 10:14:38**|**InputSnatch: Stealing Input in LLM Services via Timing Side-Channel   Attacks**|Xinyao Zheng et.al.|[2411.18191v1](http://arxiv.org/abs/2411.18191v1)|null|
+|**2024-11-27 07:53:39**|**Spectral-Spatial Transformer with Active Transfer Learning for   Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2411.18115v1](http://arxiv.org/abs/2411.18115v1)|[link](https://github.com/mahmad000/atl-sst)|
+|**2024-11-26 22:12:39**|**Stochastic SketchRefine: Scaling In-Database Decision-Making under   Uncertainty to Millions of Tuples**|Riddho R. Haque et.al.|[2411.17915v1](http://arxiv.org/abs/2411.17915v1)|null|
+|**2024-11-26 22:09:05**|**CrypQ: A Database Benchmark Based on Dynamic, Ever-Evolving Ethereum   Data**|Vincent Capol et.al.|[2411.17913v1](http://arxiv.org/abs/2411.17913v1)|null|
+|**2024-11-26 21:35:55**|**Nearest-Neighbourless Asymptotically Optimal Motion Planning with Fully   Connected Informed Trees (FCIT*)**|Tyler S. Wilson et.al.|[2411.17902v1](http://arxiv.org/abs/2411.17902v1)|null|
 |**2024-11-26 17:11:10**|**A Unified and Practical Approach for Generalized Deletion Propagation**|Neha Makhija et.al.|[2411.17603v1](http://arxiv.org/abs/2411.17603v1)|null|
-|**2024-11-26 12:45:54**|**Robust Bayesian Optimization via Localized Online Conformal Prediction**|Dongwon Kim et.al.|[2411.17387v1](http://arxiv.org/abs/2411.17387v1)|null|
+|**2024-11-26 12:45:54**|**Robust Bayesian Optimization via Localized Online Conformal Prediction**|Dongwon Kim et.al.|[2411.17387v1](http://arxiv.org/abs/2411.17387v1)|[link](https://github.com/davinci003/LOCBO)|
 |**2024-11-26 09:29:33**|**Adaptive Model Hierarchies for Multi-Query Scenarios**|Hendrik Kleikamp et.al.|[2411.17252v1](http://arxiv.org/abs/2411.17252v1)|null|
 |**2024-11-26 04:39:46**|**Scholar Name Disambiguation with Search-enhanced LLM Across Language**|Renyu Zhao et.al.|[2411.17102v1](http://arxiv.org/abs/2411.17102v1)|null|
 |**2024-11-26 03:00:09**|**SCASeg: Strip Cross-Attention for Efficient Semantic Segmentation**|Guoan Xu et.al.|[2411.17061v1](http://arxiv.org/abs/2411.17061v1)|null|
 |**2024-11-25 23:36:24**|**Enabling Skip Graphs to Process K-Dimensional Range Queries in a Mobile   Sensor Network**|Gregory J. Brault et.al.|[2411.16990v1](http://arxiv.org/abs/2411.16990v1)|null|
 |**2024-11-25 09:14:09**|**Batch Bayesian Optimization via Expected Subspace Improvement**|Dawei Zhan et.al.|[2411.16206v1](http://arxiv.org/abs/2411.16206v1)|[link](https://github.com/zhandawei/Expected_Subspace_Improvement_Batch_Bayesian_Optimization)|
 |**2024-11-25 06:57:28**|**MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud   Processing**|Feifei Shao et.al.|[2411.16773v1](http://arxiv.org/abs/2411.16773v1)|null|
-|**2024-11-25 01:15:31**|**Binary Search with Distributional Predictions**|Michael Dinitz et.al.|[2411.16030v1](http://arxiv.org/abs/2411.16030v1)|null|
+|**2024-11-25 01:15:31**|**Binary Search with Distributional Predictions**|Michael Dinitz et.al.|[2411.16030v1](http://arxiv.org/abs/2411.16030v1)|[link](https://github.com/AidinNiaparast/Learned-BST)|
 |**2024-11-24 16:23:38**|**Finding Thermodynamically Favorable Pathways in Reaction Networks using   Flows in Hypergraphs and Mixed Integer Linear Programming**|Adittya Pal et.al.|[2411.15900v1](http://arxiv.org/abs/2411.15900v1)|null|
+|**2024-11-24 16:20:57**|**Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM   Inference Environments**|Nikoleta Iliakopoulou et.al.|[2411.17741v1](http://arxiv.org/abs/2411.17741v1)|null|
 |**2024-11-23 20:24:56**|**On quasi-convex smooth optimization problems by a comparison oracle**|A. V. Gasnikov et.al.|[2411.16745v1](http://arxiv.org/abs/2411.16745v1)|null|
 |**2024-11-23 09:56:21**|**Multi-Reranker: Maximizing performance of retrieval-augmented generation   in the FinanceRAG challenge**|Joohyun Lee et.al.|[2411.16732v1](http://arxiv.org/abs/2411.16732v1)|[link](https://github.com/cv-lee/financerag)|
 |**2024-11-22 23:03:35**|**Transforming NLU with Babylon: A Case Study in Development of Real-time,   Edge-Efficient, Multi-Intent Translation System for Automated Drive-Thru   Ordering**|Mostafa Varzaneh et.al.|[2411.15372v1](http://arxiv.org/abs/2411.15372v1)|null|
@@ -25,10 +32,3 @@
 |**2024-11-21 16:42:41**|**Improving Routability Prediction via NAS Using a Smooth One-shot   Augmented Predictor**|Arjun Sridhar et.al.|[2411.14296v1](http://arxiv.org/abs/2411.14296v1)|null|
 |**2024-11-21 16:39:35**|**Hypothesis testing of symmetry in quantum dynamics**|Yu-Ao Chen et.al.|[2411.14292v1](http://arxiv.org/abs/2411.14292v1)|null|
 |**2024-11-21 16:34:52**|**CAIP: Detecting Router Misconfigurations with Context-Aware Iterative   Prompting of LLMs**|Xi Jiang et.al.|[2411.14283v1](http://arxiv.org/abs/2411.14283v1)|null|
-|**2024-11-21 16:31:27**|**Neuro-Symbolic Query Optimization in Knowledge Graphs**|Maribel Acosta et.al.|[2411.14277v1](http://arxiv.org/abs/2411.14277v1)|null|
-|**2024-11-21 16:31:26**|**A $k^{\frac{q}{q-2}}$ Lower Bound for Odd Query Locally Decodable Codes   from Bipartite Kikuchi Graphs**|Oliver Janzer et.al.|[2411.14276v1](http://arxiv.org/abs/2411.14276v1)|null|
-|**2024-11-21 14:40:49**|**CompetitorFormer: Competitor Transformer for 3D Instance Segmentation**|Duanchu Wang et.al.|[2411.14179v1](http://arxiv.org/abs/2411.14179v1)|null|
-|**2024-11-20 22:05:54**|**Distributed Distance Sensitivity Oracles**|Vignesh Manoharan et.al.|[2411.13728v1](http://arxiv.org/abs/2411.13728v1)|null|
-|**2024-11-20 20:47:03**|**Towards Query Optimizer as a Service (QOaaS) in a Unified LakeHouse   Ecosystem: Can One QO Rule Them All?**|Rana Alotaibi et.al.|[2411.13704v1](http://arxiv.org/abs/2411.13704v1)|null|
-|**2024-11-20 20:10:43**|**Retrieval-Augmented Generation for Domain-Specific Question Answering: A   Case Study on Pittsburgh and CMU**|Haojia Sun et.al.|[2411.13691v1](http://arxiv.org/abs/2411.13691v1)|null|
-|**2024-11-20 18:12:59**|**LPLgrad: Optimizing Active Learning Through Gradient Norm Sample   Selection and Auxiliary Model Training**|Shreen Gul et.al.|[2411.15217v1](http://arxiv.org/abs/2411.15217v1)|null|

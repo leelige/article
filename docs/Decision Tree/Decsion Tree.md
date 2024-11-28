@@ -2,6 +2,8 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-27 11:10:28**|**Randomized-Grid Search for Hyperparameter Tuning in Decision Tree Model   to Improve Performance of Cardiovascular Disease Classification**|Abhay Kumar Pathak et.al.|[2411.18234v1](http://arxiv.org/abs/2411.18234v1)|null|
+|**2024-11-27 09:30:20**|**Machine Learning Estimation on the Trace of Inverse Dirac Operator using   the Gradient Boosting Decision Tree Regression**|Benjamin J. Choi et.al.|[2411.18170v1](http://arxiv.org/abs/2411.18170v1)|null|
 |**2024-11-26 00:18:18**|**Can a Single Tree Outperform an Entire Forest?**|Qiangqiang Mao et.al.|[2411.17003v1](http://arxiv.org/abs/2411.17003v1)|null|
 |**2024-11-23 20:31:58**|**MC-NEST -- Enhancing Mathematical Reasoning in Large Language Models   with a Monte Carlo Nash Equilibrium Self-Refine Tree**|Gollam Rabby et.al.|[2411.15645v1](http://arxiv.org/abs/2411.15645v1)|null|
 |**2024-11-23 08:27:08**|**SilentWood: Private Inference Over Gradient-Boosting Decision Forests**|Ronny Ko et.al.|[2411.15494v1](http://arxiv.org/abs/2411.15494v1)|null|
@@ -30,5 +32,3 @@
 |**2024-10-24 14:51:00**|**Arbitrary-arity Tree Automata and QCTL**|François Laroussinie et.al.|[2410.18799v2](http://arxiv.org/abs/2410.18799v2)|null|
 |**2024-10-21 21:19:49**|**RGMDT: Return-Gap-Minimizing Decision Tree Extraction in Non-Euclidean   Metric Space**|Jingdi Chen et.al.|[2410.16517v1](http://arxiv.org/abs/2410.16517v1)|null|
 |**2024-10-21 13:58:38**|**A New Approach to Solving SMAC Task: Generating Decision Tree Code from   Large Language Models**|Yue Deng et.al.|[2410.16024v1](http://arxiv.org/abs/2410.16024v1)|[link](https://github.com/devindeng94/llm-smac)|
-|**2024-10-18 14:00:44**|**Enhancing Cryptocurrency Market Forecasting: Advanced Machine Learning   Techniques and Industrial Engineering Contributions**|Jannatun Nayeem Pinky et.al.|[2410.14475v1](http://arxiv.org/abs/2410.14475v1)|null|
-|**2024-10-18 12:29:10**|**An explainable machine learning approach for energy forecasting at the   household level**|Pauline Béraud et.al.|[2410.14416v1](http://arxiv.org/abs/2410.14416v1)|null|
