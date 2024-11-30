@@ -27,7 +27,7 @@
 |**2024-11-27 02:46:46**|**An End-to-End Two-Stream Network Based on RGB Flow and Representation   Flow for Human Action Recognition**|Song-Jiang Lai et.al.|[2411.18002v1](http://arxiv.org/abs/2411.18002v1)|null|
 |**2024-11-27 02:31:52**|**Speech Separation using Neural Audio Codecs with Embedding Loss**|Jia Qi Yip et.al.|[2411.17998v1](http://arxiv.org/abs/2411.17998v1)|null|
 |**2024-11-27 01:01:37**|**Graph Neural Network for Cerebral Blood Flow Prediction With Clinical   Datasets**|Seungyeon Kim et.al.|[2411.17971v1](http://arxiv.org/abs/2411.17971v1)|null|
-|**2024-11-27 00:52:21**|**QuaLLM-Health: An Adaptation of an LLM-Based Framework for Quantitative   Data Extraction from Online Health Discussions**|Ramez Kouzy et.al.|[2411.17967v1](http://arxiv.org/abs/2411.17967v1)|null|
+|**2024-11-27 00:52:21**|**QuaLLM-Health: An Adaptation of an LLM-Based Framework for Quantitative   Data Extraction from Online Health Discussions**|Ramez Kouzy et.al.|[2411.17967v1](http://arxiv.org/abs/2411.17967v1)|[link](https://github.com/ramezkouzy/GLP1-LLM)|
 |**2024-11-27 00:49:08**|**Addressing Architectural Obstacles for Overlay with Stream Network   Abstraction**|Chengyue Wang et.al.|[2411.17966v1](http://arxiv.org/abs/2411.17966v1)|null|
 |**2024-11-27 00:30:26**|**Optimization-Free Image Immunization Against Diffusion-Based Editing**|Tarik Can Ozden et.al.|[2411.17957v1](http://arxiv.org/abs/2411.17957v1)|null|
 |**2024-11-27 00:10:27**|**ROICtrl: Boosting Instance Control for Visual Generation**|Yuchao Gu et.al.|[2411.17949v1](http://arxiv.org/abs/2411.17949v1)|null|
