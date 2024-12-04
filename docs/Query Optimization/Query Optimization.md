@@ -2,6 +2,19 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-03 18:56:07**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685v1](http://arxiv.org/abs/2412.02685v1)|[link](https://github.com/wzhouad/T-REG)|
+|**2024-12-03 10:58:34**|**HERO: Hint-Based Efficient and Reliable Query Optimizer**|Sergey Zinchenko et.al.|[2412.02372v1](http://arxiv.org/abs/2412.02372v1)|[link](https://github.com/zinchse/hero)|
+|**2024-12-03 10:03:12**|**Federated Analytics in Practice: Engineering for Privacy, Scalability   and Practicality**|Harish Srinivas et.al.|[2412.02340v1](http://arxiv.org/abs/2412.02340v1)|null|
+|**2024-12-03 09:13:52**|**Large Multimodal Agents for Accurate Phishing Detection with Enhanced   Token Optimization and Cost Reduction**|Fouad Trad et.al.|[2412.02301v1](http://arxiv.org/abs/2412.02301v1)|null|
+|**2024-12-03 05:20:05**|**Improved Complexity for Smooth Nonconvex Optimization: A Two-Level   Online Learning Approach with Quasi-Newton Methods**|Ruichen Jiang et.al.|[2412.02175v1](http://arxiv.org/abs/2412.02175v1)|null|
+|**2024-12-03 02:20:30**|**Offline Stochastic Optimization of Black-Box Objective Functions**|Juncheng Dong et.al.|[2412.02089v1](http://arxiv.org/abs/2412.02089v1)|null|
+|**2024-12-02 17:42:59**|**Continuous-Time Human Motion Field from Events**|Ziyun Wang et.al.|[2412.01747v1](http://arxiv.org/abs/2412.01747v1)|null|
+|**2024-12-02 16:55:07**|**Query Performance Explanation through Large Language Model for HTAP   Systems**|Haibo Xiu et.al.|[2412.01709v1](http://arxiv.org/abs/2412.01709v1)|null|
+|**2024-12-02 16:13:04**|**R-Bot: An LLM-based Query Rewrite System**|Zhaoyan Sun et.al.|[2412.01661v1](http://arxiv.org/abs/2412.01661v1)|[link](https://github.com/curtis-sun/LLM4Rewrite)|
+|**2024-12-02 14:43:06**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and   Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555v1](http://arxiv.org/abs/2412.01555v1)|null|
+|**2024-12-02 05:38:43**|**Space Complexity of Minimum Cut Problems in Single-Pass Streams**|Matthew Ding et.al.|[2412.01143v1](http://arxiv.org/abs/2412.01143v1)|null|
+|**2024-12-01 16:43:20**|**SyncVIS: Synchronized Video Instance Segmentation**|Rongkun Zheng et.al.|[2412.00882v1](http://arxiv.org/abs/2412.00882v1)|[link](https://github.com/rkzheng99/syncvis)|
+|**2024-11-30 17:39:59**|**Rank It, Then Ask It: Input Reranking for Maximizing the Performance of   LLMs on Symmetric Tasks**|Mohsen Dehghankar et.al.|[2412.00546v1](http://arxiv.org/abs/2412.00546v1)|null|
 |**2024-11-29 08:34:07**|**Knowledge Management for Automobile Failure Analysis Using Graph RAG**|Yuta Ojima et.al.|[2411.19539v1](http://arxiv.org/abs/2411.19539v1)|null|
 |**2024-11-28 13:55:06**|**LoRA of Change: Learning to Generate LoRA for the Editing Instruction   from A Single Before-After Image Pair**|Xue Song et.al.|[2411.19156v1](http://arxiv.org/abs/2411.19156v1)|null|
 |**2024-11-28 05:35:36**|**VIPaint: Image Inpainting with Pre-Trained Diffusion Models via   Variational Inference**|Sakshi Agarwal et.al.|[2411.18929v1](http://arxiv.org/abs/2411.18929v1)|null|
@@ -19,16 +32,3 @@
 |**2024-11-26 09:29:33**|**Adaptive Model Hierarchies for Multi-Query Scenarios**|Hendrik Kleikamp et.al.|[2411.17252v1](http://arxiv.org/abs/2411.17252v1)|null|
 |**2024-11-26 04:39:46**|**Scholar Name Disambiguation with Search-enhanced LLM Across Language**|Renyu Zhao et.al.|[2411.17102v1](http://arxiv.org/abs/2411.17102v1)|null|
 |**2024-11-26 03:00:09**|**SCASeg: Strip Cross-Attention for Efficient Semantic Segmentation**|Guoan Xu et.al.|[2411.17061v1](http://arxiv.org/abs/2411.17061v1)|null|
-|**2024-11-25 23:36:24**|**Enabling Skip Graphs to Process K-Dimensional Range Queries in a Mobile   Sensor Network**|Gregory J. Brault et.al.|[2411.16990v1](http://arxiv.org/abs/2411.16990v1)|null|
-|**2024-11-25 09:14:09**|**Batch Bayesian Optimization via Expected Subspace Improvement**|Dawei Zhan et.al.|[2411.16206v1](http://arxiv.org/abs/2411.16206v1)|[link](https://github.com/zhandawei/Expected_Subspace_Improvement_Batch_Bayesian_Optimization)|
-|**2024-11-25 06:57:28**|**MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud   Processing**|Feifei Shao et.al.|[2411.16773v2](http://arxiv.org/abs/2411.16773v2)|null|
-|**2024-11-25 01:15:31**|**Binary Search with Distributional Predictions**|Michael Dinitz et.al.|[2411.16030v1](http://arxiv.org/abs/2411.16030v1)|[link](https://github.com/AidinNiaparast/Learned-BST)|
-|**2024-11-24 16:23:38**|**Finding Thermodynamically Favorable Pathways in Reaction Networks using   Flows in Hypergraphs and Mixed Integer Linear Programming**|Adittya Pal et.al.|[2411.15900v1](http://arxiv.org/abs/2411.15900v1)|null|
-|**2024-11-24 16:20:57**|**Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM   Inference Environments**|Nikoleta Iliakopoulou et.al.|[2411.17741v1](http://arxiv.org/abs/2411.17741v1)|null|
-|**2024-11-23 20:24:56**|**On quasi-convex smooth optimization problems by a comparison oracle**|A. V. Gasnikov et.al.|[2411.16745v1](http://arxiv.org/abs/2411.16745v1)|null|
-|**2024-11-23 09:56:21**|**Multi-Reranker: Maximizing performance of retrieval-augmented generation   in the FinanceRAG challenge**|Joohyun Lee et.al.|[2411.16732v1](http://arxiv.org/abs/2411.16732v1)|[link](https://github.com/cv-lee/financerag)|
-|**2024-11-22 23:03:35**|**Transforming NLU with Babylon: A Case Study in Development of Real-time,   Edge-Efficient, Multi-Intent Translation System for Automated Drive-Thru   Ordering**|Mostafa Varzaneh et.al.|[2411.15372v1](http://arxiv.org/abs/2411.15372v1)|null|
-|**2024-11-22 21:40:19**|**Unified Semantic Log Parsing and Causal Graph Construction for Attack   Attribution**|Zhuoran Tan et.al.|[2411.15354v1](http://arxiv.org/abs/2411.15354v1)|[link](https://github.com/Wapiti08/UTLParser)|
-|**2024-11-22 14:24:51**|**Optimization Strategies for Parallel Computation of Skylines**|Paolo Ciaccia et.al.|[2411.14968v1](http://arxiv.org/abs/2411.14968v1)|null|
-|**2024-11-22 13:49:56**|**Geminio: Language-Guided Gradient Inversion Attacks in Federated   Learning**|Junjie Shan et.al.|[2411.14937v1](http://arxiv.org/abs/2411.14937v1)|[link](https://github.com/HKU-TASR/Geminio)|
-|**2024-11-22 08:16:22**|**Jovis: A Visualization Tool for PostgreSQL Query Optimizer**|Yoojin Choi et.al.|[2411.14788v1](http://arxiv.org/abs/2411.14788v1)|[link](https://github.com/snu-jovis)|
