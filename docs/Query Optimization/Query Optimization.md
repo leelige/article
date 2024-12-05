@@ -2,6 +2,10 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-04 09:02:46**|**Optimal bounds on a tree inference algorithm**|Jack Gardiner et.al.|[2412.03138v1](http://arxiv.org/abs/2412.03138v1)|null|
+|**2024-12-04 01:33:01**|**Extracting Dual Solutions via Primal Optimizers**|Yair Carmon et.al.|[2412.02949v1](http://arxiv.org/abs/2412.02949v1)|null|
+|**2024-12-03 19:22:55**|**FathomGPT: A Natural Language Interface for Interactively Exploring   Ocean Science Data**|Nabin Khanal et.al.|[2412.02784v1](http://arxiv.org/abs/2412.02784v1)|null|
+|**2024-12-03 19:17:18**|**Optimizing Large Language Models for Turkish: New Methodologies in   Corpus Selection and Training**|H. Toprak Kesgin et.al.|[2412.02775v1](http://arxiv.org/abs/2412.02775v1)|null|
 |**2024-12-03 18:56:07**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685v1](http://arxiv.org/abs/2412.02685v1)|[link](https://github.com/wzhouad/T-REG)|
 |**2024-12-03 10:58:34**|**HERO: Hint-Based Efficient and Reliable Query Optimizer**|Sergey Zinchenko et.al.|[2412.02372v1](http://arxiv.org/abs/2412.02372v1)|[link](https://github.com/zinchse/hero)|
 |**2024-12-03 10:03:12**|**Federated Analytics in Practice: Engineering for Privacy, Scalability   and Practicality**|Harish Srinivas et.al.|[2412.02340v1](http://arxiv.org/abs/2412.02340v1)|null|
@@ -28,7 +32,3 @@
 |**2024-11-26 22:09:05**|**CrypQ: A Database Benchmark Based on Dynamic, Ever-Evolving Ethereum   Data**|Vincent Capol et.al.|[2411.17913v1](http://arxiv.org/abs/2411.17913v1)|null|
 |**2024-11-26 21:35:55**|**Nearest-Neighbourless Asymptotically Optimal Motion Planning with Fully   Connected Informed Trees (FCIT*)**|Tyler S. Wilson et.al.|[2411.17902v1](http://arxiv.org/abs/2411.17902v1)|null|
 |**2024-11-26 17:11:10**|**A Unified and Practical Approach for Generalized Deletion Propagation**|Neha Makhija et.al.|[2411.17603v1](http://arxiv.org/abs/2411.17603v1)|null|
-|**2024-11-26 12:45:54**|**Robust Bayesian Optimization via Localized Online Conformal Prediction**|Dongwon Kim et.al.|[2411.17387v1](http://arxiv.org/abs/2411.17387v1)|[link](https://github.com/davinci003/LOCBO)|
-|**2024-11-26 09:29:33**|**Adaptive Model Hierarchies for Multi-Query Scenarios**|Hendrik Kleikamp et.al.|[2411.17252v1](http://arxiv.org/abs/2411.17252v1)|null|
-|**2024-11-26 04:39:46**|**Scholar Name Disambiguation with Search-enhanced LLM Across Language**|Renyu Zhao et.al.|[2411.17102v1](http://arxiv.org/abs/2411.17102v1)|null|
-|**2024-11-26 03:00:09**|**SCASeg: Strip Cross-Attention for Efficient Semantic Segmentation**|Guoan Xu et.al.|[2411.17061v1](http://arxiv.org/abs/2411.17061v1)|null|
