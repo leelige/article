@@ -5,7 +5,7 @@
 |**2024-12-04 17:20:01**|**Convolutional Neural Networks and Mixture of Experts for Intrusion   Detection in 5G Networks and beyond**|Loukas Ilias et.al.|[2412.03483v1](http://arxiv.org/abs/2412.03483v1)|null|
 |**2024-12-03 21:23:54**|**Optimized IoT Intrusion Detection using Machine Learning Technique**|Muhammad Zawad Mahmud et.al.|[2412.02845v1](http://arxiv.org/abs/2412.02845v1)|null|
 |**2024-12-03 20:04:32**|**Optimization of Transformer heart disease prediction model based on   particle swarm optimization algorithm**|Peiyang Yu et.al.|[2412.02801v1](http://arxiv.org/abs/2412.02801v1)|null|
-|**2024-12-02 04:45:10**|**Reliable and scalable variable importance estimation via warm-start and   early stopping**|Zexuan Sun et.al.|[2412.01120v1](http://arxiv.org/abs/2412.01120v1)|null|
+|**2024-12-02 04:45:10**|**Reliable and scalable variable importance estimation via warm-start and   early stopping**|Zexuan Sun et.al.|[2412.01120v1](http://arxiv.org/abs/2412.01120v1)|[link](https://github.com/ZexuanSun/Early-stopping-VI)|
 |**2024-11-29 06:40:45**|**Knowledge-Data Fusion Based Source-Free Semi-Supervised Domain   Adaptation for Seizure Subtype Classification**|Ruimin Peng et.al.|[2411.19502v1](http://arxiv.org/abs/2411.19502v1)|null|
 |**2024-11-27 11:10:28**|**Randomized-Grid Search for Hyperparameter Tuning in Decision Tree Model   to Improve Performance of Cardiovascular Disease Classification**|Abhay Kumar Pathak et.al.|[2411.18234v1](http://arxiv.org/abs/2411.18234v1)|null|
 |**2024-11-27 09:30:20**|**Machine Learning Estimation on the Trace of Inverse Dirac Operator using   the Gradient Boosting Decision Tree Regression**|Benjamin J. Choi et.al.|[2411.18170v2](http://arxiv.org/abs/2411.18170v2)|null|
