@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-06 11:48:49**|**Putting the Iterative Training of Decision Trees to the Test on a   Real-World Robotic Task**|Raphael C. Engelhardt et.al.|[2412.04974v1](http://arxiv.org/abs/2412.04974v1)|null|
 |**2024-12-04 17:20:01**|**Convolutional Neural Networks and Mixture of Experts for Intrusion   Detection in 5G Networks and beyond**|Loukas Ilias et.al.|[2412.03483v1](http://arxiv.org/abs/2412.03483v1)|null|
 |**2024-12-03 21:23:54**|**Optimized IoT Intrusion Detection using Machine Learning Technique**|Muhammad Zawad Mahmud et.al.|[2412.02845v1](http://arxiv.org/abs/2412.02845v1)|null|
 |**2024-12-03 20:04:32**|**Optimization of Transformer heart disease prediction model based on   particle swarm optimization algorithm**|Peiyang Yu et.al.|[2412.02801v1](http://arxiv.org/abs/2412.02801v1)|null|
@@ -31,4 +32,3 @@
 |**2024-10-28 23:02:41**|**Deep Trees for (Un)structured Data: Tractability, Performance, and   Interpretability**|Dimitris Bertsimas et.al.|[2410.21595v1](http://arxiv.org/abs/2410.21595v1)|null|
 |**2024-10-28 15:12:04**|**Dual-Agent Deep Reinforcement Learning for Dynamic Pricing and   Replenishment**|Yi Zheng et.al.|[2410.21109v1](http://arxiv.org/abs/2410.21109v1)|null|
 |**2024-10-27 15:39:52**|**Improving Decision Sparsity**|Yiyang Sun et.al.|[2410.20483v2](http://arxiv.org/abs/2410.20483v2)|[link](https://github.com/williamsyy/multiplesev)|
-|**2024-10-25 16:49:11**|**Optimizing Hearthstone Agents using an Evolutionary Algorithm**|Pablo García-Sánchez et.al.|[2410.19681v1](http://arxiv.org/abs/2410.19681v1)|[link](https://github.com/fergunet/SabberStone)|

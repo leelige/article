@@ -2,6 +2,13 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-06 17:36:28**|**A Survey of Large Language Model-Based Generative AI for Text-to-SQL:   Benchmarks, Applications, Use Cases, and Challenges**|Aditi Singh et.al.|[2412.05208v1](http://arxiv.org/abs/2412.05208v1)|null|
+|**2024-12-06 11:32:56**|**Succinct Data Structures for Segments**|Philip Bille et.al.|[2412.04965v1](http://arxiv.org/abs/2412.04965v1)|null|
+|**2024-12-06 11:08:24**|**KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view   Knowledge Graph Contrastive Learning**|Peng Yu et.al.|[2412.04948v1](http://arxiv.org/abs/2412.04948v1)|null|
+|**2024-12-06 09:25:00**|**Nonmyopic Global Optimisation via Approximate Dynamic Programming**|Filippo Airaldi et.al.|[2412.04882v1](http://arxiv.org/abs/2412.04882v1)|null|
+|**2024-12-06 03:46:06**|**Ltri-LLM: Streaming Long Context Inference for LLMs with Training-Free   Dynamic Triangular Attention Pattern**|Hongyin Tang et.al.|[2412.04757v1](http://arxiv.org/abs/2412.04757v1)|null|
+|**2024-12-06 02:19:57**|**Mix-Modality Person Re-Identification: A New and Practical Paradigm**|Wei Liu et.al.|[2412.04719v1](http://arxiv.org/abs/2412.04719v1)|null|
+|**2024-12-05 21:50:22**|**SWEPO: Simultaneous Weighted Preference Optimization for Group   Contrastive Alignment**|Taneesh Gupta et.al.|[2412.04628v1](http://arxiv.org/abs/2412.04628v1)|null|
 |**2024-12-05 16:13:37**|**A Formalization of Top-Down Unnesting**|Thomas Neumann et.al.|[2412.04294v1](http://arxiv.org/abs/2412.04294v1)|null|
 |**2024-12-05 14:03:41**|**Bench-CoE: a Framework for Collaboration of Experts from Benchmark**|Yuanshuai Wang et.al.|[2412.04167v1](http://arxiv.org/abs/2412.04167v1)|[link](https://github.com/zhangxj199/bench-coe)|
 |**2024-12-04 09:02:46**|**Optimal bounds on a tree inference algorithm**|Jack Gardiner et.al.|[2412.03138v1](http://arxiv.org/abs/2412.03138v1)|null|
@@ -18,17 +25,10 @@
 |**2024-12-02 16:55:07**|**Query Performance Explanation through Large Language Model for HTAP   Systems**|Haibo Xiu et.al.|[2412.01709v1](http://arxiv.org/abs/2412.01709v1)|null|
 |**2024-12-02 16:13:04**|**R-Bot: An LLM-based Query Rewrite System**|Zhaoyan Sun et.al.|[2412.01661v1](http://arxiv.org/abs/2412.01661v1)|null|
 |**2024-12-02 14:43:06**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and   Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555v1](http://arxiv.org/abs/2412.01555v1)|null|
-|**2024-12-02 05:38:43**|**Space Complexity of Minimum Cut Problems in Single-Pass Streams**|Matthew Ding et.al.|[2412.01143v1](http://arxiv.org/abs/2412.01143v1)|null|
+|**2024-12-02 05:38:43**|**Space Complexity of Minimum Cut Problems in Single-Pass Streams**|Matthew Ding et.al.|[2412.01143v2](http://arxiv.org/abs/2412.01143v2)|null|
 |**2024-12-01 16:43:20**|**SyncVIS: Synchronized Video Instance Segmentation**|Rongkun Zheng et.al.|[2412.00882v1](http://arxiv.org/abs/2412.00882v1)|[link](https://github.com/rkzheng99/syncvis)|
 |**2024-11-30 17:39:59**|**Rank It, Then Ask It: Input Reranking for Maximizing the Performance of   LLMs on Symmetric Tasks**|Mohsen Dehghankar et.al.|[2412.00546v1](http://arxiv.org/abs/2412.00546v1)|null|
 |**2024-11-29 08:34:07**|**Knowledge Management for Automobile Failure Analysis Using Graph RAG**|Yuta Ojima et.al.|[2411.19539v1](http://arxiv.org/abs/2411.19539v1)|null|
 |**2024-11-28 13:55:06**|**LoRA of Change: Learning to Generate LoRA for the Editing Instruction   from A Single Before-After Image Pair**|Xue Song et.al.|[2411.19156v2](http://arxiv.org/abs/2411.19156v2)|null|
 |**2024-11-28 05:35:36**|**VIPaint: Image Inpainting with Pre-Trained Diffusion Models via   Variational Inference**|Sakshi Agarwal et.al.|[2411.18929v1](http://arxiv.org/abs/2411.18929v1)|null|
 |**2024-11-28 05:24:46**|**EzSQL: An SQL intermediate representation for improving SQL-to-text   Generation**|Meher Bhardwaj et.al.|[2411.18923v1](http://arxiv.org/abs/2411.18923v1)|null|
-|**2024-11-28 01:27:42**|**MV4PG: Materialized Views for Property Graphs**|Chaijun Xu et.al.|[2411.18847v1](http://arxiv.org/abs/2411.18847v1)|null|
-|**2024-11-27 22:55:56**|**Optimizing Image Retrieval with an Extended b-Metric Space**|Abdelkader Belhenniche et.al.|[2411.18800v1](http://arxiv.org/abs/2411.18800v1)|null|
-|**2024-11-27 13:07:04**|**Undirected 3-Fault Replacement Path in Nearly Cubic Time**|Shucheng Chi et.al.|[2411.18312v1](http://arxiv.org/abs/2411.18312v1)|null|
-|**2024-11-27 10:14:38**|**InputSnatch: Stealing Input in LLM Services via Timing Side-Channel   Attacks**|Xinyao Zheng et.al.|[2411.18191v2](http://arxiv.org/abs/2411.18191v2)|null|
-|**2024-11-27 07:53:39**|**Spectral-Spatial Transformer with Active Transfer Learning for   Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2411.18115v1](http://arxiv.org/abs/2411.18115v1)|[link](https://github.com/mahmad000/atl-sst)|
-|**2024-11-26 22:12:39**|**Stochastic SketchRefine: Scaling In-Database Decision-Making under   Uncertainty to Millions of Tuples**|Riddho R. Haque et.al.|[2411.17915v1](http://arxiv.org/abs/2411.17915v1)|null|
-|**2024-11-26 22:09:05**|**CrypQ: A Database Benchmark Based on Dynamic, Ever-Evolving Ethereum   Data**|Vincent Capol et.al.|[2411.17913v1](http://arxiv.org/abs/2411.17913v1)|null|
