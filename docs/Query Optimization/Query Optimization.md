@@ -2,6 +2,10 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-09 13:31:46**|**SafeWorld: Geo-Diverse Safety Alignment**|Da Yin et.al.|[2412.06483v1](http://arxiv.org/abs/2412.06483v1)|[link](https://github.com/PlusLabNLP/SafeWorld)|
+|**2024-12-08 09:11:11**|**CardOOD: Robust Query-driven Cardinality Estimation under   Out-of-Distribution**|Rui Li et.al.|[2412.05864v1](http://arxiv.org/abs/2412.05864v1)|null|
+|**2024-12-08 07:18:19**|**A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation   Across Diverse Data**|Aniruddha Salve et.al.|[2412.05838v1](http://arxiv.org/abs/2412.05838v1)|null|
+|**2024-12-07 06:50:12**|**Exploring the Use of LLMs for SQL Equivalence Checking**|Rajat Singh et.al.|[2412.05561v1](http://arxiv.org/abs/2412.05561v1)|null|
 |**2024-12-06 17:36:28**|**A Survey of Large Language Model-Based Generative AI for Text-to-SQL:   Benchmarks, Applications, Use Cases, and Challenges**|Aditi Singh et.al.|[2412.05208v1](http://arxiv.org/abs/2412.05208v1)|null|
 |**2024-12-06 11:32:56**|**Succinct Data Structures for Segments**|Philip Bille et.al.|[2412.04965v1](http://arxiv.org/abs/2412.04965v1)|null|
 |**2024-12-06 11:08:24**|**KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view   Knowledge Graph Contrastive Learning**|Peng Yu et.al.|[2412.04948v1](http://arxiv.org/abs/2412.04948v1)|null|
@@ -28,7 +32,3 @@
 |**2024-12-02 05:38:43**|**Space Complexity of Minimum Cut Problems in Single-Pass Streams**|Matthew Ding et.al.|[2412.01143v2](http://arxiv.org/abs/2412.01143v2)|null|
 |**2024-12-01 16:43:20**|**SyncVIS: Synchronized Video Instance Segmentation**|Rongkun Zheng et.al.|[2412.00882v1](http://arxiv.org/abs/2412.00882v1)|[link](https://github.com/rkzheng99/syncvis)|
 |**2024-11-30 17:39:59**|**Rank It, Then Ask It: Input Reranking for Maximizing the Performance of   LLMs on Symmetric Tasks**|Mohsen Dehghankar et.al.|[2412.00546v1](http://arxiv.org/abs/2412.00546v1)|null|
-|**2024-11-29 08:34:07**|**Knowledge Management for Automobile Failure Analysis Using Graph RAG**|Yuta Ojima et.al.|[2411.19539v1](http://arxiv.org/abs/2411.19539v1)|null|
-|**2024-11-28 13:55:06**|**LoRA of Change: Learning to Generate LoRA for the Editing Instruction   from A Single Before-After Image Pair**|Xue Song et.al.|[2411.19156v2](http://arxiv.org/abs/2411.19156v2)|null|
-|**2024-11-28 05:35:36**|**VIPaint: Image Inpainting with Pre-Trained Diffusion Models via   Variational Inference**|Sakshi Agarwal et.al.|[2411.18929v1](http://arxiv.org/abs/2411.18929v1)|null|
-|**2024-11-28 05:24:46**|**EzSQL: An SQL intermediate representation for improving SQL-to-text   Generation**|Meher Bhardwaj et.al.|[2411.18923v1](http://arxiv.org/abs/2411.18923v1)|null|
