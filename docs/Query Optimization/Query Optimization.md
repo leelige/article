@@ -6,6 +6,7 @@
 |**2024-12-08 09:11:11**|**CardOOD: Robust Query-driven Cardinality Estimation under   Out-of-Distribution**|Rui Li et.al.|[2412.05864v1](http://arxiv.org/abs/2412.05864v1)|null|
 |**2024-12-08 07:18:19**|**A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation   Across Diverse Data**|Aniruddha Salve et.al.|[2412.05838v1](http://arxiv.org/abs/2412.05838v1)|null|
 |**2024-12-07 06:50:12**|**Exploring the Use of LLMs for SQL Equivalence Checking**|Rajat Singh et.al.|[2412.05561v1](http://arxiv.org/abs/2412.05561v1)|null|
+|**2024-12-07 01:32:13**|**SLA Management in Reconfigurable Multi-Agent RAG: A Systems Approach to   Question Answering**|Michael Iannelli et.al.|[2412.06832v1](http://arxiv.org/abs/2412.06832v1)|null|
 |**2024-12-06 17:36:28**|**A Survey of Large Language Model-Based Generative AI for Text-to-SQL:   Benchmarks, Applications, Use Cases, and Challenges**|Aditi Singh et.al.|[2412.05208v1](http://arxiv.org/abs/2412.05208v1)|null|
 |**2024-12-06 11:32:56**|**Succinct Data Structures for Segments**|Philip Bille et.al.|[2412.04965v1](http://arxiv.org/abs/2412.04965v1)|null|
 |**2024-12-06 11:08:24**|**KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view   Knowledge Graph Contrastive Learning**|Peng Yu et.al.|[2412.04948v1](http://arxiv.org/abs/2412.04948v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-02 14:43:06**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and   Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555v1](http://arxiv.org/abs/2412.01555v1)|null|
 |**2024-12-02 05:38:43**|**Space Complexity of Minimum Cut Problems in Single-Pass Streams**|Matthew Ding et.al.|[2412.01143v2](http://arxiv.org/abs/2412.01143v2)|null|
 |**2024-12-01 16:43:20**|**SyncVIS: Synchronized Video Instance Segmentation**|Rongkun Zheng et.al.|[2412.00882v1](http://arxiv.org/abs/2412.00882v1)|[link](https://github.com/rkzheng99/syncvis)|
-|**2024-11-30 17:39:59**|**Rank It, Then Ask It: Input Reranking for Maximizing the Performance of   LLMs on Symmetric Tasks**|Mohsen Dehghankar et.al.|[2412.00546v1](http://arxiv.org/abs/2412.00546v1)|null|

@@ -2,6 +2,8 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-10 14:57:35**|**POMDP-Based Trajectory Planning for On-Ramp Highway Merging**|Adam Kollarčík et.al.|[2412.07567v1](http://arxiv.org/abs/2412.07567v1)|null|
+|**2024-12-10 11:07:37**|**Machine Learning Algorithms for Detecting Mental Stress in College   Students**|Ashutosh Singh et.al.|[2412.07415v1](http://arxiv.org/abs/2412.07415v1)|null|
 |**2024-12-09 11:36:13**|**Parameter Adjustments in POMDP-Based Trajectory Planning for   Unsignalized Intersections**|Adam Kollarčík adn Zdeněk Hanzálek et.al.|[2412.06405v1](http://arxiv.org/abs/2412.06405v1)|null|
 |**2024-12-09 07:07:17**|**Simulation of Multi-Stage Attack and Defense Mechanisms in Smart Grids**|Omer Sen et.al.|[2412.06255v1](http://arxiv.org/abs/2412.06255v1)|null|
 |**2024-12-09 05:30:50**|**Discrete-Time Distribution Steering using Monte Carlo Tree Search**|Alexandros E. Tzikas et.al.|[2412.06220v1](http://arxiv.org/abs/2412.06220v1)|null|
@@ -30,5 +32,3 @@
 |**2024-11-07 06:12:38**|**GPT-Guided Monte Carlo Tree Search for Symbolic Regression in Financial   Fraud Detection**|Prashank Kadam et.al.|[2411.04459v1](http://arxiv.org/abs/2411.04459v1)|null|
 |**2024-11-07 03:11:53**|**Statistical-Computational Trade-offs for Recursive Adaptive Partitioning   Estimators**|Yan Shuo Tan et.al.|[2411.04394v2](http://arxiv.org/abs/2411.04394v2)|null|
 |**2024-11-04 08:24:56**|**Causal Discovery and Classification Using Lempel-Ziv Complexity**| Dhruthi et.al.|[2411.01881v2](http://arxiv.org/abs/2411.01881v2)|[link](https://github.com/i-to-the-power-i/causal-lz-p-decision-tree)|
-|**2024-11-03 14:00:20**|**Decision Trees for Interpretable Clusters in Mixture Models and Deep   Representations**|Maximilian Fleissner et.al.|[2411.01576v1](http://arxiv.org/abs/2411.01576v1)|null|
-|**2024-11-02 22:10:20**|**On the Value of Risk-Averse Multistage Stochastic Programming in   Capacity Planning**|Xian Yu et.al.|[2411.01370v1](http://arxiv.org/abs/2411.01370v1)|null|
