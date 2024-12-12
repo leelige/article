@@ -2,6 +2,12 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-11 18:30:57**|**AdvWave: Stealthy Adversarial Jailbreak Attack against Large   Audio-Language Models**|Mintong Kang et.al.|[2412.08608v1](http://arxiv.org/abs/2412.08608v1)|null|
+|**2024-12-11 14:37:21**|**PointCFormer: a Relation-based Progressive Feature Extraction Network   for Point Cloud Completion**|Yi Zhong et.al.|[2412.08421v1](http://arxiv.org/abs/2412.08421v1)|null|
+|**2024-12-11 12:18:30**|**SLGaussian: Fast Language Gaussian Splatting in Sparse Views**|Kangjie Chen et.al.|[2412.08331v1](http://arxiv.org/abs/2412.08331v1)|null|
+|**2024-12-11 08:44:15**|**Model-Editing-Based Jailbreak against Safety-aligned Large Language   Models**|Yuxi Li et.al.|[2412.08201v1](http://arxiv.org/abs/2412.08201v1)|null|
+|**2024-12-11 00:02:48**|**Adaptive Querying for Reward Learning from Human Feedback**|Yashwanthi Anand et.al.|[2412.07990v1](http://arxiv.org/abs/2412.07990v1)|null|
+|**2024-12-10 14:42:51**|**Hyperband-based Bayesian Optimization for Black-box Prompt Selection**|Lennart Schneider et.al.|[2412.07820v1](http://arxiv.org/abs/2412.07820v1)|null|
 |**2024-12-09 13:31:46**|**SafeWorld: Geo-Diverse Safety Alignment**|Da Yin et.al.|[2412.06483v1](http://arxiv.org/abs/2412.06483v1)|[link](https://github.com/PlusLabNLP/SafeWorld)|
 |**2024-12-08 09:11:11**|**CardOOD: Robust Query-driven Cardinality Estimation under   Out-of-Distribution**|Rui Li et.al.|[2412.05864v1](http://arxiv.org/abs/2412.05864v1)|null|
 |**2024-12-08 07:18:19**|**A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation   Across Diverse Data**|Aniruddha Salve et.al.|[2412.05838v1](http://arxiv.org/abs/2412.05838v1)|null|
@@ -26,9 +32,3 @@
 |**2024-12-03 09:13:52**|**Large Multimodal Agents for Accurate Phishing Detection with Enhanced   Token Optimization and Cost Reduction**|Fouad Trad et.al.|[2412.02301v1](http://arxiv.org/abs/2412.02301v1)|null|
 |**2024-12-03 05:20:05**|**Improved Complexity for Smooth Nonconvex Optimization: A Two-Level   Online Learning Approach with Quasi-Newton Methods**|Ruichen Jiang et.al.|[2412.02175v1](http://arxiv.org/abs/2412.02175v1)|null|
 |**2024-12-03 02:20:30**|**Offline Stochastic Optimization of Black-Box Objective Functions**|Juncheng Dong et.al.|[2412.02089v1](http://arxiv.org/abs/2412.02089v1)|null|
-|**2024-12-02 17:42:59**|**Continuous-Time Human Motion Field from Events**|Ziyun Wang et.al.|[2412.01747v1](http://arxiv.org/abs/2412.01747v1)|null|
-|**2024-12-02 16:55:07**|**Query Performance Explanation through Large Language Model for HTAP   Systems**|Haibo Xiu et.al.|[2412.01709v1](http://arxiv.org/abs/2412.01709v1)|null|
-|**2024-12-02 16:13:04**|**R-Bot: An LLM-based Query Rewrite System**|Zhaoyan Sun et.al.|[2412.01661v1](http://arxiv.org/abs/2412.01661v1)|null|
-|**2024-12-02 14:43:06**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and   Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555v1](http://arxiv.org/abs/2412.01555v1)|null|
-|**2024-12-02 05:38:43**|**Space Complexity of Minimum Cut Problems in Single-Pass Streams**|Matthew Ding et.al.|[2412.01143v2](http://arxiv.org/abs/2412.01143v2)|null|
-|**2024-12-01 16:43:20**|**SyncVIS: Synchronized Video Instance Segmentation**|Rongkun Zheng et.al.|[2412.00882v1](http://arxiv.org/abs/2412.00882v1)|[link](https://github.com/rkzheng99/syncvis)|
