@@ -4,6 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-12 17:33:06**|**Early Detection of At-Risk Students Using Machine Learning**|Azucena L. Jimenez Martinez et.al.|[2412.09483v1](http://arxiv.org/abs/2412.09483v1)|null|
 |**2024-12-12 16:57:46**|**Search Strategy Generation for Branch and Bound Using Genetic   Programming**|Gwen Maudet et.al.|[2412.09444v1](http://arxiv.org/abs/2412.09444v1)|null|
+|**2024-12-11 16:08:25**|**Assisted morbidity coding: the SISCO.web use case for identifying the   main diagnosis in Hospital Discharge Records**|Elena Cardillo et.al.|[2412.09651v1](http://arxiv.org/abs/2412.09651v1)|null|
 |**2024-12-10 14:57:35**|**POMDP-Based Trajectory Planning for On-Ramp Highway Merging**|Adam Kollarčík et.al.|[2412.07567v1](http://arxiv.org/abs/2412.07567v1)|null|
 |**2024-12-10 11:07:37**|**Machine Learning Algorithms for Detecting Mental Stress in College   Students**|Ashutosh Singh et.al.|[2412.07415v1](http://arxiv.org/abs/2412.07415v1)|null|
 |**2024-12-09 11:36:13**|**Parameter Adjustments in POMDP-Based Trajectory Planning for   Unsignalized Intersections**|Adam Kollarčík adn Zdeněk Hanzálek et.al.|[2412.06405v1](http://arxiv.org/abs/2412.06405v1)|null|
@@ -31,4 +32,3 @@
 |**2024-11-19 14:15:34**|**Guiding Word Equation Solving using Graph Neural Networks (Extended   Technical Report)**|Parosh Aziz Abdulla et.al.|[2411.15194v1](http://arxiv.org/abs/2411.15194v1)|null|
 |**2024-11-14 11:02:13**|**Reconstruction and identification of pairs of collimated $τ$-leptons   decaying hadronically using $\sqrt{s}=13$ TeV $pp$ collision data with the   ATLAS detector**| ATLAS Collaboration et.al.|[2411.09357v1](http://arxiv.org/abs/2411.09357v1)|null|
 |**2024-11-13 00:14:09**|**GPTree: Towards Explainable Decision-Making via LLM-powered Decision   Trees**|Sichao Xiong et.al.|[2411.08257v1](http://arxiv.org/abs/2411.08257v1)|null|
-|**2024-11-07 06:12:38**|**GPT-Guided Monte Carlo Tree Search for Symbolic Regression in Financial   Fraud Detection**|Prashank Kadam et.al.|[2411.04459v1](http://arxiv.org/abs/2411.04459v1)|null|
