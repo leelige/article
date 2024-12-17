@@ -2,6 +2,9 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-16 16:38:50**|**Witty: An Efficient Solver for Computing Minimum-Size Decision Trees**|Luca Pascal Staus et.al.|[2412.11954v1](http://arxiv.org/abs/2412.11954v1)|null|
+|**2024-12-15 18:24:26**|**Monte Carlo Tree Search with Spectral Expansion for Planning with   Dynamical Systems**|Benjamin Riviere et.al.|[2412.11270v1](http://arxiv.org/abs/2412.11270v1)|null|
+|**2024-12-13 19:14:08**|**Extracting PAC Decision Trees from Black Box Binary Classifiers: The   Gender Bias Study Case on BERT-based Language Models**|Ana Ozaki et.al.|[2412.10513v1](http://arxiv.org/abs/2412.10513v1)|null|
 |**2024-12-12 17:33:06**|**Early Detection of At-Risk Students Using Machine Learning**|Azucena L. Jimenez Martinez et.al.|[2412.09483v1](http://arxiv.org/abs/2412.09483v1)|null|
 |**2024-12-12 16:57:46**|**Search Strategy Generation for Branch and Bound Using Genetic   Programming**|Gwen Maudet et.al.|[2412.09444v1](http://arxiv.org/abs/2412.09444v1)|null|
 |**2024-12-11 16:08:25**|**Assisted morbidity coding: the SISCO.web use case for identifying the   main diagnosis in Hospital Discharge Records**|Elena Cardillo et.al.|[2412.09651v1](http://arxiv.org/abs/2412.09651v1)|null|
@@ -29,6 +32,3 @@
 |**2024-11-20 14:58:32**|**ODTE -- An ensemble of multi-class SVM-based oblique decision trees**|Ricardo Montañana et.al.|[2411.13376v1](http://arxiv.org/abs/2411.13376v1)|null|
 |**2024-11-20 14:42:23**|**Explainable Finite-Memory Policies for Partially Observable Markov   Decision Processes**|Muqsit Azeem et.al.|[2411.13365v1](http://arxiv.org/abs/2411.13365v1)|null|
 |**2024-11-19 17:19:20**|**Machine Learning Approaches on Crop Pattern Recognition a Comparative   Analysis**|Kazi Hasibul Kabir et.al.|[2411.12667v1](http://arxiv.org/abs/2411.12667v1)|null|
-|**2024-11-19 14:15:34**|**Guiding Word Equation Solving using Graph Neural Networks (Extended   Technical Report)**|Parosh Aziz Abdulla et.al.|[2411.15194v1](http://arxiv.org/abs/2411.15194v1)|null|
-|**2024-11-14 11:02:13**|**Reconstruction and identification of pairs of collimated $τ$-leptons   decaying hadronically using $\sqrt{s}=13$ TeV $pp$ collision data with the   ATLAS detector**| ATLAS Collaboration et.al.|[2411.09357v1](http://arxiv.org/abs/2411.09357v1)|null|
-|**2024-11-13 00:14:09**|**GPTree: Towards Explainable Decision-Making via LLM-powered Decision   Trees**|Sichao Xiong et.al.|[2411.08257v1](http://arxiv.org/abs/2411.08257v1)|null|

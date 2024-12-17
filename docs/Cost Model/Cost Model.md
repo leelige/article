@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-13 18:55:19**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362v1](http://arxiv.org/abs/2412.10362v1)|null|
-|**2024-12-13 18:53:24**|**Apollo: An Exploration of Video Understanding in Large Multimodal Models**|Orr Zohar et.al.|[2412.10360v1](http://arxiv.org/abs/2412.10360v1)|null|
-|**2024-12-13 17:11:47**|**Performance evaluation of predictive AI models to support medical   decisions: Overview and guidance**|Ben Van Calster et.al.|[2412.10288v1](http://arxiv.org/abs/2412.10288v1)|null|
-|**2024-12-13 16:30:35**|**MVQ:Towards Efficient DNN Compression and Acceleration with Masked   Vector Quantization**|Shuaiting Li et.al.|[2412.10261v1](http://arxiv.org/abs/2412.10261v1)|null|
-|**2024-12-13 16:22:58**|**A Novel Framework Using Deep Reinforcement Learning for Join Order   Selection**|Chang Liu et.al.|[2412.10253v1](http://arxiv.org/abs/2412.10253v1)|null|
-|**2024-12-13 16:20:48**|**Stochastic Multiresolution Image Sketching for Inverse Imaging Problems**|Alessandro Perelli et.al.|[2412.10249v1](http://arxiv.org/abs/2412.10249v1)|null|
-|**2024-12-13 16:13:35**|**Efficient Continual Pre-training of LLMs for Low-resource Languages**|Arijit Nag et.al.|[2412.10244v1](http://arxiv.org/abs/2412.10244v1)|null|
-|**2024-12-13 14:56:42**|**Neuro-Photonix: Enabling Near-Sensor Neuro-Symbolic AI Computing on   Silicon Photonics Substrate**|Deniz Najafi et.al.|[2412.10187v1](http://arxiv.org/abs/2412.10187v1)|null|
-|**2024-12-13 14:50:26**|**SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models**|Hung Nguyen et.al.|[2412.10178v1](http://arxiv.org/abs/2412.10178v1)|[link](https://github.com/VinAIResearch/swift-try)|
-|**2024-12-13 13:32:13**|**ASLoRA: Adaptive Sharing Low-Rank Adaptation Across Layers**|Junyan Hu et.al.|[2412.10135v1](http://arxiv.org/abs/2412.10135v1)|null|
-|**2024-12-13 13:30:51**|**You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary   Projects**|Islem Bouzenia et.al.|[2412.10133v1](http://arxiv.org/abs/2412.10133v1)|null|
-|**2024-12-13 13:04:46**|**AMUSE: Adaptive Model Updating using a Simulated Environment**|Louis Chislett et.al.|[2412.10119v1](http://arxiv.org/abs/2412.10119v1)|null|
-|**2024-12-13 11:26:38**|**TSGaussian: Semantic and Depth-Guided Target-Specific Gaussian Splatting   from Sparse Views**|Liang Zhao et.al.|[2412.10051v1](http://arxiv.org/abs/2412.10051v1)|[link](https://github.com/leon2000-ai/TSGaussian)|
-|**2024-12-13 11:00:57**|**RemDet: Rethinking Efficient Model Design for UAV Object Detection**|Chen Li et.al.|[2412.10040v1](http://arxiv.org/abs/2412.10040v1)|[link](https://github.com/hzai-zjnu/remdet)|
-|**2024-12-13 10:39:27**|**Mr. DETR: Instructive Multi-Route Training for Detection Transformers**|Chang-Bin Zhang et.al.|[2412.10028v1](http://arxiv.org/abs/2412.10028v1)|null|
-|**2024-12-13 09:55:03**|**Enhanced Speech Emotion Recognition with Efficient Channel Attention   Guided Deep CNN-BiLSTM Framework**|Niloy Kumar Kundu et.al.|[2412.10011v1](http://arxiv.org/abs/2412.10011v1)|null|
-|**2024-12-13 08:47:51**|**Exploiting structural observability and graph colorability for optimal   sensor placement in water distribution networks**|J. J. H. van Gemert et.al.|[2412.09965v1](http://arxiv.org/abs/2412.09965v1)|null|
-|**2024-12-13 08:34:46**|**Efficient Dataset Distillation via Diffusion-Driven Patch Selection for   Improved Generalization**|Xinhao Zhong et.al.|[2412.09959v1](http://arxiv.org/abs/2412.09959v1)|null|
-|**2024-12-13 08:22:19**|**Llama 3 Meets MoE: Efficient Upcycling**|Aditya Vavre et.al.|[2412.09952v1](http://arxiv.org/abs/2412.09952v1)|null|
-|**2024-12-13 07:08:13**|**ProxyLLM : LLM-Driven Framework for Customer Support Through Text-Style   Transfer**|Sehyeong Jo et.al.|[2412.09916v1](http://arxiv.org/abs/2412.09916v1)|null|
-|**2024-12-13 06:34:59**|**TTAQ: Towards Stable Post-training Quantization in Continuous Domain   Adaptation**|Junrui Xiao et.al.|[2412.09899v1](http://arxiv.org/abs/2412.09899v1)|null|
-|**2024-12-13 05:51:00**|**Financial Fine-tuning a Large Time Series Model**|Xinghong Fu et.al.|[2412.09880v1](http://arxiv.org/abs/2412.09880v1)|null|
-|**2024-12-13 05:33:32**|**Byte Latent Transformer: Patches Scale Better Than Tokens**|Artidoro Pagnoni et.al.|[2412.09871v1](http://arxiv.org/abs/2412.09871v1)|[link](https://github.com/facebookresearch/blt)|
-|**2024-12-13 05:02:16**|**Data-Driven Transfer Learning Framework for Estimating Turning Movement   Counts**|Xiaobo Ma et.al.|[2412.09861v1](http://arxiv.org/abs/2412.09861v1)|null|
-|**2024-12-13 04:55:10**|**LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation   with Linear Computational Complexity**|Hongjie Wang et.al.|[2412.09856v1](http://arxiv.org/abs/2412.09856v1)|null|
-|**2024-12-13 03:16:14**|**FDM-Bench: A Comprehensive Benchmark for Evaluating Large Language   Models in Additive Manufacturing Tasks**|Ahmadreza Eslaminia et.al.|[2412.09819v1](http://arxiv.org/abs/2412.09819v1)|null|
-|**2024-12-13 03:00:48**|**ScaleOT: Privacy-utility-scalable Offsite-tuning with Dynamic   LayerReplace and Selective Rank Compression**|Kai Yao et.al.|[2412.09812v1](http://arxiv.org/abs/2412.09812v1)|null|
-|**2024-12-13 02:48:36**|**LLM Distillation for Efficient Few-Shot Multiple Choice Question   Answering**|Patrick Sutanto et.al.|[2412.09807v1](http://arxiv.org/abs/2412.09807v1)|null|
-|**2024-12-13 00:57:47**|**A Differentiable Wave Optics Model for End-to-End Computational Imaging   System Optimization**|Chi-Jui Ho et.al.|[2412.09774v1](http://arxiv.org/abs/2412.09774v1)|null|
-|**2024-12-12 22:28:03**|**AiEDA: Agentic AI Design Framework for Digital ASIC System Design**|Aditya Patra et.al.|[2412.09745v1](http://arxiv.org/abs/2412.09745v1)|null|
+|**2024-12-16 17:26:06**|**SAMIC: Segment Anything with In-Context Spatial Prompt Engineering**|Savinay Nagendra et.al.|[2412.11998v1](http://arxiv.org/abs/2412.11998v1)|null|
+|**2024-12-16 17:04:40**|**Cost-Effective Label-free Node Classification with LLMs**|Taiyan Zhang et.al.|[2412.11983v1](http://arxiv.org/abs/2412.11983v1)|null|
+|**2024-12-16 16:59:22**|**Speech Foundation Models and Crowdsourcing for Efficient, High-Quality   Data Collection**|Beomseok Lee et.al.|[2412.11978v1](http://arxiv.org/abs/2412.11978v1)|null|
+|**2024-12-16 16:47:15**|**A Digital twin for Diesel Engines: Operator-infused PINNs with Transfer   Learning for Engine Health Monitoring**|Kamaljyoti Nath et.al.|[2412.11967v1](http://arxiv.org/abs/2412.11967v1)|null|
+|**2024-12-16 16:03:25**|**RetroLLM: Empowering Large Language Models to Retrieve Fine-grained   Evidence within Generation**|Xiaoxi Li et.al.|[2412.11919v1](http://arxiv.org/abs/2412.11919v1)|[link](https://github.com/sunnynexus/retrollm)|
+|**2024-12-16 15:55:34**|**CharacterBench: Benchmarking Character Customization of Large Language   Models**|Jinfeng Zhou et.al.|[2412.11912v1](http://arxiv.org/abs/2412.11912v1)|[link](https://github.com/thu-coai/characterbench)|
+|**2024-12-16 15:12:53**|**Towards Understanding Systems Trade-offs in Retrieval-Augmented   Generation Model Inference**|Michael Shen et.al.|[2412.11854v1](http://arxiv.org/abs/2412.11854v1)|null|
+|**2024-12-16 14:55:57**|**A Distributed Collaborative Retrieval Framework Excelling in All Queries   and Corpora based on Zero-shot Rank-Oriented Automatic Evaluation**|Tian-Yi Che et.al.|[2412.11832v1](http://arxiv.org/abs/2412.11832v1)|null|
+|**2024-12-16 12:58:21**|**Efficiently Achieving Secure Model Training and Secure Aggregation to   Ensure Bidirectional Privacy-Preservation in Federated Learning**|Xue Yang et.al.|[2412.11737v1](http://arxiv.org/abs/2412.11737v1)|null|
+|**2024-12-16 12:10:23**|**A partial likelihood approach to tree-based density modeling and its   application in Bayesian inference**|Li Ma et.al.|[2412.11692v1](http://arxiv.org/abs/2412.11692v1)|null|
+|**2024-12-16 11:12:45**|**C3oT: Generating Shorter Chain-of-Thought without Compromising   Effectiveness**|Yu Kang et.al.|[2412.11664v1](http://arxiv.org/abs/2412.11664v1)|null|
+|**2024-12-16 10:37:30**|**SeSeMI: Secure Serverless Model Inference on Sensitive Data**|Guoyu Hu et.al.|[2412.11640v1](http://arxiv.org/abs/2412.11640v1)|null|
+|**2024-12-16 09:24:04**|**A Real-Time System for Scheduling and Managing UAV Delivery in Urban**|Han Liu et.al.|[2412.11590v1](http://arxiv.org/abs/2412.11590v1)|[link](https://github.com/chengji253/UAVDeliverySystem)|
+|**2024-12-16 09:03:31**|**Cost-aware Portfolios in a Large Universe of Assets**|Qingliang Fan et.al.|[2412.11575v1](http://arxiv.org/abs/2412.11575v1)|null|
+|**2024-12-16 08:55:03**|**The dark side of the forces: assessing non-conservative force models for   atomistic machine learning**|Filippo Bigi et.al.|[2412.11569v1](http://arxiv.org/abs/2412.11569v1)|null|
+|**2024-12-16 08:42:00**|**Token Prepending: A Training-Free Approach for Eliciting Better Sentence   Embeddings from LLMs**|Yuchen Fu et.al.|[2412.11556v1](http://arxiv.org/abs/2412.11556v1)|null|
+|**2024-12-16 08:31:55**|**MPQ-DM: Mixed Precision Quantization for Extremely Low Bit Diffusion   Models**|Weilun Feng et.al.|[2412.11549v1](http://arxiv.org/abs/2412.11549v1)|[link](https://github.com/cantbebetter2/mpq-dm)|
+|**2024-12-16 08:21:09**|**SP$^2$T: Sparse Proxy Attention for Dual-stream Point Transformer**|Jiaxu Wan et.al.|[2412.11540v1](http://arxiv.org/abs/2412.11540v1)|[link](https://github.com/terencewallel/sparse-proxy-point-transformer)|
+|**2024-12-16 07:54:45**|**LineArt: A Knowledge-guided Training-free High-quality Appearance   Transfer for Design Drawing with Diffusion Model**|Xi Wang et.al.|[2412.11519v1](http://arxiv.org/abs/2412.11519v1)|null|
+|**2024-12-16 07:09:46**|**FTP: A Fine-grained Token-wise Pruner for Large Language Models via   Token Routing**|Zekai Li et.al.|[2412.11494v1](http://arxiv.org/abs/2412.11494v1)|null|
+|**2024-12-16 06:48:30**|**Data-driven Precipitation Nowcasting Using Satellite Imagery**|Young-Jae Park et.al.|[2412.11480v1](http://arxiv.org/abs/2412.11480v1)|[link](https://github.com/seominseok0429/Data-driven-Precipitation-Nowcasting-Using-Satellite-Imagery)|
+|**2024-12-16 05:44:45**|**MaskCLIP++: A Mask-Based CLIP Fine-tuning Framework for Open-Vocabulary   Image Segmentation**|Quan-Sheng Zeng et.al.|[2412.11464v1](http://arxiv.org/abs/2412.11464v1)|null|
+|**2024-12-16 05:32:28**|**HResFormer: Hybrid Residual Transformer for Volumetric Medical Image   Segmentation**|Sucheng Ren et.al.|[2412.11458v1](http://arxiv.org/abs/2412.11458v1)|null|
+|**2024-12-16 04:21:35**|**Auto-bidding in real-time auctions via Oracle Imitation Learning**|Alberto Chiappa et.al.|[2412.11434v1](http://arxiv.org/abs/2412.11434v1)|null|
+|**2024-12-16 04:04:38**|**A Deep Learning Approach for Trading Factor Residuals**|Wo Long et.al.|[2412.11432v1](http://arxiv.org/abs/2412.11432v1)|null|
+|**2024-12-16 03:46:45**|**Nearly Zero-Cost Protection Against Mimicry by Personalized Diffusion   Models**|Namhyuk Ahn et.al.|[2412.11423v1](http://arxiv.org/abs/2412.11423v1)|null|
+|**2024-12-16 02:05:49**|**FinLoRA: Finetuning Quantized Financial Large Language Models Using   Low-Rank Adaptation**|Dannong Wang et.al.|[2412.11378v1](http://arxiv.org/abs/2412.11378v1)|null|
+|**2024-12-15 20:59:49**|**datadriftR: An R Package for Concept Drift Detection in Predictive   Models**|Ugur Dar et.al.|[2412.11308v1](http://arxiv.org/abs/2412.11308v1)|null|
+|**2024-12-15 19:05:26**|**Multi-robot workspace design and motion planning for package sorting**|Peiyu Zeng et.al.|[2412.11281v1](http://arxiv.org/abs/2412.11281v1)|null|
+|**2024-12-15 17:41:38**|**Prediction-Enhanced Monte Carlo: A Machine Learning View on Control   Variate**|Fengpei Li et.al.|[2412.11257v1](http://arxiv.org/abs/2412.11257v1)|null|
