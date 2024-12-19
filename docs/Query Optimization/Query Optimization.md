@@ -2,6 +2,10 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-18 13:00:09**|**Differentially Private Substring and Document Counting**|Giulia Bernardini et.al.|[2412.13813v1](http://arxiv.org/abs/2412.13813v1)|null|
+|**2024-12-18 07:20:33**|**Indirect Query Bayesian Optimization with Integrated Feedback**|Mengyan Zhang et.al.|[2412.13559v1](http://arxiv.org/abs/2412.13559v1)|null|
+|**2024-12-18 04:34:46**|**QueryCDR: Query-based Controllable Distortion Rectification Network for   Fisheye Images**|Pengbo Guo et.al.|[2412.13496v1](http://arxiv.org/abs/2412.13496v1)|[link](https://github.com/pbguo/querycdr)|
+|**2024-12-18 04:20:33**|**Efficient Language-instructed Skill Acquisition via Reward-Policy   Co-Evolution**|Changxin Huang et.al.|[2412.13492v1](http://arxiv.org/abs/2412.13492v1)|null|
 |**2024-12-17 17:19:58**|**Intermediate Relation Size Bounds for Select-Project-Join Query Plans:   Asymptotically Tight Characterizations**|Hubie Chen et.al.|[2412.13104v1](http://arxiv.org/abs/2412.13104v1)|null|
 |**2024-12-17 16:31:35**|**Optimal Hamiltonian recognition of unknown quantum dynamics**|Chengkai Zhu et.al.|[2412.13067v1](http://arxiv.org/abs/2412.13067v1)|null|
 |**2024-12-17 12:52:52**|**Cuckoo Heavy Keeper and the balancing act of maintaining heavy-hitters   in stream processing**|Vinh Quang Ngo et.al.|[2412.12873v1](http://arxiv.org/abs/2412.12873v1)|null|
@@ -28,7 +32,3 @@
 |**2024-12-12 13:14:15**|**Differential Privacy Releasing of Hierarchical Origin/Destination Data   with a TopDown Approach**|Fabrizio Boninsegna et.al.|[2412.09256v1](http://arxiv.org/abs/2412.09256v1)|null|
 |**2024-12-12 06:27:12**|**PickLLM: Context-Aware RL-Assisted Large Language Model Routing**|Dimitrios Sikeridis et.al.|[2412.12170v1](http://arxiv.org/abs/2412.12170v1)|null|
 |**2024-12-12 03:45:07**|**Continuous Gaussian Process Pre-Optimization for Asynchronous   Event-Inertial Odometry**|Zhixiang Wang et.al.|[2412.08909v1](http://arxiv.org/abs/2412.08909v1)|null|
-|**2024-12-11 19:35:06**|**DocVLM: Make Your VLM an Efficient Reader**|Mor Shpigel Nacson et.al.|[2412.08746v1](http://arxiv.org/abs/2412.08746v1)|null|
-|**2024-12-11 18:30:57**|**AdvWave: Stealthy Adversarial Jailbreak Attack against Large   Audio-Language Models**|Mintong Kang et.al.|[2412.08608v1](http://arxiv.org/abs/2412.08608v1)|null|
-|**2024-12-11 14:37:21**|**PointCFormer: a Relation-based Progressive Feature Extraction Network   for Point Cloud Completion**|Yi Zhong et.al.|[2412.08421v2](http://arxiv.org/abs/2412.08421v2)|[link](https://github.com/zyyyyy0926/pointcformer_plus_pytorch)|
-|**2024-12-11 12:18:30**|**SLGaussian: Fast Language Gaussian Splatting in Sparse Views**|Kangjie Chen et.al.|[2412.08331v1](http://arxiv.org/abs/2412.08331v1)|null|
