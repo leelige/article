@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-19 14:50:10**|**From Point to probabilistic gradient boosting for claim frequency and   severity prediction**|Dominik Chevalier et.al.|[2412.14916v1](http://arxiv.org/abs/2412.14916v1)|null|
 |**2024-12-18 15:41:47**|**Threshold UCT: Cost-Constrained Monte Carlo Tree Search with Pareto   Curves**|Martin Kurečka et.al.|[2412.13962v1](http://arxiv.org/abs/2412.13962v1)|null|
 |**2024-12-18 15:29:05**|**Surrogate-Based Optimization Techniques for Process Systems Engineering**|Mathias Neufang et.al.|[2412.13948v1](http://arxiv.org/abs/2412.13948v1)|null|
 |**2024-12-18 11:59:24**|**Cultivating Archipelago of Forests: Evolving Robust Decision Trees   through Island Coevolution**|Adam Żychowski et.al.|[2412.13762v1](http://arxiv.org/abs/2412.13762v1)|[link](https://github.com/zychowskia/icoevordf)|
@@ -31,4 +32,3 @@
 |**2024-11-29 06:40:45**|**Knowledge-Data Fusion Based Source-Free Semi-Supervised Domain   Adaptation for Seizure Subtype Classification**|Ruimin Peng et.al.|[2411.19502v1](http://arxiv.org/abs/2411.19502v1)|null|
 |**2024-11-27 11:10:28**|**Randomized-Grid Search for Hyperparameter Tuning in Decision Tree Model   to Improve Performance of Cardiovascular Disease Classification**|Abhay Kumar Pathak et.al.|[2411.18234v1](http://arxiv.org/abs/2411.18234v1)|null|
 |**2024-11-27 09:30:20**|**Machine Learning Estimation on the Trace of Inverse Dirac Operator using   the Gradient Boosting Decision Tree Regression**|Benjamin J. Choi et.al.|[2411.18170v2](http://arxiv.org/abs/2411.18170v2)|null|
-|**2024-11-26 00:18:18**|**Can a Single Tree Outperform an Entire Forest?**|Qiangqiang Mao et.al.|[2411.17003v1](http://arxiv.org/abs/2411.17003v1)|null|

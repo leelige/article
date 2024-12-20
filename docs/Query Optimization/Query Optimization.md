@@ -2,6 +2,11 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-19 14:17:09**|**Multimodal Hypothetical Summary for Retrieval-based Multi-image Question   Answering**|Peize Li et.al.|[2412.14880v1](http://arxiv.org/abs/2412.14880v1)|null|
+|**2024-12-19 11:30:07**|**Query pipeline optimization for cancer patient question answering   systems**|Maolin He et.al.|[2412.14751v1](http://arxiv.org/abs/2412.14751v1)|null|
+|**2024-12-19 10:47:31**|**FROC: Building Fair ROC from a Trained Classifier**|Avyukta Manjunatha Vummintala et.al.|[2412.14724v1](http://arxiv.org/abs/2412.14724v1)|[link](https://github.com/avyukta-manjunatha-vummintala/froc_code)|
+|**2024-12-19 04:34:09**|**Optimizing Big Active Data Management Systems**|Shahrzad Haji Amin Shirazi et.al.|[2412.14519v1](http://arxiv.org/abs/2412.14519v1)|null|
+|**2024-12-18 23:11:07**|**Fingerprinting Codes Meet Geometry: Improved Lower Bounds for Private   Query Release and Adaptive Data Analysis**|Xin Lyu et.al.|[2412.14396v1](http://arxiv.org/abs/2412.14396v1)|null|
 |**2024-12-18 13:00:09**|**Differentially Private Substring and Document Counting**|Giulia Bernardini et.al.|[2412.13813v1](http://arxiv.org/abs/2412.13813v1)|null|
 |**2024-12-18 07:20:33**|**Indirect Query Bayesian Optimization with Integrated Feedback**|Mengyan Zhang et.al.|[2412.13559v1](http://arxiv.org/abs/2412.13559v1)|null|
 |**2024-12-18 04:34:46**|**QueryCDR: Query-based Controllable Distortion Rectification Network for   Fisheye Images**|Pengbo Guo et.al.|[2412.13496v1](http://arxiv.org/abs/2412.13496v1)|[link](https://github.com/pbguo/querycdr)|
@@ -21,14 +26,9 @@
 |**2024-12-14 09:10:36**|**Rebalanced Vision-Language Retrieval Considering Structure-Aware   Distillation**|Yang Yang et.al.|[2412.10761v1](http://arxiv.org/abs/2412.10761v1)|null|
 |**2024-12-14 02:52:30**|**Optimal Static Dictionary with Worst-Case Constant Query Time**|Yang Hu et.al.|[2412.10655v1](http://arxiv.org/abs/2412.10655v1)|null|
 |**2024-12-13 23:42:24**|**Hybrid Preference Optimization for Alignment: Provably Faster   Convergence Rates by Combining Offline Preferences with Online Exploration**|Avinandan Bose et.al.|[2412.10616v1](http://arxiv.org/abs/2412.10616v1)|null|
-|**2024-12-13 22:52:47**|**iMoT: Inertial Motion Transformer for Inertial Navigation**|Son Minh Nguyen et.al.|[2412.12190v1](http://arxiv.org/abs/2412.12190v1)|null|
+|**2024-12-13 22:52:47**|**iMoT: Inertial Motion Transformer for Inertial Navigation**|Son Minh Nguyen et.al.|[2412.12190v1](http://arxiv.org/abs/2412.12190v1)|[link](https://github.com/Minh-Son-Nguyen/iMoT)|
 |**2024-12-13 20:49:01**|**EmpireDB: Data System to Accelerate Computational Sciences**|Daniel Alabi et.al.|[2412.10546v1](http://arxiv.org/abs/2412.10546v1)|null|
 |**2024-12-13 20:39:30**|**RAGServe: Fast Quality-Aware RAG Systems with Configuration Adaptation**|Siddhant Ray et.al.|[2412.10543v1](http://arxiv.org/abs/2412.10543v1)|null|
 |**2024-12-13 16:22:58**|**A Novel Framework Using Deep Reinforcement Learning for Join Order   Selection**|Chang Liu et.al.|[2412.10253v1](http://arxiv.org/abs/2412.10253v1)|null|
 |**2024-12-13 10:23:27**|**Graph Similarity Computation via Interpretable Neural Node Alignment**|Jingjing Wang et.al.|[2412.12185v1](http://arxiv.org/abs/2412.12185v1)|null|
 |**2024-12-12 17:04:35**|**DumpyOS: A Data-Adaptive Multi-ary Index for Scalable Data Series   Similarity Search**|Zeyu Wang et.al.|[2412.09448v1](http://arxiv.org/abs/2412.09448v1)|[link](https://github.com/DSM-fudan/DumpyOS)|
-|**2024-12-12 16:17:24**|**Resilience for Regular Path Queries: Towards a Complexity Classification**|Antoine Amarilli et.al.|[2412.09411v1](http://arxiv.org/abs/2412.09411v1)|null|
-|**2024-12-12 15:04:03**|**RTCUDB: Building Databases with RT Processors**|Xuri Shi et.al.|[2412.09337v2](http://arxiv.org/abs/2412.09337v2)|null|
-|**2024-12-12 13:14:15**|**Differential Privacy Releasing of Hierarchical Origin/Destination Data   with a TopDown Approach**|Fabrizio Boninsegna et.al.|[2412.09256v1](http://arxiv.org/abs/2412.09256v1)|null|
-|**2024-12-12 06:27:12**|**PickLLM: Context-Aware RL-Assisted Large Language Model Routing**|Dimitrios Sikeridis et.al.|[2412.12170v1](http://arxiv.org/abs/2412.12170v1)|null|
-|**2024-12-12 03:45:07**|**Continuous Gaussian Process Pre-Optimization for Asynchronous   Event-Inertial Odometry**|Zhixiang Wang et.al.|[2412.08909v1](http://arxiv.org/abs/2412.08909v1)|null|
