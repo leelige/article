@@ -11,7 +11,7 @@
 |**2024-12-19 16:57:45**|**Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual Stream   Diffusion**|Zhifei Chen et.al.|[2412.15050v1](http://arxiv.org/abs/2412.15050v1)|null|
 |**2024-12-19 16:07:00**|**HSEvo: Elevating Automatic Heuristic Design with Diversity-Driven   Harmony Search and Genetic Algorithm Using LLMs**|Pham Vu Tuan Dat et.al.|[2412.14995v1](http://arxiv.org/abs/2412.14995v1)|null|
 |**2024-12-19 15:11:52**|**Effective Method with Compression for Distributed and Federated   Cocoercive Variational Inequalities**|Daniil Medyakov et.al.|[2412.14935v1](http://arxiv.org/abs/2412.14935v1)|null|
-|**2024-12-19 14:06:56**|**Large-scale School Mapping using Weakly Supervised Deep Learning for   Universal School Connectivity**|Isabelle Tingzon et.al.|[2412.14870v1](http://arxiv.org/abs/2412.14870v1)|null|
+|**2024-12-19 14:06:56**|**Large-scale School Mapping using Weakly Supervised Deep Learning for   Universal School Connectivity**|Isabelle Tingzon et.al.|[2412.14870v1](http://arxiv.org/abs/2412.14870v1)|[link](https://github.com/unicef/giga-global-school-mapping)|
 |**2024-12-19 13:48:49**|**Surrogate-assisted multi-objective design of complex multibody systems**|Augustina C. Amakor et.al.|[2412.14854v1](http://arxiv.org/abs/2412.14854v1)|null|
 |**2024-12-19 13:39:24**|**A Survey of RWKV**|Zhiyuan Li et.al.|[2412.14847v1](http://arxiv.org/abs/2412.14847v1)|[link](https://github.com/MLGroupJLU/RWKV-Survey)|
 |**2024-12-19 13:09:06**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814v1](http://arxiv.org/abs/2412.14814v1)|null|
