@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-19 18:32:21**|**Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned   LLM**|Yatai Ji et.al.|[2412.15156v1](http://arxiv.org/abs/2412.15156v1)|[link](https://github.com/jiyt17/prompt-a-video)|
-|**2024-12-19 18:28:41**|**Language Models as Continuous Self-Evolving Data Engineers**|Peidong Wang et.al.|[2412.15151v1](http://arxiv.org/abs/2412.15151v1)|null|
-|**2024-12-19 18:27:12**|**Cruise Control: Dynamic Model Selection for ML-Based Network Traffic   Analysis**|Johann Hugon et.al.|[2412.15146v1](http://arxiv.org/abs/2412.15146v1)|null|
-|**2024-12-19 18:08:04**|**Adaptive Pruning for Large Language Models with Structural Importance   Awareness**|Haotian Zheng et.al.|[2412.15127v1](http://arxiv.org/abs/2412.15127v1)|null|
-|**2024-12-19 17:56:09**|**Qwen2.5 Technical Report**| Qwen et.al.|[2412.15115v1](http://arxiv.org/abs/2412.15115v1)|null|
-|**2024-12-19 17:29:14**|**Assessing the viability of non-light water reactor concepts for   electricity and heat generation in decarbonized energy systems**|Alexander Wimmers et.al.|[2412.15083v1](http://arxiv.org/abs/2412.15083v1)|null|
-|**2024-12-19 16:57:45**|**Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual Stream   Diffusion**|Zhifei Chen et.al.|[2412.15050v1](http://arxiv.org/abs/2412.15050v1)|null|
-|**2024-12-19 16:07:00**|**HSEvo: Elevating Automatic Heuristic Design with Diversity-Driven   Harmony Search and Genetic Algorithm Using LLMs**|Pham Vu Tuan Dat et.al.|[2412.14995v1](http://arxiv.org/abs/2412.14995v1)|null|
-|**2024-12-19 15:11:52**|**Effective Method with Compression for Distributed and Federated   Cocoercive Variational Inequalities**|Daniil Medyakov et.al.|[2412.14935v1](http://arxiv.org/abs/2412.14935v1)|null|
-|**2024-12-19 14:06:56**|**Large-scale School Mapping using Weakly Supervised Deep Learning for   Universal School Connectivity**|Isabelle Tingzon et.al.|[2412.14870v1](http://arxiv.org/abs/2412.14870v1)|[link](https://github.com/unicef/giga-global-school-mapping)|
-|**2024-12-19 13:48:49**|**Surrogate-assisted multi-objective design of complex multibody systems**|Augustina C. Amakor et.al.|[2412.14854v1](http://arxiv.org/abs/2412.14854v1)|null|
-|**2024-12-19 13:39:24**|**A Survey of RWKV**|Zhiyuan Li et.al.|[2412.14847v1](http://arxiv.org/abs/2412.14847v1)|[link](https://github.com/MLGroupJLU/RWKV-Survey)|
-|**2024-12-19 13:09:06**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814v1](http://arxiv.org/abs/2412.14814v1)|null|
-|**2024-12-19 12:56:52**|**Modeling of Real and Imaginary Phase Shifts for $α-α$   Scattering using Malfliet-Tjon Potential**|Shikha Awasthi et.al.|[2412.14807v1](http://arxiv.org/abs/2412.14807v1)|null|
-|**2024-12-19 11:55:51**|**ALKAFI-LLAMA3: Fine-Tuning LLMs for Precise Legal Understanding in   Palestine**|Rabee Qasem et.al.|[2412.14771v1](http://arxiv.org/abs/2412.14771v1)|null|
-|**2024-12-19 11:51:45**|**FLAMe: Federated Learning with Attention Mechanism using Spatio-Temporal   Keypoint Transformers for Pedestrian Fall Detection in Smart Cities**|Byeonghun Kim et.al.|[2412.14768v1](http://arxiv.org/abs/2412.14768v1)|null|
-|**2024-12-19 09:09:31**|**Robustness Evaluation of a Physical Internet-based Intermodal Logistic   Network**|Federico Gallo et.al.|[2412.14658v1](http://arxiv.org/abs/2412.14658v1)|null|
-|**2024-12-19 09:06:39**|**Trainable Adaptive Activation Function Structure (TAAFS) Enhances Neural   Network Force Field Performance with Only Dozens of Additional Parameters**|Enji Li et.al.|[2412.14655v1](http://arxiv.org/abs/2412.14655v1)|null|
-|**2024-12-19 08:56:28**|**AI-Enabled Rapid Assembly of Thousands of Defect-Free Neutral Atom   Arrays with Constant-time-overhead**|Rui Lin et.al.|[2412.14647v1](http://arxiv.org/abs/2412.14647v1)|null|
-|**2024-12-19 08:30:54**|**Qua$^2$SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models**|Keith G. Mills et.al.|[2412.14628v1](http://arxiv.org/abs/2412.14628v1)|null|
-|**2024-12-19 07:48:14**|**Towards Scalable and Deep Graph Neural Networks via Noise Masking**|Yuxuan Liang et.al.|[2412.14602v1](http://arxiv.org/abs/2412.14602v1)|null|
-|**2024-12-19 07:42:07**|**Fast inverse lithography based on a model-driven block stacking   convolutional neural network**|Ruixiang Chen et.al.|[2412.14599v1](http://arxiv.org/abs/2412.14599v1)|null|
-|**2024-12-19 07:06:01**|**Simulation-Free Hierarchical Latent Policy Planning for Proactive   Dialogues**|Tao He et.al.|[2412.14584v1](http://arxiv.org/abs/2412.14584v1)|null|
-|**2024-12-19 06:44:59**|**Sliding Windows Are Not the End: Exploring Full Ranking with   Long-Context Large Language Models**|Wenhan Liu et.al.|[2412.14574v1](http://arxiv.org/abs/2412.14574v1)|[link](https://github.com/8421bcd/fullrank)|
-|**2024-12-19 06:39:28**|**Improving Geometry in Sparse-View 3DGS via Reprojection-based DoF   Separation**|Yongsung Kim et.al.|[2412.14568v1](http://arxiv.org/abs/2412.14568v1)|null|
-|**2024-12-19 05:36:52**|**Downscaling Precipitation with Bias-informed Conditional Diffusion Model**|Ran Lyu et.al.|[2412.14539v1](http://arxiv.org/abs/2412.14539v1)|[link](https://github.com/roselv/research_super-resolution)|
-|**2024-12-19 05:02:30**|**Consistent Human Image and Video Generation with Spatially Conditioned   Diffusion**|Mingdeng Cao et.al.|[2412.14531v1](http://arxiv.org/abs/2412.14531v1)|[link](https://github.com/ljzycmd/scd)|
-|**2024-12-19 04:51:06**|**Multi-Level Optimal Transport for Universal Cross-Tokenizer Knowledge   Distillation on Language Models**|Xiao Cui et.al.|[2412.14528v1](http://arxiv.org/abs/2412.14528v1)|null|
-|**2024-12-19 04:45:36**|**Primary Beam Calibration for Commensal Telescopes Utilizing Offset   Optics**|Emil Polisensky et.al.|[2412.14525v1](http://arxiv.org/abs/2412.14525v1)|null|
-|**2024-12-19 04:38:34**|**CAE-T: A Channelwise AutoEncoder with Transformer for EEG Abnormality   Detection**|Youshen Zhao et.al.|[2412.14522v1](http://arxiv.org/abs/2412.14522v1)|[link](https://github.com/yossizhao/cae-t)|
+|**2024-12-20 18:31:24**|**EF-Net: A Deep Learning Approach Combining Word Embeddings and Feature   Fusion for Patient Disposition Analysis**|Nafisa Binte Feroz et.al.|[2412.16134v1](http://arxiv.org/abs/2412.16134v1)|[link](https://github.com/nafisa67/thesis)|
+|**2024-12-20 18:08:02**|**PromptOptMe: Error-Aware Prompt Compression for LLM-based MT Evaluation   Metrics**|Daniil Larionov et.al.|[2412.16120v1](http://arxiv.org/abs/2412.16120v1)|null|
+|**2024-12-20 17:45:56**|**Quantifying the benefit of load uncertainty reduction for the design of   district energy systems under grid constraints using the Value of Information**|Max Langtry et.al.|[2412.16105v1](http://arxiv.org/abs/2412.16105v1)|null|
+|**2024-12-20 17:06:53**|**Examining Entropic Unbalanced Optimal Transport and Sinkhorn Divergences   for Spatial Forecast Verification**|Jacob J. M. Francis et.al.|[2412.16063v1](http://arxiv.org/abs/2412.16063v1)|null|
+|**2024-12-20 16:39:06**|**Applying Predictive Analytics to Occupational Health and Safety in India**|Ritwik Raj Saxena et.al.|[2412.16038v1](http://arxiv.org/abs/2412.16038v1)|null|
+|**2024-12-20 16:17:46**|**Electric Vehicle Charging Stations Placement Optimization in Vietnam   Using Mixed-Integer Nonlinear Programming Model**|Quynh Vu Truc et.al.|[2412.16025v1](http://arxiv.org/abs/2412.16025v1)|null|
+|**2024-12-20 15:31:42**|**Shifting the yield curve for fixed-income and derivatives portfolios**|Michele Leonardo Bianchi et.al.|[2412.15986v1](http://arxiv.org/abs/2412.15986v1)|null|
+|**2024-12-20 15:18:31**|**Active Flow Control for Bluff Body under High Reynolds Number Turbulent   Flow Conditions Using Deep Reinforcement Learning**|Jingbo Chen et.al.|[2412.15975v1](http://arxiv.org/abs/2412.15975v1)|null|
+|**2024-12-20 14:52:51**|**Battery valuation on electricity intraday markets with liquidity costs**|Enzo Cognéville et.al.|[2412.15959v1](http://arxiv.org/abs/2412.15959v1)|null|
+|**2024-12-20 14:32:56**|**Reframing Image Difference Captioning with BLIP2IDC and Synthetic   Augmentation**|Gautier Evennou et.al.|[2412.15939v1](http://arxiv.org/abs/2412.15939v1)|null|
+|**2024-12-20 12:54:46**|**PyBOP: A Python package for battery model optimisation and   parameterisation**|Brady Planden et.al.|[2412.15859v1](http://arxiv.org/abs/2412.15859v1)|null|
+|**2024-12-20 11:59:34**|**Precision ICU Resource Planning: A Multimodal Model for Brain Surgery   Outcomes**|Maximilian Fischer et.al.|[2412.15818v1](http://arxiv.org/abs/2412.15818v1)|null|
+|**2024-12-20 10:43:42**|**Linguistic Features Extracted by GPT-4 Improve Alzheimer's Disease   Detection based on Spontaneous Speech**|Jonathan Heitz et.al.|[2412.15772v1](http://arxiv.org/abs/2412.15772v1)|[link](https://github.com/jheitz/coling2025_gpt_paper)|
+|**2024-12-20 10:24:08**|**Function Space Diversity for Uncertainty Prediction via Repulsive   Last-Layer Ensembles**|Sophie Steger et.al.|[2412.15758v1](http://arxiv.org/abs/2412.15758v1)|null|
+|**2024-12-20 09:37:02**|**AutoLife: Automatic Life Journaling with Smartphones and LLMs**|Huatao Xu et.al.|[2412.15714v1](http://arxiv.org/abs/2412.15714v1)|null|
+|**2024-12-20 09:33:31**|**Contrastive Learning for Task-Independent SpeechLLM-Pretraining**|Maike Züfle et.al.|[2412.15712v1](http://arxiv.org/abs/2412.15712v1)|null|
+|**2024-12-20 08:27:23**|**Quantum Subroutines in Branch-Price-and-Cut for Vehicle Routing**|Friedrich Wagner et.al.|[2412.15665v1](http://arxiv.org/abs/2412.15665v1)|null|
+|**2024-12-20 07:59:18**|**An adaptive approximate Bayesian computation MCMC with Global-Local   proposals**|Xuefei Cao et.al.|[2412.15644v1](http://arxiv.org/abs/2412.15644v1)|[link](https://github.com/caofff/GL-ABC-MCMC)|
+|**2024-12-20 07:28:04**|**TouchASP: Elastic Automatic Speech Perception that Everyone Can Touch**|Xingchen Song et.al.|[2412.15622v1](http://arxiv.org/abs/2412.15622v1)|null|
+|**2024-12-20 07:06:55**|**Robust Dynamic Edge Service Placement Under Spatio-Temporal Correlated   Demand Uncertainty**|Jiaming Cheng et.al.|[2412.15608v1](http://arxiv.org/abs/2412.15608v1)|null|
+|**2024-12-20 06:39:40**|**Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic   Context for Radar Object Detection in Autonomous Driving**|Yuzhi Wu et.al.|[2412.15595v1](http://arxiv.org/abs/2412.15595v1)|null|
+|**2024-12-20 04:31:03**|**MORTAR: Metamorphic Multi-turn Testing for LLM-based Dialogue Systems**|Guoxiang Guo et.al.|[2412.15557v1](http://arxiv.org/abs/2412.15557v1)|null|
+|**2024-12-20 03:15:02**|**PreNeT: Leveraging Computational Features to Predict Deep Neural Network   Training Time**|Alireza Pourali et.al.|[2412.15519v1](http://arxiv.org/abs/2412.15519v1)|[link](https://github.com/pacslab/prenet)|
+|**2024-12-20 02:55:07**|**RESQUE: Quantifying Estimator to Task and Distribution Shift for   Sustainable Model Reusability**|Vishwesh Sangarya et.al.|[2412.15511v1](http://arxiv.org/abs/2412.15511v1)|[link](https://github.com/jekimlab/aaai2025resque)|
+|**2024-12-19 22:59:55**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene   Reconstruction**|Pou-Chun Kung et.al.|[2412.15447v1](http://arxiv.org/abs/2412.15447v1)|null|
+|**2024-12-19 21:11:08**|**Optimizing Photovoltaic Panel Quantity for Water Distribution Networks**|Mirhan Ürkmez et.al.|[2412.15402v1](http://arxiv.org/abs/2412.15402v1)|null|
+|**2024-12-19 20:16:21**|**What Leads to Administrative Bloat? A Dynamic Model of Administrative   Cost and Waste**|Vicky Chuqiao Yang et.al.|[2412.15378v1](http://arxiv.org/abs/2412.15378v1)|null|
+|**2024-12-19 20:09:38**|**A Multi-Fidelity Graph U-Net Model for Accelerated Physics Simulations**|Rini Jasmine Gladstone et.al.|[2412.15372v1](http://arxiv.org/abs/2412.15372v1)|null|
+|**2024-12-19 19:38:33**|**Large Language Models on Small Resource-Constrained Systems: Performance   Characterization, Analysis and Trade-offs**|Liam Seymour et.al.|[2412.15352v1](http://arxiv.org/abs/2412.15352v1)|[link](https://github.com/liams57/orin-llm-testing)|
+|**2024-12-19 19:19:16**|**Graph-Theoretical Description and Continuity Problems for Stress   Propagation Through Complex Strut Lattices**|Marcos A. Reyes-Martinez et.al.|[2412.15344v1](http://arxiv.org/abs/2412.15344v1)|null|

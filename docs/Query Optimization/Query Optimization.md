@@ -2,6 +2,9 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-20 13:10:43**|**IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing**|Chun Gu et.al.|[2412.15867v1](http://arxiv.org/abs/2412.15867v1)|null|
+|**2024-12-20 13:00:39**|**Bayesian Optimization for Unknown Cost-Varying Variable Subsets with   No-Regret Costs**|Vu Viet Hoang et.al.|[2412.15863v1](http://arxiv.org/abs/2412.15863v1)|null|
+|**2024-12-20 00:06:13**|**Computing the Non-Dominated Flexible Skyline in Vertically Distributed   Datasets with No Random Access**|Davide Martinenghi et.al.|[2412.15468v1](http://arxiv.org/abs/2412.15468v1)|null|
 |**2024-12-19 14:17:09**|**Multimodal Hypothetical Summary for Retrieval-based Multi-image Question   Answering**|Peize Li et.al.|[2412.14880v1](http://arxiv.org/abs/2412.14880v1)|null|
 |**2024-12-19 11:30:07**|**Query pipeline optimization for cancer patient question answering   systems**|Maolin He et.al.|[2412.14751v1](http://arxiv.org/abs/2412.14751v1)|null|
 |**2024-12-19 10:47:31**|**FROC: Building Fair ROC from a Trained Classifier**|Avyukta Manjunatha Vummintala et.al.|[2412.14724v1](http://arxiv.org/abs/2412.14724v1)|[link](https://github.com/avyukta-manjunatha-vummintala/froc_code)|
@@ -13,6 +16,7 @@
 |**2024-12-18 04:20:33**|**Efficient Language-instructed Skill Acquisition via Reward-Policy   Co-Evolution**|Changxin Huang et.al.|[2412.13492v1](http://arxiv.org/abs/2412.13492v1)|[link](https://github.com/nextmylove/roska)|
 |**2024-12-17 17:19:58**|**Intermediate Relation Size Bounds for Select-Project-Join Query Plans:   Asymptotically Tight Characterizations**|Hubie Chen et.al.|[2412.13104v1](http://arxiv.org/abs/2412.13104v1)|null|
 |**2024-12-17 16:31:35**|**Optimal Hamiltonian recognition of unknown quantum dynamics**|Chengkai Zhu et.al.|[2412.13067v1](http://arxiv.org/abs/2412.13067v1)|null|
+|**2024-12-17 15:40:08**|**SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven   Retrieval-Augmented Generation**|Yuzheng Cai et.al.|[2412.15272v1](http://arxiv.org/abs/2412.15272v1)|[link](https://github.com/YZ-Cai/SimGRAG)|
 |**2024-12-17 12:52:52**|**Cuckoo Heavy Keeper and the balancing act of maintaining heavy-hitters   in stream processing**|Vinh Quang Ngo et.al.|[2412.12873v1](http://arxiv.org/abs/2412.12873v1)|[link](https://github.com/vinhqngo5/cuckoo_heavy_keeper)|
 |**2024-12-17 10:36:52**|**RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service**|Yihang Cheng et.al.|[2412.12775v1](http://arxiv.org/abs/2412.12775v1)|null|
 |**2024-12-17 09:47:48**|**RaCFormer: Towards High-Quality 3D Object Detection via Query-based   Radar-Camera Fusion**|Xiaomeng Chu et.al.|[2412.12725v1](http://arxiv.org/abs/2412.12725v1)|null|
@@ -28,7 +32,3 @@
 |**2024-12-13 23:42:24**|**Hybrid Preference Optimization for Alignment: Provably Faster   Convergence Rates by Combining Offline Preferences with Online Exploration**|Avinandan Bose et.al.|[2412.10616v1](http://arxiv.org/abs/2412.10616v1)|null|
 |**2024-12-13 22:52:47**|**iMoT: Inertial Motion Transformer for Inertial Navigation**|Son Minh Nguyen et.al.|[2412.12190v1](http://arxiv.org/abs/2412.12190v1)|[link](https://github.com/Minh-Son-Nguyen/iMoT)|
 |**2024-12-13 20:49:01**|**EmpireDB: Data System to Accelerate Computational Sciences**|Daniel Alabi et.al.|[2412.10546v1](http://arxiv.org/abs/2412.10546v1)|null|
-|**2024-12-13 20:39:30**|**RAGServe: Fast Quality-Aware RAG Systems with Configuration Adaptation**|Siddhant Ray et.al.|[2412.10543v1](http://arxiv.org/abs/2412.10543v1)|null|
-|**2024-12-13 16:22:58**|**A Novel Framework Using Deep Reinforcement Learning for Join Order   Selection**|Chang Liu et.al.|[2412.10253v1](http://arxiv.org/abs/2412.10253v1)|null|
-|**2024-12-13 10:23:27**|**Graph Similarity Computation via Interpretable Neural Node Alignment**|Jingjing Wang et.al.|[2412.12185v1](http://arxiv.org/abs/2412.12185v1)|null|
-|**2024-12-12 17:04:35**|**DumpyOS: A Data-Adaptive Multi-ary Index for Scalable Data Series   Similarity Search**|Zeyu Wang et.al.|[2412.09448v1](http://arxiv.org/abs/2412.09448v1)|[link](https://github.com/DSM-fudan/DumpyOS)|
