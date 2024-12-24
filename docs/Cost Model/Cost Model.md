@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-20 18:31:24**|**EF-Net: A Deep Learning Approach Combining Word Embeddings and Feature   Fusion for Patient Disposition Analysis**|Nafisa Binte Feroz et.al.|[2412.16134v1](http://arxiv.org/abs/2412.16134v1)|[link](https://github.com/nafisa67/thesis)|
-|**2024-12-20 18:08:02**|**PromptOptMe: Error-Aware Prompt Compression for LLM-based MT Evaluation   Metrics**|Daniil Larionov et.al.|[2412.16120v1](http://arxiv.org/abs/2412.16120v1)|null|
-|**2024-12-20 17:45:56**|**Quantifying the benefit of load uncertainty reduction for the design of   district energy systems under grid constraints using the Value of Information**|Max Langtry et.al.|[2412.16105v1](http://arxiv.org/abs/2412.16105v1)|null|
-|**2024-12-20 17:06:53**|**Examining Entropic Unbalanced Optimal Transport and Sinkhorn Divergences   for Spatial Forecast Verification**|Jacob J. M. Francis et.al.|[2412.16063v1](http://arxiv.org/abs/2412.16063v1)|null|
-|**2024-12-20 16:39:06**|**Applying Predictive Analytics to Occupational Health and Safety in India**|Ritwik Raj Saxena et.al.|[2412.16038v1](http://arxiv.org/abs/2412.16038v1)|null|
-|**2024-12-20 16:17:46**|**Electric Vehicle Charging Stations Placement Optimization in Vietnam   Using Mixed-Integer Nonlinear Programming Model**|Quynh Vu Truc et.al.|[2412.16025v1](http://arxiv.org/abs/2412.16025v1)|null|
-|**2024-12-20 15:31:42**|**Shifting the yield curve for fixed-income and derivatives portfolios**|Michele Leonardo Bianchi et.al.|[2412.15986v1](http://arxiv.org/abs/2412.15986v1)|null|
-|**2024-12-20 15:18:31**|**Active Flow Control for Bluff Body under High Reynolds Number Turbulent   Flow Conditions Using Deep Reinforcement Learning**|Jingbo Chen et.al.|[2412.15975v1](http://arxiv.org/abs/2412.15975v1)|null|
-|**2024-12-20 14:52:51**|**Battery valuation on electricity intraday markets with liquidity costs**|Enzo Cognéville et.al.|[2412.15959v1](http://arxiv.org/abs/2412.15959v1)|null|
-|**2024-12-20 14:32:56**|**Reframing Image Difference Captioning with BLIP2IDC and Synthetic   Augmentation**|Gautier Evennou et.al.|[2412.15939v1](http://arxiv.org/abs/2412.15939v1)|null|
-|**2024-12-20 12:54:46**|**PyBOP: A Python package for battery model optimisation and   parameterisation**|Brady Planden et.al.|[2412.15859v1](http://arxiv.org/abs/2412.15859v1)|null|
-|**2024-12-20 11:59:34**|**Precision ICU Resource Planning: A Multimodal Model for Brain Surgery   Outcomes**|Maximilian Fischer et.al.|[2412.15818v1](http://arxiv.org/abs/2412.15818v1)|null|
-|**2024-12-20 10:43:42**|**Linguistic Features Extracted by GPT-4 Improve Alzheimer's Disease   Detection based on Spontaneous Speech**|Jonathan Heitz et.al.|[2412.15772v1](http://arxiv.org/abs/2412.15772v1)|[link](https://github.com/jheitz/coling2025_gpt_paper)|
-|**2024-12-20 10:24:08**|**Function Space Diversity for Uncertainty Prediction via Repulsive   Last-Layer Ensembles**|Sophie Steger et.al.|[2412.15758v1](http://arxiv.org/abs/2412.15758v1)|null|
-|**2024-12-20 09:37:02**|**AutoLife: Automatic Life Journaling with Smartphones and LLMs**|Huatao Xu et.al.|[2412.15714v1](http://arxiv.org/abs/2412.15714v1)|null|
-|**2024-12-20 09:33:31**|**Contrastive Learning for Task-Independent SpeechLLM-Pretraining**|Maike Züfle et.al.|[2412.15712v1](http://arxiv.org/abs/2412.15712v1)|null|
-|**2024-12-20 08:27:23**|**Quantum Subroutines in Branch-Price-and-Cut for Vehicle Routing**|Friedrich Wagner et.al.|[2412.15665v1](http://arxiv.org/abs/2412.15665v1)|null|
-|**2024-12-20 07:59:18**|**An adaptive approximate Bayesian computation MCMC with Global-Local   proposals**|Xuefei Cao et.al.|[2412.15644v1](http://arxiv.org/abs/2412.15644v1)|[link](https://github.com/caofff/GL-ABC-MCMC)|
-|**2024-12-20 07:28:04**|**TouchASP: Elastic Automatic Speech Perception that Everyone Can Touch**|Xingchen Song et.al.|[2412.15622v1](http://arxiv.org/abs/2412.15622v1)|null|
-|**2024-12-20 07:06:55**|**Robust Dynamic Edge Service Placement Under Spatio-Temporal Correlated   Demand Uncertainty**|Jiaming Cheng et.al.|[2412.15608v1](http://arxiv.org/abs/2412.15608v1)|null|
-|**2024-12-20 06:39:40**|**Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic   Context for Radar Object Detection in Autonomous Driving**|Yuzhi Wu et.al.|[2412.15595v1](http://arxiv.org/abs/2412.15595v1)|null|
-|**2024-12-20 04:31:03**|**MORTAR: Metamorphic Multi-turn Testing for LLM-based Dialogue Systems**|Guoxiang Guo et.al.|[2412.15557v1](http://arxiv.org/abs/2412.15557v1)|null|
-|**2024-12-20 03:15:02**|**PreNeT: Leveraging Computational Features to Predict Deep Neural Network   Training Time**|Alireza Pourali et.al.|[2412.15519v1](http://arxiv.org/abs/2412.15519v1)|[link](https://github.com/pacslab/prenet)|
-|**2024-12-20 02:55:07**|**RESQUE: Quantifying Estimator to Task and Distribution Shift for   Sustainable Model Reusability**|Vishwesh Sangarya et.al.|[2412.15511v1](http://arxiv.org/abs/2412.15511v1)|[link](https://github.com/jekimlab/aaai2025resque)|
-|**2024-12-19 22:59:55**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene   Reconstruction**|Pou-Chun Kung et.al.|[2412.15447v1](http://arxiv.org/abs/2412.15447v1)|null|
-|**2024-12-19 21:11:08**|**Optimizing Photovoltaic Panel Quantity for Water Distribution Networks**|Mirhan Ürkmez et.al.|[2412.15402v1](http://arxiv.org/abs/2412.15402v1)|null|
-|**2024-12-19 20:16:21**|**What Leads to Administrative Bloat? A Dynamic Model of Administrative   Cost and Waste**|Vicky Chuqiao Yang et.al.|[2412.15378v1](http://arxiv.org/abs/2412.15378v1)|null|
-|**2024-12-19 20:09:38**|**A Multi-Fidelity Graph U-Net Model for Accelerated Physics Simulations**|Rini Jasmine Gladstone et.al.|[2412.15372v1](http://arxiv.org/abs/2412.15372v1)|null|
-|**2024-12-19 19:38:33**|**Large Language Models on Small Resource-Constrained Systems: Performance   Characterization, Analysis and Trade-offs**|Liam Seymour et.al.|[2412.15352v1](http://arxiv.org/abs/2412.15352v1)|[link](https://github.com/liams57/orin-llm-testing)|
-|**2024-12-19 19:19:16**|**Graph-Theoretical Description and Continuity Problems for Stress   Propagation Through Complex Strut Lattices**|Marcos A. Reyes-Martinez et.al.|[2412.15344v1](http://arxiv.org/abs/2412.15344v1)|null|
+|**2024-12-23 18:02:25**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747v1](http://arxiv.org/abs/2412.17747v1)|null|
+|**2024-12-23 17:17:50**|**Knowledge Editing through Chain-of-Thought**|Changyue Wang et.al.|[2412.17727v1](http://arxiv.org/abs/2412.17727v1)|[link](https://github.com/bebr2/editcot)|
+|**2024-12-23 16:20:04**|**Nonlinear model reduction with Neural Galerkin schemes on quadratic   manifolds**|Philipp Weder et.al.|[2412.17695v1](http://arxiv.org/abs/2412.17695v1)|null|
+|**2024-12-23 16:10:07**|**COBRA: COmBinatorial Retrieval Augmentation for Few-Shot Learning**|Arnav M. Das et.al.|[2412.17684v1](http://arxiv.org/abs/2412.17684v1)|null|
+|**2024-12-23 15:21:28**|**DreamFit: Garment-Centric Human Generation via a Lightweight   Anything-Dressing Encoder**|Ente Lin et.al.|[2412.17644v1](http://arxiv.org/abs/2412.17644v1)|null|
+|**2024-12-23 14:31:15**|**CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed   Learning for Large Scene Reconstruction**|Yuanyuan Gao et.al.|[2412.17612v1](http://arxiv.org/abs/2412.17612v1)|null|
+|**2024-12-23 14:29:41**|**Personalized Large Vision-Language Models**|Chau Pham et.al.|[2412.17610v1](http://arxiv.org/abs/2412.17610v1)|null|
+|**2024-12-23 13:28:15**|**GQSA: Group Quantization and Sparsity for Accelerating Large Language   Model Inference**|Chao Zeng et.al.|[2412.17560v1](http://arxiv.org/abs/2412.17560v1)|null|
+|**2024-12-23 13:26:04**|**A Survey of Query Optimization in Large Language Models**|Mingyang Song et.al.|[2412.17558v1](http://arxiv.org/abs/2412.17558v1)|null|
+|**2024-12-23 12:50:47**|**Enhancing Cancer Diagnosis with Explainable & Trustworthy Deep Learning   Models**|Badaru I. Olumuyiwa et.al.|[2412.17527v1](http://arxiv.org/abs/2412.17527v1)|null|
+|**2024-12-23 12:48:10**|**STAHGNet: Modeling Hybrid-grained Heterogenous Dependency Efficiently   for Traffic Prediction**|Jiyao Wang et.al.|[2412.17524v1](http://arxiv.org/abs/2412.17524v1)|null|
+|**2024-12-23 12:47:04**|**Constructing Fair Latent Space for Intersection of Fairness and   Explainability**|Hyungjun Joo et.al.|[2412.17523v1](http://arxiv.org/abs/2412.17523v1)|null|
+|**2024-12-23 11:29:44**|**Is ChatGPT Massively Used by Students Nowadays? A Survey on the Use of   Large Language Models such as ChatGPT in Educational Settings**|Jérémie Sublime et.al.|[2412.17486v1](http://arxiv.org/abs/2412.17486v1)|null|
+|**2024-12-23 11:27:17**|**Power- and Fragmentation-aware Online Scheduling for GPU Datacenters**|Francesco Lettich et.al.|[2412.17484v1](http://arxiv.org/abs/2412.17484v1)|[link](https://github.com/fr4nz83/pwr-plugin-kubernetes)|
+|**2024-12-23 10:21:38**|**Learning from Summarized Data: Gaussian Process Regression with Sample   Quasi-Likelihood**|Yuta Shikuri et.al.|[2412.17455v1](http://arxiv.org/abs/2412.17455v1)|null|
+|**2024-12-23 09:52:54**|**Applications of maximum likelihood estimations for analyzing photon   counts in few atom experiments**|M. Weyland et.al.|[2412.17434v1](http://arxiv.org/abs/2412.17434v1)|null|
+|**2024-12-23 08:46:29**|**AeroDiT: Diffusion Transformers for Reynolds-Averaged Navier-Stokes   Simulations of Airfoil Flows**|Hui Xiang et.al.|[2412.17394v1](http://arxiv.org/abs/2412.17394v1)|null|
+|**2024-12-23 08:40:08**|**Singular Value Scaling: Efficient Generative Model Compression via   Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387v1](http://arxiv.org/abs/2412.17387v1)|[link](https://github.com/LAIT-CVLab/Singular_Value_Scaling)|
+|**2024-12-23 05:50:11**|**When Focus Enhances Utility: Target Range LDP Frequency Estimation and   Unknown Item Discovery**|Bo Jiang et.al.|[2412.17303v1](http://arxiv.org/abs/2412.17303v1)|null|
+|**2024-12-23 05:41:46**|**Routing mobile health clinics: An integrated routing and resupply plan   based on synchronization**|Faisal Alkaabneh et.al.|[2412.17299v1](http://arxiv.org/abs/2412.17299v1)|null|
+|**2024-12-23 05:22:44**|**Free-viewpoint Human Animation with Pose-correlated Reference Selection**|Fa-Ting Hong et.al.|[2412.17290v1](http://arxiv.org/abs/2412.17290v1)|null|
+|**2024-12-23 05:20:01**|**Multi-Modal Grounded Planning and Efficient Replanning For Learning   Embodied Agents with A Few Examples**|Taewoong Kim et.al.|[2412.17288v1](http://arxiv.org/abs/2412.17288v1)|[link](https://github.com/snumprlab/flare)|
+|**2024-12-23 05:06:19**|**Emerging Microelectronic Materials by Design: Navigating Combinatorial   Design Space with Scarce and Dispersed Data**|Hengrui Zhang et.al.|[2412.17283v1](http://arxiv.org/abs/2412.17283v1)|null|
+|**2024-12-23 04:01:44**|**An Intrinsically Explainable Approach to Detecting Vertebral Compression   Fractures in CT Scans via Neurosymbolic Modeling**|Blanca Inigo et.al.|[2412.17258v1](http://arxiv.org/abs/2412.17258v1)|null|
+|**2024-12-23 03:50:29**|**A Coalition Game for On-demand Multi-modal 3D Automated Delivery System**|Farzan Moosavi et.al.|[2412.17252v1](http://arxiv.org/abs/2412.17252v1)|null|
+|**2024-12-23 02:58:12**|**FedMeld: A Model-dispersal Federated Learning Framework for Space-ground   Integrated Networks**|Qian Chen et.al.|[2412.17231v1](http://arxiv.org/abs/2412.17231v1)|null|
+|**2024-12-22 22:57:08**|**Foundation Model for Lossy Compression of Spatiotemporal Scientific Data**|Xiao Li et.al.|[2412.17184v1](http://arxiv.org/abs/2412.17184v1)|null|
+|**2024-12-22 19:37:07**|**AI-Based Teat Shape and Skin Condition Prediction for Dairy Management**|Yuexing Hao et.al.|[2412.17142v1](http://arxiv.org/abs/2412.17142v1)|null|
+|**2024-12-22 18:15:21**|**Transformer-Based Model Predictive Path Integral Control**|Shrenik Zinage et.al.|[2412.17118v1](http://arxiv.org/abs/2412.17118v1)|null|
+|**2024-12-22 15:07:58**|**On incorporating variable consumption functions within energy-efficient   parallel machine scheduling**|Mirko Mucciarini et.al.|[2412.17055v1](http://arxiv.org/abs/2412.17055v1)|null|

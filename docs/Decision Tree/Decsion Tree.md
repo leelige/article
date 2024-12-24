@@ -9,7 +9,7 @@
 |**2024-12-18 15:29:05**|**Surrogate-Based Optimization Techniques for Process Systems Engineering**|Mathias Neufang et.al.|[2412.13948v1](http://arxiv.org/abs/2412.13948v1)|null|
 |**2024-12-18 11:59:24**|**Cultivating Archipelago of Forests: Evolving Robust Decision Trees   through Island Coevolution**|Adam Żychowski et.al.|[2412.13762v1](http://arxiv.org/abs/2412.13762v1)|[link](https://github.com/zychowskia/icoevordf)|
 |**2024-12-17 21:54:55**|**A Novel Machine Learning Classifier Based on Genetic Algorithms and Data   Importance Reformatting**|A. K. Alkhayyata et.al.|[2412.13350v1](http://arxiv.org/abs/2412.13350v1)|null|
-|**2024-12-17 17:45:58**|**Previous Knowledge Utilization In Online Anytime Belief Space Planning**|Michael Novitsky et.al.|[2412.13128v1](http://arxiv.org/abs/2412.13128v1)|null|
+|**2024-12-17 17:45:58**|**Previous Knowledge Utilization In Online Anytime Belief Space Planning**|Michael Novitsky et.al.|[2412.13128v2](http://arxiv.org/abs/2412.13128v2)|[link](https://github.com/miken1990/ir-pft)|
 |**2024-12-17 16:15:04**|**SMOSE: Sparse Mixture of Shallow Experts for Interpretable Reinforcement   Learning in Continuous Control Tasks**|Mátyás Vincze et.al.|[2412.13053v1](http://arxiv.org/abs/2412.13053v1)|null|
 |**2024-12-16 16:38:50**|**Witty: An Efficient Solver for Computing Minimum-Size Decision Trees**|Luca Pascal Staus et.al.|[2412.11954v1](http://arxiv.org/abs/2412.11954v1)|null|
 |**2024-12-15 18:24:26**|**Monte Carlo Tree Search with Spectral Expansion for Planning with   Dynamical Systems**|Benjamin Riviere et.al.|[2412.11270v1](http://arxiv.org/abs/2412.11270v1)|[link](https://github.com/aerorobotics/sets)|
