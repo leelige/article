@@ -1,11 +1,26 @@
 # arxiv-daily
- 自动更新 @ 2024-12-24 16:11:25 Asia/Shanghai
+ 自动更新 @ 2024-12-25 16:11:24 Asia/Shanghai
+
+## Cost Model
+
+### Cost Model
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-24 18:56:46**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603v1](http://arxiv.org/abs/2412.18603v1)|[link](https://github.com/google-deepmind/librispeech-long)|
+|**2024-12-24 17:36:27**|**Efficient Aircraft Design Optimization Using Multi-Fidelity Models and   Multi-fidelity Physics Informed Neural Networks**|Apurba Sarker et.al.|[2412.18564v1](http://arxiv.org/abs/2412.18564v1)|null|
+|**2024-12-24 17:20:43**|**FedVCK: Non-IID Robust and Communication-Efficient Federated Learning   via Valuable Condensed Knowledge for Medical Image Analysis**|Guochen Yan et.al.|[2412.18557v1](http://arxiv.org/abs/2412.18557v1)|null|
+|**2024-12-24 17:07:18**|**Advancing Surface Chemistry with Large-Scale Ab-Initio Quantum Many-Body   Simulations**|Zigeng Huang et.al.|[2412.18553v1](http://arxiv.org/abs/2412.18553v1)|null|
+|**2024-12-24 17:05:26**|**Distilling Fine-grained Sentiment Understanding from Large Language   Models**|Yice Zhang et.al.|[2412.18552v1](http://arxiv.org/abs/2412.18552v1)|[link](https://github.com/hitsz-hlt/fsa-distillation)|
+|**2024-12-24 17:01:29**|**Post-pandemic social contacts in Italy: implications for social   distancing measures on in-person school and work attendance**|Lorenzo Lucchini et.al.|[2412.18549v1](http://arxiv.org/abs/2412.18549v1)|null|
 
 ## Query Optimization
 
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-24 12:33:44**|**TPAoI: Ensuring Fresh Service Status at the Network Edge in   Compute-First Networking**|Haosheng He et.al.|[2412.18391v1](http://arxiv.org/abs/2412.18391v1)|null|
+|**2024-12-24 08:39:35**|**Improving Multi-Step Reasoning Abilities of Large Language Models with   Direct Advantage Policy Optimization**|Jiacai Liu et.al.|[2412.18279v1](http://arxiv.org/abs/2412.18279v1)|null|
+|**2024-12-24 07:30:55**|**Efficient Long Context Language Model Retrieval with Compression**|Minju Seo et.al.|[2412.18232v1](http://arxiv.org/abs/2412.18232v1)|null|
 |**2024-12-23 18:53:33**|**Observation Interference in Partially Observable Assistance Games**|Scott Emmons et.al.|[2412.17797v1](http://arxiv.org/abs/2412.17797v1)|null|
 |**2024-12-23 17:44:05**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741v1](http://arxiv.org/abs/2412.17741v1)|[link](https://github.com/rui-qian/READ)|
 |**2024-12-23 14:48:17**|**Be More Diverse than the Most Diverse: Online Selection of Diverse   Mixtures of Generative Models**|Parham Rezaei et.al.|[2412.17622v1](http://arxiv.org/abs/2412.17622v1)|[link](https://github.com/rezaei-parham/mixture-ucb)|
@@ -26,52 +41,13 @@
 |**2024-12-18 23:11:07**|**Fingerprinting Codes Meet Geometry: Improved Lower Bounds for Private   Query Release and Adaptive Data Analysis**|Xin Lyu et.al.|[2412.14396v1](http://arxiv.org/abs/2412.14396v1)|null|
 |**2024-12-18 13:00:09**|**Differentially Private Substring and Document Counting**|Giulia Bernardini et.al.|[2412.13813v1](http://arxiv.org/abs/2412.13813v1)|null|
 |**2024-12-18 07:20:33**|**Indirect Query Bayesian Optimization with Integrated Feedback**|Mengyan Zhang et.al.|[2412.13559v1](http://arxiv.org/abs/2412.13559v1)|null|
-|**2024-12-18 04:34:46**|**QueryCDR: Query-based Controllable Distortion Rectification Network for   Fisheye Images**|Pengbo Guo et.al.|[2412.13496v1](http://arxiv.org/abs/2412.13496v1)|[link](https://github.com/pbguo/querycdr)|
+|**2024-12-18 04:34:46**|**QueryCDR: Query-Based Controllable Distortion Rectification Network for   Fisheye Images**|Pengbo Guo et.al.|[2412.13496v2](http://arxiv.org/abs/2412.13496v2)|[link](https://github.com/pbguo/querycdr)|
 |**2024-12-18 04:20:33**|**Efficient Language-instructed Skill Acquisition via Reward-Policy   Co-Evolution**|Changxin Huang et.al.|[2412.13492v1](http://arxiv.org/abs/2412.13492v1)|[link](https://github.com/nextmylove/roska)|
 |**2024-12-17 17:19:58**|**Intermediate Relation Size Bounds for Select-Project-Join Query Plans:   Asymptotically Tight Characterizations**|Hubie Chen et.al.|[2412.13104v1](http://arxiv.org/abs/2412.13104v1)|null|
 |**2024-12-17 16:31:35**|**Optimal Hamiltonian recognition of unknown quantum dynamics**|Chengkai Zhu et.al.|[2412.13067v1](http://arxiv.org/abs/2412.13067v1)|null|
 |**2024-12-17 15:40:08**|**SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven   Retrieval-Augmented Generation**|Yuzheng Cai et.al.|[2412.15272v1](http://arxiv.org/abs/2412.15272v1)|[link](https://github.com/YZ-Cai/SimGRAG)|
 |**2024-12-17 12:52:52**|**Cuckoo Heavy Keeper and the balancing act of maintaining heavy-hitters   in stream processing**|Vinh Quang Ngo et.al.|[2412.12873v1](http://arxiv.org/abs/2412.12873v1)|[link](https://github.com/vinhqngo5/cuckoo_heavy_keeper)|
 |**2024-12-17 10:36:52**|**RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service**|Yihang Cheng et.al.|[2412.12775v1](http://arxiv.org/abs/2412.12775v1)|null|
-|**2024-12-17 09:47:48**|**RaCFormer: Towards High-Quality 3D Object Detection via Query-based   Radar-Camera Fusion**|Xiaomeng Chu et.al.|[2412.12725v1](http://arxiv.org/abs/2412.12725v1)|null|
-|**2024-12-16 19:11:55**|**Unanswerability Evaluation for Retreival Augmented Generation**|Xiangyu Peng et.al.|[2412.12300v1](http://arxiv.org/abs/2412.12300v1)|null|
-|**2024-12-16 18:20:06**|**Exploring Semantic Consistency and Style Diversity for Domain   Generalized Semantic Segmentation**|Hongwei Niu et.al.|[2412.12050v1](http://arxiv.org/abs/2412.12050v1)|[link](https://github.com/nhw649/scsd)|
-
-## Cost Model
-
-### Cost Model
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-23 18:02:25**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747v1](http://arxiv.org/abs/2412.17747v1)|null|
-|**2024-12-23 17:17:50**|**Knowledge Editing through Chain-of-Thought**|Changyue Wang et.al.|[2412.17727v1](http://arxiv.org/abs/2412.17727v1)|[link](https://github.com/bebr2/editcot)|
-|**2024-12-23 16:20:04**|**Nonlinear model reduction with Neural Galerkin schemes on quadratic   manifolds**|Philipp Weder et.al.|[2412.17695v1](http://arxiv.org/abs/2412.17695v1)|null|
-|**2024-12-23 16:10:07**|**COBRA: COmBinatorial Retrieval Augmentation for Few-Shot Learning**|Arnav M. Das et.al.|[2412.17684v1](http://arxiv.org/abs/2412.17684v1)|null|
-|**2024-12-23 15:21:28**|**DreamFit: Garment-Centric Human Generation via a Lightweight   Anything-Dressing Encoder**|Ente Lin et.al.|[2412.17644v1](http://arxiv.org/abs/2412.17644v1)|null|
-|**2024-12-23 14:31:15**|**CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed   Learning for Large Scene Reconstruction**|Yuanyuan Gao et.al.|[2412.17612v1](http://arxiv.org/abs/2412.17612v1)|null|
-|**2024-12-23 14:29:41**|**Personalized Large Vision-Language Models**|Chau Pham et.al.|[2412.17610v1](http://arxiv.org/abs/2412.17610v1)|null|
-|**2024-12-23 13:28:15**|**GQSA: Group Quantization and Sparsity for Accelerating Large Language   Model Inference**|Chao Zeng et.al.|[2412.17560v1](http://arxiv.org/abs/2412.17560v1)|null|
-|**2024-12-23 13:26:04**|**A Survey of Query Optimization in Large Language Models**|Mingyang Song et.al.|[2412.17558v1](http://arxiv.org/abs/2412.17558v1)|null|
-|**2024-12-23 12:50:47**|**Enhancing Cancer Diagnosis with Explainable & Trustworthy Deep Learning   Models**|Badaru I. Olumuyiwa et.al.|[2412.17527v1](http://arxiv.org/abs/2412.17527v1)|null|
-|**2024-12-23 12:48:10**|**STAHGNet: Modeling Hybrid-grained Heterogenous Dependency Efficiently   for Traffic Prediction**|Jiyao Wang et.al.|[2412.17524v1](http://arxiv.org/abs/2412.17524v1)|null|
-|**2024-12-23 12:47:04**|**Constructing Fair Latent Space for Intersection of Fairness and   Explainability**|Hyungjun Joo et.al.|[2412.17523v1](http://arxiv.org/abs/2412.17523v1)|null|
-|**2024-12-23 11:29:44**|**Is ChatGPT Massively Used by Students Nowadays? A Survey on the Use of   Large Language Models such as ChatGPT in Educational Settings**|Jérémie Sublime et.al.|[2412.17486v1](http://arxiv.org/abs/2412.17486v1)|null|
-|**2024-12-23 11:27:17**|**Power- and Fragmentation-aware Online Scheduling for GPU Datacenters**|Francesco Lettich et.al.|[2412.17484v1](http://arxiv.org/abs/2412.17484v1)|[link](https://github.com/fr4nz83/pwr-plugin-kubernetes)|
-|**2024-12-23 10:21:38**|**Learning from Summarized Data: Gaussian Process Regression with Sample   Quasi-Likelihood**|Yuta Shikuri et.al.|[2412.17455v1](http://arxiv.org/abs/2412.17455v1)|null|
-|**2024-12-23 09:52:54**|**Applications of maximum likelihood estimations for analyzing photon   counts in few atom experiments**|M. Weyland et.al.|[2412.17434v1](http://arxiv.org/abs/2412.17434v1)|null|
-|**2024-12-23 08:46:29**|**AeroDiT: Diffusion Transformers for Reynolds-Averaged Navier-Stokes   Simulations of Airfoil Flows**|Hui Xiang et.al.|[2412.17394v1](http://arxiv.org/abs/2412.17394v1)|null|
-|**2024-12-23 08:40:08**|**Singular Value Scaling: Efficient Generative Model Compression via   Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387v1](http://arxiv.org/abs/2412.17387v1)|[link](https://github.com/LAIT-CVLab/Singular_Value_Scaling)|
-|**2024-12-23 05:50:11**|**When Focus Enhances Utility: Target Range LDP Frequency Estimation and   Unknown Item Discovery**|Bo Jiang et.al.|[2412.17303v1](http://arxiv.org/abs/2412.17303v1)|null|
-|**2024-12-23 05:41:46**|**Routing mobile health clinics: An integrated routing and resupply plan   based on synchronization**|Faisal Alkaabneh et.al.|[2412.17299v1](http://arxiv.org/abs/2412.17299v1)|null|
-|**2024-12-23 05:22:44**|**Free-viewpoint Human Animation with Pose-correlated Reference Selection**|Fa-Ting Hong et.al.|[2412.17290v1](http://arxiv.org/abs/2412.17290v1)|null|
-|**2024-12-23 05:20:01**|**Multi-Modal Grounded Planning and Efficient Replanning For Learning   Embodied Agents with A Few Examples**|Taewoong Kim et.al.|[2412.17288v1](http://arxiv.org/abs/2412.17288v1)|[link](https://github.com/snumprlab/flare)|
-|**2024-12-23 05:06:19**|**Emerging Microelectronic Materials by Design: Navigating Combinatorial   Design Space with Scarce and Dispersed Data**|Hengrui Zhang et.al.|[2412.17283v1](http://arxiv.org/abs/2412.17283v1)|null|
-|**2024-12-23 04:01:44**|**An Intrinsically Explainable Approach to Detecting Vertebral Compression   Fractures in CT Scans via Neurosymbolic Modeling**|Blanca Inigo et.al.|[2412.17258v1](http://arxiv.org/abs/2412.17258v1)|null|
-|**2024-12-23 03:50:29**|**A Coalition Game for On-demand Multi-modal 3D Automated Delivery System**|Farzan Moosavi et.al.|[2412.17252v1](http://arxiv.org/abs/2412.17252v1)|null|
-|**2024-12-23 02:58:12**|**FedMeld: A Model-dispersal Federated Learning Framework for Space-ground   Integrated Networks**|Qian Chen et.al.|[2412.17231v1](http://arxiv.org/abs/2412.17231v1)|null|
-|**2024-12-22 22:57:08**|**Foundation Model for Lossy Compression of Spatiotemporal Scientific Data**|Xiao Li et.al.|[2412.17184v1](http://arxiv.org/abs/2412.17184v1)|null|
-|**2024-12-22 19:37:07**|**AI-Based Teat Shape and Skin Condition Prediction for Dairy Management**|Yuexing Hao et.al.|[2412.17142v1](http://arxiv.org/abs/2412.17142v1)|null|
-|**2024-12-22 18:15:21**|**Transformer-Based Model Predictive Path Integral Control**|Shrenik Zinage et.al.|[2412.17118v1](http://arxiv.org/abs/2412.17118v1)|null|
-|**2024-12-22 15:07:58**|**On incorporating variable consumption functions within energy-efficient   parallel machine scheduling**|Mirko Mucciarini et.al.|[2412.17055v1](http://arxiv.org/abs/2412.17055v1)|null|
 
 ## Decision Tree
 
