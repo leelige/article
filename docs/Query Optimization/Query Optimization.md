@@ -16,7 +16,7 @@
 |**2024-12-20 20:22:11**|**Optimizing Queries with Many-to-Many Joins**|Hasara Kalumin et.al.|[2412.16323v1](http://arxiv.org/abs/2412.16323v1)|null|
 |**2024-12-20 13:10:43**|**IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing**|Chun Gu et.al.|[2412.15867v1](http://arxiv.org/abs/2412.15867v1)|null|
 |**2024-12-20 13:00:39**|**Bayesian Optimization for Unknown Cost-Varying Variable Subsets with   No-Regret Costs**|Vu Viet Hoang et.al.|[2412.15863v1](http://arxiv.org/abs/2412.15863v1)|null|
-|**2024-12-20 02:56:46**|**Know2Vec: A Black-Box Proxy for Neural Network Retrieval**|Zhuoyi Shang et.al.|[2412.16251v1](http://arxiv.org/abs/2412.16251v1)|null|
+|**2024-12-20 02:56:46**|**Know2Vec: A Black-Box Proxy for Neural Network Retrieval**|Zhuoyi Shang et.al.|[2412.16251v1](http://arxiv.org/abs/2412.16251v1)|[link](https://github.com/vimpire00/know2vec1)|
 |**2024-12-20 00:06:13**|**Computing the Non-Dominated Flexible Skyline in Vertically Distributed   Datasets with No Random Access**|Davide Martinenghi et.al.|[2412.15468v1](http://arxiv.org/abs/2412.15468v1)|null|
 |**2024-12-19 14:17:09**|**Multimodal Hypothetical Summary for Retrieval-based Multi-image Question   Answering**|Peize Li et.al.|[2412.14880v1](http://arxiv.org/abs/2412.14880v1)|null|
 |**2024-12-19 11:30:07**|**Query pipeline optimization for cancer patient question answering   systems**|Maolin He et.al.|[2412.14751v1](http://arxiv.org/abs/2412.14751v1)|null|

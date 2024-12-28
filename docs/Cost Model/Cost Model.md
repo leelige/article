@@ -18,7 +18,7 @@
 |**2024-12-24 08:53:54**|**DeepCRCEval: Revisiting the Evaluation of Code Review Comment Generation**|Junyi Lu et.al.|[2412.18291v1](http://arxiv.org/abs/2412.18291v1)|null|
 |**2024-12-24 08:48:48**|**Semi-supervised Credit Card Fraud Detection via Attribute-Driven Graph   Representation**|Sheng Xiang et.al.|[2412.18287v1](http://arxiv.org/abs/2412.18287v1)|[link](https://github.com/ai4risk/antifraud)|
 |**2024-12-24 06:51:21**|**U-Mamba-Net: A highly efficient Mamba-based U-net style network for   noisy and reverberant speech separation**|Shaoxiang Dang et.al.|[2412.18217v1](http://arxiv.org/abs/2412.18217v1)|null|
-|**2024-12-24 05:27:11**|**VisionGRU: A Linear-Complexity RNN Model for Efficient Image Analysis**|Shicheng Yin et.al.|[2412.18178v1](http://arxiv.org/abs/2412.18178v1)|[link](https://github.com/YangLiu9208/VisionGRU)|
+|**2024-12-24 05:27:11**|**VisionGRU: A Linear-Complexity RNN Model for Efficient Image Analysis**|Shicheng Yin et.al.|[2412.18178v1](http://arxiv.org/abs/2412.18178v1)|[link](https://github.com/yangliu9208/visiongru)|
 |**2024-12-24 05:10:02**|**Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large   Language Models**|Xiaomeng Hu et.al.|[2412.18171v1](http://arxiv.org/abs/2412.18171v1)|null|
 |**2024-12-24 04:32:36**|**Semantics Disentanglement and Composition for Versatile Codec toward   both Human-eye Perception and Machine Vision Task**|Jinming Liu et.al.|[2412.18158v1](http://arxiv.org/abs/2412.18158v1)|null|
 |**2024-12-24 03:49:48**|**Fundamental Limits in the Search for Less Discriminatory Algorithms --   and How to Avoid Them**|Benjamin Laufer et.al.|[2412.18138v1](http://arxiv.org/abs/2412.18138v1)|null|
