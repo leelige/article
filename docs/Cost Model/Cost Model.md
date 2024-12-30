@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-24 18:56:46**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603v1](http://arxiv.org/abs/2412.18603v1)|[link](https://github.com/google-deepmind/librispeech-long)|
-|**2024-12-24 17:36:27**|**Efficient Aircraft Design Optimization Using Multi-Fidelity Models and   Multi-fidelity Physics Informed Neural Networks**|Apurba Sarker et.al.|[2412.18564v1](http://arxiv.org/abs/2412.18564v1)|null|
-|**2024-12-24 17:20:43**|**FedVCK: Non-IID Robust and Communication-Efficient Federated Learning   via Valuable Condensed Knowledge for Medical Image Analysis**|Guochen Yan et.al.|[2412.18557v1](http://arxiv.org/abs/2412.18557v1)|null|
-|**2024-12-24 17:07:18**|**Advancing Surface Chemistry with Large-Scale Ab-Initio Quantum Many-Body   Simulations**|Zigeng Huang et.al.|[2412.18553v1](http://arxiv.org/abs/2412.18553v1)|null|
-|**2024-12-24 17:05:26**|**Distilling Fine-grained Sentiment Understanding from Large Language   Models**|Yice Zhang et.al.|[2412.18552v1](http://arxiv.org/abs/2412.18552v1)|[link](https://github.com/hitsz-hlt/fsa-distillation)|
-|**2024-12-24 17:01:29**|**Post-pandemic social contacts in Italy: implications for social   distancing measures on in-person school and work attendance**|Lorenzo Lucchini et.al.|[2412.18549v1](http://arxiv.org/abs/2412.18549v1)|null|
-|**2024-12-24 16:55:45**|**Token-Budget-Aware LLM Reasoning**|Tingxu Han et.al.|[2412.18547v1](http://arxiv.org/abs/2412.18547v1)|[link](https://github.com/geniushtx/tale)|
-|**2024-12-24 15:52:35**|**Hybrid Many-Objective Optimization in Probabilistic Mission Design for   Compliant and Effective UAV Routing**|Simon Kohaut et.al.|[2412.18514v1](http://arxiv.org/abs/2412.18514v1)|null|
-|**2024-12-24 15:50:10**|**Large Language Model guided Deep Reinforcement Learning for Decision   Making in Autonomous Driving**|Hao Pang et.al.|[2412.18511v1](http://arxiv.org/abs/2412.18511v1)|null|
-|**2024-12-24 12:51:40**|**Generalized Mean Absolute Directional Loss as a Solution to Overfitting   and High Transaction Costs in Machine Learning Models Used in High-Frequency   Algorithmic Investment Strategies**|Jakub Michańków et.al.|[2412.18405v1](http://arxiv.org/abs/2412.18405v1)|null|
-|**2024-12-24 12:51:05**|**Extract Free Dense Misalignment from CLIP**|JeongYeon Nam et.al.|[2412.18404v1](http://arxiv.org/abs/2412.18404v1)|[link](https://github.com/naver-ai/CLIP4DM)|
-|**2024-12-24 12:36:24**|**Static Code Analyzer Recommendation via Preference Mining**|Xiuting Ge et.al.|[2412.18393v1](http://arxiv.org/abs/2412.18393v1)|null|
-|**2024-12-24 09:00:31**|**Enhancing Multi-Robot Semantic Navigation Through Multimodal   Chain-of-Thought Score Collaboration**|Zhixuan Shen et.al.|[2412.18292v1](http://arxiv.org/abs/2412.18292v1)|[link](https://github.com/FrankZxShen/MCoCoNav.git)|
-|**2024-12-24 08:53:54**|**DeepCRCEval: Revisiting the Evaluation of Code Review Comment Generation**|Junyi Lu et.al.|[2412.18291v1](http://arxiv.org/abs/2412.18291v1)|null|
-|**2024-12-24 08:48:48**|**Semi-supervised Credit Card Fraud Detection via Attribute-Driven Graph   Representation**|Sheng Xiang et.al.|[2412.18287v1](http://arxiv.org/abs/2412.18287v1)|[link](https://github.com/ai4risk/antifraud)|
-|**2024-12-24 06:51:21**|**U-Mamba-Net: A highly efficient Mamba-based U-net style network for   noisy and reverberant speech separation**|Shaoxiang Dang et.al.|[2412.18217v1](http://arxiv.org/abs/2412.18217v1)|null|
-|**2024-12-24 05:27:11**|**VisionGRU: A Linear-Complexity RNN Model for Efficient Image Analysis**|Shicheng Yin et.al.|[2412.18178v1](http://arxiv.org/abs/2412.18178v1)|[link](https://github.com/yangliu9208/visiongru)|
-|**2024-12-24 05:10:02**|**Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large   Language Models**|Xiaomeng Hu et.al.|[2412.18171v1](http://arxiv.org/abs/2412.18171v1)|null|
-|**2024-12-24 04:32:36**|**Semantics Disentanglement and Composition for Versatile Codec toward   both Human-eye Perception and Machine Vision Task**|Jinming Liu et.al.|[2412.18158v1](http://arxiv.org/abs/2412.18158v1)|null|
-|**2024-12-24 03:49:48**|**Fundamental Limits in the Search for Less Discriminatory Algorithms --   and How to Avoid Them**|Benjamin Laufer et.al.|[2412.18138v1](http://arxiv.org/abs/2412.18138v1)|null|
-|**2024-12-24 02:54:56**|**AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation**|Hao Wen et.al.|[2412.18116v1](http://arxiv.org/abs/2412.18116v1)|null|
-|**2024-12-24 02:49:50**|**SlimGPT: Layer-wise Structured Pruning for Large Language Models**|Gui Ling et.al.|[2412.18110v1](http://arxiv.org/abs/2412.18110v1)|null|
-|**2024-12-24 02:27:44**|**Tackling the Dynamicity in a Production LLM Serving System with SOTA   Optimizations via Hybrid Prefill/Decode/Verify Scheduling on Efficient   Meta-kernels**|Mingcong Song et.al.|[2412.18106v1](http://arxiv.org/abs/2412.18106v1)|null|
-|**2024-12-24 01:52:19**|**Generating Traffic Scenarios via In-Context Learning to Learn Better   Motion Planner**|Aizierjiang Aiersilan et.al.|[2412.18086v1](http://arxiv.org/abs/2412.18086v1)|[link](https://github.com/Ezharjan/AutoSceneGen)|
-|**2024-12-24 01:18:18**|**Future Pathways for EVTOLs: A Design Optimization Perspective**|Johannes Janning et.al.|[2412.18078v1](http://arxiv.org/abs/2412.18078v1)|null|
-|**2024-12-23 20:02:52**|**Steganography and Probabilistic Risk Analysis: A Game Theoretical   Framework for Quantifying Adversary Advantage and Impact**|Obinna Omego et.al.|[2412.17950v1](http://arxiv.org/abs/2412.17950v1)|null|
-|**2024-12-23 19:00:01**|**2D numerical simulation of lunar response to gravitational waves using   finite element method**|Lei Zhang et.al.|[2412.17898v1](http://arxiv.org/abs/2412.17898v1)|null|
-|**2024-12-23 18:02:25**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747v1](http://arxiv.org/abs/2412.17747v1)|null|
-|**2024-12-23 17:17:50**|**Knowledge Editing through Chain-of-Thought**|Changyue Wang et.al.|[2412.17727v1](http://arxiv.org/abs/2412.17727v1)|[link](https://github.com/bebr2/editcot)|
-|**2024-12-23 16:20:04**|**Nonlinear model reduction with Neural Galerkin schemes on quadratic   manifolds**|Philipp Weder et.al.|[2412.17695v1](http://arxiv.org/abs/2412.17695v1)|null|
+|**2024-12-27 16:18:35**|**Trading Off Energy Storage and Payload -- An Analytical Model for   Freight Train Configuration**|Max T. M. Ng et.al.|[2412.19719v1](http://arxiv.org/abs/2412.19719v1)|null|
+|**2024-12-27 16:14:06**|**ProKAN: Progressive Stacking of Kolmogorov-Arnold Networks for Efficient   Liver Segmentation**|Bhavesh Gyanchandani et.al.|[2412.19713v1](http://arxiv.org/abs/2412.19713v1)|null|
+|**2024-12-27 16:02:34**|**Toward Adaptive Reasoning in Large Language Models with Thought Rollback**|Sijia Chen et.al.|[2412.19707v1](http://arxiv.org/abs/2412.19707v1)|[link](https://github.com/iQua/llmpebase)|
+|**2024-12-27 15:21:17**|**Boosting Private Domain Understanding of Efficient MLLMs: A Tuning-free,   Adaptive, Universal Prompt Optimization Framework**|Jiang Liu et.al.|[2412.19684v1](http://arxiv.org/abs/2412.19684v1)|null|
+|**2024-12-27 13:32:10**|**Xmodel-2 Technical Report**|Wang Qun et.al.|[2412.19638v1](http://arxiv.org/abs/2412.19638v1)|[link](https://github.com/XiaoduoAILab/Xmodel-2)|
+|**2024-12-27 12:23:39**|**Gradient Weight-normalized Low-rank Projection for Efficient LLM   Training**|Jia-Hong Huang et.al.|[2412.19616v1](http://arxiv.org/abs/2412.19616v1)|[link](https://github.com/Jhhuangkay/Gradient-Weight-normalized-Low-rank-Projection-for-Efficient-LLM-Training)|
+|**2024-12-27 11:14:11**|**Goal-oriented Communications based on Recursive Early Exit Neural   Networks**|Jary Pomponi et.al.|[2412.19587v1](http://arxiv.org/abs/2412.19587v1)|null|
+|**2024-12-27 08:59:01**|**P3S-Diffusion:A Selective Subject-driven Generation Framework via Point   Supervision**|Junjie Hu et.al.|[2412.19533v1](http://arxiv.org/abs/2412.19533v1)|null|
+|**2024-12-27 08:41:46**|**Real-time Reflectance Generation for UAV Multispectral Imagery using an   Onboard Downwelling Spectrometer in Varied Weather Conditions**|Jiayang Xie et.al.|[2412.19527v1](http://arxiv.org/abs/2412.19527v1)|null|
+|**2024-12-27 08:14:28**|**Real-time classification of EEG signals using Machine Learning   deployment**|Swati Chowdhuri et.al.|[2412.19515v1](http://arxiv.org/abs/2412.19515v1)|null|
+|**2024-12-27 07:13:15**|**RAIN: Real-time Animation of Infinite Video Stream**|Zhilei Shu et.al.|[2412.19489v1](http://arxiv.org/abs/2412.19489v1)|null|
+|**2024-12-27 05:16:15**|**Robust and Sparse Portfolio Selection: Quantitative Insights and   Efficient Algorithms**|J. Chen et.al.|[2412.19462v1](http://arxiv.org/abs/2412.19462v1)|null|
+|**2024-12-27 04:37:06**|**Feature Alignment-Based Knowledge Distillation for Efficient Compression   of Large Language Models**|Shuo Wang et.al.|[2412.19449v1](http://arxiv.org/abs/2412.19449v1)|null|
+|**2024-12-27 04:03:16**|**DeepSeek-V3 Technical Report**| DeepSeek-AI et.al.|[2412.19437v1](http://arxiv.org/abs/2412.19437v1)|[link](https://github.com/deepseek-ai/deepseek-v3)|
+|**2024-12-27 01:05:59**|**Two-echelon Electric Vehicle Routing Problem in Parcel Delivery: A   Literature Review**|Nima Moradi et.al.|[2412.19395v1](http://arxiv.org/abs/2412.19395v1)|null|
+|**2024-12-27 01:00:23**|**An Engorgio Prompt Makes Large Language Model Babble on**|Jianshuo Dong et.al.|[2412.19394v1](http://arxiv.org/abs/2412.19394v1)|[link](https://github.com/jianshuod/Engorgio-prompt)|
+|**2024-12-26 22:06:29**|**Large Language Models for Market Research: A Data-augmentation Approach**|Mengxin Wang et.al.|[2412.19363v1](http://arxiv.org/abs/2412.19363v1)|null|
+|**2024-12-26 20:24:01**|**Advanced Scheduling of Electrolyzer Modules for Grid Flexibility**|Angelina Lesniak et.al.|[2412.19345v1](http://arxiv.org/abs/2412.19345v1)|null|
+|**2024-12-26 18:54:32**|**Performance Control in Early Exiting to Deploy Large Models at the Same   Cost of Smaller Ones**|Mehrnaz Mofakhami et.al.|[2412.19325v1](http://arxiv.org/abs/2412.19325v1)|null|
+|**2024-12-26 16:52:19**|**Parametrizations of All Stable Closed-loop Responses: From Theory to   Neural Network Control Design**|Clara Lucía Galimberti et.al.|[2412.19280v1](http://arxiv.org/abs/2412.19280v1)|null|
+|**2024-12-26 12:51:14**|**GAIS: A Novel Approach to Instance Selection with Graph Attention   Networks**|Zahiriddin Rustamov et.al.|[2412.19201v1](http://arxiv.org/abs/2412.19201v1)|null|
+|**2024-12-26 07:43:18**|**"I've Heard of You!": Generate Spoken Named Entity Recognition Data for   Unseen Entities**|Jiawei Yu et.al.|[2412.19102v1](http://arxiv.org/abs/2412.19102v1)|[link](https://github.com/DeepLearnXMU/HeardU)|
+|**2024-12-26 07:42:06**|**Tint Your Models Task-wise for Improved Multi-task Model Merging**|Aecheon Jung et.al.|[2412.19098v1](http://arxiv.org/abs/2412.19098v1)|[link](https://github.com/aim-skku/modeltinting)|
+|**2024-12-26 06:37:25**|**Mask Factory: Towards High-quality Synthetic Data Generation for   Dichotomous Image Segmentation**|Haotian Qian et.al.|[2412.19080v1](http://arxiv.org/abs/2412.19080v1)|null|
+|**2024-12-26 06:02:51**|**Movable Intelligent Surface (MIS) for Wireless Communications:   Architecture, Modeling, Algorithm, and Prototyping**|Ziyuan Zheng et.al.|[2412.19071v1](http://arxiv.org/abs/2412.19071v1)|null|
+|**2024-12-26 05:53:10**|**Effective and secure federated online learning to rank**|Shuyi Wang et.al.|[2412.19069v1](http://arxiv.org/abs/2412.19069v1)|null|
+|**2024-12-26 05:26:30**|**Hierarchical Multi-agent Meta-Reinforcement Learning for Cross-channel   Bidding**|Shenghong He et.al.|[2412.19064v1](http://arxiv.org/abs/2412.19064v1)|null|
+|**2024-12-26 03:01:32**|**Repository Structure-Aware Training Makes SLMs Better Issue Resolver**|Zexiong Ma et.al.|[2412.19031v1](http://arxiv.org/abs/2412.19031v1)|null|
+|**2024-12-25 21:06:40**|**Deep Learning-Based Traffic-Aware Base Station Sleep Mode and Cell   Zooming Strategy in RIS-Aided Multi-Cell Networks**|Shuo Sun et.al.|[2412.18983v1](http://arxiv.org/abs/2412.18983v1)|null|
+|**2024-12-25 18:58:07**|**ModelGrow: Continual Text-to-Video Pre-training with Model Expansion and   Language Understanding Enhancement**|Zhefan Rao et.al.|[2412.18966v1](http://arxiv.org/abs/2412.18966v1)|null|
