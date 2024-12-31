@@ -2,6 +2,12 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-30 15:33:34**|**Automated Robustness Testing for LLM-based NLP Software**|Mingxuan Xiao et.al.|[2412.21016v1](http://arxiv.org/abs/2412.21016v1)|null|
+|**2024-12-30 14:57:53**|**Efficiently Serving LLM Reasoning Programs with Certaindex**|Yichao Fu et.al.|[2412.20993v1](http://arxiv.org/abs/2412.20993v1)|null|
+|**2024-12-30 14:54:35**|**RobustBlack: Challenging Black-Box Adversarial Attacks on   State-of-the-Art Defenses**|Mohamed Djilani et.al.|[2412.20987v1](http://arxiv.org/abs/2412.20987v1)|null|
+|**2024-12-30 13:49:28**|**GASLITEing the Retrieval: Exploring Vulnerabilities in Dense   Embedding-based Search**|Matan Ben-Tov et.al.|[2412.20953v1](http://arxiv.org/abs/2412.20953v1)|null|
+|**2024-12-30 08:59:20**|**Phoneme-Level Contrastive Learning for User-Defined Keyword Spotting   with Flexible Enrollment**|Li Kewei et.al.|[2412.20805v1](http://arxiv.org/abs/2412.20805v1)|null|
+|**2024-12-29 00:58:33**|**Understanding the Impact of Confidence in Retrieval Augmented   Generation: A Case Study in the Medical Domain**|Shintaro Ozaki et.al.|[2412.20309v1](http://arxiv.org/abs/2412.20309v1)|null|
 |**2024-12-27 13:55:00**|**Distributed Download from an External Data Source in Faulty Majority   Settings**|John Augustine et.al.|[2412.19649v1](http://arxiv.org/abs/2412.19649v1)|null|
 |**2024-12-27 04:02:46**|**Low-Rank Contextual Reinforcement Learning from Heterogeneous Human   Feedback**|Seong Jin Lee et.al.|[2412.19436v1](http://arxiv.org/abs/2412.19436v1)|null|
 |**2024-12-27 02:47:44**|**DIPS: Optimal Dynamic Index for Poisson $\boldsymbolπ$ps Sampling**|Jinchao Huang et.al.|[2412.19415v1](http://arxiv.org/abs/2412.19415v1)|null|
@@ -26,9 +32,3 @@
 |**2024-12-19 14:17:09**|**Multimodal Hypothetical Summary for Retrieval-based Multi-image Question   Answering**|Peize Li et.al.|[2412.14880v1](http://arxiv.org/abs/2412.14880v1)|null|
 |**2024-12-19 11:30:07**|**Query pipeline optimization for cancer patient question answering   systems**|Maolin He et.al.|[2412.14751v1](http://arxiv.org/abs/2412.14751v1)|null|
 |**2024-12-19 10:47:31**|**FROC: Building Fair ROC from a Trained Classifier**|Avyukta Manjunatha Vummintala et.al.|[2412.14724v1](http://arxiv.org/abs/2412.14724v1)|[link](https://github.com/avyukta-manjunatha-vummintala/froc_code)|
-|**2024-12-19 04:34:09**|**Optimizing Big Active Data Management Systems**|Shahrzad Haji Amin Shirazi et.al.|[2412.14519v2](http://arxiv.org/abs/2412.14519v2)|null|
-|**2024-12-18 23:11:07**|**Fingerprinting Codes Meet Geometry: Improved Lower Bounds for Private   Query Release and Adaptive Data Analysis**|Xin Lyu et.al.|[2412.14396v1](http://arxiv.org/abs/2412.14396v1)|null|
-|**2024-12-18 13:00:09**|**Differentially Private Substring and Document Counting**|Giulia Bernardini et.al.|[2412.13813v1](http://arxiv.org/abs/2412.13813v1)|null|
-|**2024-12-18 07:20:33**|**Indirect Query Bayesian Optimization with Integrated Feedback**|Mengyan Zhang et.al.|[2412.13559v1](http://arxiv.org/abs/2412.13559v1)|null|
-|**2024-12-18 04:34:46**|**QueryCDR: Query-Based Controllable Distortion Rectification Network for   Fisheye Images**|Pengbo Guo et.al.|[2412.13496v2](http://arxiv.org/abs/2412.13496v2)|[link](https://github.com/pbguo/querycdr)|
-|**2024-12-18 04:20:33**|**Efficient Language-instructed Skill Acquisition via Reward-Policy   Co-Evolution**|Changxin Huang et.al.|[2412.13492v1](http://arxiv.org/abs/2412.13492v1)|[link](https://github.com/nextmylove/roska)|

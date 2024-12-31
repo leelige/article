@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-27 16:18:35**|**Trading Off Energy Storage and Payload -- An Analytical Model for   Freight Train Configuration**|Max T. M. Ng et.al.|[2412.19719v1](http://arxiv.org/abs/2412.19719v1)|null|
-|**2024-12-27 16:14:06**|**ProKAN: Progressive Stacking of Kolmogorov-Arnold Networks for Efficient   Liver Segmentation**|Bhavesh Gyanchandani et.al.|[2412.19713v1](http://arxiv.org/abs/2412.19713v1)|null|
-|**2024-12-27 16:02:34**|**Toward Adaptive Reasoning in Large Language Models with Thought Rollback**|Sijia Chen et.al.|[2412.19707v1](http://arxiv.org/abs/2412.19707v1)|[link](https://github.com/iQua/llmpebase)|
-|**2024-12-27 15:21:17**|**Boosting Private Domain Understanding of Efficient MLLMs: A Tuning-free,   Adaptive, Universal Prompt Optimization Framework**|Jiang Liu et.al.|[2412.19684v1](http://arxiv.org/abs/2412.19684v1)|null|
-|**2024-12-27 13:32:10**|**Xmodel-2 Technical Report**|Wang Qun et.al.|[2412.19638v1](http://arxiv.org/abs/2412.19638v1)|[link](https://github.com/XiaoduoAILab/Xmodel-2)|
-|**2024-12-27 12:23:39**|**Gradient Weight-normalized Low-rank Projection for Efficient LLM   Training**|Jia-Hong Huang et.al.|[2412.19616v1](http://arxiv.org/abs/2412.19616v1)|[link](https://github.com/Jhhuangkay/Gradient-Weight-normalized-Low-rank-Projection-for-Efficient-LLM-Training)|
-|**2024-12-27 11:14:11**|**Goal-oriented Communications based on Recursive Early Exit Neural   Networks**|Jary Pomponi et.al.|[2412.19587v1](http://arxiv.org/abs/2412.19587v1)|null|
-|**2024-12-27 08:59:01**|**P3S-Diffusion:A Selective Subject-driven Generation Framework via Point   Supervision**|Junjie Hu et.al.|[2412.19533v1](http://arxiv.org/abs/2412.19533v1)|null|
-|**2024-12-27 08:41:46**|**Real-time Reflectance Generation for UAV Multispectral Imagery using an   Onboard Downwelling Spectrometer in Varied Weather Conditions**|Jiayang Xie et.al.|[2412.19527v1](http://arxiv.org/abs/2412.19527v1)|null|
-|**2024-12-27 08:14:28**|**Real-time classification of EEG signals using Machine Learning   deployment**|Swati Chowdhuri et.al.|[2412.19515v1](http://arxiv.org/abs/2412.19515v1)|null|
-|**2024-12-27 07:13:15**|**RAIN: Real-time Animation of Infinite Video Stream**|Zhilei Shu et.al.|[2412.19489v1](http://arxiv.org/abs/2412.19489v1)|null|
-|**2024-12-27 05:16:15**|**Robust and Sparse Portfolio Selection: Quantitative Insights and   Efficient Algorithms**|J. Chen et.al.|[2412.19462v1](http://arxiv.org/abs/2412.19462v1)|null|
-|**2024-12-27 04:37:06**|**Feature Alignment-Based Knowledge Distillation for Efficient Compression   of Large Language Models**|Shuo Wang et.al.|[2412.19449v1](http://arxiv.org/abs/2412.19449v1)|null|
-|**2024-12-27 04:03:16**|**DeepSeek-V3 Technical Report**| DeepSeek-AI et.al.|[2412.19437v1](http://arxiv.org/abs/2412.19437v1)|[link](https://github.com/deepseek-ai/deepseek-v3)|
-|**2024-12-27 01:05:59**|**Two-echelon Electric Vehicle Routing Problem in Parcel Delivery: A   Literature Review**|Nima Moradi et.al.|[2412.19395v1](http://arxiv.org/abs/2412.19395v1)|null|
-|**2024-12-27 01:00:23**|**An Engorgio Prompt Makes Large Language Model Babble on**|Jianshuo Dong et.al.|[2412.19394v1](http://arxiv.org/abs/2412.19394v1)|[link](https://github.com/jianshuod/Engorgio-prompt)|
-|**2024-12-26 22:06:29**|**Large Language Models for Market Research: A Data-augmentation Approach**|Mengxin Wang et.al.|[2412.19363v1](http://arxiv.org/abs/2412.19363v1)|null|
-|**2024-12-26 20:24:01**|**Advanced Scheduling of Electrolyzer Modules for Grid Flexibility**|Angelina Lesniak et.al.|[2412.19345v1](http://arxiv.org/abs/2412.19345v1)|null|
-|**2024-12-26 18:54:32**|**Performance Control in Early Exiting to Deploy Large Models at the Same   Cost of Smaller Ones**|Mehrnaz Mofakhami et.al.|[2412.19325v1](http://arxiv.org/abs/2412.19325v1)|null|
-|**2024-12-26 16:52:19**|**Parametrizations of All Stable Closed-loop Responses: From Theory to   Neural Network Control Design**|Clara Lucía Galimberti et.al.|[2412.19280v1](http://arxiv.org/abs/2412.19280v1)|null|
-|**2024-12-26 12:51:14**|**GAIS: A Novel Approach to Instance Selection with Graph Attention   Networks**|Zahiriddin Rustamov et.al.|[2412.19201v1](http://arxiv.org/abs/2412.19201v1)|null|
-|**2024-12-26 07:43:18**|**"I've Heard of You!": Generate Spoken Named Entity Recognition Data for   Unseen Entities**|Jiawei Yu et.al.|[2412.19102v1](http://arxiv.org/abs/2412.19102v1)|[link](https://github.com/DeepLearnXMU/HeardU)|
-|**2024-12-26 07:42:06**|**Tint Your Models Task-wise for Improved Multi-task Model Merging**|Aecheon Jung et.al.|[2412.19098v1](http://arxiv.org/abs/2412.19098v1)|[link](https://github.com/aim-skku/modeltinting)|
-|**2024-12-26 06:37:25**|**Mask Factory: Towards High-quality Synthetic Data Generation for   Dichotomous Image Segmentation**|Haotian Qian et.al.|[2412.19080v1](http://arxiv.org/abs/2412.19080v1)|null|
-|**2024-12-26 06:02:51**|**Movable Intelligent Surface (MIS) for Wireless Communications:   Architecture, Modeling, Algorithm, and Prototyping**|Ziyuan Zheng et.al.|[2412.19071v1](http://arxiv.org/abs/2412.19071v1)|null|
-|**2024-12-26 05:53:10**|**Effective and secure federated online learning to rank**|Shuyi Wang et.al.|[2412.19069v1](http://arxiv.org/abs/2412.19069v1)|null|
-|**2024-12-26 05:26:30**|**Hierarchical Multi-agent Meta-Reinforcement Learning for Cross-channel   Bidding**|Shenghong He et.al.|[2412.19064v1](http://arxiv.org/abs/2412.19064v1)|null|
-|**2024-12-26 03:01:32**|**Repository Structure-Aware Training Makes SLMs Better Issue Resolver**|Zexiong Ma et.al.|[2412.19031v1](http://arxiv.org/abs/2412.19031v1)|null|
-|**2024-12-25 21:06:40**|**Deep Learning-Based Traffic-Aware Base Station Sleep Mode and Cell   Zooming Strategy in RIS-Aided Multi-Cell Networks**|Shuo Sun et.al.|[2412.18983v1](http://arxiv.org/abs/2412.18983v1)|null|
-|**2024-12-25 18:58:07**|**ModelGrow: Continual Text-to-Video Pre-training with Model Expansion and   Language Understanding Enhancement**|Zhefan Rao et.al.|[2412.18966v1](http://arxiv.org/abs/2412.18966v1)|null|
+|**2024-12-30 18:59:55**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|null|
+|**2024-12-30 18:34:36**|**Low coordinate degree algorithms II: Categorical signals and generalized   stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155v1](http://arxiv.org/abs/2412.21155v1)|null|
+|**2024-12-30 18:33:28**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154v1](http://arxiv.org/abs/2412.21154v1)|null|
+|**2024-12-30 18:15:45**|**Facilitating large language model Russian adaptation with Learned   Embedding Propagation**|Mikhail Tikhomirov et.al.|[2412.21140v1](http://arxiv.org/abs/2412.21140v1)|null|
+|**2024-12-30 16:34:11**|**Efficient Multi-Task Inferencing with a Shared Backbone and Lightweight   Task-Specific Adapters for Automatic Scoring**|Ehsan Latif et.al.|[2412.21065v1](http://arxiv.org/abs/2412.21065v1)|null|
+|**2024-12-30 16:32:55**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|null|
+|**2024-12-30 15:15:08**|**Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant   Rationale via Principled Criteria**|Joonwon Jang et.al.|[2412.21006v1](http://arxiv.org/abs/2412.21006v1)|null|
+|**2024-12-30 15:10:57**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample   Efficiency**|Xiao-Yin Liu et.al.|[2412.21001v1](http://arxiv.org/abs/2412.21001v1)|null|
+|**2024-12-30 14:57:53**|**Efficiently Serving LLM Reasoning Programs with Certaindex**|Yichao Fu et.al.|[2412.20993v1](http://arxiv.org/abs/2412.20993v1)|null|
+|**2024-12-30 13:27:00**|**Influence Maximization in Temporal Networks with Persistent and Reactive   Behaviors**|Aaqib Zahoor et.al.|[2412.20936v1](http://arxiv.org/abs/2412.20936v1)|null|
+|**2024-12-30 08:11:54**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for   LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787v1](http://arxiv.org/abs/2412.20787v1)|null|
+|**2024-12-30 08:10:21**|**Accelerating Energy-Efficient Federated Learning in Cell-Free Networks   with Adaptive Quantization**|Afsaneh Mahmoudi et.al.|[2412.20785v1](http://arxiv.org/abs/2412.20785v1)|null|
+|**2024-12-30 07:47:30**|**Large Language Model Enabled Multi-Task Physical Layer Network**|Tianyue Zheng et.al.|[2412.20772v1](http://arxiv.org/abs/2412.20772v1)|null|
+|**2024-12-30 07:03:54**|**High-Sensitivity Vision-Based Tactile Sensing Enhanced by   Microstructures and Lightweight CNN**|Mayue Shi et.al.|[2412.20758v1](http://arxiv.org/abs/2412.20758v1)|null|
+|**2024-12-30 06:18:33**|**HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree   Search for Automated Theorem Proving**|Yang Li et.al.|[2412.20735v1](http://arxiv.org/abs/2412.20735v1)|null|
+|**2024-12-30 04:01:55**|**Diffractive Magic Cube Network with Super-high Capacity Enabled by   Mechanical Reconfiguration**|Peijie Feng et.al.|[2412.20693v1](http://arxiv.org/abs/2412.20693v1)|null|
+|**2024-12-30 03:05:45**|**Align Attention Heads Before Merging Them: An Effective Way for   Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677v1](http://arxiv.org/abs/2412.20677v1)|null|
+|**2024-12-30 02:48:34**|**Prototypical Distillation and Debiased Tuning for Black-box Unsupervised   Domain Adaptation**|Jian Liang et.al.|[2412.20670v1](http://arxiv.org/abs/2412.20670v1)|[link](https://github.com/tim-learn/ProDDing/})|
+|**2024-12-30 02:48:02**|**Highway Managed Lane Usage and Tolling for Mixed Traffic Flows with   Connected Automated Vehicles (CAVs) and High-Occupancy Vehicles (HOVs)**|Max T. M. Ng et.al.|[2412.20667v1](http://arxiv.org/abs/2412.20667v1)|null|
+|**2024-12-30 01:59:34**|**Latent Drifting in Diffusion Models for Counterfactual Medical Image   Synthesis**|Yousef Yeganeh et.al.|[2412.20651v1](http://arxiv.org/abs/2412.20651v1)|null|
+|**2024-12-29 23:20:01**|**Do Current Video LLMs Have Strong OCR Abilities? A Preliminary Study**|Yulin Fei et.al.|[2412.20613v1](http://arxiv.org/abs/2412.20613v1)|[link](https://github.com/yuhuigao/fg-bench)|
+|**2024-12-29 21:22:24**|**Testing and Improving the Robustness of Amortized Bayesian Inference for   Cognitive Models**|Yufei Wu et.al.|[2412.20586v1](http://arxiv.org/abs/2412.20586v1)|null|
+|**2024-12-29 17:18:21**|**Ns3 meets Sionna: Using Realistic Channels in Network Simulation**|Anatolij Zubow et.al.|[2412.20524v1](http://arxiv.org/abs/2412.20524v1)|null|
+|**2024-12-29 15:37:37**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs   via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501v1](http://arxiv.org/abs/2412.20501v1)|[link](https://github.com/ACA-Lab-SJTU/token-ring})|
+|**2024-12-29 15:28:26**|**Regulating radiology AI medical devices that evolve in their lifecycle**|Camila González et.al.|[2412.20498v1](http://arxiv.org/abs/2412.20498v1)|null|
+|**2024-12-29 08:13:17**|**A market-based efficient matching mechanism for crowdsourced delivery   systems with demand/supply elasticities**|Yuki Oyama et.al.|[2412.20395v1](http://arxiv.org/abs/2412.20395v1)|null|
+|**2024-12-29 07:21:33**|**PTQ4VM: Post-Training Quantization for Visual Mamba**|Younghyun Cho et.al.|[2412.20386v1](http://arxiv.org/abs/2412.20386v1)|[link](https://github.com/YoungHyun197/ptq4vm)|
+|**2024-12-29 07:11:44**|**Breaking Fine-Grained Classification Barriers with Cost-Free Data in   Few-Shot Class-Incremental Learning**|Li-Jun Zhao et.al.|[2412.20383v1](http://arxiv.org/abs/2412.20383v1)|null|
+|**2024-12-29 07:02:45**|**Natural Language Fine-Tuning**|Jia Liu et.al.|[2412.20382v1](http://arxiv.org/abs/2412.20382v1)|[link](https://github.com/julia-liuj/nlft)|
+|**2024-12-29 06:32:52**|**A Deep Subgrouping Framework for Precision Drug Repurposing via   Emulating Clinical Trials on Real-world Patient Data**|Seungyeon Lee et.al.|[2412.20373v1](http://arxiv.org/abs/2412.20373v1)|null|
