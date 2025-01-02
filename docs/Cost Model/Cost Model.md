@@ -5,9 +5,9 @@
 |**2024-12-30 18:59:55**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|null|
 |**2024-12-30 18:34:36**|**Low coordinate degree algorithms II: Categorical signals and generalized   stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155v1](http://arxiv.org/abs/2412.21155v1)|null|
 |**2024-12-30 18:33:28**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154v1](http://arxiv.org/abs/2412.21154v1)|null|
-|**2024-12-30 18:15:45**|**Facilitating large language model Russian adaptation with Learned   Embedding Propagation**|Mikhail Tikhomirov et.al.|[2412.21140v1](http://arxiv.org/abs/2412.21140v1)|null|
+|**2024-12-30 18:15:45**|**Facilitating large language model Russian adaptation with Learned   Embedding Propagation**|Mikhail Tikhomirov et.al.|[2412.21140v1](http://arxiv.org/abs/2412.21140v1)|[link](https://github.com/RefalMachine/llmtf_open)|
 |**2024-12-30 16:34:11**|**Efficient Multi-Task Inferencing with a Shared Backbone and Lightweight   Task-Specific Adapters for Automatic Scoring**|Ehsan Latif et.al.|[2412.21065v1](http://arxiv.org/abs/2412.21065v1)|null|
-|**2024-12-30 16:32:55**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|null|
+|**2024-12-30 16:32:55**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|[link](https://github.com/siywang541/Varformer)|
 |**2024-12-30 15:15:08**|**Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant   Rationale via Principled Criteria**|Joonwon Jang et.al.|[2412.21006v1](http://arxiv.org/abs/2412.21006v1)|null|
 |**2024-12-30 15:10:57**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample   Efficiency**|Xiao-Yin Liu et.al.|[2412.21001v1](http://arxiv.org/abs/2412.21001v1)|null|
 |**2024-12-30 14:57:53**|**Efficiently Serving LLM Reasoning Programs with Certaindex**|Yichao Fu et.al.|[2412.20993v1](http://arxiv.org/abs/2412.20993v1)|null|
@@ -23,7 +23,7 @@
 |**2024-12-30 02:48:02**|**Highway Managed Lane Usage and Tolling for Mixed Traffic Flows with   Connected Automated Vehicles (CAVs) and High-Occupancy Vehicles (HOVs)**|Max T. M. Ng et.al.|[2412.20667v1](http://arxiv.org/abs/2412.20667v1)|null|
 |**2024-12-30 01:59:34**|**Latent Drifting in Diffusion Models for Counterfactual Medical Image   Synthesis**|Yousef Yeganeh et.al.|[2412.20651v1](http://arxiv.org/abs/2412.20651v1)|null|
 |**2024-12-29 23:20:01**|**Do Current Video LLMs Have Strong OCR Abilities? A Preliminary Study**|Yulin Fei et.al.|[2412.20613v1](http://arxiv.org/abs/2412.20613v1)|[link](https://github.com/yuhuigao/fg-bench)|
-|**2024-12-29 21:22:24**|**Testing and Improving the Robustness of Amortized Bayesian Inference for   Cognitive Models**|Yufei Wu et.al.|[2412.20586v1](http://arxiv.org/abs/2412.20586v1)|null|
+|**2024-12-29 21:22:24**|**Testing and Improving the Robustness of Amortized Bayesian Inference for   Cognitive Models**|Yufei Wu et.al.|[2412.20586v1](http://arxiv.org/abs/2412.20586v1)|[link](https://github.com/yufeiwu1011/Robust-Amortized-Bayesian-Inference)|
 |**2024-12-29 17:18:21**|**Ns3 meets Sionna: Using Realistic Channels in Network Simulation**|Anatolij Zubow et.al.|[2412.20524v1](http://arxiv.org/abs/2412.20524v1)|null|
 |**2024-12-29 15:37:37**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs   via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501v1](http://arxiv.org/abs/2412.20501v1)|[link](https://github.com/ACA-Lab-SJTU/token-ring})|
 |**2024-12-29 15:28:26**|**Regulating radiology AI medical devices that evolve in their lifecycle**|Camila González et.al.|[2412.20498v1](http://arxiv.org/abs/2412.20498v1)|null|
