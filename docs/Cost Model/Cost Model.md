@@ -8,15 +8,15 @@
 |**2024-12-30 18:15:45**|**Facilitating large language model Russian adaptation with Learned   Embedding Propagation**|Mikhail Tikhomirov et.al.|[2412.21140v1](http://arxiv.org/abs/2412.21140v1)|[link](https://github.com/RefalMachine/llmtf_open)|
 |**2024-12-30 16:34:11**|**Efficient Multi-Task Inferencing with a Shared Backbone and Lightweight   Task-Specific Adapters for Automatic Scoring**|Ehsan Latif et.al.|[2412.21065v1](http://arxiv.org/abs/2412.21065v1)|null|
 |**2024-12-30 16:32:55**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|[link](https://github.com/siywang541/Varformer)|
-|**2024-12-30 15:15:08**|**Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant   Rationale via Principled Criteria**|Joonwon Jang et.al.|[2412.21006v1](http://arxiv.org/abs/2412.21006v1)|null|
-|**2024-12-30 15:10:57**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample   Efficiency**|Xiao-Yin Liu et.al.|[2412.21001v1](http://arxiv.org/abs/2412.21001v1)|null|
+|**2024-12-30 15:15:08**|**Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant   Rationale via Principled Criteria**|Joonwon Jang et.al.|[2412.21006v2](http://arxiv.org/abs/2412.21006v2)|null|
+|**2024-12-30 15:10:57**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample   Efficiency**|Xiao-Yin Liu et.al.|[2412.21001v1](http://arxiv.org/abs/2412.21001v1)|[link](https://github.com/xiaoyinliu0714/LEASE)|
 |**2024-12-30 14:57:53**|**Efficiently Serving LLM Reasoning Programs with Certaindex**|Yichao Fu et.al.|[2412.20993v1](http://arxiv.org/abs/2412.20993v1)|null|
 |**2024-12-30 13:27:00**|**Influence Maximization in Temporal Networks with Persistent and Reactive   Behaviors**|Aaqib Zahoor et.al.|[2412.20936v1](http://arxiv.org/abs/2412.20936v1)|null|
-|**2024-12-30 08:11:54**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for   LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787v1](http://arxiv.org/abs/2412.20787v1)|null|
+|**2024-12-30 08:11:54**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for   LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787v2](http://arxiv.org/abs/2412.20787v2)|null|
 |**2024-12-30 08:10:21**|**Accelerating Energy-Efficient Federated Learning in Cell-Free Networks   with Adaptive Quantization**|Afsaneh Mahmoudi et.al.|[2412.20785v1](http://arxiv.org/abs/2412.20785v1)|null|
 |**2024-12-30 07:47:30**|**Large Language Model Enabled Multi-Task Physical Layer Network**|Tianyue Zheng et.al.|[2412.20772v1](http://arxiv.org/abs/2412.20772v1)|null|
 |**2024-12-30 07:03:54**|**High-Sensitivity Vision-Based Tactile Sensing Enhanced by   Microstructures and Lightweight CNN**|Mayue Shi et.al.|[2412.20758v1](http://arxiv.org/abs/2412.20758v1)|null|
-|**2024-12-30 06:18:33**|**HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree   Search for Automated Theorem Proving**|Yang Li et.al.|[2412.20735v1](http://arxiv.org/abs/2412.20735v1)|null|
+|**2024-12-30 06:18:33**|**HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree   Search for Automated Theorem Proving**|Yang Li et.al.|[2412.20735v2](http://arxiv.org/abs/2412.20735v2)|null|
 |**2024-12-30 04:01:55**|**Diffractive Magic Cube Network with Super-high Capacity Enabled by   Mechanical Reconfiguration**|Peijie Feng et.al.|[2412.20693v1](http://arxiv.org/abs/2412.20693v1)|null|
 |**2024-12-30 03:05:45**|**Align Attention Heads Before Merging Them: An Effective Way for   Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677v1](http://arxiv.org/abs/2412.20677v1)|null|
 |**2024-12-30 02:48:34**|**Prototypical Distillation and Debiased Tuning for Black-box Unsupervised   Domain Adaptation**|Jian Liang et.al.|[2412.20670v1](http://arxiv.org/abs/2412.20670v1)|[link](https://github.com/tim-learn/ProDDing/})|
