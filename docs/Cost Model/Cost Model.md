@@ -2,7 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-30 18:59:55**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|null|
+|**2024-12-30 18:59:55**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|[link](https://github.com/smy-nec/aapl)|
 |**2024-12-30 18:34:36**|**Low coordinate degree algorithms II: Categorical signals and generalized   stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155v1](http://arxiv.org/abs/2412.21155v1)|null|
 |**2024-12-30 18:33:28**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154v1](http://arxiv.org/abs/2412.21154v1)|null|
 |**2024-12-30 18:15:45**|**Facilitating large language model Russian adaptation with Learned   Embedding Propagation**|Mikhail Tikhomirov et.al.|[2412.21140v1](http://arxiv.org/abs/2412.21140v1)|[link](https://github.com/RefalMachine/llmtf_open)|
@@ -25,7 +25,7 @@
 |**2024-12-29 23:20:01**|**Do Current Video LLMs Have Strong OCR Abilities? A Preliminary Study**|Yulin Fei et.al.|[2412.20613v1](http://arxiv.org/abs/2412.20613v1)|[link](https://github.com/yuhuigao/fg-bench)|
 |**2024-12-29 21:22:24**|**Testing and Improving the Robustness of Amortized Bayesian Inference for   Cognitive Models**|Yufei Wu et.al.|[2412.20586v1](http://arxiv.org/abs/2412.20586v1)|[link](https://github.com/yufeiwu1011/Robust-Amortized-Bayesian-Inference)|
 |**2024-12-29 17:18:21**|**Ns3 meets Sionna: Using Realistic Channels in Network Simulation**|Anatolij Zubow et.al.|[2412.20524v1](http://arxiv.org/abs/2412.20524v1)|null|
-|**2024-12-29 15:37:37**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs   via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501v1](http://arxiv.org/abs/2412.20501v1)|[link](https://github.com/ACA-Lab-SJTU/token-ring})|
+|**2024-12-29 15:37:37**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs   via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501v1](http://arxiv.org/abs/2412.20501v1)|[link](https://github.com/aca-lab-sjtu/token-ring)|
 |**2024-12-29 15:28:26**|**Regulating radiology AI medical devices that evolve in their lifecycle**|Camila González et.al.|[2412.20498v1](http://arxiv.org/abs/2412.20498v1)|null|
 |**2024-12-29 08:13:17**|**A market-based efficient matching mechanism for crowdsourced delivery   systems with demand/supply elasticities**|Yuki Oyama et.al.|[2412.20395v1](http://arxiv.org/abs/2412.20395v1)|null|
 |**2024-12-29 07:21:33**|**PTQ4VM: Post-Training Quantization for Visual Mamba**|Younghyun Cho et.al.|[2412.20386v1](http://arxiv.org/abs/2412.20386v1)|[link](https://github.com/YoungHyun197/ptq4vm)|

@@ -2,7 +2,7 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-30 15:33:34**|**Automated Robustness Testing for LLM-based NLP Software**|Mingxuan Xiao et.al.|[2412.21016v1](http://arxiv.org/abs/2412.21016v1)|null|
+|**2024-12-30 15:33:34**|**Automated Robustness Testing for LLM-based NLP Software**|Mingxuan Xiao et.al.|[2412.21016v1](http://arxiv.org/abs/2412.21016v1)|[link](https://github.com/lumos-xiao/abs)|
 |**2024-12-30 14:57:53**|**Efficiently Serving LLM Reasoning Programs with Certaindex**|Yichao Fu et.al.|[2412.20993v1](http://arxiv.org/abs/2412.20993v1)|null|
 |**2024-12-30 14:54:35**|**RobustBlack: Challenging Black-Box Adversarial Attacks on   State-of-the-Art Defenses**|Mohamed Djilani et.al.|[2412.20987v1](http://arxiv.org/abs/2412.20987v1)|null|
 |**2024-12-30 13:49:28**|**GASLITEing the Retrieval: Exploring Vulnerabilities in Dense   Embedding-based Search**|Matan Ben-Tov et.al.|[2412.20953v1](http://arxiv.org/abs/2412.20953v1)|[link](https://github.com/matanbt/gaslite)|
