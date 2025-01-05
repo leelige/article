@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-30 18:59:55**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|[link](https://github.com/smy-nec/aapl)|
-|**2024-12-30 18:34:36**|**Low coordinate degree algorithms II: Categorical signals and generalized   stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155v1](http://arxiv.org/abs/2412.21155v1)|null|
-|**2024-12-30 18:33:28**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154v1](http://arxiv.org/abs/2412.21154v1)|null|
-|**2024-12-30 18:15:45**|**Facilitating large language model Russian adaptation with Learned   Embedding Propagation**|Mikhail Tikhomirov et.al.|[2412.21140v1](http://arxiv.org/abs/2412.21140v1)|[link](https://github.com/RefalMachine/llmtf_open)|
-|**2024-12-30 16:34:11**|**Efficient Multi-Task Inferencing with a Shared Backbone and Lightweight   Task-Specific Adapters for Automatic Scoring**|Ehsan Latif et.al.|[2412.21065v1](http://arxiv.org/abs/2412.21065v1)|null|
-|**2024-12-30 16:32:55**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|[link](https://github.com/siywang541/Varformer)|
-|**2024-12-30 15:15:08**|**Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant   Rationale via Principled Criteria**|Joonwon Jang et.al.|[2412.21006v2](http://arxiv.org/abs/2412.21006v2)|null|
-|**2024-12-30 15:10:57**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample   Efficiency**|Xiao-Yin Liu et.al.|[2412.21001v1](http://arxiv.org/abs/2412.21001v1)|[link](https://github.com/xiaoyinliu0714/LEASE)|
-|**2024-12-30 14:57:53**|**Efficiently Serving LLM Reasoning Programs with Certaindex**|Yichao Fu et.al.|[2412.20993v1](http://arxiv.org/abs/2412.20993v1)|null|
-|**2024-12-30 13:27:00**|**Influence Maximization in Temporal Networks with Persistent and Reactive   Behaviors**|Aaqib Zahoor et.al.|[2412.20936v1](http://arxiv.org/abs/2412.20936v1)|null|
-|**2024-12-30 08:11:54**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for   LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787v2](http://arxiv.org/abs/2412.20787v2)|null|
-|**2024-12-30 08:10:21**|**Accelerating Energy-Efficient Federated Learning in Cell-Free Networks   with Adaptive Quantization**|Afsaneh Mahmoudi et.al.|[2412.20785v1](http://arxiv.org/abs/2412.20785v1)|null|
-|**2024-12-30 07:47:30**|**Large Language Model Enabled Multi-Task Physical Layer Network**|Tianyue Zheng et.al.|[2412.20772v1](http://arxiv.org/abs/2412.20772v1)|null|
-|**2024-12-30 07:03:54**|**High-Sensitivity Vision-Based Tactile Sensing Enhanced by   Microstructures and Lightweight CNN**|Mayue Shi et.al.|[2412.20758v1](http://arxiv.org/abs/2412.20758v1)|null|
-|**2024-12-30 06:18:33**|**HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree   Search for Automated Theorem Proving**|Yang Li et.al.|[2412.20735v2](http://arxiv.org/abs/2412.20735v2)|null|
-|**2024-12-30 04:01:55**|**Diffractive Magic Cube Network with Super-high Capacity Enabled by   Mechanical Reconfiguration**|Peijie Feng et.al.|[2412.20693v1](http://arxiv.org/abs/2412.20693v1)|null|
-|**2024-12-30 03:05:45**|**Align Attention Heads Before Merging Them: An Effective Way for   Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677v1](http://arxiv.org/abs/2412.20677v1)|null|
-|**2024-12-30 02:48:34**|**Prototypical Distillation and Debiased Tuning for Black-box Unsupervised   Domain Adaptation**|Jian Liang et.al.|[2412.20670v1](http://arxiv.org/abs/2412.20670v1)|[link](https://github.com/tim-learn/ProDDing/})|
-|**2024-12-30 02:48:02**|**Highway Managed Lane Usage and Tolling for Mixed Traffic Flows with   Connected Automated Vehicles (CAVs) and High-Occupancy Vehicles (HOVs)**|Max T. M. Ng et.al.|[2412.20667v1](http://arxiv.org/abs/2412.20667v1)|null|
-|**2024-12-30 01:59:34**|**Latent Drifting in Diffusion Models for Counterfactual Medical Image   Synthesis**|Yousef Yeganeh et.al.|[2412.20651v1](http://arxiv.org/abs/2412.20651v1)|null|
-|**2024-12-29 23:20:01**|**Do Current Video LLMs Have Strong OCR Abilities? A Preliminary Study**|Yulin Fei et.al.|[2412.20613v1](http://arxiv.org/abs/2412.20613v1)|[link](https://github.com/yuhuigao/fg-bench)|
-|**2024-12-29 21:22:24**|**Testing and Improving the Robustness of Amortized Bayesian Inference for   Cognitive Models**|Yufei Wu et.al.|[2412.20586v1](http://arxiv.org/abs/2412.20586v1)|[link](https://github.com/yufeiwu1011/Robust-Amortized-Bayesian-Inference)|
-|**2024-12-29 17:18:21**|**Ns3 meets Sionna: Using Realistic Channels in Network Simulation**|Anatolij Zubow et.al.|[2412.20524v1](http://arxiv.org/abs/2412.20524v1)|null|
-|**2024-12-29 15:37:37**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs   via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501v1](http://arxiv.org/abs/2412.20501v1)|[link](https://github.com/aca-lab-sjtu/token-ring)|
-|**2024-12-29 15:28:26**|**Regulating radiology AI medical devices that evolve in their lifecycle**|Camila González et.al.|[2412.20498v1](http://arxiv.org/abs/2412.20498v1)|null|
-|**2024-12-29 08:13:17**|**A market-based efficient matching mechanism for crowdsourced delivery   systems with demand/supply elasticities**|Yuki Oyama et.al.|[2412.20395v1](http://arxiv.org/abs/2412.20395v1)|null|
-|**2024-12-29 07:21:33**|**PTQ4VM: Post-Training Quantization for Visual Mamba**|Younghyun Cho et.al.|[2412.20386v1](http://arxiv.org/abs/2412.20386v1)|[link](https://github.com/YoungHyun197/ptq4vm)|
-|**2024-12-29 07:11:44**|**Breaking Fine-Grained Classification Barriers with Cost-Free Data in   Few-Shot Class-Incremental Learning**|Li-Jun Zhao et.al.|[2412.20383v1](http://arxiv.org/abs/2412.20383v1)|null|
-|**2024-12-29 07:02:45**|**Natural Language Fine-Tuning**|Jia Liu et.al.|[2412.20382v1](http://arxiv.org/abs/2412.20382v1)|[link](https://github.com/julia-liuj/nlft)|
-|**2024-12-29 06:32:52**|**A Deep Subgrouping Framework for Precision Drug Repurposing via   Emulating Clinical Trials on Real-world Patient Data**|Seungyeon Lee et.al.|[2412.20373v1](http://arxiv.org/abs/2412.20373v1)|null|
+|**2025-01-02 18:59:40**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent   Diffusion Models**|Jingfeng Yao et.al.|[2501.01423v1](http://arxiv.org/abs/2501.01423v1)|[link](https://github.com/hustvl/LightningDiT)|
+|**2025-01-02 13:47:20**|**Design of mechanisms for ensuring the execution of tasks in project   planning**|Oksana Mulesa et.al.|[2501.01255v1](http://arxiv.org/abs/2501.01255v1)|null|
+|**2025-01-02 13:12:12**|**SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal   Perturbation and Learning Stabilization**|Yongle Huang et.al.|[2501.01245v1](http://arxiv.org/abs/2501.01245v1)|null|
+|**2025-01-02 12:55:36**|**EHCTNet: Enhanced Hybrid of CNN and Transformer Network for Remote   Sensing Image Change Detection**|Junjie Yang et.al.|[2501.01238v1](http://arxiv.org/abs/2501.01238v1)|null|
+|**2025-01-02 12:55:27**|**Automated Self-Refinement and Self-Correction for LLM-based Product   Attribute Value Extraction**|Alexander Brinkmann et.al.|[2501.01237v1](http://arxiv.org/abs/2501.01237v1)|null|
+|**2025-01-02 12:05:21**|**Model of an Open, Decentralized Computational Network with   Incentive-Based Load Balancing**|German Rodikov et.al.|[2501.01219v1](http://arxiv.org/abs/2501.01219v1)|null|
+|**2025-01-02 10:27:06**|**NET-SA: An Efficient Secure Aggregation Architecture Based on In-Network   Computing**|Qingqing Ren et.al.|[2501.01187v1](http://arxiv.org/abs/2501.01187v1)|null|
+|**2025-01-02 10:18:57**|**RingFormer: A Neural Vocoder with Ring Attention and   Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182v1](http://arxiv.org/abs/2501.01182v1)|null|
+|**2025-01-02 09:52:46**|**ROME: Robust Model Ensembling for Semantic Communication Against   Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172v1](http://arxiv.org/abs/2501.01172v1)|null|
+|**2025-01-02 09:38:06**|**Solving all laminar flows around airfoils all-at-once using a parametric   neural network solver**|Wenbo Cao et.al.|[2501.01165v1](http://arxiv.org/abs/2501.01165v1)|null|
+|**2025-01-02 09:24:34**|**Ultrasound Lung Aeration Map via Physics-Aware Neural Operators**|Jiayun Wang et.al.|[2501.01157v1](http://arxiv.org/abs/2501.01157v1)|null|
+|**2025-01-02 08:57:00**|**BlockDialect: Block-wise Fine-grained Mixed Format for Energy-Efficient   LLM Inference**|Wonsuk Jang et.al.|[2501.01144v1](http://arxiv.org/abs/2501.01144v1)|null|
+|**2025-01-02 07:35:53**|**Pruning-based Data Selection and Network Fusion for Efficient Deep   Learning**|Humaira Kousar et.al.|[2501.01118v1](http://arxiv.org/abs/2501.01118v1)|null|
+|**2025-01-02 06:59:37**|**Temperature-Controlled Smart Charging for Electric Vehicles in Cold   Climates**|Grant Ruan et.al.|[2501.01105v1](http://arxiv.org/abs/2501.01105v1)|null|
+|**2025-01-02 05:33:01**|**Enhancing Precision of Automated Teller Machines Network Quality   Assessment: Machine Learning and Multi Classifier Fusion Approaches**|Alireza Safarzadeh et.al.|[2501.01067v1](http://arxiv.org/abs/2501.01067v1)|null|
+|**2025-01-02 02:08:00**|**Deep Reinforcement Learning for Job Scheduling and Resource Management   in Cloud Computing: An Algorithm-Level Review**|Yan Gu et.al.|[2501.01007v1](http://arxiv.org/abs/2501.01007v1)|null|
+|**2025-01-01 20:16:27**|**Cached Adaptive Token Merging: Dynamic Token Reduction and Redundant   Computation Elimination in Diffusion Model**|Omid Saghatchian et.al.|[2501.00946v1](http://arxiv.org/abs/2501.00946v1)|[link](https://github.com/omidiu/ca_tome)|
+|**2025-01-01 16:07:27**|**FullTransNet: Full Transformer with Local-Global Attention for Video   Summarization**|Libin Lan et.al.|[2501.00882v1](http://arxiv.org/abs/2501.00882v1)|null|
+|**2025-01-01 15:15:19**|**Alzheimer's disease detection based on large language model prompt   engineering**|Tian Zheng et.al.|[2501.00861v1](http://arxiv.org/abs/2501.00861v1)|null|
+|**2025-01-01 11:02:08**|**Reasoning-Oriented and Analogy-Based Methods for Locating and Editing in   Zero-Shot Event-Relational Reasoning**|Jingyao Tang et.al.|[2501.00803v1](http://arxiv.org/abs/2501.00803v1)|null|
+|**2025-01-01 09:13:09**|**REM: A Scalable Reinforced Multi-Expert Framework for Multiplex   Influence Maximization**|Huyen Nguyen et.al.|[2501.00779v1](http://arxiv.org/abs/2501.00779v1)|null|
+|**2025-01-01 06:36:56**|**Beyond Text: Implementing Multimodal Large Language Model-Powered   Multi-Agent Systems Using a No-Code Platform**|Cheonsu Jeong et.al.|[2501.00750v1](http://arxiv.org/abs/2501.00750v1)|null|
+|**2025-01-01 06:23:26**|**Dynamics of Adversarial Attacks on Large Language Model-Based Search   Engines**|Xiyang Hu et.al.|[2501.00745v1](http://arxiv.org/abs/2501.00745v1)|null|
+|**2025-01-01 04:56:34**|**Metabolic energy expenditure for time-varying isometric forces**|Sriram Sekaripuram Muralidhar et.al.|[2501.00723v1](http://arxiv.org/abs/2501.00723v1)|null|
+|**2025-01-01 01:36:49**|**Cost and Reward Infused Metric Elicitation**|Chethan Bhateja et.al.|[2501.00696v1](http://arxiv.org/abs/2501.00696v1)|null|
+|**2024-12-31 23:52:01**|**Electronic Noise Considerations for Designing Integrated Solid-State   Quantum Memories**|Tzu-Yung Huang et.al.|[2501.00683v1](http://arxiv.org/abs/2501.00683v1)|null|
+|**2024-12-31 22:32:03**|**Titans: Learning to Memorize at Test Time**|Ali Behrouz et.al.|[2501.00663v1](http://arxiv.org/abs/2501.00663v1)|null|
+|**2024-12-31 21:33:38**|**ICONS: Influence Consensus for Vision-Language Data Selection**|Xindi Wu et.al.|[2501.00654v1](http://arxiv.org/abs/2501.00654v1)|null|
+|**2024-12-31 19:58:54**|**Violation of the Thermodynamic Uncertainty Relation in Quantum   Collisional Models**|Arghya Maity et.al.|[2501.00627v1](http://arxiv.org/abs/2501.00627v1)|null|
+|**2024-12-31 19:15:47**|**Optimal design of triply-periodic minimal surface implants for bone   repair**|David Cohen et.al.|[2501.00611v1](http://arxiv.org/abs/2501.00611v1)|null|
