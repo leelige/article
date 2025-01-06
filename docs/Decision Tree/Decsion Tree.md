@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-03 12:20:09**|**Robust resonant anomaly detection with NPLM**|Gaia Grosso et.al.|[2501.01778v1](http://arxiv.org/abs/2501.01778v1)|null|
 |**2024-12-20 11:14:29**|**Ensembling Large Language Models with Process Reward-Guided Tree Search   for Better Complex Reasoning**|Sungjin Park et.al.|[2412.15797v1](http://arxiv.org/abs/2412.15797v1)|null|
 |**2024-12-20 06:32:05**|**Machine Learning Techniques for Pattern Recognition in High-Dimensional   Data Mining**|Pochun Li et.al.|[2412.15593v1](http://arxiv.org/abs/2412.15593v1)|null|
 |**2024-12-19 14:50:10**|**From Point to probabilistic gradient boosting for claim frequency and   severity prediction**|Dominik Chevalier et.al.|[2412.14916v1](http://arxiv.org/abs/2412.14916v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-03 20:04:32**|**Optimization of Transformer heart disease prediction model based on   particle swarm optimization algorithm**|Jingyuan Yi et.al.|[2412.02801v2](http://arxiv.org/abs/2412.02801v2)|null|
 |**2024-12-02 14:05:36**|**Rashomon effect in Educational Research: Why More is Better Than One for   Measuring the Importance of the Variables?**|Jakub Kuzilek et.al.|[2412.12115v1](http://arxiv.org/abs/2412.12115v1)|null|
 |**2024-12-02 04:45:10**|**Reliable and scalable variable importance estimation via warm-start and   early stopping**|Zexuan Sun et.al.|[2412.01120v1](http://arxiv.org/abs/2412.01120v1)|[link](https://github.com/ZexuanSun/Early-stopping-VI)|
-|**2024-11-29 06:40:45**|**Knowledge-Data Fusion Based Source-Free Semi-Supervised Domain   Adaptation for Seizure Subtype Classification**|Ruimin Peng et.al.|[2411.19502v1](http://arxiv.org/abs/2411.19502v1)|null|

@@ -2,6 +2,7 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-03 14:30:14**|**Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large   Language Models**|Yanjiang Liu et.al.|[2501.01830v1](http://arxiv.org/abs/2501.01830v1)|null|
 |**2025-01-02 07:37:09**|**Leverage Cross-Attention for End-to-End Open-Vocabulary Panoptic   Reconstruction**|Xuan Yu et.al.|[2501.01119v1](http://arxiv.org/abs/2501.01119v1)|null|
 |**2025-01-02 06:23:51**|**HoneypotNet: Backdoor Attacks Against Model Extraction**|Yixu Wang et.al.|[2501.01090v1](http://arxiv.org/abs/2501.01090v1)|null|
 |**2025-01-01 13:25:37**|**Hazard-free Decision Trees**|Deepu Benson et.al.|[2501.00831v1](http://arxiv.org/abs/2501.00831v1)|null|
@@ -15,6 +16,7 @@
 |**2024-12-30 06:42:20**|**BundleFit: Display and See-Through Models for Augmented Reality   Head-Mounted Displays**|Yufeng Zhu et.al.|[2501.01382v1](http://arxiv.org/abs/2501.01382v1)|null|
 |**2024-12-29 00:58:33**|**Understanding the Impact of Confidence in Retrieval Augmented   Generation: A Case Study in the Medical Domain**|Shintaro Ozaki et.al.|[2412.20309v1](http://arxiv.org/abs/2412.20309v1)|null|
 |**2024-12-28 07:48:57**|**LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models**|Miao Yu et.al.|[2501.00055v1](http://arxiv.org/abs/2501.00055v1)|null|
+|**2024-12-27 14:34:37**|**Long Context vs. RAG for LLMs: An Evaluation and Revisits**|Xinze Li et.al.|[2501.01880v1](http://arxiv.org/abs/2501.01880v1)|null|
 |**2024-12-27 13:55:00**|**Distributed Download from an External Data Source in Faulty Majority   Settings**|John Augustine et.al.|[2412.19649v1](http://arxiv.org/abs/2412.19649v1)|null|
 |**2024-12-27 04:02:46**|**Low-Rank Contextual Reinforcement Learning from Heterogeneous Human   Feedback**|Seong Jin Lee et.al.|[2412.19436v1](http://arxiv.org/abs/2412.19436v1)|null|
 |**2024-12-27 02:47:44**|**DIPS: Optimal Dynamic Index for Poisson $\boldsymbolπ$ps Sampling**|Jinchao Huang et.al.|[2412.19415v1](http://arxiv.org/abs/2412.19415v1)|null|
@@ -30,5 +32,3 @@
 |**2024-12-23 08:33:47**|**Interweaving Memories of a Siamese Large Language Model**|Xin Song et.al.|[2412.17383v1](http://arxiv.org/abs/2412.17383v1)|[link](https://github.com/ecnu-text-computing/imsm)|
 |**2024-12-23 07:02:06**|**APEX$^2$: Adaptive and Extreme Summarization for Personalized Knowledge   Graphs**|Zihao Li et.al.|[2412.17336v1](http://arxiv.org/abs/2412.17336v1)|null|
 |**2024-12-21 13:19:15**|**Large Language Model Can Be a Foundation for Hidden Rationale-Based   Retrieval**|Luo Ji et.al.|[2412.16615v1](http://arxiv.org/abs/2412.16615v1)|[link](https://github.com/flyfree5/LaHoRe)|
-|**2024-12-21 04:08:18**|**Query Quantized Neural SLAM**|Sijia Jiang et.al.|[2412.16476v1](http://arxiv.org/abs/2412.16476v1)|[link](https://github.com/machineperceptionlab/qq-slam)|
-|**2024-12-20 20:22:11**|**Optimizing Queries with Many-to-Many Joins**|Hasara Kalumin et.al.|[2412.16323v1](http://arxiv.org/abs/2412.16323v1)|null|
