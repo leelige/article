@@ -2,6 +2,11 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-08 17:30:45**|**Efficient Online Quantum Circuit Learning with No Upfront Training**|Tom O'Leary et.al.|[2501.04636v1](http://arxiv.org/abs/2501.04636v1)|null|
+|**2025-01-08 08:42:51**|**Keyword Search in the Deep Web**|Andrea Calì et.al.|[2501.04347v1](http://arxiv.org/abs/2501.04347v1)|null|
+|**2025-01-08 01:23:29**|**Optimal Oblivious Algorithms for Multi-way Joins**|Xiao Hu et.al.|[2501.04216v1](http://arxiv.org/abs/2501.04216v1)|null|
+|**2025-01-07 23:57:10**|**Partition Constraints for Conjunctive Queries: Bounds and Worst-Case   Optimal Joins**|Kyle Deeds et.al.|[2501.04190v1](http://arxiv.org/abs/2501.04190v1)|null|
+|**2025-01-07 22:29:33**|**Quantum One-Time Memories from Stateless Hardware, Random Access Codes,   and Simple Nonconvex Optimization**|Lev Stambler et.al.|[2501.04168v1](http://arxiv.org/abs/2501.04168v1)|null|
 |**2025-01-07 09:27:25**|**Hierarchical Datacubes**|Mickaël Martin Nevot et.al.|[2501.03647v1](http://arxiv.org/abs/2501.03647v1)|null|
 |**2025-01-06 12:24:57**|**FlipedRAG: Black-Box Opinion Manipulation Attacks to Retrieval-Augmented   Generation of Large Language Models**|Zhuo Chen et.al.|[2501.02968v1](http://arxiv.org/abs/2501.02968v1)|null|
 |**2025-01-06 09:22:36**|**IIMedGPT: Promoting Large Language Model Capabilities of Medical Tasks   by Efficient Human Preference Alignment**|Yiming Zhang et.al.|[2501.02869v1](http://arxiv.org/abs/2501.02869v1)|null|
@@ -27,8 +32,3 @@
 |**2024-12-27 14:34:37**|**Long Context vs. RAG for LLMs: An Evaluation and Revisits**|Xinze Li et.al.|[2501.01880v1](http://arxiv.org/abs/2501.01880v1)|null|
 |**2024-12-27 13:55:00**|**Distributed Download from an External Data Source in Faulty Majority   Settings**|John Augustine et.al.|[2412.19649v1](http://arxiv.org/abs/2412.19649v1)|null|
 |**2024-12-27 04:02:46**|**Low-Rank Contextual Reinforcement Learning from Heterogeneous Human   Feedback**|Seong Jin Lee et.al.|[2412.19436v1](http://arxiv.org/abs/2412.19436v1)|null|
-|**2024-12-27 02:47:44**|**DIPS: Optimal Dynamic Index for Poisson $\boldsymbolπ$ps Sampling**|Jinchao Huang et.al.|[2412.19415v1](http://arxiv.org/abs/2412.19415v1)|null|
-|**2024-12-26 16:05:19**|**Optimizing Multi-Stage Language Models for Effective Text Retrieval**|Quang Hoang Trung et.al.|[2412.19265v1](http://arxiv.org/abs/2412.19265v1)|null|
-|**2024-12-26 09:59:43**|**AskChart: Universal Chart Understanding through Textual Enhancement**|Xudong Yang et.al.|[2412.19146v1](http://arxiv.org/abs/2412.19146v1)|[link](https://github.com/sootung/askchart)|
-|**2024-12-24 12:33:44**|**TPAoI: Ensuring Fresh Service Status at the Network Edge in   Compute-First Networking**|Haosheng He et.al.|[2412.18391v1](http://arxiv.org/abs/2412.18391v1)|null|
-|**2024-12-24 08:39:35**|**Improving Multi-Step Reasoning Abilities of Large Language Models with   Direct Advantage Policy Optimization**|Jiacai Liu et.al.|[2412.18279v1](http://arxiv.org/abs/2412.18279v1)|null|

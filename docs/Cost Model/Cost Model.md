@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-07 18:55:02**|**WAPTS: A Weighted Allocation Probability Adjusted Thompson Sampling   Algorithm for High-Dimensional and Sparse Experiment Settings**|Haochen Song et.al.|[2501.03999v1](http://arxiv.org/abs/2501.03999v1)|null|
-|**2025-01-07 17:19:05**|**Scalable calibration for partially observed individual-based epidemic   models through categorical approximations**|Lorenzo Rimella et.al.|[2501.03950v1](http://arxiv.org/abs/2501.03950v1)|null|
-|**2025-01-07 16:19:40**|**mFabric: An Efficient and Scalable Fabric for Mixture-of-Experts   Training**|Xudong Liao et.al.|[2501.03905v1](http://arxiv.org/abs/2501.03905v1)|null|
-|**2025-01-07 16:03:56**|**The Cable to the Moon: Veritasium's Light Bulb Experiment in Low-Cost   Miniature Form**|Michael Lenz et.al.|[2501.03896v1](http://arxiv.org/abs/2501.03896v1)|null|
-|**2025-01-07 16:00:40**|**LEAP: LLM-powered End-to-end Automatic Library for Processing Social   Science Queries on Unstructured Data**|Chuxuan Hu et.al.|[2501.03892v1](http://arxiv.org/abs/2501.03892v1)|null|
-|**2025-01-07 14:50:33**|**OmniManip: Towards General Robotic Manipulation via Object-Centric   Interaction Primitives as Spatial Constraints**|Mingjie Pan et.al.|[2501.03841v1](http://arxiv.org/abs/2501.03841v1)|null|
-|**2025-01-07 14:35:09**|**Class-Balance Bias in Regularized Regression**|Johan Larsson et.al.|[2501.03821v1](http://arxiv.org/abs/2501.03821v1)|[link](https://github.com/jolars/normreg)|
-|**2025-01-07 13:45:24**|**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**|Zhangqian Bi et.al.|[2501.03783v1](http://arxiv.org/abs/2501.03783v1)|null|
-|**2025-01-07 12:40:11**|**A Multimodal Lightweight Approach to Fault Diagnosis of Induction Motors   in High-Dimensional Dataset**|Usman Ali et.al.|[2501.03746v1](http://arxiv.org/abs/2501.03746v1)|null|
-|**2025-01-07 10:21:21**|**SMIR: Efficient Synthetic Data Pipeline To Improve Multi-Image Reasoning**|Andrew Li et.al.|[2501.03675v1](http://arxiv.org/abs/2501.03675v1)|null|
-|**2025-01-07 10:01:56**|**Dimension-Free Parameterized Approximation Schemes for Hybrid Clustering**|Ameet Gadekar et.al.|[2501.03663v1](http://arxiv.org/abs/2501.03663v1)|null|
-|**2025-01-07 09:47:46**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659v1](http://arxiv.org/abs/2501.03659v1)|null|
-|**2025-01-07 09:00:07**|**MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer**|Junsheng Luan et.al.|[2501.03630v1](http://arxiv.org/abs/2501.03630v1)|null|
-|**2025-01-07 07:56:37**|**Combining Physics and Mathematics Learning: A Taylor Series Analysis of   an Oscillating Magnetic Field**|Santiago Ortuno-Molina et.al.|[2501.03599v1](http://arxiv.org/abs/2501.03599v1)|null|
-|**2025-01-07 07:10:50**|**Towards a Generalizable Speech Marker for Parkinson's Disease Diagnosis**|Maksim Siniukov et.al.|[2501.03581v1](http://arxiv.org/abs/2501.03581v1)|null|
-|**2025-01-07 05:17:43**|**Efficient and Accurate Tuberculosis Diagnosis: Attention Residual U-Net   and Vision Transformer Based Detection Framework**|Greeshma K et.al.|[2501.03538v1](http://arxiv.org/abs/2501.03538v1)|null|
-|**2025-01-07 03:00:58**|**VOILA: Complexity-Aware Universal Segmentation of CT images by Voxel   Interacting with Language**|Zishuo Wan et.al.|[2501.03482v1](http://arxiv.org/abs/2501.03482v1)|null|
-|**2025-01-06 20:11:37**|**Detecting Defective Wafers Via Modular Networks**|Yifeng Zhang et.al.|[2501.03368v1](http://arxiv.org/abs/2501.03368v1)|null|
-|**2025-01-06 18:59:26**|**When Should Selfish Miners Double-Spend?**|Mustafa Doger et.al.|[2501.03227v1](http://arxiv.org/abs/2501.03227v1)|null|
-|**2025-01-06 17:43:26**|**MObI: Multimodal Object Inpainting Using Diffusion Models**|Alexandru Buburuzan et.al.|[2501.03173v1](http://arxiv.org/abs/2501.03173v1)|null|
-|**2025-01-06 17:04:26**|**Foundations of Platform-Assisted Auctions**|Hao Chung et.al.|[2501.03141v1](http://arxiv.org/abs/2501.03141v1)|null|
-|**2025-01-06 16:50:35**|**Communication Bounds for the Distributed Experts Problem**|Zhihao Jia et.al.|[2501.03132v1](http://arxiv.org/abs/2501.03132v1)|null|
-|**2025-01-06 15:41:52**|**Sentiment-guided Commonsense-aware Response Generation for Mental Health   Counseling**|Aseem Srivastava et.al.|[2501.03088v1](http://arxiv.org/abs/2501.03088v1)|null|
-|**2025-01-06 14:26:00**|**Piano Transcription by Hierarchical Language Modeling with Pretrained   Roll-based Encoders**|Dichucheng Li et.al.|[2501.03038v2](http://arxiv.org/abs/2501.03038v2)|null|
-|**2025-01-06 14:23:02**|**Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization   Degradation for Mathematical Reasoning**|Zhen Li et.al.|[2501.03035v1](http://arxiv.org/abs/2501.03035v1)|null|
-|**2025-01-06 12:16:56**|**Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the   Wild**|Wanpeng Hu et.al.|[2501.02964v2](http://arxiv.org/abs/2501.02964v2)|[link](https://github.com/aibee00/socraticquestioning)|
-|**2025-01-06 11:46:02**|**MSA-CNN: A Lightweight Multi-Scale CNN with Attention for Sleep Stage   Classification**|Stephan Goerttler et.al.|[2501.02949v1](http://arxiv.org/abs/2501.02949v1)|[link](https://github.com/sgoerttler/msa-cnn)|
-|**2025-01-06 11:43:29**|**A Soft Sensor Method with Uncertainty-Awareness and Self-Explanation   Based on Large Language Models Enhanced by Domain Knowledge Retrieval**|Shuo Tong et.al.|[2501.03295v1](http://arxiv.org/abs/2501.03295v1)|null|
-|**2025-01-06 08:43:31**|**Graph-based Retrieval Augmented Generation for Dynamic Few-shot Text   Classification**|Yubo Wang et.al.|[2501.02844v1](http://arxiv.org/abs/2501.02844v1)|null|
-|**2025-01-06 08:36:28**|**Multi-Modal One-Shot Federated Ensemble Learning for Medical Data with   Vision Large Language Model**|Naibo Wang et.al.|[2501.03292v1](http://arxiv.org/abs/2501.03292v1)|null|
+|**2025-01-08 18:22:44**|**HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image   Fusion**|Chia-Ming Lee et.al.|[2501.04665v1](http://arxiv.org/abs/2501.04665v1)|null|
+|**2025-01-08 18:05:30**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652v1](http://arxiv.org/abs/2501.04652v1)|null|
+|**2025-01-08 17:30:45**|**Efficient Online Quantum Circuit Learning with No Upfront Training**|Tom O'Leary et.al.|[2501.04636v1](http://arxiv.org/abs/2501.04636v1)|null|
+|**2025-01-08 17:29:46**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635v1](http://arxiv.org/abs/2501.04635v1)|null|
+|**2025-01-08 17:09:50**|**Large-scale Grid Optimization: The Workhorse of Future Grid Computations**|Amritanshu Pandey et.al.|[2501.04623v1](http://arxiv.org/abs/2501.04623v1)|null|
+|**2025-01-08 16:41:31**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and   Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606v1](http://arxiv.org/abs/2501.04606v1)|null|
+|**2025-01-08 15:56:21**|**Boosting Salient Object Detection with Knowledge Distillated from Large   Foundation Models**|Miaoyang He et.al.|[2501.04582v1](http://arxiv.org/abs/2501.04582v1)|null|
+|**2025-01-08 15:42:41**|**Regret Analysis: a control perspective**|Travis E. Gibson et.al.|[2501.04572v1](http://arxiv.org/abs/2501.04572v1)|null|
+|**2025-01-08 14:40:00**|**Protecting the Connectivity of a Graph Under Non-Uniform Edge Failures**|Felix Hommelsheim et.al.|[2501.04540v1](http://arxiv.org/abs/2501.04540v1)|null|
+|**2025-01-08 14:16:13**|**NGTS-EB, an eccentric, long-period, low-mass eclipsing binary**|Toby Rodel et.al.|[2501.04523v1](http://arxiv.org/abs/2501.04523v1)|null|
+|**2025-01-08 13:56:17**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability   Detection**|Ruijun Feng et.al.|[2501.04510v1](http://arxiv.org/abs/2501.04510v1)|null|
+|**2025-01-08 13:23:50**|**A fast iterative thresholding and support-and-scale shrinking algorithm   (fits3) for non-lipschitz group sparse optimization (i): the case of   least-squares fidelity**|Yanan Zhao et.al.|[2501.04491v1](http://arxiv.org/abs/2501.04491v1)|null|
+|**2025-01-08 13:13:52**|**MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by   Taylor Formula for Image Restoration**|Zhi Jin et.al.|[2501.04486v1](http://arxiv.org/abs/2501.04486v1)|[link](https://github.com/fvl2020/mb-taylorformerv2)|
+|**2025-01-08 13:03:34**|**Research on environment perception and behavior prediction of   intelligent UAV based on semantic communication**|Kechong Ren et.al.|[2501.04480v1](http://arxiv.org/abs/2501.04480v1)|null|
+|**2025-01-08 11:37:06**|**Federated Fine-Tuning of LLMs: Framework Comparison and Research   Directions**|Na Yan et.al.|[2501.04436v1](http://arxiv.org/abs/2501.04436v1)|null|
+|**2025-01-08 10:28:31**|**Non-intrusive reduced-order modeling for dynamical systems with   spatially localized features**|Leonidas Gkimisis et.al.|[2501.04400v1](http://arxiv.org/abs/2501.04400v1)|null|
+|**2025-01-08 08:05:18**|**AutoDFL: A Scalable and Automated Reputation-Aware Decentralized   Federated Learning**|Meryem Malak Dif et.al.|[2501.04331v1](http://arxiv.org/abs/2501.04331v1)|[link](https://github.com/meryemmalakdif/autodfl)|
+|**2025-01-08 07:47:43**|**Navigating the Designs of Privacy-Preserving Fine-tuning for Large   Language Models**|Shi Haonan et.al.|[2501.04323v1](http://arxiv.org/abs/2501.04323v1)|null|
+|**2025-01-08 06:30:31**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion   Models**|Hyogon Ryu et.al.|[2501.04304v1](http://arxiv.org/abs/2501.04304v1)|null|
+|**2025-01-08 05:17:09**|**Separate Source Channel Coding Is Still What You Need: An LLM-based   Rethinking**|Tianqi Ren et.al.|[2501.04285v1](http://arxiv.org/abs/2501.04285v1)|null|
+|**2025-01-08 05:14:36**|**Enhancing Scene Classification in Cloudy Image Scenarios: A   Collaborative Transfer Method with Information Regulation Mechanism using   Optical Cloud-Covered and SAR Remote Sensing Images**|Yuze Wang et.al.|[2501.04283v1](http://arxiv.org/abs/2501.04283v1)|[link](https://github.com/wangyuze-csu/ESCCS)|
+|**2025-01-08 04:30:45**|**Robotic Programmer: Video Instructed Policy Code Generation for Robotic   Manipulation**|Senwei Xie et.al.|[2501.04268v1](http://arxiv.org/abs/2501.04268v1)|null|
+|**2025-01-08 04:19:57**|**Scaling Large Language Model Training on Frontier with Low-Bandwidth   Partitioning**|Lang Xu et.al.|[2501.04266v1](http://arxiv.org/abs/2501.04266v1)|null|
+|**2025-01-08 03:35:28**|**Integrated Offline and Online Learning to Solve a Large Class of   Scheduling Problems**|Anbang Liu et.al.|[2501.04253v1](http://arxiv.org/abs/2501.04253v1)|null|
+|**2025-01-08 03:10:30**|**Drift-oriented Self-evolving Encrypted Traffic Application   Classification for Actual Network Environment**|Zihan Chen et.al.|[2501.04246v1](http://arxiv.org/abs/2501.04246v1)|null|
+|**2025-01-08 01:18:14**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection   in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213v1](http://arxiv.org/abs/2501.04213v1)|null|
+|**2025-01-08 01:11:17**|**CURing Large Models: Compression via CUR Decomposition**|Sanghyeon Park et.al.|[2501.04211v1](http://arxiv.org/abs/2501.04211v1)|null|
+|**2025-01-08 00:43:31**|**Generative Dataset Distillation Based on Self-knowledge Distillation**|Longzhen Li et.al.|[2501.04202v1](http://arxiv.org/abs/2501.04202v1)|null|
+|**2025-01-07 21:49:55**|**Results from Particle-Resolved Simulations**|Agathe Chouippe et.al.|[2501.04154v1](http://arxiv.org/abs/2501.04154v1)|null|
+|**2025-01-07 21:12:08**|**Linear Optimization for the Perfect Meal: A Data-Driven Approach to   Optimising the Perfect Meal Using Gurobi**|Utkarsh Prajapati et.al.|[2501.04143v1](http://arxiv.org/abs/2501.04143v1)|null|
