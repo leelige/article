@@ -2,9 +2,16 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-09 13:44:14**|**Almost Optimal Synthesis of Reversible Function in Qudit Model**|Buji Xu et.al.|[2501.05237v1](http://arxiv.org/abs/2501.05237v1)|null|
+|**2025-01-09 06:59:08**|**CHASE: A Native Relational Database for Hybrid Queries on Structured and   Unstructured Data**|Rui Ma et.al.|[2501.05006v1](http://arxiv.org/abs/2501.05006v1)|null|
+|**2025-01-09 05:06:44**|**SensorQA: A Question Answering Benchmark for Daily-Life Monitoring**|Benjamin Reichman et.al.|[2501.04974v1](http://arxiv.org/abs/2501.04974v1)|[link](https://github.com/benjamin-reichman/SensorQA})|
+|**2025-01-09 02:47:01**|**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**|Shiji Zhao et.al.|[2501.04931v1](http://arxiv.org/abs/2501.04931v1)|null|
+|**2025-01-09 01:26:59**|**ThriftLLM: On Cost-Effective Selection of Large Language Models for   Classification Queries**|Keke Huang et.al.|[2501.04901v1](http://arxiv.org/abs/2501.04901v1)|null|
+|**2025-01-08 20:11:09**|**Towards Generalizable Trajectory Prediction Using Dual-Level   Representation Learning And Adaptive Prompting**|Kaouther Messaoud et.al.|[2501.04815v1](http://arxiv.org/abs/2501.04815v1)|null|
+|**2025-01-08 18:08:48**|**Efficient and Responsible Adaptation of Large Language Models for Robust   and Equitable Top-k Recommendations**|Kirandeep Kaur et.al.|[2501.04762v1](http://arxiv.org/abs/2501.04762v1)|null|
 |**2025-01-08 17:30:45**|**Efficient Online Quantum Circuit Learning with No Upfront Training**|Tom O'Leary et.al.|[2501.04636v1](http://arxiv.org/abs/2501.04636v1)|null|
 |**2025-01-08 08:42:51**|**Keyword Search in the Deep Web**|Andrea Calì et.al.|[2501.04347v1](http://arxiv.org/abs/2501.04347v1)|null|
-|**2025-01-08 01:23:29**|**Optimal Oblivious Algorithms for Multi-way Joins**|Xiao Hu et.al.|[2501.04216v1](http://arxiv.org/abs/2501.04216v1)|null|
+|**2025-01-08 01:23:29**|**Optimal Oblivious Algorithms for Multi-way Joins**|Xiao Hu et.al.|[2501.04216v2](http://arxiv.org/abs/2501.04216v2)|null|
 |**2025-01-07 23:57:10**|**Partition Constraints for Conjunctive Queries: Bounds and Worst-Case   Optimal Joins**|Kyle Deeds et.al.|[2501.04190v1](http://arxiv.org/abs/2501.04190v1)|null|
 |**2025-01-07 22:29:33**|**Quantum One-Time Memories from Stateless Hardware, Random Access Codes,   and Simple Nonconvex Optimization**|Lev Stambler et.al.|[2501.04168v1](http://arxiv.org/abs/2501.04168v1)|null|
 |**2025-01-07 09:27:25**|**Hierarchical Datacubes**|Mickaël Martin Nevot et.al.|[2501.03647v1](http://arxiv.org/abs/2501.03647v1)|null|
@@ -25,10 +32,3 @@
 |**2024-12-30 14:57:53**|**Efficiently Serving LLM Reasoning Programs with Certaindex**|Yichao Fu et.al.|[2412.20993v1](http://arxiv.org/abs/2412.20993v1)|null|
 |**2024-12-30 14:54:35**|**RobustBlack: Challenging Black-Box Adversarial Attacks on   State-of-the-Art Defenses**|Mohamed Djilani et.al.|[2412.20987v1](http://arxiv.org/abs/2412.20987v1)|null|
 |**2024-12-30 13:49:28**|**GASLITEing the Retrieval: Exploring Vulnerabilities in Dense   Embedding-based Search**|Matan Ben-Tov et.al.|[2412.20953v1](http://arxiv.org/abs/2412.20953v1)|[link](https://github.com/matanbt/gaslite)|
-|**2024-12-30 08:59:20**|**Phoneme-Level Contrastive Learning for User-Defined Keyword Spotting   with Flexible Enrollment**|Li Kewei et.al.|[2412.20805v1](http://arxiv.org/abs/2412.20805v1)|null|
-|**2024-12-30 06:42:20**|**BundleFit: Display and See-Through Models for Augmented Reality   Head-Mounted Displays**|Yufeng Zhu et.al.|[2501.01382v1](http://arxiv.org/abs/2501.01382v1)|null|
-|**2024-12-29 00:58:33**|**Understanding the Impact of Confidence in Retrieval Augmented   Generation: A Case Study in the Medical Domain**|Shintaro Ozaki et.al.|[2412.20309v1](http://arxiv.org/abs/2412.20309v1)|null|
-|**2024-12-28 07:48:57**|**LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models**|Miao Yu et.al.|[2501.00055v1](http://arxiv.org/abs/2501.00055v1)|[link](https://github.com/Ymm-cll/LLM-Virus)|
-|**2024-12-27 14:34:37**|**Long Context vs. RAG for LLMs: An Evaluation and Revisits**|Xinze Li et.al.|[2501.01880v1](http://arxiv.org/abs/2501.01880v1)|null|
-|**2024-12-27 13:55:00**|**Distributed Download from an External Data Source in Faulty Majority   Settings**|John Augustine et.al.|[2412.19649v1](http://arxiv.org/abs/2412.19649v1)|null|
-|**2024-12-27 04:02:46**|**Low-Rank Contextual Reinforcement Learning from Heterogeneous Human   Feedback**|Seong Jin Lee et.al.|[2412.19436v1](http://arxiv.org/abs/2412.19436v1)|null|

@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-09 18:59:56**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450v1](http://arxiv.org/abs/2501.05450v1)|null|
+|**2025-01-09 18:48:22**|**Modeling User Preference in Single-Finger Grasping Interactions**|Arthur Caetano et.al.|[2501.05434v1](http://arxiv.org/abs/2501.05434v1)|null|
+|**2025-01-09 16:58:29**|**Validation of GPU Computation in Decentralized, Trustless Networks**|Eric Boniardi et.al.|[2501.05374v1](http://arxiv.org/abs/2501.05374v1)|null|
+|**2025-01-09 16:10:36**|**Efficient computation of particle-fluid and particle-particle   interactions in compressible flow**|Anna Schwarz et.al.|[2501.05340v1](http://arxiv.org/abs/2501.05340v1)|null|
+|**2025-01-09 15:29:33**|**Optimizing Distributed Deployment of Mixture-of-Experts Model Inference   in Serverless Computing**|Mengfan Liu et.al.|[2501.05313v1](http://arxiv.org/abs/2501.05313v1)|null|
+|**2025-01-09 14:43:29**|**Exploring near-optimal energy systems with stakeholders: a novel   approach for participatory modelling**|Oskar Vågerö et.al.|[2501.05280v1](http://arxiv.org/abs/2501.05280v1)|null|
+|**2025-01-09 14:13:19**|**Measurement of surface tension coefficients of liquids based on equal   thickness interference**|Ziyi Xu et.al.|[2501.05257v1](http://arxiv.org/abs/2501.05257v1)|null|
+|**2025-01-09 14:03:56**|**Grid Cost Allocation in Peer-to-Peer Electricity Markets: Benchmarking   Classical and Quantum Optimization Approaches**|David Bucher et.al.|[2501.05253v1](http://arxiv.org/abs/2501.05253v1)|null|
+|**2025-01-09 13:57:09**|**Online Prompt and Solver Selection for Program Synthesis**|Yixuan Li et.al.|[2501.05247v1](http://arxiv.org/abs/2501.05247v1)|null|
+|**2025-01-09 13:13:24**|**A Novel Approach to Scalable and Automatic Topic-Controlled Question   Generation in Education**|Ziqing Li et.al.|[2501.05220v1](http://arxiv.org/abs/2501.05220v1)|null|
+|**2025-01-09 13:04:11**|**Application of pretrained universal machine-learning interatomic   potential for physicochemical simulation of liquid electrolytes in Li-ion   battery**|Suyeon Ju et.al.|[2501.05211v1](http://arxiv.org/abs/2501.05211v1)|null|
+|**2025-01-09 12:51:39**|**On Coordinated Drone-Courier Logistics for Intra-city Express Services**|Shuiwang Chen et.al.|[2501.05200v1](http://arxiv.org/abs/2501.05200v1)|null|
+|**2025-01-09 12:09:21**|**ZipEnhancer: Dual-Path Down-Up Sampling-based Zipformer for Monaural   Speech Enhancement**|Haoxu Wang et.al.|[2501.05183v1](http://arxiv.org/abs/2501.05183v1)|null|
+|**2025-01-09 11:57:58**|**Compression with Global Guidance: Towards Training-free High-Resolution   MLLMs Acceleration**|Xuyang Liu et.al.|[2501.05179v1](http://arxiv.org/abs/2501.05179v1)|[link](https://github.com/xuyang-liu16/GlobalCom2})|
+|**2025-01-09 10:47:13**|**Rationally warranted promise: the virtue-economic account of   pursuit-worthiness**|Patrick M. Duerr et.al.|[2501.05142v1](http://arxiv.org/abs/2501.05142v1)|null|
+|**2025-01-09 09:59:42**|**Constrained Optimization of Charged Particle Tracking with Multi-Agent   Reinforcement Learning**|Tobias Kortus et.al.|[2501.05113v1](http://arxiv.org/abs/2501.05113v1)|null|
+|**2025-01-09 08:20:42**|**On the Generalizability of Transformer Models to Code Completions of   Different Lengths**|Nathan Cooper et.al.|[2501.05051v1](http://arxiv.org/abs/2501.05051v1)|null|
+|**2025-01-09 06:56:47**|**A High-accuracy Calibration Method of Transient TSEPs for Power   Semiconductor Devices**|Qinghao Zhang et.al.|[2501.05005v1](http://arxiv.org/abs/2501.05005v1)|null|
+|**2025-01-09 06:22:50**|**A CT Image Classification Network Framework for Lung Tumors Based on   Pre-trained MobileNetV2 Model and Transfer learning, And Its Application and   Market Analysis in the Medical field**|Ziyang Gao et.al.|[2501.04996v1](http://arxiv.org/abs/2501.04996v1)|null|
+|**2025-01-09 04:34:00**|**Shelving it rather than Ditching it: Dynamically Debloating DEX and   Native Methods of Android Applications without APK Modification**|Zicheng Zhang et.al.|[2501.04963v1](http://arxiv.org/abs/2501.04963v1)|null|
+|**2025-01-09 03:58:02**|**MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors   to Unseen Real-target Domain While Preserving Performance on Real-source   Domain**|Hojun Lim et.al.|[2501.04950v1](http://arxiv.org/abs/2501.04950v1)|null|
+|**2025-01-09 01:26:59**|**ThriftLLM: On Cost-Effective Selection of Large Language Models for   Classification Queries**|Keke Huang et.al.|[2501.04901v1](http://arxiv.org/abs/2501.04901v1)|null|
+|**2025-01-08 23:38:19**|**Reach Measurement, Optimization and Frequency Capping In Targeted Online   Advertising Under k-Anonymity**|Yuan Gao et.al.|[2501.04882v1](http://arxiv.org/abs/2501.04882v1)|null|
+|**2025-01-08 23:33:50**|**Geophysical inverse problems with measurement-guided diffusion models**|Matteo Ravasi et.al.|[2501.04881v1](http://arxiv.org/abs/2501.04881v1)|null|
+|**2025-01-08 21:15:14**|**EDMB: Edge Detector with Mamba**|Yachuan Li et.al.|[2501.04846v1](http://arxiv.org/abs/2501.04846v1)|[link](https://github.com/Li-yachuan/EDMB)|
+|**2025-01-08 18:38:25**|**TREAD: Token Routing for Efficient Architecture-agnostic Diffusion   Training**|Felix Krause et.al.|[2501.04765v1](http://arxiv.org/abs/2501.04765v1)|null|
 |**2025-01-08 18:22:44**|**HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image   Fusion**|Chia-Ming Lee et.al.|[2501.04665v1](http://arxiv.org/abs/2501.04665v1)|null|
+|**2025-01-08 18:08:48**|**Efficient and Responsible Adaptation of Large Language Models for Robust   and Equitable Top-k Recommendations**|Kirandeep Kaur et.al.|[2501.04762v1](http://arxiv.org/abs/2501.04762v1)|null|
 |**2025-01-08 18:05:30**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652v1](http://arxiv.org/abs/2501.04652v1)|null|
 |**2025-01-08 17:30:45**|**Efficient Online Quantum Circuit Learning with No Upfront Training**|Tom O'Leary et.al.|[2501.04636v1](http://arxiv.org/abs/2501.04636v1)|null|
-|**2025-01-08 17:29:46**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635v1](http://arxiv.org/abs/2501.04635v1)|null|
-|**2025-01-08 17:09:50**|**Large-scale Grid Optimization: The Workhorse of Future Grid Computations**|Amritanshu Pandey et.al.|[2501.04623v1](http://arxiv.org/abs/2501.04623v1)|null|
-|**2025-01-08 16:41:31**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and   Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606v1](http://arxiv.org/abs/2501.04606v1)|null|
-|**2025-01-08 15:56:21**|**Boosting Salient Object Detection with Knowledge Distillated from Large   Foundation Models**|Miaoyang He et.al.|[2501.04582v1](http://arxiv.org/abs/2501.04582v1)|null|
-|**2025-01-08 15:42:41**|**Regret Analysis: a control perspective**|Travis E. Gibson et.al.|[2501.04572v1](http://arxiv.org/abs/2501.04572v1)|null|
-|**2025-01-08 14:40:00**|**Protecting the Connectivity of a Graph Under Non-Uniform Edge Failures**|Felix Hommelsheim et.al.|[2501.04540v1](http://arxiv.org/abs/2501.04540v1)|null|
-|**2025-01-08 14:16:13**|**NGTS-EB, an eccentric, long-period, low-mass eclipsing binary**|Toby Rodel et.al.|[2501.04523v1](http://arxiv.org/abs/2501.04523v1)|null|
-|**2025-01-08 13:56:17**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability   Detection**|Ruijun Feng et.al.|[2501.04510v1](http://arxiv.org/abs/2501.04510v1)|null|
-|**2025-01-08 13:23:50**|**A fast iterative thresholding and support-and-scale shrinking algorithm   (fits3) for non-lipschitz group sparse optimization (i): the case of   least-squares fidelity**|Yanan Zhao et.al.|[2501.04491v1](http://arxiv.org/abs/2501.04491v1)|null|
-|**2025-01-08 13:13:52**|**MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by   Taylor Formula for Image Restoration**|Zhi Jin et.al.|[2501.04486v1](http://arxiv.org/abs/2501.04486v1)|[link](https://github.com/fvl2020/mb-taylorformerv2)|
-|**2025-01-08 13:03:34**|**Research on environment perception and behavior prediction of   intelligent UAV based on semantic communication**|Kechong Ren et.al.|[2501.04480v1](http://arxiv.org/abs/2501.04480v1)|null|
-|**2025-01-08 11:37:06**|**Federated Fine-Tuning of LLMs: Framework Comparison and Research   Directions**|Na Yan et.al.|[2501.04436v1](http://arxiv.org/abs/2501.04436v1)|null|
-|**2025-01-08 10:28:31**|**Non-intrusive reduced-order modeling for dynamical systems with   spatially localized features**|Leonidas Gkimisis et.al.|[2501.04400v1](http://arxiv.org/abs/2501.04400v1)|null|
-|**2025-01-08 08:05:18**|**AutoDFL: A Scalable and Automated Reputation-Aware Decentralized   Federated Learning**|Meryem Malak Dif et.al.|[2501.04331v1](http://arxiv.org/abs/2501.04331v1)|[link](https://github.com/meryemmalakdif/autodfl)|
-|**2025-01-08 07:47:43**|**Navigating the Designs of Privacy-Preserving Fine-tuning for Large   Language Models**|Shi Haonan et.al.|[2501.04323v1](http://arxiv.org/abs/2501.04323v1)|null|
-|**2025-01-08 06:30:31**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion   Models**|Hyogon Ryu et.al.|[2501.04304v1](http://arxiv.org/abs/2501.04304v1)|null|
-|**2025-01-08 05:17:09**|**Separate Source Channel Coding Is Still What You Need: An LLM-based   Rethinking**|Tianqi Ren et.al.|[2501.04285v1](http://arxiv.org/abs/2501.04285v1)|null|
-|**2025-01-08 05:14:36**|**Enhancing Scene Classification in Cloudy Image Scenarios: A   Collaborative Transfer Method with Information Regulation Mechanism using   Optical Cloud-Covered and SAR Remote Sensing Images**|Yuze Wang et.al.|[2501.04283v1](http://arxiv.org/abs/2501.04283v1)|[link](https://github.com/wangyuze-csu/ESCCS)|
-|**2025-01-08 04:30:45**|**Robotic Programmer: Video Instructed Policy Code Generation for Robotic   Manipulation**|Senwei Xie et.al.|[2501.04268v1](http://arxiv.org/abs/2501.04268v1)|null|
-|**2025-01-08 04:19:57**|**Scaling Large Language Model Training on Frontier with Low-Bandwidth   Partitioning**|Lang Xu et.al.|[2501.04266v1](http://arxiv.org/abs/2501.04266v1)|null|
-|**2025-01-08 03:35:28**|**Integrated Offline and Online Learning to Solve a Large Class of   Scheduling Problems**|Anbang Liu et.al.|[2501.04253v1](http://arxiv.org/abs/2501.04253v1)|null|
-|**2025-01-08 03:10:30**|**Drift-oriented Self-evolving Encrypted Traffic Application   Classification for Actual Network Environment**|Zihan Chen et.al.|[2501.04246v1](http://arxiv.org/abs/2501.04246v1)|null|
-|**2025-01-08 01:18:14**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection   in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213v1](http://arxiv.org/abs/2501.04213v1)|null|
-|**2025-01-08 01:11:17**|**CURing Large Models: Compression via CUR Decomposition**|Sanghyeon Park et.al.|[2501.04211v1](http://arxiv.org/abs/2501.04211v1)|null|
-|**2025-01-08 00:43:31**|**Generative Dataset Distillation Based on Self-knowledge Distillation**|Longzhen Li et.al.|[2501.04202v1](http://arxiv.org/abs/2501.04202v1)|null|
-|**2025-01-07 21:49:55**|**Results from Particle-Resolved Simulations**|Agathe Chouippe et.al.|[2501.04154v1](http://arxiv.org/abs/2501.04154v1)|null|
-|**2025-01-07 21:12:08**|**Linear Optimization for the Perfect Meal: A Data-Driven Approach to   Optimising the Perfect Meal Using Gurobi**|Utkarsh Prajapati et.al.|[2501.04143v1](http://arxiv.org/abs/2501.04143v1)|null|
