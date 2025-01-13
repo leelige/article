@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-10 13:06:36**|**Soft regression trees: a model variant and a decomposition training   algorithm**|Antonio Consolo et.al.|[2501.05942v1](http://arxiv.org/abs/2501.05942v1)|null|
 |**2025-01-07 12:38:48**|**Explainable Time Series Prediction of Tyre Energy in Formula One Race   Strategy**|Jamie Todd et.al.|[2501.04067v1](http://arxiv.org/abs/2501.04067v1)|null|
 |**2025-01-05 20:37:34**|**A New Interpretation of the Certainty-Equivalence Approach for PAC   Reinforcement Learning with a Generative Model**|Shivaram Kalyanakrishnan et.al.|[2501.02652v1](http://arxiv.org/abs/2501.02652v1)|null|
 |**2025-01-04 05:15:57**|**An Optimal Algorithm for Half-plane Hitting Set**|Gang Liu et.al.|[2501.02195v1](http://arxiv.org/abs/2501.02195v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-06 19:25:47**|**DIFEM: Key-points Interaction based Feature Extraction Module for   Violence Recognition in Videos**|Himanshu Mittal et.al.|[2412.05386v1](http://arxiv.org/abs/2412.05386v1)|null|
 |**2024-12-06 11:48:49**|**Putting the Iterative Training of Decision Trees to the Test on a   Real-World Robotic Task**|Raphael C. Engelhardt et.al.|[2412.04974v1](http://arxiv.org/abs/2412.04974v1)|null|
 |**2024-12-04 17:20:01**|**Convolutional Neural Networks and Mixture of Experts for Intrusion   Detection in 5G Networks and beyond**|Loukas Ilias et.al.|[2412.03483v1](http://arxiv.org/abs/2412.03483v1)|null|
-|**2024-12-03 21:23:54**|**Optimized IoT Intrusion Detection using Machine Learning Technique**|Muhammad Zawad Mahmud et.al.|[2412.02845v1](http://arxiv.org/abs/2412.02845v1)|null|
