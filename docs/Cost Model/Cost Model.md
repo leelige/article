@@ -2,9 +2,9 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-10 18:32:05**|**Efficient Transition State Searches by Freezing String Method with Graph   Neural Network Potentials**|Jonah Marks et.al.|[2501.06159v1](http://arxiv.org/abs/2501.06159v1)|null|
-|**2025-01-10 18:18:25**|**From discrete-time policies to continuous-time diffusion samplers:   Asymptotic equivalences and faster training**|Julius Berner et.al.|[2501.06148v1](http://arxiv.org/abs/2501.06148v1)|[link](https://github.com/gfnorg/gfn-diffusion)|
-|**2025-01-10 17:05:59**|**Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function   Development and Evaluation Methodology for Vulnerable Road User Safety**|Haochong Chen et.al.|[2501.06113v1](http://arxiv.org/abs/2501.06113v1)|null|
-|**2025-01-10 17:01:09**|**Inferring High-Order Couplings with Neural Networks**|Aurélien Decelle et.al.|[2501.06108v1](http://arxiv.org/abs/2501.06108v1)|null|
-|**2025-01-10 15:18:05**|**MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention   Mechanism for Tiny Datasets**|Bowei Zhang et.al.|[2501.06040v1](http://arxiv.org/abs/2501.06040v1)|null|
-|**2025-01-10 14:20:46**|**Addressing speaker gender bias in large scale speech translation systems**|Shubham Bansal et.al.|[2501.05989v1](http://arxiv.org/abs/2501.05989v1)|null|
+|**2025-01-13 18:16:13**|**ML Mule: Mobile-Driven Context-Aware Collaborative Learning**|Haoxiang Yu et.al.|[2501.07536v1](http://arxiv.org/abs/2501.07536v1)|null|
+|**2025-01-13 18:08:27**|**IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion**|Tharun Anand et.al.|[2501.07530v1](http://arxiv.org/abs/2501.07530v1)|null|
+|**2025-01-13 17:56:39**|**Communication-Efficient, 2D Parallel Stochastic Gradient Descent for   Distributed-Memory Optimization**|Aditya Devarakonda et.al.|[2501.07526v1](http://arxiv.org/abs/2501.07526v1)|null|
+|**2025-01-13 17:31:42**|**Estimating Sequential Search Models Based on a Partial Ranking   Representation**|Tinghan Zhang et.al.|[2501.07514v1](http://arxiv.org/abs/2501.07514v1)|null|
+|**2025-01-13 17:12:38**|**Exploring and Mitigating Adversarial Manipulation of Voting-Based   Leaderboards**|Yangsibo Huang et.al.|[2501.07493v1](http://arxiv.org/abs/2501.07493v1)|null|
+|**2025-01-13 17:06:25**|**How low-cost AI universal approximators reshape market efficiency**|Paolo Barucca et.al.|[2501.07489v1](http://arxiv.org/abs/2501.07489v1)|null|
