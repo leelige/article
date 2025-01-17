@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-16 18:59:53**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757v1](http://arxiv.org/abs/2501.09757v1)|null|
+|**2025-01-16 18:59:02**|**SRE-Conv: Symmetric Rotation Equivariant Convolution for Biomedical   Image Classification**|Yuexi Du et.al.|[2501.09753v1](http://arxiv.org/abs/2501.09753v1)|[link](https://github.com/xypb/sre-conv)|
+|**2025-01-16 18:30:33**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of   AI**|Wenlong Ji et.al.|[2501.09731v1](http://arxiv.org/abs/2501.09731v1)|null|
+|**2025-01-16 17:05:54**|**Model Predictive Path Integral Docking of Fully Actuated Surface Vessel**|Akash Vijayakumar et.al.|[2501.09668v1](http://arxiv.org/abs/2501.09668v1)|null|
+|**2025-01-16 16:27:52**|**Optimal Execution among $N$ Traders with Transient Price Impact**|Steven Campbell et.al.|[2501.09638v1](http://arxiv.org/abs/2501.09638v1)|null|
+|**2025-01-16 14:19:46**|**Core Hours and Carbon Credits: Incentivizing Sustainability in HPC**|Alok Kamatar et.al.|[2501.09557v1](http://arxiv.org/abs/2501.09557v1)|null|
+|**2025-01-16 14:18:06**|**Text-driven Adaptation of Foundation Models for Few-shot Surgical   Workflow Analysis**|Tingxuan Chen et.al.|[2501.09555v1](http://arxiv.org/abs/2501.09555v1)|[link](https://github.com/TingxuanSix/Surg-FTDA)|
+|**2025-01-16 14:12:03**|**Intra-day Solar and Power Forecast for Optimization of Intraday Market   Participation**|Nelson Salazar-Peña et.al.|[2501.09551v1](http://arxiv.org/abs/2501.09551v1)|null|
+|**2025-01-16 11:03:27**|**Optimal taxes and subsidies to incentivize modal shift for inner-city   freight transport**|Krissada Tundulyasaree et.al.|[2501.09467v1](http://arxiv.org/abs/2501.09467v1)|null|
+|**2025-01-16 10:55:05**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464v1](http://arxiv.org/abs/2501.09464v1)|null|
+|**2025-01-16 10:17:58**|**Solving the unsolvable: Translating case law in Hong Kong**|King-kui Sin et.al.|[2501.09444v1](http://arxiv.org/abs/2501.09444v1)|null|
+|**2025-01-16 09:36:32**|**MoE$^2$: Optimizing Collaborative Inference for Edge Large Language   Models**|Lyudong Jin et.al.|[2501.09410v1](http://arxiv.org/abs/2501.09410v1)|null|
+|**2025-01-16 08:52:38**|**Adaptive Contextual Caching for Mobile Edge Large Language Model Service**|Guangyuan Liu et.al.|[2501.09383v1](http://arxiv.org/abs/2501.09383v1)|null|
+|**2025-01-16 08:25:07**|**PICE: A Semantic-Driven Progressive Inference System for LLM Serving in   Cloud-Edge Networks**|Huiyou Zhan et.al.|[2501.09367v1](http://arxiv.org/abs/2501.09367v1)|null|
+|**2025-01-16 07:58:33**|**Rational Tuning of LLM Cascades via Probabilistic Modeling**|Michael J. Zellinger et.al.|[2501.09345v1](http://arxiv.org/abs/2501.09345v1)|null|
+|**2025-01-16 06:59:20**|**Neural Honeytrace: A Robust Plug-and-Play Watermarking Framework against   Model Extraction Attacks**|Yixiao Xu et.al.|[2501.09328v1](http://arxiv.org/abs/2501.09328v1)|[link](https://github.com/neurht/neurht)|
+|**2025-01-16 05:54:59**|**A Study of In-Context-Learning-Based Text-to-SQL Errors**|Jiawei Shen et.al.|[2501.09310v1](http://arxiv.org/abs/2501.09310v1)|null|
+|**2025-01-16 04:50:15**|**Interoceptive Robots for Convergent Shared Control in Collaborative   Construction Work**|Xiaoshan Zhou et.al.|[2501.09290v1](http://arxiv.org/abs/2501.09290v1)|null|
+|**2025-01-16 02:20:25**|**A Dynamic Unmanned Aerial Vehicle Routing Framework for Urban Traffic   Monitoring**|Yumeng Bai et.al.|[2501.09249v1](http://arxiv.org/abs/2501.09249v1)|null|
+|**2025-01-15 23:10:53**|**Valid post-selection inference for penalized G-estimation with   longitudinal observational data**|Ajmery Jaman et.al.|[2501.09196v1](http://arxiv.org/abs/2501.09196v1)|null|
+|**2025-01-15 22:23:53**|**Guiding Retrieval using LLM-based Listwise Rankers**|Mandeep Rathee et.al.|[2501.09186v1](http://arxiv.org/abs/2501.09186v1)|[link](https://github.com/mandeep-rathee/llmgar)|
+|**2025-01-15 20:39:32**|**HAFix: History-Augmented Large Language Models for Bug Fixing**|Yu Shi et.al.|[2501.09135v1](http://arxiv.org/abs/2501.09135v1)|null|
+|**2025-01-15 20:13:46**|**Augmenting Human-Annotated Training Data with Large Language Model   Generation and Distillation in Open-Response Assessment**|Conrad Borchers et.al.|[2501.09126v1](http://arxiv.org/abs/2501.09126v1)|null|
+|**2025-01-15 19:56:59**|**Spectral properties from an efficient analytical representation of the   $GW$ self-energy within a multipole approximation**|Dario A. Leon et.al.|[2501.09121v1](http://arxiv.org/abs/2501.09121v1)|null|
 |**2025-01-15 18:57:33**|**Family-wise Error Rate Control with E-values**|Will Hartog et.al.|[2501.09015v1](http://arxiv.org/abs/2501.09015v1)|null|
 |**2025-01-15 18:48:38**|**SimGen: A Diffusion-Based Framework for Simultaneous Surgical Image and   Segmentation Mask Generation**|Aditya Bhat et.al.|[2501.09008v1](http://arxiv.org/abs/2501.09008v1)|null|
 |**2025-01-15 18:45:05**|**Improving Stability Estimates in Adversarial Explainable AI through   Alternate Search Methods**|Christopher Burger et.al.|[2501.09006v1](http://arxiv.org/abs/2501.09006v1)|null|
 |**2025-01-15 18:27:20**|**Optimising branched fluidic networks: A unifying approach including   laminar and turbulent flows, rough walls, and non-Newtonian fluids**|Jan Siemen Smink et.al.|[2501.08999v1](http://arxiv.org/abs/2501.08999v1)|null|
 |**2025-01-15 16:32:52**|**A stochastic programming approach for the scheduling of medical   interpreting service under uncertainty**|Abdulaziz Ahmed et.al.|[2501.08929v1](http://arxiv.org/abs/2501.08929v1)|null|
 |**2025-01-15 16:26:01**|**Modeling Melt Pool Features and Spatter Using Symbolic Regression and   Machine Learning**|Olabode T. Ajenifujah et.al.|[2501.08922v1](http://arxiv.org/abs/2501.08922v1)|null|
-|**2025-01-15 16:22:11**|**Integrating Cybersecurity in Predictive Cost-Benefit Power Scheduling: A   DeepStack Model with Dynamic Defense Mechanism**|Ali Peivand et.al.|[2501.08916v1](http://arxiv.org/abs/2501.08916v1)|null|
-|**2025-01-15 16:05:50**|**Parallel Query Processing with Heterogeneous Machines**|Simon Frisk et.al.|[2501.08896v1](http://arxiv.org/abs/2501.08896v1)|null|
-|**2025-01-15 15:56:06**|**Feature-based One-For-All: A Universal Framework for Heterogeneous   Knowledge Distillation**|Jhe-Hao Lin et.al.|[2501.08885v1](http://arxiv.org/abs/2501.08885v1)|null|
-|**2025-01-15 15:38:56**|**Silent Abandonment in Text-Based Contact Centers: Identifying,   Quantifying, and Mitigating its Operational Impacts**|Antonio Castellanos et.al.|[2501.08869v1](http://arxiv.org/abs/2501.08869v1)|null|
-|**2025-01-15 15:00:11**|**RouteNet-Gauss: Hardware-Enhanced Network Modeling with Machine Learning**|Carlos Güemes-Palau et.al.|[2501.08848v1](http://arxiv.org/abs/2501.08848v1)|null|
-|**2025-01-15 14:52:20**|**Exploring Task-Level Optimal Prompts for Visual In-Context Learning**|Yan Zhu et.al.|[2501.08841v1](http://arxiv.org/abs/2501.08841v1)|null|
-|**2025-01-15 13:59:42**|**The first calibration model for bluetooth angle of arrival: Enhancing   positioning accuracy in indoor environments**|Ma'mon Saeed Alghananim et.al.|[2501.08805v1](http://arxiv.org/abs/2501.08805v1)|null|
-|**2025-01-15 12:42:09**|**Enhanced Large Language Models for Effective Screening of Depression and   Anxiety**|June M. Liu et.al.|[2501.08769v1](http://arxiv.org/abs/2501.08769v1)|null|
-|**2025-01-15 11:34:56**|**MeshMask: Physics-Based Simulations with Masked Graph Neural Networks**|Paul Garnier et.al.|[2501.08738v1](http://arxiv.org/abs/2501.08738v1)|null|
-|**2025-01-15 11:11:27**|**The Cost of Delivery Delays**|Maria Jose Carreras-Valle et.al.|[2501.08728v1](http://arxiv.org/abs/2501.08728v1)|null|
-|**2025-01-15 08:57:41**|**Product of Gaussian Mixture Diffusion Model for non-linear MRI Inversion**|Laurenz Nagler et.al.|[2501.08662v1](http://arxiv.org/abs/2501.08662v1)|null|
-|**2025-01-15 06:33:03**|**IITKGP-ABSP Submission to LRE22: Language Recognition in Low-Resource   Settings**|Spandan Dey et.al.|[2501.08616v1](http://arxiv.org/abs/2501.08616v1)|null|
-|**2025-01-15 05:00:03**|**Densely Connected Parameter-Efficient Tuning for Referring Image   Segmentation**|Jiaqi Huang et.al.|[2501.08580v1](http://arxiv.org/abs/2501.08580v1)|[link](https://github.com/jiaqihuang01/DETRIS})|
-|**2025-01-15 04:17:48**|**Towards Lightweight and Stable Zero-shot TTS with Self-distilled   Representation Disentanglement**|Qianniu Chen et.al.|[2501.08566v1](http://arxiv.org/abs/2501.08566v1)|null|
-|**2025-01-15 04:09:21**|**Adaptive Sampled Softmax with Inverted Multi-Index: Methods, Theory and   Applications**|Jin Chen et.al.|[2501.08563v1](http://arxiv.org/abs/2501.08563v1)|[link](https://github.com/xuhwang/midx_journal)|
-|**2025-01-15 03:00:57**|**Knowledge prompt chaining for semantic modeling**|Ning Pei Ding et.al.|[2501.08540v1](http://arxiv.org/abs/2501.08540v1)|[link](https://github.com/dingningpei/llm_semantics)|
-|**2025-01-15 00:38:13**|**Scalable Bayesian Physics-Informed Kolmogorov-Arnold Networks**|Zhiwei Gao et.al.|[2501.08501v1](http://arxiv.org/abs/2501.08501v1)|null|
-|**2025-01-14 23:09:36**|**Surrogate-based multilevel Monte Carlo methods for uncertainty   quantification in the Grad-Shafranov free boundary problem**|Howard Elman et.al.|[2501.08482v1](http://arxiv.org/abs/2501.08482v1)|null|
-|**2025-01-14 22:02:38**|**Large Language Models For Text Classification: Case Study And   Comprehensive Review**|Arina Kostina et.al.|[2501.08457v1](http://arxiv.org/abs/2501.08457v1)|null|
-|**2025-01-14 20:21:06**|**CVaR-Based Variational Quantum Optimization for User Association in   Handoff-Aware Vehicular Networks**|Zijiang Yan et.al.|[2501.08418v1](http://arxiv.org/abs/2501.08418v1)|null|
-|**2025-01-14 19:37:08**|**Addressing Quality Challenges in Deep Learning: The Role of MLOps and   Domain Knowledge**|Santiago del Rey et.al.|[2501.08402v1](http://arxiv.org/abs/2501.08402v1)|null|
-|**2025-01-14 18:50:05**|**MiniMax-01: Scaling Foundation Models with Lightning Attention**| MiniMax et.al.|[2501.08313v1](http://arxiv.org/abs/2501.08313v1)|[link](https://github.com/MiniMax-AI)|
-|**2025-01-14 17:21:16**|**Addressing the sustainable AI trilemma: a case study on LLM agents and   RAG**|Hui Wu et.al.|[2501.08262v1](http://arxiv.org/abs/2501.08262v1)|null|
-|**2025-01-14 17:18:05**|**Towards Best Practices for Open Datasets for LLM Training**|Stefan Baack et.al.|[2501.08365v1](http://arxiv.org/abs/2501.08365v1)|null|

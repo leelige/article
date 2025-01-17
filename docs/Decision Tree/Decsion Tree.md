@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-16 13:25:49**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic   Advancements**|Sahil Tomar et.al.|[2501.09528v1](http://arxiv.org/abs/2501.09528v1)|null|
 |**2025-01-15 11:05:25**|**Multilingual Email Phishing Attacks Detection using OSINT and Machine   Learning**|Panharith An et.al.|[2501.08723v1](http://arxiv.org/abs/2501.08723v1)|null|
 |**2025-01-14 14:29:36**|**FairTTTS: A Tree Test Time Simulation Method for Fairness-Aware   Classification**|Nurit Cohen-Inger et.al.|[2501.08155v1](http://arxiv.org/abs/2501.08155v1)|null|
 |**2025-01-11 09:42:13**|**A New Flexible Train-Test Split Algorithm, an approach for choosing   among the Hold-out, K-fold cross-validation, and Hold-out iteration**|Zahra Bami et.al.|[2501.06492v1](http://arxiv.org/abs/2501.06492v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-09 07:07:17**|**Simulation of Multi-Stage Attack and Defense Mechanisms in Smart Grids**|Omer Sen et.al.|[2412.06255v1](http://arxiv.org/abs/2412.06255v1)|null|
 |**2024-12-09 05:30:50**|**Discrete-Time Distribution Steering using Monte Carlo Tree Search**|Alexandros E. Tzikas et.al.|[2412.06220v1](http://arxiv.org/abs/2412.06220v1)|[link](https://github.com/alextzik/distribution_steering_MDP)|
 |**2024-12-08 04:50:23**|**Risk factor identification and classification of malnutrition among   under-five children in Bangladesh: Machine learning and statistical approach**|Tasfin Mahmud et.al.|[2412.05813v1](http://arxiv.org/abs/2412.05813v1)|null|
-|**2024-12-07 00:31:40**|**Digging for Decision Trees: A Case Study in Strategy Sampling and   Learning**|Carlos E. Budde et.al.|[2412.05476v1](http://arxiv.org/abs/2412.05476v1)|null|

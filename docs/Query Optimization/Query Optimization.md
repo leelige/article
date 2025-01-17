@@ -2,6 +2,7 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-15 20:40:25**|**Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG**|Aditi Singh et.al.|[2501.09136v1](http://arxiv.org/abs/2501.09136v1)|[link](https://github.com/asinghcsu/agenticrag-survey)|
 |**2025-01-15 16:23:04**|**Efficient Planning in Large-scale Systems Using Hierarchical Finite   State Machines**|Elis Stefansson et.al.|[2501.08918v1](http://arxiv.org/abs/2501.08918v1)|null|
 |**2025-01-15 16:06:10**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable   Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897v1](http://arxiv.org/abs/2501.08897v1)|null|
 |**2025-01-15 16:05:50**|**Parallel Query Processing with Heterogeneous Machines**|Simon Frisk et.al.|[2501.08896v1](http://arxiv.org/abs/2501.08896v1)|null|
@@ -31,4 +32,3 @@
 |**2025-01-08 08:42:51**|**Keyword Search in the Deep Web**|Andrea Calì et.al.|[2501.04347v1](http://arxiv.org/abs/2501.04347v1)|null|
 |**2025-01-08 01:23:29**|**Optimal Oblivious Algorithms for Multi-way Joins**|Xiao Hu et.al.|[2501.04216v2](http://arxiv.org/abs/2501.04216v2)|null|
 |**2025-01-07 23:57:10**|**Partition Constraints for Conjunctive Queries: Bounds and Worst-Case   Optimal Joins**|Kyle Deeds et.al.|[2501.04190v2](http://arxiv.org/abs/2501.04190v2)|null|
-|**2025-01-07 22:29:33**|**Quantum One-Time Memories from Stateless Hardware, Random Access Codes,   and Simple Nonconvex Optimization**|Lev Stambler et.al.|[2501.04168v1](http://arxiv.org/abs/2501.04168v1)|null|
