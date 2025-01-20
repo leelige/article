@@ -2,6 +2,9 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-17 18:42:46**|**Credit Risk Identification in Supply Chains Using Generative Adversarial   Networks**|Zizhou Zhang et.al.|[2501.10348v1](http://arxiv.org/abs/2501.10348v1)|null|
+|**2025-01-17 12:35:44**|**Complexity of the Virtual Network Embedding with uniform demands**|Amal Benhamiche et.al.|[2501.10154v1](http://arxiv.org/abs/2501.10154v1)|null|
+|**2025-01-17 11:30:31**|**Small Decision Trees for MDPs with Deductive Synthesis**|Roman Andriushchenko et.al.|[2501.10126v1](http://arxiv.org/abs/2501.10126v1)|null|
 |**2025-01-16 13:25:49**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic   Advancements**|Sahil Tomar et.al.|[2501.09528v1](http://arxiv.org/abs/2501.09528v1)|null|
 |**2025-01-15 11:05:25**|**Multilingual Email Phishing Attacks Detection using OSINT and Machine   Learning**|Panharith An et.al.|[2501.08723v1](http://arxiv.org/abs/2501.08723v1)|null|
 |**2025-01-14 14:29:36**|**FairTTTS: A Tree Test Time Simulation Method for Fairness-Aware   Classification**|Nurit Cohen-Inger et.al.|[2501.08155v1](http://arxiv.org/abs/2501.08155v1)|null|
@@ -29,6 +32,3 @@
 |**2024-12-10 14:57:35**|**POMDP-Based Trajectory Planning for On-Ramp Highway Merging**|Adam Kollarčík et.al.|[2412.07567v1](http://arxiv.org/abs/2412.07567v1)|null|
 |**2024-12-10 11:07:37**|**Machine Learning Algorithms for Detecting Mental Stress in College   Students**|Ashutosh Singh et.al.|[2412.07415v1](http://arxiv.org/abs/2412.07415v1)|[link](https://github.com/ashutosh22102/Machine-Learning-Algorithms-for-Detecting-Mental-Stress-in-College-Students)|
 |**2024-12-09 11:36:13**|**Parameter Adjustments in POMDP-Based Trajectory Planning for   Unsignalized Intersections**|Adam Kollarčík adn Zdeněk Hanzálek et.al.|[2412.06405v1](http://arxiv.org/abs/2412.06405v1)|null|
-|**2024-12-09 07:07:17**|**Simulation of Multi-Stage Attack and Defense Mechanisms in Smart Grids**|Omer Sen et.al.|[2412.06255v1](http://arxiv.org/abs/2412.06255v1)|null|
-|**2024-12-09 05:30:50**|**Discrete-Time Distribution Steering using Monte Carlo Tree Search**|Alexandros E. Tzikas et.al.|[2412.06220v1](http://arxiv.org/abs/2412.06220v1)|[link](https://github.com/alextzik/distribution_steering_MDP)|
-|**2024-12-08 04:50:23**|**Risk factor identification and classification of malnutrition among   under-five children in Bangladesh: Machine learning and statistical approach**|Tasfin Mahmud et.al.|[2412.05813v1](http://arxiv.org/abs/2412.05813v1)|null|
