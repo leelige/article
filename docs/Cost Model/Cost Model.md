@@ -23,7 +23,7 @@
 |**2025-01-16 20:37:28**|**Serverless Computing: Architecture, Concepts, and Applications**|Mohsen Ghorbian et.al.|[2501.09831v1](http://arxiv.org/abs/2501.09831v1)|null|
 |**2025-01-16 18:59:53**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757v1](http://arxiv.org/abs/2501.09757v1)|null|
 |**2025-01-16 18:59:02**|**SRE-Conv: Symmetric Rotation Equivariant Convolution for Biomedical   Image Classification**|Yuexi Du et.al.|[2501.09753v1](http://arxiv.org/abs/2501.09753v1)|[link](https://github.com/xypb/sre-conv)|
-|**2025-01-16 18:30:33**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of   AI**|Wenlong Ji et.al.|[2501.09731v1](http://arxiv.org/abs/2501.09731v1)|null|
+|**2025-01-16 18:30:33**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of   AI**|Wenlong Ji et.al.|[2501.09731v1](http://arxiv.org/abs/2501.09731v1)|[link](https://github.com/wenlong2000/reppi)|
 |**2025-01-16 17:05:54**|**Model Predictive Path Integral Docking of Fully Actuated Surface Vessel**|Akash Vijayakumar et.al.|[2501.09668v1](http://arxiv.org/abs/2501.09668v1)|null|
 |**2025-01-16 16:27:52**|**Optimal Execution among $N$ Traders with Transient Price Impact**|Steven Campbell et.al.|[2501.09638v1](http://arxiv.org/abs/2501.09638v1)|null|
 |**2025-01-16 16:15:52**|**Sentiment Analysis in Twitter Social Network Centered on   Cryptocurrencies Using Machine Learning**|Vahid Amiri et.al.|[2501.09777v1](http://arxiv.org/abs/2501.09777v1)|null|

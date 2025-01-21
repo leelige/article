@@ -7,7 +7,7 @@
 |**2025-01-17 11:30:31**|**Small Decision Trees for MDPs with Deductive Synthesis**|Roman Andriushchenko et.al.|[2501.10126v1](http://arxiv.org/abs/2501.10126v1)|null|
 |**2025-01-16 13:25:49**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic   Advancements**|Sahil Tomar et.al.|[2501.09528v1](http://arxiv.org/abs/2501.09528v1)|null|
 |**2025-01-15 11:05:25**|**Multilingual Email Phishing Attacks Detection using OSINT and Machine   Learning**|Panharith An et.al.|[2501.08723v1](http://arxiv.org/abs/2501.08723v1)|null|
-|**2025-01-14 14:29:36**|**FairTTTS: A Tree Test Time Simulation Method for Fairness-Aware   Classification**|Nurit Cohen-Inger et.al.|[2501.08155v1](http://arxiv.org/abs/2501.08155v1)|null|
+|**2025-01-14 14:29:36**|**FairTTTS: A Tree Test Time Simulation Method for Fairness-Aware   Classification**|Nurit Cohen-Inger et.al.|[2501.08155v1](http://arxiv.org/abs/2501.08155v1)|[link](https://github.com/nuritci/fairttts)|
 |**2025-01-11 09:42:13**|**A New Flexible Train-Test Split Algorithm, an approach for choosing   among the Hold-out, K-fold cross-validation, and Hold-out iteration**|Zahra Bami et.al.|[2501.06492v1](http://arxiv.org/abs/2501.06492v1)|null|
 |**2025-01-10 13:06:36**|**Soft regression trees: a model variant and a decomposition training   algorithm**|Antonio Consolo et.al.|[2501.05942v1](http://arxiv.org/abs/2501.05942v1)|null|
 |**2025-01-07 12:38:48**|**Explainable Time Series Prediction of Tyre Energy in Formula One Race   Strategy**|Jamie Todd et.al.|[2501.04067v1](http://arxiv.org/abs/2501.04067v1)|null|
