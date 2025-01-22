@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-17 17:56:52**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image   Restoration**|Huiyun Cao et.al.|[2501.10325v1](http://arxiv.org/abs/2501.10325v1)|null|
-|**2025-01-17 17:41:47**|**HiMix: Reducing Computational Complexity in Large Vision-Language Models**|Xuange Zhang et.al.|[2501.10318v1](http://arxiv.org/abs/2501.10318v1)|null|
-|**2025-01-17 17:37:14**|**Fault-tolerant quantum simulation of generalized Hubbard models**|Andreas Juul Bay-Smidt et.al.|[2501.10314v1](http://arxiv.org/abs/2501.10314v1)|null|
-|**2025-01-17 16:26:54**|**Data-driven Online Slice Admission Control and Resource Allocation for   5G and Beyond Networks**|Muhammad Sulaiman et.al.|[2501.10285v1](http://arxiv.org/abs/2501.10285v1)|null|
-|**2025-01-17 15:45:21**|**Application of the Cyberinfrastructure Production Function Model to R1   Institutions**|Preston M. Smith et.al.|[2501.10264v1](http://arxiv.org/abs/2501.10264v1)|null|
-|**2025-01-17 13:37:16**|**Optimizing Structured-Sparse Matrix Multiplication in RISC-V Vector   Processors**|Vasileios Titopoulos et.al.|[2501.10189v1](http://arxiv.org/abs/2501.10189v1)|null|
-|**2025-01-17 07:53:27**|**Enhancing Crash Frequency Modeling Based on Augmented Multi-Type Data by   Hybrid VAE-Diffusion-Based Generative Neural Networks**|Junlan Chen et.al.|[2501.10017v1](http://arxiv.org/abs/2501.10017v1)|null|
-|**2025-01-17 07:51:26**|**Infrastructure Deployment in Vehicular Communication Networks Using a   Parallel Multiobjective Evolutionary Algorithm**|Renzo Massobrio et.al.|[2501.10016v1](http://arxiv.org/abs/2501.10016v1)|null|
-|**2025-01-17 07:49:23**|**CaFA: Cost-aware, Feasible Attacks With Database Constraints Against   Neural Tabular Classifiers**|Matan Ben-Tov et.al.|[2501.10013v1](http://arxiv.org/abs/2501.10013v1)|null|
-|**2025-01-17 02:48:29**|**Dialogue Benchmark Generation from Knowledge Graphs with Cost-Effective   Retrieval-Augmented LLMs**|Reham Omar et.al.|[2501.09928v1](http://arxiv.org/abs/2501.09928v1)|null|
-|**2025-01-17 01:36:52**|**Position: Open and Closed Large Language Models in Healthcare**|Jiawei Xu et.al.|[2501.09906v1](http://arxiv.org/abs/2501.09906v1)|null|
-|**2025-01-17 01:01:44**|**FoundationStereo: Zero-Shot Stereo Matching**|Bowen Wen et.al.|[2501.09898v1](http://arxiv.org/abs/2501.09898v1)|null|
-|**2025-01-17 00:52:04**|**High-Accuracy Physical Property Prediction for Organics via Molecular   Representation Learning: Bridging Data to Discovery**|Qi Ou et.al.|[2501.09896v1](http://arxiv.org/abs/2501.09896v1)|null|
-|**2025-01-17 00:45:10**|**Sparse Binary Representation Learning for Knowledge Tracing**|Yahya Badran et.al.|[2501.09893v1](http://arxiv.org/abs/2501.09893v1)|null|
-|**2025-01-17 00:41:44**|**Evolving Deeper LLM Thinking**|Kuang-Huei Lee et.al.|[2501.09891v1](http://arxiv.org/abs/2501.09891v1)|null|
-|**2025-01-17 00:23:44**|**Understanding the Effectiveness of LLMs in Automated Self-Admitted   Technical Debt Repayment**|Mohammad Sadegh Sheikhaei et.al.|[2501.09888v1](http://arxiv.org/abs/2501.09888v1)|null|
-|**2025-01-16 21:48:24**|**Greening the Grid: Electricity Market Clearing with Consumer-Based   Carbon Cost**|Wenqian Jiang et.al.|[2501.09853v1](http://arxiv.org/abs/2501.09853v1)|null|
-|**2025-01-16 21:33:47**|**Coded Deep Learning: Framework and Algorithm**|En-hui Yang et.al.|[2501.09849v1](http://arxiv.org/abs/2501.09849v1)|null|
-|**2025-01-16 20:37:28**|**Serverless Computing: Architecture, Concepts, and Applications**|Mohsen Ghorbian et.al.|[2501.09831v1](http://arxiv.org/abs/2501.09831v1)|null|
-|**2025-01-16 18:59:53**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757v1](http://arxiv.org/abs/2501.09757v1)|null|
-|**2025-01-16 18:59:02**|**SRE-Conv: Symmetric Rotation Equivariant Convolution for Biomedical   Image Classification**|Yuexi Du et.al.|[2501.09753v1](http://arxiv.org/abs/2501.09753v1)|[link](https://github.com/xypb/sre-conv)|
-|**2025-01-16 18:30:33**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of   AI**|Wenlong Ji et.al.|[2501.09731v1](http://arxiv.org/abs/2501.09731v1)|[link](https://github.com/wenlong2000/reppi)|
-|**2025-01-16 17:05:54**|**Model Predictive Path Integral Docking of Fully Actuated Surface Vessel**|Akash Vijayakumar et.al.|[2501.09668v1](http://arxiv.org/abs/2501.09668v1)|null|
-|**2025-01-16 16:27:52**|**Optimal Execution among $N$ Traders with Transient Price Impact**|Steven Campbell et.al.|[2501.09638v1](http://arxiv.org/abs/2501.09638v1)|null|
-|**2025-01-16 16:15:52**|**Sentiment Analysis in Twitter Social Network Centered on   Cryptocurrencies Using Machine Learning**|Vahid Amiri et.al.|[2501.09777v1](http://arxiv.org/abs/2501.09777v1)|null|
-|**2025-01-16 14:19:46**|**Core Hours and Carbon Credits: Incentivizing Sustainability in HPC**|Alok Kamatar et.al.|[2501.09557v1](http://arxiv.org/abs/2501.09557v1)|null|
-|**2025-01-16 14:18:06**|**Text-driven Adaptation of Foundation Models for Few-shot Surgical   Workflow Analysis**|Tingxuan Chen et.al.|[2501.09555v1](http://arxiv.org/abs/2501.09555v1)|[link](https://github.com/TingxuanSix/Surg-FTDA)|
-|**2025-01-16 14:12:03**|**Intra-day Solar and Power Forecast for Optimization of Intraday Market   Participation**|Nelson Salazar-Peña et.al.|[2501.09551v1](http://arxiv.org/abs/2501.09551v1)|null|
-|**2025-01-16 11:03:27**|**Optimal taxes and subsidies to incentivize modal shift for inner-city   freight transport**|Krissada Tundulyasaree et.al.|[2501.09467v1](http://arxiv.org/abs/2501.09467v1)|null|
-|**2025-01-16 10:55:05**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464v1](http://arxiv.org/abs/2501.09464v1)|null|
+|**2025-01-21 18:52:15**|**Is Long Context All You Need? Leveraging LLM's Extended Context for   NL2SQL**|Yeounoh Chung et.al.|[2501.12372v1](http://arxiv.org/abs/2501.12372v1)|null|
+|**2025-01-21 18:06:54**|**Automatic Labelling with Open-source LLMs using Dynamic Label Schema   Integration**|Thomas Walshe et.al.|[2501.12332v1](http://arxiv.org/abs/2501.12332v1)|null|
+|**2025-01-21 17:59:11**|**The Gap Between Principle and Practice of Lossy Image Coding**|Haotian Zhang et.al.|[2501.12330v1](http://arxiv.org/abs/2501.12330v1)|null|
+|**2025-01-21 17:03:06**|**RALAD: Bridging the Real-to-Sim Domain Gap in Autonomous Driving with   Retrieval-Augmented Learning**|Jiacheng Zuo et.al.|[2501.12296v1](http://arxiv.org/abs/2501.12296v1)|[link](https://github.com/JiachengZuo/RALAD.git)|
+|**2025-01-21 16:58:49**|**Microgrid Operation Control with State-of-Charge- Dependent Storage   Power Constraints**|E. D. Gomez Anccas et.al.|[2501.12288v1](http://arxiv.org/abs/2501.12288v1)|null|
+|**2025-01-21 16:38:04**|**CBVLM: Training-free Explainable Concept-based Large Vision Language   Models for Medical Image Classification**|Cristiano Patrício et.al.|[2501.12266v1](http://arxiv.org/abs/2501.12266v1)|null|
+|**2025-01-21 16:12:55**|**Solar Panel Selection using Extended WASPAS with Disc Intuitionistic   Fuzzy Choquet Integral Operators: CASPAS Methodology**|Mahmut Can Bozyiğit et.al.|[2501.12251v1](http://arxiv.org/abs/2501.12251v1)|null|
+|**2025-01-21 15:57:15**|**Multi-Agent Feedback Motion Planning using Probably Approximately   Correct Nonlinear Model Predictive Control**|Mark Gonzales et.al.|[2501.12234v1](http://arxiv.org/abs/2501.12234v1)|null|
+|**2025-01-21 13:58:33**|**Approximation Theory and Applications of Randomized Neural Networks for   Solving High-Dimensional PDEs**|T. De Ryck et.al.|[2501.12145v1](http://arxiv.org/abs/2501.12145v1)|null|
+|**2025-01-21 13:46:23**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133v1](http://arxiv.org/abs/2501.12133v1)|null|
+|**2025-01-21 11:00:06**|**A Stochastic Geometry Based Techno-Economic Analysis of RIS-Assisted   Cellular Networks**|Guodong Sun et.al.|[2501.12037v1](http://arxiv.org/abs/2501.12037v1)|null|
+|**2025-01-21 10:53:17**|**In-Network Preprocessing of Recommender Systems on Multi-Tenant   SmartNICs**|Yu Zhu et.al.|[2501.12032v1](http://arxiv.org/abs/2501.12032v1)|null|
+|**2025-01-21 10:48:13**|**Advancing Earth Observation: A Survey on AI-Powered Image Processing in   Satellites**|Aidan Duggan et.al.|[2501.12030v1](http://arxiv.org/abs/2501.12030v1)|null|
+|**2025-01-21 08:57:56**|**Asset Pricing Model in Markets of Imperfect Information and Subjective   Views**|Hafid Lalioui et.al.|[2501.11983v1](http://arxiv.org/abs/2501.11983v1)|null|
+|**2025-01-21 08:51:12**|**Leveraging Graph Structures and Large Language Models for End-to-End   Synthetic Task-Oriented Dialogues**|Maya Medjad et.al.|[2501.11977v1](http://arxiv.org/abs/2501.11977v1)|null|
+|**2025-01-21 08:33:32**|**SMamba: Sparse Mamba for Event-based Object Detection**|Nan Yang et.al.|[2501.11971v1](http://arxiv.org/abs/2501.11971v1)|null|
+|**2025-01-21 08:08:57**|**FENN: Feature-enhanced neural network for solving partial differential   equations involving fluid mechanics**|Jiahao Song et.al.|[2501.11957v1](http://arxiv.org/abs/2501.11957v1)|null|
+|**2025-01-21 07:07:58**|**ALoFTRAG: Automatic Local Fine Tuning for Retrieval Augmented Generation**|Peter Devine et.al.|[2501.11929v1](http://arxiv.org/abs/2501.11929v1)|null|
+|**2025-01-21 04:40:43**|**Med-R$^2$: Crafting Trustworthy LLM Physicians through Retrieval and   Reasoning of Evidence-Based Medicine**|Keer Lu et.al.|[2501.11885v1](http://arxiv.org/abs/2501.11885v1)|null|
+|**2025-01-21 04:35:27**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and   Physical Imaging**|Shuyi Hu et.al.|[2501.11884v1](http://arxiv.org/abs/2501.11884v1)|null|
+|**2025-01-21 03:06:30**|**A Survey on Memory-Efficient Large-Scale Model Training in AI for   Science**|Kaiyuan Tian et.al.|[2501.11847v1](http://arxiv.org/abs/2501.11847v1)|null|
+|**2025-01-21 03:03:10**|**Geometrical scheduling of adiabatic control without information of   energy spectra**|Yuta Shingu et.al.|[2501.11846v1](http://arxiv.org/abs/2501.11846v1)|null|
+|**2025-01-21 01:11:41**|**Dynamic Risk-Adjusted Monitoring of Time Between Events: Applications of   NHPP in Pipeline Accident Surveillance**|Hussam Ahmad et.al.|[2501.11809v1](http://arxiv.org/abs/2501.11809v1)|null|
+|**2025-01-20 23:10:13**|**Glinthawk: A Two-Tiered Architecture for High-Throughput LLM Inference**|Pouya Hamadanian et.al.|[2501.11779v1](http://arxiv.org/abs/2501.11779v1)|[link](https://github.com/microsoft/glinthawk})|
+|**2025-01-20 22:23:50**|**Characterization of GPU TEE Overheads in Distributed Data Parallel ML   Training**|Jonghytun Lee et.al.|[2501.11771v1](http://arxiv.org/abs/2501.11771v1)|null|
+|**2025-01-20 20:29:40**|**Transformer Vibration Forecasting for Advancing Rail Safety and   Maintenance 4.0**|Darío C. Larese et.al.|[2501.11730v1](http://arxiv.org/abs/2501.11730v1)|null|
+|**2025-01-20 20:22:27**|**Nanopillar-Driven Antibacterial Surfaces: Elucidating Bactericidal   Mechanisms and Engineering Nanostructures for Enhanced Efficacy**|Akash Singh et.al.|[2501.11727v1](http://arxiv.org/abs/2501.11727v1)|null|
+|**2025-01-20 19:59:00**|**Axion-like-particle dark matter beyond the standard paradigm**|Cem Eröncel et.al.|[2501.11717v1](http://arxiv.org/abs/2501.11717v1)|null|
+|**2025-01-20 19:38:50**|**Trustformer: A Trusted Federated Transformer**|Ali Abbasi Tadi et.al.|[2501.11706v1](http://arxiv.org/abs/2501.11706v1)|null|
+|**2025-01-20 18:42:21**|**BlindFL: Segmented Federated Learning with Fully Homomorphic Encryption**|Evan Gronberg et.al.|[2501.11659v1](http://arxiv.org/abs/2501.11659v1)|null|

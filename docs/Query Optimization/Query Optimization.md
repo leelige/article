@@ -2,6 +2,11 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-21 16:03:42**|**FOCUS: First Order Concentrated Updating Scheme**|Yizhou Liu et.al.|[2501.12243v1](http://arxiv.org/abs/2501.12243v1)|null|
+|**2025-01-20 03:32:55**|**Constant Optimization Driven Database System Testing**|Chi Zhang et.al.|[2501.11252v1](http://arxiv.org/abs/2501.11252v1)|null|
+|**2025-01-20 01:36:59**|**TigerVector: Supporting Vector Search in Graph Databases for Advanced   RAGs**|Shige Liu et.al.|[2501.11216v1](http://arxiv.org/abs/2501.11216v1)|null|
+|**2025-01-19 13:14:53**|**Beyond Any-Shot Adaptation: Predicting Optimization Outcome for   Robustness Gains without Extra Pay**|Qi Cheems Wang et.al.|[2501.11039v1](http://arxiv.org/abs/2501.11039v1)|[link](https://github.com/thu-rllab/MPTS)|
+|**2025-01-17 20:40:56**|**Scalable Machine Learning Training Infrastructure for Online Ads   Recommendation and Auction Scoring Modeling at Google**|George Kurian et.al.|[2501.10546v1](http://arxiv.org/abs/2501.10546v1)|null|
 |**2025-01-17 18:34:48**|**FC-Datalog as a Framework for Efficient String Querying**|Owen M. Bell et.al.|[2501.10344v1](http://arxiv.org/abs/2501.10344v1)|null|
 |**2025-01-17 11:12:28**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120v1](http://arxiv.org/abs/2501.10120v1)|[link](https://github.com/bytedance/pasa)|
 |**2025-01-15 20:40:25**|**Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG**|Aditi Singh et.al.|[2501.09136v1](http://arxiv.org/abs/2501.09136v1)|[link](https://github.com/asinghcsu/agenticrag-survey)|
@@ -27,8 +32,3 @@
 |**2025-01-09 06:59:08**|**CHASE: A Native Relational Database for Hybrid Queries on Structured and   Unstructured Data**|Rui Ma et.al.|[2501.05006v1](http://arxiv.org/abs/2501.05006v1)|null|
 |**2025-01-09 05:06:44**|**SensorQA: A Question Answering Benchmark for Daily-Life Monitoring**|Benjamin Reichman et.al.|[2501.04974v2](http://arxiv.org/abs/2501.04974v2)|[link](https://github.com/benjamin-reichman/sensorqa)|
 |**2025-01-09 02:47:01**|**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**|Shiji Zhao et.al.|[2501.04931v1](http://arxiv.org/abs/2501.04931v1)|null|
-|**2025-01-09 01:26:59**|**ThriftLLM: On Cost-Effective Selection of Large Language Models for   Classification Queries**|Keke Huang et.al.|[2501.04901v1](http://arxiv.org/abs/2501.04901v1)|null|
-|**2025-01-08 20:11:09**|**Towards Generalizable Trajectory Prediction Using Dual-Level   Representation Learning And Adaptive Prompting**|Kaouther Messaoud et.al.|[2501.04815v1](http://arxiv.org/abs/2501.04815v1)|null|
-|**2025-01-08 18:08:48**|**Efficient and Responsible Adaptation of Large Language Models for Robust   and Equitable Top-k Recommendations**|Kirandeep Kaur et.al.|[2501.04762v1](http://arxiv.org/abs/2501.04762v1)|null|
-|**2025-01-08 17:30:45**|**Efficient Online Quantum Circuit Learning with No Upfront Training**|Tom O'Leary et.al.|[2501.04636v1](http://arxiv.org/abs/2501.04636v1)|null|
-|**2025-01-08 08:42:51**|**Keyword Search in the Deep Web**|Andrea Calì et.al.|[2501.04347v1](http://arxiv.org/abs/2501.04347v1)|null|
