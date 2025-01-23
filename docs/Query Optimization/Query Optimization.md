@@ -2,6 +2,8 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-22 08:14:11**|**Combining Knowledge Graph and LLMs for Enhanced Zero-shot Visual   Question Answering**|Qian Tao et.al.|[2501.12697v1](http://arxiv.org/abs/2501.12697v1)|null|
+|**2025-01-21 19:30:30**|**Specification for the Siril HEALpixel Catalog Format**|Adrian J. E. Knagg-Baugh et.al.|[2501.12466v1](http://arxiv.org/abs/2501.12466v1)|null|
 |**2025-01-21 16:03:42**|**FOCUS: First Order Concentrated Updating Scheme**|Yizhou Liu et.al.|[2501.12243v1](http://arxiv.org/abs/2501.12243v1)|null|
 |**2025-01-20 03:32:55**|**Constant Optimization Driven Database System Testing**|Chi Zhang et.al.|[2501.11252v1](http://arxiv.org/abs/2501.11252v1)|null|
 |**2025-01-20 01:36:59**|**TigerVector: Supporting Vector Search in Graph Databases for Advanced   RAGs**|Shige Liu et.al.|[2501.11216v1](http://arxiv.org/abs/2501.11216v1)|null|
@@ -30,5 +32,3 @@
 |**2025-01-10 00:42:27**|**Enhancing Unsupervised Graph Few-shot Learning via Set Functions and   Optimal Transport**|Yonghao Liu et.al.|[2501.05635v1](http://arxiv.org/abs/2501.05635v1)|[link](https://github.com/keaml-jlu/star)|
 |**2025-01-09 13:44:14**|**Almost Optimal Synthesis of Reversible Function in Qudit Model**|Buji Xu et.al.|[2501.05237v1](http://arxiv.org/abs/2501.05237v1)|null|
 |**2025-01-09 06:59:08**|**CHASE: A Native Relational Database for Hybrid Queries on Structured and   Unstructured Data**|Rui Ma et.al.|[2501.05006v1](http://arxiv.org/abs/2501.05006v1)|null|
-|**2025-01-09 05:06:44**|**SensorQA: A Question Answering Benchmark for Daily-Life Monitoring**|Benjamin Reichman et.al.|[2501.04974v2](http://arxiv.org/abs/2501.04974v2)|[link](https://github.com/benjamin-reichman/sensorqa)|
-|**2025-01-09 02:47:01**|**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**|Shiji Zhao et.al.|[2501.04931v1](http://arxiv.org/abs/2501.04931v1)|null|

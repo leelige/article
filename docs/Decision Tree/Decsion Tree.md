@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-22 16:30:58**|**Ehrenfeucht-Haussler Rank and Chain of Thought**|Pablo Barceló et.al.|[2501.12997v1](http://arxiv.org/abs/2501.12997v1)|null|
 |**2025-01-20 01:25:07**|**Risk Analysis of Flowlines in the Oil and Gas Sector: A GIS and Machine   Learning Approach**|I. Chittumuri et.al.|[2501.11213v1](http://arxiv.org/abs/2501.11213v1)|null|
 |**2025-01-18 02:05:37**|**AI/ML Based Detection and Categorization of Covert Communication in IPv6   Network**|Mohammad Wali Ur Rahman et.al.|[2501.10627v1](http://arxiv.org/abs/2501.10627v1)|null|
 |**2025-01-17 18:42:46**|**Credit Risk Identification in Supply Chains Using Generative Adversarial   Networks**|Zizhou Zhang et.al.|[2501.10348v2](http://arxiv.org/abs/2501.10348v2)|null|
@@ -31,4 +32,3 @@
 |**2024-12-12 17:33:06**|**Early Detection of At-Risk Students Using Machine Learning**|Azucena L. Jimenez Martinez et.al.|[2412.09483v1](http://arxiv.org/abs/2412.09483v1)|null|
 |**2024-12-12 16:57:46**|**Search Strategy Generation for Branch and Bound Using Genetic   Programming**|Gwen Maudet et.al.|[2412.09444v2](http://arxiv.org/abs/2412.09444v2)|null|
 |**2024-12-11 16:08:25**|**Assisted morbidity coding: the SISCO.web use case for identifying the   main diagnosis in Hospital Discharge Records**|Elena Cardillo et.al.|[2412.09651v1](http://arxiv.org/abs/2412.09651v1)|null|
-|**2024-12-10 14:57:35**|**POMDP-Based Trajectory Planning for On-Ramp Highway Merging**|Adam Kollarčík et.al.|[2412.07567v1](http://arxiv.org/abs/2412.07567v1)|null|
