@@ -2,6 +2,9 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-23 12:58:14**|**Sigma: Differential Rescaling of Query, Key and Value for Efficient   Language Models**|Zhenghao Lin et.al.|[2501.13629v1](http://arxiv.org/abs/2501.13629v1)|null|
+|**2025-01-23 12:06:02**|**New Oracles and Labeling Schemes for Vertex Cut Queries**|Yonggang Jiang et.al.|[2501.13596v1](http://arxiv.org/abs/2501.13596v1)|null|
+|**2025-01-23 02:45:35**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341v1](http://arxiv.org/abs/2501.13341v1)|null|
 |**2025-01-22 08:14:11**|**Combining Knowledge Graph and LLMs for Enhanced Zero-shot Visual   Question Answering**|Qian Tao et.al.|[2501.12697v1](http://arxiv.org/abs/2501.12697v1)|null|
 |**2025-01-21 19:30:30**|**Specification for the Siril HEALpixel Catalog Format**|Adrian J. E. Knagg-Baugh et.al.|[2501.12466v1](http://arxiv.org/abs/2501.12466v1)|null|
 |**2025-01-21 16:03:42**|**FOCUS: First Order Concentrated Updating Scheme**|Yizhou Liu et.al.|[2501.12243v1](http://arxiv.org/abs/2501.12243v1)|null|
@@ -20,7 +23,7 @@
 |**2025-01-13 19:01:58**|**SafePowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization   with Large Language Models**|Fabien Bernier et.al.|[2501.07639v1](http://arxiv.org/abs/2501.07639v1)|null|
 |**2025-01-13 15:07:55**|**Enhancing Retrieval-Augmented Generation: A Study of Best Practices**|Siran Li et.al.|[2501.07391v1](http://arxiv.org/abs/2501.07391v1)|[link](https://github.com/ali-bahrainian/rag_best_practices)|
 |**2025-01-13 12:11:07**|**EdgeTAM: On-Device Track Anything Model**|Chong Zhou et.al.|[2501.07256v1](http://arxiv.org/abs/2501.07256v1)|null|
-|**2025-01-13 10:53:19**|**An Enhanced Zeroth-Order Stochastic Frank-Wolfe Framework for   Constrained Finite-Sum Optimization**|Haishan Ye et.al.|[2501.07201v1](http://arxiv.org/abs/2501.07201v1)|[link](https://github.com/yinghuih/zsfw-dvr)|
+|**2025-01-13 10:53:19**|**An Enhanced Zeroth-Order Stochastic Frank-Wolfe Framework for   Constrained Finite-Sum Optimization**|Haishan Ye et.al.|[2501.07201v2](http://arxiv.org/abs/2501.07201v2)|[link](https://github.com/yinghuih/zsfw-dvr)|
 |**2025-01-13 10:06:27**|**State-space reduction techniques exploiting specific constraints for   quantum search Application to a specific job scheduling problem**|Rodolphe Griset et.al.|[2501.07174v1](http://arxiv.org/abs/2501.07174v1)|null|
 |**2025-01-13 04:05:19**|**Differentially Private Kernelized Contextual Bandits**|Nikola Pavlovic et.al.|[2501.07046v1](http://arxiv.org/abs/2501.07046v1)|null|
 |**2025-01-13 02:53:07**|**A Proposed Large Language Model-Based Smart Search for Archive System**|Ha Dung Nguyen et.al.|[2501.07024v1](http://arxiv.org/abs/2501.07024v1)|null|
@@ -29,6 +32,3 @@
 |**2025-01-12 13:18:04**|**MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large   Language Model Inference**|Wenxuan Zeng et.al.|[2501.06807v1](http://arxiv.org/abs/2501.06807v1)|null|
 |**2025-01-11 22:01:12**|**TUCKET: A Tensor Time Series Data Structure for Efficient and Accurate   Factor Analysis over Time Ranges**|Ruizhong Qiu et.al.|[2501.06647v1](http://arxiv.org/abs/2501.06647v1)|null|
 |**2025-01-11 15:39:17**|**Aster: Enhancing LSM-structures for Scalable Graph Database**|Dingheng Mo et.al.|[2501.06570v1](http://arxiv.org/abs/2501.06570v1)|null|
-|**2025-01-10 00:42:27**|**Enhancing Unsupervised Graph Few-shot Learning via Set Functions and   Optimal Transport**|Yonghao Liu et.al.|[2501.05635v1](http://arxiv.org/abs/2501.05635v1)|[link](https://github.com/keaml-jlu/star)|
-|**2025-01-09 13:44:14**|**Almost Optimal Synthesis of Reversible Function in Qudit Model**|Buji Xu et.al.|[2501.05237v1](http://arxiv.org/abs/2501.05237v1)|null|
-|**2025-01-09 06:59:08**|**CHASE: A Native Relational Database for Hybrid Queries on Structured and   Unstructured Data**|Rui Ma et.al.|[2501.05006v1](http://arxiv.org/abs/2501.05006v1)|null|
