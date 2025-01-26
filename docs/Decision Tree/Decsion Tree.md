@@ -5,7 +5,7 @@
 |**2025-01-23 15:38:06**|**On total transitivity of graphs**|Kamal Santra et.al.|[2501.13760v1](http://arxiv.org/abs/2501.13760v1)|null|
 |**2025-01-22 21:48:40**|**State Combinatorial Generalization In Decision Making With Conditional   Diffusion Models**|Xintong Duan et.al.|[2501.13241v1](http://arxiv.org/abs/2501.13241v1)|null|
 |**2025-01-22 16:30:58**|**Ehrenfeucht-Haussler Rank and Chain of Thought**|Pablo Barceló et.al.|[2501.12997v1](http://arxiv.org/abs/2501.12997v1)|null|
-|**2025-01-20 01:25:07**|**Risk Analysis of Flowlines in the Oil and Gas Sector: A GIS and Machine   Learning Approach**|I. Chittumuri et.al.|[2501.11213v1](http://arxiv.org/abs/2501.11213v1)|null|
+|**2025-01-20 01:25:07**|**Risk Analysis of Flowlines in the Oil and Gas Sector: A GIS and Machine   Learning Approach**|I. Chittumuri et.al.|[2501.11213v1](http://arxiv.org/abs/2501.11213v1)|[link](https://github.com/ichittumuri/spe_journal_risk_analysis_of_flowlines)|
 |**2025-01-18 02:05:37**|**AI/ML Based Detection and Categorization of Covert Communication in IPv6   Network**|Mohammad Wali Ur Rahman et.al.|[2501.10627v1](http://arxiv.org/abs/2501.10627v1)|null|
 |**2025-01-17 18:42:46**|**Credit Risk Identification in Supply Chains Using Generative Adversarial   Networks**|Zizhou Zhang et.al.|[2501.10348v2](http://arxiv.org/abs/2501.10348v2)|null|
 |**2025-01-17 12:35:44**|**Complexity of the Virtual Network Embedding with uniform demands**|Amal Benhamiche et.al.|[2501.10154v1](http://arxiv.org/abs/2501.10154v1)|null|
