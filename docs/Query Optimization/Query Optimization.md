@@ -2,13 +2,17 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-24 14:45:21**|**VERUS-LM: a Versatile Framework for Combining LLMs with Symbolic   Reasoning**|Benjamin Callewaert et.al.|[2501.14540v1](http://arxiv.org/abs/2501.14540v1)|null|
+|**2025-01-24 09:00:51**|**RadiK: Scalable and Optimized GPU-Parallel Radix Top-K Selection**|Yifei Li et.al.|[2501.14336v1](http://arxiv.org/abs/2501.14336v1)|[link](https://github.com/leefige/radik)|
+|**2025-01-23 18:40:02**|**QuanTaxo: A Quantum Approach to Self-Supervised Taxonomy Expansion**|Sahil Mishra et.al.|[2501.14011v1](http://arxiv.org/abs/2501.14011v1)|null|
 |**2025-01-23 12:58:14**|**Sigma: Differential Rescaling of Query, Key and Value for Efficient   Language Models**|Zhenghao Lin et.al.|[2501.13629v1](http://arxiv.org/abs/2501.13629v1)|null|
 |**2025-01-23 12:06:02**|**New Oracles and Labeling Schemes for Vertex Cut Queries**|Yonggang Jiang et.al.|[2501.13596v1](http://arxiv.org/abs/2501.13596v1)|null|
-|**2025-01-23 02:45:35**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341v1](http://arxiv.org/abs/2501.13341v1)|null|
+|**2025-01-23 02:45:35**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341v2](http://arxiv.org/abs/2501.13341v2)|null|
 |**2025-01-22 08:14:11**|**Combining Knowledge Graph and LLMs for Enhanced Zero-shot Visual   Question Answering**|Qian Tao et.al.|[2501.12697v1](http://arxiv.org/abs/2501.12697v1)|null|
 |**2025-01-21 19:30:30**|**Specification for the Siril HEALpixel Catalog Format**|Adrian J. E. Knagg-Baugh et.al.|[2501.12466v1](http://arxiv.org/abs/2501.12466v1)|null|
 |**2025-01-21 16:03:42**|**FOCUS: First Order Concentrated Updating Scheme**|Yizhou Liu et.al.|[2501.12243v1](http://arxiv.org/abs/2501.12243v1)|null|
 |**2025-01-20 03:32:55**|**Constant Optimization Driven Database System Testing**|Chi Zhang et.al.|[2501.11252v1](http://arxiv.org/abs/2501.11252v1)|null|
+|**2025-01-20 02:40:01**|**Can OpenAI o1 Reason Well in Ophthalmology? A 6,990-Question   Head-to-Head Evaluation Study**|Sahana Srinivasan et.al.|[2501.13949v1](http://arxiv.org/abs/2501.13949v1)|null|
 |**2025-01-20 01:36:59**|**TigerVector: Supporting Vector Search in Graph Databases for Advanced   RAGs**|Shige Liu et.al.|[2501.11216v1](http://arxiv.org/abs/2501.11216v1)|null|
 |**2025-01-19 13:14:53**|**Beyond Any-Shot Adaptation: Predicting Optimization Outcome for   Robustness Gains without Extra Pay**|Qi Cheems Wang et.al.|[2501.11039v1](http://arxiv.org/abs/2501.11039v1)|[link](https://github.com/thu-rllab/MPTS)|
 |**2025-01-17 20:40:56**|**Scalable Machine Learning Training Infrastructure for Online Ads   Recommendation and Auction Scoring Modeling at Google**|George Kurian et.al.|[2501.10546v1](http://arxiv.org/abs/2501.10546v1)|null|
@@ -28,7 +32,3 @@
 |**2025-01-13 04:05:19**|**Differentially Private Kernelized Contextual Bandits**|Nikola Pavlovic et.al.|[2501.07046v1](http://arxiv.org/abs/2501.07046v1)|null|
 |**2025-01-13 02:53:07**|**A Proposed Large Language Model-Based Smart Search for Archive System**|Ha Dung Nguyen et.al.|[2501.07024v1](http://arxiv.org/abs/2501.07024v1)|null|
 |**2025-01-12 22:49:32**|**Enhancing Patient-Centric Communication: Leveraging LLMs to Simulate   Patient Perspectives**|Xinyao Ma et.al.|[2501.06964v1](http://arxiv.org/abs/2501.06964v1)|null|
-|**2025-01-12 15:14:58**|**Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale   Super-Resolution**|Du Chen et.al.|[2501.06838v2](http://arxiv.org/abs/2501.06838v2)|null|
-|**2025-01-12 13:18:04**|**MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large   Language Model Inference**|Wenxuan Zeng et.al.|[2501.06807v1](http://arxiv.org/abs/2501.06807v1)|null|
-|**2025-01-11 22:01:12**|**TUCKET: A Tensor Time Series Data Structure for Efficient and Accurate   Factor Analysis over Time Ranges**|Ruizhong Qiu et.al.|[2501.06647v1](http://arxiv.org/abs/2501.06647v1)|null|
-|**2025-01-11 15:39:17**|**Aster: Enhancing LSM-structures for Scalable Graph Database**|Dingheng Mo et.al.|[2501.06570v1](http://arxiv.org/abs/2501.06570v1)|null|

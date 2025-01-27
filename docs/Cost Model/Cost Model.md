@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-23 18:53:43**|**PBM-VFL: Vertical Federated Learning with Feature and Sample Privacy**|Linh Tran et.al.|[2501.13916v1](http://arxiv.org/abs/2501.13916v1)|null|
-|**2025-01-23 18:52:47**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915v1](http://arxiv.org/abs/2501.13915v1)|null|
-|**2025-01-23 18:35:15**|**On Learning Representations for Tabular Data Distillation**|Inwon Kang et.al.|[2501.13905v1](http://arxiv.org/abs/2501.13905v1)|null|
-|**2025-01-23 16:54:27**|**Predicting Compact Phrasal Rewrites with Large Language Models for ASR   Post Editing**|Hao Zhang et.al.|[2501.13831v1](http://arxiv.org/abs/2501.13831v1)|null|
-|**2025-01-23 16:32:01**|**Learning to Help in Multi-Class Settings**|Yu Wu et.al.|[2501.13810v1](http://arxiv.org/abs/2501.13810v1)|null|
-|**2025-01-23 16:13:58**|**Training-Free Zero-Shot Temporal Action Detection with Vision-Language   Models**|Chaolei Han et.al.|[2501.13795v1](http://arxiv.org/abs/2501.13795v1)|null|
-|**2025-01-23 16:04:23**|**Parameter-Efficient Fine-Tuning for Foundation Models**|Dan Zhang et.al.|[2501.13787v1](http://arxiv.org/abs/2501.13787v1)|[link](https://github.com/thudm/awesome-parameter-efficient-fine-tuning-for-foundation-models)|
-|**2025-01-23 15:47:30**|**A hybrid Reduced Order Model to enforce outflow pressure boundary   conditions in computational haemodynamics**|Pierfrancesco Siena et.al.|[2501.13768v1](http://arxiv.org/abs/2501.13768v1)|null|
-|**2025-01-23 15:17:51**|**An Empirical Study of Retrieval-Augmented Code Generation: Challenges   and Opportunities**|Zezhou Yang et.al.|[2501.13742v1](http://arxiv.org/abs/2501.13742v1)|null|
-|**2025-01-23 15:04:22**|**Pseudocode-Injection Magic: Enabling LLMs to Tackle Graph Computational   Tasks**|Chang Gong et.al.|[2501.13731v1](http://arxiv.org/abs/2501.13731v1)|null|
-|**2025-01-23 13:58:53**|**Certified Robustness Under Bounded Levenshtein Distance**|Elias Abad Rocamora et.al.|[2501.13676v1](http://arxiv.org/abs/2501.13676v1)|null|
-|**2025-01-23 12:45:20**|**QMamba: Post-Training Quantization for Vision State Space Models**|Yinglong Li et.al.|[2501.13624v1](http://arxiv.org/abs/2501.13624v1)|null|
-|**2025-01-23 11:30:13**|**Federated Conformance Checking**|Majid Rafiei et.al.|[2501.13576v1](http://arxiv.org/abs/2501.13576v1)|[link](https://github.com/m4jidrafiei/federated_conformance_checking)|
-|**2025-01-23 10:06:52**|**Text-driven Online Action Detection**|Manuel Benavent-Lledo et.al.|[2501.13518v1](http://arxiv.org/abs/2501.13518v1)|[link](https://github.com/3dperceptionlab/toad)|
-|**2025-01-23 10:05:25**|**Propensity-driven Uncertainty Learning for Sample Exploration in   Source-Free Active Domain Adaptation**|Zicheng Pan et.al.|[2501.13517v1](http://arxiv.org/abs/2501.13517v1)|null|
-|**2025-01-23 08:53:12**|**Adaptive Testing for LLM-Based Applications: A Diversity-based Approach**|Juyeon Yoon et.al.|[2501.13480v1](http://arxiv.org/abs/2501.13480v1)|null|
-|**2025-01-23 08:32:27**|**Multi-Level Attention and Contrastive Learning for Enhanced Text   Classification with an Optimized Transformer**|Jia Gao et.al.|[2501.13467v1](http://arxiv.org/abs/2501.13467v1)|null|
-|**2025-01-23 07:46:48**|**One-cycle Structured Pruning with Stability Driven Structure Search**|Deepak Ghimire et.al.|[2501.13439v1](http://arxiv.org/abs/2501.13439v1)|null|
-|**2025-01-23 07:35:47**|**Emotion estimation from video footage with LSTM**|Samer Attrah et.al.|[2501.13432v1](http://arxiv.org/abs/2501.13432v1)|[link](https://github.com/Samir-atra/Emotion_estimation_from_video_footage_with_LSTM_ML_algorithm)|
-|**2025-01-23 04:07:47**|**Task Allocation in Customer-led Two-sided Markets with Satellite   Constellation Services**|Jianglin Qiao et.al.|[2501.13364v1](http://arxiv.org/abs/2501.13364v1)|null|
-|**2025-01-23 03:18:23**|**MSF: Efficient Diffusion Model Via Multi-Scale Latent Factorize**|Haohang Xu et.al.|[2501.13349v1](http://arxiv.org/abs/2501.13349v1)|null|
-|**2025-01-23 01:43:31**|**Tensor-Var: Variational Data Assimilation in Tensor Product Feature   Space**|Yiming Yang et.al.|[2501.13312v1](http://arxiv.org/abs/2501.13312v1)|null|
-|**2025-01-22 23:56:37**|**MEDFORM: A Foundation Model for Contrastive Learning of CT Imaging and   Clinical Numeric Data in Multi-Cancer Analysis**|Daeun Jung et.al.|[2501.13277v1](http://arxiv.org/abs/2501.13277v1)|[link](https://github.com/digitalhealthcarelab/25multimodalfoundationmodel)|
-|**2025-01-22 20:55:46**|**Distributed Intrusion Detection in Dynamic Networks of UAVs using   Few-Shot Federated Learning**|Ozlem Ceviz et.al.|[2501.13213v1](http://arxiv.org/abs/2501.13213v1)|null|
-|**2025-01-22 18:56:33**|**Which Sensor to Observe? Timely Tracking of a Joint Markov Source with   Model Predictive Control**|Ismail Cosandal et.al.|[2501.13099v1](http://arxiv.org/abs/2501.13099v1)|null|
-|**2025-01-22 18:52:06**|**Robust Representation Consistency Model via Contrastive Denoising**|Jiachen Lei et.al.|[2501.13094v1](http://arxiv.org/abs/2501.13094v1)|[link](https://github.com/jiachenlei/rrcm)|
-|**2025-01-22 18:40:35**|**A new cutoff criterion for non-negatively curved chains**|Francesco Pedrotti et.al.|[2501.13079v1](http://arxiv.org/abs/2501.13079v1)|null|
-|**2025-01-22 18:28:18**|**Beyond the Lungs: Extending the Field of View in Chest CT with Latent   Diffusion Models**|Lianrui Zuo et.al.|[2501.13068v1](http://arxiv.org/abs/2501.13068v1)|null|
-|**2025-01-22 18:07:17**|**On the Use of WGANs for Super Resolution in Dark-Matter Simulations**|John Brennan et.al.|[2501.13056v1](http://arxiv.org/abs/2501.13056v1)|null|
-|**2025-01-22 18:06:00**|**STMDNet: A Lightweight Directional Framework for Motion Pattern   Recognition of Tiny Targets**|Mingshuo Xu et.al.|[2501.13054v1](http://arxiv.org/abs/2501.13054v1)|[link](https://github.com/mingshuoxu/stmdnet)|
+|**2025-01-24 18:58:40**|**CodeMonkeys: Scaling Test-Time Compute for Software Engineering**|Ryan Ehrlich et.al.|[2501.14723v1](http://arxiv.org/abs/2501.14723v1)|null|
+|**2025-01-24 18:53:27**|**Communication-Based Distributed Control of Large-Scale District Heating   Networks**|Audrey Blizard et.al.|[2501.14720v1](http://arxiv.org/abs/2501.14720v1)|null|
+|**2025-01-24 18:46:37**|**FlexiGPT: Pruning and Extending Large Language Models with Low-Rank   Weight Sharing**|James Seale Smith et.al.|[2501.14713v1](http://arxiv.org/abs/2501.14713v1)|null|
+|**2025-01-24 18:32:31**|**Decision-Focused Learning for Complex System Identification: HVAC   Management System Application**|Pietro Favaro et.al.|[2501.14708v1](http://arxiv.org/abs/2501.14708v1)|null|
+|**2025-01-24 18:22:22**|**Acceleration of RANS Solver Convergence via Initialization with Wake   Extension Models**|Kazuko W. Fuchi et.al.|[2501.14699v1](http://arxiv.org/abs/2501.14699v1)|null|
+|**2025-01-24 18:06:07**|**Rethinking Table Instruction Tuning**|Naihao Deng et.al.|[2501.14693v1](http://arxiv.org/abs/2501.14693v1)|null|
+|**2025-01-24 17:20:22**|**Federated Domain Generalization with Data-free On-server Gradient   Matching**|Trong-Binh Nguyen et.al.|[2501.14653v1](http://arxiv.org/abs/2501.14653v1)|null|
+|**2025-01-24 17:02:04**|**Towards Scalable Topological Regularizers**|Hiu-Tung Wong et.al.|[2501.14641v1](http://arxiv.org/abs/2501.14641v1)|null|
+|**2025-01-24 16:56:21**|**The Paradox of Intervention: Resilience in Adaptive Multi-Role   Coordination Networks**|Casper van Elteren et.al.|[2501.14637v1](http://arxiv.org/abs/2501.14637v1)|null|
+|**2025-01-24 16:16:17**|**Mean-field game approach to epidemic propagation on networks**|Louis Bremaud et.al.|[2501.14601v1](http://arxiv.org/abs/2501.14601v1)|null|
+|**2025-01-24 15:54:51**|**Improved Vessel Segmentation with Symmetric Rotation-Equivariant U-Net**|Jiazhen Zhang et.al.|[2501.14592v1](http://arxiv.org/abs/2501.14592v1)|[link](https://github.com/onofreylab/sre_conv_segm_isbi2025)|
+|**2025-01-24 15:33:05**|**ZETA: Leveraging Z-order Curves for Efficient Top-k Attention**|Qiuhao Zeng et.al.|[2501.14577v1](http://arxiv.org/abs/2501.14577v1)|null|
+|**2025-01-24 15:32:31**|**Dynamic Operation and Control of a Multi-Stack Alkaline Water   Electrolysis System with Shared Gas Separators and Lye Circulation: A   Model-Based Study**|Yiwei Qiu et.al.|[2501.14576v1](http://arxiv.org/abs/2501.14576v1)|null|
+|**2025-01-24 15:24:37**|**coverforest: Conformal Predictions with Random Forest in Python**|Panisara Meehinkong et.al.|[2501.14570v1](http://arxiv.org/abs/2501.14570v1)|[link](https://github.com/donlapark/coverforest)|
+|**2025-01-24 14:49:00**|**Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite   Images by Poverty Level: Advancing Tools for Social Science Research**|Hamid Sarmadi et.al.|[2501.14546v1](http://arxiv.org/abs/2501.14546v1)|null|
+|**2025-01-24 14:45:21**|**VERUS-LM: a Versatile Framework for Combining LLMs with Symbolic   Reasoning**|Benjamin Callewaert et.al.|[2501.14540v1](http://arxiv.org/abs/2501.14540v1)|null|
+|**2025-01-24 13:44:08**|**Channel-wise Parallelizable Spiking Neuron with Multiplication-free   Dynamics and Large Temporal Receptive Fields**|Peng Xue et.al.|[2501.14490v1](http://arxiv.org/abs/2501.14490v1)|null|
+|**2025-01-24 08:36:41**|**Joint Infrastructure Planning and Order Assignment for On-Demand   Food-Delivery Services with Coordinated Drones and Human Couriers**|Yang Liu et.al.|[2501.14325v1](http://arxiv.org/abs/2501.14325v1)|null|
+|**2025-01-24 08:21:35**|**PAID: A Framework of Product-Centric Advertising Image Design**|Hongyu Chen et.al.|[2501.14316v1](http://arxiv.org/abs/2501.14316v1)|null|
+|**2025-01-24 08:11:28**|**Permutation-based multi-objective evolutionary feature selection for   high-dimensional data**|Raquel Espinosa et.al.|[2501.14310v1](http://arxiv.org/abs/2501.14310v1)|null|
+|**2025-01-24 07:47:40**|**Fast Think-on-Graph: Wider, Deeper and Faster Reasoning of Large   Language Model on Knowledge Graph**|Xujian Liang et.al.|[2501.14300v1](http://arxiv.org/abs/2501.14300v1)|[link](https://github.com/dosonleung/fasttog)|
+|**2025-01-24 07:33:39**|**Multi-stage Large Language Model Pipelines Can Outperform GPT-4o in   Relevance Assessment**|Julian A. Schnabel et.al.|[2501.14296v1](http://arxiv.org/abs/2501.14296v1)|null|
+|**2025-01-24 06:18:12**|**Pre-train and Fine-tune: Recommenders as Large Models**|Zhenhao Jiang et.al.|[2501.14268v1](http://arxiv.org/abs/2501.14268v1)|null|
+|**2025-01-24 03:21:20**|**Serving Long-Context LLMs at the Mobile Edge: Test-Time Reinforcement   Learning-based Model Caching and Inference Offloading**|Minrui Xu et.al.|[2501.14205v1](http://arxiv.org/abs/2501.14205v1)|null|
+|**2025-01-24 02:22:42**|**Post-hoc Spurious Correlation Neutralization with Single-Weight   Fictitious Class Unlearning**|Shahin Hakemi et.al.|[2501.14182v1](http://arxiv.org/abs/2501.14182v1)|null|
+|**2025-01-24 01:40:16**|**Fully Guided Neural Schrödinger bridge for Brain MR image synthesis**|Hanyeol Yang et.al.|[2501.14171v1](http://arxiv.org/abs/2501.14171v1)|null|
+|**2025-01-24 01:38:37**|**Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule   Generation via Large Language Models**|Yile Gu et.al.|[2501.14170v1](http://arxiv.org/abs/2501.14170v1)|null|
+|**2025-01-24 00:33:21**|**Effective Defect Detection Using Instance Segmentation for NDI**|Ashiqur Rahman et.al.|[2501.14149v1](http://arxiv.org/abs/2501.14149v1)|null|
+|**2025-01-23 21:35:02**|**EFiGP: Eigen-Fourier Physics-Informed Gaussian Process for Inference of   Dynamic Systems**|Jianhong Chen et.al.|[2501.14107v1](http://arxiv.org/abs/2501.14107v1)|null|
+|**2025-01-23 21:32:09**|**MedSlice: Fine-Tuned Large Language Models for Secure Clinical Note   Sectioning**|Joshua Davis et.al.|[2501.14105v1](http://arxiv.org/abs/2501.14105v1)|[link](https://github.com/lindvalllab/medslice)|

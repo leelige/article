@@ -2,12 +2,14 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-24 17:15:33**|**Automation of finding strong gravitational lenses in the Kilo Degree   Survey with U-DenseLens (DenseLens + Segmentation)**|Bharath Chowdhary Nagam et.al.|[2501.14650v1](http://arxiv.org/abs/2501.14650v1)|null|
+|**2025-01-23 19:18:19**|**Predicting the Influence of Nanoformulations on Biomolecule   Functionalities Using Machine Learning and $^{13}$C NMR Spectroscopy Data   Derived from SMILES: A Case Study on Human Dopamine D1 Receptor Antagonists**|Mariya L Ivanova et.al.|[2501.14044v1](http://arxiv.org/abs/2501.14044v1)|null|
 |**2025-01-23 15:38:06**|**On total transitivity of graphs**|Kamal Santra et.al.|[2501.13760v1](http://arxiv.org/abs/2501.13760v1)|null|
 |**2025-01-22 21:48:40**|**State Combinatorial Generalization In Decision Making With Conditional   Diffusion Models**|Xintong Duan et.al.|[2501.13241v1](http://arxiv.org/abs/2501.13241v1)|null|
 |**2025-01-22 16:30:58**|**Ehrenfeucht-Haussler Rank and Chain of Thought**|Pablo Barceló et.al.|[2501.12997v1](http://arxiv.org/abs/2501.12997v1)|null|
 |**2025-01-20 01:25:07**|**Risk Analysis of Flowlines in the Oil and Gas Sector: A GIS and Machine   Learning Approach**|I. Chittumuri et.al.|[2501.11213v1](http://arxiv.org/abs/2501.11213v1)|[link](https://github.com/ichittumuri/spe_journal_risk_analysis_of_flowlines)|
 |**2025-01-18 02:05:37**|**AI/ML Based Detection and Categorization of Covert Communication in IPv6   Network**|Mohammad Wali Ur Rahman et.al.|[2501.10627v1](http://arxiv.org/abs/2501.10627v1)|null|
-|**2025-01-17 18:42:46**|**Credit Risk Identification in Supply Chains Using Generative Adversarial   Networks**|Zizhou Zhang et.al.|[2501.10348v2](http://arxiv.org/abs/2501.10348v2)|null|
+|**2025-01-17 18:42:46**|**Credit Risk Identification in Supply Chains Using Generative Adversarial   Networks**|Zizhou Zhang et.al.|[2501.10348v3](http://arxiv.org/abs/2501.10348v3)|null|
 |**2025-01-17 12:35:44**|**Complexity of the Virtual Network Embedding with uniform demands**|Amal Benhamiche et.al.|[2501.10154v1](http://arxiv.org/abs/2501.10154v1)|null|
 |**2025-01-17 11:30:31**|**Small Decision Trees for MDPs with Deductive Synthesis**|Roman Andriushchenko et.al.|[2501.10126v1](http://arxiv.org/abs/2501.10126v1)|null|
 |**2025-01-16 13:25:49**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic   Advancements**|Sahil Tomar et.al.|[2501.09528v1](http://arxiv.org/abs/2501.09528v1)|null|
@@ -30,5 +32,3 @@
 |**2024-12-17 16:15:04**|**SMOSE: Sparse Mixture of Shallow Experts for Interpretable Reinforcement   Learning in Continuous Control Tasks**|Mátyás Vincze et.al.|[2412.13053v1](http://arxiv.org/abs/2412.13053v1)|null|
 |**2024-12-16 16:38:50**|**Witty: An Efficient Solver for Computing Minimum-Size Decision Trees**|Luca Pascal Staus et.al.|[2412.11954v1](http://arxiv.org/abs/2412.11954v1)|null|
 |**2024-12-15 18:24:26**|**Monte Carlo Tree Search with Spectral Expansion for Planning with   Dynamical Systems**|Benjamin Riviere et.al.|[2412.11270v1](http://arxiv.org/abs/2412.11270v1)|[link](https://github.com/aerorobotics/sets)|
-|**2024-12-13 19:14:08**|**Extracting PAC Decision Trees from Black Box Binary Classifiers: The   Gender Bias Study Case on BERT-based Language Models**|Ana Ozaki et.al.|[2412.10513v1](http://arxiv.org/abs/2412.10513v1)|null|
-|**2024-12-12 17:33:06**|**Early Detection of At-Risk Students Using Machine Learning**|Azucena L. Jimenez Martinez et.al.|[2412.09483v1](http://arxiv.org/abs/2412.09483v1)|null|
