@@ -10,6 +10,7 @@
 |**2025-01-22 21:48:40**|**State Combinatorial Generalization In Decision Making With Conditional   Diffusion Models**|Xintong Duan et.al.|[2501.13241v1](http://arxiv.org/abs/2501.13241v1)|null|
 |**2025-01-22 16:30:58**|**Ehrenfeucht-Haussler Rank and Chain of Thought**|Pablo Barceló et.al.|[2501.12997v1](http://arxiv.org/abs/2501.12997v1)|null|
 |**2025-01-20 01:25:07**|**Risk Analysis of Flowlines in the Oil and Gas Sector: A GIS and Machine   Learning Approach**|I. Chittumuri et.al.|[2501.11213v1](http://arxiv.org/abs/2501.11213v1)|[link](https://github.com/ichittumuri/spe_journal_risk_analysis_of_flowlines)|
+|**2025-01-18 10:15:16**|**Identification of Hardware Trojan Locations in Gate-Level Netlist using   Nearest Neighbour Approach integrated with Machine Learning Technique**|Anindita Chattopadhyay et.al.|[2501.16347v1](http://arxiv.org/abs/2501.16347v1)|null|
 |**2025-01-18 02:05:37**|**AI/ML Based Detection and Categorization of Covert Communication in IPv6   Network**|Mohammad Wali Ur Rahman et.al.|[2501.10627v1](http://arxiv.org/abs/2501.10627v1)|null|
 |**2025-01-17 18:42:46**|**Credit Risk Identification in Supply Chains Using Generative Adversarial   Networks**|Zizhou Zhang et.al.|[2501.10348v3](http://arxiv.org/abs/2501.10348v3)|null|
 |**2025-01-17 12:35:44**|**Complexity of the Virtual Network Embedding with uniform demands**|Amal Benhamiche et.al.|[2501.10154v1](http://arxiv.org/abs/2501.10154v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-18 15:29:05**|**Surrogate-Based Optimization Techniques for Process Systems Engineering**|Mathias Neufang et.al.|[2412.13948v1](http://arxiv.org/abs/2412.13948v1)|null|
 |**2024-12-18 11:59:24**|**Cultivating Archipelago of Forests: Evolving Robust Decision Trees   through Island Coevolution**|Adam Żychowski et.al.|[2412.13762v1](http://arxiv.org/abs/2412.13762v1)|[link](https://github.com/zychowskia/icoevordf)|
 |**2024-12-17 21:54:55**|**A Novel Machine Learning Classifier Based on Genetic Algorithms and Data   Importance Reformatting**|A. K. Alkhayyata et.al.|[2412.13350v1](http://arxiv.org/abs/2412.13350v1)|null|
-|**2024-12-17 17:45:58**|**Previous Knowledge Utilization In Online Anytime Belief Space Planning**|Michael Novitsky et.al.|[2412.13128v2](http://arxiv.org/abs/2412.13128v2)|[link](https://github.com/miken1990/ir-pft)|
