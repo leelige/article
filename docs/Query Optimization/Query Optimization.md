@@ -2,6 +2,9 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-29 17:26:47**|**WARP: An Efficient Engine for Multi-Vector Retrieval**|Jan Luca Scheerer et.al.|[2501.17788v1](http://arxiv.org/abs/2501.17788v1)|null|
+|**2025-01-29 08:57:02**|**Computationally Faster Newton Methods by Lazy Evaluations**|Lesi Chen et.al.|[2501.17488v1](http://arxiv.org/abs/2501.17488v1)|null|
+|**2025-01-29 04:48:51**|**Reqo: A Robust and Explainable Query Optimization Cost Model**|Baoming Chang et.al.|[2501.17414v1](http://arxiv.org/abs/2501.17414v1)|[link](https://github.com/baomingchang/reqo-on-postgresql)|
 |**2025-01-28 16:03:52**|**Enhanced Retrieval of Long Documents: Leveraging Fine-Grained Block   Representations with Large Language Models**|Minghan Li et.al.|[2501.17039v1](http://arxiv.org/abs/2501.17039v1)|null|
 |**2025-01-27 22:33:47**|**PLANSIEVE: Real-time Suboptimal Query Plan Detection Through Incremental   Refinements**|Asoke Datta et.al.|[2501.16544v1](http://arxiv.org/abs/2501.16544v1)|null|
 |**2025-01-27 17:55:39**|**Improving DBMS Scheduling Decisions with Fine-grained Performance   Prediction on Concurrent Queries -- Extended**|Ziniu Wu et.al.|[2501.16256v1](http://arxiv.org/abs/2501.16256v1)|null|
@@ -29,6 +32,3 @@
 |**2025-01-17 11:12:28**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120v1](http://arxiv.org/abs/2501.10120v1)|[link](https://github.com/bytedance/pasa)|
 |**2025-01-15 20:40:25**|**Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG**|Aditi Singh et.al.|[2501.09136v1](http://arxiv.org/abs/2501.09136v1)|[link](https://github.com/asinghcsu/agenticrag-survey)|
 |**2025-01-15 16:23:04**|**Efficient Planning in Large-scale Systems Using Hierarchical Finite   State Machines**|Elis Stefansson et.al.|[2501.08918v1](http://arxiv.org/abs/2501.08918v1)|null|
-|**2025-01-15 16:06:10**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable   Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897v1](http://arxiv.org/abs/2501.08897v1)|[link](https://github.com/qinyuma316/retrosynthesisagent)|
-|**2025-01-15 16:05:50**|**Parallel Query Processing with Heterogeneous Machines**|Simon Frisk et.al.|[2501.08896v1](http://arxiv.org/abs/2501.08896v1)|null|
-|**2025-01-15 05:20:01**|**OpenMLDB: A Real-Time Relational Data Feature Computation System for   Online ML**|Xuanhe Zhou et.al.|[2501.08591v1](http://arxiv.org/abs/2501.08591v1)|null|

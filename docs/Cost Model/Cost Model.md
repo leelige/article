@@ -2,6 +2,22 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-29 18:49:34**|**Improving Genetic Programming for Symbolic Regression with Equality   Graphs**|Fabricio Olivetti de Franca et.al.|[2501.17848v1](http://arxiv.org/abs/2501.17848v1)|null|
+|**2025-01-29 18:44:48**|**acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI   Models on Edge Devices**|Aude Vuilliomenet et.al.|[2501.17841v1](http://arxiv.org/abs/2501.17841v1)|[link](https://github.com/acoupi/acoupi)|
+|**2025-01-29 18:35:40**|**Distinguishing Ordered Phases using Machine Learning and Classical   Shadows**|Leandro Morais et.al.|[2501.17837v1](http://arxiv.org/abs/2501.17837v1)|null|
+|**2025-01-29 17:44:57**|**LEKA:LLM-Enhanced Knowledge Augmentation**|Xinhao Zhang et.al.|[2501.17802v1](http://arxiv.org/abs/2501.17802v1)|null|
+|**2025-01-29 16:41:15**|**On the Partitioning of GPU Power among Multi-Instances**|Tirth Vamja et.al.|[2501.17752v1](http://arxiv.org/abs/2501.17752v1)|null|
+|**2025-01-29 16:38:51**|**Privacy Audit as Bits Transmission: (Im)possibilities for Audit by One   Run**|Zihang Xiang et.al.|[2501.17750v1](http://arxiv.org/abs/2501.17750v1)|null|
+|**2025-01-29 16:14:35**|**Exact characterization of ε-Safe Decision Regions for   exponential family distributions and Multi Cost SVM approximation**|Alberto Carlevaro et.al.|[2501.17731v1](http://arxiv.org/abs/2501.17731v1)|null|
+|**2025-01-29 15:57:43**|**Using Code Generation to Solve Open Instances of Combinatorial Design   Problems**|Christopher D. Rosin et.al.|[2501.17725v1](http://arxiv.org/abs/2501.17725v1)|[link](https://github.com/constructive-codes/cpro1)|
+|**2025-01-29 12:54:15**|**Physics-Informed Neural Networks in Power System Dynamics: Improving   Simulation Accuracy**|Ignasi Ventura Nadal et.al.|[2501.17621v1](http://arxiv.org/abs/2501.17621v1)|null|
+|**2025-01-29 12:02:22**|**Economic Nonlinear Model Predictive Control of Prosumer District Heating   Networks: The Extended Version**|Max Sibeijn et.al.|[2501.17597v1](http://arxiv.org/abs/2501.17597v1)|null|
+|**2025-01-29 11:34:19**|**Music2Latent2: Audio Compression with Summary Embeddings and   Autoregressive Decoding**|Marco Pasini et.al.|[2501.17578v1](http://arxiv.org/abs/2501.17578v1)|null|
+|**2025-01-29 10:49:31**|**Coalitional model predictive control of an irrigation canal**|Filiberto Fele et.al.|[2501.17561v1](http://arxiv.org/abs/2501.17561v1)|null|
+|**2025-01-29 08:52:04**|**Capacity Expansion Planning under Uncertainty subject to Expected Energy   Not Served Constraints**|Marilena Zampara et.al.|[2501.17484v1](http://arxiv.org/abs/2501.17484v1)|null|
+|**2025-01-29 04:48:51**|**Reqo: A Robust and Explainable Query Optimization Cost Model**|Baoming Chang et.al.|[2501.17414v1](http://arxiv.org/abs/2501.17414v1)|[link](https://github.com/baomingchang/reqo-on-postgresql)|
+|**2025-01-29 02:52:32**|**Learning Free Token Reduction for Multi-Modal LLM**|Zihui Zhao et.al.|[2501.17391v1](http://arxiv.org/abs/2501.17391v1)|null|
+|**2025-01-28 20:48:14**|**Enabling Low-Cost Secure Computing on Untrusted In-Memory Architectures**|Sahar Ghoflsaz Ghinani et.al.|[2501.17292v1](http://arxiv.org/abs/2501.17292v1)|null|
 |**2025-01-28 18:04:50**|**Optimizing Large Language Model Training Using FP4 Quantization**|Ruizhe Wang et.al.|[2501.17116v1](http://arxiv.org/abs/2501.17116v1)|null|
 |**2025-01-28 17:29:08**|**Why is the estimation of metaorder impact with public market data so   challenging?**|Manuel Naviglio et.al.|[2501.17096v1](http://arxiv.org/abs/2501.17096v1)|null|
 |**2025-01-28 17:14:42**|**Accelerated Training through Iterative Gradient Propagation Along the   Residual Path**|Erwan Fagnou et.al.|[2501.17086v1](http://arxiv.org/abs/2501.17086v1)|null|
@@ -16,19 +32,3 @@
 |**2025-01-28 08:57:34**|**Assessing the validity of the anelastic and Boussinesq approximations to   model solar inertial modes**|Suprabha Mukhopadhyay et.al.|[2501.16797v1](http://arxiv.org/abs/2501.16797v1)|null|
 |**2025-01-28 08:13:02**|**TORCHLIGHT: Shedding LIGHT on Real-World Attacks on Cloudless IoT   Devices Concealed within the Tor Network**|Yumingzhi Pan et.al.|[2501.16784v1](http://arxiv.org/abs/2501.16784v1)|null|
 |**2025-01-28 05:54:55**|**One Head Eight Arms: Block Matrix based Low Rank Adaptation for   CLIP-based Few-Shot Learning**|Chunpeng Zhou et.al.|[2501.16720v1](http://arxiv.org/abs/2501.16720v1)|null|
-|**2025-01-28 05:50:54**|**Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution   Detection**|Hengzhuang Li et.al.|[2501.16718v1](http://arxiv.org/abs/2501.16718v1)|[link](https://github.com/fir-lat/hamos_ood)|
-|**2025-01-28 03:18:48**|**Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting**|Li Yin et.al.|[2501.16673v1](http://arxiv.org/abs/2501.16673v1)|[link](https://github.com/sylphai-inc/adalflow)|
-|**2025-01-28 02:52:04**|**Vision-based autonomous structural damage detection using data-driven   methods**|Seyyed Taghi Ataei et.al.|[2501.16662v1](http://arxiv.org/abs/2501.16662v1)|null|
-|**2025-01-28 00:55:07**|**Unsupervised Domain Adaptation with Dynamic Clustering and Contrastive   Refinement for Gait Recognition**|Xiaolei Liu et.al.|[2501.16608v1](http://arxiv.org/abs/2501.16608v1)|[link](https://github.com/YanSun-github/GaitDCCR)|
-|**2025-01-27 22:20:40**|**Synchronized step Multilevel Markov chain Monte Carlo**|Sanjan Muchandimath et.al.|[2501.16538v1](http://arxiv.org/abs/2501.16538v1)|null|
-|**2025-01-27 21:46:09**|**Modeling Cost-Associated Cooperation: A Dilemma of Species Interaction   Unveiling New Aspects of Fear Effect**|Suvranil Chowdhury et.al.|[2501.16522v1](http://arxiv.org/abs/2501.16522v1)|null|
-|**2025-01-27 21:43:35**|**On characterizing optimal learning trajectories in a class of learning   problems**|Getachew K Befekadu et.al.|[2501.16521v1](http://arxiv.org/abs/2501.16521v1)|null|
-|**2025-01-27 20:55:50**|**Explaining GitHub Actions Failures with Large Language Models:   Challenges, Insights, and Limitations**|Pablo Valenzuela-Toledo et.al.|[2501.16495v1](http://arxiv.org/abs/2501.16495v1)|null|
-|**2025-01-27 19:40:42**|**Endogenous transformation of land transport in Europe for different   climate targets**|Sina Kalweit et.al.|[2501.16460v1](http://arxiv.org/abs/2501.16460v1)|null|
-|**2025-01-27 19:00:00**|**Near-Optimal Parameter Tuning of Level-1 QAOA for Ising Models**|V Vijendran et.al.|[2501.16419v1](http://arxiv.org/abs/2501.16419v1)|null|
-|**2025-01-27 18:42:48**|**Matryoshka Re-Ranker: A Flexible Re-Ranking Architecture With   Configurable Depth and Width**|Zheng Liu et.al.|[2501.16302v1](http://arxiv.org/abs/2501.16302v1)|null|
-|**2025-01-27 18:35:05**|**Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with   Modality-Aware Sparsity**|Weixin Liang et.al.|[2501.16295v1](http://arxiv.org/abs/2501.16295v1)|[link](https://github.com/weixin-liang/mixture-of-mamba)|
-|**2025-01-27 18:34:11**|**Effect of Numerical Resolution on Synthetic Observables of Simulated   Coronal Loops**|Cosima Alexandra Breu et.al.|[2501.16293v1](http://arxiv.org/abs/2501.16293v1)|null|
-|**2025-01-27 18:20:49**|**Brain-Adapter: Enhancing Neurological Disorder Analysis with   Adapter-Tuning Multimodal Large Language Models**|Jing Zhang et.al.|[2501.16282v1](http://arxiv.org/abs/2501.16282v1)|null|
-|**2025-01-27 18:10:34**|**URAG: Implementing a Unified Hybrid RAG for Precise Answers in   University Admission Chatbots -- A Case Study at HCMUT**|Long Nguyen et.al.|[2501.16276v1](http://arxiv.org/abs/2501.16276v1)|null|
-|**2025-01-27 17:55:39**|**Improving DBMS Scheduling Decisions with Fine-grained Performance   Prediction on Concurrent Queries -- Extended**|Ziniu Wu et.al.|[2501.16256v1](http://arxiv.org/abs/2501.16256v1)|null|

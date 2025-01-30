@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-29 06:01:39**|**WCDT: Systematic WCET Optimization for Decision Tree Implementations**|Nils Hölscher et.al.|[2501.17428v1](http://arxiv.org/abs/2501.17428v1)|null|
 |**2025-01-27 17:48:48**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247v1](http://arxiv.org/abs/2501.16247v1)|null|
 |**2025-01-25 03:42:22**|**Feedback-Aware Monte Carlo Tree Search for Efficient Information Seeking   in Goal-Oriented Conversations**|Harshita Chopra et.al.|[2501.15056v1](http://arxiv.org/abs/2501.15056v1)|null|
 |**2025-01-24 17:15:33**|**Automation of finding strong gravitational lenses in the Kilo Degree   Survey with U-DenseLens (DenseLens + Segmentation)**|Bharath Chowdhary Nagam et.al.|[2501.14650v1](http://arxiv.org/abs/2501.14650v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-18 15:41:47**|**Threshold UCT: Cost-Constrained Monte Carlo Tree Search with Pareto   Curves**|Martin Kurečka et.al.|[2412.13962v1](http://arxiv.org/abs/2412.13962v1)|null|
 |**2024-12-18 15:29:05**|**Surrogate-Based Optimization Techniques for Process Systems Engineering**|Mathias Neufang et.al.|[2412.13948v1](http://arxiv.org/abs/2412.13948v1)|null|
 |**2024-12-18 11:59:24**|**Cultivating Archipelago of Forests: Evolving Robust Decision Trees   through Island Coevolution**|Adam Żychowski et.al.|[2412.13762v1](http://arxiv.org/abs/2412.13762v1)|[link](https://github.com/zychowskia/icoevordf)|
-|**2024-12-17 21:54:55**|**A Novel Machine Learning Classifier Based on Genetic Algorithms and Data   Importance Reformatting**|A. K. Alkhayyata et.al.|[2412.13350v1](http://arxiv.org/abs/2412.13350v1)|null|
