@@ -2,6 +2,9 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-30 18:07:19**|**Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented   LLM-based Retrieval Method**|Peter Baile Chen et.al.|[2501.18539v1](http://arxiv.org/abs/2501.18539v1)|null|
+|**2025-01-30 13:00:15**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP   Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320v1](http://arxiv.org/abs/2501.18320v1)|null|
+|**2025-01-29 20:20:48**|**Think Smarter not Harder: Adaptive Reasoning with Inference Aware   Optimization**|Zishun Yu et.al.|[2501.17974v1](http://arxiv.org/abs/2501.17974v1)|null|
 |**2025-01-29 17:26:47**|**WARP: An Efficient Engine for Multi-Vector Retrieval**|Jan Luca Scheerer et.al.|[2501.17788v1](http://arxiv.org/abs/2501.17788v1)|null|
 |**2025-01-29 08:57:02**|**Computationally Faster Newton Methods by Lazy Evaluations**|Lesi Chen et.al.|[2501.17488v1](http://arxiv.org/abs/2501.17488v1)|null|
 |**2025-01-29 04:48:51**|**Reqo: A Robust and Explainable Query Optimization Cost Model**|Baoming Chang et.al.|[2501.17414v1](http://arxiv.org/abs/2501.17414v1)|[link](https://github.com/baomingchang/reqo-on-postgresql)|
@@ -29,6 +32,3 @@
 |**2025-01-19 13:14:53**|**Beyond Any-Shot Adaptation: Predicting Optimization Outcome for   Robustness Gains without Extra Pay**|Qi Cheems Wang et.al.|[2501.11039v1](http://arxiv.org/abs/2501.11039v1)|[link](https://github.com/thu-rllab/MPTS)|
 |**2025-01-17 20:40:56**|**Scalable Machine Learning Training Infrastructure for Online Ads   Recommendation and Auction Scoring Modeling at Google**|George Kurian et.al.|[2501.10546v1](http://arxiv.org/abs/2501.10546v1)|null|
 |**2025-01-17 18:34:48**|**FC-Datalog as a Framework for Efficient String Querying**|Owen M. Bell et.al.|[2501.10344v1](http://arxiv.org/abs/2501.10344v1)|null|
-|**2025-01-17 11:12:28**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120v1](http://arxiv.org/abs/2501.10120v1)|[link](https://github.com/bytedance/pasa)|
-|**2025-01-15 20:40:25**|**Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG**|Aditi Singh et.al.|[2501.09136v1](http://arxiv.org/abs/2501.09136v1)|[link](https://github.com/asinghcsu/agenticrag-survey)|
-|**2025-01-15 16:23:04**|**Efficient Planning in Large-scale Systems Using Hierarchical Finite   State Machines**|Elis Stefansson et.al.|[2501.08918v1](http://arxiv.org/abs/2501.08918v1)|null|

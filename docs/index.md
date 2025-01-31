@@ -1,11 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2025-01-30 16:10:54 Asia/Shanghai
+ 自动更新 @ 2025-01-31 16:11:05 Asia/Shanghai
 
 ## Query Optimization
 
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-30 18:07:19**|**Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented   LLM-based Retrieval Method**|Peter Baile Chen et.al.|[2501.18539v1](http://arxiv.org/abs/2501.18539v1)|null|
+|**2025-01-30 13:00:15**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP   Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320v1](http://arxiv.org/abs/2501.18320v1)|null|
+|**2025-01-29 20:20:48**|**Think Smarter not Harder: Adaptive Reasoning with Inference Aware   Optimization**|Zishun Yu et.al.|[2501.17974v1](http://arxiv.org/abs/2501.17974v1)|null|
 |**2025-01-29 17:26:47**|**WARP: An Efficient Engine for Multi-Vector Retrieval**|Jan Luca Scheerer et.al.|[2501.17788v1](http://arxiv.org/abs/2501.17788v1)|null|
 |**2025-01-29 08:57:02**|**Computationally Faster Newton Methods by Lazy Evaluations**|Lesi Chen et.al.|[2501.17488v1](http://arxiv.org/abs/2501.17488v1)|null|
 |**2025-01-29 04:48:51**|**Reqo: A Robust and Explainable Query Optimization Cost Model**|Baoming Chang et.al.|[2501.17414v1](http://arxiv.org/abs/2501.17414v1)|[link](https://github.com/baomingchang/reqo-on-postgresql)|
@@ -33,51 +36,50 @@
 |**2025-01-19 13:14:53**|**Beyond Any-Shot Adaptation: Predicting Optimization Outcome for   Robustness Gains without Extra Pay**|Qi Cheems Wang et.al.|[2501.11039v1](http://arxiv.org/abs/2501.11039v1)|[link](https://github.com/thu-rllab/MPTS)|
 |**2025-01-17 20:40:56**|**Scalable Machine Learning Training Infrastructure for Online Ads   Recommendation and Auction Scoring Modeling at Google**|George Kurian et.al.|[2501.10546v1](http://arxiv.org/abs/2501.10546v1)|null|
 |**2025-01-17 18:34:48**|**FC-Datalog as a Framework for Efficient String Querying**|Owen M. Bell et.al.|[2501.10344v1](http://arxiv.org/abs/2501.10344v1)|null|
-|**2025-01-17 11:12:28**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120v1](http://arxiv.org/abs/2501.10120v1)|[link](https://github.com/bytedance/pasa)|
-|**2025-01-15 20:40:25**|**Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG**|Aditi Singh et.al.|[2501.09136v1](http://arxiv.org/abs/2501.09136v1)|[link](https://github.com/asinghcsu/agenticrag-survey)|
-|**2025-01-15 16:23:04**|**Efficient Planning in Large-scale Systems Using Hierarchical Finite   State Machines**|Elis Stefansson et.al.|[2501.08918v1](http://arxiv.org/abs/2501.08918v1)|null|
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-30 18:01:48**|**A Hybrid Data-Driven Approach For Analyzing And Predicting Inpatient   Length Of Stay In Health Centre**|Tasfia Noor Chowdhury et.al.|[2501.18535v1](http://arxiv.org/abs/2501.18535v1)|null|
+|**2025-01-30 15:45:56**|**o3-mini vs DeepSeek-R1: Which One is Safer?**|Aitor Arrieta et.al.|[2501.18438v1](http://arxiv.org/abs/2501.18438v1)|null|
+|**2025-01-30 14:20:11**|**A Learnable Multi-views Contrastive Framework with Reconstruction   Discrepancy for Medical Time-Series**|Yifan Wang et.al.|[2501.18367v1](http://arxiv.org/abs/2501.18367v1)|null|
+|**2025-01-30 13:14:40**|**CodeBrain: Impute Any Brain MRI via Instance-specific Scalar-quantized   Codes**|Yicheng Wu et.al.|[2501.18328v1](http://arxiv.org/abs/2501.18328v1)|null|
+|**2025-01-30 11:41:13**|**Leveraging Sparsity for Sample-Efficient Preference Learning: A   Theoretical Perspective**|Yunzhen Yao et.al.|[2501.18282v1](http://arxiv.org/abs/2501.18282v1)|null|
+|**2025-01-30 11:04:14**|**Collecting Cost-Effective, High-Quality Truthfulness Assessments with   LLM Summarized Evidence**|Kevin Roitero et.al.|[2501.18265v1](http://arxiv.org/abs/2501.18265v1)|null|
+|**2025-01-30 10:46:17**|**Enhanced State Estimation for turbulent flows combining Ensemble Data   Assimilation and Machine Learning**|Miguel M. Valero et.al.|[2501.18262v1](http://arxiv.org/abs/2501.18262v1)|null|
+|**2025-01-30 10:33:26**|**How to Select Datapoints for Efficient Human Evaluation of NLG Models?**|Vilém Zouhar et.al.|[2501.18251v1](http://arxiv.org/abs/2501.18251v1)|null|
+|**2025-01-30 09:35:17**|**GPD: Guided Polynomial Diffusion for Motion Planning**|Ajit Srikanth et.al.|[2501.18229v1](http://arxiv.org/abs/2501.18229v1)|null|
+|**2025-01-30 09:26:49**|**Ambisonics Binaural Rendering via Masked Magnitude Least Squares**|Or Berebi et.al.|[2501.18224v1](http://arxiv.org/abs/2501.18224v1)|null|
+|**2025-01-30 08:58:31**|**Wavelet-Based Multiscale Flow For Realistic Image Deformation in the   Large Diffeomorphic Deformation Model Framework**|Fleur Gaudfernau et.al.|[2501.18211v1](http://arxiv.org/abs/2501.18211v1)|null|
+|**2025-01-30 07:49:58**|**Economic Rationality under Specialization: Evidence of Decision Bias in   AI Agents**|ShuiDe Wen et.al.|[2501.18190v1](http://arxiv.org/abs/2501.18190v1)|null|
+|**2025-01-30 07:44:21**|**Neural Network Modeling of Microstructure Complexity Using Digital   Libraries**|Yingjie Zhao et.al.|[2501.18189v1](http://arxiv.org/abs/2501.18189v1)|null|
+|**2025-01-30 05:56:30**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160v1](http://arxiv.org/abs/2501.18160v1)|null|
+|**2025-01-30 05:46:30**|**Efficient Audiovisual Speech Processing via MUTUD: Multimodal Training   and Unimodal Deployment**|Joanna Hong et.al.|[2501.18157v1](http://arxiv.org/abs/2501.18157v1)|null|
+|**2025-01-30 04:55:41**|**Optimal-Reference Excited State Methods: Static Correlation at   Polynomial Cost with Single-Reference Coupled-Cluster Approaches**|Sylvia J. Bintrim et.al.|[2501.18135v1](http://arxiv.org/abs/2501.18135v1)|null|
+|**2025-01-30 03:16:44**|**Scaling Inference-Efficient Language Models**|Song Bian et.al.|[2501.18107v1](http://arxiv.org/abs/2501.18107v1)|null|
+|**2025-01-30 02:11:41**|**Robust Mean Estimation With Auxiliary Samples**|Barron Han et.al.|[2501.18095v1](http://arxiv.org/abs/2501.18095v1)|null|
+|**2025-01-30 01:09:24**|**Statistical Design of Thermal Protection System Using Physics-Informed   Neural Network**|Karthik Reddy Lyathakula et.al.|[2501.18078v1](http://arxiv.org/abs/2501.18078v1)|null|
+|**2025-01-29 23:41:12**|**RL-based Query Rewriting with Distilled LLM for online E-Commerce   Systems**|Duy A. Nguyen et.al.|[2501.18056v1](http://arxiv.org/abs/2501.18056v1)|null|
+|**2025-01-29 22:42:05**|**Generative AI for Vision: A Comprehensive Study of Frameworks and   Applications**|Fouad Bousetouane et.al.|[2501.18033v1](http://arxiv.org/abs/2501.18033v1)|null|
+|**2025-01-29 21:01:44**|**InnerThoughts: Disentangling Representations and Predictions in Large   Language Models**|Didier Chételat et.al.|[2501.17994v1](http://arxiv.org/abs/2501.17994v1)|null|
+|**2025-01-29 20:25:42**|**Limits to AI Growth: The Ecological and Social Consequences of Scaling**|Eshta Bhardwaj et.al.|[2501.17980v1](http://arxiv.org/abs/2501.17980v1)|null|
+|**2025-01-29 20:21:41**|**TransRAD: Retentive Vision Transformer for Enhanced Radar Object   Detection**|Lei Cheng et.al.|[2501.17977v1](http://arxiv.org/abs/2501.17977v1)|[link](https://github.com/radar-lab/transrad)|
 |**2025-01-29 18:49:34**|**Improving Genetic Programming for Symbolic Regression with Equality   Graphs**|Fabricio Olivetti de Franca et.al.|[2501.17848v1](http://arxiv.org/abs/2501.17848v1)|null|
 |**2025-01-29 18:44:48**|**acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI   Models on Edge Devices**|Aude Vuilliomenet et.al.|[2501.17841v1](http://arxiv.org/abs/2501.17841v1)|[link](https://github.com/acoupi/acoupi)|
 |**2025-01-29 18:35:40**|**Distinguishing Ordered Phases using Machine Learning and Classical   Shadows**|Leandro Morais et.al.|[2501.17837v1](http://arxiv.org/abs/2501.17837v1)|null|
 |**2025-01-29 17:44:57**|**LEKA:LLM-Enhanced Knowledge Augmentation**|Xinhao Zhang et.al.|[2501.17802v1](http://arxiv.org/abs/2501.17802v1)|null|
 |**2025-01-29 16:41:15**|**On the Partitioning of GPU Power among Multi-Instances**|Tirth Vamja et.al.|[2501.17752v1](http://arxiv.org/abs/2501.17752v1)|null|
 |**2025-01-29 16:38:51**|**Privacy Audit as Bits Transmission: (Im)possibilities for Audit by One   Run**|Zihang Xiang et.al.|[2501.17750v1](http://arxiv.org/abs/2501.17750v1)|null|
-|**2025-01-29 16:14:35**|**Exact characterization of ε-Safe Decision Regions for   exponential family distributions and Multi Cost SVM approximation**|Alberto Carlevaro et.al.|[2501.17731v1](http://arxiv.org/abs/2501.17731v1)|null|
-|**2025-01-29 15:57:43**|**Using Code Generation to Solve Open Instances of Combinatorial Design   Problems**|Christopher D. Rosin et.al.|[2501.17725v1](http://arxiv.org/abs/2501.17725v1)|[link](https://github.com/constructive-codes/cpro1)|
-|**2025-01-29 12:54:15**|**Physics-Informed Neural Networks in Power System Dynamics: Improving   Simulation Accuracy**|Ignasi Ventura Nadal et.al.|[2501.17621v1](http://arxiv.org/abs/2501.17621v1)|null|
-|**2025-01-29 12:02:22**|**Economic Nonlinear Model Predictive Control of Prosumer District Heating   Networks: The Extended Version**|Max Sibeijn et.al.|[2501.17597v1](http://arxiv.org/abs/2501.17597v1)|null|
-|**2025-01-29 11:34:19**|**Music2Latent2: Audio Compression with Summary Embeddings and   Autoregressive Decoding**|Marco Pasini et.al.|[2501.17578v1](http://arxiv.org/abs/2501.17578v1)|null|
-|**2025-01-29 10:49:31**|**Coalitional model predictive control of an irrigation canal**|Filiberto Fele et.al.|[2501.17561v1](http://arxiv.org/abs/2501.17561v1)|null|
-|**2025-01-29 08:52:04**|**Capacity Expansion Planning under Uncertainty subject to Expected Energy   Not Served Constraints**|Marilena Zampara et.al.|[2501.17484v1](http://arxiv.org/abs/2501.17484v1)|null|
-|**2025-01-29 04:48:51**|**Reqo: A Robust and Explainable Query Optimization Cost Model**|Baoming Chang et.al.|[2501.17414v1](http://arxiv.org/abs/2501.17414v1)|[link](https://github.com/baomingchang/reqo-on-postgresql)|
-|**2025-01-29 02:52:32**|**Learning Free Token Reduction for Multi-Modal LLM**|Zihui Zhao et.al.|[2501.17391v1](http://arxiv.org/abs/2501.17391v1)|null|
-|**2025-01-28 20:48:14**|**Enabling Low-Cost Secure Computing on Untrusted In-Memory Architectures**|Sahar Ghoflsaz Ghinani et.al.|[2501.17292v1](http://arxiv.org/abs/2501.17292v1)|null|
-|**2025-01-28 18:04:50**|**Optimizing Large Language Model Training Using FP4 Quantization**|Ruizhe Wang et.al.|[2501.17116v1](http://arxiv.org/abs/2501.17116v1)|null|
-|**2025-01-28 17:29:08**|**Why is the estimation of metaorder impact with public market data so   challenging?**|Manuel Naviglio et.al.|[2501.17096v1](http://arxiv.org/abs/2501.17096v1)|null|
-|**2025-01-28 17:14:42**|**Accelerated Training through Iterative Gradient Propagation Along the   Residual Path**|Erwan Fagnou et.al.|[2501.17086v1](http://arxiv.org/abs/2501.17086v1)|null|
-|**2025-01-28 15:52:51**|**Challenges in Ensuring AI Safety in DeepSeek-R1 Models: The Shortcomings   of Reinforcement Learning Strategies**|Manojkumar Parmar et.al.|[2501.17030v1](http://arxiv.org/abs/2501.17030v1)|null|
-|**2025-01-28 14:43:17**|**Time-splitting methods for the cold-plasma model using Finite Element   Exterior Calculus**|Elena Moral Sánchez et.al.|[2501.16991v1](http://arxiv.org/abs/2501.16991v1)|null|
-|**2025-01-28 14:15:42**|**Over-Tokenized Transformer: Vocabulary is Generally Worth Scaling**|Hongzhi Huang et.al.|[2501.16975v1](http://arxiv.org/abs/2501.16975v1)|null|
-|**2025-01-28 14:14:43**|**Excited-state nonadiabatic dynamics in explicit solvent using machine   learned interatomic potentials**|Maximilian X. Tiefenbacher et.al.|[2501.16974v1](http://arxiv.org/abs/2501.16974v1)|null|
-|**2025-01-28 14:12:05**|**AT1 fourth-order isogeometric phase-field modeling of brittle fracture**|Luigi Greco et.al.|[2501.16968v1](http://arxiv.org/abs/2501.16968v1)|null|
-|**2025-01-28 13:54:59**|**Emission impossible: Balancing Environmental Concerns and Inflation**|René Aïd et.al.|[2501.16953v1](http://arxiv.org/abs/2501.16953v1)|null|
-|**2025-01-28 13:49:39**|**Multiple Abstraction Level Retrieve Augment Generation**|Zheng Zheng et.al.|[2501.16952v1](http://arxiv.org/abs/2501.16952v1)|null|
-|**2025-01-28 10:34:16**|**Electricity Market Bidding for Renewable Electrolyzer Plants: An   Opportunity Cost Approach**|Andrea Gloppen Johnsen et.al.|[2501.16844v1](http://arxiv.org/abs/2501.16844v1)|null|
-|**2025-01-28 08:57:34**|**Assessing the validity of the anelastic and Boussinesq approximations to   model solar inertial modes**|Suprabha Mukhopadhyay et.al.|[2501.16797v1](http://arxiv.org/abs/2501.16797v1)|null|
-|**2025-01-28 08:13:02**|**TORCHLIGHT: Shedding LIGHT on Real-World Attacks on Cloudless IoT   Devices Concealed within the Tor Network**|Yumingzhi Pan et.al.|[2501.16784v1](http://arxiv.org/abs/2501.16784v1)|null|
-|**2025-01-28 05:54:55**|**One Head Eight Arms: Block Matrix based Low Rank Adaptation for   CLIP-based Few-Shot Learning**|Chunpeng Zhou et.al.|[2501.16720v1](http://arxiv.org/abs/2501.16720v1)|null|
 
 ## Decision Tree
 
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-30 18:01:48**|**A Hybrid Data-Driven Approach For Analyzing And Predicting Inpatient   Length Of Stay In Health Centre**|Tasfia Noor Chowdhury et.al.|[2501.18535v1](http://arxiv.org/abs/2501.18535v1)|null|
+|**2025-01-29 20:55:53**|**Investigating the Monte-Carlo Tree Search Approach for the Job Shop   Scheduling Problem**|Laurie Boveroux et.al.|[2501.17991v1](http://arxiv.org/abs/2501.17991v1)|null|
 |**2025-01-29 06:01:39**|**WCDT: Systematic WCET Optimization for Decision Tree Implementations**|Nils Hölscher et.al.|[2501.17428v1](http://arxiv.org/abs/2501.17428v1)|null|
 |**2025-01-27 17:48:48**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247v1](http://arxiv.org/abs/2501.16247v1)|null|
 |**2025-01-25 03:42:22**|**Feedback-Aware Monte Carlo Tree Search for Efficient Information Seeking   in Goal-Oriented Conversations**|Harshita Chopra et.al.|[2501.15056v1](http://arxiv.org/abs/2501.15056v1)|null|
@@ -106,5 +108,3 @@
 |**2024-12-20 06:32:05**|**Machine Learning Techniques for Pattern Recognition in High-Dimensional   Data Mining**|Pochun Li et.al.|[2412.15593v1](http://arxiv.org/abs/2412.15593v1)|null|
 |**2024-12-19 14:50:10**|**From Point to probabilistic gradient boosting for claim frequency and   severity prediction**|Dominik Chevalier et.al.|[2412.14916v1](http://arxiv.org/abs/2412.14916v1)|null|
 |**2024-12-18 15:41:47**|**Threshold UCT: Cost-Constrained Monte Carlo Tree Search with Pareto   Curves**|Martin Kurečka et.al.|[2412.13962v1](http://arxiv.org/abs/2412.13962v1)|null|
-|**2024-12-18 15:29:05**|**Surrogate-Based Optimization Techniques for Process Systems Engineering**|Mathias Neufang et.al.|[2412.13948v1](http://arxiv.org/abs/2412.13948v1)|null|
-|**2024-12-18 11:59:24**|**Cultivating Archipelago of Forests: Evolving Robust Decision Trees   through Island Coevolution**|Adam Żychowski et.al.|[2412.13762v1](http://arxiv.org/abs/2412.13762v1)|[link](https://github.com/zychowskia/icoevordf)|

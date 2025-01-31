@@ -2,6 +2,8 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-30 18:01:48**|**A Hybrid Data-Driven Approach For Analyzing And Predicting Inpatient   Length Of Stay In Health Centre**|Tasfia Noor Chowdhury et.al.|[2501.18535v1](http://arxiv.org/abs/2501.18535v1)|null|
+|**2025-01-29 20:55:53**|**Investigating the Monte-Carlo Tree Search Approach for the Job Shop   Scheduling Problem**|Laurie Boveroux et.al.|[2501.17991v1](http://arxiv.org/abs/2501.17991v1)|null|
 |**2025-01-29 06:01:39**|**WCDT: Systematic WCET Optimization for Decision Tree Implementations**|Nils Hölscher et.al.|[2501.17428v1](http://arxiv.org/abs/2501.17428v1)|null|
 |**2025-01-27 17:48:48**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247v1](http://arxiv.org/abs/2501.16247v1)|null|
 |**2025-01-25 03:42:22**|**Feedback-Aware Monte Carlo Tree Search for Efficient Information Seeking   in Goal-Oriented Conversations**|Harshita Chopra et.al.|[2501.15056v1](http://arxiv.org/abs/2501.15056v1)|null|
@@ -30,5 +32,3 @@
 |**2024-12-20 06:32:05**|**Machine Learning Techniques for Pattern Recognition in High-Dimensional   Data Mining**|Pochun Li et.al.|[2412.15593v1](http://arxiv.org/abs/2412.15593v1)|null|
 |**2024-12-19 14:50:10**|**From Point to probabilistic gradient boosting for claim frequency and   severity prediction**|Dominik Chevalier et.al.|[2412.14916v1](http://arxiv.org/abs/2412.14916v1)|null|
 |**2024-12-18 15:41:47**|**Threshold UCT: Cost-Constrained Monte Carlo Tree Search with Pareto   Curves**|Martin Kurečka et.al.|[2412.13962v1](http://arxiv.org/abs/2412.13962v1)|null|
-|**2024-12-18 15:29:05**|**Surrogate-Based Optimization Techniques for Process Systems Engineering**|Mathias Neufang et.al.|[2412.13948v1](http://arxiv.org/abs/2412.13948v1)|null|
-|**2024-12-18 11:59:24**|**Cultivating Archipelago of Forests: Evolving Robust Decision Trees   through Island Coevolution**|Adam Żychowski et.al.|[2412.13762v1](http://arxiv.org/abs/2412.13762v1)|[link](https://github.com/zychowskia/icoevordf)|
