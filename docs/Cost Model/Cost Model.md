@@ -31,4 +31,4 @@
 |**2025-01-29 18:35:40**|**Distinguishing Ordered Phases using Machine Learning and Classical   Shadows**|Leandro Morais et.al.|[2501.17837v1](http://arxiv.org/abs/2501.17837v1)|null|
 |**2025-01-29 17:44:57**|**LEKA:LLM-Enhanced Knowledge Augmentation**|Xinhao Zhang et.al.|[2501.17802v1](http://arxiv.org/abs/2501.17802v1)|null|
 |**2025-01-29 16:41:15**|**On the Partitioning of GPU Power among Multi-Instances**|Tirth Vamja et.al.|[2501.17752v1](http://arxiv.org/abs/2501.17752v1)|null|
-|**2025-01-29 16:38:51**|**Privacy Audit as Bits Transmission: (Im)possibilities for Audit by One   Run**|Zihang Xiang et.al.|[2501.17750v1](http://arxiv.org/abs/2501.17750v1)|null|
+|**2025-01-29 16:38:51**|**Privacy Audit as Bits Transmission: (Im)possibilities for Audit by One   Run**|Zihang Xiang et.al.|[2501.17750v1](http://arxiv.org/abs/2501.17750v1)|[link](https://github.com/zihangxiang/paabt)|

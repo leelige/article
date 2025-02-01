@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-01-30 18:07:19**|**Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented   LLM-based Retrieval Method**|Peter Baile Chen et.al.|[2501.18539v1](http://arxiv.org/abs/2501.18539v1)|null|
-|**2025-01-30 13:00:15**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP   Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320v1](http://arxiv.org/abs/2501.18320v1)|null|
+|**2025-01-30 13:00:15**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP   Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320v1](http://arxiv.org/abs/2501.18320v1)|[link](https://github.com/advantages/MAG-RAG-for-SASP)|
 |**2025-01-29 20:20:48**|**Think Smarter not Harder: Adaptive Reasoning with Inference Aware   Optimization**|Zishun Yu et.al.|[2501.17974v1](http://arxiv.org/abs/2501.17974v1)|null|
 |**2025-01-29 17:26:47**|**WARP: An Efficient Engine for Multi-Vector Retrieval**|Jan Luca Scheerer et.al.|[2501.17788v1](http://arxiv.org/abs/2501.17788v1)|null|
 |**2025-01-29 08:57:02**|**Computationally Faster Newton Methods by Lazy Evaluations**|Lesi Chen et.al.|[2501.17488v1](http://arxiv.org/abs/2501.17488v1)|null|
