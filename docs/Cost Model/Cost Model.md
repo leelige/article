@@ -9,7 +9,7 @@
 |**2025-01-30 11:41:13**|**Leveraging Sparsity for Sample-Efficient Preference Learning: A   Theoretical Perspective**|Yunzhen Yao et.al.|[2501.18282v1](http://arxiv.org/abs/2501.18282v1)|null|
 |**2025-01-30 11:04:14**|**Collecting Cost-Effective, High-Quality Truthfulness Assessments with   LLM Summarized Evidence**|Kevin Roitero et.al.|[2501.18265v1](http://arxiv.org/abs/2501.18265v1)|null|
 |**2025-01-30 10:46:17**|**Enhanced State Estimation for turbulent flows combining Ensemble Data   Assimilation and Machine Learning**|Miguel M. Valero et.al.|[2501.18262v1](http://arxiv.org/abs/2501.18262v1)|null|
-|**2025-01-30 10:33:26**|**How to Select Datapoints for Efficient Human Evaluation of NLG Models?**|Vilém Zouhar et.al.|[2501.18251v1](http://arxiv.org/abs/2501.18251v1)|null|
+|**2025-01-30 10:33:26**|**How to Select Datapoints for Efficient Human Evaluation of NLG Models?**|Vilém Zouhar et.al.|[2501.18251v1](http://arxiv.org/abs/2501.18251v1)|[link](https://github.com/zouharvi/subset2evaluate)|
 |**2025-01-30 09:35:17**|**GPD: Guided Polynomial Diffusion for Motion Planning**|Ajit Srikanth et.al.|[2501.18229v1](http://arxiv.org/abs/2501.18229v1)|null|
 |**2025-01-30 09:26:49**|**Ambisonics Binaural Rendering via Masked Magnitude Least Squares**|Or Berebi et.al.|[2501.18224v1](http://arxiv.org/abs/2501.18224v1)|null|
 |**2025-01-30 08:58:31**|**Wavelet-Based Multiscale Flow For Realistic Image Deformation in the   Large Diffeomorphic Deformation Model Framework**|Fleur Gaudfernau et.al.|[2501.18211v1](http://arxiv.org/abs/2501.18211v1)|null|
