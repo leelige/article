@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-31 18:43:29**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388v1](http://arxiv.org/abs/2501.19388v1)|null|
 |**2025-01-30 18:01:48**|**A Hybrid Data-Driven Approach For Analyzing And Predicting Inpatient   Length Of Stay In Health Centre**|Tasfia Noor Chowdhury et.al.|[2501.18535v1](http://arxiv.org/abs/2501.18535v1)|null|
 |**2025-01-29 20:55:53**|**Investigating the Monte-Carlo Tree Search Approach for the Job Shop   Scheduling Problem**|Laurie Boveroux et.al.|[2501.17991v1](http://arxiv.org/abs/2501.17991v1)|null|
 |**2025-01-29 06:01:39**|**WCDT: Systematic WCET Optimization for Decision Tree Implementations**|Nils Hölscher et.al.|[2501.17428v1](http://arxiv.org/abs/2501.17428v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-20 11:14:29**|**Ensembling Large Language Models with Process Reward-Guided Tree Search   for Better Complex Reasoning**|Sungjin Park et.al.|[2412.15797v1](http://arxiv.org/abs/2412.15797v1)|null|
 |**2024-12-20 06:32:05**|**Machine Learning Techniques for Pattern Recognition in High-Dimensional   Data Mining**|Pochun Li et.al.|[2412.15593v1](http://arxiv.org/abs/2412.15593v1)|null|
 |**2024-12-19 14:50:10**|**From Point to probabilistic gradient boosting for claim frequency and   severity prediction**|Dominik Chevalier et.al.|[2412.14916v1](http://arxiv.org/abs/2412.14916v1)|null|
-|**2024-12-18 15:41:47**|**Threshold UCT: Cost-Constrained Monte Carlo Tree Search with Pareto   Curves**|Martin Kurečka et.al.|[2412.13962v1](http://arxiv.org/abs/2412.13962v1)|null|
