@@ -12,7 +12,7 @@
 |**2025-01-31 16:45:16**|**Low-Cost and Comprehensive Non-textual Input Fuzzing with   LLM-Synthesized Input Generators**|Kunpeng Zhang et.al.|[2501.19282v1](http://arxiv.org/abs/2501.19282v1)|null|
 |**2025-01-31 16:43:02**|**S-VOTE: Similarity-based Voting for Client Selection in Decentralized   Federated Learning**|Pedro Miguel Sánchez Sánchez et.al.|[2501.19279v1](http://arxiv.org/abs/2501.19279v1)|null|
 |**2025-01-31 15:37:19**|**Integrating Semi-Supervised and Active Learning for Semantic   Segmentation**|Wanli Ma et.al.|[2501.19227v1](http://arxiv.org/abs/2501.19227v1)|null|
-|**2025-01-31 15:22:58**|**\underline{E2}Former: A Linear-time \underline{E}fficient and   \underline{E}quivariant Trans\underline{former} for Scalable Molecular   Modeling**|Yunyang Li et.al.|[2501.19216v1](http://arxiv.org/abs/2501.19216v1)|null|
+|**2025-01-31 15:22:58**|**E2Former: A Linear-time Efficient and Equivariant Transformer for   Scalable Molecular Modeling**|Yunyang Li et.al.|[2501.19216v2](http://arxiv.org/abs/2501.19216v2)|null|
 |**2025-01-31 15:14:14**|**Autonomous Legacy Web Application Upgrades Using a Multi-Agent System**|Valtteri Ala-Salmi et.al.|[2501.19204v1](http://arxiv.org/abs/2501.19204v1)|[link](https://github.com/alasalm1/Multi-agent-pipeline)|
 |**2025-01-31 14:43:22**|**Learning Non-Local Molecular Interactions via Equivariant Local   Representations and Charge Equilibration**|Paul Fuchs et.al.|[2501.19179v1](http://arxiv.org/abs/2501.19179v1)|null|
 |**2025-01-31 13:26:22**|**FedRTS: Federated Robust Pruning via Combinatorial Thompson Sampling**|Hong Huang et.al.|[2501.19122v1](http://arxiv.org/abs/2501.19122v1)|[link](https://github.com/Little0o0/FedRTS)|

@@ -12,14 +12,14 @@
 |**2025-01-28 17:10:20**|**Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt   Generation for Enhanced LLM Content Moderation**|Daniel Schwartz et.al.|[2501.18638v1](http://arxiv.org/abs/2501.18638v1)|null|
 |**2025-01-28 16:03:52**|**Enhanced Retrieval of Long Documents: Leveraging Fine-Grained Block   Representations with Large Language Models**|Minghan Li et.al.|[2501.17039v1](http://arxiv.org/abs/2501.17039v1)|null|
 |**2025-01-27 22:33:47**|**PLANSIEVE: Real-time Suboptimal Query Plan Detection Through Incremental   Refinements**|Asoke Datta et.al.|[2501.16544v1](http://arxiv.org/abs/2501.16544v1)|null|
-|**2025-01-27 17:55:39**|**Improving DBMS Scheduling Decisions with Fine-grained Performance   Prediction on Concurrent Queries -- Extended**|Ziniu Wu et.al.|[2501.16256v1](http://arxiv.org/abs/2501.16256v1)|null|
+|**2025-01-27 17:55:39**|**Improving DBMS Scheduling Decisions with Fine-grained Performance   Prediction on Concurrent Queries -- Extended**|Ziniu Wu et.al.|[2501.16256v2](http://arxiv.org/abs/2501.16256v2)|null|
 |**2025-01-27 14:26:42**|**Minimizing Polarization and Disagreement in the Friedkin-Johnsen Model   with Unknown Innate Opinions**|Federico Cinus et.al.|[2501.16076v2](http://arxiv.org/abs/2501.16076v2)|null|
 |**2025-01-26 10:16:42**|**Unveiling the Potential of Multimodal Retrieval Augmented Generation   with Planning**|Xiaohan Yu et.al.|[2501.15470v1](http://arxiv.org/abs/2501.15470v1)|null|
 |**2025-01-25 14:24:50**|**Improving Retrieval-Augmented Generation through Multi-Agent   Reinforcement Learning**|Yiqun Chen et.al.|[2501.15228v1](http://arxiv.org/abs/2501.15228v1)|[link](https://github.com/chenyiqun/mmoa-rag)|
 |**2025-01-25 06:09:02**|**CFT-RAG: An Entity Tree Based Retrieval Augmented Generation Algorithm   With Cuckoo Filter**|Zihang Li et.al.|[2501.15098v1](http://arxiv.org/abs/2501.15098v1)|[link](https://github.com/tupyp7180/cft-rag-2025)|
 |**2025-01-25 04:58:09**|**NetChain: Authenticated Blockchain Top-k Graph Data Queries and its   Application in Asset Management**|Hongguang Zhao et.al.|[2501.15077v1](http://arxiv.org/abs/2501.15077v1)|null|
 |**2025-01-24 14:45:21**|**VERUS-LM: a Versatile Framework for Combining LLMs with Symbolic   Reasoning**|Benjamin Callewaert et.al.|[2501.14540v1](http://arxiv.org/abs/2501.14540v1)|null|
-|**2025-01-24 12:40:43**|**Deeply Optimizing the SAT Solver for the IC3 Algorithm**|Yuheng Su et.al.|[2501.18612v1](http://arxiv.org/abs/2501.18612v1)|null|
+|**2025-01-24 12:40:43**|**Deeply Optimizing the SAT Solver for the IC3 Algorithm**|Yuheng Su et.al.|[2501.18612v2](http://arxiv.org/abs/2501.18612v2)|null|
 |**2025-01-24 09:00:51**|**RadiK: Scalable and Optimized GPU-Parallel Radix Top-K Selection**|Yifei Li et.al.|[2501.14336v1](http://arxiv.org/abs/2501.14336v1)|[link](https://github.com/leefige/radik)|
 |**2025-01-23 18:40:02**|**QuanTaxo: A Quantum Approach to Self-Supervised Taxonomy Expansion**|Sahil Mishra et.al.|[2501.14011v1](http://arxiv.org/abs/2501.14011v1)|[link](https://github.com/sahilmishra0012/quantaxo)|
 |**2025-01-23 12:58:14**|**Sigma: Differential Rescaling of Query, Key and Value for Efficient   Language Models**|Zhenghao Lin et.al.|[2501.13629v1](http://arxiv.org/abs/2501.13629v1)|null|
