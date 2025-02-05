@@ -2,6 +2,24 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-04 15:02:55**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384v1](http://arxiv.org/abs/2502.02384v1)|[link](https://github.com/thu-ml/STAIR)|
+|**2025-02-04 10:19:11**|**Extending the Applicability of Bloom Filters by Relaxing their Parameter   Constraints**|Paul Walther et.al.|[2502.02193v1](http://arxiv.org/abs/2502.02193v1)|null|
+|**2025-02-04 08:57:47**|**BILBO: BILevel Bayesian Optimization**|Ruth Wan Theng Chew et.al.|[2502.02121v1](http://arxiv.org/abs/2502.02121v1)|null|
+|**2025-02-04 00:33:18**|**Common Neighborhood Estimation over Bipartite Graphs under Local   Differential Privacy**|Yizhang He et.al.|[2502.01904v1](http://arxiv.org/abs/2502.01904v1)|null|
+|**2025-02-03 17:47:03**|**Massive Values in Self-Attention Modules are the Key to Contextual   Knowledge Understanding**|Mingyu Jin et.al.|[2502.01563v1](http://arxiv.org/abs/2502.01563v1)|[link](https://github.com/MingyuJ666/Rope_with_LLM)|
+|**2025-02-03 17:08:26**|**SQUASH: Serverless and Distributed Quantization-based Attributed Vector   Similarity Search**|Joe Oakley et.al.|[2502.01528v1](http://arxiv.org/abs/2502.01528v1)|null|
+|**2025-02-03 10:37:05**|**How Good are Learned Cost Models, Really? Insights from Query   Optimization Tasks**|Roman Heinrich et.al.|[2502.01229v1](http://arxiv.org/abs/2502.01229v1)|null|
+|**2025-02-03 08:51:03**|**Scalable Precise Computation of Shannon Entropy**|Yong Lai et.al.|[2502.01160v1](http://arxiv.org/abs/2502.01160v1)|null|
+|**2025-02-03 08:22:45**|**DeepRAG: Thinking to Retrieval Step by Step for Large Language Models**|Xinyan Guan et.al.|[2502.01142v1](http://arxiv.org/abs/2502.01142v1)|null|
+|**2025-02-03 05:50:55**|**Tool Unlearning for Tool-Augmented LLMs**|Jiali Cheng et.al.|[2502.01083v1](http://arxiv.org/abs/2502.01083v1)|null|
+|**2025-02-03 05:10:19**|**Knowledge Synthesis of Photosynthesis Research Using a Large Language   Model**|Seungri Yoon et.al.|[2502.01059v1](http://arxiv.org/abs/2502.01059v1)|null|
+|**2025-02-03 03:44:35**|**Adversarial Robustness in Two-Stage Learning-to-Defer: Algorithms and   Guarantees**|Yannis Montreuil et.al.|[2502.01027v1](http://arxiv.org/abs/2502.01027v1)|null|
+|**2025-02-03 02:17:44**|**TxnSails: Achieving Serializable Transaction Scheduling with   Self-Adaptive Isolation Level Selection**|Qiyu Zhuang et.al.|[2502.00991v1](http://arxiv.org/abs/2502.00991v1)|null|
+|**2025-02-02 09:27:02**|**Selective Response Strategies for GenAI**|Boaz Taitler et.al.|[2502.00729v1](http://arxiv.org/abs/2502.00729v1)|null|
+|**2025-02-01 12:08:38**|**Doing More with Less -- Implementing Routing Strategies in Large   Language Model-Based Systems: An Extended Survey**|Clovis Varangot-Reille et.al.|[2502.00409v2](http://arxiv.org/abs/2502.00409v2)|null|
+|**2025-02-01 08:00:36**|**Left-Deep Join Order Selection with Higher-Order Unconstrained Binary   Optimization on Quantum Computers**|Valter Uotila et.al.|[2502.00362v1](http://arxiv.org/abs/2502.00362v1)|null|
+|**2025-02-01 07:03:04**|**A Novel Approach to Translate Structural Aggregation Queries to   MapReduce Code**|Ahmed M. Abdelmoniem et.al.|[2502.00343v1](http://arxiv.org/abs/2502.00343v1)|null|
+|**2025-01-31 20:20:03**|**Optimal Metric Distortion for Matching on the Line**|Aris Filos-Ratsikas et.al.|[2502.00149v1](http://arxiv.org/abs/2502.00149v1)|null|
 |**2025-01-31 14:28:47**|**Locality-aware Surrogates for Gradient-based Black-box Optimization**|Ali Momeni et.al.|[2501.19161v1](http://arxiv.org/abs/2501.19161v1)|null|
 |**2025-01-30 18:07:19**|**Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented   LLM-based Retrieval Method**|Peter Baile Chen et.al.|[2501.18539v1](http://arxiv.org/abs/2501.18539v1)|null|
 |**2025-01-30 13:00:15**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP   Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320v1](http://arxiv.org/abs/2501.18320v1)|null|
@@ -14,21 +32,3 @@
 |**2025-01-27 22:33:47**|**PLANSIEVE: Real-time Suboptimal Query Plan Detection Through Incremental   Refinements**|Asoke Datta et.al.|[2501.16544v1](http://arxiv.org/abs/2501.16544v1)|null|
 |**2025-01-27 17:55:39**|**Improving DBMS Scheduling Decisions with Fine-grained Performance   Prediction on Concurrent Queries -- Extended**|Ziniu Wu et.al.|[2501.16256v2](http://arxiv.org/abs/2501.16256v2)|null|
 |**2025-01-27 14:26:42**|**Minimizing Polarization and Disagreement in the Friedkin-Johnsen Model   with Unknown Innate Opinions**|Federico Cinus et.al.|[2501.16076v2](http://arxiv.org/abs/2501.16076v2)|null|
-|**2025-01-26 10:16:42**|**Unveiling the Potential of Multimodal Retrieval Augmented Generation   with Planning**|Xiaohan Yu et.al.|[2501.15470v1](http://arxiv.org/abs/2501.15470v1)|null|
-|**2025-01-25 14:24:50**|**Improving Retrieval-Augmented Generation through Multi-Agent   Reinforcement Learning**|Yiqun Chen et.al.|[2501.15228v1](http://arxiv.org/abs/2501.15228v1)|[link](https://github.com/chenyiqun/mmoa-rag)|
-|**2025-01-25 06:09:02**|**CFT-RAG: An Entity Tree Based Retrieval Augmented Generation Algorithm   With Cuckoo Filter**|Zihang Li et.al.|[2501.15098v1](http://arxiv.org/abs/2501.15098v1)|[link](https://github.com/tupyp7180/cft-rag-2025)|
-|**2025-01-25 04:58:09**|**NetChain: Authenticated Blockchain Top-k Graph Data Queries and its   Application in Asset Management**|Hongguang Zhao et.al.|[2501.15077v1](http://arxiv.org/abs/2501.15077v1)|null|
-|**2025-01-24 14:45:21**|**VERUS-LM: a Versatile Framework for Combining LLMs with Symbolic   Reasoning**|Benjamin Callewaert et.al.|[2501.14540v1](http://arxiv.org/abs/2501.14540v1)|null|
-|**2025-01-24 12:40:43**|**Deeply Optimizing the SAT Solver for the IC3 Algorithm**|Yuheng Su et.al.|[2501.18612v2](http://arxiv.org/abs/2501.18612v2)|null|
-|**2025-01-24 09:00:51**|**RadiK: Scalable and Optimized GPU-Parallel Radix Top-K Selection**|Yifei Li et.al.|[2501.14336v1](http://arxiv.org/abs/2501.14336v1)|[link](https://github.com/leefige/radik)|
-|**2025-01-23 18:40:02**|**QuanTaxo: A Quantum Approach to Self-Supervised Taxonomy Expansion**|Sahil Mishra et.al.|[2501.14011v1](http://arxiv.org/abs/2501.14011v1)|[link](https://github.com/sahilmishra0012/quantaxo)|
-|**2025-01-23 12:58:14**|**Sigma: Differential Rescaling of Query, Key and Value for Efficient   Language Models**|Zhenghao Lin et.al.|[2501.13629v1](http://arxiv.org/abs/2501.13629v1)|null|
-|**2025-01-23 12:06:02**|**New Oracles and Labeling Schemes for Vertex Cut Queries**|Yonggang Jiang et.al.|[2501.13596v1](http://arxiv.org/abs/2501.13596v1)|null|
-|**2025-01-23 02:45:35**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341v3](http://arxiv.org/abs/2501.13341v3)|[link](https://github.com/taegyeong-lee/makd)|
-|**2025-01-22 08:14:11**|**Combining Knowledge Graph and LLMs for Enhanced Zero-shot Visual   Question Answering**|Qian Tao et.al.|[2501.12697v1](http://arxiv.org/abs/2501.12697v1)|null|
-|**2025-01-21 19:30:30**|**Specification for the Siril HEALpixel Catalog Format**|Adrian J. E. Knagg-Baugh et.al.|[2501.12466v1](http://arxiv.org/abs/2501.12466v1)|null|
-|**2025-01-21 16:03:42**|**FOCUS: First Order Concentrated Updating Scheme**|Yizhou Liu et.al.|[2501.12243v1](http://arxiv.org/abs/2501.12243v1)|null|
-|**2025-01-20 22:01:52**|**Momentum Contrastive Learning with Enhanced Negative Sampling and Hard   Negative Filtering**|Duy Hoang et.al.|[2501.16360v1](http://arxiv.org/abs/2501.16360v1)|null|
-|**2025-01-20 03:32:55**|**Constant Optimization Driven Database System Testing**|Chi Zhang et.al.|[2501.11252v1](http://arxiv.org/abs/2501.11252v1)|[link](https://github.com/sqlancer/sqlancer)|
-|**2025-01-20 02:40:01**|**Can OpenAI o1 Reason Well in Ophthalmology? A 6,990-Question   Head-to-Head Evaluation Study**|Sahana Srinivasan et.al.|[2501.13949v1](http://arxiv.org/abs/2501.13949v1)|null|
-|**2025-01-20 01:36:59**|**TigerVector: Supporting Vector Search in Graph Databases for Advanced   RAGs**|Shige Liu et.al.|[2501.11216v1](http://arxiv.org/abs/2501.11216v1)|null|
