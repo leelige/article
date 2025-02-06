@@ -2,6 +2,13 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-05 15:17:25**|**CARROT: A Cost Aware Rate Optimal Router**|Seamus Somerstep et.al.|[2502.03261v1](http://arxiv.org/abs/2502.03261v1)|null|
+|**2025-02-05 08:58:35**|**MedBioLM: Optimizing Medical and Biological QA with Fine-Tuned Large   Language Models and Retrieval-Augmented Generation**|Seonok Kim et.al.|[2502.03004v1](http://arxiv.org/abs/2502.03004v1)|null|
+|**2025-02-05 08:39:02**|**Lightweight Protocols for Distributed Private Quantile Estimation**|Anders Aamand et.al.|[2502.02990v1](http://arxiv.org/abs/2502.02990v1)|null|
+|**2025-02-05 06:30:14**|**Robust Reward Alignment in Hypothesis Space**|Zhixian Xie et.al.|[2502.02921v1](http://arxiv.org/abs/2502.02921v1)|null|
+|**2025-02-05 00:22:06**|**Speculative Prefill: Turbocharging TTFT with Lightweight and   Training-Free Token Importance Estimation**|Jingyu Liu et.al.|[2502.02789v1](http://arxiv.org/abs/2502.02789v1)|null|
+|**2025-02-04 22:09:43**|**LLM Bandit: Cost-Efficient LLM Generation via Preference-Conditioned   Dynamic Routing**|Yang Li et.al.|[2502.02743v1](http://arxiv.org/abs/2502.02743v1)|null|
+|**2025-02-04 19:07:29**|**Differentiable Composite Neural Signed Distance Fields for Robot   Navigation in Dynamic Indoor Environments**|S. Talha Bukhari et.al.|[2502.02664v1](http://arxiv.org/abs/2502.02664v1)|null|
 |**2025-02-04 15:02:55**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384v1](http://arxiv.org/abs/2502.02384v1)|[link](https://github.com/thu-ml/STAIR)|
 |**2025-02-04 10:19:11**|**Extending the Applicability of Bloom Filters by Relaxing their Parameter   Constraints**|Paul Walther et.al.|[2502.02193v1](http://arxiv.org/abs/2502.02193v1)|null|
 |**2025-02-04 08:57:47**|**BILBO: BILevel Bayesian Optimization**|Ruth Wan Theng Chew et.al.|[2502.02121v1](http://arxiv.org/abs/2502.02121v1)|null|
@@ -25,10 +32,3 @@
 |**2025-01-30 13:00:15**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP   Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320v1](http://arxiv.org/abs/2501.18320v1)|null|
 |**2025-01-29 20:20:48**|**Think Smarter not Harder: Adaptive Reasoning with Inference Aware   Optimization**|Zishun Yu et.al.|[2501.17974v2](http://arxiv.org/abs/2501.17974v2)|null|
 |**2025-01-29 17:26:47**|**WARP: An Efficient Engine for Multi-Vector Retrieval**|Jan Luca Scheerer et.al.|[2501.17788v1](http://arxiv.org/abs/2501.17788v1)|null|
-|**2025-01-29 08:57:02**|**Computationally Faster Newton Methods by Lazy Evaluations**|Lesi Chen et.al.|[2501.17488v1](http://arxiv.org/abs/2501.17488v1)|null|
-|**2025-01-29 04:48:51**|**Reqo: A Robust and Explainable Query Optimization Cost Model**|Baoming Chang et.al.|[2501.17414v1](http://arxiv.org/abs/2501.17414v1)|[link](https://github.com/baomingchang/reqo-on-postgresql)|
-|**2025-01-28 17:10:20**|**Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt   Generation for Enhanced LLM Content Moderation**|Daniel Schwartz et.al.|[2501.18638v1](http://arxiv.org/abs/2501.18638v1)|null|
-|**2025-01-28 16:03:52**|**Enhanced Retrieval of Long Documents: Leveraging Fine-Grained Block   Representations with Large Language Models**|Minghan Li et.al.|[2501.17039v1](http://arxiv.org/abs/2501.17039v1)|null|
-|**2025-01-27 22:33:47**|**PLANSIEVE: Real-time Suboptimal Query Plan Detection Through Incremental   Refinements**|Asoke Datta et.al.|[2501.16544v1](http://arxiv.org/abs/2501.16544v1)|null|
-|**2025-01-27 17:55:39**|**Improving DBMS Scheduling Decisions with Fine-grained Performance   Prediction on Concurrent Queries -- Extended**|Ziniu Wu et.al.|[2501.16256v2](http://arxiv.org/abs/2501.16256v2)|null|
-|**2025-01-27 14:26:42**|**Minimizing Polarization and Disagreement in the Friedkin-Johnsen Model   with Unknown Innate Opinions**|Federico Cinus et.al.|[2501.16076v2](http://arxiv.org/abs/2501.16076v2)|null|
