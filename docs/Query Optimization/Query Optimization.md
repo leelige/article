@@ -2,10 +2,13 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-06 18:32:26**|**Exponentially Better Bounds for Quantum Optimization via Dynamical   Simulation**|Ahmet Burak Catli et.al.|[2502.04285v1](http://arxiv.org/abs/2502.04285v1)|null|
+|**2025-02-06 16:12:06**|**Multi-agent Architecture Search via Agentic Supernet**|Guibin Zhang et.al.|[2502.04180v1](http://arxiv.org/abs/2502.04180v1)|null|
+|**2025-02-06 02:07:18**|**Efficiently Generating Expressive Quadruped Behaviors via   Language-Guided Preference Learning**|Jaden Clark et.al.|[2502.03717v1](http://arxiv.org/abs/2502.03717v1)|null|
 |**2025-02-05 15:17:25**|**CARROT: A Cost Aware Rate Optimal Router**|Seamus Somerstep et.al.|[2502.03261v1](http://arxiv.org/abs/2502.03261v1)|null|
 |**2025-02-05 08:58:35**|**MedBioLM: Optimizing Medical and Biological QA with Fine-Tuned Large   Language Models and Retrieval-Augmented Generation**|Seonok Kim et.al.|[2502.03004v1](http://arxiv.org/abs/2502.03004v1)|null|
 |**2025-02-05 08:39:02**|**Lightweight Protocols for Distributed Private Quantile Estimation**|Anders Aamand et.al.|[2502.02990v1](http://arxiv.org/abs/2502.02990v1)|null|
-|**2025-02-05 06:30:14**|**Robust Reward Alignment in Hypothesis Space**|Zhixian Xie et.al.|[2502.02921v1](http://arxiv.org/abs/2502.02921v1)|null|
+|**2025-02-05 06:30:14**|**Robust Reward Alignment via Hypothesis Space Batch Cutting**|Zhixian Xie et.al.|[2502.02921v2](http://arxiv.org/abs/2502.02921v2)|null|
 |**2025-02-05 00:22:06**|**Speculative Prefill: Turbocharging TTFT with Lightweight and   Training-Free Token Importance Estimation**|Jingyu Liu et.al.|[2502.02789v1](http://arxiv.org/abs/2502.02789v1)|null|
 |**2025-02-04 22:09:43**|**LLM Bandit: Cost-Efficient LLM Generation via Preference-Conditioned   Dynamic Routing**|Yang Li et.al.|[2502.02743v1](http://arxiv.org/abs/2502.02743v1)|null|
 |**2025-02-04 19:07:29**|**Differentiable Composite Neural Signed Distance Fields for Robot   Navigation in Dynamic Indoor Environments**|S. Talha Bukhari et.al.|[2502.02664v1](http://arxiv.org/abs/2502.02664v1)|null|
@@ -29,6 +32,3 @@
 |**2025-01-31 20:20:03**|**Optimal Metric Distortion for Matching on the Line**|Aris Filos-Ratsikas et.al.|[2502.00149v1](http://arxiv.org/abs/2502.00149v1)|null|
 |**2025-01-31 14:28:47**|**Locality-aware Surrogates for Gradient-based Black-box Optimization**|Ali Momeni et.al.|[2501.19161v1](http://arxiv.org/abs/2501.19161v1)|null|
 |**2025-01-30 18:07:19**|**Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented   LLM-based Retrieval Method**|Peter Baile Chen et.al.|[2501.18539v1](http://arxiv.org/abs/2501.18539v1)|null|
-|**2025-01-30 13:00:15**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP   Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320v1](http://arxiv.org/abs/2501.18320v1)|null|
-|**2025-01-29 20:20:48**|**Think Smarter not Harder: Adaptive Reasoning with Inference Aware   Optimization**|Zishun Yu et.al.|[2501.17974v2](http://arxiv.org/abs/2501.17974v2)|null|
-|**2025-01-29 17:26:47**|**WARP: An Efficient Engine for Multi-Vector Retrieval**|Jan Luca Scheerer et.al.|[2501.17788v1](http://arxiv.org/abs/2501.17788v1)|null|

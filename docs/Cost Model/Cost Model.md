@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-06 18:47:49**|**ScoreFlow: Mastering LLM Agent Workflows via Score-based Preference   Optimization**|Yinjie Wang et.al.|[2502.04306v1](http://arxiv.org/abs/2502.04306v1)|[link](https://github.com/Gen-Verse/ScoreFlow)|
+|**2025-02-06 17:54:10**|**Efficient Randomized Experiments Using Foundation Models**|Piersilvio De Bartolomeis et.al.|[2502.04262v1](http://arxiv.org/abs/2502.04262v1)|[link](https://github.com/jaabmar/HAIPW)|
+|**2025-02-06 17:35:05**|**FedOptimus: Optimizing Vertical Federated Learning for Scalability and   Efficiency**|Nikita Shrivastava et.al.|[2502.04243v1](http://arxiv.org/abs/2502.04243v1)|null|
+|**2025-02-06 16:22:14**|**Automated Microservice Pattern Instance Detection Using   Infrastructure-as-Code Artifacts and Large Language Models**|Carlos Eduardo Duarte et.al.|[2502.04188v1](http://arxiv.org/abs/2502.04188v1)|null|
+|**2025-02-06 16:12:06**|**Multi-agent Architecture Search via Agentic Supernet**|Guibin Zhang et.al.|[2502.04180v1](http://arxiv.org/abs/2502.04180v1)|null|
+|**2025-02-06 15:47:18**|**Efficient Distributed Optimization under Heavy-Tailed Noise**|Su Hyeong Lee et.al.|[2502.04164v1](http://arxiv.org/abs/2502.04164v1)|null|
+|**2025-02-06 14:29:02**|**Exploring Group Convolutional Networks for Sign Problem Mitigation via   Contour Deformation**|Christoph Gäntgen et.al.|[2502.04104v1](http://arxiv.org/abs/2502.04104v1)|null|
+|**2025-02-06 14:10:41**|**Soft and Highly-Integrated Optical Fiber Bending Sensors for   Proprioception in Multi-Material 3D Printed Fingers**|Ellis Capp et.al.|[2502.04094v1](http://arxiv.org/abs/2502.04094v1)|null|
+|**2025-02-06 12:47:25**|**Fine, I'll Merge It Myself: A Multi-Fidelity Framework for Automated   Model Merging**|Guinan Su et.al.|[2502.04030v1](http://arxiv.org/abs/2502.04030v1)|null|
+|**2025-02-06 12:28:16**|**A Robust Optimization Model for Cost-Efficient and Fast Electric Vehicle   Charging with L2-norm Uncertainty**|Trung Duc Tran et.al.|[2502.04024v1](http://arxiv.org/abs/2502.04024v1)|null|
+|**2025-02-06 12:25:16**|**Quantification of Biodiversity from Historical Survey Text with   LLM-based Best-Worst Scaling**|Thomas Haider et.al.|[2502.04022v1](http://arxiv.org/abs/2502.04022v1)|null|
+|**2025-02-06 11:34:41**|**PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation**|Hyemin Lim et.al.|[2502.03984v1](http://arxiv.org/abs/2502.03984v1)|null|
+|**2025-02-06 10:54:28**|**AL-PINN: Active Learning-Driven Physics-Informed Neural Networks for   Efficient Sample Selection in Solving Partial Differential Equations**|Keon Vin Park et.al.|[2502.03963v1](http://arxiv.org/abs/2502.03963v1)|null|
+|**2025-02-06 10:18:58**|**ICGNN: Graph Neural Network Enabled Scalable Beamforming for MISO   Interference Channels**|Changpeng He et.al.|[2502.03936v1](http://arxiv.org/abs/2502.03936v1)|null|
+|**2025-02-06 09:01:24**|**InfinitePOD: Building Datacenter-Scale High-Bandwidth Domain for LLM   with Optical Circuit Switching Transceivers**|Chenchen Shou et.al.|[2502.03885v1](http://arxiv.org/abs/2502.03885v1)|null|
+|**2025-02-06 07:18:04**|**Dynamic Rank Adjustment in Diffusion Policies for Efficient and Flexible   Training**|Xiatao Sun et.al.|[2502.03822v1](http://arxiv.org/abs/2502.03822v1)|null|
+|**2025-02-06 06:31:47**|**Identify Critical KV Cache in LLM Inference from an Output Perturbation   Perspective**|Yuan Feng et.al.|[2502.03805v1](http://arxiv.org/abs/2502.03805v1)|null|
+|**2025-02-06 04:16:20**|**Adaptive Semantic Prompt Caching with VectorQ**|Luis Gaspar Schroeder et.al.|[2502.03771v1](http://arxiv.org/abs/2502.03771v1)|null|
+|**2025-02-06 03:16:26**|**Brain Tumor Identification using Improved YOLOv8**|Rupesh Dulal et.al.|[2502.03746v1](http://arxiv.org/abs/2502.03746v1)|null|
+|**2025-02-06 03:01:38**|**Scaling Laws in Patchification: An Image Is Worth 50,176 Tokens And More**|Feng Wang et.al.|[2502.03738v1](http://arxiv.org/abs/2502.03738v1)|[link](https://github.com/wangf3014/Patch_Scaling)|
+|**2025-02-06 01:03:54**|**Reduce Lap Time for Autonomous Racing with Curvature-Integrated MPCC   Local Trajectory Planning Method**|Zhouheng Li et.al.|[2502.03695v1](http://arxiv.org/abs/2502.03695v1)|[link](https://github.com/zhouhengli/CiMPCC)|
+|**2025-02-06 00:38:25**|**A Comparison of DeepSeek and Other LLMs**|Tianchen Gao et.al.|[2502.03688v1](http://arxiv.org/abs/2502.03688v1)|null|
+|**2025-02-06 00:24:39**|**Variational Control for Guidance in Diffusion Models**|Kushagra Pandey et.al.|[2502.03686v1](http://arxiv.org/abs/2502.03686v1)|null|
+|**2025-02-06 00:14:43**|**Controlled LLM Decoding via Discrete Auto-regressive Biasing**|Patrick Pynadath et.al.|[2502.03685v1](http://arxiv.org/abs/2502.03685v1)|null|
+|**2025-02-05 22:56:55**|**Advancing Weight and Channel Sparsification with Enhanced Saliency**|Xinglong Sun et.al.|[2502.03658v1](http://arxiv.org/abs/2502.03658v1)|null|
+|**2025-02-05 20:09:51**|**HACK: Homomorphic Acceleration via Compression of the Key-Value Cache   for Disaggregated LLM Inference**|Zeyu Zhang et.al.|[2502.03589v1](http://arxiv.org/abs/2502.03589v1)|null|
+|**2025-02-05 19:59:44**|**Designing Illumination Patterns for Single-Pixel Imaging Using Lattice   Models**|Hamidreza Oliaei-Moghadam et.al.|[2502.03582v1](http://arxiv.org/abs/2502.03582v1)|null|
+|**2025-02-05 19:55:53**|**Universal machine learning interatomic potentials poised to supplant DFT   in modeling general defects in metals and random alloys**|Fei Shuang et.al.|[2502.03578v1](http://arxiv.org/abs/2502.03578v1)|null|
+|**2025-02-05 19:17:24**|**Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake   Detection**|Yassine El Kheir et.al.|[2502.03559v1](http://arxiv.org/abs/2502.03559v1)|[link](https://github.com/Yaselley/SSL_Layerwise_Deepfake)|
 |**2025-02-05 18:57:40**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language   Model Training**|Boyao Wang et.al.|[2502.03460v1](http://arxiv.org/abs/2502.03460v1)|null|
-|**2025-02-05 17:50:53**|**Deep Reinforcement Learning-Based Optimization of Second-Life Battery   Utilization in Electric Vehicles Charging Stations**|Rouzbeh Haghighi et.al.|[2502.03412v1](http://arxiv.org/abs/2502.03412v1)|null|
-|**2025-02-05 17:50:37**|**The Thermodynamic Cost of Ignorance: Thermal State Preparation with One   Ancilla Qubit**|Matthew Hagan et.al.|[2502.03410v1](http://arxiv.org/abs/2502.03410v1)|null|
-|**2025-02-05 17:49:32**|**Estimating Export-productivity Cutoff Contours with Profit Data: A Novel   Threshold Estimation Approach**|Peter H. Egger et.al.|[2502.03406v1](http://arxiv.org/abs/2502.03406v1)|null|
-|**2025-02-05 17:05:25**|**SyMANTIC: An Efficient Symbolic Regression Method for Interpretable and   Parsimonious Model Discovery in Science and Beyond**|Madhav R. Muthyala et.al.|[2502.03367v1](http://arxiv.org/abs/2502.03367v1)|null|
-|**2025-02-05 16:39:26**|**Implicit Communication in Human-Robot Collaborative Transport**|Elvin Yang et.al.|[2502.03346v1](http://arxiv.org/abs/2502.03346v1)|null|
-|**2025-02-05 16:33:01**|**Optimal PMU Placement for Kalman Filtering of DAE Power System Models**|Milos Katanic et.al.|[2502.03338v1](http://arxiv.org/abs/2502.03338v1)|null|
-|**2025-02-05 16:21:37**|**An efficient end-to-end computational framework for the generation of   ECG calibrated volumetric models of human atrial electrophysiology**|Elena Zappon et.al.|[2502.03322v1](http://arxiv.org/abs/2502.03322v1)|null|
-|**2025-02-05 15:17:25**|**CARROT: A Cost Aware Rate Optimal Router**|Seamus Somerstep et.al.|[2502.03261v1](http://arxiv.org/abs/2502.03261v1)|null|
-|**2025-02-05 15:13:08**|**Efficient extraction of medication information from clinical notes: an   evaluation in two languages**|Thibaut Fabacher et.al.|[2502.03257v1](http://arxiv.org/abs/2502.03257v1)|null|
-|**2025-02-05 14:45:56**|**The Other Side of the Coin: Unveiling the Downsides of Model Aggregation   in Federated Learning from a Layer-peeled Perspective**|Guogang Zhu et.al.|[2502.03231v1](http://arxiv.org/abs/2502.03231v1)|null|
-|**2025-02-05 14:20:34**|**CORTEX: A Cost-Sensitive Rule and Tree Extraction Method**|Marija Kopanja et.al.|[2502.03200v1](http://arxiv.org/abs/2502.03200v1)|null|
-|**2025-02-05 12:57:53**|**Underwater Soft Fin Flapping Motion with Deep Neural Network Based   Surrogate Model**|Yuya Hamamatsu et.al.|[2502.03135v1](http://arxiv.org/abs/2502.03135v1)|null|
-|**2025-02-05 11:47:26**|**Simple and efficient computational strategies for calculating orbital   energies and pair-orbital energies from pCCD-based methods**|Seyedehdelaram Jahani et.al.|[2502.03098v1](http://arxiv.org/abs/2502.03098v1)|null|
-|**2025-02-05 11:31:21**|**E-3SFC: Communication-Efficient Federated Learning with Double-way   Features Synthesizing**|Yuhao Zhou et.al.|[2502.03092v1](http://arxiv.org/abs/2502.03092v1)|null|
-|**2025-02-05 09:54:13**|**A Framework for IoT-Enabled Smart Manufacturing for Energy and Resource   Optimization**|Bazigu Alex et.al.|[2502.03040v1](http://arxiv.org/abs/2502.03040v1)|null|
-|**2025-02-05 09:43:14**|**Knowledge Distillation from Large Language Models for Household Energy   Modeling**|Mohannad Takrouri et.al.|[2502.03034v1](http://arxiv.org/abs/2502.03034v1)|[link](https://github.com/Singularity-AI-Lab/LLM-Energy-Knowledge-Distillation)|
-|**2025-02-05 09:30:29**|**Optimal control of the fidelity coefficient in a Cahn-Hilliard image   inpainting model**|Elena Beretta et.al.|[2502.03025v1](http://arxiv.org/abs/2502.03025v1)|null|
-|**2025-02-05 09:18:07**|**An analysis of optimization problems involving ReLU neural networks**|Christoph Plate et.al.|[2502.03016v1](http://arxiv.org/abs/2502.03016v1)|null|
-|**2025-02-05 09:13:33**|**A Framework to Monitor the Effects of External Shocks on Housing Markets**|Anja Hahn et.al.|[2502.03012v1](http://arxiv.org/abs/2502.03012v1)|null|
-|**2025-02-05 08:26:17**|**FedMobileAgent: Training Mobile Agents Using Decentralized Self-Sourced   Data from Diverse Users**|Wenhao Wang et.al.|[2502.02982v1](http://arxiv.org/abs/2502.02982v1)|null|
-|**2025-02-05 08:20:19**|**TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential   Dynamics**|Lu Yi et.al.|[2502.02975v1](http://arxiv.org/abs/2502.02975v1)|null|
-|**2025-02-05 08:14:52**|**Label Anything: An Interpretable, High-Fidelity and Prompt-Free   Annotator**|Wei-Bin Kou et.al.|[2502.02972v1](http://arxiv.org/abs/2502.02972v1)|null|
-|**2025-02-05 06:11:55**|**SPARC: Subspace-Aware Prompt Adaptation for Robust Continual Learning in   LLMs**|Dinithi Jayasuriya et.al.|[2502.02909v1](http://arxiv.org/abs/2502.02909v1)|null|
-|**2025-02-05 06:09:26**|**COSMosFL: Ensemble of Small Language Models for Fault Localisation**|Hyunjoon Cho et.al.|[2502.02908v1](http://arxiv.org/abs/2502.02908v1)|null|
-|**2025-02-05 04:09:15**|**Vertical Federated Learning for Failure-Cause Identification in   Disaggregated Microwave Networks**|Fatih Temiz et.al.|[2502.02874v1](http://arxiv.org/abs/2502.02874v1)|null|
-|**2025-02-05 03:47:57**|**Maxwell-Vlasov-Uehling-Uhlenbeck (VUU) Simulation for Coupled   Laser-Electron Dynamics in a Metal Irradiated by Ultrashort Intense Laser   Pulses**|Mizuki Tani et.al.|[2502.02865v1](http://arxiv.org/abs/2502.02865v1)|null|
-|**2025-02-05 03:13:25**|**TD3: Tucker Decomposition Based Dataset Distillation Method for   Sequential Recommendation**|Jiaqing Zhang et.al.|[2502.02854v1](http://arxiv.org/abs/2502.02854v1)|[link](https://github.com/USTC-StarTeam/TD3)|
-|**2025-02-05 02:14:09**|**How the Stroop Effect Arises from Optimal Response Times in Laterally   Connected Self-Organizing Maps**|Divya Prabhakaran et.al.|[2502.02831v1](http://arxiv.org/abs/2502.02831v1)|null|
-|**2025-02-05 01:18:45**|**LHIEM: the Longitudinal Health, Income, and Employment Model**|Adrienne M. Propp et.al.|[2502.02812v1](http://arxiv.org/abs/2502.02812v1)|null|
