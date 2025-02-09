@@ -12,7 +12,7 @@
 |**2025-02-05 00:22:06**|**Speculative Prefill: Turbocharging TTFT with Lightweight and   Training-Free Token Importance Estimation**|Jingyu Liu et.al.|[2502.02789v1](http://arxiv.org/abs/2502.02789v1)|null|
 |**2025-02-04 22:09:43**|**LLM Bandit: Cost-Efficient LLM Generation via Preference-Conditioned   Dynamic Routing**|Yang Li et.al.|[2502.02743v1](http://arxiv.org/abs/2502.02743v1)|null|
 |**2025-02-04 19:07:29**|**Differentiable Composite Neural Signed Distance Fields for Robot   Navigation in Dynamic Indoor Environments**|S. Talha Bukhari et.al.|[2502.02664v1](http://arxiv.org/abs/2502.02664v1)|null|
-|**2025-02-04 15:02:55**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384v1](http://arxiv.org/abs/2502.02384v1)|[link](https://github.com/thu-ml/STAIR)|
+|**2025-02-04 15:02:55**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384v1](http://arxiv.org/abs/2502.02384v1)|[link](https://github.com/thu-ml/stair)|
 |**2025-02-04 10:19:11**|**Extending the Applicability of Bloom Filters by Relaxing their Parameter   Constraints**|Paul Walther et.al.|[2502.02193v1](http://arxiv.org/abs/2502.02193v1)|null|
 |**2025-02-04 08:57:47**|**BILBO: BILevel Bayesian Optimization**|Ruth Wan Theng Chew et.al.|[2502.02121v1](http://arxiv.org/abs/2502.02121v1)|null|
 |**2025-02-04 00:33:18**|**Common Neighborhood Estimation over Bipartite Graphs under Local   Differential Privacy**|Yizhang He et.al.|[2502.01904v1](http://arxiv.org/abs/2502.01904v1)|null|
