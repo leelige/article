@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-06 23:46:04**|**Learning Semantics-aware Search Operators for Genetic Programming**|Piotr Wyrwiński et.al.|[2502.04568v1](http://arxiv.org/abs/2502.04568v1)|null|
 |**2025-02-06 13:17:03**|**Smart IoT Security: Lightweight Machine Learning Techniques for   Multi-Class Attack Detection in IoT Networks**|Shahran Rahman Alve et.al.|[2502.04057v1](http://arxiv.org/abs/2502.04057v1)|null|
 |**2025-02-06 03:48:25**|**Learning Reward Machines from Partially Observed Optimal Policies**|Mohamad Louai Shehab et.al.|[2502.03762v1](http://arxiv.org/abs/2502.03762v1)|null|
 |**2025-02-05 23:50:47**|**COMNETS: COst-sensitive decision trees approach to throughput   optimization for Multi-radio IoT NETworkS**|Jothi Prasanna Shanmuga Sundaram et.al.|[2502.03677v1](http://arxiv.org/abs/2502.03677v1)|null|
@@ -31,4 +32,3 @@
 |**2025-01-15 11:05:25**|**Multilingual Email Phishing Attacks Detection using OSINT and Machine   Learning**|Panharith An et.al.|[2501.08723v1](http://arxiv.org/abs/2501.08723v1)|null|
 |**2025-01-14 14:29:36**|**FairTTTS: A Tree Test Time Simulation Method for Fairness-Aware   Classification**|Nurit Cohen-Inger et.al.|[2501.08155v1](http://arxiv.org/abs/2501.08155v1)|[link](https://github.com/nuritci/fairttts)|
 |**2025-01-11 09:42:13**|**A New Flexible Train-Test Split Algorithm, an approach for choosing   among the Hold-out, K-fold cross-validation, and Hold-out iteration**|Zahra Bami et.al.|[2501.06492v1](http://arxiv.org/abs/2501.06492v1)|null|
-|**2025-01-10 13:06:36**|**Soft regression trees: a model variant and a decomposition training   algorithm**|Antonio Consolo et.al.|[2501.05942v2](http://arxiv.org/abs/2501.05942v2)|null|
