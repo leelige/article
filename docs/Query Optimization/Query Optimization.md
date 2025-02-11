@@ -2,8 +2,20 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-10 18:57:29**|**Exploring the Limit of Outcome Reward for Learning Mathematical   Reasoning**|Chengqi Lyu et.al.|[2502.06781v1](http://arxiv.org/abs/2502.06781v1)|[link](https://github.com/InternLM/OREAL})|
+|**2025-02-10 18:47:16**|**Fat-Tree QRAM: A High-Bandwidth Shared Quantum Random Access Memory for   Parallel Queries**|Shifan Xu et.al.|[2502.06767v1](http://arxiv.org/abs/2502.06767v1)|null|
+|**2025-02-10 17:47:32**|**HoneyComb: A Parallel Worst-Case Optimal Join on Multicores**|Jiacheng Wu et.al.|[2502.06715v1](http://arxiv.org/abs/2502.06715v1)|null|
+|**2025-02-10 13:45:55**|**A Quadratic Lower Bound for Stable Roommates Solvability**|Will Rosenbaum et.al.|[2502.06464v1](http://arxiv.org/abs/2502.06464v1)|null|
+|**2025-02-10 10:29:28**|**Expect the Unexpected: FailSafe Long Context QA for Finance**|Kiran Kamble et.al.|[2502.06329v1](http://arxiv.org/abs/2502.06329v1)|null|
+|**2025-02-10 07:04:32**|**C-3PO: Compact Plug-and-Play Proxy Optimization to Achieve Human-like   Retrieval-Augmented Generation**|Guoxin Chen et.al.|[2502.06205v1](http://arxiv.org/abs/2502.06205v1)|null|
+|**2025-02-10 06:54:16**|**On the query complexity of sampling from non-log-concave distributions**|Yuchen He et.al.|[2502.06200v1](http://arxiv.org/abs/2502.06200v1)|null|
+|**2025-02-09 20:26:30**|**Temporal Working Memory: Query-Guided Segment Refinement for Enhanced   Multimodal Understanding**|Xingjian Diao et.al.|[2502.06020v1](http://arxiv.org/abs/2502.06020v1)|[link](https://github.com/xid32/NAACL_2025_TWM)|
+|**2025-02-09 17:03:02**|**Ensemble-Tight Second-Order Asymptotics and Exponents for Guessing-Based   Decoding with Abandonment**|Vincent Y. F. Tan et.al.|[2502.05959v1](http://arxiv.org/abs/2502.05959v1)|null|
+|**2025-02-09 14:13:51**|**LpBound: Pessimistic Cardinality Estimation using $\ell_p$-Norms of   Degree Sequences**|Haozhe Zhang et.al.|[2502.05912v1](http://arxiv.org/abs/2502.05912v1)|null|
+|**2025-02-08 13:21:34**|**Can Large Language Models Be Query Optimizer for Relational Databases?**|Jie Tan et.al.|[2502.05562v1](http://arxiv.org/abs/2502.05562v1)|null|
 |**2025-02-07 18:48:25**|**In-context denoising with one-layer transformers: connections between   attention and associative memory retrieval**|Matthew Smart et.al.|[2502.05164v1](http://arxiv.org/abs/2502.05164v1)|null|
 |**2025-02-07 18:32:51**|**Hummingbird: High Fidelity Image Generation via Multimodal Context   Alignment**|Minh-Quan Le et.al.|[2502.05153v1](http://arxiv.org/abs/2502.05153v1)|null|
+|**2025-02-07 18:20:19**|**Learned Offline Query Planning via Bayesian Optimization**|Jeffrey Tao et.al.|[2502.05256v1](http://arxiv.org/abs/2502.05256v1)|null|
 |**2025-02-07 05:49:50**|**LLM Query Scheduling with Prefix Reuse and Latency Constraints**|Gregory Dexter et.al.|[2502.04677v1](http://arxiv.org/abs/2502.04677v1)|null|
 |**2025-02-06 20:44:26**|**Multi-Agent Reinforcement Learning with Focal Diversity Optimization**|Selim Furkan Tekin et.al.|[2502.04492v1](http://arxiv.org/abs/2502.04492v1)|[link](https://github.com/sftekin/rl-focal)|
 |**2025-02-06 18:32:26**|**Exponentially Better Bounds for Quantum Optimization via Dynamical   Simulation**|Ahmet Burak Catli et.al.|[2502.04285v1](http://arxiv.org/abs/2502.04285v1)|null|
@@ -20,15 +32,3 @@
 |**2025-02-04 15:02:55**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384v1](http://arxiv.org/abs/2502.02384v1)|[link](https://github.com/thu-ml/stair)|
 |**2025-02-04 10:19:11**|**Extending the Applicability of Bloom Filters by Relaxing their Parameter   Constraints**|Paul Walther et.al.|[2502.02193v1](http://arxiv.org/abs/2502.02193v1)|null|
 |**2025-02-04 08:57:47**|**BILBO: BILevel Bayesian Optimization**|Ruth Wan Theng Chew et.al.|[2502.02121v1](http://arxiv.org/abs/2502.02121v1)|null|
-|**2025-02-04 00:33:18**|**Common Neighborhood Estimation over Bipartite Graphs under Local   Differential Privacy**|Yizhang He et.al.|[2502.01904v1](http://arxiv.org/abs/2502.01904v1)|null|
-|**2025-02-03 17:47:03**|**Massive Values in Self-Attention Modules are the Key to Contextual   Knowledge Understanding**|Mingyu Jin et.al.|[2502.01563v1](http://arxiv.org/abs/2502.01563v1)|[link](https://github.com/MingyuJ666/Rope_with_LLM)|
-|**2025-02-03 17:08:26**|**SQUASH: Serverless and Distributed Quantization-based Attributed Vector   Similarity Search**|Joe Oakley et.al.|[2502.01528v1](http://arxiv.org/abs/2502.01528v1)|null|
-|**2025-02-03 12:36:46**|**Synergistic Traffic Assignment**|Thomas Bläsius et.al.|[2502.04343v1](http://arxiv.org/abs/2502.04343v1)|null|
-|**2025-02-03 10:37:05**|**How Good are Learned Cost Models, Really? Insights from Query   Optimization Tasks**|Roman Heinrich et.al.|[2502.01229v1](http://arxiv.org/abs/2502.01229v1)|null|
-|**2025-02-03 08:51:03**|**Scalable Precise Computation of Shannon Entropy**|Yong Lai et.al.|[2502.01160v1](http://arxiv.org/abs/2502.01160v1)|null|
-|**2025-02-03 08:22:45**|**DeepRAG: Thinking to Retrieval Step by Step for Large Language Models**|Xinyan Guan et.al.|[2502.01142v1](http://arxiv.org/abs/2502.01142v1)|null|
-|**2025-02-03 05:50:55**|**Tool Unlearning for Tool-Augmented LLMs**|Jiali Cheng et.al.|[2502.01083v1](http://arxiv.org/abs/2502.01083v1)|null|
-|**2025-02-03 05:10:19**|**Knowledge Synthesis of Photosynthesis Research Using a Large Language   Model**|Seungri Yoon et.al.|[2502.01059v1](http://arxiv.org/abs/2502.01059v1)|null|
-|**2025-02-03 03:44:35**|**Adversarial Robustness in Two-Stage Learning-to-Defer: Algorithms and   Guarantees**|Yannis Montreuil et.al.|[2502.01027v1](http://arxiv.org/abs/2502.01027v1)|null|
-|**2025-02-03 02:17:44**|**TxnSails: Achieving Serializable Transaction Scheduling with   Self-Adaptive Isolation Level Selection**|Qiyu Zhuang et.al.|[2502.00991v1](http://arxiv.org/abs/2502.00991v1)|null|
-|**2025-02-02 09:27:02**|**Selective Response Strategies for GenAI**|Boaz Taitler et.al.|[2502.00729v1](http://arxiv.org/abs/2502.00729v1)|null|

@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-07 20:51:06**|**From Counterfactuals to Trees: Competitive Analysis of Model Extraction   Attacks**|Awa Khouna et.al.|[2502.05325v1](http://arxiv.org/abs/2502.05325v1)|null|
 |**2025-02-06 23:46:04**|**Learning Semantics-aware Search Operators for Genetic Programming**|Piotr Wyrwiński et.al.|[2502.04568v1](http://arxiv.org/abs/2502.04568v1)|null|
 |**2025-02-06 13:17:03**|**Smart IoT Security: Lightweight Machine Learning Techniques for   Multi-Class Attack Detection in IoT Networks**|Shahran Rahman Alve et.al.|[2502.04057v1](http://arxiv.org/abs/2502.04057v1)|null|
 |**2025-02-06 03:48:25**|**Learning Reward Machines from Partially Observed Optimal Policies**|Mohamad Louai Shehab et.al.|[2502.03762v1](http://arxiv.org/abs/2502.03762v1)|null|
@@ -15,6 +16,7 @@
 |**2025-01-30 18:01:48**|**A Hybrid Data-Driven Approach For Analyzing And Predicting Inpatient   Length Of Stay In Health Centre**|Tasfia Noor Chowdhury et.al.|[2501.18535v1](http://arxiv.org/abs/2501.18535v1)|null|
 |**2025-01-29 20:55:53**|**Investigating the Monte-Carlo Tree Search Approach for the Job Shop   Scheduling Problem**|Laurie Boveroux et.al.|[2501.17991v1](http://arxiv.org/abs/2501.17991v1)|null|
 |**2025-01-29 06:01:39**|**WCDT: Systematic WCET Optimization for Decision Tree Implementations**|Nils Hölscher et.al.|[2501.17428v1](http://arxiv.org/abs/2501.17428v1)|null|
+|**2025-01-29 01:26:11**|**Implementation of Machine Learning Algorithms for Seismic Events   Classification**|Alemayehu Belay Kassa et.al.|[2502.05197v1](http://arxiv.org/abs/2502.05197v1)|null|
 |**2025-01-27 17:48:48**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247v1](http://arxiv.org/abs/2501.16247v1)|null|
 |**2025-01-25 03:42:22**|**Feedback-Aware Monte Carlo Tree Search for Efficient Information Seeking   in Goal-Oriented Conversations**|Harshita Chopra et.al.|[2501.15056v1](http://arxiv.org/abs/2501.15056v1)|null|
 |**2025-01-24 17:15:33**|**Automation of finding strong gravitational lenses in the Kilo Degree   Survey with U-DenseLens (DenseLens + Segmentation)**|Bharath Chowdhary Nagam et.al.|[2501.14650v1](http://arxiv.org/abs/2501.14650v1)|null|
@@ -30,5 +32,3 @@
 |**2025-01-17 11:30:31**|**Small Decision Trees for MDPs with Deductive Synthesis**|Roman Andriushchenko et.al.|[2501.10126v1](http://arxiv.org/abs/2501.10126v1)|null|
 |**2025-01-16 13:25:49**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic   Advancements**|Sahil Tomar et.al.|[2501.09528v1](http://arxiv.org/abs/2501.09528v1)|null|
 |**2025-01-15 11:05:25**|**Multilingual Email Phishing Attacks Detection using OSINT and Machine   Learning**|Panharith An et.al.|[2501.08723v1](http://arxiv.org/abs/2501.08723v1)|null|
-|**2025-01-14 14:29:36**|**FairTTTS: A Tree Test Time Simulation Method for Fairness-Aware   Classification**|Nurit Cohen-Inger et.al.|[2501.08155v1](http://arxiv.org/abs/2501.08155v1)|[link](https://github.com/nuritci/fairttts)|
-|**2025-01-11 09:42:13**|**A New Flexible Train-Test Split Algorithm, an approach for choosing   among the Hold-out, K-fold cross-validation, and Hold-out iteration**|Zahra Bami et.al.|[2501.06492v1](http://arxiv.org/abs/2501.06492v1)|null|
