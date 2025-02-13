@@ -2,8 +2,11 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-12 15:08:12**|**Exo-MerCat v2.0.0: updates and open-source release of the Exoplanet   Merged Catalog software**|Eleonora Alei et.al.|[2502.08473v1](http://arxiv.org/abs/2502.08473v1)|null|
+|**2025-02-11 22:07:47**|**Universal Adversarial Attack on Aligned Multimodal LLMs**|Temurbek Rahmatullaev et.al.|[2502.07987v1](http://arxiv.org/abs/2502.07987v1)|null|
+|**2025-02-11 21:35:13**|**ReTreever: Tree-based Coarse-to-Fine Representations for Retrieval**|Shubham Gupta et.al.|[2502.07971v1](http://arxiv.org/abs/2502.07971v1)|null|
 |**2025-02-11 15:40:27**|**Robust-Sorting and Applications to Ulam-Median**|Ragesh Jaiswal et.al.|[2502.07653v1](http://arxiv.org/abs/2502.07653v1)|null|
-|**2025-02-11 13:48:10**|**O1 Embedder: Let Retrievers Think Before Action**|Ruin Yan et.al.|[2502.07555v1](http://arxiv.org/abs/2502.07555v1)|null|
+|**2025-02-11 13:48:10**|**O1 Embedder: Let Retrievers Think Before Action**|Ruiran Yan et.al.|[2502.07555v2](http://arxiv.org/abs/2502.07555v2)|null|
 |**2025-02-10 19:29:15**|**A Compiler for Operations on Relations with Bag Semantics**|James Dong et.al.|[2502.06988v1](http://arxiv.org/abs/2502.06988v1)|null|
 |**2025-02-10 18:57:29**|**Exploring the Limit of Outcome Reward for Learning Mathematical   Reasoning**|Chengqi Lyu et.al.|[2502.06781v1](http://arxiv.org/abs/2502.06781v1)|[link](https://github.com/InternLM/OREAL})|
 |**2025-02-10 18:47:16**|**Fat-Tree QRAM: A High-Bandwidth Shared Quantum Random Access Memory for   Parallel Queries**|Shifan Xu et.al.|[2502.06767v1](http://arxiv.org/abs/2502.06767v1)|null|
@@ -11,7 +14,7 @@
 |**2025-02-10 13:45:55**|**A Quadratic Lower Bound for Stable Roommates Solvability**|Will Rosenbaum et.al.|[2502.06464v2](http://arxiv.org/abs/2502.06464v2)|null|
 |**2025-02-10 10:29:28**|**Expect the Unexpected: FailSafe Long Context QA for Finance**|Kiran Kamble et.al.|[2502.06329v1](http://arxiv.org/abs/2502.06329v1)|null|
 |**2025-02-10 07:04:32**|**C-3PO: Compact Plug-and-Play Proxy Optimization to Achieve Human-like   Retrieval-Augmented Generation**|Guoxin Chen et.al.|[2502.06205v1](http://arxiv.org/abs/2502.06205v1)|null|
-|**2025-02-10 06:54:16**|**On the query complexity of sampling from non-log-concave distributions**|Yuchen He et.al.|[2502.06200v1](http://arxiv.org/abs/2502.06200v1)|null|
+|**2025-02-10 06:54:16**|**On the query complexity of sampling from non-log-concave distributions**|Yuchen He et.al.|[2502.06200v2](http://arxiv.org/abs/2502.06200v2)|null|
 |**2025-02-09 20:26:30**|**Temporal Working Memory: Query-Guided Segment Refinement for Enhanced   Multimodal Understanding**|Xingjian Diao et.al.|[2502.06020v1](http://arxiv.org/abs/2502.06020v1)|[link](https://github.com/xid32/NAACL_2025_TWM)|
 |**2025-02-09 17:03:02**|**Ensemble-Tight Second-Order Asymptotics and Exponents for Guessing-Based   Decoding with Abandonment**|Vincent Y. F. Tan et.al.|[2502.05959v1](http://arxiv.org/abs/2502.05959v1)|null|
 |**2025-02-09 14:13:51**|**LpBound: Pessimistic Cardinality Estimation using $\ell_p$-Norms of   Degree Sequences**|Haozhe Zhang et.al.|[2502.05912v1](http://arxiv.org/abs/2502.05912v1)|null|
@@ -29,6 +32,3 @@
 |**2025-02-05 08:39:02**|**Lightweight Protocols for Distributed Private Quantile Estimation**|Anders Aamand et.al.|[2502.02990v1](http://arxiv.org/abs/2502.02990v1)|null|
 |**2025-02-05 06:30:14**|**Robust Reward Alignment via Hypothesis Space Batch Cutting**|Zhixian Xie et.al.|[2502.02921v2](http://arxiv.org/abs/2502.02921v2)|null|
 |**2025-02-05 00:22:06**|**Speculative Prefill: Turbocharging TTFT with Lightweight and   Training-Free Token Importance Estimation**|Jingyu Liu et.al.|[2502.02789v1](http://arxiv.org/abs/2502.02789v1)|null|
-|**2025-02-05 00:17:01**|**MARAGE: Transferable Multi-Model Adversarial Attack for   Retrieval-Augmented Generation Data Extraction**|Xiao Hu et.al.|[2502.04360v1](http://arxiv.org/abs/2502.04360v1)|null|
-|**2025-02-04 22:09:43**|**LLM Bandit: Cost-Efficient LLM Generation via Preference-Conditioned   Dynamic Routing**|Yang Li et.al.|[2502.02743v1](http://arxiv.org/abs/2502.02743v1)|null|
-|**2025-02-04 19:07:29**|**Differentiable Composite Neural Signed Distance Fields for Robot   Navigation in Dynamic Indoor Environments**|S. Talha Bukhari et.al.|[2502.02664v1](http://arxiv.org/abs/2502.02664v1)|null|

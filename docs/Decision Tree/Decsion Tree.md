@@ -2,6 +2,8 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-12 15:59:06**|**Abstract questionnaires and FS-decision digraphs**|Jiaye Chen et.al.|[2502.08522v1](http://arxiv.org/abs/2502.08522v1)|null|
+|**2025-02-11 23:40:53**|**Speculate, then Collaborate: Fusing Knowledge of Language Models during   Decoding**|Ziyao Wang et.al.|[2502.08020v1](http://arxiv.org/abs/2502.08020v1)|null|
 |**2025-02-09 15:46:42**|**Polynomial Regret Concentration of UCB for Non-Deterministic State   Transitions**|Can Cömer et.al.|[2502.06900v1](http://arxiv.org/abs/2502.06900v1)|null|
 |**2025-02-07 20:51:06**|**From Counterfactuals to Trees: Competitive Analysis of Model Extraction   Attacks**|Awa Khouna et.al.|[2502.05325v1](http://arxiv.org/abs/2502.05325v1)|null|
 |**2025-02-06 23:46:04**|**Learning Semantics-aware Search Operators for Genetic Programming**|Piotr Wyrwiński et.al.|[2502.04568v1](http://arxiv.org/abs/2502.04568v1)|null|
@@ -30,5 +32,3 @@
 |**2025-01-18 02:05:37**|**AI/ML Based Detection and Categorization of Covert Communication in IPv6   Network**|Mohammad Wali Ur Rahman et.al.|[2501.10627v1](http://arxiv.org/abs/2501.10627v1)|null|
 |**2025-01-17 18:42:46**|**Credit Risk Identification in Supply Chains Using Generative Adversarial   Networks**|Zizhou Zhang et.al.|[2501.10348v3](http://arxiv.org/abs/2501.10348v3)|null|
 |**2025-01-17 12:35:44**|**Complexity of the Virtual Network Embedding with uniform demands**|Amal Benhamiche et.al.|[2501.10154v1](http://arxiv.org/abs/2501.10154v1)|null|
-|**2025-01-17 11:30:31**|**Small Decision Trees for MDPs with Deductive Synthesis**|Roman Andriushchenko et.al.|[2501.10126v1](http://arxiv.org/abs/2501.10126v1)|null|
-|**2025-01-16 13:25:49**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic   Advancements**|Sahil Tomar et.al.|[2501.09528v1](http://arxiv.org/abs/2501.09528v1)|null|
