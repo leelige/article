@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-12 19:03:09**|**A Comparative Study of Machine Learning Algorithms for Stock Price   Prediction Using Insider Trading Data**|Amitabh Chakravorty et.al.|[2502.08728v1](http://arxiv.org/abs/2502.08728v1)|null|
 |**2025-02-12 15:59:06**|**Abstract questionnaires and FS-decision digraphs**|Jiaye Chen et.al.|[2502.08522v1](http://arxiv.org/abs/2502.08522v1)|null|
 |**2025-02-11 23:40:53**|**Speculate, then Collaborate: Fusing Knowledge of Language Models during   Decoding**|Ziyao Wang et.al.|[2502.08020v1](http://arxiv.org/abs/2502.08020v1)|null|
 |**2025-02-09 15:46:42**|**Polynomial Regret Concentration of UCB for Non-Deterministic State   Transitions**|Can Cömer et.al.|[2502.06900v1](http://arxiv.org/abs/2502.06900v1)|null|
@@ -31,4 +32,3 @@
 |**2025-01-18 10:15:16**|**Identification of Hardware Trojan Locations in Gate-Level Netlist using   Nearest Neighbour Approach integrated with Machine Learning Technique**|Anindita Chattopadhyay et.al.|[2501.16347v1](http://arxiv.org/abs/2501.16347v1)|null|
 |**2025-01-18 02:05:37**|**AI/ML Based Detection and Categorization of Covert Communication in IPv6   Network**|Mohammad Wali Ur Rahman et.al.|[2501.10627v1](http://arxiv.org/abs/2501.10627v1)|null|
 |**2025-01-17 18:42:46**|**Credit Risk Identification in Supply Chains Using Generative Adversarial   Networks**|Zizhou Zhang et.al.|[2501.10348v3](http://arxiv.org/abs/2501.10348v3)|null|
-|**2025-01-17 12:35:44**|**Complexity of the Virtual Network Embedding with uniform demands**|Amal Benhamiche et.al.|[2501.10154v1](http://arxiv.org/abs/2501.10154v1)|null|
