@@ -6,7 +6,7 @@
 |**2025-02-12 15:59:06**|**Abstract questionnaires and FS-decision digraphs**|Jiaye Chen et.al.|[2502.08522v1](http://arxiv.org/abs/2502.08522v1)|null|
 |**2025-02-11 23:40:53**|**Speculate, then Collaborate: Fusing Knowledge of Language Models during   Decoding**|Ziyao Wang et.al.|[2502.08020v1](http://arxiv.org/abs/2502.08020v1)|null|
 |**2025-02-09 15:46:42**|**Polynomial Regret Concentration of UCB for Non-Deterministic State   Transitions**|Can Cömer et.al.|[2502.06900v1](http://arxiv.org/abs/2502.06900v1)|null|
-|**2025-02-07 20:51:06**|**From Counterfactuals to Trees: Competitive Analysis of Model Extraction   Attacks**|Awa Khouna et.al.|[2502.05325v1](http://arxiv.org/abs/2502.05325v1)|null|
+|**2025-02-07 20:51:06**|**From Counterfactuals to Trees: Competitive Analysis of Model Extraction   Attacks**|Awa Khouna et.al.|[2502.05325v1](http://arxiv.org/abs/2502.05325v1)|[link](https://github.com/vidalt/Tree-Extractor)|
 |**2025-02-06 23:46:04**|**Learning Semantics-aware Search Operators for Genetic Programming**|Piotr Wyrwiński et.al.|[2502.04568v1](http://arxiv.org/abs/2502.04568v1)|null|
 |**2025-02-06 13:17:03**|**Smart IoT Security: Lightweight Machine Learning Techniques for   Multi-Class Attack Detection in IoT Networks**|Shahran Rahman Alve et.al.|[2502.04057v1](http://arxiv.org/abs/2502.04057v1)|null|
 |**2025-02-06 03:48:25**|**Learning Reward Machines from Partially Observed Optimal Policies**|Mohamad Louai Shehab et.al.|[2502.03762v1](http://arxiv.org/abs/2502.03762v1)|null|

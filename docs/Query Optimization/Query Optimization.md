@@ -14,7 +14,7 @@
 |**2025-02-11 15:40:27**|**Robust-Sorting and Applications to Ulam-Median**|Ragesh Jaiswal et.al.|[2502.07653v1](http://arxiv.org/abs/2502.07653v1)|null|
 |**2025-02-11 13:48:10**|**O1 Embedder: Let Retrievers Think Before Action**|Ruiran Yan et.al.|[2502.07555v2](http://arxiv.org/abs/2502.07555v2)|null|
 |**2025-02-10 19:29:15**|**A Compiler for Operations on Relations with Bag Semantics**|James Dong et.al.|[2502.06988v1](http://arxiv.org/abs/2502.06988v1)|null|
-|**2025-02-10 18:57:29**|**Exploring the Limit of Outcome Reward for Learning Mathematical   Reasoning**|Chengqi Lyu et.al.|[2502.06781v1](http://arxiv.org/abs/2502.06781v1)|[link](https://github.com/InternLM/OREAL})|
+|**2025-02-10 18:57:29**|**Exploring the Limit of Outcome Reward for Learning Mathematical   Reasoning**|Chengqi Lyu et.al.|[2502.06781v1](http://arxiv.org/abs/2502.06781v1)|[link](https://github.com/internlm/oreal)|
 |**2025-02-10 18:47:16**|**Fat-Tree QRAM: A High-Bandwidth Shared Quantum Random Access Memory for   Parallel Queries**|Shifan Xu et.al.|[2502.06767v1](http://arxiv.org/abs/2502.06767v1)|null|
 |**2025-02-10 17:47:32**|**HoneyComb: A Parallel Worst-Case Optimal Join on Multicores**|Jiacheng Wu et.al.|[2502.06715v1](http://arxiv.org/abs/2502.06715v1)|null|
 |**2025-02-10 13:45:55**|**A Quadratic Lower Bound for Stable Roommates Solvability**|Will Rosenbaum et.al.|[2502.06464v2](http://arxiv.org/abs/2502.06464v2)|null|
