@@ -2,6 +2,10 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-14 18:30:08**|**OptimOTU: Taxonomically aware OTU clustering with optimized thresholds   and a bioinformatics workflow for metabarcoding data**|Brendan Furneaux et.al.|[2502.10350v1](http://arxiv.org/abs/2502.10350v1)|null|
+|**2025-02-14 15:01:12**|**RIPOST: Two-Phase Private Decomposition for Multidimensional Data**|Ala Eddine Laouir et.al.|[2502.10207v1](http://arxiv.org/abs/2502.10207v1)|null|
+|**2025-02-14 09:56:40**|**The Probability of Tiered Benefit: Partial Identification with Robust   and Stable Inference**|Johan de Aguas et.al.|[2502.10049v1](http://arxiv.org/abs/2502.10049v1)|null|
+|**2025-02-13 20:08:06**|**Vote-Tree-Planner: Optimizing Execution Order in LLM-based Task Planning   Pipeline via Voting**|Chaoyuan Zhang et.al.|[2502.09749v1](http://arxiv.org/abs/2502.09749v1)|null|
 |**2025-02-13 18:51:12**|**KIMAs: A Configurable Knowledge Integrated Multi-Agent System**|Zitao Li et.al.|[2502.09596v1](http://arxiv.org/abs/2502.09596v1)|null|
 |**2025-02-13 17:57:05**|**Vortex: Overcoming Memory Capacity Limitations in GPU-Accelerated   Large-Scale Data Analytics**|Yichao Yuan et.al.|[2502.09541v1](http://arxiv.org/abs/2502.09541v1)|null|
 |**2025-02-13 17:37:42**|**Robust Learning of Multi-index Models via Iterative Subspace   Approximation**|Ilias Diakonikolas et.al.|[2502.09525v1](http://arxiv.org/abs/2502.09525v1)|null|
@@ -28,7 +32,3 @@
 |**2025-02-07 18:48:25**|**In-context denoising with one-layer transformers: connections between   attention and associative memory retrieval**|Matthew Smart et.al.|[2502.05164v1](http://arxiv.org/abs/2502.05164v1)|null|
 |**2025-02-07 18:32:51**|**Hummingbird: High Fidelity Image Generation via Multimodal Context   Alignment**|Minh-Quan Le et.al.|[2502.05153v1](http://arxiv.org/abs/2502.05153v1)|null|
 |**2025-02-07 18:20:19**|**Learned Offline Query Planning via Bayesian Optimization**|Jeffrey Tao et.al.|[2502.05256v1](http://arxiv.org/abs/2502.05256v1)|null|
-|**2025-02-07 05:49:50**|**LLM Query Scheduling with Prefix Reuse and Latency Constraints**|Gregory Dexter et.al.|[2502.04677v1](http://arxiv.org/abs/2502.04677v1)|null|
-|**2025-02-06 20:44:26**|**Multi-Agent Reinforcement Learning with Focal Diversity Optimization**|Selim Furkan Tekin et.al.|[2502.04492v1](http://arxiv.org/abs/2502.04492v1)|[link](https://github.com/sftekin/rl-focal)|
-|**2025-02-06 18:32:26**|**Exponentially Better Bounds for Quantum Optimization via Dynamical   Simulation**|Ahmet Burak Catli et.al.|[2502.04285v1](http://arxiv.org/abs/2502.04285v1)|null|
-|**2025-02-06 16:12:06**|**Multi-agent Architecture Search via Agentic Supernet**|Guibin Zhang et.al.|[2502.04180v1](http://arxiv.org/abs/2502.04180v1)|null|
