@@ -2,6 +2,8 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-17 03:51:40**|**Quantum decision trees with information entropy**|Zhelun Li et.al.|[2502.11412v1](http://arxiv.org/abs/2502.11412v1)|null|
+|**2025-02-16 06:39:36**|**Leveraging Large Language Models for Cybersecurity: Enhancing SMS Spam   Detection with Robust and Context-Aware Text Classification**|Mohsen Ahmadi et.al.|[2502.11014v1](http://arxiv.org/abs/2502.11014v1)|null|
 |**2025-02-14 14:22:51**|**A Powerful Random Forest Featuring Linear Extensions (RaFFLE)**|Jakob Raymaekers et.al.|[2502.10185v1](http://arxiv.org/abs/2502.10185v1)|null|
 |**2025-02-14 03:14:50**|**Interpretable Early Warnings using Machine Learning in an Online   Game-experiment**|Guillaume Falmagne et.al.|[2502.09880v1](http://arxiv.org/abs/2502.09880v1)|null|
 |**2025-02-12 19:03:09**|**A Comparative Study of Machine Learning Algorithms for Stock Price   Prediction Using Insider Trading Data**|Amitabh Chakravorty et.al.|[2502.08728v1](http://arxiv.org/abs/2502.08728v1)|null|
@@ -30,5 +32,3 @@
 |**2025-01-23 15:38:06**|**On total transitivity of graphs**|Kamal Santra et.al.|[2501.13760v1](http://arxiv.org/abs/2501.13760v1)|null|
 |**2025-01-22 21:48:40**|**State Combinatorial Generalization In Decision Making With Conditional   Diffusion Models**|Xintong Duan et.al.|[2501.13241v1](http://arxiv.org/abs/2501.13241v1)|null|
 |**2025-01-22 16:30:58**|**Ehrenfeucht-Haussler Rank and Chain of Thought**|Pablo Barceló et.al.|[2501.12997v1](http://arxiv.org/abs/2501.12997v1)|null|
-|**2025-01-20 01:25:07**|**Risk Analysis of Flowlines in the Oil and Gas Sector: A GIS and Machine   Learning Approach**|I. Chittumuri et.al.|[2501.11213v1](http://arxiv.org/abs/2501.11213v1)|[link](https://github.com/ichittumuri/spe_journal_risk_analysis_of_flowlines)|
-|**2025-01-18 10:15:16**|**Identification of Hardware Trojan Locations in Gate-Level Netlist using   Nearest Neighbour Approach integrated with Machine Learning Technique**|Anindita Chattopadhyay et.al.|[2501.16347v1](http://arxiv.org/abs/2501.16347v1)|null|
