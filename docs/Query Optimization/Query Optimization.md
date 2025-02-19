@@ -2,8 +2,18 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-18 18:55:53**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132v1](http://arxiv.org/abs/2502.13132v1)|null|
+|**2025-02-18 16:34:45**|**LLM-Powered Proactive Data Systems**|Sepanta Zeighami et.al.|[2502.13016v1](http://arxiv.org/abs/2502.13016v1)|null|
+|**2025-02-18 15:56:34**|**Learning More Effective Representations for Dense Retrieval through   Deliberate Thinking Before Search**|Yifan Ji et.al.|[2502.12974v1](http://arxiv.org/abs/2502.12974v1)|[link](https://github.com/OpenBMB/DEBATER)|
+|**2025-02-18 15:48:46**|**Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language   Models from Jailbreaking**|Junda Zhu et.al.|[2502.12970v1](http://arxiv.org/abs/2502.12970v1)|null|
+|**2025-02-18 14:59:37**|**Query Rewriting via LLMs**|Sriram Dharwada et.al.|[2502.12918v1](http://arxiv.org/abs/2502.12918v1)|null|
+|**2025-02-18 14:59:18**|**Contrast-Unity for Partially-Supervised Temporal Sentence Grounding**|Haicheng Wang et.al.|[2502.12917v1](http://arxiv.org/abs/2502.12917v1)|null|
+|**2025-02-18 14:53:45**|**Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL   Generation**|Zheng Yuan et.al.|[2502.12911v1](http://arxiv.org/abs/2502.12911v1)|null|
+|**2025-02-18 14:51:50**|**Graph Neural Networks for Databases: A Survey**|Ziming Li et.al.|[2502.12908v1](http://arxiv.org/abs/2502.12908v1)|null|
+|**2025-02-18 09:11:51**|**A$^2$ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary   Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al.|[2502.12665v1](http://arxiv.org/abs/2502.12665v1)|null|
+|**2025-02-18 04:08:10**|**Min-Max Correlation Clustering via Neighborhood Similarity**|Nairen Cao et.al.|[2502.12519v1](http://arxiv.org/abs/2502.12519v1)|null|
 |**2025-02-17 17:59:56**|**APB: Accelerating Distributed Long-Context Inference by Passing   Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085v1](http://arxiv.org/abs/2502.12085v1)|[link](https://github.com/thunlp/APB)|
-|**2025-02-17 12:40:35**|**Multi-Modal Retrieval Augmentation for Open-Ended and   Knowledge-Intensive Video Question Answering**|Md Zarif Ul Alam et.al.|[2502.11747v1](http://arxiv.org/abs/2502.11747v1)|null|
+|**2025-02-17 12:40:35**|**Open-Ended and Knowledge-Intensive Video Question Answering**|Md Zarif Ul Alam et.al.|[2502.11747v2](http://arxiv.org/abs/2502.11747v2)|null|
 |**2025-02-17 10:47:17**|**Uncovering the Impact of Chain-of-Thought Reasoning for Direct   Preference Optimization: Lessons from Text-to-SQL**|Hanbing Liu et.al.|[2502.11656v1](http://arxiv.org/abs/2502.11656v1)|null|
 |**2025-02-17 08:52:39**|**Reinforced Information Retrieval**|Chaofan Li et.al.|[2502.11562v1](http://arxiv.org/abs/2502.11562v1)|null|
 |**2025-02-17 04:38:36**|**What's in a Query: Polarity-Aware Distribution-Based Fair Ranking**|Aparna Balagopalan et.al.|[2502.11429v1](http://arxiv.org/abs/2502.11429v1)|null|
@@ -22,13 +32,3 @@
 |**2025-02-14 17:38:25**|**Hallucinations and Truth: A Comprehensive Accuracy Evaluation of RAG,   LoRA and DoRA**|Mohammad Baqar et.al.|[2502.10497v1](http://arxiv.org/abs/2502.10497v1)|null|
 |**2025-02-14 15:01:12**|**RIPOST: Two-Phase Private Decomposition for Multidimensional Data**|Ala Eddine Laouir et.al.|[2502.10207v1](http://arxiv.org/abs/2502.10207v1)|null|
 |**2025-02-14 09:56:40**|**The Probability of Tiered Benefit: Partial Identification with Robust   and Stable Inference**|Johan de Aguas et.al.|[2502.10049v1](http://arxiv.org/abs/2502.10049v1)|null|
-|**2025-02-13 20:08:06**|**Vote-Tree-Planner: Optimizing Execution Order in LLM-based Task Planning   Pipeline via Voting**|Chaoyuan Zhang et.al.|[2502.09749v1](http://arxiv.org/abs/2502.09749v1)|null|
-|**2025-02-13 18:51:12**|**KIMAs: A Configurable Knowledge Integrated Multi-Agent System**|Zitao Li et.al.|[2502.09596v1](http://arxiv.org/abs/2502.09596v1)|null|
-|**2025-02-13 17:57:05**|**Vortex: Overcoming Memory Capacity Limitations in GPU-Accelerated   Large-Scale Data Analytics**|Yichao Yuan et.al.|[2502.09541v1](http://arxiv.org/abs/2502.09541v1)|null|
-|**2025-02-13 17:37:42**|**Robust Learning of Multi-index Models via Iterative Subspace   Approximation**|Ilias Diakonikolas et.al.|[2502.09525v1](http://arxiv.org/abs/2502.09525v1)|null|
-|**2025-02-13 12:04:39**|**Space-Efficient Quantum Error Reduction without log Factors**|Aleksandrs Belovs et.al.|[2502.09249v1](http://arxiv.org/abs/2502.09249v1)|null|
-|**2025-02-13 09:01:34**|**Semantic Ads Retrieval at Walmart eCommerce with Language Models   Progressively Trained on Multiple Knowledge Domains**|Zhaodong Wang et.al.|[2502.09089v1](http://arxiv.org/abs/2502.09089v1)|null|
-|**2025-02-12 23:58:25**|**A quantum speedup algorithm for TSP based on quantum dynamic programming   with very few qubits**|Bai Xujun et.al.|[2502.08853v1](http://arxiv.org/abs/2502.08853v1)|null|
-|**2025-02-12 15:08:12**|**Exo-MerCat v2.0.0: updates and open-source release of the Exoplanet   Merged Catalog software**|Eleonora Alei et.al.|[2502.08473v1](http://arxiv.org/abs/2502.08473v1)|null|
-|**2025-02-11 22:07:47**|**Universal Adversarial Attack on Aligned Multimodal LLMs**|Temurbek Rahmatullaev et.al.|[2502.07987v2](http://arxiv.org/abs/2502.07987v2)|null|
-|**2025-02-11 21:35:13**|**ReTreever: Tree-based Coarse-to-Fine Representations for Retrieval**|Shubham Gupta et.al.|[2502.07971v1](http://arxiv.org/abs/2502.07971v1)|null|
