@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-18 18:26:42**|**HARP: A Taxonomy for Heterogeneous and Hierarchical Processors for   Mixed-reuse Workloads**|Raveesh Garg et.al.|[2502.13113v1](http://arxiv.org/abs/2502.13113v1)|null|
-|**2025-02-18 18:19:36**|**MatterChat: A Multi-Modal LLM for Material Science**|Yingheng Tang et.al.|[2502.13107v1](http://arxiv.org/abs/2502.13107v1)|null|
-|**2025-02-18 17:17:38**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye   View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071v1](http://arxiv.org/abs/2502.13071v1)|null|
-|**2025-02-18 17:08:21**|**AI-Assisted Decision Making with Human Learning**|Gali Noti et.al.|[2502.13062v1](http://arxiv.org/abs/2502.13062v1)|null|
-|**2025-02-18 16:44:03**|**Fragility-aware Classification for Understanding Risk and Improving   Generalization**|Chen Yang et.al.|[2502.13024v1](http://arxiv.org/abs/2502.13024v1)|null|
-|**2025-02-18 16:36:52**|**Mean of Means: Human Localization with Calibration-free and   Unconstrained Camera Settings (extended version)**|Tianyi Zhang et.al.|[2502.13017v1](http://arxiv.org/abs/2502.13017v1)|null|
-|**2025-02-18 16:30:38**|**Investigating Issues that Lead to Code Technical Debt in Machine   Learning Systems**|Rodrigo Ximenes et.al.|[2502.13011v1](http://arxiv.org/abs/2502.13011v1)|null|
-|**2025-02-18 15:45:36**|**Infinite Retrieval: Attention Enhanced LLMs in Long-Context Processing**|Xiaoju Ye et.al.|[2502.12962v1](http://arxiv.org/abs/2502.12962v1)|null|
-|**2025-02-18 15:45:01**|**Adaptive Tool Use in Large Language Models with Meta-Cognition Trigger**|Wenjun Li et.al.|[2502.12961v1](http://arxiv.org/abs/2502.12961v1)|null|
-|**2025-02-18 15:11:46**|**Flow-of-Options: Diversified and Improved LLM Reasoning by Thinking   Through Options**|Lakshmi Nair et.al.|[2502.12929v1](http://arxiv.org/abs/2502.12929v1)|null|
-|**2025-02-18 15:09:29**|**SEFL: Harnessing Large Language Model Agents to Improve Educational   Feedback Systems**|Mike Zhang et.al.|[2502.12927v1](http://arxiv.org/abs/2502.12927v1)|null|
-|**2025-02-18 15:04:33**|**Keep what you need : extracting efficient subnetworks from large audio   representation models**|David Genova et.al.|[2502.12925v1](http://arxiv.org/abs/2502.12925v1)|[link](https://github.com/gnvIRCAM/Audio-representation-trimming)|
-|**2025-02-18 15:01:02**|**Lightweight Online Adaption for Time Series Foundation Model Forecasts**|Thomas L. Lee et.al.|[2502.12920v1](http://arxiv.org/abs/2502.12920v1)|null|
-|**2025-02-18 14:59:18**|**Contrast-Unity for Partially-Supervised Temporal Sentence Grounding**|Haicheng Wang et.al.|[2502.12917v1](http://arxiv.org/abs/2502.12917v1)|null|
-|**2025-02-18 13:09:59**|**An LLM-Powered Agent for Physiological Data Analysis: A Case Study on   PPG-based Heart Rate Estimation**|Mohammad Feli et.al.|[2502.12836v1](http://arxiv.org/abs/2502.12836v1)|null|
-|**2025-02-18 12:56:01**|**Analysis of a household-scale model for the invasion of Wolbachia into a   resident mosquito population**|Abby Barlow et.al.|[2502.12833v1](http://arxiv.org/abs/2502.12833v1)|null|
-|**2025-02-18 12:46:18**|**Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment   Revealing Hidden Fault Lines in Large Language Models**|Rubing Lu et.al.|[2502.12825v1](http://arxiv.org/abs/2502.12825v1)|null|
-|**2025-02-18 12:11:46**|**An improved wind power prediction via a novel wind ramp identification   algorithm**|Yifan Xu et.al.|[2502.12807v1](http://arxiv.org/abs/2502.12807v1)|null|
-|**2025-02-18 11:56:51**|**RAPID: Retrieval Augmented Training of Differentially Private Diffusion   Models**|Tanqiu Jiang et.al.|[2502.12794v1](http://arxiv.org/abs/2502.12794v1)|[link](https://github.com/TanqiuJiang/RAPID)|
-|**2025-02-18 11:47:26**|**An Adaptive Model Order Reduction Approach for the Finite Element Method   in Time Domain in Electromagnetics**|Ruth Medeiros et.al.|[2502.12785v1](http://arxiv.org/abs/2502.12785v1)|null|
-|**2025-02-18 11:36:33**|**Portable Reward Tuning: Towards Reusable Fine-Tuning across Different   Pretrained Models**|Daiki Chijiwa et.al.|[2502.12776v1](http://arxiv.org/abs/2502.12776v1)|null|
-|**2025-02-18 11:31:52**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on   Knowledge Graphs**|Sumin Jo et.al.|[2502.12767v1](http://arxiv.org/abs/2502.12767v1)|null|
-|**2025-02-18 11:16:38**|**Efficient Machine Translation Corpus Generation: Integrating   Human-in-the-Loop Post-Editing with Large Language Models**|Kamer Ali Yuksel et.al.|[2502.12755v1](http://arxiv.org/abs/2502.12755v1)|null|
-|**2025-02-18 10:39:00**|**myEye2Wheeler: A Two-Wheeler Indian Driver Real-World Eye-Tracking   Dataset**|Bhaiya Vaibhaw Kumar et.al.|[2502.12723v1](http://arxiv.org/abs/2502.12723v1)|null|
-|**2025-02-18 10:20:57**|**The Q-AMOEBA (CF) Polarizable Potential**|Nastasia Mauger et.al.|[2502.12708v1](http://arxiv.org/abs/2502.12708v1)|null|
-|**2025-02-18 10:05:40**|**Translate Smart, not Hard: Cascaded Translation Systems with   Quality-Aware Deferral**|António Farinhas et.al.|[2502.12701v1](http://arxiv.org/abs/2502.12701v1)|null|
-|**2025-02-18 08:22:20**|**Score-Based Diffusion Policy Compatible with Reinforcement Learning via   Optimal Transport**|Mingyang Sun et.al.|[2502.12631v1](http://arxiv.org/abs/2502.12631v1)|[link](https://github.com/Sunmmyy/OTPR.git)|
-|**2025-02-18 08:08:19**|**Generative AI Enabled Robust Data Augmentation for Wireless Sensing in   ISAC Networks**|Jiacheng Wang et.al.|[2502.12622v1](http://arxiv.org/abs/2502.12622v1)|null|
-|**2025-02-18 08:03:28**|**Uncertainty-Aware Graph Structure Learning**|Shen Han et.al.|[2502.12618v1](http://arxiv.org/abs/2502.12618v1)|[link](https://github.com/UnHans/UnGSL)|
-|**2025-02-18 07:11:08**|**PASER: Post-Training Data Selection for Efficient Pruned Large Language   Model Recovery**|Bowei He et.al.|[2502.12594v1](http://arxiv.org/abs/2502.12594v1)|null|
+|**2025-02-19 18:59:32**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966v1](http://arxiv.org/abs/2502.13966v1)|null|
+|**2025-02-19 18:56:12**|**LIDDIA: Language-based Intelligent Drug Discovery Agent**|Reza Averly et.al.|[2502.13959v1](http://arxiv.org/abs/2502.13959v1)|null|
+|**2025-02-19 18:37:15**|**Emergence of Scale-Free Traffic Jams in Highway Networks: A   Probabilistic Approach**|Agnieszka Janicka et.al.|[2502.13944v1](http://arxiv.org/abs/2502.13944v1)|null|
+|**2025-02-19 18:35:55**|**AdaptiveStep: Automatically Dividing Reasoning Step through Model   Confidence**|Yuliang Liu et.al.|[2502.13943v1](http://arxiv.org/abs/2502.13943v1)|null|
+|**2025-02-19 17:53:59**|**Exploring Code Language Models for Automated HLS-based Hardware   Generation: Benchmark, Infrastructure and Analysis**|Jiahao Gai et.al.|[2502.13921v1](http://arxiv.org/abs/2502.13921v1)|null|
+|**2025-02-19 17:21:10**|**Highly Dynamic and Flexible Spatio-Temporal Spectrum Management with   AI-Driven O-RAN: A Multi-Granularity Marketplace Framework**|Mehdi Rasti et.al.|[2502.13891v1](http://arxiv.org/abs/2502.13891v1)|null|
+|**2025-02-19 17:17:13**|**Refining embeddings with fill-tuning: data-efficient generalised   performance improvements for materials foundation models**|Matthew P. Wilson et.al.|[2502.13886v1](http://arxiv.org/abs/2502.13886v1)|null|
+|**2025-02-19 16:27:23**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object   Detection**|Shuyong Gao et.al.|[2502.13859v1](http://arxiv.org/abs/2502.13859v1)|null|
+|**2025-02-19 16:03:25**|**Methods of multi-indication meta-analysis for health technology   assessment: a simulation study**|David Glynn et.al.|[2502.13844v1](http://arxiv.org/abs/2502.13844v1)|null|
+|**2025-02-19 15:58:09**|**Quantifying Memorization and Retriever Performance in   Retrieval-Augmented Vision-Language Models**|Peter Carragher et.al.|[2502.13836v1](http://arxiv.org/abs/2502.13836v1)|null|
+|**2025-02-19 15:05:47**|**Extending the RANGE of Graph Neural Networks: Relaying Attention Nodes   for Global Encoding**|Alessandro Caruso et.al.|[2502.13797v1](http://arxiv.org/abs/2502.13797v1)|null|
+|**2025-02-19 14:58:48**|**LESA: Learnable LLM Layer Scaling-Up**|Yifei Yang et.al.|[2502.13794v1](http://arxiv.org/abs/2502.13794v1)|null|
+|**2025-02-19 13:37:29**|**Hierarchical RL-MPC for Demand Response Scheduling**|Maximilian Bloor et.al.|[2502.13714v1](http://arxiv.org/abs/2502.13714v1)|null|
+|**2025-02-19 12:51:46**|**Cross-Comparison of Sampling Algorithms for Pulse Profile Modeling of   PSR J0740+6620**|Mariska Hoogkamer et.al.|[2502.13682v1](http://arxiv.org/abs/2502.13682v1)|null|
+|**2025-02-19 12:45:48**|**Logistics Analysis for Lunar Post-Mission Disposal**|Evangelia Gkaravela et.al.|[2502.13679v1](http://arxiv.org/abs/2502.13679v1)|null|
+|**2025-02-19 12:07:53**|**Refining Sentence Embedding Model through Ranking Sentences Generation   with Large Language Models**|Liyang He et.al.|[2502.13656v1](http://arxiv.org/abs/2502.13656v1)|null|
+|**2025-02-19 11:57:02**|**C2T: A Classifier-Based Tree Construction Method in Speculative Decoding**|Feiye Huo et.al.|[2502.13652v1](http://arxiv.org/abs/2502.13652v1)|null|
+|**2025-02-19 11:36:30**|**Scalable Multi-Level optimization for Sequentially Cleared Energy   Markets with a Case Study on Gas and Carbon Aware Unit Commitment**|Yuxin Xia et.al.|[2502.13643v1](http://arxiv.org/abs/2502.13643v1)|null|
+|**2025-02-19 10:33:18**|**Efficient Safety Retrofitting Against Jailbreaking for LLMs**|Dario Garcia-Gasulla et.al.|[2502.13603v1](http://arxiv.org/abs/2502.13603v1)|null|
+|**2025-02-19 10:13:43**|**MMTEB: Massive Multilingual Text Embedding Benchmark**|Kenneth Enevoldsen et.al.|[2502.13595v1](http://arxiv.org/abs/2502.13595v1)|null|
+|**2025-02-19 09:30:38**|**ETS: Efficient Tree Search for Inference-Time Scaling**|Coleman Hooper et.al.|[2502.13575v1](http://arxiv.org/abs/2502.13575v1)|[link](https://github.com/SqueezeAILab/ETS)|
+|**2025-02-19 08:58:47**|**Unusual Red Light Emission from Nonmetallic Cu$_2$Te Microdisk for Laser   and SERS Applications**|Qiuguo Li et.al.|[2502.13551v1](http://arxiv.org/abs/2502.13551v1)|null|
+|**2025-02-19 08:39:15**|**Train Small, Infer Large: Memory-Efficient LoRA Training for Large   Language Models**|Jun Zhang et.al.|[2502.13533v1](http://arxiv.org/abs/2502.13533v1)|null|
+|**2025-02-19 08:11:26**|**SPPD: Self-training with Process Preference Learning Using Dynamic Value   Margin**|Hao Yi et.al.|[2502.13516v1](http://arxiv.org/abs/2502.13516v1)|null|
+|**2025-02-19 07:19:41**|**Kernel Mean Embedding Topology: Weak and Strong Forms for Stochastic   Kernels and Implications for Model Learning**|Naci Saldi et.al.|[2502.13486v1](http://arxiv.org/abs/2502.13486v1)|null|
+|**2025-02-19 07:08:37**|**Astra: Efficient and Money-saving Automatic Parallel Strategies Search   on Heterogeneous GPUs**|Peiran Wang et.al.|[2502.13480v1](http://arxiv.org/abs/2502.13480v1)|null|
+|**2025-02-19 05:07:56**|**MATS: An Audio Language Model under Text-only Supervision**|Wen Wang et.al.|[2502.13433v1](http://arxiv.org/abs/2502.13433v1)|null|
+|**2025-02-19 04:25:11**|**RLTHF: Targeted Human Feedback for LLM Alignment**|Yifei Xu et.al.|[2502.13417v1](http://arxiv.org/abs/2502.13417v1)|null|
+|**2025-02-19 03:18:29**|**MaizeEar-SAM: Zero-Shot Maize Ear Phenotyping**|Hossein Zaremehrjerdi et.al.|[2502.13399v1](http://arxiv.org/abs/2502.13399v1)|[link](https://bitbucket.org/baskargroup/maizeear-sam)|
+|**2025-02-19 03:09:49**|**Unsupervised CP-UNet Framework for Denoising DAS Data with Decay Noise**|Tianye Huang et.al.|[2502.13395v1](http://arxiv.org/abs/2502.13395v1)|null|

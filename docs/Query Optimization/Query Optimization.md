@@ -2,6 +2,10 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-19 18:56:03**|**RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision**|Guangzhi Xiong et.al.|[2502.13957v1](http://arxiv.org/abs/2502.13957v1)|null|
+|**2025-02-19 15:15:59**|**AnDB: Breaking Boundaries with an AI-Native Database for Universal   Semantic Analysis**|Tianqing Wang et.al.|[2502.13805v1](http://arxiv.org/abs/2502.13805v1)|null|
+|**2025-02-19 13:28:20**|**TALKPLAY: Multimodal Music Recommendation with Large Language Models**|Seungheon Doh et.al.|[2502.13713v1](http://arxiv.org/abs/2502.13713v1)|null|
+|**2025-02-19 12:01:00**|**A Query-Driven Approach to Space-Efficient Range Searching**|Dimitris Fotakis et.al.|[2502.13653v1](http://arxiv.org/abs/2502.13653v1)|null|
 |**2025-02-18 18:55:53**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132v1](http://arxiv.org/abs/2502.13132v1)|null|
 |**2025-02-18 16:34:45**|**LLM-Powered Proactive Data Systems**|Sepanta Zeighami et.al.|[2502.13016v1](http://arxiv.org/abs/2502.13016v1)|null|
 |**2025-02-18 15:56:34**|**Learning More Effective Representations for Dense Retrieval through   Deliberate Thinking Before Search**|Yifan Ji et.al.|[2502.12974v1](http://arxiv.org/abs/2502.12974v1)|[link](https://github.com/OpenBMB/DEBATER)|
@@ -9,7 +13,7 @@
 |**2025-02-18 14:59:37**|**Query Rewriting via LLMs**|Sriram Dharwada et.al.|[2502.12918v1](http://arxiv.org/abs/2502.12918v1)|null|
 |**2025-02-18 14:59:18**|**Contrast-Unity for Partially-Supervised Temporal Sentence Grounding**|Haicheng Wang et.al.|[2502.12917v1](http://arxiv.org/abs/2502.12917v1)|null|
 |**2025-02-18 14:53:45**|**Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL   Generation**|Zheng Yuan et.al.|[2502.12911v1](http://arxiv.org/abs/2502.12911v1)|null|
-|**2025-02-18 14:51:50**|**Graph Neural Networks for Databases: A Survey**|Ziming Li et.al.|[2502.12908v1](http://arxiv.org/abs/2502.12908v1)|null|
+|**2025-02-18 14:51:50**|**Graph Neural Networks for Databases: A Survey**|Ziming Li et.al.|[2502.12908v2](http://arxiv.org/abs/2502.12908v2)|null|
 |**2025-02-18 09:11:51**|**A$^2$ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary   Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al.|[2502.12665v1](http://arxiv.org/abs/2502.12665v1)|null|
 |**2025-02-18 04:08:10**|**Min-Max Correlation Clustering via Neighborhood Similarity**|Nairen Cao et.al.|[2502.12519v1](http://arxiv.org/abs/2502.12519v1)|null|
 |**2025-02-17 17:59:56**|**APB: Accelerating Distributed Long-Context Inference by Passing   Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085v1](http://arxiv.org/abs/2502.12085v1)|[link](https://github.com/thunlp/APB)|
@@ -28,7 +32,3 @@
 |**2025-02-15 22:08:53**|**Enhancing Conversational Agents from Open-Source Large Language Models   with Illocutionary Force and Document-Based Knowledge Retrieval**|Godfrey Inyama et.al.|[2502.10916v1](http://arxiv.org/abs/2502.10916v1)|null|
 |**2025-02-14 22:15:26**|**Analysis of Stable Vertex Values: Fast Query Evaluation Over An Evolving   Graph**|Mahbod Afarin et.al.|[2502.10579v1](http://arxiv.org/abs/2502.10579v1)|null|
 |**2025-02-14 20:10:14**|**Amortized Locally Decodable Codes**|Jeremiah Blocki et.al.|[2502.10538v1](http://arxiv.org/abs/2502.10538v1)|null|
-|**2025-02-14 18:30:08**|**OptimOTU: Taxonomically aware OTU clustering with optimized thresholds   and a bioinformatics workflow for metabarcoding data**|Brendan Furneaux et.al.|[2502.10350v1](http://arxiv.org/abs/2502.10350v1)|null|
-|**2025-02-14 17:38:25**|**Hallucinations and Truth: A Comprehensive Accuracy Evaluation of RAG,   LoRA and DoRA**|Mohammad Baqar et.al.|[2502.10497v1](http://arxiv.org/abs/2502.10497v1)|null|
-|**2025-02-14 15:01:12**|**RIPOST: Two-Phase Private Decomposition for Multidimensional Data**|Ala Eddine Laouir et.al.|[2502.10207v1](http://arxiv.org/abs/2502.10207v1)|null|
-|**2025-02-14 09:56:40**|**The Probability of Tiered Benefit: Partial Identification with Robust   and Stable Inference**|Johan de Aguas et.al.|[2502.10049v1](http://arxiv.org/abs/2502.10049v1)|null|
