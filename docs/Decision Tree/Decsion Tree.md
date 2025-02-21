@@ -2,10 +2,11 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-19 12:45:42**|**DFDT: Dynamic Fast Decision Tree for IoT Data Stream Mining on Edge   Devices**|Afonso Lourenço et.al.|[2502.14011v1](http://arxiv.org/abs/2502.14011v1)|null|
 |**2025-02-17 03:51:40**|**Quantum decision trees with information entropy**|Zhelun Li et.al.|[2502.11412v2](http://arxiv.org/abs/2502.11412v2)|null|
 |**2025-02-16 06:39:36**|**Leveraging Large Language Models for Cybersecurity: Enhancing SMS Spam   Detection with Robust and Context-Aware Text Classification**|Mohsen Ahmadi et.al.|[2502.11014v1](http://arxiv.org/abs/2502.11014v1)|null|
 |**2025-02-14 14:22:51**|**A Powerful Random Forest Featuring Linear Extensions (RaFFLE)**|Jakob Raymaekers et.al.|[2502.10185v1](http://arxiv.org/abs/2502.10185v1)|null|
-|**2025-02-14 03:14:50**|**Interpretable Early Warnings using Machine Learning in an Online   Game-experiment**|Guillaume Falmagne et.al.|[2502.09880v1](http://arxiv.org/abs/2502.09880v1)|null|
+|**2025-02-14 03:14:50**|**Interpretable Early Warnings using Machine Learning in an Online   Game-experiment**|Guillaume Falmagne et.al.|[2502.09880v1](http://arxiv.org/abs/2502.09880v1)|[link](https://github.com/AnnieStephenson/r-place-emergence)|
 |**2025-02-12 19:03:09**|**A Comparative Study of Machine Learning Algorithms for Stock Price   Prediction Using Insider Trading Data**|Amitabh Chakravorty et.al.|[2502.08728v1](http://arxiv.org/abs/2502.08728v1)|null|
 |**2025-02-12 15:59:06**|**Abstract questionnaires and FS-decision digraphs**|Jiaye Chen et.al.|[2502.08522v1](http://arxiv.org/abs/2502.08522v1)|null|
 |**2025-02-11 23:40:53**|**Speculate, then Collaborate: Fusing Knowledge of Language Models during   Decoding**|Ziyao Wang et.al.|[2502.08020v1](http://arxiv.org/abs/2502.08020v1)|null|
@@ -28,7 +29,6 @@
 |**2025-01-27 17:48:48**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247v1](http://arxiv.org/abs/2501.16247v1)|null|
 |**2025-01-25 03:42:22**|**Feedback-Aware Monte Carlo Tree Search for Efficient Information Seeking   in Goal-Oriented Conversations**|Harshita Chopra et.al.|[2501.15056v1](http://arxiv.org/abs/2501.15056v1)|null|
 |**2025-01-24 17:15:33**|**Automation of finding strong gravitational lenses in the Kilo Degree   Survey with U-DenseLens (DenseLens + Segmentation)**|Bharath Chowdhary Nagam et.al.|[2501.14650v1](http://arxiv.org/abs/2501.14650v1)|null|
-|**2025-01-23 19:18:19**|**Predicting the Influence of Nanoformulations on Biomolecule   Functionalities Using Machine Learning and $^{13}$C NMR Spectroscopy Data   Derived from SMILES: A Case Study on Human Dopamine D1 Receptor Antagonists**|Mariya L Ivanova et.al.|[2501.14044v1](http://arxiv.org/abs/2501.14044v1)|null|
+|**2025-01-23 19:18:19**|**Leveraging 13C NMR spectroscopic data derived from SMILES to predict the   functionality of small biomolecules by machine learning: a case study on   human Dopamine D1 receptor antagonists**|Mariya L Ivanova et.al.|[2501.14044v2](http://arxiv.org/abs/2501.14044v2)|null|
 |**2025-01-23 15:38:06**|**On total transitivity of graphs**|Kamal Santra et.al.|[2501.13760v1](http://arxiv.org/abs/2501.13760v1)|null|
 |**2025-01-22 21:48:40**|**State Combinatorial Generalization In Decision Making With Conditional   Diffusion Models**|Xintong Duan et.al.|[2501.13241v1](http://arxiv.org/abs/2501.13241v1)|null|
-|**2025-01-22 16:30:58**|**Ehrenfeucht-Haussler Rank and Chain of Thought**|Pablo Barceló et.al.|[2501.12997v1](http://arxiv.org/abs/2501.12997v1)|null|
