@@ -1,5 +1,41 @@
 # arxiv-daily
- 自动更新 @ 2025-02-22 16:09:41 Asia/Shanghai
+ 自动更新 @ 2025-02-23 16:10:09 Asia/Shanghai
+
+## Query Optimization
+
+### Query Optimization
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-20 18:59:52**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse   Attention**|Shang Yang et.al.|[2502.14866v1](http://arxiv.org/abs/2502.14866v1)|[link](https://github.com/mit-han-lab/omniserve)|
+|**2025-02-20 18:58:07**|**Prompt-to-Leaderboard**|Evan Frick et.al.|[2502.14855v1](http://arxiv.org/abs/2502.14855v1)|[link](https://github.com/lmarena/p2l)|
+|**2025-02-20 18:41:48**|**eC-Tab2Text: Aspect-Based Text Generation from e-Commerce Product Tables**|Luis Antonio Gutiérrez Guanilo et.al.|[2502.14820v1](http://arxiv.org/abs/2502.14820v1)|null|
+|**2025-02-20 12:07:40**|**How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation**|Zhuohang Long et.al.|[2502.14486v1](http://arxiv.org/abs/2502.14486v1)|null|
+|**2025-02-20 08:57:45**|**PPO-MI: Efficient Black-Box Model Inversion via Proximal Policy   Optimization**|Xinpeng Shou et.al.|[2502.14370v1](http://arxiv.org/abs/2502.14370v1)|null|
+|**2025-02-20 08:06:16**|**Optimize Cardinality Estimation Model Pretraining by Simplifying the   Training Datasets**|Boyang Fang et.al.|[2502.14350v1](http://arxiv.org/abs/2502.14350v1)|null|
+|**2025-02-19 23:15:13**|**LLM-Enhanced Dialogue Management for Full-Duplex Spoken Dialogue Systems**|Hao Zhang et.al.|[2502.14145v1](http://arxiv.org/abs/2502.14145v1)|null|
+|**2025-02-19 21:06:30**|**Explainable Distributed Constraint Optimization Problems**|Ben Rachmut et.al.|[2502.14102v1](http://arxiv.org/abs/2502.14102v1)|null|
+|**2025-02-19 19:21:00**|**New Lower Bounds for Stochastic Non-Convex Optimization through   Divergence Composition**|El Mehdi Saad et.al.|[2502.14060v1](http://arxiv.org/abs/2502.14060v1)|null|
+|**2025-02-19 18:56:03**|**RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision**|Guangzhi Xiong et.al.|[2502.13957v1](http://arxiv.org/abs/2502.13957v1)|null|
+|**2025-02-19 15:15:59**|**AnDB: Breaking Boundaries with an AI-Native Database for Universal   Semantic Analysis**|Tianqing Wang et.al.|[2502.13805v1](http://arxiv.org/abs/2502.13805v1)|null|
+|**2025-02-19 13:28:20**|**TALKPLAY: Multimodal Music Recommendation with Large Language Models**|Seungheon Doh et.al.|[2502.13713v2](http://arxiv.org/abs/2502.13713v2)|null|
+|**2025-02-19 12:01:00**|**A Query-Driven Approach to Space-Efficient Range Searching**|Dimitris Fotakis et.al.|[2502.13653v1](http://arxiv.org/abs/2502.13653v1)|null|
+|**2025-02-18 18:55:53**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132v1](http://arxiv.org/abs/2502.13132v1)|null|
+|**2025-02-18 16:34:45**|**LLM-Powered Proactive Data Systems**|Sepanta Zeighami et.al.|[2502.13016v1](http://arxiv.org/abs/2502.13016v1)|null|
+|**2025-02-18 15:56:34**|**Learning More Effective Representations for Dense Retrieval through   Deliberate Thinking Before Search**|Yifan Ji et.al.|[2502.12974v1](http://arxiv.org/abs/2502.12974v1)|[link](https://github.com/openbmb/debater)|
+|**2025-02-18 15:48:46**|**Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language   Models from Jailbreaking**|Junda Zhu et.al.|[2502.12970v1](http://arxiv.org/abs/2502.12970v1)|null|
+|**2025-02-18 14:59:37**|**Query Rewriting via LLMs**|Sriram Dharwada et.al.|[2502.12918v1](http://arxiv.org/abs/2502.12918v1)|null|
+|**2025-02-18 14:59:18**|**Contrast-Unity for Partially-Supervised Temporal Sentence Grounding**|Haicheng Wang et.al.|[2502.12917v1](http://arxiv.org/abs/2502.12917v1)|null|
+|**2025-02-18 14:53:45**|**Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL   Generation**|Zheng Yuan et.al.|[2502.12911v1](http://arxiv.org/abs/2502.12911v1)|null|
+|**2025-02-18 14:51:50**|**Graph Neural Networks for Databases: A Survey**|Ziming Li et.al.|[2502.12908v2](http://arxiv.org/abs/2502.12908v2)|null|
+|**2025-02-18 09:11:51**|**A$^2$ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary   Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al.|[2502.12665v1](http://arxiv.org/abs/2502.12665v1)|null|
+|**2025-02-18 04:08:10**|**Min-Max Correlation Clustering via Neighborhood Similarity**|Nairen Cao et.al.|[2502.12519v1](http://arxiv.org/abs/2502.12519v1)|null|
+|**2025-02-17 17:59:56**|**APB: Accelerating Distributed Long-Context Inference by Passing   Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085v1](http://arxiv.org/abs/2502.12085v1)|[link](https://github.com/thunlp/apb)|
+|**2025-02-17 12:40:35**|**Open-Ended and Knowledge-Intensive Video Question Answering**|Md Zarif Ul Alam et.al.|[2502.11747v2](http://arxiv.org/abs/2502.11747v2)|null|
+|**2025-02-17 10:47:17**|**Uncovering the Impact of Chain-of-Thought Reasoning for Direct   Preference Optimization: Lessons from Text-to-SQL**|Hanbing Liu et.al.|[2502.11656v1](http://arxiv.org/abs/2502.11656v1)|[link](https://github.com/RUCKBReasoning/DPO_Text2SQL)|
+|**2025-02-17 08:52:39**|**Reinforced Information Retrieval**|Chaofan Li et.al.|[2502.11562v1](http://arxiv.org/abs/2502.11562v1)|null|
+|**2025-02-17 04:38:36**|**What's in a Query: Polarity-Aware Distribution-Based Fair Ranking**|Aparna Balagopalan et.al.|[2502.11429v1](http://arxiv.org/abs/2502.11429v1)|null|
+|**2025-02-17 03:54:38**|**Statistical Query Hardness of Multiclass Linear Classification with   Random Classification Noise**|Ilias Diakonikolas et.al.|[2502.11413v1](http://arxiv.org/abs/2502.11413v1)|null|
+|**2025-02-17 03:42:28**|**ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large   Language Models**|Hanxing Ding et.al.|[2502.11404v1](http://arxiv.org/abs/2502.11404v1)|[link](https://github.com/dhx20150812/toolcoder)|
 
 ## Cost Model
 
@@ -8,7 +44,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-02-20 18:59:11**|**Taming Recoil Effect in Cavity-Assisted Quantum Interconnects**|Seigo Kikura et.al.|[2502.14859v1](http://arxiv.org/abs/2502.14859v1)|null|
 |**2025-02-20 18:47:36**|**LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in   Vision-Language Models**|Shangqing Tu et.al.|[2502.14834v1](http://arxiv.org/abs/2502.14834v1)|[link](https://github.com/THU-KEG/LongWriter-V)|
-|**2025-02-20 18:08:29**|**SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic   Understanding, Localization, and Dense Features**|Michael Tschannen et.al.|[2502.14786v1](http://arxiv.org/abs/2502.14786v1)|null|
+|**2025-02-20 18:08:29**|**SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic   Understanding, Localization, and Dense Features**|Michael Tschannen et.al.|[2502.14786v1](http://arxiv.org/abs/2502.14786v1)|[link](https://github.com/google-research/big_vision)|
 |**2025-02-20 18:04:09**|**Tracking and Assigning Jobs to a Markov Machine**|Subhankar Banerjee et.al.|[2502.14783v1](http://arxiv.org/abs/2502.14783v1)|null|
 |**2025-02-20 17:24:06**|**MedVAE: Efficient Automated Interpretation of Medical Images with   Large-Scale Generalizable Autoencoders**|Maya Varma et.al.|[2502.14753v1](http://arxiv.org/abs/2502.14753v1)|[link](https://github.com/StanfordMIMI/MedVAE)|
 |**2025-02-20 16:09:55**|**How to Get Your LLM to Generate Challenging Problems for Evaluation**|Arkil Patel et.al.|[2502.14678v1](http://arxiv.org/abs/2502.14678v1)|null|
@@ -72,39 +108,3 @@
 |**2025-01-23 19:18:19**|**Leveraging 13C NMR spectroscopic data derived from SMILES to predict the   functionality of small biomolecules by machine learning: a case study on   human Dopamine D1 receptor antagonists**|Mariya L Ivanova et.al.|[2501.14044v2](http://arxiv.org/abs/2501.14044v2)|null|
 |**2025-01-23 15:38:06**|**On total transitivity of graphs**|Kamal Santra et.al.|[2501.13760v1](http://arxiv.org/abs/2501.13760v1)|null|
 |**2025-01-22 21:48:40**|**State Combinatorial Generalization In Decision Making With Conditional   Diffusion Models**|Xintong Duan et.al.|[2501.13241v1](http://arxiv.org/abs/2501.13241v1)|null|
-
-## Query Optimization
-
-### Query Optimization
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-20 18:59:52**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse   Attention**|Shang Yang et.al.|[2502.14866v1](http://arxiv.org/abs/2502.14866v1)|[link](https://github.com/mit-han-lab/omniserve)|
-|**2025-02-20 18:58:07**|**Prompt-to-Leaderboard**|Evan Frick et.al.|[2502.14855v1](http://arxiv.org/abs/2502.14855v1)|[link](https://github.com/lmarena/p2l)|
-|**2025-02-20 18:41:48**|**eC-Tab2Text: Aspect-Based Text Generation from e-Commerce Product Tables**|Luis Antonio Gutiérrez Guanilo et.al.|[2502.14820v1](http://arxiv.org/abs/2502.14820v1)|null|
-|**2025-02-20 12:07:40**|**How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation**|Zhuohang Long et.al.|[2502.14486v1](http://arxiv.org/abs/2502.14486v1)|null|
-|**2025-02-20 08:57:45**|**PPO-MI: Efficient Black-Box Model Inversion via Proximal Policy   Optimization**|Xinpeng Shou et.al.|[2502.14370v1](http://arxiv.org/abs/2502.14370v1)|null|
-|**2025-02-20 08:06:16**|**Optimize Cardinality Estimation Model Pretraining by Simplifying the   Training Datasets**|Boyang Fang et.al.|[2502.14350v1](http://arxiv.org/abs/2502.14350v1)|null|
-|**2025-02-19 23:15:13**|**LLM-Enhanced Dialogue Management for Full-Duplex Spoken Dialogue Systems**|Hao Zhang et.al.|[2502.14145v1](http://arxiv.org/abs/2502.14145v1)|null|
-|**2025-02-19 21:06:30**|**Explainable Distributed Constraint Optimization Problems**|Ben Rachmut et.al.|[2502.14102v1](http://arxiv.org/abs/2502.14102v1)|null|
-|**2025-02-19 19:21:00**|**New Lower Bounds for Stochastic Non-Convex Optimization through   Divergence Composition**|El Mehdi Saad et.al.|[2502.14060v1](http://arxiv.org/abs/2502.14060v1)|null|
-|**2025-02-19 18:56:03**|**RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision**|Guangzhi Xiong et.al.|[2502.13957v1](http://arxiv.org/abs/2502.13957v1)|null|
-|**2025-02-19 15:15:59**|**AnDB: Breaking Boundaries with an AI-Native Database for Universal   Semantic Analysis**|Tianqing Wang et.al.|[2502.13805v1](http://arxiv.org/abs/2502.13805v1)|null|
-|**2025-02-19 13:28:20**|**TALKPLAY: Multimodal Music Recommendation with Large Language Models**|Seungheon Doh et.al.|[2502.13713v2](http://arxiv.org/abs/2502.13713v2)|null|
-|**2025-02-19 12:01:00**|**A Query-Driven Approach to Space-Efficient Range Searching**|Dimitris Fotakis et.al.|[2502.13653v1](http://arxiv.org/abs/2502.13653v1)|null|
-|**2025-02-18 18:55:53**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132v1](http://arxiv.org/abs/2502.13132v1)|null|
-|**2025-02-18 16:34:45**|**LLM-Powered Proactive Data Systems**|Sepanta Zeighami et.al.|[2502.13016v1](http://arxiv.org/abs/2502.13016v1)|null|
-|**2025-02-18 15:56:34**|**Learning More Effective Representations for Dense Retrieval through   Deliberate Thinking Before Search**|Yifan Ji et.al.|[2502.12974v1](http://arxiv.org/abs/2502.12974v1)|[link](https://github.com/OpenBMB/DEBATER)|
-|**2025-02-18 15:48:46**|**Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language   Models from Jailbreaking**|Junda Zhu et.al.|[2502.12970v1](http://arxiv.org/abs/2502.12970v1)|null|
-|**2025-02-18 14:59:37**|**Query Rewriting via LLMs**|Sriram Dharwada et.al.|[2502.12918v1](http://arxiv.org/abs/2502.12918v1)|null|
-|**2025-02-18 14:59:18**|**Contrast-Unity for Partially-Supervised Temporal Sentence Grounding**|Haicheng Wang et.al.|[2502.12917v1](http://arxiv.org/abs/2502.12917v1)|null|
-|**2025-02-18 14:53:45**|**Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL   Generation**|Zheng Yuan et.al.|[2502.12911v1](http://arxiv.org/abs/2502.12911v1)|null|
-|**2025-02-18 14:51:50**|**Graph Neural Networks for Databases: A Survey**|Ziming Li et.al.|[2502.12908v2](http://arxiv.org/abs/2502.12908v2)|null|
-|**2025-02-18 09:11:51**|**A$^2$ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary   Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al.|[2502.12665v1](http://arxiv.org/abs/2502.12665v1)|null|
-|**2025-02-18 04:08:10**|**Min-Max Correlation Clustering via Neighborhood Similarity**|Nairen Cao et.al.|[2502.12519v1](http://arxiv.org/abs/2502.12519v1)|null|
-|**2025-02-17 17:59:56**|**APB: Accelerating Distributed Long-Context Inference by Passing   Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085v1](http://arxiv.org/abs/2502.12085v1)|[link](https://github.com/thunlp/apb)|
-|**2025-02-17 12:40:35**|**Open-Ended and Knowledge-Intensive Video Question Answering**|Md Zarif Ul Alam et.al.|[2502.11747v2](http://arxiv.org/abs/2502.11747v2)|null|
-|**2025-02-17 10:47:17**|**Uncovering the Impact of Chain-of-Thought Reasoning for Direct   Preference Optimization: Lessons from Text-to-SQL**|Hanbing Liu et.al.|[2502.11656v1](http://arxiv.org/abs/2502.11656v1)|[link](https://github.com/RUCKBReasoning/DPO_Text2SQL)|
-|**2025-02-17 08:52:39**|**Reinforced Information Retrieval**|Chaofan Li et.al.|[2502.11562v1](http://arxiv.org/abs/2502.11562v1)|null|
-|**2025-02-17 04:38:36**|**What's in a Query: Polarity-Aware Distribution-Based Fair Ranking**|Aparna Balagopalan et.al.|[2502.11429v1](http://arxiv.org/abs/2502.11429v1)|null|
-|**2025-02-17 03:54:38**|**Statistical Query Hardness of Multiclass Linear Classification with   Random Classification Noise**|Ilias Diakonikolas et.al.|[2502.11413v1](http://arxiv.org/abs/2502.11413v1)|null|
-|**2025-02-17 03:42:28**|**ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large   Language Models**|Hanxing Ding et.al.|[2502.11404v1](http://arxiv.org/abs/2502.11404v1)|[link](https://github.com/dhx20150812/toolcoder)|

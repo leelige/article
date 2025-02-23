@@ -17,7 +17,7 @@
 |**2025-02-19 12:01:00**|**A Query-Driven Approach to Space-Efficient Range Searching**|Dimitris Fotakis et.al.|[2502.13653v1](http://arxiv.org/abs/2502.13653v1)|null|
 |**2025-02-18 18:55:53**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132v1](http://arxiv.org/abs/2502.13132v1)|null|
 |**2025-02-18 16:34:45**|**LLM-Powered Proactive Data Systems**|Sepanta Zeighami et.al.|[2502.13016v1](http://arxiv.org/abs/2502.13016v1)|null|
-|**2025-02-18 15:56:34**|**Learning More Effective Representations for Dense Retrieval through   Deliberate Thinking Before Search**|Yifan Ji et.al.|[2502.12974v1](http://arxiv.org/abs/2502.12974v1)|[link](https://github.com/OpenBMB/DEBATER)|
+|**2025-02-18 15:56:34**|**Learning More Effective Representations for Dense Retrieval through   Deliberate Thinking Before Search**|Yifan Ji et.al.|[2502.12974v1](http://arxiv.org/abs/2502.12974v1)|[link](https://github.com/openbmb/debater)|
 |**2025-02-18 15:48:46**|**Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language   Models from Jailbreaking**|Junda Zhu et.al.|[2502.12970v1](http://arxiv.org/abs/2502.12970v1)|null|
 |**2025-02-18 14:59:37**|**Query Rewriting via LLMs**|Sriram Dharwada et.al.|[2502.12918v1](http://arxiv.org/abs/2502.12918v1)|null|
 |**2025-02-18 14:59:18**|**Contrast-Unity for Partially-Supervised Temporal Sentence Grounding**|Haicheng Wang et.al.|[2502.12917v1](http://arxiv.org/abs/2502.12917v1)|null|

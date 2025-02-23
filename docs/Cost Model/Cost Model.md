@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-02-20 18:59:11**|**Taming Recoil Effect in Cavity-Assisted Quantum Interconnects**|Seigo Kikura et.al.|[2502.14859v1](http://arxiv.org/abs/2502.14859v1)|null|
 |**2025-02-20 18:47:36**|**LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in   Vision-Language Models**|Shangqing Tu et.al.|[2502.14834v1](http://arxiv.org/abs/2502.14834v1)|[link](https://github.com/THU-KEG/LongWriter-V)|
-|**2025-02-20 18:08:29**|**SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic   Understanding, Localization, and Dense Features**|Michael Tschannen et.al.|[2502.14786v1](http://arxiv.org/abs/2502.14786v1)|null|
+|**2025-02-20 18:08:29**|**SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic   Understanding, Localization, and Dense Features**|Michael Tschannen et.al.|[2502.14786v1](http://arxiv.org/abs/2502.14786v1)|[link](https://github.com/google-research/big_vision)|
 |**2025-02-20 18:04:09**|**Tracking and Assigning Jobs to a Markov Machine**|Subhankar Banerjee et.al.|[2502.14783v1](http://arxiv.org/abs/2502.14783v1)|null|
 |**2025-02-20 17:24:06**|**MedVAE: Efficient Automated Interpretation of Medical Images with   Large-Scale Generalizable Autoencoders**|Maya Varma et.al.|[2502.14753v1](http://arxiv.org/abs/2502.14753v1)|[link](https://github.com/StanfordMIMI/MedVAE)|
 |**2025-02-20 16:09:55**|**How to Get Your LLM to Generate Challenging Problems for Evaluation**|Arkil Patel et.al.|[2502.14678v1](http://arxiv.org/abs/2502.14678v1)|null|
