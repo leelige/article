@@ -2,7 +2,10 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-21 08:43:50**|**Comparative Analysis of Black Hole Mass Estimation in Type-2 AGNs:   Classical vs. Quantum Machine Learning and Deep Learning Approaches**|Sathwik Narkedimilli et.al.|[2502.15297v1](http://arxiv.org/abs/2502.15297v1)|null|
+|**2025-02-23 02:29:14**|**Decision-tree decoders for general quantum LDPC codes**|Kai R. Ott et.al.|[2502.16408v1](http://arxiv.org/abs/2502.16408v1)|null|
+|**2025-02-21 22:57:17**|**Near Optimal Decision Trees in a SPLIT Second**|Varun Babbar et.al.|[2502.15988v1](http://arxiv.org/abs/2502.15988v1)|null|
+|**2025-02-21 19:37:57**|**Explaining the Success of Nearest Neighbor Methods in Prediction**|George H. Chen et.al.|[2502.15900v1](http://arxiv.org/abs/2502.15900v1)|null|
+|**2025-02-21 08:43:50**|**Comparative Analysis of Black Hole Mass Estimation in Type-2 AGNs:   Classical vs. Quantum Machine Learning and Deep Learning Approaches**|Sathwik Narkedimilli et.al.|[2502.15297v2](http://arxiv.org/abs/2502.15297v2)|null|
 |**2025-02-19 12:45:42**|**DFDT: Dynamic Fast Decision Tree for IoT Data Stream Mining on Edge   Devices**|Afonso Lourenço et.al.|[2502.14011v1](http://arxiv.org/abs/2502.14011v1)|null|
 |**2025-02-17 03:51:40**|**Quantum decision trees with information entropy**|Zhelun Li et.al.|[2502.11412v2](http://arxiv.org/abs/2502.11412v2)|null|
 |**2025-02-16 06:39:36**|**Leveraging Large Language Models for Cybersecurity: Enhancing SMS Spam   Detection with Robust and Context-Aware Text Classification**|Mohsen Ahmadi et.al.|[2502.11014v1](http://arxiv.org/abs/2502.11014v1)|null|
@@ -29,6 +32,3 @@
 |**2025-01-29 01:26:11**|**Implementation of Machine Learning Algorithms for Seismic Events   Classification**|Alemayehu Belay Kassa et.al.|[2502.05197v1](http://arxiv.org/abs/2502.05197v1)|null|
 |**2025-01-27 17:48:48**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247v1](http://arxiv.org/abs/2501.16247v1)|null|
 |**2025-01-25 03:42:22**|**Feedback-Aware Monte Carlo Tree Search for Efficient Information Seeking   in Goal-Oriented Conversations**|Harshita Chopra et.al.|[2501.15056v1](http://arxiv.org/abs/2501.15056v1)|null|
-|**2025-01-24 17:15:33**|**Automation of finding strong gravitational lenses in the Kilo Degree   Survey with U-DenseLens (DenseLens + Segmentation)**|Bharath Chowdhary Nagam et.al.|[2501.14650v1](http://arxiv.org/abs/2501.14650v1)|null|
-|**2025-01-23 19:18:19**|**Leveraging 13C NMR spectroscopic data derived from SMILES to predict the   functionality of small biomolecules by machine learning: a case study on   human Dopamine D1 receptor antagonists**|Mariya L Ivanova et.al.|[2501.14044v2](http://arxiv.org/abs/2501.14044v2)|null|
-|**2025-01-23 15:38:06**|**On total transitivity of graphs**|Kamal Santra et.al.|[2501.13760v1](http://arxiv.org/abs/2501.13760v1)|null|
