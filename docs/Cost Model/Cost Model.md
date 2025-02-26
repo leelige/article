@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-25 18:59:07**|**DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense   Retrievers**|Xueguang Ma et.al.|[2502.18460v1](http://arxiv.org/abs/2502.18460v1)|null|
+|**2025-02-25 16:57:04**|**ART: Anonymous Region Transformer for Variable Multi-Layer Transparent   Image Generation**|Yifan Pu et.al.|[2502.18364v1](http://arxiv.org/abs/2502.18364v1)|null|
+|**2025-02-25 15:43:16**|**Experimental Analysis of Efficiency of the Messaging Layer Security for   Multiple Delivery Services**|David Soler et.al.|[2502.18303v1](http://arxiv.org/abs/2502.18303v1)|null|
+|**2025-02-25 15:28:41**|**Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for   Large Vision Language Models**|Zhaoyi Liu et.al.|[2502.18290v1](http://arxiv.org/abs/2502.18290v1)|null|
+|**2025-02-25 13:24:09**|**Intra-Query Runtime Elasticity for Cloud-Native Data Analysis**|Xukang Zhang et.al.|[2502.18184v1](http://arxiv.org/abs/2502.18184v1)|null|
+|**2025-02-25 13:11:53**|**Problem Solved? Information Extraction Design Space for Layout-Rich   Documents using LLMs**|Gaye Colakoglu et.al.|[2502.18179v1](http://arxiv.org/abs/2502.18179v1)|[link](https://github.com/gayecolakoglu/LayIE-LLM)|
+|**2025-02-25 12:57:13**|**Functional interpolation expansion for nonequilibrium correlated   impurities**|Daniel Werner et.al.|[2502.18166v1](http://arxiv.org/abs/2502.18166v1)|null|
+|**2025-02-25 12:41:08**|**Monitoring snow avalanches from SAR data with deep learning**|Filippo Maria Bianchi et.al.|[2502.18157v1](http://arxiv.org/abs/2502.18157v1)|null|
+|**2025-02-25 12:00:40**|**Modelling of a large-scale non-insulated non-planar HTS stellarator coil   using Quanscient Allsolve**|Tara Benkel et.al.|[2502.18133v1](http://arxiv.org/abs/2502.18133v1)|null|
+|**2025-02-25 11:19:26**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision   Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104v1](http://arxiv.org/abs/2502.18104v1)|[link](https://github.com/HanNieWHU/PromptMID)|
+|**2025-02-25 10:10:01**|**Near-instantaneous Atmospheric Retrievals and Model Comparison with   FASTER**|Anna Lueber et.al.|[2502.18045v1](http://arxiv.org/abs/2502.18045v1)|null|
+|**2025-02-25 08:52:13**|**Kinetic variable-sample methods for stochastic optimization problems**|Sabrina Bonandin et.al.|[2502.17982v1](http://arxiv.org/abs/2502.17982v1)|null|
+|**2025-02-25 07:56:25**|**Late Breaking Results: The Art of Beating the Odds with Predictor-Guided   Random Design Space Exploration**|Felix Arnold et.al.|[2502.17936v1](http://arxiv.org/abs/2502.17936v1)|null|
+|**2025-02-25 07:28:00**|**Quantum Annealing-Based Sum Rate Maximization for Multi-UAV-Aided   Wireless Networks**|Seon-Geun Jeong et.al.|[2502.17916v1](http://arxiv.org/abs/2502.17916v1)|null|
+|**2025-02-25 06:58:40**|**Towards Sustainable Web Agents: A Plea for Transparency and Dedicated   Metrics for Energy Consumption**|Lars Krupp et.al.|[2502.17903v1](http://arxiv.org/abs/2502.17903v1)|null|
+|**2025-02-25 06:17:20**|**A graph neural network-based multispectral-view learning model for   diabetic macular ischemia detection from color fundus photographs**|Qinghua He et.al.|[2502.17886v1](http://arxiv.org/abs/2502.17886v1)|null|
+|**2025-02-25 02:05:41**|**An Improved Privacy and Utility Analysis of Differentially Private SGD   with Bounded Domain and Smooth Losses**|Hao Liang et.al.|[2502.17772v1](http://arxiv.org/abs/2502.17772v1)|null|
+|**2025-02-24 21:12:57**|**THOR: A Non-Speculative Value Dependent Timing Side Channel Attack   Exploiting Intel AMX**|Farshad Dizani et.al.|[2502.17658v1](http://arxiv.org/abs/2502.17658v1)|null|
+|**2025-02-24 20:02:27**|**Provable Model-Parallel Distributed Principal Component Analysis with   Parallel Deflation**|Fangshuo Liao et.al.|[2502.17615v1](http://arxiv.org/abs/2502.17615v1)|null|
+|**2025-02-24 19:48:00**|**PICASO: Permutation-Invariant Context Composition with State Space   Models**|Tian Yu Liu et.al.|[2502.17605v1](http://arxiv.org/abs/2502.17605v1)|null|
+|**2025-02-24 19:00:01**|**General-Relativistic Lattice-Boltzmann Method for Radiation Transport**|Tom Olsen et.al.|[2502.17552v1](http://arxiv.org/abs/2502.17552v1)|null|
 |**2025-02-24 18:56:52**|**Mind the gap: addressing data gaps and assessing noise mismodeling in   LISA**|Ollie Burke et.al.|[2502.17426v1](http://arxiv.org/abs/2502.17426v1)|null|
 |**2025-02-24 18:13:10**|**Data efficiency and long-term prediction capabilities for neural   operator surrogate models of edge plasma simulations**|N. Carey et.al.|[2502.17386v1](http://arxiv.org/abs/2502.17386v1)|null|
 |**2025-02-24 18:06:57**|**Low-Rank and Sparse Model Merging for Multi-Lingual Speech Recognition   and Translation**|Qiuming Zhao et.al.|[2502.17380v1](http://arxiv.org/abs/2502.17380v1)|null|
 |**2025-02-24 16:56:27**|**When to Forget? Complexity Trade-offs in Machine Unlearning**|Martin Van Waerebeke et.al.|[2502.17323v1](http://arxiv.org/abs/2502.17323v1)|null|
 |**2025-02-24 15:44:57**|**Unveiling Downstream Performance Scaling of LLMs: A Clustering-Based   Perspective**|Chengyin Xu et.al.|[2502.17262v1](http://arxiv.org/abs/2502.17262v1)|null|
+|**2025-02-24 15:39:35**|**The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM   Compression Preserve?**|Zhenheng Tang et.al.|[2502.17535v1](http://arxiv.org/abs/2502.17535v1)|null|
 |**2025-02-24 15:25:21**|**Overconfident Oracles: Limitations of In Silico Sequence Design   Benchmarking**|Shikha Surana et.al.|[2502.17246v1](http://arxiv.org/abs/2502.17246v1)|null|
 |**2025-02-24 15:10:36**|**Estimation of Quantum Fisher Information via Stein's Identity in   Variational Quantum Algorithms**|Mourad Halla et.al.|[2502.17231v1](http://arxiv.org/abs/2502.17231v1)|null|
 |**2025-02-24 15:04:29**|**Electrical Load Forecasting over Multihop Smart Metering Networks with   Federated Learning**|Ratun Rahman et.al.|[2502.17226v1](http://arxiv.org/abs/2502.17226v1)|null|
-|**2025-02-24 14:48:06**|**CoT-UQ: Improving Response-wise Uncertainty Quantification in LLMs with   Chain-of-Thought**|Boxuan Zhang et.al.|[2502.17214v1](http://arxiv.org/abs/2502.17214v1)|[link](https://github.com/ZBox1005/CoT-UQ)|
-|**2025-02-24 13:58:50**|**A General Framework of Linear Elasticity Enhanced Multiscale Coupling   Methods for Crystalline Defects**|Yanbo Zhan et.al.|[2502.17164v1](http://arxiv.org/abs/2502.17164v1)|null|
-|**2025-02-24 13:51:06**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157v1](http://arxiv.org/abs/2502.17157v1)|[link](https://github.com/aim-uofa/Diception)|
-|**2025-02-24 13:30:30**|**CodeSwift: Accelerating LLM Inference for Efficient Code Generation**|Qianhui Zhao et.al.|[2502.17139v1](http://arxiv.org/abs/2502.17139v1)|null|
-|**2025-02-24 13:29:34**|**Analyzing a Two-Tier Disaggregated Memory Protection Scheme Based on   Memory Replication**|Haris Volos et.al.|[2502.17138v1](http://arxiv.org/abs/2502.17138v1)|null|
-|**2025-02-24 12:06:23**|**Conditional Diffusion-Flow models for generating 3D cosmic density   fields: applications to f(R) cosmologies**|Julieth Katherine Riveros et.al.|[2502.17087v1](http://arxiv.org/abs/2502.17087v1)|null|
-|**2025-02-24 10:51:11**|**On Space-Filling Input Design for Nonlinear Dynamic Model Learning: A   Gaussian Process Approach**|Yuhan Liu et.al.|[2502.17042v1](http://arxiv.org/abs/2502.17042v1)|null|
-|**2025-02-24 09:39:17**|**Unbiased and Sign Compression in Distributed Learning: Comparing Noise   Resilience via SDEs**|Enea Monzio Compagnoni et.al.|[2502.17009v1](http://arxiv.org/abs/2502.17009v1)|null|
-|**2025-02-24 08:41:19**|**Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with   NDP-DIMM**|Lian Liu et.al.|[2502.16963v1](http://arxiv.org/abs/2502.16963v1)|null|
-|**2025-02-24 07:10:02**|**Design of a low-cost and lightweight 6 DoF bimanual arm for dynamic and   contact-rich manipulation**|Jaehyung Kim et.al.|[2502.16908v1](http://arxiv.org/abs/2502.16908v1)|null|
-|**2025-02-24 06:43:19**|**Applying LLMs to Active Learning: Towards Cost-Efficient Cross-Task Text   Classification without Manually Labeled Data**|Yejian Zhang et.al.|[2502.16892v1](http://arxiv.org/abs/2502.16892v1)|null|
-|**2025-02-24 04:26:26**|**Predicting the Energy Landscape of Stochastic Dynamical System via   Physics-informed Self-supervised Learning**|Ruikun Li et.al.|[2502.16828v1](http://arxiv.org/abs/2502.16828v1)|null|
-|**2025-02-24 03:35:38**|**CRTrack: Low-Light Semi-Supervised Multi-object Tracking Based on   Consistency Regularization**|Zijing Zhao et.al.|[2502.16809v1](http://arxiv.org/abs/2502.16809v1)|[link](https://github.com/ZJZhao123/CRTrack)|
-|**2025-02-24 03:30:29**|**CoT2Align: Cross-Chain of Thought Distillation via Optimal Transport   Alignment for Language Models with Different Tokenizers**|Anh Duc Le et.al.|[2502.16806v1](http://arxiv.org/abs/2502.16806v1)|null|
-|**2025-02-24 03:11:59**|**Continuous Patch Stitching for Block-wise Image Compression**|Zifu Zhang et.al.|[2502.16795v1](http://arxiv.org/abs/2502.16795v1)|null|
-|**2025-02-24 02:41:34**|**SwimVG: Step-wise Multimodal Fusion and Adaption for Visual Grounding**|Liangtao Shi et.al.|[2502.16786v1](http://arxiv.org/abs/2502.16786v1)|[link](https://github.com/liuting20/SwimVG)|
-|**2025-02-24 02:33:28**|**Weighted model calibration with spatial conditional information**|Michele Nguyen et.al.|[2502.16785v1](http://arxiv.org/abs/2502.16785v1)|null|
-|**2025-02-24 01:34:28**|**DiffKAN-Inpainting: KAN-based Diffusion model for brain tumor inpainting**|Tianli Tao et.al.|[2502.16771v1](http://arxiv.org/abs/2502.16771v1)|null|
-|**2025-02-24 01:19:43**|**LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with   Location-Election-Disjoint**|Qianli Ma et.al.|[2502.16770v1](http://arxiv.org/abs/2502.16770v1)|null|
-|**2025-02-24 00:26:24**|**Stochastic description of UHECR interactions**|Leonel Morejon et.al.|[2502.16760v1](http://arxiv.org/abs/2502.16760v1)|null|
-|**2025-02-23 23:48:41**|**Automated Keypoint Estimation for Self-Piercing Rivet Joints Using   micro-CT Imaging and Transfer Learning**|Wei Qin Chuah et.al.|[2502.16752v1](http://arxiv.org/abs/2502.16752v1)|null|
-|**2025-02-23 21:57:46**|**RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based   Agents**|Sho Nakatani et.al.|[2502.16730v1](http://arxiv.org/abs/2502.16730v1)|null|
