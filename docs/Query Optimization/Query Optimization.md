@@ -2,6 +2,13 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-26 17:11:21**|**Multi-Platform Autobidding with and without Predictions**|Gagan Aggarwal et.al.|[2502.19317v1](http://arxiv.org/abs/2502.19317v1)|null|
+|**2025-02-26 15:10:26**|**Approximate $2$-hop neighborhoods on incremental graphs: An efficient   lazy approach**|Luca Becchetti et.al.|[2502.19205v1](http://arxiv.org/abs/2502.19205v1)|null|
+|**2025-02-26 10:10:51**|**Gaussian Process Upper Confidence Bound Achieves Nearly-Optimal Regret   in Noise-Free Gaussian Process Bandits**|Shogo Iwazaki et.al.|[2502.19006v1](http://arxiv.org/abs/2502.19006v1)|null|
+|**2025-02-26 09:54:33**|**GenTool: Enhancing Tool Generalization in Language Models through   Zero-to-One and Weak-to-Strong Simulation**|Jie He et.al.|[2502.18990v1](http://arxiv.org/abs/2502.18990v1)|null|
+|**2025-02-26 00:45:13**|**Scaling Optimization Over Uncertainty via Compilation**|Minsung Cho et.al.|[2502.18728v1](http://arxiv.org/abs/2502.18728v1)|null|
+|**2025-02-25 21:28:15**|**Independent Mobility GPT (IDM-GPT): A Self-Supervised Multi-Agent Large   Language Model Framework for Customized Traffic Mobility Analysis Using   Machine Learning Models**|Fengze Yang et.al.|[2502.18652v1](http://arxiv.org/abs/2502.18652v1)|null|
+|**2025-02-25 21:06:14**|**Steered Generation via Gradient Descent on Sparse Features**|Sumanta Bhattacharyya et.al.|[2502.18644v1](http://arxiv.org/abs/2502.18644v1)|null|
 |**2025-02-25 17:33:20**|**Monte Carlo Temperature: a robust sampling strategy for LLM's   uncertainty quantification methods**|Nicola Cecere et.al.|[2502.18389v1](http://arxiv.org/abs/2502.18389v1)|null|
 |**2025-02-25 17:25:16**|**Property Testing in Bounded Degree Hypergraphs**|Hugo Aaronson et.al.|[2502.18382v1](http://arxiv.org/abs/2502.18382v1)|null|
 |**2025-02-25 15:29:51**|**AMPO: Active Multi-Preference Optimization**|Taneesh Gupta et.al.|[2502.18293v1](http://arxiv.org/abs/2502.18293v1)|null|
@@ -25,10 +32,3 @@
 |**2025-02-21 22:59:36**|**Automated Query-Product Relevance Labeling using Large Language Models   for E-commerce Search**|Jayant Sachdev et.al.|[2502.15990v1](http://arxiv.org/abs/2502.15990v1)|null|
 |**2025-02-21 20:29:36**|**Self-Taught Agentic Long Context Understanding**|Yufan Zhuang et.al.|[2502.15920v1](http://arxiv.org/abs/2502.15920v1)|null|
 |**2025-02-21 17:31:00**|**On the Robustness of Transformers against Context Hijacking for Linear   Classification**|Tianle Li et.al.|[2502.15609v1](http://arxiv.org/abs/2502.15609v1)|null|
-|**2025-02-21 17:19:39**|**Cross-Format Retrieval-Augmented Generation in XR with LLMs for   Context-Aware Maintenance Assistance**|Akos Nagy et.al.|[2502.15604v1](http://arxiv.org/abs/2502.15604v1)|null|
-|**2025-02-21 16:47:01**|**Chats-Grid: An Iterative Retrieval Q&A Optimization Scheme Leveraging   Large Model and Retrieval Enhancement Generation in smart grid**|Yunfeng Li et.al.|[2502.15583v1](http://arxiv.org/abs/2502.15583v1)|null|
-|**2025-02-21 16:13:54**|**Fixed-point quantum continuous search algorithm with optimal query   complexity**|Shan Jin et.al.|[2502.15556v1](http://arxiv.org/abs/2502.15556v1)|null|
-|**2025-02-21 03:24:06**|**Debunking the Myth of Join Ordering: Toward Robust SQL Analytics**|Junyi Zhao et.al.|[2502.15181v1](http://arxiv.org/abs/2502.15181v1)|null|
-|**2025-02-20 18:59:52**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse   Attention**|Shang Yang et.al.|[2502.14866v1](http://arxiv.org/abs/2502.14866v1)|[link](https://github.com/mit-han-lab/omniserve)|
-|**2025-02-20 18:58:07**|**Prompt-to-Leaderboard**|Evan Frick et.al.|[2502.14855v1](http://arxiv.org/abs/2502.14855v1)|[link](https://github.com/lmarena/p2l)|
-|**2025-02-20 18:41:48**|**eC-Tab2Text: Aspect-Based Text Generation from e-Commerce Product Tables**|Luis Antonio Gutiérrez Guanilo et.al.|[2502.14820v1](http://arxiv.org/abs/2502.14820v1)|null|
