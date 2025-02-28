@@ -2,6 +2,12 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-27 18:17:26**|**Equilibria and Learning in Modular Marketplaces**|Kshipra Bhawalkar et.al.|[2502.20346v1](http://arxiv.org/abs/2502.20346v1)|null|
+|**2025-02-27 16:19:54**|**Selective Use of Yannakakis' Algorithm to Improve Query Performance:   Machine Learning to the Rescue**|Daniela Böhm et.al.|[2502.20233v1](http://arxiv.org/abs/2502.20233v1)|null|
+|**2025-02-27 15:47:15**|**Differentially-private frugal estimation of quantiles**|Massimo Cafaro et.al.|[2502.20207v1](http://arxiv.org/abs/2502.20207v1)|null|
+|**2025-02-27 07:39:23**|**ProAPO: Progressively Automatic Prompt Optimization for Visual   Classification**|Xiangyan Qu et.al.|[2502.19844v1](http://arxiv.org/abs/2502.19844v1)|null|
+|**2025-02-27 05:55:44**|**Mixtera: A Data Plane for Foundation Model Training**|Maximilian Böther et.al.|[2502.19790v1](http://arxiv.org/abs/2502.19790v1)|null|
+|**2025-02-27 05:12:53**|**QORT-Former: Query-optimized Real-time Transformer for Understanding Two   Hands Manipulating Objects**|Elkhan Ismayilzada et.al.|[2502.19769v1](http://arxiv.org/abs/2502.19769v1)|null|
 |**2025-02-26 17:11:21**|**Multi-Platform Autobidding with and without Predictions**|Gagan Aggarwal et.al.|[2502.19317v1](http://arxiv.org/abs/2502.19317v1)|null|
 |**2025-02-26 15:10:26**|**Approximate $2$-hop neighborhoods on incremental graphs: An efficient   lazy approach**|Luca Becchetti et.al.|[2502.19205v1](http://arxiv.org/abs/2502.19205v1)|null|
 |**2025-02-26 10:10:51**|**Gaussian Process Upper Confidence Bound Achieves Nearly-Optimal Regret   in Noise-Free Gaussian Process Bandits**|Shogo Iwazaki et.al.|[2502.19006v1](http://arxiv.org/abs/2502.19006v1)|null|
@@ -20,15 +26,9 @@
 |**2025-02-25 05:59:14**|**Neural Graph Matching Improves Retrieval Augmented Generation in   Molecular Machine Learning**|Runzhong Wang et.al.|[2502.17874v1](http://arxiv.org/abs/2502.17874v1)|null|
 |**2025-02-24 18:20:18**|**Emoti-Attack: Zero-Perturbation Adversarial Attacks on NLP Systems via   Emoji Sequences**|Yangshijie Zhang et.al.|[2502.17392v1](http://arxiv.org/abs/2502.17392v1)|null|
 |**2025-02-24 16:59:16**|**Optimized circuits for windowed modular arithmetic with applications to   quantum attacks against RSA**|Alessandro Luongo et.al.|[2502.17325v1](http://arxiv.org/abs/2502.17325v1)|null|
-|**2025-02-24 16:25:25**|**Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts**|Zhenghao Liu et.al.|[2502.17297v1](http://arxiv.org/abs/2502.17297v1)|[link](https://github.com/NEUIR/M2RAG)|
-|**2025-02-24 11:15:41**|**LLM-QE: Improving Query Expansion by Aligning Large Language Models with   Ranking Preferences**|Sijia Yao et.al.|[2502.17057v1](http://arxiv.org/abs/2502.17057v1)|[link](https://github.com/neuir/llm-qe)|
+|**2025-02-24 16:25:25**|**Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts**|Zhenghao Liu et.al.|[2502.17297v1](http://arxiv.org/abs/2502.17297v1)|[link](https://github.com/neuir/m2rag)|
+|**2025-02-24 11:15:41**|**LLM-QE: Improving Query Expansion by Aligning Large Language Models with   Ranking Preferences**|Sijia Yao et.al.|[2502.17057v2](http://arxiv.org/abs/2502.17057v2)|[link](https://github.com/neuir/llm-qe)|
 |**2025-02-24 10:31:12**|**Your Assumed DAG is Wrong and Here's How To Deal With It**|Kirtan Padh et.al.|[2502.17030v1](http://arxiv.org/abs/2502.17030v1)|null|
 |**2025-02-24 09:31:18**|**An Enhanced Large Language Model For Cross Modal Query Understanding   System Using DL-KeyBERT Based CAZSSCL-MPGPT**|Shreya Singh et.al.|[2502.17000v1](http://arxiv.org/abs/2502.17000v1)|null|
 |**2025-02-23 18:59:09**|**WildLong: Synthesizing Realistic Long-Context Instruction Data at Scale**|Jiaxi Li et.al.|[2502.16684v1](http://arxiv.org/abs/2502.16684v1)|null|
 |**2025-02-23 13:45:47**|**LawPal : A Retrieval Augmented Generation Based System for Enhanced   Legal Accessibility in India**|Dnyanesh Panchal et.al.|[2502.16573v1](http://arxiv.org/abs/2502.16573v1)|null|
-|**2025-02-23 12:39:39**|**Beyond Words: How Large Language Models Perform in Quantitative   Management Problem-Solving**|Jonathan Kuzmanko et.al.|[2502.16556v1](http://arxiv.org/abs/2502.16556v1)|null|
-|**2025-02-23 03:36:18**|**Unified Prompt Attack Against Text-to-Image Generation Models**|Duo Peng et.al.|[2502.16423v1](http://arxiv.org/abs/2502.16423v1)|null|
-|**2025-02-22 07:46:41**|**Heterogeneous Multi-Agent Bandits with Parsimonious Hints**|Amirmahdi Mirfakhar et.al.|[2502.16128v1](http://arxiv.org/abs/2502.16128v1)|null|
-|**2025-02-21 22:59:36**|**Automated Query-Product Relevance Labeling using Large Language Models   for E-commerce Search**|Jayant Sachdev et.al.|[2502.15990v1](http://arxiv.org/abs/2502.15990v1)|null|
-|**2025-02-21 20:29:36**|**Self-Taught Agentic Long Context Understanding**|Yufan Zhuang et.al.|[2502.15920v1](http://arxiv.org/abs/2502.15920v1)|null|
-|**2025-02-21 17:31:00**|**On the Robustness of Transformers against Context Hijacking for Linear   Classification**|Tianle Li et.al.|[2502.15609v1](http://arxiv.org/abs/2502.15609v1)|null|
