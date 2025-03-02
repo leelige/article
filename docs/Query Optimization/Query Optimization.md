@@ -20,8 +20,8 @@
 |**2025-02-25 15:29:51**|**AMPO: Active Multi-Preference Optimization**|Taneesh Gupta et.al.|[2502.18293v1](http://arxiv.org/abs/2502.18293v1)|null|
 |**2025-02-25 13:58:06**|**Near-optimal Active Regression of Single-Index Models**|Yi Li et.al.|[2502.18213v1](http://arxiv.org/abs/2502.18213v1)|null|
 |**2025-02-25 13:28:07**|**Exact Algorithms for Minimum Dilation Triangulation**|Sándor P. Fekete et.al.|[2502.18189v1](http://arxiv.org/abs/2502.18189v1)|null|
-|**2025-02-25 12:09:16**|**LevelRAG: Enhancing Retrieval-Augmented Generation with Multi-hop Logic   Planning over Rewriting Augmented Searchers**|Zhuocheng Zhang et.al.|[2502.18139v1](http://arxiv.org/abs/2502.18139v1)|null|
-|**2025-02-25 11:36:43**|**Accelerating Graph Indexing for ANNS on Modern CPUs**|Mengzhao Wang et.al.|[2502.18113v1](http://arxiv.org/abs/2502.18113v1)|null|
+|**2025-02-25 12:09:16**|**LevelRAG: Enhancing Retrieval-Augmented Generation with Multi-hop Logic   Planning over Rewriting Augmented Searchers**|Zhuocheng Zhang et.al.|[2502.18139v1](http://arxiv.org/abs/2502.18139v1)|[link](https://github.com/ictnlp/LevelRAG)|
+|**2025-02-25 11:36:43**|**Accelerating Graph Indexing for ANNS on Modern CPUs**|Mengzhao Wang et.al.|[2502.18113v1](http://arxiv.org/abs/2502.18113v1)|[link](https://github.com/ZJU-DAILY/HNSW-Flash)|
 |**2025-02-25 08:20:16**|**InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous   Driving Transformer**|Bo Zhang et.al.|[2502.17949v1](http://arxiv.org/abs/2502.17949v1)|null|
 |**2025-02-25 05:59:14**|**Neural Graph Matching Improves Retrieval Augmented Generation in   Molecular Machine Learning**|Runzhong Wang et.al.|[2502.17874v1](http://arxiv.org/abs/2502.17874v1)|null|
 |**2025-02-24 18:20:18**|**Emoti-Attack: Zero-Perturbation Adversarial Attacks on NLP Systems via   Emoji Sequences**|Yangshijie Zhang et.al.|[2502.17392v1](http://arxiv.org/abs/2502.17392v1)|null|
