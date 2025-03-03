@@ -2,6 +2,12 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-28 12:00:57**|**Forecasting Monthly Residential Natural Gas Demand Using   Just-In-Time-Learning Modeling**|Burak Alakent et.al.|[2502.20989v1](http://arxiv.org/abs/2502.20989v1)|null|
+|**2025-02-28 11:32:22**|**TeleRAG: Efficient Retrieval-Augmented Generation Inference with   Lookahead Retrieval**|Chien-Yu Lin et.al.|[2502.20969v1](http://arxiv.org/abs/2502.20969v1)|null|
+|**2025-02-28 07:56:37**|**Towards Reliable Vector Database Management Systems: A Software Testing   Roadmap for 2030**|Shenao Wang et.al.|[2502.20812v1](http://arxiv.org/abs/2502.20812v1)|null|
+|**2025-02-28 06:34:53**|**FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient   Long-Sequence Inference**|Xunhao Lai et.al.|[2502.20766v1](http://arxiv.org/abs/2502.20766v1)|null|
+|**2025-02-28 05:17:19**|**Optimizing Quotient Filters using Graveyard Hashing**|Isabelle Quaye et.al.|[2502.20725v1](http://arxiv.org/abs/2502.20725v1)|null|
+|**2025-02-27 22:35:31**|**ECCOS: Efficient Capability and Cost Coordinated Scheduling for   Multi-LLM Serving**|Kai Mei et.al.|[2502.20576v1](http://arxiv.org/abs/2502.20576v1)|[link](https://github.com/agiresearch/ECCOS)|
 |**2025-02-27 18:17:26**|**Equilibria and Learning in Modular Marketplaces**|Kshipra Bhawalkar et.al.|[2502.20346v1](http://arxiv.org/abs/2502.20346v1)|null|
 |**2025-02-27 16:19:54**|**Selective Use of Yannakakis' Algorithm to Improve Query Performance:   Machine Learning to the Rescue**|Daniela Böhm et.al.|[2502.20233v1](http://arxiv.org/abs/2502.20233v1)|null|
 |**2025-02-27 15:47:15**|**Differentially-private frugal estimation of quantiles**|Massimo Cafaro et.al.|[2502.20207v1](http://arxiv.org/abs/2502.20207v1)|null|
@@ -26,9 +32,3 @@
 |**2025-02-25 05:59:14**|**Neural Graph Matching Improves Retrieval Augmented Generation in   Molecular Machine Learning**|Runzhong Wang et.al.|[2502.17874v1](http://arxiv.org/abs/2502.17874v1)|null|
 |**2025-02-24 18:20:18**|**Emoti-Attack: Zero-Perturbation Adversarial Attacks on NLP Systems via   Emoji Sequences**|Yangshijie Zhang et.al.|[2502.17392v1](http://arxiv.org/abs/2502.17392v1)|null|
 |**2025-02-24 16:59:16**|**Optimized circuits for windowed modular arithmetic with applications to   quantum attacks against RSA**|Alessandro Luongo et.al.|[2502.17325v1](http://arxiv.org/abs/2502.17325v1)|null|
-|**2025-02-24 16:25:25**|**Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts**|Zhenghao Liu et.al.|[2502.17297v1](http://arxiv.org/abs/2502.17297v1)|[link](https://github.com/neuir/m2rag)|
-|**2025-02-24 11:15:41**|**LLM-QE: Improving Query Expansion by Aligning Large Language Models with   Ranking Preferences**|Sijia Yao et.al.|[2502.17057v2](http://arxiv.org/abs/2502.17057v2)|[link](https://github.com/neuir/llm-qe)|
-|**2025-02-24 10:31:12**|**Your Assumed DAG is Wrong and Here's How To Deal With It**|Kirtan Padh et.al.|[2502.17030v1](http://arxiv.org/abs/2502.17030v1)|null|
-|**2025-02-24 09:31:18**|**An Enhanced Large Language Model For Cross Modal Query Understanding   System Using DL-KeyBERT Based CAZSSCL-MPGPT**|Shreya Singh et.al.|[2502.17000v1](http://arxiv.org/abs/2502.17000v1)|null|
-|**2025-02-23 18:59:09**|**WildLong: Synthesizing Realistic Long-Context Instruction Data at Scale**|Jiaxi Li et.al.|[2502.16684v1](http://arxiv.org/abs/2502.16684v1)|null|
-|**2025-02-23 13:45:47**|**LawPal : A Retrieval Augmented Generation Based System for Enhanced   Legal Accessibility in India**|Dnyanesh Panchal et.al.|[2502.16573v1](http://arxiv.org/abs/2502.16573v1)|null|
