@@ -11,11 +11,11 @@
 |**2025-02-27 18:17:26**|**Equilibria and Learning in Modular Marketplaces**|Kshipra Bhawalkar et.al.|[2502.20346v1](http://arxiv.org/abs/2502.20346v1)|null|
 |**2025-02-27 16:19:54**|**Selective Use of Yannakakis' Algorithm to Improve Query Performance:   Machine Learning to the Rescue**|Daniela Böhm et.al.|[2502.20233v1](http://arxiv.org/abs/2502.20233v1)|null|
 |**2025-02-27 15:47:15**|**Differentially-private frugal estimation of quantiles**|Massimo Cafaro et.al.|[2502.20207v1](http://arxiv.org/abs/2502.20207v1)|null|
-|**2025-02-27 07:39:23**|**ProAPO: Progressively Automatic Prompt Optimization for Visual   Classification**|Xiangyan Qu et.al.|[2502.19844v1](http://arxiv.org/abs/2502.19844v1)|null|
-|**2025-02-27 05:55:44**|**Mixtera: A Data Plane for Foundation Model Training**|Maximilian Böther et.al.|[2502.19790v1](http://arxiv.org/abs/2502.19790v1)|null|
+|**2025-02-27 07:39:23**|**ProAPO: Progressively Automatic Prompt Optimization for Visual   Classification**|Xiangyan Qu et.al.|[2502.19844v1](http://arxiv.org/abs/2502.19844v1)|[link](https://github.com/MorningStarOvO/ProAPO)|
+|**2025-02-27 05:55:44**|**Mixtera: A Data Plane for Foundation Model Training**|Maximilian Böther et.al.|[2502.19790v1](http://arxiv.org/abs/2502.19790v1)|[link](https://github.com/eth-easl/mixtera)|
 |**2025-02-27 05:12:53**|**QORT-Former: Query-optimized Real-time Transformer for Understanding Two   Hands Manipulating Objects**|Elkhan Ismayilzada et.al.|[2502.19769v1](http://arxiv.org/abs/2502.19769v1)|null|
 |**2025-02-26 17:11:21**|**Multi-Platform Autobidding with and without Predictions**|Gagan Aggarwal et.al.|[2502.19317v1](http://arxiv.org/abs/2502.19317v1)|null|
-|**2025-02-26 15:10:26**|**Approximate $2$-hop neighborhoods on incremental graphs: An efficient   lazy approach**|Luca Becchetti et.al.|[2502.19205v1](http://arxiv.org/abs/2502.19205v1)|null|
+|**2025-02-26 15:10:26**|**Approximate $2$-hop neighborhoods on incremental graphs: An efficient   lazy approach**|Luca Becchetti et.al.|[2502.19205v1](http://arxiv.org/abs/2502.19205v1)|[link](https://github.com/gnumlab/graph_ball)|
 |**2025-02-26 10:10:51**|**Gaussian Process Upper Confidence Bound Achieves Nearly-Optimal Regret   in Noise-Free Gaussian Process Bandits**|Shogo Iwazaki et.al.|[2502.19006v1](http://arxiv.org/abs/2502.19006v1)|null|
 |**2025-02-26 09:54:33**|**GenTool: Enhancing Tool Generalization in Language Models through   Zero-to-One and Weak-to-Strong Simulation**|Jie He et.al.|[2502.18990v1](http://arxiv.org/abs/2502.18990v1)|null|
 |**2025-02-26 00:45:13**|**Scaling Optimization Over Uncertainty via Compilation**|Minsung Cho et.al.|[2502.18728v1](http://arxiv.org/abs/2502.18728v1)|null|
