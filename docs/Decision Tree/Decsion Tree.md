@@ -2,6 +2,9 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-04 08:40:42**|**A Binary Classification Social Network Dataset for Graph Machine   Learning**|Adnan Ali et.al.|[2503.02397v1](http://arxiv.org/abs/2503.02397v1)|null|
+|**2025-03-03 12:14:53**|**Provably optimal decision trees with arbitrary splitting rules in   polynomial time**|Xi He et.al.|[2503.01455v1](http://arxiv.org/abs/2503.01455v1)|null|
+|**2025-03-01 17:02:57**|**A Novel Co-Evolutionary Algorithm for Solving a Bilevel Pricing and Hubs   Location Problem under a Tree Topology**|Víctor Blanco et.al.|[2503.00561v1](http://arxiv.org/abs/2503.00561v1)|null|
 |**2025-02-26 22:37:51**|**Learning Ensembles of Interpretable Simple Structure**|Gaurav Arwade et.al.|[2502.19602v1](http://arxiv.org/abs/2502.19602v1)|null|
 |**2025-02-26 08:49:21**|**Accurate 3D Grapevine Structure Extraction from High-Resolution Point   Clouds**|Harry Dobbs et.al.|[2502.20417v1](http://arxiv.org/abs/2502.20417v1)|null|
 |**2025-02-25 02:41:23**|**On-device edge learning for IoT data streams: a survey**|Afonso Lourenço et.al.|[2502.17788v1](http://arxiv.org/abs/2502.17788v1)|null|
@@ -29,6 +32,3 @@
 |**2025-02-03 21:20:47**|**LeaFi: Data Series Indexes on Steroids with Learned Filters**|Qitong Wang et.al.|[2502.01836v1](http://arxiv.org/abs/2502.01836v1)|[link](https://github.com/qtwang/leafi)|
 |**2025-02-02 02:45:20**|**Lipschitz Lifelong Monte Carlo Tree Search for Mastering Non-Stationary   Tasks**|Zuyuan Zhang et.al.|[2502.00633v1](http://arxiv.org/abs/2502.00633v1)|null|
 |**2025-02-01 19:32:46**|**Doubly Robust Monte Carlo Tree Search**|Manqing Liu et.al.|[2502.01672v1](http://arxiv.org/abs/2502.01672v1)|null|
-|**2025-01-31 18:43:29**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388v1](http://arxiv.org/abs/2501.19388v1)|null|
-|**2025-01-30 18:01:48**|**A Hybrid Data-Driven Approach For Analyzing And Predicting Inpatient   Length Of Stay In Health Centre**|Tasfia Noor Chowdhury et.al.|[2501.18535v1](http://arxiv.org/abs/2501.18535v1)|null|
-|**2025-01-29 20:55:53**|**Investigating the Monte-Carlo Tree Search Approach for the Job Shop   Scheduling Problem**|Laurie Boveroux et.al.|[2501.17991v1](http://arxiv.org/abs/2501.17991v1)|null|
