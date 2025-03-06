@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-05 15:02:46**|**Optimal Decision Tree Pruning Revisited: Algorithms and Complexity**|Juha Harviainen et.al.|[2503.03576v1](http://arxiv.org/abs/2503.03576v1)|null|
 |**2025-03-04 08:40:42**|**A Binary Classification Social Network Dataset for Graph Machine   Learning**|Adnan Ali et.al.|[2503.02397v1](http://arxiv.org/abs/2503.02397v1)|null|
 |**2025-03-03 12:14:53**|**Provably optimal decision trees with arbitrary splitting rules in   polynomial time**|Xi He et.al.|[2503.01455v1](http://arxiv.org/abs/2503.01455v1)|null|
 |**2025-03-01 17:02:57**|**A Novel Co-Evolutionary Algorithm for Solving a Bilevel Pricing and Hubs   Location Problem under a Tree Topology**|Víctor Blanco et.al.|[2503.00561v1](http://arxiv.org/abs/2503.00561v1)|null|
@@ -31,4 +32,3 @@
 |**2025-02-04 19:30:41**|**Transformers Boost the Performance of Decision Trees on Tabular Data   across Sample Sizes**|Mayuka Jayawardhana et.al.|[2502.02672v2](http://arxiv.org/abs/2502.02672v2)|null|
 |**2025-02-03 21:20:47**|**LeaFi: Data Series Indexes on Steroids with Learned Filters**|Qitong Wang et.al.|[2502.01836v1](http://arxiv.org/abs/2502.01836v1)|[link](https://github.com/qtwang/leafi)|
 |**2025-02-02 02:45:20**|**Lipschitz Lifelong Monte Carlo Tree Search for Mastering Non-Stationary   Tasks**|Zuyuan Zhang et.al.|[2502.00633v1](http://arxiv.org/abs/2502.00633v1)|null|
-|**2025-02-01 19:32:46**|**Doubly Robust Monte Carlo Tree Search**|Manqing Liu et.al.|[2502.01672v1](http://arxiv.org/abs/2502.01672v1)|null|
