@@ -2,12 +2,15 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-06 16:59:18**|**HalluCounter: Reference-free LLM Hallucination Detection in the Wild!**|Ashok Urlana et.al.|[2503.04615v1](http://arxiv.org/abs/2503.04615v1)|null|
+|**2025-03-06 09:24:23**|**Incorporating Surrogate Gradient Norm to Improve Offline Optimization   Techniques**|Manh Cuong Dao et.al.|[2503.04242v1](http://arxiv.org/abs/2503.04242v1)|[link](https://github.com/cuong-dm/IGNITE)|
+|**2025-03-05 19:00:05**|**Zero-Execution Retrieval-Augmented Configuration Tuning of Spark   Applications**|Raunaq Suri et.al.|[2503.03826v1](http://arxiv.org/abs/2503.03826v1)|[link](https://github.com/layer6ai-labs/spark-retrieval-tuning)|
 |**2025-03-05 17:03:48**|**Attentive Reasoning Queries: A Systematic Method for Optimizing   Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669v1](http://arxiv.org/abs/2503.03669v1)|null|
 |**2025-03-05 14:01:17**|**DO-IQS: Dynamics-Aware Offline Inverse Q-Learning for Optimal Stopping   with Unknown Gain Functions**|Anna Kuchko et.al.|[2503.03515v1](http://arxiv.org/abs/2503.03515v1)|null|
 |**2025-03-05 13:29:01**|**Logarithmic-Time Internal Pattern Matching Queries in Compressed and   Dynamic Texts**|Anouk Duyster et.al.|[2503.03488v1](http://arxiv.org/abs/2503.03488v1)|null|
-|**2025-03-05 12:40:34**|**Data Poisoning Attacks to Locally Differentially Private Range Query   Protocols**|I-Jung Hsu et.al.|[2503.03454v1](http://arxiv.org/abs/2503.03454v1)|null|
+|**2025-03-05 12:40:34**|**Data Poisoning Attacks to Locally Differentially Private Range Query   Protocols**|Ting-Wei Liao et.al.|[2503.03454v2](http://arxiv.org/abs/2503.03454v2)|null|
 |**2025-03-05 09:17:01**|**Information Theory Strikes Back: New Development in the Theory of   Cardinality Estimation**|Mahmoud Abo Khamis et.al.|[2503.03290v1](http://arxiv.org/abs/2503.03290v1)|null|
-|**2025-03-05 02:43:52**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous   Driving**|Ziying Song et.al.|[2503.03125v1](http://arxiv.org/abs/2503.03125v1)|null|
+|**2025-03-05 02:43:52**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous   Driving**|Ziying Song et.al.|[2503.03125v2](http://arxiv.org/abs/2503.03125v2)|null|
 |**2025-03-04 19:28:39**|**TreeCat: Standalone Catalog Engine for Large Data Systems**|Keonwoo Oh et.al.|[2503.02956v1](http://arxiv.org/abs/2503.02956v1)|null|
 |**2025-03-04 18:47:17**|**Optimizing open-domain question answering with graph-based retrieval   augmented generation**|Joyce Cahoon et.al.|[2503.02922v1](http://arxiv.org/abs/2503.02922v1)|null|
 |**2025-03-04 13:21:47**|**OkraLong: A Flexible Retrieval-Augmented Framework for Long-Text Query   Processing**|Yulong Hui et.al.|[2503.02603v2](http://arxiv.org/abs/2503.02603v2)|null|
@@ -29,6 +32,3 @@
 |**2025-02-27 18:17:26**|**Equilibria and Learning in Modular Marketplaces**|Kshipra Bhawalkar et.al.|[2502.20346v1](http://arxiv.org/abs/2502.20346v1)|null|
 |**2025-02-27 16:19:54**|**Selective Use of Yannakakis' Algorithm to Improve Query Performance:   Machine Learning to the Rescue**|Daniela Böhm et.al.|[2502.20233v1](http://arxiv.org/abs/2502.20233v1)|null|
 |**2025-02-27 15:47:15**|**Differentially-private frugal estimation of quantiles**|Massimo Cafaro et.al.|[2502.20207v1](http://arxiv.org/abs/2502.20207v1)|null|
-|**2025-02-27 07:39:23**|**ProAPO: Progressively Automatic Prompt Optimization for Visual   Classification**|Xiangyan Qu et.al.|[2502.19844v2](http://arxiv.org/abs/2502.19844v2)|[link](https://github.com/MorningStarOvO/ProAPO)|
-|**2025-02-27 05:55:44**|**Mixtera: A Data Plane for Foundation Model Training**|Maximilian Böther et.al.|[2502.19790v1](http://arxiv.org/abs/2502.19790v1)|[link](https://github.com/eth-easl/mixtera)|
-|**2025-02-27 05:12:53**|**QORT-Former: Query-optimized Real-time Transformer for Understanding Two   Hands Manipulating Objects**|Elkhan Ismayilzada et.al.|[2502.19769v1](http://arxiv.org/abs/2502.19769v1)|null|
