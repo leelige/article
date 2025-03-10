@@ -2,8 +2,16 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-07 15:54:04**|**Leveraging Approximate Caching for Faster Retrieval-Augmented Generation**|Shai Bergman et.al.|[2503.05530v1](http://arxiv.org/abs/2503.05530v1)|null|
+|**2025-03-07 15:01:55**|**FastMap: Fast Queries Initialization Based Vectorized HD Map   Reconstruction Framework**|Haotian Hu et.al.|[2503.05492v1](http://arxiv.org/abs/2503.05492v1)|[link](https://github.com/hht1996ok/FastMap)|
+|**2025-03-07 12:39:07**|**Femur: A Flexible Framework for Fast and Secure Querying from Public   Key-Value Store**|Jiaoyi Zhang et.al.|[2503.05376v1](http://arxiv.org/abs/2503.05376v1)|null|
+|**2025-03-07 11:40:52**|**AutoIOT: LLM-Driven Automated Natural Language Programming for AIoT   Applications**|Leming Shen et.al.|[2503.05346v1](http://arxiv.org/abs/2503.05346v1)|null|
+|**2025-03-07 08:25:08**|**MOHPER: Multi-objective Hyperparameter Optimization Framework for   E-commerce Retrieval System**|Jungbae Park et.al.|[2503.05227v1](http://arxiv.org/abs/2503.05227v1)|null|
+|**2025-03-07 06:40:06**|**SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image   via 3D Gaussian Splatting**|Linqi Yang et.al.|[2503.05174v1](http://arxiv.org/abs/2503.05174v1)|null|
 |**2025-03-06 16:59:18**|**HalluCounter: Reference-free LLM Hallucination Detection in the Wild!**|Ashok Urlana et.al.|[2503.04615v1](http://arxiv.org/abs/2503.04615v1)|null|
+|**2025-03-06 09:40:46**|**Manboformer: Learning Gaussian Representations via Spatial-temporal   Attention Mechanism**|Ziyue Zhao et.al.|[2503.04863v1](http://arxiv.org/abs/2503.04863v1)|null|
 |**2025-03-06 09:24:23**|**Incorporating Surrogate Gradient Norm to Improve Offline Optimization   Techniques**|Manh Cuong Dao et.al.|[2503.04242v1](http://arxiv.org/abs/2503.04242v1)|[link](https://github.com/cuong-dm/IGNITE)|
+|**2025-03-05 20:32:21**|**Role of Databases in GenAI Applications**|Santosh Bhupathi et.al.|[2503.04847v1](http://arxiv.org/abs/2503.04847v1)|null|
 |**2025-03-05 19:00:05**|**Zero-Execution Retrieval-Augmented Configuration Tuning of Spark   Applications**|Raunaq Suri et.al.|[2503.03826v1](http://arxiv.org/abs/2503.03826v1)|[link](https://github.com/layer6ai-labs/spark-retrieval-tuning)|
 |**2025-03-05 17:03:48**|**Attentive Reasoning Queries: A Systematic Method for Optimizing   Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669v1](http://arxiv.org/abs/2503.03669v1)|null|
 |**2025-03-05 14:01:17**|**DO-IQS: Dynamics-Aware Offline Inverse Q-Learning for Optimal Stopping   with Unknown Gain Functions**|Anna Kuchko et.al.|[2503.03515v1](http://arxiv.org/abs/2503.03515v1)|null|
@@ -21,14 +29,6 @@
 |**2025-03-03 23:01:36**|**An Efficient Plugin Method for Metric Optimization of Black-Box Models**|Siddartha Devic et.al.|[2503.02119v1](http://arxiv.org/abs/2503.02119v1)|null|
 |**2025-03-03 08:59:34**|**Explainable Depression Detection in Clinical Interviews with   Personalized Retrieval-Augmented Generation**|Linhai Zhang et.al.|[2503.01315v1](http://arxiv.org/abs/2503.01315v1)|null|
 |**2025-03-02 15:13:41**|**Improving the Transferability of Adversarial Attacks by an Input   Transpose**|Qing Wan et.al.|[2503.00932v1](http://arxiv.org/abs/2503.00932v1)|null|
+|**2025-03-02 11:33:22**|**Optimizing Multi-Hop Document Retrieval Through Intermediate   Representations**|Jiaen Lin et.al.|[2503.04796v1](http://arxiv.org/abs/2503.04796v1)|null|
 |**2025-03-01 19:59:25**|**Semantic Integrity Constraints: Declarative Guardrails for AI-Augmented   Data Processing Systems**|Alexander W. Lee et.al.|[2503.00600v1](http://arxiv.org/abs/2503.00600v1)|null|
 |**2025-02-28 20:40:00**|**Optimal Transfer Learning for Missing Not-at-Random Matrix Completion**|Akhil Jalan et.al.|[2503.00174v1](http://arxiv.org/abs/2503.00174v1)|null|
-|**2025-02-28 12:00:57**|**Forecasting Monthly Residential Natural Gas Demand Using   Just-In-Time-Learning Modeling**|Burak Alakent et.al.|[2502.20989v1](http://arxiv.org/abs/2502.20989v1)|null|
-|**2025-02-28 11:32:22**|**TeleRAG: Efficient Retrieval-Augmented Generation Inference with   Lookahead Retrieval**|Chien-Yu Lin et.al.|[2502.20969v1](http://arxiv.org/abs/2502.20969v1)|null|
-|**2025-02-28 07:56:37**|**Towards Reliable Vector Database Management Systems: A Software Testing   Roadmap for 2030**|Shenao Wang et.al.|[2502.20812v1](http://arxiv.org/abs/2502.20812v1)|null|
-|**2025-02-28 06:34:53**|**FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient   Long-Sequence Inference**|Xunhao Lai et.al.|[2502.20766v1](http://arxiv.org/abs/2502.20766v1)|null|
-|**2025-02-28 05:17:19**|**Optimizing Quotient Filters using Graveyard Hashing**|Isabelle Quaye et.al.|[2502.20725v1](http://arxiv.org/abs/2502.20725v1)|null|
-|**2025-02-27 22:35:31**|**ECCOS: Efficient Capability and Cost Coordinated Scheduling for   Multi-LLM Serving**|Kai Mei et.al.|[2502.20576v1](http://arxiv.org/abs/2502.20576v1)|[link](https://github.com/agiresearch/eccos)|
-|**2025-02-27 18:17:26**|**Equilibria and Learning in Modular Marketplaces**|Kshipra Bhawalkar et.al.|[2502.20346v1](http://arxiv.org/abs/2502.20346v1)|null|
-|**2025-02-27 16:19:54**|**Selective Use of Yannakakis' Algorithm to Improve Query Performance:   Machine Learning to the Rescue**|Daniela Böhm et.al.|[2502.20233v1](http://arxiv.org/abs/2502.20233v1)|null|
-|**2025-02-27 15:47:15**|**Differentially-private frugal estimation of quantiles**|Massimo Cafaro et.al.|[2502.20207v1](http://arxiv.org/abs/2502.20207v1)|null|
