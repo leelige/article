@@ -7,6 +7,7 @@
 |**2025-03-04 08:40:42**|**A Binary Classification Social Network Dataset for Graph Machine   Learning**|Adnan Ali et.al.|[2503.02397v1](http://arxiv.org/abs/2503.02397v1)|null|
 |**2025-03-03 12:14:53**|**Provably optimal decision trees with arbitrary splitting rules in   polynomial time**|Xi He et.al.|[2503.01455v1](http://arxiv.org/abs/2503.01455v1)|null|
 |**2025-03-01 17:02:57**|**A Novel Co-Evolutionary Algorithm for Solving a Bilevel Pricing and Hubs   Location Problem under a Tree Topology**|Víctor Blanco et.al.|[2503.00561v1](http://arxiv.org/abs/2503.00561v1)|null|
+|**2025-02-28 10:28:20**|**EXALT: EXplainable ALgorithmic Tools for Optimization Problems**|Zuzanna Bączek et.al.|[2503.05789v1](http://arxiv.org/abs/2503.05789v1)|null|
 |**2025-02-26 22:37:51**|**Learning Ensembles of Interpretable Simple Structure**|Gaurav Arwade et.al.|[2502.19602v1](http://arxiv.org/abs/2502.19602v1)|null|
 |**2025-02-26 08:49:21**|**Accurate 3D Grapevine Structure Extraction from High-Resolution Point   Clouds**|Harry Dobbs et.al.|[2502.20417v1](http://arxiv.org/abs/2502.20417v1)|null|
 |**2025-02-25 02:41:23**|**On-device edge learning for IoT data streams: a survey**|Afonso Lourenço et.al.|[2502.17788v1](http://arxiv.org/abs/2502.17788v1)|null|
@@ -31,4 +32,3 @@
 |**2025-02-05 23:50:47**|**COMNETS: COst-sensitive decision trees approach to throughput   optimization for Multi-radio IoT NETworkS**|Jothi Prasanna Shanmuga Sundaram et.al.|[2502.03677v1](http://arxiv.org/abs/2502.03677v1)|null|
 |**2025-02-05 14:20:34**|**CORTEX: A Cost-Sensitive Rule and Tree Extraction Method**|Marija Kopanja et.al.|[2502.03200v1](http://arxiv.org/abs/2502.03200v1)|null|
 |**2025-02-04 19:30:41**|**Transformers Boost the Performance of Decision Trees on Tabular Data   across Sample Sizes**|Mayuka Jayawardhana et.al.|[2502.02672v2](http://arxiv.org/abs/2502.02672v2)|null|
-|**2025-02-03 21:20:47**|**LeaFi: Data Series Indexes on Steroids with Learned Filters**|Qitong Wang et.al.|[2502.01836v1](http://arxiv.org/abs/2502.01836v1)|[link](https://github.com/qtwang/leafi)|
