@@ -2,6 +2,8 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-11 16:33:48**|**Towards species' classification of the \textit{Anastrepha   pseudoparallela} group**|Gabriel R. Palma et.al.|[2503.08598v1](http://arxiv.org/abs/2503.08598v1)|null|
+|**2025-03-11 14:26:44**|**Progressive hedging for multi-stage stochastic lot sizing problems with   setup carry-over under uncertain demand**|Manuel Schlenkrich et.al.|[2503.08477v1](http://arxiv.org/abs/2503.08477v1)|null|
 |**2025-03-06 17:49:13**|**CLDyB: Towards Dynamic Benchmarking for Continual Learning with   Pre-trained Models**|Shengzhuang Chen et.al.|[2503.04655v1](http://arxiv.org/abs/2503.04655v1)|[link](https://github.com/szc12153/CLDyB)|
 |**2025-03-05 15:02:46**|**Optimal Decision Tree Pruning Revisited: Algorithms and Complexity**|Juha Harviainen et.al.|[2503.03576v1](http://arxiv.org/abs/2503.03576v1)|null|
 |**2025-03-04 08:40:42**|**A Binary Classification Social Network Dataset for Graph Machine   Learning**|Adnan Ali et.al.|[2503.02397v1](http://arxiv.org/abs/2503.02397v1)|null|
@@ -30,5 +32,3 @@
 |**2025-02-06 13:17:03**|**Smart IoT Security: Lightweight Machine Learning Techniques for   Multi-Class Attack Detection in IoT Networks**|Shahran Rahman Alve et.al.|[2502.04057v1](http://arxiv.org/abs/2502.04057v1)|null|
 |**2025-02-06 03:48:25**|**Learning Reward Machines from Partially Observed Optimal Policies**|Mohamad Louai Shehab et.al.|[2502.03762v1](http://arxiv.org/abs/2502.03762v1)|null|
 |**2025-02-05 23:50:47**|**COMNETS: COst-sensitive decision trees approach to throughput   optimization for Multi-radio IoT NETworkS**|Jothi Prasanna Shanmuga Sundaram et.al.|[2502.03677v1](http://arxiv.org/abs/2502.03677v1)|null|
-|**2025-02-05 14:20:34**|**CORTEX: A Cost-Sensitive Rule and Tree Extraction Method**|Marija Kopanja et.al.|[2502.03200v1](http://arxiv.org/abs/2502.03200v1)|null|
-|**2025-02-04 19:30:41**|**Transformers Boost the Performance of Decision Trees on Tabular Data   across Sample Sizes**|Mayuka Jayawardhana et.al.|[2502.02672v2](http://arxiv.org/abs/2502.02672v2)|null|

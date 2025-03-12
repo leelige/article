@@ -2,6 +2,15 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-11 17:59:57**|**QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long   Video Comprehension**|Yongdong Luo et.al.|[2503.08689v1](http://arxiv.org/abs/2503.08689v1)|[link](https://github.com/MAC-AutoML/QuoTA)|
+|**2025-03-11 09:24:48**|**Buffered Partially-Persistent External-Memory Search Trees**|Gerth Stølting Brodal et.al.|[2503.08211v1](http://arxiv.org/abs/2503.08211v1)|null|
+|**2025-03-11 07:46:19**|**Large Scale Multi-Task Bayesian Optimization with Large Language Models**|Yimeng Zeng et.al.|[2503.08131v1](http://arxiv.org/abs/2503.08131v1)|null|
+|**2025-03-11 04:24:59**|**Learning to Search Effective Example Sequences for In-Context Learning**|Xiang Gao et.al.|[2503.08030v1](http://arxiv.org/abs/2503.08030v1)|null|
+|**2025-03-11 02:27:37**|**Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free   Class-Incremental Learning**|Haoran Chen et.al.|[2503.07979v1](http://arxiv.org/abs/2503.07979v1)|null|
+|**2025-03-10 22:01:24**|**LLMIdxAdvis: Resource-Efficient Index Advisor Utilizing Large Language   Model**|Xinxin Zhao et.al.|[2503.07884v1](http://arxiv.org/abs/2503.07884v1)|null|
+|**2025-03-10 20:13:07**|**Magnet: Multi-turn Tool-use Data Synthesis and Distillation via Graph   Translation**|Fan Yin et.al.|[2503.07826v1](http://arxiv.org/abs/2503.07826v1)|null|
+|**2025-03-10 17:58:03**|**DreamRelation: Relation-Centric Video Customization**|Yujie Wei et.al.|[2503.07602v1](http://arxiv.org/abs/2503.07602v1)|null|
+|**2025-03-10 16:49:35**|**VisRL: Intention-Driven Visual Perception via Reinforced Reasoning**|Zhangquan Chen et.al.|[2503.07523v1](http://arxiv.org/abs/2503.07523v1)|[link](https://github.com/zhangquanchen/VisRL))|
 |**2025-03-10 13:28:36**|**AttenST: A Training-Free Attention-Driven Style Transfer Framework with   Pre-Trained Diffusion Models**|Bo Huang et.al.|[2503.07307v1](http://arxiv.org/abs/2503.07307v1)|null|
 |**2025-03-10 13:20:59**|**Goal Conditioned Reinforcement Learning for Photo Finishing Tuning**|Jiarui Wu et.al.|[2503.07300v1](http://arxiv.org/abs/2503.07300v1)|null|
 |**2025-03-10 12:01:52**|**Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories**|Jerzy Marcinkowski et.al.|[2503.07219v1](http://arxiv.org/abs/2503.07219v1)|null|
@@ -23,12 +32,3 @@
 |**2025-03-06 16:59:18**|**HalluCounter: Reference-free LLM Hallucination Detection in the Wild!**|Ashok Urlana et.al.|[2503.04615v1](http://arxiv.org/abs/2503.04615v1)|null|
 |**2025-03-06 09:40:46**|**Manboformer: Learning Gaussian Representations via Spatial-temporal   Attention Mechanism**|Ziyue Zhao et.al.|[2503.04863v1](http://arxiv.org/abs/2503.04863v1)|null|
 |**2025-03-06 09:24:23**|**Incorporating Surrogate Gradient Norm to Improve Offline Optimization   Techniques**|Manh Cuong Dao et.al.|[2503.04242v1](http://arxiv.org/abs/2503.04242v1)|[link](https://github.com/cuong-dm/IGNITE)|
-|**2025-03-05 20:32:21**|**Role of Databases in GenAI Applications**|Santosh Bhupathi et.al.|[2503.04847v1](http://arxiv.org/abs/2503.04847v1)|null|
-|**2025-03-05 19:00:05**|**Zero-Execution Retrieval-Augmented Configuration Tuning of Spark   Applications**|Raunaq Suri et.al.|[2503.03826v1](http://arxiv.org/abs/2503.03826v1)|[link](https://github.com/layer6ai-labs/spark-retrieval-tuning)|
-|**2025-03-05 17:03:48**|**Attentive Reasoning Queries: A Systematic Method for Optimizing   Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669v1](http://arxiv.org/abs/2503.03669v1)|[link](https://github.com/emcie-co/parlant)|
-|**2025-03-05 14:01:17**|**DO-IQS: Dynamics-Aware Offline Inverse Q-Learning for Optimal Stopping   with Unknown Gain Functions**|Anna Kuchko et.al.|[2503.03515v1](http://arxiv.org/abs/2503.03515v1)|null|
-|**2025-03-05 13:29:01**|**Logarithmic-Time Internal Pattern Matching Queries in Compressed and   Dynamic Texts**|Anouk Duyster et.al.|[2503.03488v1](http://arxiv.org/abs/2503.03488v1)|null|
-|**2025-03-05 12:40:34**|**Data Poisoning Attacks to Locally Differentially Private Range Query   Protocols**|Ting-Wei Liao et.al.|[2503.03454v2](http://arxiv.org/abs/2503.03454v2)|null|
-|**2025-03-05 09:17:01**|**Information Theory Strikes Back: New Development in the Theory of   Cardinality Estimation**|Mahmoud Abo Khamis et.al.|[2503.03290v1](http://arxiv.org/abs/2503.03290v1)|null|
-|**2025-03-05 02:43:52**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous   Driving**|Ziying Song et.al.|[2503.03125v2](http://arxiv.org/abs/2503.03125v2)|[link](https://github.com/adept-thu/momad)|
-|**2025-03-04 19:28:39**|**TreeCat: Standalone Catalog Engine for Large Data Systems**|Keonwoo Oh et.al.|[2503.02956v1](http://arxiv.org/abs/2503.02956v1)|null|
