@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-11 17:54:29**|**Understanding and Mitigating Distribution Shifts For Machine Learning   Force Fields**|Tobias Kreiman et.al.|[2503.08674v1](http://arxiv.org/abs/2503.08674v1)|null|
-|**2025-03-11 17:42:36**|**Extra Clients at No Extra Cost: Overcome Data Heterogeneity in Federated   Learning with Filter Decomposition**|Wei Chen et.al.|[2503.08652v1](http://arxiv.org/abs/2503.08652v1)|null|
-|**2025-03-11 17:34:38**|**Coefficient-to-Basis Network: A Fine-Tunable Operator Learning Framework   for Inverse Problems with Adaptive Discretizations and Theoretical Guarantees**|Zecheng Zhang et.al.|[2503.08642v1](http://arxiv.org/abs/2503.08642v1)|null|
-|**2025-03-11 17:30:58**|**Efficient Many-Shot In-Context Learning with Dynamic Block-Sparse   Attention**|Emily Xiao et.al.|[2503.08640v1](http://arxiv.org/abs/2503.08640v1)|null|
-|**2025-03-11 16:43:45**|**Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled   Sampling**|Subin Kim et.al.|[2503.08605v1](http://arxiv.org/abs/2503.08605v1)|null|
-|**2025-03-11 15:20:01**|**SignRep: Enhancing Self-Supervised Sign Representations**|Ryan Wong et.al.|[2503.08529v1](http://arxiv.org/abs/2503.08529v1)|null|
-|**2025-03-11 14:26:44**|**Progressive hedging for multi-stage stochastic lot sizing problems with   setup carry-over under uncertain demand**|Manuel Schlenkrich et.al.|[2503.08477v1](http://arxiv.org/abs/2503.08477v1)|null|
-|**2025-03-11 14:04:29**|**Controlling Latent Diffusion Using Latent CLIP**|Jason Becker et.al.|[2503.08455v1](http://arxiv.org/abs/2503.08455v1)|null|
-|**2025-03-11 13:40:34**|**Accelerated Distributed Optimization with Compression and Error Feedback**|Yuan Gao et.al.|[2503.08427v1](http://arxiv.org/abs/2503.08427v1)|null|
-|**2025-03-11 13:04:05**|**OpenRAG: Optimizing RAG End-to-End via In-Context Retrieval Learning**|Jiawei Zhou et.al.|[2503.08398v1](http://arxiv.org/abs/2503.08398v1)|null|
-|**2025-03-11 12:24:54**|**Debiased Prompt Tuning in Vision-Language Model without Annotations**|Chaoquan Jiang et.al.|[2503.08368v1](http://arxiv.org/abs/2503.08368v1)|null|
-|**2025-03-11 11:52:37**|**Attention Reallocation: Towards Zero-cost and Controllable Hallucination   Mitigation of MLLMs**|Chongjun Tu et.al.|[2503.08342v1](http://arxiv.org/abs/2503.08342v1)|null|
-|**2025-03-11 11:45:20**|**1LoRA: Summation Compression for Very Low-Rank Adaptation**|Alessio Quercia et.al.|[2503.08333v1](http://arxiv.org/abs/2503.08333v1)|null|
-|**2025-03-11 11:34:57**|**Towards Scalable and Cross-Lingual Specialist Language Models for   Oncology**|Morteza Rohanian et.al.|[2503.08323v1](http://arxiv.org/abs/2503.08323v1)|null|
-|**2025-03-11 10:50:14**|**OminiControl2: Efficient Conditioning for Diffusion Transformers**|Zhenxiong Tan et.al.|[2503.08280v1](http://arxiv.org/abs/2503.08280v1)|null|
-|**2025-03-11 09:43:36**|**New Co-Simulation Variants for Emissions and Cost Reduction of   Sustainable District Heating Planning**|Haozhen Cheng et.al.|[2503.08225v1](http://arxiv.org/abs/2503.08225v1)|null|
-|**2025-03-11 09:37:13**|**S3R-GS: Streamlining the Pipeline for Large-Scale Street Scene   Reconstruction**|Guangting Zheng et.al.|[2503.08217v1](http://arxiv.org/abs/2503.08217v1)|null|
-|**2025-03-11 09:12:51**|**Scale-Aware Pre-Training for Human-Centric Visual Perception: Enabling   Lightweight and Generalizable Models**|Xuanhan Wang et.al.|[2503.08201v1](http://arxiv.org/abs/2503.08201v1)|null|
-|**2025-03-11 08:54:03**|**SoTCKGE:Continual Knowledge Graph Embedding Based on Spatial Offset   Transformation**|Xinyan Wang et.al.|[2503.08189v1](http://arxiv.org/abs/2503.08189v1)|null|
-|**2025-03-11 08:47:13**|**Mutation Testing via Iterative Large Language Model-Driven Scientific   Debugging**|Philipp Straubinger et.al.|[2503.08182v1](http://arxiv.org/abs/2503.08182v1)|null|
-|**2025-03-11 08:36:37**|**Investigating the Effectiveness of a Socratic Chain-of-Thoughts   Reasoning Method for Task Planning in Robotics, A Case Study**|Veronica Bot et.al.|[2503.08174v1](http://arxiv.org/abs/2503.08174v1)|null|
-|**2025-03-11 08:01:06**|**Phase Transitions and Critical Behavior in Quasi-One-Dimensional   Two-Channel Systems with Quasiperiodic Disorder**|Mohammad Pouranvari et.al.|[2503.08143v1](http://arxiv.org/abs/2503.08143v1)|null|
-|**2025-03-11 07:30:18**|**ACE: Concept Editing in Diffusion Models without Performance Degradation**|Ruipeng Wang et.al.|[2503.08116v1](http://arxiv.org/abs/2503.08116v1)|[link](https://github.com/littlelittlenine/ACE-zero.git)|
-|**2025-03-11 06:37:54**|**PRISM: Privacy-Preserving Improved Stochastic Masking for Federated   Generative Models**|Kyeongkook Seo et.al.|[2503.08085v1](http://arxiv.org/abs/2503.08085v1)|null|
-|**2025-03-11 06:29:13**|**Degradation Self-Supervised Learning for Lithium-ion Battery Health   Diagnostics**|J. C. Chen et.al.|[2503.08083v1](http://arxiv.org/abs/2503.08083v1)|null|
-|**2025-03-11 06:23:28**|**Electrifying Heavy-Duty Trucks: Battery-Swapping vs Fast Charging**|Ruiting Wang et.al.|[2503.08080v1](http://arxiv.org/abs/2503.08080v1)|null|
-|**2025-03-11 05:59:43**|**Simulating Automotive Radar with Lidar and Camera Inputs**|Peili Song et.al.|[2503.08068v1](http://arxiv.org/abs/2503.08068v1)|null|
-|**2025-03-11 05:06:11**|**SphOR: A Representation Learning Perspective on Open-set Recognition for   Identifying Unknown Classes in Deep Learning Models**|Nadarasar Bahavan et.al.|[2503.08049v1](http://arxiv.org/abs/2503.08049v1)|null|
-|**2025-03-11 05:00:19**|**Adapting Large Language Models for Parameter-Efficient Log Anomaly   Detection**|Ying Fu Lim et.al.|[2503.08045v1](http://arxiv.org/abs/2503.08045v1)|[link](https://github.com/mala-lab/LogADReft)|
-|**2025-03-11 04:45:48**|**Accurate INT8 Training Through Dynamic Block-Level Fallback**|Pengle Zhang et.al.|[2503.08040v1](http://arxiv.org/abs/2503.08040v1)|null|
+|**2025-03-12 17:57:32**|**BIMBA: Selective-Scan Compression for Long-Range Video Question   Answering**|Md Mohaiminul Islam et.al.|[2503.09590v1](http://arxiv.org/abs/2503.09590v1)|null|
+|**2025-03-12 17:50:42**|**Cost-Optimal Grouped-Query Attention for Long-Context LLMs**|Yingfa Chen et.al.|[2503.09579v1](http://arxiv.org/abs/2503.09579v1)|null|
+|**2025-03-12 17:33:22**|**TPDiff: Temporal Pyramid Video Diffusion Model**|Lingmin Ran et.al.|[2503.09566v1](http://arxiv.org/abs/2503.09566v1)|null|
+|**2025-03-12 16:49:56**|**Large Language Models for Multi-Facility Location Mechanism Design**|Nguyen Thach et.al.|[2503.09533v1](http://arxiv.org/abs/2503.09533v1)|null|
+|**2025-03-12 16:48:58**|**Anisotropic temperature-dependent lattice parameters and elastic   constants from first principles**|Samare Rostami et.al.|[2503.09531v1](http://arxiv.org/abs/2503.09531v1)|null|
+|**2025-03-12 16:03:03**|**MindGYM: Enhancing Vision-Language Models via Synthetic Self-Challenging   Questions**|Zhe Xu et.al.|[2503.09499v1](http://arxiv.org/abs/2503.09499v1)|null|
+|**2025-03-12 16:03:00**|**Towards Robust Multimodal Representation: A Unified Approach with   Adaptive Experts and Alignment**|Nazanin Moradinasab et.al.|[2503.09498v1](http://arxiv.org/abs/2503.09498v1)|[link](https://github.com/NazaninMn/MoSARe)|
+|**2025-03-12 15:53:58**|**Parameter-Efficient Adaptation of Geospatial Foundation Models through   Embedding Deflection**|Romain Thoreau et.al.|[2503.09493v1](http://arxiv.org/abs/2503.09493v1)|null|
+|**2025-03-12 14:26:34**|**Modelling lined rock caverns subject to hydrogen embrittlement and   cyclic pressurisation in fractured rock masses**|Chenxi Zhao et.al.|[2503.09429v1](http://arxiv.org/abs/2503.09429v1)|null|
+|**2025-03-12 14:15:57**|**Towards Generating Automatic Anaphora Annotations**|Dima Taji et.al.|[2503.09417v1](http://arxiv.org/abs/2503.09417v1)|null|
+|**2025-03-12 14:13:17**|**OpenVidVRD: Open-Vocabulary Video Visual Relation Detection via   Prompt-Driven Semantic Space Alignment**|Qi Liu et.al.|[2503.09416v1](http://arxiv.org/abs/2503.09416v1)|null|
+|**2025-03-12 13:53:57**|**Multi-Agent Image Restoration**|Xu Jiang et.al.|[2503.09403v1](http://arxiv.org/abs/2503.09403v1)|null|
+|**2025-03-12 13:16:00**|**Task Allocation for Multi-agent Systems via Unequal-dimensional Optimal   Transport**|Anqi Dong et.al.|[2503.09369v1](http://arxiv.org/abs/2503.09369v1)|null|
+|**2025-03-12 12:58:30**|**Fully-Synthetic Training for Visual Quality Inspection in Automotive   Production**|Christoph Huber et.al.|[2503.09354v1](http://arxiv.org/abs/2503.09354v1)|null|
+|**2025-03-12 12:41:02**|**Unified Dense Prediction of Video Diffusion**|Lehan Yang et.al.|[2503.09344v1](http://arxiv.org/abs/2503.09344v1)|null|
+|**2025-03-12 12:10:02**|**RaceTEE: A Practical Privacy-Preserving Off-Chain Smart Contract   Execution Architecture**|Keyu Zhang et.al.|[2503.09317v1](http://arxiv.org/abs/2503.09317v1)|null|
+|**2025-03-12 12:05:03**|**ShuffleGate: An Efficient and Self-Polarizing Feature Selection Method   for Large-Scale Deep Models in Industry**|Yihong Huang et.al.|[2503.09315v1](http://arxiv.org/abs/2503.09315v1)|null|
+|**2025-03-12 12:02:02**|**Steering No-Regret Agents in MFGs under Model Uncertainty**|Leo Widmer et.al.|[2503.09309v1](http://arxiv.org/abs/2503.09309v1)|null|
+|**2025-03-12 10:38:58**|**NAMI: Efficient Image Generation via Progressive Rectified Flow   Transformers**|Yuhang Ma et.al.|[2503.09242v1](http://arxiv.org/abs/2503.09242v1)|null|
+|**2025-03-12 10:10:55**|**X-ray spectral fitting with Monte Carlo Dropout Neural Networks**|A. Tutone et.al.|[2503.09224v1](http://arxiv.org/abs/2503.09224v1)|null|
+|**2025-03-12 09:39:33**|**Teaching LMMs for Image Quality Scoring and Interpreting**|Zicheng Zhang et.al.|[2503.09197v1](http://arxiv.org/abs/2503.09197v1)|[link](https://github.com/Q-Future/Q-SiT)|
+|**2025-03-12 09:13:21**|**Dynamic Feature Selection from Variable Feature Sets Using Features of   Features**|Katsumi Takahashi et.al.|[2503.09181v1](http://arxiv.org/abs/2503.09181v1)|null|
+|**2025-03-12 09:00:45**|**Long-Term Planning Around Humans in Domestic Environments with 3D Scene   Graphs**|Ermanno Bartoli et.al.|[2503.09173v1](http://arxiv.org/abs/2503.09173v1)|null|
+|**2025-03-12 08:58:28**|**Effective Feature Selection for Predicting Spreading Factor with ML in   Large LoRaWAN-based Mobile IoT Networks**|Aman Prakash et.al.|[2503.09170v1](http://arxiv.org/abs/2503.09170v1)|null|
+|**2025-03-12 08:10:33**|**Exo2Ego: Exocentric Knowledge Guided MLLM for Egocentric Video   Understanding**|Haoyu Zhang et.al.|[2503.09143v1](http://arxiv.org/abs/2503.09143v1)|null|
+|**2025-03-12 07:08:54**|**GRU: Mitigating the Trade-off between Unlearning and Retention for Large   Language Models**|Yue Wang et.al.|[2503.09117v1](http://arxiv.org/abs/2503.09117v1)|null|
+|**2025-03-12 07:01:34**|**Sometimes Painful but Certainly Promising: Feasibility and Trade-offs of   Language Model Inference at the Edge**|Maximilian Abstreiter et.al.|[2503.09114v1](http://arxiv.org/abs/2503.09114v1)|null|
+|**2025-03-12 06:47:28**|**Modeling of Rumor Propagation in Large Populations with Network via   Graphon Games**|Huaning Liu et.al.|[2503.09107v1](http://arxiv.org/abs/2503.09107v1)|null|
+|**2025-03-12 06:34:12**|**Tacchi 2.0: A Low Computational Cost and Comprehensive Dynamic Contact   Simulator for Vision-based Tactile Sensors**|Yuhao Sun et.al.|[2503.09100v1](http://arxiv.org/abs/2503.09100v1)|null|
+|**2025-03-12 06:00:16**|**Data-Driven Inverse Optimal Control for Continuous-Time Nonlinear   Systems**|Hamed Jabbari Asl et.al.|[2503.09090v1](http://arxiv.org/abs/2503.09090v1)|null|

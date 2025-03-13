@@ -2,6 +2,12 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-12 17:50:42**|**Cost-Optimal Grouped-Query Attention for Long-Context LLMs**|Yingfa Chen et.al.|[2503.09579v1](http://arxiv.org/abs/2503.09579v1)|null|
+|**2025-03-12 16:26:39**|**Search-R1: Training LLMs to Reason and Leverage Search Engines with   Reinforcement Learning**|Bowen Jin et.al.|[2503.09516v1](http://arxiv.org/abs/2503.09516v1)|[link](https://github.com/PeterGriffinJin/Search-R1)|
+|**2025-03-12 15:30:39**|**SurgicalVLM-Agent: Towards an Interactive AI Co-Pilot for Pituitary   Surgery**|Jiayuan Huang et.al.|[2503.09474v1](http://arxiv.org/abs/2503.09474v1)|null|
+|**2025-03-12 10:10:30**|**LREF: A Novel LLM-based Relevance Framework for E-commerce**|Tian Tang et.al.|[2503.09223v1](http://arxiv.org/abs/2503.09223v1)|null|
+|**2025-03-12 08:23:32**|**Memory-enhanced Retrieval Augmentation for Long Video Understanding**|Huaying Yuan et.al.|[2503.09149v1](http://arxiv.org/abs/2503.09149v1)|null|
+|**2025-03-12 00:07:39**|**LLM-Driven Usefulness Labeling for IR Evaluation**|Mouly Dewan et.al.|[2503.08965v1](http://arxiv.org/abs/2503.08965v1)|null|
 |**2025-03-11 17:59:57**|**QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long   Video Comprehension**|Yongdong Luo et.al.|[2503.08689v1](http://arxiv.org/abs/2503.08689v1)|[link](https://github.com/MAC-AutoML/QuoTA)|
 |**2025-03-11 09:24:48**|**Buffered Partially-Persistent External-Memory Search Trees**|Gerth Stølting Brodal et.al.|[2503.08211v1](http://arxiv.org/abs/2503.08211v1)|null|
 |**2025-03-11 07:46:19**|**Large Scale Multi-Task Bayesian Optimization with Large Language Models**|Yimeng Zeng et.al.|[2503.08131v1](http://arxiv.org/abs/2503.08131v1)|null|
@@ -21,14 +27,8 @@
 |**2025-03-09 01:38:21**|**Bayesian Optimization for Robust Identification of Ornstein-Uhlenbeck   Model**|Jinwen Xu et.al.|[2503.06381v1](http://arxiv.org/abs/2503.06381v1)|null|
 |**2025-03-08 15:46:38**|**Poisoned-MRAG: Knowledge Poisoning Attacks to Multimodal Retrieval   Augmented Generation**|Yinuo Liu et.al.|[2503.06254v1](http://arxiv.org/abs/2503.06254v1)|null|
 |**2025-03-08 13:01:22**|**Removing Multiple Hybrid Adverse Weather in Video via a Unified Model**|Yecong Wan et.al.|[2503.06200v1](http://arxiv.org/abs/2503.06200v1)|null|
-|**2025-03-07 23:31:58**|**Near-Polynomially Competitive Active Logistic Regression**|Yihan Zhou et.al.|[2503.05981v1](http://arxiv.org/abs/2503.05981v1)|null|
+|**2025-03-07 23:31:58**|**Near-Polynomially Competitive Active Logistic Regression**|Yihan Zhou et.al.|[2503.05981v1](http://arxiv.org/abs/2503.05981v1)|[link](https://github.com/trung6/ActLogReg)|
 |**2025-03-07 21:11:44**|**CASP: Compression of Large Multimodal Models Based on Attention Sparsity**|Mohsen Gholami et.al.|[2503.05936v1](http://arxiv.org/abs/2503.05936v1)|null|
 |**2025-03-07 15:54:04**|**Leveraging Approximate Caching for Faster Retrieval-Augmented Generation**|Shai Bergman et.al.|[2503.05530v1](http://arxiv.org/abs/2503.05530v1)|null|
 |**2025-03-07 15:01:55**|**FastMap: Fast Queries Initialization Based Vectorized HD Map   Reconstruction Framework**|Haotian Hu et.al.|[2503.05492v1](http://arxiv.org/abs/2503.05492v1)|[link](https://github.com/hht1996ok/FastMap)|
 |**2025-03-07 12:39:07**|**Femur: A Flexible Framework for Fast and Secure Querying from Public   Key-Value Store**|Jiaoyi Zhang et.al.|[2503.05376v1](http://arxiv.org/abs/2503.05376v1)|null|
-|**2025-03-07 11:40:52**|**AutoIOT: LLM-Driven Automated Natural Language Programming for AIoT   Applications**|Leming Shen et.al.|[2503.05346v1](http://arxiv.org/abs/2503.05346v1)|null|
-|**2025-03-07 08:25:08**|**MOHPER: Multi-objective Hyperparameter Optimization Framework for   E-commerce Retrieval System**|Jungbae Park et.al.|[2503.05227v1](http://arxiv.org/abs/2503.05227v1)|null|
-|**2025-03-07 06:40:06**|**SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image   via 3D Gaussian Splatting**|Linqi Yang et.al.|[2503.05174v1](http://arxiv.org/abs/2503.05174v1)|null|
-|**2025-03-06 16:59:18**|**HalluCounter: Reference-free LLM Hallucination Detection in the Wild!**|Ashok Urlana et.al.|[2503.04615v1](http://arxiv.org/abs/2503.04615v1)|null|
-|**2025-03-06 09:40:46**|**Manboformer: Learning Gaussian Representations via Spatial-temporal   Attention Mechanism**|Ziyue Zhao et.al.|[2503.04863v1](http://arxiv.org/abs/2503.04863v1)|null|
-|**2025-03-06 09:24:23**|**Incorporating Surrogate Gradient Norm to Improve Offline Optimization   Techniques**|Manh Cuong Dao et.al.|[2503.04242v1](http://arxiv.org/abs/2503.04242v1)|[link](https://github.com/cuong-dm/IGNITE)|
