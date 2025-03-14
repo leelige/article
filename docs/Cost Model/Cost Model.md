@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-12 17:57:32**|**BIMBA: Selective-Scan Compression for Long-Range Video Question   Answering**|Md Mohaiminul Islam et.al.|[2503.09590v1](http://arxiv.org/abs/2503.09590v1)|null|
-|**2025-03-12 17:50:42**|**Cost-Optimal Grouped-Query Attention for Long-Context LLMs**|Yingfa Chen et.al.|[2503.09579v1](http://arxiv.org/abs/2503.09579v1)|null|
-|**2025-03-12 17:33:22**|**TPDiff: Temporal Pyramid Video Diffusion Model**|Lingmin Ran et.al.|[2503.09566v1](http://arxiv.org/abs/2503.09566v1)|null|
-|**2025-03-12 16:49:56**|**Large Language Models for Multi-Facility Location Mechanism Design**|Nguyen Thach et.al.|[2503.09533v1](http://arxiv.org/abs/2503.09533v1)|null|
-|**2025-03-12 16:48:58**|**Anisotropic temperature-dependent lattice parameters and elastic   constants from first principles**|Samare Rostami et.al.|[2503.09531v1](http://arxiv.org/abs/2503.09531v1)|null|
-|**2025-03-12 16:03:03**|**MindGYM: Enhancing Vision-Language Models via Synthetic Self-Challenging   Questions**|Zhe Xu et.al.|[2503.09499v1](http://arxiv.org/abs/2503.09499v1)|null|
-|**2025-03-12 16:03:00**|**Towards Robust Multimodal Representation: A Unified Approach with   Adaptive Experts and Alignment**|Nazanin Moradinasab et.al.|[2503.09498v1](http://arxiv.org/abs/2503.09498v1)|[link](https://github.com/NazaninMn/MoSARe)|
-|**2025-03-12 15:53:58**|**Parameter-Efficient Adaptation of Geospatial Foundation Models through   Embedding Deflection**|Romain Thoreau et.al.|[2503.09493v1](http://arxiv.org/abs/2503.09493v1)|null|
-|**2025-03-12 14:26:34**|**Modelling lined rock caverns subject to hydrogen embrittlement and   cyclic pressurisation in fractured rock masses**|Chenxi Zhao et.al.|[2503.09429v1](http://arxiv.org/abs/2503.09429v1)|null|
-|**2025-03-12 14:15:57**|**Towards Generating Automatic Anaphora Annotations**|Dima Taji et.al.|[2503.09417v1](http://arxiv.org/abs/2503.09417v1)|null|
-|**2025-03-12 14:13:17**|**OpenVidVRD: Open-Vocabulary Video Visual Relation Detection via   Prompt-Driven Semantic Space Alignment**|Qi Liu et.al.|[2503.09416v1](http://arxiv.org/abs/2503.09416v1)|null|
-|**2025-03-12 13:53:57**|**Multi-Agent Image Restoration**|Xu Jiang et.al.|[2503.09403v1](http://arxiv.org/abs/2503.09403v1)|null|
-|**2025-03-12 13:16:00**|**Task Allocation for Multi-agent Systems via Unequal-dimensional Optimal   Transport**|Anqi Dong et.al.|[2503.09369v1](http://arxiv.org/abs/2503.09369v1)|null|
-|**2025-03-12 12:58:30**|**Fully-Synthetic Training for Visual Quality Inspection in Automotive   Production**|Christoph Huber et.al.|[2503.09354v1](http://arxiv.org/abs/2503.09354v1)|null|
-|**2025-03-12 12:41:02**|**Unified Dense Prediction of Video Diffusion**|Lehan Yang et.al.|[2503.09344v1](http://arxiv.org/abs/2503.09344v1)|null|
-|**2025-03-12 12:10:02**|**RaceTEE: A Practical Privacy-Preserving Off-Chain Smart Contract   Execution Architecture**|Keyu Zhang et.al.|[2503.09317v1](http://arxiv.org/abs/2503.09317v1)|null|
-|**2025-03-12 12:05:03**|**ShuffleGate: An Efficient and Self-Polarizing Feature Selection Method   for Large-Scale Deep Models in Industry**|Yihong Huang et.al.|[2503.09315v1](http://arxiv.org/abs/2503.09315v1)|null|
-|**2025-03-12 12:02:02**|**Steering No-Regret Agents in MFGs under Model Uncertainty**|Leo Widmer et.al.|[2503.09309v1](http://arxiv.org/abs/2503.09309v1)|null|
-|**2025-03-12 10:38:58**|**NAMI: Efficient Image Generation via Progressive Rectified Flow   Transformers**|Yuhang Ma et.al.|[2503.09242v1](http://arxiv.org/abs/2503.09242v1)|null|
-|**2025-03-12 10:10:55**|**X-ray spectral fitting with Monte Carlo Dropout Neural Networks**|A. Tutone et.al.|[2503.09224v1](http://arxiv.org/abs/2503.09224v1)|null|
-|**2025-03-12 09:39:33**|**Teaching LMMs for Image Quality Scoring and Interpreting**|Zicheng Zhang et.al.|[2503.09197v1](http://arxiv.org/abs/2503.09197v1)|[link](https://github.com/Q-Future/Q-SiT)|
-|**2025-03-12 09:13:21**|**Dynamic Feature Selection from Variable Feature Sets Using Features of   Features**|Katsumi Takahashi et.al.|[2503.09181v1](http://arxiv.org/abs/2503.09181v1)|null|
-|**2025-03-12 09:00:45**|**Long-Term Planning Around Humans in Domestic Environments with 3D Scene   Graphs**|Ermanno Bartoli et.al.|[2503.09173v1](http://arxiv.org/abs/2503.09173v1)|null|
-|**2025-03-12 08:58:28**|**Effective Feature Selection for Predicting Spreading Factor with ML in   Large LoRaWAN-based Mobile IoT Networks**|Aman Prakash et.al.|[2503.09170v1](http://arxiv.org/abs/2503.09170v1)|null|
-|**2025-03-12 08:10:33**|**Exo2Ego: Exocentric Knowledge Guided MLLM for Egocentric Video   Understanding**|Haoyu Zhang et.al.|[2503.09143v1](http://arxiv.org/abs/2503.09143v1)|null|
-|**2025-03-12 07:08:54**|**GRU: Mitigating the Trade-off between Unlearning and Retention for Large   Language Models**|Yue Wang et.al.|[2503.09117v1](http://arxiv.org/abs/2503.09117v1)|null|
-|**2025-03-12 07:01:34**|**Sometimes Painful but Certainly Promising: Feasibility and Trade-offs of   Language Model Inference at the Edge**|Maximilian Abstreiter et.al.|[2503.09114v1](http://arxiv.org/abs/2503.09114v1)|null|
-|**2025-03-12 06:47:28**|**Modeling of Rumor Propagation in Large Populations with Network via   Graphon Games**|Huaning Liu et.al.|[2503.09107v1](http://arxiv.org/abs/2503.09107v1)|null|
-|**2025-03-12 06:34:12**|**Tacchi 2.0: A Low Computational Cost and Comprehensive Dynamic Contact   Simulator for Vision-based Tactile Sensors**|Yuhao Sun et.al.|[2503.09100v1](http://arxiv.org/abs/2503.09100v1)|null|
-|**2025-03-12 06:00:16**|**Data-Driven Inverse Optimal Control for Continuous-Time Nonlinear   Systems**|Hamed Jabbari Asl et.al.|[2503.09090v1](http://arxiv.org/abs/2503.09090v1)|null|
+|**2025-03-13 17:55:45**|**CoSTA$\ast$: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613v1](http://arxiv.org/abs/2503.10613v1)|[link](https://github.com/tianyi-lab/CoSTAR)|
+|**2025-03-13 17:32:03**|**Simulating charging characteristics of lithium iron phosphate by   electro-ionic optimization on a quantum annealer**|Tobias Binninger et.al.|[2503.10581v1](http://arxiv.org/abs/2503.10581v1)|null|
+|**2025-03-13 17:12:14**|**The Lagrangian Method for Solving Constrained Markov Games**|Soham Das et.al.|[2503.10561v1](http://arxiv.org/abs/2503.10561v1)|null|
+|**2025-03-13 16:59:17**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for   Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546v1](http://arxiv.org/abs/2503.10546v1)|null|
+|**2025-03-13 16:04:31**|**TokenCarve: Information-Preserving Visual Token Compression in   Multimodal Large Language Models**|Xudong Tan et.al.|[2503.10501v1](http://arxiv.org/abs/2503.10501v1)|[link](https://github.com/ShawnTan86/TokenCarve)|
+|**2025-03-13 14:31:55**|**An Architectural View Type for Elasticity Modeling and Simulation -- The   Slingshot Approach**|Floriment Klinaku et.al.|[2503.10407v1](http://arxiv.org/abs/2503.10407v1)|null|
+|**2025-03-13 13:47:03**|**G-Boost: Boosting Private SLMs with General LLMs**|Yijiang Fan et.al.|[2503.10367v1](http://arxiv.org/abs/2503.10367v1)|null|
+|**2025-03-13 13:23:43**|**Mirror Online Conformal Prediction with Intermittent Feedback**|Bowen Wang et.al.|[2503.10345v1](http://arxiv.org/abs/2503.10345v1)|null|
+|**2025-03-13 13:03:38**|**Collaborative Speculative Inference for Efficient LLM Inference Serving**|Luyao Gao et.al.|[2503.10325v1](http://arxiv.org/abs/2503.10325v1)|null|
+|**2025-03-13 12:58:40**|**Towards Fast, Memory-based and Data-Efficient Vision-Language Policy**|Haoxuan Li et.al.|[2503.10322v1](http://arxiv.org/abs/2503.10322v1)|null|
+|**2025-03-13 12:49:53**|**A rotation-based geometrically nonlinear spectral Reissner--Mindlin   shell element**|Nima Azizi et.al.|[2503.10314v1](http://arxiv.org/abs/2503.10314v1)|null|
+|**2025-03-13 11:16:58**|**KVQ: Boosting Video Quality Assessment via Saliency-guided Local   Perception**|Yunpeng Qu et.al.|[2503.10259v1](http://arxiv.org/abs/2503.10259v1)|[link](https://github.com/qyp2000/KVQ)|
+|**2025-03-13 11:16:42**|**AMR-Transformer: Enabling Efficient Long-range Interaction for Complex   Neural Fluid Simulation**|Zeyi Xu et.al.|[2503.10257v1](http://arxiv.org/abs/2503.10257v1)|null|
+|**2025-03-13 10:32:50**|**SCOOP: A Framework for Proactive Collaboration and Social Continual   Learning through Natural Language Interaction andCausal Reasoning**|Dimitri Ognibene et.al.|[2503.10241v1](http://arxiv.org/abs/2503.10241v1)|null|
+|**2025-03-13 10:25:21**|**Shaved Ice: Optimal Compute Resource Commitments for Dynamic Multi-Cloud   Workloads**|Murray Stokely et.al.|[2503.10235v1](http://arxiv.org/abs/2503.10235v1)|null|
+|**2025-03-13 09:59:16**|**Efficient Federated Fine-Tuning of Large Language Models with Layer   Dropout**|Shilong Wang et.al.|[2503.10217v1](http://arxiv.org/abs/2503.10217v1)|null|
+|**2025-03-13 09:40:21**|**A Spectral Projected Gradient Method for Computational Protein Design   problem**|Yukai Zheng et.al.|[2503.10203v1](http://arxiv.org/abs/2503.10203v1)|null|
+|**2025-03-13 09:14:11**|**Through the Magnifying Glass: Adaptive Perception Magnification for   Hallucination-Free VLM Decoding**|Shunqi Mao et.al.|[2503.10183v1](http://arxiv.org/abs/2503.10183v1)|[link](https://github.com/ShunqiM/PM)|
+|**2025-03-13 08:57:17**|**Towards more reliable public transportation Wi-Fi Origin-Destination   matrices: Modeling errors using synthetic noise and optical counts**|Léa Fabre et.al.|[2503.10175v1](http://arxiv.org/abs/2503.10175v1)|null|
+|**2025-03-13 08:43:24**|**ImageScope: Unifying Language-Guided Image Retrieval via Large   Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166v1](http://arxiv.org/abs/2503.10166v1)|null|
+|**2025-03-13 07:55:01**|**A Generalized Non-local Quasicontinuum Approach for Efficient Modeling   of Architected Truss-based Lattice Structures**|Zi Li et.al.|[2503.10134v1](http://arxiv.org/abs/2503.10134v1)|null|
+|**2025-03-13 07:28:33**|**Hybrid Agents for Image Restoration**|Bingchen Li et.al.|[2503.10120v1](http://arxiv.org/abs/2503.10120v1)|null|
+|**2025-03-13 07:09:00**|**IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories   via Vision-Language Models**|Yiyang Ling et.al.|[2503.10110v1](http://arxiv.org/abs/2503.10110v1)|null|
+|**2025-03-13 06:40:33**|**Light-weighted foundation model for seismic data processing based on   representative and non-redundant pre-training dataset**|Xintong Dong et.al.|[2503.10092v1](http://arxiv.org/abs/2503.10092v1)|null|
+|**2025-03-13 05:39:00**|**Advanced Tool Learning and Selection System (ATLASS): A Closed-Loop   Framework Using LLM**|Mohd Ariful Haque et.al.|[2503.10071v1](http://arxiv.org/abs/2503.10071v1)|null|
+|**2025-03-13 05:00:23**|**Model-Agnostic Knowledge Guided Correction for Improved Neural Surrogate   Rollout**|Bharat Srikishan et.al.|[2503.10048v1](http://arxiv.org/abs/2503.10048v1)|[link](https://github.com/scailab/HyPER)|
+|**2025-03-13 04:59:46**|**Dual-domain Modulation Network for Lightweight Image Super-Resolution**|Wenjie Li et.al.|[2503.10047v1](http://arxiv.org/abs/2503.10047v1)|null|
+|**2025-03-13 04:50:55**|**FourierSR: A Fourier Token-based Plugin for Efficient Image   Super-Resolution**|Wenjie Li et.al.|[2503.10043v1](http://arxiv.org/abs/2503.10043v1)|null|
+|**2025-03-13 03:59:51**|**One-Shot Federated Unsupervised Domain Adaptation with Scaled Entropy   Attention and Multi-Source Smoothed Pseudo Labeling**|Ali Abedi et.al.|[2503.10020v1](http://arxiv.org/abs/2503.10020v1)|null|
+|**2025-03-13 03:31:10**|**On Persistently Resetting Learning Integrators: A Framework For   Model-Free Feedback Optimization**|Mahmoud Abdelgalil et.al.|[2503.10006v1](http://arxiv.org/abs/2503.10006v1)|null|
