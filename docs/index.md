@@ -1,31 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2025-03-15 16:10:13 Asia/Shanghai
-
-## Decision Tree
-
-### Decsion Tree
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-13 02:07:14**|**Optimizing Fire Safety: Reducing False Alarms Using Advanced Machine   Learning Techniques**|Muhammad Hassan Jamal et.al.|[2503.09960v1](http://arxiv.org/abs/2503.09960v1)|null|
-|**2025-03-13 00:48:48**|**Developing and Evaluating an AI-Assisted Prediction Model for Unplanned   Intensive Care Admissions following Elective Neurosurgery using Natural   Language Processing within an Electronic Healthcare Record System**|Julia Ive et.al.|[2503.09927v1](http://arxiv.org/abs/2503.09927v1)|null|
-|**2025-03-12 13:53:23**|**Graph-based Full Event Interpretation: a graph neural network for event   reconstruction in Belle II**|Merna Abumusabh et.al.|[2503.09401v1](http://arxiv.org/abs/2503.09401v1)|null|
-|**2025-03-12 08:58:28**|**Effective Feature Selection for Predicting Spreading Factor with ML in   Large LoRaWAN-based Mobile IoT Networks**|Aman Prakash et.al.|[2503.09170v1](http://arxiv.org/abs/2503.09170v1)|null|
-|**2025-03-11 16:40:38**|**Neurosymbolic Decision Trees**|Matthias Möller et.al.|[2503.08762v1](http://arxiv.org/abs/2503.08762v1)|null|
-|**2025-03-11 16:33:48**|**Towards species' classification of the \textit{Anastrepha   pseudoparallela} group**|Gabriel R. Palma et.al.|[2503.08598v1](http://arxiv.org/abs/2503.08598v1)|null|
-|**2025-03-11 14:26:44**|**Progressive hedging for multi-stage stochastic lot sizing problems with   setup carry-over under uncertain demand**|Manuel Schlenkrich et.al.|[2503.08477v1](http://arxiv.org/abs/2503.08477v1)|null|
-|**2025-03-06 17:49:13**|**CLDyB: Towards Dynamic Benchmarking for Continual Learning with   Pre-trained Models**|Shengzhuang Chen et.al.|[2503.04655v1](http://arxiv.org/abs/2503.04655v1)|[link](https://github.com/szc12153/CLDyB)|
-|**2025-03-05 15:02:46**|**Optimal Decision Tree Pruning Revisited: Algorithms and Complexity**|Juha Harviainen et.al.|[2503.03576v1](http://arxiv.org/abs/2503.03576v1)|null|
-|**2025-03-04 08:40:42**|**A Binary Classification Social Network Dataset for Graph Machine   Learning**|Adnan Ali et.al.|[2503.02397v1](http://arxiv.org/abs/2503.02397v1)|null|
-|**2025-03-03 12:14:53**|**Provably optimal decision trees with arbitrary splitting rules in   polynomial time**|Xi He et.al.|[2503.01455v1](http://arxiv.org/abs/2503.01455v1)|null|
-|**2025-03-01 17:02:57**|**A Novel Co-Evolutionary Algorithm for Solving a Bilevel Pricing and Hubs   Location Problem under a Tree Topology**|Víctor Blanco et.al.|[2503.00561v1](http://arxiv.org/abs/2503.00561v1)|null|
-|**2025-02-28 10:28:20**|**EXALT: EXplainable ALgorithmic Tools for Optimization Problems**|Zuzanna Bączek et.al.|[2503.05789v1](http://arxiv.org/abs/2503.05789v1)|null|
-|**2025-02-26 22:37:51**|**Learning Ensembles of Interpretable Simple Structure**|Gaurav Arwade et.al.|[2502.19602v1](http://arxiv.org/abs/2502.19602v1)|null|
-|**2025-02-26 08:49:21**|**Accurate 3D Grapevine Structure Extraction from High-Resolution Point   Clouds**|Harry Dobbs et.al.|[2502.20417v1](http://arxiv.org/abs/2502.20417v1)|null|
-|**2025-02-25 02:41:23**|**On-device edge learning for IoT data streams: a survey**|Afonso Lourenço et.al.|[2502.17788v1](http://arxiv.org/abs/2502.17788v1)|null|
-|**2025-02-23 04:18:05**|**Ensemble RL through Classifier Models: Enhancing Risk-Return Trade-offs   in Trading Strategies**|Zheli Xiong et.al.|[2502.17518v1](http://arxiv.org/abs/2502.17518v1)|null|
-|**2025-02-23 02:29:14**|**Decision-tree decoders for general quantum LDPC codes**|Kai R. Ott et.al.|[2502.16408v1](http://arxiv.org/abs/2502.16408v1)|null|
-|**2025-02-21 22:57:17**|**Near Optimal Decision Trees in a SPLIT Second**|Varun Babbar et.al.|[2502.15988v1](http://arxiv.org/abs/2502.15988v1)|null|
-|**2025-02-21 19:37:57**|**Explaining the Success of Nearest Neighbor Methods in Prediction**|George H. Chen et.al.|[2502.15900v1](http://arxiv.org/abs/2502.15900v1)|null|
+ 自动更新 @ 2025-03-16 16:10:55 Asia/Shanghai
 
 ## Cost Model
 
@@ -52,6 +26,16 @@
 |**2025-03-13 09:14:11**|**Through the Magnifying Glass: Adaptive Perception Magnification for   Hallucination-Free VLM Decoding**|Shunqi Mao et.al.|[2503.10183v1](http://arxiv.org/abs/2503.10183v1)|[link](https://github.com/ShunqiM/PM)|
 |**2025-03-13 08:57:17**|**Towards more reliable public transportation Wi-Fi Origin-Destination   matrices: Modeling errors using synthetic noise and optical counts**|Léa Fabre et.al.|[2503.10175v1](http://arxiv.org/abs/2503.10175v1)|null|
 |**2025-03-13 08:43:24**|**ImageScope: Unifying Language-Guided Image Retrieval via Large   Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166v1](http://arxiv.org/abs/2503.10166v1)|null|
+|**2025-03-13 07:55:01**|**A Generalized Non-local Quasicontinuum Approach for Efficient Modeling   of Architected Truss-based Lattice Structures**|Zi Li et.al.|[2503.10134v1](http://arxiv.org/abs/2503.10134v1)|null|
+|**2025-03-13 07:28:33**|**Hybrid Agents for Image Restoration**|Bingchen Li et.al.|[2503.10120v1](http://arxiv.org/abs/2503.10120v1)|null|
+|**2025-03-13 07:09:00**|**IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories   via Vision-Language Models**|Yiyang Ling et.al.|[2503.10110v1](http://arxiv.org/abs/2503.10110v1)|null|
+|**2025-03-13 06:40:33**|**Light-weighted foundation model for seismic data processing based on   representative and non-redundant pre-training dataset**|Xintong Dong et.al.|[2503.10092v1](http://arxiv.org/abs/2503.10092v1)|null|
+|**2025-03-13 05:39:00**|**Advanced Tool Learning and Selection System (ATLASS): A Closed-Loop   Framework Using LLM**|Mohd Ariful Haque et.al.|[2503.10071v1](http://arxiv.org/abs/2503.10071v1)|null|
+|**2025-03-13 05:00:23**|**Model-Agnostic Knowledge Guided Correction for Improved Neural Surrogate   Rollout**|Bharat Srikishan et.al.|[2503.10048v1](http://arxiv.org/abs/2503.10048v1)|[link](https://github.com/scailab/HyPER)|
+|**2025-03-13 04:59:46**|**Dual-domain Modulation Network for Lightweight Image Super-Resolution**|Wenjie Li et.al.|[2503.10047v1](http://arxiv.org/abs/2503.10047v1)|null|
+|**2025-03-13 04:50:55**|**FourierSR: A Fourier Token-based Plugin for Efficient Image   Super-Resolution**|Wenjie Li et.al.|[2503.10043v1](http://arxiv.org/abs/2503.10043v1)|null|
+|**2025-03-13 03:59:51**|**One-Shot Federated Unsupervised Domain Adaptation with Scaled Entropy   Attention and Multi-Source Smoothed Pseudo Labeling**|Ali Abedi et.al.|[2503.10020v1](http://arxiv.org/abs/2503.10020v1)|null|
+|**2025-03-13 03:31:10**|**On Persistently Resetting Learning Integrators: A Framework For   Model-Free Feedback Optimization**|Mahmoud Abdelgalil et.al.|[2503.10006v1](http://arxiv.org/abs/2503.10006v1)|null|
 
 ## Query Optimization
 
@@ -88,3 +72,39 @@
 |**2025-03-09 18:51:14**|**Pull-Based Query Scheduling for Goal-Oriented Semantic Communication**|Pouya Agheli et.al.|[2503.06725v1](http://arxiv.org/abs/2503.06725v1)|null|
 |**2025-03-09 06:20:24**|**HuixiangDou2: A Robustly Optimized GraphRAG Approach**|Huanjun Kong et.al.|[2503.06474v1](http://arxiv.org/abs/2503.06474v1)|[link](https://github.com/tpoisonooo/huixiangdou2)|
 |**2025-03-09 01:38:21**|**Bayesian Optimization for Robust Identification of Ornstein-Uhlenbeck   Model**|Jinwen Xu et.al.|[2503.06381v1](http://arxiv.org/abs/2503.06381v1)|null|
+
+## Decision Tree
+
+### Decsion Tree
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-13 02:07:14**|**Optimizing Fire Safety: Reducing False Alarms Using Advanced Machine   Learning Techniques**|Muhammad Hassan Jamal et.al.|[2503.09960v1](http://arxiv.org/abs/2503.09960v1)|null|
+|**2025-03-13 00:48:48**|**Developing and Evaluating an AI-Assisted Prediction Model for Unplanned   Intensive Care Admissions following Elective Neurosurgery using Natural   Language Processing within an Electronic Healthcare Record System**|Julia Ive et.al.|[2503.09927v1](http://arxiv.org/abs/2503.09927v1)|null|
+|**2025-03-12 13:53:23**|**Graph-based Full Event Interpretation: a graph neural network for event   reconstruction in Belle II**|Merna Abumusabh et.al.|[2503.09401v1](http://arxiv.org/abs/2503.09401v1)|null|
+|**2025-03-12 08:58:28**|**Effective Feature Selection for Predicting Spreading Factor with ML in   Large LoRaWAN-based Mobile IoT Networks**|Aman Prakash et.al.|[2503.09170v1](http://arxiv.org/abs/2503.09170v1)|null|
+|**2025-03-11 16:40:38**|**Neurosymbolic Decision Trees**|Matthias Möller et.al.|[2503.08762v1](http://arxiv.org/abs/2503.08762v1)|null|
+|**2025-03-11 16:33:48**|**Towards species' classification of the \textit{Anastrepha   pseudoparallela} group**|Gabriel R. Palma et.al.|[2503.08598v1](http://arxiv.org/abs/2503.08598v1)|null|
+|**2025-03-11 14:26:44**|**Progressive hedging for multi-stage stochastic lot sizing problems with   setup carry-over under uncertain demand**|Manuel Schlenkrich et.al.|[2503.08477v1](http://arxiv.org/abs/2503.08477v1)|null|
+|**2025-03-06 17:49:13**|**CLDyB: Towards Dynamic Benchmarking for Continual Learning with   Pre-trained Models**|Shengzhuang Chen et.al.|[2503.04655v1](http://arxiv.org/abs/2503.04655v1)|[link](https://github.com/szc12153/CLDyB)|
+|**2025-03-05 15:02:46**|**Optimal Decision Tree Pruning Revisited: Algorithms and Complexity**|Juha Harviainen et.al.|[2503.03576v1](http://arxiv.org/abs/2503.03576v1)|null|
+|**2025-03-04 08:40:42**|**A Binary Classification Social Network Dataset for Graph Machine   Learning**|Adnan Ali et.al.|[2503.02397v1](http://arxiv.org/abs/2503.02397v1)|null|
+|**2025-03-03 12:14:53**|**Provably optimal decision trees with arbitrary splitting rules in   polynomial time**|Xi He et.al.|[2503.01455v1](http://arxiv.org/abs/2503.01455v1)|null|
+|**2025-03-01 17:02:57**|**A Novel Co-Evolutionary Algorithm for Solving a Bilevel Pricing and Hubs   Location Problem under a Tree Topology**|Víctor Blanco et.al.|[2503.00561v1](http://arxiv.org/abs/2503.00561v1)|null|
+|**2025-02-28 10:28:20**|**EXALT: EXplainable ALgorithmic Tools for Optimization Problems**|Zuzanna Bączek et.al.|[2503.05789v1](http://arxiv.org/abs/2503.05789v1)|null|
+|**2025-02-26 22:37:51**|**Learning Ensembles of Interpretable Simple Structure**|Gaurav Arwade et.al.|[2502.19602v1](http://arxiv.org/abs/2502.19602v1)|null|
+|**2025-02-26 08:49:21**|**Accurate 3D Grapevine Structure Extraction from High-Resolution Point   Clouds**|Harry Dobbs et.al.|[2502.20417v1](http://arxiv.org/abs/2502.20417v1)|null|
+|**2025-02-25 02:41:23**|**On-device edge learning for IoT data streams: a survey**|Afonso Lourenço et.al.|[2502.17788v1](http://arxiv.org/abs/2502.17788v1)|null|
+|**2025-02-23 04:18:05**|**Ensemble RL through Classifier Models: Enhancing Risk-Return Trade-offs   in Trading Strategies**|Zheli Xiong et.al.|[2502.17518v1](http://arxiv.org/abs/2502.17518v1)|null|
+|**2025-02-23 02:29:14**|**Decision-tree decoders for general quantum LDPC codes**|Kai R. Ott et.al.|[2502.16408v1](http://arxiv.org/abs/2502.16408v1)|null|
+|**2025-02-21 22:57:17**|**Near Optimal Decision Trees in a SPLIT Second**|Varun Babbar et.al.|[2502.15988v1](http://arxiv.org/abs/2502.15988v1)|null|
+|**2025-02-21 19:37:57**|**Explaining the Success of Nearest Neighbor Methods in Prediction**|George H. Chen et.al.|[2502.15900v1](http://arxiv.org/abs/2502.15900v1)|null|
+|**2025-02-21 08:43:50**|**Comparative Analysis of Black Hole Mass Estimation in Type-2 AGNs:   Classical vs. Quantum Machine Learning and Deep Learning Approaches**|Sathwik Narkedimilli et.al.|[2502.15297v2](http://arxiv.org/abs/2502.15297v2)|null|
+|**2025-02-19 12:45:42**|**DFDT: Dynamic Fast Decision Tree for IoT Data Stream Mining on Edge   Devices**|Afonso Lourenço et.al.|[2502.14011v1](http://arxiv.org/abs/2502.14011v1)|null|
+|**2025-02-17 03:51:40**|**Quantum decision trees with information entropy**|Zhelun Li et.al.|[2502.11412v3](http://arxiv.org/abs/2502.11412v3)|null|
+|**2025-02-16 06:39:36**|**Leveraging Large Language Models for Cybersecurity: Enhancing SMS Spam   Detection with Robust and Context-Aware Text Classification**|Mohsen Ahmadi et.al.|[2502.11014v1](http://arxiv.org/abs/2502.11014v1)|null|
+|**2025-02-14 14:22:51**|**A Powerful Random Forest Featuring Linear Extensions (RaFFLE)**|Jakob Raymaekers et.al.|[2502.10185v1](http://arxiv.org/abs/2502.10185v1)|null|
+|**2025-02-14 03:14:50**|**Interpretable Early Warnings using Machine Learning in an Online   Game-experiment**|Guillaume Falmagne et.al.|[2502.09880v1](http://arxiv.org/abs/2502.09880v1)|[link](https://github.com/AnnieStephenson/r-place-emergence)|
+|**2025-02-12 19:03:09**|**A Comparative Study of Machine Learning Algorithms for Stock Price   Prediction Using Insider Trading Data**|Amitabh Chakravorty et.al.|[2502.08728v1](http://arxiv.org/abs/2502.08728v1)|null|
+|**2025-02-12 15:59:06**|**Abstract questionnaires and FS-decision digraphs**|Jiaye Chen et.al.|[2502.08522v1](http://arxiv.org/abs/2502.08522v1)|null|
+|**2025-02-11 23:40:53**|**Speculate, then Collaborate: Fusing Knowledge of Language Models during   Decoding**|Ziyao Wang et.al.|[2502.08020v1](http://arxiv.org/abs/2502.08020v1)|null|
+|**2025-02-09 15:46:42**|**Polynomial Regret Concentration of UCB for Non-Deterministic State   Transitions**|Can Cömer et.al.|[2502.06900v1](http://arxiv.org/abs/2502.06900v1)|null|

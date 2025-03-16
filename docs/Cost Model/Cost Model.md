@@ -22,3 +22,13 @@
 |**2025-03-13 09:14:11**|**Through the Magnifying Glass: Adaptive Perception Magnification for   Hallucination-Free VLM Decoding**|Shunqi Mao et.al.|[2503.10183v1](http://arxiv.org/abs/2503.10183v1)|[link](https://github.com/ShunqiM/PM)|
 |**2025-03-13 08:57:17**|**Towards more reliable public transportation Wi-Fi Origin-Destination   matrices: Modeling errors using synthetic noise and optical counts**|Léa Fabre et.al.|[2503.10175v1](http://arxiv.org/abs/2503.10175v1)|null|
 |**2025-03-13 08:43:24**|**ImageScope: Unifying Language-Guided Image Retrieval via Large   Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166v1](http://arxiv.org/abs/2503.10166v1)|null|
+|**2025-03-13 07:55:01**|**A Generalized Non-local Quasicontinuum Approach for Efficient Modeling   of Architected Truss-based Lattice Structures**|Zi Li et.al.|[2503.10134v1](http://arxiv.org/abs/2503.10134v1)|null|
+|**2025-03-13 07:28:33**|**Hybrid Agents for Image Restoration**|Bingchen Li et.al.|[2503.10120v1](http://arxiv.org/abs/2503.10120v1)|null|
+|**2025-03-13 07:09:00**|**IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories   via Vision-Language Models**|Yiyang Ling et.al.|[2503.10110v1](http://arxiv.org/abs/2503.10110v1)|null|
+|**2025-03-13 06:40:33**|**Light-weighted foundation model for seismic data processing based on   representative and non-redundant pre-training dataset**|Xintong Dong et.al.|[2503.10092v1](http://arxiv.org/abs/2503.10092v1)|null|
+|**2025-03-13 05:39:00**|**Advanced Tool Learning and Selection System (ATLASS): A Closed-Loop   Framework Using LLM**|Mohd Ariful Haque et.al.|[2503.10071v1](http://arxiv.org/abs/2503.10071v1)|null|
+|**2025-03-13 05:00:23**|**Model-Agnostic Knowledge Guided Correction for Improved Neural Surrogate   Rollout**|Bharat Srikishan et.al.|[2503.10048v1](http://arxiv.org/abs/2503.10048v1)|[link](https://github.com/scailab/HyPER)|
+|**2025-03-13 04:59:46**|**Dual-domain Modulation Network for Lightweight Image Super-Resolution**|Wenjie Li et.al.|[2503.10047v1](http://arxiv.org/abs/2503.10047v1)|null|
+|**2025-03-13 04:50:55**|**FourierSR: A Fourier Token-based Plugin for Efficient Image   Super-Resolution**|Wenjie Li et.al.|[2503.10043v1](http://arxiv.org/abs/2503.10043v1)|null|
+|**2025-03-13 03:59:51**|**One-Shot Federated Unsupervised Domain Adaptation with Scaled Entropy   Attention and Multi-Source Smoothed Pseudo Labeling**|Ali Abedi et.al.|[2503.10020v1](http://arxiv.org/abs/2503.10020v1)|null|
+|**2025-03-13 03:31:10**|**On Persistently Resetting Learning Integrators: A Framework For   Model-Free Feedback Optimization**|Mahmoud Abdelgalil et.al.|[2503.10006v1](http://arxiv.org/abs/2503.10006v1)|null|

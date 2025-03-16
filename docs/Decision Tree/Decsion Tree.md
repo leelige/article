@@ -22,3 +22,13 @@
 |**2025-02-23 02:29:14**|**Decision-tree decoders for general quantum LDPC codes**|Kai R. Ott et.al.|[2502.16408v1](http://arxiv.org/abs/2502.16408v1)|null|
 |**2025-02-21 22:57:17**|**Near Optimal Decision Trees in a SPLIT Second**|Varun Babbar et.al.|[2502.15988v1](http://arxiv.org/abs/2502.15988v1)|null|
 |**2025-02-21 19:37:57**|**Explaining the Success of Nearest Neighbor Methods in Prediction**|George H. Chen et.al.|[2502.15900v1](http://arxiv.org/abs/2502.15900v1)|null|
+|**2025-02-21 08:43:50**|**Comparative Analysis of Black Hole Mass Estimation in Type-2 AGNs:   Classical vs. Quantum Machine Learning and Deep Learning Approaches**|Sathwik Narkedimilli et.al.|[2502.15297v2](http://arxiv.org/abs/2502.15297v2)|null|
+|**2025-02-19 12:45:42**|**DFDT: Dynamic Fast Decision Tree for IoT Data Stream Mining on Edge   Devices**|Afonso Lourenço et.al.|[2502.14011v1](http://arxiv.org/abs/2502.14011v1)|null|
+|**2025-02-17 03:51:40**|**Quantum decision trees with information entropy**|Zhelun Li et.al.|[2502.11412v3](http://arxiv.org/abs/2502.11412v3)|null|
+|**2025-02-16 06:39:36**|**Leveraging Large Language Models for Cybersecurity: Enhancing SMS Spam   Detection with Robust and Context-Aware Text Classification**|Mohsen Ahmadi et.al.|[2502.11014v1](http://arxiv.org/abs/2502.11014v1)|null|
+|**2025-02-14 14:22:51**|**A Powerful Random Forest Featuring Linear Extensions (RaFFLE)**|Jakob Raymaekers et.al.|[2502.10185v1](http://arxiv.org/abs/2502.10185v1)|null|
+|**2025-02-14 03:14:50**|**Interpretable Early Warnings using Machine Learning in an Online   Game-experiment**|Guillaume Falmagne et.al.|[2502.09880v1](http://arxiv.org/abs/2502.09880v1)|[link](https://github.com/AnnieStephenson/r-place-emergence)|
+|**2025-02-12 19:03:09**|**A Comparative Study of Machine Learning Algorithms for Stock Price   Prediction Using Insider Trading Data**|Amitabh Chakravorty et.al.|[2502.08728v1](http://arxiv.org/abs/2502.08728v1)|null|
+|**2025-02-12 15:59:06**|**Abstract questionnaires and FS-decision digraphs**|Jiaye Chen et.al.|[2502.08522v1](http://arxiv.org/abs/2502.08522v1)|null|
+|**2025-02-11 23:40:53**|**Speculate, then Collaborate: Fusing Knowledge of Language Models during   Decoding**|Ziyao Wang et.al.|[2502.08020v1](http://arxiv.org/abs/2502.08020v1)|null|
+|**2025-02-09 15:46:42**|**Polynomial Regret Concentration of UCB for Non-Deterministic State   Transitions**|Can Cömer et.al.|[2502.06900v1](http://arxiv.org/abs/2502.06900v1)|null|
