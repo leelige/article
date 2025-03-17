@@ -2,6 +2,11 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-14 17:39:45**|**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak   Attacks via Adversarial Defense**|Shuyang Hao et.al.|[2503.11619v1](http://arxiv.org/abs/2503.11619v1)|null|
+|**2025-03-14 16:55:46**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs   using Semantic Space**|Zhiliang Chen et.al.|[2503.11586v1](http://arxiv.org/abs/2503.11586v1)|[link](https://github.com/chenzhiliang94/convo-plan-SCOPE)|
+|**2025-03-14 14:24:27**|**Preference Elicitation for Multi-objective Combinatorial Optimization   with Active Learning and Maximum Likelihood Estimation**|Marianne Defresne et.al.|[2503.11435v1](http://arxiv.org/abs/2503.11435v1)|null|
+|**2025-03-14 06:43:19**|**Don't Forget It! Conditional Sparse Autoencoder Clamping Works for   Unlearning**|Matthew Khoriaty et.al.|[2503.11127v1](http://arxiv.org/abs/2503.11127v1)|null|
+|**2025-03-13 20:54:28**|**SCE: Scalable Consistency Ensembles Make Blackbox Large Language Model   Generation More Reliable**|Jiaxin Zhang et.al.|[2503.10881v1](http://arxiv.org/abs/2503.10881v1)|null|
 |**2025-03-13 16:59:17**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for   Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546v1](http://arxiv.org/abs/2503.10546v1)|null|
 |**2025-03-13 12:12:44**|**CODEI: Resource-Efficient Task-Driven Co-Design of Perception and   Decision Making for Mobile Robots Applied to Autonomous Vehicles**|Dejan Milojevic et.al.|[2503.10296v1](http://arxiv.org/abs/2503.10296v1)|null|
 |**2025-03-13 10:32:50**|**SCOOP: A Framework for Proactive Collaboration and Social Continual   Learning through Natural Language Interaction andCausal Reasoning**|Dimitri Ognibene et.al.|[2503.10241v1](http://arxiv.org/abs/2503.10241v1)|null|
@@ -27,8 +32,3 @@
 |**2025-03-10 13:28:36**|**AttenST: A Training-Free Attention-Driven Style Transfer Framework with   Pre-Trained Diffusion Models**|Bo Huang et.al.|[2503.07307v1](http://arxiv.org/abs/2503.07307v1)|[link](https://github.com/HuanBor/AttenST)|
 |**2025-03-10 13:20:59**|**Goal Conditioned Reinforcement Learning for Photo Finishing Tuning**|Jiarui Wu et.al.|[2503.07300v1](http://arxiv.org/abs/2503.07300v1)|null|
 |**2025-03-10 12:01:52**|**Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories**|Jerzy Marcinkowski et.al.|[2503.07219v1](http://arxiv.org/abs/2503.07219v1)|null|
-|**2025-03-10 07:10:38**|**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**|Wenzhuo Xu et.al.|[2503.06989v1](http://arxiv.org/abs/2503.06989v1)|null|
-|**2025-03-10 04:07:56**|**A Query Optimization Method Utilizing Large Language Models**|Zhiming Yao et.al.|[2503.06902v1](http://arxiv.org/abs/2503.06902v1)|null|
-|**2025-03-09 18:51:14**|**Pull-Based Query Scheduling for Goal-Oriented Semantic Communication**|Pouya Agheli et.al.|[2503.06725v1](http://arxiv.org/abs/2503.06725v1)|null|
-|**2025-03-09 06:20:24**|**HuixiangDou2: A Robustly Optimized GraphRAG Approach**|Huanjun Kong et.al.|[2503.06474v1](http://arxiv.org/abs/2503.06474v1)|[link](https://github.com/tpoisonooo/huixiangdou2)|
-|**2025-03-09 01:38:21**|**Bayesian Optimization for Robust Identification of Ornstein-Uhlenbeck   Model**|Jinwen Xu et.al.|[2503.06381v1](http://arxiv.org/abs/2503.06381v1)|null|
