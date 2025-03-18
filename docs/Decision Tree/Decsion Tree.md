@@ -2,6 +2,9 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-17 08:03:47**|**Experiments with Optimal Model Trees**|Sabino Francesco Roselli et.al.|[2503.12902v1](http://arxiv.org/abs/2503.12902v1)|null|
+|**2025-03-16 20:07:23**|**Clustered random forests with correlated data for optimal estimation and   inference under potential covariate shift**|Elliot H. Young et.al.|[2503.12634v1](http://arxiv.org/abs/2503.12634v1)|null|
+|**2025-03-15 15:51:06**|**Value Gradients with Action Adaptive Search Trees in Continuous (PO)MDPs**|Idan Lev-Yehudi et.al.|[2503.12181v1](http://arxiv.org/abs/2503.12181v1)|null|
 |**2025-03-13 02:07:14**|**Optimizing Fire Safety: Reducing False Alarms Using Advanced Machine   Learning Techniques**|Muhammad Hassan Jamal et.al.|[2503.09960v1](http://arxiv.org/abs/2503.09960v1)|null|
 |**2025-03-13 00:48:48**|**Developing and Evaluating an AI-Assisted Prediction Model for Unplanned   Intensive Care Admissions following Elective Neurosurgery using Natural   Language Processing within an Electronic Healthcare Record System**|Julia Ive et.al.|[2503.09927v1](http://arxiv.org/abs/2503.09927v1)|null|
 |**2025-03-12 13:53:23**|**Graph-based Full Event Interpretation: a graph neural network for event   reconstruction in Belle II**|Merna Abumusabh et.al.|[2503.09401v2](http://arxiv.org/abs/2503.09401v2)|null|
@@ -29,6 +32,3 @@
 |**2025-02-14 14:22:51**|**A Powerful Random Forest Featuring Linear Extensions (RaFFLE)**|Jakob Raymaekers et.al.|[2502.10185v1](http://arxiv.org/abs/2502.10185v1)|null|
 |**2025-02-14 03:14:50**|**Interpretable Early Warnings using Machine Learning in an Online   Game-experiment**|Guillaume Falmagne et.al.|[2502.09880v1](http://arxiv.org/abs/2502.09880v1)|[link](https://github.com/AnnieStephenson/r-place-emergence)|
 |**2025-02-12 19:03:09**|**A Comparative Study of Machine Learning Algorithms for Stock Price   Prediction Using Insider Trading Data**|Amitabh Chakravorty et.al.|[2502.08728v1](http://arxiv.org/abs/2502.08728v1)|null|
-|**2025-02-12 15:59:06**|**Abstract questionnaires and FS-decision digraphs**|Jiaye Chen et.al.|[2502.08522v1](http://arxiv.org/abs/2502.08522v1)|null|
-|**2025-02-11 23:40:53**|**Speculate, then Collaborate: Fusing Knowledge of Language Models during   Decoding**|Ziyao Wang et.al.|[2502.08020v1](http://arxiv.org/abs/2502.08020v1)|null|
-|**2025-02-09 15:46:42**|**Polynomial Regret Concentration of UCB for Non-Deterministic State   Transitions**|Can Cömer et.al.|[2502.06900v1](http://arxiv.org/abs/2502.06900v1)|null|

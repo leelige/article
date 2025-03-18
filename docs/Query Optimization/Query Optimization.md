@@ -2,10 +2,18 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-17 15:27:02**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275v1](http://arxiv.org/abs/2503.13275v1)|null|
+|**2025-03-17 15:16:59**|**TablePilot; Recommending Human-Preferred Tabular Data Analysis with   Large Language Models**|Deyin Yi et.al.|[2503.13262v1](http://arxiv.org/abs/2503.13262v1)|null|
+|**2025-03-17 09:47:42**|**Robot Policy Transfer with Online Demonstrations: An Active   Reinforcement Learning Approach**|Muhan Hou et.al.|[2503.12993v1](http://arxiv.org/abs/2503.12993v1)|null|
+|**2025-03-17 07:20:11**|**nvBench 2.0: A Benchmark for Natural Language to Visualization under   Ambiguity**|Tianqi Luo et.al.|[2503.12880v1](http://arxiv.org/abs/2503.12880v1)|null|
+|**2025-03-17 02:00:49**|**In-Context Linear Regression Demystified: Training Dynamics and   Mechanistic Interpretability of Multi-Head Softmax Attention**|Jianliang He et.al.|[2503.12734v1](http://arxiv.org/abs/2503.12734v1)|null|
+|**2025-03-16 03:20:52**|**Augmented Adversarial Trigger Learning**|Zhe Wang et.al.|[2503.12339v1](http://arxiv.org/abs/2503.12339v1)|null|
+|**2025-03-15 18:09:55**|**Multiple-response agents: Fast, feasible, approximate primal recovery   for dual optimization methods**|Tetiana Parshakova et.al.|[2503.12221v1](http://arxiv.org/abs/2503.12221v1)|null|
 |**2025-03-14 17:39:45**|**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak   Attacks via Adversarial Defense**|Shuyang Hao et.al.|[2503.11619v1](http://arxiv.org/abs/2503.11619v1)|null|
 |**2025-03-14 16:55:46**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs   using Semantic Space**|Zhiliang Chen et.al.|[2503.11586v1](http://arxiv.org/abs/2503.11586v1)|[link](https://github.com/chenzhiliang94/convo-plan-SCOPE)|
 |**2025-03-14 14:24:27**|**Preference Elicitation for Multi-objective Combinatorial Optimization   with Active Learning and Maximum Likelihood Estimation**|Marianne Defresne et.al.|[2503.11435v1](http://arxiv.org/abs/2503.11435v1)|null|
 |**2025-03-14 06:43:19**|**Don't Forget It! Conditional Sparse Autoencoder Clamping Works for   Unlearning**|Matthew Khoriaty et.al.|[2503.11127v1](http://arxiv.org/abs/2503.11127v1)|null|
+|**2025-03-14 00:26:36**|**A Quantum Algorithm for the Classification of Patterns of Boolean   Functions**|Theodore Andronikos et.al.|[2503.11722v1](http://arxiv.org/abs/2503.11722v1)|null|
 |**2025-03-13 20:54:28**|**SCE: Scalable Consistency Ensembles Make Blackbox Large Language Model   Generation More Reliable**|Jiaxin Zhang et.al.|[2503.10881v1](http://arxiv.org/abs/2503.10881v1)|null|
 |**2025-03-13 16:59:17**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for   Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546v1](http://arxiv.org/abs/2503.10546v1)|null|
 |**2025-03-13 12:12:44**|**CODEI: Resource-Efficient Task-Driven Co-Design of Perception and   Decision Making for Mobile Robots Applied to Autonomous Vehicles**|Dejan Milojevic et.al.|[2503.10296v1](http://arxiv.org/abs/2503.10296v1)|null|
@@ -24,11 +32,3 @@
 |**2025-03-11 09:24:48**|**Buffered Partially-Persistent External-Memory Search Trees**|Gerth Stølting Brodal et.al.|[2503.08211v1](http://arxiv.org/abs/2503.08211v1)|null|
 |**2025-03-11 07:46:19**|**Large Scale Multi-Task Bayesian Optimization with Large Language Models**|Yimeng Zeng et.al.|[2503.08131v1](http://arxiv.org/abs/2503.08131v1)|null|
 |**2025-03-11 04:24:59**|**Learning to Search Effective Example Sequences for In-Context Learning**|Xiang Gao et.al.|[2503.08030v1](http://arxiv.org/abs/2503.08030v1)|null|
-|**2025-03-11 02:27:37**|**Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free   Class-Incremental Learning**|Haoran Chen et.al.|[2503.07979v1](http://arxiv.org/abs/2503.07979v1)|null|
-|**2025-03-10 22:01:24**|**LLMIdxAdvis: Resource-Efficient Index Advisor Utilizing Large Language   Model**|Xinxin Zhao et.al.|[2503.07884v1](http://arxiv.org/abs/2503.07884v1)|null|
-|**2025-03-10 20:13:07**|**Magnet: Multi-turn Tool-use Data Synthesis and Distillation via Graph   Translation**|Fan Yin et.al.|[2503.07826v1](http://arxiv.org/abs/2503.07826v1)|null|
-|**2025-03-10 17:58:03**|**DreamRelation: Relation-Centric Video Customization**|Yujie Wei et.al.|[2503.07602v1](http://arxiv.org/abs/2503.07602v1)|null|
-|**2025-03-10 16:49:35**|**VisRL: Intention-Driven Visual Perception via Reinforced Reasoning**|Zhangquan Chen et.al.|[2503.07523v1](http://arxiv.org/abs/2503.07523v1)|[link](https://github.com/zhangquanchen/visrl)|
-|**2025-03-10 13:28:36**|**AttenST: A Training-Free Attention-Driven Style Transfer Framework with   Pre-Trained Diffusion Models**|Bo Huang et.al.|[2503.07307v1](http://arxiv.org/abs/2503.07307v1)|[link](https://github.com/HuanBor/AttenST)|
-|**2025-03-10 13:20:59**|**Goal Conditioned Reinforcement Learning for Photo Finishing Tuning**|Jiarui Wu et.al.|[2503.07300v1](http://arxiv.org/abs/2503.07300v1)|null|
-|**2025-03-10 12:01:52**|**Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories**|Jerzy Marcinkowski et.al.|[2503.07219v1](http://arxiv.org/abs/2503.07219v1)|null|
