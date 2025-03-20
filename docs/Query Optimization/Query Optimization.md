@@ -2,8 +2,11 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-19 16:47:56**|**Exploiting Prior Knowledge in Preferential Learning of Individualized   Autonomous Vehicle Driving Styles**|Lukas Theiner et.al.|[2503.15407v1](http://arxiv.org/abs/2503.15407v1)|null|
+|**2025-03-19 13:21:49**|**Optimizing Retrieval Strategies for Financial Question Answering   Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191v1](http://arxiv.org/abs/2503.15191v1)|[link](https://github.com/seohyunwoo-0407/GAR)|
+|**2025-03-19 09:23:09**|**DRoPE: Directional Rotary Position Embedding for Efficient Agent   Interaction Modeling**|Jianbo Zhao et.al.|[2503.15029v1](http://arxiv.org/abs/2503.15029v1)|null|
 |**2025-03-18 17:30:26**|**Online Conformal Probabilistic Numerics via Adaptive Edge-Cloud   Offloading**|Qiushuo Hou et.al.|[2503.14453v1](http://arxiv.org/abs/2503.14453v1)|null|
-|**2025-03-18 13:11:43**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented   Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234v1](http://arxiv.org/abs/2503.14234v1)|null|
+|**2025-03-18 13:11:43**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented   Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234v2](http://arxiv.org/abs/2503.14234v2)|null|
 |**2025-03-18 11:57:31**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical   Prediction and Planning**|Bozhou Zhang et.al.|[2503.14182v1](http://arxiv.org/abs/2503.14182v1)|null|
 |**2025-03-18 01:58:35**|**NeurBench: Benchmarking Learned Database Components with Data and   Workload Drift Modeling**|Zhanhao Zhao et.al.|[2503.13822v1](http://arxiv.org/abs/2503.13822v1)|null|
 |**2025-03-17 18:23:54**|**Optimal Non-Oblivious Open Addressing**|Michael A. Bender et.al.|[2503.13628v1](http://arxiv.org/abs/2503.13628v1)|null|
@@ -29,6 +32,3 @@
 |**2025-03-12 20:20:16**|**Approximately Counting and Sampling Hamiltonian Motifs in Sublinear Time**|Talya Eden et.al.|[2503.09810v1](http://arxiv.org/abs/2503.09810v1)|null|
 |**2025-03-12 18:16:37**|**How Feasible is Augmenting Fake Nodes with Learnable Features as a   Counter-strategy against Link Stealing Attacks?**|Mir Imtiaz Mostafiz et.al.|[2503.09726v1](http://arxiv.org/abs/2503.09726v1)|null|
 |**2025-03-12 18:09:02**|**Towards Causal Model-Based Policy Optimization**|Alberto Caron et.al.|[2503.09719v1](http://arxiv.org/abs/2503.09719v1)|null|
-|**2025-03-12 17:50:42**|**Cost-Optimal Grouped-Query Attention for Long-Context LLMs**|Yingfa Chen et.al.|[2503.09579v1](http://arxiv.org/abs/2503.09579v1)|[link](https://github.com/thunlp/cost-optimal-gqa)|
-|**2025-03-12 16:26:39**|**Search-R1: Training LLMs to Reason and Leverage Search Engines with   Reinforcement Learning**|Bowen Jin et.al.|[2503.09516v1](http://arxiv.org/abs/2503.09516v1)|[link](https://github.com/petergriffinjin/search-r1)|
-|**2025-03-12 15:30:39**|**SurgicalVLM-Agent: Towards an Interactive AI Co-Pilot for Pituitary   Surgery**|Jiayuan Huang et.al.|[2503.09474v1](http://arxiv.org/abs/2503.09474v1)|null|
