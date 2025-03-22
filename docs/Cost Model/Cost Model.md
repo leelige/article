@@ -7,7 +7,7 @@
 |**2025-03-20 17:46:38**|**Deconstructing Long Chain-of-Thought: A Structured Reasoning   Optimization Framework for Long CoT Distillation**|Yijia Luo et.al.|[2503.16385v1](http://arxiv.org/abs/2503.16385v1)|null|
 |**2025-03-20 17:17:58**|**Enhancing variational quantum algorithms by balancing training on   classical and quantum hardware**|Rahul Bhowmick et.al.|[2503.16361v1](http://arxiv.org/abs/2503.16361v1)|null|
 |**2025-03-20 16:56:13**|**Gaussian Graph Network: Learning Efficient and Generalizable Gaussian   Representations from Multi-view Images**|Shengjun Zhang et.al.|[2503.16338v1](http://arxiv.org/abs/2503.16338v1)|null|
-|**2025-03-20 16:44:53**|**NeuralFoil: An Airfoil Aerodynamics Analysis Tool Using Physics-Informed   Machine Learning**|Peter Sharpe et.al.|[2503.16323v1](http://arxiv.org/abs/2503.16323v1)|null|
+|**2025-03-20 16:44:53**|**NeuralFoil: An Airfoil Aerodynamics Analysis Tool Using Physics-Informed   Machine Learning**|Peter Sharpe et.al.|[2503.16323v1](http://arxiv.org/abs/2503.16323v1)|[link](https://github.com/peterdsharpe/neuralfoil)|
 |**2025-03-20 16:12:42**|**PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance   Learning for Whole Slide Image Classification**|Sharon Peled et.al.|[2503.16284v1](http://arxiv.org/abs/2503.16284v1)|null|
 |**2025-03-20 15:13:23**|**Reinforcement Learning for Reasoning in Small LLMs: What Works and What   Doesn't**|Quy-Anh Dang et.al.|[2503.16219v1](http://arxiv.org/abs/2503.16219v1)|[link](https://github.com/knoveleng/open-rs)|
 |**2025-03-20 15:01:29**|**Targeting Neurodegeneration: Three Machine Learning Methods for G9a   Inhibitors Discovery Using PubChem and Scikit-learn**|Mariya L. Ivanova et.al.|[2503.16214v1](http://arxiv.org/abs/2503.16214v1)|null|
