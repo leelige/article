@@ -8,7 +8,7 @@
 |**2025-03-18 07:40:54**|**Color-Constrained Arborescences in Edge-Colored Digraphs**|P. S. Ardra et.al.|[2503.13984v1](http://arxiv.org/abs/2503.13984v1)|null|
 |**2025-03-18 04:27:02**|**MoK-RAG: Mixture of Knowledge Paths Enhanced Retrieval-Augmented   Generation for Embodied AI Environments**|Zhengsheng Guo et.al.|[2503.13882v1](http://arxiv.org/abs/2503.13882v1)|null|
 |**2025-03-17 08:03:47**|**Experiments with Optimal Model Trees**|Sabino Francesco Roselli et.al.|[2503.12902v1](http://arxiv.org/abs/2503.12902v1)|null|
-|**2025-03-16 20:07:23**|**Clustered random forests with correlated data for optimal estimation and   inference under potential covariate shift**|Elliot H. Young et.al.|[2503.12634v1](http://arxiv.org/abs/2503.12634v1)|null|
+|**2025-03-16 20:07:23**|**Clustered random forests with correlated data for optimal estimation and   inference under potential covariate shift**|Elliot H. Young et.al.|[2503.12634v1](http://arxiv.org/abs/2503.12634v1)|[link](https://github.com/elliot-young/clustered_randomforests_simulations)|
 |**2025-03-15 15:51:06**|**Value Gradients with Action Adaptive Search Trees in Continuous (PO)MDPs**|Idan Lev-Yehudi et.al.|[2503.12181v1](http://arxiv.org/abs/2503.12181v1)|null|
 |**2025-03-13 19:22:44**|**The Role of Hyperparameters in Predictive Multiplicity**|Mustafa Cavus et.al.|[2503.13506v1](http://arxiv.org/abs/2503.13506v1)|null|
 |**2025-03-13 02:07:14**|**Optimizing Fire Safety: Reducing False Alarms Using Advanced Machine   Learning Techniques**|Muhammad Hassan Jamal et.al.|[2503.09960v1](http://arxiv.org/abs/2503.09960v1)|null|

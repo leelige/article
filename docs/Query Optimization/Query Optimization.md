@@ -9,7 +9,7 @@
 |**2025-03-19 09:23:09**|**DRoPE: Directional Rotary Position Embedding for Efficient Agent   Interaction Modeling**|Jianbo Zhao et.al.|[2503.15029v1](http://arxiv.org/abs/2503.15029v1)|null|
 |**2025-03-18 17:30:26**|**Online Conformal Probabilistic Numerics via Adaptive Edge-Cloud   Offloading**|Qiushuo Hou et.al.|[2503.14453v1](http://arxiv.org/abs/2503.14453v1)|null|
 |**2025-03-18 13:11:43**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented   Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234v2](http://arxiv.org/abs/2503.14234v2)|null|
-|**2025-03-18 11:57:31**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical   Prediction and Planning**|Bozhou Zhang et.al.|[2503.14182v1](http://arxiv.org/abs/2503.14182v1)|null|
+|**2025-03-18 11:57:31**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical   Prediction and Planning**|Bozhou Zhang et.al.|[2503.14182v1](http://arxiv.org/abs/2503.14182v1)|[link](https://github.com/fudan-zvg/bridgead)|
 |**2025-03-18 01:58:35**|**NeurBench: Benchmarking Learned Database Components with Data and   Workload Drift Modeling**|Zhanhao Zhao et.al.|[2503.13822v1](http://arxiv.org/abs/2503.13822v1)|null|
 |**2025-03-17 18:23:54**|**Optimal Non-Oblivious Open Addressing**|Michael A. Bender et.al.|[2503.13628v1](http://arxiv.org/abs/2503.13628v1)|null|
 |**2025-03-17 15:27:02**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275v1](http://arxiv.org/abs/2503.13275v1)|null|
