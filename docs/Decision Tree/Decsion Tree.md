@@ -2,7 +2,9 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-21 16:43:26**|**Cycle Patterns and Mean Payoff Games**|Georg Loho et.al.|[2503.17294v1](http://arxiv.org/abs/2503.17294v1)|null|
 |**2025-03-20 10:18:11**|**Estimation of Piecewise Continuous Regression Function in Finite   Dimension using Oblique Regression Tree with Applications in Image Denoising**|Subhasish Basak et.al.|[2503.16007v1](http://arxiv.org/abs/2503.16007v1)|null|
+|**2025-03-20 09:59:01**|**Feature selection strategies for optimized heart disease diagnosis using   ML and DL models**|Bilal Ahmad et.al.|[2503.16577v1](http://arxiv.org/abs/2503.16577v1)|null|
 |**2025-03-19 13:02:23**|**Food Delivery Time Prediction in Indian Cities Using Machine Learning   Models**|Ananya Garg et.al.|[2503.15177v1](http://arxiv.org/abs/2503.15177v1)|null|
 |**2025-03-18 12:52:03**|**Decision Tree Induction Through LLMs via Semantically-Aware Evolution**|Tennison Liu et.al.|[2503.14217v1](http://arxiv.org/abs/2503.14217v1)|null|
 |**2025-03-18 07:40:54**|**Color-Constrained Arborescences in Edge-Colored Digraphs**|P. S. Ardra et.al.|[2503.13984v1](http://arxiv.org/abs/2503.13984v1)|null|
@@ -30,5 +32,3 @@
 |**2025-02-23 04:18:05**|**Ensemble RL through Classifier Models: Enhancing Risk-Return Trade-offs   in Trading Strategies**|Zheli Xiong et.al.|[2502.17518v1](http://arxiv.org/abs/2502.17518v1)|null|
 |**2025-02-23 02:29:14**|**Decision-tree decoders for general quantum LDPC codes**|Kai R. Ott et.al.|[2502.16408v1](http://arxiv.org/abs/2502.16408v1)|null|
 |**2025-02-21 22:57:17**|**Near Optimal Decision Trees in a SPLIT Second**|Varun Babbar et.al.|[2502.15988v1](http://arxiv.org/abs/2502.15988v1)|null|
-|**2025-02-21 19:37:57**|**Explaining the Success of Nearest Neighbor Methods in Prediction**|George H. Chen et.al.|[2502.15900v1](http://arxiv.org/abs/2502.15900v1)|null|
-|**2025-02-21 08:43:50**|**Comparative Analysis of Black Hole Mass Estimation in Type-2 AGNs:   Classical vs. Quantum Machine Learning and Deep Learning Approaches**|Sathwik Narkedimilli et.al.|[2502.15297v2](http://arxiv.org/abs/2502.15297v2)|null|
