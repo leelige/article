@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-22 20:25:30**|**A novel gradient-based method for decision trees optimizing arbitrary   differential loss functions**|Andrei V. Konstantinov et.al.|[2503.17855v1](http://arxiv.org/abs/2503.17855v1)|null|
 |**2025-03-21 16:43:26**|**Cycle Patterns and Mean Payoff Games**|Georg Loho et.al.|[2503.17294v1](http://arxiv.org/abs/2503.17294v1)|null|
 |**2025-03-20 10:18:11**|**Estimation of Piecewise Continuous Regression Function in Finite   Dimension using Oblique Regression Tree with Applications in Image Denoising**|Subhasish Basak et.al.|[2503.16007v1](http://arxiv.org/abs/2503.16007v1)|null|
 |**2025-03-20 09:59:01**|**Feature selection strategies for optimized heart disease diagnosis using   ML and DL models**|Bilal Ahmad et.al.|[2503.16577v1](http://arxiv.org/abs/2503.16577v1)|null|
@@ -31,4 +32,3 @@
 |**2025-02-25 02:41:23**|**On-device edge learning for IoT data streams: a survey**|Afonso Lourenço et.al.|[2502.17788v1](http://arxiv.org/abs/2502.17788v1)|null|
 |**2025-02-23 04:18:05**|**Ensemble RL through Classifier Models: Enhancing Risk-Return Trade-offs   in Trading Strategies**|Zheli Xiong et.al.|[2502.17518v1](http://arxiv.org/abs/2502.17518v1)|null|
 |**2025-02-23 02:29:14**|**Decision-tree decoders for general quantum LDPC codes**|Kai R. Ott et.al.|[2502.16408v1](http://arxiv.org/abs/2502.16408v1)|null|
-|**2025-02-21 22:57:17**|**Near Optimal Decision Trees in a SPLIT Second**|Varun Babbar et.al.|[2502.15988v1](http://arxiv.org/abs/2502.15988v1)|null|
