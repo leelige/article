@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-24 17:59:04**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942v1](http://arxiv.org/abs/2503.18942v1)|null|
-|**2025-03-24 17:59:02**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940v1](http://arxiv.org/abs/2503.18940v1)|[link](https://github.com/tyfeld/Bottleneck-Sampling)|
-|**2025-03-24 17:46:09**|**Video SimpleQA: Towards Factuality Evaluation in Large Video Language   Models**|Meng Cao et.al.|[2503.18923v1](http://arxiv.org/abs/2503.18923v1)|null|
-|**2025-03-24 17:20:35**|**FFN Fusion: Rethinking Sequential Computation in Large Language Models**|Akhiad Bercovich et.al.|[2503.18908v1](http://arxiv.org/abs/2503.18908v1)|null|
-|**2025-03-24 17:06:37**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893v1](http://arxiv.org/abs/2503.18893v1)|[link](https://github.com/abdelfattah-lab/xKV)|
-|**2025-03-24 16:58:37**|**Efficient and Accurate Scene Text Recognition with Cascaded-Transformers**|Savas Ozkan et.al.|[2503.18883v1](http://arxiv.org/abs/2503.18883v1)|null|
-|**2025-03-24 16:48:42**|**Efficient Self-Supervised Adaptation for Medical Image Analysis**|Moein Sorkhei et.al.|[2503.18873v1](http://arxiv.org/abs/2503.18873v1)|null|
-|**2025-03-24 16:44:32**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory   Controller Design**|Rui Xie et.al.|[2503.18869v1](http://arxiv.org/abs/2503.18869v1)|null|
-|**2025-03-24 16:32:17**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2503.18854v1](http://arxiv.org/abs/2503.18854v1)|[link](https://github.com/arctanxarc/MC-LLaVA}$)|
-|**2025-03-24 16:10:51**|**Dual-domain Multi-path Self-supervised Diffusion Model for Accelerated   MRI Reconstruction**|Yuxuan Zhang et.al.|[2503.18836v1](http://arxiv.org/abs/2503.18836v1)|null|
-|**2025-03-24 15:45:50**|**Latent Space Class Dispersion: Effective Test Data Quality Assessment   for DNNs**|Vivek Vekariya et.al.|[2503.18799v1](http://arxiv.org/abs/2503.18799v1)|null|
-|**2025-03-24 15:30:16**|**AttenMfg: An Attention Network Based Optimization Framework for   Sensor-Driven Operations & Maintenance in Manufacturing Systems**|Iman Kazemian et.al.|[2503.18780v1](http://arxiv.org/abs/2503.18780v1)|null|
-|**2025-03-24 15:22:41**|**BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with   Low-Bit KV Cache**|Dayou Du et.al.|[2503.18773v1](http://arxiv.org/abs/2503.18773v1)|[link](https://github.com/DD-DuDa/BitDecoding)|
-|**2025-03-24 15:15:36**|**Good Keypoints for the Two-View Geometry Estimation Problem**|Konstantin Pakulev et.al.|[2503.18767v1](http://arxiv.org/abs/2503.18767v1)|null|
-|**2025-03-24 14:11:31**|**Maximum Bound Principle and Bound Preserving ETD schemes for a   Phase-Field Model of Tumor Growth with Extracellular Matrix Degradation**|Qiumei Huang et.al.|[2503.18699v1](http://arxiv.org/abs/2503.18699v1)|null|
-|**2025-03-24 13:23:46**|**Leveraging Land Cover Priors for Isoprene Emission Super-Resolution**|Christopher Ummerle et.al.|[2503.18658v1](http://arxiv.org/abs/2503.18658v1)|null|
-|**2025-03-24 13:11:22**|**ZeroLM: Data-Free Transformer Architecture Search for Language Models**|Zhen-Song Chen et.al.|[2503.18646v1](http://arxiv.org/abs/2503.18646v1)|null|
-|**2025-03-24 13:09:47**|**Rethinking Glaucoma Calibration: Voting-Based Binocular and Metadata   Integration**|Taejin Jeong et.al.|[2503.18642v1](http://arxiv.org/abs/2503.18642v1)|null|
-|**2025-03-24 12:52:26**|**Adaptive Machine Learning for Resource-Constrained Environments**|Sebastián A. Cajas Ordóñez et.al.|[2503.18634v1](http://arxiv.org/abs/2503.18634v1)|null|
-|**2025-03-24 11:56:50**|**Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV   Cache Quantization**|Minsu Kim et.al.|[2503.18599v1](http://arxiv.org/abs/2503.18599v1)|null|
-|**2025-03-24 09:58:44**|**Autoregressive Language Models for Knowledge Base Population: A case   study in the space mission domain**|Andrés García-Silva et.al.|[2503.18502v1](http://arxiv.org/abs/2503.18502v1)|null|
-|**2025-03-24 09:17:05**|**CFReID: Continual Few-shot Person Re-Identification**|Hao Ni et.al.|[2503.18469v1](http://arxiv.org/abs/2503.18469v1)|null|
-|**2025-03-24 08:12:40**|**AES-SpMM: Balancing Accuracy and Speed by Adaptive Edge Sampling   Strategy to Accelerate SpMM in GNNs**|Yingchen Song et.al.|[2503.18427v1](http://arxiv.org/abs/2503.18427v1)|null|
-|**2025-03-24 08:06:39**|**Breaking the Encoder Barrier for Seamless Video-Language Understanding**|Handong Li et.al.|[2503.18422v1](http://arxiv.org/abs/2503.18422v1)|null|
-|**2025-03-24 07:31:15**|**Fast and Physically-based Neural Explicit Surface for Relightable Human   Avatars**|Jiacheng Wu et.al.|[2503.18408v1](http://arxiv.org/abs/2503.18408v1)|null|
-|**2025-03-24 06:53:08**|**Resource-Efficient Motion Control for Video Generation via Dynamic Mask   Guidance**|Sicong Feng et.al.|[2503.18386v1](http://arxiv.org/abs/2503.18386v1)|null|
-|**2025-03-24 05:59:40**|**MaSS13K: A Matting-level Semantic Segmentation Benchmark**|Chenxi Xie et.al.|[2503.18364v1](http://arxiv.org/abs/2503.18364v1)|[link](https://github.com/xiechenxi99/MaSS13K)|
-|**2025-03-24 05:33:21**|**GRiNS: A Python Library for Simulating Gene Regulatory Network Dynamics**|Pradyumna Harlapur et.al.|[2503.18356v1](http://arxiv.org/abs/2503.18356v1)|[link](https://github.com/MoltenEcdysone09/GRiNS)|
-|**2025-03-24 03:54:50**|**A New Stochastic Approximation Method for Gradient-based Simulated   Parameter Estimation**|Zehao Li et.al.|[2503.18319v1](http://arxiv.org/abs/2503.18319v1)|null|
-|**2025-03-24 02:41:53**|**LGPS: A Lightweight GAN-Based Approach for Polyp Segmentation in   Colonoscopy Images**|Fiseha B. Tesema et.al.|[2503.18294v1](http://arxiv.org/abs/2503.18294v1)|[link](https://github.com/Falmi/LGPS/)|
+|**2025-03-25 17:59:06**|**FullDiT: Multi-Task Video Generative Foundation Model with Full   Attention**|Xuan Ju et.al.|[2503.19907v1](http://arxiv.org/abs/2503.19907v1)|null|
+|**2025-03-25 17:58:37**|**Scaling Vision Pre-Training to 4K Resolution**|Baifeng Shi et.al.|[2503.19903v1](http://arxiv.org/abs/2503.19903v1)|null|
+|**2025-03-25 17:26:09**|**An Overview of Low-Rank Structures in the Training and Adaptation of   Large Models**|Laura Balzano et.al.|[2503.19859v1](http://arxiv.org/abs/2503.19859v1)|null|
+|**2025-03-25 17:23:34**|**Comparing the Run-time Behavior of Modern PDES Engines on Alternative   Hardware Architectures**|Romolo Marotta et.al.|[2503.19857v1](http://arxiv.org/abs/2503.19857v1)|null|
+|**2025-03-25 17:17:40**|**Chance-constrained battery management strategies for the electric bus   scheduling problem**|Léa Ricard et.al.|[2503.19853v1](http://arxiv.org/abs/2503.19853v1)|null|
+|**2025-03-25 17:07:21**|**A Comparative Analysis of Word Segmentation, Part-of-Speech Tagging, and   Named Entity Recognition for Historical Chinese Sources, 1900-1950**|Zhao Fang et.al.|[2503.19844v1](http://arxiv.org/abs/2503.19844v1)|null|
+|**2025-03-25 16:41:47**|**Computationally Efficient Analysis of Energy Distribution Networks using   Finite Volume Method and Interpolatory Model Order Reduction**|Saleha Kiran et.al.|[2503.19826v1](http://arxiv.org/abs/2503.19826v1)|null|
+|**2025-03-25 16:02:37**|**PAVE: Patching and Adapting Video Large Language Models**|Zhuoming Liu et.al.|[2503.19794v1](http://arxiv.org/abs/2503.19794v1)|[link](https://github.com/dragonlzm/PAVE)|
+|**2025-03-25 15:55:25**|**SITA: Structurally Imperceptible and Transferable Adversarial Attacks   for Stylized Image Generation**|Jingdan Kang et.al.|[2503.19791v1](http://arxiv.org/abs/2503.19791v1)|[link](https://github.com/A-raniy-day/SITA)|
+|**2025-03-25 15:03:11**|**GRN+: A Simplified Generative Reinforcement Network for Tissue Layer   Analysis in 3D Ultrasound Images for Chronic Low-back Pain**|Zixue Zeng et.al.|[2503.19736v1](http://arxiv.org/abs/2503.19736v1)|null|
+|**2025-03-25 14:53:56**|**Automated evaluation of imaginary time strong coupling diagrams by   sum-of-exponentials hybridization fitting**|Zhen Huang et.al.|[2503.19727v1](http://arxiv.org/abs/2503.19727v1)|null|
+|**2025-03-25 14:30:37**|**High-Quality Spatial Reconstruction and Orthoimage Generation Using   Efficient 2D Gaussian Splatting**|Qian Wang et.al.|[2503.19703v1](http://arxiv.org/abs/2503.19703v1)|null|
+|**2025-03-25 14:27:29**|**Optimal Path Planning and Cost Minimization for a Drone Delivery System   Via Model Predictive Control**|Muhammad Al-Zafar Khan et.al.|[2503.19699v1](http://arxiv.org/abs/2503.19699v1)|null|
+|**2025-03-25 14:18:21**|**AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through   Lightweight Vocabulary Adaptation**|Itay Nakash et.al.|[2503.19693v1](http://arxiv.org/abs/2503.19693v1)|null|
+|**2025-03-25 14:18:18**|**Leveraging Cognitive States for Adaptive Scaffolding of Understanding in   Explanatory Tasks in HRI**|André Groß et.al.|[2503.19692v1](http://arxiv.org/abs/2503.19692v1)|null|
+|**2025-03-25 13:29:58**|**An Efficient Data Reuse with Tile-Based Adaptive Stationary for   Transformer Accelerators**|Tseng-Jen Li et.al.|[2503.19640v1](http://arxiv.org/abs/2503.19640v1)|null|
+|**2025-03-25 12:00:57**|**Variational conditional normalizing flows for computing second-order   mean field control problems**|Jiaxi Zhao et.al.|[2503.19580v1](http://arxiv.org/abs/2503.19580v1)|[link](https://github.com/jiaxi98/cnf_ot)|
+|**2025-03-25 11:01:05**|**Practical Fine-Tuning of Autoregressive Models on Limited Handwritten   Texts**|Jan Kohút et.al.|[2503.19546v1](http://arxiv.org/abs/2503.19546v1)|null|
+|**2025-03-25 10:11:06**|**DataPlatter: Boosting Robotic Manipulation Generalization with Minimal   Costly Data**|Liming Zheng et.al.|[2503.19516v1](http://arxiv.org/abs/2503.19516v1)|null|
+|**2025-03-25 09:56:21**|**Single-Step Latent Consistency Model for Remote Sensing Image   Super-Resolution**|Xiaohui Sun et.al.|[2503.19505v1](http://arxiv.org/abs/2503.19505v1)|null|
+|**2025-03-25 09:18:28**|**Empirical Hyper Element Integration Method (EHEIM) with Unified   Integration Criteria for Efficient Hyper Reduced FE$^2$ Simulations**|Nils Lange et.al.|[2503.19483v1](http://arxiv.org/abs/2503.19483v1)|null|
+|**2025-03-25 09:00:25**|**Enhancing Small Language Models for Cross-Lingual Generalized Zero-Shot   Classification with Soft Prompt Tuning**|Fred Philippy et.al.|[2503.19469v1](http://arxiv.org/abs/2503.19469v1)|null|
+|**2025-03-25 08:37:03**|**Iterative Learning Predictive Control for Constrained Uncertain Systems**|Riccardo Zuliani et.al.|[2503.19446v1](http://arxiv.org/abs/2503.19446v1)|null|
+|**2025-03-25 06:09:51**|**Interpretable Generative Models through Post-hoc Concept Bottlenecks**|Akshay Kulkarni et.al.|[2503.19377v1](http://arxiv.org/abs/2503.19377v1)|null|
+|**2025-03-25 05:03:56**|**QUAD: Quantization and Parameter-Efficient Tuning of LLM with Activation   Decomposition**|Yuxuan Hu et.al.|[2503.19353v1](http://arxiv.org/abs/2503.19353v1)|[link](https://github.com/hyx1999/Quad}{repository})|
+|**2025-03-25 03:34:26**|**Feature-Guided Sampling Strategy for Adaptive Model Order Reduction of   Convection-Dominated Problems**|Ali Mohaghegh et.al.|[2503.19321v1](http://arxiv.org/abs/2503.19321v1)|null|
+|**2025-03-25 02:37:28**|**A Novel Underwater Vehicle With Orientation Adjustable Thrusters: Design   and Adaptive Tracking Control**|Yifei Wang et.al.|[2503.19288v1](http://arxiv.org/abs/2503.19288v1)|null|
+|**2025-03-24 23:38:04**|**Continual Reinforcement Learning for HVAC Systems Control: Integrating   Hypernetworks and Transfer Learning**|Gautham Udayakumar Bekal et.al.|[2503.19212v1](http://arxiv.org/abs/2503.19212v1)|null|
+|**2025-03-24 22:11:22**|**Evaluating Bias in LLMs for Job-Resume Matching: Gender, Race, and   Education**|Hayate Iso et.al.|[2503.19182v1](http://arxiv.org/abs/2503.19182v1)|null|
+|**2025-03-24 19:22:32**|**LLM-Based Insight Extraction for Contact Center Analytics and   Cost-Efficient Deployment**|Varsha Embar et.al.|[2503.19090v1](http://arxiv.org/abs/2503.19090v1)|null|

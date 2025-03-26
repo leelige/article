@@ -2,7 +2,11 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-24 13:35:34**|**Geometric Preference Elicitation for Minimax Regret Optimization in   Uncertainty Matroids**|Aditya Sai Ellendula et.al.|[2503.18668v1](http://arxiv.org/abs/2503.18668v1)|null|
+|**2025-03-25 13:15:49**|**Lifting Linear Sketches: Optimal Bounds and Adversarial Robustness**|Elena Gribelyuk et.al.|[2503.19629v1](http://arxiv.org/abs/2503.19629v1)|null|
+|**2025-03-25 12:14:10**|**Boosting the Transferability of Audio Adversarial Examples with Acoustic   Representation Optimization**|Weifei Jin et.al.|[2503.19591v1](http://arxiv.org/abs/2503.19591v1)|null|
+|**2025-03-25 03:34:26**|**Feature-Guided Sampling Strategy for Adaptive Model Order Reduction of   Convection-Dominated Problems**|Ali Mohaghegh et.al.|[2503.19321v1](http://arxiv.org/abs/2503.19321v1)|null|
+|**2025-03-25 02:04:13**|**Privately Evaluating Untrusted Black-Box Functions**|Ephraim Linder et.al.|[2503.19268v1](http://arxiv.org/abs/2503.19268v1)|null|
+|**2025-03-24 13:35:34**|**Geometric Preference Elicitation for Minimax Regret Optimization in   Uncertainty Matroids**|Aditya Sai Ellendula et.al.|[2503.18668v2](http://arxiv.org/abs/2503.18668v2)|null|
 |**2025-03-24 09:20:21**|**Õptimal Fault-Tolerant Labeling for Reachability and Approximate   Distances in Directed Planar Graphs**|Itai Boneh et.al.|[2503.18474v1](http://arxiv.org/abs/2503.18474v1)|null|
 |**2025-03-24 08:09:51**|**Faster Construction of a Planar Distance Oracle with Õ(1) Query Time**|Itai Boneh et.al.|[2503.18425v1](http://arxiv.org/abs/2503.18425v1)|null|
 |**2025-03-24 07:07:04**|**PRECTR: A Synergistic Framework for Integrating Personalized Search   Relevance Matching and CTR Prediction**|Rong Chen et.al.|[2503.18395v1](http://arxiv.org/abs/2503.18395v1)|null|
@@ -26,9 +30,5 @@
 |**2025-03-18 17:30:26**|**Online Conformal Probabilistic Numerics via Adaptive Edge-Cloud   Offloading**|Qiushuo Hou et.al.|[2503.14453v1](http://arxiv.org/abs/2503.14453v1)|null|
 |**2025-03-18 13:11:43**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented   Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234v2](http://arxiv.org/abs/2503.14234v2)|null|
 |**2025-03-18 11:57:31**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical   Prediction and Planning**|Bozhou Zhang et.al.|[2503.14182v1](http://arxiv.org/abs/2503.14182v1)|[link](https://github.com/fudan-zvg/bridgead)|
-|**2025-03-18 01:58:35**|**NeurBench: Benchmarking Learned Database Components with Data and   Workload Drift Modeling**|Zhanhao Zhao et.al.|[2503.13822v1](http://arxiv.org/abs/2503.13822v1)|null|
+|**2025-03-18 01:58:35**|**NeurBench: Benchmarking Learned Database Components with Data and   Workload Drift Modeling**|Zhanhao Zhao et.al.|[2503.13822v2](http://arxiv.org/abs/2503.13822v2)|null|
 |**2025-03-17 18:23:54**|**Optimal Non-Oblivious Open Addressing**|Michael A. Bender et.al.|[2503.13628v1](http://arxiv.org/abs/2503.13628v1)|null|
-|**2025-03-17 15:27:02**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275v1](http://arxiv.org/abs/2503.13275v1)|null|
-|**2025-03-17 15:16:59**|**TablePilot: Recommending Human-Preferred Tabular Data Analysis with   Large Language Models**|Deyin Yi et.al.|[2503.13262v3](http://arxiv.org/abs/2503.13262v3)|null|
-|**2025-03-17 09:47:42**|**Robot Policy Transfer with Online Demonstrations: An Active   Reinforcement Learning Approach**|Muhan Hou et.al.|[2503.12993v1](http://arxiv.org/abs/2503.12993v1)|null|
-|**2025-03-17 07:20:11**|**nvBench 2.0: A Benchmark for Natural Language to Visualization under   Ambiguity**|Tianqi Luo et.al.|[2503.12880v1](http://arxiv.org/abs/2503.12880v1)|null|
