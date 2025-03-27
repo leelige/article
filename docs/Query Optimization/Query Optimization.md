@@ -2,6 +2,9 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-26 04:57:03**|**Dynamic Learning and Productivity for Data Analysts: A Bayesian Hidden   Markov Model Perspective**|Yue Yin et.al.|[2503.20233v1](http://arxiv.org/abs/2503.20233v1)|null|
+|**2025-03-25 23:59:29**|**Approximating Opaque Top-k Queries**|Jiwon Chang et.al.|[2503.20119v1](http://arxiv.org/abs/2503.20119v1)|null|
+|**2025-03-25 18:17:36**|**ExCoT: Optimizing Reasoning for Text-to-SQL with Execution Feedback**|Bohan Zhai et.al.|[2503.19988v1](http://arxiv.org/abs/2503.19988v1)|null|
 |**2025-03-25 13:15:49**|**Lifting Linear Sketches: Optimal Bounds and Adversarial Robustness**|Elena Gribelyuk et.al.|[2503.19629v1](http://arxiv.org/abs/2503.19629v1)|null|
 |**2025-03-25 12:14:10**|**Boosting the Transferability of Audio Adversarial Examples with Acoustic   Representation Optimization**|Weifei Jin et.al.|[2503.19591v1](http://arxiv.org/abs/2503.19591v1)|null|
 |**2025-03-25 03:34:26**|**Feature-Guided Sampling Strategy for Adaptive Model Order Reduction of   Convection-Dominated Problems**|Ali Mohaghegh et.al.|[2503.19321v1](http://arxiv.org/abs/2503.19321v1)|null|
@@ -9,7 +12,7 @@
 |**2025-03-24 13:35:34**|**Geometric Preference Elicitation for Minimax Regret Optimization in   Uncertainty Matroids**|Aditya Sai Ellendula et.al.|[2503.18668v2](http://arxiv.org/abs/2503.18668v2)|null|
 |**2025-03-24 09:20:21**|**Õptimal Fault-Tolerant Labeling for Reachability and Approximate   Distances in Directed Planar Graphs**|Itai Boneh et.al.|[2503.18474v1](http://arxiv.org/abs/2503.18474v1)|null|
 |**2025-03-24 08:09:51**|**Faster Construction of a Planar Distance Oracle with Õ(1) Query Time**|Itai Boneh et.al.|[2503.18425v1](http://arxiv.org/abs/2503.18425v1)|null|
-|**2025-03-24 07:07:04**|**PRECTR: A Synergistic Framework for Integrating Personalized Search   Relevance Matching and CTR Prediction**|Rong Chen et.al.|[2503.18395v1](http://arxiv.org/abs/2503.18395v1)|null|
+|**2025-03-24 07:07:04**|**PRECTR: A Synergistic Framework for Integrating Personalized Search   Relevance Matching and CTR Prediction**|Rong Chen et.al.|[2503.18395v2](http://arxiv.org/abs/2503.18395v2)|null|
 |**2025-03-23 15:08:09**|**M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation,   and Occupancy Prediction in Autonomous Driving**|Xuesong Chen et.al.|[2503.18100v1](http://arxiv.org/abs/2503.18100v1)|null|
 |**2025-03-23 13:45:39**|**PanopticSplatting: End-to-End Panoptic Gaussian Splatting**|Yuxuan Xie et.al.|[2503.18073v1](http://arxiv.org/abs/2503.18073v1)|null|
 |**2025-03-23 09:46:07**|**Personalized Language Models via Privacy-Preserving Evolutionary Model   Merging**|Kyuyoung Kim et.al.|[2503.18008v1](http://arxiv.org/abs/2503.18008v1)|null|
@@ -29,6 +32,3 @@
 |**2025-03-19 09:23:09**|**DRoPE: Directional Rotary Position Embedding for Efficient Agent   Interaction Modeling**|Jianbo Zhao et.al.|[2503.15029v1](http://arxiv.org/abs/2503.15029v1)|null|
 |**2025-03-18 17:30:26**|**Online Conformal Probabilistic Numerics via Adaptive Edge-Cloud   Offloading**|Qiushuo Hou et.al.|[2503.14453v1](http://arxiv.org/abs/2503.14453v1)|null|
 |**2025-03-18 13:11:43**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented   Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234v2](http://arxiv.org/abs/2503.14234v2)|null|
-|**2025-03-18 11:57:31**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical   Prediction and Planning**|Bozhou Zhang et.al.|[2503.14182v1](http://arxiv.org/abs/2503.14182v1)|[link](https://github.com/fudan-zvg/bridgead)|
-|**2025-03-18 01:58:35**|**NeurBench: Benchmarking Learned Database Components with Data and   Workload Drift Modeling**|Zhanhao Zhao et.al.|[2503.13822v2](http://arxiv.org/abs/2503.13822v2)|null|
-|**2025-03-17 18:23:54**|**Optimal Non-Oblivious Open Addressing**|Michael A. Bender et.al.|[2503.13628v1](http://arxiv.org/abs/2503.13628v1)|null|
