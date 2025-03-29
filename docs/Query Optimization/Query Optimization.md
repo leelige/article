@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-27 17:48:32**|**GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release   Analytics**|Arsham Gholamzadeh Khoee et.al.|[2503.21735v1](http://arxiv.org/abs/2503.21735v1)|null|
-|**2025-03-27 13:40:06**|**OpenHuEval: Evaluating Large Language Model on Hungarian Specifics**|Haote Yang et.al.|[2503.21500v1](http://arxiv.org/abs/2503.21500v1)|[link](https://github.com/opendatalab/OpenHuEval)|
+|**2025-03-27 13:40:06**|**OpenHuEval: Evaluating Large Language Model on Hungarian Specifics**|Haote Yang et.al.|[2503.21500v1](http://arxiv.org/abs/2503.21500v1)|[link](https://github.com/opendatalab/openhueval)|
 |**2025-03-27 08:18:00**|**Multi-fidelity Learning of Reduced Order Models for Parabolic PDE   Constrained Optimization**|Benedikt Klein et.al.|[2503.21252v1](http://arxiv.org/abs/2503.21252v1)|null|
 |**2025-03-27 02:36:48**|**Alleviating LLM-based Generative Retrieval Hallucination in Alipay   Search**|Yedan Shen et.al.|[2503.21098v1](http://arxiv.org/abs/2503.21098v1)|null|
 |**2025-03-27 02:08:16**|**Translation-Invariant Quantum Algorithms for Ordered Search are Optimal**|Joseph Carolan et.al.|[2503.21090v1](http://arxiv.org/abs/2503.21090v1)|null|
@@ -27,3 +27,8 @@
 |**2025-03-22 01:17:56**|**A Generative Caching System for Large Language Models**|Arun Iyengar et.al.|[2503.17603v1](http://arxiv.org/abs/2503.17603v1)|null|
 |**2025-03-21 17:58:12**|**Fast Convex Optimization with Quantum Gradient Methods**|Brandon Augustino et.al.|[2503.17356v1](http://arxiv.org/abs/2503.17356v1)|null|
 |**2025-03-21 16:35:02**|**Offline Model-Based Optimization: Comprehensive Review**|Minsu Kim et.al.|[2503.17286v1](http://arxiv.org/abs/2503.17286v1)|null|
+|**2025-03-20 21:53:19**|**Towards Automated Semantic Interpretability in Reinforcement Learning   via Vision-Language Models**|Zhaoxin Li et.al.|[2503.16724v1](http://arxiv.org/abs/2503.16724v1)|null|
+|**2025-03-20 20:25:32**|**ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for   Graph Neural Networks**|Zhan Cheng et.al.|[2503.16693v1](http://arxiv.org/abs/2503.16693v1)|[link](https://github.com/LabRAI/ATOM)|
+|**2025-03-20 16:56:06**|**Optimal Complexity in Byzantine-Robust Distributed Stochastic   Optimization with Data Heterogeneity**|Qiankun Shi et.al.|[2503.16337v1](http://arxiv.org/abs/2503.16337v1)|null|
+|**2025-03-20 15:58:33**|**From Head to Tail: Efficient Black-box Model Inversion Attack via   Long-tailed Learning**|Ziang Li et.al.|[2503.16266v1](http://arxiv.org/abs/2503.16266v1)|[link](https://github.com/L1ziang/SMILE)|
+|**2025-03-20 13:26:30**|**Investigating Retrieval-Augmented Generation in Quranic Studies: A Study   of 13 Open-Source Large Language Models**|Zahra Khalila et.al.|[2503.16581v1](http://arxiv.org/abs/2503.16581v1)|null|
