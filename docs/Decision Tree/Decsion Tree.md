@@ -2,6 +2,7 @@
 ### Decsion Tree
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-30 05:48:53**|**Exploring Explainable Multi-player MCTS-minimax Hybrids in Board Game   Using Process Mining**|Yiyu Qian et.al.|[2503.23326v1](http://arxiv.org/abs/2503.23326v1)|null|
 |**2025-03-27 04:59:45**|**A Data Balancing and Ensemble Learning Approach for Credit Card Fraud   Detection**|Yuhan Wang et.al.|[2503.21160v1](http://arxiv.org/abs/2503.21160v1)|null|
 |**2025-03-22 20:25:30**|**A novel gradient-based method for decision trees optimizing arbitrary   differential loss functions**|Andrei V. Konstantinov et.al.|[2503.17855v1](http://arxiv.org/abs/2503.17855v1)|[link](https://github.com/ntailab/gradient_growing_trees)|
 |**2025-03-21 16:43:26**|**Cycle Patterns and Mean Payoff Games**|Georg Loho et.al.|[2503.17294v1](http://arxiv.org/abs/2503.17294v1)|null|
@@ -31,4 +32,3 @@
 |**2025-02-26 22:37:51**|**Learning Ensembles of Interpretable Simple Structure**|Gaurav Arwade et.al.|[2502.19602v1](http://arxiv.org/abs/2502.19602v1)|null|
 |**2025-02-26 08:49:21**|**Accurate 3D Grapevine Structure Extraction from High-Resolution Point   Clouds**|Harry Dobbs et.al.|[2502.20417v1](http://arxiv.org/abs/2502.20417v1)|null|
 |**2025-02-25 02:41:23**|**On-device edge learning for IoT data streams: a survey**|Afonso Lourenço et.al.|[2502.17788v1](http://arxiv.org/abs/2502.17788v1)|null|
-|**2025-02-23 04:18:05**|**Ensemble RL through Classifier Models: Enhancing Risk-Return Trade-offs   in Trading Strategies**|Zheli Xiong et.al.|[2502.17518v1](http://arxiv.org/abs/2502.17518v1)|null|
