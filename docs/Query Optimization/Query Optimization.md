@@ -13,7 +13,7 @@
 |**2025-03-30 03:20:34**|**Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context   LLM Inference**|Wei Tao et.al.|[2503.23294v1](http://arxiv.org/abs/2503.23294v1)|null|
 |**2025-03-30 01:19:28**|**Modified Polyhedral Method for Elicitation of Shape-Free Utility and   Conservatism Reduction in Robust Optimization**|Sainan Zhang et.al.|[2503.23269v1](http://arxiv.org/abs/2503.23269v1)|null|
 |**2025-03-29 18:33:58**|**Enhancing Weakly Supervised Video Grounding via Diverse Inference   Strategies for Boundary and Prediction Selection**|Sunoh Kim et.al.|[2503.23181v1](http://arxiv.org/abs/2503.23181v1)|null|
-|**2025-03-29 17:29:30**|**Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards   for Reasoning-Enhanced Text-to-SQL**|Mohammadreza Pourreza et.al.|[2503.23157v1](http://arxiv.org/abs/2503.23157v1)|null|
+|**2025-03-29 17:29:30**|**Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards   for Reasoning-Enhanced Text-to-SQL**|Mohammadreza Pourreza et.al.|[2503.23157v2](http://arxiv.org/abs/2503.23157v2)|null|
 |**2025-03-29 08:35:01**|**DAT: Dynamic Alpha Tuning for Hybrid Retrieval in Retrieval-Augmented   Generation**|Hsin-Ling Hsu et.al.|[2503.23013v1](http://arxiv.org/abs/2503.23013v1)|null|
 |**2025-03-28 07:36:51**|**Segment then Splat: A Unified Approach for 3D Open-Vocabulary   Segmentation based on Gaussian Splatting**|Yiren Lu et.al.|[2503.22204v1](http://arxiv.org/abs/2503.22204v1)|null|
 |**2025-03-28 02:12:41**|**A Graph-native Optimization Framework for Complex Graph Queries**|Bingqing Lyu et.al.|[2503.22091v1](http://arxiv.org/abs/2503.22091v1)|null|
