@@ -2,6 +2,16 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-02 09:32:18**|**Local Computation Algorithms for Knapsack: impossibility results, and   how to avoid them**|Clément L. Canonne et.al.|[2504.01543v1](http://arxiv.org/abs/2504.01543v1)|null|
+|**2025-04-02 08:11:05**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458v1](http://arxiv.org/abs/2504.01458v1)|null|
+|**2025-04-02 06:40:09**|**Generative Retrieval and Alignment Model: A New Paradigm for E-commerce   Retrieval**|Ming Pang et.al.|[2504.01403v1](http://arxiv.org/abs/2504.01403v1)|null|
+|**2025-04-02 04:33:27**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image   Retrieval**|Yuji Nozawa et.al.|[2504.01348v1](http://arxiv.org/abs/2504.01348v1)|null|
+|**2025-04-02 01:52:52**|**SOLAR: Scalable Distributed Spatial Joins through Learning-based   Optimization**|Yongyi Liu et.al.|[2504.01292v1](http://arxiv.org/abs/2504.01292v1)|null|
+|**2025-04-02 01:22:55**|**Migrating a Job Search Relevance Function**|Bennett Mountain et.al.|[2504.01284v1](http://arxiv.org/abs/2504.01284v1)|null|
+|**2025-04-01 21:17:41**|**Towards Sign Distance Function based Metamaterial Design: Neural   Operator Transformer for Forward Prediction and Diffusion Models for Inverse   Design**|Qibang Liu et.al.|[2504.01195v1](http://arxiv.org/abs/2504.01195v1)|null|
+|**2025-04-01 15:33:28**|**Explorable INR: An Implicit Neural Representation for Ensemble   Simulation Enabling Efficient Spatial and Parameter Exploration**|Yi-Tang Chen et.al.|[2504.00904v1](http://arxiv.org/abs/2504.00904v1)|null|
+|**2025-04-01 10:48:46**|**Coca-Splat: Collaborative Optimization for Camera Parameters and 3D   Gaussians**|Jiamin Wu et.al.|[2504.00639v1](http://arxiv.org/abs/2504.00639v1)|null|
+|**2025-04-01 10:17:28**|**Data Sourcing Random Access using Semantic Queries for Massive IoT   Scenarios**|Anders E. Kalør et.al.|[2504.00619v1](http://arxiv.org/abs/2504.00619v1)|null|
 |**2025-03-31 17:53:00**|**Accelerated Approximate Optimization of Multi-Commodity Flows on   Directed Graphs**|Li Chen et.al.|[2503.24373v1](http://arxiv.org/abs/2503.24373v1)|null|
 |**2025-03-31 17:21:12**|**On Speedups for Convex Optimization via Quantum Dynamics**|Shouvanik Chakrabarti et.al.|[2503.24332v1](http://arxiv.org/abs/2503.24332v1)|null|
 |**2025-03-31 17:08:12**|**Sample-Optimal Private Regression in Polynomial Time**|Prashanti Anderson et.al.|[2503.24321v1](http://arxiv.org/abs/2503.24321v1)|null|
@@ -22,13 +32,3 @@
 |**2025-03-27 08:18:00**|**Multi-fidelity Learning of Reduced Order Models for Parabolic PDE   Constrained Optimization**|Benedikt Klein et.al.|[2503.21252v1](http://arxiv.org/abs/2503.21252v1)|null|
 |**2025-03-27 02:36:48**|**Alleviating LLM-based Generative Retrieval Hallucination in Alipay   Search**|Yedan Shen et.al.|[2503.21098v1](http://arxiv.org/abs/2503.21098v1)|null|
 |**2025-03-27 02:08:16**|**Translation-Invariant Quantum Algorithms for Ordered Search are Optimal**|Joseph Carolan et.al.|[2503.21090v1](http://arxiv.org/abs/2503.21090v1)|[link](https://github.com/jacarolan/ordered_search_public)|
-|**2025-03-26 04:57:03**|**Dynamic Learning and Productivity for Data Analysts: A Bayesian Hidden   Markov Model Perspective**|Yue Yin et.al.|[2503.20233v1](http://arxiv.org/abs/2503.20233v1)|null|
-|**2025-03-25 23:59:29**|**Approximating Opaque Top-k Queries**|Jiwon Chang et.al.|[2503.20119v1](http://arxiv.org/abs/2503.20119v1)|null|
-|**2025-03-25 18:17:36**|**ExCoT: Optimizing Reasoning for Text-to-SQL with Execution Feedback**|Bohan Zhai et.al.|[2503.19988v1](http://arxiv.org/abs/2503.19988v1)|[link](https://github.com/snowflakedb/ArcticTraining)|
-|**2025-03-25 13:15:49**|**Lifting Linear Sketches: Optimal Bounds and Adversarial Robustness**|Elena Gribelyuk et.al.|[2503.19629v1](http://arxiv.org/abs/2503.19629v1)|null|
-|**2025-03-25 12:14:10**|**Boosting the Transferability of Audio Adversarial Examples with Acoustic   Representation Optimization**|Weifei Jin et.al.|[2503.19591v1](http://arxiv.org/abs/2503.19591v1)|null|
-|**2025-03-25 03:34:26**|**Feature-Guided Sampling Strategy for Adaptive Model Order Reduction of   Convection-Dominated Problems**|Ali Mohaghegh et.al.|[2503.19321v1](http://arxiv.org/abs/2503.19321v1)|null|
-|**2025-03-25 02:04:13**|**Privately Evaluating Untrusted Black-Box Functions**|Ephraim Linder et.al.|[2503.19268v1](http://arxiv.org/abs/2503.19268v1)|null|
-|**2025-03-24 13:35:34**|**Geometric Preference Elicitation for Minimax Regret Optimization in   Uncertainty Matroids**|Aditya Sai Ellendula et.al.|[2503.18668v2](http://arxiv.org/abs/2503.18668v2)|null|
-|**2025-03-24 09:20:21**|**Õptimal Fault-Tolerant Labeling for Reachability and Approximate   Distances in Directed Planar Graphs**|Itai Boneh et.al.|[2503.18474v1](http://arxiv.org/abs/2503.18474v1)|null|
-|**2025-03-24 08:09:51**|**Faster Construction of a Planar Distance Oracle with Õ(1) Query Time**|Itai Boneh et.al.|[2503.18425v1](http://arxiv.org/abs/2503.18425v1)|null|

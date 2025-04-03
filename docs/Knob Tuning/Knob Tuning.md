@@ -10,6 +10,7 @@
 |**2025-02-19 19:39:12**|**Towards a global phase diagram of Ce-based dipolar-octupolar pyrochlore   magnets under magnetic fields**|Zhengbang Zhou et.al.|[2502.14067v2](http://arxiv.org/abs/2502.14067v2)|null|
 |**2025-02-06 11:39:58**|**Boosting superconductivity: how nanofaceted surfaces transform the   ground state of ultrathin YBa$_2$Cu$_3$O$_{7-δ}$ thin films**|Eric Wahlberg et.al.|[2502.03986v2](http://arxiv.org/abs/2502.03986v2)|null|
 |**2025-01-09 07:37:13**|**Time-domain study of coupled collective excitations in quantum materials**|Chenhang Xu et.al.|[2501.05028v2](http://arxiv.org/abs/2501.05028v2)|null|
+|**2025-01-04 01:06:46**|**Resolving the Exploration-Exploitation Dilemma in Evolutionary   Algorithms: A Novel Human-Centered Framework**|Ehsan Shams et.al.|[2501.02153v2](http://arxiv.org/abs/2501.02153v2)|null|
 |**2024-12-18 13:57:57**|**Unveiling intrinsic bulk photovoltaic effect in atomically thin ReS2**|Maria Ramos et.al.|[2412.13863v1](http://arxiv.org/abs/2412.13863v1)|null|
 |**2024-12-04 09:13:47**|**Mapping delocalization of impurity bands across archetypal Mott-Anderson   transition**|M. Parzer et.al.|[2412.03147v1](http://arxiv.org/abs/2412.03147v1)|null|
 |**2024-11-28 19:20:27**|**Diode effect in Fraunhofer patterns of disordered multi-terminal   Josephson junctions**|Luca Chirolli et.al.|[2411.19338v1](http://arxiv.org/abs/2411.19338v1)|null|
@@ -31,4 +32,3 @@
 |**2024-05-23 15:00:01**|**Twisted Bogoliubov quasiparticles in the superconducting NbSe$_2$   monolayer on graphene**|Masahiro Naritsuka et.al.|[2405.14662v1](http://arxiv.org/abs/2405.14662v1)|null|
 |**2024-05-23 14:17:05**|**The role of excitation vector fields and all-polarisation state control   of cavity magnonics**|Alban Joseph et.al.|[2405.14603v1](http://arxiv.org/abs/2405.14603v1)|null|
 |**2024-05-07 11:36:31**|**Two dimensional semiconductors: optical and electronic properties**|Roberto Rosati et.al.|[2405.04222v1](http://arxiv.org/abs/2405.04222v1)|null|
-|**2024-04-25 01:37:36**|**Tuning the electronic and magnetic properties of NiBr$_2$ via pressure**|Soumen Bag et.al.|[2404.16278v1](http://arxiv.org/abs/2404.16278v1)|null|
