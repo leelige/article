@@ -10,7 +10,7 @@
 |**2025-04-02 08:11:05**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458v2](http://arxiv.org/abs/2504.01458v2)|null|
 |**2025-04-02 06:40:09**|**Generative Retrieval and Alignment Model: A New Paradigm for E-commerce   Retrieval**|Ming Pang et.al.|[2504.01403v1](http://arxiv.org/abs/2504.01403v1)|null|
 |**2025-04-02 04:33:27**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image   Retrieval**|Yuji Nozawa et.al.|[2504.01348v1](http://arxiv.org/abs/2504.01348v1)|null|
-|**2025-04-02 01:52:52**|**SOLAR: Scalable Distributed Spatial Joins through Learning-based   Optimization**|Yongyi Liu et.al.|[2504.01292v1](http://arxiv.org/abs/2504.01292v1)|null|
+|**2025-04-02 01:52:52**|**SOLAR: Scalable Distributed Spatial Joins through Learning-based   Optimization**|Yongyi Liu et.al.|[2504.01292v1](http://arxiv.org/abs/2504.01292v1)|[link](https://github.com/yongyi-liu/solar)|
 |**2025-04-02 01:22:55**|**Migrating a Job Search Relevance Function**|Bennett Mountain et.al.|[2504.01284v1](http://arxiv.org/abs/2504.01284v1)|null|
 |**2025-04-01 21:17:41**|**Towards Sign Distance Function based Metamaterial Design: Neural   Operator Transformer for Forward Prediction and Diffusion Models for Inverse   Design**|Qibang Liu et.al.|[2504.01195v1](http://arxiv.org/abs/2504.01195v1)|null|
 |**2025-04-01 15:33:28**|**Explorable INR: An Implicit Neural Representation for Ensemble   Simulation Enabling Efficient Spatial and Parameter Exploration**|Yi-Tang Chen et.al.|[2504.00904v1](http://arxiv.org/abs/2504.00904v1)|null|
@@ -20,8 +20,8 @@
 |**2025-03-31 17:53:00**|**Accelerated Approximate Optimization of Multi-Commodity Flows on   Directed Graphs**|Li Chen et.al.|[2503.24373v1](http://arxiv.org/abs/2503.24373v1)|null|
 |**2025-03-31 17:21:12**|**On Speedups for Convex Optimization via Quantum Dynamics**|Shouvanik Chakrabarti et.al.|[2503.24332v1](http://arxiv.org/abs/2503.24332v1)|null|
 |**2025-03-31 17:08:12**|**Sample-Optimal Private Regression in Polynomial Time**|Prashanti Anderson et.al.|[2503.24321v1](http://arxiv.org/abs/2503.24321v1)|null|
-|**2025-03-31 09:09:12**|**GRACEFUL: A Learned Cost Estimator For UDFs**|Johannes Wehrstein et.al.|[2503.23863v1](http://arxiv.org/abs/2503.23863v1)|null|
-|**2025-03-31 06:52:13**|**VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI   Era**|Rong Kang et.al.|[2503.23776v1](http://arxiv.org/abs/2503.23776v1)|null|
+|**2025-03-31 09:09:12**|**GRACEFUL: A Learned Cost Estimator For UDFs**|Johannes Wehrstein et.al.|[2503.23863v1](http://arxiv.org/abs/2503.23863v1)|[link](https://github.com/datamanagementlab/graceful)|
+|**2025-03-31 06:52:13**|**VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI   Era**|Rong Kang et.al.|[2503.23776v1](http://arxiv.org/abs/2503.23776v1)|[link](https://github.com/bytedance/videx)|
 |**2025-03-30 20:00:31**|**Multiview Image-Based Localization**|Cameron Fiore et.al.|[2503.23577v1](http://arxiv.org/abs/2503.23577v1)|null|
 |**2025-03-30 12:03:57**|**LIRA: A Learning-based Query-aware Partition Framework for Large-scale   ANN Search**|Ximu Zeng et.al.|[2503.23409v1](http://arxiv.org/abs/2503.23409v1)|[link](https://github.com/simonezeng/lira-ann-search)|
 |**2025-03-30 08:33:56**|**Discovering Knowledge Deficiencies of Language Models on Massive   Knowledge Base**|Linxin Song et.al.|[2503.23361v1](http://arxiv.org/abs/2503.23361v1)|null|
