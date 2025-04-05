@@ -7,11 +7,11 @@
 # "Graph Neural Network":
 #   "GNN": '(all:Graph+OR+all:graph)+AND+(all:neural+OR+all:Neural)+AND+(all:network+OR+all:Network)'
 
-"Decision Tree":
-  "Decsion Tree": '(all:Decision+OR+all:decision)+AND+(all:Tree+OR+all:tree)+AND+(all:Algorithm+OR+all:algorithm)'
-
-"Query Optimization":
-  "Query Optimization": '(all:Query+OR+all:query)+AND+(all:Optimization+OR+all:optimization)'
+"Bayesian Optimisation":
+  "Bayesian Optimisation": '(all:Bayesian+OR+all:bayesian)+AND+(all:Optimisation+OR+all:optimisation)'
 
 "Knob Tuning":
   "Knob Tuning": '(all:Knob+OR+all:knob)+AND+(all:Tuning+OR+all:tuning)'
+
+"Query Optimization":
+  "Query Optimization": '(all:Query+OR+all:query)+AND+(all:Optimization+OR+all:optimization)'
