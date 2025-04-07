@@ -2,13 +2,17 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-04 17:44:22**|**Quantum Speedups for Markov Chain Monte Carlo Methods with Application   to Optimization**|Guneykan Ozgul et.al.|[2504.03626v1](http://arxiv.org/abs/2504.03626v1)|null|
+|**2025-04-03 18:47:16**|**QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free   Visual Document Understanding**|Binh M. Le et.al.|[2504.02971v1](http://arxiv.org/abs/2504.02971v1)|null|
 |**2025-04-03 17:02:32**|**On Composable and Parametric Uncertainty in Systems Co-Design**|Yujun Huang et.al.|[2504.02766v1](http://arxiv.org/abs/2504.02766v1)|null|
 |**2025-04-03 06:59:44**|**LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large   Language Models**|Weibin Liao et.al.|[2504.02327v1](http://arxiv.org/abs/2504.02327v1)|null|
+|**2025-04-03 04:36:39**|**Hide and Seek in Noise Labels: Noise-Robust Collaborative Active   Learning with LLM-Powered Assistance**|Bo Yuan et.al.|[2504.02901v1](http://arxiv.org/abs/2504.02901v1)|null|
 |**2025-04-02 23:00:10**|**MDP: Multidimensional Vision Model Pruning with Latency Constraint**|Xinglong Sun et.al.|[2504.02168v1](http://arxiv.org/abs/2504.02168v1)|null|
 |**2025-04-02 18:38:38**|**Towards Operationalizing Heterogeneous Data Discovery**|Jin Wang et.al.|[2504.02059v1](http://arxiv.org/abs/2504.02059v1)|null|
 |**2025-04-02 09:32:18**|**Local Computation Algorithms for Knapsack: impossibility results, and   how to avoid them**|Clément L. Canonne et.al.|[2504.01543v1](http://arxiv.org/abs/2504.01543v1)|null|
 |**2025-04-02 08:11:05**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458v2](http://arxiv.org/abs/2504.01458v2)|null|
 |**2025-04-02 06:40:09**|**Generative Retrieval and Alignment Model: A New Paradigm for E-commerce   Retrieval**|Ming Pang et.al.|[2504.01403v1](http://arxiv.org/abs/2504.01403v1)|null|
+|**2025-04-02 05:47:28**|**DiaTool-DPO: Multi-Turn Direct Preference Optimization for   Tool-Augmented Large Language Models**|Sunghee Jung et.al.|[2504.02882v1](http://arxiv.org/abs/2504.02882v1)|null|
 |**2025-04-02 04:33:27**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image   Retrieval**|Yuji Nozawa et.al.|[2504.01348v1](http://arxiv.org/abs/2504.01348v1)|null|
 |**2025-04-02 01:52:52**|**SOLAR: Scalable Distributed Spatial Joins through Learning-based   Optimization**|Yongyi Liu et.al.|[2504.01292v1](http://arxiv.org/abs/2504.01292v1)|[link](https://github.com/yongyi-liu/solar)|
 |**2025-04-02 01:22:55**|**Migrating a Job Search Relevance Function**|Bennett Mountain et.al.|[2504.01284v1](http://arxiv.org/abs/2504.01284v1)|null|
@@ -28,7 +32,3 @@
 |**2025-03-30 03:20:34**|**Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context   LLM Inference**|Wei Tao et.al.|[2503.23294v1](http://arxiv.org/abs/2503.23294v1)|null|
 |**2025-03-30 01:19:28**|**Modified Polyhedral Method for Elicitation of Shape-Free Utility and   Conservatism Reduction in Robust Optimization**|Sainan Zhang et.al.|[2503.23269v1](http://arxiv.org/abs/2503.23269v1)|null|
 |**2025-03-29 18:33:58**|**Enhancing Weakly Supervised Video Grounding via Diverse Inference   Strategies for Boundary and Prediction Selection**|Sunoh Kim et.al.|[2503.23181v1](http://arxiv.org/abs/2503.23181v1)|null|
-|**2025-03-29 17:29:30**|**Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards   for Reasoning-Enhanced Text-to-SQL**|Mohammadreza Pourreza et.al.|[2503.23157v2](http://arxiv.org/abs/2503.23157v2)|null|
-|**2025-03-29 08:35:01**|**DAT: Dynamic Alpha Tuning for Hybrid Retrieval in Retrieval-Augmented   Generation**|Hsin-Ling Hsu et.al.|[2503.23013v1](http://arxiv.org/abs/2503.23013v1)|null|
-|**2025-03-28 07:36:51**|**Segment then Splat: A Unified Approach for 3D Open-Vocabulary   Segmentation based on Gaussian Splatting**|Yiren Lu et.al.|[2503.22204v1](http://arxiv.org/abs/2503.22204v1)|null|
-|**2025-03-28 02:12:41**|**A Graph-native Optimization Framework for Complex Graph Queries**|Bingqing Lyu et.al.|[2503.22091v1](http://arxiv.org/abs/2503.22091v1)|null|
