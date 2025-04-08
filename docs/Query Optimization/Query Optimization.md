@@ -2,6 +2,15 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-07 15:50:46**|**Infinitely Divisible Noise for Differential Privacy: Nearly Optimal   Error in the High $\varepsilon$ Regime**|Charlie Harrison et.al.|[2504.05202v1](http://arxiv.org/abs/2504.05202v1)|null|
+|**2025-04-07 13:19:16**|**CMaP-SAM: Contraction Mapping Prior for SAM-driven Few-shot Segmentation**|Shuai Chen et.al.|[2504.05049v1](http://arxiv.org/abs/2504.05049v1)|null|
+|**2025-04-07 13:17:52**|**Debate Only When Necessary: Adaptive Multiagent Collaboration for   Efficient LLM Reasoning**|Sugyeong Eo et.al.|[2504.05047v1](http://arxiv.org/abs/2504.05047v1)|null|
+|**2025-04-07 03:08:12**|**Provable Failure of Language Models in Learning Majority Boolean Logic   via Gradient Descent**|Bo Chen et.al.|[2504.04702v1](http://arxiv.org/abs/2504.04702v1)|null|
+|**2025-04-06 01:31:04**|**Geo-OLM: Enabling Sustainable Earth Observation Studies with   Cost-Efficient Open Language Models & State-Driven Workflows**|Dimitrios Stamoulis et.al.|[2504.04319v1](http://arxiv.org/abs/2504.04319v1)|null|
+|**2025-04-05 14:10:58**|**AutoComp: Automated Data Compaction for Log-Structured Tables in Data   Lakes**|Anja Gruenheid et.al.|[2504.04186v1](http://arxiv.org/abs/2504.04186v1)|null|
+|**2025-04-05 12:34:51**|**CoMBO: Conflict Mitigation via Branched Optimization for Class   Incremental Segmentation**|Kai Fang et.al.|[2504.04156v1](http://arxiv.org/abs/2504.04156v1)|null|
+|**2025-04-05 03:30:04**|**Authenticated Sublinear Quantum Private Information Retrieval**|Fengxia Liu et.al.|[2504.04041v1](http://arxiv.org/abs/2504.04041v1)|null|
+|**2025-04-04 18:47:42**|**Control Map Distribution using Map Query Bank for Online Map Generation**|Ziming Liu et.al.|[2504.03868v1](http://arxiv.org/abs/2504.03868v1)|null|
 |**2025-04-04 17:44:22**|**Quantum Speedups for Markov Chain Monte Carlo Methods with Application   to Optimization**|Guneykan Ozgul et.al.|[2504.03626v1](http://arxiv.org/abs/2504.03626v1)|null|
 |**2025-04-03 18:47:16**|**QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free   Visual Document Understanding**|Binh M. Le et.al.|[2504.02971v1](http://arxiv.org/abs/2504.02971v1)|null|
 |**2025-04-03 17:02:32**|**On Composable and Parametric Uncertainty in Systems Co-Design**|Yujun Huang et.al.|[2504.02766v1](http://arxiv.org/abs/2504.02766v1)|null|
@@ -23,12 +32,3 @@
 |**2025-04-01 10:17:28**|**Data Sourcing Random Access using Semantic Queries for Massive IoT   Scenarios**|Anders E. Kalør et.al.|[2504.00619v1](http://arxiv.org/abs/2504.00619v1)|null|
 |**2025-03-31 17:53:00**|**Accelerated Approximate Optimization of Multi-Commodity Flows on   Directed Graphs**|Li Chen et.al.|[2503.24373v1](http://arxiv.org/abs/2503.24373v1)|null|
 |**2025-03-31 17:21:12**|**On Speedups for Convex Optimization via Quantum Dynamics**|Shouvanik Chakrabarti et.al.|[2503.24332v1](http://arxiv.org/abs/2503.24332v1)|null|
-|**2025-03-31 17:08:12**|**Sample-Optimal Private Regression in Polynomial Time**|Prashanti Anderson et.al.|[2503.24321v1](http://arxiv.org/abs/2503.24321v1)|null|
-|**2025-03-31 09:09:12**|**GRACEFUL: A Learned Cost Estimator For UDFs**|Johannes Wehrstein et.al.|[2503.23863v1](http://arxiv.org/abs/2503.23863v1)|[link](https://github.com/datamanagementlab/graceful)|
-|**2025-03-31 06:52:13**|**VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI   Era**|Rong Kang et.al.|[2503.23776v1](http://arxiv.org/abs/2503.23776v1)|[link](https://github.com/bytedance/videx)|
-|**2025-03-30 20:00:31**|**Multiview Image-Based Localization**|Cameron Fiore et.al.|[2503.23577v1](http://arxiv.org/abs/2503.23577v1)|null|
-|**2025-03-30 12:03:57**|**LIRA: A Learning-based Query-aware Partition Framework for Large-scale   ANN Search**|Ximu Zeng et.al.|[2503.23409v1](http://arxiv.org/abs/2503.23409v1)|[link](https://github.com/simonezeng/lira-ann-search)|
-|**2025-03-30 08:33:56**|**Discovering Knowledge Deficiencies of Language Models on Massive   Knowledge Base**|Linxin Song et.al.|[2503.23361v1](http://arxiv.org/abs/2503.23361v1)|null|
-|**2025-03-30 03:20:34**|**Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context   LLM Inference**|Wei Tao et.al.|[2503.23294v1](http://arxiv.org/abs/2503.23294v1)|null|
-|**2025-03-30 01:19:28**|**Modified Polyhedral Method for Elicitation of Shape-Free Utility and   Conservatism Reduction in Robust Optimization**|Sainan Zhang et.al.|[2503.23269v1](http://arxiv.org/abs/2503.23269v1)|null|
-|**2025-03-29 18:33:58**|**Enhancing Weakly Supervised Video Grounding via Diverse Inference   Strategies for Boundary and Prediction Selection**|Sunoh Kim et.al.|[2503.23181v1](http://arxiv.org/abs/2503.23181v1)|null|

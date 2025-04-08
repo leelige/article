@@ -2,7 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-03 16:45:33**|**Robust entangled photon generation by Floquet-engineered two-colour   pulses**|Jun-Yong Yan et.al.|[2504.02753v1](http://arxiv.org/abs/2504.02753v1)|null|
+|**2025-04-03 16:45:33**|**Robust entangled photon generation by Floquet-engineered two-colour   pulses**|Jun-Yong Yan et.al.|[2504.02753v2](http://arxiv.org/abs/2504.02753v2)|null|
 |**2025-03-25 22:04:33**|**Drops on architected elastic substrates: A repertoire of regimes at the   turn of a knob**|Sergio Santos et.al.|[2503.20091v1](http://arxiv.org/abs/2503.20091v1)|null|
 |**2025-03-17 03:14:10**|**Engineering robust strain transmission in van der Waals heterostructure   devices**|John Cenker et.al.|[2503.12773v1](http://arxiv.org/abs/2503.12773v1)|null|
 |**2025-03-08 18:25:27**|**Driven Magnon-Photon System as a Tunable Quantum Heat Rectifier**|C. O. Edet et.al.|[2503.06301v1](http://arxiv.org/abs/2503.06301v1)|null|
