@@ -6,7 +6,7 @@
 |**2025-03-25 22:04:33**|**Drops on architected elastic substrates: A repertoire of regimes at the   turn of a knob**|Sergio Santos et.al.|[2503.20091v1](http://arxiv.org/abs/2503.20091v1)|null|
 |**2025-03-17 03:14:10**|**Engineering robust strain transmission in van der Waals heterostructure   devices**|John Cenker et.al.|[2503.12773v1](http://arxiv.org/abs/2503.12773v1)|null|
 |**2025-03-08 18:25:27**|**Driven Magnon-Photon System as a Tunable Quantum Heat Rectifier**|C. O. Edet et.al.|[2503.06301v1](http://arxiv.org/abs/2503.06301v1)|null|
-|**2025-03-02 10:17:47**|**Electrical switching of Chern insulators in moire rhombohedral   heptalayer graphene**|Zhiyu Wang et.al.|[2503.00837v1](http://arxiv.org/abs/2503.00837v1)|null|
+|**2025-03-02 10:17:47**|**Electrical switching of Chern insulators in moire rhombohedral   heptalayer graphene**|Zhiyu Wang et.al.|[2503.00837v2](http://arxiv.org/abs/2503.00837v2)|null|
 |**2025-02-20 04:01:49**|**Poincaré sphere engineering of dynamical ferroelectric topological   solitons**|Lingyuan Gao et.al.|[2502.14236v1](http://arxiv.org/abs/2502.14236v1)|null|
 |**2025-02-19 19:39:12**|**Towards a global phase diagram of Ce-based dipolar-octupolar pyrochlore   magnets under magnetic fields**|Zhengbang Zhou et.al.|[2502.14067v2](http://arxiv.org/abs/2502.14067v2)|null|
 |**2025-02-06 11:39:58**|**Boosting superconductivity: how nanofaceted surfaces transform the   ground state of ultrathin YBa$_2$Cu$_3$O$_{7-δ}$ thin films**|Eric Wahlberg et.al.|[2502.03986v2](http://arxiv.org/abs/2502.03986v2)|null|

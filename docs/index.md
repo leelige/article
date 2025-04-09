@@ -1,11 +1,15 @@
 # arxiv-daily
- 自动更新 @ 2025-04-08 16:13:24 Asia/Shanghai
+ 自动更新 @ 2025-04-09 16:12:48 Asia/Shanghai
 
 ## Query Optimization
 
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-08 14:19:12**|**Geometric Bipartite Matching Based Exact Algorithms for Server Problems**|Sharath Raghvendra et.al.|[2504.06079v1](http://arxiv.org/abs/2504.06079v1)|null|
+|**2025-04-08 08:48:51**|**Right Question is Already Half the Answer: Fully Unsupervised LLM   Reasoning Incentivization**|Qingyang Zhang et.al.|[2504.05812v1](http://arxiv.org/abs/2504.05812v1)|null|
+|**2025-04-08 03:40:19**|**iEBAKER: Improved Remote Sensing Image-Text Retrieval Framework via   Eliminate Before Align and Keyword Explicit Reasoning**|Yan Zhang et.al.|[2504.05644v1](http://arxiv.org/abs/2504.05644v1)|[link](https://github.com/zhangy0822/iEBAKER)|
+|**2025-04-08 01:45:16**|**FactGuard: Leveraging Multi-Agent Systems to Generate Answerable and   Unanswerable Questions for Enhanced Long-Context LLM Extraction**|Qian-Wen Zhang et.al.|[2504.05607v1](http://arxiv.org/abs/2504.05607v1)|null|
 |**2025-04-07 15:50:46**|**Infinitely Divisible Noise for Differential Privacy: Nearly Optimal   Error in the High $\varepsilon$ Regime**|Charlie Harrison et.al.|[2504.05202v1](http://arxiv.org/abs/2504.05202v1)|null|
 |**2025-04-07 13:19:16**|**CMaP-SAM: Contraction Mapping Prior for SAM-driven Few-shot Segmentation**|Shuai Chen et.al.|[2504.05049v1](http://arxiv.org/abs/2504.05049v1)|null|
 |**2025-04-07 13:17:52**|**Debate Only When Necessary: Adaptive Multiagent Collaboration for   Efficient LLM Reasoning**|Sugyeong Eo et.al.|[2504.05047v1](http://arxiv.org/abs/2504.05047v1)|null|
@@ -16,7 +20,7 @@
 |**2025-04-05 03:30:04**|**Authenticated Sublinear Quantum Private Information Retrieval**|Fengxia Liu et.al.|[2504.04041v1](http://arxiv.org/abs/2504.04041v1)|null|
 |**2025-04-04 18:47:42**|**Control Map Distribution using Map Query Bank for Online Map Generation**|Ziming Liu et.al.|[2504.03868v1](http://arxiv.org/abs/2504.03868v1)|null|
 |**2025-04-04 17:44:22**|**Quantum Speedups for Markov Chain Monte Carlo Methods with Application   to Optimization**|Guneykan Ozgul et.al.|[2504.03626v1](http://arxiv.org/abs/2504.03626v1)|null|
-|**2025-04-03 18:47:16**|**QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free   Visual Document Understanding**|Binh M. Le et.al.|[2504.02971v1](http://arxiv.org/abs/2504.02971v1)|null|
+|**2025-04-03 18:47:16**|**QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free   Visual Document Understanding**|Binh M. Le et.al.|[2504.02971v2](http://arxiv.org/abs/2504.02971v2)|null|
 |**2025-04-03 17:02:32**|**On Composable and Parametric Uncertainty in Systems Co-Design**|Yujun Huang et.al.|[2504.02766v1](http://arxiv.org/abs/2504.02766v1)|null|
 |**2025-04-03 06:59:44**|**LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large   Language Models**|Weibin Liao et.al.|[2504.02327v1](http://arxiv.org/abs/2504.02327v1)|null|
 |**2025-04-03 04:36:39**|**Hide and Seek in Noise Labels: Noise-Robust Collaborative Active   Learning with LLM-Powered Assistance**|Bo Yuan et.al.|[2504.02901v1](http://arxiv.org/abs/2504.02901v1)|null|
@@ -29,13 +33,9 @@
 |**2025-04-02 04:33:27**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image   Retrieval**|Yuji Nozawa et.al.|[2504.01348v1](http://arxiv.org/abs/2504.01348v1)|null|
 |**2025-04-02 01:52:52**|**SOLAR: Scalable Distributed Spatial Joins through Learning-based   Optimization**|Yongyi Liu et.al.|[2504.01292v1](http://arxiv.org/abs/2504.01292v1)|[link](https://github.com/yongyi-liu/solar)|
 |**2025-04-02 01:22:55**|**Migrating a Job Search Relevance Function**|Bennett Mountain et.al.|[2504.01284v1](http://arxiv.org/abs/2504.01284v1)|null|
-|**2025-04-01 21:17:41**|**Towards Sign Distance Function based Metamaterial Design: Neural   Operator Transformer for Forward Prediction and Diffusion Models for Inverse   Design**|Qibang Liu et.al.|[2504.01195v1](http://arxiv.org/abs/2504.01195v1)|null|
+|**2025-04-01 21:17:41**|**Towards Sign Distance Function based Metamaterial Design: Neural   Operator Transformer for Forward Prediction and Diffusion Models for Inverse   Design**|Qibang Liu et.al.|[2504.01195v1](http://arxiv.org/abs/2504.01195v1)|[link](https://github.com/qibangliu/sdfgeodesign)|
 |**2025-04-01 15:33:28**|**Explorable INR: An Implicit Neural Representation for Ensemble   Simulation Enabling Efficient Spatial and Parameter Exploration**|Yi-Tang Chen et.al.|[2504.00904v1](http://arxiv.org/abs/2504.00904v1)|null|
 |**2025-04-01 14:12:14**|**ScholarCopilot: Training Large Language Models for Academic Writing with   Accurate Citations**|Yubo Wang et.al.|[2504.00824v2](http://arxiv.org/abs/2504.00824v2)|null|
-|**2025-04-01 10:48:46**|**Coca-Splat: Collaborative Optimization for Camera Parameters and 3D   Gaussians**|Jiamin Wu et.al.|[2504.00639v1](http://arxiv.org/abs/2504.00639v1)|null|
-|**2025-04-01 10:17:28**|**Data Sourcing Random Access using Semantic Queries for Massive IoT   Scenarios**|Anders E. Kalør et.al.|[2504.00619v1](http://arxiv.org/abs/2504.00619v1)|null|
-|**2025-03-31 17:53:00**|**Accelerated Approximate Optimization of Multi-Commodity Flows on   Directed Graphs**|Li Chen et.al.|[2503.24373v1](http://arxiv.org/abs/2503.24373v1)|null|
-|**2025-03-31 17:21:12**|**On Speedups for Convex Optimization via Quantum Dynamics**|Shouvanik Chakrabarti et.al.|[2503.24332v1](http://arxiv.org/abs/2503.24332v1)|null|
 
 ## Bayesian Optimisation
 
@@ -82,7 +82,7 @@
 |**2025-03-25 22:04:33**|**Drops on architected elastic substrates: A repertoire of regimes at the   turn of a knob**|Sergio Santos et.al.|[2503.20091v1](http://arxiv.org/abs/2503.20091v1)|null|
 |**2025-03-17 03:14:10**|**Engineering robust strain transmission in van der Waals heterostructure   devices**|John Cenker et.al.|[2503.12773v1](http://arxiv.org/abs/2503.12773v1)|null|
 |**2025-03-08 18:25:27**|**Driven Magnon-Photon System as a Tunable Quantum Heat Rectifier**|C. O. Edet et.al.|[2503.06301v1](http://arxiv.org/abs/2503.06301v1)|null|
-|**2025-03-02 10:17:47**|**Electrical switching of Chern insulators in moire rhombohedral   heptalayer graphene**|Zhiyu Wang et.al.|[2503.00837v1](http://arxiv.org/abs/2503.00837v1)|null|
+|**2025-03-02 10:17:47**|**Electrical switching of Chern insulators in moire rhombohedral   heptalayer graphene**|Zhiyu Wang et.al.|[2503.00837v2](http://arxiv.org/abs/2503.00837v2)|null|
 |**2025-02-20 04:01:49**|**Poincaré sphere engineering of dynamical ferroelectric topological   solitons**|Lingyuan Gao et.al.|[2502.14236v1](http://arxiv.org/abs/2502.14236v1)|null|
 |**2025-02-19 19:39:12**|**Towards a global phase diagram of Ce-based dipolar-octupolar pyrochlore   magnets under magnetic fields**|Zhengbang Zhou et.al.|[2502.14067v2](http://arxiv.org/abs/2502.14067v2)|null|
 |**2025-02-06 11:39:58**|**Boosting superconductivity: how nanofaceted surfaces transform the   ground state of ultrathin YBa$_2$Cu$_3$O$_{7-δ}$ thin films**|Eric Wahlberg et.al.|[2502.03986v2](http://arxiv.org/abs/2502.03986v2)|null|
