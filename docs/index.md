@@ -1,11 +1,16 @@
 # arxiv-daily
- 自动更新 @ 2025-04-09 16:12:48 Asia/Shanghai
+ 自动更新 @ 2025-04-10 16:12:53 Asia/Shanghai
 
 ## Query Optimization
 
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-09 14:30:30**|**The Importance of Being Discrete: Measuring the Impact of Discretization   in End-to-End Differentially Private Synthetic Data**|Georgi Ganev et.al.|[2504.06923v1](http://arxiv.org/abs/2504.06923v1)|null|
+|**2025-04-09 12:56:22**|**ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box   Vision-Language Models**|Seonghwan Park et.al.|[2504.06838v1](http://arxiv.org/abs/2504.06838v1)|null|
+|**2025-04-09 07:56:56**|**SEE: Continual Fine-tuning with Sequential Ensemble of Experts**|Zhilin Wang et.al.|[2504.06664v1](http://arxiv.org/abs/2504.06664v1)|null|
+|**2025-04-08 22:31:46**|**Membrane: Accelerating Database Analytics with Bank-Level DRAM-PIM   Filtering**|Akhil Shekar et.al.|[2504.06473v1](http://arxiv.org/abs/2504.06473v1)|null|
+|**2025-04-08 19:41:19**|**Low Rank Learning for Offline Query Optimization**|Zixuan Yi et.al.|[2504.06399v1](http://arxiv.org/abs/2504.06399v1)|[link](https://github.com/zixy17/LimeQO})|
 |**2025-04-08 14:19:12**|**Geometric Bipartite Matching Based Exact Algorithms for Server Problems**|Sharath Raghvendra et.al.|[2504.06079v1](http://arxiv.org/abs/2504.06079v1)|null|
 |**2025-04-08 08:48:51**|**Right Question is Already Half the Answer: Fully Unsupervised LLM   Reasoning Incentivization**|Qingyang Zhang et.al.|[2504.05812v1](http://arxiv.org/abs/2504.05812v1)|null|
 |**2025-04-08 03:40:19**|**iEBAKER: Improved Remote Sensing Image-Text Retrieval Framework via   Eliminate Before Align and Keyword Explicit Reasoning**|Yan Zhang et.al.|[2504.05644v1](http://arxiv.org/abs/2504.05644v1)|[link](https://github.com/zhangy0822/iEBAKER)|
@@ -31,11 +36,6 @@
 |**2025-04-02 06:40:09**|**Generative Retrieval and Alignment Model: A New Paradigm for E-commerce   Retrieval**|Ming Pang et.al.|[2504.01403v1](http://arxiv.org/abs/2504.01403v1)|null|
 |**2025-04-02 05:47:28**|**DiaTool-DPO: Multi-Turn Direct Preference Optimization for   Tool-Augmented Large Language Models**|Sunghee Jung et.al.|[2504.02882v1](http://arxiv.org/abs/2504.02882v1)|null|
 |**2025-04-02 04:33:27**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image   Retrieval**|Yuji Nozawa et.al.|[2504.01348v1](http://arxiv.org/abs/2504.01348v1)|null|
-|**2025-04-02 01:52:52**|**SOLAR: Scalable Distributed Spatial Joins through Learning-based   Optimization**|Yongyi Liu et.al.|[2504.01292v1](http://arxiv.org/abs/2504.01292v1)|[link](https://github.com/yongyi-liu/solar)|
-|**2025-04-02 01:22:55**|**Migrating a Job Search Relevance Function**|Bennett Mountain et.al.|[2504.01284v1](http://arxiv.org/abs/2504.01284v1)|null|
-|**2025-04-01 21:17:41**|**Towards Sign Distance Function based Metamaterial Design: Neural   Operator Transformer for Forward Prediction and Diffusion Models for Inverse   Design**|Qibang Liu et.al.|[2504.01195v1](http://arxiv.org/abs/2504.01195v1)|[link](https://github.com/qibangliu/sdfgeodesign)|
-|**2025-04-01 15:33:28**|**Explorable INR: An Implicit Neural Representation for Ensemble   Simulation Enabling Efficient Spatial and Parameter Exploration**|Yi-Tang Chen et.al.|[2504.00904v1](http://arxiv.org/abs/2504.00904v1)|null|
-|**2025-04-01 14:12:14**|**ScholarCopilot: Training Large Language Models for Academic Writing with   Accurate Citations**|Yubo Wang et.al.|[2504.00824v2](http://arxiv.org/abs/2504.00824v2)|null|
 
 ## Bayesian Optimisation
 
