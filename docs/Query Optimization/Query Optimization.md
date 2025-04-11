@@ -2,8 +2,13 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-10 15:11:35**|**Inverse Design of Block Polymer Materials with Desired Nanoscale   Structure and Macroscale Properties**|Vinson Liao et.al.|[2504.07834v1](http://arxiv.org/abs/2504.07834v1)|null|
+|**2025-04-10 13:09:50**|**PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented   Generation in Large Language Models via Bilevel Optimization**|Yang Jiao et.al.|[2504.07717v1](http://arxiv.org/abs/2504.07717v1)|null|
+|**2025-04-10 02:57:14**|**Multi-Selection for Recommendation Systems**|Sahasrajit Sarmasarkar et.al.|[2504.07403v1](http://arxiv.org/abs/2504.07403v1)|null|
+|**2025-04-10 01:15:02**|**Incremental Planar Nearest Neighbor Queries with Optimal Query Time**|John Iacono et.al.|[2504.07366v1](http://arxiv.org/abs/2504.07366v1)|null|
 |**2025-04-09 14:30:30**|**The Importance of Being Discrete: Measuring the Impact of Discretization   in End-to-End Differentially Private Synthetic Data**|Georgi Ganev et.al.|[2504.06923v1](http://arxiv.org/abs/2504.06923v1)|null|
 |**2025-04-09 12:56:22**|**ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box   Vision-Language Models**|Seonghwan Park et.al.|[2504.06838v1](http://arxiv.org/abs/2504.06838v1)|null|
+|**2025-04-09 11:19:42**|**GAAPO: Genetic Algorithmic Applied to Prompt Optimization**|Xavier Sécheresse et.al.|[2504.07157v1](http://arxiv.org/abs/2504.07157v1)|null|
 |**2025-04-09 07:56:56**|**SEE: Continual Fine-tuning with Sequential Ensemble of Experts**|Zhilin Wang et.al.|[2504.06664v1](http://arxiv.org/abs/2504.06664v1)|null|
 |**2025-04-08 22:31:46**|**Membrane: Accelerating Database Analytics with Bank-Level DRAM-PIM   Filtering**|Akhil Shekar et.al.|[2504.06473v1](http://arxiv.org/abs/2504.06473v1)|null|
 |**2025-04-08 19:41:19**|**Low Rank Learning for Offline Query Optimization**|Zixuan Yi et.al.|[2504.06399v1](http://arxiv.org/abs/2504.06399v1)|[link](https://github.com/zixy17/LimeQO})|
@@ -27,8 +32,3 @@
 |**2025-04-03 04:36:39**|**Hide and Seek in Noise Labels: Noise-Robust Collaborative Active   Learning with LLM-Powered Assistance**|Bo Yuan et.al.|[2504.02901v1](http://arxiv.org/abs/2504.02901v1)|null|
 |**2025-04-02 23:00:10**|**MDP: Multidimensional Vision Model Pruning with Latency Constraint**|Xinglong Sun et.al.|[2504.02168v1](http://arxiv.org/abs/2504.02168v1)|null|
 |**2025-04-02 18:38:38**|**Towards Operationalizing Heterogeneous Data Discovery**|Jin Wang et.al.|[2504.02059v1](http://arxiv.org/abs/2504.02059v1)|null|
-|**2025-04-02 09:32:18**|**Local Computation Algorithms for Knapsack: impossibility results, and   how to avoid them**|Clément L. Canonne et.al.|[2504.01543v1](http://arxiv.org/abs/2504.01543v1)|null|
-|**2025-04-02 08:11:05**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458v2](http://arxiv.org/abs/2504.01458v2)|null|
-|**2025-04-02 06:40:09**|**Generative Retrieval and Alignment Model: A New Paradigm for E-commerce   Retrieval**|Ming Pang et.al.|[2504.01403v1](http://arxiv.org/abs/2504.01403v1)|null|
-|**2025-04-02 05:47:28**|**DiaTool-DPO: Multi-Turn Direct Preference Optimization for   Tool-Augmented Large Language Models**|Sunghee Jung et.al.|[2504.02882v1](http://arxiv.org/abs/2504.02882v1)|null|
-|**2025-04-02 04:33:27**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image   Retrieval**|Yuji Nozawa et.al.|[2504.01348v1](http://arxiv.org/abs/2504.01348v1)|null|
