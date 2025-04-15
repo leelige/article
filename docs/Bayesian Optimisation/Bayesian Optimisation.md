@@ -2,6 +2,7 @@
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-14 12:34:03**|**ChartOptimiser: Task-driven Optimisation of Chart Designs**|Yao Wang et.al.|[2504.10180v1](http://arxiv.org/abs/2504.10180v1)|null|
 |**2025-03-31 13:01:59**|**TOPz: photometric redshifts using template fitting applied to GAMA   survey**|E. Tempel et.al.|[2503.24039v1](http://arxiv.org/abs/2503.24039v1)|null|
 |**2025-03-31 12:40:50**|**Bayesian Predictive Coding**|Alexander Tschantz et.al.|[2503.24016v1](http://arxiv.org/abs/2503.24016v1)|null|
 |**2025-03-24 11:24:37**|**A generalisable data-augmented turbulence model with progressive and   interpretable corrections**|Mario J. Rincón et.al.|[2503.18568v1](http://arxiv.org/abs/2503.18568v1)|[link](https://github.com/AUfluids/KOSSTPDA)|
@@ -31,4 +32,3 @@
 |**2024-11-25 18:41:02**|**Implementing transferable annealing protocols for combinatorial   optimisation on neutral atom quantum processors: a case study on   smart-charging of electric vehicles**|Lucas Leclerc et.al.|[2411.16656v2](http://arxiv.org/abs/2411.16656v2)|null|
 |**2024-11-21 10:08:16**|**Multi-objective Bayesian Optimisation of Spinodoid Cellular Structures   for Crush Energy Absorption**|Hirak Kansara et.al.|[2411.14508v2](http://arxiv.org/abs/2411.14508v2)|[link](https://github.com/MCM-QMUL/MOBO)|
 |**2024-11-17 09:35:23**|**Near-real-time design of experiments for seismic monitoring of volcanoes**|Dominik Strutz et.al.|[2411.11015v1](http://arxiv.org/abs/2411.11015v1)|[link](https://github.com/dominik-strutz/WoWED-volcano)|
-|**2024-11-15 12:55:05**|**Continuous Bayesian Model Selection for Multivariate Causal Discovery**|Anish Dhir et.al.|[2411.10154v1](http://arxiv.org/abs/2411.10154v1)|null|
