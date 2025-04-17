@@ -2,6 +2,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-16 10:24:08**|**Dissecting coupled orders in a terahertz-driven electron-doped cuprate**|Liwen Feng et.al.|[2504.11947v1](http://arxiv.org/abs/2504.11947v1)|null|
+|**2025-04-16 04:18:25**|**AQETuner: Reliable Query-level Configuration Tuning for Analytical Query   Engines**|Lixiang Chen et.al.|[2504.11756v1](http://arxiv.org/abs/2504.11756v1)|null|
 |**2025-04-03 16:45:33**|**Robust entangled photon generation by Floquet-engineered two-colour   pulses**|Jun-Yong Yan et.al.|[2504.02753v2](http://arxiv.org/abs/2504.02753v2)|null|
 |**2025-03-25 22:04:33**|**Drops on architected elastic substrates: A repertoire of regimes at the   turn of a knob**|Sergio Santos et.al.|[2503.20091v1](http://arxiv.org/abs/2503.20091v1)|null|
 |**2025-03-17 03:14:10**|**Engineering robust strain transmission in van der Waals heterostructure   devices**|John Cenker et.al.|[2503.12773v1](http://arxiv.org/abs/2503.12773v1)|null|
@@ -30,5 +32,3 @@
 |**2024-06-26 22:44:07**|**Flat and tunable moire phonons in twisted transition-metal   dichalcogenides**|Alejandro Ramos-Alonso et.al.|[2406.18779v1](http://arxiv.org/abs/2406.18779v1)|null|
 |**2024-06-18 03:52:54**|**Observation of stacking engineered magnetic phase transitions within   moiré supercells of twisted van der Waals magnets**|Senlei Li et.al.|[2406.12250v1](http://arxiv.org/abs/2406.12250v1)|null|
 |**2024-06-02 04:52:59**|**EMIT: Micro-Invasive Database Configuration Tuning**|Jian Geng et.al.|[2406.00616v1](http://arxiv.org/abs/2406.00616v1)|null|
-|**2024-05-23 15:00:01**|**Twisted Bogoliubov quasiparticles in the superconducting NbSe$_2$   monolayer on graphene**|Masahiro Naritsuka et.al.|[2405.14662v1](http://arxiv.org/abs/2405.14662v1)|null|
-|**2024-05-23 14:17:05**|**The role of excitation vector fields and all-polarisation state control   of cavity magnonics**|Alban Joseph et.al.|[2405.14603v1](http://arxiv.org/abs/2405.14603v1)|null|
