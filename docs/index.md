@@ -1,47 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2025-04-17 16:13:14 Asia/Shanghai
-
-## Bayesian Optimisation
-
-### Bayesian Optimisation
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-14 12:34:03**|**ChartOptimiser: Task-driven Optimisation of Chart Designs**|Yao Wang et.al.|[2504.10180v1](http://arxiv.org/abs/2504.10180v1)|null|
-|**2025-03-31 13:01:59**|**TOPz: photometric redshifts using template fitting applied to GAMA   survey**|E. Tempel et.al.|[2503.24039v1](http://arxiv.org/abs/2503.24039v1)|null|
-|**2025-03-31 12:40:50**|**Bayesian Predictive Coding**|Alexander Tschantz et.al.|[2503.24016v1](http://arxiv.org/abs/2503.24016v1)|null|
-|**2025-03-24 11:24:37**|**A generalisable data-augmented turbulence model with progressive and   interpretable corrections**|Mario J. Rincón et.al.|[2503.18568v1](http://arxiv.org/abs/2503.18568v1)|[link](https://github.com/AUfluids/KOSSTPDA)|
-|**2025-03-21 14:35:29**|**Bayesian optimisation of poloidal field coil positions in tokamaks**|Timothy Nunn et.al.|[2503.17189v1](http://arxiv.org/abs/2503.17189v1)|null|
-|**2025-03-20 23:11:30**|**SuperARC: An Agnostic Test for Narrow, General, and Super Intelligence   Based On the Principles of Recursive Compression and Algorithmic Probability**|Alberto Hernández-Espinosa et.al.|[2503.16743v2](http://arxiv.org/abs/2503.16743v2)|[link](https://github.com/AlgoDynLab/SuperintelligenceTest)|
-|**2025-03-20 21:09:38**|**Accelerated Medicines Development using a Digital Formulator and a   Self-Driving Tableting DataFactory**|Faisal Abbas et.al.|[2503.17411v1](http://arxiv.org/abs/2503.17411v1)|[link](https://gitlab.cis.strath.ac.uk/fmb22104/cmac-self-driving-tabletting-datafactory)|
-|**2025-03-19 15:27:24**|**Euclid Quick Data Release (Q1). LEMON -- Lens Modelling with Neural   networks. Automated and fast modelling of Euclid gravitational lenses with a   singular isothermal ellipsoid mass profile**| Euclid Collaboration et.al.|[2503.15329v1](http://arxiv.org/abs/2503.15329v1)|null|
-|**2025-03-11 09:54:00**|**Generation and Balancing Capacity in Future Electric Power Systems --   Scenario Analysis Using Bayesian Networks**|Seppo Borenius et.al.|[2503.08232v1](http://arxiv.org/abs/2503.08232v1)|null|
-|**2025-03-10 11:00:48**|**Transforming Traditional Neural Networks into Neuromorphic   Quantum-Cognitive Models: A Tutorial with Applications**|Milan Maksimovic et.al.|[2503.07681v1](http://arxiv.org/abs/2503.07681v1)|[link](https://github.com/IvanMaksymov/Quantum-Tunnelling-Neural-Networks-Tutorial)|
-|**2025-03-04 12:43:33**|**Machine Learning-based Regional Cooling Demand Prediction with Optimised   Dataset Partitioning**|Meng Zhang et.al.|[2503.05813v1](http://arxiv.org/abs/2503.05813v1)|null|
-|**2025-03-01 07:04:54**|**Few-shot crack image classification using clip based on bayesian   optimization**|Yingchao Zhang et.al.|[2503.00376v1](http://arxiv.org/abs/2503.00376v1)|null|
-|**2025-02-25 15:19:10**|**Nested Expectations with Kernel Quadrature**|Zonghao Chen et.al.|[2502.18284v1](http://arxiv.org/abs/2502.18284v1)|[link](https://github.com/hudsonchen/nest_kq)|
-|**2025-02-18 19:22:15**|**Systematic Bayesian Optimization for Atomic Structure Calculations of   Heavy Elements**|Ricardo Ferreira da Silva et.al.|[2502.13250v1](http://arxiv.org/abs/2502.13250v1)|null|
-|**2025-02-18 15:42:05**|**A measure-valued HJB perspective on Bayesian optimal adaptive control**|Alexander M. G. Cox et.al.|[2502.12957v1](http://arxiv.org/abs/2502.12957v1)|null|
-|**2025-02-17 20:34:29**|**Mean-Field Bayesian Optimisation**|Petar Steinberg et.al.|[2502.12315v1](http://arxiv.org/abs/2502.12315v1)|[link](https://github.com/petarsteinberg/mf-bo)|
-|**2025-01-27 17:23:52**|**Analog QAOA with Bayesian Optimisation on a neutral atom QPU**|Simone Tibaldi et.al.|[2501.16229v1](http://arxiv.org/abs/2501.16229v1)|null|
-|**2025-01-18 20:18:48**|**QGAPHEnsemble : Combining Hybrid QLSTM Network Ensemble via Adaptive   Weighting for Short Term Weather Forecasting**|Anuvab Sen et.al.|[2501.10866v1](http://arxiv.org/abs/2501.10866v1)|null|
-|**2025-01-14 10:46:41**|**Maximizing Uncertainty for Federated learning via Bayesian   Optimisation-based Model Poisoning**|Marios Aristodemou et.al.|[2501.08002v2](http://arxiv.org/abs/2501.08002v2)|null|
-|**2025-01-08 15:02:55**|**Bayesian buckling load optimisation for structures with geometric   uncertainties**|Tianyi Liu et.al.|[2501.04553v1](http://arxiv.org/abs/2501.04553v1)|null|
-|**2025-01-02 22:03:00**|**Multi-view Bayesian optimisation in reduced dimension for engineering   design**|Thomas A. Archbold et.al.|[2501.01552v1](http://arxiv.org/abs/2501.01552v1)|null|
-|**2024-12-22 11:28:10**|**Reduced Order Models and Conditional Expectation -- Analysing Parametric   Low-Order Approximations**|Hermann G. Matthies et.al.|[2412.19836v2](http://arxiv.org/abs/2412.19836v2)|null|
-|**2024-12-20 08:51:14**|**High-Dimensional Bayesian Optimisation with Large-Scale Constraints via   Latent Space Gaussian Processes**|Hauke F. Maathuis et.al.|[2412.15679v1](http://arxiv.org/abs/2412.15679v1)|null|
-|**2024-12-12 11:27:27**|**Dimensionality Reduction Techniques for Global Bayesian Optimisation**|Luo Long et.al.|[2412.09183v1](http://arxiv.org/abs/2412.09183v1)|null|
-|**2024-12-06 09:25:00**|**Nonmyopic Global Optimisation via Approximate Dynamic Programming**|Filippo Airaldi et.al.|[2412.04882v1](http://arxiv.org/abs/2412.04882v1)|[link](https://github.com/FilippoAiraldi/global-optimization)|
-|**2024-11-29 14:22:51**|**Risk-Averse Certification of Bayesian Neural Networks**|Xiyue Zhang et.al.|[2411.19729v1](http://arxiv.org/abs/2411.19729v1)|null|
-|**2024-11-25 18:49:02**|**Decision Making under the Exponential Family: Distributionally Robust   Optimisation with Bayesian Ambiguity Sets**|Charita Dellaporta et.al.|[2411.16829v1](http://arxiv.org/abs/2411.16829v1)|null|
-|**2024-11-25 18:41:02**|**Implementing transferable annealing protocols for combinatorial   optimisation on neutral atom quantum processors: a case study on   smart-charging of electric vehicles**|Lucas Leclerc et.al.|[2411.16656v2](http://arxiv.org/abs/2411.16656v2)|null|
-|**2024-11-21 10:08:16**|**Multi-objective Bayesian Optimisation of Spinodoid Cellular Structures   for Crush Energy Absorption**|Hirak Kansara et.al.|[2411.14508v2](http://arxiv.org/abs/2411.14508v2)|[link](https://github.com/MCM-QMUL/MOBO)|
-|**2024-11-17 09:35:23**|**Near-real-time design of experiments for seismic monitoring of volcanoes**|Dominik Strutz et.al.|[2411.11015v1](http://arxiv.org/abs/2411.11015v1)|[link](https://github.com/dominik-strutz/WoWED-volcano)|
+ 自动更新 @ 2025-04-18 16:12:20 Asia/Shanghai
 
 ## Query Optimization
 
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-17 17:59:27**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework   with MLLMs**|Haoxuan Li et.al.|[2504.13172v1](http://arxiv.org/abs/2504.13172v1)|null|
+|**2025-04-17 14:54:00**|**Query Complexity of Classical and Quantum Channel Discrimination**|Theshani Nuradha et.al.|[2504.12989v1](http://arxiv.org/abs/2504.12989v1)|null|
+|**2025-04-17 14:50:40**|**Why Ask One When You Can Ask $k$? Two-Stage Learning-to-Defer to a Set   of Experts**|Yannis Montreuil et.al.|[2504.12988v1](http://arxiv.org/abs/2504.12988v1)|null|
 |**2025-04-16 16:11:11**|**zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing**|Yancheng Zhang et.al.|[2504.12217v1](http://arxiv.org/abs/2504.12217v1)|[link](https://github.com/UCF-Lou-Lab-PET/zkformer)|
 |**2025-04-16 06:13:20**|**Neighbor-Based Feature and Index Enhancement for Person   Re-Identification**|Chao Yuan et.al.|[2504.11798v1](http://arxiv.org/abs/2504.11798v1)|null|
 |**2025-04-16 04:59:18**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference   in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765v1](http://arxiv.org/abs/2504.11765v1)|null|
@@ -50,7 +17,7 @@
 |**2025-04-15 18:14:40**|**Pruning in Snowflake: Working Smarter, Not Harder**|Andreas Zimmerer et.al.|[2504.11540v1](http://arxiv.org/abs/2504.11540v1)|null|
 |**2025-04-15 17:58:08**|**Optimal Hardness of Online Algorithms for Large Independent Sets**|David Gamarnik et.al.|[2504.11450v1](http://arxiv.org/abs/2504.11450v1)|null|
 |**2025-04-15 11:53:40**|**Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image   Models**|Jiangtao Liu et.al.|[2504.11106v1](http://arxiv.org/abs/2504.11106v1)|null|
-|**2025-04-15 09:53:02**|**PATFinger: Prompt-Adapted Transferable Fingerprinting against   Unauthorized Multimodal Dataset Usage**|Wenyi Zhang et.al.|[2504.11509v1](http://arxiv.org/abs/2504.11509v1)|null|
+|**2025-04-15 09:53:02**|**PATFinger: Prompt-Adapted Transferable Fingerprinting against   Unauthorized Multimodal Dataset Usage**|Wenyi Zhang et.al.|[2504.11509v2](http://arxiv.org/abs/2504.11509v2)|null|
 |**2025-04-15 09:14:04**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995v1](http://arxiv.org/abs/2504.10995v1)|null|
 |**2025-04-15 08:10:32**|**eARCO: Efficient Automated Root Cause Analysis with Prompt Optimization**|Drishti Goel et.al.|[2504.11505v1](http://arxiv.org/abs/2504.11505v1)|null|
 |**2025-04-15 07:00:18**|**Towards Efficient Partially Relevant Video Retrieval with Active Moment   Discovering**|Peipei Song et.al.|[2504.10920v1](http://arxiv.org/abs/2504.10920v1)|null|
@@ -69,9 +36,6 @@
 |**2025-04-11 19:18:41**|**An Adaptive Vector Index Partitioning Scheme for Low-Latency RAG   Pipeline**|Junkyum Kim et.al.|[2504.08930v1](http://arxiv.org/abs/2504.08930v1)|null|
 |**2025-04-11 17:02:40**|**TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for   Spatiotemporal-Aware Travel Planning**|Hang Ni et.al.|[2504.08694v1](http://arxiv.org/abs/2504.08694v1)|null|
 |**2025-04-11 16:26:23**|**Genius: A Generalizable and Purely Unsupervised Self-Training Framework   For Advanced Reasoning**|Fangzhi Xu et.al.|[2504.08672v1](http://arxiv.org/abs/2504.08672v1)|[link](https://github.com/xufangzhi/genius)|
-|**2025-04-11 13:47:37**|**SO-DETR: Leveraging Dual-Domain Features and Knowledge Distillation for   Small Object Detection**|Huaxiang Zhang et.al.|[2504.11470v1](http://arxiv.org/abs/2504.11470v1)|[link](https://github.com/ValiantDiligent/SO_DETR)|
-|**2025-04-11 12:47:04**|**SME Gender-Related Innovation: A Non-Numerical Trend Analysis Using   Positive, Zero, and Negative Quantities**|Nina Bočková et.al.|[2504.08493v1](http://arxiv.org/abs/2504.08493v1)|null|
-|**2025-04-11 12:45:07**|**Distilling and exploiting quantitative insights from Large Language   Models for enhanced Bayesian optimization of chemical reactions**|Roshan Patel et.al.|[2504.08874v1](http://arxiv.org/abs/2504.08874v1)|null|
 
 ## Knob Tuning
 
@@ -108,3 +72,39 @@
 |**2024-06-26 22:44:07**|**Flat and tunable moire phonons in twisted transition-metal   dichalcogenides**|Alejandro Ramos-Alonso et.al.|[2406.18779v1](http://arxiv.org/abs/2406.18779v1)|null|
 |**2024-06-18 03:52:54**|**Observation of stacking engineered magnetic phase transitions within   moiré supercells of twisted van der Waals magnets**|Senlei Li et.al.|[2406.12250v1](http://arxiv.org/abs/2406.12250v1)|null|
 |**2024-06-02 04:52:59**|**EMIT: Micro-Invasive Database Configuration Tuning**|Jian Geng et.al.|[2406.00616v1](http://arxiv.org/abs/2406.00616v1)|null|
+
+## Bayesian Optimisation
+
+### Bayesian Optimisation
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-14 12:34:03**|**ChartOptimiser: Task-driven Optimisation of Chart Designs**|Yao Wang et.al.|[2504.10180v1](http://arxiv.org/abs/2504.10180v1)|null|
+|**2025-03-31 13:01:59**|**TOPz: photometric redshifts using template fitting applied to GAMA   survey**|E. Tempel et.al.|[2503.24039v1](http://arxiv.org/abs/2503.24039v1)|null|
+|**2025-03-31 12:40:50**|**Bayesian Predictive Coding**|Alexander Tschantz et.al.|[2503.24016v1](http://arxiv.org/abs/2503.24016v1)|null|
+|**2025-03-24 11:24:37**|**A generalisable data-augmented turbulence model with progressive and   interpretable corrections**|Mario J. Rincón et.al.|[2503.18568v1](http://arxiv.org/abs/2503.18568v1)|[link](https://github.com/AUfluids/KOSSTPDA)|
+|**2025-03-21 14:35:29**|**Bayesian optimisation of poloidal field coil positions in tokamaks**|Timothy Nunn et.al.|[2503.17189v1](http://arxiv.org/abs/2503.17189v1)|null|
+|**2025-03-20 23:11:30**|**SuperARC: An Agnostic Test for Narrow, General, and Super Intelligence   Based On the Principles of Recursive Compression and Algorithmic Probability**|Alberto Hernández-Espinosa et.al.|[2503.16743v2](http://arxiv.org/abs/2503.16743v2)|[link](https://github.com/AlgoDynLab/SuperintelligenceTest)|
+|**2025-03-20 21:09:38**|**Accelerated Medicines Development using a Digital Formulator and a   Self-Driving Tableting DataFactory**|Faisal Abbas et.al.|[2503.17411v1](http://arxiv.org/abs/2503.17411v1)|[link](https://gitlab.cis.strath.ac.uk/fmb22104/cmac-self-driving-tabletting-datafactory)|
+|**2025-03-19 15:27:24**|**Euclid Quick Data Release (Q1). LEMON -- Lens Modelling with Neural   networks. Automated and fast modelling of Euclid gravitational lenses with a   singular isothermal ellipsoid mass profile**| Euclid Collaboration et.al.|[2503.15329v1](http://arxiv.org/abs/2503.15329v1)|null|
+|**2025-03-11 09:54:00**|**Generation and Balancing Capacity in Future Electric Power Systems --   Scenario Analysis Using Bayesian Networks**|Seppo Borenius et.al.|[2503.08232v1](http://arxiv.org/abs/2503.08232v1)|null|
+|**2025-03-10 11:00:48**|**Transforming Traditional Neural Networks into Neuromorphic   Quantum-Cognitive Models: A Tutorial with Applications**|Milan Maksimovic et.al.|[2503.07681v1](http://arxiv.org/abs/2503.07681v1)|[link](https://github.com/IvanMaksymov/Quantum-Tunnelling-Neural-Networks-Tutorial)|
+|**2025-03-04 12:43:33**|**Machine Learning-based Regional Cooling Demand Prediction with Optimised   Dataset Partitioning**|Meng Zhang et.al.|[2503.05813v1](http://arxiv.org/abs/2503.05813v1)|null|
+|**2025-03-01 07:04:54**|**Few-shot crack image classification using clip based on bayesian   optimization**|Yingchao Zhang et.al.|[2503.00376v1](http://arxiv.org/abs/2503.00376v1)|null|
+|**2025-02-25 15:19:10**|**Nested Expectations with Kernel Quadrature**|Zonghao Chen et.al.|[2502.18284v1](http://arxiv.org/abs/2502.18284v1)|[link](https://github.com/hudsonchen/nest_kq)|
+|**2025-02-18 19:22:15**|**Systematic Bayesian Optimization for Atomic Structure Calculations of   Heavy Elements**|Ricardo Ferreira da Silva et.al.|[2502.13250v1](http://arxiv.org/abs/2502.13250v1)|null|
+|**2025-02-18 15:42:05**|**A measure-valued HJB perspective on Bayesian optimal adaptive control**|Alexander M. G. Cox et.al.|[2502.12957v1](http://arxiv.org/abs/2502.12957v1)|null|
+|**2025-02-17 20:34:29**|**Mean-Field Bayesian Optimisation**|Petar Steinberg et.al.|[2502.12315v1](http://arxiv.org/abs/2502.12315v1)|[link](https://github.com/petarsteinberg/mf-bo)|
+|**2025-01-27 17:23:52**|**Analog QAOA with Bayesian Optimisation on a neutral atom QPU**|Simone Tibaldi et.al.|[2501.16229v1](http://arxiv.org/abs/2501.16229v1)|null|
+|**2025-01-18 20:18:48**|**QGAPHEnsemble : Combining Hybrid QLSTM Network Ensemble via Adaptive   Weighting for Short Term Weather Forecasting**|Anuvab Sen et.al.|[2501.10866v1](http://arxiv.org/abs/2501.10866v1)|null|
+|**2025-01-14 10:46:41**|**Maximizing Uncertainty for Federated learning via Bayesian   Optimisation-based Model Poisoning**|Marios Aristodemou et.al.|[2501.08002v2](http://arxiv.org/abs/2501.08002v2)|null|
+|**2025-01-08 15:02:55**|**Bayesian buckling load optimisation for structures with geometric   uncertainties**|Tianyi Liu et.al.|[2501.04553v1](http://arxiv.org/abs/2501.04553v1)|null|
+|**2025-01-02 22:03:00**|**Multi-view Bayesian optimisation in reduced dimension for engineering   design**|Thomas A. Archbold et.al.|[2501.01552v1](http://arxiv.org/abs/2501.01552v1)|null|
+|**2024-12-22 11:28:10**|**Reduced Order Models and Conditional Expectation -- Analysing Parametric   Low-Order Approximations**|Hermann G. Matthies et.al.|[2412.19836v2](http://arxiv.org/abs/2412.19836v2)|null|
+|**2024-12-20 08:51:14**|**High-Dimensional Bayesian Optimisation with Large-Scale Constraints via   Latent Space Gaussian Processes**|Hauke F. Maathuis et.al.|[2412.15679v1](http://arxiv.org/abs/2412.15679v1)|null|
+|**2024-12-12 11:27:27**|**Dimensionality Reduction Techniques for Global Bayesian Optimisation**|Luo Long et.al.|[2412.09183v1](http://arxiv.org/abs/2412.09183v1)|null|
+|**2024-12-06 09:25:00**|**Nonmyopic Global Optimisation via Approximate Dynamic Programming**|Filippo Airaldi et.al.|[2412.04882v1](http://arxiv.org/abs/2412.04882v1)|[link](https://github.com/FilippoAiraldi/global-optimization)|
+|**2024-11-29 14:22:51**|**Risk-Averse Certification of Bayesian Neural Networks**|Xiyue Zhang et.al.|[2411.19729v1](http://arxiv.org/abs/2411.19729v1)|null|
+|**2024-11-25 18:49:02**|**Decision Making under the Exponential Family: Distributionally Robust   Optimisation with Bayesian Ambiguity Sets**|Charita Dellaporta et.al.|[2411.16829v1](http://arxiv.org/abs/2411.16829v1)|null|
+|**2024-11-25 18:41:02**|**Implementing transferable annealing protocols for combinatorial   optimisation on neutral atom quantum processors: a case study on   smart-charging of electric vehicles**|Lucas Leclerc et.al.|[2411.16656v2](http://arxiv.org/abs/2411.16656v2)|null|
+|**2024-11-21 10:08:16**|**Multi-objective Bayesian Optimisation of Spinodoid Cellular Structures   for Crush Energy Absorption**|Hirak Kansara et.al.|[2411.14508v2](http://arxiv.org/abs/2411.14508v2)|[link](https://github.com/MCM-QMUL/MOBO)|
+|**2024-11-17 09:35:23**|**Near-real-time design of experiments for seismic monitoring of volcanoes**|Dominik Strutz et.al.|[2411.11015v1](http://arxiv.org/abs/2411.11015v1)|[link](https://github.com/dominik-strutz/WoWED-volcano)|

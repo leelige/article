@@ -2,6 +2,9 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-17 17:59:27**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework   with MLLMs**|Haoxuan Li et.al.|[2504.13172v1](http://arxiv.org/abs/2504.13172v1)|null|
+|**2025-04-17 14:54:00**|**Query Complexity of Classical and Quantum Channel Discrimination**|Theshani Nuradha et.al.|[2504.12989v1](http://arxiv.org/abs/2504.12989v1)|null|
+|**2025-04-17 14:50:40**|**Why Ask One When You Can Ask $k$? Two-Stage Learning-to-Defer to a Set   of Experts**|Yannis Montreuil et.al.|[2504.12988v1](http://arxiv.org/abs/2504.12988v1)|null|
 |**2025-04-16 16:11:11**|**zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing**|Yancheng Zhang et.al.|[2504.12217v1](http://arxiv.org/abs/2504.12217v1)|[link](https://github.com/UCF-Lou-Lab-PET/zkformer)|
 |**2025-04-16 06:13:20**|**Neighbor-Based Feature and Index Enhancement for Person   Re-Identification**|Chao Yuan et.al.|[2504.11798v1](http://arxiv.org/abs/2504.11798v1)|null|
 |**2025-04-16 04:59:18**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference   in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765v1](http://arxiv.org/abs/2504.11765v1)|null|
@@ -10,7 +13,7 @@
 |**2025-04-15 18:14:40**|**Pruning in Snowflake: Working Smarter, Not Harder**|Andreas Zimmerer et.al.|[2504.11540v1](http://arxiv.org/abs/2504.11540v1)|null|
 |**2025-04-15 17:58:08**|**Optimal Hardness of Online Algorithms for Large Independent Sets**|David Gamarnik et.al.|[2504.11450v1](http://arxiv.org/abs/2504.11450v1)|null|
 |**2025-04-15 11:53:40**|**Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image   Models**|Jiangtao Liu et.al.|[2504.11106v1](http://arxiv.org/abs/2504.11106v1)|null|
-|**2025-04-15 09:53:02**|**PATFinger: Prompt-Adapted Transferable Fingerprinting against   Unauthorized Multimodal Dataset Usage**|Wenyi Zhang et.al.|[2504.11509v1](http://arxiv.org/abs/2504.11509v1)|null|
+|**2025-04-15 09:53:02**|**PATFinger: Prompt-Adapted Transferable Fingerprinting against   Unauthorized Multimodal Dataset Usage**|Wenyi Zhang et.al.|[2504.11509v2](http://arxiv.org/abs/2504.11509v2)|null|
 |**2025-04-15 09:14:04**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995v1](http://arxiv.org/abs/2504.10995v1)|null|
 |**2025-04-15 08:10:32**|**eARCO: Efficient Automated Root Cause Analysis with Prompt Optimization**|Drishti Goel et.al.|[2504.11505v1](http://arxiv.org/abs/2504.11505v1)|null|
 |**2025-04-15 07:00:18**|**Towards Efficient Partially Relevant Video Retrieval with Active Moment   Discovering**|Peipei Song et.al.|[2504.10920v1](http://arxiv.org/abs/2504.10920v1)|null|
@@ -29,6 +32,3 @@
 |**2025-04-11 19:18:41**|**An Adaptive Vector Index Partitioning Scheme for Low-Latency RAG   Pipeline**|Junkyum Kim et.al.|[2504.08930v1](http://arxiv.org/abs/2504.08930v1)|null|
 |**2025-04-11 17:02:40**|**TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for   Spatiotemporal-Aware Travel Planning**|Hang Ni et.al.|[2504.08694v1](http://arxiv.org/abs/2504.08694v1)|null|
 |**2025-04-11 16:26:23**|**Genius: A Generalizable and Purely Unsupervised Self-Training Framework   For Advanced Reasoning**|Fangzhi Xu et.al.|[2504.08672v1](http://arxiv.org/abs/2504.08672v1)|[link](https://github.com/xufangzhi/genius)|
-|**2025-04-11 13:47:37**|**SO-DETR: Leveraging Dual-Domain Features and Knowledge Distillation for   Small Object Detection**|Huaxiang Zhang et.al.|[2504.11470v1](http://arxiv.org/abs/2504.11470v1)|[link](https://github.com/ValiantDiligent/SO_DETR)|
-|**2025-04-11 12:47:04**|**SME Gender-Related Innovation: A Non-Numerical Trend Analysis Using   Positive, Zero, and Negative Quantities**|Nina Bočková et.al.|[2504.08493v1](http://arxiv.org/abs/2504.08493v1)|null|
-|**2025-04-11 12:45:07**|**Distilling and exploiting quantitative insights from Large Language   Models for enhanced Bayesian optimization of chemical reactions**|Roshan Patel et.al.|[2504.08874v1](http://arxiv.org/abs/2504.08874v1)|null|
