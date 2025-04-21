@@ -2,6 +2,8 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-18 07:37:06**|**Multi-class Item Mining under Local Differential Privacy**|Yulian Mao et.al.|[2504.13526v1](http://arxiv.org/abs/2504.13526v1)|null|
+|**2025-04-18 05:24:08**|**HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object   Detection**|YangChen Zeng et.al.|[2504.13469v1](http://arxiv.org/abs/2504.13469v1)|null|
 |**2025-04-17 17:59:27**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework   with MLLMs**|Haoxuan Li et.al.|[2504.13172v1](http://arxiv.org/abs/2504.13172v1)|null|
 |**2025-04-17 14:54:00**|**Query Complexity of Classical and Quantum Channel Discrimination**|Theshani Nuradha et.al.|[2504.12989v1](http://arxiv.org/abs/2504.12989v1)|null|
 |**2025-04-17 14:50:40**|**Why Ask One When You Can Ask $k$? Two-Stage Learning-to-Defer to a Set   of Experts**|Yannis Montreuil et.al.|[2504.12988v1](http://arxiv.org/abs/2504.12988v1)|null|
@@ -30,5 +32,3 @@
 |**2025-04-12 17:18:28**|**Enhancing Productivity in Database Management Through AI: A Three-Phase   Approach for Database**|Kushagra Parashar et.al.|[2504.09288v1](http://arxiv.org/abs/2504.09288v1)|null|
 |**2025-04-11 21:52:40**|**CMS RPC Non-Physics Event Data Automation Ideology**|A. Dimitrov et.al.|[2504.08991v1](http://arxiv.org/abs/2504.08991v1)|null|
 |**2025-04-11 19:18:41**|**An Adaptive Vector Index Partitioning Scheme for Low-Latency RAG   Pipeline**|Junkyum Kim et.al.|[2504.08930v1](http://arxiv.org/abs/2504.08930v1)|null|
-|**2025-04-11 17:02:40**|**TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for   Spatiotemporal-Aware Travel Planning**|Hang Ni et.al.|[2504.08694v1](http://arxiv.org/abs/2504.08694v1)|null|
-|**2025-04-11 16:26:23**|**Genius: A Generalizable and Purely Unsupervised Self-Training Framework   For Advanced Reasoning**|Fangzhi Xu et.al.|[2504.08672v1](http://arxiv.org/abs/2504.08672v1)|[link](https://github.com/xufangzhi/genius)|
