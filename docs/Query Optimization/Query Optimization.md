@@ -2,6 +2,15 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-21 16:06:43**|**Quantum phase discrimination with applications to quantum search on   graphs**|Guanzhong Li et.al.|[2504.15194v1](http://arxiv.org/abs/2504.15194v1)|null|
+|**2025-04-21 13:05:26**|**Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL**|Simone Papicchio et.al.|[2504.15077v1](http://arxiv.org/abs/2504.15077v1)|null|
+|**2025-04-21 08:02:25**|**Vector Embedding, Retrieval-Augmented Generation, CPU-NPU Collaboration,   Heterogeneous Computing**|Jinqi Huang et.al.|[2504.14941v1](http://arxiv.org/abs/2504.14941v1)|null|
+|**2025-04-21 07:38:25**|**GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection**|Donghyeong Kim et.al.|[2504.14919v1](http://arxiv.org/abs/2504.14919v1)|null|
+|**2025-04-21 04:01:22**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models   via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848v1](http://arxiv.org/abs/2504.14848v1)|null|
+|**2025-04-20 04:58:14**|**FinSage: A Multi-aspect RAG System for Financial Filings Question   Answering**|Xinyu Wang et.al.|[2504.14493v1](http://arxiv.org/abs/2504.14493v1)|null|
+|**2025-04-20 01:10:34**|**Information Diffusion and Preferential Attachment in a Network of Large   Language Models**|Adit Jain et.al.|[2504.14438v1](http://arxiv.org/abs/2504.14438v1)|null|
+|**2025-04-19 22:47:59**|**Exploring Pseudo-Token Approaches in Transformer Neural Processes**|Jose Lara-Rangel et.al.|[2504.14416v1](http://arxiv.org/abs/2504.14416v1)|null|
+|**2025-04-19 20:38:09**|**LLM-Driven Usefulness Judgment for Web Search Evaluation**|Mouly Dewan et.al.|[2504.14401v1](http://arxiv.org/abs/2504.14401v1)|null|
 |**2025-04-18 07:37:06**|**Multi-class Item Mining under Local Differential Privacy**|Yulian Mao et.al.|[2504.13526v1](http://arxiv.org/abs/2504.13526v1)|null|
 |**2025-04-18 05:24:08**|**HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object   Detection**|YangChen Zeng et.al.|[2504.13469v1](http://arxiv.org/abs/2504.13469v1)|null|
 |**2025-04-17 17:59:27**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework   with MLLMs**|Haoxuan Li et.al.|[2504.13172v1](http://arxiv.org/abs/2504.13172v1)|null|
@@ -23,12 +32,3 @@
 |**2025-04-14 20:04:54**|**EMAFusion: A Self-Optimizing System for Seamless LLM Selection and   Integration**|Soham Shah et.al.|[2504.10681v1](http://arxiv.org/abs/2504.10681v1)|null|
 |**2025-04-14 15:34:26**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context   LLM Inference**|Yangshen Deng et.al.|[2504.10326v1](http://arxiv.org/abs/2504.10326v1)|null|
 |**2025-04-14 02:35:00**|**Augmented Relevance Datasets with Fine-Tuned Small LLMs**|Quentin Fitte-Rey et.al.|[2504.09816v1](http://arxiv.org/abs/2504.09816v1)|null|
-|**2025-04-13 17:26:44**|**Ordinary Least Squares as an Attention Mechanism**|Philippe Goulet Coulombe et.al.|[2504.09663v1](http://arxiv.org/abs/2504.09663v1)|null|
-|**2025-04-13 11:48:52**|**FastRSR: Efficient and Accurate Road Surface Reconstruction from Bird's   Eye View**|Yuting Zhao et.al.|[2504.09535v1](http://arxiv.org/abs/2504.09535v1)|null|
-|**2025-04-13 11:02:18**|**A Categorical Unification for Multi-Model Data: Part II Categorical   Algebra and Calculus**|Jiaheng Lu et.al.|[2504.09515v1](http://arxiv.org/abs/2504.09515v1)|null|
-|**2025-04-13 03:36:06**|**SaRO: Enhancing LLM Safety through Reasoning-based Alignment**|Yutao Mou et.al.|[2504.09420v1](http://arxiv.org/abs/2504.09420v1)|null|
-|**2025-04-12 19:17:41**|**Testing Juntas and Junta Subclasses with Relative Error**|Xi Chen et.al.|[2504.09312v1](http://arxiv.org/abs/2504.09312v1)|null|
-|**2025-04-12 17:49:46**|**A Lightweight Moment Retrieval System with Global Re-Ranking and Robust   Adaptive Bidirectional Temporal Search**|Tinh-Anh Nguyen-Nhu et.al.|[2504.09298v1](http://arxiv.org/abs/2504.09298v1)|null|
-|**2025-04-12 17:18:28**|**Enhancing Productivity in Database Management Through AI: A Three-Phase   Approach for Database**|Kushagra Parashar et.al.|[2504.09288v1](http://arxiv.org/abs/2504.09288v1)|null|
-|**2025-04-11 21:52:40**|**CMS RPC Non-Physics Event Data Automation Ideology**|A. Dimitrov et.al.|[2504.08991v1](http://arxiv.org/abs/2504.08991v1)|null|
-|**2025-04-11 19:18:41**|**An Adaptive Vector Index Partitioning Scheme for Low-Latency RAG   Pipeline**|Junkyum Kim et.al.|[2504.08930v1](http://arxiv.org/abs/2504.08930v1)|null|
