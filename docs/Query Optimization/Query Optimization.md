@@ -2,9 +2,10 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-22 09:45:37**|**Proving Cypher Query Equivalence**|Lei Tang et.al.|[2504.15742v1](http://arxiv.org/abs/2504.15742v1)|null|
 |**2025-04-21 16:06:43**|**Quantum phase discrimination with applications to quantum search on   graphs**|Guanzhong Li et.al.|[2504.15194v1](http://arxiv.org/abs/2504.15194v1)|null|
 |**2025-04-21 13:05:26**|**Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL**|Simone Papicchio et.al.|[2504.15077v1](http://arxiv.org/abs/2504.15077v1)|null|
-|**2025-04-21 08:02:25**|**Vector Embedding, Retrieval-Augmented Generation, CPU-NPU Collaboration,   Heterogeneous Computing**|Jinqi Huang et.al.|[2504.14941v1](http://arxiv.org/abs/2504.14941v1)|null|
+|**2025-04-21 08:02:25**|**WindVE: Collaborative CPU-NPU Vector Embedding**|Jinqi Huang et.al.|[2504.14941v2](http://arxiv.org/abs/2504.14941v2)|null|
 |**2025-04-21 07:38:25**|**GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection**|Donghyeong Kim et.al.|[2504.14919v1](http://arxiv.org/abs/2504.14919v1)|null|
 |**2025-04-21 04:01:22**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models   via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848v1](http://arxiv.org/abs/2504.14848v1)|null|
 |**2025-04-20 04:58:14**|**FinSage: A Multi-aspect RAG System for Financial Filings Question   Answering**|Xinyu Wang et.al.|[2504.14493v1](http://arxiv.org/abs/2504.14493v1)|null|
@@ -15,7 +16,7 @@
 |**2025-04-18 05:24:08**|**HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object   Detection**|YangChen Zeng et.al.|[2504.13469v1](http://arxiv.org/abs/2504.13469v1)|null|
 |**2025-04-17 17:59:27**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework   with MLLMs**|Haoxuan Li et.al.|[2504.13172v1](http://arxiv.org/abs/2504.13172v1)|null|
 |**2025-04-17 14:54:00**|**Query Complexity of Classical and Quantum Channel Discrimination**|Theshani Nuradha et.al.|[2504.12989v1](http://arxiv.org/abs/2504.12989v1)|null|
-|**2025-04-17 14:50:40**|**Why Ask One When You Can Ask $k$? Two-Stage Learning-to-Defer to a Set   of Experts**|Yannis Montreuil et.al.|[2504.12988v1](http://arxiv.org/abs/2504.12988v1)|null|
+|**2025-04-17 14:50:40**|**Why Ask One When You Can Ask $k$? Two-Stage Learning-to-Defer to the   Top-$k$ Experts**|Yannis Montreuil et.al.|[2504.12988v2](http://arxiv.org/abs/2504.12988v2)|null|
 |**2025-04-16 16:11:11**|**zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing**|Yancheng Zhang et.al.|[2504.12217v1](http://arxiv.org/abs/2504.12217v1)|[link](https://github.com/ucf-lou-lab-pet/zkformer)|
 |**2025-04-16 06:13:20**|**Neighbor-Based Feature and Index Enhancement for Person   Re-Identification**|Chao Yuan et.al.|[2504.11798v1](http://arxiv.org/abs/2504.11798v1)|null|
 |**2025-04-16 04:59:18**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference   in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765v1](http://arxiv.org/abs/2504.11765v1)|null|
@@ -31,4 +32,3 @@
 |**2025-04-14 21:30:43**|**HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM   Inference Serving**|Avinash Kumar et.al.|[2504.10724v1](http://arxiv.org/abs/2504.10724v1)|null|
 |**2025-04-14 20:04:54**|**EMAFusion: A Self-Optimizing System for Seamless LLM Selection and   Integration**|Soham Shah et.al.|[2504.10681v1](http://arxiv.org/abs/2504.10681v1)|null|
 |**2025-04-14 15:34:26**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context   LLM Inference**|Yangshen Deng et.al.|[2504.10326v1](http://arxiv.org/abs/2504.10326v1)|null|
-|**2025-04-14 02:35:00**|**Augmented Relevance Datasets with Fine-Tuned Small LLMs**|Quentin Fitte-Rey et.al.|[2504.09816v1](http://arxiv.org/abs/2504.09816v1)|null|
