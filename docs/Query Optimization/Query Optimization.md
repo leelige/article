@@ -2,6 +2,8 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-23 00:34:39**|**ClarifyCoder: Clarification-Aware Fine-Tuning for Programmatic Problem   Solving**|Jie JW Wu et.al.|[2504.16331v1](http://arxiv.org/abs/2504.16331v1)|null|
+|**2025-04-22 21:25:14**|**DataS^3: Dataset Subset Selection for Specialization**|Neha Hulkund et.al.|[2504.16277v1](http://arxiv.org/abs/2504.16277v1)|null|
 |**2025-04-22 09:45:37**|**Proving Cypher Query Equivalence**|Lei Tang et.al.|[2504.15742v1](http://arxiv.org/abs/2504.15742v1)|null|
 |**2025-04-21 16:06:43**|**Quantum phase discrimination with applications to quantum search on   graphs**|Guanzhong Li et.al.|[2504.15194v1](http://arxiv.org/abs/2504.15194v1)|null|
 |**2025-04-21 13:05:26**|**Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL**|Simone Papicchio et.al.|[2504.15077v1](http://arxiv.org/abs/2504.15077v1)|null|
@@ -30,5 +32,3 @@
 |**2025-04-15 08:10:32**|**eARCO: Efficient Automated Root Cause Analysis with Prompt Optimization**|Drishti Goel et.al.|[2504.11505v1](http://arxiv.org/abs/2504.11505v1)|null|
 |**2025-04-15 07:00:18**|**Towards Efficient Partially Relevant Video Retrieval with Active Moment   Discovering**|Peipei Song et.al.|[2504.10920v1](http://arxiv.org/abs/2504.10920v1)|[link](https://github.com/songpipi/amdnet)|
 |**2025-04-14 21:30:43**|**HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM   Inference Serving**|Avinash Kumar et.al.|[2504.10724v1](http://arxiv.org/abs/2504.10724v1)|null|
-|**2025-04-14 20:04:54**|**EMAFusion: A Self-Optimizing System for Seamless LLM Selection and   Integration**|Soham Shah et.al.|[2504.10681v1](http://arxiv.org/abs/2504.10681v1)|null|
-|**2025-04-14 15:34:26**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context   LLM Inference**|Yangshen Deng et.al.|[2504.10326v1](http://arxiv.org/abs/2504.10326v1)|null|
