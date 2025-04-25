@@ -2,6 +2,10 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-24 11:35:43**|**Adaptive Orchestration of Modular Generative Information Access Systems**|Mohanna Hoveyda et.al.|[2504.17454v1](http://arxiv.org/abs/2504.17454v1)|null|
+|**2025-04-24 10:57:27**|**Storing and Querying Evolving Graphs in NoSQL Storage Models**|Alexandros Spitalas et.al.|[2504.17438v1](http://arxiv.org/abs/2504.17438v1)|null|
+|**2025-04-24 08:15:46**|**Data-Driven Surrogate Modeling Techniques to Predict the Effective   Contact Area of Rough Surface Contact Problems**|Tarik Sahin et.al.|[2504.17354v1](http://arxiv.org/abs/2504.17354v1)|null|
+|**2025-04-23 18:05:55**|**Identifying Approximate Minimizers under Stochastic Uncertainty**|Hessa Al-Thani et.al.|[2504.17019v1](http://arxiv.org/abs/2504.17019v1)|null|
 |**2025-04-23 00:34:39**|**ClarifyCoder: Clarification-Aware Fine-Tuning for Programmatic Problem   Solving**|Jie JW Wu et.al.|[2504.16331v1](http://arxiv.org/abs/2504.16331v1)|null|
 |**2025-04-22 21:25:14**|**DataS^3: Dataset Subset Selection for Specialization**|Neha Hulkund et.al.|[2504.16277v1](http://arxiv.org/abs/2504.16277v1)|null|
 |**2025-04-22 09:45:37**|**Proving Cypher Query Equivalence**|Lei Tang et.al.|[2504.15742v1](http://arxiv.org/abs/2504.15742v1)|null|
@@ -28,7 +32,3 @@
 |**2025-04-15 17:58:08**|**Optimal Hardness of Online Algorithms for Large Independent Sets**|David Gamarnik et.al.|[2504.11450v1](http://arxiv.org/abs/2504.11450v1)|null|
 |**2025-04-15 11:53:40**|**Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image   Models**|Jiangtao Liu et.al.|[2504.11106v1](http://arxiv.org/abs/2504.11106v1)|null|
 |**2025-04-15 09:53:02**|**PATFinger: Prompt-Adapted Transferable Fingerprinting against   Unauthorized Multimodal Dataset Usage**|Wenyi Zhang et.al.|[2504.11509v2](http://arxiv.org/abs/2504.11509v2)|null|
-|**2025-04-15 09:14:04**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995v1](http://arxiv.org/abs/2504.10995v1)|null|
-|**2025-04-15 08:10:32**|**eARCO: Efficient Automated Root Cause Analysis with Prompt Optimization**|Drishti Goel et.al.|[2504.11505v1](http://arxiv.org/abs/2504.11505v1)|null|
-|**2025-04-15 07:00:18**|**Towards Efficient Partially Relevant Video Retrieval with Active Moment   Discovering**|Peipei Song et.al.|[2504.10920v1](http://arxiv.org/abs/2504.10920v1)|[link](https://github.com/songpipi/amdnet)|
-|**2025-04-14 21:30:43**|**HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM   Inference Serving**|Avinash Kumar et.al.|[2504.10724v1](http://arxiv.org/abs/2504.10724v1)|null|
