@@ -2,6 +2,12 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-25 08:12:58**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158v1](http://arxiv.org/abs/2504.18158v1)|[link](https://github.com/Jackieam/E-InMeMo)|
+|**2025-04-25 04:07:21**|**Opportunistic Collaborative Planning with Large Vision Model Guided   Control and Joint Query-Service Optimization**|Jiayi Chen et.al.|[2504.18057v1](http://arxiv.org/abs/2504.18057v1)|null|
+|**2025-04-25 01:15:53**|**Self-Balancing, Memory Efficient, Dynamic Metric Space Data Maintenance,   for Rapid Multi-Kernel Estimation**|Aditya S Ellendula et.al.|[2504.18003v1](http://arxiv.org/abs/2504.18003v1)|null|
+|**2025-04-24 20:59:35**|**An Optimal $3$-Fault-Tolerant Connectivity Oracle**|Evangelos Kosinas et.al.|[2504.17937v1](http://arxiv.org/abs/2504.17937v1)|null|
+|**2025-04-24 18:50:09**|**Searching in trees with heavy group sets of fixed size**|Michał Szyfelbein et.al.|[2504.17887v1](http://arxiv.org/abs/2504.17887v1)|null|
+|**2025-04-24 18:46:11**|**Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense   Retrieval**|Yongkang Li et.al.|[2504.17884v1](http://arxiv.org/abs/2504.17884v1)|null|
 |**2025-04-24 11:35:43**|**Adaptive Orchestration of Modular Generative Information Access Systems**|Mohanna Hoveyda et.al.|[2504.17454v1](http://arxiv.org/abs/2504.17454v1)|null|
 |**2025-04-24 10:57:27**|**Storing and Querying Evolving Graphs in NoSQL Storage Models**|Alexandros Spitalas et.al.|[2504.17438v1](http://arxiv.org/abs/2504.17438v1)|null|
 |**2025-04-24 08:15:46**|**Data-Driven Surrogate Modeling Techniques to Predict the Effective   Contact Area of Rough Surface Contact Problems**|Tarik Sahin et.al.|[2504.17354v1](http://arxiv.org/abs/2504.17354v1)|null|
@@ -26,9 +32,3 @@
 |**2025-04-16 16:11:11**|**zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing**|Yancheng Zhang et.al.|[2504.12217v1](http://arxiv.org/abs/2504.12217v1)|[link](https://github.com/ucf-lou-lab-pet/zkformer)|
 |**2025-04-16 06:13:20**|**Neighbor-Based Feature and Index Enhancement for Person   Re-Identification**|Chao Yuan et.al.|[2504.11798v1](http://arxiv.org/abs/2504.11798v1)|null|
 |**2025-04-16 04:59:18**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference   in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765v1](http://arxiv.org/abs/2504.11765v1)|null|
-|**2025-04-16 04:18:25**|**AQETuner: Reliable Query-level Configuration Tuning for Analytical Query   Engines**|Lixiang Chen et.al.|[2504.11756v1](http://arxiv.org/abs/2504.11756v1)|null|
-|**2025-04-16 01:43:36**|**A New Paradigm of User-Centric Wireless Communication Driven by Large   Language Models**|Kuiyuan Ding et.al.|[2504.11696v1](http://arxiv.org/abs/2504.11696v1)|null|
-|**2025-04-15 18:14:40**|**Pruning in Snowflake: Working Smarter, Not Harder**|Andreas Zimmerer et.al.|[2504.11540v1](http://arxiv.org/abs/2504.11540v1)|null|
-|**2025-04-15 17:58:08**|**Optimal Hardness of Online Algorithms for Large Independent Sets**|David Gamarnik et.al.|[2504.11450v1](http://arxiv.org/abs/2504.11450v1)|null|
-|**2025-04-15 11:53:40**|**Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image   Models**|Jiangtao Liu et.al.|[2504.11106v1](http://arxiv.org/abs/2504.11106v1)|null|
-|**2025-04-15 09:53:02**|**PATFinger: Prompt-Adapted Transferable Fingerprinting against   Unauthorized Multimodal Dataset Usage**|Wenyi Zhang et.al.|[2504.11509v2](http://arxiv.org/abs/2504.11509v2)|null|
