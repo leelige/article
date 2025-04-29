@@ -2,6 +2,13 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-27 20:27:03**|**Optimal Static Fully Indexable Dictionaries**|Jingxun Liang et.al.|[2504.19350v1](http://arxiv.org/abs/2504.19350v1)|null|
+|**2025-04-27 14:24:02**|**Cost-based Selection of Provenance Sketches for Data Skipping**|Ziyu Liu et.al.|[2504.19252v1](http://arxiv.org/abs/2504.19252v1)|null|
+|**2025-04-27 08:09:46**|**The Trichotomy of Regular Property Testing**|Gabriel Bathie et.al.|[2504.19152v1](http://arxiv.org/abs/2504.19152v1)|null|
+|**2025-04-27 07:49:01**|**BQSched: A Non-intrusive Scheduler for Batch Concurrent Queries via   Reinforcement Learning**|Chenhao Xu et.al.|[2504.19142v1](http://arxiv.org/abs/2504.19142v1)|null|
+|**2025-04-26 10:10:20**|**LiLIS: Enhancing Big Spatial Data Processing with Lightweight   Distributed Learned Index**|Zhongpu Chen et.al.|[2504.18883v1](http://arxiv.org/abs/2504.18883v1)|[link](https://github.com/SWUFE-DB-Group/learned-index-spark)|
+|**2025-04-26 09:55:04**|**Reshaping MOFs Text Mining with a Dynamic Multi-Agent Framework of Large   Language Agents**|Zuhong Lin et.al.|[2504.18880v1](http://arxiv.org/abs/2504.18880v1)|null|
+|**2025-04-26 04:17:46**|**Building Scalable AI-Powered Applications with Cloud Databases:   Architectures, Best Practices and Performance Considerations**|Santosh Bhupathi et.al.|[2504.18793v1](http://arxiv.org/abs/2504.18793v1)|null|
 |**2025-04-25 08:12:58**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158v1](http://arxiv.org/abs/2504.18158v1)|[link](https://github.com/Jackieam/E-InMeMo)|
 |**2025-04-25 04:07:21**|**Opportunistic Collaborative Planning with Large Vision Model Guided   Control and Joint Query-Service Optimization**|Jiayi Chen et.al.|[2504.18057v1](http://arxiv.org/abs/2504.18057v1)|null|
 |**2025-04-25 01:15:53**|**Self-Balancing, Memory Efficient, Dynamic Metric Space Data Maintenance,   for Rapid Multi-Kernel Estimation**|Aditya S Ellendula et.al.|[2504.18003v1](http://arxiv.org/abs/2504.18003v1)|null|
@@ -16,7 +23,7 @@
 |**2025-04-22 21:25:14**|**DataS^3: Dataset Subset Selection for Specialization**|Neha Hulkund et.al.|[2504.16277v1](http://arxiv.org/abs/2504.16277v1)|null|
 |**2025-04-22 09:45:37**|**Proving Cypher Query Equivalence**|Lei Tang et.al.|[2504.15742v1](http://arxiv.org/abs/2504.15742v1)|null|
 |**2025-04-21 16:06:43**|**Quantum phase discrimination with applications to quantum search on   graphs**|Guanzhong Li et.al.|[2504.15194v1](http://arxiv.org/abs/2504.15194v1)|null|
-|**2025-04-21 13:05:26**|**Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL**|Simone Papicchio et.al.|[2504.15077v1](http://arxiv.org/abs/2504.15077v1)|null|
+|**2025-04-21 11:30:30**|**DualBreach: Efficient Dual-Jailbreaking via Target-Driven Initialization   and Multi-Target Optimization**|Xinzhe Huang et.al.|[2504.18564v1](http://arxiv.org/abs/2504.18564v1)|null|
 |**2025-04-21 08:02:25**|**WindVE: Collaborative CPU-NPU Vector Embedding**|Jinqi Huang et.al.|[2504.14941v2](http://arxiv.org/abs/2504.14941v2)|null|
 |**2025-04-21 07:38:25**|**GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection**|Donghyeong Kim et.al.|[2504.14919v1](http://arxiv.org/abs/2504.14919v1)|null|
 |**2025-04-21 04:01:22**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models   via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848v1](http://arxiv.org/abs/2504.14848v1)|null|
@@ -25,10 +32,3 @@
 |**2025-04-19 22:47:59**|**Exploring Pseudo-Token Approaches in Transformer Neural Processes**|Jose Lara-Rangel et.al.|[2504.14416v1](http://arxiv.org/abs/2504.14416v1)|null|
 |**2025-04-19 20:38:09**|**LLM-Driven Usefulness Judgment for Web Search Evaluation**|Mouly Dewan et.al.|[2504.14401v1](http://arxiv.org/abs/2504.14401v1)|null|
 |**2025-04-18 07:37:06**|**Multi-class Item Mining under Local Differential Privacy**|Yulian Mao et.al.|[2504.13526v1](http://arxiv.org/abs/2504.13526v1)|null|
-|**2025-04-18 05:24:08**|**HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object   Detection**|YangChen Zeng et.al.|[2504.13469v1](http://arxiv.org/abs/2504.13469v1)|null|
-|**2025-04-17 17:59:27**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework   with MLLMs**|Haoxuan Li et.al.|[2504.13172v1](http://arxiv.org/abs/2504.13172v1)|null|
-|**2025-04-17 14:54:00**|**Query Complexity of Classical and Quantum Channel Discrimination**|Theshani Nuradha et.al.|[2504.12989v1](http://arxiv.org/abs/2504.12989v1)|null|
-|**2025-04-17 14:50:40**|**Why Ask One When You Can Ask $k$? Two-Stage Learning-to-Defer to the   Top-$k$ Experts**|Yannis Montreuil et.al.|[2504.12988v2](http://arxiv.org/abs/2504.12988v2)|null|
-|**2025-04-16 16:11:11**|**zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing**|Yancheng Zhang et.al.|[2504.12217v1](http://arxiv.org/abs/2504.12217v1)|[link](https://github.com/ucf-lou-lab-pet/zkformer)|
-|**2025-04-16 06:13:20**|**Neighbor-Based Feature and Index Enhancement for Person   Re-Identification**|Chao Yuan et.al.|[2504.11798v1](http://arxiv.org/abs/2504.11798v1)|null|
-|**2025-04-16 04:59:18**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference   in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765v1](http://arxiv.org/abs/2504.11765v1)|null|
