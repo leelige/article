@@ -2,7 +2,8 @@
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-29 09:16:33**|**Explanation format does not matter; but explanations do -- An Eggsbert   study on explaining Bayesian Optimisation tasks**|Tanmay Chakraborty et.al.|[2504.20567v1](http://arxiv.org/abs/2504.20567v1)|null|
+|**2025-04-30 07:44:17**|**Statistical process discovery**|Pierre Cry et.al.|[2504.21390v1](http://arxiv.org/abs/2504.21390v1)|null|
+|**2025-04-29 09:16:33**|**Explanation format does not matter; but explanations do -- An Eggsbert   study on explaining Bayesian Optimisation tasks**|Tanmay Chakraborty et.al.|[2504.20567v2](http://arxiv.org/abs/2504.20567v2)|null|
 |**2025-04-14 12:34:03**|**ChartOptimiser: Task-driven Optimisation of Chart Designs**|Yao Wang et.al.|[2504.10180v1](http://arxiv.org/abs/2504.10180v1)|null|
 |**2025-03-31 13:01:59**|**TOPz: photometric redshifts using template fitting applied to GAMA   survey**|E. Tempel et.al.|[2503.24039v1](http://arxiv.org/abs/2503.24039v1)|null|
 |**2025-03-31 12:40:50**|**Bayesian Predictive Coding**|Alexander Tschantz et.al.|[2503.24016v1](http://arxiv.org/abs/2503.24016v1)|null|
@@ -16,7 +17,7 @@
 |**2025-03-04 12:43:33**|**Machine Learning-based Regional Cooling Demand Prediction with Optimised   Dataset Partitioning**|Meng Zhang et.al.|[2503.05813v1](http://arxiv.org/abs/2503.05813v1)|null|
 |**2025-03-01 07:04:54**|**Few-shot crack image classification using clip based on bayesian   optimization**|Yingchao Zhang et.al.|[2503.00376v1](http://arxiv.org/abs/2503.00376v1)|null|
 |**2025-02-25 15:19:10**|**Nested Expectations with Kernel Quadrature**|Zonghao Chen et.al.|[2502.18284v1](http://arxiv.org/abs/2502.18284v1)|[link](https://github.com/hudsonchen/nest_kq)|
-|**2025-02-18 19:22:15**|**Systematic Bayesian Optimization for Atomic Structure Calculations of   Heavy Elements**|Ricardo Ferreira da Silva et.al.|[2502.13250v1](http://arxiv.org/abs/2502.13250v1)|null|
+|**2025-02-18 19:22:15**|**Systematic Bayesian Optimization for Atomic Structure Calculations of   Heavy Elements**|Ricardo Ferreira da Silva et.al.|[2502.13250v2](http://arxiv.org/abs/2502.13250v2)|null|
 |**2025-02-18 15:42:05**|**A measure-valued HJB perspective on Bayesian optimal adaptive control**|Alexander M. G. Cox et.al.|[2502.12957v1](http://arxiv.org/abs/2502.12957v1)|null|
 |**2025-02-17 20:34:29**|**Mean-Field Bayesian Optimisation**|Petar Steinberg et.al.|[2502.12315v1](http://arxiv.org/abs/2502.12315v1)|[link](https://github.com/petarsteinberg/mf-bo)|
 |**2025-01-27 17:23:52**|**Analog QAOA with Bayesian Optimisation on a neutral atom QPU**|Simone Tibaldi et.al.|[2501.16229v1](http://arxiv.org/abs/2501.16229v1)|null|
@@ -31,4 +32,3 @@
 |**2024-11-29 14:22:51**|**Risk-Averse Certification of Bayesian Neural Networks**|Xiyue Zhang et.al.|[2411.19729v1](http://arxiv.org/abs/2411.19729v1)|null|
 |**2024-11-25 18:49:02**|**Decision Making under the Exponential Family: Distributionally Robust   Optimisation with Bayesian Ambiguity Sets**|Charita Dellaporta et.al.|[2411.16829v1](http://arxiv.org/abs/2411.16829v1)|null|
 |**2024-11-25 18:41:02**|**Implementing transferable annealing protocols for combinatorial   optimisation on neutral atom quantum processors: a case study on   smart-charging of electric vehicles**|Lucas Leclerc et.al.|[2411.16656v2](http://arxiv.org/abs/2411.16656v2)|null|
-|**2024-11-21 10:08:16**|**Multi-objective Bayesian Optimisation of Spinodoid Cellular Structures   for Crush Energy Absorption**|Hirak Kansara et.al.|[2411.14508v2](http://arxiv.org/abs/2411.14508v2)|[link](https://github.com/MCM-QMUL/MOBO)|

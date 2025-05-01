@@ -1,12 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2025-04-30 16:13:13 Asia/Shanghai
+ 自动更新 @ 2025-05-01 16:12:57 Asia/Shanghai
 
 ## Bayesian Optimisation
 
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-29 09:16:33**|**Explanation format does not matter; but explanations do -- An Eggsbert   study on explaining Bayesian Optimisation tasks**|Tanmay Chakraborty et.al.|[2504.20567v1](http://arxiv.org/abs/2504.20567v1)|null|
+|**2025-04-30 07:44:17**|**Statistical process discovery**|Pierre Cry et.al.|[2504.21390v1](http://arxiv.org/abs/2504.21390v1)|null|
+|**2025-04-29 09:16:33**|**Explanation format does not matter; but explanations do -- An Eggsbert   study on explaining Bayesian Optimisation tasks**|Tanmay Chakraborty et.al.|[2504.20567v2](http://arxiv.org/abs/2504.20567v2)|null|
 |**2025-04-14 12:34:03**|**ChartOptimiser: Task-driven Optimisation of Chart Designs**|Yao Wang et.al.|[2504.10180v1](http://arxiv.org/abs/2504.10180v1)|null|
 |**2025-03-31 13:01:59**|**TOPz: photometric redshifts using template fitting applied to GAMA   survey**|E. Tempel et.al.|[2503.24039v1](http://arxiv.org/abs/2503.24039v1)|null|
 |**2025-03-31 12:40:50**|**Bayesian Predictive Coding**|Alexander Tschantz et.al.|[2503.24016v1](http://arxiv.org/abs/2503.24016v1)|null|
@@ -20,7 +21,7 @@
 |**2025-03-04 12:43:33**|**Machine Learning-based Regional Cooling Demand Prediction with Optimised   Dataset Partitioning**|Meng Zhang et.al.|[2503.05813v1](http://arxiv.org/abs/2503.05813v1)|null|
 |**2025-03-01 07:04:54**|**Few-shot crack image classification using clip based on bayesian   optimization**|Yingchao Zhang et.al.|[2503.00376v1](http://arxiv.org/abs/2503.00376v1)|null|
 |**2025-02-25 15:19:10**|**Nested Expectations with Kernel Quadrature**|Zonghao Chen et.al.|[2502.18284v1](http://arxiv.org/abs/2502.18284v1)|[link](https://github.com/hudsonchen/nest_kq)|
-|**2025-02-18 19:22:15**|**Systematic Bayesian Optimization for Atomic Structure Calculations of   Heavy Elements**|Ricardo Ferreira da Silva et.al.|[2502.13250v1](http://arxiv.org/abs/2502.13250v1)|null|
+|**2025-02-18 19:22:15**|**Systematic Bayesian Optimization for Atomic Structure Calculations of   Heavy Elements**|Ricardo Ferreira da Silva et.al.|[2502.13250v2](http://arxiv.org/abs/2502.13250v2)|null|
 |**2025-02-18 15:42:05**|**A measure-valued HJB perspective on Bayesian optimal adaptive control**|Alexander M. G. Cox et.al.|[2502.12957v1](http://arxiv.org/abs/2502.12957v1)|null|
 |**2025-02-17 20:34:29**|**Mean-Field Bayesian Optimisation**|Petar Steinberg et.al.|[2502.12315v1](http://arxiv.org/abs/2502.12315v1)|[link](https://github.com/petarsteinberg/mf-bo)|
 |**2025-01-27 17:23:52**|**Analog QAOA with Bayesian Optimisation on a neutral atom QPU**|Simone Tibaldi et.al.|[2501.16229v1](http://arxiv.org/abs/2501.16229v1)|null|
@@ -35,49 +36,13 @@
 |**2024-11-29 14:22:51**|**Risk-Averse Certification of Bayesian Neural Networks**|Xiyue Zhang et.al.|[2411.19729v1](http://arxiv.org/abs/2411.19729v1)|null|
 |**2024-11-25 18:49:02**|**Decision Making under the Exponential Family: Distributionally Robust   Optimisation with Bayesian Ambiguity Sets**|Charita Dellaporta et.al.|[2411.16829v1](http://arxiv.org/abs/2411.16829v1)|null|
 |**2024-11-25 18:41:02**|**Implementing transferable annealing protocols for combinatorial   optimisation on neutral atom quantum processors: a case study on   smart-charging of electric vehicles**|Lucas Leclerc et.al.|[2411.16656v2](http://arxiv.org/abs/2411.16656v2)|null|
-|**2024-11-21 10:08:16**|**Multi-objective Bayesian Optimisation of Spinodoid Cellular Structures   for Crush Energy Absorption**|Hirak Kansara et.al.|[2411.14508v2](http://arxiv.org/abs/2411.14508v2)|[link](https://github.com/MCM-QMUL/MOBO)|
-
-## Query Optimization
-
-### Query Optimization
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-29 14:10:39**|**Effective Index Construction Algorithm for Optimal $(k,η)$-cores   Computation**|Shengli Sun et.al.|[2504.20795v1](http://arxiv.org/abs/2504.20795v1)|null|
-|**2025-04-29 10:51:58**|**PaRT: Enhancing Proactive Social Chatbots with Personalized Real-Time   Retrieval**|Zihan Niu et.al.|[2504.20624v1](http://arxiv.org/abs/2504.20624v1)|null|
-|**2025-04-27 20:27:03**|**Optimal Static Fully Indexable Dictionaries**|Jingxun Liang et.al.|[2504.19350v1](http://arxiv.org/abs/2504.19350v1)|null|
-|**2025-04-27 14:24:02**|**Cost-based Selection of Provenance Sketches for Data Skipping**|Ziyu Liu et.al.|[2504.19252v1](http://arxiv.org/abs/2504.19252v1)|null|
-|**2025-04-27 08:09:46**|**The Trichotomy of Regular Property Testing**|Gabriel Bathie et.al.|[2504.19152v1](http://arxiv.org/abs/2504.19152v1)|null|
-|**2025-04-27 07:49:01**|**BQSched: A Non-intrusive Scheduler for Batch Concurrent Queries via   Reinforcement Learning**|Chenhao Xu et.al.|[2504.19142v1](http://arxiv.org/abs/2504.19142v1)|null|
-|**2025-04-26 10:10:20**|**LiLIS: Enhancing Big Spatial Data Processing with Lightweight   Distributed Learned Index**|Zhongpu Chen et.al.|[2504.18883v2](http://arxiv.org/abs/2504.18883v2)|[link](https://github.com/SWUFE-DB-Group/learned-index-spark)|
-|**2025-04-26 09:55:04**|**Reshaping MOFs Text Mining with a Dynamic Multi-Agent Framework of Large   Language Agents**|Zuhong Lin et.al.|[2504.18880v1](http://arxiv.org/abs/2504.18880v1)|null|
-|**2025-04-26 04:17:46**|**Building Scalable AI-Powered Applications with Cloud Databases:   Architectures, Best Practices and Performance Considerations**|Santosh Bhupathi et.al.|[2504.18793v1](http://arxiv.org/abs/2504.18793v1)|null|
-|**2025-04-25 08:12:58**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158v1](http://arxiv.org/abs/2504.18158v1)|[link](https://github.com/Jackieam/E-InMeMo)|
-|**2025-04-25 04:07:21**|**Opportunistic Collaborative Planning with Large Vision Model Guided   Control and Joint Query-Service Optimization**|Jiayi Chen et.al.|[2504.18057v1](http://arxiv.org/abs/2504.18057v1)|null|
-|**2025-04-25 01:15:53**|**Self-Balancing, Memory Efficient, Dynamic Metric Space Data Maintenance,   for Rapid Multi-Kernel Estimation**|Aditya S Ellendula et.al.|[2504.18003v1](http://arxiv.org/abs/2504.18003v1)|null|
-|**2025-04-24 20:59:35**|**An Optimal $3$-Fault-Tolerant Connectivity Oracle**|Evangelos Kosinas et.al.|[2504.17937v1](http://arxiv.org/abs/2504.17937v1)|null|
-|**2025-04-24 18:50:09**|**Searching in trees with heavy group sets of fixed size**|Michał Szyfelbein et.al.|[2504.17887v1](http://arxiv.org/abs/2504.17887v1)|null|
-|**2025-04-24 18:46:11**|**Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense   Retrieval**|Yongkang Li et.al.|[2504.17884v1](http://arxiv.org/abs/2504.17884v1)|null|
-|**2025-04-24 11:35:43**|**Adaptive Orchestration of Modular Generative Information Access Systems**|Mohanna Hoveyda et.al.|[2504.17454v1](http://arxiv.org/abs/2504.17454v1)|null|
-|**2025-04-24 10:57:27**|**Storing and Querying Evolving Graphs in NoSQL Storage Models**|Alexandros Spitalas et.al.|[2504.17438v1](http://arxiv.org/abs/2504.17438v1)|null|
-|**2025-04-24 08:15:46**|**Data-Driven Surrogate Modeling Techniques to Predict the Effective   Contact Area of Rough Surface Contact Problems**|Tarik Sahin et.al.|[2504.17354v1](http://arxiv.org/abs/2504.17354v1)|null|
-|**2025-04-23 18:05:55**|**Identifying Approximate Minimizers under Stochastic Uncertainty**|Hessa Al-Thani et.al.|[2504.17019v1](http://arxiv.org/abs/2504.17019v1)|null|
-|**2025-04-23 00:34:39**|**ClarifyCoder: Clarification-Aware Fine-Tuning for Programmatic Problem   Solving**|Jie JW Wu et.al.|[2504.16331v1](http://arxiv.org/abs/2504.16331v1)|null|
-|**2025-04-22 21:25:14**|**DataS^3: Dataset Subset Selection for Specialization**|Neha Hulkund et.al.|[2504.16277v1](http://arxiv.org/abs/2504.16277v1)|null|
-|**2025-04-22 09:45:37**|**Proving Cypher Query Equivalence**|Lei Tang et.al.|[2504.15742v1](http://arxiv.org/abs/2504.15742v1)|null|
-|**2025-04-21 16:06:43**|**Quantum phase discrimination with applications to quantum search on   graphs**|Guanzhong Li et.al.|[2504.15194v1](http://arxiv.org/abs/2504.15194v1)|null|
-|**2025-04-21 11:30:30**|**DualBreach: Efficient Dual-Jailbreaking via Target-Driven Initialization   and Multi-Target Optimization**|Xinzhe Huang et.al.|[2504.18564v1](http://arxiv.org/abs/2504.18564v1)|null|
-|**2025-04-21 08:02:25**|**WindVE: Collaborative CPU-NPU Vector Embedding**|Jinqi Huang et.al.|[2504.14941v2](http://arxiv.org/abs/2504.14941v2)|null|
-|**2025-04-21 07:38:25**|**GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection**|Donghyeong Kim et.al.|[2504.14919v1](http://arxiv.org/abs/2504.14919v1)|null|
-|**2025-04-21 04:01:22**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models   via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848v1](http://arxiv.org/abs/2504.14848v1)|null|
-|**2025-04-20 04:58:14**|**FinSage: A Multi-aspect RAG System for Financial Filings Question   Answering**|Xinyu Wang et.al.|[2504.14493v1](http://arxiv.org/abs/2504.14493v1)|null|
-|**2025-04-20 01:10:34**|**Information Diffusion and Preferential Attachment in a Network of Large   Language Models**|Adit Jain et.al.|[2504.14438v1](http://arxiv.org/abs/2504.14438v1)|null|
-|**2025-04-19 22:47:59**|**Exploring Pseudo-Token Approaches in Transformer Neural Processes**|Jose Lara-Rangel et.al.|[2504.14416v1](http://arxiv.org/abs/2504.14416v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-30 17:32:47**|**Beam Optics Ramping in Under-Constrained Lattice Design: Application to   Electron-Ion Collider Hadron Storage Ring Cooling Section**|Derong Xu et.al.|[2504.21827v1](http://arxiv.org/abs/2504.21827v1)|null|
 |**2025-04-25 21:56:15**|**From Good to Great: Improving Memory Tiering Performance Through   Parameter Tuning**|Konstantinos Kanellis et.al.|[2504.18714v1](http://arxiv.org/abs/2504.18714v1)|null|
 |**2025-04-16 10:24:08**|**Dissecting coupled orders in a terahertz-driven electron-doped cuprate**|Liwen Feng et.al.|[2504.11947v1](http://arxiv.org/abs/2504.11947v1)|null|
 |**2025-04-16 04:18:25**|**AQETuner: Reliable Query-level Configuration Tuning for Analytical Query   Engines**|Lixiang Chen et.al.|[2504.11756v1](http://arxiv.org/abs/2504.11756v1)|null|
@@ -107,4 +72,39 @@
 |**2024-07-19 15:16:25**|**TTT: A Temporal Refinement Heuristic for Tenuously Tractable Discrete   Time Reachability Problems**|Chelsea Sidrane et.al.|[2407.14394v1](http://arxiv.org/abs/2407.14394v1)|[link](https://github.com/sisl/OVERTVerify.jl)|
 |**2024-07-03 04:21:01**|**KnobCF: Uncertainty-aware Knob Tuning**|Yu Yan et.al.|[2407.02803v1](http://arxiv.org/abs/2407.02803v1)|[link](https://github.com/avatartwi/knobcf)|
 |**2024-06-26 22:44:07**|**Flat and tunable moire phonons in twisted transition-metal   dichalcogenides**|Alejandro Ramos-Alonso et.al.|[2406.18779v1](http://arxiv.org/abs/2406.18779v1)|null|
-|**2024-06-18 03:52:54**|**Observation of stacking engineered magnetic phase transitions within   moiré supercells of twisted van der Waals magnets**|Senlei Li et.al.|[2406.12250v1](http://arxiv.org/abs/2406.12250v1)|null|
+
+## Query Optimization
+
+### Query Optimization
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-30 08:03:54**|**Static or Dynamic: Towards Query-Adaptive Token Selection for Video   Question Answering**|Yumeng Shi et.al.|[2504.21403v1](http://arxiv.org/abs/2504.21403v1)|null|
+|**2025-04-30 03:55:48**|**Efficiency of Analysis of Transitive Relations using Query-Driven,   Ground-and-Solve, and Fact-Driven Inference**|Yanhong A. Liu et.al.|[2504.21291v1](http://arxiv.org/abs/2504.21291v1)|null|
+|**2025-04-29 14:10:39**|**Effective Index Construction Algorithm for Optimal $(k,η)$-cores   Computation**|Shengli Sun et.al.|[2504.20795v1](http://arxiv.org/abs/2504.20795v1)|null|
+|**2025-04-29 10:51:58**|**PaRT: Enhancing Proactive Social Chatbots with Personalized Real-Time   Retrieval**|Zihan Niu et.al.|[2504.20624v1](http://arxiv.org/abs/2504.20624v1)|null|
+|**2025-04-27 20:27:03**|**Optimal Static Fully Indexable Dictionaries**|Jingxun Liang et.al.|[2504.19350v1](http://arxiv.org/abs/2504.19350v1)|null|
+|**2025-04-27 14:24:02**|**Cost-based Selection of Provenance Sketches for Data Skipping**|Ziyu Liu et.al.|[2504.19252v1](http://arxiv.org/abs/2504.19252v1)|null|
+|**2025-04-27 08:09:46**|**The Trichotomy of Regular Property Testing**|Gabriel Bathie et.al.|[2504.19152v1](http://arxiv.org/abs/2504.19152v1)|null|
+|**2025-04-27 07:49:01**|**BQSched: A Non-intrusive Scheduler for Batch Concurrent Queries via   Reinforcement Learning**|Chenhao Xu et.al.|[2504.19142v1](http://arxiv.org/abs/2504.19142v1)|null|
+|**2025-04-26 10:10:20**|**LiLIS: Enhancing Big Spatial Data Processing with Lightweight   Distributed Learned Index**|Zhongpu Chen et.al.|[2504.18883v2](http://arxiv.org/abs/2504.18883v2)|[link](https://github.com/SWUFE-DB-Group/learned-index-spark)|
+|**2025-04-26 09:55:04**|**Reshaping MOFs Text Mining with a Dynamic Multi-Agent Framework of Large   Language Agents**|Zuhong Lin et.al.|[2504.18880v1](http://arxiv.org/abs/2504.18880v1)|null|
+|**2025-04-26 04:17:46**|**Building Scalable AI-Powered Applications with Cloud Databases:   Architectures, Best Practices and Performance Considerations**|Santosh Bhupathi et.al.|[2504.18793v1](http://arxiv.org/abs/2504.18793v1)|null|
+|**2025-04-25 08:12:58**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158v1](http://arxiv.org/abs/2504.18158v1)|[link](https://github.com/Jackieam/E-InMeMo)|
+|**2025-04-25 04:07:21**|**Opportunistic Collaborative Planning with Large Vision Model Guided   Control and Joint Query-Service Optimization**|Jiayi Chen et.al.|[2504.18057v1](http://arxiv.org/abs/2504.18057v1)|null|
+|**2025-04-25 01:15:53**|**Self-Balancing, Memory Efficient, Dynamic Metric Space Data Maintenance,   for Rapid Multi-Kernel Estimation**|Aditya S Ellendula et.al.|[2504.18003v1](http://arxiv.org/abs/2504.18003v1)|null|
+|**2025-04-24 20:59:35**|**An Optimal $3$-Fault-Tolerant Connectivity Oracle**|Evangelos Kosinas et.al.|[2504.17937v1](http://arxiv.org/abs/2504.17937v1)|null|
+|**2025-04-24 18:50:09**|**Searching in trees with heavy group sets of fixed size**|Michał Szyfelbein et.al.|[2504.17887v1](http://arxiv.org/abs/2504.17887v1)|null|
+|**2025-04-24 18:46:11**|**Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense   Retrieval**|Yongkang Li et.al.|[2504.17884v1](http://arxiv.org/abs/2504.17884v1)|null|
+|**2025-04-24 11:35:43**|**Adaptive Orchestration of Modular Generative Information Access Systems**|Mohanna Hoveyda et.al.|[2504.17454v1](http://arxiv.org/abs/2504.17454v1)|[link](https://github.com/informagi/AQA)|
+|**2025-04-24 10:57:27**|**Storing and Querying Evolving Graphs in NoSQL Storage Models**|Alexandros Spitalas et.al.|[2504.17438v1](http://arxiv.org/abs/2504.17438v1)|null|
+|**2025-04-24 08:15:46**|**Data-Driven Surrogate Modeling Techniques to Predict the Effective   Contact Area of Rough Surface Contact Problems**|Tarik Sahin et.al.|[2504.17354v1](http://arxiv.org/abs/2504.17354v1)|null|
+|**2025-04-23 18:05:55**|**Identifying Approximate Minimizers under Stochastic Uncertainty**|Hessa Al-Thani et.al.|[2504.17019v1](http://arxiv.org/abs/2504.17019v1)|null|
+|**2025-04-23 00:34:39**|**ClarifyCoder: Clarification-Aware Fine-Tuning for Programmatic Problem   Solving**|Jie JW Wu et.al.|[2504.16331v1](http://arxiv.org/abs/2504.16331v1)|null|
+|**2025-04-22 21:25:14**|**DataS^3: Dataset Subset Selection for Specialization**|Neha Hulkund et.al.|[2504.16277v1](http://arxiv.org/abs/2504.16277v1)|null|
+|**2025-04-22 09:45:37**|**Proving Cypher Query Equivalence**|Lei Tang et.al.|[2504.15742v1](http://arxiv.org/abs/2504.15742v1)|null|
+|**2025-04-21 16:06:43**|**Quantum phase discrimination with applications to quantum search on   graphs**|Guanzhong Li et.al.|[2504.15194v1](http://arxiv.org/abs/2504.15194v1)|null|
+|**2025-04-21 11:30:30**|**DualBreach: Efficient Dual-Jailbreaking via Target-Driven Initialization   and Multi-Target Optimization**|Xinzhe Huang et.al.|[2504.18564v1](http://arxiv.org/abs/2504.18564v1)|null|
+|**2025-04-21 08:02:25**|**WindVE: Collaborative CPU-NPU Vector Embedding**|Jinqi Huang et.al.|[2504.14941v2](http://arxiv.org/abs/2504.14941v2)|null|
+|**2025-04-21 07:38:25**|**GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection**|Donghyeong Kim et.al.|[2504.14919v1](http://arxiv.org/abs/2504.14919v1)|null|
+|**2025-04-21 04:01:22**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models   via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848v1](http://arxiv.org/abs/2504.14848v1)|null|
+|**2025-04-20 04:58:14**|**FinSage: A Multi-aspect RAG System for Financial Filings Question   Answering**|Xinyu Wang et.al.|[2504.14493v2](http://arxiv.org/abs/2504.14493v2)|null|

@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-30 17:32:47**|**Beam Optics Ramping in Under-Constrained Lattice Design: Application to   Electron-Ion Collider Hadron Storage Ring Cooling Section**|Derong Xu et.al.|[2504.21827v1](http://arxiv.org/abs/2504.21827v1)|null|
 |**2025-04-25 21:56:15**|**From Good to Great: Improving Memory Tiering Performance Through   Parameter Tuning**|Konstantinos Kanellis et.al.|[2504.18714v1](http://arxiv.org/abs/2504.18714v1)|null|
 |**2025-04-16 10:24:08**|**Dissecting coupled orders in a terahertz-driven electron-doped cuprate**|Liwen Feng et.al.|[2504.11947v1](http://arxiv.org/abs/2504.11947v1)|null|
 |**2025-04-16 04:18:25**|**AQETuner: Reliable Query-level Configuration Tuning for Analytical Query   Engines**|Lixiang Chen et.al.|[2504.11756v1](http://arxiv.org/abs/2504.11756v1)|null|
@@ -31,4 +32,3 @@
 |**2024-07-19 15:16:25**|**TTT: A Temporal Refinement Heuristic for Tenuously Tractable Discrete   Time Reachability Problems**|Chelsea Sidrane et.al.|[2407.14394v1](http://arxiv.org/abs/2407.14394v1)|[link](https://github.com/sisl/OVERTVerify.jl)|
 |**2024-07-03 04:21:01**|**KnobCF: Uncertainty-aware Knob Tuning**|Yu Yan et.al.|[2407.02803v1](http://arxiv.org/abs/2407.02803v1)|[link](https://github.com/avatartwi/knobcf)|
 |**2024-06-26 22:44:07**|**Flat and tunable moire phonons in twisted transition-metal   dichalcogenides**|Alejandro Ramos-Alonso et.al.|[2406.18779v1](http://arxiv.org/abs/2406.18779v1)|null|
-|**2024-06-18 03:52:54**|**Observation of stacking engineered magnetic phase transitions within   moiré supercells of twisted van der Waals magnets**|Senlei Li et.al.|[2406.12250v1](http://arxiv.org/abs/2406.12250v1)|null|

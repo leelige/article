@@ -2,6 +2,8 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-30 08:03:54**|**Static or Dynamic: Towards Query-Adaptive Token Selection for Video   Question Answering**|Yumeng Shi et.al.|[2504.21403v1](http://arxiv.org/abs/2504.21403v1)|null|
+|**2025-04-30 03:55:48**|**Efficiency of Analysis of Transitive Relations using Query-Driven,   Ground-and-Solve, and Fact-Driven Inference**|Yanhong A. Liu et.al.|[2504.21291v1](http://arxiv.org/abs/2504.21291v1)|null|
 |**2025-04-29 14:10:39**|**Effective Index Construction Algorithm for Optimal $(k,η)$-cores   Computation**|Shengli Sun et.al.|[2504.20795v1](http://arxiv.org/abs/2504.20795v1)|null|
 |**2025-04-29 10:51:58**|**PaRT: Enhancing Proactive Social Chatbots with Personalized Real-Time   Retrieval**|Zihan Niu et.al.|[2504.20624v1](http://arxiv.org/abs/2504.20624v1)|null|
 |**2025-04-27 20:27:03**|**Optimal Static Fully Indexable Dictionaries**|Jingxun Liang et.al.|[2504.19350v1](http://arxiv.org/abs/2504.19350v1)|null|
@@ -17,7 +19,7 @@
 |**2025-04-24 20:59:35**|**An Optimal $3$-Fault-Tolerant Connectivity Oracle**|Evangelos Kosinas et.al.|[2504.17937v1](http://arxiv.org/abs/2504.17937v1)|null|
 |**2025-04-24 18:50:09**|**Searching in trees with heavy group sets of fixed size**|Michał Szyfelbein et.al.|[2504.17887v1](http://arxiv.org/abs/2504.17887v1)|null|
 |**2025-04-24 18:46:11**|**Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense   Retrieval**|Yongkang Li et.al.|[2504.17884v1](http://arxiv.org/abs/2504.17884v1)|null|
-|**2025-04-24 11:35:43**|**Adaptive Orchestration of Modular Generative Information Access Systems**|Mohanna Hoveyda et.al.|[2504.17454v1](http://arxiv.org/abs/2504.17454v1)|null|
+|**2025-04-24 11:35:43**|**Adaptive Orchestration of Modular Generative Information Access Systems**|Mohanna Hoveyda et.al.|[2504.17454v1](http://arxiv.org/abs/2504.17454v1)|[link](https://github.com/informagi/AQA)|
 |**2025-04-24 10:57:27**|**Storing and Querying Evolving Graphs in NoSQL Storage Models**|Alexandros Spitalas et.al.|[2504.17438v1](http://arxiv.org/abs/2504.17438v1)|null|
 |**2025-04-24 08:15:46**|**Data-Driven Surrogate Modeling Techniques to Predict the Effective   Contact Area of Rough Surface Contact Problems**|Tarik Sahin et.al.|[2504.17354v1](http://arxiv.org/abs/2504.17354v1)|null|
 |**2025-04-23 18:05:55**|**Identifying Approximate Minimizers under Stochastic Uncertainty**|Hessa Al-Thani et.al.|[2504.17019v1](http://arxiv.org/abs/2504.17019v1)|null|
@@ -29,6 +31,4 @@
 |**2025-04-21 08:02:25**|**WindVE: Collaborative CPU-NPU Vector Embedding**|Jinqi Huang et.al.|[2504.14941v2](http://arxiv.org/abs/2504.14941v2)|null|
 |**2025-04-21 07:38:25**|**GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection**|Donghyeong Kim et.al.|[2504.14919v1](http://arxiv.org/abs/2504.14919v1)|null|
 |**2025-04-21 04:01:22**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models   via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848v1](http://arxiv.org/abs/2504.14848v1)|null|
-|**2025-04-20 04:58:14**|**FinSage: A Multi-aspect RAG System for Financial Filings Question   Answering**|Xinyu Wang et.al.|[2504.14493v1](http://arxiv.org/abs/2504.14493v1)|null|
-|**2025-04-20 01:10:34**|**Information Diffusion and Preferential Attachment in a Network of Large   Language Models**|Adit Jain et.al.|[2504.14438v1](http://arxiv.org/abs/2504.14438v1)|null|
-|**2025-04-19 22:47:59**|**Exploring Pseudo-Token Approaches in Transformer Neural Processes**|Jose Lara-Rangel et.al.|[2504.14416v1](http://arxiv.org/abs/2504.14416v1)|null|
+|**2025-04-20 04:58:14**|**FinSage: A Multi-aspect RAG System for Financial Filings Question   Answering**|Xinyu Wang et.al.|[2504.14493v2](http://arxiv.org/abs/2504.14493v2)|null|
