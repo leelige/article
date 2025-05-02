@@ -2,6 +2,10 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-01 12:45:09**|**Optimal Interactive Learning on the Job via Facility Location Planning**|Shivam Vats et.al.|[2505.00490v1](http://arxiv.org/abs/2505.00490v1)|null|
+|**2025-05-01 07:46:50**|**On the Schrödingerization method for linear non-unitary dynamics with   optimal dependence on matrix queries**|Shi Jin et.al.|[2505.00370v1](http://arxiv.org/abs/2505.00370v1)|null|
+|**2025-04-30 20:17:35**|**Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search**|Nuojin Cheng et.al.|[2505.00162v1](http://arxiv.org/abs/2505.00162v1)|null|
+|**2025-04-30 14:42:18**|**Fact-Consistency Evaluation of Text-to-SQL Generation for Business   Intelligence Using Exaone 3.5**|Jeho Choi et.al.|[2505.00060v1](http://arxiv.org/abs/2505.00060v1)|null|
 |**2025-04-30 08:03:54**|**Static or Dynamic: Towards Query-Adaptive Token Selection for Video   Question Answering**|Yumeng Shi et.al.|[2504.21403v1](http://arxiv.org/abs/2504.21403v1)|null|
 |**2025-04-30 03:55:48**|**Efficiency of Analysis of Transitive Relations using Query-Driven,   Ground-and-Solve, and Fact-Driven Inference**|Yanhong A. Liu et.al.|[2504.21291v1](http://arxiv.org/abs/2504.21291v1)|null|
 |**2025-04-29 14:10:39**|**Effective Index Construction Algorithm for Optimal $(k,η)$-cores   Computation**|Shengli Sun et.al.|[2504.20795v1](http://arxiv.org/abs/2504.20795v1)|null|
@@ -22,13 +26,9 @@
 |**2025-04-24 11:35:43**|**Adaptive Orchestration of Modular Generative Information Access Systems**|Mohanna Hoveyda et.al.|[2504.17454v1](http://arxiv.org/abs/2504.17454v1)|[link](https://github.com/informagi/AQA)|
 |**2025-04-24 10:57:27**|**Storing and Querying Evolving Graphs in NoSQL Storage Models**|Alexandros Spitalas et.al.|[2504.17438v1](http://arxiv.org/abs/2504.17438v1)|null|
 |**2025-04-24 08:15:46**|**Data-Driven Surrogate Modeling Techniques to Predict the Effective   Contact Area of Rough Surface Contact Problems**|Tarik Sahin et.al.|[2504.17354v1](http://arxiv.org/abs/2504.17354v1)|null|
+|**2025-04-23 19:02:04**|**Sparks of Tabular Reasoning via Text2SQL Reinforcement Learning**|Josefa Lia Stoisser et.al.|[2505.00016v1](http://arxiv.org/abs/2505.00016v1)|null|
 |**2025-04-23 18:05:55**|**Identifying Approximate Minimizers under Stochastic Uncertainty**|Hessa Al-Thani et.al.|[2504.17019v1](http://arxiv.org/abs/2504.17019v1)|null|
 |**2025-04-23 00:34:39**|**ClarifyCoder: Clarification-Aware Fine-Tuning for Programmatic Problem   Solving**|Jie JW Wu et.al.|[2504.16331v1](http://arxiv.org/abs/2504.16331v1)|null|
 |**2025-04-22 21:25:14**|**DataS^3: Dataset Subset Selection for Specialization**|Neha Hulkund et.al.|[2504.16277v1](http://arxiv.org/abs/2504.16277v1)|null|
 |**2025-04-22 09:45:37**|**Proving Cypher Query Equivalence**|Lei Tang et.al.|[2504.15742v1](http://arxiv.org/abs/2504.15742v1)|null|
 |**2025-04-21 16:06:43**|**Quantum phase discrimination with applications to quantum search on   graphs**|Guanzhong Li et.al.|[2504.15194v1](http://arxiv.org/abs/2504.15194v1)|null|
-|**2025-04-21 11:30:30**|**DualBreach: Efficient Dual-Jailbreaking via Target-Driven Initialization   and Multi-Target Optimization**|Xinzhe Huang et.al.|[2504.18564v1](http://arxiv.org/abs/2504.18564v1)|null|
-|**2025-04-21 08:02:25**|**WindVE: Collaborative CPU-NPU Vector Embedding**|Jinqi Huang et.al.|[2504.14941v2](http://arxiv.org/abs/2504.14941v2)|null|
-|**2025-04-21 07:38:25**|**GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection**|Donghyeong Kim et.al.|[2504.14919v1](http://arxiv.org/abs/2504.14919v1)|null|
-|**2025-04-21 04:01:22**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models   via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848v1](http://arxiv.org/abs/2504.14848v1)|null|
-|**2025-04-20 04:58:14**|**FinSage: A Multi-aspect RAG System for Financial Filings Question   Answering**|Xinyu Wang et.al.|[2504.14493v2](http://arxiv.org/abs/2504.14493v2)|null|
