@@ -2,6 +2,17 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-05 04:20:40**|**Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization   Techniques**|Jie Kong et.al.|[2505.02351v1](http://arxiv.org/abs/2505.02351v1)|null|
+|**2025-05-05 02:47:07**|**TeDA: Boosting Vision-Lanuage Models for Zero-Shot 3D Object Retrieval   via Testing-time Distribution Alignment**|Zhichuan Wang et.al.|[2505.02325v1](http://arxiv.org/abs/2505.02325v1)|[link](https://github.com/wangzhichuan123/TeDA)|
+|**2025-05-05 01:53:03**|**Wii: Dynamic Budget Reallocation In Index Tuning**|Xiaoying Wang et.al.|[2505.02312v1](http://arxiv.org/abs/2505.02312v1)|null|
+|**2025-05-05 01:45:56**|**Invoke Interfaces Only When Needed: Adaptive Invocation for Large   Language Models in Question Answering**|Jihao Zhao et.al.|[2505.02311v1](http://arxiv.org/abs/2505.02311v1)|null|
+|**2025-05-04 22:45:46**|**Conformal Prediction for Verifiable Learned Query Optimization**|Hanwen Liu et.al.|[2505.02284v1](http://arxiv.org/abs/2505.02284v1)|null|
+|**2025-05-04 10:55:21**|**RTV-Bench: Benchmarking MLLM Continuous Perception, Understanding and   Reasoning through Real-Time Video**|Shuhang Xun et.al.|[2505.02064v1](http://arxiv.org/abs/2505.02064v1)|[link](https://github.com/LJungang/RTV-Bench)|
+|**2025-05-04 09:42:03**|**Point2Primitive: CAD Reconstruction from Point Cloud by Direct Primitive   Prediction**|Cheng Wang et.al.|[2505.02043v1](http://arxiv.org/abs/2505.02043v1)|null|
+|**2025-05-03 23:47:15**|**Embedding based retrieval for long tail search queries in ecommerce**|Akshay Kekuda et.al.|[2505.01946v1](http://arxiv.org/abs/2505.01946v1)|null|
+|**2025-05-03 19:14:24**|**CAMOUFLAGE: Exploiting Misinformation Detection Systems Through   LLM-driven Adversarial Claim Transformation**|Mazal Bethany et.al.|[2505.01900v1](http://arxiv.org/abs/2505.01900v1)|null|
+|**2025-05-02 18:59:31**|**HoneyBee: Efficient Role-based Access Control for Vector Databases via   Dynamic Partitioning**|Hongbin Zhong et.al.|[2505.01538v1](http://arxiv.org/abs/2505.01538v1)|null|
+|**2025-05-02 14:52:34**|**CostFilter-AD: Enhancing Anomaly Detection through Matching Cost   Filtering**|Zhe Zhang et.al.|[2505.01476v1](http://arxiv.org/abs/2505.01476v1)|[link](https://github.com/ZHE-SAPI/CostFilter-AD)|
 |**2025-05-02 10:13:12**|**CaGR-RAG: Context-aware Query Grouping for Disk-based Vector Search in   RAG Systems**|Yeonwoo Jeong et.al.|[2505.01164v1](http://arxiv.org/abs/2505.01164v1)|null|
 |**2025-05-02 09:31:14**|**Active Sybil Attack and Efficient Defense Strategy in IPFS DHT**|V. H. M. Netto et.al.|[2505.01139v1](http://arxiv.org/abs/2505.01139v1)|null|
 |**2025-05-01 12:45:09**|**Optimal Interactive Learning on the Job via Facility Location Planning**|Shivam Vats et.al.|[2505.00490v1](http://arxiv.org/abs/2505.00490v1)|null|
@@ -21,14 +32,3 @@
 |**2025-04-26 04:17:46**|**Building Scalable AI-Powered Applications with Cloud Databases:   Architectures, Best Practices and Performance Considerations**|Santosh Bhupathi et.al.|[2504.18793v1](http://arxiv.org/abs/2504.18793v1)|null|
 |**2025-04-25 08:12:58**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158v1](http://arxiv.org/abs/2504.18158v1)|[link](https://github.com/Jackieam/E-InMeMo)|
 |**2025-04-25 04:07:21**|**Opportunistic Collaborative Planning with Large Vision Model Guided   Control and Joint Query-Service Optimization**|Jiayi Chen et.al.|[2504.18057v1](http://arxiv.org/abs/2504.18057v1)|null|
-|**2025-04-25 01:15:53**|**Self-Balancing, Memory Efficient, Dynamic Metric Space Data Maintenance,   for Rapid Multi-Kernel Estimation**|Aditya S Ellendula et.al.|[2504.18003v1](http://arxiv.org/abs/2504.18003v1)|null|
-|**2025-04-24 20:59:35**|**An Optimal $3$-Fault-Tolerant Connectivity Oracle**|Evangelos Kosinas et.al.|[2504.17937v1](http://arxiv.org/abs/2504.17937v1)|null|
-|**2025-04-24 18:50:09**|**Searching in trees with heavy group sets of fixed size**|Michał Szyfelbein et.al.|[2504.17887v1](http://arxiv.org/abs/2504.17887v1)|null|
-|**2025-04-24 18:46:11**|**Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense   Retrieval**|Yongkang Li et.al.|[2504.17884v1](http://arxiv.org/abs/2504.17884v1)|null|
-|**2025-04-24 11:35:43**|**Adaptive Orchestration of Modular Generative Information Access Systems**|Mohanna Hoveyda et.al.|[2504.17454v1](http://arxiv.org/abs/2504.17454v1)|[link](https://github.com/informagi/AQA)|
-|**2025-04-24 10:57:27**|**Storing and Querying Evolving Graphs in NoSQL Storage Models**|Alexandros Spitalas et.al.|[2504.17438v1](http://arxiv.org/abs/2504.17438v1)|null|
-|**2025-04-24 08:15:46**|**Data-Driven Surrogate Modeling Techniques to Predict the Effective   Contact Area of Rough Surface Contact Problems**|Tarik Sahin et.al.|[2504.17354v1](http://arxiv.org/abs/2504.17354v1)|null|
-|**2025-04-23 19:02:04**|**Sparks of Tabular Reasoning via Text2SQL Reinforcement Learning**|Josefa Lia Stoisser et.al.|[2505.00016v2](http://arxiv.org/abs/2505.00016v2)|null|
-|**2025-04-23 18:05:55**|**Identifying Approximate Minimizers under Stochastic Uncertainty**|Hessa Al-Thani et.al.|[2504.17019v1](http://arxiv.org/abs/2504.17019v1)|null|
-|**2025-04-23 00:34:39**|**ClarifyCoder: Clarification-Aware Fine-Tuning for Programmatic Problem   Solving**|Jie JW Wu et.al.|[2504.16331v1](http://arxiv.org/abs/2504.16331v1)|null|
-|**2025-04-22 21:25:14**|**DataS^3: Dataset Subset Selection for Specialization**|Neha Hulkund et.al.|[2504.16277v1](http://arxiv.org/abs/2504.16277v1)|null|

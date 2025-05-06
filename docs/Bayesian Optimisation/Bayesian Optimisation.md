@@ -2,6 +2,7 @@
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-02 13:17:45**|**Data-driven Approach for Interpolation of Sparse Data**|R. F. Ferguson et.al.|[2505.01473v1](http://arxiv.org/abs/2505.01473v1)|null|
 |**2025-04-30 07:44:17**|**Statistical process discovery**|Pierre Cry et.al.|[2504.21390v1](http://arxiv.org/abs/2504.21390v1)|null|
 |**2025-04-29 09:16:33**|**Explanation format does not matter; but explanations do -- An Eggsbert   study on explaining Bayesian Optimisation tasks**|Tanmay Chakraborty et.al.|[2504.20567v2](http://arxiv.org/abs/2504.20567v2)|null|
 |**2025-04-14 12:34:03**|**ChartOptimiser: Task-driven Optimisation of Chart Designs**|Yao Wang et.al.|[2504.10180v1](http://arxiv.org/abs/2504.10180v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-06 09:25:00**|**Nonmyopic Global Optimisation via Approximate Dynamic Programming**|Filippo Airaldi et.al.|[2412.04882v1](http://arxiv.org/abs/2412.04882v1)|[link](https://github.com/FilippoAiraldi/global-optimization)|
 |**2024-11-29 14:22:51**|**Risk-Averse Certification of Bayesian Neural Networks**|Xiyue Zhang et.al.|[2411.19729v1](http://arxiv.org/abs/2411.19729v1)|null|
 |**2024-11-25 18:49:02**|**Decision Making under the Exponential Family: Distributionally Robust   Optimisation with Bayesian Ambiguity Sets**|Charita Dellaporta et.al.|[2411.16829v1](http://arxiv.org/abs/2411.16829v1)|null|
-|**2024-11-25 18:41:02**|**Implementing transferable annealing protocols for combinatorial   optimisation on neutral atom quantum processors: a case study on   smart-charging of electric vehicles**|Lucas Leclerc et.al.|[2411.16656v2](http://arxiv.org/abs/2411.16656v2)|null|
