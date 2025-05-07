@@ -7,7 +7,7 @@
 |**2025-04-25 21:56:15**|**From Good to Great: Improving Memory Tiering Performance Through   Parameter Tuning**|Konstantinos Kanellis et.al.|[2504.18714v1](http://arxiv.org/abs/2504.18714v1)|null|
 |**2025-04-16 10:24:08**|**Dissecting coupled orders in a terahertz-driven electron-doped cuprate**|Liwen Feng et.al.|[2504.11947v1](http://arxiv.org/abs/2504.11947v1)|null|
 |**2025-04-16 04:18:25**|**AQETuner: Reliable Query-level Configuration Tuning for Analytical Query   Engines**|Lixiang Chen et.al.|[2504.11756v1](http://arxiv.org/abs/2504.11756v1)|null|
-|**2025-04-03 16:45:33**|**Robust entangled photon generation by Floquet-engineered two-colour   pulses**|Jun-Yong Yan et.al.|[2504.02753v2](http://arxiv.org/abs/2504.02753v2)|null|
+|**2025-04-03 16:45:33**|**Robust entangled photon generation enabled by single-shot Floquet   driving**|Jun-Yong Yan et.al.|[2504.02753v3](http://arxiv.org/abs/2504.02753v3)|null|
 |**2025-03-25 22:04:33**|**Drops on architected elastic substrates: A repertoire of regimes at the   turn of a knob**|Sergio Santos et.al.|[2503.20091v1](http://arxiv.org/abs/2503.20091v1)|null|
 |**2025-03-17 03:14:10**|**Engineering robust strain transmission in van der Waals heterostructure   devices**|John Cenker et.al.|[2503.12773v1](http://arxiv.org/abs/2503.12773v1)|null|
 |**2025-03-08 18:25:27**|**Driven Magnon-Photon System as a Tunable Quantum Heat Rectifier**|C. O. Edet et.al.|[2503.06301v1](http://arxiv.org/abs/2503.06301v1)|null|
@@ -30,5 +30,5 @@
 |**2024-09-23 18:57:42**|**Nonequilibrium chemical short-range order in metallic alloys**|Mahmudul Islam et.al.|[2409.15474v3](http://arxiv.org/abs/2409.15474v3)|null|
 |**2024-09-04 04:30:33**|**Pressure-Tunable Targets for Light Dark Matter Direct Detection: The   Case of Solid Helium**|Omar A. Ashour et.al.|[2409.02439v1](http://arxiv.org/abs/2409.02439v1)|null|
 |**2024-08-05 03:26:01**|**Is Large Language Model Good at Database Knob Tuning? A Comprehensive   Experimental Evaluation**|Yiyan Li et.al.|[2408.02213v1](http://arxiv.org/abs/2408.02213v1)|null|
-|**2024-07-19 15:16:25**|**TTT: A Temporal Refinement Heuristic for Tenuously Tractable Discrete   Time Reachability Problems**|Chelsea Sidrane et.al.|[2407.14394v1](http://arxiv.org/abs/2407.14394v1)|[link](https://github.com/sisl/OVERTVerify.jl)|
 |**2024-07-03 04:21:01**|**KnobCF: Uncertainty-aware Knob Tuning**|Yu Yan et.al.|[2407.02803v1](http://arxiv.org/abs/2407.02803v1)|[link](https://github.com/avatartwi/knobcf)|
+|**2024-06-26 22:44:07**|**Flat and tunable moire phonons in twisted transition-metal   dichalcogenides**|Alejandro Ramos-Alonso et.al.|[2406.18779v1](http://arxiv.org/abs/2406.18779v1)|null|
