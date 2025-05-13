@@ -2,6 +2,17 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-12 14:27:11**|**An efficient search strategy for hidden ideals in pointed partially   ordered sets**|Roma Eisel et.al.|[2505.07604v1](http://arxiv.org/abs/2505.07604v1)|null|
+|**2025-05-12 14:20:46**|**Towards Cross-Model Efficiency in SQL/PGQ**|Hadar Rotschield et.al.|[2505.07595v1](http://arxiv.org/abs/2505.07595v1)|null|
+|**2025-05-12 06:53:24**|**Cache-Efficient Posterior Sampling for Reinforcement Learning with   LLM-Derived Priors Across Discrete and Continuous Domains**|Ibne Farabi Shihab et.al.|[2505.07274v1](http://arxiv.org/abs/2505.07274v1)|null|
+|**2025-05-12 05:19:01**|**DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for   Dynamic Reranking in Retrieval-Augmented Generation**|Jiashuo Sun et.al.|[2505.07233v1](http://arxiv.org/abs/2505.07233v1)|[link](https://github.com/gasolsun36/dynamicrag)|
+|**2025-05-11 06:32:07**|**Quantum preconditioning method for linear systems problems via   Schrödingerization**|Shi Jin et.al.|[2505.06866v1](http://arxiv.org/abs/2505.06866v1)|null|
+|**2025-05-11 04:53:34**|**Optimizing Recommendations using Fine-Tuned LLMs**|Prabhdeep Cheema et.al.|[2505.06841v1](http://arxiv.org/abs/2505.06841v1)|null|
+|**2025-05-10 16:56:17**|**RuleGenie: SIEM Detection Rule Set Optimization**|Akansha Shukla et.al.|[2505.06701v1](http://arxiv.org/abs/2505.06701v1)|null|
+|**2025-05-10 16:52:40**|**From Rankings to Insights: Evaluation Should Shift Focus from   Leaderboard to Feedback**|Zongqi Wang et.al.|[2505.06698v1](http://arxiv.org/abs/2505.06698v1)|null|
+|**2025-05-10 08:50:44**|**MacRAG: Compress, Slice, and Scale-up for Multi-Scale Adaptive Context   RAG**|Woosang Lim et.al.|[2505.06569v1](http://arxiv.org/abs/2505.06569v1)|[link](https://github.com/leezekun/macrag)|
+|**2025-05-10 08:03:00**|**Weakly Supervised Temporal Sentence Grounding via Positive Sample Mining**|Lu Dong et.al.|[2505.06557v1](http://arxiv.org/abs/2505.06557v1)|null|
+|**2025-05-10 07:43:23**|**References Indeed Matter? Reference-Free Preference Optimization for   Conversational Query Reformulation**|Doyoung Kim et.al.|[2505.06552v1](http://arxiv.org/abs/2505.06552v1)|null|
 |**2025-05-09 17:54:10**|**VIN-NBV: A View Introspection Network for Next-Best-View Selection for   Resource-Efficient 3D Reconstruction**|Noah Frahm et.al.|[2505.06219v1](http://arxiv.org/abs/2505.06219v1)|null|
 |**2025-05-09 12:20:54**|**Superquantile-Gibbs Relaxation for Minima-selection in Bi-Level   Optimization**|Saeed Masiha et.al.|[2505.05991v1](http://arxiv.org/abs/2505.05991v1)|null|
 |**2025-05-09 08:53:59**|**Cost-Effective, Low Latency Vector Search with Azure Cosmos DB**|Nitish Upreti et.al.|[2505.05885v1](http://arxiv.org/abs/2505.05885v1)|null|
@@ -21,14 +32,3 @@
 |**2025-05-06 18:40:40**|**Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover-based   Adaptive Search for RIS-assisted Broadband Wireless Systems**|Maryam Tariq et.al.|[2505.03914v1](http://arxiv.org/abs/2505.03914v1)|null|
 |**2025-05-06 16:23:42**|**Graph Drawing for LLMs: An Empirical Evaluation**|Walter Didimo et.al.|[2505.03678v1](http://arxiv.org/abs/2505.03678v1)|null|
 |**2025-05-06 05:59:23**|**Elastic Index Select for Label-Hybrid Search in Vector Database**|Mingyu Yang et.al.|[2505.03212v1](http://arxiv.org/abs/2505.03212v1)|null|
-|**2025-05-06 05:53:09**|**DYSTIL: Dynamic Strategy Induction with Large Language Models for   Reinforcement Learning**|Borui Wang et.al.|[2505.03209v1](http://arxiv.org/abs/2505.03209v1)|null|
-|**2025-05-05 21:15:40**|**UCSC at SemEval-2025 Task 3: Context, Models and Prompt Optimization for   Automated Hallucination Detection in LLM Output**|Sicong Huang et.al.|[2505.03030v1](http://arxiv.org/abs/2505.03030v1)|null|
-|**2025-05-05 19:47:32**|**Including Bloom Filters in Bottom-up Optimization**|Tim Zeyl et.al.|[2505.02994v1](http://arxiv.org/abs/2505.02994v1)|null|
-|**2025-05-05 04:20:40**|**Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization   Techniques**|Jie Kong et.al.|[2505.02351v1](http://arxiv.org/abs/2505.02351v1)|null|
-|**2025-05-05 02:47:07**|**TeDA: Boosting Vision-Lanuage Models for Zero-Shot 3D Object Retrieval   via Testing-time Distribution Alignment**|Zhichuan Wang et.al.|[2505.02325v1](http://arxiv.org/abs/2505.02325v1)|[link](https://github.com/wangzhichuan123/teda)|
-|**2025-05-05 01:53:03**|**Wii: Dynamic Budget Reallocation In Index Tuning**|Xiaoying Wang et.al.|[2505.02312v1](http://arxiv.org/abs/2505.02312v1)|null|
-|**2025-05-05 01:45:56**|**Invoke Interfaces Only When Needed: Adaptive Invocation for Large   Language Models in Question Answering**|Jihao Zhao et.al.|[2505.02311v1](http://arxiv.org/abs/2505.02311v1)|[link](https://github.com/robot2050/attenhscore)|
-|**2025-05-05 00:57:57**|**Esc: An Early-stopping Checker for Budget-aware Index Tuning**|Xiaoying Wang et.al.|[2505.02876v1](http://arxiv.org/abs/2505.02876v1)|null|
-|**2025-05-04 22:45:46**|**Conformal Prediction for Verifiable Learned Query Optimization**|Hanwen Liu et.al.|[2505.02284v1](http://arxiv.org/abs/2505.02284v1)|null|
-|**2025-05-04 10:55:21**|**RTV-Bench: Benchmarking MLLM Continuous Perception, Understanding and   Reasoning through Real-Time Video**|Shuhang Xun et.al.|[2505.02064v2](http://arxiv.org/abs/2505.02064v2)|[link](https://github.com/ljungang/rtv-bench)|
-|**2025-05-04 09:42:03**|**Point2Primitive: CAD Reconstruction from Point Cloud by Direct Primitive   Prediction**|Cheng Wang et.al.|[2505.02043v1](http://arxiv.org/abs/2505.02043v1)|null|

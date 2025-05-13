@@ -1,47 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2025-05-12 16:14:04 Asia/Shanghai
-
-## Query Optimization
-
-### Query Optimization
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-09 17:54:10**|**VIN-NBV: A View Introspection Network for Next-Best-View Selection for   Resource-Efficient 3D Reconstruction**|Noah Frahm et.al.|[2505.06219v1](http://arxiv.org/abs/2505.06219v1)|null|
-|**2025-05-09 12:20:54**|**Superquantile-Gibbs Relaxation for Minima-selection in Bi-Level   Optimization**|Saeed Masiha et.al.|[2505.05991v1](http://arxiv.org/abs/2505.05991v1)|null|
-|**2025-05-09 08:53:59**|**Cost-Effective, Low Latency Vector Search with Azure Cosmos DB**|Nitish Upreti et.al.|[2505.05885v1](http://arxiv.org/abs/2505.05885v1)|null|
-|**2025-05-09 04:17:05**|**Sparse Attention Remapping with Clustering for Efficient LLM Decoding on   PIM**|Zehao Fan et.al.|[2505.05772v1](http://arxiv.org/abs/2505.05772v1)|null|
-|**2025-05-08 19:58:41**|**LiteLMGuard: Seamless and Lightweight On-Device Prompt Filtering for   Safeguarding Small Language Models against Quantization-induced Risks and   Vulnerabilities**|Kalyan Nakka et.al.|[2505.05619v1](http://arxiv.org/abs/2505.05619v1)|[link](https://github.com/kalyan-nakka/litelmguard_mlc-llm)|
-|**2025-05-08 14:28:47**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic   Text-to-SQL Workflow**|You Peng et.al.|[2505.05286v1](http://arxiv.org/abs/2505.05286v1)|[link](https://github.com/Relaxed-System-Lab/Hexgen-Flow)|
-|**2025-05-08 10:42:20**|**Enhancing Text2Cypher with Schema Filtering**|Makbule Gulcin Ozsoy et.al.|[2505.05118v1](http://arxiv.org/abs/2505.05118v1)|null|
-|**2025-05-08 08:06:34**|**LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving   Cloud-Device Collaboration**|Yingyi Zhang et.al.|[2505.05031v1](http://arxiv.org/abs/2505.05031v1)|[link](https://github.com/zhang-yingyi/lsrp)|
-|**2025-05-08 07:56:30**|**Split Matching for Inductive Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2505.05023v1](http://arxiv.org/abs/2505.05023v1)|null|
-|**2025-05-08 07:27:29**|**Learning Partitions with Optimal Query and Round Complexities**|Hadley Black et.al.|[2505.05009v1](http://arxiv.org/abs/2505.05009v1)|null|
-|**2025-05-07 18:43:57**|**QBD-RankedDataGen: Generating Custom Ranked Datasets for Improving   Query-By-Document Search Using LLM-Reranking with Reduced Human Effort**|Sriram Gopalakrishnan et.al.|[2505.04732v1](http://arxiv.org/abs/2505.04732v1)|null|
-|**2025-05-07 17:40:12**|**Complexity Lower Bounds of Adaptive Gradient Algorithms for Non-convex   Stochastic Optimization under Relaxed Smoothness**|Michael Crawshaw et.al.|[2505.04599v1](http://arxiv.org/abs/2505.04599v1)|null|
-|**2025-05-07 16:31:26**|**An imageless magnetic resonance framework for fast and cost-effective   decision-making**|Alba González-Cebrián et.al.|[2505.04550v2](http://arxiv.org/abs/2505.04550v2)|null|
-|**2025-05-07 13:36:59**|**In-Context Adaptation to Concept Drift for Learned Database Operations**|Jiaqi Zhu et.al.|[2505.04404v1](http://arxiv.org/abs/2505.04404v1)|null|
-|**2025-05-07 05:04:30**|**Fine-Tuning Large Language Models and Evaluating Retrieval Methods for   Improved Question Answering on Building Codes**|Mohammad Aqib et.al.|[2505.04666v1](http://arxiv.org/abs/2505.04666v1)|null|
-|**2025-05-07 02:42:05**|**MojoFrame: Dataframe Library in Mojo Language**|Shengya Huang et.al.|[2505.04080v1](http://arxiv.org/abs/2505.04080v1)|null|
-|**2025-05-06 18:40:40**|**Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover-based   Adaptive Search for RIS-assisted Broadband Wireless Systems**|Maryam Tariq et.al.|[2505.03914v1](http://arxiv.org/abs/2505.03914v1)|null|
-|**2025-05-06 16:23:42**|**Graph Drawing for LLMs: An Empirical Evaluation**|Walter Didimo et.al.|[2505.03678v1](http://arxiv.org/abs/2505.03678v1)|null|
-|**2025-05-06 05:59:23**|**Elastic Index Select for Label-Hybrid Search in Vector Database**|Mingyu Yang et.al.|[2505.03212v1](http://arxiv.org/abs/2505.03212v1)|null|
-|**2025-05-06 05:53:09**|**DYSTIL: Dynamic Strategy Induction with Large Language Models for   Reinforcement Learning**|Borui Wang et.al.|[2505.03209v1](http://arxiv.org/abs/2505.03209v1)|null|
-|**2025-05-05 21:15:40**|**UCSC at SemEval-2025 Task 3: Context, Models and Prompt Optimization for   Automated Hallucination Detection in LLM Output**|Sicong Huang et.al.|[2505.03030v1](http://arxiv.org/abs/2505.03030v1)|null|
-|**2025-05-05 19:47:32**|**Including Bloom Filters in Bottom-up Optimization**|Tim Zeyl et.al.|[2505.02994v1](http://arxiv.org/abs/2505.02994v1)|null|
-|**2025-05-05 04:20:40**|**Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization   Techniques**|Jie Kong et.al.|[2505.02351v1](http://arxiv.org/abs/2505.02351v1)|null|
-|**2025-05-05 02:47:07**|**TeDA: Boosting Vision-Lanuage Models for Zero-Shot 3D Object Retrieval   via Testing-time Distribution Alignment**|Zhichuan Wang et.al.|[2505.02325v1](http://arxiv.org/abs/2505.02325v1)|[link](https://github.com/wangzhichuan123/teda)|
-|**2025-05-05 01:53:03**|**Wii: Dynamic Budget Reallocation In Index Tuning**|Xiaoying Wang et.al.|[2505.02312v1](http://arxiv.org/abs/2505.02312v1)|null|
-|**2025-05-05 01:45:56**|**Invoke Interfaces Only When Needed: Adaptive Invocation for Large   Language Models in Question Answering**|Jihao Zhao et.al.|[2505.02311v1](http://arxiv.org/abs/2505.02311v1)|[link](https://github.com/robot2050/attenhscore)|
-|**2025-05-05 00:57:57**|**Esc: An Early-stopping Checker for Budget-aware Index Tuning**|Xiaoying Wang et.al.|[2505.02876v1](http://arxiv.org/abs/2505.02876v1)|null|
-|**2025-05-04 22:45:46**|**Conformal Prediction for Verifiable Learned Query Optimization**|Hanwen Liu et.al.|[2505.02284v1](http://arxiv.org/abs/2505.02284v1)|null|
-|**2025-05-04 10:55:21**|**RTV-Bench: Benchmarking MLLM Continuous Perception, Understanding and   Reasoning through Real-Time Video**|Shuhang Xun et.al.|[2505.02064v2](http://arxiv.org/abs/2505.02064v2)|[link](https://github.com/ljungang/rtv-bench)|
-|**2025-05-04 09:42:03**|**Point2Primitive: CAD Reconstruction from Point Cloud by Direct Primitive   Prediction**|Cheng Wang et.al.|[2505.02043v1](http://arxiv.org/abs/2505.02043v1)|null|
+ 自动更新 @ 2025-05-13 16:13:31 Asia/Shanghai
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-11 16:53:34**|**The Dynamics of Inducible Genetic Circuits**|Zitao Yang et.al.|[2505.07053v1](http://arxiv.org/abs/2505.07053v1)|null|
 |**2025-05-01 18:00:20**|**Novel entangled dimer state in the Shastry-Sutherland magnet   Yb$_2$Be$_2$SiO$_7$**|A. Brassington et.al.|[2505.00766v1](http://arxiv.org/abs/2505.00766v1)|null|
 |**2025-04-30 17:32:47**|**Beam Optics Ramping in Under-Constrained Lattice Design: Application to   Electron-Ion Collider Hadron Storage Ring Cooling Section**|Derong Xu et.al.|[2504.21827v1](http://arxiv.org/abs/2504.21827v1)|null|
 |**2025-04-25 21:56:15**|**From Good to Great: Improving Memory Tiering Performance Through   Parameter Tuning**|Konstantinos Kanellis et.al.|[2504.18714v1](http://arxiv.org/abs/2504.18714v1)|null|
@@ -71,13 +36,14 @@
 |**2024-09-04 04:30:33**|**Pressure-Tunable Targets for Light Dark Matter Direct Detection: The   Case of Solid Helium**|Omar A. Ashour et.al.|[2409.02439v1](http://arxiv.org/abs/2409.02439v1)|null|
 |**2024-08-05 03:26:01**|**Is Large Language Model Good at Database Knob Tuning? A Comprehensive   Experimental Evaluation**|Yiyan Li et.al.|[2408.02213v1](http://arxiv.org/abs/2408.02213v1)|null|
 |**2024-07-03 04:21:01**|**KnobCF: Uncertainty-aware Knob Tuning**|Yu Yan et.al.|[2407.02803v1](http://arxiv.org/abs/2407.02803v1)|[link](https://github.com/avatartwi/knobcf)|
-|**2024-06-26 22:44:07**|**Flat and tunable moire phonons in twisted transition-metal   dichalcogenides**|Alejandro Ramos-Alonso et.al.|[2406.18779v1](http://arxiv.org/abs/2406.18779v1)|null|
 
 ## Bayesian Optimisation
 
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-12 10:34:41**|**A Value of Information-based assessment of strain-based thickness loss   monitoring in ship hull structures**|Nicholas E. Silionis et.al.|[2505.07427v1](http://arxiv.org/abs/2505.07427v1)|null|
+|**2025-05-12 06:40:29**|**Adaptive, Robust and Scalable Bayesian Filtering for Online Learning**|Gerardo Duran-Martin et.al.|[2505.07267v1](http://arxiv.org/abs/2505.07267v1)|null|
 |**2025-05-06 18:34:37**|**Hesitation is defeat? Connecting Linguistic and Predictive Uncertainty**|Gianluca Manzo et.al.|[2505.03910v1](http://arxiv.org/abs/2505.03910v1)|null|
 |**2025-05-06 14:46:16**|**Decision Making under Model Misspecification: DRO with Robust Bayesian   Ambiguity Sets**|Charita Dellaporta et.al.|[2505.03585v1](http://arxiv.org/abs/2505.03585v1)|null|
 |**2025-05-02 13:17:45**|**Data-driven Approach for Interpolation of Sparse Data**|R. F. Ferguson et.al.|[2505.01473v1](http://arxiv.org/abs/2505.01473v1)|null|
@@ -106,5 +72,39 @@
 |**2025-01-02 22:03:00**|**Multi-view Bayesian optimisation in reduced dimension for engineering   design**|Thomas A. Archbold et.al.|[2501.01552v1](http://arxiv.org/abs/2501.01552v1)|null|
 |**2024-12-22 11:28:10**|**Reduced Order Models and Conditional Expectation -- Analysing Parametric   Low-Order Approximations**|Hermann G. Matthies et.al.|[2412.19836v2](http://arxiv.org/abs/2412.19836v2)|null|
 |**2024-12-20 08:51:14**|**High-Dimensional Bayesian Optimisation with Large-Scale Constraints via   Latent Space Gaussian Processes**|Hauke F. Maathuis et.al.|[2412.15679v1](http://arxiv.org/abs/2412.15679v1)|null|
-|**2024-12-12 11:27:27**|**Dimensionality Reduction Techniques for Global Bayesian Optimisation**|Luo Long et.al.|[2412.09183v1](http://arxiv.org/abs/2412.09183v1)|null|
-|**2024-12-06 09:25:00**|**Nonmyopic Global Optimisation via Approximate Dynamic Programming**|Filippo Airaldi et.al.|[2412.04882v1](http://arxiv.org/abs/2412.04882v1)|[link](https://github.com/FilippoAiraldi/global-optimization)|
+
+## Query Optimization
+
+### Query Optimization
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-12 14:27:11**|**An efficient search strategy for hidden ideals in pointed partially   ordered sets**|Roma Eisel et.al.|[2505.07604v1](http://arxiv.org/abs/2505.07604v1)|null|
+|**2025-05-12 14:20:46**|**Towards Cross-Model Efficiency in SQL/PGQ**|Hadar Rotschield et.al.|[2505.07595v1](http://arxiv.org/abs/2505.07595v1)|null|
+|**2025-05-12 06:53:24**|**Cache-Efficient Posterior Sampling for Reinforcement Learning with   LLM-Derived Priors Across Discrete and Continuous Domains**|Ibne Farabi Shihab et.al.|[2505.07274v1](http://arxiv.org/abs/2505.07274v1)|null|
+|**2025-05-12 05:19:01**|**DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for   Dynamic Reranking in Retrieval-Augmented Generation**|Jiashuo Sun et.al.|[2505.07233v1](http://arxiv.org/abs/2505.07233v1)|[link](https://github.com/gasolsun36/dynamicrag)|
+|**2025-05-11 06:32:07**|**Quantum preconditioning method for linear systems problems via   Schrödingerization**|Shi Jin et.al.|[2505.06866v1](http://arxiv.org/abs/2505.06866v1)|null|
+|**2025-05-11 04:53:34**|**Optimizing Recommendations using Fine-Tuned LLMs**|Prabhdeep Cheema et.al.|[2505.06841v1](http://arxiv.org/abs/2505.06841v1)|null|
+|**2025-05-10 16:56:17**|**RuleGenie: SIEM Detection Rule Set Optimization**|Akansha Shukla et.al.|[2505.06701v1](http://arxiv.org/abs/2505.06701v1)|null|
+|**2025-05-10 16:52:40**|**From Rankings to Insights: Evaluation Should Shift Focus from   Leaderboard to Feedback**|Zongqi Wang et.al.|[2505.06698v1](http://arxiv.org/abs/2505.06698v1)|null|
+|**2025-05-10 08:50:44**|**MacRAG: Compress, Slice, and Scale-up for Multi-Scale Adaptive Context   RAG**|Woosang Lim et.al.|[2505.06569v1](http://arxiv.org/abs/2505.06569v1)|[link](https://github.com/leezekun/macrag)|
+|**2025-05-10 08:03:00**|**Weakly Supervised Temporal Sentence Grounding via Positive Sample Mining**|Lu Dong et.al.|[2505.06557v1](http://arxiv.org/abs/2505.06557v1)|null|
+|**2025-05-10 07:43:23**|**References Indeed Matter? Reference-Free Preference Optimization for   Conversational Query Reformulation**|Doyoung Kim et.al.|[2505.06552v1](http://arxiv.org/abs/2505.06552v1)|null|
+|**2025-05-09 17:54:10**|**VIN-NBV: A View Introspection Network for Next-Best-View Selection for   Resource-Efficient 3D Reconstruction**|Noah Frahm et.al.|[2505.06219v1](http://arxiv.org/abs/2505.06219v1)|null|
+|**2025-05-09 12:20:54**|**Superquantile-Gibbs Relaxation for Minima-selection in Bi-Level   Optimization**|Saeed Masiha et.al.|[2505.05991v1](http://arxiv.org/abs/2505.05991v1)|null|
+|**2025-05-09 08:53:59**|**Cost-Effective, Low Latency Vector Search with Azure Cosmos DB**|Nitish Upreti et.al.|[2505.05885v1](http://arxiv.org/abs/2505.05885v1)|null|
+|**2025-05-09 04:17:05**|**Sparse Attention Remapping with Clustering for Efficient LLM Decoding on   PIM**|Zehao Fan et.al.|[2505.05772v1](http://arxiv.org/abs/2505.05772v1)|null|
+|**2025-05-08 19:58:41**|**LiteLMGuard: Seamless and Lightweight On-Device Prompt Filtering for   Safeguarding Small Language Models against Quantization-induced Risks and   Vulnerabilities**|Kalyan Nakka et.al.|[2505.05619v1](http://arxiv.org/abs/2505.05619v1)|[link](https://github.com/kalyan-nakka/litelmguard_mlc-llm)|
+|**2025-05-08 14:28:47**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic   Text-to-SQL Workflow**|You Peng et.al.|[2505.05286v1](http://arxiv.org/abs/2505.05286v1)|[link](https://github.com/Relaxed-System-Lab/Hexgen-Flow)|
+|**2025-05-08 10:42:20**|**Enhancing Text2Cypher with Schema Filtering**|Makbule Gulcin Ozsoy et.al.|[2505.05118v1](http://arxiv.org/abs/2505.05118v1)|null|
+|**2025-05-08 08:06:34**|**LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving   Cloud-Device Collaboration**|Yingyi Zhang et.al.|[2505.05031v1](http://arxiv.org/abs/2505.05031v1)|[link](https://github.com/zhang-yingyi/lsrp)|
+|**2025-05-08 07:56:30**|**Split Matching for Inductive Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2505.05023v1](http://arxiv.org/abs/2505.05023v1)|null|
+|**2025-05-08 07:27:29**|**Learning Partitions with Optimal Query and Round Complexities**|Hadley Black et.al.|[2505.05009v1](http://arxiv.org/abs/2505.05009v1)|null|
+|**2025-05-07 18:43:57**|**QBD-RankedDataGen: Generating Custom Ranked Datasets for Improving   Query-By-Document Search Using LLM-Reranking with Reduced Human Effort**|Sriram Gopalakrishnan et.al.|[2505.04732v1](http://arxiv.org/abs/2505.04732v1)|null|
+|**2025-05-07 17:40:12**|**Complexity Lower Bounds of Adaptive Gradient Algorithms for Non-convex   Stochastic Optimization under Relaxed Smoothness**|Michael Crawshaw et.al.|[2505.04599v1](http://arxiv.org/abs/2505.04599v1)|null|
+|**2025-05-07 16:31:26**|**An imageless magnetic resonance framework for fast and cost-effective   decision-making**|Alba González-Cebrián et.al.|[2505.04550v2](http://arxiv.org/abs/2505.04550v2)|null|
+|**2025-05-07 13:36:59**|**In-Context Adaptation to Concept Drift for Learned Database Operations**|Jiaqi Zhu et.al.|[2505.04404v1](http://arxiv.org/abs/2505.04404v1)|null|
+|**2025-05-07 05:04:30**|**Fine-Tuning Large Language Models and Evaluating Retrieval Methods for   Improved Question Answering on Building Codes**|Mohammad Aqib et.al.|[2505.04666v1](http://arxiv.org/abs/2505.04666v1)|null|
+|**2025-05-07 02:42:05**|**MojoFrame: Dataframe Library in Mojo Language**|Shengya Huang et.al.|[2505.04080v1](http://arxiv.org/abs/2505.04080v1)|null|
+|**2025-05-06 18:40:40**|**Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover-based   Adaptive Search for RIS-assisted Broadband Wireless Systems**|Maryam Tariq et.al.|[2505.03914v1](http://arxiv.org/abs/2505.03914v1)|null|
+|**2025-05-06 16:23:42**|**Graph Drawing for LLMs: An Empirical Evaluation**|Walter Didimo et.al.|[2505.03678v1](http://arxiv.org/abs/2505.03678v1)|null|
+|**2025-05-06 05:59:23**|**Elastic Index Select for Label-Hybrid Search in Vector Database**|Mingyu Yang et.al.|[2505.03212v1](http://arxiv.org/abs/2505.03212v1)|null|
