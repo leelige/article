@@ -2,6 +2,10 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-14 16:45:51**|**Distilling Realizable Students from Unrealizable Teachers**|Yujin Kim et.al.|[2505.09546v1](http://arxiv.org/abs/2505.09546v1)|null|
+|**2025-05-14 13:41:34**|**Qwen3 Technical Report**|An Yang et.al.|[2505.09388v1](http://arxiv.org/abs/2505.09388v1)|null|
+|**2025-05-14 13:25:19**|**DNS Query Forgery: A Client-Side Defense Against Mobile App Traffic   Profiling**|Andrea Jimenez-Berenguel et.al.|[2505.09374v1](http://arxiv.org/abs/2505.09374v1)|null|
+|**2025-05-14 00:54:49**|**The Adaptive Complexity of Finding a Stationary Point**|Huanjian Zhou et.al.|[2505.09045v1](http://arxiv.org/abs/2505.09045v1)|null|
 |**2025-05-13 11:13:27**|**Optimizing Retrieval-Augmented Generation: Analysis of Hyperparameter   Impact on Performance and Efficiency**|Adel Ammar et.al.|[2505.08445v1](http://arxiv.org/abs/2505.08445v1)|null|
 |**2025-05-13 07:49:29**|**A Unified Model for Cardinality Estimation by Learning from Data and   Queries via Sum-Product Networks**|Jiawei Liu et.al.|[2505.08318v1](http://arxiv.org/abs/2505.08318v1)|null|
 |**2025-05-12 21:11:04**|**Process Tomography for Clifford Unitaries**|Timothy Skaras et.al.|[2505.08069v1](http://arxiv.org/abs/2505.08069v1)|null|
@@ -28,7 +32,3 @@
 |**2025-05-08 07:56:30**|**Split Matching for Inductive Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2505.05023v1](http://arxiv.org/abs/2505.05023v1)|null|
 |**2025-05-08 07:27:29**|**Learning Partitions with Optimal Query and Round Complexities**|Hadley Black et.al.|[2505.05009v1](http://arxiv.org/abs/2505.05009v1)|null|
 |**2025-05-07 19:44:09**|**SweRank: Software Issue Localization with Code Ranking**|Revanth Gangi Reddy et.al.|[2505.07849v1](http://arxiv.org/abs/2505.07849v1)|null|
-|**2025-05-07 18:43:57**|**QBD-RankedDataGen: Generating Custom Ranked Datasets for Improving   Query-By-Document Search Using LLM-Reranking with Reduced Human Effort**|Sriram Gopalakrishnan et.al.|[2505.04732v1](http://arxiv.org/abs/2505.04732v1)|null|
-|**2025-05-07 17:40:12**|**Complexity Lower Bounds of Adaptive Gradient Algorithms for Non-convex   Stochastic Optimization under Relaxed Smoothness**|Michael Crawshaw et.al.|[2505.04599v1](http://arxiv.org/abs/2505.04599v1)|null|
-|**2025-05-07 16:31:26**|**An imageless magnetic resonance framework for fast and cost-effective   decision-making**|Alba González-Cebrián et.al.|[2505.04550v2](http://arxiv.org/abs/2505.04550v2)|null|
-|**2025-05-07 13:36:59**|**In-Context Adaptation to Concept Drift for Learned Database Operations**|Jiaqi Zhu et.al.|[2505.04404v1](http://arxiv.org/abs/2505.04404v1)|null|
