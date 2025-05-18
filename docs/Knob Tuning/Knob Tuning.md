@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-13 21:43:17**|**Tuning the magnetic properties of spin-split antiferromagnet MnTe   through pressure**|Edison P. Carlisle et.al.|[2505.08979v1](http://arxiv.org/abs/2505.08979v1)|null|
-|**2025-05-11 16:53:34**|**The Dynamics of Inducible Genetic Circuits**|Zitao Yang et.al.|[2505.07053v1](http://arxiv.org/abs/2505.07053v1)|null|
+|**2025-05-11 16:53:34**|**The Dynamics of Inducible Genetic Circuits**|Zitao Yang et.al.|[2505.07053v1](http://arxiv.org/abs/2505.07053v1)|[link](https://github.com/RPGroup-PBoC/2025_inducers)|
 |**2025-05-01 18:00:20**|**Novel entangled dimer state in the Shastry-Sutherland magnet   Yb$_2$Be$_2$SiO$_7$**|A. Brassington et.al.|[2505.00766v1](http://arxiv.org/abs/2505.00766v1)|null|
 |**2025-04-30 17:32:47**|**Beam Optics Ramping in Under-Constrained Lattice Design: Application to   Electron-Ion Collider Hadron Storage Ring Cooling Section**|Derong Xu et.al.|[2504.21827v1](http://arxiv.org/abs/2504.21827v1)|null|
 |**2025-04-25 21:56:15**|**From Good to Great: Improving Memory Tiering Performance Through   Parameter Tuning**|Konstantinos Kanellis et.al.|[2504.18714v1](http://arxiv.org/abs/2504.18714v1)|null|

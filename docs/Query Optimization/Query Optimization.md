@@ -9,7 +9,7 @@
 |**2025-05-14 19:05:19**|**A Generative Neural Annealer for Black-Box Combinatorial Optimization**|Yuan-Hang Zhang et.al.|[2505.09742v1](http://arxiv.org/abs/2505.09742v1)|null|
 |**2025-05-14 16:46:15**|**System Prompt Optimization with Meta-Learning**|Yumin Choi et.al.|[2505.09666v1](http://arxiv.org/abs/2505.09666v1)|null|
 |**2025-05-14 16:45:51**|**Distilling Realizable Students from Unrealizable Teachers**|Yujin Kim et.al.|[2505.09546v1](http://arxiv.org/abs/2505.09546v1)|null|
-|**2025-05-14 13:41:34**|**Qwen3 Technical Report**|An Yang et.al.|[2505.09388v1](http://arxiv.org/abs/2505.09388v1)|null|
+|**2025-05-14 13:41:34**|**Qwen3 Technical Report**|An Yang et.al.|[2505.09388v1](http://arxiv.org/abs/2505.09388v1)|[link](https://github.com/qwenlm/qwen3)|
 |**2025-05-14 13:25:19**|**DNS Query Forgery: A Client-Side Defense Against Mobile App Traffic   Profiling**|Andrea Jimenez-Berenguel et.al.|[2505.09374v1](http://arxiv.org/abs/2505.09374v1)|null|
 |**2025-05-14 00:54:49**|**The Adaptive Complexity of Finding a Stationary Point**|Huanjian Zhou et.al.|[2505.09045v1](http://arxiv.org/abs/2505.09045v1)|null|
 |**2025-05-13 11:13:27**|**Optimizing Retrieval-Augmented Generation: Analysis of Hyperparameter   Impact on Performance and Efficiency**|Adel Ammar et.al.|[2505.08445v1](http://arxiv.org/abs/2505.08445v1)|null|
