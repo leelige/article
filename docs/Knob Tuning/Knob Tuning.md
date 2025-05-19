@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-16 14:41:57**|**On the Role of Weight Decay in Collaborative Filtering: A Popularity   Perspective**|Donald Loveland et.al.|[2505.11318v1](http://arxiv.org/abs/2505.11318v1)|null|
 |**2025-05-13 21:43:17**|**Tuning the magnetic properties of spin-split antiferromagnet MnTe   through pressure**|Edison P. Carlisle et.al.|[2505.08979v1](http://arxiv.org/abs/2505.08979v1)|null|
 |**2025-05-11 16:53:34**|**The Dynamics of Inducible Genetic Circuits**|Zitao Yang et.al.|[2505.07053v1](http://arxiv.org/abs/2505.07053v1)|[link](https://github.com/RPGroup-PBoC/2025_inducers)|
 |**2025-05-01 18:00:20**|**Novel entangled dimer state in the Shastry-Sutherland magnet   Yb$_2$Be$_2$SiO$_7$**|A. Brassington et.al.|[2505.00766v1](http://arxiv.org/abs/2505.00766v1)|null|
@@ -31,4 +32,3 @@
 |**2024-09-30 07:38:49**|**Observation of amplitude-driven nonreciprocity for energy guiding**|Mathieu Padlewski et.al.|[2409.20032v2](http://arxiv.org/abs/2409.20032v2)|null|
 |**2024-09-23 18:57:42**|**Nonequilibrium chemical short-range order in metallic alloys**|Mahmudul Islam et.al.|[2409.15474v3](http://arxiv.org/abs/2409.15474v3)|null|
 |**2024-09-04 04:30:33**|**Pressure-Tunable Targets for Light Dark Matter Direct Detection: The   Case of Solid Helium**|Omar A. Ashour et.al.|[2409.02439v1](http://arxiv.org/abs/2409.02439v1)|null|
-|**2024-08-05 03:26:01**|**Is Large Language Model Good at Database Knob Tuning? A Comprehensive   Experimental Evaluation**|Yiyan Li et.al.|[2408.02213v1](http://arxiv.org/abs/2408.02213v1)|null|

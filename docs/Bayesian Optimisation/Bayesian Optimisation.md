@@ -2,6 +2,7 @@
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-16 15:51:28**|**High brightness, symmetric electron bunch generation in a plasma   wakefield accelerator via a radially-polarized plasma photocathode**|James Chappell et.al.|[2505.11387v1](http://arxiv.org/abs/2505.11387v1)|null|
 |**2025-05-12 10:34:41**|**A Value of Information-based assessment of strain-based thickness loss   monitoring in ship hull structures**|Nicholas E. Silionis et.al.|[2505.07427v1](http://arxiv.org/abs/2505.07427v1)|null|
 |**2025-05-12 06:40:29**|**Adaptive, Robust and Scalable Bayesian Filtering for Online Learning**|Gerardo Duran-Martin et.al.|[2505.07267v1](http://arxiv.org/abs/2505.07267v1)|null|
 |**2025-05-06 18:34:37**|**Hesitation is defeat? Connecting Linguistic and Predictive Uncertainty**|Gianluca Manzo et.al.|[2505.03910v1](http://arxiv.org/abs/2505.03910v1)|null|
@@ -31,4 +32,3 @@
 |**2025-01-08 15:02:55**|**Bayesian buckling load optimisation for structures with geometric   uncertainties**|Tianyi Liu et.al.|[2501.04553v1](http://arxiv.org/abs/2501.04553v1)|null|
 |**2025-01-02 22:03:00**|**Multi-view Bayesian optimisation in reduced dimension for engineering   design**|Thomas A. Archbold et.al.|[2501.01552v1](http://arxiv.org/abs/2501.01552v1)|null|
 |**2024-12-22 11:28:10**|**Reduced Order Models and Conditional Expectation -- Analysing Parametric   Low-Order Approximations**|Hermann G. Matthies et.al.|[2412.19836v2](http://arxiv.org/abs/2412.19836v2)|null|
-|**2024-12-20 08:51:14**|**High-Dimensional Bayesian Optimisation with Large-Scale Constraints via   Latent Space Gaussian Processes**|Hauke F. Maathuis et.al.|[2412.15679v1](http://arxiv.org/abs/2412.15679v1)|null|
