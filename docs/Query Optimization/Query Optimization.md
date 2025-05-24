@@ -12,7 +12,7 @@
 |**2025-05-21 21:34:18**|**Causal LLM Routing: End-to-End Regret Minimization from Observational   Data**|Asterios Tsiourvas et.al.|[2505.16037v1](http://arxiv.org/abs/2505.16037v1)|null|
 |**2025-05-21 20:57:16**|**Ranking Free RAG: Replacing Re-ranking with Selection in RAG for   Sensitive Domains**|Yash Saxena et.al.|[2505.16014v1](http://arxiv.org/abs/2505.16014v1)|null|
 |**2025-05-21 17:59:41**|**Meta-Learning an In-Context Transformer Model of Human Higher Visual   Cortex**|Muquan Yu et.al.|[2505.15813v1](http://arxiv.org/abs/2505.15813v1)|null|
-|**2025-05-21 17:27:42**|**ConvSearch-R1: Enhancing Query Reformulation for Conversational Search   with Reasoning via Reinforcement Learning**|Changtai Zhu et.al.|[2505.15776v1](http://arxiv.org/abs/2505.15776v1)|null|
+|**2025-05-21 17:27:42**|**ConvSearch-R1: Enhancing Query Reformulation for Conversational Search   with Reasoning via Reinforcement Learning**|Changtai Zhu et.al.|[2505.15776v1](http://arxiv.org/abs/2505.15776v1)|[link](https://github.com/BeastyZ/ConvSearch-R1)|
 |**2025-05-21 15:21:56**|**A Simple Approximation Algorithm for Optimal Decision Tree**|Zhengjia Zhuo et.al.|[2505.15641v1](http://arxiv.org/abs/2505.15641v1)|null|
 |**2025-05-21 15:03:26**|**Learn to Reason Efficiently with Adaptive Length-based Reward Shaping**|Wei Liu et.al.|[2505.15612v1](http://arxiv.org/abs/2505.15612v1)|[link](https://github.com/hkust-nlp/laser)|
 |**2025-05-21 12:29:40**|**ViaRL: Adaptive Temporal Grounding via Visual Iterated Amplification   Reinforcement Learning**|Ziqiang Xu et.al.|[2505.15447v1](http://arxiv.org/abs/2505.15447v1)|null|
