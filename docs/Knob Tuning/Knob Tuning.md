@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-22 16:40:22**|**Bose-Einstein condensation in exotic lattice geometries**|Kamil Dutkiewicz et.al.|[2505.16885v1](http://arxiv.org/abs/2505.16885v1)|null|
-|**2025-05-19 16:21:17**|**A Family of Aperiodic Tilings with Tunable Quantum Geometric Tensor**|Hector Roche Carrasco et.al.|[2505.13304v1](http://arxiv.org/abs/2505.13304v1)|null|
+|**2025-05-19 16:21:17**|**A Family of Aperiodic Tilings with Tunable Quantum Geometric Tensor**|Hector Roche Carrasco et.al.|[2505.13304v2](http://arxiv.org/abs/2505.13304v2)|null|
 |**2025-05-16 14:41:57**|**On the Role of Weight Decay in Collaborative Filtering: A Popularity   Perspective**|Donald Loveland et.al.|[2505.11318v1](http://arxiv.org/abs/2505.11318v1)|null|
 |**2025-05-13 21:43:17**|**Tuning the magnetic properties of spin-split antiferromagnet MnTe   through pressure**|Edison P. Carlisle et.al.|[2505.08979v1](http://arxiv.org/abs/2505.08979v1)|null|
 |**2025-05-11 16:53:34**|**The Dynamics of Inducible Genetic Circuits**|Zitao Yang et.al.|[2505.07053v1](http://arxiv.org/abs/2505.07053v1)|[link](https://github.com/RPGroup-PBoC/2025_inducers)|

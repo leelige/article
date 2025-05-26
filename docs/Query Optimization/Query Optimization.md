@@ -2,6 +2,13 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-23 16:43:03**|**Stable Reinforcement Learning for Efficient Reasoning**|Muzhi Dai et.al.|[2505.18086v1](http://arxiv.org/abs/2505.18086v1)|null|
+|**2025-05-23 12:15:23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for   Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796v1](http://arxiv.org/abs/2505.17796v1)|null|
+|**2025-05-23 10:58:22**|**Modeling Ranking Properties with In-Context Learning**|Nilanjan Sinhababu et.al.|[2505.17736v1](http://arxiv.org/abs/2505.17736v1)|null|
+|**2025-05-23 08:12:16**|**Dynamic Text Bundling Supervision for Zero-Shot Inference on   Text-Attributed Graphs**|Yusheng Zhao et.al.|[2505.17599v1](http://arxiv.org/abs/2505.17599v1)|null|
+|**2025-05-23 07:59:03**|**Worst-case complexity analysis of derivative-free methods for   multi-objective optimization**|Giampaolo Liuzzi et.al.|[2505.17594v1](http://arxiv.org/abs/2505.17594v1)|null|
+|**2025-05-23 06:30:12**|**Latent Imputation before Prediction: A New Computational Paradigm for De   Novo Peptide Sequencing**|Ye Du et.al.|[2505.17524v1](http://arxiv.org/abs/2505.17524v1)|[link](https://github.com/usr922/LIPNovo})|
+|**2025-05-23 02:01:15**|**Curriculum Guided Reinforcement Learning for Efficient Multi Hop   Retrieval Augmented Generation**|Yuelyu Ji et.al.|[2505.17391v1](http://arxiv.org/abs/2505.17391v1)|null|
 |**2025-05-22 17:27:40**|**Quasi-optimal hierarchically semi-separable matrix approximation**|Noah Amsel et.al.|[2505.16937v1](http://arxiv.org/abs/2505.16937v1)|null|
 |**2025-05-22 16:50:53**|**FlashBack: Consistency Model-Accelerated Shared Autonomy**|Luzhe Sun et.al.|[2505.16892v1](http://arxiv.org/abs/2505.16892v1)|null|
 |**2025-05-22 15:07:34**|**When Safety Detectors Aren't Enough: A Stealthy and Effective Jailbreak   Attack on LLMs via Steganographic Techniques**|Jianing Geng et.al.|[2505.16765v1](http://arxiv.org/abs/2505.16765v1)|null|
@@ -22,13 +29,6 @@
 |**2025-05-20 17:23:25**|**Think Only When You Need with Large Hybrid-Reasoning Models**|Lingjie Jiang et.al.|[2505.14631v2](http://arxiv.org/abs/2505.14631v2)|null|
 |**2025-05-20 15:54:48**|**$\texttt{LLINBO}$: Trustworthy LLM-in-the-Loop Bayesian Optimization**|Chih-Yu Chang et.al.|[2505.14756v1](http://arxiv.org/abs/2505.14756v1)|[link](https://github.com/umdatasciencelab/llm-in-the-loop-bo)|
 |**2025-05-20 15:01:55**|**Evaluating the Impact Of Spatial Features Of Mobility Data and Index   Choice On Database Performance**|Tim C. Rese et.al.|[2505.14466v1](http://arxiv.org/abs/2505.14466v1)|null|
-|**2025-05-20 14:39:34**|**Rank-K: Test-Time Reasoning for Listwise Reranking**|Eugene Yang et.al.|[2505.14432v1](http://arxiv.org/abs/2505.14432v1)|null|
+|**2025-05-20 14:39:34**|**Rank-K: Test-Time Reasoning for Listwise Reranking**|Eugene Yang et.al.|[2505.14432v1](http://arxiv.org/abs/2505.14432v1)|[link](https://github.com/hltcoe/rank-k)|
 |**2025-05-20 12:58:07**|**Studying the Role of Input-Neighbor Overlap in Retrieval-Augmented   Language Models Training Efficiency**|Ehsan Doostmohammadi et.al.|[2505.14309v1](http://arxiv.org/abs/2505.14309v1)|null|
 |**2025-05-20 12:55:10**|**JOLT-SQL: Joint Loss Tuning of Text-to-SQL with Confusion-aware Noisy   Schema Sampling**|Jinwang Song et.al.|[2505.14305v1](http://arxiv.org/abs/2505.14305v1)|[link](https://github.com/songjw133/joint-loss-tuning-of-text-to-sql)|
-|**2025-05-20 08:21:00**|**Process vs. Outcome Reward: Which is Better for Agentic RAG   Reinforcement Learning**|Wenlin Zhang et.al.|[2505.14069v2](http://arxiv.org/abs/2505.14069v2)|null|
-|**2025-05-19 21:53:13**|**Eudoxia: a FaaS scheduling simulator for the composable lakehouse**|Tapan Srivastava et.al.|[2505.13750v1](http://arxiv.org/abs/2505.13750v1)|null|
-|**2025-05-19 19:16:37**|**MAFA: A multi-agent framework for annotation**|Mahmood Hegazy et.al.|[2505.13668v1](http://arxiv.org/abs/2505.13668v1)|null|
-|**2025-05-19 17:24:16**|**Thinkless: LLM Learns When to Think**|Gongfan Fang et.al.|[2505.13379v1](http://arxiv.org/abs/2505.13379v1)|[link](https://github.com/vainf/thinkless)|
-|**2025-05-19 15:52:19**|**CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement   Learning**|Lei Sheng et.al.|[2505.13271v1](http://arxiv.org/abs/2505.13271v1)|[link](https://github.com/CycloneBoy/csc_sql)|
-|**2025-05-19 14:22:30**|**High-Rate Nested-Lattice Quantized Matrix Multiplication with Small   Lookup Tables**|Iris Kaplan et.al.|[2505.13164v1](http://arxiv.org/abs/2505.13164v1)|null|
-|**2025-05-19 14:03:36**|**A near-optimal Quadratic Goldreich-Levin algorithm**|Jop Briët et.al.|[2505.13134v1](http://arxiv.org/abs/2505.13134v1)|null|
