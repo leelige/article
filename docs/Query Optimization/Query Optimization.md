@@ -2,6 +2,21 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-26 13:41:06**|**Rethinking Probabilistic Circuit Parameter Learning**|Anji Liu et.al.|[2505.19982v1](http://arxiv.org/abs/2505.19982v1)|null|
+|**2025-05-26 13:26:56**|**Learning to Select In-Context Demonstration Preferred by Large Language   Model**|Zheng Zhang et.al.|[2505.19966v1](http://arxiv.org/abs/2505.19966v1)|null|
+|**2025-05-26 13:26:15**|**The Limits of Preference Data for Post-Training**|Eric Zhao et.al.|[2505.19964v1](http://arxiv.org/abs/2505.19964v1)|null|
+|**2025-05-26 12:44:53**|**A Unified Architecture for Efficient Binary and Worst-Case Optimal Join   Processing**|Amirali Kaboli et.al.|[2505.19918v1](http://arxiv.org/abs/2505.19918v1)|null|
+|**2025-05-26 11:48:32**|**CPA-RAG:Covert Poisoning Attacks on Retrieval-Augmented Generation in   Large Language Models**|Chunyang Li et.al.|[2505.19864v1](http://arxiv.org/abs/2505.19864v1)|null|
+|**2025-05-26 09:17:32**|**Accelerating Nash Learning from Human Feedback via Mirror Prox**|Daniil Tiapkin et.al.|[2505.19731v1](http://arxiv.org/abs/2505.19731v1)|null|
+|**2025-05-26 08:56:59**|**MLLM-Guided VLM Fine-Tuning with Joint Inference for Zero-Shot Composed   Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19707v1](http://arxiv.org/abs/2505.19707v1)|null|
+|**2025-05-26 06:13:07**|**Towards Multi-Granularity Memory Association and Selection for Long-Term   Conversational Agents**|Derong Xu et.al.|[2505.19549v1](http://arxiv.org/abs/2505.19549v1)|null|
+|**2025-05-26 02:32:22**|**Structure Disruption: Subverting Malicious Diffusion-Based Inpainting   via Self-Attention Query Perturbation**|Yuhao He et.al.|[2505.19425v1](http://arxiv.org/abs/2505.19425v1)|null|
+|**2025-05-25 20:34:12**|**Aligning Web Query Generation with Ranking Objectives via Direct   Preference Optimization**|João Coelho et.al.|[2505.19307v1](http://arxiv.org/abs/2505.19307v1)|null|
+|**2025-05-25 15:31:52**|**POQD: Performance-Oriented Query Decomposer for Multi-vector retrieval**|Yaoyang Liu et.al.|[2505.19189v1](http://arxiv.org/abs/2505.19189v1)|[link](https://github.com/PKU-SDS-lab/POQD-ICML25)|
+|**2025-05-25 09:38:23**|**Training-free Stylized Text-to-Image Generation with Fast Inference**|Xin Ma et.al.|[2505.19063v1](http://arxiv.org/abs/2505.19063v1)|null|
+|**2025-05-24 15:01:30**|**Reward-Driven Interaction: Enhancing Proactive Dialogue Agents through   User Satisfaction Prediction**|Wei Shen et.al.|[2505.18731v1](http://arxiv.org/abs/2505.18731v1)|null|
+|**2025-05-24 01:57:12**|**A Survey of LLM $\times$ DATA**|Xuanhe Zhou et.al.|[2505.18458v1](http://arxiv.org/abs/2505.18458v1)|null|
+|**2025-05-23 20:42:36**|**SchemaGraphSQL: Efficient Schema Linking with Pathfinding Graph   Algorithms for Text-to-SQL on Large-Scale Databases**|AmirHossein Safdarian et.al.|[2505.18363v1](http://arxiv.org/abs/2505.18363v1)|null|
 |**2025-05-23 16:43:03**|**Stable Reinforcement Learning for Efficient Reasoning**|Muzhi Dai et.al.|[2505.18086v1](http://arxiv.org/abs/2505.18086v1)|null|
 |**2025-05-23 12:15:23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for   Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796v1](http://arxiv.org/abs/2505.17796v1)|null|
 |**2025-05-23 10:58:22**|**Modeling Ranking Properties with In-Context Learning**|Nilanjan Sinhababu et.al.|[2505.17736v1](http://arxiv.org/abs/2505.17736v1)|null|
@@ -14,21 +29,6 @@
 |**2025-05-22 15:07:34**|**When Safety Detectors Aren't Enough: A Stealthy and Effective Jailbreak   Attack on LLMs via Steganographic Techniques**|Jianing Geng et.al.|[2505.16765v1](http://arxiv.org/abs/2505.16765v1)|null|
 |**2025-05-22 13:16:53**|**From Evaluation to Defense: Advancing Safety in Video Large Language   Models**|Yiwei Sun et.al.|[2505.16643v1](http://arxiv.org/abs/2505.16643v1)|null|
 |**2025-05-22 09:34:47**|**Implicit Jailbreak Attacks via Cross-Modal Information Concealment on   Vision-Language Models**|Zhaoxin Wang et.al.|[2505.16446v1](http://arxiv.org/abs/2505.16446v1)|null|
-|**2025-05-22 02:22:11**|**HASH-RAG: Bridging Deep Hashing with Retriever for Efficient, Fine   Retrieval and Augmented Generation**|Jinyu Guo et.al.|[2505.16133v1](http://arxiv.org/abs/2505.16133v1)|null|
+|**2025-05-22 02:22:11**|**HASH-RAG: Bridging Deep Hashing with Retriever for Efficient, Fine   Retrieval and Augmented Generation**|Jinyu Guo et.al.|[2505.16133v2](http://arxiv.org/abs/2505.16133v2)|null|
 |**2025-05-21 22:33:40**|**Aug2Search: Enhancing Facebook Marketplace Search with LLM-Generated   Synthetic Data Augmentation**|Ruijie Xi et.al.|[2505.16065v1](http://arxiv.org/abs/2505.16065v1)|null|
 |**2025-05-21 21:34:18**|**Causal LLM Routing: End-to-End Regret Minimization from Observational   Data**|Asterios Tsiourvas et.al.|[2505.16037v1](http://arxiv.org/abs/2505.16037v1)|null|
-|**2025-05-21 20:57:16**|**Ranking Free RAG: Replacing Re-ranking with Selection in RAG for   Sensitive Domains**|Yash Saxena et.al.|[2505.16014v1](http://arxiv.org/abs/2505.16014v1)|null|
-|**2025-05-21 17:59:41**|**Meta-Learning an In-Context Transformer Model of Human Higher Visual   Cortex**|Muquan Yu et.al.|[2505.15813v1](http://arxiv.org/abs/2505.15813v1)|null|
-|**2025-05-21 17:27:42**|**ConvSearch-R1: Enhancing Query Reformulation for Conversational Search   with Reasoning via Reinforcement Learning**|Changtai Zhu et.al.|[2505.15776v1](http://arxiv.org/abs/2505.15776v1)|[link](https://github.com/BeastyZ/ConvSearch-R1)|
-|**2025-05-21 15:21:56**|**A Simple Approximation Algorithm for Optimal Decision Tree**|Zhengjia Zhuo et.al.|[2505.15641v1](http://arxiv.org/abs/2505.15641v1)|null|
-|**2025-05-21 15:03:26**|**Learn to Reason Efficiently with Adaptive Length-based Reward Shaping**|Wei Liu et.al.|[2505.15612v1](http://arxiv.org/abs/2505.15612v1)|[link](https://github.com/hkust-nlp/laser)|
-|**2025-05-21 12:29:40**|**ViaRL: Adaptive Temporal Grounding via Visual Iterated Amplification   Reinforcement Learning**|Ziqiang Xu et.al.|[2505.15447v1](http://arxiv.org/abs/2505.15447v1)|null|
-|**2025-05-21 12:25:12**|**Single LLM, Multiple Roles: A Unified Retrieval-Augmented Generation   Framework Using Role-Specific Token Optimization**|Yutao Zhu et.al.|[2505.15444v1](http://arxiv.org/abs/2505.15444v1)|null|
-|**2025-05-21 12:11:53**|**Hunyuan-TurboS: Advancing Large Language Models through   Mamba-Transformer Synergy and Adaptive Chain-of-Thought**| Tencent Hunyuan Team et.al.|[2505.15431v2](http://arxiv.org/abs/2505.15431v2)|null|
-|**2025-05-21 07:41:16**|**Group Distributionally Robust Optimization with Flexible Sample Queries**|Haomin Bai et.al.|[2505.15212v1](http://arxiv.org/abs/2505.15212v1)|null|
-|**2025-05-20 17:23:25**|**Think Only When You Need with Large Hybrid-Reasoning Models**|Lingjie Jiang et.al.|[2505.14631v2](http://arxiv.org/abs/2505.14631v2)|null|
-|**2025-05-20 15:54:48**|**$\texttt{LLINBO}$: Trustworthy LLM-in-the-Loop Bayesian Optimization**|Chih-Yu Chang et.al.|[2505.14756v1](http://arxiv.org/abs/2505.14756v1)|[link](https://github.com/umdatasciencelab/llm-in-the-loop-bo)|
-|**2025-05-20 15:01:55**|**Evaluating the Impact Of Spatial Features Of Mobility Data and Index   Choice On Database Performance**|Tim C. Rese et.al.|[2505.14466v1](http://arxiv.org/abs/2505.14466v1)|null|
-|**2025-05-20 14:39:34**|**Rank-K: Test-Time Reasoning for Listwise Reranking**|Eugene Yang et.al.|[2505.14432v1](http://arxiv.org/abs/2505.14432v1)|[link](https://github.com/hltcoe/rank-k)|
-|**2025-05-20 12:58:07**|**Studying the Role of Input-Neighbor Overlap in Retrieval-Augmented   Language Models Training Efficiency**|Ehsan Doostmohammadi et.al.|[2505.14309v1](http://arxiv.org/abs/2505.14309v1)|null|
-|**2025-05-20 12:55:10**|**JOLT-SQL: Joint Loss Tuning of Text-to-SQL with Confusion-aware Noisy   Schema Sampling**|Jinwang Song et.al.|[2505.14305v1](http://arxiv.org/abs/2505.14305v1)|[link](https://github.com/songjw133/joint-loss-tuning-of-text-to-sql)|
