@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2025-05-28 16:13:31 Asia/Shanghai
+ 自动更新 @ 2025-05-29 16:13:38 Asia/Shanghai
 
 ## Bayesian Optimisation
 
@@ -19,7 +19,7 @@
 |**2025-03-31 13:01:59**|**TOPz: photometric redshifts using template fitting applied to GAMA   survey**|E. Tempel et.al.|[2503.24039v1](http://arxiv.org/abs/2503.24039v1)|null|
 |**2025-03-31 12:40:50**|**Bayesian Predictive Coding**|Alexander Tschantz et.al.|[2503.24016v1](http://arxiv.org/abs/2503.24016v1)|null|
 |**2025-03-24 11:24:37**|**A generalisable data-augmented turbulence model with progressive and   interpretable corrections**|Mario J. Rincón et.al.|[2503.18568v1](http://arxiv.org/abs/2503.18568v1)|[link](https://github.com/AUfluids/KOSSTPDA)|
-|**2025-03-21 14:35:29**|**Bayesian optimisation of poloidal field coil positions in tokamaks**|Timothy Nunn et.al.|[2503.17189v1](http://arxiv.org/abs/2503.17189v1)|null|
+|**2025-03-21 14:35:29**|**Bayesian optimisation of poloidal field coil positions in tokamaks**|Timothy Nunn et.al.|[2503.17189v2](http://arxiv.org/abs/2503.17189v2)|null|
 |**2025-03-20 23:11:30**|**SuperARC: An Agnostic Test for Narrow, General, and Super Intelligence   Based On the Principles of Recursive Compression and Algorithmic Probability**|Alberto Hernández-Espinosa et.al.|[2503.16743v3](http://arxiv.org/abs/2503.16743v3)|[link](https://github.com/AlgoDynLab/SuperintelligenceTest)|
 |**2025-03-20 21:09:38**|**Accelerated Medicines Development using a Digital Formulator and a   Self-Driving Tableting DataFactory**|Faisal Abbas et.al.|[2503.17411v1](http://arxiv.org/abs/2503.17411v1)|[link](https://gitlab.cis.strath.ac.uk/fmb22104/cmac-self-driving-tabletting-datafactory)|
 |**2025-03-19 15:27:24**|**Euclid Quick Data Release (Q1). LEMON -- Lens Modelling with Neural   networks. Automated and fast modelling of Euclid gravitational lenses with a   singular isothermal ellipsoid mass profile**| Euclid Collaboration et.al.|[2503.15329v1](http://arxiv.org/abs/2503.15329v1)|null|
@@ -42,6 +42,20 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-28 17:25:53**|**TPDE: A Fast Adaptable Compiler Back-End Framework**|Tobias Schwarz et.al.|[2505.22610v1](http://arxiv.org/abs/2505.22610v1)|null|
+|**2025-05-28 15:26:55**|**Non-Asymptotic Analysis of (Sticky) Track-and-Stop**|Riccardo Poiani et.al.|[2505.22475v1](http://arxiv.org/abs/2505.22475v1)|null|
+|**2025-05-28 14:53:53**|**Zero-Shot 3D Visual Grounding from Vision-Language Models**|Rong Li et.al.|[2505.22429v1](http://arxiv.org/abs/2505.22429v1)|null|
+|**2025-05-28 14:35:18**|**Quantum Search on Computation Trees**|Jevgēnijs Vihrovs et.al.|[2505.22405v1](http://arxiv.org/abs/2505.22405v1)|null|
+|**2025-05-28 14:03:02**|**Pangu Embedded: An Efficient Dual-system LLM Reasoner with Metacognition**|Hanting Chen et.al.|[2505.22375v1](http://arxiv.org/abs/2505.22375v1)|null|
+|**2025-05-28 13:41:00**|**Continuum-armed Bandit Optimization with Batch Pairwise Comparison   Oracles**|Xiangyu Chang et.al.|[2505.22361v1](http://arxiv.org/abs/2505.22361v1)|null|
+|**2025-05-28 12:37:09**|**Logical Consistency is Vital: Neural-Symbolic Information Retrieval for   Negative-Constraint Queries**|Ganlin Xu et.al.|[2505.22299v1](http://arxiv.org/abs/2505.22299v1)|[link](https://github.com/xgl-git/NS-IR-main)|
+|**2025-05-28 11:11:24**|**Optimal kernel regression bounds under energy-bounded noise**|Amon Lahr et.al.|[2505.22235v1](http://arxiv.org/abs/2505.22235v1)|null|
+|**2025-05-28 08:17:57**|**Learning to Route Queries Across Knowledge Bases for Step-wise   Retrieval-Augmented Reasoning**|Chunyi Peng et.al.|[2505.22095v1](http://arxiv.org/abs/2505.22095v1)|null|
+|**2025-05-28 06:30:51**|**VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich   Information Understanding via Iterative Reasoning with Reinforcement Learning**|Qiuchen Wang et.al.|[2505.22019v1](http://arxiv.org/abs/2505.22019v1)|[link](https://github.com/Alibaba-NLP/VRAG})|
+|**2025-05-28 04:09:49**|**Cross-modal RAG: Sub-dimensional Retrieval-Augmented Text-to-Image   Generation**|Mengdan Zhu et.al.|[2505.21956v1](http://arxiv.org/abs/2505.21956v1)|null|
+|**2025-05-28 02:55:28**|**Taming Transformer Without Using Learning Rate Warmup**|Xianbiao Qi et.al.|[2505.21910v1](http://arxiv.org/abs/2505.21910v1)|null|
+|**2025-05-28 00:30:22**|**Xinyu AI Search: Enhanced Relevance and Comprehensive Results with Rich   Answer Presentations**|Bo Tang et.al.|[2505.21849v1](http://arxiv.org/abs/2505.21849v1)|null|
+|**2025-05-27 18:47:33**|**R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised   and Reinforcement Learning**|Yongchao Chen et.al.|[2505.21668v1](http://arxiv.org/abs/2505.21668v1)|[link](https://github.com/yongchao98/R1-Code-Interpreterandhttps://huggingface.co/yongchao98)|
 |**2025-05-27 17:54:07**|**Hardware-Efficient Attention for Fast Decoding**|Ted Zadouri et.al.|[2505.21487v1](http://arxiv.org/abs/2505.21487v1)|null|
 |**2025-05-27 17:47:26**|**Algorithms and SQ Lower Bounds for Robustly Learning Real-valued   Multi-index Models**|Ilias Diakonikolas et.al.|[2505.21475v1](http://arxiv.org/abs/2505.21475v1)|null|
 |**2025-05-27 17:14:37**|**Towards Better Instruction Following Retrieval Models**|Yuchen Zhuang et.al.|[2505.21439v1](http://arxiv.org/abs/2505.21439v1)|null|
@@ -58,20 +72,6 @@
 |**2025-05-26 17:59:17**|**VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual   Tool Selection**|Zeyi Huang et.al.|[2505.20289v1](http://arxiv.org/abs/2505.20289v1)|null|
 |**2025-05-26 17:42:56**|**A distillation-teleportation protocol for fault-tolerant QRAM**|Alexander M. Dalzell et.al.|[2505.20265v1](http://arxiv.org/abs/2505.20265v1)|null|
 |**2025-05-26 13:41:06**|**Rethinking Probabilistic Circuit Parameter Learning**|Anji Liu et.al.|[2505.19982v1](http://arxiv.org/abs/2505.19982v1)|null|
-|**2025-05-26 13:26:56**|**Learning to Select In-Context Demonstration Preferred by Large Language   Model**|Zheng Zhang et.al.|[2505.19966v1](http://arxiv.org/abs/2505.19966v1)|null|
-|**2025-05-26 13:26:15**|**The Limits of Preference Data for Post-Training**|Eric Zhao et.al.|[2505.19964v1](http://arxiv.org/abs/2505.19964v1)|null|
-|**2025-05-26 12:44:53**|**A Unified Architecture for Efficient Binary and Worst-Case Optimal Join   Processing**|Amirali Kaboli et.al.|[2505.19918v1](http://arxiv.org/abs/2505.19918v1)|null|
-|**2025-05-26 11:48:32**|**CPA-RAG:Covert Poisoning Attacks on Retrieval-Augmented Generation in   Large Language Models**|Chunyang Li et.al.|[2505.19864v1](http://arxiv.org/abs/2505.19864v1)|null|
-|**2025-05-26 09:17:32**|**Accelerating Nash Learning from Human Feedback via Mirror Prox**|Daniil Tiapkin et.al.|[2505.19731v1](http://arxiv.org/abs/2505.19731v1)|null|
-|**2025-05-26 08:56:59**|**MLLM-Guided VLM Fine-Tuning with Joint Inference for Zero-Shot Composed   Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19707v1](http://arxiv.org/abs/2505.19707v1)|null|
-|**2025-05-26 06:13:07**|**Towards Multi-Granularity Memory Association and Selection for Long-Term   Conversational Agents**|Derong Xu et.al.|[2505.19549v1](http://arxiv.org/abs/2505.19549v1)|null|
-|**2025-05-26 02:32:22**|**Structure Disruption: Subverting Malicious Diffusion-Based Inpainting   via Self-Attention Query Perturbation**|Yuhao He et.al.|[2505.19425v1](http://arxiv.org/abs/2505.19425v1)|null|
-|**2025-05-25 20:34:12**|**Aligning Web Query Generation with Ranking Objectives via Direct   Preference Optimization**|João Coelho et.al.|[2505.19307v1](http://arxiv.org/abs/2505.19307v1)|null|
-|**2025-05-25 15:31:52**|**POQD: Performance-Oriented Query Decomposer for Multi-vector retrieval**|Yaoyang Liu et.al.|[2505.19189v1](http://arxiv.org/abs/2505.19189v1)|[link](https://github.com/PKU-SDS-lab/POQD-ICML25)|
-|**2025-05-25 09:38:23**|**Training-free Stylized Text-to-Image Generation with Fast Inference**|Xin Ma et.al.|[2505.19063v2](http://arxiv.org/abs/2505.19063v2)|null|
-|**2025-05-24 15:01:30**|**Reward-Driven Interaction: Enhancing Proactive Dialogue Agents through   User Satisfaction Prediction**|Wei Shen et.al.|[2505.18731v1](http://arxiv.org/abs/2505.18731v1)|null|
-|**2025-05-24 01:57:12**|**A Survey of LLM $\times$ DATA**|Xuanhe Zhou et.al.|[2505.18458v2](http://arxiv.org/abs/2505.18458v2)|null|
-|**2025-05-23 20:42:36**|**SchemaGraphSQL: Efficient Schema Linking with Pathfinding Graph   Algorithms for Text-to-SQL on Large-Scale Databases**|AmirHossein Safdarian et.al.|[2505.18363v1](http://arxiv.org/abs/2505.18363v1)|null|
 
 ## Knob Tuning
 
@@ -103,7 +103,7 @@
 |**2024-11-28 19:20:27**|**Diode effect in Fraunhofer patterns of disordered multi-terminal   Josephson junctions**|Luca Chirolli et.al.|[2411.19338v1](http://arxiv.org/abs/2411.19338v1)|null|
 |**2024-11-24 14:47:13**|**Less is More: Efficient Model Merging with Binary Task Switch**|Biqing Qi et.al.|[2412.00054v1](http://arxiv.org/abs/2412.00054v1)|null|
 |**2024-11-19 17:59:12**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast   LLM Inference**|Jiho Shin et.al.|[2411.12692v2](http://arxiv.org/abs/2411.12692v2)|null|
-|**2024-11-11 22:22:21**|**Controllable Context Sensitivity and the Knob Behind It**|Julian Minder et.al.|[2411.07404v2](http://arxiv.org/abs/2411.07404v2)|[link](https://github.com/kdu4108/context-vs-prior-finetuning)|
+|**2024-11-11 22:22:21**|**Controllable Context Sensitivity and the Knob Behind It**|Julian Minder et.al.|[2411.07404v3](http://arxiv.org/abs/2411.07404v3)|[link](https://github.com/kdu4108/context-vs-prior-finetuning)|
 |**2024-10-30 09:02:35**|**Coexistence of superconductivity and sliding polar metal state in HgPSe3**|Xiaohui Yu et.al.|[2410.22823v1](http://arxiv.org/abs/2410.22823v1)|null|
 |**2024-10-29 10:26:10**|**Dispersions and magnetism of strain-induced pseudo Landau levels in   Bernal-stacked bilayer graphene**|Tianyu Liu et.al.|[2410.21921v1](http://arxiv.org/abs/2410.21921v1)|null|
 |**2024-10-24 23:31:39**|**Inference time LLM alignment in single and multidomain preference   spectrum**|Sadat Shahriar et.al.|[2410.19206v1](http://arxiv.org/abs/2410.19206v1)|null|
