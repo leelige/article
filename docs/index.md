@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2025-05-30 16:13:09 Asia/Shanghai
+ 自动更新 @ 2025-05-31 16:11:54 Asia/Shanghai
 
 ## Bayesian Optimisation
 
