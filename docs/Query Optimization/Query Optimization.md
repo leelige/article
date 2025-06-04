@@ -2,6 +2,27 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-03 13:24:57**|**DGMO: Training-Free Audio Source Separation through Diffusion-Guided   Mask Optimization**|Geonyoung Lee et.al.|[2506.02858v1](http://arxiv.org/abs/2506.02858v1)|null|
+|**2025-06-03 12:32:56**|**A Learned Cost Model-based Cross-engine Optimizer for SQL Workloads**|András Strausz et.al.|[2506.02802v1](http://arxiv.org/abs/2506.02802v1)|null|
+|**2025-06-03 01:37:09**|**MISLEADER: Defending against Model Extraction with Ensembles of   Distilled Models**|Xueqi Cheng et.al.|[2506.02362v1](http://arxiv.org/abs/2506.02362v1)|[link](https://github.com/LabRAI/MISLEADER)|
+|**2025-06-02 21:48:12**|**Learning Optimal Posted Prices for a Unit-Demand Buyer**|Yifeng Teng et.al.|[2506.02284v1](http://arxiv.org/abs/2506.02284v1)|null|
+|**2025-06-02 21:38:21**|**ImpRAG: Retrieval-Augmented Generation with Implicit Queries**|Wenzheng Zhang et.al.|[2506.02279v1](http://arxiv.org/abs/2506.02279v1)|null|
+|**2025-06-02 18:00:41**|**Descriptive History Representations: Learning Representations by   Answering Questions**|Guy Tennenholtz et.al.|[2506.02125v1](http://arxiv.org/abs/2506.02125v1)|null|
+|**2025-06-02 12:16:48**|**VirnyFlow: A Design Space for Responsible Model Development**|Denys Herasymuk et.al.|[2506.01584v1](http://arxiv.org/abs/2506.01584v1)|null|
+|**2025-06-02 12:11:26**|**Bayes optimal learning of attention-indexed models**|Fabrizio Boncoraglio et.al.|[2506.01582v1](http://arxiv.org/abs/2506.01582v1)|null|
+|**2025-06-02 11:36:30**|**hqQUBO: A Hybrid-querying Quantum Optimization Model Validated with   16-qubits on an Ion Trap Quantum Computer for Life Science Applications**|Rong Chen et.al.|[2506.01559v1](http://arxiv.org/abs/2506.01559v1)|null|
+|**2025-06-02 03:08:07**|**ReFoCUS: Reinforcement-guided Frame Optimization for Contextual   Understanding**|Hosu Lee et.al.|[2506.01274v1](http://arxiv.org/abs/2506.01274v1)|null|
+|**2025-06-01 20:05:30**|**Earley-Driven Dynamic Pruning for Efficient Structured Decoding**|Xintong Sun et.al.|[2506.01151v1](http://arxiv.org/abs/2506.01151v1)|[link](https://github.com/Dan-wanna-M/formatron)|
+|**2025-06-01 15:14:58**|**IRT-Router: Effective and Interpretable Multi-LLM Routing via Item   Response Theory**|Wei Song et.al.|[2506.01048v1](http://arxiv.org/abs/2506.01048v1)|[link](https://github.com/Mercidaiha/IRT-Router)|
+|**2025-06-01 03:27:52**|**VecFlow: A High-Performance Vector Data Management System for   Filtered-Search on GPUs**|Jingyi Xi et.al.|[2506.00812v1](http://arxiv.org/abs/2506.00812v1)|[link](https://github.com/Supercomputing-System-AI-Lab/VecFlow)|
+|**2025-05-31 18:52:05**|**DeepRAG: Integrating Hierarchical Reasoning and Process Supervision for   Biomedical Multi-Hop QA**|Yuelyu Ji et.al.|[2506.00671v1](http://arxiv.org/abs/2506.00671v1)|null|
+|**2025-05-31 16:20:14**|**Improving Dialogue State Tracking through Combinatorial Search for   In-Context Examples**|Haesung Pyun et.al.|[2506.00622v2](http://arxiv.org/abs/2506.00622v2)|null|
+|**2025-05-31 12:19:35**|**Retrieval-Augmented Generation Systems for Intellectual Property via   Synthetic Multi-Angle Fine-tuning**|Runtao Ren et.al.|[2506.00527v1](http://arxiv.org/abs/2506.00527v1)|[link](https://github.com/renruntao/patent_rag)|
+|**2025-05-31 07:46:42**|**K-order Ranking Preference Optimization for Large Language Models**|Shihao Cai et.al.|[2506.00441v1](http://arxiv.org/abs/2506.00441v1)|[link](https://github.com/Lanyu0303/KPO)|
+|**2025-05-31 00:04:07**|**Active Learning via Regression Beyond Realizability**|Atul Ganju et.al.|[2506.00316v1](http://arxiv.org/abs/2506.00316v1)|null|
+|**2025-05-30 21:16:25**|**Whispers of Many Shores: Cultural Alignment through Collaborative   Cultural Expertise**|Shuai Feng et.al.|[2506.00242v1](http://arxiv.org/abs/2506.00242v1)|null|
+|**2025-05-30 20:07:07**|**Let Them Down Easy! Contextual Effects of LLM Guardrails on User   Perceptions and Preferences**|Mingqian Zheng et.al.|[2506.00195v1](http://arxiv.org/abs/2506.00195v1)|null|
+|**2025-05-30 18:11:58**|**Tradeoffs between Mistakes and ERM Oracle Calls in Online and   Transductive Online Learning**|Idan Attias et.al.|[2506.00135v1](http://arxiv.org/abs/2506.00135v1)|null|
 |**2025-05-30 15:16:19**|**Conformal Prediction for Zero-Shot Models**|Julio Silva-Rodríguez et.al.|[2505.24693v1](http://arxiv.org/abs/2505.24693v1)|null|
 |**2025-05-30 07:52:06**|**SSCard: Substring Cardinality Estimation using Suffix Tree-Guided   Learned FM-Index**|Yirui Zhan et.al.|[2505.24312v1](http://arxiv.org/abs/2505.24312v1)|null|
 |**2025-05-30 03:40:24**|**SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context   LLM Prefilling**|Xiaodong Ji et.al.|[2505.24179v1](http://arxiv.org/abs/2505.24179v1)|null|
@@ -11,24 +32,3 @@
 |**2025-05-29 17:22:00**|**Learning Compositional Functions with Transformers from Easy-to-Hard   Data**|Zixuan Wang et.al.|[2505.23683v1](http://arxiv.org/abs/2505.23683v1)|null|
 |**2025-05-29 17:17:29**|**Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds**|Aya Kayal et.al.|[2505.23673v1](http://arxiv.org/abs/2505.23673v1)|null|
 |**2025-05-29 15:31:28**|**Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in   Geo-Distributed Cloud Datacenters**|Hayden Moore et.al.|[2505.23554v1](http://arxiv.org/abs/2505.23554v1)|null|
-|**2025-05-29 14:26:46**|**EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and   Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions**|Xiaorui Wu et.al.|[2505.23473v2](http://arxiv.org/abs/2505.23473v2)|null|
-|**2025-05-29 05:59:24**|**HMAD: Advancing E2E Driving with Anchored Offset Proposals and   Simulation-Supervised Multi-target Scoring**|Bin Wang et.al.|[2505.23129v1](http://arxiv.org/abs/2505.23129v1)|null|
-|**2025-05-28 23:40:24**|**Generative Social Choice: The Next Generation**|Niclas Boehmer et.al.|[2505.22939v1](http://arxiv.org/abs/2505.22939v1)|null|
-|**2025-05-28 19:55:54**|**Preference Learning with Response Time**|Ayush Sawarni et.al.|[2505.22820v1](http://arxiv.org/abs/2505.22820v1)|null|
-|**2025-05-28 17:25:53**|**TPDE: A Fast Adaptable Compiler Back-End Framework**|Tobias Schwarz et.al.|[2505.22610v1](http://arxiv.org/abs/2505.22610v1)|[link](https://github.com/tpde2/tpde)|
-|**2025-05-28 15:26:55**|**Non-Asymptotic Analysis of (Sticky) Track-and-Stop**|Riccardo Poiani et.al.|[2505.22475v1](http://arxiv.org/abs/2505.22475v1)|null|
-|**2025-05-28 14:53:53**|**Zero-Shot 3D Visual Grounding from Vision-Language Models**|Rong Li et.al.|[2505.22429v1](http://arxiv.org/abs/2505.22429v1)|null|
-|**2025-05-28 14:35:18**|**Quantum Search on Computation Trees**|Jevgēnijs Vihrovs et.al.|[2505.22405v1](http://arxiv.org/abs/2505.22405v1)|null|
-|**2025-05-28 14:03:02**|**Pangu Embedded: An Efficient Dual-system LLM Reasoner with Metacognition**|Hanting Chen et.al.|[2505.22375v2](http://arxiv.org/abs/2505.22375v2)|null|
-|**2025-05-28 13:41:00**|**Continuum-armed Bandit Optimization with Batch Pairwise Comparison   Oracles**|Xiangyu Chang et.al.|[2505.22361v1](http://arxiv.org/abs/2505.22361v1)|null|
-|**2025-05-28 12:37:09**|**Logical Consistency is Vital: Neural-Symbolic Information Retrieval for   Negative-Constraint Queries**|Ganlin Xu et.al.|[2505.22299v2](http://arxiv.org/abs/2505.22299v2)|[link](https://github.com/xgl-git/ns-ir-main)|
-|**2025-05-28 11:11:24**|**Optimal kernel regression bounds under energy-bounded noise**|Amon Lahr et.al.|[2505.22235v1](http://arxiv.org/abs/2505.22235v1)|null|
-|**2025-05-28 08:17:57**|**Learning to Route Queries Across Knowledge Bases for Step-wise   Retrieval-Augmented Reasoning**|Chunyi Peng et.al.|[2505.22095v1](http://arxiv.org/abs/2505.22095v1)|null|
-|**2025-05-28 06:30:51**|**VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich   Information Understanding via Iterative Reasoning with Reinforcement Learning**|Qiuchen Wang et.al.|[2505.22019v1](http://arxiv.org/abs/2505.22019v1)|[link](https://github.com/Alibaba-NLP/VRAG})|
-|**2025-05-28 04:09:49**|**Cross-modal RAG: Sub-dimensional Retrieval-Augmented Text-to-Image   Generation**|Mengdan Zhu et.al.|[2505.21956v2](http://arxiv.org/abs/2505.21956v2)|[link](https://github.com/mengdanzhu/cross-modal-rag)|
-|**2025-05-28 02:55:28**|**Taming Transformer Without Using Learning Rate Warmup**|Xianbiao Qi et.al.|[2505.21910v1](http://arxiv.org/abs/2505.21910v1)|null|
-|**2025-05-28 00:30:22**|**Xinyu AI Search: Enhanced Relevance and Comprehensive Results with Rich   Answer Presentations**|Bo Tang et.al.|[2505.21849v1](http://arxiv.org/abs/2505.21849v1)|null|
-|**2025-05-27 18:47:33**|**R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised   and Reinforcement Learning**|Yongchao Chen et.al.|[2505.21668v1](http://arxiv.org/abs/2505.21668v1)|[link](https://github.com/yongchao98/r1-code-interpreter)|
-|**2025-05-27 17:54:07**|**Hardware-Efficient Attention for Fast Decoding**|Ted Zadouri et.al.|[2505.21487v1](http://arxiv.org/abs/2505.21487v1)|null|
-|**2025-05-27 17:47:26**|**Algorithms and SQ Lower Bounds for Robustly Learning Real-valued   Multi-index Models**|Ilias Diakonikolas et.al.|[2505.21475v1](http://arxiv.org/abs/2505.21475v1)|null|
-|**2025-05-27 17:14:37**|**Towards Better Instruction Following Retrieval Models**|Yuchen Zhuang et.al.|[2505.21439v1](http://arxiv.org/abs/2505.21439v1)|null|
