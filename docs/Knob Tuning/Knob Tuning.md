@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-04 15:15:23**|**WANDER: An Explainable Decision-Support Framework for HPC**|Ankur Lahiry et.al.|[2506.04049v1](http://arxiv.org/abs/2506.04049v1)|null|
 |**2025-06-02 16:00:16**|**Inductive-Effect-Driven Tunability of Magnetism and Lumines-cence in   Triangular Layers ANd(SO4)2 (A = Rb, Cs)**|Xudong Huai et.al.|[2506.01818v1](http://arxiv.org/abs/2506.01818v1)|null|
 |**2025-05-29 18:07:36**|**Simplifying Bayesian Optimization Via In-Context Direct Optimum Sampling**|Gustavo Sutter Pessurno de Carvalho et.al.|[2505.23913v1](http://arxiv.org/abs/2505.23913v1)|null|
 |**2025-05-22 16:40:22**|**Bose-Einstein condensation in exotic lattice geometries**|Kamil Dutkiewicz et.al.|[2505.16885v1](http://arxiv.org/abs/2505.16885v1)|null|
@@ -31,4 +32,3 @@
 |**2024-11-19 17:59:12**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast   LLM Inference**|Jiho Shin et.al.|[2411.12692v2](http://arxiv.org/abs/2411.12692v2)|null|
 |**2024-11-11 22:22:21**|**Controllable Context Sensitivity and the Knob Behind It**|Julian Minder et.al.|[2411.07404v4](http://arxiv.org/abs/2411.07404v4)|[link](https://github.com/kdu4108/context-vs-prior-finetuning)|
 |**2024-10-30 09:02:35**|**Coexistence of superconductivity and sliding polar metal state in HgPSe3**|Xiaohui Yu et.al.|[2410.22823v1](http://arxiv.org/abs/2410.22823v1)|null|
-|**2024-10-29 10:26:10**|**Dispersions and magnetism of strain-induced pseudo Landau levels in   Bernal-stacked bilayer graphene**|Tianyu Liu et.al.|[2410.21921v1](http://arxiv.org/abs/2410.21921v1)|null|

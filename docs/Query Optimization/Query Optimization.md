@@ -2,6 +2,12 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-04 17:48:38**|**Cascadia: A Cascade Serving System for Large Language Models**|Youhe Jiang et.al.|[2506.04203v1](http://arxiv.org/abs/2506.04203v1)|null|
+|**2025-06-04 15:46:15**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for   Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086v1](http://arxiv.org/abs/2506.04086v1)|null|
+|**2025-06-04 12:16:41**|**RadialRouter: Structured Representation for Efficient and Robust Large   Language Models Routing**|Ruihan Jin et.al.|[2506.03880v1](http://arxiv.org/abs/2506.03880v1)|null|
+|**2025-06-04 10:57:18**|**Multi-objective Aligned Bidword Generation Model for E-commerce Search   Advertising**|Zhenhui Liu et.al.|[2506.03827v1](http://arxiv.org/abs/2506.03827v1)|null|
+|**2025-06-04 08:04:58**|**BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in   Multi-Modal Semantic Segmentation**|Jialei Chen et.al.|[2506.03675v1](http://arxiv.org/abs/2506.03675v1)|null|
+|**2025-06-03 22:37:37**|**Quake: Adaptive Indexing for Vector Search**|Jason Mohoney et.al.|[2506.03437v1](http://arxiv.org/abs/2506.03437v1)|null|
 |**2025-06-03 13:24:57**|**DGMO: Training-Free Audio Source Separation through Diffusion-Guided   Mask Optimization**|Geonyoung Lee et.al.|[2506.02858v1](http://arxiv.org/abs/2506.02858v1)|null|
 |**2025-06-03 12:32:56**|**A Learned Cost Model-based Cross-engine Optimizer for SQL Workloads**|András Strausz et.al.|[2506.02802v1](http://arxiv.org/abs/2506.02802v1)|null|
 |**2025-06-03 01:37:09**|**MISLEADER: Defending against Model Extraction with Ensembles of   Distilled Models**|Xueqi Cheng et.al.|[2506.02362v1](http://arxiv.org/abs/2506.02362v1)|[link](https://github.com/LabRAI/MISLEADER)|
@@ -26,9 +32,3 @@
 |**2025-05-30 15:16:19**|**Conformal Prediction for Zero-Shot Models**|Julio Silva-Rodríguez et.al.|[2505.24693v1](http://arxiv.org/abs/2505.24693v1)|null|
 |**2025-05-30 07:52:06**|**SSCard: Substring Cardinality Estimation using Suffix Tree-Guided   Learned FM-Index**|Yirui Zhan et.al.|[2505.24312v1](http://arxiv.org/abs/2505.24312v1)|null|
 |**2025-05-30 03:40:24**|**SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context   LLM Prefilling**|Xiaodong Ji et.al.|[2505.24179v1](http://arxiv.org/abs/2505.24179v1)|null|
-|**2025-05-30 03:04:28**|**Threading Keyframe with Narratives: MLLMs as Strong Long Video   Comprehenders**|Bo Fang et.al.|[2505.24158v1](http://arxiv.org/abs/2505.24158v1)|null|
-|**2025-05-30 00:23:01**|**Practical Bayes-Optimal Membership Inference Attacks**|Marcus Lassila et.al.|[2505.24089v1](http://arxiv.org/abs/2505.24089v1)|null|
-|**2025-05-29 21:58:06**|**DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models**|Chenbin Pan et.al.|[2505.24025v1](http://arxiv.org/abs/2505.24025v1)|null|
-|**2025-05-29 17:22:00**|**Learning Compositional Functions with Transformers from Easy-to-Hard   Data**|Zixuan Wang et.al.|[2505.23683v1](http://arxiv.org/abs/2505.23683v1)|null|
-|**2025-05-29 17:17:29**|**Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds**|Aya Kayal et.al.|[2505.23673v1](http://arxiv.org/abs/2505.23673v1)|null|
-|**2025-05-29 15:31:28**|**Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in   Geo-Distributed Cloud Datacenters**|Hayden Moore et.al.|[2505.23554v1](http://arxiv.org/abs/2505.23554v1)|null|
