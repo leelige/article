@@ -2,7 +2,7 @@
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-04 12:52:53**|**FLIP: Flowability-Informed Powder Weighing**|Nikola Radulov et.al.|[2506.03896v1](http://arxiv.org/abs/2506.03896v1)|null|
+|**2025-06-04 12:52:53**|**FLIP: Flowability-Informed Powder Weighing**|Nikola Radulov et.al.|[2506.03896v2](http://arxiv.org/abs/2506.03896v2)|null|
 |**2025-06-03 17:12:21**|**Modelling the Effects of Hearing Loss on Neural Coding in the Auditory   Midbrain with Variational Conditioning**|Lloyd Pellatt et.al.|[2506.03088v1](http://arxiv.org/abs/2506.03088v1)|null|
 |**2025-05-30 15:11:52**|**Soft Reasoning: Navigating Solution Spaces in Large Language Models   through Controlled Embedding Exploration**|Qinglin Zhu et.al.|[2505.24688v2](http://arxiv.org/abs/2505.24688v2)|null|
 |**2025-05-23 14:33:20**|**A Principled Bayesian Framework for Training Binary and Spiking Neural   Networks**|James A. Walker et.al.|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|null|
