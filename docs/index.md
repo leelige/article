@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2025-06-07 16:11:31 Asia/Shanghai
+ 自动更新 @ 2025-06-08 16:11:56 Asia/Shanghai
 
 ## Query Optimization
 
