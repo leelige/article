@@ -2,6 +2,7 @@
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-09 12:17:19**|**Rao-Blackwellised Reparameterisation Gradients**|Kevin Lam et.al.|[2506.07687v1](http://arxiv.org/abs/2506.07687v1)|null|
 |**2025-06-04 12:52:53**|**FLIP: Flowability-Informed Powder Weighing**|Nikola Radulov et.al.|[2506.03896v2](http://arxiv.org/abs/2506.03896v2)|null|
 |**2025-06-03 17:12:21**|**Modelling the Effects of Hearing Loss on Neural Coding in the Auditory   Midbrain with Variational Conditioning**|Lloyd Pellatt et.al.|[2506.03088v1](http://arxiv.org/abs/2506.03088v1)|null|
 |**2025-05-30 15:11:52**|**Soft Reasoning: Navigating Solution Spaces in Large Language Models   through Controlled Embedding Exploration**|Qinglin Zhu et.al.|[2505.24688v2](http://arxiv.org/abs/2505.24688v2)|null|
@@ -31,4 +32,3 @@
 |**2025-02-18 15:42:05**|**A measure-valued HJB perspective on Bayesian optimal adaptive control**|Alexander M. G. Cox et.al.|[2502.12957v1](http://arxiv.org/abs/2502.12957v1)|null|
 |**2025-02-17 20:34:29**|**Mean-Field Bayesian Optimisation**|Petar Steinberg et.al.|[2502.12315v1](http://arxiv.org/abs/2502.12315v1)|[link](https://github.com/petarsteinberg/mf-bo)|
 |**2025-01-27 17:23:52**|**Analog QAOA with Bayesian Optimisation on a neutral atom QPU**|Simone Tibaldi et.al.|[2501.16229v1](http://arxiv.org/abs/2501.16229v1)|null|
-|**2025-01-18 20:18:48**|**QGAPHEnsemble : Combining Hybrid QLSTM Network Ensemble via Adaptive   Weighting for Short Term Weather Forecasting**|Anuvab Sen et.al.|[2501.10866v1](http://arxiv.org/abs/2501.10866v1)|null|

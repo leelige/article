@@ -19,6 +19,7 @@
 |**2025-03-25 22:04:33**|**Drops on architected elastic substrates: A repertoire of regimes at the   turn of a knob**|Sergio Santos et.al.|[2503.20091v1](http://arxiv.org/abs/2503.20091v1)|null|
 |**2025-03-17 03:14:10**|**Engineering robust strain transmission in van der Waals heterostructure   devices**|John Cenker et.al.|[2503.12773v1](http://arxiv.org/abs/2503.12773v1)|null|
 |**2025-03-08 18:25:27**|**Driven Magnon-Photon System as a Tunable Quantum Heat Rectifier**|C. O. Edet et.al.|[2503.06301v1](http://arxiv.org/abs/2503.06301v1)|null|
+|**2025-03-05 18:06:08**|**Discovery of magnetic-field-tunable density waves in a layered   altermagnet**|Christopher Candelora et.al.|[2503.03716v2](http://arxiv.org/abs/2503.03716v2)|null|
 |**2025-03-02 10:17:47**|**Electrical switching of Chern insulators in moire rhombohedral   heptalayer graphene**|Zhiyu Wang et.al.|[2503.00837v2](http://arxiv.org/abs/2503.00837v2)|null|
 |**2025-02-20 04:01:49**|**Poincaré sphere engineering of dynamical ferroelectric topological   solitons**|Lingyuan Gao et.al.|[2502.14236v1](http://arxiv.org/abs/2502.14236v1)|null|
 |**2025-02-19 19:39:12**|**Towards a global phase diagram of Ce-based dipolar-octupolar pyrochlore   magnets under magnetic fields**|Zhengbang Zhou et.al.|[2502.14067v2](http://arxiv.org/abs/2502.14067v2)|null|
@@ -31,4 +32,3 @@
 |**2024-11-24 14:47:13**|**Less is More: Efficient Model Merging with Binary Task Switch**|Biqing Qi et.al.|[2412.00054v1](http://arxiv.org/abs/2412.00054v1)|null|
 |**2024-11-19 17:59:12**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast   LLM Inference**|Jiho Shin et.al.|[2411.12692v2](http://arxiv.org/abs/2411.12692v2)|null|
 |**2024-11-11 22:22:21**|**Controllable Context Sensitivity and the Knob Behind It**|Julian Minder et.al.|[2411.07404v4](http://arxiv.org/abs/2411.07404v4)|[link](https://github.com/kdu4108/context-vs-prior-finetuning)|
-|**2024-10-30 09:02:35**|**Coexistence of superconductivity and sliding polar metal state in HgPSe3**|Xiaohui Yu et.al.|[2410.22823v1](http://arxiv.org/abs/2410.22823v1)|null|
