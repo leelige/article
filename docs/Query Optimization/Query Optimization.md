@@ -2,6 +2,16 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-10 17:56:45**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via   Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033v1](http://arxiv.org/abs/2506.09033v1)|[link](https://github.com/ulab-uiuc/Router-R1)|
+|**2025-06-10 16:52:31**|**On Finetuning Tabular Foundation Models**|Ivan Rubachev et.al.|[2506.08982v1](http://arxiv.org/abs/2506.08982v1)|null|
+|**2025-06-10 16:37:39**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language   Model**|Ailin Huang et.al.|[2506.08967v1](http://arxiv.org/abs/2506.08967v1)|null|
+|**2025-06-10 15:17:26**|**SeerAttention-R: Sparse Attention Adaptation for Long Reasoning**|Yizhao Gao et.al.|[2506.08889v1](http://arxiv.org/abs/2506.08889v1)|[link](https://github.com/microsoft/SeerAttention)|
+|**2025-06-10 12:55:07**|**Enhancing Accuracy and Maintainability in Nuclear Plant Data Retrieval:   A Function-Calling LLM Approach Over NL-to-SQL**|Mishca de Costa et.al.|[2506.08757v1](http://arxiv.org/abs/2506.08757v1)|null|
+|**2025-06-10 07:04:25**|**MasHost Builds It All: Autonomous Multi-Agent System Directed by   Reinforcement Learning**|Kuo Yang et.al.|[2506.08507v1](http://arxiv.org/abs/2506.08507v1)|null|
+|**2025-06-10 06:11:01**|**Efficient Context Selection for Long-Context QA: No Tuning, No   Iteration, Just Adaptive-$k$**|Chihiro Taguchi et.al.|[2506.08479v1](http://arxiv.org/abs/2506.08479v1)|null|
+|**2025-06-10 03:22:49**|**Optimal Graph Reconstruction by Counting Connected Components in Induced   Subgraphs**|Hadley Black et.al.|[2506.08405v1](http://arxiv.org/abs/2506.08405v1)|null|
+|**2025-06-10 02:46:05**|**NAM: A Normalization Attention Model for Personalized Product Search In   Fliggy**|Shui Liu et.al.|[2506.08382v1](http://arxiv.org/abs/2506.08382v1)|null|
+|**2025-06-10 02:09:57**|**Reinforcement Fine-Tuning for Reasoning towards Multi-Step Multi-Source   Search in Large Language Models**|Wentao Shi et.al.|[2506.08352v1](http://arxiv.org/abs/2506.08352v1)|[link](https://github.com/wentao0429/Reasoning-search)|
 |**2025-06-09 13:08:59**|**Optimal quantum sampling on distributed databases**|Longyun Chen et.al.|[2506.07724v1](http://arxiv.org/abs/2506.07724v1)|null|
 |**2025-06-09 11:51:27**|**QUITE: A Query Rewrite System Beyond Rules with LLM Agents**|Yuyang Song et.al.|[2506.07675v1](http://arxiv.org/abs/2506.07675v1)|null|
 |**2025-06-09 08:46:56**|**Quantum Information-Theoretical Size Bounds for Conjunctive Queries with   Functional Dependencies**|Valter Uotila et.al.|[2506.07552v1](http://arxiv.org/abs/2506.07552v1)|null|
@@ -22,13 +32,3 @@
 |**2025-06-06 03:09:39**|**Multi-Project Contracts**|Tal Alon et.al.|[2506.05705v1](http://arxiv.org/abs/2506.05705v1)|null|
 |**2025-06-05 18:40:33**|**On Differential Privacy for Adaptively Solving Search Problems via   Sketching**|Shiyuan Feng et.al.|[2506.05503v1](http://arxiv.org/abs/2506.05503v1)|null|
 |**2025-06-05 18:26:14**|**Conformal Prediction Beyond the Seen: A Missing Mass Perspective for   Uncertainty Quantification in Generative Models**|Sima Noorani et.al.|[2506.05497v1](http://arxiv.org/abs/2506.05497v1)|null|
-|**2025-06-05 16:14:57**|**Trustworthiness Preservation by Copies of Machine Learning Systems**|Leonardo Ceragioli et.al.|[2506.05203v1](http://arxiv.org/abs/2506.05203v1)|null|
-|**2025-06-05 16:11:57**|**Grounding Beyond Detection: Enhancing Contextual Understanding in   Embodied 3D Grounding**|Yani Zhang et.al.|[2506.05199v1](http://arxiv.org/abs/2506.05199v1)|[link](https://github.com/zyn213/DEGround)|
-|**2025-06-05 13:06:01**|**Towards Storage-Efficient Visual Document Retrieval: An Empirical Study   on Reducing Patch-Level Embeddings**|Yubo Ma et.al.|[2506.04997v1](http://arxiv.org/abs/2506.04997v1)|null|
-|**2025-06-05 08:47:15**|**HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular   Visual Place Recognition**|Suhan Woo et.al.|[2506.04764v1](http://arxiv.org/abs/2506.04764v1)|[link](https://github.com/suhan-woo/HypeVPR.git)|
-|**2025-06-05 08:27:34**|**Multi-Layer GRPO: Enhancing Reasoning and Self-Correction in Large   Language Models**|Fei Ding et.al.|[2506.04746v1](http://arxiv.org/abs/2506.04746v1)|null|
-|**2025-06-05 00:42:44**|**Identity Testing for Circuits with Exponentiation Gates**|Jiatu Li et.al.|[2506.04529v1](http://arxiv.org/abs/2506.04529v1)|null|
-|**2025-06-04 17:48:38**|**Cascadia: A Cascade Serving System for Large Language Models**|Youhe Jiang et.al.|[2506.04203v1](http://arxiv.org/abs/2506.04203v1)|null|
-|**2025-06-04 15:46:15**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for   Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086v2](http://arxiv.org/abs/2506.04086v2)|null|
-|**2025-06-04 12:16:41**|**RadialRouter: Structured Representation for Efficient and Robust Large   Language Models Routing**|Ruihan Jin et.al.|[2506.03880v1](http://arxiv.org/abs/2506.03880v1)|null|
-|**2025-06-04 10:57:18**|**Multi-objective Aligned Bidword Generation Model for E-commerce Search   Advertising**|Zhenhui Liu et.al.|[2506.03827v1](http://arxiv.org/abs/2506.03827v1)|null|

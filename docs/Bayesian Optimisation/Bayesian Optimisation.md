@@ -2,6 +2,7 @@
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-10 08:31:35**|**The Roles of Low-Noise Stations, Arrays and Ocean-Bottom Seismometers in   Monitoring UK Offshore Seismicity associated with Subsurface Storage of   Carbon Dioxide**|Dominik Strutz et.al.|[2506.08560v1](http://arxiv.org/abs/2506.08560v1)|null|
 |**2025-06-09 12:17:19**|**Rao-Blackwellised Reparameterisation Gradients**|Kevin Lam et.al.|[2506.07687v1](http://arxiv.org/abs/2506.07687v1)|null|
 |**2025-06-04 12:52:53**|**FLIP: Flowability-Informed Powder Weighing**|Nikola Radulov et.al.|[2506.03896v2](http://arxiv.org/abs/2506.03896v2)|null|
 |**2025-06-03 17:12:21**|**Modelling the Effects of Hearing Loss on Neural Coding in the Auditory   Midbrain with Variational Conditioning**|Lloyd Pellatt et.al.|[2506.03088v1](http://arxiv.org/abs/2506.03088v1)|null|
@@ -31,4 +32,3 @@
 |**2025-02-18 19:22:15**|**Systematic Bayesian Optimization for Atomic Structure Calculations of   Heavy Elements**|Ricardo Ferreira da Silva et.al.|[2502.13250v2](http://arxiv.org/abs/2502.13250v2)|null|
 |**2025-02-18 15:42:05**|**A measure-valued HJB perspective on Bayesian optimal adaptive control**|Alexander M. G. Cox et.al.|[2502.12957v1](http://arxiv.org/abs/2502.12957v1)|null|
 |**2025-02-17 20:34:29**|**Mean-Field Bayesian Optimisation**|Petar Steinberg et.al.|[2502.12315v1](http://arxiv.org/abs/2502.12315v1)|[link](https://github.com/petarsteinberg/mf-bo)|
-|**2025-01-27 17:23:52**|**Analog QAOA with Bayesian Optimisation on a neutral atom QPU**|Simone Tibaldi et.al.|[2501.16229v1](http://arxiv.org/abs/2501.16229v1)|null|
