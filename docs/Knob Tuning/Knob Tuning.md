@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-12 17:59:51**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978v1](http://arxiv.org/abs/2506.10978v1)|null|
 |**2025-06-04 15:15:23**|**WANDER: An Explainable Decision-Support Framework for HPC**|Ankur Lahiry et.al.|[2506.04049v1](http://arxiv.org/abs/2506.04049v1)|null|
 |**2025-06-02 16:00:16**|**Inductive-Effect-Driven Tunability of Magnetism and Lumines-cence in   Triangular Layers ANd(SO4)2 (A = Rb, Cs)**|Xudong Huai et.al.|[2506.01818v1](http://arxiv.org/abs/2506.01818v1)|null|
 |**2025-05-29 18:07:36**|**Simplifying Bayesian Optimization Via In-Context Direct Optimum Sampling**|Gustavo Sutter Pessurno de Carvalho et.al.|[2505.23913v1](http://arxiv.org/abs/2505.23913v1)|null|
@@ -31,4 +32,3 @@
 |**2024-11-28 19:20:27**|**Diode effect in Fraunhofer patterns of disordered multi-terminal   Josephson junctions**|Luca Chirolli et.al.|[2411.19338v1](http://arxiv.org/abs/2411.19338v1)|null|
 |**2024-11-24 14:47:13**|**Less is More: Efficient Model Merging with Binary Task Switch**|Biqing Qi et.al.|[2412.00054v1](http://arxiv.org/abs/2412.00054v1)|null|
 |**2024-11-19 17:59:12**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast   LLM Inference**|Jiho Shin et.al.|[2411.12692v2](http://arxiv.org/abs/2411.12692v2)|null|
-|**2024-11-11 22:22:21**|**Controllable Context Sensitivity and the Knob Behind It**|Julian Minder et.al.|[2411.07404v4](http://arxiv.org/abs/2411.07404v4)|[link](https://github.com/kdu4108/context-vs-prior-finetuning)|

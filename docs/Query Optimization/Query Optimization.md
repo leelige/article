@@ -2,12 +2,19 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-12 07:23:07**|**PAL: Probing Audio Encoders via LLMs -- A Study of Information Transfer   from Audio Encoders to LLMs**|Tony Alex et.al.|[2506.10423v1](http://arxiv.org/abs/2506.10423v1)|null|
+|**2025-06-12 07:21:54**|**A Hybrid Heuristic Framework for Resource-Efficient Querying of   Scientific Experiments Data**|Mayank Patel et.al.|[2506.10422v1](http://arxiv.org/abs/2506.10422v1)|null|
+|**2025-06-11 23:43:58**|**A Unifying Algorithm for Hierarchical Queries**|Mahmoud Abo Khamis et.al.|[2506.10238v1](http://arxiv.org/abs/2506.10238v1)|null|
+|**2025-06-11 14:15:18**|**Inverting Black-Box Face Recognition Systems via Zero-Order Optimization   in Eigenface Space**|Anton Razzhigaev et.al.|[2506.09777v1](http://arxiv.org/abs/2506.09777v1)|null|
+|**2025-06-11 08:27:16**|**Efficient Preference-Based Reinforcement Learning: Randomized   Exploration Meets Experimental Design**|Andreas Schlaginhaufen et.al.|[2506.09508v1](http://arxiv.org/abs/2506.09508v1)|null|
+|**2025-06-11 03:06:41**|**DAVSP: Safety Alignment for Large Vision-Language Models via Deep   Aligned Visual Safety Prompt**|Yitong Zhang et.al.|[2506.09353v1](http://arxiv.org/abs/2506.09353v1)|[link](https://github.com/zhangyitonggg/DAVSP)|
 |**2025-06-10 17:56:45**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via   Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033v1](http://arxiv.org/abs/2506.09033v1)|[link](https://github.com/ulab-uiuc/Router-R1)|
-|**2025-06-10 16:52:31**|**On Finetuning Tabular Foundation Models**|Ivan Rubachev et.al.|[2506.08982v1](http://arxiv.org/abs/2506.08982v1)|null|
+|**2025-06-10 16:52:31**|**On Finetuning Tabular Foundation Models**|Ivan Rubachev et.al.|[2506.08982v2](http://arxiv.org/abs/2506.08982v2)|[link](https://github.com/yandex-research/tabpfn-finetuning)|
 |**2025-06-10 16:37:39**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language   Model**|Ailin Huang et.al.|[2506.08967v1](http://arxiv.org/abs/2506.08967v1)|null|
+|**2025-06-10 16:32:05**|**MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient   Fine-Tuning**|Javier Lopez-Piqueres et.al.|[2506.09105v1](http://arxiv.org/abs/2506.09105v1)|null|
 |**2025-06-10 15:17:26**|**SeerAttention-R: Sparse Attention Adaptation for Long Reasoning**|Yizhao Gao et.al.|[2506.08889v1](http://arxiv.org/abs/2506.08889v1)|[link](https://github.com/microsoft/SeerAttention)|
 |**2025-06-10 12:55:07**|**Enhancing Accuracy and Maintainability in Nuclear Plant Data Retrieval:   A Function-Calling LLM Approach Over NL-to-SQL**|Mishca de Costa et.al.|[2506.08757v1](http://arxiv.org/abs/2506.08757v1)|null|
-|**2025-06-10 07:04:25**|**MasHost Builds It All: Autonomous Multi-Agent System Directed by   Reinforcement Learning**|Kuo Yang et.al.|[2506.08507v1](http://arxiv.org/abs/2506.08507v1)|null|
+|**2025-06-10 07:04:25**|**MasHost Builds It All: Autonomous Multi-Agent System Directed by   Reinforcement Learning**|Kuo Yang et.al.|[2506.08507v2](http://arxiv.org/abs/2506.08507v2)|null|
 |**2025-06-10 06:11:01**|**Efficient Context Selection for Long-Context QA: No Tuning, No   Iteration, Just Adaptive-$k$**|Chihiro Taguchi et.al.|[2506.08479v1](http://arxiv.org/abs/2506.08479v1)|null|
 |**2025-06-10 03:22:49**|**Optimal Graph Reconstruction by Counting Connected Components in Induced   Subgraphs**|Hadley Black et.al.|[2506.08405v1](http://arxiv.org/abs/2506.08405v1)|null|
 |**2025-06-10 02:46:05**|**NAM: A Normalization Attention Model for Personalized Product Search In   Fliggy**|Shui Liu et.al.|[2506.08382v1](http://arxiv.org/abs/2506.08382v1)|null|
@@ -25,10 +32,3 @@
 |**2025-06-06 17:39:32**|**An Optimized Franz-Parisi Criterion and its Equivalence with SQ Lower   Bounds**|Siyu Chen et.al.|[2506.06259v1](http://arxiv.org/abs/2506.06259v1)|null|
 |**2025-06-06 14:33:59**|**PrivTru: A Privacy-by-Design Data Trustee Minimizing Information Leakage**|Lukas Gehring et.al.|[2506.06124v1](http://arxiv.org/abs/2506.06124v1)|null|
 |**2025-06-06 13:52:41**|**Reinforcing Code Generation: Improving Text-to-SQL with Execution-Based   Learning**|Atharv Kulkarni et.al.|[2506.06093v1](http://arxiv.org/abs/2506.06093v1)|null|
-|**2025-06-06 12:29:03**|**Large Language Models are Demonstration Pre-Selectors for Themselves**|Jiarui Jin et.al.|[2506.06033v1](http://arxiv.org/abs/2506.06033v1)|null|
-|**2025-06-06 09:18:56**|**Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced   Model Router**|Chenyang Shao et.al.|[2506.05901v1](http://arxiv.org/abs/2506.05901v1)|null|
-|**2025-06-06 08:16:07**|**Training-Free Query Optimization via LLM-Based Plan Similarity**|Nikita Vasilenko et.al.|[2506.05853v1](http://arxiv.org/abs/2506.05853v1)|null|
-|**2025-06-06 07:56:41**|**Heartcare Suite: Multi-dimensional Understanding of ECG with Raw   Multi-lead Signal Modeling**|Yihan Xie et.al.|[2506.05831v2](http://arxiv.org/abs/2506.05831v2)|[link](https://github.com/DCDmllm/Heartcare-Suite)|
-|**2025-06-06 03:09:39**|**Multi-Project Contracts**|Tal Alon et.al.|[2506.05705v1](http://arxiv.org/abs/2506.05705v1)|null|
-|**2025-06-05 18:40:33**|**On Differential Privacy for Adaptively Solving Search Problems via   Sketching**|Shiyuan Feng et.al.|[2506.05503v1](http://arxiv.org/abs/2506.05503v1)|null|
-|**2025-06-05 18:26:14**|**Conformal Prediction Beyond the Seen: A Missing Mass Perspective for   Uncertainty Quantification in Generative Models**|Sima Noorani et.al.|[2506.05497v1](http://arxiv.org/abs/2506.05497v1)|null|
