@@ -2,6 +2,10 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-13 17:46:02**|**Schema-R1: A reasoning training approach for schema linking in   Text-to-SQL Task**|Wuzhenghong Wen et.al.|[2506.11986v1](http://arxiv.org/abs/2506.11986v1)|[link](https://github.com/hongWin/Schema-R1/)|
+|**2025-06-13 16:06:51**|**O2Former:Direction-Aware and Multi-Scale Query Enhancement for SAR Ship   Instance Segmentation**|F. Gao et.al.|[2506.11913v1](http://arxiv.org/abs/2506.11913v1)|null|
+|**2025-06-13 04:20:36**|**Fast Bayesian Optimization of Function Networks with Partial Evaluations**|Poompol Buathong et.al.|[2506.11456v1](http://arxiv.org/abs/2506.11456v1)|null|
+|**2025-06-12 21:15:58**|**SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous   Speculative Decoding**|Ziyi Zhang et.al.|[2506.11309v1](http://arxiv.org/abs/2506.11309v1)|null|
 |**2025-06-12 07:23:07**|**PAL: Probing Audio Encoders via LLMs -- A Study of Information Transfer   from Audio Encoders to LLMs**|Tony Alex et.al.|[2506.10423v1](http://arxiv.org/abs/2506.10423v1)|null|
 |**2025-06-12 07:21:54**|**A Hybrid Heuristic Framework for Resource-Efficient Querying of   Scientific Experiments Data**|Mayank Patel et.al.|[2506.10422v1](http://arxiv.org/abs/2506.10422v1)|null|
 |**2025-06-11 23:43:58**|**A Unifying Algorithm for Hierarchical Queries**|Mahmoud Abo Khamis et.al.|[2506.10238v1](http://arxiv.org/abs/2506.10238v1)|null|
@@ -10,7 +14,7 @@
 |**2025-06-11 03:06:41**|**DAVSP: Safety Alignment for Large Vision-Language Models via Deep   Aligned Visual Safety Prompt**|Yitong Zhang et.al.|[2506.09353v1](http://arxiv.org/abs/2506.09353v1)|[link](https://github.com/zhangyitonggg/davsp)|
 |**2025-06-10 17:56:45**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via   Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033v1](http://arxiv.org/abs/2506.09033v1)|[link](https://github.com/ulab-uiuc/Router-R1)|
 |**2025-06-10 16:52:31**|**On Finetuning Tabular Foundation Models**|Ivan Rubachev et.al.|[2506.08982v2](http://arxiv.org/abs/2506.08982v2)|[link](https://github.com/yandex-research/tabpfn-finetuning)|
-|**2025-06-10 16:37:39**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language   Model**|Ailin Huang et.al.|[2506.08967v1](http://arxiv.org/abs/2506.08967v1)|null|
+|**2025-06-10 16:37:39**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language   Model**|Ailin Huang et.al.|[2506.08967v2](http://arxiv.org/abs/2506.08967v2)|null|
 |**2025-06-10 16:32:05**|**MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient   Fine-Tuning**|Javier Lopez-Piqueres et.al.|[2506.09105v1](http://arxiv.org/abs/2506.09105v1)|null|
 |**2025-06-10 15:17:26**|**SeerAttention-R: Sparse Attention Adaptation for Long Reasoning**|Yizhao Gao et.al.|[2506.08889v1](http://arxiv.org/abs/2506.08889v1)|[link](https://github.com/microsoft/SeerAttention)|
 |**2025-06-10 12:55:07**|**Enhancing Accuracy and Maintainability in Nuclear Plant Data Retrieval:   A Function-Calling LLM Approach Over NL-to-SQL**|Mishca de Costa et.al.|[2506.08757v1](http://arxiv.org/abs/2506.08757v1)|null|
@@ -28,7 +32,3 @@
 |**2025-06-08 14:38:39**|**RULE: Reinforcement UnLEarning Achieves Forget-Retain Pareto Optimality**|Chenlong Zhang et.al.|[2506.07171v1](http://arxiv.org/abs/2506.07171v1)|null|
 |**2025-06-08 06:34:29**|**MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by   Reasoning over Multi-Video Haystacks**|Sanjoy Chowdhury et.al.|[2506.07016v1](http://arxiv.org/abs/2506.07016v1)|null|
 |**2025-06-07 22:10:05**|**An Agentic Framework for Autonomous Metamaterial Modeling and Inverse   Design**|Darui Lu et.al.|[2506.06935v1](http://arxiv.org/abs/2506.06935v1)|null|
-|**2025-06-07 20:24:05**|**OneSug: The Unified End-to-End Generative Framework for E-commerce Query   Suggestion**|Xian Guo et.al.|[2506.06913v1](http://arxiv.org/abs/2506.06913v1)|null|
-|**2025-06-06 17:39:32**|**An Optimized Franz-Parisi Criterion and its Equivalence with SQ Lower   Bounds**|Siyu Chen et.al.|[2506.06259v1](http://arxiv.org/abs/2506.06259v1)|null|
-|**2025-06-06 14:33:59**|**PrivTru: A Privacy-by-Design Data Trustee Minimizing Information Leakage**|Lukas Gehring et.al.|[2506.06124v1](http://arxiv.org/abs/2506.06124v1)|null|
-|**2025-06-06 13:52:41**|**Reinforcing Code Generation: Improving Text-to-SQL with Execution-Based   Learning**|Atharv Kulkarni et.al.|[2506.06093v1](http://arxiv.org/abs/2506.06093v1)|null|
