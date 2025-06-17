@@ -13,7 +13,7 @@
 |**2025-05-12 06:40:29**|**Adaptive, Robust and Scalable Bayesian Filtering for Online Learning**|Gerardo Duran-Martin et.al.|[2505.07267v1](http://arxiv.org/abs/2505.07267v1)|null|
 |**2025-05-06 18:34:37**|**Hesitation is defeat? Connecting Linguistic and Predictive Uncertainty**|Gianluca Manzo et.al.|[2505.03910v1](http://arxiv.org/abs/2505.03910v1)|null|
 |**2025-05-06 14:46:16**|**Decision Making under Model Misspecification: DRO with Robust Bayesian   Ambiguity Sets**|Charita Dellaporta et.al.|[2505.03585v1](http://arxiv.org/abs/2505.03585v1)|null|
-|**2025-05-02 13:17:45**|**Data-driven Approach for Interpolation of Sparse Data**|R. F. Ferguson et.al.|[2505.01473v1](http://arxiv.org/abs/2505.01473v1)|null|
+|**2025-05-02 13:17:45**|**Data-driven Approach for Interpolation of Sparse Data**|R. F. Ferguson et.al.|[2505.01473v1](http://arxiv.org/abs/2505.01473v1)|[link](https://github.com/rferguson22/gaussian-process)|
 |**2025-04-30 07:44:17**|**Statistical process discovery**|Pierre Cry et.al.|[2504.21390v1](http://arxiv.org/abs/2504.21390v1)|[link](https://github.com/DocPierro/modelchecking_spd)|
 |**2025-04-29 09:16:33**|**Explanation format does not matter; but explanations do -- An Eggsbert   study on explaining Bayesian Optimisation tasks**|Tanmay Chakraborty et.al.|[2504.20567v2](http://arxiv.org/abs/2504.20567v2)|null|
 |**2025-04-14 12:34:03**|**ChartOptimiser: Task-driven Optimisation of Chart Designs**|Yao Wang et.al.|[2504.10180v1](http://arxiv.org/abs/2504.10180v1)|null|
