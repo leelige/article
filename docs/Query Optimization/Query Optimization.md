@@ -2,6 +2,9 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-17 17:35:25**|**On the Hardness of Bandit Learning**|Nataly Brukhim et.al.|[2506.14746v1](http://arxiv.org/abs/2506.14746v1)|null|
+|**2025-06-17 12:20:04**|**Zeroth-Order Optimization is Secretly Single-Step Policy Optimization**|Junbin Qiu et.al.|[2506.14460v1](http://arxiv.org/abs/2506.14460v1)|null|
+|**2025-06-16 22:13:48**|**Sketched Sum-Product Networks for Joins**|Brian Tsan et.al.|[2506.14034v1](http://arxiv.org/abs/2506.14034v1)|null|
 |**2025-06-16 17:53:18**|**LTRR: Learning To Rank Retrievers for LLMs**|To Eun Kim et.al.|[2506.13743v1](http://arxiv.org/abs/2506.13743v1)|null|
 |**2025-06-16 16:58:55**|**OneRec Technical Report**|Guorui Zhou et.al.|[2506.13695v1](http://arxiv.org/abs/2506.13695v1)|null|
 |**2025-06-16 16:29:29**|**Parachute: Single-Pass Bi-Directional Information Passing**|Mihail Stoian et.al.|[2506.13670v1](http://arxiv.org/abs/2506.13670v1)|null|
@@ -29,6 +32,3 @@
 |**2025-06-11 14:15:18**|**Inverting Black-Box Face Recognition Systems via Zero-Order Optimization   in Eigenface Space**|Anton Razzhigaev et.al.|[2506.09777v1](http://arxiv.org/abs/2506.09777v1)|[link](https://github.com/fusionbrainlab/adversarialfaces)|
 |**2025-06-11 08:27:16**|**Efficient Preference-Based Reinforcement Learning: Randomized   Exploration Meets Experimental Design**|Andreas Schlaginhaufen et.al.|[2506.09508v1](http://arxiv.org/abs/2506.09508v1)|null|
 |**2025-06-11 03:06:41**|**DAVSP: Safety Alignment for Large Vision-Language Models via Deep   Aligned Visual Safety Prompt**|Yitong Zhang et.al.|[2506.09353v1](http://arxiv.org/abs/2506.09353v1)|[link](https://github.com/zhangyitonggg/davsp)|
-|**2025-06-10 17:56:45**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via   Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033v1](http://arxiv.org/abs/2506.09033v1)|[link](https://github.com/ulab-uiuc/router-r1)|
-|**2025-06-10 16:52:31**|**On Finetuning Tabular Foundation Models**|Ivan Rubachev et.al.|[2506.08982v2](http://arxiv.org/abs/2506.08982v2)|[link](https://github.com/yandex-research/tabpfn-finetuning)|
-|**2025-06-10 16:37:39**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language   Model**|Ailin Huang et.al.|[2506.08967v2](http://arxiv.org/abs/2506.08967v2)|null|
