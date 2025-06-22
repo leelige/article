@@ -4,9 +4,9 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-18 14:58:13**|**Lessons from Training Grounded LLMs with Verifiable Rewards**|Shang Hong Sim et.al.|[2506.15522v1](http://arxiv.org/abs/2506.15522v1)|null|
 |**2025-06-18 14:47:59**|**Optimizing Web-Based AI Query Retrieval with GPT Integration in   LangChain A CoT-Enhanced Prompt Engineering Approach**|Wenqi Guan et.al.|[2506.15512v1](http://arxiv.org/abs/2506.15512v1)|null|
-|**2025-06-18 13:24:04**|**AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent   System Need**|Zhouhong Gu et.al.|[2506.15451v1](http://arxiv.org/abs/2506.15451v1)|[link](https://github.com/MikeGu721/AgentGroupChat-V2)|
-|**2025-06-18 02:57:57**|**EMUSE: Evolutionary Map of the Universe Search Engine**|Nikhel Gupta et.al.|[2506.15090v1](http://arxiv.org/abs/2506.15090v1)|[link](https://github.com/Nikhel1/EMUSE)|
-|**2025-06-17 19:21:22**|**FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt   Learning**|Ganyu Wang et.al.|[2506.14929v1](http://arxiv.org/abs/2506.14929v1)|null|
+|**2025-06-18 13:24:04**|**AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent   System Need**|Zhouhong Gu et.al.|[2506.15451v1](http://arxiv.org/abs/2506.15451v1)|[link](https://github.com/mikegu721/agentgroupchat-v2)|
+|**2025-06-18 02:57:57**|**EMUSE: Evolutionary Map of the Universe Search Engine**|Nikhel Gupta et.al.|[2506.15090v1](http://arxiv.org/abs/2506.15090v1)|[link](https://github.com/nikhel1/emuse)|
+|**2025-06-17 19:21:22**|**FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt   Learning**|Ganyu Wang et.al.|[2506.14929v1](http://arxiv.org/abs/2506.14929v1)|[link](https://github.com/ganyuwang/fedone-bdpl)|
 |**2025-06-17 17:35:25**|**On the Hardness of Bandit Learning**|Nataly Brukhim et.al.|[2506.14746v1](http://arxiv.org/abs/2506.14746v1)|null|
 |**2025-06-17 12:20:04**|**Zeroth-Order Optimization is Secretly Single-Step Policy Optimization**|Junbin Qiu et.al.|[2506.14460v1](http://arxiv.org/abs/2506.14460v1)|null|
 |**2025-06-16 22:13:48**|**Sketched Sum-Product Networks for Joins**|Brian Tsan et.al.|[2506.14034v1](http://arxiv.org/abs/2506.14034v1)|[link](https://github.com/btsan/sketched-spns)|
