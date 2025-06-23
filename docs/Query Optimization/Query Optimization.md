@@ -2,6 +2,23 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-20 17:42:13**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188v1](http://arxiv.org/abs/2506.17188v1)|null|
+|**2025-06-20 11:30:58**|**Advancing Fact Attribution for Query Answering: Aggregate Queries and   Novel Algorithms**|Omer Abramovich et.al.|[2506.16923v1](http://arxiv.org/abs/2506.16923v1)|null|
+|**2025-06-20 09:02:05**|**Reward-Agnostic Prompt Optimization for Text-to-Image Diffusion Models**|Semin Kim et.al.|[2506.16853v1](http://arxiv.org/abs/2506.16853v1)|[link](https://github.com/seminkim/RATTPO)|
+|**2025-06-20 08:38:51**|**Hybrid-Sep: Language-queried audio source separation via pre-trained   Model Fusion and Adversarial Diffusion Training**|Jianyuan Feng et.al.|[2506.16833v1](http://arxiv.org/abs/2506.16833v1)|null|
+|**2025-06-20 07:16:47**|**MIST: Jailbreaking Black-box Large Language Models via Iterative   Semantic Tuning**|Muyang Zheng et.al.|[2506.16792v1](http://arxiv.org/abs/2506.16792v1)|null|
+|**2025-06-20 06:34:19**|**Infrared and Visible Image Fusion Based on Implicit Neural   Representations**|Shuchen Sun et.al.|[2506.16773v1](http://arxiv.org/abs/2506.16773v1)|null|
+|**2025-06-19 23:57:41**|**Arch-Router: Aligning LLM Routing with Human Preferences**|Co Tran et.al.|[2506.16655v1](http://arxiv.org/abs/2506.16655v1)|null|
+|**2025-06-19 19:13:59**|**Revela: Dense Retriever Learning via Language Modeling**|Fengyu Cai et.al.|[2506.16552v1](http://arxiv.org/abs/2506.16552v1)|null|
+|**2025-06-19 14:59:01**|**PBench: Workload Synthesizer with Real Statistics for Cloud Analytics   Benchmarking**|Yan Zhou et.al.|[2506.16379v1](http://arxiv.org/abs/2506.16379v1)|null|
+|**2025-06-19 11:45:06**|**Think Global, Act Local: Bayesian Causal Discovery with Language Models   in Sequential Data**|Prakhar Verma et.al.|[2506.16234v1](http://arxiv.org/abs/2506.16234v1)|null|
+|**2025-06-19 09:45:13**|**SGIC: A Self-Guided Iterative Calibration Framework for RAG**|Guanhua Chen et.al.|[2506.16172v1](http://arxiv.org/abs/2506.16172v1)|null|
+|**2025-06-19 08:02:53**|**AutoV: Learning to Retrieve Visual Prompt for Large Vision-Language   Models**|Yuan Zhang et.al.|[2506.16112v1](http://arxiv.org/abs/2506.16112v1)|null|
+|**2025-06-19 05:40:54**|**DynScaling: Efficient Verifier-free Inference Scaling via Dynamic and   Integrated Sampling**|Fei Wang et.al.|[2506.16043v1](http://arxiv.org/abs/2506.16043v1)|null|
+|**2025-06-19 03:58:31**|**Data-Agnostic Cardinality Learning from Imperfect Workloads**|Peizhi Wu et.al.|[2506.16007v1](http://arxiv.org/abs/2506.16007v1)|null|
+|**2025-06-19 03:07:12**|**Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive   Awareness Capabilities**|Jiancheng Ruan et.al.|[2506.15986v1](http://arxiv.org/abs/2506.15986v1)|null|
+|**2025-06-18 19:55:59**|**Delta: A Learned Mixed Cost-based Query Optimization Framework**|Jiazhen Peng et.al.|[2506.15848v1](http://arxiv.org/abs/2506.15848v1)|null|
+|**2025-06-18 19:44:46**|**MEM1: Learning to Synergize Memory and Reasoning for Efficient   Long-Horizon Agents**|Zijian Zhou et.al.|[2506.15841v1](http://arxiv.org/abs/2506.15841v1)|null|
 |**2025-06-18 14:58:13**|**Lessons from Training Grounded LLMs with Verifiable Rewards**|Shang Hong Sim et.al.|[2506.15522v1](http://arxiv.org/abs/2506.15522v1)|null|
 |**2025-06-18 14:47:59**|**Optimizing Web-Based AI Query Retrieval with GPT Integration in   LangChain A CoT-Enhanced Prompt Engineering Approach**|Wenqi Guan et.al.|[2506.15512v1](http://arxiv.org/abs/2506.15512v1)|null|
 |**2025-06-18 13:24:04**|**AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent   System Need**|Zhouhong Gu et.al.|[2506.15451v1](http://arxiv.org/abs/2506.15451v1)|[link](https://github.com/mikegu721/agentgroupchat-v2)|
@@ -15,20 +32,3 @@
 |**2025-06-16 16:29:29**|**Parachute: Single-Pass Bi-Directional Information Passing**|Mihail Stoian et.al.|[2506.13670v1](http://arxiv.org/abs/2506.13670v1)|[link](https://github.com/utndatasystems/parachute)|
 |**2025-06-16 15:18:15**|**AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long   Video Understanding**|Zhucun Xue et.al.|[2506.13589v2](http://arxiv.org/abs/2506.13589v2)|[link](https://github.com/xzc-zju/AdaVideoRAG)|
 |**2025-06-16 14:30:17**|**Mixture of Weight-shared Heterogeneous Group Attention Experts for   Dynamic Token-wise KV Optimization**|Guanghui Song et.al.|[2506.13541v1](http://arxiv.org/abs/2506.13541v1)|null|
-|**2025-06-16 13:27:10**|**Enhancing Omics Cohort Discovery for Research on Neurodegeneration   through Ontology-Augmented Embedding Models**|José A. Pardo et.al.|[2506.13467v1](http://arxiv.org/abs/2506.13467v1)|[link](https://github.com/JoseAdrian3/NeuroEmbed)|
-|**2025-06-16 07:34:28**|**Querying Large Automotive Software Models: Agentic vs. Direct LLM   Approaches**|Lukasz Mazur et.al.|[2506.13171v1](http://arxiv.org/abs/2506.13171v1)|null|
-|**2025-06-16 01:26:08**|**Knowledge Graph Fusion with Large Language Models for Accurate,   Explainable Manufacturing Process Planning**|Danny Hoang et.al.|[2506.13026v1](http://arxiv.org/abs/2506.13026v1)|null|
-|**2025-06-15 19:32:38**|**On Hierarchies of Fairness Notions in Cake Cutting: From Proportionality   to Super Envy-Freeness**|Arnav Mehra et.al.|[2506.12950v1](http://arxiv.org/abs/2506.12950v1)|null|
-|**2025-06-15 11:37:28**|**Taking the GP Out of the Loop**|David Sweet et.al.|[2506.12818v1](http://arxiv.org/abs/2506.12818v1)|null|
-|**2025-06-15 08:01:35**|**Versatile and Fast Location-Based Private Information Retrieval with   Fully Homomorphic Encryption over the Torus**|Joon Soo Yoo et.al.|[2506.12761v1](http://arxiv.org/abs/2506.12761v1)|[link](https://github.com/privstatbool/velopir)|
-|**2025-06-14 16:56:00**|**DoTA-RAG: Dynamic of Thought Aggregation RAG**|Saksorn Ruangtanusak et.al.|[2506.12571v1](http://arxiv.org/abs/2506.12571v1)|null|
-|**2025-06-14 14:53:25**|**Detection, Classification, and Mitigation of Gender Bias in Large   Language Models**|Xiaoqing Cheng et.al.|[2506.12527v1](http://arxiv.org/abs/2506.12527v1)|null|
-|**2025-06-14 14:49:12**|**MonoVQD: Monocular 3D Object Detection with Variational Query Denoising   and Self-Distillation**|Kiet Dang Vu et.al.|[2506.14835v1](http://arxiv.org/abs/2506.14835v1)|null|
-|**2025-06-14 12:58:02**|**Redbench: A Benchmark Reflecting Real Workloads**|Skander Krid et.al.|[2506.12488v1](http://arxiv.org/abs/2506.12488v1)|null|
-|**2025-06-14 12:17:47**|**TagRouter: Learning Route to LLMs through Tags for Open-Domain Text   Generation Tasks**|Zhou Chen et.al.|[2506.12473v1](http://arxiv.org/abs/2506.12473v1)|null|
-|**2025-06-14 00:33:32**|**Relative Error Fair Clustering in the Weak-Strong Oracle Model**|Vladimir Braverman et.al.|[2506.12287v1](http://arxiv.org/abs/2506.12287v1)|null|
-|**2025-06-13 18:08:54**|**Maximally-Informative Retrieval for State Space Model Generation**|Evan Becker et.al.|[2506.12149v1](http://arxiv.org/abs/2506.12149v1)|null|
-|**2025-06-13 17:46:02**|**Schema-R1: A reasoning training approach for schema linking in   Text-to-SQL Task**|Wuzhenghong Wen et.al.|[2506.11986v1](http://arxiv.org/abs/2506.11986v1)|[link](https://github.com/hongwin/schema-r1)|
-|**2025-06-13 16:06:51**|**O2Former:Direction-Aware and Multi-Scale Query Enhancement for SAR Ship   Instance Segmentation**|F. Gao et.al.|[2506.11913v1](http://arxiv.org/abs/2506.11913v1)|null|
-|**2025-06-13 04:20:36**|**Fast Bayesian Optimization of Function Networks with Partial Evaluations**|Poompol Buathong et.al.|[2506.11456v1](http://arxiv.org/abs/2506.11456v1)|null|
-|**2025-06-12 21:15:58**|**SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous   Speculative Decoding**|Ziyi Zhang et.al.|[2506.11309v1](http://arxiv.org/abs/2506.11309v1)|null|

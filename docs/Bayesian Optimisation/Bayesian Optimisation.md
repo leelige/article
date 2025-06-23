@@ -7,6 +7,7 @@
 |**2025-06-04 12:52:53**|**FLIP: Flowability-Informed Powder Weighing**|Nikola Radulov et.al.|[2506.03896v2](http://arxiv.org/abs/2506.03896v2)|null|
 |**2025-06-03 17:12:21**|**Modelling the Effects of Hearing Loss on Neural Coding in the Auditory   Midbrain with Variational Conditioning**|Lloyd Pellatt et.al.|[2506.03088v1](http://arxiv.org/abs/2506.03088v1)|null|
 |**2025-05-30 15:11:52**|**Soft Reasoning: Navigating Solution Spaces in Large Language Models   through Controlled Embedding Exploration**|Qinglin Zhu et.al.|[2505.24688v2](http://arxiv.org/abs/2505.24688v2)|null|
+|**2025-05-27 19:11:11**|**Development of a Multiprocessing Interface Genetic Algorithm for   Optimising a Multilayer Perceptron for Disease Prediction**|Iliyas Ibrahim Iliyas et.al.|[2506.15694v1](http://arxiv.org/abs/2506.15694v1)|null|
 |**2025-05-23 14:33:20**|**A Principled Bayesian Framework for Training Binary and Spiking Neural   Networks**|James A. Walker et.al.|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|null|
 |**2025-05-16 15:51:28**|**High brightness, symmetric electron bunch generation in a plasma   wakefield accelerator via a radially-polarized plasma photocathode**|James Chappell et.al.|[2505.11387v1](http://arxiv.org/abs/2505.11387v1)|null|
 |**2025-05-12 10:34:41**|**A Value of Information-based assessment of strain-based thickness loss   monitoring in ship hull structures**|Nicholas E. Silionis et.al.|[2505.07427v1](http://arxiv.org/abs/2505.07427v1)|null|
@@ -31,4 +32,3 @@
 |**2025-02-25 15:19:10**|**Nested Expectations with Kernel Quadrature**|Zonghao Chen et.al.|[2502.18284v2](http://arxiv.org/abs/2502.18284v2)|[link](https://github.com/hudsonchen/nest_kq)|
 |**2025-02-18 19:22:15**|**Systematic Bayesian Optimization for Atomic Structure Calculations of   Heavy Elements**|Ricardo Ferreira da Silva et.al.|[2502.13250v2](http://arxiv.org/abs/2502.13250v2)|null|
 |**2025-02-18 15:42:05**|**A measure-valued HJB perspective on Bayesian optimal adaptive control**|Alexander M. G. Cox et.al.|[2502.12957v1](http://arxiv.org/abs/2502.12957v1)|null|
-|**2025-02-17 20:34:29**|**Mean-Field Bayesian Optimisation**|Petar Steinberg et.al.|[2502.12315v1](http://arxiv.org/abs/2502.12315v1)|[link](https://github.com/petarsteinberg/mf-bo)|

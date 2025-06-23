@@ -15,7 +15,7 @@
 |**2025-04-30 17:32:47**|**Beam Optics Ramping in Under-Constrained Lattice Design: Application to   Electron-Ion Collider Hadron Storage Ring Cooling Section**|Derong Xu et.al.|[2504.21827v1](http://arxiv.org/abs/2504.21827v1)|null|
 |**2025-04-25 21:56:15**|**From Good to Great: Improving Memory Tiering Performance Through   Parameter Tuning**|Konstantinos Kanellis et.al.|[2504.18714v1](http://arxiv.org/abs/2504.18714v1)|null|
 |**2025-04-16 10:24:08**|**Dissecting coupled orders in a terahertz-driven electron-doped cuprate**|Liwen Feng et.al.|[2504.11947v1](http://arxiv.org/abs/2504.11947v1)|null|
-|**2025-04-16 04:18:25**|**AQETuner: Reliable Query-level Configuration Tuning for Analytical Query   Engines**|Lixiang Chen et.al.|[2504.11756v1](http://arxiv.org/abs/2504.11756v1)|null|
+|**2025-04-16 04:18:25**|**AQETuner: Reliable Query-level Configuration Tuning for Analytical Query   Engines**|Lixiang Chen et.al.|[2504.11756v2](http://arxiv.org/abs/2504.11756v2)|null|
 |**2025-04-03 16:45:33**|**Robust entangled photon generation enabled by single-shot Floquet   driving**|Jun-Yong Yan et.al.|[2504.02753v3](http://arxiv.org/abs/2504.02753v3)|null|
 |**2025-03-25 22:04:33**|**Drops on architected elastic substrates: A repertoire of regimes at the   turn of a knob**|Sergio Santos et.al.|[2503.20091v1](http://arxiv.org/abs/2503.20091v1)|null|
 |**2025-03-17 03:14:10**|**Engineering robust strain transmission in van der Waals heterostructure   devices**|John Cenker et.al.|[2503.12773v1](http://arxiv.org/abs/2503.12773v1)|null|
