@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-23 04:52:08**|**Tu(r)ning AI Green: Exploring Energy Efficiency Cascading with   Orthogonal Optimizations**|Saurabhsingh Rajput et.al.|[2506.18289v1](http://arxiv.org/abs/2506.18289v1)|null|
 |**2025-06-12 17:59:51**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978v1](http://arxiv.org/abs/2506.10978v1)|null|
 |**2025-06-04 15:15:23**|**WANDER: An Explainable Decision-Support Framework for HPC**|Ankur Lahiry et.al.|[2506.04049v1](http://arxiv.org/abs/2506.04049v1)|null|
 |**2025-06-02 16:00:16**|**Inductive-Effect-Driven Tunability of Magnetism and Lumines-cence in   Triangular Layers ANd(SO4)2 (A = Rb, Cs)**|Xudong Huai et.al.|[2506.01818v1](http://arxiv.org/abs/2506.01818v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-04 09:13:47**|**Mapping delocalization of impurity bands across archetypal Mott-Anderson   transition**|M. Parzer et.al.|[2412.03147v1](http://arxiv.org/abs/2412.03147v1)|null|
 |**2024-11-28 19:20:27**|**Diode effect in Fraunhofer patterns of disordered multi-terminal   Josephson junctions**|Luca Chirolli et.al.|[2411.19338v1](http://arxiv.org/abs/2411.19338v1)|null|
 |**2024-11-24 14:47:13**|**Less is More: Efficient Model Merging with Binary Task Switch**|Biqing Qi et.al.|[2412.00054v1](http://arxiv.org/abs/2412.00054v1)|null|
-|**2024-11-19 17:59:12**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast   LLM Inference**|Jiho Shin et.al.|[2411.12692v2](http://arxiv.org/abs/2411.12692v2)|null|

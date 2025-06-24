@@ -2,6 +2,17 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-23 17:59:55**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual   Retrieval**|Michael Günther et.al.|[2506.18902v1](http://arxiv.org/abs/2506.18902v1)|null|
+|**2025-06-23 17:18:11**|**ECLEIRS: Exact conservation law embedded identification of reduced   states for parameterized partial differential equations from sparse and noisy   data**|Aviral Prakash et.al.|[2506.18855v1](http://arxiv.org/abs/2506.18855v1)|null|
+|**2025-06-23 15:05:54**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728v1](http://arxiv.org/abs/2506.18728v1)|null|
+|**2025-06-23 05:30:09**|**Comparative Analysis of Lion and AdamW Optimizers for Cross-Encoder   Reranking with MiniLM, GTE, and ModernBERT**|Shahil Kumar et.al.|[2506.18297v1](http://arxiv.org/abs/2506.18297v1)|null|
+|**2025-06-23 02:28:44**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246v1](http://arxiv.org/abs/2506.18246v1)|null|
+|**2025-06-22 16:48:57**|**G-SEED: A Spatio-temporal Encoding Framework for Forest and Grassland   Data Based on GeoSOT**|Xuan Ouyang et.al.|[2506.18094v1](http://arxiv.org/abs/2506.18094v1)|null|
+|**2025-06-22 10:28:46**|**SliceGX: Layer-wise GNN Explanation with Model-slicing**|Tingting Zhu et.al.|[2506.17977v1](http://arxiv.org/abs/2506.17977v1)|null|
+|**2025-06-22 03:30:27**|**GD-Retriever: Controllable Generative Text-Music Retrieval with   Diffusion Models**|Julien Guinot et.al.|[2506.17886v1](http://arxiv.org/abs/2506.17886v1)|null|
+|**2025-06-21 22:26:20**|**Time-Contrastive Pretraining for In-Context Image and Video Segmentation**|Assefa Wahd et.al.|[2506.17837v1](http://arxiv.org/abs/2506.17837v1)|null|
+|**2025-06-21 06:40:32**|**Contextual Pattern Mining and Counting**|Ling Li et.al.|[2506.17613v1](http://arxiv.org/abs/2506.17613v1)|null|
+|**2025-06-20 22:24:38**|**Episode-specific Fine-tuning for Metric-based Few-shot Learners with   Optimization-based Training**|Xuanyu Zhuang et.al.|[2506.17499v1](http://arxiv.org/abs/2506.17499v1)|null|
 |**2025-06-20 17:42:13**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188v1](http://arxiv.org/abs/2506.17188v1)|null|
 |**2025-06-20 11:30:58**|**Advancing Fact Attribution for Query Answering: Aggregate Queries and   Novel Algorithms**|Omer Abramovich et.al.|[2506.16923v1](http://arxiv.org/abs/2506.16923v1)|null|
 |**2025-06-20 09:02:05**|**Reward-Agnostic Prompt Optimization for Text-to-Image Diffusion Models**|Semin Kim et.al.|[2506.16853v1](http://arxiv.org/abs/2506.16853v1)|[link](https://github.com/seminkim/RATTPO)|
@@ -21,14 +32,3 @@
 |**2025-06-18 19:44:46**|**MEM1: Learning to Synergize Memory and Reasoning for Efficient   Long-Horizon Agents**|Zijian Zhou et.al.|[2506.15841v1](http://arxiv.org/abs/2506.15841v1)|null|
 |**2025-06-18 14:58:13**|**Lessons from Training Grounded LLMs with Verifiable Rewards**|Shang Hong Sim et.al.|[2506.15522v1](http://arxiv.org/abs/2506.15522v1)|null|
 |**2025-06-18 14:47:59**|**Optimizing Web-Based AI Query Retrieval with GPT Integration in   LangChain A CoT-Enhanced Prompt Engineering Approach**|Wenqi Guan et.al.|[2506.15512v1](http://arxiv.org/abs/2506.15512v1)|null|
-|**2025-06-18 13:24:04**|**AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent   System Need**|Zhouhong Gu et.al.|[2506.15451v1](http://arxiv.org/abs/2506.15451v1)|[link](https://github.com/mikegu721/agentgroupchat-v2)|
-|**2025-06-18 02:57:57**|**EMUSE: Evolutionary Map of the Universe Search Engine**|Nikhel Gupta et.al.|[2506.15090v1](http://arxiv.org/abs/2506.15090v1)|[link](https://github.com/nikhel1/emuse)|
-|**2025-06-17 19:21:22**|**FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt   Learning**|Ganyu Wang et.al.|[2506.14929v1](http://arxiv.org/abs/2506.14929v1)|[link](https://github.com/ganyuwang/fedone-bdpl)|
-|**2025-06-17 17:35:25**|**On the Hardness of Bandit Learning**|Nataly Brukhim et.al.|[2506.14746v1](http://arxiv.org/abs/2506.14746v1)|null|
-|**2025-06-17 12:20:04**|**Zeroth-Order Optimization is Secretly Single-Step Policy Optimization**|Junbin Qiu et.al.|[2506.14460v1](http://arxiv.org/abs/2506.14460v1)|null|
-|**2025-06-16 22:13:48**|**Sketched Sum-Product Networks for Joins**|Brian Tsan et.al.|[2506.14034v1](http://arxiv.org/abs/2506.14034v1)|[link](https://github.com/btsan/sketched-spns)|
-|**2025-06-16 17:53:18**|**LTRR: Learning To Rank Retrievers for LLMs**|To Eun Kim et.al.|[2506.13743v1](http://arxiv.org/abs/2506.13743v1)|null|
-|**2025-06-16 16:58:55**|**OneRec Technical Report**|Guorui Zhou et.al.|[2506.13695v1](http://arxiv.org/abs/2506.13695v1)|null|
-|**2025-06-16 16:29:29**|**Parachute: Single-Pass Bi-Directional Information Passing**|Mihail Stoian et.al.|[2506.13670v1](http://arxiv.org/abs/2506.13670v1)|[link](https://github.com/utndatasystems/parachute)|
-|**2025-06-16 15:18:15**|**AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long   Video Understanding**|Zhucun Xue et.al.|[2506.13589v2](http://arxiv.org/abs/2506.13589v2)|[link](https://github.com/xzc-zju/AdaVideoRAG)|
-|**2025-06-16 14:30:17**|**Mixture of Weight-shared Heterogeneous Group Attention Experts for   Dynamic Token-wise KV Optimization**|Guanghui Song et.al.|[2506.13541v1](http://arxiv.org/abs/2506.13541v1)|null|
