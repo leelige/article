@@ -2,6 +2,9 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-25 13:27:07**|**Cut-Query Algorithms with Few Rounds**|Yotam Kenneth-Mordoch et.al.|[2506.20412v1](http://arxiv.org/abs/2506.20412v1)|null|
+|**2025-06-25 10:51:57**|**Near Time-Optimal Hybrid Motion Planning for Timber Cranes**|Marc-Philip Ecker et.al.|[2506.20314v1](http://arxiv.org/abs/2506.20314v1)|null|
+|**2025-06-24 19:47:27**|**Context Attribution with Multi-Armed Bandit Optimization**|Deng Pan et.al.|[2506.19977v1](http://arxiv.org/abs/2506.19977v1)|null|
 |**2025-06-24 16:50:51**|**SAGE: Strategy-Adaptive Generation Engine for Query Rewriting**|Teng Wang et.al.|[2506.19783v1](http://arxiv.org/abs/2506.19783v1)|null|
 |**2025-06-24 12:49:00**|**ConStellaration: A dataset of QI-like stellarator plasma boundaries and   optimization benchmarks**|Santiago A. Cadena et.al.|[2506.19583v1](http://arxiv.org/abs/2506.19583v1)|null|
 |**2025-06-23 17:59:55**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual   Retrieval**|Michael Günther et.al.|[2506.18902v2](http://arxiv.org/abs/2506.18902v2)|null|
@@ -29,6 +32,3 @@
 |**2025-06-19 08:02:53**|**AutoV: Learning to Retrieve Visual Prompt for Large Vision-Language   Models**|Yuan Zhang et.al.|[2506.16112v1](http://arxiv.org/abs/2506.16112v1)|null|
 |**2025-06-19 05:40:54**|**DynScaling: Efficient Verifier-free Inference Scaling via Dynamic and   Integrated Sampling**|Fei Wang et.al.|[2506.16043v1](http://arxiv.org/abs/2506.16043v1)|null|
 |**2025-06-19 03:58:31**|**Data-Agnostic Cardinality Learning from Imperfect Workloads**|Peizhi Wu et.al.|[2506.16007v1](http://arxiv.org/abs/2506.16007v1)|[link](https://github.com/shoupzwu/grasp)|
-|**2025-06-19 03:07:12**|**Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive   Awareness Capabilities**|Jiancheng Ruan et.al.|[2506.15986v1](http://arxiv.org/abs/2506.15986v1)|null|
-|**2025-06-18 19:55:59**|**Delta: A Learned Mixed Cost-based Query Optimization Framework**|Jiazhen Peng et.al.|[2506.15848v1](http://arxiv.org/abs/2506.15848v1)|null|
-|**2025-06-18 19:44:46**|**MEM1: Learning to Synergize Memory and Reasoning for Efficient   Long-Horizon Agents**|Zijian Zhou et.al.|[2506.15841v1](http://arxiv.org/abs/2506.15841v1)|null|

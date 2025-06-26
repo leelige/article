@@ -3,7 +3,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-23 04:52:08**|**Tu(r)ning AI Green: Exploring Energy Efficiency Cascading with   Orthogonal Optimizations**|Saurabhsingh Rajput et.al.|[2506.18289v1](http://arxiv.org/abs/2506.18289v1)|null|
-|**2025-06-12 17:59:51**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978v1](http://arxiv.org/abs/2506.10978v1)|null|
+|**2025-06-12 17:59:51**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978v2](http://arxiv.org/abs/2506.10978v2)|null|
 |**2025-06-04 15:15:23**|**WANDER: An Explainable Decision-Support Framework for HPC**|Ankur Lahiry et.al.|[2506.04049v1](http://arxiv.org/abs/2506.04049v1)|null|
 |**2025-06-02 16:00:16**|**Inductive-Effect-Driven Tunability of Magnetism and Lumines-cence in   Triangular Layers ANd(SO4)2 (A = Rb, Cs)**|Xudong Huai et.al.|[2506.01818v1](http://arxiv.org/abs/2506.01818v1)|null|
 |**2025-05-29 18:07:36**|**Simplifying Bayesian Optimization Via In-Context Direct Optimum Sampling**|Gustavo Sutter Pessurno de Carvalho et.al.|[2505.23913v1](http://arxiv.org/abs/2505.23913v1)|null|

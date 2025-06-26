@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2025-06-25 16:14:18 Asia/Shanghai
+ 自动更新 @ 2025-06-26 16:14:02 Asia/Shanghai
 
 ## Bayesian Optimisation
 
@@ -37,49 +37,13 @@
 |**2025-02-25 15:19:10**|**Nested Expectations with Kernel Quadrature**|Zonghao Chen et.al.|[2502.18284v2](http://arxiv.org/abs/2502.18284v2)|[link](https://github.com/hudsonchen/nest_kq)|
 |**2025-02-18 19:22:15**|**Systematic Bayesian Optimization for Atomic Structure Calculations of   Heavy Elements**|Ricardo Ferreira da Silva et.al.|[2502.13250v2](http://arxiv.org/abs/2502.13250v2)|null|
 
-## Query Optimization
-
-### Query Optimization
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-24 16:50:51**|**SAGE: Strategy-Adaptive Generation Engine for Query Rewriting**|Teng Wang et.al.|[2506.19783v1](http://arxiv.org/abs/2506.19783v1)|null|
-|**2025-06-24 12:49:00**|**ConStellaration: A dataset of QI-like stellarator plasma boundaries and   optimization benchmarks**|Santiago A. Cadena et.al.|[2506.19583v1](http://arxiv.org/abs/2506.19583v1)|null|
-|**2025-06-23 17:59:55**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual   Retrieval**|Michael Günther et.al.|[2506.18902v2](http://arxiv.org/abs/2506.18902v2)|null|
-|**2025-06-23 17:18:11**|**ECLEIRS: Exact conservation law embedded identification of reduced   states for parameterized partial differential equations from sparse and noisy   data**|Aviral Prakash et.al.|[2506.18855v1](http://arxiv.org/abs/2506.18855v1)|null|
-|**2025-06-23 15:05:54**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728v1](http://arxiv.org/abs/2506.18728v1)|null|
-|**2025-06-23 05:30:09**|**Comparative Analysis of Lion and AdamW Optimizers for Cross-Encoder   Reranking with MiniLM, GTE, and ModernBERT**|Shahil Kumar et.al.|[2506.18297v1](http://arxiv.org/abs/2506.18297v1)|null|
-|**2025-06-23 02:28:44**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246v2](http://arxiv.org/abs/2506.18246v2)|null|
-|**2025-06-22 16:48:57**|**G-SEED: A Spatio-temporal Encoding Framework for Forest and Grassland   Data Based on GeoSOT**|Xuan Ouyang et.al.|[2506.18094v1](http://arxiv.org/abs/2506.18094v1)|null|
-|**2025-06-22 10:28:46**|**SliceGX: Layer-wise GNN Explanation with Model-slicing**|Tingting Zhu et.al.|[2506.17977v1](http://arxiv.org/abs/2506.17977v1)|null|
-|**2025-06-22 03:30:27**|**GD-Retriever: Controllable Generative Text-Music Retrieval with   Diffusion Models**|Julien Guinot et.al.|[2506.17886v2](http://arxiv.org/abs/2506.17886v2)|null|
-|**2025-06-21 22:26:20**|**Time-Contrastive Pretraining for In-Context Image and Video Segmentation**|Assefa Wahd et.al.|[2506.17837v1](http://arxiv.org/abs/2506.17837v1)|null|
-|**2025-06-21 06:40:32**|**Contextual Pattern Mining and Counting**|Ling Li et.al.|[2506.17613v1](http://arxiv.org/abs/2506.17613v1)|null|
-|**2025-06-20 22:24:38**|**Episode-specific Fine-tuning for Metric-based Few-shot Learners with   Optimization-based Training**|Xuanyu Zhuang et.al.|[2506.17499v1](http://arxiv.org/abs/2506.17499v1)|null|
-|**2025-06-20 17:42:13**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188v1](http://arxiv.org/abs/2506.17188v1)|null|
-|**2025-06-20 11:30:58**|**Advancing Fact Attribution for Query Answering: Aggregate Queries and   Novel Algorithms**|Omer Abramovich et.al.|[2506.16923v1](http://arxiv.org/abs/2506.16923v1)|[link](https://github.com/omer-abramovich/lexaban-lexashap)|
-|**2025-06-20 09:02:05**|**Reward-Agnostic Prompt Optimization for Text-to-Image Diffusion Models**|Semin Kim et.al.|[2506.16853v1](http://arxiv.org/abs/2506.16853v1)|[link](https://github.com/seminkim/rattpo)|
-|**2025-06-20 08:38:51**|**Hybrid-Sep: Language-queried audio source separation via pre-trained   Model Fusion and Adversarial Diffusion Training**|Jianyuan Feng et.al.|[2506.16833v1](http://arxiv.org/abs/2506.16833v1)|null|
-|**2025-06-20 07:16:47**|**MIST: Jailbreaking Black-box Large Language Models via Iterative   Semantic Tuning**|Muyang Zheng et.al.|[2506.16792v1](http://arxiv.org/abs/2506.16792v1)|null|
-|**2025-06-20 06:34:19**|**Infrared and Visible Image Fusion Based on Implicit Neural   Representations**|Shuchen Sun et.al.|[2506.16773v1](http://arxiv.org/abs/2506.16773v1)|null|
-|**2025-06-19 23:57:41**|**Arch-Router: Aligning LLM Routing with Human Preferences**|Co Tran et.al.|[2506.16655v1](http://arxiv.org/abs/2506.16655v1)|null|
-|**2025-06-19 19:13:59**|**Revela: Dense Retriever Learning via Language Modeling**|Fengyu Cai et.al.|[2506.16552v1](http://arxiv.org/abs/2506.16552v1)|[link](https://github.com/trumancfy/revela)|
-|**2025-06-19 14:59:01**|**PBench: Workload Synthesizer with Real Statistics for Cloud Analytics   Benchmarking**|Yan Zhou et.al.|[2506.16379v1](http://arxiv.org/abs/2506.16379v1)|null|
-|**2025-06-19 11:45:06**|**Think Global, Act Local: Bayesian Causal Discovery with Language Models   in Sequential Data**|Prakhar Verma et.al.|[2506.16234v1](http://arxiv.org/abs/2506.16234v1)|null|
-|**2025-06-19 09:45:13**|**SGIC: A Self-Guided Iterative Calibration Framework for RAG**|Guanhua Chen et.al.|[2506.16172v1](http://arxiv.org/abs/2506.16172v1)|null|
-|**2025-06-19 08:02:53**|**AutoV: Learning to Retrieve Visual Prompt for Large Vision-Language   Models**|Yuan Zhang et.al.|[2506.16112v1](http://arxiv.org/abs/2506.16112v1)|null|
-|**2025-06-19 05:40:54**|**DynScaling: Efficient Verifier-free Inference Scaling via Dynamic and   Integrated Sampling**|Fei Wang et.al.|[2506.16043v1](http://arxiv.org/abs/2506.16043v1)|null|
-|**2025-06-19 03:58:31**|**Data-Agnostic Cardinality Learning from Imperfect Workloads**|Peizhi Wu et.al.|[2506.16007v1](http://arxiv.org/abs/2506.16007v1)|[link](https://github.com/shoupzwu/grasp)|
-|**2025-06-19 03:07:12**|**Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive   Awareness Capabilities**|Jiancheng Ruan et.al.|[2506.15986v1](http://arxiv.org/abs/2506.15986v1)|null|
-|**2025-06-18 19:55:59**|**Delta: A Learned Mixed Cost-based Query Optimization Framework**|Jiazhen Peng et.al.|[2506.15848v1](http://arxiv.org/abs/2506.15848v1)|null|
-|**2025-06-18 19:44:46**|**MEM1: Learning to Synergize Memory and Reasoning for Efficient   Long-Horizon Agents**|Zijian Zhou et.al.|[2506.15841v1](http://arxiv.org/abs/2506.15841v1)|null|
-
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-23 04:52:08**|**Tu(r)ning AI Green: Exploring Energy Efficiency Cascading with   Orthogonal Optimizations**|Saurabhsingh Rajput et.al.|[2506.18289v1](http://arxiv.org/abs/2506.18289v1)|null|
-|**2025-06-12 17:59:51**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978v1](http://arxiv.org/abs/2506.10978v1)|null|
+|**2025-06-12 17:59:51**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978v2](http://arxiv.org/abs/2506.10978v2)|null|
 |**2025-06-04 15:15:23**|**WANDER: An Explainable Decision-Support Framework for HPC**|Ankur Lahiry et.al.|[2506.04049v1](http://arxiv.org/abs/2506.04049v1)|null|
 |**2025-06-02 16:00:16**|**Inductive-Effect-Driven Tunability of Magnetism and Lumines-cence in   Triangular Layers ANd(SO4)2 (A = Rb, Cs)**|Xudong Huai et.al.|[2506.01818v1](http://arxiv.org/abs/2506.01818v1)|null|
 |**2025-05-29 18:07:36**|**Simplifying Bayesian Optimization Via In-Context Direct Optimum Sampling**|Gustavo Sutter Pessurno de Carvalho et.al.|[2505.23913v1](http://arxiv.org/abs/2505.23913v1)|null|
@@ -108,3 +72,39 @@
 |**2024-12-04 09:13:47**|**Mapping delocalization of impurity bands across archetypal Mott-Anderson   transition**|M. Parzer et.al.|[2412.03147v1](http://arxiv.org/abs/2412.03147v1)|null|
 |**2024-11-28 19:20:27**|**Diode effect in Fraunhofer patterns of disordered multi-terminal   Josephson junctions**|Luca Chirolli et.al.|[2411.19338v1](http://arxiv.org/abs/2411.19338v1)|null|
 |**2024-11-24 14:47:13**|**Less is More: Efficient Model Merging with Binary Task Switch**|Biqing Qi et.al.|[2412.00054v1](http://arxiv.org/abs/2412.00054v1)|null|
+
+## Query Optimization
+
+### Query Optimization
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-25 13:27:07**|**Cut-Query Algorithms with Few Rounds**|Yotam Kenneth-Mordoch et.al.|[2506.20412v1](http://arxiv.org/abs/2506.20412v1)|null|
+|**2025-06-25 10:51:57**|**Near Time-Optimal Hybrid Motion Planning for Timber Cranes**|Marc-Philip Ecker et.al.|[2506.20314v1](http://arxiv.org/abs/2506.20314v1)|null|
+|**2025-06-24 19:47:27**|**Context Attribution with Multi-Armed Bandit Optimization**|Deng Pan et.al.|[2506.19977v1](http://arxiv.org/abs/2506.19977v1)|null|
+|**2025-06-24 16:50:51**|**SAGE: Strategy-Adaptive Generation Engine for Query Rewriting**|Teng Wang et.al.|[2506.19783v1](http://arxiv.org/abs/2506.19783v1)|null|
+|**2025-06-24 12:49:00**|**ConStellaration: A dataset of QI-like stellarator plasma boundaries and   optimization benchmarks**|Santiago A. Cadena et.al.|[2506.19583v1](http://arxiv.org/abs/2506.19583v1)|null|
+|**2025-06-23 17:59:55**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual   Retrieval**|Michael Günther et.al.|[2506.18902v2](http://arxiv.org/abs/2506.18902v2)|null|
+|**2025-06-23 17:18:11**|**ECLEIRS: Exact conservation law embedded identification of reduced   states for parameterized partial differential equations from sparse and noisy   data**|Aviral Prakash et.al.|[2506.18855v1](http://arxiv.org/abs/2506.18855v1)|null|
+|**2025-06-23 15:05:54**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728v1](http://arxiv.org/abs/2506.18728v1)|null|
+|**2025-06-23 05:30:09**|**Comparative Analysis of Lion and AdamW Optimizers for Cross-Encoder   Reranking with MiniLM, GTE, and ModernBERT**|Shahil Kumar et.al.|[2506.18297v1](http://arxiv.org/abs/2506.18297v1)|null|
+|**2025-06-23 02:28:44**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246v2](http://arxiv.org/abs/2506.18246v2)|null|
+|**2025-06-22 16:48:57**|**G-SEED: A Spatio-temporal Encoding Framework for Forest and Grassland   Data Based on GeoSOT**|Xuan Ouyang et.al.|[2506.18094v1](http://arxiv.org/abs/2506.18094v1)|null|
+|**2025-06-22 10:28:46**|**SliceGX: Layer-wise GNN Explanation with Model-slicing**|Tingting Zhu et.al.|[2506.17977v1](http://arxiv.org/abs/2506.17977v1)|null|
+|**2025-06-22 03:30:27**|**GD-Retriever: Controllable Generative Text-Music Retrieval with   Diffusion Models**|Julien Guinot et.al.|[2506.17886v2](http://arxiv.org/abs/2506.17886v2)|null|
+|**2025-06-21 22:26:20**|**Time-Contrastive Pretraining for In-Context Image and Video Segmentation**|Assefa Wahd et.al.|[2506.17837v1](http://arxiv.org/abs/2506.17837v1)|null|
+|**2025-06-21 06:40:32**|**Contextual Pattern Mining and Counting**|Ling Li et.al.|[2506.17613v1](http://arxiv.org/abs/2506.17613v1)|null|
+|**2025-06-20 22:24:38**|**Episode-specific Fine-tuning for Metric-based Few-shot Learners with   Optimization-based Training**|Xuanyu Zhuang et.al.|[2506.17499v1](http://arxiv.org/abs/2506.17499v1)|null|
+|**2025-06-20 17:42:13**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188v1](http://arxiv.org/abs/2506.17188v1)|null|
+|**2025-06-20 11:30:58**|**Advancing Fact Attribution for Query Answering: Aggregate Queries and   Novel Algorithms**|Omer Abramovich et.al.|[2506.16923v1](http://arxiv.org/abs/2506.16923v1)|[link](https://github.com/omer-abramovich/lexaban-lexashap)|
+|**2025-06-20 09:02:05**|**Reward-Agnostic Prompt Optimization for Text-to-Image Diffusion Models**|Semin Kim et.al.|[2506.16853v1](http://arxiv.org/abs/2506.16853v1)|[link](https://github.com/seminkim/rattpo)|
+|**2025-06-20 08:38:51**|**Hybrid-Sep: Language-queried audio source separation via pre-trained   Model Fusion and Adversarial Diffusion Training**|Jianyuan Feng et.al.|[2506.16833v1](http://arxiv.org/abs/2506.16833v1)|null|
+|**2025-06-20 07:16:47**|**MIST: Jailbreaking Black-box Large Language Models via Iterative   Semantic Tuning**|Muyang Zheng et.al.|[2506.16792v1](http://arxiv.org/abs/2506.16792v1)|null|
+|**2025-06-20 06:34:19**|**Infrared and Visible Image Fusion Based on Implicit Neural   Representations**|Shuchen Sun et.al.|[2506.16773v1](http://arxiv.org/abs/2506.16773v1)|null|
+|**2025-06-19 23:57:41**|**Arch-Router: Aligning LLM Routing with Human Preferences**|Co Tran et.al.|[2506.16655v1](http://arxiv.org/abs/2506.16655v1)|null|
+|**2025-06-19 19:13:59**|**Revela: Dense Retriever Learning via Language Modeling**|Fengyu Cai et.al.|[2506.16552v1](http://arxiv.org/abs/2506.16552v1)|[link](https://github.com/trumancfy/revela)|
+|**2025-06-19 14:59:01**|**PBench: Workload Synthesizer with Real Statistics for Cloud Analytics   Benchmarking**|Yan Zhou et.al.|[2506.16379v1](http://arxiv.org/abs/2506.16379v1)|null|
+|**2025-06-19 11:45:06**|**Think Global, Act Local: Bayesian Causal Discovery with Language Models   in Sequential Data**|Prakhar Verma et.al.|[2506.16234v1](http://arxiv.org/abs/2506.16234v1)|null|
+|**2025-06-19 09:45:13**|**SGIC: A Self-Guided Iterative Calibration Framework for RAG**|Guanhua Chen et.al.|[2506.16172v1](http://arxiv.org/abs/2506.16172v1)|null|
+|**2025-06-19 08:02:53**|**AutoV: Learning to Retrieve Visual Prompt for Large Vision-Language   Models**|Yuan Zhang et.al.|[2506.16112v1](http://arxiv.org/abs/2506.16112v1)|null|
+|**2025-06-19 05:40:54**|**DynScaling: Efficient Verifier-free Inference Scaling via Dynamic and   Integrated Sampling**|Fei Wang et.al.|[2506.16043v1](http://arxiv.org/abs/2506.16043v1)|null|
+|**2025-06-19 03:58:31**|**Data-Agnostic Cardinality Learning from Imperfect Workloads**|Peizhi Wu et.al.|[2506.16007v1](http://arxiv.org/abs/2506.16007v1)|[link](https://github.com/shoupzwu/grasp)|
