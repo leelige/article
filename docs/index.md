@@ -1,41 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2025-06-26 16:14:02 Asia/Shanghai
-
-## Bayesian Optimisation
-
-### Bayesian Optimisation
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-23 06:23:12**|**Predictive Analytics for Collaborators Answers, Code Quality, and   Dropout on Stack Overflow**|Elijah Zolduoarrati et.al.|[2506.18329v1](http://arxiv.org/abs/2506.18329v1)|null|
-|**2025-06-10 08:31:35**|**The Roles of Low-Noise Stations, Arrays and Ocean-Bottom Seismometers in   Monitoring UK Offshore Seismicity associated with Subsurface Storage of   Carbon Dioxide**|Dominik Strutz et.al.|[2506.08560v1](http://arxiv.org/abs/2506.08560v1)|null|
-|**2025-06-09 12:17:19**|**Rao-Blackwellised Reparameterisation Gradients**|Kevin Lam et.al.|[2506.07687v1](http://arxiv.org/abs/2506.07687v1)|null|
-|**2025-06-04 12:52:53**|**FLIP: Flowability-Informed Powder Weighing**|Nikola Radulov et.al.|[2506.03896v2](http://arxiv.org/abs/2506.03896v2)|null|
-|**2025-06-03 17:12:21**|**Modelling the Effects of Hearing Loss on Neural Coding in the Auditory   Midbrain with Variational Conditioning**|Lloyd Pellatt et.al.|[2506.03088v1](http://arxiv.org/abs/2506.03088v1)|null|
-|**2025-05-30 15:11:52**|**Soft Reasoning: Navigating Solution Spaces in Large Language Models   through Controlled Embedding Exploration**|Qinglin Zhu et.al.|[2505.24688v2](http://arxiv.org/abs/2505.24688v2)|null|
-|**2025-05-27 19:11:11**|**Development of a Multiprocessing Interface Genetic Algorithm for   Optimising a Multilayer Perceptron for Disease Prediction**|Iliyas Ibrahim Iliyas et.al.|[2506.15694v1](http://arxiv.org/abs/2506.15694v1)|null|
-|**2025-05-23 14:33:20**|**A Principled Bayesian Framework for Training Binary and Spiking Neural   Networks**|James A. Walker et.al.|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|null|
-|**2025-05-16 15:51:28**|**High brightness, symmetric electron bunch generation in a plasma   wakefield accelerator via a radially-polarized plasma photocathode**|James Chappell et.al.|[2505.11387v1](http://arxiv.org/abs/2505.11387v1)|null|
-|**2025-05-12 10:34:41**|**A Value of Information-based assessment of strain-based thickness loss   monitoring in ship hull structures**|Nicholas E. Silionis et.al.|[2505.07427v1](http://arxiv.org/abs/2505.07427v1)|null|
-|**2025-05-12 06:40:29**|**Adaptive, Robust and Scalable Bayesian Filtering for Online Learning**|Gerardo Duran-Martin et.al.|[2505.07267v1](http://arxiv.org/abs/2505.07267v1)|null|
-|**2025-05-06 18:34:37**|**Hesitation is defeat? Connecting Linguistic and Predictive Uncertainty**|Gianluca Manzo et.al.|[2505.03910v1](http://arxiv.org/abs/2505.03910v1)|null|
-|**2025-05-06 14:46:16**|**Decision Making under Model Misspecification: DRO with Robust Bayesian   Ambiguity Sets**|Charita Dellaporta et.al.|[2505.03585v1](http://arxiv.org/abs/2505.03585v1)|null|
-|**2025-05-02 13:17:45**|**Data-driven Approach for Interpolation of Sparse Data**|R. F. Ferguson et.al.|[2505.01473v1](http://arxiv.org/abs/2505.01473v1)|[link](https://github.com/rferguson22/gaussian-process)|
-|**2025-04-30 07:44:17**|**Statistical process discovery**|Pierre Cry et.al.|[2504.21390v1](http://arxiv.org/abs/2504.21390v1)|[link](https://github.com/DocPierro/modelchecking_spd)|
-|**2025-04-29 09:16:33**|**Explanation format does not matter; but explanations do -- An Eggsbert   study on explaining Bayesian Optimisation tasks**|Tanmay Chakraborty et.al.|[2504.20567v2](http://arxiv.org/abs/2504.20567v2)|null|
-|**2025-04-14 12:34:03**|**ChartOptimiser: Task-driven Optimisation of Chart Designs**|Yao Wang et.al.|[2504.10180v1](http://arxiv.org/abs/2504.10180v1)|null|
-|**2025-03-31 13:01:59**|**TOPz: photometric redshifts using template fitting applied to GAMA   survey**|E. Tempel et.al.|[2503.24039v1](http://arxiv.org/abs/2503.24039v1)|null|
-|**2025-03-31 12:40:50**|**Bayesian Predictive Coding**|Alexander Tschantz et.al.|[2503.24016v1](http://arxiv.org/abs/2503.24016v1)|null|
-|**2025-03-24 11:24:37**|**A generalisable data-augmented turbulence model with progressive and   interpretable corrections**|Mario J. Rincón et.al.|[2503.18568v1](http://arxiv.org/abs/2503.18568v1)|[link](https://github.com/AUfluids/KOSSTPDA)|
-|**2025-03-21 14:35:29**|**Bayesian optimisation of poloidal field coil positions in tokamaks**|Timothy Nunn et.al.|[2503.17189v2](http://arxiv.org/abs/2503.17189v2)|null|
-|**2025-03-20 23:11:30**|**SuperARC: An Agnostic Test for Narrow, General, and Super Intelligence   Based On the Principles of Recursive Compression and Algorithmic Probability**|Alberto Hernández-Espinosa et.al.|[2503.16743v3](http://arxiv.org/abs/2503.16743v3)|[link](https://github.com/AlgoDynLab/SuperintelligenceTest)|
-|**2025-03-20 21:09:38**|**Accelerated Medicines Development using a Digital Formulator and a   Self-Driving Tableting DataFactory**|Faisal Abbas et.al.|[2503.17411v1](http://arxiv.org/abs/2503.17411v1)|[link](https://gitlab.cis.strath.ac.uk/fmb22104/cmac-self-driving-tabletting-datafactory)|
-|**2025-03-19 15:27:24**|**Euclid Quick Data Release (Q1). LEMON -- Lens Modelling with Neural   networks. Automated and fast modelling of Euclid gravitational lenses with a   singular isothermal ellipsoid mass profile**| Euclid Collaboration et.al.|[2503.15329v1](http://arxiv.org/abs/2503.15329v1)|null|
-|**2025-03-11 09:54:00**|**Generation and Balancing Capacity in Future Electric Power Systems --   Scenario Analysis Using Bayesian Networks**|Seppo Borenius et.al.|[2503.08232v1](http://arxiv.org/abs/2503.08232v1)|null|
-|**2025-03-10 11:00:48**|**Transforming Traditional Neural Networks into Neuromorphic   Quantum-Cognitive Models: A Tutorial with Applications**|Milan Maksimovic et.al.|[2503.07681v1](http://arxiv.org/abs/2503.07681v1)|[link](https://github.com/IvanMaksymov/Quantum-Tunnelling-Neural-Networks-Tutorial)|
-|**2025-03-04 12:43:33**|**Machine Learning-based Regional Cooling Demand Prediction with Optimised   Dataset Partitioning**|Meng Zhang et.al.|[2503.05813v1](http://arxiv.org/abs/2503.05813v1)|null|
-|**2025-03-01 07:04:54**|**Few-shot crack image classification using clip based on bayesian   optimization**|Yingchao Zhang et.al.|[2503.00376v1](http://arxiv.org/abs/2503.00376v1)|null|
-|**2025-02-25 15:19:10**|**Nested Expectations with Kernel Quadrature**|Zonghao Chen et.al.|[2502.18284v2](http://arxiv.org/abs/2502.18284v2)|[link](https://github.com/hudsonchen/nest_kq)|
-|**2025-02-18 19:22:15**|**Systematic Bayesian Optimization for Atomic Structure Calculations of   Heavy Elements**|Ricardo Ferreira da Silva et.al.|[2502.13250v2](http://arxiv.org/abs/2502.13250v2)|null|
+ 自动更新 @ 2025-06-27 16:13:56 Asia/Shanghai
 
 ## Knob Tuning
 
@@ -73,11 +37,50 @@
 |**2024-11-28 19:20:27**|**Diode effect in Fraunhofer patterns of disordered multi-terminal   Josephson junctions**|Luca Chirolli et.al.|[2411.19338v1](http://arxiv.org/abs/2411.19338v1)|null|
 |**2024-11-24 14:47:13**|**Less is More: Efficient Model Merging with Binary Task Switch**|Biqing Qi et.al.|[2412.00054v1](http://arxiv.org/abs/2412.00054v1)|null|
 
+## Bayesian Optimisation
+
+### Bayesian Optimisation
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-23 06:23:12**|**Predictive Analytics for Collaborators Answers, Code Quality, and   Dropout on Stack Overflow**|Elijah Zolduoarrati et.al.|[2506.18329v1](http://arxiv.org/abs/2506.18329v1)|null|
+|**2025-06-10 08:31:35**|**The Roles of Low-Noise Stations, Arrays and Ocean-Bottom Seismometers in   Monitoring UK Offshore Seismicity associated with Subsurface Storage of   Carbon Dioxide**|Dominik Strutz et.al.|[2506.08560v1](http://arxiv.org/abs/2506.08560v1)|null|
+|**2025-06-09 12:17:19**|**Rao-Blackwellised Reparameterisation Gradients**|Kevin Lam et.al.|[2506.07687v1](http://arxiv.org/abs/2506.07687v1)|null|
+|**2025-06-04 12:52:53**|**FLIP: Flowability-Informed Powder Weighing**|Nikola Radulov et.al.|[2506.03896v2](http://arxiv.org/abs/2506.03896v2)|null|
+|**2025-06-03 17:12:21**|**Modelling the Effects of Hearing Loss on Neural Coding in the Auditory   Midbrain with Variational Conditioning**|Lloyd Pellatt et.al.|[2506.03088v1](http://arxiv.org/abs/2506.03088v1)|null|
+|**2025-05-30 15:11:52**|**Soft Reasoning: Navigating Solution Spaces in Large Language Models   through Controlled Embedding Exploration**|Qinglin Zhu et.al.|[2505.24688v2](http://arxiv.org/abs/2505.24688v2)|null|
+|**2025-05-27 19:11:11**|**Development of a Multiprocessing Interface Genetic Algorithm for   Optimising a Multilayer Perceptron for Disease Prediction**|Iliyas Ibrahim Iliyas et.al.|[2506.15694v1](http://arxiv.org/abs/2506.15694v1)|null|
+|**2025-05-23 14:33:20**|**A Principled Bayesian Framework for Training Binary and Spiking Neural   Networks**|James A. Walker et.al.|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|null|
+|**2025-05-16 15:51:28**|**High brightness, symmetric electron bunch generation in a plasma   wakefield accelerator via a radially-polarized plasma photocathode**|James Chappell et.al.|[2505.11387v1](http://arxiv.org/abs/2505.11387v1)|null|
+|**2025-05-12 10:34:41**|**A Value of Information-based assessment of strain-based thickness loss   monitoring in ship hull structures**|Nicholas E. Silionis et.al.|[2505.07427v1](http://arxiv.org/abs/2505.07427v1)|null|
+|**2025-05-12 06:40:29**|**Adaptive, Robust and Scalable Bayesian Filtering for Online Learning**|Gerardo Duran-Martin et.al.|[2505.07267v1](http://arxiv.org/abs/2505.07267v1)|null|
+|**2025-05-06 18:34:37**|**Hesitation is defeat? Connecting Linguistic and Predictive Uncertainty**|Gianluca Manzo et.al.|[2505.03910v1](http://arxiv.org/abs/2505.03910v1)|null|
+|**2025-05-06 14:46:16**|**Decision Making under Model Misspecification: DRO with Robust Bayesian   Ambiguity Sets**|Charita Dellaporta et.al.|[2505.03585v1](http://arxiv.org/abs/2505.03585v1)|null|
+|**2025-05-02 13:17:45**|**Data-driven Approach for Interpolation of Sparse Data**|R. F. Ferguson et.al.|[2505.01473v1](http://arxiv.org/abs/2505.01473v1)|[link](https://github.com/rferguson22/gaussian-process)|
+|**2025-04-30 07:44:17**|**Statistical process discovery**|Pierre Cry et.al.|[2504.21390v1](http://arxiv.org/abs/2504.21390v1)|[link](https://github.com/DocPierro/modelchecking_spd)|
+|**2025-04-29 09:16:33**|**Explanation format does not matter; but explanations do -- An Eggsbert   study on explaining Bayesian Optimisation tasks**|Tanmay Chakraborty et.al.|[2504.20567v2](http://arxiv.org/abs/2504.20567v2)|null|
+|**2025-04-14 12:34:03**|**ChartOptimiser: Task-driven Optimisation of Chart Designs**|Yao Wang et.al.|[2504.10180v1](http://arxiv.org/abs/2504.10180v1)|null|
+|**2025-03-31 13:01:59**|**TOPz: photometric redshifts using template fitting applied to GAMA   survey**|E. Tempel et.al.|[2503.24039v1](http://arxiv.org/abs/2503.24039v1)|null|
+|**2025-03-31 12:40:50**|**Bayesian Predictive Coding**|Alexander Tschantz et.al.|[2503.24016v1](http://arxiv.org/abs/2503.24016v1)|null|
+|**2025-03-24 11:24:37**|**A generalisable data-augmented turbulence model with progressive and   interpretable corrections**|Mario J. Rincón et.al.|[2503.18568v1](http://arxiv.org/abs/2503.18568v1)|[link](https://github.com/AUfluids/KOSSTPDA)|
+|**2025-03-21 14:35:29**|**Bayesian optimisation of poloidal field coil positions in tokamaks**|Timothy Nunn et.al.|[2503.17189v2](http://arxiv.org/abs/2503.17189v2)|null|
+|**2025-03-20 23:11:30**|**SuperARC: An Agnostic Test for Narrow, General, and Super Intelligence   Based On the Principles of Recursive Compression and Algorithmic Probability**|Alberto Hernández-Espinosa et.al.|[2503.16743v3](http://arxiv.org/abs/2503.16743v3)|[link](https://github.com/AlgoDynLab/SuperintelligenceTest)|
+|**2025-03-20 21:09:38**|**Accelerated Medicines Development using a Digital Formulator and a   Self-Driving Tableting DataFactory**|Faisal Abbas et.al.|[2503.17411v1](http://arxiv.org/abs/2503.17411v1)|[link](https://gitlab.cis.strath.ac.uk/fmb22104/cmac-self-driving-tabletting-datafactory)|
+|**2025-03-19 15:27:24**|**Euclid Quick Data Release (Q1). LEMON -- Lens Modelling with Neural   networks. Automated and fast modelling of Euclid gravitational lenses with a   singular isothermal ellipsoid mass profile**| Euclid Collaboration et.al.|[2503.15329v1](http://arxiv.org/abs/2503.15329v1)|null|
+|**2025-03-11 09:54:00**|**Generation and Balancing Capacity in Future Electric Power Systems --   Scenario Analysis Using Bayesian Networks**|Seppo Borenius et.al.|[2503.08232v1](http://arxiv.org/abs/2503.08232v1)|null|
+|**2025-03-10 11:00:48**|**Transforming Traditional Neural Networks into Neuromorphic   Quantum-Cognitive Models: A Tutorial with Applications**|Milan Maksimovic et.al.|[2503.07681v1](http://arxiv.org/abs/2503.07681v1)|[link](https://github.com/IvanMaksymov/Quantum-Tunnelling-Neural-Networks-Tutorial)|
+|**2025-03-04 12:43:33**|**Machine Learning-based Regional Cooling Demand Prediction with Optimised   Dataset Partitioning**|Meng Zhang et.al.|[2503.05813v1](http://arxiv.org/abs/2503.05813v1)|null|
+|**2025-03-01 07:04:54**|**Few-shot crack image classification using clip based on bayesian   optimization**|Yingchao Zhang et.al.|[2503.00376v1](http://arxiv.org/abs/2503.00376v1)|null|
+|**2025-02-25 15:19:10**|**Nested Expectations with Kernel Quadrature**|Zonghao Chen et.al.|[2502.18284v2](http://arxiv.org/abs/2502.18284v2)|[link](https://github.com/hudsonchen/nest_kq)|
+|**2025-02-18 19:22:15**|**Systematic Bayesian Optimization for Atomic Structure Calculations of   Heavy Elements**|Ricardo Ferreira da Silva et.al.|[2502.13250v2](http://arxiv.org/abs/2502.13250v2)|null|
+
 ## Query Optimization
 
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-26 16:20:31**|**Succinct Preferential Attachment Graphs**|Ziad Ismaili Alaoui et.al.|[2506.21436v1](http://arxiv.org/abs/2506.21436v1)|null|
+|**2025-06-26 15:46:28**|**FastRef:Fast Prototype Refinement for Few-Shot Industrial Anomaly   Detection**|Long Tian et.al.|[2506.21398v1](http://arxiv.org/abs/2506.21398v1)|null|
+|**2025-06-26 06:52:33**|**A Semi-supervised Scalable Unified Framework for E-commerce Query   Classification**|Chunyuan Yuan et.al.|[2506.21049v1](http://arxiv.org/abs/2506.21049v1)|null|
 |**2025-06-25 13:27:07**|**Cut-Query Algorithms with Few Rounds**|Yotam Kenneth-Mordoch et.al.|[2506.20412v1](http://arxiv.org/abs/2506.20412v1)|null|
 |**2025-06-25 10:51:57**|**Near Time-Optimal Hybrid Motion Planning for Timber Cranes**|Marc-Philip Ecker et.al.|[2506.20314v1](http://arxiv.org/abs/2506.20314v1)|null|
 |**2025-06-24 19:47:27**|**Context Attribution with Multi-Armed Bandit Optimization**|Deng Pan et.al.|[2506.19977v1](http://arxiv.org/abs/2506.19977v1)|null|
@@ -85,9 +88,9 @@
 |**2025-06-24 12:49:00**|**ConStellaration: A dataset of QI-like stellarator plasma boundaries and   optimization benchmarks**|Santiago A. Cadena et.al.|[2506.19583v1](http://arxiv.org/abs/2506.19583v1)|null|
 |**2025-06-23 17:59:55**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual   Retrieval**|Michael Günther et.al.|[2506.18902v2](http://arxiv.org/abs/2506.18902v2)|null|
 |**2025-06-23 17:18:11**|**ECLEIRS: Exact conservation law embedded identification of reduced   states for parameterized partial differential equations from sparse and noisy   data**|Aviral Prakash et.al.|[2506.18855v1](http://arxiv.org/abs/2506.18855v1)|null|
-|**2025-06-23 15:05:54**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728v1](http://arxiv.org/abs/2506.18728v1)|null|
+|**2025-06-23 15:05:54**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728v2](http://arxiv.org/abs/2506.18728v2)|null|
 |**2025-06-23 05:30:09**|**Comparative Analysis of Lion and AdamW Optimizers for Cross-Encoder   Reranking with MiniLM, GTE, and ModernBERT**|Shahil Kumar et.al.|[2506.18297v1](http://arxiv.org/abs/2506.18297v1)|null|
-|**2025-06-23 02:28:44**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246v2](http://arxiv.org/abs/2506.18246v2)|null|
+|**2025-06-23 02:28:44**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246v3](http://arxiv.org/abs/2506.18246v3)|null|
 |**2025-06-22 16:48:57**|**G-SEED: A Spatio-temporal Encoding Framework for Forest and Grassland   Data Based on GeoSOT**|Xuan Ouyang et.al.|[2506.18094v1](http://arxiv.org/abs/2506.18094v1)|null|
 |**2025-06-22 10:28:46**|**SliceGX: Layer-wise GNN Explanation with Model-slicing**|Tingting Zhu et.al.|[2506.17977v1](http://arxiv.org/abs/2506.17977v1)|null|
 |**2025-06-22 03:30:27**|**GD-Retriever: Controllable Generative Text-Music Retrieval with   Diffusion Models**|Julien Guinot et.al.|[2506.17886v2](http://arxiv.org/abs/2506.17886v2)|null|
@@ -105,6 +108,3 @@
 |**2025-06-19 14:59:01**|**PBench: Workload Synthesizer with Real Statistics for Cloud Analytics   Benchmarking**|Yan Zhou et.al.|[2506.16379v1](http://arxiv.org/abs/2506.16379v1)|null|
 |**2025-06-19 11:45:06**|**Think Global, Act Local: Bayesian Causal Discovery with Language Models   in Sequential Data**|Prakhar Verma et.al.|[2506.16234v1](http://arxiv.org/abs/2506.16234v1)|null|
 |**2025-06-19 09:45:13**|**SGIC: A Self-Guided Iterative Calibration Framework for RAG**|Guanhua Chen et.al.|[2506.16172v1](http://arxiv.org/abs/2506.16172v1)|null|
-|**2025-06-19 08:02:53**|**AutoV: Learning to Retrieve Visual Prompt for Large Vision-Language   Models**|Yuan Zhang et.al.|[2506.16112v1](http://arxiv.org/abs/2506.16112v1)|null|
-|**2025-06-19 05:40:54**|**DynScaling: Efficient Verifier-free Inference Scaling via Dynamic and   Integrated Sampling**|Fei Wang et.al.|[2506.16043v1](http://arxiv.org/abs/2506.16043v1)|null|
-|**2025-06-19 03:58:31**|**Data-Agnostic Cardinality Learning from Imperfect Workloads**|Peizhi Wu et.al.|[2506.16007v1](http://arxiv.org/abs/2506.16007v1)|[link](https://github.com/shoupzwu/grasp)|
