@@ -2,6 +2,10 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-27 14:36:39**|**Towards Operational Data Analytics Chatbots -- Virtual Knowledge Graph   is All You Need**|Junaid Ahmed Khan et.al.|[2506.22267v1](http://arxiv.org/abs/2506.22267v1)|null|
+|**2025-06-27 05:34:57**|**SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D   Visual Grounding**|Zhao Jin et.al.|[2506.21924v1](http://arxiv.org/abs/2506.21924v1)|null|
+|**2025-06-27 04:21:57**|**Thompson Sampling in Function Spaces via Neural Operators**|Rafael Oliveira et.al.|[2506.21894v1](http://arxiv.org/abs/2506.21894v1)|null|
+|**2025-06-27 03:18:45**|**WildSpeech-Bench: Benchmarking Audio LLMs in Natural Speech Conversation**|Jian Zhang et.al.|[2506.21875v1](http://arxiv.org/abs/2506.21875v1)|null|
 |**2025-06-26 16:20:31**|**Succinct Preferential Attachment Graphs**|Ziad Ismaili Alaoui et.al.|[2506.21436v1](http://arxiv.org/abs/2506.21436v1)|null|
 |**2025-06-26 15:46:28**|**FastRef:Fast Prototype Refinement for Few-Shot Industrial Anomaly   Detection**|Long Tian et.al.|[2506.21398v1](http://arxiv.org/abs/2506.21398v1)|null|
 |**2025-06-26 06:52:33**|**A Semi-supervised Scalable Unified Framework for E-commerce Query   Classification**|Chunyuan Yuan et.al.|[2506.21049v1](http://arxiv.org/abs/2506.21049v1)|null|
@@ -28,7 +32,3 @@
 |**2025-06-20 07:16:47**|**MIST: Jailbreaking Black-box Large Language Models via Iterative   Semantic Tuning**|Muyang Zheng et.al.|[2506.16792v1](http://arxiv.org/abs/2506.16792v1)|null|
 |**2025-06-20 06:34:19**|**Infrared and Visible Image Fusion Based on Implicit Neural   Representations**|Shuchen Sun et.al.|[2506.16773v1](http://arxiv.org/abs/2506.16773v1)|null|
 |**2025-06-19 23:57:41**|**Arch-Router: Aligning LLM Routing with Human Preferences**|Co Tran et.al.|[2506.16655v1](http://arxiv.org/abs/2506.16655v1)|null|
-|**2025-06-19 19:13:59**|**Revela: Dense Retriever Learning via Language Modeling**|Fengyu Cai et.al.|[2506.16552v1](http://arxiv.org/abs/2506.16552v1)|[link](https://github.com/trumancfy/revela)|
-|**2025-06-19 14:59:01**|**PBench: Workload Synthesizer with Real Statistics for Cloud Analytics   Benchmarking**|Yan Zhou et.al.|[2506.16379v1](http://arxiv.org/abs/2506.16379v1)|null|
-|**2025-06-19 11:45:06**|**Think Global, Act Local: Bayesian Causal Discovery with Language Models   in Sequential Data**|Prakhar Verma et.al.|[2506.16234v1](http://arxiv.org/abs/2506.16234v1)|null|
-|**2025-06-19 09:45:13**|**SGIC: A Self-Guided Iterative Calibration Framework for RAG**|Guanhua Chen et.al.|[2506.16172v1](http://arxiv.org/abs/2506.16172v1)|null|
