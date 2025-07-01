@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-30 00:45:59**|**Topotactic phase transformation in correlated vanadium dioxide through   oxygen vacancy ordering**|Xuanchi Zhou et.al.|[2506.23445v1](http://arxiv.org/abs/2506.23445v1)|null|
 |**2025-06-23 04:52:08**|**Tu(r)ning AI Green: Exploring Energy Efficiency Cascading with   Orthogonal Optimizations**|Saurabhsingh Rajput et.al.|[2506.18289v1](http://arxiv.org/abs/2506.18289v1)|null|
 |**2025-06-12 17:59:51**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978v2](http://arxiv.org/abs/2506.10978v2)|null|
 |**2025-06-04 15:15:23**|**WANDER: An Explainable Decision-Support Framework for HPC**|Ankur Lahiry et.al.|[2506.04049v1](http://arxiv.org/abs/2506.04049v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-18 13:57:57**|**Unveiling intrinsic bulk photovoltaic effect in atomically thin ReS2**|Maria Ramos et.al.|[2412.13863v1](http://arxiv.org/abs/2412.13863v1)|null|
 |**2024-12-04 09:13:47**|**Mapping delocalization of impurity bands across archetypal Mott-Anderson   transition**|M. Parzer et.al.|[2412.03147v1](http://arxiv.org/abs/2412.03147v1)|null|
 |**2024-11-28 19:20:27**|**Diode effect in Fraunhofer patterns of disordered multi-terminal   Josephson junctions**|Luca Chirolli et.al.|[2411.19338v1](http://arxiv.org/abs/2411.19338v1)|null|
-|**2024-11-24 14:47:13**|**Less is More: Efficient Model Merging with Binary Task Switch**|Biqing Qi et.al.|[2412.00054v1](http://arxiv.org/abs/2412.00054v1)|null|

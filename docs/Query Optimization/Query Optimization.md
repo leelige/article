@@ -2,6 +2,18 @@
 ### Query Optimization
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-30 15:03:35**|**QPART: Adaptive Model Quantization and Dynamic Workload Balancing for   Accuracy-aware Edge Inference**|Xiangchen Li et.al.|[2506.23934v1](http://arxiv.org/abs/2506.23934v1)|null|
+|**2025-06-30 13:52:31**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858v1](http://arxiv.org/abs/2506.23858v1)|null|
+|**2025-06-30 13:14:46**|**Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language   Model**|Shiming Chen et.al.|[2506.23822v1](http://arxiv.org/abs/2506.23822v1)|[link](https://github.com/shiming-chen/LaZSL)|
+|**2025-06-30 12:08:02**|**Spatio-Temporal Representation Decoupling and Enhancement for Federated   Instrument Segmentation in Surgical Videos**|Zheng Fang et.al.|[2506.23759v1](http://arxiv.org/abs/2506.23759v1)|null|
+|**2025-06-30 10:30:27**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline   for Large-scale Images**|Jiewei Lai et.al.|[2506.23707v1](http://arxiv.org/abs/2506.23707v1)|null|
+|**2025-06-30 09:24:03**|**Optimal Quantum Algorithm for Estimating Fidelity to a Pure State**|Wang Fang et.al.|[2506.23650v1](http://arxiv.org/abs/2506.23650v1)|null|
+|**2025-06-29 15:55:01**|**SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable   Gaussian Splatting**|Yiming Huang et.al.|[2506.23309v1](http://arxiv.org/abs/2506.23309v1)|[link](https://github.com/lastbasket/SurgTPGS)|
+|**2025-06-28 14:30:37**|**MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical   Visual Question Answering**|Mai A. Shaaban et.al.|[2506.22900v1](http://arxiv.org/abs/2506.22900v1)|[link](https://github.com/BioMedIA-MBZUAI/MOTOR)|
+|**2025-06-28 10:38:54**|**FOCUS: Fine-grained Optimization with Semantic Guided Understanding for   Pedestrian Attributes Recognition**|Hongyan An et.al.|[2506.22836v1](http://arxiv.org/abs/2506.22836v1)|null|
+|**2025-06-28 01:52:50**|**BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute**|Dujian Ding et.al.|[2506.22716v1](http://arxiv.org/abs/2506.22716v1)|null|
+|**2025-06-27 22:22:00**|**VERA: Variational Inference Framework for Jailbreaking Large Language   Models**|Anamika Lochab et.al.|[2506.22666v1](http://arxiv.org/abs/2506.22666v1)|null|
+|**2025-06-27 18:15:56**|**MetaCipher: A General and Extensible Reinforcement Learning Framework   for Obfuscation-Based Jailbreak Attacks on Black-Box LLMs**|Boyuan Chen et.al.|[2506.22557v1](http://arxiv.org/abs/2506.22557v1)|null|
 |**2025-06-27 14:36:39**|**Towards Operational Data Analytics Chatbots -- Virtual Knowledge Graph   is All You Need**|Junaid Ahmed Khan et.al.|[2506.22267v1](http://arxiv.org/abs/2506.22267v1)|null|
 |**2025-06-27 05:34:57**|**SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D   Visual Grounding**|Zhao Jin et.al.|[2506.21924v1](http://arxiv.org/abs/2506.21924v1)|null|
 |**2025-06-27 04:21:57**|**Thompson Sampling in Function Spaces via Neural Operators**|Rafael Oliveira et.al.|[2506.21894v1](http://arxiv.org/abs/2506.21894v1)|null|
@@ -20,15 +32,3 @@
 |**2025-06-23 05:30:09**|**Comparative Analysis of Lion and AdamW Optimizers for Cross-Encoder   Reranking with MiniLM, GTE, and ModernBERT**|Shahil Kumar et.al.|[2506.18297v1](http://arxiv.org/abs/2506.18297v1)|null|
 |**2025-06-23 02:28:44**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246v3](http://arxiv.org/abs/2506.18246v3)|null|
 |**2025-06-22 16:48:57**|**G-SEED: A Spatio-temporal Encoding Framework for Forest and Grassland   Data Based on GeoSOT**|Xuan Ouyang et.al.|[2506.18094v1](http://arxiv.org/abs/2506.18094v1)|null|
-|**2025-06-22 10:28:46**|**SliceGX: Layer-wise GNN Explanation with Model-slicing**|Tingting Zhu et.al.|[2506.17977v1](http://arxiv.org/abs/2506.17977v1)|null|
-|**2025-06-22 03:30:27**|**GD-Retriever: Controllable Generative Text-Music Retrieval with   Diffusion Models**|Julien Guinot et.al.|[2506.17886v2](http://arxiv.org/abs/2506.17886v2)|null|
-|**2025-06-21 22:26:20**|**Time-Contrastive Pretraining for In-Context Image and Video Segmentation**|Assefa Wahd et.al.|[2506.17837v1](http://arxiv.org/abs/2506.17837v1)|null|
-|**2025-06-21 06:40:32**|**Contextual Pattern Mining and Counting**|Ling Li et.al.|[2506.17613v1](http://arxiv.org/abs/2506.17613v1)|null|
-|**2025-06-20 22:24:38**|**Episode-specific Fine-tuning for Metric-based Few-shot Learners with   Optimization-based Training**|Xuanyu Zhuang et.al.|[2506.17499v1](http://arxiv.org/abs/2506.17499v1)|null|
-|**2025-06-20 17:42:13**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188v1](http://arxiv.org/abs/2506.17188v1)|null|
-|**2025-06-20 11:30:58**|**Advancing Fact Attribution for Query Answering: Aggregate Queries and   Novel Algorithms**|Omer Abramovich et.al.|[2506.16923v1](http://arxiv.org/abs/2506.16923v1)|[link](https://github.com/omer-abramovich/lexaban-lexashap)|
-|**2025-06-20 09:02:05**|**Reward-Agnostic Prompt Optimization for Text-to-Image Diffusion Models**|Semin Kim et.al.|[2506.16853v1](http://arxiv.org/abs/2506.16853v1)|[link](https://github.com/seminkim/rattpo)|
-|**2025-06-20 08:38:51**|**Hybrid-Sep: Language-queried audio source separation via pre-trained   Model Fusion and Adversarial Diffusion Training**|Jianyuan Feng et.al.|[2506.16833v1](http://arxiv.org/abs/2506.16833v1)|null|
-|**2025-06-20 07:16:47**|**MIST: Jailbreaking Black-box Large Language Models via Iterative   Semantic Tuning**|Muyang Zheng et.al.|[2506.16792v1](http://arxiv.org/abs/2506.16792v1)|null|
-|**2025-06-20 06:34:19**|**Infrared and Visible Image Fusion Based on Implicit Neural   Representations**|Shuchen Sun et.al.|[2506.16773v1](http://arxiv.org/abs/2506.16773v1)|null|
-|**2025-06-19 23:57:41**|**Arch-Router: Aligning LLM Routing with Human Preferences**|Co Tran et.al.|[2506.16655v1](http://arxiv.org/abs/2506.16655v1)|null|
