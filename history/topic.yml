@@ -13,5 +13,9 @@
 "Knob Tuning":
   "Knob Tuning": '(all:Knob+OR+all:knob)+AND+(all:Tuning+OR+all:tuning)'
 
-"Query Optimization":
-  "Query Optimization": '(all:Query+OR+all:query)+AND+(all:Optimization+OR+all:optimization)'
+# "Query Optimization":
+#   "Query Optimization": '(all:Query+OR+all:query)+AND+(all:Optimization+OR+all:optimization)'
+
+"Random Forest Regression":
+  "Random Forest Regression": '(all:Random+OR+all:random)+AND+(all:Forest+OR+all:forest)+AND+(all:Regression+OR+all:regression)'
+
