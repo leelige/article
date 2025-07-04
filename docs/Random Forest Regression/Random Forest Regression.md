@@ -3,8 +3,10 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-07-02 15:57:52**|**Modeling the Deterioration of Pavement Skid Resistance and Surface   Texture After Preventive Maintenance**|Lu Gao et.al.|[2507.01842v1](http://arxiv.org/abs/2507.01842v1)|null|
+|**2025-07-01 21:57:12**|**Discovery of Fatigue Strength Models via Feature Engineering and   automated eXplainable Machine Learning applied to the welded Transverse   Stiffener**|Michael A. Kraus et.al.|[2507.02005v1](http://arxiv.org/abs/2507.02005v1)|null|
 |**2025-07-01 19:37:04**|**Star formation drivers across the M33 disk**|Edvige Corbelli et.al.|[2507.01158v1](http://arxiv.org/abs/2507.01158v1)|null|
 |**2025-07-01 00:56:11**|**Dark from light (DfL): Inferring halo properties from luminous tracers   with machine learning trained on cosmological simulations. I. Method, proof   of concept & preliminary testing**|Asa F. L. Bluck et.al.|[2507.00351v1](http://arxiv.org/abs/2507.00351v1)|null|
+|**2025-06-29 09:33:29**|**FinAI-BERT: A Transformer-Based Model for Sentence-Level Detection of AI   Disclosures in Financial Reports**|Muhammad Bilal Zafar et.al.|[2507.01991v1](http://arxiv.org/abs/2507.01991v1)|null|
 |**2025-06-24 16:56:07**|**A comparative analysis of machine learning algorithms for predicting   probabilities of default**|Adrian Iulian Cristescu et.al.|[2506.19789v1](http://arxiv.org/abs/2506.19789v1)|null|
 |**2025-06-20 23:21:39**|**Empirical Models of the Time Evolution of SPX Option Prices**|Alessio Brini et.al.|[2506.17511v1](http://arxiv.org/abs/2506.17511v1)|null|
 |**2025-06-20 14:51:35**|**MAWIFlow Benchmark: Realistic Flow-Based Evaluation for Network   Intrusion Detection**|Joshua Schraven et.al.|[2506.17041v1](http://arxiv.org/abs/2506.17041v1)|[link](https://github.com/TheLurps/MAWIFlow)|
@@ -30,5 +32,3 @@
 |**2025-06-02 09:46:08**|**Model-agnostic Mitigation Strategies of Data Imbalance for Regression**|Jelke Wibbeke et.al.|[2506.01486v1](http://arxiv.org/abs/2506.01486v1)|null|
 |**2025-05-29 10:30:13**|**Efficient Parameter Estimation for Bayesian Network Classifiers using   Hierarchical Linear Smoothing**|Connor Cooper et.al.|[2505.23320v1](http://arxiv.org/abs/2505.23320v1)|[link](https://github.com/coopco/hls)|
 |**2025-05-28 16:34:58**|**Can Copulas Be Used for Feature Selection? A Machine Learning Study on   Diabetes Risk Prediction**|Agnideep Aich et.al.|[2505.22554v1](http://arxiv.org/abs/2505.22554v1)|null|
-|**2025-05-28 16:08:04**|**Evaluating Supervised Learning Models for Fraud Detection: A Comparative   Study of Classical and Deep Architectures on Imbalanced Transaction Data**|Chao Wang et.al.|[2505.22521v1](http://arxiv.org/abs/2505.22521v1)|null|
-|**2025-05-27 17:15:02**|**Autoencoding Random Forests**|Binh Duc Vu et.al.|[2505.21441v1](http://arxiv.org/abs/2505.21441v1)|null|

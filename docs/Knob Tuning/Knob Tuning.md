@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-03 11:32:41**|**Are You Listening to Me? Fine-Tuning Chatbots for Empathetic Dialogue**|Paulo Ricardo Knob et.al.|[2507.02537v1](http://arxiv.org/abs/2507.02537v1)|null|
 |**2025-06-30 18:00:01**|**Majoranas with a twist: Tunable Majorana zero modes in altermagnetic   heterostructures**|Andreas Hadjipaschalis et.al.|[2507.00119v1](http://arxiv.org/abs/2507.00119v1)|null|
 |**2025-06-30 00:45:59**|**Topotactic phase transformation in correlated vanadium dioxide through   oxygen vacancy ordering**|Xuanchi Zhou et.al.|[2506.23445v1](http://arxiv.org/abs/2506.23445v1)|null|
 |**2025-06-23 04:52:08**|**Tu(r)ning AI Green: Exploring Energy Efficiency Cascading with   Orthogonal Optimizations**|Saurabhsingh Rajput et.al.|[2506.18289v1](http://arxiv.org/abs/2506.18289v1)|null|
@@ -31,4 +32,3 @@
 |**2025-01-09 07:37:13**|**Time-domain study of coupled collective excitations in quantum materials**|Chenhang Xu et.al.|[2501.05028v2](http://arxiv.org/abs/2501.05028v2)|null|
 |**2025-01-04 01:06:46**|**Resolving the Exploration-Exploitation Dilemma in Evolutionary   Algorithms: A Novel Human-Centered Framework**|Ehsan Shams et.al.|[2501.02153v2](http://arxiv.org/abs/2501.02153v2)|null|
 |**2024-12-18 13:57:57**|**Unveiling intrinsic bulk photovoltaic effect in atomically thin ReS2**|Maria Ramos et.al.|[2412.13863v1](http://arxiv.org/abs/2412.13863v1)|null|
-|**2024-12-04 09:13:47**|**Mapping delocalization of impurity bands across archetypal Mott-Anderson   transition**|M. Parzer et.al.|[2412.03147v1](http://arxiv.org/abs/2412.03147v1)|null|
