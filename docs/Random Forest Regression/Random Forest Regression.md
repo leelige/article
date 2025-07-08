@@ -2,12 +2,15 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-06 05:50:34**|**ATwo-Stage Ensemble Feature Selection and Particle Swarm Optimization   Approach for Micro-Array Data Classification in Distributed Computing   Environments**|Aayush Adhikari et.al.|[2507.04251v1](http://arxiv.org/abs/2507.04251v1)|null|
+|**2025-07-05 14:20:09**|**Predictive Modeling of Effluent Temperature in SAT Systems Using Ambient   Meteorological Data: Implications for Infiltration Management**|Roy Elkayam et.al.|[2507.04050v1](http://arxiv.org/abs/2507.04050v1)|null|
 |**2025-07-02 15:57:52**|**Modeling the Deterioration of Pavement Skid Resistance and Surface   Texture After Preventive Maintenance**|Lu Gao et.al.|[2507.01842v1](http://arxiv.org/abs/2507.01842v1)|null|
 |**2025-07-01 21:57:12**|**Discovery of Fatigue Strength Models via Feature Engineering and   automated eXplainable Machine Learning applied to the welded Transverse   Stiffener**|Michael A. Kraus et.al.|[2507.02005v1](http://arxiv.org/abs/2507.02005v1)|null|
 |**2025-07-01 19:37:04**|**Star formation drivers across the M33 disk**|Edvige Corbelli et.al.|[2507.01158v1](http://arxiv.org/abs/2507.01158v1)|null|
 |**2025-07-01 00:56:11**|**Dark from light (DfL): Inferring halo properties from luminous tracers   with machine learning trained on cosmological simulations. I. Method, proof   of concept & preliminary testing**|Asa F. L. Bluck et.al.|[2507.00351v1](http://arxiv.org/abs/2507.00351v1)|null|
 |**2025-06-29 09:33:29**|**FinAI-BERT: A Transformer-Based Model for Sentence-Level Detection of AI   Disclosures in Financial Reports**|Muhammad Bilal Zafar et.al.|[2507.01991v1](http://arxiv.org/abs/2507.01991v1)|null|
 |**2025-06-24 16:56:07**|**A comparative analysis of machine learning algorithms for predicting   probabilities of default**|Adrian Iulian Cristescu et.al.|[2506.19789v1](http://arxiv.org/abs/2506.19789v1)|null|
+|**2025-06-24 02:41:51**|**Harnessing Near-Infrared Spectroscopy and Machine Learning for Traceable   Classification of Hanwoo and Holstein Beef**|AMM Nurul Alam et.al.|[2507.02903v1](http://arxiv.org/abs/2507.02903v1)|null|
 |**2025-06-20 23:21:39**|**Empirical Models of the Time Evolution of SPX Option Prices**|Alessio Brini et.al.|[2506.17511v1](http://arxiv.org/abs/2506.17511v1)|null|
 |**2025-06-20 14:51:35**|**MAWIFlow Benchmark: Realistic Flow-Based Evaluation for Network   Intrusion Detection**|Joshua Schraven et.al.|[2506.17041v1](http://arxiv.org/abs/2506.17041v1)|[link](https://github.com/TheLurps/MAWIFlow)|
 |**2025-06-20 11:44:48**|**A deep learning and machine learning approach to predict neonatal death   in the context of São Paulo**|Mohon Raihan et.al.|[2506.16929v1](http://arxiv.org/abs/2506.16929v1)|null|
@@ -29,6 +32,3 @@
 |**2025-06-06 08:33:59**|**Analysis of points outcome in ATP Grand Slam Tennis using big data and   machine learning**|Martin Illum et.al.|[2506.05866v1](http://arxiv.org/abs/2506.05866v1)|null|
 |**2025-06-05 11:43:31**|**Deciding When Not to Decide: Indeterminacy-Aware Intrusion Detection   with NeutroSENSE**|Eyhab Al-Masri et.al.|[2507.00003v1](http://arxiv.org/abs/2507.00003v1)|null|
 |**2025-06-04 21:55:27**|**Comparative performance of ensemble models in predicting dental provider   types: insights from fee-for-service data**|Mohammad Subhi Al-Batah et.al.|[2506.04479v1](http://arxiv.org/abs/2506.04479v1)|null|
-|**2025-06-02 09:46:08**|**Model-agnostic Mitigation Strategies of Data Imbalance for Regression**|Jelke Wibbeke et.al.|[2506.01486v1](http://arxiv.org/abs/2506.01486v1)|null|
-|**2025-05-29 10:30:13**|**Efficient Parameter Estimation for Bayesian Network Classifiers using   Hierarchical Linear Smoothing**|Connor Cooper et.al.|[2505.23320v1](http://arxiv.org/abs/2505.23320v1)|[link](https://github.com/coopco/hls)|
-|**2025-05-28 16:34:58**|**Can Copulas Be Used for Feature Selection? A Machine Learning Study on   Diabetes Risk Prediction**|Agnideep Aich et.al.|[2505.22554v1](http://arxiv.org/abs/2505.22554v1)|null|

@@ -2,6 +2,7 @@
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-05 05:53:04**|**Return of the Latent Space COWBOYS: Re-thinking the use of VAEs for   Bayesian Optimisation of Structured Spaces**|Henry B. Moss et.al.|[2507.03910v1](http://arxiv.org/abs/2507.03910v1)|null|
 |**2025-06-23 06:23:12**|**Predictive Analytics for Collaborators Answers, Code Quality, and   Dropout on Stack Overflow**|Elijah Zolduoarrati et.al.|[2506.18329v1](http://arxiv.org/abs/2506.18329v1)|null|
 |**2025-06-10 08:31:35**|**The Roles of Low-Noise Stations, Arrays and Ocean-Bottom Seismometers in   Monitoring UK Offshore Seismicity associated with Subsurface Storage of   Carbon Dioxide**|Dominik Strutz et.al.|[2506.08560v1](http://arxiv.org/abs/2506.08560v1)|null|
 |**2025-06-09 12:17:19**|**Rao-Blackwellised Reparameterisation Gradients**|Kevin Lam et.al.|[2506.07687v1](http://arxiv.org/abs/2506.07687v1)|null|
@@ -31,4 +32,3 @@
 |**2025-03-04 12:43:33**|**Machine Learning-based Regional Cooling Demand Prediction with Optimised   Dataset Partitioning**|Meng Zhang et.al.|[2503.05813v1](http://arxiv.org/abs/2503.05813v1)|null|
 |**2025-03-01 07:04:54**|**Few-shot crack image classification using clip based on bayesian   optimization**|Yingchao Zhang et.al.|[2503.00376v1](http://arxiv.org/abs/2503.00376v1)|null|
 |**2025-02-25 15:19:10**|**Nested Expectations with Kernel Quadrature**|Zonghao Chen et.al.|[2502.18284v2](http://arxiv.org/abs/2502.18284v2)|[link](https://github.com/hudsonchen/nest_kq)|
-|**2025-02-18 19:22:15**|**Systematic Bayesian Optimization for Atomic Structure Calculations of   Heavy Elements**|Ricardo Ferreira da Silva et.al.|[2502.13250v2](http://arxiv.org/abs/2502.13250v2)|null|
