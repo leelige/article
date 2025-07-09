@@ -2,6 +2,7 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-08 08:43:05**|**From Motion to Meaning: Biomechanics-Informed Neural Network for   Explainable Cardiovascular Disease Identification**|Comte Valentin et.al.|[2507.05783v1](http://arxiv.org/abs/2507.05783v1)|null|
 |**2025-07-06 05:50:34**|**ATwo-Stage Ensemble Feature Selection and Particle Swarm Optimization   Approach for Micro-Array Data Classification in Distributed Computing   Environments**|Aayush Adhikari et.al.|[2507.04251v1](http://arxiv.org/abs/2507.04251v1)|null|
 |**2025-07-05 14:20:09**|**Predictive Modeling of Effluent Temperature in SAT Systems Using Ambient   Meteorological Data: Implications for Infiltration Management**|Roy Elkayam et.al.|[2507.04050v1](http://arxiv.org/abs/2507.04050v1)|null|
 |**2025-07-02 15:57:52**|**Modeling the Deterioration of Pavement Skid Resistance and Surface   Texture After Preventive Maintenance**|Lu Gao et.al.|[2507.01842v1](http://arxiv.org/abs/2507.01842v1)|null|
@@ -31,4 +32,3 @@
 |**2025-06-06 22:05:19**|**Machine learning non-Markovian two-level quantum noise spectroscopy**|Juan Manuel Scarpetta et.al.|[2506.06555v1](http://arxiv.org/abs/2506.06555v1)|null|
 |**2025-06-06 08:33:59**|**Analysis of points outcome in ATP Grand Slam Tennis using big data and   machine learning**|Martin Illum et.al.|[2506.05866v1](http://arxiv.org/abs/2506.05866v1)|null|
 |**2025-06-05 11:43:31**|**Deciding When Not to Decide: Indeterminacy-Aware Intrusion Detection   with NeutroSENSE**|Eyhab Al-Masri et.al.|[2507.00003v1](http://arxiv.org/abs/2507.00003v1)|null|
-|**2025-06-04 21:55:27**|**Comparative performance of ensemble models in predicting dental provider   types: insights from fee-for-service data**|Mohammad Subhi Al-Batah et.al.|[2506.04479v1](http://arxiv.org/abs/2506.04479v1)|null|
