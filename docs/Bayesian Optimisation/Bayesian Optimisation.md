@@ -2,6 +2,8 @@
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-09 21:15:50**|**Natural Evolutionary Search meets Probabilistic Numerics**|Pierre Osselin et.al.|[2507.07288v1](http://arxiv.org/abs/2507.07288v1)|null|
+|**2025-07-09 18:19:50**|**MODA: A Unified 3D Diffusion Framework for Multi-Task Target-Aware   Molecular Generation**|Dong Xu et.al.|[2507.07201v1](http://arxiv.org/abs/2507.07201v1)|null|
 |**2025-07-09 07:49:55**|**FuDoBa: Fusing Document and Knowledge Graph-based Representations with   Bayesian Optimisation**|Boshko Koloski et.al.|[2507.06622v1](http://arxiv.org/abs/2507.06622v1)|null|
 |**2025-07-05 05:53:04**|**Return of the Latent Space COWBOYS: Re-thinking the use of VAEs for   Bayesian Optimisation of Structured Spaces**|Henry B. Moss et.al.|[2507.03910v1](http://arxiv.org/abs/2507.03910v1)|null|
 |**2025-06-23 06:23:12**|**Predictive Analytics for Collaborators Answers, Code Quality, and   Dropout on Stack Overflow**|Elijah Zolduoarrati et.al.|[2506.18329v1](http://arxiv.org/abs/2506.18329v1)|null|
@@ -30,5 +32,3 @@
 |**2025-03-19 15:27:24**|**Euclid Quick Data Release (Q1). LEMON -- Lens Modelling with Neural   networks. Automated and fast modelling of Euclid gravitational lenses with a   singular isothermal ellipsoid mass profile**| Euclid Collaboration et.al.|[2503.15329v1](http://arxiv.org/abs/2503.15329v1)|null|
 |**2025-03-11 09:54:00**|**Generation and Balancing Capacity in Future Electric Power Systems --   Scenario Analysis Using Bayesian Networks**|Seppo Borenius et.al.|[2503.08232v1](http://arxiv.org/abs/2503.08232v1)|null|
 |**2025-03-10 11:00:48**|**Transforming Traditional Neural Networks into Neuromorphic   Quantum-Cognitive Models: A Tutorial with Applications**|Milan Maksimovic et.al.|[2503.07681v1](http://arxiv.org/abs/2503.07681v1)|[link](https://github.com/IvanMaksymov/Quantum-Tunnelling-Neural-Networks-Tutorial)|
-|**2025-03-04 12:43:33**|**Machine Learning-based Regional Cooling Demand Prediction with Optimised   Dataset Partitioning**|Meng Zhang et.al.|[2503.05813v1](http://arxiv.org/abs/2503.05813v1)|null|
-|**2025-03-01 07:04:54**|**Few-shot crack image classification using clip based on bayesian   optimization**|Yingchao Zhang et.al.|[2503.00376v1](http://arxiv.org/abs/2503.00376v1)|null|
