@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2025-07-13 16:12:25 Asia/Shanghai
+ 自动更新 @ 2025-07-14 16:15:38 Asia/Shanghai
 
 ## Bayesian Optimisation
 
@@ -78,6 +78,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-11 04:20:16**|**Control of nonreciprocal charge transport in topological   insulator/superconductor heterostructures with Fermi level tuning and   superconducting-layer thickness**|Soma Nagahama et.al.|[2507.08300v1](http://arxiv.org/abs/2507.08300v1)|null|
 |**2025-07-03 11:32:41**|**Are You Listening to Me? Fine-Tuning Chatbots for Empathetic Dialogue**|Paulo Ricardo Knob et.al.|[2507.02537v1](http://arxiv.org/abs/2507.02537v1)|null|
 |**2025-06-30 18:00:01**|**Majoranas with a twist: Tunable Majorana zero modes in altermagnetic   heterostructures**|Andreas Hadjipaschalis et.al.|[2507.00119v1](http://arxiv.org/abs/2507.00119v1)|null|
 |**2025-06-30 00:45:59**|**Topotactic phase transformation in correlated vanadium dioxide through   oxygen vacancy ordering**|Xuanchi Zhou et.al.|[2506.23445v1](http://arxiv.org/abs/2506.23445v1)|null|
@@ -107,4 +108,3 @@
 |**2025-02-06 11:39:58**|**Boosting superconductivity: how nanofaceted surfaces transform the   ground state of ultrathin YBa$_2$Cu$_3$O$_{7-δ}$ thin films**|Eric Wahlberg et.al.|[2502.03986v2](http://arxiv.org/abs/2502.03986v2)|null|
 |**2025-01-09 07:37:13**|**Time-domain study of coupled collective excitations in quantum materials**|Chenhang Xu et.al.|[2501.05028v2](http://arxiv.org/abs/2501.05028v2)|null|
 |**2025-01-04 01:06:46**|**Resolving the Exploration-Exploitation Dilemma in Evolutionary   Algorithms: A Novel Human-Centered Framework**|Ehsan Shams et.al.|[2501.02153v2](http://arxiv.org/abs/2501.02153v2)|null|
-|**2024-12-18 13:57:57**|**Unveiling intrinsic bulk photovoltaic effect in atomically thin ReS2**|Maria Ramos et.al.|[2412.13863v1](http://arxiv.org/abs/2412.13863v1)|null|
