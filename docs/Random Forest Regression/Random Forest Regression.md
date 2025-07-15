@@ -11,6 +11,7 @@
 |**2025-07-01 19:37:04**|**Star formation drivers across the M33 disk**|Edvige Corbelli et.al.|[2507.01158v1](http://arxiv.org/abs/2507.01158v1)|null|
 |**2025-07-01 00:56:11**|**Dark from light (DfL): Inferring halo properties from luminous tracers   with machine learning trained on cosmological simulations. I. Method, proof   of concept & preliminary testing**|Asa F. L. Bluck et.al.|[2507.00351v1](http://arxiv.org/abs/2507.00351v1)|null|
 |**2025-06-29 09:33:29**|**FinAI-BERT: A Transformer-Based Model for Sentence-Level Detection of AI   Disclosures in Financial Reports**|Muhammad Bilal Zafar et.al.|[2507.01991v1](http://arxiv.org/abs/2507.01991v1)|null|
+|**2025-06-27 11:19:20**|**Mapping Dengue Vulnerability in Recife, Brazil: Socioeconomic Insights   from PCA and Robust Regression**|Marcílio Ferreira dos Santos et.al.|[2507.08814v1](http://arxiv.org/abs/2507.08814v1)|null|
 |**2025-06-24 16:56:07**|**A comparative analysis of machine learning algorithms for predicting   probabilities of default**|Adrian Iulian Cristescu et.al.|[2506.19789v1](http://arxiv.org/abs/2506.19789v1)|null|
 |**2025-06-24 02:41:51**|**Harnessing Near-Infrared Spectroscopy and Machine Learning for Traceable   Classification of Hanwoo and Holstein Beef**|AMM Nurul Alam et.al.|[2507.02903v1](http://arxiv.org/abs/2507.02903v1)|null|
 |**2025-06-20 23:21:39**|**Empirical Models of the Time Evolution of SPX Option Prices**|Alessio Brini et.al.|[2506.17511v1](http://arxiv.org/abs/2506.17511v1)|null|
@@ -31,4 +32,3 @@
 |**2025-06-09 17:52:51**|**Scalable Machine Learning Models for Predicting Quantum Transport in   Disordered 2D Hexagonal Materials**|Seyed Mahdi Mastoor et.al.|[2506.07983v1](http://arxiv.org/abs/2506.07983v1)|null|
 |**2025-06-07 08:09:00**|**Comparing methods for handling missing data in electronic health records   for dynamic risk prediction of central-line associated bloodstream infection**|Shan Gao et.al.|[2506.06707v1](http://arxiv.org/abs/2506.06707v1)|null|
 |**2025-06-06 22:05:19**|**Machine learning non-Markovian two-level quantum noise spectroscopy**|Juan Manuel Scarpetta et.al.|[2506.06555v1](http://arxiv.org/abs/2506.06555v1)|null|
-|**2025-06-06 08:33:59**|**Analysis of points outcome in ATP Grand Slam Tennis using big data and   machine learning**|Martin Illum et.al.|[2506.05866v1](http://arxiv.org/abs/2506.05866v1)|null|
