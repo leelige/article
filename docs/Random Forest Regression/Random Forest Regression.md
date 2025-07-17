@@ -4,6 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-07-15 10:38:38**|**An Explainable AI-Enhanced Machine Learning Approach for Cardiovascular   Disease Detection and Risk Assessment**|Md. Emon Akter Sourov et.al.|[2507.11185v1](http://arxiv.org/abs/2507.11185v1)|null|
 |**2025-07-15 06:07:14**|**Leveraging Advanced Machine Learning to Predict Turbulence Dynamics from   Temperature Observations at an Experimental Prescribed Fire**|Dipak Dulal et.al.|[2507.11012v1](http://arxiv.org/abs/2507.11012v1)|null|
+|**2025-07-15 01:18:28**|**SurgeryLSTM: A Time-Aware Neural Model for Accurate and Explainable   Length of Stay Prediction After Spine Surgery**|Ha Na Cho et.al.|[2507.11570v1](http://arxiv.org/abs/2507.11570v1)|null|
 |**2025-07-09 20:49:10**|**TRIP: A Nonparametric Test to Diagnose Biased Feature Importance Scores**|Aaron Foote et.al.|[2507.07276v1](http://arxiv.org/abs/2507.07276v1)|null|
 |**2025-07-08 08:43:05**|**From Motion to Meaning: Biomechanics-Informed Neural Network for   Explainable Cardiovascular Disease Identification**|Comte Valentin et.al.|[2507.05783v1](http://arxiv.org/abs/2507.05783v1)|null|
 |**2025-07-06 05:50:34**|**ATwo-Stage Ensemble Feature Selection and Particle Swarm Optimization   Approach for Micro-Array Data Classification in Distributed Computing   Environments**|Aayush Adhikari et.al.|[2507.04251v1](http://arxiv.org/abs/2507.04251v1)|null|
@@ -31,4 +32,3 @@
 |**2025-06-13 06:58:19**|**Diabetes Prediction and Management Using Machine Learning Approaches**|Mowafaq Salem Alzboon et.al.|[2506.11501v1](http://arxiv.org/abs/2506.11501v1)|null|
 |**2025-06-11 21:12:28**|**A Comparative Study of Machine Learning Techniques for Early Prediction   of Diabetes**|Mowafaq Salem Alzboon et.al.|[2506.10180v1](http://arxiv.org/abs/2506.10180v1)|null|
 |**2025-06-09 22:32:51**|**The Impact of Feature Scaling In Machine Learning: Effects on Regression   and Classification Tasks**|João Manoel Herrera Pinheiro et.al.|[2506.08274v2](http://arxiv.org/abs/2506.08274v2)|null|
-|**2025-06-09 17:52:51**|**Scalable Machine Learning Models for Predicting Quantum Transport in   Disordered 2D Hexagonal Materials**|Seyed Mahdi Mastoor et.al.|[2506.07983v1](http://arxiv.org/abs/2506.07983v1)|null|
