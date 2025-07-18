@@ -2,6 +2,7 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-17 13:27:38**|**Prediction of Highway Traffic Flow Based on Artificial Intelligence   Algorithms Using California Traffic Data**|Junseong Lee et.al.|[2507.13112v1](http://arxiv.org/abs/2507.13112v1)|null|
 |**2025-07-15 10:38:38**|**An Explainable AI-Enhanced Machine Learning Approach for Cardiovascular   Disease Detection and Risk Assessment**|Md. Emon Akter Sourov et.al.|[2507.11185v1](http://arxiv.org/abs/2507.11185v1)|null|
 |**2025-07-15 06:07:14**|**Leveraging Advanced Machine Learning to Predict Turbulence Dynamics from   Temperature Observations at an Experimental Prescribed Fire**|Dipak Dulal et.al.|[2507.11012v1](http://arxiv.org/abs/2507.11012v1)|null|
 |**2025-07-15 01:18:28**|**SurgeryLSTM: A Time-Aware Neural Model for Accurate and Explainable   Length of Stay Prediction After Spine Surgery**|Ha Na Cho et.al.|[2507.11570v1](http://arxiv.org/abs/2507.11570v1)|null|
@@ -31,4 +32,3 @@
 |**2025-06-13 23:53:00**|**Evaluation of machine-learning models to measure individualized   treatment effects from randomized clinical trial data with time-to-event   outcomes**|Elvire Roblin et.al.|[2506.12277v1](http://arxiv.org/abs/2506.12277v1)|null|
 |**2025-06-13 06:58:19**|**Diabetes Prediction and Management Using Machine Learning Approaches**|Mowafaq Salem Alzboon et.al.|[2506.11501v1](http://arxiv.org/abs/2506.11501v1)|null|
 |**2025-06-11 21:12:28**|**A Comparative Study of Machine Learning Techniques for Early Prediction   of Diabetes**|Mowafaq Salem Alzboon et.al.|[2506.10180v1](http://arxiv.org/abs/2506.10180v1)|null|
-|**2025-06-09 22:32:51**|**The Impact of Feature Scaling In Machine Learning: Effects on Regression   and Classification Tasks**|João Manoel Herrera Pinheiro et.al.|[2506.08274v2](http://arxiv.org/abs/2506.08274v2)|null|
