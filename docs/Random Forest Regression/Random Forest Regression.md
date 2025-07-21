@@ -2,6 +2,7 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-18 15:41:53**|**CPC-CMS: Cognitive Pairwise Comparison Classification Model Selection   Framework for Document-level Sentiment Analysis**|Jianfei Li et.al.|[2507.14022v1](http://arxiv.org/abs/2507.14022v1)|null|
 |**2025-07-17 13:27:38**|**Prediction of Highway Traffic Flow Based on Artificial Intelligence   Algorithms Using California Traffic Data**|Junseong Lee et.al.|[2507.13112v1](http://arxiv.org/abs/2507.13112v1)|null|
 |**2025-07-15 10:38:38**|**An Explainable AI-Enhanced Machine Learning Approach for Cardiovascular   Disease Detection and Risk Assessment**|Md. Emon Akter Sourov et.al.|[2507.11185v1](http://arxiv.org/abs/2507.11185v1)|null|
 |**2025-07-15 06:07:14**|**Leveraging Advanced Machine Learning to Predict Turbulence Dynamics from   Temperature Observations at an Experimental Prescribed Fire**|Dipak Dulal et.al.|[2507.11012v1](http://arxiv.org/abs/2507.11012v1)|null|
@@ -31,4 +32,3 @@
 |**2025-06-16 17:40:36**|**Probabilistic patient risk profiling with pair-copula constructions**|Özge Şahin et.al.|[2506.13731v1](http://arxiv.org/abs/2506.13731v1)|null|
 |**2025-06-13 23:53:00**|**Evaluation of machine-learning models to measure individualized   treatment effects from randomized clinical trial data with time-to-event   outcomes**|Elvire Roblin et.al.|[2506.12277v1](http://arxiv.org/abs/2506.12277v1)|null|
 |**2025-06-13 06:58:19**|**Diabetes Prediction and Management Using Machine Learning Approaches**|Mowafaq Salem Alzboon et.al.|[2506.11501v1](http://arxiv.org/abs/2506.11501v1)|null|
-|**2025-06-11 21:12:28**|**A Comparative Study of Machine Learning Techniques for Early Prediction   of Diabetes**|Mowafaq Salem Alzboon et.al.|[2506.10180v1](http://arxiv.org/abs/2506.10180v1)|null|
