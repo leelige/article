@@ -7,6 +7,7 @@
 |**2025-07-15 10:38:38**|**An Explainable AI-Enhanced Machine Learning Approach for Cardiovascular   Disease Detection and Risk Assessment**|Md. Emon Akter Sourov et.al.|[2507.11185v1](http://arxiv.org/abs/2507.11185v1)|null|
 |**2025-07-15 06:07:14**|**Leveraging Advanced Machine Learning to Predict Turbulence Dynamics from   Temperature Observations at an Experimental Prescribed Fire**|Dipak Dulal et.al.|[2507.11012v1](http://arxiv.org/abs/2507.11012v1)|null|
 |**2025-07-15 01:18:28**|**SurgeryLSTM: A Time-Aware Neural Model for Accurate and Explainable   Length of Stay Prediction After Spine Surgery**|Ha Na Cho et.al.|[2507.11570v1](http://arxiv.org/abs/2507.11570v1)|null|
+|**2025-07-10 18:10:46**|**Latent Space Data Fusion Outperforms Early Fusion in Multimodal Mental   Health Digital Phenotyping Data**|Youcef Barkat et.al.|[2507.14175v1](http://arxiv.org/abs/2507.14175v1)|null|
 |**2025-07-09 20:49:10**|**TRIP: A Nonparametric Test to Diagnose Biased Feature Importance Scores**|Aaron Foote et.al.|[2507.07276v1](http://arxiv.org/abs/2507.07276v1)|null|
 |**2025-07-08 08:43:05**|**From Motion to Meaning: Biomechanics-Informed Neural Network for   Explainable Cardiovascular Disease Identification**|Comte Valentin et.al.|[2507.05783v1](http://arxiv.org/abs/2507.05783v1)|null|
 |**2025-07-06 05:50:34**|**ATwo-Stage Ensemble Feature Selection and Particle Swarm Optimization   Approach for Micro-Array Data Classification in Distributed Computing   Environments**|Aayush Adhikari et.al.|[2507.04251v1](http://arxiv.org/abs/2507.04251v1)|null|
@@ -31,4 +32,3 @@
 |**2025-06-17 20:00:16**|**From Chat to Checkup: Can Large Language Models Assist in Diabetes   Prediction?**|Shadman Sakib et.al.|[2506.14949v1](http://arxiv.org/abs/2506.14949v1)|[link](https://github.com/shadmansakib44/diabetes_prediction)|
 |**2025-06-16 17:40:36**|**Probabilistic patient risk profiling with pair-copula constructions**|Özge Şahin et.al.|[2506.13731v1](http://arxiv.org/abs/2506.13731v1)|null|
 |**2025-06-13 23:53:00**|**Evaluation of machine-learning models to measure individualized   treatment effects from randomized clinical trial data with time-to-event   outcomes**|Elvire Roblin et.al.|[2506.12277v1](http://arxiv.org/abs/2506.12277v1)|null|
-|**2025-06-13 06:58:19**|**Diabetes Prediction and Management Using Machine Learning Approaches**|Mowafaq Salem Alzboon et.al.|[2506.11501v1](http://arxiv.org/abs/2506.11501v1)|null|

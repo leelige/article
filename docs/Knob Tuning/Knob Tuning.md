@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-07-11 04:20:16**|**Control of nonreciprocal charge transport in topological   insulator/superconductor heterostructures with Fermi level tuning and   superconducting-layer thickness**|Soma Nagahama et.al.|[2507.08300v1](http://arxiv.org/abs/2507.08300v1)|null|
 |**2025-07-03 11:32:41**|**Are You Listening to Me? Fine-Tuning Chatbots for Empathetic Dialogue**|Paulo Ricardo Knob et.al.|[2507.02537v1](http://arxiv.org/abs/2507.02537v1)|null|
-|**2025-06-30 18:00:01**|**Majoranas with a twist: Tunable Majorana zero modes in altermagnetic   heterostructures**|Andreas Hadjipaschalis et.al.|[2507.00119v1](http://arxiv.org/abs/2507.00119v1)|null|
+|**2025-06-30 18:00:01**|**Majoranas with a twist: Tunable Majorana zero modes in altermagnetic   heterostructures**|Andreas Hadjipaschalis et.al.|[2507.00119v2](http://arxiv.org/abs/2507.00119v2)|null|
 |**2025-06-30 00:45:59**|**Topotactic phase transformation in correlated vanadium dioxide through   oxygen vacancy ordering**|Xuanchi Zhou et.al.|[2506.23445v1](http://arxiv.org/abs/2506.23445v1)|null|
 |**2025-06-23 04:52:08**|**Tu(r)ning AI Green: Exploring Energy Efficiency Cascading with   Orthogonal Optimizations**|Saurabhsingh Rajput et.al.|[2506.18289v1](http://arxiv.org/abs/2506.18289v1)|null|
 |**2025-06-12 17:59:51**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978v2](http://arxiv.org/abs/2506.10978v2)|null|
