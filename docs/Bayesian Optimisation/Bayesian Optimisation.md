@@ -2,6 +2,7 @@
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-22 08:35:26**|**A Semi-analytic but Biased Uncertainty Assessment Method using Sample   Extensions, Analysed for Nonlinear Travel Time Tomography**|Xuebin Zhao et.al.|[2507.16353v1](http://arxiv.org/abs/2507.16353v1)|null|
 |**2025-07-09 21:15:50**|**Natural Evolutionary Search meets Probabilistic Numerics**|Pierre Osselin et.al.|[2507.07288v1](http://arxiv.org/abs/2507.07288v1)|null|
 |**2025-07-09 18:19:50**|**MODA: A Unified 3D Diffusion Framework for Multi-Task Target-Aware   Molecular Generation**|Dong Xu et.al.|[2507.07201v1](http://arxiv.org/abs/2507.07201v1)|null|
 |**2025-07-09 07:49:55**|**FuDoBa: Fusing Document and Knowledge Graph-based Representations with   Bayesian Optimisation**|Boshko Koloski et.al.|[2507.06622v1](http://arxiv.org/abs/2507.06622v1)|null|
@@ -31,4 +32,3 @@
 |**2025-03-20 21:09:38**|**Accelerated Medicines Development using a Digital Formulator and a   Self-Driving Tableting DataFactory**|Faisal Abbas et.al.|[2503.17411v1](http://arxiv.org/abs/2503.17411v1)|[link](https://gitlab.cis.strath.ac.uk/fmb22104/cmac-self-driving-tabletting-datafactory)|
 |**2025-03-19 15:27:24**|**Euclid Quick Data Release (Q1). LEMON -- Lens Modelling with Neural   networks. Automated and fast modelling of Euclid gravitational lenses with a   singular isothermal ellipsoid mass profile**| Euclid Collaboration et.al.|[2503.15329v1](http://arxiv.org/abs/2503.15329v1)|null|
 |**2025-03-11 09:54:00**|**Generation and Balancing Capacity in Future Electric Power Systems --   Scenario Analysis Using Bayesian Networks**|Seppo Borenius et.al.|[2503.08232v1](http://arxiv.org/abs/2503.08232v1)|null|
-|**2025-03-10 11:00:48**|**Transforming Traditional Neural Networks into Neuromorphic   Quantum-Cognitive Models: A Tutorial with Applications**|Milan Maksimovic et.al.|[2503.07681v1](http://arxiv.org/abs/2503.07681v1)|[link](https://github.com/IvanMaksymov/Quantum-Tunnelling-Neural-Networks-Tutorial)|

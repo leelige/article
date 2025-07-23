@@ -2,6 +2,9 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-22 13:20:18**|**Impact of Ethanol and Methanol on NOx Emissions in Ammonia-Methane   Combustion: ReaxFF Simulations and ML-Based Extrapolation**|Amirali Shateri et.al.|[2507.16568v1](http://arxiv.org/abs/2507.16568v1)|null|
+|**2025-07-22 02:38:29**|**Physics-Informed Regression Modelling for Vertical Facade Surface   Temperature: A Tropical Case Study on Solar-reflective Material**|Shisheng Chen et.al.|[2507.16174v1](http://arxiv.org/abs/2507.16174v1)|null|
+|**2025-07-21 18:04:14**|**A Lightweight Face Quality Assessment Framework to Improve Face   Verification Performance in Real-Time Screening Applications**|Ahmed Aman Ibrahim et.al.|[2507.15961v1](http://arxiv.org/abs/2507.15961v1)|null|
 |**2025-07-18 15:41:53**|**CPC-CMS: Cognitive Pairwise Comparison Classification Model Selection   Framework for Document-level Sentiment Analysis**|Jianfei Li et.al.|[2507.14022v1](http://arxiv.org/abs/2507.14022v1)|null|
 |**2025-07-17 13:27:38**|**Prediction of Highway Traffic Flow Based on Artificial Intelligence   Algorithms Using California Traffic Data**|Junseong Lee et.al.|[2507.13112v1](http://arxiv.org/abs/2507.13112v1)|null|
 |**2025-07-15 10:38:38**|**An Explainable AI-Enhanced Machine Learning Approach for Cardiovascular   Disease Detection and Risk Assessment**|Md. Emon Akter Sourov et.al.|[2507.11185v1](http://arxiv.org/abs/2507.11185v1)|null|
@@ -19,7 +22,7 @@
 |**2025-06-29 09:33:29**|**FinAI-BERT: A Transformer-Based Model for Sentence-Level Detection of AI   Disclosures in Financial Reports**|Muhammad Bilal Zafar et.al.|[2507.01991v1](http://arxiv.org/abs/2507.01991v1)|null|
 |**2025-06-27 11:19:20**|**Mapping Dengue Vulnerability in Recife, Brazil: Socioeconomic Insights   from PCA and Robust Regression**|Marcílio Ferreira dos Santos et.al.|[2507.08814v1](http://arxiv.org/abs/2507.08814v1)|null|
 |**2025-06-24 16:56:07**|**A comparative analysis of machine learning algorithms for predicting   probabilities of default**|Adrian Iulian Cristescu et.al.|[2506.19789v1](http://arxiv.org/abs/2506.19789v1)|null|
-|**2025-06-24 02:41:51**|**Harnessing Near-Infrared Spectroscopy and Machine Learning for Traceable   Classification of Hanwoo and Holstein Beef**|AMM Nurul Alam et.al.|[2507.02903v1](http://arxiv.org/abs/2507.02903v1)|null|
+|**2025-06-24 02:41:51**|**Harnessing Near-Infrared Spectroscopy and Machine Learning for Traceable   Classification of Hanwoo and Holstein Beef**|AMM Nurul Alam et.al.|[2507.02903v2](http://arxiv.org/abs/2507.02903v2)|null|
 |**2025-06-20 23:21:39**|**Empirical Models of the Time Evolution of SPX Option Prices**|Alessio Brini et.al.|[2506.17511v1](http://arxiv.org/abs/2506.17511v1)|null|
 |**2025-06-20 14:51:35**|**MAWIFlow Benchmark: Realistic Flow-Based Evaluation for Network   Intrusion Detection**|Joshua Schraven et.al.|[2506.17041v1](http://arxiv.org/abs/2506.17041v1)|[link](https://github.com/TheLurps/MAWIFlow)|
 |**2025-06-20 11:44:48**|**A deep learning and machine learning approach to predict neonatal death   in the context of São Paulo**|Mohon Raihan et.al.|[2506.16929v1](http://arxiv.org/abs/2506.16929v1)|null|
@@ -29,6 +32,3 @@
 |**2025-06-18 17:28:37**|**Oldies but Goldies: The Potential of Character N-grams for Romanian   Texts**|Dana Lupsa et.al.|[2506.15650v2](http://arxiv.org/abs/2506.15650v2)|null|
 |**2025-06-18 17:13:53**|**Revisiting Randomization in Greedy Model Search**|Xin Chen et.al.|[2506.15643v1](http://arxiv.org/abs/2506.15643v1)|null|
 |**2025-06-18 16:27:38**|**Optimizing Flamelet Generated Manifold Models: A Machine Learning   Performance Study**|Reza Lotfi Navaei et.al.|[2507.01030v1](http://arxiv.org/abs/2507.01030v1)|null|
-|**2025-06-17 20:00:16**|**From Chat to Checkup: Can Large Language Models Assist in Diabetes   Prediction?**|Shadman Sakib et.al.|[2506.14949v1](http://arxiv.org/abs/2506.14949v1)|[link](https://github.com/shadmansakib44/diabetes_prediction)|
-|**2025-06-16 17:40:36**|**Probabilistic patient risk profiling with pair-copula constructions**|Özge Şahin et.al.|[2506.13731v1](http://arxiv.org/abs/2506.13731v1)|null|
-|**2025-06-13 23:53:00**|**Evaluation of machine-learning models to measure individualized   treatment effects from randomized clinical trial data with time-to-event   outcomes**|Elvire Roblin et.al.|[2506.12277v1](http://arxiv.org/abs/2506.12277v1)|null|
