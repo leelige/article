@@ -30,5 +30,5 @@
 |**2025-06-18 22:04:12**|**Clinically Interpretable Mortality Prediction for ICU Patients with   Diabetes and Atrial Fibrillation: A Machine Learning Approach**|Li Sun et.al.|[2506.15901v1](http://arxiv.org/abs/2506.15901v1)|null|
 |**2025-06-18 18:21:19**|**TRUST: Transparent, Robust and Ultra-Sparse Trees**|Albert Dorador et.al.|[2506.15791v1](http://arxiv.org/abs/2506.15791v1)|null|
 |**2025-06-18 17:28:37**|**Oldies but Goldies: The Potential of Character N-grams for Romanian   Texts**|Dana Lupsa et.al.|[2506.15650v2](http://arxiv.org/abs/2506.15650v2)|null|
-|**2025-06-18 17:13:53**|**Revisiting Randomization in Greedy Model Search**|Xin Chen et.al.|[2506.15643v1](http://arxiv.org/abs/2506.15643v1)|null|
+|**2025-06-18 17:13:53**|**Revisiting Randomization in Greedy Model Search**|Xin Chen et.al.|[2506.15643v2](http://arxiv.org/abs/2506.15643v2)|null|
 |**2025-06-18 16:27:38**|**Optimizing Flamelet Generated Manifold Models: A Machine Learning   Performance Study**|Reza Lotfi Navaei et.al.|[2507.01030v1](http://arxiv.org/abs/2507.01030v1)|null|
