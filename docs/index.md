@@ -1,2 +1,2 @@
 # arxiv-daily
- 自动更新 @ 2025-10-15 16:13:46 Asia/Shanghai
+ 自动更新 @ 2025-10-16 16:13:51 Asia/Shanghai
