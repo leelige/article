@@ -6,11 +6,15 @@ import json.decoder
 import os.path
 import shutil
 
-from gevent import monkey
+try:
+    from gevent import monkey
 
-monkey.patch_all()
-import gevent
-from gevent.queue import Queue
+    monkey.patch_all()
+    import gevent
+    from gevent.queue import Queue
+except ImportError:
+    gevent = None
+    from queue import Queue
 from datetime import datetime
 import requests
 import yaml
@@ -82,6 +86,8 @@ def getResult(search_query='all:fake+news+OR+all:rumour', start=0, max_results=5
 
 
 class ToolBox:
+    paperswithcode_enabled = True
+
     @staticmethod
     def log_date(mode="log"):
         if mode == "log":
@@ -97,18 +103,22 @@ class ToolBox:
 
     @staticmethod
     def handle_html(url: str):
+        if not ToolBox.paperswithcode_enabled:
+            return {}
         headers = {
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
                           "Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44"
         }
         proxies = {"http": None, "https": None}
-        session = requests.session()
-        response = session.get(url, headers=headers, proxies=proxies)
         try:
-            data_ = response.json()
-            return data_
-        except json.decoder.JSONDecodeError as e:
+            session = requests.session()
+            response = session.get(url, headers=headers, proxies=proxies, timeout=20)
+            response.raise_for_status()
+            return response.json()
+        except (requests.RequestException, json.decoder.JSONDecodeError) as e:
+            ToolBox.paperswithcode_enabled = False
             logger.error(e)
+            return {}
 
 
 class CoroutineSpeedup:
@@ -171,68 +181,71 @@ class CoroutineSpeedup:
         _paper = {}
         arxiv_res = context.get("response")
         for result in arxiv_res:
-            paper_id = result['paper_id']
-            paper_title = result['paper_title']
-            paper_summary = result['paper_summary']
-            paper_url = result['paper_url']
+            try:
+                paper_id = result['paper_id']
+                paper_title = result['paper_title']
+                paper_summary = result['paper_summary']
+                paper_url = result['paper_url']
 
-            code_url = base_url + paper_id
-            paper_first_author = result['paper_authors'][0]
+                code_url = base_url + paper_id
+                paper_first_author = result['paper_authors'][0]
 
-            publish_time = result['paper_published_time']
+                publish_time = result['paper_published_time']
 
-            ver_pos = paper_id.find('v')
-            paper_key = paper_id if ver_pos == -1 else paper_id[0:ver_pos]
+                ver_pos = paper_id.find('v')
+                paper_key = paper_id if ver_pos == -1 else paper_id[0:ver_pos]
 
-            # 尝试获取仓库代码
-            # ----------------------------------------------------------------------------------
-            # Origin(r)
-            # ----------------------------------------------------------------------------------
-            # {
-            #   'paper_url': 'https://',
-            #   'official': {'url': 'https://github.com/nyu-wireless/mmwRobotNav'},
-            #   'all_official': [{'url': 'https://github.com/nyu-wireless/mmwRobotNav'}],
-            #   'unofficial_count': 0,
-            #   'frameworks': [],
-            #   'status': 'OK'
-            # }
-            # ----------------------------------------------------------------------------------
-            # None(r)
-            # ----------------------------------------------------------------------------------
-            # {
-            #   'paper_url': 'https://',
-            #   'official': None,
-            #   'all_official': [],
-            #   'unofficial_count': 0,
-            #   'frameworks': [],
-            #   'status': 'OK'
-            # }
-            response = ToolBox.handle_html(code_url)
-            official_ = response.get("official")
-            repo_url = official_.get("url", "null") if official_ else "null"
-            # ----------------------------------------------------------------------------------
-            # 编排模型
-            # ----------------------------------------------------------------------------------
-            # IF repo
-            #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`[link](url)`
-            # ELSE
-            #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`null`
-            if 'https://github.com' in paper_summary and repo_url == 'null':
-                code = paper_summary.split('https://github.com')[-1].replace('\n', '').replace(' ', '')
-                if code.endswith("."):
-                    code = code[:-1]
-                repo_url = 'https://github.com' + code
-            _paper.update({
-                paper_key: {
-                    "publish_time": publish_time,
-                    "title": paper_title.replace('\n', ' '),
-                    # "summary": paper_summary.replace('\n', ' '),
-                    "authors": f"{paper_first_author} et.al.",
-                    "id": paper_id,
-                    "paper_url": paper_url,
-                    "repo": repo_url
-                },
-            })
+                # 尝试获取仓库代码
+                # ----------------------------------------------------------------------------------
+                # Origin(r)
+                # ----------------------------------------------------------------------------------
+                # {
+                #   'paper_url': 'https://',
+                #   'official': {'url': 'https://github.com/nyu-wireless/mmwRobotNav'},
+                #   'all_official': [{'url': 'https://github.com/nyu-wireless/mmwRobotNav'}],
+                #   'unofficial_count': 0,
+                #   'frameworks': [],
+                #   'status': 'OK'
+                # }
+                # ----------------------------------------------------------------------------------
+                # None(r)
+                # ----------------------------------------------------------------------------------
+                # {
+                #   'paper_url': 'https://',
+                #   'official': None,
+                #   'all_official': [],
+                #   'unofficial_count': 0,
+                #   'frameworks': [],
+                #   'status': 'OK'
+                # }
+                response = ToolBox.handle_html(code_url) or {}
+                official_ = response.get("official")
+                repo_url = official_.get("url", "null") if official_ else "null"
+                # ----------------------------------------------------------------------------------
+                # 编排模型
+                # ----------------------------------------------------------------------------------
+                # IF repo
+                #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`[link](url)`
+                # ELSE
+                #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`null`
+                if 'https://github.com' in paper_summary and repo_url == 'null':
+                    code = paper_summary.split('https://github.com')[-1].replace('\n', '').replace(' ', '')
+                    if code.endswith("."):
+                        code = code[:-1]
+                    repo_url = 'https://github.com' + code
+                _paper.update({
+                    paper_key: {
+                        "publish_time": publish_time,
+                        "title": paper_title.replace('\n', ' '),
+                        # "summary": paper_summary.replace('\n', ' '),
+                        "authors": f"{paper_first_author} et.al.",
+                        "id": paper_id,
+                        "paper_url": paper_url,
+                        "repo": repo_url
+                    },
+                })
+            except Exception as e:
+                logger.error(f"skip paper {result.get('paper_id', 'unknown')}: {e}")
         self.channel.put_nowait({
             "paper": _paper,
             "topic": context["hook"]["topic"],
@@ -283,6 +296,10 @@ class CoroutineSpeedup:
         # 配置弹性采集功率
         if self.max_queue_size != 0:
             self.power = self.max_queue_size if power > self.max_queue_size else power
+        if gevent is None:
+            while not self.worker.empty():
+                self._adaptor()
+            return
         # 任务启动
         task_list = []
         for _ in range(self.power):
