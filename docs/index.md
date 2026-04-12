@@ -1,41 +1,41 @@
 # arxiv-daily
- 自动更新 @ 2026-04-11 16:29:14 Asia/Shanghai
+ 自动更新 @ 2026-04-12 16:35:23 Asia/Shanghai
 
-## Random Forest Regression
+## Bayesian Optimisation
 
-### Random Forest Regression
+### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-04-09 08:25:49**|**Are we still able to recognize pearls? Machine-driven peer review and the risk to creativity: An explainable RAG-XAI detection framework with markers extraction**|Alin-Gabriel Văduva et.al.|[2604.07964v1](http://arxiv.org/abs/2604.07964v1)|null|
-|**2026-04-09 08:17:27**|**Fraud Detection System for Banking Transactions**|Ranya Batsyas et.al.|[2604.07952v1](http://arxiv.org/abs/2604.07952v1)|null|
-|**2026-04-05 18:46:59**|**Learning-Based Multi-Criteria Decision Making Model for Sawmill Location Problems**|Mahid Ahmed et.al.|[2604.04996v1](http://arxiv.org/abs/2604.04996v1)|null|
-|**2026-03-30 21:58:47**|**From Astronomy to Astrology: Testing the Illusion of Zodiac-Based Personality Prediction with Machine Learning**|Abhinna Sundar Samantaray et.al.|[2603.29033v1](http://arxiv.org/abs/2603.29033v1)|null|
-|**2026-03-28 19:42:27**|**Diagnosing Non-Markovian Observations in Reinforcement Learning via Prediction-Based Violation Scoring**|Naveen Mysore et.al.|[2603.27389v1](http://arxiv.org/abs/2603.27389v1)|[link](https://github.com/NAVEENMN/Markovianes)|
-|**2026-03-26 06:13:34**|**An Explainable Ensemble Learning Framework for Crop Classification with Optimized Feature Pyramids and Deep Networks**|Syed Rayhan Masud et.al.|[2603.25070v1](http://arxiv.org/abs/2603.25070v1)|null|
-|**2026-03-25 15:46:34**|**Machine Learning-Based Classification of Active Galaxies and Estimation of Supermassive Black Hole Masses**|Farideh Mazoochi et.al.|[2603.24435v1](http://arxiv.org/abs/2603.24435v1)|null|
-|**2026-03-25 11:44:20**|**Adapting Altman's bankruptcy prediction model to the compositional data methodology**|Fatemeh Keivani et.al.|[2603.24215v1](http://arxiv.org/abs/2603.24215v1)|null|
-|**2026-03-25 10:22:28**|**Penalized estimation of GEV parameters for extreme quantile regression**|Lucien M. Vidagbandji et.al.|[2603.24153v1](http://arxiv.org/abs/2603.24153v1)|null|
-|**2026-03-24 22:58:12**|**Age-Specific Logistic Regression with Complex Event Time Data**| Haoxuan et.al.|[2603.23767v2](http://arxiv.org/abs/2603.23767v2)|null|
-|**2026-03-24 14:47:52**|**A Comparative Study of Machine Learning Models for Hourly Forecasting of Air Temperature and Relative Humidity**|Jiaqi Dong et.al.|[2603.23282v1](http://arxiv.org/abs/2603.23282v1)|null|
-|**2026-03-24 04:27:17**|**Quantum Random Forest for the Regression Problem**|Kamil Khadiev et.al.|[2603.22790v1](http://arxiv.org/abs/2603.22790v1)|null|
-|**2026-03-23 10:58:01**|**Financial Dynamics and Interconnected Risk of Liquid Restaking**|Hasret Ozan Sevim et.al.|[2604.03274v1](http://arxiv.org/abs/2604.03274v1)|null|
-|**2026-03-19 17:53:32**|**Robustness, Cost, and Attack-Surface Concentration in Phishing Detection**|Julian Allagan et.al.|[2603.19204v1](http://arxiv.org/abs/2603.19204v1)|null|
-|**2026-03-19 14:24:05**|**Balancing Performance and Fairness in Explainable AI for Anomaly Detection in Distributed Power Plants Monitoring**|Corneille Niyonkuru et.al.|[2603.18954v1](http://arxiv.org/abs/2603.18954v1)|null|
-|**2026-03-16 15:43:48**|**Music Genre Classification: A Comparative Analysis of Classical Machine Learning and Deep Learning Approaches**|Sachin Prajuli et.al.|[2603.15440v1](http://arxiv.org/abs/2603.15440v1)|null|
-|**2026-03-14 08:25:42**|**Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling**|Dingding Cao et.al.|[2603.13830v1](http://arxiv.org/abs/2603.13830v1)|null|
-|**2026-03-13 04:49:58**|**Beyond the Merger-Quasar-Quench Paradigm I: Mergers are neither necessary nor sufficient to quench central galaxies in IllustrisTNG**|Camilo A. Casimiro et.al.|[2603.12651v1](http://arxiv.org/abs/2603.12651v1)|null|
-|**2026-03-13 01:57:09**|**Foundation-Model Surrogates Enable Data-Efficient Active Learning for Materials Discovery**|Jeffrey Hu et.al.|[2603.12567v3](http://arxiv.org/abs/2603.12567v3)|null|
-|**2026-03-12 04:05:23**|**Prediction of Grade, Gender, and Academic Performance of Children and Teenagers from Handwriting Using the Sigma-Lognormal Model**|Adrian Iste et.al.|[2603.11519v3](http://arxiv.org/abs/2603.11519v3)|null|
-|**2026-03-09 17:54:32**|**A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies**|Anas ALsobeh et.al.|[2603.08692v1](http://arxiv.org/abs/2603.08692v1)|null|
-|**2026-03-06 05:56:39**|**Controlled Experiments on Dark-Matter Halo Structure and Galaxy Morphology I: What Sets Galaxy Sizes?**|Guangze Sun et.al.|[2603.05930v1](http://arxiv.org/abs/2603.05930v1)|null|
-|**2026-03-05 18:45:44**|**Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility**|Olaf Yunus Laitinen Imanov et.al.|[2603.05581v1](http://arxiv.org/abs/2603.05581v1)|null|
-|**2026-03-03 21:58:10**|**Predicting Spin-Crossover Behavior in Metal-Organic Frameworks from Limited and Noisy Data Using Quantile Active Learning**|Ashna Jose et.al.|[2603.03545v1](http://arxiv.org/abs/2603.03545v1)|null|
-|**2026-02-28 11:56:39**|**Machine Learning Grade Prediction Using Students' Grades and Demographics**|Mwayi Sonkhanani et.al.|[2603.00608v1](http://arxiv.org/abs/2603.00608v1)|null|
-|**2026-02-26 19:53:41**|**On the Limits of Interpretable Machine Learning in Quintic Root Classification**|Rohan Thomas et.al.|[2602.23467v1](http://arxiv.org/abs/2602.23467v1)|null|
-|**2026-02-25 20:50:01**|**Predicting Multi-Drug Resistance in Bacterial Isolates Through Performance Comparison and LIME-based Interpretation of Classification Models**|Santanam Wishal et.al.|[2602.22400v2](http://arxiv.org/abs/2602.22400v2)|null|
-|**2026-02-25 13:00:05**|**Comparative Evaluation of Machine Learning Models for Predicting Donor Kidney Discard**|Peer Schliephacke et.al.|[2602.21876v1](http://arxiv.org/abs/2602.21876v1)|null|
-|**2026-02-25 10:53:57**|**Integrating Machine Learning Ensembles and Large Language Models for Heart Disease Prediction Using Voting Fusion**|Md. Tahsin Amin et.al.|[2602.22280v1](http://arxiv.org/abs/2602.22280v1)|null|
-|**2026-02-23 19:31:44**|**Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health**|Joyanta Jyoti Mondal et.al.|[2602.20303v1](http://arxiv.org/abs/2602.20303v1)|null|
+|**2026-04-01 19:14:34**|**Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial**|Zhongwei Yu et.al.|[2604.01328v3](http://arxiv.org/abs/2604.01328v3)|null|
+|**2026-03-27 17:47:45**|**Automatic Laplace Collapsed Sampling: Scalable Marginalisation of Latent Parameters via Automatic Differentiation**|Toby Lovick et.al.|[2603.26644v1](http://arxiv.org/abs/2603.26644v1)|null|
+|**2026-03-25 09:39:15**|**Likelihood hacking in probabilistic program synthesis**|Jacek Karwowski et.al.|[2603.24126v1](http://arxiv.org/abs/2603.24126v1)|null|
+|**2026-03-19 15:48:48**|**Probabilistic multivariate statistical process control via kernel parameter uncertainty propagation**|Zina-Sabrina Duma et.al.|[2603.19055v1](http://arxiv.org/abs/2603.19055v1)|null|
+|**2026-03-16 07:57:40**|**FairMed-XGB: A Bayesian-Optimised Multi-Metric Framework with Explainability for Demographic Equity in Critical Healthcare Data**|Mitul Goswami et.al.|[2603.14947v1](http://arxiv.org/abs/2603.14947v1)|null|
+|**2026-03-13 17:34:36**|**Optimising Foreground Modelling for Global 21cm Cosmology with GPU-Accelerated Nested Sampling**|Jacob L. Tutt et.al.|[2603.13196v1](http://arxiv.org/abs/2603.13196v1)|null|
+|**2026-03-13 11:14:53**|**Bayesian Uncertainty-Aware MRI Reconstruction**|Ahmed Karam Eldaly et.al.|[2603.13439v1](http://arxiv.org/abs/2603.13439v1)|null|
+|**2026-03-12 16:08:18**|**Wasserstein Gradient Flows for Batch Bayesian Optimal Experimental Design**|Louis Sharrock et.al.|[2603.12102v1](http://arxiv.org/abs/2603.12102v1)|null|
+|**2026-03-12 09:16:50**|**Linearised versus Nonlinear Estimates of Uncertainty in Full Waveform Inversion**|Xuebin Zhao et.al.|[2603.11711v1](http://arxiv.org/abs/2603.11711v1)|null|
+|**2026-03-10 14:20:53**|**From Phase Prediction to Phase Design: A ReAct Agent Framework for High-Entropy Alloy Discovery**|Iman Peivaste et.al.|[2603.11068v1](http://arxiv.org/abs/2603.11068v1)|null|
+|**2026-03-09 15:32:41**|**Improving Continual Learning for Gaussian Splatting based Environments Reconstruction on Commercial Off-the-Shelf Edge Devices**|Ivan Zaino et.al.|[2603.08499v1](http://arxiv.org/abs/2603.08499v1)|null|
+|**2026-03-06 12:49:34**|**Fundamental properties of protoplanetary discs determined from simultaneous fits to thermal dust images and spectral energy distributions**|Tim J. Harries et.al.|[2603.06230v1](http://arxiv.org/abs/2603.06230v1)|null|
+|**2026-02-28 19:13:44**|**QANTIS: A Hardware-Validated Quantum Platform for POMDP Planning and Multi-Target Data Association**|Bayram Yüksel Eker et.al.|[2603.00785v1](http://arxiv.org/abs/2603.00785v1)|null|
+|**2026-02-26 14:35:45**|**Latent Matters: Learning Deep State-Space Models**|Alexej Klushyn et.al.|[2602.23050v1](http://arxiv.org/abs/2602.23050v1)|null|
+|**2026-02-25 19:00:00**|**The global structure of the time delay likelihood**|Namu Kroupa et.al.|[2602.22307v1](http://arxiv.org/abs/2602.22307v1)|null|
+|**2026-02-25 09:04:15**|**Learning Complex Physical Regimes via Coverage-oriented Uncertainty Quantification: An application to the Critical Heat Flux**|Michele Cazzola et.al.|[2602.21701v1](http://arxiv.org/abs/2602.21701v1)|null|
+|**2026-02-23 19:16:03**|**The Sim-to-Real Gap in MRS Quantification: A Systematic Deep Learning Validation for GABA**|Zien Ma et.al.|[2602.20289v1](http://arxiv.org/abs/2602.20289v1)|null|
+|**2026-02-23 04:12:33**|**The dynamics of innovation diffusion: A survey of Bass-type models**|Nicolas Langrené et.al.|[2602.19488v1](http://arxiv.org/abs/2602.19488v1)|null|
+|**2026-02-19 15:13:10**|**Model bias and parameter optimisation with the example of INCL/ABLA**|Jason Hirtz et.al.|[2602.17446v1](http://arxiv.org/abs/2602.17446v1)|null|
+|**2026-02-15 19:37:21**|**Autonomous Robotic Tissue Palpation and Abnormalities Characterisation via Ergodic Exploration**|Luca Beber et.al.|[2602.14287v1](http://arxiv.org/abs/2602.14287v1)|null|
+|**2026-02-09 21:19:31**|**Some Bayesian Perspectives on Clinical Trials**|Alexandra Sokolova et.al.|[2602.09208v2](http://arxiv.org/abs/2602.09208v2)|null|
+|**2026-02-04 07:01:56**|**Bures-Wasserstein Importance-Weighted Evidence Lower Bound: Exposition and Applications**|Peiwen Jiang et.al.|[2602.04272v1](http://arxiv.org/abs/2602.04272v1)|null|
+|**2026-02-03 02:02:25**|**Variational and Monte Carlo Methods for Bayesian Inversion of Dynamic Subsurface Flow Simulations Using Seismic and Fluid Pressure Data**|Zhen Zhang et.al.|[2602.02993v1](http://arxiv.org/abs/2602.02993v1)|null|
+|**2026-01-30 03:56:20**|**Inverse Design of Three-Dimensional Microwave Cavities for Optimizing Electromagnetic Helicity**|Emma Paterson et.al.|[2602.09037v3](http://arxiv.org/abs/2602.09037v3)|null|
+|**2026-01-29 06:37:36**|**Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination**|Mengqi Chen et.al.|[2601.21324v1](http://arxiv.org/abs/2601.21324v1)|null|
+|**2026-01-22 04:41:26**|**An Empirical Study on Ensemble-Based Transfer Learning Bayesian Optimisation with Mixed Variable Types**|Natasha Trinkle et.al.|[2601.15640v1](http://arxiv.org/abs/2601.15640v1)|null|
+|**2026-01-21 14:29:59**|**Information mechanics: conservation and exchange**|Takuya Isomura et.al.|[2601.15028v1](http://arxiv.org/abs/2601.15028v1)|null|
+|**2026-01-19 16:07:39**|**Polyphonic Intelligence: Constraint-Based Emergence, Pluralistic Inference, and Non-Dominating Integration**|Alexander D Shaw et.al.|[2601.13182v1](http://arxiv.org/abs/2601.13182v1)|null|
+|**2026-01-16 10:07:50**|**Bayesian optimisation for Bayesian evidence (BOBE) -- a fast and efficient likelihood emulator for model selection**|Nathan Cohen et.al.|[2601.11150v1](http://arxiv.org/abs/2601.11150v1)|[link](https://github.com/Ameek94/BOBE)|
+|**2026-01-14 10:09:29**|**Owl-z: a Bayesian tool to select z \geq 7 quasars**|Meriam Ezziati et.al.|[2601.09332v1](http://arxiv.org/abs/2601.09332v1)|null|
 
 ## Knob Tuning
 
@@ -73,38 +73,38 @@
 |**2026-02-11 14:48:07**|**Tuning the burn-in phase in training recurrent neural networks improves their performance**|Julian D. Schiller et.al.|[2602.10911v1](http://arxiv.org/abs/2602.10911v1)|null|
 |**2026-02-10 12:30:54**|**Pressure dependent topological, superconducting, optoelectronic and thermophysical properties of Ta2Se chalcogenide: Theoretical insights**|Tauhidur Rahman et.al.|[2602.09727v1](http://arxiv.org/abs/2602.09727v1)|null|
 
-## Bayesian Optimisation
+## Random Forest Regression
 
-### Bayesian Optimisation
+### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-04-01 19:14:34**|**Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial**|Zhongwei Yu et.al.|[2604.01328v3](http://arxiv.org/abs/2604.01328v3)|null|
-|**2026-03-27 17:47:45**|**Automatic Laplace Collapsed Sampling: Scalable Marginalisation of Latent Parameters via Automatic Differentiation**|Toby Lovick et.al.|[2603.26644v1](http://arxiv.org/abs/2603.26644v1)|null|
-|**2026-03-25 09:39:15**|**Likelihood hacking in probabilistic program synthesis**|Jacek Karwowski et.al.|[2603.24126v1](http://arxiv.org/abs/2603.24126v1)|null|
-|**2026-03-19 15:48:48**|**Probabilistic multivariate statistical process control via kernel parameter uncertainty propagation**|Zina-Sabrina Duma et.al.|[2603.19055v1](http://arxiv.org/abs/2603.19055v1)|null|
-|**2026-03-16 07:57:40**|**FairMed-XGB: A Bayesian-Optimised Multi-Metric Framework with Explainability for Demographic Equity in Critical Healthcare Data**|Mitul Goswami et.al.|[2603.14947v1](http://arxiv.org/abs/2603.14947v1)|null|
-|**2026-03-13 17:34:36**|**Optimising Foreground Modelling for Global 21cm Cosmology with GPU-Accelerated Nested Sampling**|Jacob L. Tutt et.al.|[2603.13196v1](http://arxiv.org/abs/2603.13196v1)|null|
-|**2026-03-13 11:14:53**|**Bayesian Uncertainty-Aware MRI Reconstruction**|Ahmed Karam Eldaly et.al.|[2603.13439v1](http://arxiv.org/abs/2603.13439v1)|null|
-|**2026-03-12 16:08:18**|**Wasserstein Gradient Flows for Batch Bayesian Optimal Experimental Design**|Louis Sharrock et.al.|[2603.12102v1](http://arxiv.org/abs/2603.12102v1)|null|
-|**2026-03-12 09:16:50**|**Linearised versus Nonlinear Estimates of Uncertainty in Full Waveform Inversion**|Xuebin Zhao et.al.|[2603.11711v1](http://arxiv.org/abs/2603.11711v1)|null|
-|**2026-03-10 14:20:53**|**From Phase Prediction to Phase Design: A ReAct Agent Framework for High-Entropy Alloy Discovery**|Iman Peivaste et.al.|[2603.11068v1](http://arxiv.org/abs/2603.11068v1)|null|
-|**2026-03-09 15:32:41**|**Improving Continual Learning for Gaussian Splatting based Environments Reconstruction on Commercial Off-the-Shelf Edge Devices**|Ivan Zaino et.al.|[2603.08499v1](http://arxiv.org/abs/2603.08499v1)|null|
-|**2026-03-06 12:49:34**|**Fundamental properties of protoplanetary discs determined from simultaneous fits to thermal dust images and spectral energy distributions**|Tim J. Harries et.al.|[2603.06230v1](http://arxiv.org/abs/2603.06230v1)|null|
-|**2026-02-28 19:13:44**|**QANTIS: A Hardware-Validated Quantum Platform for POMDP Planning and Multi-Target Data Association**|Bayram Yüksel Eker et.al.|[2603.00785v1](http://arxiv.org/abs/2603.00785v1)|null|
-|**2026-02-26 14:35:45**|**Latent Matters: Learning Deep State-Space Models**|Alexej Klushyn et.al.|[2602.23050v1](http://arxiv.org/abs/2602.23050v1)|null|
-|**2026-02-25 19:00:00**|**The global structure of the time delay likelihood**|Namu Kroupa et.al.|[2602.22307v1](http://arxiv.org/abs/2602.22307v1)|null|
-|**2026-02-25 09:04:15**|**Learning Complex Physical Regimes via Coverage-oriented Uncertainty Quantification: An application to the Critical Heat Flux**|Michele Cazzola et.al.|[2602.21701v1](http://arxiv.org/abs/2602.21701v1)|null|
-|**2026-02-23 19:16:03**|**The Sim-to-Real Gap in MRS Quantification: A Systematic Deep Learning Validation for GABA**|Zien Ma et.al.|[2602.20289v1](http://arxiv.org/abs/2602.20289v1)|null|
-|**2026-02-23 04:12:33**|**The dynamics of innovation diffusion: A survey of Bass-type models**|Nicolas Langrené et.al.|[2602.19488v1](http://arxiv.org/abs/2602.19488v1)|null|
-|**2026-02-19 15:13:10**|**Model bias and parameter optimisation with the example of INCL/ABLA**|Jason Hirtz et.al.|[2602.17446v1](http://arxiv.org/abs/2602.17446v1)|null|
-|**2026-02-15 19:37:21**|**Autonomous Robotic Tissue Palpation and Abnormalities Characterisation via Ergodic Exploration**|Luca Beber et.al.|[2602.14287v1](http://arxiv.org/abs/2602.14287v1)|null|
-|**2026-02-09 21:19:31**|**Some Bayesian Perspectives on Clinical Trials**|Alexandra Sokolova et.al.|[2602.09208v2](http://arxiv.org/abs/2602.09208v2)|null|
-|**2026-02-04 07:01:56**|**Bures-Wasserstein Importance-Weighted Evidence Lower Bound: Exposition and Applications**|Peiwen Jiang et.al.|[2602.04272v1](http://arxiv.org/abs/2602.04272v1)|null|
-|**2026-02-03 02:02:25**|**Variational and Monte Carlo Methods for Bayesian Inversion of Dynamic Subsurface Flow Simulations Using Seismic and Fluid Pressure Data**|Zhen Zhang et.al.|[2602.02993v1](http://arxiv.org/abs/2602.02993v1)|null|
-|**2026-01-30 03:56:20**|**Inverse Design of Three-Dimensional Microwave Cavities for Optimizing Electromagnetic Helicity**|Emma Paterson et.al.|[2602.09037v3](http://arxiv.org/abs/2602.09037v3)|null|
-|**2026-01-29 06:37:36**|**Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination**|Mengqi Chen et.al.|[2601.21324v1](http://arxiv.org/abs/2601.21324v1)|null|
-|**2026-01-22 04:41:26**|**An Empirical Study on Ensemble-Based Transfer Learning Bayesian Optimisation with Mixed Variable Types**|Natasha Trinkle et.al.|[2601.15640v1](http://arxiv.org/abs/2601.15640v1)|null|
-|**2026-01-21 14:29:59**|**Information mechanics: conservation and exchange**|Takuya Isomura et.al.|[2601.15028v1](http://arxiv.org/abs/2601.15028v1)|null|
-|**2026-01-19 16:07:39**|**Polyphonic Intelligence: Constraint-Based Emergence, Pluralistic Inference, and Non-Dominating Integration**|Alexander D Shaw et.al.|[2601.13182v1](http://arxiv.org/abs/2601.13182v1)|null|
-|**2026-01-16 10:07:50**|**Bayesian optimisation for Bayesian evidence (BOBE) -- a fast and efficient likelihood emulator for model selection**|Nathan Cohen et.al.|[2601.11150v1](http://arxiv.org/abs/2601.11150v1)|[link](https://github.com/Ameek94/BOBE)|
-|**2026-01-14 10:09:29**|**Owl-z: a Bayesian tool to select z \geq 7 quasars**|Meriam Ezziati et.al.|[2601.09332v1](http://arxiv.org/abs/2601.09332v1)|null|
+|**2026-04-09 08:25:49**|**Are we still able to recognize pearls? Machine-driven peer review and the risk to creativity: An explainable RAG-XAI detection framework with markers extraction**|Alin-Gabriel Văduva et.al.|[2604.07964v1](http://arxiv.org/abs/2604.07964v1)|null|
+|**2026-04-09 08:17:27**|**Fraud Detection System for Banking Transactions**|Ranya Batsyas et.al.|[2604.07952v1](http://arxiv.org/abs/2604.07952v1)|null|
+|**2026-04-05 18:46:59**|**Learning-Based Multi-Criteria Decision Making Model for Sawmill Location Problems**|Mahid Ahmed et.al.|[2604.04996v1](http://arxiv.org/abs/2604.04996v1)|null|
+|**2026-03-30 21:58:47**|**From Astronomy to Astrology: Testing the Illusion of Zodiac-Based Personality Prediction with Machine Learning**|Abhinna Sundar Samantaray et.al.|[2603.29033v1](http://arxiv.org/abs/2603.29033v1)|null|
+|**2026-03-28 19:42:27**|**Diagnosing Non-Markovian Observations in Reinforcement Learning via Prediction-Based Violation Scoring**|Naveen Mysore et.al.|[2603.27389v1](http://arxiv.org/abs/2603.27389v1)|[link](https://github.com/NAVEENMN/Markovianes)|
+|**2026-03-26 06:13:34**|**An Explainable Ensemble Learning Framework for Crop Classification with Optimized Feature Pyramids and Deep Networks**|Syed Rayhan Masud et.al.|[2603.25070v1](http://arxiv.org/abs/2603.25070v1)|null|
+|**2026-03-25 15:46:34**|**Machine Learning-Based Classification of Active Galaxies and Estimation of Supermassive Black Hole Masses**|Farideh Mazoochi et.al.|[2603.24435v1](http://arxiv.org/abs/2603.24435v1)|null|
+|**2026-03-25 11:44:20**|**Adapting Altman's bankruptcy prediction model to the compositional data methodology**|Fatemeh Keivani et.al.|[2603.24215v1](http://arxiv.org/abs/2603.24215v1)|null|
+|**2026-03-25 10:22:28**|**Penalized estimation of GEV parameters for extreme quantile regression**|Lucien M. Vidagbandji et.al.|[2603.24153v1](http://arxiv.org/abs/2603.24153v1)|null|
+|**2026-03-24 22:58:12**|**Age-Specific Logistic Regression with Complex Event Time Data**| Haoxuan et.al.|[2603.23767v2](http://arxiv.org/abs/2603.23767v2)|null|
+|**2026-03-24 14:47:52**|**A Comparative Study of Machine Learning Models for Hourly Forecasting of Air Temperature and Relative Humidity**|Jiaqi Dong et.al.|[2603.23282v1](http://arxiv.org/abs/2603.23282v1)|null|
+|**2026-03-24 04:27:17**|**Quantum Random Forest for the Regression Problem**|Kamil Khadiev et.al.|[2603.22790v1](http://arxiv.org/abs/2603.22790v1)|null|
+|**2026-03-23 10:58:01**|**Financial Dynamics and Interconnected Risk of Liquid Restaking**|Hasret Ozan Sevim et.al.|[2604.03274v1](http://arxiv.org/abs/2604.03274v1)|null|
+|**2026-03-19 17:53:32**|**Robustness, Cost, and Attack-Surface Concentration in Phishing Detection**|Julian Allagan et.al.|[2603.19204v1](http://arxiv.org/abs/2603.19204v1)|null|
+|**2026-03-19 14:24:05**|**Balancing Performance and Fairness in Explainable AI for Anomaly Detection in Distributed Power Plants Monitoring**|Corneille Niyonkuru et.al.|[2603.18954v1](http://arxiv.org/abs/2603.18954v1)|null|
+|**2026-03-16 15:43:48**|**Music Genre Classification: A Comparative Analysis of Classical Machine Learning and Deep Learning Approaches**|Sachin Prajuli et.al.|[2603.15440v1](http://arxiv.org/abs/2603.15440v1)|null|
+|**2026-03-14 08:25:42**|**Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling**|Dingding Cao et.al.|[2603.13830v1](http://arxiv.org/abs/2603.13830v1)|null|
+|**2026-03-13 04:49:58**|**Beyond the Merger-Quasar-Quench Paradigm I: Mergers are neither necessary nor sufficient to quench central galaxies in IllustrisTNG**|Camilo A. Casimiro et.al.|[2603.12651v1](http://arxiv.org/abs/2603.12651v1)|null|
+|**2026-03-13 01:57:09**|**Foundation-Model Surrogates Enable Data-Efficient Active Learning for Materials Discovery**|Jeffrey Hu et.al.|[2603.12567v3](http://arxiv.org/abs/2603.12567v3)|null|
+|**2026-03-12 04:05:23**|**Prediction of Grade, Gender, and Academic Performance of Children and Teenagers from Handwriting Using the Sigma-Lognormal Model**|Adrian Iste et.al.|[2603.11519v3](http://arxiv.org/abs/2603.11519v3)|null|
+|**2026-03-09 17:54:32**|**A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies**|Anas ALsobeh et.al.|[2603.08692v1](http://arxiv.org/abs/2603.08692v1)|null|
+|**2026-03-06 05:56:39**|**Controlled Experiments on Dark-Matter Halo Structure and Galaxy Morphology I: What Sets Galaxy Sizes?**|Guangze Sun et.al.|[2603.05930v1](http://arxiv.org/abs/2603.05930v1)|null|
+|**2026-03-05 18:45:44**|**Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility**|Olaf Yunus Laitinen Imanov et.al.|[2603.05581v1](http://arxiv.org/abs/2603.05581v1)|null|
+|**2026-03-03 21:58:10**|**Predicting Spin-Crossover Behavior in Metal-Organic Frameworks from Limited and Noisy Data Using Quantile Active Learning**|Ashna Jose et.al.|[2603.03545v1](http://arxiv.org/abs/2603.03545v1)|null|
+|**2026-02-28 11:56:39**|**Machine Learning Grade Prediction Using Students' Grades and Demographics**|Mwayi Sonkhanani et.al.|[2603.00608v1](http://arxiv.org/abs/2603.00608v1)|null|
+|**2026-02-26 19:53:41**|**On the Limits of Interpretable Machine Learning in Quintic Root Classification**|Rohan Thomas et.al.|[2602.23467v1](http://arxiv.org/abs/2602.23467v1)|null|
+|**2026-02-25 20:50:01**|**Predicting Multi-Drug Resistance in Bacterial Isolates Through Performance Comparison and LIME-based Interpretation of Classification Models**|Santanam Wishal et.al.|[2602.22400v2](http://arxiv.org/abs/2602.22400v2)|null|
+|**2026-02-25 13:00:05**|**Comparative Evaluation of Machine Learning Models for Predicting Donor Kidney Discard**|Peer Schliephacke et.al.|[2602.21876v1](http://arxiv.org/abs/2602.21876v1)|null|
+|**2026-02-25 10:53:57**|**Integrating Machine Learning Ensembles and Large Language Models for Heart Disease Prediction Using Voting Fusion**|Md. Tahsin Amin et.al.|[2602.22280v1](http://arxiv.org/abs/2602.22280v1)|null|
+|**2026-02-23 19:31:44**|**Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health**|Joyanta Jyoti Mondal et.al.|[2602.20303v1](http://arxiv.org/abs/2602.20303v1)|null|
