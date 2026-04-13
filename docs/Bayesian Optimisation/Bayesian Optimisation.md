@@ -2,6 +2,7 @@
 ### Bayesian Optimisation
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-10 15:27:49**|**Do We Really Need to Approach the Entire Pareto Front in Many-Objective Bayesian Optimisation?**|Chao Jiang et.al.|[2604.09417v1](http://arxiv.org/abs/2604.09417v1)|null|
 |**2026-04-01 19:14:34**|**Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial**|Zhongwei Yu et.al.|[2604.01328v3](http://arxiv.org/abs/2604.01328v3)|null|
 |**2026-03-27 17:47:45**|**Automatic Laplace Collapsed Sampling: Scalable Marginalisation of Latent Parameters via Automatic Differentiation**|Toby Lovick et.al.|[2603.26644v1](http://arxiv.org/abs/2603.26644v1)|null|
 |**2026-03-25 09:39:15**|**Likelihood hacking in probabilistic program synthesis**|Jacek Karwowski et.al.|[2603.24126v1](http://arxiv.org/abs/2603.24126v1)|null|
@@ -31,4 +32,3 @@
 |**2026-01-21 14:29:59**|**Information mechanics: conservation and exchange**|Takuya Isomura et.al.|[2601.15028v1](http://arxiv.org/abs/2601.15028v1)|null|
 |**2026-01-19 16:07:39**|**Polyphonic Intelligence: Constraint-Based Emergence, Pluralistic Inference, and Non-Dominating Integration**|Alexander D Shaw et.al.|[2601.13182v1](http://arxiv.org/abs/2601.13182v1)|null|
 |**2026-01-16 10:07:50**|**Bayesian optimisation for Bayesian evidence (BOBE) -- a fast and efficient likelihood emulator for model selection**|Nathan Cohen et.al.|[2601.11150v1](http://arxiv.org/abs/2601.11150v1)|[link](https://github.com/Ameek94/BOBE)|
-|**2026-01-14 10:09:29**|**Owl-z: a Bayesian tool to select z \geq 7 quasars**|Meriam Ezziati et.al.|[2601.09332v1](http://arxiv.org/abs/2601.09332v1)|null|
