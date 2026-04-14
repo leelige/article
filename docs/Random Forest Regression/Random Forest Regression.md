@@ -2,6 +2,8 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-13 17:26:17**|**A Synthetic Conversational Smishing Dataset for Social Engineering Detection**|Carl Lochstampfor et.al.|[2604.11752v1](http://arxiv.org/abs/2604.11752v1)|null|
+|**2026-04-10 23:51:28**|**Human vs. Machine Deception: Distinguishing AI-Generated and Human-Written Fake News Using Ensemble Learning**|Samuel Jaeger et.al.|[2604.09960v1](http://arxiv.org/abs/2604.09960v1)|null|
 |**2026-04-09 08:25:49**|**Are we still able to recognize pearls? Machine-driven peer review and the risk to creativity: An explainable RAG-XAI detection framework with markers extraction**|Alin-Gabriel Văduva et.al.|[2604.07964v1](http://arxiv.org/abs/2604.07964v1)|null|
 |**2026-04-09 08:17:27**|**Fraud Detection System for Banking Transactions**|Ranya Batsyas et.al.|[2604.07952v1](http://arxiv.org/abs/2604.07952v1)|null|
 |**2026-04-05 18:46:59**|**Learning-Based Multi-Criteria Decision Making Model for Sawmill Location Problems**|Mahid Ahmed et.al.|[2604.04996v1](http://arxiv.org/abs/2604.04996v1)|null|
@@ -15,6 +17,7 @@
 |**2026-03-24 14:47:52**|**A Comparative Study of Machine Learning Models for Hourly Forecasting of Air Temperature and Relative Humidity**|Jiaqi Dong et.al.|[2603.23282v1](http://arxiv.org/abs/2603.23282v1)|null|
 |**2026-03-24 04:27:17**|**Quantum Random Forest for the Regression Problem**|Kamil Khadiev et.al.|[2603.22790v1](http://arxiv.org/abs/2603.22790v1)|null|
 |**2026-03-23 10:58:01**|**Financial Dynamics and Interconnected Risk of Liquid Restaking**|Hasret Ozan Sevim et.al.|[2604.03274v1](http://arxiv.org/abs/2604.03274v1)|null|
+|**2026-03-19 18:46:57**|**ML-Based Real-Time Downlink Performance Prediction in Standalone 5G NR Using Smartphones**|Md Mahfuzur Rahman et.al.|[2604.09632v1](http://arxiv.org/abs/2604.09632v1)|null|
 |**2026-03-19 17:53:32**|**Robustness, Cost, and Attack-Surface Concentration in Phishing Detection**|Julian Allagan et.al.|[2603.19204v1](http://arxiv.org/abs/2603.19204v1)|null|
 |**2026-03-19 14:24:05**|**Balancing Performance and Fairness in Explainable AI for Anomaly Detection in Distributed Power Plants Monitoring**|Corneille Niyonkuru et.al.|[2603.18954v1](http://arxiv.org/abs/2603.18954v1)|null|
 |**2026-03-16 15:43:48**|**Music Genre Classification: A Comparative Analysis of Classical Machine Learning and Deep Learning Approaches**|Sachin Prajuli et.al.|[2603.15440v1](http://arxiv.org/abs/2603.15440v1)|null|
@@ -29,6 +32,3 @@
 |**2026-02-28 11:56:39**|**Machine Learning Grade Prediction Using Students' Grades and Demographics**|Mwayi Sonkhanani et.al.|[2603.00608v1](http://arxiv.org/abs/2603.00608v1)|null|
 |**2026-02-26 19:53:41**|**On the Limits of Interpretable Machine Learning in Quintic Root Classification**|Rohan Thomas et.al.|[2602.23467v1](http://arxiv.org/abs/2602.23467v1)|null|
 |**2026-02-25 20:50:01**|**Predicting Multi-Drug Resistance in Bacterial Isolates Through Performance Comparison and LIME-based Interpretation of Classification Models**|Santanam Wishal et.al.|[2602.22400v2](http://arxiv.org/abs/2602.22400v2)|null|
-|**2026-02-25 13:00:05**|**Comparative Evaluation of Machine Learning Models for Predicting Donor Kidney Discard**|Peer Schliephacke et.al.|[2602.21876v1](http://arxiv.org/abs/2602.21876v1)|null|
-|**2026-02-25 10:53:57**|**Integrating Machine Learning Ensembles and Large Language Models for Heart Disease Prediction Using Voting Fusion**|Md. Tahsin Amin et.al.|[2602.22280v1](http://arxiv.org/abs/2602.22280v1)|null|
-|**2026-02-23 19:31:44**|**Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health**|Joyanta Jyoti Mondal et.al.|[2602.20303v1](http://arxiv.org/abs/2602.20303v1)|null|
