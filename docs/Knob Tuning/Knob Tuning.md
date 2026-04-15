@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-14 13:32:48**|**Ising selector machine by Kerr parametric oscillators**|Jacopo Tosca et.al.|[2604.12718v1](http://arxiv.org/abs/2604.12718v1)|null|
 |**2026-04-11 19:59:02**|**VeriTrans: Fine-Tuned LLM-Assisted NL-to-PL Translation via a Deterministic Neuro-Symbolic Pipeline**|Xuan Liu et.al.|[2604.10341v1](http://arxiv.org/abs/2604.10341v1)|null|
 |**2026-04-08 12:41:37**|**MARS: Enabling Autoregressive Models Multi-Token Generation**|Ziqi Jin et.al.|[2604.07023v1](http://arxiv.org/abs/2604.07023v1)|null|
 |**2026-04-06 14:47:28**|**Phonon-phonon interaction as a control knob for multimode splitting in a two mirror parametrically assisted optomechanical cavity**|Ghaisud Din et.al.|[2604.04725v1](http://arxiv.org/abs/2604.04725v1)|null|
@@ -31,4 +32,3 @@
 |**2026-02-16 14:44:18**|**Strongly correlated Josephson junction: proximity effect in the single-layer Hubbard model**|Don Rolih et.al.|[2602.14796v1](http://arxiv.org/abs/2602.14796v1)|null|
 |**2026-02-16 14:37:20**|**Uniaxial strain tuned magnetism of the altermagnet candidate h-FeS**|Weiliang Yao et.al.|[2602.14790v1](http://arxiv.org/abs/2602.14790v1)|null|
 |**2026-02-12 06:41:27**|**First-order phase transition in atom-molecule quantum degenerate mixtures with coherent three-body recombination**|G. A. Bougas et.al.|[2602.11637v1](http://arxiv.org/abs/2602.11637v1)|null|
-|**2026-02-11 14:48:07**|**Tuning the burn-in phase in training recurrent neural networks improves their performance**|Julian D. Schiller et.al.|[2602.10911v1](http://arxiv.org/abs/2602.10911v1)|null|
