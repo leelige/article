@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-04-15 17:07:36 Asia/Shanghai
+ 自动更新 @ 2026-04-16 17:06:46 Asia/Shanghai
 
 ## Random Forest Regression
 
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-15 02:15:28**|**Leveraging machine learning to estimate individualized treatment effects in cluster-randomized trials**|Changjun Li et.al.|[2604.13406v1](http://arxiv.org/abs/2604.13406v1)|null|
 |**2026-04-13 17:26:17**|**A Synthetic Conversational Smishing Dataset for Social Engineering Detection**|Carl Lochstampfor et.al.|[2604.11752v1](http://arxiv.org/abs/2604.11752v1)|null|
 |**2026-04-10 23:51:28**|**Human vs. Machine Deception: Distinguishing AI-Generated and Human-Written Fake News Using Ensemble Learning**|Samuel Jaeger et.al.|[2604.09960v1](http://arxiv.org/abs/2604.09960v1)|null|
 |**2026-04-09 08:25:49**|**Are we still able to recognize pearls? Machine-driven peer review and the risk to creativity: An explainable RAG-XAI detection framework with markers extraction**|Alin-Gabriel Văduva et.al.|[2604.07964v1](http://arxiv.org/abs/2604.07964v1)|null|
@@ -35,7 +36,6 @@
 |**2026-03-03 21:58:10**|**Predicting Spin-Crossover Behavior in Metal-Organic Frameworks from Limited and Noisy Data Using Quantile Active Learning**|Ashna Jose et.al.|[2603.03545v1](http://arxiv.org/abs/2603.03545v1)|null|
 |**2026-02-28 11:56:39**|**Machine Learning Grade Prediction Using Students' Grades and Demographics**|Mwayi Sonkhanani et.al.|[2603.00608v1](http://arxiv.org/abs/2603.00608v1)|null|
 |**2026-02-26 19:53:41**|**On the Limits of Interpretable Machine Learning in Quintic Root Classification**|Rohan Thomas et.al.|[2602.23467v1](http://arxiv.org/abs/2602.23467v1)|null|
-|**2026-02-25 20:50:01**|**Predicting Multi-Drug Resistance in Bacterial Isolates Through Performance Comparison and LIME-based Interpretation of Classification Models**|Santanam Wishal et.al.|[2602.22400v2](http://arxiv.org/abs/2602.22400v2)|null|
 
 ## Knob Tuning
 
