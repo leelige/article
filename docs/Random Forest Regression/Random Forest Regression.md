@@ -2,6 +2,8 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-16 16:10:55**|**Understanding the regulation of star formation within TNG100 galaxies on kpc-scales using machine learning I: Global versus local**|Bryanne McDonough et.al.|[2604.15182v1](http://arxiv.org/abs/2604.15182v1)|null|
+|**2026-04-15 21:36:44**|**Robustness Analysis of Machine Learning Models for IoT Intrusion Detection Under Data Poisoning Attacks**|Fortunatus Aabangbio Wulnye et.al.|[2604.14444v1](http://arxiv.org/abs/2604.14444v1)|null|
 |**2026-04-15 02:15:28**|**Leveraging machine learning to estimate individualized treatment effects in cluster-randomized trials**|Changjun Li et.al.|[2604.13406v1](http://arxiv.org/abs/2604.13406v1)|null|
 |**2026-04-13 17:26:17**|**A Synthetic Conversational Smishing Dataset for Social Engineering Detection**|Carl Lochstampfor et.al.|[2604.11752v1](http://arxiv.org/abs/2604.11752v1)|null|
 |**2026-04-10 23:51:28**|**Human vs. Machine Deception: Distinguishing AI-Generated and Human-Written Fake News Using Ensemble Learning**|Samuel Jaeger et.al.|[2604.09960v1](http://arxiv.org/abs/2604.09960v1)|null|
@@ -30,5 +32,3 @@
 |**2026-03-06 05:56:39**|**Controlled Experiments on Dark-Matter Halo Structure and Galaxy Morphology I: What Sets Galaxy Sizes?**|Guangze Sun et.al.|[2603.05930v1](http://arxiv.org/abs/2603.05930v1)|null|
 |**2026-03-05 18:45:44**|**Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility**|Olaf Yunus Laitinen Imanov et.al.|[2603.05581v1](http://arxiv.org/abs/2603.05581v1)|null|
 |**2026-03-03 21:58:10**|**Predicting Spin-Crossover Behavior in Metal-Organic Frameworks from Limited and Noisy Data Using Quantile Active Learning**|Ashna Jose et.al.|[2603.03545v1](http://arxiv.org/abs/2603.03545v1)|null|
-|**2026-02-28 11:56:39**|**Machine Learning Grade Prediction Using Students' Grades and Demographics**|Mwayi Sonkhanani et.al.|[2603.00608v1](http://arxiv.org/abs/2603.00608v1)|null|
-|**2026-02-26 19:53:41**|**On the Limits of Interpretable Machine Learning in Quintic Root Classification**|Rohan Thomas et.al.|[2602.23467v1](http://arxiv.org/abs/2602.23467v1)|null|
