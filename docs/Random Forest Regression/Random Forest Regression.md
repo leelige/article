@@ -2,6 +2,8 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-19 04:32:06**|**Improving post-operative discharge destination prediction of geriatric patients with generative data augmentation**|Pegah Golchian et.al.|[2604.17250v1](http://arxiv.org/abs/2604.17250v1)|null|
+|**2026-04-17 08:20:44**|**ECG-Lens: Benchmarking ML & DL Models on PTB-XL Dataset**|Saloni Garg et.al.|[2604.15822v1](http://arxiv.org/abs/2604.15822v1)|null|
 |**2026-04-16 16:10:55**|**Understanding the regulation of star formation within TNG100 galaxies on kpc-scales using machine learning I: Global versus local**|Bryanne McDonough et.al.|[2604.15182v1](http://arxiv.org/abs/2604.15182v1)|null|
 |**2026-04-15 21:36:44**|**Robustness Analysis of Machine Learning Models for IoT Intrusion Detection Under Data Poisoning Attacks**|Fortunatus Aabangbio Wulnye et.al.|[2604.14444v1](http://arxiv.org/abs/2604.14444v1)|null|
 |**2026-04-15 02:15:28**|**Leveraging machine learning to estimate individualized treatment effects in cluster-randomized trials**|Changjun Li et.al.|[2604.13406v1](http://arxiv.org/abs/2604.13406v1)|null|
@@ -23,12 +25,10 @@
 |**2026-03-19 18:46:57**|**ML-Based Real-Time Downlink Performance Prediction in Standalone 5G NR Using Smartphones**|Md Mahfuzur Rahman et.al.|[2604.09632v1](http://arxiv.org/abs/2604.09632v1)|null|
 |**2026-03-19 17:53:32**|**Robustness, Cost, and Attack-Surface Concentration in Phishing Detection**|Julian Allagan et.al.|[2603.19204v1](http://arxiv.org/abs/2603.19204v1)|null|
 |**2026-03-19 14:24:05**|**Balancing Performance and Fairness in Explainable AI for Anomaly Detection in Distributed Power Plants Monitoring**|Corneille Niyonkuru et.al.|[2603.18954v1](http://arxiv.org/abs/2603.18954v1)|null|
+|**2026-03-18 05:23:06**|**ML and Smartphones Assisted Real-Time Uplink Performance Prediction in 5G Cellular System**|Md Mahfuzur Rahman et.al.|[2604.16356v1](http://arxiv.org/abs/2604.16356v1)|null|
 |**2026-03-16 15:43:48**|**Music Genre Classification: A Comparative Analysis of Classical Machine Learning and Deep Learning Approaches**|Sachin Prajuli et.al.|[2603.15440v1](http://arxiv.org/abs/2603.15440v1)|null|
 |**2026-03-14 08:25:42**|**Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling**|Dingding Cao et.al.|[2603.13830v1](http://arxiv.org/abs/2603.13830v1)|null|
 |**2026-03-13 04:49:58**|**Beyond the Merger-Quasar-Quench Paradigm I: Mergers are neither necessary nor sufficient to quench central galaxies in IllustrisTNG**|Camilo A. Casimiro et.al.|[2603.12651v1](http://arxiv.org/abs/2603.12651v1)|null|
 |**2026-03-13 01:57:09**|**Foundation-Model Surrogates Enable Data-Efficient Active Learning for Materials Discovery**|Jeffrey Hu et.al.|[2603.12567v3](http://arxiv.org/abs/2603.12567v3)|null|
 |**2026-03-12 04:05:23**|**Prediction of Grade, Gender, and Academic Performance of Children and Teenagers from Handwriting Using the Sigma-Lognormal Model**|Adrian Iste et.al.|[2603.11519v3](http://arxiv.org/abs/2603.11519v3)|null|
 |**2026-03-09 17:54:32**|**A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies**|Anas ALsobeh et.al.|[2603.08692v1](http://arxiv.org/abs/2603.08692v1)|null|
-|**2026-03-06 05:56:39**|**Controlled Experiments on Dark-Matter Halo Structure and Galaxy Morphology I: What Sets Galaxy Sizes?**|Guangze Sun et.al.|[2603.05930v1](http://arxiv.org/abs/2603.05930v1)|null|
-|**2026-03-05 18:45:44**|**Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility**|Olaf Yunus Laitinen Imanov et.al.|[2603.05581v1](http://arxiv.org/abs/2603.05581v1)|null|
-|**2026-03-03 21:58:10**|**Predicting Spin-Crossover Behavior in Metal-Organic Frameworks from Limited and Noisy Data Using Quantile Active Learning**|Ashna Jose et.al.|[2603.03545v1](http://arxiv.org/abs/2603.03545v1)|null|

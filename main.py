@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-import urllib.request as req
 from xml.dom.minidom import parseString
 import json.decoder
 import os.path
@@ -33,13 +32,17 @@ from config import (
 )
 
 def getResult(search_query='all:fake+news+OR+all:rumour', start=0, max_results=5, sortBy='submittedDate', sortOrder='descending'):
-    url = 'http://export.arxiv.org/api/query?search_query={}&start={}&max_results={}&sortBy={}&sortOrder={}'.format(
+    url = 'https://export.arxiv.org/api/query?search_query={}&start={}&max_results={}&sortBy={}&sortOrder={}'.format(
         search_query, start, max_results, sortBy, sortOrder
     )
     flag = True
     print("-"*10, url)
-    data = req.urlopen(url)
-    xml_data = data.read().decode('utf-8')
+    headers = {
+        "user-agent": "article-bot/1.0 (+https://github.com/leelige/article)"
+    }
+    response = requests.get(url, headers=headers, timeout=30)
+    response.raise_for_status()
+    xml_data = response.text
     DOMTree = parseString(xml_data)
 
     collection = DOMTree.documentElement
@@ -139,6 +142,7 @@ class CoroutineSpeedup:
         self.max_queue_size = 0
         self.cache_space = []
         self.max_results = 30
+        self.paper_count = 0
 
     def _adaptor(self):
         while not self.worker.empty():
@@ -269,6 +273,7 @@ class CoroutineSpeedup:
         while not self.channel.empty():
             # 将上下文替换成 Markdown 语法文本
             context: dict = self.channel.get()
+            self.paper_count += len(context["paper"])
             md_obj: dict = ot.to_markdown(context)
 
             # 子主题分流
@@ -281,6 +286,8 @@ class CoroutineSpeedup:
             with open(os.path.join(SERVER_PATH_DOCS, f'{context["topic"]}', f'{context["subtopic"]}.md'), 'w') as f:
                 f.write(md_obj["content"])
                
+        if self.paper_count == 0:
+            raise RuntimeError("No papers were collected; refusing to overwrite README with empty content.")
 
         # 生成 Markdown 模板文件
         template_ = ot.generate_markdown_template(
@@ -296,16 +303,10 @@ class CoroutineSpeedup:
         # 配置弹性采集功率
         if self.max_queue_size != 0:
             self.power = self.max_queue_size if power > self.max_queue_size else power
-        if gevent is None:
-            while not self.worker.empty():
-                self._adaptor()
-            return
-        # 任务启动
-        task_list = []
-        for _ in range(self.power):
-            task = gevent.spawn(self._adaptor)
-            task_list.append(task)
-        gevent.joinall(task_list)
+        # The workload here is tiny, so a deterministic sequential pass is more
+        # robust than greenlets whose exceptions can get lost in CI.
+        while not self.worker.empty():
+            self._adaptor()
 
 
 class _OverloadTasks:
@@ -407,7 +408,7 @@ class Scaffold:
         pass
 
     @staticmethod
-    @logger.catch()
+    @logger.catch(reraise=True)
     def run(env: str = "development", power: int = 16):
         """
         Start the test sample.
