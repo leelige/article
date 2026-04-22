@@ -2,6 +2,7 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-20 23:27:10**|**Predicting Redshift in Seyfert Galaxies Using Machine Learning**|Uzay Aydin et.al.|[2604.18910v1](http://arxiv.org/abs/2604.18910v1)|null|
 |**2026-04-19 04:32:06**|**Improving post-operative discharge destination prediction of geriatric patients with generative data augmentation**|Pegah Golchian et.al.|[2604.17250v1](http://arxiv.org/abs/2604.17250v1)|null|
 |**2026-04-17 08:20:44**|**ECG-Lens: Benchmarking ML & DL Models on PTB-XL Dataset**|Saloni Garg et.al.|[2604.15822v1](http://arxiv.org/abs/2604.15822v1)|null|
 |**2026-04-16 16:10:55**|**Understanding the regulation of star formation within TNG100 galaxies on kpc-scales using machine learning I: Global versus local**|Bryanne McDonough et.al.|[2604.15182v1](http://arxiv.org/abs/2604.15182v1)|null|
@@ -31,4 +32,3 @@
 |**2026-03-13 04:49:58**|**Beyond the Merger-Quasar-Quench Paradigm I: Mergers are neither necessary nor sufficient to quench central galaxies in IllustrisTNG**|Camilo A. Casimiro et.al.|[2603.12651v1](http://arxiv.org/abs/2603.12651v1)|null|
 |**2026-03-13 01:57:09**|**Foundation-Model Surrogates Enable Data-Efficient Active Learning for Materials Discovery**|Jeffrey Hu et.al.|[2603.12567v3](http://arxiv.org/abs/2603.12567v3)|null|
 |**2026-03-12 04:05:23**|**Prediction of Grade, Gender, and Academic Performance of Children and Teenagers from Handwriting Using the Sigma-Lognormal Model**|Adrian Iste et.al.|[2603.11519v3](http://arxiv.org/abs/2603.11519v3)|null|
-|**2026-03-09 17:54:32**|**A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies**|Anas ALsobeh et.al.|[2603.08692v1](http://arxiv.org/abs/2603.08692v1)|null|
