@@ -7,8 +7,12 @@
 # "Graph Neural Network":
 #   "GNN": '(all:Graph+OR+all:graph)+AND+(all:neural+OR+all:Neural)+AND+(all:network+OR+all:Network)'
 
-"Bayesian Optimisation":
-  "Bayesian Optimisation": '(all:Bayesian+OR+all:bayesian)+AND+(all:Optimisation+OR+all:optimisation)'
+# "Bayesian Optimisation":
+#   "Bayesian Optimisation": '(all:Bayesian+OR+all:bayesian)+AND+(all:Optimisation+OR+all:optimisation)'
+
+"Cost Model":
+  "Cost Model": '(all:Cost+OR+all:cost)+AND+(all:Model+OR+all:model)+AND+(all:Database+OR+all:database)'
+
 
 "Knob Tuning":
   "Knob Tuning": '(all:Knob+OR+all:knob)+AND+(all:Tuning+OR+all:tuning)'
