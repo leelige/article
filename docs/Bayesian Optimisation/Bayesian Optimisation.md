@@ -15,7 +15,7 @@
 |**2026-03-12 09:16:50**|**Linearised versus Nonlinear Estimates of Uncertainty in Full Waveform Inversion**|Xuebin Zhao et.al.|[2603.11711v1](http://arxiv.org/abs/2603.11711v1)|null|
 |**2026-03-10 14:20:53**|**From Phase Prediction to Phase Design: A ReAct Agent Framework for High-Entropy Alloy Discovery**|Iman Peivaste et.al.|[2603.11068v1](http://arxiv.org/abs/2603.11068v1)|null|
 |**2026-03-09 15:32:41**|**Improving Continual Learning for Gaussian Splatting based Environments Reconstruction on Commercial Off-the-Shelf Edge Devices**|Ivan Zaino et.al.|[2603.08499v1](http://arxiv.org/abs/2603.08499v1)|null|
-|**2026-03-06 12:49:34**|**Fundamental properties of protoplanetary discs determined from simultaneous fits to thermal dust images and spectral energy distributions**|Tim J. Harries et.al.|[2603.06230v1](http://arxiv.org/abs/2603.06230v1)|null|
+|**2026-03-06 12:49:34**|**Fundamental properties of protoplanetary discs determined from simultaneous fits to thermal dust images and spectral energy distributions**|Tim J. Harries et.al.|[2603.06230v2](http://arxiv.org/abs/2603.06230v2)|null|
 |**2026-02-28 19:13:44**|**QANTIS: A Hardware-Validated Quantum Platform for POMDP Planning and Multi-Target Data Association**|Bayram Yüksel Eker et.al.|[2603.00785v1](http://arxiv.org/abs/2603.00785v1)|null|
 |**2026-02-26 14:35:45**|**Latent Matters: Learning Deep State-Space Models**|Alexej Klushyn et.al.|[2602.23050v1](http://arxiv.org/abs/2602.23050v1)|null|
 |**2026-02-25 19:00:00**|**The global structure of the time delay likelihood**|Namu Kroupa et.al.|[2602.22307v2](http://arxiv.org/abs/2602.22307v2)|null|

@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-04-27 18:02:58 Asia/Shanghai
+ 自动更新 @ 2026-04-28 18:03:27 Asia/Shanghai
 
 ## Bayesian Optimisation
 
@@ -19,7 +19,7 @@
 |**2026-03-12 09:16:50**|**Linearised versus Nonlinear Estimates of Uncertainty in Full Waveform Inversion**|Xuebin Zhao et.al.|[2603.11711v1](http://arxiv.org/abs/2603.11711v1)|null|
 |**2026-03-10 14:20:53**|**From Phase Prediction to Phase Design: A ReAct Agent Framework for High-Entropy Alloy Discovery**|Iman Peivaste et.al.|[2603.11068v1](http://arxiv.org/abs/2603.11068v1)|null|
 |**2026-03-09 15:32:41**|**Improving Continual Learning for Gaussian Splatting based Environments Reconstruction on Commercial Off-the-Shelf Edge Devices**|Ivan Zaino et.al.|[2603.08499v1](http://arxiv.org/abs/2603.08499v1)|null|
-|**2026-03-06 12:49:34**|**Fundamental properties of protoplanetary discs determined from simultaneous fits to thermal dust images and spectral energy distributions**|Tim J. Harries et.al.|[2603.06230v1](http://arxiv.org/abs/2603.06230v1)|null|
+|**2026-03-06 12:49:34**|**Fundamental properties of protoplanetary discs determined from simultaneous fits to thermal dust images and spectral energy distributions**|Tim J. Harries et.al.|[2603.06230v2](http://arxiv.org/abs/2603.06230v2)|null|
 |**2026-02-28 19:13:44**|**QANTIS: A Hardware-Validated Quantum Platform for POMDP Planning and Multi-Target Data Association**|Bayram Yüksel Eker et.al.|[2603.00785v1](http://arxiv.org/abs/2603.00785v1)|null|
 |**2026-02-26 14:35:45**|**Latent Matters: Learning Deep State-Space Models**|Alexej Klushyn et.al.|[2602.23050v1](http://arxiv.org/abs/2602.23050v1)|null|
 |**2026-02-25 19:00:00**|**The global structure of the time delay likelihood**|Namu Kroupa et.al.|[2602.22307v2](http://arxiv.org/abs/2602.22307v2)|null|
@@ -42,6 +42,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-27 14:22:14**|**Mass-Transfer Control With Microbubbles in Highly Turbulent Decaying Flows**|Vivek Kumar et.al.|[2604.24520v1](http://arxiv.org/abs/2604.24520v1)|null|
+|**2026-04-25 00:31:07**|**RKKY interaction in altermagnets with adiabatic electron-phonon coupling**|Bui D. Hoi et.al.|[2604.23082v1](http://arxiv.org/abs/2604.23082v1)|null|
 |**2026-04-21 01:22:35**|**Distillation Traps and Guards: A Calibration Knob for LLM Distillability**|Weixiao Zhan et.al.|[2604.18963v1](http://arxiv.org/abs/2604.18963v1)|null|
 |**2026-04-14 13:32:48**|**Ising selector machine by Kerr parametric oscillators**|Jacopo Tosca et.al.|[2604.12718v1](http://arxiv.org/abs/2604.12718v1)|null|
 |**2026-04-11 19:59:02**|**VeriTrans: Fine-Tuned LLM-Assisted NL-to-PL Translation via a Deterministic Neuro-Symbolic Pipeline**|Xuan Liu et.al.|[2604.10341v1](http://arxiv.org/abs/2604.10341v1)|null|
@@ -70,15 +72,15 @@
 |**2026-02-20 15:38:16**|**Decoding as Optimisation on the Probability Simplex: From Top-K to Top-P (Nucleus) to Best-of-K Samplers**|Xiaotong Ji et.al.|[2602.18292v2](http://arxiv.org/abs/2602.18292v2)|null|
 |**2026-02-19 20:03:23**|**Grassmannian Mixture-of-Experts: Concentration-Controlled Routing on Subspace Manifolds**|Ibne Farabi Shihab et.al.|[2602.17798v1](http://arxiv.org/abs/2602.17798v1)|null|
 |**2026-02-16 18:29:34**|**Stacking-Engineered Thermal Transport and Phonon Filtering in Rhenium Disulfide**|Yongjian Zhou et.al.|[2602.15002v1](http://arxiv.org/abs/2602.15002v1)|null|
-|**2026-02-16 14:44:18**|**Strongly correlated Josephson junction: proximity effect in the single-layer Hubbard model**|Don Rolih et.al.|[2602.14796v1](http://arxiv.org/abs/2602.14796v1)|null|
-|**2026-02-16 14:37:20**|**Uniaxial strain tuned magnetism of the altermagnet candidate h-FeS**|Weiliang Yao et.al.|[2602.14790v1](http://arxiv.org/abs/2602.14790v1)|null|
 
 ## Random Forest Regression
 
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-24 22:48:10**|**DeepImagine: Learning Biomedical Reasoning via Successive Counterfactual Imagining**|Youze Zheng et.al.|[2604.23054v1](http://arxiv.org/abs/2604.23054v1)|null|
 |**2026-04-20 23:27:10**|**Predicting Redshift in Seyfert Galaxies Using Machine Learning**|Uzay Aydin et.al.|[2604.18910v1](http://arxiv.org/abs/2604.18910v1)|null|
+|**2026-04-20 14:19:15**|**Predictive Modelling of Natural Medicinal Compounds for Alzheimer disease Using Machine Learning and Cheminformatics**|Hafiza Syeda Yusra Tirmizi et.al.|[2604.18316v2](http://arxiv.org/abs/2604.18316v2)|null|
 |**2026-04-19 04:32:06**|**Improving post-operative discharge destination prediction of geriatric patients with generative data augmentation**|Pegah Golchian et.al.|[2604.17250v1](http://arxiv.org/abs/2604.17250v1)|null|
 |**2026-04-17 08:20:44**|**ECG-Lens: Benchmarking ML & DL Models on PTB-XL Dataset**|Saloni Garg et.al.|[2604.15822v1](http://arxiv.org/abs/2604.15822v1)|null|
 |**2026-04-16 16:10:55**|**Understanding the regulation of star formation within TNG100 galaxies on kpc-scales using machine learning I: Global versus local**|Bryanne McDonough et.al.|[2604.15182v1](http://arxiv.org/abs/2604.15182v1)|null|
@@ -106,5 +108,3 @@
 |**2026-03-16 15:43:48**|**Music Genre Classification: A Comparative Analysis of Classical Machine Learning and Deep Learning Approaches**|Sachin Prajuli et.al.|[2603.15440v1](http://arxiv.org/abs/2603.15440v1)|null|
 |**2026-03-14 08:25:42**|**Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling**|Dingding Cao et.al.|[2603.13830v1](http://arxiv.org/abs/2603.13830v1)|null|
 |**2026-03-13 04:49:58**|**Beyond the Merger-Quasar-Quench Paradigm I: Mergers are neither necessary nor sufficient to quench central galaxies in IllustrisTNG**|Camilo A. Casimiro et.al.|[2603.12651v1](http://arxiv.org/abs/2603.12651v1)|null|
-|**2026-03-13 01:57:09**|**Foundation-Model Surrogates Enable Data-Efficient Active Learning for Materials Discovery**|Jeffrey Hu et.al.|[2603.12567v3](http://arxiv.org/abs/2603.12567v3)|null|
-|**2026-03-12 04:05:23**|**Prediction of Grade, Gender, and Academic Performance of Children and Teenagers from Handwriting Using the Sigma-Lognormal Model**|Adrian Iste et.al.|[2603.11519v3](http://arxiv.org/abs/2603.11519v3)|null|
