@@ -2,33 +2,33 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-28 17:50:37**|**NetSSM: Multi-Flow and State-Aware Network Trace Generation using   State-Space Models**|Andrew Chu et.al.|[2503.22663v1](http://arxiv.org/abs/2503.22663v1)|null|
-|**2025-03-28 17:43:00**|**Unicorn: Text-Only Data Synthesis for Vision Language Model Training**|Xiaomin Yu et.al.|[2503.22655v1](http://arxiv.org/abs/2503.22655v1)|[link](https://github.com/yu-xm/unicorn)|
-|**2025-03-28 17:14:48**|**Zero4D: Training-Free 4D Video Generation From Single Video Using   Off-the-Shelf Video Diffusion Model**|Jangho Park et.al.|[2503.22622v1](http://arxiv.org/abs/2503.22622v1)|null|
-|**2025-03-28 16:50:27**|**Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time   Talking Head Synthesis**|Shuai Shen et.al.|[2503.22605v1](http://arxiv.org/abs/2503.22605v1)|null|
-|**2025-03-28 16:44:28**|**Generative Latent Neural PDE Solver using Flow Matching**|Zijie Li et.al.|[2503.22600v1](http://arxiv.org/abs/2503.22600v1)|null|
-|**2025-03-28 16:41:09**|**Nanoparticle Deposition Techniques for Silica Nanoparticles: Synthesis,   Electrophoretic Deposition, and Optimization- A review**|Srabani Karmakar et.al.|[2503.22593v1](http://arxiv.org/abs/2503.22593v1)|null|
-|**2025-03-28 16:26:52**|**Breaking Language Barriers in Visual Language Models via Multilingual   Textual Regularization**|Iñigo Pikabea et.al.|[2503.22577v1](http://arxiv.org/abs/2503.22577v1)|null|
-|**2025-03-28 16:14:06**|**Benchmarking Ultra-Low-Power $μ$NPUs**|Josh Millar et.al.|[2503.22567v1](http://arxiv.org/abs/2503.22567v1)|null|
-|**2025-03-28 16:04:21**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563v1](http://arxiv.org/abs/2503.22563v1)|null|
-|**2025-03-28 15:33:19**|**Optimized Vehicular Antenna Placement for Phase-Coherent Positioning**|Victor Pettersson et.al.|[2503.22530v1](http://arxiv.org/abs/2503.22530v1)|null|
-|**2025-03-28 14:53:09**|**A Multi-Objective Simultaneous Routing, Facility Location and Allocation   Model for Earthquake Emergency Logistics**|Sakineh Khodadadi et.al.|[2503.22487v1](http://arxiv.org/abs/2503.22487v1)|null|
-|**2025-03-28 13:46:38**|**MVSAnywhere: Zero-Shot Multi-View Stereo**|Sergio Izquierdo et.al.|[2503.22430v1](http://arxiv.org/abs/2503.22430v1)|null|
-|**2025-03-28 13:06:41**|**On-site estimation of battery electrochemical parameters via transfer   learning based physics-informed neural network approach**|Josu Yeregui et.al.|[2503.22396v1](http://arxiv.org/abs/2503.22396v1)|null|
-|**2025-03-28 11:30:05**|**CPPO: Accelerating the Training of Group Relative Policy   Optimization-Based Reasoning Models**|Zhihang Lin et.al.|[2503.22342v1](http://arxiv.org/abs/2503.22342v1)|[link](https://github.com/lzhxmu/cppo)|
-|**2025-03-28 11:05:48**|**Valid Cuts for the Design of Potential-based Flow Networks**|Pascal Börner et.al.|[2503.22327v1](http://arxiv.org/abs/2503.22327v1)|null|
-|**2025-03-28 09:39:37**|**Efficient Epistemic Uncertainty Estimation in Cerebrovascular   Segmentation**|Omini Rathore et.al.|[2503.22271v1](http://arxiv.org/abs/2503.22271v1)|null|
-|**2025-03-28 09:27:20**|**FLIP: Towards Comprehensive and Reliable Evaluation of Federated Prompt   Learning**|Dongping Liao et.al.|[2503.22263v1](http://arxiv.org/abs/2503.22263v1)|[link](https://github.com/0-ml/flip)|
-|**2025-03-28 09:04:10**|**Beyond the Script: Testing LLMs for Authentic Patient Communication   Styles in Healthcare**|Anna Bodonhelyi et.al.|[2503.22250v1](http://arxiv.org/abs/2503.22250v1)|null|
-|**2025-03-28 08:33:37**|**Process Reward Modeling with Entropy-Driven Uncertainty**|Lang Cao et.al.|[2503.22233v1](http://arxiv.org/abs/2503.22233v1)|null|
-|**2025-03-28 07:00:33**|**Sell It Before You Make It: Revolutionizing E-Commerce with Personalized   AI-Generated Items**|Jianghao Lin et.al.|[2503.22182v1](http://arxiv.org/abs/2503.22182v1)|null|
-|**2025-03-28 06:41:22**|**A Multi-Site Study on AI-Driven Pathology Detection and Osteoarthritis   Grading from Knee X-Ray**|Bargava Subramanian et.al.|[2503.22176v1](http://arxiv.org/abs/2503.22176v1)|null|
-|**2025-03-28 06:23:29**|**Concept-Aware LoRA for Domain-Aligned Segmentation Dataset Generation**|Minho Park et.al.|[2503.22172v1](http://arxiv.org/abs/2503.22172v1)|null|
-|**2025-03-28 06:12:25**|**Spatial Transport Optimization by Repositioning Attention Map for   Training-Free Text-to-Image Synthesis**|Woojung Han et.al.|[2503.22168v1](http://arxiv.org/abs/2503.22168v1)|null|
-|**2025-03-28 04:22:53**|**Sharpe Ratio-Guided Active Learning for Preference Optimization in RLHF**|Syrine Belakaria et.al.|[2503.22137v1](http://arxiv.org/abs/2503.22137v1)|null|
-|**2025-03-28 03:58:12**|**Semantic segmentation for building houses from wooden cubes**|Ivan Beleacov et.al.|[2503.22125v1](http://arxiv.org/abs/2503.22125v1)|null|
-|**2025-03-28 03:40:15**|**Tripartite models for estimating the value of drug candidates and   decision tools**|John Mellnik et.al.|[2503.22117v1](http://arxiv.org/abs/2503.22117v1)|null|
-|**2025-03-28 02:53:27**|**Hierarchical models for small area estimation using zero-inflated forest   inventory variables: comparison and implementation**|Grayson W. White et.al.|[2503.22103v1](http://arxiv.org/abs/2503.22103v1)|null|
-|**2025-03-28 02:37:18**|**Few-Shot Graph Out-of-Distribution Detection with LLMs**|Haoyan Xu et.al.|[2503.22097v1](http://arxiv.org/abs/2503.22097v1)|null|
-|**2025-03-27 23:01:28**|**Reliability and Availability in Virtualized Networks: A Survey on   Standards, Modeling Approaches, and Research Challenges**|Mario Di Mauro et.al.|[2503.22034v1](http://arxiv.org/abs/2503.22034v1)|null|
-|**2025-03-27 19:14:27**|**An Efficient Training Algorithm for Models with Block-wise Sparsity**|Ding Zhu et.al.|[2503.21928v1](http://arxiv.org/abs/2503.21928v1)|null|
+|**2026-04-26 00:05:53**|**SEMA-SQL: Beyond Traditional Relational Querying with Large Language Models**|Yin Lin et.al.|[2604.23477v1](http://arxiv.org/abs/2604.23477v1)|null|
+|**2026-04-24 08:32:47**|**A Nationwide Japanese Medical Claims Foundation Model: Balancing Model Scaling and Task-Specific Computational Efficiency**|Nanae Aratake et.al.|[2604.22348v1](http://arxiv.org/abs/2604.22348v1)|null|
+|**2026-04-24 06:47:00**|**Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling**|Matilde Fiore et.al.|[2604.22882v1](http://arxiv.org/abs/2604.22882v1)|null|
+|**2026-04-23 21:34:36**|**Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents**|Seyed Moein Abtahi et.al.|[2604.22085v1](http://arxiv.org/abs/2604.22085v1)|null|
+|**2026-04-23 08:24:54**|**An Alternate Agentic AI Architecture (It's About the Data)**|Fabian Wenz et.al.|[2604.21413v1](http://arxiv.org/abs/2604.21413v1)|null|
+|**2026-04-23 04:59:16**|**Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture**|Robin Dey et.al.|[2604.21284v1](http://arxiv.org/abs/2604.21284v1)|null|
+|**2026-04-20 14:19:15**|**Predictive Modelling of Natural Medicinal Compounds for Alzheimer disease Using Machine Learning and Cheminformatics**|Hafiza Syeda Yusra Tirmizi et.al.|[2604.18316v2](http://arxiv.org/abs/2604.18316v2)|null|
+|**2026-04-16 15:44:13**|**DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency**|Boyan Li et.al.|[2604.15163v2](http://arxiv.org/abs/2604.15163v2)|null|
+|**2026-04-10 22:51:41**|**PLOP: Cost-Based Placement of Semantic Operators in Hybrid Query Plans**|Qiuyang Mang et.al.|[2604.09944v2](http://arxiv.org/abs/2604.09944v2)|null|
+|**2026-04-09 09:20:29**|**SynQL: A Controllable and Scalable Rule-Based Framework for SQL Workload Synthesis for Performance Benchmarking**|Kahan Mehta et.al.|[2604.08021v1](http://arxiv.org/abs/2604.08021v1)|null|
+|**2026-04-08 18:22:46**|**Healthcare AI for Automation or Allocation? A Transaction Cost Economics Framework**|Ari Ercole et.al.|[2604.16465v1](http://arxiv.org/abs/2604.16465v1)|null|
+|**2026-04-08 08:17:25**|**LASER: A Data-Centric Method for Low-Cost and Efficient SQL Rewriting based on SQL-GRPO**|Jiahui Li et.al.|[2604.06804v1](http://arxiv.org/abs/2604.06804v1)|null|
+|**2026-04-08 03:05:14**|**TiAb Review Plugin: A Browser-Based Tool for AI-Assisted Title and Abstract Screening**|Yuki Kataoka et.al.|[2604.08602v1](http://arxiv.org/abs/2604.08602v1)|null|
+|**2026-04-06 14:04:14**|**GPIR: Enabling Practical Private Information Retrieval with GPUs**|Hyesung Ji et.al.|[2604.04696v1](http://arxiv.org/abs/2604.04696v1)|null|
+|**2026-04-02 18:16:11**|**OmniTQA: A Cost-Aware System for Hybrid Query Processing over Semi-Structured Data**|Nima Shahbazi et.al.|[2604.02444v1](http://arxiv.org/abs/2604.02444v1)|null|
+|**2026-04-02 16:52:48**|**Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider**|Tina. J. Jat et.al.|[2604.02259v1](http://arxiv.org/abs/2604.02259v1)|null|
+|**2026-03-30 22:12:21**|**A Latent Risk-Aware Machine Learning Approach for Predicting Operational Success in Clinical Trials based on TrialsBank**|Iness Halimi et.al.|[2603.29041v1](http://arxiv.org/abs/2603.29041v1)|null|
+|**2026-03-28 13:36:45**|**From Foundation ECG Models to NISQ Learners: Distilling ECGFounder into a VQC Student**|Giovanni dos Santos Franco et.al.|[2603.27269v1](http://arxiv.org/abs/2603.27269v1)|null|
+|**2026-03-27 19:34:23**|**Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems**|Shanglin Wu et.al.|[2604.03295v1](http://arxiv.org/abs/2604.03295v1)|null|
+|**2026-03-27 09:42:10**|**EPDQ: Efficient and Privacy-Preserving Exact Distance Query on Encrypted Graphs**|Xuemei Fu et.al.|[2603.26219v1](http://arxiv.org/abs/2603.26219v1)|null|
+|**2026-03-27 04:03:21**|**ZEBRA-Prop: A Zero-Shot Embedding-Based Rapid and Accessible Regression Model for Materials Properties**|Ryoma Yamamoto et.al.|[2603.26060v1](http://arxiv.org/abs/2603.26060v1)|null|
+|**2026-03-25 07:33:44**|**Schema on the Inside: A Two-Phase Fine-Tuning Method for High-Efficiency Text-to-SQL at Scale**|Chinmay Soni et.al.|[2603.24023v1](http://arxiv.org/abs/2603.24023v1)|null|
+|**2026-03-24 03:23:16**|**Experimental investigation of magnetic properties of MnFeCo$_{4}$Si$_{2}$ discovered by GNoME**|Shuhei Naganuma et.al.|[2603.22748v1](http://arxiv.org/abs/2603.22748v1)|null|
+|**2026-03-22 17:31:57**|**Optimal-Cost Construction of Shallow Cuttings for 3-D Dominance Ranges in the I/O-Model**|Yakov Nekrich et.al.|[2603.21337v1](http://arxiv.org/abs/2603.21337v1)|null|
+|**2026-03-21 00:01:45**|**Global Cybercrime Damages: A Baseline for Frontier AI Risk Assessment**|Kamilė Lukošiūtė et.al.|[2603.20570v1](http://arxiv.org/abs/2603.20570v1)|null|
+|**2026-03-20 14:49:27**|**ReViSQL: Achieving Human-Level Text-to-SQL**|Yuxuan Zhu et.al.|[2603.20004v2](http://arxiv.org/abs/2603.20004v2)|null|
+|**2026-03-20 04:51:35**|**SEAR: Schema-Based Evaluation and Routing for LLM Gateways**|Zecheng Zhang et.al.|[2603.26728v1](http://arxiv.org/abs/2603.26728v1)|null|
+|**2026-03-18 11:19:13**|**End-to-end data-driven prediction of urban airflow and pollutant dispersion**|Nishant Kumar et.al.|[2603.17606v1](http://arxiv.org/abs/2603.17606v1)|null|
+|**2026-03-17 13:01:29**|**Practical MCTS-based Query Optimization: A Reproducibility Study and new MCTS algorithm for complex queries**|Vladimir Burlakov et.al.|[2603.16474v1](http://arxiv.org/abs/2603.16474v1)|null|
+|**2026-03-16 22:42:45**|**100x Cost & Latency Reduction: Performance Analysis of AI Query Approximation using Lightweight Proxy Models**|Yeounoh Chung et.al.|[2603.15970v6](http://arxiv.org/abs/2603.15970v6)|null|

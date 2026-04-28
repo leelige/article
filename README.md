@@ -1,41 +1,41 @@
 # arxiv-daily
- 自动更新 @ 2026-04-28 18:03:27 Asia/Shanghai
+ 自动更新 @ 2026-04-28 20:36:52 Asia/Shanghai
 
-## Bayesian Optimisation
+## Cost Model
 
-### Bayesian Optimisation
+### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-04-23 21:51:22**|**FLARE-BO: Fused Luminance and Adaptive Retinex Enhancement via Bayesian Optimisation for Low-Light Robotic Vision**|Nathan Shankar et.al.|[2604.22093v1](http://arxiv.org/abs/2604.22093v1)|null|
-|**2026-04-10 15:27:49**|**Do We Really Need to Approach the Entire Pareto Front in Many-Objective Bayesian Optimisation?**|Chao Jiang et.al.|[2604.09417v1](http://arxiv.org/abs/2604.09417v1)|null|
-|**2026-04-01 19:14:34**|**Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial**|Zhongwei Yu et.al.|[2604.01328v3](http://arxiv.org/abs/2604.01328v3)|null|
-|**2026-03-27 17:47:45**|**Automatic Laplace Collapsed Sampling: Scalable Marginalisation of Latent Parameters via Automatic Differentiation**|Toby Lovick et.al.|[2603.26644v1](http://arxiv.org/abs/2603.26644v1)|null|
-|**2026-03-25 09:39:15**|**Likelihood hacking in probabilistic program synthesis**|Jacek Karwowski et.al.|[2603.24126v1](http://arxiv.org/abs/2603.24126v1)|null|
-|**2026-03-19 15:48:48**|**Probabilistic multivariate statistical process control via kernel parameter uncertainty propagation**|Zina-Sabrina Duma et.al.|[2603.19055v1](http://arxiv.org/abs/2603.19055v1)|null|
-|**2026-03-16 07:57:40**|**FairMed-XGB: A Bayesian-Optimised Multi-Metric Framework with Explainability for Demographic Equity in Critical Healthcare Data**|Mitul Goswami et.al.|[2603.14947v1](http://arxiv.org/abs/2603.14947v1)|null|
-|**2026-03-13 17:34:36**|**Optimising Foreground Modelling for Global 21cm Cosmology with GPU-Accelerated Nested Sampling**|Jacob L. Tutt et.al.|[2603.13196v1](http://arxiv.org/abs/2603.13196v1)|null|
-|**2026-03-13 11:14:53**|**Bayesian Uncertainty-Aware MRI Reconstruction**|Ahmed Karam Eldaly et.al.|[2603.13439v1](http://arxiv.org/abs/2603.13439v1)|null|
-|**2026-03-12 16:08:18**|**Wasserstein Gradient Flows for Batch Bayesian Optimal Experimental Design**|Louis Sharrock et.al.|[2603.12102v1](http://arxiv.org/abs/2603.12102v1)|null|
-|**2026-03-12 09:16:50**|**Linearised versus Nonlinear Estimates of Uncertainty in Full Waveform Inversion**|Xuebin Zhao et.al.|[2603.11711v1](http://arxiv.org/abs/2603.11711v1)|null|
-|**2026-03-10 14:20:53**|**From Phase Prediction to Phase Design: A ReAct Agent Framework for High-Entropy Alloy Discovery**|Iman Peivaste et.al.|[2603.11068v1](http://arxiv.org/abs/2603.11068v1)|null|
-|**2026-03-09 15:32:41**|**Improving Continual Learning for Gaussian Splatting based Environments Reconstruction on Commercial Off-the-Shelf Edge Devices**|Ivan Zaino et.al.|[2603.08499v1](http://arxiv.org/abs/2603.08499v1)|null|
-|**2026-03-06 12:49:34**|**Fundamental properties of protoplanetary discs determined from simultaneous fits to thermal dust images and spectral energy distributions**|Tim J. Harries et.al.|[2603.06230v2](http://arxiv.org/abs/2603.06230v2)|null|
-|**2026-02-28 19:13:44**|**QANTIS: A Hardware-Validated Quantum Platform for POMDP Planning and Multi-Target Data Association**|Bayram Yüksel Eker et.al.|[2603.00785v1](http://arxiv.org/abs/2603.00785v1)|null|
-|**2026-02-26 14:35:45**|**Latent Matters: Learning Deep State-Space Models**|Alexej Klushyn et.al.|[2602.23050v1](http://arxiv.org/abs/2602.23050v1)|null|
-|**2026-02-25 19:00:00**|**The global structure of the time delay likelihood**|Namu Kroupa et.al.|[2602.22307v2](http://arxiv.org/abs/2602.22307v2)|null|
-|**2026-02-25 09:04:15**|**Learning Complex Physical Regimes via Coverage-oriented Uncertainty Quantification: An application to the Critical Heat Flux**|Michele Cazzola et.al.|[2602.21701v1](http://arxiv.org/abs/2602.21701v1)|null|
-|**2026-02-23 19:16:03**|**The Sim-to-Real Gap in MRS Quantification: A Systematic Deep Learning Validation for GABA**|Zien Ma et.al.|[2602.20289v1](http://arxiv.org/abs/2602.20289v1)|null|
-|**2026-02-23 04:12:33**|**The dynamics of innovation diffusion: A survey of Bass-type models**|Nicolas Langrené et.al.|[2602.19488v1](http://arxiv.org/abs/2602.19488v1)|null|
-|**2026-02-19 15:13:10**|**Model bias and parameter optimisation with the example of INCL/ABLA**|Jason Hirtz et.al.|[2602.17446v1](http://arxiv.org/abs/2602.17446v1)|null|
-|**2026-02-15 19:37:21**|**Autonomous Robotic Tissue Palpation and Abnormalities Characterisation via Ergodic Exploration**|Luca Beber et.al.|[2602.14287v1](http://arxiv.org/abs/2602.14287v1)|null|
-|**2026-02-09 21:19:31**|**Some Bayesian Perspectives on Clinical Trials**|Alexandra Sokolova et.al.|[2602.09208v2](http://arxiv.org/abs/2602.09208v2)|null|
-|**2026-02-04 07:01:56**|**Bures-Wasserstein Importance-Weighted Evidence Lower Bound: Exposition and Applications**|Peiwen Jiang et.al.|[2602.04272v1](http://arxiv.org/abs/2602.04272v1)|null|
-|**2026-02-03 02:02:25**|**Variational and Monte Carlo Methods for Bayesian Inversion of Dynamic Subsurface Flow Simulations Using Seismic and Fluid Pressure Data**|Zhen Zhang et.al.|[2602.02993v1](http://arxiv.org/abs/2602.02993v1)|null|
-|**2026-01-30 03:56:20**|**Inverse Design of Three-Dimensional Microwave Cavities for Optimizing Electromagnetic Helicity**|Emma Paterson et.al.|[2602.09037v3](http://arxiv.org/abs/2602.09037v3)|null|
-|**2026-01-29 06:37:36**|**Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination**|Mengqi Chen et.al.|[2601.21324v1](http://arxiv.org/abs/2601.21324v1)|null|
-|**2026-01-22 04:41:26**|**An Empirical Study on Ensemble-Based Transfer Learning Bayesian Optimisation with Mixed Variable Types**|Natasha Trinkle et.al.|[2601.15640v1](http://arxiv.org/abs/2601.15640v1)|null|
-|**2026-01-21 14:29:59**|**Information mechanics: conservation and exchange**|Takuya Isomura et.al.|[2601.15028v1](http://arxiv.org/abs/2601.15028v1)|null|
-|**2026-01-19 16:07:39**|**Polyphonic Intelligence: Constraint-Based Emergence, Pluralistic Inference, and Non-Dominating Integration**|Alexander D Shaw et.al.|[2601.13182v1](http://arxiv.org/abs/2601.13182v1)|null|
+|**2026-04-26 00:05:53**|**SEMA-SQL: Beyond Traditional Relational Querying with Large Language Models**|Yin Lin et.al.|[2604.23477v1](http://arxiv.org/abs/2604.23477v1)|null|
+|**2026-04-24 08:32:47**|**A Nationwide Japanese Medical Claims Foundation Model: Balancing Model Scaling and Task-Specific Computational Efficiency**|Nanae Aratake et.al.|[2604.22348v1](http://arxiv.org/abs/2604.22348v1)|null|
+|**2026-04-24 06:47:00**|**Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling**|Matilde Fiore et.al.|[2604.22882v1](http://arxiv.org/abs/2604.22882v1)|null|
+|**2026-04-23 21:34:36**|**Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents**|Seyed Moein Abtahi et.al.|[2604.22085v1](http://arxiv.org/abs/2604.22085v1)|null|
+|**2026-04-23 08:24:54**|**An Alternate Agentic AI Architecture (It's About the Data)**|Fabian Wenz et.al.|[2604.21413v1](http://arxiv.org/abs/2604.21413v1)|null|
+|**2026-04-23 04:59:16**|**Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture**|Robin Dey et.al.|[2604.21284v1](http://arxiv.org/abs/2604.21284v1)|null|
+|**2026-04-20 14:19:15**|**Predictive Modelling of Natural Medicinal Compounds for Alzheimer disease Using Machine Learning and Cheminformatics**|Hafiza Syeda Yusra Tirmizi et.al.|[2604.18316v2](http://arxiv.org/abs/2604.18316v2)|null|
+|**2026-04-16 15:44:13**|**DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency**|Boyan Li et.al.|[2604.15163v2](http://arxiv.org/abs/2604.15163v2)|null|
+|**2026-04-10 22:51:41**|**PLOP: Cost-Based Placement of Semantic Operators in Hybrid Query Plans**|Qiuyang Mang et.al.|[2604.09944v2](http://arxiv.org/abs/2604.09944v2)|null|
+|**2026-04-09 09:20:29**|**SynQL: A Controllable and Scalable Rule-Based Framework for SQL Workload Synthesis for Performance Benchmarking**|Kahan Mehta et.al.|[2604.08021v1](http://arxiv.org/abs/2604.08021v1)|null|
+|**2026-04-08 18:22:46**|**Healthcare AI for Automation or Allocation? A Transaction Cost Economics Framework**|Ari Ercole et.al.|[2604.16465v1](http://arxiv.org/abs/2604.16465v1)|null|
+|**2026-04-08 08:17:25**|**LASER: A Data-Centric Method for Low-Cost and Efficient SQL Rewriting based on SQL-GRPO**|Jiahui Li et.al.|[2604.06804v1](http://arxiv.org/abs/2604.06804v1)|null|
+|**2026-04-08 03:05:14**|**TiAb Review Plugin: A Browser-Based Tool for AI-Assisted Title and Abstract Screening**|Yuki Kataoka et.al.|[2604.08602v1](http://arxiv.org/abs/2604.08602v1)|null|
+|**2026-04-06 14:04:14**|**GPIR: Enabling Practical Private Information Retrieval with GPUs**|Hyesung Ji et.al.|[2604.04696v1](http://arxiv.org/abs/2604.04696v1)|null|
+|**2026-04-02 18:16:11**|**OmniTQA: A Cost-Aware System for Hybrid Query Processing over Semi-Structured Data**|Nima Shahbazi et.al.|[2604.02444v1](http://arxiv.org/abs/2604.02444v1)|null|
+|**2026-04-02 16:52:48**|**Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider**|Tina. J. Jat et.al.|[2604.02259v1](http://arxiv.org/abs/2604.02259v1)|null|
+|**2026-03-30 22:12:21**|**A Latent Risk-Aware Machine Learning Approach for Predicting Operational Success in Clinical Trials based on TrialsBank**|Iness Halimi et.al.|[2603.29041v1](http://arxiv.org/abs/2603.29041v1)|null|
+|**2026-03-28 13:36:45**|**From Foundation ECG Models to NISQ Learners: Distilling ECGFounder into a VQC Student**|Giovanni dos Santos Franco et.al.|[2603.27269v1](http://arxiv.org/abs/2603.27269v1)|null|
+|**2026-03-27 19:34:23**|**Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems**|Shanglin Wu et.al.|[2604.03295v1](http://arxiv.org/abs/2604.03295v1)|null|
+|**2026-03-27 09:42:10**|**EPDQ: Efficient and Privacy-Preserving Exact Distance Query on Encrypted Graphs**|Xuemei Fu et.al.|[2603.26219v1](http://arxiv.org/abs/2603.26219v1)|null|
+|**2026-03-27 04:03:21**|**ZEBRA-Prop: A Zero-Shot Embedding-Based Rapid and Accessible Regression Model for Materials Properties**|Ryoma Yamamoto et.al.|[2603.26060v1](http://arxiv.org/abs/2603.26060v1)|null|
+|**2026-03-25 07:33:44**|**Schema on the Inside: A Two-Phase Fine-Tuning Method for High-Efficiency Text-to-SQL at Scale**|Chinmay Soni et.al.|[2603.24023v1](http://arxiv.org/abs/2603.24023v1)|null|
+|**2026-03-24 03:23:16**|**Experimental investigation of magnetic properties of MnFeCo$_{4}$Si$_{2}$ discovered by GNoME**|Shuhei Naganuma et.al.|[2603.22748v1](http://arxiv.org/abs/2603.22748v1)|null|
+|**2026-03-22 17:31:57**|**Optimal-Cost Construction of Shallow Cuttings for 3-D Dominance Ranges in the I/O-Model**|Yakov Nekrich et.al.|[2603.21337v1](http://arxiv.org/abs/2603.21337v1)|null|
+|**2026-03-21 00:01:45**|**Global Cybercrime Damages: A Baseline for Frontier AI Risk Assessment**|Kamilė Lukošiūtė et.al.|[2603.20570v1](http://arxiv.org/abs/2603.20570v1)|null|
+|**2026-03-20 14:49:27**|**ReViSQL: Achieving Human-Level Text-to-SQL**|Yuxuan Zhu et.al.|[2603.20004v2](http://arxiv.org/abs/2603.20004v2)|null|
+|**2026-03-20 04:51:35**|**SEAR: Schema-Based Evaluation and Routing for LLM Gateways**|Zecheng Zhang et.al.|[2603.26728v1](http://arxiv.org/abs/2603.26728v1)|null|
+|**2026-03-18 11:19:13**|**End-to-end data-driven prediction of urban airflow and pollutant dispersion**|Nishant Kumar et.al.|[2603.17606v1](http://arxiv.org/abs/2603.17606v1)|null|
+|**2026-03-17 13:01:29**|**Practical MCTS-based Query Optimization: A Reproducibility Study and new MCTS algorithm for complex queries**|Vladimir Burlakov et.al.|[2603.16474v1](http://arxiv.org/abs/2603.16474v1)|null|
+|**2026-03-16 22:42:45**|**100x Cost & Latency Reduction: Performance Analysis of AI Query Approximation using Lightweight Proxy Models**|Yeounoh Chung et.al.|[2603.15970v6](http://arxiv.org/abs/2603.15970v6)|null|
 
 ## Knob Tuning
 
