@@ -2,6 +2,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-28 21:08:37**|**One knob to tune them all: Phase-controlled photon statistics and linewidth in partially pumped atomic ensembles**|Oksana Chelpanova et.al.|[2604.26117v1](http://arxiv.org/abs/2604.26117v1)|null|
+|**2026-04-28 01:39:21**|**Tunable thermal conductivity through dual spin-phonon coupling in van der Waals ferromagnetic insulator Cr2Ge2Te6**|Zhongbin Wang et.al.|[2604.25115v1](http://arxiv.org/abs/2604.25115v1)|null|
 |**2026-04-27 14:22:14**|**Mass-Transfer Control With Microbubbles in Highly Turbulent Decaying Flows**|Vivek Kumar et.al.|[2604.24520v1](http://arxiv.org/abs/2604.24520v1)|null|
 |**2026-04-25 00:31:07**|**RKKY interaction in altermagnets with adiabatic electron-phonon coupling**|Bui D. Hoi et.al.|[2604.23082v1](http://arxiv.org/abs/2604.23082v1)|null|
 |**2026-04-21 01:22:35**|**Distillation Traps and Guards: A Calibration Knob for LLM Distillability**|Weixiao Zhan et.al.|[2604.18963v1](http://arxiv.org/abs/2604.18963v1)|null|
@@ -30,5 +32,3 @@
 |**2026-02-26 07:25:22**|**Knob: A Physics-Inspired Gating Interface for Interpretable and Controllable Neural Dynamics**|Siyu Jiang et.al.|[2602.22702v1](http://arxiv.org/abs/2602.22702v1)|null|
 |**2026-02-26 02:40:28**|**Quantum-geometry-driven Mott transitions and magnetism**|Jixun K. Ding et.al.|[2602.22548v1](http://arxiv.org/abs/2602.22548v1)|null|
 |**2026-02-20 15:38:16**|**Decoding as Optimisation on the Probability Simplex: From Top-K to Top-P (Nucleus) to Best-of-K Samplers**|Xiaotong Ji et.al.|[2602.18292v2](http://arxiv.org/abs/2602.18292v2)|null|
-|**2026-02-19 20:03:23**|**Grassmannian Mixture-of-Experts: Concentration-Controlled Routing on Subspace Manifolds**|Ibne Farabi Shihab et.al.|[2602.17798v1](http://arxiv.org/abs/2602.17798v1)|null|
-|**2026-02-16 18:29:34**|**Stacking-Engineered Thermal Transport and Phonon Filtering in Rhenium Disulfide**|Yongjian Zhou et.al.|[2602.15002v1](http://arxiv.org/abs/2602.15002v1)|null|

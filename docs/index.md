@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-04-28 20:36:52 Asia/Shanghai
+ 自动更新 @ 2026-04-30 17:55:33 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-28 13:09:48**|**Health System Scale Semantic Search Across Unstructured Clinical Notes**|Faith Wavinya Mutinda et.al.|[2604.25605v1](http://arxiv.org/abs/2604.25605v1)|null|
 |**2026-04-26 00:05:53**|**SEMA-SQL: Beyond Traditional Relational Querying with Large Language Models**|Yin Lin et.al.|[2604.23477v1](http://arxiv.org/abs/2604.23477v1)|null|
 |**2026-04-24 08:32:47**|**A Nationwide Japanese Medical Claims Foundation Model: Balancing Model Scaling and Task-Specific Computational Efficiency**|Nanae Aratake et.al.|[2604.22348v1](http://arxiv.org/abs/2604.22348v1)|null|
 |**2026-04-24 06:47:00**|**Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling**|Matilde Fiore et.al.|[2604.22882v1](http://arxiv.org/abs/2604.22882v1)|null|
@@ -35,13 +36,14 @@
 |**2026-03-20 04:51:35**|**SEAR: Schema-Based Evaluation and Routing for LLM Gateways**|Zecheng Zhang et.al.|[2603.26728v1](http://arxiv.org/abs/2603.26728v1)|null|
 |**2026-03-18 11:19:13**|**End-to-end data-driven prediction of urban airflow and pollutant dispersion**|Nishant Kumar et.al.|[2603.17606v1](http://arxiv.org/abs/2603.17606v1)|null|
 |**2026-03-17 13:01:29**|**Practical MCTS-based Query Optimization: A Reproducibility Study and new MCTS algorithm for complex queries**|Vladimir Burlakov et.al.|[2603.16474v1](http://arxiv.org/abs/2603.16474v1)|null|
-|**2026-03-16 22:42:45**|**100x Cost & Latency Reduction: Performance Analysis of AI Query Approximation using Lightweight Proxy Models**|Yeounoh Chung et.al.|[2603.15970v6](http://arxiv.org/abs/2603.15970v6)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-28 21:08:37**|**One knob to tune them all: Phase-controlled photon statistics and linewidth in partially pumped atomic ensembles**|Oksana Chelpanova et.al.|[2604.26117v1](http://arxiv.org/abs/2604.26117v1)|null|
+|**2026-04-28 01:39:21**|**Tunable thermal conductivity through dual spin-phonon coupling in van der Waals ferromagnetic insulator Cr2Ge2Te6**|Zhongbin Wang et.al.|[2604.25115v1](http://arxiv.org/abs/2604.25115v1)|null|
 |**2026-04-27 14:22:14**|**Mass-Transfer Control With Microbubbles in Highly Turbulent Decaying Flows**|Vivek Kumar et.al.|[2604.24520v1](http://arxiv.org/abs/2604.24520v1)|null|
 |**2026-04-25 00:31:07**|**RKKY interaction in altermagnets with adiabatic electron-phonon coupling**|Bui D. Hoi et.al.|[2604.23082v1](http://arxiv.org/abs/2604.23082v1)|null|
 |**2026-04-21 01:22:35**|**Distillation Traps and Guards: A Calibration Knob for LLM Distillability**|Weixiao Zhan et.al.|[2604.18963v1](http://arxiv.org/abs/2604.18963v1)|null|
@@ -70,14 +72,13 @@
 |**2026-02-26 07:25:22**|**Knob: A Physics-Inspired Gating Interface for Interpretable and Controllable Neural Dynamics**|Siyu Jiang et.al.|[2602.22702v1](http://arxiv.org/abs/2602.22702v1)|null|
 |**2026-02-26 02:40:28**|**Quantum-geometry-driven Mott transitions and magnetism**|Jixun K. Ding et.al.|[2602.22548v1](http://arxiv.org/abs/2602.22548v1)|null|
 |**2026-02-20 15:38:16**|**Decoding as Optimisation on the Probability Simplex: From Top-K to Top-P (Nucleus) to Best-of-K Samplers**|Xiaotong Ji et.al.|[2602.18292v2](http://arxiv.org/abs/2602.18292v2)|null|
-|**2026-02-19 20:03:23**|**Grassmannian Mixture-of-Experts: Concentration-Controlled Routing on Subspace Manifolds**|Ibne Farabi Shihab et.al.|[2602.17798v1](http://arxiv.org/abs/2602.17798v1)|null|
-|**2026-02-16 18:29:34**|**Stacking-Engineered Thermal Transport and Phonon Filtering in Rhenium Disulfide**|Yongjian Zhou et.al.|[2602.15002v1](http://arxiv.org/abs/2602.15002v1)|null|
 
 ## Random Forest Regression
 
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-28 14:27:02**|**Bug-Report-Driven Fault Localization: Industrial Benchmarking and Lesson Learned at ABB Robotics**|Pernilla Hall et.al.|[2604.25700v1](http://arxiv.org/abs/2604.25700v1)|null|
 |**2026-04-24 22:48:10**|**DeepImagine: Learning Biomedical Reasoning via Successive Counterfactual Imagining**|Youze Zheng et.al.|[2604.23054v1](http://arxiv.org/abs/2604.23054v1)|null|
 |**2026-04-20 23:27:10**|**Predicting Redshift in Seyfert Galaxies Using Machine Learning**|Uzay Aydin et.al.|[2604.18910v1](http://arxiv.org/abs/2604.18910v1)|null|
 |**2026-04-20 14:19:15**|**Predictive Modelling of Natural Medicinal Compounds for Alzheimer disease Using Machine Learning and Cheminformatics**|Hafiza Syeda Yusra Tirmizi et.al.|[2604.18316v2](http://arxiv.org/abs/2604.18316v2)|null|
@@ -107,4 +108,3 @@
 |**2026-03-18 05:23:06**|**ML and Smartphones Assisted Real-Time Uplink Performance Prediction in 5G Cellular System**|Md Mahfuzur Rahman et.al.|[2604.16356v1](http://arxiv.org/abs/2604.16356v1)|null|
 |**2026-03-16 15:43:48**|**Music Genre Classification: A Comparative Analysis of Classical Machine Learning and Deep Learning Approaches**|Sachin Prajuli et.al.|[2603.15440v1](http://arxiv.org/abs/2603.15440v1)|null|
 |**2026-03-14 08:25:42**|**Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling**|Dingding Cao et.al.|[2603.13830v1](http://arxiv.org/abs/2603.13830v1)|null|
-|**2026-03-13 04:49:58**|**Beyond the Merger-Quasar-Quench Paradigm I: Mergers are neither necessary nor sufficient to quench central galaxies in IllustrisTNG**|Camilo A. Casimiro et.al.|[2603.12651v1](http://arxiv.org/abs/2603.12651v1)|null|
