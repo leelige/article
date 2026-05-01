@@ -2,6 +2,8 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-04-30 17:25:50**|**Index-Assisted Stratified Sampling for Online Aggregation**|Yunnan Yu et.al.|[2604.28141v1](http://arxiv.org/abs/2604.28141v1)|null|
+|**2026-04-28 14:42:51**|**Budget-Constrained Online Retrieval-Augmented Generation: The Chunk-as-a-Service Model**|Shawqi Al-Maliki et.al.|[2604.26981v1](http://arxiv.org/abs/2604.26981v1)|null|
 |**2026-04-28 13:09:48**|**Health System Scale Semantic Search Across Unstructured Clinical Notes**|Faith Wavinya Mutinda et.al.|[2604.25605v1](http://arxiv.org/abs/2604.25605v1)|null|
 |**2026-04-26 00:05:53**|**SEMA-SQL: Beyond Traditional Relational Querying with Large Language Models**|Yin Lin et.al.|[2604.23477v1](http://arxiv.org/abs/2604.23477v1)|null|
 |**2026-04-24 08:32:47**|**A Nationwide Japanese Medical Claims Foundation Model: Balancing Model Scaling and Task-Specific Computational Efficiency**|Nanae Aratake et.al.|[2604.22348v1](http://arxiv.org/abs/2604.22348v1)|null|
@@ -30,5 +32,3 @@
 |**2026-03-21 00:01:45**|**Global Cybercrime Damages: A Baseline for Frontier AI Risk Assessment**|Kamilė Lukošiūtė et.al.|[2603.20570v1](http://arxiv.org/abs/2603.20570v1)|null|
 |**2026-03-20 14:49:27**|**ReViSQL: Achieving Human-Level Text-to-SQL**|Yuxuan Zhu et.al.|[2603.20004v2](http://arxiv.org/abs/2603.20004v2)|null|
 |**2026-03-20 04:51:35**|**SEAR: Schema-Based Evaluation and Routing for LLM Gateways**|Zecheng Zhang et.al.|[2603.26728v1](http://arxiv.org/abs/2603.26728v1)|null|
-|**2026-03-18 11:19:13**|**End-to-end data-driven prediction of urban airflow and pollutant dispersion**|Nishant Kumar et.al.|[2603.17606v1](http://arxiv.org/abs/2603.17606v1)|null|
-|**2026-03-17 13:01:29**|**Practical MCTS-based Query Optimization: A Reproducibility Study and new MCTS algorithm for complex queries**|Vladimir Burlakov et.al.|[2603.16474v1](http://arxiv.org/abs/2603.16474v1)|null|
