@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-06 18:00:01**|**Engineering Quantum Many-Body Scars through Lattice Geometry**|Erick Parra Verde et.al.|[2605.05296v1](http://arxiv.org/abs/2605.05296v1)|null|
 |**2026-04-28 21:08:37**|**One knob to tune them all: Phase-controlled photon statistics and linewidth in partially pumped atomic ensembles**|Oksana Chelpanova et.al.|[2604.26117v1](http://arxiv.org/abs/2604.26117v1)|null|
 |**2026-04-28 01:39:21**|**Tunable thermal conductivity through dual spin-phonon coupling in van der Waals ferromagnetic insulator Cr2Ge2Te6**|Zhongbin Wang et.al.|[2604.25115v1](http://arxiv.org/abs/2604.25115v1)|null|
 |**2026-04-27 14:22:14**|**Mass-Transfer Control With Microbubbles in Highly Turbulent Decaying Flows**|Vivek Kumar et.al.|[2604.24520v1](http://arxiv.org/abs/2604.24520v1)|null|
@@ -25,10 +26,9 @@
 |**2026-03-12 16:02:35**|**Directional Manipulation of a Staggered Charge Density Wave and Kondo Resonance in UTe2**|Nileema Sharma et.al.|[2603.12097v1](http://arxiv.org/abs/2603.12097v1)|null|
 |**2026-03-10 18:03:52**|**ALD Oxidant as A Tuning Knob for Memory Window Expansion in Ferroelectric FETs for Vertical NAND Applications**|Ranie Jeyakumar et.al.|[2603.10127v1](http://arxiv.org/abs/2603.10127v1)|null|
 |**2026-03-08 01:33:01**|**Adaptive Capacity Allocation for Vision Language Action Fine-tuning**|Donghoon Kim et.al.|[2603.07404v1](http://arxiv.org/abs/2603.07404v1)|null|
-|**2026-03-07 05:25:53**|**AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling**|Karthik Pattabiraman et.al.|[2603.07041v1](http://arxiv.org/abs/2603.07041v1)|null|
+|**2026-03-07 05:25:53**|**AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling**|Karthik Pattabiraman et.al.|[2603.07041v3](http://arxiv.org/abs/2603.07041v3)|null|
 |**2026-03-03 05:30:06**|**Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches**|Panagiotis Promponas et.al.|[2603.02610v1](http://arxiv.org/abs/2603.02610v1)|null|
 |**2026-02-28 09:22:19**|**Polarization Engineering of Second-Harmonic Generation in 3R-MoS$_2$ Waveguides**|Renkang Song et.al.|[2603.00562v1](http://arxiv.org/abs/2603.00562v1)|null|
 |**2026-02-27 11:24:15**|**Electric-field control of atom-molecule Feshbach resonances**|Mara Meyer zum Alten Borgloh et.al.|[2602.23929v1](http://arxiv.org/abs/2602.23929v1)|null|
 |**2026-02-26 07:25:22**|**Knob: A Physics-Inspired Gating Interface for Interpretable and Controllable Neural Dynamics**|Siyu Jiang et.al.|[2602.22702v1](http://arxiv.org/abs/2602.22702v1)|null|
 |**2026-02-26 02:40:28**|**Quantum-geometry-driven Mott transitions and magnetism**|Jixun K. Ding et.al.|[2602.22548v1](http://arxiv.org/abs/2602.22548v1)|null|
-|**2026-02-20 15:38:16**|**Decoding as Optimisation on the Probability Simplex: From Top-K to Top-P (Nucleus) to Best-of-K Samplers**|Xiaotong Ji et.al.|[2602.18292v2](http://arxiv.org/abs/2602.18292v2)|null|

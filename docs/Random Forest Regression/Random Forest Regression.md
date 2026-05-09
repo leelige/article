@@ -2,6 +2,11 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-07 16:55:46**|**Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data**|Meena Al Hasani et.al.|[2605.06562v1](http://arxiv.org/abs/2605.06562v1)|null|
+|**2026-05-07 15:36:17**|**COVID-19 Infodemic. Understanding content features in detecting fake news using a machine learning approach**|Vimala Balakrishnan et.al.|[2605.06435v1](http://arxiv.org/abs/2605.06435v1)|null|
+|**2026-05-07 14:26:10**|**TinyBayes: Closed-Form Bayesian Inference via Jacobi Prior for Real-Time Image Classification on Edge Devices**|Shouvik Sardar et.al.|[2605.06333v1](http://arxiv.org/abs/2605.06333v1)|[link](https://github.com/shouvik-sardar/TinyBayes)|
+|**2026-05-06 01:59:09**|**Assessing Generalisation Capability of Machine Learning Models for Intrusion Detection**|Md Zakir Hossain et.al.|[2605.04407v1](http://arxiv.org/abs/2605.04407v1)|null|
+|**2026-05-04 14:04:59**|**LiteShield: Hybrid Feature Selection-Driven Lightweight Intrusion Detection for Resource-Constrained IoT Networks**|Dileepa Mabulage et.al.|[2605.02987v1](http://arxiv.org/abs/2605.02987v1)|null|
 |**2026-04-30 12:12:38**|**Data-Efficient Indentation Size Effect Correction in Steels Using Machine Learning and Physics-Guided Augmentation**|Radmir Karamov et.al.|[2604.27775v1](http://arxiv.org/abs/2604.27775v1)|null|
 |**2026-04-29 20:55:50**|**Evaluating TabPFN for Mild Cognitive Impairment to Alzheimer's Disease Conversion in Data Limited Settings**|Brad Ye et.al.|[2604.27195v1](http://arxiv.org/abs/2604.27195v1)|null|
 |**2026-04-29 08:55:16**|**Beyond Accuracy: LLM Variability in Evidence Screening for Software Engineering SLRs**|Gilberto Sussumu Hida et.al.|[2604.27006v1](http://arxiv.org/abs/2604.27006v1)|null|
@@ -20,15 +25,10 @@
 |**2026-04-09 08:17:27**|**Fraud Detection System for Banking Transactions**|Ranya Batsyas et.al.|[2604.07952v1](http://arxiv.org/abs/2604.07952v1)|null|
 |**2026-04-05 18:46:59**|**Learning-Based Multi-Criteria Decision Making Model for Sawmill Location Problems**|Mahid Ahmed et.al.|[2604.04996v1](http://arxiv.org/abs/2604.04996v1)|null|
 |**2026-03-30 21:58:47**|**From Astronomy to Astrology: Testing the Illusion of Zodiac-Based Personality Prediction with Machine Learning**|Abhinna Sundar Samantaray et.al.|[2603.29033v1](http://arxiv.org/abs/2603.29033v1)|null|
-|**2026-03-28 19:42:27**|**Diagnosing Non-Markovian Observations in Reinforcement Learning via Prediction-Based Violation Scoring**|Naveen Mysore et.al.|[2603.27389v1](http://arxiv.org/abs/2603.27389v1)|[link](https://github.com/NAVEENMN/Markovianes)|
+|**2026-03-28 19:42:27**|**Prediction-Based Markov Violation Scores for Detecting Non-Markovian Observations in Reinforcement Learning**|Naveen Mysore et.al.|[2603.27389v2](http://arxiv.org/abs/2603.27389v2)|[link](https://github.com/NAVEENMN/Markovianes)|
 |**2026-03-26 06:13:34**|**An Explainable Ensemble Learning Framework for Crop Classification with Optimized Feature Pyramids and Deep Networks**|Syed Rayhan Masud et.al.|[2603.25070v1](http://arxiv.org/abs/2603.25070v1)|null|
 |**2026-03-25 15:46:34**|**Machine Learning-Based Classification of Active Galaxies and Estimation of Supermassive Black Hole Masses**|Farideh Mazoochi et.al.|[2603.24435v1](http://arxiv.org/abs/2603.24435v1)|null|
 |**2026-03-25 11:44:20**|**Adapting Altman's bankruptcy prediction model to the compositional data methodology**|Fatemeh Keivani et.al.|[2603.24215v1](http://arxiv.org/abs/2603.24215v1)|null|
 |**2026-03-25 10:22:28**|**Penalized estimation of GEV parameters for extreme quantile regression**|Lucien M. Vidagbandji et.al.|[2603.24153v1](http://arxiv.org/abs/2603.24153v1)|null|
 |**2026-03-24 22:58:12**|**Age-Specific Logistic Regression with Complex Event Time Data**| Haoxuan et.al.|[2603.23767v2](http://arxiv.org/abs/2603.23767v2)|null|
 |**2026-03-24 14:47:52**|**A Comparative Study of Machine Learning Models for Hourly Forecasting of Air Temperature and Relative Humidity**|Jiaqi Dong et.al.|[2603.23282v1](http://arxiv.org/abs/2603.23282v1)|null|
-|**2026-03-24 04:27:17**|**Quantum Random Forest for the Regression Problem**|Kamil Khadiev et.al.|[2603.22790v1](http://arxiv.org/abs/2603.22790v1)|null|
-|**2026-03-23 10:58:01**|**Financial Dynamics and Interconnected Risk of Liquid Restaking**|Hasret Ozan Sevim et.al.|[2604.03274v1](http://arxiv.org/abs/2604.03274v1)|null|
-|**2026-03-19 18:46:57**|**ML-Based Real-Time Downlink Performance Prediction in Standalone 5G NR Using Smartphones**|Md Mahfuzur Rahman et.al.|[2604.09632v1](http://arxiv.org/abs/2604.09632v1)|null|
-|**2026-03-19 17:53:32**|**Robustness, Cost, and Attack-Surface Concentration in Phishing Detection**|Julian Allagan et.al.|[2603.19204v1](http://arxiv.org/abs/2603.19204v1)|null|
-|**2026-03-19 14:24:05**|**Balancing Performance and Fairness in Explainable AI for Anomaly Detection in Distributed Power Plants Monitoring**|Corneille Niyonkuru et.al.|[2603.18954v1](http://arxiv.org/abs/2603.18954v1)|null|

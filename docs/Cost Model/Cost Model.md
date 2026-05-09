@@ -2,6 +2,8 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-07 06:24:29**|**Density diversity in training data governs thermodynamic transferability of machine learning interatomic potentials**|Minwoo Kim et.al.|[2605.05733v1](http://arxiv.org/abs/2605.05733v1)|null|
+|**2026-05-06 04:58:52**|**SecureMCP: A Policy-Enforced LLM Data Access Framework for AIoT Systems via Model Context Protocol**|Wonbae Kim et.al.|[2605.05260v1](http://arxiv.org/abs/2605.05260v1)|null|
 |**2026-04-30 17:25:50**|**Index-Assisted Stratified Sampling for Online Aggregation**|Yunnan Yu et.al.|[2604.28141v1](http://arxiv.org/abs/2604.28141v1)|null|
 |**2026-04-28 14:42:51**|**Budget-Constrained Online Retrieval-Augmented Generation: The Chunk-as-a-Service Model**|Shawqi Al-Maliki et.al.|[2604.26981v1](http://arxiv.org/abs/2604.26981v1)|null|
 |**2026-04-28 13:09:48**|**Health System Scale Semantic Search Across Unstructured Clinical Notes**|Faith Wavinya Mutinda et.al.|[2604.25605v1](http://arxiv.org/abs/2604.25605v1)|null|
@@ -18,7 +20,7 @@
 |**2026-04-08 18:22:46**|**Healthcare AI for Automation or Allocation? A Transaction Cost Economics Framework**|Ari Ercole et.al.|[2604.16465v1](http://arxiv.org/abs/2604.16465v1)|null|
 |**2026-04-08 08:17:25**|**LASER: A Data-Centric Method for Low-Cost and Efficient SQL Rewriting based on SQL-GRPO**|Jiahui Li et.al.|[2604.06804v1](http://arxiv.org/abs/2604.06804v1)|null|
 |**2026-04-08 03:05:14**|**TiAb Review Plugin: A Browser-Based Tool for AI-Assisted Title and Abstract Screening**|Yuki Kataoka et.al.|[2604.08602v1](http://arxiv.org/abs/2604.08602v1)|null|
-|**2026-04-06 14:04:14**|**GPIR: Enabling Practical Private Information Retrieval with GPUs**|Hyesung Ji et.al.|[2604.04696v1](http://arxiv.org/abs/2604.04696v1)|null|
+|**2026-04-06 14:04:14**|**GPIR: Enabling Practical Private Information Retrieval with GPUs**|Hyesung Ji et.al.|[2604.04696v2](http://arxiv.org/abs/2604.04696v2)|null|
 |**2026-04-02 18:16:11**|**OmniTQA: A Cost-Aware System for Hybrid Query Processing over Semi-Structured Data**|Nima Shahbazi et.al.|[2604.02444v1](http://arxiv.org/abs/2604.02444v1)|null|
 |**2026-04-02 16:52:48**|**Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider**|Tina. J. Jat et.al.|[2604.02259v1](http://arxiv.org/abs/2604.02259v1)|null|
 |**2026-03-30 22:12:21**|**A Latent Risk-Aware Machine Learning Approach for Predicting Operational Success in Clinical Trials based on TrialsBank**|Iness Halimi et.al.|[2603.29041v1](http://arxiv.org/abs/2603.29041v1)|null|
@@ -30,5 +32,3 @@
 |**2026-03-24 03:23:16**|**Experimental investigation of magnetic properties of MnFeCo$_{4}$Si$_{2}$ discovered by GNoME**|Shuhei Naganuma et.al.|[2603.22748v1](http://arxiv.org/abs/2603.22748v1)|null|
 |**2026-03-22 17:31:57**|**Optimal-Cost Construction of Shallow Cuttings for 3-D Dominance Ranges in the I/O-Model**|Yakov Nekrich et.al.|[2603.21337v1](http://arxiv.org/abs/2603.21337v1)|null|
 |**2026-03-21 00:01:45**|**Global Cybercrime Damages: A Baseline for Frontier AI Risk Assessment**|Kamilė Lukošiūtė et.al.|[2603.20570v1](http://arxiv.org/abs/2603.20570v1)|null|
-|**2026-03-20 14:49:27**|**ReViSQL: Achieving Human-Level Text-to-SQL**|Yuxuan Zhu et.al.|[2603.20004v2](http://arxiv.org/abs/2603.20004v2)|null|
-|**2026-03-20 04:51:35**|**SEAR: Schema-Based Evaluation and Routing for LLM Gateways**|Zecheng Zhang et.al.|[2603.26728v1](http://arxiv.org/abs/2603.26728v1)|null|

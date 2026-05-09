@@ -1,11 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2026-05-03 17:10:30 Asia/Shanghai
+ 自动更新 @ 2026-05-09 17:05:31 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-07 06:24:29**|**Density diversity in training data governs thermodynamic transferability of machine learning interatomic potentials**|Minwoo Kim et.al.|[2605.05733v1](http://arxiv.org/abs/2605.05733v1)|null|
+|**2026-05-06 04:58:52**|**SecureMCP: A Policy-Enforced LLM Data Access Framework for AIoT Systems via Model Context Protocol**|Wonbae Kim et.al.|[2605.05260v1](http://arxiv.org/abs/2605.05260v1)|null|
 |**2026-04-30 17:25:50**|**Index-Assisted Stratified Sampling for Online Aggregation**|Yunnan Yu et.al.|[2604.28141v1](http://arxiv.org/abs/2604.28141v1)|null|
 |**2026-04-28 14:42:51**|**Budget-Constrained Online Retrieval-Augmented Generation: The Chunk-as-a-Service Model**|Shawqi Al-Maliki et.al.|[2604.26981v1](http://arxiv.org/abs/2604.26981v1)|null|
 |**2026-04-28 13:09:48**|**Health System Scale Semantic Search Across Unstructured Clinical Notes**|Faith Wavinya Mutinda et.al.|[2604.25605v1](http://arxiv.org/abs/2604.25605v1)|null|
@@ -22,7 +24,7 @@
 |**2026-04-08 18:22:46**|**Healthcare AI for Automation or Allocation? A Transaction Cost Economics Framework**|Ari Ercole et.al.|[2604.16465v1](http://arxiv.org/abs/2604.16465v1)|null|
 |**2026-04-08 08:17:25**|**LASER: A Data-Centric Method for Low-Cost and Efficient SQL Rewriting based on SQL-GRPO**|Jiahui Li et.al.|[2604.06804v1](http://arxiv.org/abs/2604.06804v1)|null|
 |**2026-04-08 03:05:14**|**TiAb Review Plugin: A Browser-Based Tool for AI-Assisted Title and Abstract Screening**|Yuki Kataoka et.al.|[2604.08602v1](http://arxiv.org/abs/2604.08602v1)|null|
-|**2026-04-06 14:04:14**|**GPIR: Enabling Practical Private Information Retrieval with GPUs**|Hyesung Ji et.al.|[2604.04696v1](http://arxiv.org/abs/2604.04696v1)|null|
+|**2026-04-06 14:04:14**|**GPIR: Enabling Practical Private Information Retrieval with GPUs**|Hyesung Ji et.al.|[2604.04696v2](http://arxiv.org/abs/2604.04696v2)|null|
 |**2026-04-02 18:16:11**|**OmniTQA: A Cost-Aware System for Hybrid Query Processing over Semi-Structured Data**|Nima Shahbazi et.al.|[2604.02444v1](http://arxiv.org/abs/2604.02444v1)|null|
 |**2026-04-02 16:52:48**|**Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider**|Tina. J. Jat et.al.|[2604.02259v1](http://arxiv.org/abs/2604.02259v1)|null|
 |**2026-03-30 22:12:21**|**A Latent Risk-Aware Machine Learning Approach for Predicting Operational Success in Clinical Trials based on TrialsBank**|Iness Halimi et.al.|[2603.29041v1](http://arxiv.org/abs/2603.29041v1)|null|
@@ -34,14 +36,13 @@
 |**2026-03-24 03:23:16**|**Experimental investigation of magnetic properties of MnFeCo$_{4}$Si$_{2}$ discovered by GNoME**|Shuhei Naganuma et.al.|[2603.22748v1](http://arxiv.org/abs/2603.22748v1)|null|
 |**2026-03-22 17:31:57**|**Optimal-Cost Construction of Shallow Cuttings for 3-D Dominance Ranges in the I/O-Model**|Yakov Nekrich et.al.|[2603.21337v1](http://arxiv.org/abs/2603.21337v1)|null|
 |**2026-03-21 00:01:45**|**Global Cybercrime Damages: A Baseline for Frontier AI Risk Assessment**|Kamilė Lukošiūtė et.al.|[2603.20570v1](http://arxiv.org/abs/2603.20570v1)|null|
-|**2026-03-20 14:49:27**|**ReViSQL: Achieving Human-Level Text-to-SQL**|Yuxuan Zhu et.al.|[2603.20004v2](http://arxiv.org/abs/2603.20004v2)|null|
-|**2026-03-20 04:51:35**|**SEAR: Schema-Based Evaluation and Routing for LLM Gateways**|Zecheng Zhang et.al.|[2603.26728v1](http://arxiv.org/abs/2603.26728v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-06 18:00:01**|**Engineering Quantum Many-Body Scars through Lattice Geometry**|Erick Parra Verde et.al.|[2605.05296v1](http://arxiv.org/abs/2605.05296v1)|null|
 |**2026-04-28 21:08:37**|**One knob to tune them all: Phase-controlled photon statistics and linewidth in partially pumped atomic ensembles**|Oksana Chelpanova et.al.|[2604.26117v1](http://arxiv.org/abs/2604.26117v1)|null|
 |**2026-04-28 01:39:21**|**Tunable thermal conductivity through dual spin-phonon coupling in van der Waals ferromagnetic insulator Cr2Ge2Te6**|Zhongbin Wang et.al.|[2604.25115v1](http://arxiv.org/abs/2604.25115v1)|null|
 |**2026-04-27 14:22:14**|**Mass-Transfer Control With Microbubbles in Highly Turbulent Decaying Flows**|Vivek Kumar et.al.|[2604.24520v1](http://arxiv.org/abs/2604.24520v1)|null|
@@ -65,19 +66,23 @@
 |**2026-03-12 16:02:35**|**Directional Manipulation of a Staggered Charge Density Wave and Kondo Resonance in UTe2**|Nileema Sharma et.al.|[2603.12097v1](http://arxiv.org/abs/2603.12097v1)|null|
 |**2026-03-10 18:03:52**|**ALD Oxidant as A Tuning Knob for Memory Window Expansion in Ferroelectric FETs for Vertical NAND Applications**|Ranie Jeyakumar et.al.|[2603.10127v1](http://arxiv.org/abs/2603.10127v1)|null|
 |**2026-03-08 01:33:01**|**Adaptive Capacity Allocation for Vision Language Action Fine-tuning**|Donghoon Kim et.al.|[2603.07404v1](http://arxiv.org/abs/2603.07404v1)|null|
-|**2026-03-07 05:25:53**|**AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling**|Karthik Pattabiraman et.al.|[2603.07041v1](http://arxiv.org/abs/2603.07041v1)|null|
+|**2026-03-07 05:25:53**|**AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling**|Karthik Pattabiraman et.al.|[2603.07041v3](http://arxiv.org/abs/2603.07041v3)|null|
 |**2026-03-03 05:30:06**|**Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches**|Panagiotis Promponas et.al.|[2603.02610v1](http://arxiv.org/abs/2603.02610v1)|null|
 |**2026-02-28 09:22:19**|**Polarization Engineering of Second-Harmonic Generation in 3R-MoS$_2$ Waveguides**|Renkang Song et.al.|[2603.00562v1](http://arxiv.org/abs/2603.00562v1)|null|
 |**2026-02-27 11:24:15**|**Electric-field control of atom-molecule Feshbach resonances**|Mara Meyer zum Alten Borgloh et.al.|[2602.23929v1](http://arxiv.org/abs/2602.23929v1)|null|
 |**2026-02-26 07:25:22**|**Knob: A Physics-Inspired Gating Interface for Interpretable and Controllable Neural Dynamics**|Siyu Jiang et.al.|[2602.22702v1](http://arxiv.org/abs/2602.22702v1)|null|
 |**2026-02-26 02:40:28**|**Quantum-geometry-driven Mott transitions and magnetism**|Jixun K. Ding et.al.|[2602.22548v1](http://arxiv.org/abs/2602.22548v1)|null|
-|**2026-02-20 15:38:16**|**Decoding as Optimisation on the Probability Simplex: From Top-K to Top-P (Nucleus) to Best-of-K Samplers**|Xiaotong Ji et.al.|[2602.18292v2](http://arxiv.org/abs/2602.18292v2)|null|
 
 ## Random Forest Regression
 
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-07 16:55:46**|**Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data**|Meena Al Hasani et.al.|[2605.06562v1](http://arxiv.org/abs/2605.06562v1)|null|
+|**2026-05-07 15:36:17**|**COVID-19 Infodemic. Understanding content features in detecting fake news using a machine learning approach**|Vimala Balakrishnan et.al.|[2605.06435v1](http://arxiv.org/abs/2605.06435v1)|null|
+|**2026-05-07 14:26:10**|**TinyBayes: Closed-Form Bayesian Inference via Jacobi Prior for Real-Time Image Classification on Edge Devices**|Shouvik Sardar et.al.|[2605.06333v1](http://arxiv.org/abs/2605.06333v1)|[link](https://github.com/shouvik-sardar/TinyBayes)|
+|**2026-05-06 01:59:09**|**Assessing Generalisation Capability of Machine Learning Models for Intrusion Detection**|Md Zakir Hossain et.al.|[2605.04407v1](http://arxiv.org/abs/2605.04407v1)|null|
+|**2026-05-04 14:04:59**|**LiteShield: Hybrid Feature Selection-Driven Lightweight Intrusion Detection for Resource-Constrained IoT Networks**|Dileepa Mabulage et.al.|[2605.02987v1](http://arxiv.org/abs/2605.02987v1)|null|
 |**2026-04-30 12:12:38**|**Data-Efficient Indentation Size Effect Correction in Steels Using Machine Learning and Physics-Guided Augmentation**|Radmir Karamov et.al.|[2604.27775v1](http://arxiv.org/abs/2604.27775v1)|null|
 |**2026-04-29 20:55:50**|**Evaluating TabPFN for Mild Cognitive Impairment to Alzheimer's Disease Conversion in Data Limited Settings**|Brad Ye et.al.|[2604.27195v1](http://arxiv.org/abs/2604.27195v1)|null|
 |**2026-04-29 08:55:16**|**Beyond Accuracy: LLM Variability in Evidence Screening for Software Engineering SLRs**|Gilberto Sussumu Hida et.al.|[2604.27006v1](http://arxiv.org/abs/2604.27006v1)|null|
@@ -96,15 +101,10 @@
 |**2026-04-09 08:17:27**|**Fraud Detection System for Banking Transactions**|Ranya Batsyas et.al.|[2604.07952v1](http://arxiv.org/abs/2604.07952v1)|null|
 |**2026-04-05 18:46:59**|**Learning-Based Multi-Criteria Decision Making Model for Sawmill Location Problems**|Mahid Ahmed et.al.|[2604.04996v1](http://arxiv.org/abs/2604.04996v1)|null|
 |**2026-03-30 21:58:47**|**From Astronomy to Astrology: Testing the Illusion of Zodiac-Based Personality Prediction with Machine Learning**|Abhinna Sundar Samantaray et.al.|[2603.29033v1](http://arxiv.org/abs/2603.29033v1)|null|
-|**2026-03-28 19:42:27**|**Diagnosing Non-Markovian Observations in Reinforcement Learning via Prediction-Based Violation Scoring**|Naveen Mysore et.al.|[2603.27389v1](http://arxiv.org/abs/2603.27389v1)|[link](https://github.com/NAVEENMN/Markovianes)|
+|**2026-03-28 19:42:27**|**Prediction-Based Markov Violation Scores for Detecting Non-Markovian Observations in Reinforcement Learning**|Naveen Mysore et.al.|[2603.27389v2](http://arxiv.org/abs/2603.27389v2)|[link](https://github.com/NAVEENMN/Markovianes)|
 |**2026-03-26 06:13:34**|**An Explainable Ensemble Learning Framework for Crop Classification with Optimized Feature Pyramids and Deep Networks**|Syed Rayhan Masud et.al.|[2603.25070v1](http://arxiv.org/abs/2603.25070v1)|null|
 |**2026-03-25 15:46:34**|**Machine Learning-Based Classification of Active Galaxies and Estimation of Supermassive Black Hole Masses**|Farideh Mazoochi et.al.|[2603.24435v1](http://arxiv.org/abs/2603.24435v1)|null|
 |**2026-03-25 11:44:20**|**Adapting Altman's bankruptcy prediction model to the compositional data methodology**|Fatemeh Keivani et.al.|[2603.24215v1](http://arxiv.org/abs/2603.24215v1)|null|
 |**2026-03-25 10:22:28**|**Penalized estimation of GEV parameters for extreme quantile regression**|Lucien M. Vidagbandji et.al.|[2603.24153v1](http://arxiv.org/abs/2603.24153v1)|null|
 |**2026-03-24 22:58:12**|**Age-Specific Logistic Regression with Complex Event Time Data**| Haoxuan et.al.|[2603.23767v2](http://arxiv.org/abs/2603.23767v2)|null|
 |**2026-03-24 14:47:52**|**A Comparative Study of Machine Learning Models for Hourly Forecasting of Air Temperature and Relative Humidity**|Jiaqi Dong et.al.|[2603.23282v1](http://arxiv.org/abs/2603.23282v1)|null|
-|**2026-03-24 04:27:17**|**Quantum Random Forest for the Regression Problem**|Kamil Khadiev et.al.|[2603.22790v1](http://arxiv.org/abs/2603.22790v1)|null|
-|**2026-03-23 10:58:01**|**Financial Dynamics and Interconnected Risk of Liquid Restaking**|Hasret Ozan Sevim et.al.|[2604.03274v1](http://arxiv.org/abs/2604.03274v1)|null|
-|**2026-03-19 18:46:57**|**ML-Based Real-Time Downlink Performance Prediction in Standalone 5G NR Using Smartphones**|Md Mahfuzur Rahman et.al.|[2604.09632v1](http://arxiv.org/abs/2604.09632v1)|null|
-|**2026-03-19 17:53:32**|**Robustness, Cost, and Attack-Surface Concentration in Phishing Detection**|Julian Allagan et.al.|[2603.19204v1](http://arxiv.org/abs/2603.19204v1)|null|
-|**2026-03-19 14:24:05**|**Balancing Performance and Fairness in Explainable AI for Anomaly Detection in Distributed Power Plants Monitoring**|Corneille Niyonkuru et.al.|[2603.18954v1](http://arxiv.org/abs/2603.18954v1)|null|
