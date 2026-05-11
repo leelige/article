@@ -2,6 +2,9 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-08 16:44:47**|**Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation**|Joon Ha Kim et.al.|[2605.07985v1](http://arxiv.org/abs/2605.07985v1)|null|
+|**2026-05-08 09:40:13**|**TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature**|Hanqing Zhao et.al.|[2605.07507v1](http://arxiv.org/abs/2605.07507v1)|null|
+|**2026-05-07 23:08:18**|**Self Driving Datasets: From 20 Million Papers to Nuanced Biomedical Knowledge at Scale**|Haydn Jones et.al.|[2605.07022v1](http://arxiv.org/abs/2605.07022v1)|[link](https://github.com/starling-labs/starling)|
 |**2026-05-07 06:24:29**|**Density diversity in training data governs thermodynamic transferability of machine learning interatomic potentials**|Minwoo Kim et.al.|[2605.05733v1](http://arxiv.org/abs/2605.05733v1)|null|
 |**2026-05-06 04:58:52**|**SecureMCP: A Policy-Enforced LLM Data Access Framework for AIoT Systems via Model Context Protocol**|Wonbae Kim et.al.|[2605.05260v1](http://arxiv.org/abs/2605.05260v1)|null|
 |**2026-04-30 17:25:50**|**Index-Assisted Stratified Sampling for Online Aggregation**|Yunnan Yu et.al.|[2604.28141v1](http://arxiv.org/abs/2604.28141v1)|null|
@@ -29,6 +32,3 @@
 |**2026-03-27 09:42:10**|**EPDQ: Efficient and Privacy-Preserving Exact Distance Query on Encrypted Graphs**|Xuemei Fu et.al.|[2603.26219v1](http://arxiv.org/abs/2603.26219v1)|null|
 |**2026-03-27 04:03:21**|**ZEBRA-Prop: A Zero-Shot Embedding-Based Rapid and Accessible Regression Model for Materials Properties**|Ryoma Yamamoto et.al.|[2603.26060v1](http://arxiv.org/abs/2603.26060v1)|null|
 |**2026-03-25 07:33:44**|**Schema on the Inside: A Two-Phase Fine-Tuning Method for High-Efficiency Text-to-SQL at Scale**|Chinmay Soni et.al.|[2603.24023v1](http://arxiv.org/abs/2603.24023v1)|null|
-|**2026-03-24 03:23:16**|**Experimental investigation of magnetic properties of MnFeCo$_{4}$Si$_{2}$ discovered by GNoME**|Shuhei Naganuma et.al.|[2603.22748v1](http://arxiv.org/abs/2603.22748v1)|null|
-|**2026-03-22 17:31:57**|**Optimal-Cost Construction of Shallow Cuttings for 3-D Dominance Ranges in the I/O-Model**|Yakov Nekrich et.al.|[2603.21337v1](http://arxiv.org/abs/2603.21337v1)|null|
-|**2026-03-21 00:01:45**|**Global Cybercrime Damages: A Baseline for Frontier AI Risk Assessment**|Kamilė Lukošiūtė et.al.|[2603.20570v1](http://arxiv.org/abs/2603.20570v1)|null|
