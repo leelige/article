@@ -2,6 +2,9 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-11 02:05:30**|**M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models**|Junjian Wang et.al.|[2605.09879v1](http://arxiv.org/abs/2605.09879v1)|[link](https://github.com/laplucky/M2A.git)|
+|**2026-05-10 17:43:56**|**Giant Rashba Splitting and Enhanced Nonlinear Berry-Phase Responses in Sliding-Tunable vdW MXene Heterostructures**|Ali Sufyan et.al.|[2605.09674v1](http://arxiv.org/abs/2605.09674v1)|null|
+|**2026-05-09 09:10:03**|**How You Begin is How You Reason: Driving Exploration in RLVR via Prefix-Tuned Priors**|Yifan Xu et.al.|[2605.08817v1](http://arxiv.org/abs/2605.08817v1)|null|
 |**2026-05-06 18:00:01**|**Engineering Quantum Many-Body Scars through Lattice Geometry**|Erick Parra Verde et.al.|[2605.05296v1](http://arxiv.org/abs/2605.05296v1)|null|
 |**2026-04-28 21:08:37**|**One knob to tune them all: Phase-controlled photon statistics and linewidth in partially pumped atomic ensembles**|Oksana Chelpanova et.al.|[2604.26117v1](http://arxiv.org/abs/2604.26117v1)|null|
 |**2026-04-28 01:39:21**|**Tunable thermal conductivity through dual spin-phonon coupling in van der Waals ferromagnetic insulator Cr2Ge2Te6**|Zhongbin Wang et.al.|[2604.25115v1](http://arxiv.org/abs/2604.25115v1)|null|
@@ -29,6 +32,3 @@
 |**2026-03-07 05:25:53**|**AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling**|Karthik Pattabiraman et.al.|[2603.07041v3](http://arxiv.org/abs/2603.07041v3)|null|
 |**2026-03-03 05:30:06**|**Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches**|Panagiotis Promponas et.al.|[2603.02610v1](http://arxiv.org/abs/2603.02610v1)|null|
 |**2026-02-28 09:22:19**|**Polarization Engineering of Second-Harmonic Generation in 3R-MoS$_2$ Waveguides**|Renkang Song et.al.|[2603.00562v1](http://arxiv.org/abs/2603.00562v1)|null|
-|**2026-02-27 11:24:15**|**Electric-field control of atom-molecule Feshbach resonances**|Mara Meyer zum Alten Borgloh et.al.|[2602.23929v1](http://arxiv.org/abs/2602.23929v1)|null|
-|**2026-02-26 07:25:22**|**Knob: A Physics-Inspired Gating Interface for Interpretable and Controllable Neural Dynamics**|Siyu Jiang et.al.|[2602.22702v1](http://arxiv.org/abs/2602.22702v1)|null|
-|**2026-02-26 02:40:28**|**Quantum-geometry-driven Mott transitions and magnetism**|Jixun K. Ding et.al.|[2602.22548v1](http://arxiv.org/abs/2602.22548v1)|null|

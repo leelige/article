@@ -1,11 +1,16 @@
 # arxiv-daily
- 自动更新 @ 2026-05-11 18:50:47 Asia/Shanghai
+ 自动更新 @ 2026-05-12 18:21:06 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-11 16:46:59**|**Preservation Theorems in Semiring Semantics**|Sophie Brinke et.al.|[2605.10829v1](http://arxiv.org/abs/2605.10829v1)|null|
+|**2026-05-11 11:54:47**|**Can Language Models Analyze Data? Evaluating Large Language Models for Question Answering over Datasets**|Andreas Xenofontos et.al.|[2605.10419v1](http://arxiv.org/abs/2605.10419v1)|null|
+|**2026-05-11 09:30:32**|**Overfitting by design: neural network density functionals for water**|Karim K. Alaa El-Din et.al.|[2605.10266v1](http://arxiv.org/abs/2605.10266v1)|null|
+|**2026-05-11 05:53:08**|**Neural-ISAM: A hybrid in-situ machine learning approach for complex manifold-based combustion models in LES of turbulent flames**|S. Trevor Fush et.al.|[2605.10028v1](http://arxiv.org/abs/2605.10028v1)|null|
+|**2026-05-10 21:25:28**|**LEVI: Stronger Search Architectures Can Substitute for Larger LLMs in Evolutionary Search**|Temoor Tanveer et.al.|[2605.09764v1](http://arxiv.org/abs/2605.09764v1)|[link](https://github.com/ttanv/levi)|
 |**2026-05-08 16:44:47**|**Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation**|Joon Ha Kim et.al.|[2605.07985v1](http://arxiv.org/abs/2605.07985v1)|null|
 |**2026-05-08 09:40:13**|**TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature**|Hanqing Zhao et.al.|[2605.07507v1](http://arxiv.org/abs/2605.07507v1)|null|
 |**2026-05-07 23:08:18**|**Self Driving Datasets: From 20 Million Papers to Nuanced Biomedical Knowledge at Scale**|Haydn Jones et.al.|[2605.07022v1](http://arxiv.org/abs/2605.07022v1)|[link](https://github.com/starling-labs/starling)|
@@ -31,17 +36,15 @@
 |**2026-04-02 18:16:11**|**OmniTQA: A Cost-Aware System for Hybrid Query Processing over Semi-Structured Data**|Nima Shahbazi et.al.|[2604.02444v1](http://arxiv.org/abs/2604.02444v1)|null|
 |**2026-04-02 16:52:48**|**Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider**|Tina. J. Jat et.al.|[2604.02259v1](http://arxiv.org/abs/2604.02259v1)|null|
 |**2026-03-30 22:12:21**|**A Latent Risk-Aware Machine Learning Approach for Predicting Operational Success in Clinical Trials based on TrialsBank**|Iness Halimi et.al.|[2603.29041v1](http://arxiv.org/abs/2603.29041v1)|null|
-|**2026-03-28 13:36:45**|**From Foundation ECG Models to NISQ Learners: Distilling ECGFounder into a VQC Student**|Giovanni dos Santos Franco et.al.|[2603.27269v1](http://arxiv.org/abs/2603.27269v1)|null|
-|**2026-03-27 19:34:23**|**Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems**|Shanglin Wu et.al.|[2604.03295v1](http://arxiv.org/abs/2604.03295v1)|null|
-|**2026-03-27 09:42:10**|**EPDQ: Efficient and Privacy-Preserving Exact Distance Query on Encrypted Graphs**|Xuemei Fu et.al.|[2603.26219v1](http://arxiv.org/abs/2603.26219v1)|null|
-|**2026-03-27 04:03:21**|**ZEBRA-Prop: A Zero-Shot Embedding-Based Rapid and Accessible Regression Model for Materials Properties**|Ryoma Yamamoto et.al.|[2603.26060v1](http://arxiv.org/abs/2603.26060v1)|null|
-|**2026-03-25 07:33:44**|**Schema on the Inside: A Two-Phase Fine-Tuning Method for High-Efficiency Text-to-SQL at Scale**|Chinmay Soni et.al.|[2603.24023v1](http://arxiv.org/abs/2603.24023v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-11 02:05:30**|**M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models**|Junjian Wang et.al.|[2605.09879v1](http://arxiv.org/abs/2605.09879v1)|[link](https://github.com/laplucky/M2A.git)|
+|**2026-05-10 17:43:56**|**Giant Rashba Splitting and Enhanced Nonlinear Berry-Phase Responses in Sliding-Tunable vdW MXene Heterostructures**|Ali Sufyan et.al.|[2605.09674v1](http://arxiv.org/abs/2605.09674v1)|null|
+|**2026-05-09 09:10:03**|**How You Begin is How You Reason: Driving Exploration in RLVR via Prefix-Tuned Priors**|Yifan Xu et.al.|[2605.08817v1](http://arxiv.org/abs/2605.08817v1)|null|
 |**2026-05-06 18:00:01**|**Engineering Quantum Many-Body Scars through Lattice Geometry**|Erick Parra Verde et.al.|[2605.05296v1](http://arxiv.org/abs/2605.05296v1)|null|
 |**2026-04-28 21:08:37**|**One knob to tune them all: Phase-controlled photon statistics and linewidth in partially pumped atomic ensembles**|Oksana Chelpanova et.al.|[2604.26117v1](http://arxiv.org/abs/2604.26117v1)|null|
 |**2026-04-28 01:39:21**|**Tunable thermal conductivity through dual spin-phonon coupling in van der Waals ferromagnetic insulator Cr2Ge2Te6**|Zhongbin Wang et.al.|[2604.25115v1](http://arxiv.org/abs/2604.25115v1)|null|
@@ -69,15 +72,15 @@
 |**2026-03-07 05:25:53**|**AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling**|Karthik Pattabiraman et.al.|[2603.07041v3](http://arxiv.org/abs/2603.07041v3)|null|
 |**2026-03-03 05:30:06**|**Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches**|Panagiotis Promponas et.al.|[2603.02610v1](http://arxiv.org/abs/2603.02610v1)|null|
 |**2026-02-28 09:22:19**|**Polarization Engineering of Second-Harmonic Generation in 3R-MoS$_2$ Waveguides**|Renkang Song et.al.|[2603.00562v1](http://arxiv.org/abs/2603.00562v1)|null|
-|**2026-02-27 11:24:15**|**Electric-field control of atom-molecule Feshbach resonances**|Mara Meyer zum Alten Borgloh et.al.|[2602.23929v1](http://arxiv.org/abs/2602.23929v1)|null|
-|**2026-02-26 07:25:22**|**Knob: A Physics-Inspired Gating Interface for Interpretable and Controllable Neural Dynamics**|Siyu Jiang et.al.|[2602.22702v1](http://arxiv.org/abs/2602.22702v1)|null|
-|**2026-02-26 02:40:28**|**Quantum-geometry-driven Mott transitions and magnetism**|Jixun K. Ding et.al.|[2602.22548v1](http://arxiv.org/abs/2602.22548v1)|null|
 
 ## Random Forest Regression
 
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-09 03:58:50**|**Optimised Support Vector Regression for California Housing Price Prediction: The Critical Role of Feature Engineering and Hyperparameter Tuning**|Emmanuel Adutwum et.al.|[2605.08660v1](http://arxiv.org/abs/2605.08660v1)|null|
+|**2026-05-09 02:49:12**|**Fatigue-Related Reaction Time Forecasting via EEG Functional Connectivity in Sustained Attention Task**|Bo Sun et.al.|[2605.08631v1](http://arxiv.org/abs/2605.08631v1)|null|
+|**2026-05-08 21:23:57**|**MeTime: An R package for reproducible longitudinal metabolomics data analysis**|Bharadwaj Marella et.al.|[2605.08497v1](http://arxiv.org/abs/2605.08497v1)|null|
 |**2026-05-08 12:50:04**|**Advance warning of $γ$-ray blazar flares from \textit{Fermi}-LAT light curves: a strictly causal machine-learning backtest**|Zahir Shah et.al.|[2605.07680v1](http://arxiv.org/abs/2605.07680v1)|null|
 |**2026-05-07 16:55:46**|**Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data**|Meena Al Hasani et.al.|[2605.06562v1](http://arxiv.org/abs/2605.06562v1)|null|
 |**2026-05-07 15:36:17**|**COVID-19 Infodemic. Understanding content features in detecting fake news using a machine learning approach**|Vimala Balakrishnan et.al.|[2605.06435v1](http://arxiv.org/abs/2605.06435v1)|null|
@@ -105,6 +108,3 @@
 |**2026-03-28 19:42:27**|**Prediction-Based Markov Violation Scores for Detecting Non-Markovian Observations in Reinforcement Learning**|Naveen Mysore et.al.|[2603.27389v2](http://arxiv.org/abs/2603.27389v2)|[link](https://github.com/NAVEENMN/Markovianes)|
 |**2026-03-26 06:13:34**|**An Explainable Ensemble Learning Framework for Crop Classification with Optimized Feature Pyramids and Deep Networks**|Syed Rayhan Masud et.al.|[2603.25070v1](http://arxiv.org/abs/2603.25070v1)|null|
 |**2026-03-25 15:46:34**|**Machine Learning-Based Classification of Active Galaxies and Estimation of Supermassive Black Hole Masses**|Farideh Mazoochi et.al.|[2603.24435v1](http://arxiv.org/abs/2603.24435v1)|null|
-|**2026-03-25 11:44:20**|**Adapting Altman's bankruptcy prediction model to the compositional data methodology**|Fatemeh Keivani et.al.|[2603.24215v1](http://arxiv.org/abs/2603.24215v1)|null|
-|**2026-03-25 10:22:28**|**Penalized estimation of GEV parameters for extreme quantile regression**|Lucien M. Vidagbandji et.al.|[2603.24153v1](http://arxiv.org/abs/2603.24153v1)|null|
-|**2026-03-24 22:58:12**|**Age-Specific Logistic Regression with Complex Event Time Data**| Haoxuan et.al.|[2603.23767v2](http://arxiv.org/abs/2603.23767v2)|null|

@@ -2,6 +2,11 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-11 16:46:59**|**Preservation Theorems in Semiring Semantics**|Sophie Brinke et.al.|[2605.10829v1](http://arxiv.org/abs/2605.10829v1)|null|
+|**2026-05-11 11:54:47**|**Can Language Models Analyze Data? Evaluating Large Language Models for Question Answering over Datasets**|Andreas Xenofontos et.al.|[2605.10419v1](http://arxiv.org/abs/2605.10419v1)|null|
+|**2026-05-11 09:30:32**|**Overfitting by design: neural network density functionals for water**|Karim K. Alaa El-Din et.al.|[2605.10266v1](http://arxiv.org/abs/2605.10266v1)|null|
+|**2026-05-11 05:53:08**|**Neural-ISAM: A hybrid in-situ machine learning approach for complex manifold-based combustion models in LES of turbulent flames**|S. Trevor Fush et.al.|[2605.10028v1](http://arxiv.org/abs/2605.10028v1)|null|
+|**2026-05-10 21:25:28**|**LEVI: Stronger Search Architectures Can Substitute for Larger LLMs in Evolutionary Search**|Temoor Tanveer et.al.|[2605.09764v1](http://arxiv.org/abs/2605.09764v1)|[link](https://github.com/ttanv/levi)|
 |**2026-05-08 16:44:47**|**Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation**|Joon Ha Kim et.al.|[2605.07985v1](http://arxiv.org/abs/2605.07985v1)|null|
 |**2026-05-08 09:40:13**|**TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature**|Hanqing Zhao et.al.|[2605.07507v1](http://arxiv.org/abs/2605.07507v1)|null|
 |**2026-05-07 23:08:18**|**Self Driving Datasets: From 20 Million Papers to Nuanced Biomedical Knowledge at Scale**|Haydn Jones et.al.|[2605.07022v1](http://arxiv.org/abs/2605.07022v1)|[link](https://github.com/starling-labs/starling)|
@@ -27,8 +32,3 @@
 |**2026-04-02 18:16:11**|**OmniTQA: A Cost-Aware System for Hybrid Query Processing over Semi-Structured Data**|Nima Shahbazi et.al.|[2604.02444v1](http://arxiv.org/abs/2604.02444v1)|null|
 |**2026-04-02 16:52:48**|**Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider**|Tina. J. Jat et.al.|[2604.02259v1](http://arxiv.org/abs/2604.02259v1)|null|
 |**2026-03-30 22:12:21**|**A Latent Risk-Aware Machine Learning Approach for Predicting Operational Success in Clinical Trials based on TrialsBank**|Iness Halimi et.al.|[2603.29041v1](http://arxiv.org/abs/2603.29041v1)|null|
-|**2026-03-28 13:36:45**|**From Foundation ECG Models to NISQ Learners: Distilling ECGFounder into a VQC Student**|Giovanni dos Santos Franco et.al.|[2603.27269v1](http://arxiv.org/abs/2603.27269v1)|null|
-|**2026-03-27 19:34:23**|**Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems**|Shanglin Wu et.al.|[2604.03295v1](http://arxiv.org/abs/2604.03295v1)|null|
-|**2026-03-27 09:42:10**|**EPDQ: Efficient and Privacy-Preserving Exact Distance Query on Encrypted Graphs**|Xuemei Fu et.al.|[2603.26219v1](http://arxiv.org/abs/2603.26219v1)|null|
-|**2026-03-27 04:03:21**|**ZEBRA-Prop: A Zero-Shot Embedding-Based Rapid and Accessible Regression Model for Materials Properties**|Ryoma Yamamoto et.al.|[2603.26060v1](http://arxiv.org/abs/2603.26060v1)|null|
-|**2026-03-25 07:33:44**|**Schema on the Inside: A Two-Phase Fine-Tuning Method for High-Efficiency Text-to-SQL at Scale**|Chinmay Soni et.al.|[2603.24023v1](http://arxiv.org/abs/2603.24023v1)|null|

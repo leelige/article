@@ -2,6 +2,9 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-09 03:58:50**|**Optimised Support Vector Regression for California Housing Price Prediction: The Critical Role of Feature Engineering and Hyperparameter Tuning**|Emmanuel Adutwum et.al.|[2605.08660v1](http://arxiv.org/abs/2605.08660v1)|null|
+|**2026-05-09 02:49:12**|**Fatigue-Related Reaction Time Forecasting via EEG Functional Connectivity in Sustained Attention Task**|Bo Sun et.al.|[2605.08631v1](http://arxiv.org/abs/2605.08631v1)|null|
+|**2026-05-08 21:23:57**|**MeTime: An R package for reproducible longitudinal metabolomics data analysis**|Bharadwaj Marella et.al.|[2605.08497v1](http://arxiv.org/abs/2605.08497v1)|null|
 |**2026-05-08 12:50:04**|**Advance warning of $γ$-ray blazar flares from \textit{Fermi}-LAT light curves: a strictly causal machine-learning backtest**|Zahir Shah et.al.|[2605.07680v1](http://arxiv.org/abs/2605.07680v1)|null|
 |**2026-05-07 16:55:46**|**Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data**|Meena Al Hasani et.al.|[2605.06562v1](http://arxiv.org/abs/2605.06562v1)|null|
 |**2026-05-07 15:36:17**|**COVID-19 Infodemic. Understanding content features in detecting fake news using a machine learning approach**|Vimala Balakrishnan et.al.|[2605.06435v1](http://arxiv.org/abs/2605.06435v1)|null|
@@ -29,6 +32,3 @@
 |**2026-03-28 19:42:27**|**Prediction-Based Markov Violation Scores for Detecting Non-Markovian Observations in Reinforcement Learning**|Naveen Mysore et.al.|[2603.27389v2](http://arxiv.org/abs/2603.27389v2)|[link](https://github.com/NAVEENMN/Markovianes)|
 |**2026-03-26 06:13:34**|**An Explainable Ensemble Learning Framework for Crop Classification with Optimized Feature Pyramids and Deep Networks**|Syed Rayhan Masud et.al.|[2603.25070v1](http://arxiv.org/abs/2603.25070v1)|null|
 |**2026-03-25 15:46:34**|**Machine Learning-Based Classification of Active Galaxies and Estimation of Supermassive Black Hole Masses**|Farideh Mazoochi et.al.|[2603.24435v1](http://arxiv.org/abs/2603.24435v1)|null|
-|**2026-03-25 11:44:20**|**Adapting Altman's bankruptcy prediction model to the compositional data methodology**|Fatemeh Keivani et.al.|[2603.24215v1](http://arxiv.org/abs/2603.24215v1)|null|
-|**2026-03-25 10:22:28**|**Penalized estimation of GEV parameters for extreme quantile regression**|Lucien M. Vidagbandji et.al.|[2603.24153v1](http://arxiv.org/abs/2603.24153v1)|null|
-|**2026-03-24 22:58:12**|**Age-Specific Logistic Regression with Complex Event Time Data**| Haoxuan et.al.|[2603.23767v2](http://arxiv.org/abs/2603.23767v2)|null|
