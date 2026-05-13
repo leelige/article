@@ -1,11 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2026-05-12 18:21:06 Asia/Shanghai
+ 自动更新 @ 2026-05-13 18:10:23 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-12 11:35:59**|**On the Limitations of Large Language Models for Conceptual Database Modeling**|Arthur F. Siqueira et.al.|[2605.11986v1](http://arxiv.org/abs/2605.11986v1)|null|
+|**2026-05-12 06:42:00**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et.al.|[2605.11610v1](http://arxiv.org/abs/2605.11610v1)|null|
+|**2026-05-11 23:42:00**|**Much of Geospatial Web Search Is Beyond Traditional GIS**|Ilya Ilyankou et.al.|[2605.11336v1](http://arxiv.org/abs/2605.11336v1)|null|
 |**2026-05-11 16:46:59**|**Preservation Theorems in Semiring Semantics**|Sophie Brinke et.al.|[2605.10829v1](http://arxiv.org/abs/2605.10829v1)|null|
 |**2026-05-11 11:54:47**|**Can Language Models Analyze Data? Evaluating Large Language Models for Question Answering over Datasets**|Andreas Xenofontos et.al.|[2605.10419v1](http://arxiv.org/abs/2605.10419v1)|null|
 |**2026-05-11 09:30:32**|**Overfitting by design: neural network density functionals for water**|Karim K. Alaa El-Din et.al.|[2605.10266v1](http://arxiv.org/abs/2605.10266v1)|null|
@@ -33,15 +36,14 @@
 |**2026-04-08 08:17:25**|**LASER: A Data-Centric Method for Low-Cost and Efficient SQL Rewriting based on SQL-GRPO**|Jiahui Li et.al.|[2604.06804v1](http://arxiv.org/abs/2604.06804v1)|null|
 |**2026-04-08 03:05:14**|**TiAb Review Plugin: A Browser-Based Tool for AI-Assisted Title and Abstract Screening**|Yuki Kataoka et.al.|[2604.08602v1](http://arxiv.org/abs/2604.08602v1)|null|
 |**2026-04-06 14:04:14**|**GPIR: Enabling Practical Private Information Retrieval with GPUs**|Hyesung Ji et.al.|[2604.04696v2](http://arxiv.org/abs/2604.04696v2)|null|
-|**2026-04-02 18:16:11**|**OmniTQA: A Cost-Aware System for Hybrid Query Processing over Semi-Structured Data**|Nima Shahbazi et.al.|[2604.02444v1](http://arxiv.org/abs/2604.02444v1)|null|
-|**2026-04-02 16:52:48**|**Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider**|Tina. J. Jat et.al.|[2604.02259v1](http://arxiv.org/abs/2604.02259v1)|null|
-|**2026-03-30 22:12:21**|**A Latent Risk-Aware Machine Learning Approach for Predicting Operational Success in Clinical Trials based on TrialsBank**|Iness Halimi et.al.|[2603.29041v1](http://arxiv.org/abs/2603.29041v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-12 17:35:21**|**Equivariant Space Group and Hamiltonian for Collinear Magnetic Systems**|Chaoxi Cui et.al.|[2605.12440v1](http://arxiv.org/abs/2605.12440v1)|null|
+|**2026-05-11 18:00:01**|**Valley-Controlled Viscosity of Two-Dimensional Dirac Fluids**|Alexey Ermakov et.al.|[2605.11069v1](http://arxiv.org/abs/2605.11069v1)|null|
 |**2026-05-11 02:05:30**|**M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models**|Junjian Wang et.al.|[2605.09879v1](http://arxiv.org/abs/2605.09879v1)|[link](https://github.com/laplucky/M2A.git)|
 |**2026-05-10 17:43:56**|**Giant Rashba Splitting and Enhanced Nonlinear Berry-Phase Responses in Sliding-Tunable vdW MXene Heterostructures**|Ali Sufyan et.al.|[2605.09674v1](http://arxiv.org/abs/2605.09674v1)|null|
 |**2026-05-09 09:10:03**|**How You Begin is How You Reason: Driving Exploration in RLVR via Prefix-Tuned Priors**|Yifan Xu et.al.|[2605.08817v1](http://arxiv.org/abs/2605.08817v1)|null|
@@ -70,14 +72,15 @@
 |**2026-03-10 18:03:52**|**ALD Oxidant as A Tuning Knob for Memory Window Expansion in Ferroelectric FETs for Vertical NAND Applications**|Ranie Jeyakumar et.al.|[2603.10127v1](http://arxiv.org/abs/2603.10127v1)|null|
 |**2026-03-08 01:33:01**|**Adaptive Capacity Allocation for Vision Language Action Fine-tuning**|Donghoon Kim et.al.|[2603.07404v1](http://arxiv.org/abs/2603.07404v1)|null|
 |**2026-03-07 05:25:53**|**AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling**|Karthik Pattabiraman et.al.|[2603.07041v3](http://arxiv.org/abs/2603.07041v3)|null|
-|**2026-03-03 05:30:06**|**Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches**|Panagiotis Promponas et.al.|[2603.02610v1](http://arxiv.org/abs/2603.02610v1)|null|
-|**2026-02-28 09:22:19**|**Polarization Engineering of Second-Harmonic Generation in 3R-MoS$_2$ Waveguides**|Renkang Song et.al.|[2603.00562v1](http://arxiv.org/abs/2603.00562v1)|null|
 
 ## Random Forest Regression
 
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-12 09:26:00**|**Minimax Rates and Spectral Distillation for Tree Ensembles**|Binh Duc Vu et.al.|[2605.11841v1](http://arxiv.org/abs/2605.11841v1)|null|
+|**2026-05-11 18:01:21**|**ASD-Bench: A Four-Axis Comprehensive Benchmark of AI Models for Autism Spectrum Disorder**|Shubhankit Singh et.al.|[2605.11091v1](http://arxiv.org/abs/2605.11091v1)|null|
+|**2026-05-11 14:55:48**|**MCPShield: Content-Aware Attack Detection for LLM Agent Tool-Call Traffic**|Sultan Zavrak et.al.|[2605.11053v1](http://arxiv.org/abs/2605.11053v1)|null|
 |**2026-05-09 03:58:50**|**Optimised Support Vector Regression for California Housing Price Prediction: The Critical Role of Feature Engineering and Hyperparameter Tuning**|Emmanuel Adutwum et.al.|[2605.08660v1](http://arxiv.org/abs/2605.08660v1)|null|
 |**2026-05-09 02:49:12**|**Fatigue-Related Reaction Time Forecasting via EEG Functional Connectivity in Sustained Attention Task**|Bo Sun et.al.|[2605.08631v1](http://arxiv.org/abs/2605.08631v1)|null|
 |**2026-05-08 21:23:57**|**MeTime: An R package for reproducible longitudinal metabolomics data analysis**|Bharadwaj Marella et.al.|[2605.08497v1](http://arxiv.org/abs/2605.08497v1)|null|
@@ -105,6 +108,3 @@
 |**2026-04-09 08:17:27**|**Fraud Detection System for Banking Transactions**|Ranya Batsyas et.al.|[2604.07952v1](http://arxiv.org/abs/2604.07952v1)|null|
 |**2026-04-05 18:46:59**|**Learning-Based Multi-Criteria Decision Making Model for Sawmill Location Problems**|Mahid Ahmed et.al.|[2604.04996v1](http://arxiv.org/abs/2604.04996v1)|null|
 |**2026-03-30 21:58:47**|**From Astronomy to Astrology: Testing the Illusion of Zodiac-Based Personality Prediction with Machine Learning**|Abhinna Sundar Samantaray et.al.|[2603.29033v1](http://arxiv.org/abs/2603.29033v1)|null|
-|**2026-03-28 19:42:27**|**Prediction-Based Markov Violation Scores for Detecting Non-Markovian Observations in Reinforcement Learning**|Naveen Mysore et.al.|[2603.27389v2](http://arxiv.org/abs/2603.27389v2)|[link](https://github.com/NAVEENMN/Markovianes)|
-|**2026-03-26 06:13:34**|**An Explainable Ensemble Learning Framework for Crop Classification with Optimized Feature Pyramids and Deep Networks**|Syed Rayhan Masud et.al.|[2603.25070v1](http://arxiv.org/abs/2603.25070v1)|null|
-|**2026-03-25 15:46:34**|**Machine Learning-Based Classification of Active Galaxies and Estimation of Supermassive Black Hole Masses**|Farideh Mazoochi et.al.|[2603.24435v1](http://arxiv.org/abs/2603.24435v1)|null|

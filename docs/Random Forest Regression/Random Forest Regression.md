@@ -2,6 +2,9 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-12 09:26:00**|**Minimax Rates and Spectral Distillation for Tree Ensembles**|Binh Duc Vu et.al.|[2605.11841v1](http://arxiv.org/abs/2605.11841v1)|null|
+|**2026-05-11 18:01:21**|**ASD-Bench: A Four-Axis Comprehensive Benchmark of AI Models for Autism Spectrum Disorder**|Shubhankit Singh et.al.|[2605.11091v1](http://arxiv.org/abs/2605.11091v1)|null|
+|**2026-05-11 14:55:48**|**MCPShield: Content-Aware Attack Detection for LLM Agent Tool-Call Traffic**|Sultan Zavrak et.al.|[2605.11053v1](http://arxiv.org/abs/2605.11053v1)|null|
 |**2026-05-09 03:58:50**|**Optimised Support Vector Regression for California Housing Price Prediction: The Critical Role of Feature Engineering and Hyperparameter Tuning**|Emmanuel Adutwum et.al.|[2605.08660v1](http://arxiv.org/abs/2605.08660v1)|null|
 |**2026-05-09 02:49:12**|**Fatigue-Related Reaction Time Forecasting via EEG Functional Connectivity in Sustained Attention Task**|Bo Sun et.al.|[2605.08631v1](http://arxiv.org/abs/2605.08631v1)|null|
 |**2026-05-08 21:23:57**|**MeTime: An R package for reproducible longitudinal metabolomics data analysis**|Bharadwaj Marella et.al.|[2605.08497v1](http://arxiv.org/abs/2605.08497v1)|null|
@@ -29,6 +32,3 @@
 |**2026-04-09 08:17:27**|**Fraud Detection System for Banking Transactions**|Ranya Batsyas et.al.|[2604.07952v1](http://arxiv.org/abs/2604.07952v1)|null|
 |**2026-04-05 18:46:59**|**Learning-Based Multi-Criteria Decision Making Model for Sawmill Location Problems**|Mahid Ahmed et.al.|[2604.04996v1](http://arxiv.org/abs/2604.04996v1)|null|
 |**2026-03-30 21:58:47**|**From Astronomy to Astrology: Testing the Illusion of Zodiac-Based Personality Prediction with Machine Learning**|Abhinna Sundar Samantaray et.al.|[2603.29033v1](http://arxiv.org/abs/2603.29033v1)|null|
-|**2026-03-28 19:42:27**|**Prediction-Based Markov Violation Scores for Detecting Non-Markovian Observations in Reinforcement Learning**|Naveen Mysore et.al.|[2603.27389v2](http://arxiv.org/abs/2603.27389v2)|[link](https://github.com/NAVEENMN/Markovianes)|
-|**2026-03-26 06:13:34**|**An Explainable Ensemble Learning Framework for Crop Classification with Optimized Feature Pyramids and Deep Networks**|Syed Rayhan Masud et.al.|[2603.25070v1](http://arxiv.org/abs/2603.25070v1)|null|
-|**2026-03-25 15:46:34**|**Machine Learning-Based Classification of Active Galaxies and Estimation of Supermassive Black Hole Masses**|Farideh Mazoochi et.al.|[2603.24435v1](http://arxiv.org/abs/2603.24435v1)|null|

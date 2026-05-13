@@ -2,6 +2,9 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-12 11:35:59**|**On the Limitations of Large Language Models for Conceptual Database Modeling**|Arthur F. Siqueira et.al.|[2605.11986v1](http://arxiv.org/abs/2605.11986v1)|null|
+|**2026-05-12 06:42:00**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et.al.|[2605.11610v1](http://arxiv.org/abs/2605.11610v1)|null|
+|**2026-05-11 23:42:00**|**Much of Geospatial Web Search Is Beyond Traditional GIS**|Ilya Ilyankou et.al.|[2605.11336v1](http://arxiv.org/abs/2605.11336v1)|null|
 |**2026-05-11 16:46:59**|**Preservation Theorems in Semiring Semantics**|Sophie Brinke et.al.|[2605.10829v1](http://arxiv.org/abs/2605.10829v1)|null|
 |**2026-05-11 11:54:47**|**Can Language Models Analyze Data? Evaluating Large Language Models for Question Answering over Datasets**|Andreas Xenofontos et.al.|[2605.10419v1](http://arxiv.org/abs/2605.10419v1)|null|
 |**2026-05-11 09:30:32**|**Overfitting by design: neural network density functionals for water**|Karim K. Alaa El-Din et.al.|[2605.10266v1](http://arxiv.org/abs/2605.10266v1)|null|
@@ -29,6 +32,3 @@
 |**2026-04-08 08:17:25**|**LASER: A Data-Centric Method for Low-Cost and Efficient SQL Rewriting based on SQL-GRPO**|Jiahui Li et.al.|[2604.06804v1](http://arxiv.org/abs/2604.06804v1)|null|
 |**2026-04-08 03:05:14**|**TiAb Review Plugin: A Browser-Based Tool for AI-Assisted Title and Abstract Screening**|Yuki Kataoka et.al.|[2604.08602v1](http://arxiv.org/abs/2604.08602v1)|null|
 |**2026-04-06 14:04:14**|**GPIR: Enabling Practical Private Information Retrieval with GPUs**|Hyesung Ji et.al.|[2604.04696v2](http://arxiv.org/abs/2604.04696v2)|null|
-|**2026-04-02 18:16:11**|**OmniTQA: A Cost-Aware System for Hybrid Query Processing over Semi-Structured Data**|Nima Shahbazi et.al.|[2604.02444v1](http://arxiv.org/abs/2604.02444v1)|null|
-|**2026-04-02 16:52:48**|**Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider**|Tina. J. Jat et.al.|[2604.02259v1](http://arxiv.org/abs/2604.02259v1)|null|
-|**2026-03-30 22:12:21**|**A Latent Risk-Aware Machine Learning Approach for Predicting Operational Success in Clinical Trials based on TrialsBank**|Iness Halimi et.al.|[2603.29041v1](http://arxiv.org/abs/2603.29041v1)|null|

@@ -2,6 +2,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-12 17:35:21**|**Equivariant Space Group and Hamiltonian for Collinear Magnetic Systems**|Chaoxi Cui et.al.|[2605.12440v1](http://arxiv.org/abs/2605.12440v1)|null|
+|**2026-05-11 18:00:01**|**Valley-Controlled Viscosity of Two-Dimensional Dirac Fluids**|Alexey Ermakov et.al.|[2605.11069v1](http://arxiv.org/abs/2605.11069v1)|null|
 |**2026-05-11 02:05:30**|**M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models**|Junjian Wang et.al.|[2605.09879v1](http://arxiv.org/abs/2605.09879v1)|[link](https://github.com/laplucky/M2A.git)|
 |**2026-05-10 17:43:56**|**Giant Rashba Splitting and Enhanced Nonlinear Berry-Phase Responses in Sliding-Tunable vdW MXene Heterostructures**|Ali Sufyan et.al.|[2605.09674v1](http://arxiv.org/abs/2605.09674v1)|null|
 |**2026-05-09 09:10:03**|**How You Begin is How You Reason: Driving Exploration in RLVR via Prefix-Tuned Priors**|Yifan Xu et.al.|[2605.08817v1](http://arxiv.org/abs/2605.08817v1)|null|
@@ -30,5 +32,3 @@
 |**2026-03-10 18:03:52**|**ALD Oxidant as A Tuning Knob for Memory Window Expansion in Ferroelectric FETs for Vertical NAND Applications**|Ranie Jeyakumar et.al.|[2603.10127v1](http://arxiv.org/abs/2603.10127v1)|null|
 |**2026-03-08 01:33:01**|**Adaptive Capacity Allocation for Vision Language Action Fine-tuning**|Donghoon Kim et.al.|[2603.07404v1](http://arxiv.org/abs/2603.07404v1)|null|
 |**2026-03-07 05:25:53**|**AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling**|Karthik Pattabiraman et.al.|[2603.07041v3](http://arxiv.org/abs/2603.07041v3)|null|
-|**2026-03-03 05:30:06**|**Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches**|Panagiotis Promponas et.al.|[2603.02610v1](http://arxiv.org/abs/2603.02610v1)|null|
-|**2026-02-28 09:22:19**|**Polarization Engineering of Second-Harmonic Generation in 3R-MoS$_2$ Waveguides**|Renkang Song et.al.|[2603.00562v1](http://arxiv.org/abs/2603.00562v1)|null|
