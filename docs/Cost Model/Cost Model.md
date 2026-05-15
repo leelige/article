@@ -18,7 +18,7 @@
 |**2026-04-30 17:25:50**|**Index-Assisted Stratified Sampling for Online Aggregation**|Yunnan Yu et.al.|[2604.28141v1](http://arxiv.org/abs/2604.28141v1)|null|
 |**2026-04-28 14:42:51**|**Budget-Constrained Online Retrieval-Augmented Generation: The Chunk-as-a-Service Model**|Shawqi Al-Maliki et.al.|[2604.26981v1](http://arxiv.org/abs/2604.26981v1)|null|
 |**2026-04-28 13:09:48**|**Health System Scale Semantic Search Across Unstructured Clinical Notes**|Faith Wavinya Mutinda et.al.|[2604.25605v1](http://arxiv.org/abs/2604.25605v1)|null|
-|**2026-04-26 00:05:53**|**SEMA-SQL: Beyond Traditional Relational Querying with Large Language Models**|Yin Lin et.al.|[2604.23477v1](http://arxiv.org/abs/2604.23477v1)|null|
+|**2026-04-26 00:05:53**|**SEMA-SQL: Beyond Traditional Relational Querying with Large Language Models**|Yin Lin et.al.|[2604.23477v2](http://arxiv.org/abs/2604.23477v2)|null|
 |**2026-04-24 08:32:47**|**A Nationwide Japanese Medical Claims Foundation Model: Balancing Model Scaling and Task-Specific Computational Efficiency**|Nanae Aratake et.al.|[2604.22348v1](http://arxiv.org/abs/2604.22348v1)|null|
 |**2026-04-24 06:47:00**|**Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling**|Matilde Fiore et.al.|[2604.22882v1](http://arxiv.org/abs/2604.22882v1)|null|
 |**2026-04-23 21:34:36**|**Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents**|Seyed Moein Abtahi et.al.|[2604.22085v1](http://arxiv.org/abs/2604.22085v1)|null|

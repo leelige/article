@@ -2,6 +2,9 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-14 16:25:32**|**SemaTune: Semantic-Aware Online OS Tuning with Large Language Models**|Georgios Liargkovas et.al.|[2605.15026v1](http://arxiv.org/abs/2605.15026v1)|null|
+|**2026-05-14 05:55:36**|**Tunable high-$Q$ Janus-to-chiral bound states in the continuum in bilayer PhCs**|Zhexing Dong et.al.|[2605.14412v1](http://arxiv.org/abs/2605.14412v1)|null|
+|**2026-05-13 09:48:33**|**Physics Guided Generative Optimization for Trotter Suzuki Decomposition**|WenBin Yan et.al.|[2605.13268v1](http://arxiv.org/abs/2605.13268v1)|null|
 |**2026-05-12 17:35:21**|**Equivariant Space Group and Hamiltonian for Collinear Magnetic Systems**|Chaoxi Cui et.al.|[2605.12440v1](http://arxiv.org/abs/2605.12440v1)|null|
 |**2026-05-11 18:00:01**|**Valley-Controlled Viscosity of Two-Dimensional Dirac Fluids**|Alexey Ermakov et.al.|[2605.11069v1](http://arxiv.org/abs/2605.11069v1)|null|
 |**2026-05-11 02:05:30**|**M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models**|Junjian Wang et.al.|[2605.09879v1](http://arxiv.org/abs/2605.09879v1)|[link](https://github.com/laplucky/M2A.git)|
@@ -29,6 +32,3 @@
 |**2026-03-16 12:27:25**|**Velocity-tunable exciton-photon hybridization in cathodoluminescence**|Sven Ebel et.al.|[2603.15191v1](http://arxiv.org/abs/2603.15191v1)|null|
 |**2026-03-13 18:45:13**|**Dissipative Nonlinear Phononics: Nonequilibrium Quasiperiodic Order in Light-Driven Spin-Phonon System**|Brayan I. Eraso-Solarte et.al.|[2603.13513v1](http://arxiv.org/abs/2603.13513v1)|null|
 |**2026-03-12 16:02:35**|**Directional Manipulation of a Staggered Charge Density Wave and Kondo Resonance in UTe2**|Nileema Sharma et.al.|[2603.12097v1](http://arxiv.org/abs/2603.12097v1)|null|
-|**2026-03-10 18:03:52**|**ALD Oxidant as A Tuning Knob for Memory Window Expansion in Ferroelectric FETs for Vertical NAND Applications**|Ranie Jeyakumar et.al.|[2603.10127v1](http://arxiv.org/abs/2603.10127v1)|null|
-|**2026-03-08 01:33:01**|**Adaptive Capacity Allocation for Vision Language Action Fine-tuning**|Donghoon Kim et.al.|[2603.07404v1](http://arxiv.org/abs/2603.07404v1)|null|
-|**2026-03-07 05:25:53**|**AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling**|Karthik Pattabiraman et.al.|[2603.07041v3](http://arxiv.org/abs/2603.07041v3)|null|
