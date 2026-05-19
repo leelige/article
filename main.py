@@ -4,6 +4,7 @@ from xml.dom.minidom import parseString
 import json.decoder
 import os.path
 import shutil
+from time import sleep
 
 try:
     from gevent import monkey
@@ -31,18 +32,80 @@ from config import (
     logger
 )
 
-def getResult(search_query='all:fake+news+OR+all:rumour', start=0, max_results=5, sortBy='submittedDate', sortOrder='descending'):
-    url = 'https://export.arxiv.org/api/query?search_query={}&start={}&max_results={}&sortBy={}&sortOrder={}'.format(
-        search_query, start, max_results, sortBy, sortOrder
+ARXIV_API_BASE_URLS = (
+    "https://export.arxiv.org/api/query",
+    "http://export.arxiv.org/api/query",
+)
+ARXIV_TIMEOUTS = (30, 60)
+ARXIV_HEADERS = {
+    "user-agent": "article-bot/1.0 (+https://github.com/leelige/article)"
+}
+DIRECT_REQUEST_KWARGS = {
+    "proxies": {"http": None, "https": None}
+}
+
+
+def _build_arxiv_query_url(
+        base_url: str,
+        search_query: str,
+        start: int,
+        max_results: int,
+        sortBy: str,
+        sortOrder: str,
+):
+    return (
+        f"{base_url}?search_query={search_query}"
+        f"&start={start}&max_results={max_results}"
+        f"&sortBy={sortBy}&sortOrder={sortOrder}"
     )
+
+
+def _fetch_arxiv_xml(search_query, start, max_results, sortBy, sortOrder):
+    last_error = None
+    with requests.Session() as session:
+        session.trust_env = False
+        for base_url in ARXIV_API_BASE_URLS:
+            url = _build_arxiv_query_url(
+                base_url=base_url,
+                search_query=search_query,
+                start=start,
+                max_results=max_results,
+                sortBy=sortBy,
+                sortOrder=sortOrder
+            )
+            for attempt, timeout in enumerate(ARXIV_TIMEOUTS, start=1):
+                try:
+                    print("-" * 10, url, f"(attempt {attempt}/{len(ARXIV_TIMEOUTS)})")
+                    response = session.get(
+                        url,
+                        headers=ARXIV_HEADERS,
+                        timeout=timeout,
+                        **DIRECT_REQUEST_KWARGS
+                    )
+                    response.raise_for_status()
+                    return response.text
+                except requests.RequestException as exc:
+                    last_error = exc
+                    logger.warning(
+                        f"arXiv request failed: url={url} attempt={attempt}/{len(ARXIV_TIMEOUTS)} "
+                        f"timeout={timeout}s error={exc}"
+                    )
+                    if attempt < len(ARXIV_TIMEOUTS):
+                        sleep(attempt)
+    if last_error:
+        raise last_error
+    raise RuntimeError("Failed to fetch arXiv XML for an unknown reason.")
+
+
+def getResult(search_query='all:fake+news+OR+all:rumour', start=0, max_results=5, sortBy='submittedDate', sortOrder='descending'):
     flag = True
-    print("-"*10, url)
-    headers = {
-        "user-agent": "article-bot/1.0 (+https://github.com/leelige/article)"
-    }
-    response = requests.get(url, headers=headers, timeout=30)
-    response.raise_for_status()
-    xml_data = response.text
+    xml_data = _fetch_arxiv_xml(
+        search_query=search_query,
+        start=start,
+        max_results=max_results,
+        sortBy=sortBy,
+        sortOrder=sortOrder
+    )
     DOMTree = parseString(xml_data)
 
     collection = DOMTree.documentElement
@@ -105,6 +168,23 @@ class ToolBox:
         return data
 
     @staticmethod
+    def docs_path(topic: str, subtopic: str) -> str:
+        return os.path.join(SERVER_PATH_DOCS, topic, f"{subtopic}.md")
+
+    @staticmethod
+    def get_cached_markdown(topic: str, subtopic: str):
+        path = ToolBox.docs_path(topic, subtopic)
+        if not os.path.exists(path):
+            return None
+        with open(path, "r", encoding="utf8") as f:
+            cached_markdown = f.read()
+        return cached_markdown if cached_markdown.strip() else None
+
+    @staticmethod
+    def count_markdown_papers(content: str) -> int:
+        return sum(1 for line in content.splitlines() if line.startswith("|**"))
+
+    @staticmethod
     def handle_html(url: str):
         if not ToolBox.paperswithcode_enabled:
             return {}
@@ -160,10 +240,28 @@ class CoroutineSpeedup:
     def runtime(self, context: dict):
         keyword_ = context.get("keyword")
         print("="*6, keyword_)
-        res, _ = getResult(
-            search_query=keyword_,
-            max_results=self.max_results
-        )
+        try:
+            res, _ = getResult(
+                search_query=keyword_,
+                max_results=self.max_results
+            )
+        except Exception as e:
+            cached_markdown = ToolBox.get_cached_markdown(
+                context["topic"], context["subtopic"])
+            if cached_markdown is not None:
+                cached_paper_count = ToolBox.count_markdown_papers(cached_markdown)
+                logger.warning(
+                    f"reuse cached markdown for topic=`{context['topic']}` "
+                    f"subtopic=`{context['subtopic']}` because arXiv fetch failed: {e}"
+                )
+                self.channel.put_nowait({
+                    "topic": context["topic"],
+                    "subtopic": context["subtopic"],
+                    "cached_markdown": cached_markdown,
+                    "cached_paper_count": cached_paper_count,
+                })
+                return
+            raise
         # count = 0
         # res = []
         # while True:
@@ -273,6 +371,18 @@ class CoroutineSpeedup:
         while not self.channel.empty():
             # 将上下文替换成 Markdown 语法文本
             context: dict = self.channel.get()
+            if context.get("cached_markdown") is not None:
+                self.paper_count += context.get("cached_paper_count", 0)
+                topic_hook = f"\n## {context['topic']}\n"
+                if not file_obj.get(topic_hook):
+                    file_obj[topic_hook] = topic_hook
+                file_obj[topic_hook] += context["cached_markdown"]
+
+                os.makedirs(os.path.join(SERVER_PATH_DOCS, f'{context["topic"]}'), exist_ok=True)
+                with open(ToolBox.docs_path(context["topic"], context["subtopic"]), 'w', encoding="utf8") as f:
+                    f.write(context["cached_markdown"])
+                continue
+
             self.paper_count += len(context["paper"])
             md_obj: dict = ot.to_markdown(context)
 
@@ -283,7 +393,7 @@ class CoroutineSpeedup:
 
             # 生成 mkdocs 所需文件
             os.makedirs(os.path.join(SERVER_PATH_DOCS, f'{context["topic"]}'), exist_ok=True)
-            with open(os.path.join(SERVER_PATH_DOCS, f'{context["topic"]}', f'{context["subtopic"]}.md'), 'w') as f:
+            with open(ToolBox.docs_path(context["topic"], context["subtopic"]), 'w', encoding="utf8") as f:
                 f.write(md_obj["content"])
                
         if self.paper_count == 0:

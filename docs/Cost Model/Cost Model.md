@@ -2,6 +2,9 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-18 17:01:34**|**Statistical Limits and Efficient Algorithms for Differentially Private Federated Learning**|Arnab Auddy et.al.|[2605.18656v1](http://arxiv.org/abs/2605.18656v1)|null|
+|**2026-05-18 02:49:04**|**Systematic Evaluation of the Quality of Synthetic Clinical Notes Rephrased by LLMs at Million-Note Scale**|Jinghui Liu et.al.|[2605.17775v1](http://arxiv.org/abs/2605.17775v1)|null|
+|**2026-05-14 20:54:40**|**From Feedback Loops to Policy Updates: Reinforcement Fine-Tuning for LLM-Based Alpha Factor Discovery**|Lingzhe Zhang et.al.|[2605.15412v1](http://arxiv.org/abs/2605.15412v1)|null|
 |**2026-05-12 11:35:59**|**On the Limitations of Large Language Models for Conceptual Database Modeling**|Arthur F. Siqueira et.al.|[2605.11986v1](http://arxiv.org/abs/2605.11986v1)|null|
 |**2026-05-12 06:42:00**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et.al.|[2605.11610v1](http://arxiv.org/abs/2605.11610v1)|null|
 |**2026-05-11 23:42:00**|**Much of Geospatial Web Search Is Beyond Traditional GIS**|Ilya Ilyankou et.al.|[2605.11336v1](http://arxiv.org/abs/2605.11336v1)|null|
@@ -12,7 +15,7 @@
 |**2026-05-10 21:25:28**|**LEVI: Stronger Search Architectures Can Substitute for Larger LLMs in Evolutionary Search**|Temoor Tanveer et.al.|[2605.09764v1](http://arxiv.org/abs/2605.09764v1)|[link](https://github.com/ttanv/levi)|
 |**2026-05-08 16:44:47**|**Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation**|Joon Ha Kim et.al.|[2605.07985v1](http://arxiv.org/abs/2605.07985v1)|null|
 |**2026-05-08 09:40:13**|**TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature**|Hanqing Zhao et.al.|[2605.07507v1](http://arxiv.org/abs/2605.07507v1)|null|
-|**2026-05-07 23:08:18**|**Self Driving Datasets: From 20 Million Papers to Nuanced Biomedical Knowledge at Scale**|Haydn Jones et.al.|[2605.07022v1](http://arxiv.org/abs/2605.07022v1)|[link](https://github.com/starling-labs/starling)|
+|**2026-05-07 23:08:18**|**Self-Driving Datasets: From 20 Million Papers to Nuanced Biomedical Knowledge at Scale**|Haydn Jones et.al.|[2605.07022v2](http://arxiv.org/abs/2605.07022v2)|[link](https://github.com/starling-labs/starling)|
 |**2026-05-07 06:24:29**|**Density diversity in training data governs thermodynamic transferability of machine learning interatomic potentials**|Minwoo Kim et.al.|[2605.05733v1](http://arxiv.org/abs/2605.05733v1)|null|
 |**2026-05-06 04:58:52**|**SecureMCP: A Policy-Enforced LLM Data Access Framework for AIoT Systems via Model Context Protocol**|Wonbae Kim et.al.|[2605.05260v1](http://arxiv.org/abs/2605.05260v1)|null|
 |**2026-04-30 17:25:50**|**Index-Assisted Stratified Sampling for Online Aggregation**|Yunnan Yu et.al.|[2604.28141v1](http://arxiv.org/abs/2604.28141v1)|null|
@@ -29,6 +32,3 @@
 |**2026-04-10 22:51:41**|**PLOP: Cost-Based Placement of Semantic Operators in Hybrid Query Plans**|Qiuyang Mang et.al.|[2604.09944v2](http://arxiv.org/abs/2604.09944v2)|null|
 |**2026-04-09 09:20:29**|**SynQL: A Controllable and Scalable Rule-Based Framework for SQL Workload Synthesis for Performance Benchmarking**|Kahan Mehta et.al.|[2604.08021v1](http://arxiv.org/abs/2604.08021v1)|null|
 |**2026-04-08 18:22:46**|**Healthcare AI for Automation or Allocation? A Transaction Cost Economics Framework**|Ari Ercole et.al.|[2604.16465v1](http://arxiv.org/abs/2604.16465v1)|null|
-|**2026-04-08 08:17:25**|**LASER: A Data-Centric Method for Low-Cost and Efficient SQL Rewriting based on SQL-GRPO**|Jiahui Li et.al.|[2604.06804v1](http://arxiv.org/abs/2604.06804v1)|null|
-|**2026-04-08 03:05:14**|**TiAb Review Plugin: A Browser-Based Tool for AI-Assisted Title and Abstract Screening**|Yuki Kataoka et.al.|[2604.08602v1](http://arxiv.org/abs/2604.08602v1)|null|
-|**2026-04-06 14:04:14**|**GPIR: Enabling Practical Private Information Retrieval with GPUs**|Hyesung Ji et.al.|[2604.04696v2](http://arxiv.org/abs/2604.04696v2)|null|

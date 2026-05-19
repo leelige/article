@@ -2,6 +2,8 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-18 04:07:00**|**Agentic Cost-Aware Query Planning with Knowledge Distillation for Big Data Analytics**|Mahdi Naser-Moghadasi et.al.|[2605.17831v1](http://arxiv.org/abs/2605.17831v1)|[link](https://github.com/mahdinaser/agentic-kd-planner)|
+|**2026-05-17 19:16:20**|**A Feature-Driven Framework for Software Fault Prediction**|Ahmad Nauman Ghazi et.al.|[2605.17611v1](http://arxiv.org/abs/2605.17611v1)|null|
 |**2026-05-13 21:57:38**|**A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**|Jiandong Chen et.al.|[2605.14147v1](http://arxiv.org/abs/2605.14147v1)|null|
 |**2026-05-13 17:07:00**|**Interpretable Machine Learning for Antepartum Prediction of Pregnancy-Associated Thrombotic Microangiopathy Using Routine Longitudinal Laboratory Data**|Chuanchuan Sun et.al.|[2605.13786v1](http://arxiv.org/abs/2605.13786v1)|null|
 |**2026-05-13 12:53:39**|**A Unified Three-Stage Machine Learning Framework for Diabetes Detection, Subtype Discrimination, and Cognitive-Metabolic Hypothesis Testing**|Vishal Pandey et.al.|[2605.13464v1](http://arxiv.org/abs/2605.13464v1)|null|
@@ -30,5 +32,3 @@
 |**2026-04-16 16:10:55**|**Understanding the regulation of star formation within TNG100 galaxies on kpc-scales using machine learning I: Global versus local**|Bryanne McDonough et.al.|[2604.15182v1](http://arxiv.org/abs/2604.15182v1)|null|
 |**2026-04-15 21:36:44**|**Robustness Analysis of Machine Learning Models for IoT Intrusion Detection Under Data Poisoning Attacks**|Fortunatus Aabangbio Wulnye et.al.|[2604.14444v1](http://arxiv.org/abs/2604.14444v1)|null|
 |**2026-04-15 02:15:28**|**Leveraging machine learning to estimate individualized treatment effects in cluster-randomized trials**|Changjun Li et.al.|[2604.13406v1](http://arxiv.org/abs/2604.13406v1)|null|
-|**2026-04-13 17:26:17**|**A Synthetic Conversational Smishing Dataset for Social Engineering Detection**|Carl Lochstampfor et.al.|[2604.11752v1](http://arxiv.org/abs/2604.11752v1)|null|
-|**2026-04-10 23:51:28**|**Human vs. Machine Deception: Distinguishing AI-Generated and Human-Written Fake News Using Ensemble Learning**|Samuel Jaeger et.al.|[2604.09960v1](http://arxiv.org/abs/2604.09960v1)|null|
