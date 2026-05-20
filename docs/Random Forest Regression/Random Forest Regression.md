@@ -2,6 +2,8 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-19 14:51:12**|**StruMPL: Multi-task Dense Regression under Disjoint Partial Supervision and MNAR Labels**|Reza M. Asiyabi et.al.|[2605.19931v1](http://arxiv.org/abs/2605.19931v1)|null|
+|**2026-05-19 03:19:30**|**Cross-Paradigm Knowledge Distillation: A Comprehensive Study of Bidirectional Transfer Between Random Forests and Deep Neural Networks for Big Data Applications**|Mahdi Naser Moghadasi et.al.|[2605.19299v1](http://arxiv.org/abs/2605.19299v1)|null|
 |**2026-05-18 04:07:00**|**Agentic Cost-Aware Query Planning with Knowledge Distillation for Big Data Analytics**|Mahdi Naser-Moghadasi et.al.|[2605.17831v1](http://arxiv.org/abs/2605.17831v1)|[link](https://github.com/mahdinaser/agentic-kd-planner)|
 |**2026-05-17 19:16:20**|**A Feature-Driven Framework for Software Fault Prediction**|Ahmad Nauman Ghazi et.al.|[2605.17611v1](http://arxiv.org/abs/2605.17611v1)|null|
 |**2026-05-13 21:57:38**|**A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**|Jiandong Chen et.al.|[2605.14147v1](http://arxiv.org/abs/2605.14147v1)|null|
@@ -30,5 +32,3 @@
 |**2026-04-19 04:32:06**|**Improving post-operative discharge destination prediction of geriatric patients with generative data augmentation**|Pegah Golchian et.al.|[2604.17250v1](http://arxiv.org/abs/2604.17250v1)|null|
 |**2026-04-17 08:20:44**|**ECG-Lens: Benchmarking ML & DL Models on PTB-XL Dataset**|Saloni Garg et.al.|[2604.15822v1](http://arxiv.org/abs/2604.15822v1)|null|
 |**2026-04-16 16:10:55**|**Understanding the regulation of star formation within TNG100 galaxies on kpc-scales using machine learning I: Global versus local**|Bryanne McDonough et.al.|[2604.15182v1](http://arxiv.org/abs/2604.15182v1)|null|
-|**2026-04-15 21:36:44**|**Robustness Analysis of Machine Learning Models for IoT Intrusion Detection Under Data Poisoning Attacks**|Fortunatus Aabangbio Wulnye et.al.|[2604.14444v1](http://arxiv.org/abs/2604.14444v1)|null|
-|**2026-04-15 02:15:28**|**Leveraging machine learning to estimate individualized treatment effects in cluster-randomized trials**|Changjun Li et.al.|[2604.13406v1](http://arxiv.org/abs/2604.13406v1)|null|

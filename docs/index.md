@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-05-19 20:12:18 Asia/Shanghai
+ 自动更新 @ 2026-05-20 18:39:25 Asia/Shanghai
 
 ## Cost Model
 
@@ -42,6 +42,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-19 17:44:55**|**Probing tunable Kerr nonlinearity in graphene Josephson junctions**|Priyanka Samanta et.al.|[2605.20155v1](http://arxiv.org/abs/2605.20155v1)|null|
+|**2026-05-19 07:34:08**|**C2CServe: Leveraging NVLink-C2C for Elastic Serverless LLM Serving on MIG**|Shutian Luo et.al.|[2605.19481v1](http://arxiv.org/abs/2605.19481v1)|null|
 |**2026-05-18 02:24:52**|**Memisis: Orchestrating and Evaluating Synthetic Data for Tabular Health Datasets**|Nitish Nagesh et.al.|[2605.17758v1](http://arxiv.org/abs/2605.17758v1)|null|
 |**2026-05-15 17:44:03**|**Acoustic spin resonance in polariton condensates**|D. A. Saltykova et.al.|[2605.16236v1](http://arxiv.org/abs/2605.16236v1)|null|
 |**2026-05-14 16:25:32**|**SemaTune: Semantic-Aware Online OS Tuning with Large Language Models**|Georgios Liargkovas et.al.|[2605.15026v1](http://arxiv.org/abs/2605.15026v1)|null|
@@ -70,14 +72,14 @@
 |**2026-03-20 16:30:15**|**Micromagnetic Modeling of Surface Acoustic Wave Driven Dynamics: Interplay of Strain, Magnetorotation, and Magnetic Anisotropy**|Florian Millo et.al.|[2603.20106v2](http://arxiv.org/abs/2603.20106v2)|null|
 |**2026-03-17 16:09:42**|**Fate of a Fractional Chern Insulator under Nonlocal Interactions in Synthetic Dimensions**|Patrick Liam Geraghty et.al.|[2603.16724v1](http://arxiv.org/abs/2603.16724v1)|null|
 |**2026-03-17 12:31:13**|**MFTune: An Efficient Multi-fidelity Framework for Spark SQL Configuration Tuning**|Beicheng Xu et.al.|[2603.16450v1](http://arxiv.org/abs/2603.16450v1)|null|
-|**2026-03-16 17:05:34**|**DOT: Dynamic Knob Selection and Online Sampling for Automated Database Tuning**|Yifan Wang et.al.|[2603.15540v1](http://arxiv.org/abs/2603.15540v1)|null|
-|**2026-03-16 12:27:25**|**Velocity-tunable exciton-photon hybridization in cathodoluminescence**|Sven Ebel et.al.|[2603.15191v1](http://arxiv.org/abs/2603.15191v1)|null|
 
 ## Random Forest Regression
 
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-19 14:51:12**|**StruMPL: Multi-task Dense Regression under Disjoint Partial Supervision and MNAR Labels**|Reza M. Asiyabi et.al.|[2605.19931v1](http://arxiv.org/abs/2605.19931v1)|null|
+|**2026-05-19 03:19:30**|**Cross-Paradigm Knowledge Distillation: A Comprehensive Study of Bidirectional Transfer Between Random Forests and Deep Neural Networks for Big Data Applications**|Mahdi Naser Moghadasi et.al.|[2605.19299v1](http://arxiv.org/abs/2605.19299v1)|null|
 |**2026-05-18 04:07:00**|**Agentic Cost-Aware Query Planning with Knowledge Distillation for Big Data Analytics**|Mahdi Naser-Moghadasi et.al.|[2605.17831v1](http://arxiv.org/abs/2605.17831v1)|[link](https://github.com/mahdinaser/agentic-kd-planner)|
 |**2026-05-17 19:16:20**|**A Feature-Driven Framework for Software Fault Prediction**|Ahmad Nauman Ghazi et.al.|[2605.17611v1](http://arxiv.org/abs/2605.17611v1)|null|
 |**2026-05-13 21:57:38**|**A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**|Jiandong Chen et.al.|[2605.14147v1](http://arxiv.org/abs/2605.14147v1)|null|
@@ -106,5 +108,3 @@
 |**2026-04-19 04:32:06**|**Improving post-operative discharge destination prediction of geriatric patients with generative data augmentation**|Pegah Golchian et.al.|[2604.17250v1](http://arxiv.org/abs/2604.17250v1)|null|
 |**2026-04-17 08:20:44**|**ECG-Lens: Benchmarking ML & DL Models on PTB-XL Dataset**|Saloni Garg et.al.|[2604.15822v1](http://arxiv.org/abs/2604.15822v1)|null|
 |**2026-04-16 16:10:55**|**Understanding the regulation of star formation within TNG100 galaxies on kpc-scales using machine learning I: Global versus local**|Bryanne McDonough et.al.|[2604.15182v1](http://arxiv.org/abs/2604.15182v1)|null|
-|**2026-04-15 21:36:44**|**Robustness Analysis of Machine Learning Models for IoT Intrusion Detection Under Data Poisoning Attacks**|Fortunatus Aabangbio Wulnye et.al.|[2604.14444v1](http://arxiv.org/abs/2604.14444v1)|null|
-|**2026-04-15 02:15:28**|**Leveraging machine learning to estimate individualized treatment effects in cluster-randomized trials**|Changjun Li et.al.|[2604.13406v1](http://arxiv.org/abs/2604.13406v1)|null|

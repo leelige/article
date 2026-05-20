@@ -2,6 +2,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-19 17:44:55**|**Probing tunable Kerr nonlinearity in graphene Josephson junctions**|Priyanka Samanta et.al.|[2605.20155v1](http://arxiv.org/abs/2605.20155v1)|null|
+|**2026-05-19 07:34:08**|**C2CServe: Leveraging NVLink-C2C for Elastic Serverless LLM Serving on MIG**|Shutian Luo et.al.|[2605.19481v1](http://arxiv.org/abs/2605.19481v1)|null|
 |**2026-05-18 02:24:52**|**Memisis: Orchestrating and Evaluating Synthetic Data for Tabular Health Datasets**|Nitish Nagesh et.al.|[2605.17758v1](http://arxiv.org/abs/2605.17758v1)|null|
 |**2026-05-15 17:44:03**|**Acoustic spin resonance in polariton condensates**|D. A. Saltykova et.al.|[2605.16236v1](http://arxiv.org/abs/2605.16236v1)|null|
 |**2026-05-14 16:25:32**|**SemaTune: Semantic-Aware Online OS Tuning with Large Language Models**|Georgios Liargkovas et.al.|[2605.15026v1](http://arxiv.org/abs/2605.15026v1)|null|
@@ -30,5 +32,3 @@
 |**2026-03-20 16:30:15**|**Micromagnetic Modeling of Surface Acoustic Wave Driven Dynamics: Interplay of Strain, Magnetorotation, and Magnetic Anisotropy**|Florian Millo et.al.|[2603.20106v2](http://arxiv.org/abs/2603.20106v2)|null|
 |**2026-03-17 16:09:42**|**Fate of a Fractional Chern Insulator under Nonlocal Interactions in Synthetic Dimensions**|Patrick Liam Geraghty et.al.|[2603.16724v1](http://arxiv.org/abs/2603.16724v1)|null|
 |**2026-03-17 12:31:13**|**MFTune: An Efficient Multi-fidelity Framework for Spark SQL Configuration Tuning**|Beicheng Xu et.al.|[2603.16450v1](http://arxiv.org/abs/2603.16450v1)|null|
-|**2026-03-16 17:05:34**|**DOT: Dynamic Knob Selection and Online Sampling for Automated Database Tuning**|Yifan Wang et.al.|[2603.15540v1](http://arxiv.org/abs/2603.15540v1)|null|
-|**2026-03-16 12:27:25**|**Velocity-tunable exciton-photon hybridization in cathodoluminescence**|Sven Ebel et.al.|[2603.15191v1](http://arxiv.org/abs/2603.15191v1)|null|
