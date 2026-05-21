@@ -1,12 +1,15 @@
 # arxiv-daily
- 自动更新 @ 2026-05-20 18:39:25 Asia/Shanghai
+ 自动更新 @ 2026-05-21 18:55:46 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-19 23:01:57**|**Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning**|Zichao Zeng et.al.|[2605.20551v1](http://arxiv.org/abs/2605.20551v1)|null|
+|**2026-05-19 19:10:30**|**PlanRAG-Audio: Planning and Retrieval Augmented Generation for Long-form Audio Understanding**| Masao et.al.|[2605.20414v1](http://arxiv.org/abs/2605.20414v1)|null|
 |**2026-05-18 17:01:34**|**Statistical Limits and Efficient Algorithms for Differentially Private Federated Learning**|Arnab Auddy et.al.|[2605.18656v1](http://arxiv.org/abs/2605.18656v1)|null|
+|**2026-05-18 04:19:41**|**Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search**|Jialin Lu et.al.|[2605.20244v1](http://arxiv.org/abs/2605.20244v1)|null|
 |**2026-05-18 02:49:04**|**Systematic Evaluation of the Quality of Synthetic Clinical Notes Rephrased by LLMs at Million-Note Scale**|Jinghui Liu et.al.|[2605.17775v1](http://arxiv.org/abs/2605.17775v1)|null|
 |**2026-05-14 20:54:40**|**From Feedback Loops to Policy Updates: Reinforcement Fine-Tuning for LLM-Based Alpha Factor Discovery**|Lingzhe Zhang et.al.|[2605.15412v1](http://arxiv.org/abs/2605.15412v1)|null|
 |**2026-05-12 11:35:59**|**On the Limitations of Large Language Models for Conceptual Database Modeling**|Arthur F. Siqueira et.al.|[2605.11986v1](http://arxiv.org/abs/2605.11986v1)|null|
@@ -33,9 +36,6 @@
 |**2026-04-23 04:59:16**|**Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture**|Robin Dey et.al.|[2604.21284v1](http://arxiv.org/abs/2604.21284v1)|null|
 |**2026-04-20 14:19:15**|**Predictive Modelling of Natural Medicinal Compounds for Alzheimer disease Using Machine Learning and Cheminformatics**|Hafiza Syeda Yusra Tirmizi et.al.|[2604.18316v2](http://arxiv.org/abs/2604.18316v2)|null|
 |**2026-04-16 15:44:13**|**DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency**|Boyan Li et.al.|[2604.15163v2](http://arxiv.org/abs/2604.15163v2)|null|
-|**2026-04-10 22:51:41**|**PLOP: Cost-Based Placement of Semantic Operators in Hybrid Query Plans**|Qiuyang Mang et.al.|[2604.09944v2](http://arxiv.org/abs/2604.09944v2)|null|
-|**2026-04-09 09:20:29**|**SynQL: A Controllable and Scalable Rule-Based Framework for SQL Workload Synthesis for Performance Benchmarking**|Kahan Mehta et.al.|[2604.08021v1](http://arxiv.org/abs/2604.08021v1)|null|
-|**2026-04-08 18:22:46**|**Healthcare AI for Automation or Allocation? A Transaction Cost Economics Framework**|Ari Ercole et.al.|[2604.16465v1](http://arxiv.org/abs/2604.16465v1)|null|
 
 ## Knob Tuning
 
@@ -55,7 +55,7 @@
 |**2026-05-10 17:43:56**|**Giant Rashba Splitting and Enhanced Nonlinear Berry-Phase Responses in Sliding-Tunable vdW MXene Heterostructures**|Ali Sufyan et.al.|[2605.09674v1](http://arxiv.org/abs/2605.09674v1)|null|
 |**2026-05-09 09:10:03**|**How You Begin is How You Reason: Driving Exploration in RLVR via Prefix-Tuned Priors**|Yifan Xu et.al.|[2605.08817v1](http://arxiv.org/abs/2605.08817v1)|null|
 |**2026-05-06 18:00:01**|**Engineering Quantum Many-Body Scars through Lattice Geometry**|Erick Parra Verde et.al.|[2605.05296v1](http://arxiv.org/abs/2605.05296v1)|null|
-|**2026-04-28 21:08:37**|**One knob to tune them all: Phase-controlled photon statistics and linewidth in partially pumped atomic ensembles**|Oksana Chelpanova et.al.|[2604.26117v1](http://arxiv.org/abs/2604.26117v1)|null|
+|**2026-04-28 21:08:37**|**One knob to tune them all: Phase-controlled photon statistics and linewidth in partially pumped atomic ensembles**|Oksana Chelpanova et.al.|[2604.26117v2](http://arxiv.org/abs/2604.26117v2)|null|
 |**2026-04-28 01:39:21**|**Tunable thermal conductivity through dual spin-phonon coupling in van der Waals ferromagnetic insulator Cr2Ge2Te6**|Zhongbin Wang et.al.|[2604.25115v1](http://arxiv.org/abs/2604.25115v1)|null|
 |**2026-04-27 14:22:14**|**Mass-Transfer Control With Microbubbles in Highly Turbulent Decaying Flows**|Vivek Kumar et.al.|[2604.24520v1](http://arxiv.org/abs/2604.24520v1)|null|
 |**2026-04-25 00:31:07**|**RKKY interaction in altermagnets with adiabatic electron-phonon coupling**|Bui D. Hoi et.al.|[2604.23082v1](http://arxiv.org/abs/2604.23082v1)|null|
@@ -78,6 +78,9 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-20 13:37:38**|**A Rigorous, Tractable Measure of Model Complexity**|Oskar Allerbo et.al.|[2605.21167v1](http://arxiv.org/abs/2605.21167v1)|null|
+|**2026-05-20 05:15:09**|**Decision-Path Patterns as Tree Reliability Signals: Path-based Adaptive Weighting for Random Forest Classification**|Youngjoon Park et.al.|[2605.20716v1](http://arxiv.org/abs/2605.20716v1)|null|
+|**2026-05-20 02:36:46**|**Application of Propensity Score Models and Causal Estimators in Observational Studies under Model Misspecification**|Apu Chandra Das et.al.|[2605.20633v1](http://arxiv.org/abs/2605.20633v1)|null|
 |**2026-05-19 14:51:12**|**StruMPL: Multi-task Dense Regression under Disjoint Partial Supervision and MNAR Labels**|Reza M. Asiyabi et.al.|[2605.19931v1](http://arxiv.org/abs/2605.19931v1)|null|
 |**2026-05-19 03:19:30**|**Cross-Paradigm Knowledge Distillation: A Comprehensive Study of Bidirectional Transfer Between Random Forests and Deep Neural Networks for Big Data Applications**|Mahdi Naser Moghadasi et.al.|[2605.19299v1](http://arxiv.org/abs/2605.19299v1)|null|
 |**2026-05-18 04:07:00**|**Agentic Cost-Aware Query Planning with Knowledge Distillation for Big Data Analytics**|Mahdi Naser-Moghadasi et.al.|[2605.17831v1](http://arxiv.org/abs/2605.17831v1)|[link](https://github.com/mahdinaser/agentic-kd-planner)|
@@ -99,12 +102,9 @@
 |**2026-05-06 01:59:09**|**Assessing Generalisation Capability of Machine Learning Models for Intrusion Detection**|Md Zakir Hossain et.al.|[2605.04407v1](http://arxiv.org/abs/2605.04407v1)|null|
 |**2026-05-04 14:04:59**|**LiteShield: Hybrid Feature Selection-Driven Lightweight Intrusion Detection for Resource-Constrained IoT Networks**|Dileepa Mabulage et.al.|[2605.02987v1](http://arxiv.org/abs/2605.02987v1)|null|
 |**2026-04-30 12:12:38**|**Data-Efficient Indentation Size Effect Correction in Steels Using Machine Learning and Physics-Guided Augmentation**|Radmir Karamov et.al.|[2604.27775v1](http://arxiv.org/abs/2604.27775v1)|null|
-|**2026-04-29 20:55:50**|**Evaluating TabPFN for Mild Cognitive Impairment to Alzheimer's Disease Conversion in Data Limited Settings**|Brad Ye et.al.|[2604.27195v1](http://arxiv.org/abs/2604.27195v1)|null|
+|**2026-04-29 20:55:50**|**Evaluating TabPFN for Mild Cognitive Impairment to Alzheimer's Disease Conversion in Data Limited Settings**|Brad Ye et.al.|[2604.27195v2](http://arxiv.org/abs/2604.27195v2)|null|
 |**2026-04-29 08:55:16**|**Beyond Accuracy: LLM Variability in Evidence Screening for Software Engineering SLRs**|Gilberto Sussumu Hida et.al.|[2604.27006v1](http://arxiv.org/abs/2604.27006v1)|null|
 |**2026-04-28 14:27:02**|**Bug-Report-Driven Fault Localization: Industrial Benchmarking and Lesson Learned at ABB Robotics**|Pernilla Hall et.al.|[2604.25700v2](http://arxiv.org/abs/2604.25700v2)|null|
 |**2026-04-24 22:48:10**|**DeepImagine: Learning Biomedical Reasoning via Successive Counterfactual Imagining**|Youze Zheng et.al.|[2604.23054v1](http://arxiv.org/abs/2604.23054v1)|null|
 |**2026-04-20 23:27:10**|**Predicting Redshift in Seyfert Galaxies Using Machine Learning**|Uzay Aydin et.al.|[2604.18910v1](http://arxiv.org/abs/2604.18910v1)|null|
 |**2026-04-20 14:19:15**|**Predictive Modelling of Natural Medicinal Compounds for Alzheimer disease Using Machine Learning and Cheminformatics**|Hafiza Syeda Yusra Tirmizi et.al.|[2604.18316v2](http://arxiv.org/abs/2604.18316v2)|null|
-|**2026-04-19 04:32:06**|**Improving post-operative discharge destination prediction of geriatric patients with generative data augmentation**|Pegah Golchian et.al.|[2604.17250v1](http://arxiv.org/abs/2604.17250v1)|null|
-|**2026-04-17 08:20:44**|**ECG-Lens: Benchmarking ML & DL Models on PTB-XL Dataset**|Saloni Garg et.al.|[2604.15822v1](http://arxiv.org/abs/2604.15822v1)|null|
-|**2026-04-16 16:10:55**|**Understanding the regulation of star formation within TNG100 galaxies on kpc-scales using machine learning I: Global versus local**|Bryanne McDonough et.al.|[2604.15182v1](http://arxiv.org/abs/2604.15182v1)|null|
