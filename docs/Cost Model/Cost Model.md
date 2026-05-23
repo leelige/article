@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-20 23:33:44**|**Barriers to Evidence in AI-Related Cases and the Privatization of Proof**|Sarah H. Cen et.al.|[2605.21816v1](http://arxiv.org/abs/2605.21816v1)|null|
 |**2026-05-19 23:01:57**|**Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning**|Zichao Zeng et.al.|[2605.20551v1](http://arxiv.org/abs/2605.20551v1)|null|
 |**2026-05-19 19:10:30**|**PlanRAG-Audio: Planning and Retrieval Augmented Generation for Long-form Audio Understanding**| Masao et.al.|[2605.20414v1](http://arxiv.org/abs/2605.20414v1)|null|
 |**2026-05-18 17:01:34**|**Statistical Limits and Efficient Algorithms for Differentially Private Federated Learning**|Arnab Auddy et.al.|[2605.18656v1](http://arxiv.org/abs/2605.18656v1)|null|
@@ -16,7 +17,7 @@
 |**2026-05-11 09:30:32**|**Overfitting by design: neural network density functionals for water**|Karim K. Alaa El-Din et.al.|[2605.10266v1](http://arxiv.org/abs/2605.10266v1)|null|
 |**2026-05-11 05:53:08**|**Neural-ISAM: A hybrid in-situ machine learning approach for complex manifold-based combustion models in LES of turbulent flames**|S. Trevor Fush et.al.|[2605.10028v1](http://arxiv.org/abs/2605.10028v1)|null|
 |**2026-05-10 21:25:28**|**LEVI: Stronger Search Architectures Can Substitute for Larger LLMs in Evolutionary Search**|Temoor Tanveer et.al.|[2605.09764v1](http://arxiv.org/abs/2605.09764v1)|[link](https://github.com/ttanv/levi)|
-|**2026-05-08 16:44:47**|**Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation**|Joon Ha Kim et.al.|[2605.07985v1](http://arxiv.org/abs/2605.07985v1)|null|
+|**2026-05-08 16:44:47**|**Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation**|Joon Ha Kim et.al.|[2605.07985v2](http://arxiv.org/abs/2605.07985v2)|[link](https://github.com/dooly-project)|
 |**2026-05-08 09:40:13**|**TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature**|Hanqing Zhao et.al.|[2605.07507v1](http://arxiv.org/abs/2605.07507v1)|null|
 |**2026-05-07 23:08:18**|**Self-Driving Datasets: From 20 Million Papers to Nuanced Biomedical Knowledge at Scale**|Haydn Jones et.al.|[2605.07022v2](http://arxiv.org/abs/2605.07022v2)|[link](https://github.com/starling-labs/starling)|
 |**2026-05-07 06:24:29**|**Density diversity in training data governs thermodynamic transferability of machine learning interatomic potentials**|Minwoo Kim et.al.|[2605.05733v1](http://arxiv.org/abs/2605.05733v1)|null|
@@ -31,4 +32,3 @@
 |**2026-04-23 08:24:54**|**An Alternate Agentic AI Architecture (It's About the Data)**|Fabian Wenz et.al.|[2604.21413v1](http://arxiv.org/abs/2604.21413v1)|null|
 |**2026-04-23 04:59:16**|**Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture**|Robin Dey et.al.|[2604.21284v1](http://arxiv.org/abs/2604.21284v1)|null|
 |**2026-04-20 14:19:15**|**Predictive Modelling of Natural Medicinal Compounds for Alzheimer disease Using Machine Learning and Cheminformatics**|Hafiza Syeda Yusra Tirmizi et.al.|[2604.18316v2](http://arxiv.org/abs/2604.18316v2)|null|
-|**2026-04-16 15:44:13**|**DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency**|Boyan Li et.al.|[2604.15163v2](http://arxiv.org/abs/2604.15163v2)|null|
