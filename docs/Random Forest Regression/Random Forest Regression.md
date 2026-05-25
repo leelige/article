@@ -2,6 +2,8 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-21 21:35:08**|**DreamerNLplus: Interpretable Modeling of Mental Health Dynamics from Social Media Timelines using Hybrid Rule-Based and RAG Methods**|Maryia Zhyrko et.al.|[2605.23052v1](http://arxiv.org/abs/2605.23052v1)|[link](https://github.com/4dpicture/CLPsych2026)|
+|**2026-05-21 20:16:14**|**Botnet Detection on CTU-13 Using Lightweight Machine Learning Models**|Subhash Gurappa et.al.|[2605.23004v1](http://arxiv.org/abs/2605.23004v1)|null|
 |**2026-05-21 17:18:57**|**Cyber-Physical Anomaly Detection in IoT-Enabled Smart Grids Using Machine Learning and Metaheuristic Feature Optimization**|Adis Alihodžić et.al.|[2605.22749v1](http://arxiv.org/abs/2605.22749v1)|null|
 |**2026-05-20 17:12:48**|**Calibration, Uncertainty Communication, and Deployment Readiness in CKD Risk Prediction: A Framework Evaluation Study**|Michael O. Eniolade et.al.|[2605.21566v1](http://arxiv.org/abs/2605.21566v1)|null|
 |**2026-05-20 13:37:38**|**A Rigorous, Tractable Measure of Model Complexity**|Oskar Allerbo et.al.|[2605.21167v1](http://arxiv.org/abs/2605.21167v1)|null|
@@ -16,7 +18,7 @@
 |**2026-05-13 12:53:39**|**A Unified Three-Stage Machine Learning Framework for Diabetes Detection, Subtype Discrimination, and Cognitive-Metabolic Hypothesis Testing**|Vishal Pandey et.al.|[2605.13464v1](http://arxiv.org/abs/2605.13464v1)|null|
 |**2026-05-12 09:26:00**|**Minimax Rates and Spectral Distillation for Tree Ensembles**|Binh Duc Vu et.al.|[2605.11841v1](http://arxiv.org/abs/2605.11841v1)|null|
 |**2026-05-11 18:01:21**|**ASD-Bench: A Four-Axis Comprehensive Benchmark of AI Models for Autism Spectrum Disorder**|Shubhankit Singh et.al.|[2605.11091v1](http://arxiv.org/abs/2605.11091v1)|null|
-|**2026-05-11 14:55:48**|**MCPShield: Content-Aware Attack Detection for LLM Agent Tool-Call Traffic**|Sultan Zavrak et.al.|[2605.11053v2](http://arxiv.org/abs/2605.11053v2)|null|
+|**2026-05-11 14:55:48**|**Content-Aware Attack Detection in LLM Agent Tool-Call Traffic: An Empirical Study of Features, Architectures, and Evaluation Protocols**|Sultan Zavrak et.al.|[2605.11053v3](http://arxiv.org/abs/2605.11053v3)|null|
 |**2026-05-10 23:14:52**|**Analyzing the Impact of Release Season and Production Budget on Movie Revenue and Profitability**|Mohammad Jalili Torkamani et.al.|[2605.12551v1](http://arxiv.org/abs/2605.12551v1)|null|
 |**2026-05-09 03:58:50**|**Optimised Support Vector Regression for California Housing Price Prediction: The Critical Role of Feature Engineering and Hyperparameter Tuning**|Emmanuel Adutwum et.al.|[2605.08660v1](http://arxiv.org/abs/2605.08660v1)|null|
 |**2026-05-09 02:49:12**|**Fatigue-Related Reaction Time Forecasting via EEG Functional Connectivity in Sustained Attention Task**|Bo Sun et.al.|[2605.08631v1](http://arxiv.org/abs/2605.08631v1)|null|
@@ -30,5 +32,3 @@
 |**2026-04-30 12:12:38**|**Data-Efficient Indentation Size Effect Correction in Steels Using Machine Learning and Physics-Guided Augmentation**|Radmir Karamov et.al.|[2604.27775v1](http://arxiv.org/abs/2604.27775v1)|null|
 |**2026-04-29 20:55:50**|**Evaluating TabPFN for Mild Cognitive Impairment to Alzheimer's Disease Conversion in Data Limited Settings**|Brad Ye et.al.|[2604.27195v2](http://arxiv.org/abs/2604.27195v2)|null|
 |**2026-04-29 08:55:16**|**Beyond Accuracy: LLM Variability in Evidence Screening for Software Engineering SLRs**|Gilberto Sussumu Hida et.al.|[2604.27006v1](http://arxiv.org/abs/2604.27006v1)|null|
-|**2026-04-28 14:27:02**|**Bug-Report-Driven Fault Localization: Industrial Benchmarking and Lesson Learned at ABB Robotics**|Pernilla Hall et.al.|[2604.25700v2](http://arxiv.org/abs/2604.25700v2)|null|
-|**2026-04-24 22:48:10**|**DeepImagine: Learning Biomedical Reasoning via Successive Counterfactual Imagining**|Youze Zheng et.al.|[2604.23054v1](http://arxiv.org/abs/2604.23054v1)|null|

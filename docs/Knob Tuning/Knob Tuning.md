@@ -2,6 +2,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-22 13:29:57**|**Close correlation between giant magnetostriction and the microstructure in Fe-Ga melt-spun ribbons**|Likun Chen et.al.|[2605.23624v1](http://arxiv.org/abs/2605.23624v1)|null|
+|**2026-05-22 06:40:00**|**BCTuner: LLM-Guided Monte Carlo Tree Search for Efficient Blockchain Knob Tuning**|Yaoyi Deng et.al.|[2605.23280v1](http://arxiv.org/abs/2605.23280v1)|null|
 |**2026-05-19 17:44:55**|**Probing tunable Kerr nonlinearity in graphene Josephson junctions**|Priyanka Samanta et.al.|[2605.20155v1](http://arxiv.org/abs/2605.20155v1)|null|
 |**2026-05-19 07:34:08**|**C2CServe: Leveraging NVLink-C2C for Elastic Serverless LLM Serving on MIG**|Shutian Luo et.al.|[2605.19481v1](http://arxiv.org/abs/2605.19481v1)|null|
 |**2026-05-18 02:24:52**|**Memisis: Orchestrating and Evaluating Synthetic Data for Tabular Health Datasets**|Nitish Nagesh et.al.|[2605.17758v1](http://arxiv.org/abs/2605.17758v1)|null|
@@ -30,5 +32,3 @@
 |**2026-03-26 18:29:35**|**Magnetism and magnetoelastic effect in 2D van der Waals multiferroic CuCrP2S6**|Jiasen Guo et.al.|[2603.25817v1](http://arxiv.org/abs/2603.25817v1)|null|
 |**2026-03-24 02:00:34**|**Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents**|Xinyi Zhang et.al.|[2603.22708v1](http://arxiv.org/abs/2603.22708v1)|null|
 |**2026-03-20 16:30:15**|**Micromagnetic Modeling of Surface Acoustic Wave Driven Dynamics: Interplay of Strain, Magnetorotation, and Magnetic Anisotropy**|Florian Millo et.al.|[2603.20106v2](http://arxiv.org/abs/2603.20106v2)|null|
-|**2026-03-17 16:09:42**|**Fate of a Fractional Chern Insulator under Nonlocal Interactions in Synthetic Dimensions**|Patrick Liam Geraghty et.al.|[2603.16724v1](http://arxiv.org/abs/2603.16724v1)|null|
-|**2026-03-17 12:31:13**|**MFTune: An Efficient Multi-fidelity Framework for Spark SQL Configuration Tuning**|Beicheng Xu et.al.|[2603.16450v1](http://arxiv.org/abs/2603.16450v1)|null|
