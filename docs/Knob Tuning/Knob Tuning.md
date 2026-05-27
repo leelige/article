@@ -2,6 +2,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-26 06:38:48**|**Designing Quantum Matter in Pyrochlore Iridates: A Perspective on Recent Thin-Film Advances**|Xiaoran Liu et.al.|[2605.26603v1](http://arxiv.org/abs/2605.26603v1)|null|
+|**2026-05-23 03:36:01**|**Light-Driven Ferroic Switching Enables Reversible Control of Hydrogen Adsorption Thermodynamics**|Xueqing Wan et.al.|[2605.24378v1](http://arxiv.org/abs/2605.24378v1)|null|
 |**2026-05-22 13:29:57**|**Close correlation between giant magnetostriction and the microstructure in Fe-Ga melt-spun ribbons**|Likun Chen et.al.|[2605.23624v1](http://arxiv.org/abs/2605.23624v1)|null|
 |**2026-05-22 06:40:00**|**BCTuner: LLM-Guided Monte Carlo Tree Search for Efficient Blockchain Knob Tuning**|Yaoyi Deng et.al.|[2605.23280v1](http://arxiv.org/abs/2605.23280v1)|null|
 |**2026-05-19 17:44:55**|**Probing tunable Kerr nonlinearity in graphene Josephson junctions**|Priyanka Samanta et.al.|[2605.20155v1](http://arxiv.org/abs/2605.20155v1)|null|
@@ -30,5 +32,3 @@
 |**2026-03-28 06:00:53**|**WAter: A Workload-Adaptive Knob Tuning System based on Workload Compression**|Yibo Wang et.al.|[2603.28809v1](http://arxiv.org/abs/2603.28809v1)|null|
 |**2026-03-27 05:33:30**|**Repeater-Assisted MIMO Can Also Boost Frequency Diversity: A Semi-Analytic Study**|Hiroki Iimori et.al.|[2603.26087v1](http://arxiv.org/abs/2603.26087v1)|null|
 |**2026-03-26 18:29:35**|**Magnetism and magnetoelastic effect in 2D van der Waals multiferroic CuCrP2S6**|Jiasen Guo et.al.|[2603.25817v1](http://arxiv.org/abs/2603.25817v1)|null|
-|**2026-03-24 02:00:34**|**Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents**|Xinyi Zhang et.al.|[2603.22708v1](http://arxiv.org/abs/2603.22708v1)|null|
-|**2026-03-20 16:30:15**|**Micromagnetic Modeling of Surface Acoustic Wave Driven Dynamics: Interplay of Strain, Magnetorotation, and Magnetic Anisotropy**|Florian Millo et.al.|[2603.20106v2](http://arxiv.org/abs/2603.20106v2)|null|

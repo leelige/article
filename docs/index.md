@@ -1,14 +1,16 @@
 # arxiv-daily
- 自动更新 @ 2026-05-25 19:40:03 Asia/Shanghai
+ 自动更新 @ 2026-05-27 19:26:26 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-26 16:09:58**|**At-Scale Data-Driven Exploration of High-Voltage Cathode-Active Materials for Sodium Batteries**|Suchona Akter et.al.|[2605.27229v1](http://arxiv.org/abs/2605.27229v1)|null|
+|**2026-05-24 00:33:54**|**Parameter-Efficient VLMs for Gastrointestinal Endoscopy: Medical Image Generation and Clinical Visual Question Answering**|Ojonugwa Oluwafemi Ejiga Peter et.al.|[2605.24792v1](http://arxiv.org/abs/2605.24792v1)|null|
 |**2026-05-20 23:33:44**|**Barriers to Evidence in AI-Related Cases and the Privatization of Proof**|Sarah H. Cen et.al.|[2605.21816v1](http://arxiv.org/abs/2605.21816v1)|null|
 |**2026-05-19 23:01:57**|**Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning**|Zichao Zeng et.al.|[2605.20551v1](http://arxiv.org/abs/2605.20551v1)|null|
-|**2026-05-19 19:10:30**|**PlanRAG-Audio: Planning and Retrieval Augmented Generation for Long-form Audio Understanding**| Masao et.al.|[2605.20414v1](http://arxiv.org/abs/2605.20414v1)|null|
+|**2026-05-19 19:10:30**|**PlanRAG-Audio: Planning and Retrieval Augmented Generation for Long-form Audio Understanding**|Masao Someki et.al.|[2605.20414v2](http://arxiv.org/abs/2605.20414v2)|null|
 |**2026-05-18 17:01:34**|**Statistical Limits and Efficient Algorithms for Differentially Private Federated Learning**|Arnab Auddy et.al.|[2605.18656v1](http://arxiv.org/abs/2605.18656v1)|null|
 |**2026-05-18 04:19:41**|**Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search**|Jialin Lu et.al.|[2605.20244v1](http://arxiv.org/abs/2605.20244v1)|null|
 |**2026-05-18 02:49:04**|**Systematic Evaluation of the Quality of Synthetic Clinical Notes Rephrased by LLMs at Million-Note Scale**|Jinghui Liu et.al.|[2605.17775v1](http://arxiv.org/abs/2605.17775v1)|null|
@@ -34,14 +36,14 @@
 |**2026-04-24 06:47:00**|**Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling**|Matilde Fiore et.al.|[2604.22882v1](http://arxiv.org/abs/2604.22882v1)|null|
 |**2026-04-23 21:34:36**|**Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents**|Seyed Moein Abtahi et.al.|[2604.22085v1](http://arxiv.org/abs/2604.22085v1)|null|
 |**2026-04-23 08:24:54**|**An Alternate Agentic AI Architecture (It's About the Data)**|Fabian Wenz et.al.|[2604.21413v1](http://arxiv.org/abs/2604.21413v1)|null|
-|**2026-04-23 04:59:16**|**Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture**|Robin Dey et.al.|[2604.21284v1](http://arxiv.org/abs/2604.21284v1)|null|
-|**2026-04-20 14:19:15**|**Predictive Modelling of Natural Medicinal Compounds for Alzheimer disease Using Machine Learning and Cheminformatics**|Hafiza Syeda Yusra Tirmizi et.al.|[2604.18316v2](http://arxiv.org/abs/2604.18316v2)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-26 06:38:48**|**Designing Quantum Matter in Pyrochlore Iridates: A Perspective on Recent Thin-Film Advances**|Xiaoran Liu et.al.|[2605.26603v1](http://arxiv.org/abs/2605.26603v1)|null|
+|**2026-05-23 03:36:01**|**Light-Driven Ferroic Switching Enables Reversible Control of Hydrogen Adsorption Thermodynamics**|Xueqing Wan et.al.|[2605.24378v1](http://arxiv.org/abs/2605.24378v1)|null|
 |**2026-05-22 13:29:57**|**Close correlation between giant magnetostriction and the microstructure in Fe-Ga melt-spun ribbons**|Likun Chen et.al.|[2605.23624v1](http://arxiv.org/abs/2605.23624v1)|null|
 |**2026-05-22 06:40:00**|**BCTuner: LLM-Guided Monte Carlo Tree Search for Efficient Blockchain Knob Tuning**|Yaoyi Deng et.al.|[2605.23280v1](http://arxiv.org/abs/2605.23280v1)|null|
 |**2026-05-19 17:44:55**|**Probing tunable Kerr nonlinearity in graphene Josephson junctions**|Priyanka Samanta et.al.|[2605.20155v1](http://arxiv.org/abs/2605.20155v1)|null|
@@ -70,20 +72,21 @@
 |**2026-03-28 06:00:53**|**WAter: A Workload-Adaptive Knob Tuning System based on Workload Compression**|Yibo Wang et.al.|[2603.28809v1](http://arxiv.org/abs/2603.28809v1)|null|
 |**2026-03-27 05:33:30**|**Repeater-Assisted MIMO Can Also Boost Frequency Diversity: A Semi-Analytic Study**|Hiroki Iimori et.al.|[2603.26087v1](http://arxiv.org/abs/2603.26087v1)|null|
 |**2026-03-26 18:29:35**|**Magnetism and magnetoelastic effect in 2D van der Waals multiferroic CuCrP2S6**|Jiasen Guo et.al.|[2603.25817v1](http://arxiv.org/abs/2603.25817v1)|null|
-|**2026-03-24 02:00:34**|**Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents**|Xinyi Zhang et.al.|[2603.22708v1](http://arxiv.org/abs/2603.22708v1)|null|
-|**2026-03-20 16:30:15**|**Micromagnetic Modeling of Surface Acoustic Wave Driven Dynamics: Interplay of Strain, Magnetorotation, and Magnetic Anisotropy**|Florian Millo et.al.|[2603.20106v2](http://arxiv.org/abs/2603.20106v2)|null|
 
 ## Random Forest Regression
 
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-26 14:12:10**|**Analysis of Short-term Solar Activity Variability and Estimating the Timings of the Next Enhanced Bursts**|Juie Shetye et.al.|[2605.27057v1](http://arxiv.org/abs/2605.27057v1)|null|
+|**2026-05-25 00:03:52**|**Electricity Consumption Forecasting: An Approach Using Cooperative Ensemble Learning with SHapley Additive exPlanations**|Eduardo Luiz Alba et.al.|[2605.25305v1](http://arxiv.org/abs/2605.25305v1)|null|
+|**2026-05-24 07:31:57**|**Explainable Retinal Imaging for Prediction of Multi-Organ Dysfunction in Type 2 Diabetes**|Mini Han Wang et.al.|[2605.24912v1](http://arxiv.org/abs/2605.24912v1)|[link](https://github.com/MiniHanWang/Type-2-Diabetes-1.git)|
 |**2026-05-21 21:35:08**|**DreamerNLplus: Interpretable Modeling of Mental Health Dynamics from Social Media Timelines using Hybrid Rule-Based and RAG Methods**|Maryia Zhyrko et.al.|[2605.23052v1](http://arxiv.org/abs/2605.23052v1)|[link](https://github.com/4dpicture/CLPsych2026)|
 |**2026-05-21 20:16:14**|**Botnet Detection on CTU-13 Using Lightweight Machine Learning Models**|Subhash Gurappa et.al.|[2605.23004v1](http://arxiv.org/abs/2605.23004v1)|null|
 |**2026-05-21 17:18:57**|**Cyber-Physical Anomaly Detection in IoT-Enabled Smart Grids Using Machine Learning and Metaheuristic Feature Optimization**|Adis Alihodžić et.al.|[2605.22749v1](http://arxiv.org/abs/2605.22749v1)|null|
 |**2026-05-20 17:12:48**|**Calibration, Uncertainty Communication, and Deployment Readiness in CKD Risk Prediction: A Framework Evaluation Study**|Michael O. Eniolade et.al.|[2605.21566v1](http://arxiv.org/abs/2605.21566v1)|null|
 |**2026-05-20 13:37:38**|**A Rigorous, Tractable Measure of Model Complexity**|Oskar Allerbo et.al.|[2605.21167v1](http://arxiv.org/abs/2605.21167v1)|null|
-|**2026-05-20 05:15:09**|**Decision-Path Patterns as Tree Reliability Signals: Path-based Adaptive Weighting for Random Forest Classification**|Youngjoon Park et.al.|[2605.20716v2](http://arxiv.org/abs/2605.20716v2)|null|
+|**2026-05-20 05:15:09**|**Decision-Path Patterns as Tree Reliability Signals: Path-based Adaptive Weighting for Random Forest Classification**|Youngjoon Park et.al.|[2605.20716v3](http://arxiv.org/abs/2605.20716v3)|null|
 |**2026-05-20 02:36:46**|**Application of Propensity Score Models and Causal Estimators in Observational Studies under Model Misspecification**|Apu Chandra Das et.al.|[2605.20633v1](http://arxiv.org/abs/2605.20633v1)|null|
 |**2026-05-19 14:51:12**|**StruMPL: Multi-task Dense Regression under Disjoint Partial Supervision and MNAR Labels**|Reza M. Asiyabi et.al.|[2605.19931v1](http://arxiv.org/abs/2605.19931v1)|null|
 |**2026-05-19 03:19:30**|**Cross-Paradigm Knowledge Distillation: A Comprehensive Study of Bidirectional Transfer Between Random Forests and Deep Neural Networks for Big Data Applications**|Mahdi Naser Moghadasi et.al.|[2605.19299v1](http://arxiv.org/abs/2605.19299v1)|null|
@@ -92,6 +95,7 @@
 |**2026-05-13 21:57:38**|**A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**|Jiandong Chen et.al.|[2605.14147v1](http://arxiv.org/abs/2605.14147v1)|null|
 |**2026-05-13 17:07:00**|**Interpretable Machine Learning for Antepartum Prediction of Pregnancy-Associated Thrombotic Microangiopathy Using Routine Longitudinal Laboratory Data**|Chuanchuan Sun et.al.|[2605.13786v1](http://arxiv.org/abs/2605.13786v1)|null|
 |**2026-05-13 12:53:39**|**A Unified Three-Stage Machine Learning Framework for Diabetes Detection, Subtype Discrimination, and Cognitive-Metabolic Hypothesis Testing**|Vishal Pandey et.al.|[2605.13464v1](http://arxiv.org/abs/2605.13464v1)|null|
+|**2026-05-13 10:37:32**|**Physics-Guided Concentration Inference from Resistance Transients in a Mixed-Phase SnO-SnO$_2$ Carbon Monoxide Sensor with p-n Switching**|Sani Biswas et.al.|[2605.23971v1](http://arxiv.org/abs/2605.23971v1)|null|
 |**2026-05-12 09:26:00**|**Minimax Rates and Spectral Distillation for Tree Ensembles**|Binh Duc Vu et.al.|[2605.11841v1](http://arxiv.org/abs/2605.11841v1)|null|
 |**2026-05-11 18:01:21**|**ASD-Bench: A Four-Axis Comprehensive Benchmark of AI Models for Autism Spectrum Disorder**|Shubhankit Singh et.al.|[2605.11091v1](http://arxiv.org/abs/2605.11091v1)|null|
 |**2026-05-11 14:55:48**|**Content-Aware Attack Detection in LLM Agent Tool-Call Traffic: An Empirical Study of Features, Architectures, and Evaluation Protocols**|Sultan Zavrak et.al.|[2605.11053v3](http://arxiv.org/abs/2605.11053v3)|null|
@@ -104,7 +108,3 @@
 |**2026-05-07 15:36:17**|**COVID-19 Infodemic. Understanding content features in detecting fake news using a machine learning approach**|Vimala Balakrishnan et.al.|[2605.06435v1](http://arxiv.org/abs/2605.06435v1)|null|
 |**2026-05-07 14:26:10**|**TinyBayes: Closed-Form Bayesian Inference via Jacobi Prior for Real-Time Image Classification on Edge Devices**|Shouvik Sardar et.al.|[2605.06333v1](http://arxiv.org/abs/2605.06333v1)|[link](https://github.com/shouvik-sardar/TinyBayes)|
 |**2026-05-06 01:59:09**|**Assessing Generalisation Capability of Machine Learning Models for Intrusion Detection**|Md Zakir Hossain et.al.|[2605.04407v1](http://arxiv.org/abs/2605.04407v1)|null|
-|**2026-05-04 14:04:59**|**LiteShield: Hybrid Feature Selection-Driven Lightweight Intrusion Detection for Resource-Constrained IoT Networks**|Dileepa Mabulage et.al.|[2605.02987v1](http://arxiv.org/abs/2605.02987v1)|null|
-|**2026-04-30 12:12:38**|**Data-Efficient Indentation Size Effect Correction in Steels Using Machine Learning and Physics-Guided Augmentation**|Radmir Karamov et.al.|[2604.27775v1](http://arxiv.org/abs/2604.27775v1)|null|
-|**2026-04-29 20:55:50**|**Evaluating TabPFN for Mild Cognitive Impairment to Alzheimer's Disease Conversion in Data Limited Settings**|Brad Ye et.al.|[2604.27195v2](http://arxiv.org/abs/2604.27195v2)|null|
-|**2026-04-29 08:55:16**|**Beyond Accuracy: LLM Variability in Evidence Screening for Software Engineering SLRs**|Gilberto Sussumu Hida et.al.|[2604.27006v1](http://arxiv.org/abs/2604.27006v1)|null|
