@@ -2,6 +2,8 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-27 14:46:35**|**Token Optimization Strategies for LLM-Based Oracle-to-PostgreSQL Migration**|Oleg Grynets et.al.|[2605.28557v1](http://arxiv.org/abs/2605.28557v1)|null|
+|**2026-05-27 08:50:02**|**OccuReward: LLM-Guided Occupant-Centric Reward Shaping for Demographic Equity in Grid-Interactive Buildings**|Shadmehr Zaregarizi et.al.|[2605.28168v1](http://arxiv.org/abs/2605.28168v1)|null|
 |**2026-05-26 16:09:58**|**At-Scale Data-Driven Exploration of High-Voltage Cathode-Active Materials for Sodium Batteries**|Suchona Akter et.al.|[2605.27229v1](http://arxiv.org/abs/2605.27229v1)|null|
 |**2026-05-24 00:33:54**|**Parameter-Efficient VLMs for Gastrointestinal Endoscopy: Medical Image Generation and Clinical Visual Question Answering**|Ojonugwa Oluwafemi Ejiga Peter et.al.|[2605.24792v1](http://arxiv.org/abs/2605.24792v1)|null|
 |**2026-05-20 23:33:44**|**Barriers to Evidence in AI-Related Cases and the Privatization of Proof**|Sarah H. Cen et.al.|[2605.21816v1](http://arxiv.org/abs/2605.21816v1)|null|
@@ -30,5 +32,3 @@
 |**2026-04-26 00:05:53**|**SEMA-SQL: Beyond Traditional Relational Querying with Large Language Models**|Yin Lin et.al.|[2604.23477v2](http://arxiv.org/abs/2604.23477v2)|null|
 |**2026-04-24 08:32:47**|**A Nationwide Japanese Medical Claims Foundation Model: Balancing Model Scaling and Task-Specific Computational Efficiency**|Nanae Aratake et.al.|[2604.22348v1](http://arxiv.org/abs/2604.22348v1)|null|
 |**2026-04-24 06:47:00**|**Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling**|Matilde Fiore et.al.|[2604.22882v1](http://arxiv.org/abs/2604.22882v1)|null|
-|**2026-04-23 21:34:36**|**Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents**|Seyed Moein Abtahi et.al.|[2604.22085v1](http://arxiv.org/abs/2604.22085v1)|null|
-|**2026-04-23 08:24:54**|**An Alternate Agentic AI Architecture (It's About the Data)**|Fabian Wenz et.al.|[2604.21413v1](http://arxiv.org/abs/2604.21413v1)|null|

@@ -2,6 +2,7 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-27 08:39:47**|**Temporal Hyperbolic Graph Representation Learning for Scale-Free Internet Routing and Delay Prediction**|Yi-Ling Kuo et.al.|[2605.28155v1](http://arxiv.org/abs/2605.28155v1)|null|
 |**2026-05-26 14:12:10**|**Analysis of Short-term Solar Activity Variability and Estimating the Timings of the Next Enhanced Bursts**|Juie Shetye et.al.|[2605.27057v1](http://arxiv.org/abs/2605.27057v1)|null|
 |**2026-05-25 00:03:52**|**Electricity Consumption Forecasting: An Approach Using Cooperative Ensemble Learning with SHapley Additive exPlanations**|Eduardo Luiz Alba et.al.|[2605.25305v1](http://arxiv.org/abs/2605.25305v1)|null|
 |**2026-05-24 07:31:57**|**Explainable Retinal Imaging for Prediction of Multi-Organ Dysfunction in Type 2 Diabetes**|Mini Han Wang et.al.|[2605.24912v1](http://arxiv.org/abs/2605.24912v1)|[link](https://github.com/MiniHanWang/Type-2-Diabetes-1.git)|
@@ -10,7 +11,7 @@
 |**2026-05-21 17:18:57**|**Cyber-Physical Anomaly Detection in IoT-Enabled Smart Grids Using Machine Learning and Metaheuristic Feature Optimization**|Adis Alihodžić et.al.|[2605.22749v1](http://arxiv.org/abs/2605.22749v1)|null|
 |**2026-05-20 17:12:48**|**Calibration, Uncertainty Communication, and Deployment Readiness in CKD Risk Prediction: A Framework Evaluation Study**|Michael O. Eniolade et.al.|[2605.21566v1](http://arxiv.org/abs/2605.21566v1)|null|
 |**2026-05-20 13:37:38**|**A Rigorous, Tractable Measure of Model Complexity**|Oskar Allerbo et.al.|[2605.21167v1](http://arxiv.org/abs/2605.21167v1)|null|
-|**2026-05-20 05:15:09**|**Decision-Path Patterns as Tree Reliability Signals: Path-based Adaptive Weighting for Random Forest Classification**|Youngjoon Park et.al.|[2605.20716v3](http://arxiv.org/abs/2605.20716v3)|null|
+|**2026-05-20 05:15:09**|**Decision-Path Patterns as Tree Reliability Signals: Path-based Adaptive Weighting for Random Forest Classification**|Youngjoon Park et.al.|[2605.20716v4](http://arxiv.org/abs/2605.20716v4)|null|
 |**2026-05-20 02:36:46**|**Application of Propensity Score Models and Causal Estimators in Observational Studies under Model Misspecification**|Apu Chandra Das et.al.|[2605.20633v1](http://arxiv.org/abs/2605.20633v1)|null|
 |**2026-05-19 14:51:12**|**StruMPL: Multi-task Dense Regression under Disjoint Partial Supervision and MNAR Labels**|Reza M. Asiyabi et.al.|[2605.19931v1](http://arxiv.org/abs/2605.19931v1)|null|
 |**2026-05-19 03:19:30**|**Cross-Paradigm Knowledge Distillation: A Comprehensive Study of Bidirectional Transfer Between Random Forests and Deep Neural Networks for Big Data Applications**|Mahdi Naser Moghadasi et.al.|[2605.19299v1](http://arxiv.org/abs/2605.19299v1)|null|
@@ -31,4 +32,3 @@
 |**2026-05-07 16:55:46**|**Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data**|Meena Al Hasani et.al.|[2605.06562v1](http://arxiv.org/abs/2605.06562v1)|null|
 |**2026-05-07 15:36:17**|**COVID-19 Infodemic. Understanding content features in detecting fake news using a machine learning approach**|Vimala Balakrishnan et.al.|[2605.06435v1](http://arxiv.org/abs/2605.06435v1)|null|
 |**2026-05-07 14:26:10**|**TinyBayes: Closed-Form Bayesian Inference via Jacobi Prior for Real-Time Image Classification on Edge Devices**|Shouvik Sardar et.al.|[2605.06333v1](http://arxiv.org/abs/2605.06333v1)|[link](https://github.com/shouvik-sardar/TinyBayes)|
-|**2026-05-06 01:59:09**|**Assessing Generalisation Capability of Machine Learning Models for Intrusion Detection**|Md Zakir Hossain et.al.|[2605.04407v1](http://arxiv.org/abs/2605.04407v1)|null|
