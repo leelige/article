@@ -2,6 +2,10 @@
 ### Random Forest Regression
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-05-30 20:47:58**|**A Lightweight Hybrid MLP-Based Framework for Real-Time Phishing URL Detection Using Structural URL Features**|Uche Unoke Emmanuel et.al.|[2606.00889v1](http://arxiv.org/abs/2606.00889v1)|null|
+|**2026-05-30 17:47:26**|**A Comparative Analysis of Machine Learning Algorithms for Multi-Task Prediction of the Parameters of the Pectin Hydrolysis--Extraction Process**|Mullosharaf K. Arabov et.al.|[2606.00821v1](http://arxiv.org/abs/2606.00821v1)|null|
+|**2026-05-29 22:35:15**|**Data-Driven Spectral Prediction for Accelerating Large-Scale Electronic Structure Calculations**|Abhiram Badrinarayanan et.al.|[2606.00401v1](http://arxiv.org/abs/2606.00401v1)|null|
+|**2026-05-29 03:53:16**|**Stratifying the Digital Divide: Analysis of Socio-Economic Influences on Internet Performance**|Shivani Kalamadi et.al.|[2605.30809v1](http://arxiv.org/abs/2605.30809v1)|null|
 |**2026-05-28 04:05:30**|**Mixing Vector Model for Copolymer Inference via Mixed Integer Linear Programming**|Jianshen Zhu et.al.|[2605.29329v1](http://arxiv.org/abs/2605.29329v1)|null|
 |**2026-05-27 20:06:58**|**Parallel Adaptive Multi-Objective Evolutionary Learning of Discretized Bayesian Network Classifiers for Clinical Data**|Damy M. F. Ha et.al.|[2605.29058v1](http://arxiv.org/abs/2605.29058v1)|null|
 |**2026-05-27 08:39:47**|**Temporal Hyperbolic Graph Representation Learning for Scale-Free Internet Routing and Delay Prediction**|Yi-Ling Kuo et.al.|[2605.28155v1](http://arxiv.org/abs/2605.28155v1)|null|
@@ -13,7 +17,7 @@
 |**2026-05-21 17:18:57**|**Cyber-Physical Anomaly Detection in IoT-Enabled Smart Grids Using Machine Learning and Metaheuristic Feature Optimization**|Adis Alihodžić et.al.|[2605.22749v1](http://arxiv.org/abs/2605.22749v1)|null|
 |**2026-05-20 17:12:48**|**Calibration, Uncertainty Communication, and Deployment Readiness in CKD Risk Prediction: A Framework Evaluation Study**|Michael O. Eniolade et.al.|[2605.21566v1](http://arxiv.org/abs/2605.21566v1)|null|
 |**2026-05-20 13:37:38**|**A Rigorous, Tractable Measure of Model Complexity**|Oskar Allerbo et.al.|[2605.21167v1](http://arxiv.org/abs/2605.21167v1)|null|
-|**2026-05-20 05:15:09**|**Decision-Path Patterns as Tree Reliability Signals: Path-based Adaptive Weighting for Random Forest Classification**|Youngjoon Park et.al.|[2605.20716v4](http://arxiv.org/abs/2605.20716v4)|null|
+|**2026-05-20 05:15:09**|**Decision-Path Patterns as Tree Reliability Signals: Path-based Adaptive Weighting for Random Forest Classification**|Youngjoon Park et.al.|[2605.20716v5](http://arxiv.org/abs/2605.20716v5)|null|
 |**2026-05-20 02:36:46**|**Application of Propensity Score Models and Causal Estimators in Observational Studies under Model Misspecification**|Apu Chandra Das et.al.|[2605.20633v1](http://arxiv.org/abs/2605.20633v1)|null|
 |**2026-05-19 14:51:12**|**StruMPL: Multi-task Dense Regression under Disjoint Partial Supervision and MNAR Labels**|Reza M. Asiyabi et.al.|[2605.19931v1](http://arxiv.org/abs/2605.19931v1)|null|
 |**2026-05-19 03:19:30**|**Cross-Paradigm Knowledge Distillation: A Comprehensive Study of Bidirectional Transfer Between Random Forests and Deep Neural Networks for Big Data Applications**|Mahdi Naser Moghadasi et.al.|[2605.19299v1](http://arxiv.org/abs/2605.19299v1)|null|
@@ -28,7 +32,3 @@
 |**2026-05-11 14:55:48**|**Content-Aware Attack Detection in LLM Agent Tool-Call Traffic: An Empirical Study of Features, Architectures, and Evaluation Protocols**|Sultan Zavrak et.al.|[2605.11053v3](http://arxiv.org/abs/2605.11053v3)|null|
 |**2026-05-10 23:14:52**|**Analyzing the Impact of Release Season and Production Budget on Movie Revenue and Profitability**|Mohammad Jalili Torkamani et.al.|[2605.12551v1](http://arxiv.org/abs/2605.12551v1)|null|
 |**2026-05-09 03:58:50**|**Optimised Support Vector Regression for California Housing Price Prediction: The Critical Role of Feature Engineering and Hyperparameter Tuning**|Emmanuel Adutwum et.al.|[2605.08660v1](http://arxiv.org/abs/2605.08660v1)|null|
-|**2026-05-09 02:49:12**|**Fatigue-Related Reaction Time Forecasting via EEG Functional Connectivity in Sustained Attention Task**|Bo Sun et.al.|[2605.08631v1](http://arxiv.org/abs/2605.08631v1)|null|
-|**2026-05-08 21:23:57**|**MeTime: An R package for reproducible longitudinal metabolomics data analysis**|Bharadwaj Marella et.al.|[2605.08497v1](http://arxiv.org/abs/2605.08497v1)|null|
-|**2026-05-08 12:50:04**|**Advance warning of $γ$-ray blazar flares from \textit{Fermi}-LAT light curves: a strictly causal machine-learning backtest**|Zahir Shah et.al.|[2605.07680v1](http://arxiv.org/abs/2605.07680v1)|null|
-|**2026-05-07 16:55:46**|**Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data**|Meena Al Hasani et.al.|[2605.06562v1](http://arxiv.org/abs/2605.06562v1)|null|

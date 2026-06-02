@@ -1,16 +1,21 @@
 # arxiv-daily
- 自动更新 @ 2026-06-01 21:28:41 Asia/Shanghai
+ 自动更新 @ 2026-06-02 19:55:00 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-01 17:20:55**|**Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design**|Anand Babu et.al.|[2606.02507v1](http://arxiv.org/abs/2606.02507v1)|null|
+|**2026-05-29 10:07:43**|**SpecDB: LLM-Generated Customized Databases via Feature-Oriented Decomposition**|Yunkai Lou et.al.|[2605.31097v1](http://arxiv.org/abs/2605.31097v1)|null|
+|**2026-05-29 08:35:46**|**Modeling and Optimization for Massive Data Allocation in Database**|Panpan Niu et.al.|[2605.31002v1](http://arxiv.org/abs/2605.31002v1)|null|
+|**2026-05-28 19:46:46**|**A Novel Global Context-aware Deep Neural Network for Enhanced Brain Tumor Segmentation using Magnetic Resonance Images**|Sourjya Mukherjee et.al.|[2605.30510v1](http://arxiv.org/abs/2605.30510v1)|null|
 |**2026-05-27 14:46:35**|**Token Optimization Strategies for LLM-Based Oracle-to-PostgreSQL Migration**|Oleg Grynets et.al.|[2605.28557v1](http://arxiv.org/abs/2605.28557v1)|null|
 |**2026-05-27 08:50:02**|**OccuReward: LLM-Guided Occupant-Centric Reward Shaping for Demographic Equity in Grid-Interactive Buildings**|Shadmehr Zaregarizi et.al.|[2605.28168v1](http://arxiv.org/abs/2605.28168v1)|null|
 |**2026-05-26 16:09:58**|**At-Scale Data-Driven Exploration of High-Voltage Cathode-Active Materials for Sodium Batteries**|Suchona Akter et.al.|[2605.27229v1](http://arxiv.org/abs/2605.27229v1)|null|
 |**2026-05-24 00:33:54**|**Parameter-Efficient VLMs for Gastrointestinal Endoscopy: Medical Image Generation and Clinical Visual Question Answering**|Ojonugwa Oluwafemi Ejiga Peter et.al.|[2605.24792v1](http://arxiv.org/abs/2605.24792v1)|null|
 |**2026-05-20 23:33:44**|**Barriers to Evidence in AI-Related Cases and the Privatization of Proof**|Sarah H. Cen et.al.|[2605.21816v1](http://arxiv.org/abs/2605.21816v1)|null|
+|**2026-05-19 23:55:19**|**Beyond Text and Tables: Vision-Language Model Integration in ComProScanner for Extracting Materials Data from Scientific Figures with High Accuracy**|Aritra Roy et.al.|[2606.00065v1](http://arxiv.org/abs/2606.00065v1)|null|
 |**2026-05-19 23:01:57**|**Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning**|Zichao Zeng et.al.|[2605.20551v1](http://arxiv.org/abs/2605.20551v1)|null|
 |**2026-05-19 19:10:30**|**PlanRAG-Audio: Planning and Retrieval Augmented Generation for Long-form Audio Understanding**|Masao Someki et.al.|[2605.20414v2](http://arxiv.org/abs/2605.20414v2)|null|
 |**2026-05-18 17:01:34**|**Statistical Limits and Efficient Algorithms for Differentially Private Federated Learning**|Arnab Auddy et.al.|[2605.18656v1](http://arxiv.org/abs/2605.18656v1)|null|
@@ -19,7 +24,7 @@
 |**2026-05-14 20:54:40**|**From Feedback Loops to Policy Updates: Reinforcement Fine-Tuning for LLM-Based Alpha Factor Discovery**|Lingzhe Zhang et.al.|[2605.15412v1](http://arxiv.org/abs/2605.15412v1)|null|
 |**2026-05-12 11:35:59**|**On the Limitations of Large Language Models for Conceptual Database Modeling**|Arthur F. Siqueira et.al.|[2605.11986v1](http://arxiv.org/abs/2605.11986v1)|null|
 |**2026-05-12 06:42:00**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et.al.|[2605.11610v1](http://arxiv.org/abs/2605.11610v1)|null|
-|**2026-05-11 23:42:00**|**Much of Geospatial Web Search Is Beyond Traditional GIS**|Ilya Ilyankou et.al.|[2605.11336v1](http://arxiv.org/abs/2605.11336v1)|null|
+|**2026-05-11 23:42:00**|**Much of Geospatial Web Search Is Beyond Traditional GIS**|Ilya Ilyankou et.al.|[2605.11336v2](http://arxiv.org/abs/2605.11336v2)|null|
 |**2026-05-11 16:46:59**|**Preservation Theorems in Semiring Semantics**|Sophie Brinke et.al.|[2605.10829v1](http://arxiv.org/abs/2605.10829v1)|null|
 |**2026-05-11 11:54:47**|**Can Language Models Analyze Data? Evaluating Large Language Models for Question Answering over Datasets**|Andreas Xenofontos et.al.|[2605.10419v1](http://arxiv.org/abs/2605.10419v1)|null|
 |**2026-05-11 09:30:32**|**Overfitting by design: neural network density functionals for water**|Karim K. Alaa El-Din et.al.|[2605.10266v1](http://arxiv.org/abs/2605.10266v1)|null|
@@ -31,53 +36,14 @@
 |**2026-05-07 06:24:29**|**Density diversity in training data governs thermodynamic transferability of machine learning interatomic potentials**|Minwoo Kim et.al.|[2605.05733v1](http://arxiv.org/abs/2605.05733v1)|null|
 |**2026-05-06 04:58:52**|**SecureMCP: A Policy-Enforced LLM Data Access Framework for AIoT Systems via Model Context Protocol**|Wonbae Kim et.al.|[2605.05260v1](http://arxiv.org/abs/2605.05260v1)|null|
 |**2026-04-30 17:25:50**|**Index-Assisted Stratified Sampling for Online Aggregation**|Yunnan Yu et.al.|[2604.28141v1](http://arxiv.org/abs/2604.28141v1)|null|
-|**2026-04-28 14:42:51**|**Budget-Constrained Online Retrieval-Augmented Generation: The Chunk-as-a-Service Model**|Shawqi Al-Maliki et.al.|[2604.26981v1](http://arxiv.org/abs/2604.26981v1)|null|
-|**2026-04-28 13:09:48**|**Health System Scale Semantic Search Across Unstructured Clinical Notes**|Faith Wavinya Mutinda et.al.|[2604.25605v1](http://arxiv.org/abs/2604.25605v1)|null|
-|**2026-04-26 00:05:53**|**SEMA-SQL: Beyond Traditional Relational Querying with Large Language Models**|Yin Lin et.al.|[2604.23477v2](http://arxiv.org/abs/2604.23477v2)|null|
-|**2026-04-24 08:32:47**|**A Nationwide Japanese Medical Claims Foundation Model: Balancing Model Scaling and Task-Specific Computational Efficiency**|Nanae Aratake et.al.|[2604.22348v1](http://arxiv.org/abs/2604.22348v1)|null|
-|**2026-04-24 06:47:00**|**Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling**|Matilde Fiore et.al.|[2604.22882v1](http://arxiv.org/abs/2604.22882v1)|null|
-
-## Random Forest Regression
-
-### Random Forest Regression
-|Publish Date|Title|Author|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2026-05-28 04:05:30**|**Mixing Vector Model for Copolymer Inference via Mixed Integer Linear Programming**|Jianshen Zhu et.al.|[2605.29329v1](http://arxiv.org/abs/2605.29329v1)|null|
-|**2026-05-27 20:06:58**|**Parallel Adaptive Multi-Objective Evolutionary Learning of Discretized Bayesian Network Classifiers for Clinical Data**|Damy M. F. Ha et.al.|[2605.29058v1](http://arxiv.org/abs/2605.29058v1)|null|
-|**2026-05-27 08:39:47**|**Temporal Hyperbolic Graph Representation Learning for Scale-Free Internet Routing and Delay Prediction**|Yi-Ling Kuo et.al.|[2605.28155v1](http://arxiv.org/abs/2605.28155v1)|null|
-|**2026-05-26 14:12:10**|**Analysis of Short-term Solar Activity Variability and Estimating the Timings of the Next Enhanced Bursts**|Juie Shetye et.al.|[2605.27057v1](http://arxiv.org/abs/2605.27057v1)|null|
-|**2026-05-25 00:03:52**|**Electricity Consumption Forecasting: An Approach Using Cooperative Ensemble Learning with SHapley Additive exPlanations**|Eduardo Luiz Alba et.al.|[2605.25305v1](http://arxiv.org/abs/2605.25305v1)|null|
-|**2026-05-24 07:31:57**|**Explainable Retinal Imaging for Prediction of Multi-Organ Dysfunction in Type 2 Diabetes**|Mini Han Wang et.al.|[2605.24912v1](http://arxiv.org/abs/2605.24912v1)|[link](https://github.com/MiniHanWang/Type-2-Diabetes-1.git)|
-|**2026-05-21 21:35:08**|**DreamerNLplus: Interpretable Modeling of Mental Health Dynamics from Social Media Timelines using Hybrid Rule-Based and RAG Methods**|Maryia Zhyrko et.al.|[2605.23052v1](http://arxiv.org/abs/2605.23052v1)|[link](https://github.com/4dpicture/CLPsych2026)|
-|**2026-05-21 20:16:14**|**Botnet Detection on CTU-13 Using Lightweight Machine Learning Models**|Subhash Gurappa et.al.|[2605.23004v1](http://arxiv.org/abs/2605.23004v1)|null|
-|**2026-05-21 17:18:57**|**Cyber-Physical Anomaly Detection in IoT-Enabled Smart Grids Using Machine Learning and Metaheuristic Feature Optimization**|Adis Alihodžić et.al.|[2605.22749v1](http://arxiv.org/abs/2605.22749v1)|null|
-|**2026-05-20 17:12:48**|**Calibration, Uncertainty Communication, and Deployment Readiness in CKD Risk Prediction: A Framework Evaluation Study**|Michael O. Eniolade et.al.|[2605.21566v1](http://arxiv.org/abs/2605.21566v1)|null|
-|**2026-05-20 13:37:38**|**A Rigorous, Tractable Measure of Model Complexity**|Oskar Allerbo et.al.|[2605.21167v1](http://arxiv.org/abs/2605.21167v1)|null|
-|**2026-05-20 05:15:09**|**Decision-Path Patterns as Tree Reliability Signals: Path-based Adaptive Weighting for Random Forest Classification**|Youngjoon Park et.al.|[2605.20716v4](http://arxiv.org/abs/2605.20716v4)|null|
-|**2026-05-20 02:36:46**|**Application of Propensity Score Models and Causal Estimators in Observational Studies under Model Misspecification**|Apu Chandra Das et.al.|[2605.20633v1](http://arxiv.org/abs/2605.20633v1)|null|
-|**2026-05-19 14:51:12**|**StruMPL: Multi-task Dense Regression under Disjoint Partial Supervision and MNAR Labels**|Reza M. Asiyabi et.al.|[2605.19931v1](http://arxiv.org/abs/2605.19931v1)|null|
-|**2026-05-19 03:19:30**|**Cross-Paradigm Knowledge Distillation: A Comprehensive Study of Bidirectional Transfer Between Random Forests and Deep Neural Networks for Big Data Applications**|Mahdi Naser Moghadasi et.al.|[2605.19299v1](http://arxiv.org/abs/2605.19299v1)|null|
-|**2026-05-18 04:07:00**|**Agentic Cost-Aware Query Planning with Knowledge Distillation for Big Data Analytics**|Mahdi Naser-Moghadasi et.al.|[2605.17831v1](http://arxiv.org/abs/2605.17831v1)|[link](https://github.com/mahdinaser/agentic-kd-planner)|
-|**2026-05-17 19:16:20**|**A Feature-Driven Framework for Software Fault Prediction**|Ahmad Nauman Ghazi et.al.|[2605.17611v1](http://arxiv.org/abs/2605.17611v1)|null|
-|**2026-05-13 21:57:38**|**A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**|Jiandong Chen et.al.|[2605.14147v1](http://arxiv.org/abs/2605.14147v1)|null|
-|**2026-05-13 17:07:00**|**Interpretable Machine Learning for Antepartum Prediction of Pregnancy-Associated Thrombotic Microangiopathy Using Routine Longitudinal Laboratory Data**|Chuanchuan Sun et.al.|[2605.13786v1](http://arxiv.org/abs/2605.13786v1)|null|
-|**2026-05-13 12:53:39**|**A Unified Three-Stage Machine Learning Framework for Diabetes Detection, Subtype Discrimination, and Cognitive-Metabolic Hypothesis Testing**|Vishal Pandey et.al.|[2605.13464v1](http://arxiv.org/abs/2605.13464v1)|null|
-|**2026-05-13 10:37:32**|**Physics-Guided Concentration Inference from Resistance Transients in a Mixed-Phase SnO-SnO$_2$ Carbon Monoxide Sensor with p-n Switching**|Sani Biswas et.al.|[2605.23971v1](http://arxiv.org/abs/2605.23971v1)|null|
-|**2026-05-12 09:26:00**|**Minimax Rates and Spectral Distillation for Tree Ensembles**|Binh Duc Vu et.al.|[2605.11841v1](http://arxiv.org/abs/2605.11841v1)|null|
-|**2026-05-11 18:01:21**|**ASD-Bench: A Four-Axis Comprehensive Benchmark of AI Models for Autism Spectrum Disorder**|Shubhankit Singh et.al.|[2605.11091v1](http://arxiv.org/abs/2605.11091v1)|null|
-|**2026-05-11 14:55:48**|**Content-Aware Attack Detection in LLM Agent Tool-Call Traffic: An Empirical Study of Features, Architectures, and Evaluation Protocols**|Sultan Zavrak et.al.|[2605.11053v3](http://arxiv.org/abs/2605.11053v3)|null|
-|**2026-05-10 23:14:52**|**Analyzing the Impact of Release Season and Production Budget on Movie Revenue and Profitability**|Mohammad Jalili Torkamani et.al.|[2605.12551v1](http://arxiv.org/abs/2605.12551v1)|null|
-|**2026-05-09 03:58:50**|**Optimised Support Vector Regression for California Housing Price Prediction: The Critical Role of Feature Engineering and Hyperparameter Tuning**|Emmanuel Adutwum et.al.|[2605.08660v1](http://arxiv.org/abs/2605.08660v1)|null|
-|**2026-05-09 02:49:12**|**Fatigue-Related Reaction Time Forecasting via EEG Functional Connectivity in Sustained Attention Task**|Bo Sun et.al.|[2605.08631v1](http://arxiv.org/abs/2605.08631v1)|null|
-|**2026-05-08 21:23:57**|**MeTime: An R package for reproducible longitudinal metabolomics data analysis**|Bharadwaj Marella et.al.|[2605.08497v1](http://arxiv.org/abs/2605.08497v1)|null|
-|**2026-05-08 12:50:04**|**Advance warning of $γ$-ray blazar flares from \textit{Fermi}-LAT light curves: a strictly causal machine-learning backtest**|Zahir Shah et.al.|[2605.07680v1](http://arxiv.org/abs/2605.07680v1)|null|
-|**2026-05-07 16:55:46**|**Feature Dimensionality Outweighs Model Complexity in Breast Cancer Subtype Classification Using TCGA-BRCA Gene Expression Data**|Meena Al Hasani et.al.|[2605.06562v1](http://arxiv.org/abs/2605.06562v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-01 11:26:24**|**Anisotropic Moiré Fractional Chern Insulators and Their Phase Transitions**|Bo Peng et.al.|[2606.02094v1](http://arxiv.org/abs/2606.02094v1)|null|
+|**2026-05-31 06:08:05**|**Robust Integrated Planning and Control for Quadrotors in Dynamic Environments via NMPC with CBF Penalties**|Zeinab Shayan et.al.|[2606.01038v1](http://arxiv.org/abs/2606.01038v1)|null|
 |**2026-05-28 13:20:33**|**Field-induced multipolar character in the dipolar ground state of the honeycomb rare-earth chalcohalide NdOF**|Tiantian Liu et.al.|[2605.29896v1](http://arxiv.org/abs/2605.29896v1)|null|
 |**2026-05-27 10:29:52**|**PrunePath: Towards Highly Structured Sparse Language Models**|Zhexuan Gu et.al.|[2605.28283v1](http://arxiv.org/abs/2605.28283v1)|null|
 |**2026-05-26 06:38:48**|**Designing Quantum Matter in Pyrochlore Iridates: A Perspective on Recent Thin-Film Advances**|Xiaoran Liu et.al.|[2605.26603v1](http://arxiv.org/abs/2605.26603v1)|null|
@@ -106,5 +72,39 @@
 |**2026-04-11 19:59:02**|**VeriTrans: Fine-Tuned LLM-Assisted NL-to-PL Translation via a Deterministic Neuro-Symbolic Pipeline**|Xuan Liu et.al.|[2604.10341v1](http://arxiv.org/abs/2604.10341v1)|null|
 |**2026-04-08 12:41:37**|**MARS: Enabling Autoregressive Models Multi-Token Generation**|Ziqi Jin et.al.|[2604.07023v1](http://arxiv.org/abs/2604.07023v1)|null|
 |**2026-04-06 14:47:28**|**Phonon-phonon interaction as a control knob for multimode splitting in a two mirror parametrically assisted optomechanical cavity**|Ghaisud Din et.al.|[2604.04725v1](http://arxiv.org/abs/2604.04725v1)|null|
-|**2026-03-28 15:23:57**|**Alloying Controlled Tuning of Interfacial Spin Orbit Interaction and Magnetic Damping in Crystalline FeCo Alloys**|Hongrui Lao et.al.|[2603.27307v1](http://arxiv.org/abs/2603.27307v1)|null|
-|**2026-03-28 06:00:53**|**WAter: A Workload-Adaptive Knob Tuning System based on Workload Compression**|Yibo Wang et.al.|[2603.28809v1](http://arxiv.org/abs/2603.28809v1)|null|
+
+## Random Forest Regression
+
+### Random Forest Regression
+|Publish Date|Title|Author|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2026-05-30 20:47:58**|**A Lightweight Hybrid MLP-Based Framework for Real-Time Phishing URL Detection Using Structural URL Features**|Uche Unoke Emmanuel et.al.|[2606.00889v1](http://arxiv.org/abs/2606.00889v1)|null|
+|**2026-05-30 17:47:26**|**A Comparative Analysis of Machine Learning Algorithms for Multi-Task Prediction of the Parameters of the Pectin Hydrolysis--Extraction Process**|Mullosharaf K. Arabov et.al.|[2606.00821v1](http://arxiv.org/abs/2606.00821v1)|null|
+|**2026-05-29 22:35:15**|**Data-Driven Spectral Prediction for Accelerating Large-Scale Electronic Structure Calculations**|Abhiram Badrinarayanan et.al.|[2606.00401v1](http://arxiv.org/abs/2606.00401v1)|null|
+|**2026-05-29 03:53:16**|**Stratifying the Digital Divide: Analysis of Socio-Economic Influences on Internet Performance**|Shivani Kalamadi et.al.|[2605.30809v1](http://arxiv.org/abs/2605.30809v1)|null|
+|**2026-05-28 04:05:30**|**Mixing Vector Model for Copolymer Inference via Mixed Integer Linear Programming**|Jianshen Zhu et.al.|[2605.29329v1](http://arxiv.org/abs/2605.29329v1)|null|
+|**2026-05-27 20:06:58**|**Parallel Adaptive Multi-Objective Evolutionary Learning of Discretized Bayesian Network Classifiers for Clinical Data**|Damy M. F. Ha et.al.|[2605.29058v1](http://arxiv.org/abs/2605.29058v1)|null|
+|**2026-05-27 08:39:47**|**Temporal Hyperbolic Graph Representation Learning for Scale-Free Internet Routing and Delay Prediction**|Yi-Ling Kuo et.al.|[2605.28155v1](http://arxiv.org/abs/2605.28155v1)|null|
+|**2026-05-26 14:12:10**|**Analysis of Short-term Solar Activity Variability and Estimating the Timings of the Next Enhanced Bursts**|Juie Shetye et.al.|[2605.27057v1](http://arxiv.org/abs/2605.27057v1)|null|
+|**2026-05-25 00:03:52**|**Electricity Consumption Forecasting: An Approach Using Cooperative Ensemble Learning with SHapley Additive exPlanations**|Eduardo Luiz Alba et.al.|[2605.25305v1](http://arxiv.org/abs/2605.25305v1)|null|
+|**2026-05-24 07:31:57**|**Explainable Retinal Imaging for Prediction of Multi-Organ Dysfunction in Type 2 Diabetes**|Mini Han Wang et.al.|[2605.24912v1](http://arxiv.org/abs/2605.24912v1)|[link](https://github.com/MiniHanWang/Type-2-Diabetes-1.git)|
+|**2026-05-21 21:35:08**|**DreamerNLplus: Interpretable Modeling of Mental Health Dynamics from Social Media Timelines using Hybrid Rule-Based and RAG Methods**|Maryia Zhyrko et.al.|[2605.23052v1](http://arxiv.org/abs/2605.23052v1)|[link](https://github.com/4dpicture/CLPsych2026)|
+|**2026-05-21 20:16:14**|**Botnet Detection on CTU-13 Using Lightweight Machine Learning Models**|Subhash Gurappa et.al.|[2605.23004v1](http://arxiv.org/abs/2605.23004v1)|null|
+|**2026-05-21 17:18:57**|**Cyber-Physical Anomaly Detection in IoT-Enabled Smart Grids Using Machine Learning and Metaheuristic Feature Optimization**|Adis Alihodžić et.al.|[2605.22749v1](http://arxiv.org/abs/2605.22749v1)|null|
+|**2026-05-20 17:12:48**|**Calibration, Uncertainty Communication, and Deployment Readiness in CKD Risk Prediction: A Framework Evaluation Study**|Michael O. Eniolade et.al.|[2605.21566v1](http://arxiv.org/abs/2605.21566v1)|null|
+|**2026-05-20 13:37:38**|**A Rigorous, Tractable Measure of Model Complexity**|Oskar Allerbo et.al.|[2605.21167v1](http://arxiv.org/abs/2605.21167v1)|null|
+|**2026-05-20 05:15:09**|**Decision-Path Patterns as Tree Reliability Signals: Path-based Adaptive Weighting for Random Forest Classification**|Youngjoon Park et.al.|[2605.20716v5](http://arxiv.org/abs/2605.20716v5)|null|
+|**2026-05-20 02:36:46**|**Application of Propensity Score Models and Causal Estimators in Observational Studies under Model Misspecification**|Apu Chandra Das et.al.|[2605.20633v1](http://arxiv.org/abs/2605.20633v1)|null|
+|**2026-05-19 14:51:12**|**StruMPL: Multi-task Dense Regression under Disjoint Partial Supervision and MNAR Labels**|Reza M. Asiyabi et.al.|[2605.19931v1](http://arxiv.org/abs/2605.19931v1)|null|
+|**2026-05-19 03:19:30**|**Cross-Paradigm Knowledge Distillation: A Comprehensive Study of Bidirectional Transfer Between Random Forests and Deep Neural Networks for Big Data Applications**|Mahdi Naser Moghadasi et.al.|[2605.19299v1](http://arxiv.org/abs/2605.19299v1)|null|
+|**2026-05-18 04:07:00**|**Agentic Cost-Aware Query Planning with Knowledge Distillation for Big Data Analytics**|Mahdi Naser-Moghadasi et.al.|[2605.17831v1](http://arxiv.org/abs/2605.17831v1)|[link](https://github.com/mahdinaser/agentic-kd-planner)|
+|**2026-05-17 19:16:20**|**A Feature-Driven Framework for Software Fault Prediction**|Ahmad Nauman Ghazi et.al.|[2605.17611v1](http://arxiv.org/abs/2605.17611v1)|null|
+|**2026-05-13 21:57:38**|**A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**|Jiandong Chen et.al.|[2605.14147v1](http://arxiv.org/abs/2605.14147v1)|null|
+|**2026-05-13 17:07:00**|**Interpretable Machine Learning for Antepartum Prediction of Pregnancy-Associated Thrombotic Microangiopathy Using Routine Longitudinal Laboratory Data**|Chuanchuan Sun et.al.|[2605.13786v1](http://arxiv.org/abs/2605.13786v1)|null|
+|**2026-05-13 12:53:39**|**A Unified Three-Stage Machine Learning Framework for Diabetes Detection, Subtype Discrimination, and Cognitive-Metabolic Hypothesis Testing**|Vishal Pandey et.al.|[2605.13464v1](http://arxiv.org/abs/2605.13464v1)|null|
+|**2026-05-13 10:37:32**|**Physics-Guided Concentration Inference from Resistance Transients in a Mixed-Phase SnO-SnO$_2$ Carbon Monoxide Sensor with p-n Switching**|Sani Biswas et.al.|[2605.23971v1](http://arxiv.org/abs/2605.23971v1)|null|
+|**2026-05-12 09:26:00**|**Minimax Rates and Spectral Distillation for Tree Ensembles**|Binh Duc Vu et.al.|[2605.11841v1](http://arxiv.org/abs/2605.11841v1)|null|
+|**2026-05-11 18:01:21**|**ASD-Bench: A Four-Axis Comprehensive Benchmark of AI Models for Autism Spectrum Disorder**|Shubhankit Singh et.al.|[2605.11091v1](http://arxiv.org/abs/2605.11091v1)|null|
+|**2026-05-11 14:55:48**|**Content-Aware Attack Detection in LLM Agent Tool-Call Traffic: An Empirical Study of Features, Architectures, and Evaluation Protocols**|Sultan Zavrak et.al.|[2605.11053v3](http://arxiv.org/abs/2605.11053v3)|null|
+|**2026-05-10 23:14:52**|**Analyzing the Impact of Release Season and Production Budget on Movie Revenue and Profitability**|Mohammad Jalili Torkamani et.al.|[2605.12551v1](http://arxiv.org/abs/2605.12551v1)|null|
+|**2026-05-09 03:58:50**|**Optimised Support Vector Regression for California Housing Price Prediction: The Critical Role of Feature Engineering and Hyperparameter Tuning**|Emmanuel Adutwum et.al.|[2605.08660v1](http://arxiv.org/abs/2605.08660v1)|null|

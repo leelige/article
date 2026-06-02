@@ -2,6 +2,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-01 11:26:24**|**Anisotropic Moiré Fractional Chern Insulators and Their Phase Transitions**|Bo Peng et.al.|[2606.02094v1](http://arxiv.org/abs/2606.02094v1)|null|
+|**2026-05-31 06:08:05**|**Robust Integrated Planning and Control for Quadrotors in Dynamic Environments via NMPC with CBF Penalties**|Zeinab Shayan et.al.|[2606.01038v1](http://arxiv.org/abs/2606.01038v1)|null|
 |**2026-05-28 13:20:33**|**Field-induced multipolar character in the dipolar ground state of the honeycomb rare-earth chalcohalide NdOF**|Tiantian Liu et.al.|[2605.29896v1](http://arxiv.org/abs/2605.29896v1)|null|
 |**2026-05-27 10:29:52**|**PrunePath: Towards Highly Structured Sparse Language Models**|Zhexuan Gu et.al.|[2605.28283v1](http://arxiv.org/abs/2605.28283v1)|null|
 |**2026-05-26 06:38:48**|**Designing Quantum Matter in Pyrochlore Iridates: A Perspective on Recent Thin-Film Advances**|Xiaoran Liu et.al.|[2605.26603v1](http://arxiv.org/abs/2605.26603v1)|null|
@@ -30,5 +32,3 @@
 |**2026-04-11 19:59:02**|**VeriTrans: Fine-Tuned LLM-Assisted NL-to-PL Translation via a Deterministic Neuro-Symbolic Pipeline**|Xuan Liu et.al.|[2604.10341v1](http://arxiv.org/abs/2604.10341v1)|null|
 |**2026-04-08 12:41:37**|**MARS: Enabling Autoregressive Models Multi-Token Generation**|Ziqi Jin et.al.|[2604.07023v1](http://arxiv.org/abs/2604.07023v1)|null|
 |**2026-04-06 14:47:28**|**Phonon-phonon interaction as a control knob for multimode splitting in a two mirror parametrically assisted optomechanical cavity**|Ghaisud Din et.al.|[2604.04725v1](http://arxiv.org/abs/2604.04725v1)|null|
-|**2026-03-28 15:23:57**|**Alloying Controlled Tuning of Interfacial Spin Orbit Interaction and Magnetic Damping in Crystalline FeCo Alloys**|Hongrui Lao et.al.|[2603.27307v1](http://arxiv.org/abs/2603.27307v1)|null|
-|**2026-03-28 06:00:53**|**WAter: A Workload-Adaptive Knob Tuning System based on Workload Compression**|Yibo Wang et.al.|[2603.28809v1](http://arxiv.org/abs/2603.28809v1)|null|
