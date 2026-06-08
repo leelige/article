@@ -19,7 +19,6 @@
 |**2026-05-15 17:44:03**|**Acoustic spin resonance in polariton condensates**|D. A. Saltykova et.al.|[2605.16236v1](http://arxiv.org/abs/2605.16236v1)|null|
 |**2026-05-14 16:25:32**|**SemaTune: Semantic-Aware Online OS Tuning with Large Language Models**|Georgios Liargkovas et.al.|[2605.15026v1](http://arxiv.org/abs/2605.15026v1)|null|
 |**2026-05-14 05:55:36**|**Tunable high-$Q$ Janus-to-chiral bound states in the continuum in bilayer PhCs**|Zhexing Dong et.al.|[2605.14412v1](http://arxiv.org/abs/2605.14412v1)|null|
-|**2026-05-13 09:48:33**|**Physics Guided Generative Optimization for Trotter Suzuki Decomposition**|WenBin Yan et.al.|[2605.13268v1](http://arxiv.org/abs/2605.13268v1)|null|
 |**2026-05-12 17:35:21**|**Equivariant Space Group and Hamiltonian for Collinear Magnetic Systems**|Chaoxi Cui et.al.|[2605.12440v1](http://arxiv.org/abs/2605.12440v1)|null|
 |**2026-05-11 18:00:01**|**Valley-Controlled Viscosity of Two-Dimensional Dirac Fluids**|Alexey Ermakov et.al.|[2605.11069v1](http://arxiv.org/abs/2605.11069v1)|null|
 |**2026-05-11 02:05:30**|**M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models**|Junjian Wang et.al.|[2605.09879v1](http://arxiv.org/abs/2605.09879v1)|[link](https://github.com/laplucky/M2A.git)|
@@ -32,3 +31,4 @@
 |**2026-04-25 00:31:07**|**RKKY interaction in altermagnets with adiabatic electron-phonon coupling**|Bui D. Hoi et.al.|[2604.23082v1](http://arxiv.org/abs/2604.23082v1)|null|
 |**2026-04-21 01:22:35**|**Distillation Traps and Guards: A Calibration Knob for LLM Distillability**|Weixiao Zhan et.al.|[2604.18963v1](http://arxiv.org/abs/2604.18963v1)|null|
 |**2026-04-14 13:32:48**|**Ising selector machine by Kerr parametric oscillators**|Jacopo Tosca et.al.|[2604.12718v1](http://arxiv.org/abs/2604.12718v1)|null|
+|**2026-04-11 19:59:02**|**VeriTrans: Fine-Tuned LLM-Assisted NL-to-PL Translation via a Deterministic Neuro-Symbolic Pipeline**|Xuan Liu et.al.|[2604.10341v1](http://arxiv.org/abs/2604.10341v1)|null|
