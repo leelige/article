@@ -2,6 +2,8 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-10 10:43:35**|**From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations**|Yuchen Guan et.al.|[2606.11913v1](http://arxiv.org/abs/2606.11913v1)|null|
+|**2026-06-10 00:40:14**|**VIPIR: A Versatile GPU Framework for Integrating Private Information Retrieval Protocols**|Jongmin Kim et.al.|[2606.11536v1](http://arxiv.org/abs/2606.11536v1)|null|
 |**2026-06-09 16:57:20**|**The Fuel Optimizer: A Data-Driven Numerical Framework for Formulation of Aviation Turbine Fuel**|Ana Larrañaga et.al.|[2606.11099v1](http://arxiv.org/abs/2606.11099v1)|null|
 |**2026-06-08 12:07:13**|**From Coarse to Fine: Managing Temporal Granularity in Spatio-Temporal Data for Fine-Grained Traffic Prediction**|Shuhao Li et.al.|[2606.09392v1](http://arxiv.org/abs/2606.09392v1)|null|
 |**2026-06-06 01:16:58**|**Larch: Learned Query Optimization for Semantic Predicates**|Fuheng Zhao et.al.|[2606.07923v1](http://arxiv.org/abs/2606.07923v1)|null|
@@ -30,5 +32,3 @@
 |**2026-05-12 11:35:59**|**On the Limitations of Large Language Models for Conceptual Database Modeling**|Arthur F. Siqueira et.al.|[2605.11986v1](http://arxiv.org/abs/2605.11986v1)|null|
 |**2026-05-12 06:42:00**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et.al.|[2605.11610v1](http://arxiv.org/abs/2605.11610v1)|null|
 |**2026-05-11 23:42:00**|**Much of Geospatial Web Search Is Beyond Traditional GIS**|Ilya Ilyankou et.al.|[2605.11336v2](http://arxiv.org/abs/2605.11336v2)|null|
-|**2026-05-11 16:46:59**|**Preservation Theorems in Semiring Semantics**|Sophie Brinke et.al.|[2605.10829v1](http://arxiv.org/abs/2605.10829v1)|null|
-|**2026-05-11 11:54:47**|**Can Language Models Analyze Data? Evaluating Large Language Models for Question Answering over Datasets**|Andreas Xenofontos et.al.|[2605.10419v1](http://arxiv.org/abs/2605.10419v1)|null|

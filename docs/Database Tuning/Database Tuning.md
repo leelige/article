@@ -2,6 +2,8 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-10 17:52:15**|**TAHOE: Text-to-SQL with Automated Hint Optimization from Experience**|Zhiyi Chen et.al.|[2606.12387v1](http://arxiv.org/abs/2606.12387v1)|null|
+|**2026-06-09 12:11:11**|**Massive Open-Vocabulary Keyword Spotting**|Leonor Barreiros et.al.|[2606.11279v1](http://arxiv.org/abs/2606.11279v1)|null|
 |**2026-06-03 22:28:34**|**LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval**|Shahrzad Esmat et.al.|[2606.05489v1](http://arxiv.org/abs/2606.05489v1)|null|
 |**2026-06-03 12:39:16**|**Real-Time Industrial Defect Detection on Edge Hardware Using Fine-Tuned YOLOv8: A Systematic Benchmark on the NEU Surface Defect Database and MVTec AD with Automotive & Battery Manufacturing Extensions**|Emmanuel Ezeji Somtochukwu et.al.|[2606.07659v1](http://arxiv.org/abs/2606.07659v1)|null|
 |**2026-06-03 06:31:28**|**SANE Schema-aware Natural-language Evaluation of Biological Data**|Rolf Gattung et.al.|[2606.04500v1](http://arxiv.org/abs/2606.04500v1)|null|
@@ -30,5 +32,3 @@
 |**2026-05-11 22:46:56**|**Predicting Psychological Well-Being from Spontaneous Speech using LLMs**|Erfan Loweimi et.al.|[2605.11303v1](http://arxiv.org/abs/2605.11303v1)|null|
 |**2026-05-11 10:18:13**|**Extending Confidence-Based Text2Cypher with Grammar and Schema Aware Filtering**|Makbule Gulcin Ozsoy et.al.|[2605.10318v1](http://arxiv.org/abs/2605.10318v1)|null|
 |**2026-05-11 08:28:45**|**When Prompts Become Payloads: A Framework for Mitigating SQL Injection Attacks in Large Language Model-Driven Applications**|Farzad Nourmohammadzadeh Motlagh et.al.|[2605.10176v1](http://arxiv.org/abs/2605.10176v1)|null|
-|**2026-05-11 03:23:46**|**Information Extraction of Nested Complex Structure of Quantum Cascade Lasers via Large Language Models**|Xiao Fang et.al.|[2605.09927v1](http://arxiv.org/abs/2605.09927v1)|null|
-|**2026-05-08 09:40:13**|**TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature**|Hanqing Zhao et.al.|[2605.07507v1](http://arxiv.org/abs/2605.07507v1)|null|
