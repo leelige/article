@@ -2,6 +2,8 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-11 10:08:43**|**Decoding Crystallographic Surface Chirality with Machine Learning: From Atomic Geometry to Fermi Surface Projections**|Chetana Badala Viswanatha et.al.|[2606.13144v1](http://arxiv.org/abs/2606.13144v1)|null|
+|**2026-06-10 19:16:31**|**PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation**|Mahmoud Srewa et.al.|[2606.12616v1](http://arxiv.org/abs/2606.12616v1)|null|
 |**2026-06-10 17:52:15**|**TAHOE: Text-to-SQL with Automated Hint Optimization from Experience**|Zhiyi Chen et.al.|[2606.12387v1](http://arxiv.org/abs/2606.12387v1)|null|
 |**2026-06-09 12:11:11**|**Massive Open-Vocabulary Keyword Spotting**|Leonor Barreiros et.al.|[2606.11279v1](http://arxiv.org/abs/2606.11279v1)|null|
 |**2026-06-03 22:28:34**|**LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval**|Shahrzad Esmat et.al.|[2606.05489v1](http://arxiv.org/abs/2606.05489v1)|null|
@@ -30,5 +32,3 @@
 |**2026-05-14 20:54:40**|**From Feedback Loops to Policy Updates: Reinforcement Fine-Tuning for LLM-Based Alpha Factor Discovery**|Lingzhe Zhang et.al.|[2605.15412v1](http://arxiv.org/abs/2605.15412v1)|null|
 |**2026-05-13 08:05:14**|**Code-Centric Detection of Vulnerability-Fixing Commits: A Unified Benchmark and Empirical Study**|Nils Loose et.al.|[2605.13138v1](http://arxiv.org/abs/2605.13138v1)|null|
 |**2026-05-11 22:46:56**|**Predicting Psychological Well-Being from Spontaneous Speech using LLMs**|Erfan Loweimi et.al.|[2605.11303v1](http://arxiv.org/abs/2605.11303v1)|null|
-|**2026-05-11 10:18:13**|**Extending Confidence-Based Text2Cypher with Grammar and Schema Aware Filtering**|Makbule Gulcin Ozsoy et.al.|[2605.10318v1](http://arxiv.org/abs/2605.10318v1)|null|
-|**2026-05-11 08:28:45**|**When Prompts Become Payloads: A Framework for Mitigating SQL Injection Attacks in Large Language Model-Driven Applications**|Farzad Nourmohammadzadeh Motlagh et.al.|[2605.10176v1](http://arxiv.org/abs/2605.10176v1)|null|

@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-06-11 20:00:36 Asia/Shanghai
+ 自动更新 @ 2026-06-12 19:32:08 Asia/Shanghai
 
 ## Cost Model
 
@@ -42,6 +42,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-11 05:16:14**|**Quantum charge pumping in helical systems: A comparative study of short- and long-range hopping**|Leila Eslami et.al.|[2606.12914v1](http://arxiv.org/abs/2606.12914v1)|null|
 |**2026-06-08 15:54:28**|**Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery**|Suraj Biswas et.al.|[2606.09672v1](http://arxiv.org/abs/2606.09672v1)|null|
 |**2026-06-04 17:54:03**|**Superconducting triode effect in a quantum-dot Josephson junction with a biased top gate**|Yu-Hang Li et.al.|[2606.06465v1](http://arxiv.org/abs/2606.06465v1)|null|
 |**2026-06-03 13:29:50**|**Coulomb-mediated interactions of charge-transfer excitons in TMD lateral heterostructures**|Kabyashree Sonowal et.al.|[2606.04865v1](http://arxiv.org/abs/2606.04865v1)|null|
@@ -71,13 +72,14 @@
 |**2026-04-27 14:22:14**|**Mass-Transfer Control With Microbubbles in Highly Turbulent Decaying Flows**|Vivek Kumar et.al.|[2604.24520v1](http://arxiv.org/abs/2604.24520v1)|null|
 |**2026-04-25 00:31:07**|**RKKY interaction in altermagnets with adiabatic electron-phonon coupling**|Bui D. Hoi et.al.|[2604.23082v1](http://arxiv.org/abs/2604.23082v1)|null|
 |**2026-04-21 01:22:35**|**Distillation Traps and Guards: A Calibration Knob for LLM Distillability**|Weixiao Zhan et.al.|[2604.18963v1](http://arxiv.org/abs/2604.18963v1)|null|
-|**2026-04-14 13:32:48**|**Ising selector machine by Kerr parametric oscillators**|Jacopo Tosca et.al.|[2604.12718v1](http://arxiv.org/abs/2604.12718v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-11 10:08:43**|**Decoding Crystallographic Surface Chirality with Machine Learning: From Atomic Geometry to Fermi Surface Projections**|Chetana Badala Viswanatha et.al.|[2606.13144v1](http://arxiv.org/abs/2606.13144v1)|null|
+|**2026-06-10 19:16:31**|**PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation**|Mahmoud Srewa et.al.|[2606.12616v1](http://arxiv.org/abs/2606.12616v1)|null|
 |**2026-06-10 17:52:15**|**TAHOE: Text-to-SQL with Automated Hint Optimization from Experience**|Zhiyi Chen et.al.|[2606.12387v1](http://arxiv.org/abs/2606.12387v1)|null|
 |**2026-06-09 12:11:11**|**Massive Open-Vocabulary Keyword Spotting**|Leonor Barreiros et.al.|[2606.11279v1](http://arxiv.org/abs/2606.11279v1)|null|
 |**2026-06-03 22:28:34**|**LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval**|Shahrzad Esmat et.al.|[2606.05489v1](http://arxiv.org/abs/2606.05489v1)|null|
@@ -106,5 +108,3 @@
 |**2026-05-14 20:54:40**|**From Feedback Loops to Policy Updates: Reinforcement Fine-Tuning for LLM-Based Alpha Factor Discovery**|Lingzhe Zhang et.al.|[2605.15412v1](http://arxiv.org/abs/2605.15412v1)|null|
 |**2026-05-13 08:05:14**|**Code-Centric Detection of Vulnerability-Fixing Commits: A Unified Benchmark and Empirical Study**|Nils Loose et.al.|[2605.13138v1](http://arxiv.org/abs/2605.13138v1)|null|
 |**2026-05-11 22:46:56**|**Predicting Psychological Well-Being from Spontaneous Speech using LLMs**|Erfan Loweimi et.al.|[2605.11303v1](http://arxiv.org/abs/2605.11303v1)|null|
-|**2026-05-11 10:18:13**|**Extending Confidence-Based Text2Cypher with Grammar and Schema Aware Filtering**|Makbule Gulcin Ozsoy et.al.|[2605.10318v1](http://arxiv.org/abs/2605.10318v1)|null|
-|**2026-05-11 08:28:45**|**When Prompts Become Payloads: A Framework for Mitigating SQL Injection Attacks in Large Language Model-Driven Applications**|Farzad Nourmohammadzadeh Motlagh et.al.|[2605.10176v1](http://arxiv.org/abs/2605.10176v1)|null|
