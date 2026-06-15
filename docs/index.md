@@ -1,11 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2026-06-14 18:42:02 Asia/Shanghai
+ 自动更新 @ 2026-06-15 21:43:22 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-12 14:47:37**|**Every Eval Ever: A Unifying Schema and Community Repository for AI Evaluation Results**|Jan Batzner et.al.|[2606.14516v1](http://arxiv.org/abs/2606.14516v1)|null|
+|**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
 |**2026-06-10 10:43:35**|**From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations**|Yuchen Guan et.al.|[2606.11913v1](http://arxiv.org/abs/2606.11913v1)|null|
 |**2026-06-10 00:40:14**|**VIPIR: A Versatile GPU Framework for Integrating Private Information Retrieval Protocols**|Jongmin Kim et.al.|[2606.11536v1](http://arxiv.org/abs/2606.11536v1)|null|
 |**2026-06-09 16:57:20**|**The Fuel Optimizer: A Data-Driven Numerical Framework for Formulation of Aviation Turbine Fuel**|Ana Larrañaga et.al.|[2606.11099v1](http://arxiv.org/abs/2606.11099v1)|null|
@@ -34,14 +36,13 @@
 |**2026-05-18 02:49:04**|**Systematic Evaluation of the Quality of Synthetic Clinical Notes Rephrased by LLMs at Million-Note Scale**|Jinghui Liu et.al.|[2605.17775v1](http://arxiv.org/abs/2605.17775v1)|null|
 |**2026-05-14 20:54:40**|**From Feedback Loops to Policy Updates: Reinforcement Fine-Tuning for LLM-Based Alpha Factor Discovery**|Lingzhe Zhang et.al.|[2605.15412v1](http://arxiv.org/abs/2605.15412v1)|null|
 |**2026-05-12 11:35:59**|**On the Limitations of Large Language Models for Conceptual Database Modeling**|Arthur F. Siqueira et.al.|[2605.11986v1](http://arxiv.org/abs/2605.11986v1)|null|
-|**2026-05-12 06:42:00**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et.al.|[2605.11610v1](http://arxiv.org/abs/2605.11610v1)|null|
-|**2026-05-11 23:42:00**|**Much of Geospatial Web Search Is Beyond Traditional GIS**|Ilya Ilyankou et.al.|[2605.11336v2](http://arxiv.org/abs/2605.11336v2)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
 |**2026-06-11 05:16:14**|**Quantum charge pumping in helical systems: A comparative study of short- and long-range hopping**|Leila Eslami et.al.|[2606.12914v1](http://arxiv.org/abs/2606.12914v1)|null|
 |**2026-06-08 15:54:28**|**Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery**|Suraj Biswas et.al.|[2606.09672v1](http://arxiv.org/abs/2606.09672v1)|null|
 |**2026-06-04 17:54:03**|**Superconducting triode effect in a quantum-dot Josephson junction with a biased top gate**|Yu-Hang Li et.al.|[2606.06465v1](http://arxiv.org/abs/2606.06465v1)|null|
@@ -71,13 +72,15 @@
 |**2026-04-28 01:39:21**|**Tunable thermal conductivity through dual spin-phonon coupling in van der Waals ferromagnetic insulator Cr2Ge2Te6**|Zhongbin Wang et.al.|[2604.25115v1](http://arxiv.org/abs/2604.25115v1)|null|
 |**2026-04-27 14:22:14**|**Mass-Transfer Control With Microbubbles in Highly Turbulent Decaying Flows**|Vivek Kumar et.al.|[2604.24520v1](http://arxiv.org/abs/2604.24520v1)|null|
 |**2026-04-25 00:31:07**|**RKKY interaction in altermagnets with adiabatic electron-phonon coupling**|Bui D. Hoi et.al.|[2604.23082v1](http://arxiv.org/abs/2604.23082v1)|null|
-|**2026-04-21 01:22:35**|**Distillation Traps and Guards: A Calibration Knob for LLM Distillability**|Weixiao Zhan et.al.|[2604.18963v1](http://arxiv.org/abs/2604.18963v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-12 17:39:29**|**Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows**|Shikun Liu et.al.|[2606.14672v1](http://arxiv.org/abs/2606.14672v1)|null|
+|**2026-06-12 10:08:20**|**Achieving Precise Text-To-Cypher Via Grounded Knowledge Graph Data Generation**|Francesco Cazzaro et.al.|[2606.14325v1](http://arxiv.org/abs/2606.14325v1)|null|
+|**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
 |**2026-06-11 10:08:43**|**Decoding Crystallographic Surface Chirality with Machine Learning: From Atomic Geometry to Fermi Surface Projections**|Chetana Badala Viswanatha et.al.|[2606.13144v1](http://arxiv.org/abs/2606.13144v1)|null|
 |**2026-06-10 19:16:31**|**PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation**|Mahmoud Srewa et.al.|[2606.12616v1](http://arxiv.org/abs/2606.12616v1)|null|
 |**2026-06-10 17:52:15**|**TAHOE: Text-to-SQL with Automated Hint Optimization from Experience**|Zhiyi Chen et.al.|[2606.12387v1](http://arxiv.org/abs/2606.12387v1)|null|
@@ -105,6 +108,3 @@
 |**2026-05-16 02:49:13**|**Systematic dynamical mean-field theory study of 3d perovskite oxides with uniform Coulomb interactions**|Antik Sihi et.al.|[2605.16771v1](http://arxiv.org/abs/2605.16771v1)|null|
 |**2026-05-15 15:58:10**|**DebiasRAG: A Tuning-Free Path to Fair Generation in Large Language Models through Retrieval-Augmented Generation**|Rui Chu et.al.|[2605.16113v1](http://arxiv.org/abs/2605.16113v1)|null|
 |**2026-05-15 15:46:38**|**Towards Foundation Models for Relational Databases with Language Models and Graph Neural Networks**|Jingcheng Wu et.al.|[2605.16085v1](http://arxiv.org/abs/2605.16085v1)|null|
-|**2026-05-14 20:54:40**|**From Feedback Loops to Policy Updates: Reinforcement Fine-Tuning for LLM-Based Alpha Factor Discovery**|Lingzhe Zhang et.al.|[2605.15412v1](http://arxiv.org/abs/2605.15412v1)|null|
-|**2026-05-13 08:05:14**|**Code-Centric Detection of Vulnerability-Fixing Commits: A Unified Benchmark and Empirical Study**|Nils Loose et.al.|[2605.13138v1](http://arxiv.org/abs/2605.13138v1)|null|
-|**2026-05-11 22:46:56**|**Predicting Psychological Well-Being from Spontaneous Speech using LLMs**|Erfan Loweimi et.al.|[2605.11303v1](http://arxiv.org/abs/2605.11303v1)|null|

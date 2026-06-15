@@ -2,6 +2,9 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-12 17:39:29**|**Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows**|Shikun Liu et.al.|[2606.14672v1](http://arxiv.org/abs/2606.14672v1)|null|
+|**2026-06-12 10:08:20**|**Achieving Precise Text-To-Cypher Via Grounded Knowledge Graph Data Generation**|Francesco Cazzaro et.al.|[2606.14325v1](http://arxiv.org/abs/2606.14325v1)|null|
+|**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
 |**2026-06-11 10:08:43**|**Decoding Crystallographic Surface Chirality with Machine Learning: From Atomic Geometry to Fermi Surface Projections**|Chetana Badala Viswanatha et.al.|[2606.13144v1](http://arxiv.org/abs/2606.13144v1)|null|
 |**2026-06-10 19:16:31**|**PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation**|Mahmoud Srewa et.al.|[2606.12616v1](http://arxiv.org/abs/2606.12616v1)|null|
 |**2026-06-10 17:52:15**|**TAHOE: Text-to-SQL with Automated Hint Optimization from Experience**|Zhiyi Chen et.al.|[2606.12387v1](http://arxiv.org/abs/2606.12387v1)|null|
@@ -29,6 +32,3 @@
 |**2026-05-16 02:49:13**|**Systematic dynamical mean-field theory study of 3d perovskite oxides with uniform Coulomb interactions**|Antik Sihi et.al.|[2605.16771v1](http://arxiv.org/abs/2605.16771v1)|null|
 |**2026-05-15 15:58:10**|**DebiasRAG: A Tuning-Free Path to Fair Generation in Large Language Models through Retrieval-Augmented Generation**|Rui Chu et.al.|[2605.16113v1](http://arxiv.org/abs/2605.16113v1)|null|
 |**2026-05-15 15:46:38**|**Towards Foundation Models for Relational Databases with Language Models and Graph Neural Networks**|Jingcheng Wu et.al.|[2605.16085v1](http://arxiv.org/abs/2605.16085v1)|null|
-|**2026-05-14 20:54:40**|**From Feedback Loops to Policy Updates: Reinforcement Fine-Tuning for LLM-Based Alpha Factor Discovery**|Lingzhe Zhang et.al.|[2605.15412v1](http://arxiv.org/abs/2605.15412v1)|null|
-|**2026-05-13 08:05:14**|**Code-Centric Detection of Vulnerability-Fixing Commits: A Unified Benchmark and Empirical Study**|Nils Loose et.al.|[2605.13138v1](http://arxiv.org/abs/2605.13138v1)|null|
-|**2026-05-11 22:46:56**|**Predicting Psychological Well-Being from Spontaneous Speech using LLMs**|Erfan Loweimi et.al.|[2605.11303v1](http://arxiv.org/abs/2605.11303v1)|null|

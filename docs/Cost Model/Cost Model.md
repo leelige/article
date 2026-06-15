@@ -2,6 +2,8 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-12 14:47:37**|**Every Eval Ever: A Unifying Schema and Community Repository for AI Evaluation Results**|Jan Batzner et.al.|[2606.14516v1](http://arxiv.org/abs/2606.14516v1)|null|
+|**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
 |**2026-06-10 10:43:35**|**From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations**|Yuchen Guan et.al.|[2606.11913v1](http://arxiv.org/abs/2606.11913v1)|null|
 |**2026-06-10 00:40:14**|**VIPIR: A Versatile GPU Framework for Integrating Private Information Retrieval Protocols**|Jongmin Kim et.al.|[2606.11536v1](http://arxiv.org/abs/2606.11536v1)|null|
 |**2026-06-09 16:57:20**|**The Fuel Optimizer: A Data-Driven Numerical Framework for Formulation of Aviation Turbine Fuel**|Ana Larrañaga et.al.|[2606.11099v1](http://arxiv.org/abs/2606.11099v1)|null|
@@ -30,5 +32,3 @@
 |**2026-05-18 02:49:04**|**Systematic Evaluation of the Quality of Synthetic Clinical Notes Rephrased by LLMs at Million-Note Scale**|Jinghui Liu et.al.|[2605.17775v1](http://arxiv.org/abs/2605.17775v1)|null|
 |**2026-05-14 20:54:40**|**From Feedback Loops to Policy Updates: Reinforcement Fine-Tuning for LLM-Based Alpha Factor Discovery**|Lingzhe Zhang et.al.|[2605.15412v1](http://arxiv.org/abs/2605.15412v1)|null|
 |**2026-05-12 11:35:59**|**On the Limitations of Large Language Models for Conceptual Database Modeling**|Arthur F. Siqueira et.al.|[2605.11986v1](http://arxiv.org/abs/2605.11986v1)|null|
-|**2026-05-12 06:42:00**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et.al.|[2605.11610v1](http://arxiv.org/abs/2605.11610v1)|null|
-|**2026-05-11 23:42:00**|**Much of Geospatial Web Search Is Beyond Traditional GIS**|Ilya Ilyankou et.al.|[2605.11336v2](http://arxiv.org/abs/2605.11336v2)|null|
