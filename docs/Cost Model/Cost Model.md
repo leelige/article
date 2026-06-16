@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-14 18:52:26**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2606.15971v1](http://arxiv.org/abs/2606.15971v1)|[link](https://github.com/Zleap-AI/SAG-Benchmark)|
 |**2026-06-12 14:47:37**|**Every Eval Ever: A Unifying Schema and Community Repository for AI Evaluation Results**|Jan Batzner et.al.|[2606.14516v1](http://arxiv.org/abs/2606.14516v1)|null|
 |**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
 |**2026-06-10 10:43:35**|**From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations**|Yuchen Guan et.al.|[2606.11913v1](http://arxiv.org/abs/2606.11913v1)|null|
@@ -31,4 +32,3 @@
 |**2026-05-18 04:19:41**|**Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search**|Jialin Lu et.al.|[2605.20244v1](http://arxiv.org/abs/2605.20244v1)|null|
 |**2026-05-18 02:49:04**|**Systematic Evaluation of the Quality of Synthetic Clinical Notes Rephrased by LLMs at Million-Note Scale**|Jinghui Liu et.al.|[2605.17775v1](http://arxiv.org/abs/2605.17775v1)|null|
 |**2026-05-14 20:54:40**|**From Feedback Loops to Policy Updates: Reinforcement Fine-Tuning for LLM-Based Alpha Factor Discovery**|Lingzhe Zhang et.al.|[2605.15412v1](http://arxiv.org/abs/2605.15412v1)|null|
-|**2026-05-12 11:35:59**|**On the Limitations of Large Language Models for Conceptual Database Modeling**|Arthur F. Siqueira et.al.|[2605.11986v1](http://arxiv.org/abs/2605.11986v1)|null|

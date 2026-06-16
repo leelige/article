@@ -2,6 +2,10 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-15 13:55:37**|**The Edge-on Galaxies in the DESI survey (EGIDE): sample building and photometry**|Alexander A. Marchuk et.al.|[2606.16734v1](http://arxiv.org/abs/2606.16734v1)|null|
+|**2026-06-15 03:10:17**|**LiteOdyssey: A Lightweight Reasoning AI Agent for Interpretable Rare-Disease Diagnosis**|Minh-Ha Nguyen et.al.|[2606.16149v1](http://arxiv.org/abs/2606.16149v1)|null|
+|**2026-06-14 04:52:58**|**Integrating Reasoning and Generalization in Text-to-SQL via Self-Enhanced Fine-Tuning**|Feng Lyu et.al.|[2606.15598v1](http://arxiv.org/abs/2606.15598v1)|null|
+|**2026-06-13 12:41:31**|**Enhancing Precision Agriculture with a Hybrid Deep Learning Framework for Multi-Class Plant Disease Classification and Interpretability**|Hasibul Islam Sufi et.al.|[2606.15282v1](http://arxiv.org/abs/2606.15282v1)|null|
 |**2026-06-12 17:39:29**|**Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows**|Shikun Liu et.al.|[2606.14672v1](http://arxiv.org/abs/2606.14672v1)|null|
 |**2026-06-12 10:08:20**|**Achieving Precise Text-To-Cypher Via Grounded Knowledge Graph Data Generation**|Francesco Cazzaro et.al.|[2606.14325v1](http://arxiv.org/abs/2606.14325v1)|null|
 |**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
@@ -22,13 +26,9 @@
 |**2026-05-24 23:21:44**|**Eureka: Intelligent Feature Engineering for Enterprise AI Cloud Resource Demand Prediction**|Hangxuan Li et.al.|[2605.25297v2](http://arxiv.org/abs/2605.25297v2)|null|
 |**2026-05-24 00:33:54**|**Parameter-Efficient VLMs for Gastrointestinal Endoscopy: Medical Image Generation and Clinical Visual Question Answering**|Ojonugwa Oluwafemi Ejiga Peter et.al.|[2605.24792v1](http://arxiv.org/abs/2605.24792v1)|null|
 |**2026-05-21 23:40:51**|**A Fine-Tuned BERT Classifier for Personal-Letter Titles in Late-Ming and Early-Qing Collected Works**|Queenie Luo et.al.|[2605.23103v1](http://arxiv.org/abs/2605.23103v1)|null|
-|**2026-05-21 00:47:03**|**ACC: Compiling Agent Trajectories for Long-Context Training**|Qisheng Su et.al.|[2605.21850v1](http://arxiv.org/abs/2605.21850v1)|null|
+|**2026-05-21 00:47:03**|**ACC: Compiling Agent Trajectories for Long-Context Training**|Qisheng Su et.al.|[2605.21850v2](http://arxiv.org/abs/2605.21850v2)|null|
 |**2026-05-19 01:40:08**|**Example-Driven Intent Synthesis for Constrained Data Bundle Retrieval: Focused Text Snippet Extraction and Beyond**|Whanhee Cho et.al.|[2605.19246v1](http://arxiv.org/abs/2605.19246v1)|null|
 |**2026-05-18 21:45:36**|**Harnessing AtomisticSkills for Agentic Atomistic Research**|Bowen Deng et.al.|[2605.24002v1](http://arxiv.org/abs/2605.24002v1)|null|
 |**2026-05-18 08:57:58**|**Parameterized 4-Qubit EWL Quantum Game Circuits with Dirac-Solow-Swan Hamiltonian Integration for Quadruple Helix Disruptive Innovation Recommender Systems**|Agung Trisetyarso et.al.|[2605.18080v1](http://arxiv.org/abs/2605.18080v1)|null|
 |**2026-05-18 04:19:41**|**Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search**|Jialin Lu et.al.|[2605.20244v1](http://arxiv.org/abs/2605.20244v1)|null|
 |**2026-05-17 12:22:49**|**IVF-TQ: Calibration-Free Streaming Vector Search via a Codebook-Free Residual Layer**|Tarun Sharma et.al.|[2605.17415v2](http://arxiv.org/abs/2605.17415v2)|null|
-|**2026-05-17 05:03:24**|**Unlocking Biological Workflows for Robust Protein-Text Question Answering: A Dual-Dimensional RAG Framework**|Li Ding et.al.|[2605.17261v1](http://arxiv.org/abs/2605.17261v1)|null|
-|**2026-05-16 02:49:13**|**Systematic dynamical mean-field theory study of 3d perovskite oxides with uniform Coulomb interactions**|Antik Sihi et.al.|[2605.16771v1](http://arxiv.org/abs/2605.16771v1)|null|
-|**2026-05-15 15:58:10**|**DebiasRAG: A Tuning-Free Path to Fair Generation in Large Language Models through Retrieval-Augmented Generation**|Rui Chu et.al.|[2605.16113v1](http://arxiv.org/abs/2605.16113v1)|null|
-|**2026-05-15 15:46:38**|**Towards Foundation Models for Relational Databases with Language Models and Graph Neural Networks**|Jingcheng Wu et.al.|[2605.16085v1](http://arxiv.org/abs/2605.16085v1)|null|
