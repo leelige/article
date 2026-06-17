@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-06-16 20:43:02 Asia/Shanghai
+ 自动更新 @ 2026-06-17 20:07:30 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-16 16:53:18**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153v1](http://arxiv.org/abs/2606.18153v1)|null|
 |**2026-06-14 18:52:26**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2606.15971v1](http://arxiv.org/abs/2606.15971v1)|[link](https://github.com/Zleap-AI/SAG-Benchmark)|
 |**2026-06-12 14:47:37**|**Every Eval Ever: A Unifying Schema and Community Repository for AI Evaluation Results**|Jan Batzner et.al.|[2606.14516v1](http://arxiv.org/abs/2606.14516v1)|null|
 |**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
@@ -35,19 +36,21 @@
 |**2026-05-18 17:01:34**|**Statistical Limits and Efficient Algorithms for Differentially Private Federated Learning**|Arnab Auddy et.al.|[2605.18656v1](http://arxiv.org/abs/2605.18656v1)|null|
 |**2026-05-18 04:19:41**|**Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search**|Jialin Lu et.al.|[2605.20244v1](http://arxiv.org/abs/2605.20244v1)|null|
 |**2026-05-18 02:49:04**|**Systematic Evaluation of the Quality of Synthetic Clinical Notes Rephrased by LLMs at Million-Note Scale**|Jinghui Liu et.al.|[2605.17775v1](http://arxiv.org/abs/2605.17775v1)|null|
-|**2026-05-14 20:54:40**|**From Feedback Loops to Policy Updates: Reinforcement Fine-Tuning for LLM-Based Alpha Factor Discovery**|Lingzhe Zhang et.al.|[2605.15412v1](http://arxiv.org/abs/2605.15412v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-16 17:19:06**|**Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold**|Madhulatha Mandarapu et.al.|[2606.18187v1](http://arxiv.org/abs/2606.18187v1)|null|
+|**2026-06-16 08:50:54**|**Coherent Control of an Embedded Bound State Without a Spectral Gap**|Yue Chang et.al.|[2606.17685v1](http://arxiv.org/abs/2606.17685v1)|null|
 |**2026-06-15 16:30:34**|**Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions**|Yu-Xuan Li et.al.|[2606.16931v1](http://arxiv.org/abs/2606.16931v1)|null|
 |**2026-06-14 18:26:43**|**Green SARC: Predictive Cost and Carbon Governance for Agentic AI Systems**|Gaston Besanson et.al.|[2606.15954v1](http://arxiv.org/abs/2606.15954v1)|null|
 |**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
 |**2026-06-11 05:16:14**|**Quantum charge pumping in helical systems: A comparative study of short- and long-range hopping**|Leila Eslami et.al.|[2606.12914v1](http://arxiv.org/abs/2606.12914v1)|null|
 |**2026-06-08 15:54:28**|**Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery**|Suraj Biswas et.al.|[2606.09672v1](http://arxiv.org/abs/2606.09672v1)|null|
 |**2026-06-04 17:54:03**|**Superconducting triode effect in a quantum-dot Josephson junction with a biased top gate**|Yu-Hang Li et.al.|[2606.06465v1](http://arxiv.org/abs/2606.06465v1)|null|
+|**2026-06-04 14:43:38**|**PIVOT: Bridging Black-Scholes Implied-Volatility and Price Objectives via Differentiable Jäckel Operator**|Raeid Saqur et.al.|[2606.17065v1](http://arxiv.org/abs/2606.17065v1)|null|
 |**2026-06-03 13:29:50**|**Coulomb-mediated interactions of charge-transfer excitons in TMD lateral heterostructures**|Kabyashree Sonowal et.al.|[2606.04865v1](http://arxiv.org/abs/2606.04865v1)|null|
 |**2026-06-03 11:50:24**|**Tunable supramolecular polymerization from protein charge heterogeneity and architecture**|Nynke Marije Hettema et.al.|[2606.04766v1](http://arxiv.org/abs/2606.04766v1)|null|
 |**2026-06-01 11:26:24**|**Anisotropic Moiré Fractional Chern Insulators and Their Phase Transitions**|Bo Peng et.al.|[2606.02094v1](http://arxiv.org/abs/2606.02094v1)|null|
@@ -69,15 +72,13 @@
 |**2026-05-11 02:05:30**|**M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models**|Junjian Wang et.al.|[2605.09879v1](http://arxiv.org/abs/2605.09879v1)|[link](https://github.com/laplucky/M2A.git)|
 |**2026-05-10 17:43:56**|**Giant Rashba Splitting and Enhanced Nonlinear Berry-Phase Responses in Sliding-Tunable vdW MXene Heterostructures**|Ali Sufyan et.al.|[2605.09674v1](http://arxiv.org/abs/2605.09674v1)|null|
 |**2026-05-09 09:10:03**|**How You Begin is How You Reason: Driving Exploration in RLVR via Prefix-Tuned Priors**|Yifan Xu et.al.|[2605.08817v1](http://arxiv.org/abs/2605.08817v1)|null|
-|**2026-05-06 18:00:01**|**Engineering Quantum Many-Body Scars through Lattice Geometry**|Erick Parra Verde et.al.|[2605.05296v1](http://arxiv.org/abs/2605.05296v1)|null|
-|**2026-04-28 21:08:37**|**One knob to tune them all: Phase-controlled photon statistics and linewidth in partially pumped atomic ensembles**|Oksana Chelpanova et.al.|[2604.26117v2](http://arxiv.org/abs/2604.26117v2)|null|
-|**2026-04-28 01:39:21**|**Tunable thermal conductivity through dual spin-phonon coupling in van der Waals ferromagnetic insulator Cr2Ge2Te6**|Zhongbin Wang et.al.|[2604.25115v1](http://arxiv.org/abs/2604.25115v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-16 11:48:50**|**DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL**|Esteban Schafir et.al.|[2606.17821v1](http://arxiv.org/abs/2606.17821v1)|null|
 |**2026-06-15 13:55:37**|**The Edge-on Galaxies in the DESI survey (EGIDE): sample building and photometry**|Alexander A. Marchuk et.al.|[2606.16734v1](http://arxiv.org/abs/2606.16734v1)|null|
 |**2026-06-15 03:10:17**|**LiteOdyssey: A Lightweight Reasoning AI Agent for Interpretable Rare-Disease Diagnosis**|Minh-Ha Nguyen et.al.|[2606.16149v1](http://arxiv.org/abs/2606.16149v1)|null|
 |**2026-06-14 04:52:58**|**Integrating Reasoning and Generalization in Text-to-SQL via Self-Enhanced Fine-Tuning**|Feng Lyu et.al.|[2606.15598v1](http://arxiv.org/abs/2606.15598v1)|null|
@@ -107,4 +108,3 @@
 |**2026-05-18 21:45:36**|**Harnessing AtomisticSkills for Agentic Atomistic Research**|Bowen Deng et.al.|[2605.24002v1](http://arxiv.org/abs/2605.24002v1)|null|
 |**2026-05-18 08:57:58**|**Parameterized 4-Qubit EWL Quantum Game Circuits with Dirac-Solow-Swan Hamiltonian Integration for Quadruple Helix Disruptive Innovation Recommender Systems**|Agung Trisetyarso et.al.|[2605.18080v1](http://arxiv.org/abs/2605.18080v1)|null|
 |**2026-05-18 04:19:41**|**Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search**|Jialin Lu et.al.|[2605.20244v1](http://arxiv.org/abs/2605.20244v1)|null|
-|**2026-05-17 12:22:49**|**IVF-TQ: Calibration-Free Streaming Vector Search via a Codebook-Free Residual Layer**|Tarun Sharma et.al.|[2605.17415v2](http://arxiv.org/abs/2605.17415v2)|null|
