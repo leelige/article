@@ -2,6 +2,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-16 21:15:49**|**Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases**|Chandranil Chakraborttii et.al.|[2606.18497v1](http://arxiv.org/abs/2606.18497v1)|null|
 |**2026-06-16 11:48:50**|**DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL**|Esteban Schafir et.al.|[2606.17821v1](http://arxiv.org/abs/2606.17821v1)|null|
 |**2026-06-15 13:55:37**|**The Edge-on Galaxies in the DESI survey (EGIDE): sample building and photometry**|Alexander A. Marchuk et.al.|[2606.16734v1](http://arxiv.org/abs/2606.16734v1)|null|
 |**2026-06-15 03:10:17**|**LiteOdyssey: A Lightweight Reasoning AI Agent for Interpretable Rare-Disease Diagnosis**|Minh-Ha Nguyen et.al.|[2606.16149v1](http://arxiv.org/abs/2606.16149v1)|null|
@@ -31,4 +32,3 @@
 |**2026-05-19 01:40:08**|**Example-Driven Intent Synthesis for Constrained Data Bundle Retrieval: Focused Text Snippet Extraction and Beyond**|Whanhee Cho et.al.|[2605.19246v1](http://arxiv.org/abs/2605.19246v1)|null|
 |**2026-05-18 21:45:36**|**Harnessing AtomisticSkills for Agentic Atomistic Research**|Bowen Deng et.al.|[2605.24002v1](http://arxiv.org/abs/2605.24002v1)|null|
 |**2026-05-18 08:57:58**|**Parameterized 4-Qubit EWL Quantum Game Circuits with Dirac-Solow-Swan Hamiltonian Integration for Quadruple Helix Disruptive Innovation Recommender Systems**|Agung Trisetyarso et.al.|[2605.18080v1](http://arxiv.org/abs/2605.18080v1)|null|
-|**2026-05-18 04:19:41**|**Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search**|Jialin Lu et.al.|[2605.20244v1](http://arxiv.org/abs/2605.20244v1)|null|
