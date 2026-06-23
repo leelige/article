@@ -2,6 +2,11 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-22 17:52:14**|**The Table Says Otherwise: Testing LLMs with Counterfactual Relational Data**|Xinzhi Wang et.al.|[2606.23667v1](http://arxiv.org/abs/2606.23667v1)|null|
+|**2026-06-22 16:13:39**|**SQLConductor: Search-to-Policy Learning for Step-wise Text-to-SQL Orchestration**|Yizhang Zhu et.al.|[2606.23537v1](http://arxiv.org/abs/2606.23537v1)|null|
+|**2026-06-22 12:44:50**|**Tuning Quantum MPS**|Anna Leonteva et.al.|[2606.23262v1](http://arxiv.org/abs/2606.23262v1)|null|
+|**2026-06-22 07:02:33**|**MythraGen: Two-Stage Retrieval Augmented Art Generation Framework**|Quang-Khai Le et.al.|[2606.22924v1](http://arxiv.org/abs/2606.22924v1)|null|
+|**2026-06-20 02:08:52**|**AgentDSE: Reasoning-Augmented Architectural Design Space Exploration**|Chenyu Wang et.al.|[2606.21836v1](http://arxiv.org/abs/2606.21836v1)|null|
 |**2026-06-18 14:57:10**|**AgenticDB: Agentic Performance Reconfiguration for Database Workloads**|Xinyue Yang et.al.|[2606.20318v1](http://arxiv.org/abs/2606.20318v1)|null|
 |**2026-06-18 04:56:00**|**Cross-Dataset, Age, and Gender Generalization: A Comprehensive Analysis of Fine-Tuning Strategies for Low-Resource Children's ASR**|Paban Sapkota et.al.|[2606.19791v1](http://arxiv.org/abs/2606.19791v1)|null|
 |**2026-06-16 21:15:49**|**Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases**|Chandranil Chakraborttii et.al.|[2606.18497v1](http://arxiv.org/abs/2606.18497v1)|null|
@@ -27,8 +32,3 @@
 |**2026-05-29 10:07:43**|**SpecDB: LLM-Generated Customized Databases via Feature-Oriented Decomposition**|Yunkai Lou et.al.|[2605.31097v1](http://arxiv.org/abs/2605.31097v1)|null|
 |**2026-05-28 14:06:25**|**Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent**|Yiming Liu et.al.|[2605.29966v1](http://arxiv.org/abs/2605.29966v1)|null|
 |**2026-05-25 08:26:34**|**AnE: Pushing the Reasoning Frontier of Multimodal LLMs via Anchor Evolution**|Zehao Wang et.al.|[2605.25571v1](http://arxiv.org/abs/2605.25571v1)|null|
-|**2026-05-24 23:21:44**|**Eureka: Intelligent Feature Engineering for Enterprise AI Cloud Resource Demand Prediction**|Hangxuan Li et.al.|[2605.25297v2](http://arxiv.org/abs/2605.25297v2)|null|
-|**2026-05-24 00:33:54**|**Parameter-Efficient VLMs for Gastrointestinal Endoscopy: Medical Image Generation and Clinical Visual Question Answering**|Ojonugwa Oluwafemi Ejiga Peter et.al.|[2605.24792v1](http://arxiv.org/abs/2605.24792v1)|null|
-|**2026-05-21 23:40:51**|**A Fine-Tuned BERT Classifier for Personal-Letter Titles in Late-Ming and Early-Qing Collected Works**|Queenie Luo et.al.|[2605.23103v1](http://arxiv.org/abs/2605.23103v1)|null|
-|**2026-05-21 00:47:03**|**ACC: Compiling Agent Trajectories for Long-Context Training**|Qisheng Su et.al.|[2605.21850v2](http://arxiv.org/abs/2605.21850v2)|null|
-|**2026-05-19 01:40:08**|**Example-Driven Intent Synthesis for Constrained Data Bundle Retrieval: Focused Text Snippet Extraction and Beyond**|Whanhee Cho et.al.|[2605.19246v1](http://arxiv.org/abs/2605.19246v1)|null|

@@ -1,16 +1,21 @@
 # arxiv-daily
- 自动更新 @ 2026-06-22 21:23:27 Asia/Shanghai
+ 自动更新 @ 2026-06-23 18:51:22 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-06-18 02:42:14**|**Library-Aware Doubles and Iterative Repair for Large Language Model-Generated Unit Tests in OpenSIL Firmware**|Ma Toan Bach et.al.|[2606.19725v1](http://arxiv.org/abs/2606.19725v1)|null|
+|**2026-06-22 09:30:24**|**SemCEB: A Cardinality Estimation Benchmark for Semantic Operators**|Andreas Zimmerer et.al.|[2606.23081v1](http://arxiv.org/abs/2606.23081v1)|null|
+|**2026-06-21 22:09:12**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692v1](http://arxiv.org/abs/2606.22692v1)|null|
+|**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
+|**2026-06-18 18:37:05**|**ReSequel: Robust LLM-assisted Query Rewriting and Optimization using Templatization and Sampling**|Saeed Fathollahzadeh et.al.|[2606.20853v1](http://arxiv.org/abs/2606.20853v1)|null|
+|**2026-06-18 02:42:14**|**Library-Aware Doubles and Iterative Repair for Large Language Model-Generated Unit Tests in OpenSIL Firmware**|Ma Toan Bach et.al.|[2606.19725v2](http://arxiv.org/abs/2606.19725v2)|null|
 |**2026-06-17 20:28:47**|**REMOP: REmote-Memory-aware OPerator Optimization**|Shiquan Zhang et.al.|[2606.19576v1](http://arxiv.org/abs/2606.19576v1)|null|
 |**2026-06-16 16:53:18**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153v1](http://arxiv.org/abs/2606.18153v1)|null|
 |**2026-06-14 18:52:26**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2606.15971v1](http://arxiv.org/abs/2606.15971v1)|[link](https://github.com/Zleap-AI/SAG-Benchmark)|
 |**2026-06-12 14:47:37**|**Every Eval Ever: A Unifying Schema and Community Repository for AI Evaluation Results**|Jan Batzner et.al.|[2606.14516v1](http://arxiv.org/abs/2606.14516v1)|null|
+|**2026-06-12 14:02:37**|**GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge**|Pavan C Shekar et.al.|[2606.14470v2](http://arxiv.org/abs/2606.14470v2)|null|
 |**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
 |**2026-06-10 10:43:35**|**From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations**|Yuchen Guan et.al.|[2606.11913v1](http://arxiv.org/abs/2606.11913v1)|null|
 |**2026-06-10 00:40:14**|**VIPIR: A Versatile GPU Framework for Integrating Private Information Retrieval Protocols**|Jongmin Kim et.al.|[2606.11536v1](http://arxiv.org/abs/2606.11536v1)|null|
@@ -31,17 +36,15 @@
 |**2026-05-27 08:50:02**|**OccuReward: LLM-Guided Occupant-Centric Reward Shaping for Demographic Equity in Grid-Interactive Buildings**|Shadmehr Zaregarizi et.al.|[2605.28168v1](http://arxiv.org/abs/2605.28168v1)|null|
 |**2026-05-26 16:09:58**|**At-Scale Data-Driven Exploration of High-Voltage Cathode-Active Materials for Sodium Batteries**|Suchona Akter et.al.|[2605.27229v1](http://arxiv.org/abs/2605.27229v1)|null|
 |**2026-05-24 00:33:54**|**Parameter-Efficient VLMs for Gastrointestinal Endoscopy: Medical Image Generation and Clinical Visual Question Answering**|Ojonugwa Oluwafemi Ejiga Peter et.al.|[2605.24792v1](http://arxiv.org/abs/2605.24792v1)|null|
-|**2026-05-20 23:33:44**|**Barriers to Evidence in AI-Related Cases and the Privatization of Proof**|Sarah H. Cen et.al.|[2605.21816v1](http://arxiv.org/abs/2605.21816v1)|null|
-|**2026-05-19 23:55:19**|**Beyond Text and Tables: Vision-Language Model Integration in ComProScanner for Extracting Materials Data from Scientific Figures with High Accuracy**|Aritra Roy et.al.|[2606.00065v1](http://arxiv.org/abs/2606.00065v1)|null|
-|**2026-05-19 23:01:57**|**Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning**|Zichao Zeng et.al.|[2605.20551v1](http://arxiv.org/abs/2605.20551v1)|null|
-|**2026-05-19 19:10:30**|**PlanRAG-Audio: Planning and Retrieval Augmented Generation for Long-form Audio Understanding**|Masao Someki et.al.|[2605.20414v2](http://arxiv.org/abs/2605.20414v2)|null|
-|**2026-05-18 17:01:34**|**Statistical Limits and Efficient Algorithms for Differentially Private Federated Learning**|Arnab Auddy et.al.|[2605.18656v1](http://arxiv.org/abs/2605.18656v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-20 20:08:15**|**Deterministic control of the probabilistic phase dynamics in injection-locked spin-torque nano-oscillators**|Abderrazak Hakam et.al.|[2606.22208v1](http://arxiv.org/abs/2606.22208v1)|null|
+|**2026-06-20 11:32:38**|**Magneto-ionic control of topological transport in SrRuO3 via band topology engineering**|Xuanchi Zhou et.al.|[2606.21999v1](http://arxiv.org/abs/2606.21999v1)|null|
+|**2026-06-20 07:44:50**|**Cache-Aware I/O Cost Modeling for Disk-Based Learned Indexes**|Zhanwei Shi et.al.|[2606.21924v1](http://arxiv.org/abs/2606.21924v1)|null|
 |**2026-06-18 14:57:10**|**AgenticDB: Agentic Performance Reconfiguration for Database Workloads**|Xinyue Yang et.al.|[2606.20318v1](http://arxiv.org/abs/2606.20318v1)|null|
 |**2026-06-18 05:25:43**|**Think Again or Think Longer? Selective Verification for Budget-Aware Reasoning**|Sajib Acharjee Dip et.al.|[2606.19808v1](http://arxiv.org/abs/2606.19808v1)|null|
 |**2026-06-18 05:15:43**|**Flow Map Denoisers: Traversing the Distortion-Perception Plane for Inverse Problems**|Nicolas Zilberstein et.al.|[2606.19802v1](http://arxiv.org/abs/2606.19802v1)|null|
@@ -69,15 +72,17 @@
 |**2026-05-19 07:34:08**|**C2CServe: Leveraging NVLink-C2C for Elastic Serverless LLM Serving on MIG**|Shutian Luo et.al.|[2605.19481v1](http://arxiv.org/abs/2605.19481v1)|null|
 |**2026-05-18 02:24:52**|**Memisis: Orchestrating and Evaluating Synthetic Data for Tabular Health Datasets**|Nitish Nagesh et.al.|[2605.17758v1](http://arxiv.org/abs/2605.17758v1)|null|
 |**2026-05-15 17:44:03**|**Acoustic spin resonance in polariton condensates**|D. A. Saltykova et.al.|[2605.16236v1](http://arxiv.org/abs/2605.16236v1)|null|
-|**2026-05-14 16:25:32**|**SemaTune: Semantic-Aware Online OS Tuning with Large Language Models**|Georgios Liargkovas et.al.|[2605.15026v1](http://arxiv.org/abs/2605.15026v1)|null|
-|**2026-05-14 05:55:36**|**Tunable high-$Q$ Janus-to-chiral bound states in the continuum in bilayer PhCs**|Zhexing Dong et.al.|[2605.14412v1](http://arxiv.org/abs/2605.14412v1)|null|
-|**2026-05-12 17:35:21**|**Equivariant Space Group and Hamiltonian for Collinear Magnetic Systems**|Chaoxi Cui et.al.|[2605.12440v1](http://arxiv.org/abs/2605.12440v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-22 17:52:14**|**The Table Says Otherwise: Testing LLMs with Counterfactual Relational Data**|Xinzhi Wang et.al.|[2606.23667v1](http://arxiv.org/abs/2606.23667v1)|null|
+|**2026-06-22 16:13:39**|**SQLConductor: Search-to-Policy Learning for Step-wise Text-to-SQL Orchestration**|Yizhang Zhu et.al.|[2606.23537v1](http://arxiv.org/abs/2606.23537v1)|null|
+|**2026-06-22 12:44:50**|**Tuning Quantum MPS**|Anna Leonteva et.al.|[2606.23262v1](http://arxiv.org/abs/2606.23262v1)|null|
+|**2026-06-22 07:02:33**|**MythraGen: Two-Stage Retrieval Augmented Art Generation Framework**|Quang-Khai Le et.al.|[2606.22924v1](http://arxiv.org/abs/2606.22924v1)|null|
+|**2026-06-20 02:08:52**|**AgentDSE: Reasoning-Augmented Architectural Design Space Exploration**|Chenyu Wang et.al.|[2606.21836v1](http://arxiv.org/abs/2606.21836v1)|null|
 |**2026-06-18 14:57:10**|**AgenticDB: Agentic Performance Reconfiguration for Database Workloads**|Xinyue Yang et.al.|[2606.20318v1](http://arxiv.org/abs/2606.20318v1)|null|
 |**2026-06-18 04:56:00**|**Cross-Dataset, Age, and Gender Generalization: A Comprehensive Analysis of Fine-Tuning Strategies for Low-Resource Children's ASR**|Paban Sapkota et.al.|[2606.19791v1](http://arxiv.org/abs/2606.19791v1)|null|
 |**2026-06-16 21:15:49**|**Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases**|Chandranil Chakraborttii et.al.|[2606.18497v1](http://arxiv.org/abs/2606.18497v1)|null|
@@ -103,8 +108,3 @@
 |**2026-05-29 10:07:43**|**SpecDB: LLM-Generated Customized Databases via Feature-Oriented Decomposition**|Yunkai Lou et.al.|[2605.31097v1](http://arxiv.org/abs/2605.31097v1)|null|
 |**2026-05-28 14:06:25**|**Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent**|Yiming Liu et.al.|[2605.29966v1](http://arxiv.org/abs/2605.29966v1)|null|
 |**2026-05-25 08:26:34**|**AnE: Pushing the Reasoning Frontier of Multimodal LLMs via Anchor Evolution**|Zehao Wang et.al.|[2605.25571v1](http://arxiv.org/abs/2605.25571v1)|null|
-|**2026-05-24 23:21:44**|**Eureka: Intelligent Feature Engineering for Enterprise AI Cloud Resource Demand Prediction**|Hangxuan Li et.al.|[2605.25297v2](http://arxiv.org/abs/2605.25297v2)|null|
-|**2026-05-24 00:33:54**|**Parameter-Efficient VLMs for Gastrointestinal Endoscopy: Medical Image Generation and Clinical Visual Question Answering**|Ojonugwa Oluwafemi Ejiga Peter et.al.|[2605.24792v1](http://arxiv.org/abs/2605.24792v1)|null|
-|**2026-05-21 23:40:51**|**A Fine-Tuned BERT Classifier for Personal-Letter Titles in Late-Ming and Early-Qing Collected Works**|Queenie Luo et.al.|[2605.23103v1](http://arxiv.org/abs/2605.23103v1)|null|
-|**2026-05-21 00:47:03**|**ACC: Compiling Agent Trajectories for Long-Context Training**|Qisheng Su et.al.|[2605.21850v2](http://arxiv.org/abs/2605.21850v2)|null|
-|**2026-05-19 01:40:08**|**Example-Driven Intent Synthesis for Constrained Data Bundle Retrieval: Focused Text Snippet Extraction and Beyond**|Whanhee Cho et.al.|[2605.19246v1](http://arxiv.org/abs/2605.19246v1)|null|

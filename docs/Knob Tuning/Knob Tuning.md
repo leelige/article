@@ -2,6 +2,9 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-20 20:08:15**|**Deterministic control of the probabilistic phase dynamics in injection-locked spin-torque nano-oscillators**|Abderrazak Hakam et.al.|[2606.22208v1](http://arxiv.org/abs/2606.22208v1)|null|
+|**2026-06-20 11:32:38**|**Magneto-ionic control of topological transport in SrRuO3 via band topology engineering**|Xuanchi Zhou et.al.|[2606.21999v1](http://arxiv.org/abs/2606.21999v1)|null|
+|**2026-06-20 07:44:50**|**Cache-Aware I/O Cost Modeling for Disk-Based Learned Indexes**|Zhanwei Shi et.al.|[2606.21924v1](http://arxiv.org/abs/2606.21924v1)|null|
 |**2026-06-18 14:57:10**|**AgenticDB: Agentic Performance Reconfiguration for Database Workloads**|Xinyue Yang et.al.|[2606.20318v1](http://arxiv.org/abs/2606.20318v1)|null|
 |**2026-06-18 05:25:43**|**Think Again or Think Longer? Selective Verification for Budget-Aware Reasoning**|Sajib Acharjee Dip et.al.|[2606.19808v1](http://arxiv.org/abs/2606.19808v1)|null|
 |**2026-06-18 05:15:43**|**Flow Map Denoisers: Traversing the Distortion-Perception Plane for Inverse Problems**|Nicolas Zilberstein et.al.|[2606.19802v1](http://arxiv.org/abs/2606.19802v1)|null|
@@ -29,6 +32,3 @@
 |**2026-05-19 07:34:08**|**C2CServe: Leveraging NVLink-C2C for Elastic Serverless LLM Serving on MIG**|Shutian Luo et.al.|[2605.19481v1](http://arxiv.org/abs/2605.19481v1)|null|
 |**2026-05-18 02:24:52**|**Memisis: Orchestrating and Evaluating Synthetic Data for Tabular Health Datasets**|Nitish Nagesh et.al.|[2605.17758v1](http://arxiv.org/abs/2605.17758v1)|null|
 |**2026-05-15 17:44:03**|**Acoustic spin resonance in polariton condensates**|D. A. Saltykova et.al.|[2605.16236v1](http://arxiv.org/abs/2605.16236v1)|null|
-|**2026-05-14 16:25:32**|**SemaTune: Semantic-Aware Online OS Tuning with Large Language Models**|Georgios Liargkovas et.al.|[2605.15026v1](http://arxiv.org/abs/2605.15026v1)|null|
-|**2026-05-14 05:55:36**|**Tunable high-$Q$ Janus-to-chiral bound states in the continuum in bilayer PhCs**|Zhexing Dong et.al.|[2605.14412v1](http://arxiv.org/abs/2605.14412v1)|null|
-|**2026-05-12 17:35:21**|**Equivariant Space Group and Hamiltonian for Collinear Magnetic Systems**|Chaoxi Cui et.al.|[2605.12440v1](http://arxiv.org/abs/2605.12440v1)|null|
