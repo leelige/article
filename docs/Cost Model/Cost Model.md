@@ -7,6 +7,7 @@
 |**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
 |**2026-06-18 18:37:05**|**ReSequel: Robust LLM-assisted Query Rewriting and Optimization using Templatization and Sampling**|Saeed Fathollahzadeh et.al.|[2606.20853v1](http://arxiv.org/abs/2606.20853v1)|null|
 |**2026-06-18 02:42:14**|**Library-Aware Doubles and Iterative Repair for Large Language Model-Generated Unit Tests in OpenSIL Firmware**|Ma Toan Bach et.al.|[2606.19725v2](http://arxiv.org/abs/2606.19725v2)|null|
+|**2026-06-17 22:06:41**|**Toten: A Knowledge-Based System For Structure-Preserving Representation Of Physical Quantities And Technical Notation In Brazilian Portuguese**|Antonio de Sousa Leitão Filho et.al.|[2606.19626v2](http://arxiv.org/abs/2606.19626v2)|null|
 |**2026-06-17 20:28:47**|**REMOP: REmote-Memory-aware OPerator Optimization**|Shiquan Zhang et.al.|[2606.19576v1](http://arxiv.org/abs/2606.19576v1)|null|
 |**2026-06-16 16:53:18**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153v1](http://arxiv.org/abs/2606.18153v1)|null|
 |**2026-06-14 18:52:26**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2606.15971v1](http://arxiv.org/abs/2606.15971v1)|[link](https://github.com/Zleap-AI/SAG-Benchmark)|
@@ -31,4 +32,3 @@
 |**2026-05-27 14:46:35**|**Token Optimization Strategies for LLM-Based Oracle-to-PostgreSQL Migration**|Oleg Grynets et.al.|[2605.28557v1](http://arxiv.org/abs/2605.28557v1)|null|
 |**2026-05-27 08:50:02**|**OccuReward: LLM-Guided Occupant-Centric Reward Shaping for Demographic Equity in Grid-Interactive Buildings**|Shadmehr Zaregarizi et.al.|[2605.28168v1](http://arxiv.org/abs/2605.28168v1)|null|
 |**2026-05-26 16:09:58**|**At-Scale Data-Driven Exploration of High-Voltage Cathode-Active Materials for Sodium Batteries**|Suchona Akter et.al.|[2605.27229v1](http://arxiv.org/abs/2605.27229v1)|null|
-|**2026-05-24 00:33:54**|**Parameter-Efficient VLMs for Gastrointestinal Endoscopy: Medical Image Generation and Clinical Visual Question Answering**|Ojonugwa Oluwafemi Ejiga Peter et.al.|[2605.24792v1](http://arxiv.org/abs/2605.24792v1)|null|

@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-06-24 18:38:02 Asia/Shanghai
+ 自动更新 @ 2026-06-25 18:31:29 Asia/Shanghai
 
 ## Cost Model
 
@@ -11,6 +11,7 @@
 |**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
 |**2026-06-18 18:37:05**|**ReSequel: Robust LLM-assisted Query Rewriting and Optimization using Templatization and Sampling**|Saeed Fathollahzadeh et.al.|[2606.20853v1](http://arxiv.org/abs/2606.20853v1)|null|
 |**2026-06-18 02:42:14**|**Library-Aware Doubles and Iterative Repair for Large Language Model-Generated Unit Tests in OpenSIL Firmware**|Ma Toan Bach et.al.|[2606.19725v2](http://arxiv.org/abs/2606.19725v2)|null|
+|**2026-06-17 22:06:41**|**Toten: A Knowledge-Based System For Structure-Preserving Representation Of Physical Quantities And Technical Notation In Brazilian Portuguese**|Antonio de Sousa Leitão Filho et.al.|[2606.19626v2](http://arxiv.org/abs/2606.19626v2)|null|
 |**2026-06-17 20:28:47**|**REMOP: REmote-Memory-aware OPerator Optimization**|Shiquan Zhang et.al.|[2606.19576v1](http://arxiv.org/abs/2606.19576v1)|null|
 |**2026-06-16 16:53:18**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153v1](http://arxiv.org/abs/2606.18153v1)|null|
 |**2026-06-14 18:52:26**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2606.15971v1](http://arxiv.org/abs/2606.15971v1)|[link](https://github.com/Zleap-AI/SAG-Benchmark)|
@@ -35,13 +36,14 @@
 |**2026-05-27 14:46:35**|**Token Optimization Strategies for LLM-Based Oracle-to-PostgreSQL Migration**|Oleg Grynets et.al.|[2605.28557v1](http://arxiv.org/abs/2605.28557v1)|null|
 |**2026-05-27 08:50:02**|**OccuReward: LLM-Guided Occupant-Centric Reward Shaping for Demographic Equity in Grid-Interactive Buildings**|Shadmehr Zaregarizi et.al.|[2605.28168v1](http://arxiv.org/abs/2605.28168v1)|null|
 |**2026-05-26 16:09:58**|**At-Scale Data-Driven Exploration of High-Voltage Cathode-Active Materials for Sodium Batteries**|Suchona Akter et.al.|[2605.27229v1](http://arxiv.org/abs/2605.27229v1)|null|
-|**2026-05-24 00:33:54**|**Parameter-Efficient VLMs for Gastrointestinal Endoscopy: Medical Image Generation and Clinical Visual Question Answering**|Ojonugwa Oluwafemi Ejiga Peter et.al.|[2605.24792v1](http://arxiv.org/abs/2605.24792v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-24 08:34:41**|**A topology-tuned pressure valve across the isoreticular RHO zeolite family**|Salvador R. G. Balestra et.al.|[2606.25557v1](http://arxiv.org/abs/2606.25557v1)|null|
+|**2026-06-23 18:28:21**|**Layer-tunable Hubbard bands probed via moiré excitons in MoSe$_2$/WS$_2$ heterostructures**|Hongyu Yao et.al.|[2606.25071v1](http://arxiv.org/abs/2606.25071v1)|null|
 |**2026-06-20 20:08:15**|**Deterministic control of the probabilistic phase dynamics in injection-locked spin-torque nano-oscillators**|Abderrazak Hakam et.al.|[2606.22208v1](http://arxiv.org/abs/2606.22208v1)|null|
 |**2026-06-20 11:32:38**|**Magneto-ionic control of topological transport in SrRuO3 via band topology engineering**|Xuanchi Zhou et.al.|[2606.21999v1](http://arxiv.org/abs/2606.21999v1)|null|
 |**2026-06-20 07:44:50**|**Cache-Aware I/O Cost Modeling for Disk-Based Learned Indexes**|Zhanwei Shi et.al.|[2606.21924v1](http://arxiv.org/abs/2606.21924v1)|null|
@@ -70,8 +72,6 @@
 |**2026-05-22 06:40:00**|**BCTuner: LLM-Guided Monte Carlo Tree Search for Efficient Blockchain Knob Tuning**|Yaoyi Deng et.al.|[2605.23280v1](http://arxiv.org/abs/2605.23280v1)|null|
 |**2026-05-19 17:44:55**|**Probing tunable Kerr nonlinearity in graphene Josephson junctions**|Priyanka Samanta et.al.|[2605.20155v1](http://arxiv.org/abs/2605.20155v1)|null|
 |**2026-05-19 07:34:08**|**C2CServe: Leveraging NVLink-C2C for Elastic Serverless LLM Serving on MIG**|Shutian Luo et.al.|[2605.19481v1](http://arxiv.org/abs/2605.19481v1)|null|
-|**2026-05-18 02:24:52**|**Memisis: Orchestrating and Evaluating Synthetic Data for Tabular Health Datasets**|Nitish Nagesh et.al.|[2605.17758v1](http://arxiv.org/abs/2605.17758v1)|null|
-|**2026-05-15 17:44:03**|**Acoustic spin resonance in polariton condensates**|D. A. Saltykova et.al.|[2605.16236v1](http://arxiv.org/abs/2605.16236v1)|null|
 
 ## Database Tuning
 
