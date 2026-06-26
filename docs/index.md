@@ -1,11 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2026-06-25 18:31:29 Asia/Shanghai
+ 自动更新 @ 2026-06-26 18:41:17 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v1](http://arxiv.org/abs/2606.26613v1)|null|
+|**2026-06-24 21:11:17**|**Query Cost Model Calibration in Confidential Virtual Machines**|Qihan Zhang et.al.|[2606.26385v1](http://arxiv.org/abs/2606.26385v1)|null|
+|**2026-06-24 20:50:58**|**Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model**|Sergey Kurilenko et.al.|[2606.26373v1](http://arxiv.org/abs/2606.26373v1)|null|
 |**2026-06-22 09:30:24**|**SemCEB: A Cardinality Estimation Benchmark for Semantic Operators**|Andreas Zimmerer et.al.|[2606.23081v1](http://arxiv.org/abs/2606.23081v1)|null|
 |**2026-06-21 22:09:12**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692v1](http://arxiv.org/abs/2606.22692v1)|null|
 |**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
@@ -33,15 +36,13 @@
 |**2026-05-29 10:07:43**|**SpecDB: LLM-Generated Customized Databases via Feature-Oriented Decomposition**|Yunkai Lou et.al.|[2605.31097v1](http://arxiv.org/abs/2605.31097v1)|null|
 |**2026-05-29 08:35:46**|**Modeling and Optimization for Massive Data Allocation in Database**|Panpan Niu et.al.|[2605.31002v1](http://arxiv.org/abs/2605.31002v1)|null|
 |**2026-05-28 19:46:46**|**A Novel Global Context-aware Deep Neural Network for Enhanced Brain Tumor Segmentation using Magnetic Resonance Images**|Sourjya Mukherjee et.al.|[2605.30510v1](http://arxiv.org/abs/2605.30510v1)|null|
-|**2026-05-27 14:46:35**|**Token Optimization Strategies for LLM-Based Oracle-to-PostgreSQL Migration**|Oleg Grynets et.al.|[2605.28557v1](http://arxiv.org/abs/2605.28557v1)|null|
-|**2026-05-27 08:50:02**|**OccuReward: LLM-Guided Occupant-Centric Reward Shaping for Demographic Equity in Grid-Interactive Buildings**|Shadmehr Zaregarizi et.al.|[2605.28168v1](http://arxiv.org/abs/2605.28168v1)|null|
-|**2026-05-26 16:09:58**|**At-Scale Data-Driven Exploration of High-Voltage Cathode-Active Materials for Sodium Batteries**|Suchona Akter et.al.|[2605.27229v1](http://arxiv.org/abs/2605.27229v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-25 05:09:10**|**Binary Dipolar Condensates of Dysprosium Isotopes with Tunable Spatial Order**|Shenshuang Nie et.al.|[2606.26606v1](http://arxiv.org/abs/2606.26606v1)|null|
 |**2026-06-24 08:34:41**|**A topology-tuned pressure valve across the isoreticular RHO zeolite family**|Salvador R. G. Balestra et.al.|[2606.25557v1](http://arxiv.org/abs/2606.25557v1)|null|
 |**2026-06-23 18:28:21**|**Layer-tunable Hubbard bands probed via moiré excitons in MoSe$_2$/WS$_2$ heterostructures**|Hongyu Yao et.al.|[2606.25071v1](http://arxiv.org/abs/2606.25071v1)|null|
 |**2026-06-20 20:08:15**|**Deterministic control of the probabilistic phase dynamics in injection-locked spin-torque nano-oscillators**|Abderrazak Hakam et.al.|[2606.22208v1](http://arxiv.org/abs/2606.22208v1)|null|
@@ -71,7 +72,6 @@
 |**2026-05-22 13:29:57**|**Close correlation between giant magnetostriction and the microstructure in Fe-Ga melt-spun ribbons**|Likun Chen et.al.|[2605.23624v1](http://arxiv.org/abs/2605.23624v1)|null|
 |**2026-05-22 06:40:00**|**BCTuner: LLM-Guided Monte Carlo Tree Search for Efficient Blockchain Knob Tuning**|Yaoyi Deng et.al.|[2605.23280v1](http://arxiv.org/abs/2605.23280v1)|null|
 |**2026-05-19 17:44:55**|**Probing tunable Kerr nonlinearity in graphene Josephson junctions**|Priyanka Samanta et.al.|[2605.20155v1](http://arxiv.org/abs/2605.20155v1)|null|
-|**2026-05-19 07:34:08**|**C2CServe: Leveraging NVLink-C2C for Elastic Serverless LLM Serving on MIG**|Shutian Luo et.al.|[2605.19481v1](http://arxiv.org/abs/2605.19481v1)|null|
 
 ## Database Tuning
 

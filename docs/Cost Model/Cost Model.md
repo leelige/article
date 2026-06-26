@@ -2,6 +2,9 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v1](http://arxiv.org/abs/2606.26613v1)|null|
+|**2026-06-24 21:11:17**|**Query Cost Model Calibration in Confidential Virtual Machines**|Qihan Zhang et.al.|[2606.26385v1](http://arxiv.org/abs/2606.26385v1)|null|
+|**2026-06-24 20:50:58**|**Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model**|Sergey Kurilenko et.al.|[2606.26373v1](http://arxiv.org/abs/2606.26373v1)|null|
 |**2026-06-22 09:30:24**|**SemCEB: A Cardinality Estimation Benchmark for Semantic Operators**|Andreas Zimmerer et.al.|[2606.23081v1](http://arxiv.org/abs/2606.23081v1)|null|
 |**2026-06-21 22:09:12**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692v1](http://arxiv.org/abs/2606.22692v1)|null|
 |**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
@@ -29,6 +32,3 @@
 |**2026-05-29 10:07:43**|**SpecDB: LLM-Generated Customized Databases via Feature-Oriented Decomposition**|Yunkai Lou et.al.|[2605.31097v1](http://arxiv.org/abs/2605.31097v1)|null|
 |**2026-05-29 08:35:46**|**Modeling and Optimization for Massive Data Allocation in Database**|Panpan Niu et.al.|[2605.31002v1](http://arxiv.org/abs/2605.31002v1)|null|
 |**2026-05-28 19:46:46**|**A Novel Global Context-aware Deep Neural Network for Enhanced Brain Tumor Segmentation using Magnetic Resonance Images**|Sourjya Mukherjee et.al.|[2605.30510v1](http://arxiv.org/abs/2605.30510v1)|null|
-|**2026-05-27 14:46:35**|**Token Optimization Strategies for LLM-Based Oracle-to-PostgreSQL Migration**|Oleg Grynets et.al.|[2605.28557v1](http://arxiv.org/abs/2605.28557v1)|null|
-|**2026-05-27 08:50:02**|**OccuReward: LLM-Guided Occupant-Centric Reward Shaping for Demographic Equity in Grid-Interactive Buildings**|Shadmehr Zaregarizi et.al.|[2605.28168v1](http://arxiv.org/abs/2605.28168v1)|null|
-|**2026-05-26 16:09:58**|**At-Scale Data-Driven Exploration of High-Voltage Cathode-Active Materials for Sodium Batteries**|Suchona Akter et.al.|[2605.27229v1](http://arxiv.org/abs/2605.27229v1)|null|
