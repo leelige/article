@@ -2,6 +2,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-29 12:54:30**|**Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**|Carlos Magno O. Pereira et.al.|[2606.30245v1](http://arxiv.org/abs/2606.30245v1)|null|
+|**2026-06-28 19:52:25**|**The Joint Effect of Quantization and Sampling Temperature on LLM Safety Alignment: A Factorial Analysis**|Hari Prasad et.al.|[2606.29581v1](http://arxiv.org/abs/2606.29581v1)|null|
 |**2026-06-25 05:09:10**|**Binary Dipolar Condensates of Dysprosium Isotopes with Tunable Spatial Order**|Shenshuang Nie et.al.|[2606.26606v1](http://arxiv.org/abs/2606.26606v1)|null|
 |**2026-06-24 08:34:41**|**A topology-tuned pressure valve across the isoreticular RHO zeolite family**|Salvador R. G. Balestra et.al.|[2606.25557v1](http://arxiv.org/abs/2606.25557v1)|null|
 |**2026-06-23 18:28:21**|**Layer-tunable Hubbard bands probed via moiré excitons in MoSe$_2$/WS$_2$ heterostructures**|Hongyu Yao et.al.|[2606.25071v1](http://arxiv.org/abs/2606.25071v1)|null|
@@ -30,5 +32,3 @@
 |**2026-05-26 06:38:48**|**Designing Quantum Matter in Pyrochlore Iridates: A Perspective on Recent Thin-Film Advances**|Xiaoran Liu et.al.|[2605.26603v1](http://arxiv.org/abs/2605.26603v1)|null|
 |**2026-05-23 03:36:01**|**Light-Driven Ferroic Switching Enables Reversible Control of Hydrogen Adsorption Thermodynamics**|Xueqing Wan et.al.|[2605.24378v1](http://arxiv.org/abs/2605.24378v1)|null|
 |**2026-05-22 13:29:57**|**Close correlation between giant magnetostriction and the microstructure in Fe-Ga melt-spun ribbons**|Likun Chen et.al.|[2605.23624v1](http://arxiv.org/abs/2605.23624v1)|null|
-|**2026-05-22 06:40:00**|**BCTuner: LLM-Guided Monte Carlo Tree Search for Efficient Blockchain Knob Tuning**|Yaoyi Deng et.al.|[2605.23280v1](http://arxiv.org/abs/2605.23280v1)|null|
-|**2026-05-19 17:44:55**|**Probing tunable Kerr nonlinearity in graphene Josephson junctions**|Priyanka Samanta et.al.|[2605.20155v1](http://arxiv.org/abs/2605.20155v1)|null|

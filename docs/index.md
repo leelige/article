@@ -1,15 +1,15 @@
 # arxiv-daily
- 自动更新 @ 2026-06-29 20:20:17 Asia/Shanghai
+ 自动更新 @ 2026-06-30 18:46:18 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-28 17:57:10**|**SemJoin: Semantic Join Optimization**|Christopher Gou et.al.|[2606.29532v1](http://arxiv.org/abs/2606.29532v1)|null|
 |**2026-06-26 12:46:12**|**On the Relationship Between Plasma and Tritium Fuel Cycle Through Matter Injection and Particle Exhaust**|Samuele Meschini et.al.|[2606.28043v1](http://arxiv.org/abs/2606.28043v1)|null|
 |**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v1](http://arxiv.org/abs/2606.26613v1)|null|
 |**2026-06-24 21:11:17**|**Query Cost Model Calibration in Confidential Virtual Machines**|Qihan Zhang et.al.|[2606.26385v1](http://arxiv.org/abs/2606.26385v1)|null|
-|**2026-06-24 20:50:58**|**Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model**|Sergey Kurilenko et.al.|[2606.26373v1](http://arxiv.org/abs/2606.26373v1)|null|
 |**2026-06-22 09:30:24**|**SemCEB: A Cardinality Estimation Benchmark for Semantic Operators**|Andreas Zimmerer et.al.|[2606.23081v1](http://arxiv.org/abs/2606.23081v1)|null|
 |**2026-06-21 22:09:12**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692v1](http://arxiv.org/abs/2606.22692v1)|null|
 |**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
@@ -42,6 +42,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-29 12:54:30**|**Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**|Carlos Magno O. Pereira et.al.|[2606.30245v1](http://arxiv.org/abs/2606.30245v1)|null|
+|**2026-06-28 19:52:25**|**The Joint Effect of Quantization and Sampling Temperature on LLM Safety Alignment: A Factorial Analysis**|Hari Prasad et.al.|[2606.29581v1](http://arxiv.org/abs/2606.29581v1)|null|
 |**2026-06-25 05:09:10**|**Binary Dipolar Condensates of Dysprosium Isotopes with Tunable Spatial Order**|Shenshuang Nie et.al.|[2606.26606v1](http://arxiv.org/abs/2606.26606v1)|null|
 |**2026-06-24 08:34:41**|**A topology-tuned pressure valve across the isoreticular RHO zeolite family**|Salvador R. G. Balestra et.al.|[2606.25557v1](http://arxiv.org/abs/2606.25557v1)|null|
 |**2026-06-23 18:28:21**|**Layer-tunable Hubbard bands probed via moiré excitons in MoSe$_2$/WS$_2$ heterostructures**|Hongyu Yao et.al.|[2606.25071v1](http://arxiv.org/abs/2606.25071v1)|null|
@@ -70,14 +72,13 @@
 |**2026-05-26 06:38:48**|**Designing Quantum Matter in Pyrochlore Iridates: A Perspective on Recent Thin-Film Advances**|Xiaoran Liu et.al.|[2605.26603v1](http://arxiv.org/abs/2605.26603v1)|null|
 |**2026-05-23 03:36:01**|**Light-Driven Ferroic Switching Enables Reversible Control of Hydrogen Adsorption Thermodynamics**|Xueqing Wan et.al.|[2605.24378v1](http://arxiv.org/abs/2605.24378v1)|null|
 |**2026-05-22 13:29:57**|**Close correlation between giant magnetostriction and the microstructure in Fe-Ga melt-spun ribbons**|Likun Chen et.al.|[2605.23624v1](http://arxiv.org/abs/2605.23624v1)|null|
-|**2026-05-22 06:40:00**|**BCTuner: LLM-Guided Monte Carlo Tree Search for Efficient Blockchain Knob Tuning**|Yaoyi Deng et.al.|[2605.23280v1](http://arxiv.org/abs/2605.23280v1)|null|
-|**2026-05-19 17:44:55**|**Probing tunable Kerr nonlinearity in graphene Josephson junctions**|Priyanka Samanta et.al.|[2605.20155v1](http://arxiv.org/abs/2605.20155v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-27 01:08:21**|**MACROCAST: A Vintage-Consistent Time Series Foundation Model for Real-Time Macroeconomic Forecasting**|Andrea Carriero et.al.|[2606.28670v1](http://arxiv.org/abs/2606.28670v1)|null|
 |**2026-06-25 22:36:36**|**PtyRANNOSAUR: Ptychography with Robust Artificial Neural Networks Optimized for Sub-Angstrom Accuracy and Ultrafast Reconstruction**|Kieran Loehr et.al.|[2606.27587v1](http://arxiv.org/abs/2606.27587v1)|null|
 |**2026-06-22 17:52:14**|**The Table Says Otherwise: Testing LLMs with Counterfactual Relational Data**|Xinzhi Wang et.al.|[2606.23667v1](http://arxiv.org/abs/2606.23667v1)|null|
 |**2026-06-22 16:13:39**|**SQLConductor: Search-to-Policy Learning for Step-wise Text-to-SQL Orchestration**|Yizhang Zhu et.al.|[2606.23537v1](http://arxiv.org/abs/2606.23537v1)|null|
@@ -107,4 +108,3 @@
 |**2026-05-31 16:41:26**|**Benchmarking Local LLMs for Natural-Language-to-SQL Querying in Biopharmaceutical Manufacturing: An Empirical Benchmark on Consumer-Grade Hardware**|Sagar Bhetwal et.al.|[2606.01338v2](http://arxiv.org/abs/2606.01338v2)|null|
 |**2026-05-30 05:44:34**|**Learning to Retrieve: Dual-Level Long-Term Memory for Text-to-SQL Agents**|Yibo Wang et.al.|[2606.00547v1](http://arxiv.org/abs/2606.00547v1)|null|
 |**2026-05-29 10:07:43**|**SpecDB: LLM-Generated Customized Databases via Feature-Oriented Decomposition**|Yunkai Lou et.al.|[2605.31097v1](http://arxiv.org/abs/2605.31097v1)|null|
-|**2026-05-28 14:06:25**|**Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent**|Yiming Liu et.al.|[2605.29966v1](http://arxiv.org/abs/2605.29966v1)|null|
