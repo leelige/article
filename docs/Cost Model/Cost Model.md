@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-30 15:25:10**|**Large Databases Need Small, Open-Weight Language Models**|Parker Glenn et.al.|[2606.31808v1](http://arxiv.org/abs/2606.31808v1)|[link](https://github.com/CapitalOne-Research/play-by-the-type-rules/tree/main/sembench)|
 |**2026-06-28 17:57:10**|**SemJoin: Semantic Join Optimization**|Christopher Gou et.al.|[2606.29532v1](http://arxiv.org/abs/2606.29532v1)|null|
 |**2026-06-26 12:46:12**|**On the Relationship Between Plasma and Tritium Fuel Cycle Through Matter Injection and Particle Exhaust**|Samuele Meschini et.al.|[2606.28043v1](http://arxiv.org/abs/2606.28043v1)|null|
 |**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v1](http://arxiv.org/abs/2606.26613v1)|null|
@@ -31,4 +32,3 @@
 |**2026-06-02 06:20:25**|**Generative AI-Enabled Refund Fraud in Chinese E-Commerce: Investigation on Merchants and Platform Workers**|Shuning Zhang et.al.|[2606.03215v1](http://arxiv.org/abs/2606.03215v1)|null|
 |**2026-06-01 17:20:55**|**Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design**|Anand Babu et.al.|[2606.02507v1](http://arxiv.org/abs/2606.02507v1)|null|
 |**2026-05-29 10:07:43**|**SpecDB: LLM-Generated Customized Databases via Feature-Oriented Decomposition**|Yunkai Lou et.al.|[2605.31097v1](http://arxiv.org/abs/2605.31097v1)|null|
-|**2026-05-29 08:35:46**|**Modeling and Optimization for Massive Data Allocation in Database**|Panpan Niu et.al.|[2605.31002v1](http://arxiv.org/abs/2605.31002v1)|null|

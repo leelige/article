@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-06-30 18:46:18 Asia/Shanghai
+ 自动更新 @ 2026-07-01 18:59:24 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-30 15:25:10**|**Large Databases Need Small, Open-Weight Language Models**|Parker Glenn et.al.|[2606.31808v1](http://arxiv.org/abs/2606.31808v1)|[link](https://github.com/CapitalOne-Research/play-by-the-type-rules/tree/main/sembench)|
 |**2026-06-28 17:57:10**|**SemJoin: Semantic Join Optimization**|Christopher Gou et.al.|[2606.29532v1](http://arxiv.org/abs/2606.29532v1)|null|
 |**2026-06-26 12:46:12**|**On the Relationship Between Plasma and Tritium Fuel Cycle Through Matter Injection and Particle Exhaust**|Samuele Meschini et.al.|[2606.28043v1](http://arxiv.org/abs/2606.28043v1)|null|
 |**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v1](http://arxiv.org/abs/2606.26613v1)|null|
@@ -35,13 +36,13 @@
 |**2026-06-02 06:20:25**|**Generative AI-Enabled Refund Fraud in Chinese E-Commerce: Investigation on Merchants and Platform Workers**|Shuning Zhang et.al.|[2606.03215v1](http://arxiv.org/abs/2606.03215v1)|null|
 |**2026-06-01 17:20:55**|**Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design**|Anand Babu et.al.|[2606.02507v1](http://arxiv.org/abs/2606.02507v1)|null|
 |**2026-05-29 10:07:43**|**SpecDB: LLM-Generated Customized Databases via Feature-Oriented Decomposition**|Yunkai Lou et.al.|[2605.31097v1](http://arxiv.org/abs/2605.31097v1)|null|
-|**2026-05-29 08:35:46**|**Modeling and Optimization for Massive Data Allocation in Database**|Panpan Niu et.al.|[2605.31002v1](http://arxiv.org/abs/2605.31002v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-30 07:42:44**|**Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2**|Jiao Xie et.al.|[2606.31267v1](http://arxiv.org/abs/2606.31267v1)|null|
 |**2026-06-29 12:54:30**|**Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**|Carlos Magno O. Pereira et.al.|[2606.30245v1](http://arxiv.org/abs/2606.30245v1)|null|
 |**2026-06-28 19:52:25**|**The Joint Effect of Quantization and Sampling Temperature on LLM Safety Alignment: A Factorial Analysis**|Hari Prasad et.al.|[2606.29581v1](http://arxiv.org/abs/2606.29581v1)|null|
 |**2026-06-25 05:09:10**|**Binary Dipolar Condensates of Dysprosium Isotopes with Tunable Spatial Order**|Shenshuang Nie et.al.|[2606.26606v1](http://arxiv.org/abs/2606.26606v1)|null|
@@ -71,7 +72,6 @@
 |**2026-05-27 10:29:52**|**PrunePath: Towards Highly Structured Sparse Language Models**|Zhexuan Gu et.al.|[2605.28283v1](http://arxiv.org/abs/2605.28283v1)|null|
 |**2026-05-26 06:38:48**|**Designing Quantum Matter in Pyrochlore Iridates: A Perspective on Recent Thin-Film Advances**|Xiaoran Liu et.al.|[2605.26603v1](http://arxiv.org/abs/2605.26603v1)|null|
 |**2026-05-23 03:36:01**|**Light-Driven Ferroic Switching Enables Reversible Control of Hydrogen Adsorption Thermodynamics**|Xueqing Wan et.al.|[2605.24378v1](http://arxiv.org/abs/2605.24378v1)|null|
-|**2026-05-22 13:29:57**|**Close correlation between giant magnetostriction and the microstructure in Fe-Ga melt-spun ribbons**|Likun Chen et.al.|[2605.23624v1](http://arxiv.org/abs/2605.23624v1)|null|
 
 ## Database Tuning
 
