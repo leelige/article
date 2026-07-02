@@ -2,6 +2,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-01 11:04:28**|**Evaluating Pretrained Music Embeddings for Cross-Performance Jazz Standard Recognition**|Çağrı Eser et.al.|[2607.00777v1](http://arxiv.org/abs/2607.00777v1)|[link](https://github.com/cagries/tipofmyear)|
 |**2026-06-27 01:08:21**|**MACROCAST: A Vintage-Consistent Time Series Foundation Model for Real-Time Macroeconomic Forecasting**|Andrea Carriero et.al.|[2606.28670v1](http://arxiv.org/abs/2606.28670v1)|null|
 |**2026-06-25 22:36:36**|**PtyRANNOSAUR: Ptychography with Robust Artificial Neural Networks Optimized for Sub-Angstrom Accuracy and Ultrafast Reconstruction**|Kieran Loehr et.al.|[2606.27587v1](http://arxiv.org/abs/2606.27587v1)|null|
 |**2026-06-22 17:52:14**|**The Table Says Otherwise: Testing LLMs with Counterfactual Relational Data**|Xinzhi Wang et.al.|[2606.23667v1](http://arxiv.org/abs/2606.23667v1)|null|
@@ -31,4 +32,3 @@
 |**2026-05-31 18:20:25**|**GuidaPA: Privacy-Preserving Chatbot for Public Administration via Federated Learning**|Daniel M. Jimenez-Gutierrez et.al.|[2606.01386v1](http://arxiv.org/abs/2606.01386v1)|null|
 |**2026-05-31 16:41:26**|**Benchmarking Local LLMs for Natural-Language-to-SQL Querying in Biopharmaceutical Manufacturing: An Empirical Benchmark on Consumer-Grade Hardware**|Sagar Bhetwal et.al.|[2606.01338v2](http://arxiv.org/abs/2606.01338v2)|null|
 |**2026-05-30 05:44:34**|**Learning to Retrieve: Dual-Level Long-Term Memory for Text-to-SQL Agents**|Yibo Wang et.al.|[2606.00547v1](http://arxiv.org/abs/2606.00547v1)|null|
-|**2026-05-29 10:07:43**|**SpecDB: LLM-Generated Customized Databases via Feature-Oriented Decomposition**|Yunkai Lou et.al.|[2605.31097v1](http://arxiv.org/abs/2605.31097v1)|null|

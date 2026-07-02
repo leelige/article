@@ -2,6 +2,8 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-01 06:43:55**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508v1](http://arxiv.org/abs/2607.00508v1)|null|
+|**2026-06-30 20:51:40**|**A Scoping Review of Physics Informed Machine Learning for Wave Propagation Modeling in Seismology**|Óscar Rincón-Cardeño et.al.|[2607.00178v1](http://arxiv.org/abs/2607.00178v1)|null|
 |**2026-06-30 15:25:10**|**Large Databases Need Small, Open-Weight Language Models**|Parker Glenn et.al.|[2606.31808v1](http://arxiv.org/abs/2606.31808v1)|[link](https://github.com/CapitalOne-Research/play-by-the-type-rules/tree/main/sembench)|
 |**2026-06-28 17:57:10**|**SemJoin: Semantic Join Optimization**|Christopher Gou et.al.|[2606.29532v1](http://arxiv.org/abs/2606.29532v1)|null|
 |**2026-06-26 12:46:12**|**On the Relationship Between Plasma and Tritium Fuel Cycle Through Matter Injection and Particle Exhaust**|Samuele Meschini et.al.|[2606.28043v1](http://arxiv.org/abs/2606.28043v1)|null|
@@ -30,5 +32,3 @@
 |**2026-06-02 15:18:39**|**RamanGPT: Bidirectional Mapping Between Crystal Structures and Raman Spectra with Graph Neural Networks and Generative Transformers**|Frank M. Abel et.al.|[2606.03764v1](http://arxiv.org/abs/2606.03764v1)|null|
 |**2026-06-02 10:45:14**|**Predicting Lakehouse Performance in Clouds: An Empirical Exploration of Query Runtime Variance**|James Nurdin et.al.|[2606.03464v1](http://arxiv.org/abs/2606.03464v1)|null|
 |**2026-06-02 06:20:25**|**Generative AI-Enabled Refund Fraud in Chinese E-Commerce: Investigation on Merchants and Platform Workers**|Shuning Zhang et.al.|[2606.03215v1](http://arxiv.org/abs/2606.03215v1)|null|
-|**2026-06-01 17:20:55**|**Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design**|Anand Babu et.al.|[2606.02507v1](http://arxiv.org/abs/2606.02507v1)|null|
-|**2026-05-29 10:07:43**|**SpecDB: LLM-Generated Customized Databases via Feature-Oriented Decomposition**|Yunkai Lou et.al.|[2605.31097v1](http://arxiv.org/abs/2605.31097v1)|null|
