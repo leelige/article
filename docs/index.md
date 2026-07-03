@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-07-02 18:25:57 Asia/Shanghai
+ 自动更新 @ 2026-07-03 18:27:12 Asia/Shanghai
 
 ## Cost Model
 
@@ -42,9 +42,11 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-01 18:57:09**|**Computer Vision for Wildlife Monitoring: Detecting Brown Howler Monkeys using YOLO**|Gabriel Ferri Schneider et.al.|[2607.01396v1](http://arxiv.org/abs/2607.01396v1)|null|
 |**2026-06-30 07:42:44**|**Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2**|Jiao Xie et.al.|[2606.31267v1](http://arxiv.org/abs/2606.31267v1)|null|
 |**2026-06-29 12:54:30**|**Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**|Carlos Magno O. Pereira et.al.|[2606.30245v1](http://arxiv.org/abs/2606.30245v1)|null|
 |**2026-06-28 19:52:25**|**The Joint Effect of Quantization and Sampling Temperature on LLM Safety Alignment: A Factorial Analysis**|Hari Prasad et.al.|[2606.29581v1](http://arxiv.org/abs/2606.29581v1)|null|
+|**2026-06-25 10:58:00**|**Rashba Spin Demons in Two-Dimensional d-Wave Altermagnets and their Electrostatic Contro**|Muhammad Irfan Sarwar et.al.|[2606.26871v2](http://arxiv.org/abs/2606.26871v2)|null|
 |**2026-06-24 08:34:41**|**A topology-tuned pressure valve across the isoreticular RHO zeolite family**|Salvador R. G. Balestra et.al.|[2606.25557v1](http://arxiv.org/abs/2606.25557v1)|null|
 |**2026-06-23 18:28:21**|**Layer-tunable Hubbard bands probed via moiré excitons in MoSe$_2$/WS$_2$ heterostructures**|Hongyu Yao et.al.|[2606.25071v1](http://arxiv.org/abs/2606.25071v1)|null|
 |**2026-06-20 20:08:15**|**Deterministic control of the probabilistic phase dynamics in injection-locked spin-torque nano-oscillators**|Abderrazak Hakam et.al.|[2606.22208v1](http://arxiv.org/abs/2606.22208v1)|null|
@@ -70,14 +72,14 @@
 |**2026-05-28 13:20:33**|**Field-induced multipolar character in the dipolar ground state of the honeycomb rare-earth chalcohalide NdOF**|Tiantian Liu et.al.|[2605.29896v1](http://arxiv.org/abs/2605.29896v1)|null|
 |**2026-05-27 10:29:52**|**PrunePath: Towards Highly Structured Sparse Language Models**|Zhexuan Gu et.al.|[2605.28283v1](http://arxiv.org/abs/2605.28283v1)|null|
 |**2026-05-26 06:38:48**|**Designing Quantum Matter in Pyrochlore Iridates: A Perspective on Recent Thin-Film Advances**|Xiaoran Liu et.al.|[2605.26603v1](http://arxiv.org/abs/2605.26603v1)|null|
-|**2026-05-23 03:36:01**|**Light-Driven Ferroic Switching Enables Reversible Control of Hydrogen Adsorption Thermodynamics**|Xueqing Wan et.al.|[2605.24378v1](http://arxiv.org/abs/2605.24378v1)|null|
-|**2026-05-22 13:29:57**|**Close correlation between giant magnetostriction and the microstructure in Fe-Ga melt-spun ribbons**|Likun Chen et.al.|[2605.23624v1](http://arxiv.org/abs/2605.23624v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-02 10:18:45**|**Episodic-to-Semantic Consolidation Without Identity Drift**|Xue Qin et.al.|[2607.01988v1](http://arxiv.org/abs/2607.01988v1)|null|
+|**2026-07-01 21:00:40**|**CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**|Jaehyun Ha et.al.|[2607.01468v1](http://arxiv.org/abs/2607.01468v1)|null|
 |**2026-07-01 11:04:28**|**Evaluating Pretrained Music Embeddings for Cross-Performance Jazz Standard Recognition**|Çağrı Eser et.al.|[2607.00777v1](http://arxiv.org/abs/2607.00777v1)|[link](https://github.com/cagries/tipofmyear)|
 |**2026-06-27 01:08:21**|**MACROCAST: A Vintage-Consistent Time Series Foundation Model for Real-Time Macroeconomic Forecasting**|Andrea Carriero et.al.|[2606.28670v1](http://arxiv.org/abs/2606.28670v1)|null|
 |**2026-06-25 22:36:36**|**PtyRANNOSAUR: Ptychography with Robust Artificial Neural Networks Optimized for Sub-Angstrom Accuracy and Ultrafast Reconstruction**|Kieran Loehr et.al.|[2606.27587v1](http://arxiv.org/abs/2606.27587v1)|null|
@@ -106,5 +108,3 @@
 |**2026-06-03 06:31:28**|**SANE Schema-aware Natural-language Evaluation of Biological Data**|Rolf Gattung et.al.|[2606.04500v1](http://arxiv.org/abs/2606.04500v1)|null|
 |**2026-06-02 15:18:39**|**RamanGPT: Bidirectional Mapping Between Crystal Structures and Raman Spectra with Graph Neural Networks and Generative Transformers**|Frank M. Abel et.al.|[2606.03764v1](http://arxiv.org/abs/2606.03764v1)|null|
 |**2026-05-31 18:20:25**|**GuidaPA: Privacy-Preserving Chatbot for Public Administration via Federated Learning**|Daniel M. Jimenez-Gutierrez et.al.|[2606.01386v1](http://arxiv.org/abs/2606.01386v1)|null|
-|**2026-05-31 16:41:26**|**Benchmarking Local LLMs for Natural-Language-to-SQL Querying in Biopharmaceutical Manufacturing: An Empirical Benchmark on Consumer-Grade Hardware**|Sagar Bhetwal et.al.|[2606.01338v2](http://arxiv.org/abs/2606.01338v2)|null|
-|**2026-05-30 05:44:34**|**Learning to Retrieve: Dual-Level Long-Term Memory for Text-to-SQL Agents**|Yibo Wang et.al.|[2606.00547v1](http://arxiv.org/abs/2606.00547v1)|null|
