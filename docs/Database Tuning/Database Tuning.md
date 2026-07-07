@@ -2,6 +2,8 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-06 03:30:53**|**Exploiting Structural Properties for Efficient Constraint-Aware HNSW Hyperparameter Tuning**|Geon Choi et.al.|[2607.04630v1](http://arxiv.org/abs/2607.04630v1)|null|
+|**2026-07-04 11:42:56**|**Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL**|Hanqing Wang et.al.|[2607.03833v1](http://arxiv.org/abs/2607.03833v1)|null|
 |**2026-07-02 10:18:45**|**Episodic-to-Semantic Consolidation Without Identity Drift**|Xue Qin et.al.|[2607.01988v1](http://arxiv.org/abs/2607.01988v1)|null|
 |**2026-07-01 21:00:40**|**CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**|Jaehyun Ha et.al.|[2607.01468v1](http://arxiv.org/abs/2607.01468v1)|null|
 |**2026-07-01 11:04:28**|**Evaluating Pretrained Music Embeddings for Cross-Performance Jazz Standard Recognition**|Çağrı Eser et.al.|[2607.00777v1](http://arxiv.org/abs/2607.00777v1)|[link](https://github.com/cagries/tipofmyear)|
@@ -30,5 +32,3 @@
 |**2026-06-03 22:28:34**|**LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval**|Shahrzad Esmat et.al.|[2606.05489v1](http://arxiv.org/abs/2606.05489v1)|null|
 |**2026-06-03 12:39:16**|**Real-Time Industrial Defect Detection on Edge Hardware Using Fine-Tuned YOLOv8: A Systematic Benchmark on the NEU Surface Defect Database and MVTec AD with Automotive & Battery Manufacturing Extensions**|Emmanuel Ezeji Somtochukwu et.al.|[2606.07659v1](http://arxiv.org/abs/2606.07659v1)|null|
 |**2026-06-03 06:31:28**|**SANE Schema-aware Natural-language Evaluation of Biological Data**|Rolf Gattung et.al.|[2606.04500v1](http://arxiv.org/abs/2606.04500v1)|null|
-|**2026-06-02 15:18:39**|**RamanGPT: Bidirectional Mapping Between Crystal Structures and Raman Spectra with Graph Neural Networks and Generative Transformers**|Frank M. Abel et.al.|[2606.03764v1](http://arxiv.org/abs/2606.03764v1)|null|
-|**2026-05-31 18:20:25**|**GuidaPA: Privacy-Preserving Chatbot for Public Administration via Federated Learning**|Daniel M. Jimenez-Gutierrez et.al.|[2606.01386v1](http://arxiv.org/abs/2606.01386v1)|null|

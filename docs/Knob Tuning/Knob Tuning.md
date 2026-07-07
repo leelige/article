@@ -2,6 +2,9 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-06 07:57:39**|**Strain- and potential-controlled tunneling in monolayer MoS$_2$**|Hasna Chnafa et.al.|[2607.04766v1](http://arxiv.org/abs/2607.04766v1)|null|
+|**2026-07-05 20:25:54**|**Eiger: An Efficient Library for GPU-based Data Analytics**|Bowen Wu et.al.|[2607.04489v1](http://arxiv.org/abs/2607.04489v1)|null|
+|**2026-07-04 05:48:49**|**Nonlinear Hall effect in Floquet-driven monolayer 1T$'$-MoS$_2$**|Muhammad Faisal et.al.|[2607.03717v1](http://arxiv.org/abs/2607.03717v1)|null|
 |**2026-07-01 18:57:09**|**Computer Vision for Wildlife Monitoring: Detecting Brown Howler Monkeys using YOLO**|Gabriel Ferri Schneider et.al.|[2607.01396v1](http://arxiv.org/abs/2607.01396v1)|null|
 |**2026-06-30 07:42:44**|**Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2**|Jiao Xie et.al.|[2606.31267v1](http://arxiv.org/abs/2606.31267v1)|null|
 |**2026-06-29 12:54:30**|**Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**|Carlos Magno O. Pereira et.al.|[2606.30245v1](http://arxiv.org/abs/2606.30245v1)|null|
@@ -29,6 +32,3 @@
 |**2026-06-03 11:50:24**|**Tunable supramolecular polymerization from protein charge heterogeneity and architecture**|Nynke Marije Hettema et.al.|[2606.04766v1](http://arxiv.org/abs/2606.04766v1)|null|
 |**2026-06-01 11:26:24**|**Anisotropic Moiré Fractional Chern Insulators and Their Phase Transitions**|Bo Peng et.al.|[2606.02094v1](http://arxiv.org/abs/2606.02094v1)|null|
 |**2026-05-31 06:08:05**|**Robust Integrated Planning and Control for Quadrotors in Dynamic Environments via NMPC with CBF Penalties**|Zeinab Shayan et.al.|[2606.01038v1](http://arxiv.org/abs/2606.01038v1)|null|
-|**2026-05-28 13:20:33**|**Field-induced multipolar character in the dipolar ground state of the honeycomb rare-earth chalcohalide NdOF**|Tiantian Liu et.al.|[2605.29896v1](http://arxiv.org/abs/2605.29896v1)|null|
-|**2026-05-27 10:29:52**|**PrunePath: Towards Highly Structured Sparse Language Models**|Zhexuan Gu et.al.|[2605.28283v1](http://arxiv.org/abs/2605.28283v1)|null|
-|**2026-05-26 06:38:48**|**Designing Quantum Matter in Pyrochlore Iridates: A Perspective on Recent Thin-Film Advances**|Xiaoran Liu et.al.|[2605.26603v1](http://arxiv.org/abs/2605.26603v1)|null|

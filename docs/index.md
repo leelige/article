@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-07-06 19:52:34 Asia/Shanghai
+ 自动更新 @ 2026-07-07 18:42:23 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-06 13:26:57**|**A Body-of-Revolution Human Model for RF Sensing with Measurement-Driven Calibration for Indoor Environments**|Haoqing Wen et.al.|[2607.05053v1](http://arxiv.org/abs/2607.05053v1)|null|
 |**2026-07-01 21:00:40**|**CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**|Jaehyun Ha et.al.|[2607.01468v1](http://arxiv.org/abs/2607.01468v1)|null|
 |**2026-07-01 06:43:55**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508v2](http://arxiv.org/abs/2607.00508v2)|null|
 |**2026-06-30 20:51:40**|**A Scoping Review of Physics Informed Machine Learning for Wave Propagation Modeling in Seismology**|Óscar Rincón-Cardeño et.al.|[2607.00178v1](http://arxiv.org/abs/2607.00178v1)|null|
@@ -14,6 +15,7 @@
 |**2026-06-26 12:46:12**|**On the Relationship Between Plasma and Tritium Fuel Cycle Through Matter Injection and Particle Exhaust**|Samuele Meschini et.al.|[2606.28043v1](http://arxiv.org/abs/2606.28043v1)|null|
 |**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v1](http://arxiv.org/abs/2606.26613v1)|null|
 |**2026-06-24 21:11:17**|**Query Cost Model Calibration in Confidential Virtual Machines**|Qihan Zhang et.al.|[2606.26385v1](http://arxiv.org/abs/2606.26385v1)|null|
+|**2026-06-24 20:50:58**|**Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model**|Sergey Kurilenko et.al.|[2606.26373v3](http://arxiv.org/abs/2606.26373v3)|null|
 |**2026-06-22 09:30:24**|**SemCEB: A Cardinality Estimation Benchmark for Semantic Operators**|Andreas Zimmerer et.al.|[2606.23081v1](http://arxiv.org/abs/2606.23081v1)|null|
 |**2026-06-21 22:09:12**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692v1](http://arxiv.org/abs/2606.22692v1)|null|
 |**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
@@ -34,14 +36,15 @@
 |**2026-06-03 09:13:05**|**CYGNET: Cypher Gate for Neural Execution Triage and Cost Containment**|Nikodem Tomczak et.al.|[2606.04645v1](http://arxiv.org/abs/2606.04645v1)|null|
 |**2026-06-03 03:29:57**|**Not All Errors Are Equal: Consequence-Aware Reasoning Compute Allocation**|Jingbo Wen et.al.|[2606.04402v1](http://arxiv.org/abs/2606.04402v1)|null|
 |**2026-06-02 15:27:17**|**Workload acceleration by optimizing materialized view selection using local search**|Kaina Anderson et.al.|[2606.03772v1](http://arxiv.org/abs/2606.03772v1)|null|
-|**2026-06-02 15:18:39**|**RamanGPT: Bidirectional Mapping Between Crystal Structures and Raman Spectra with Graph Neural Networks and Generative Transformers**|Frank M. Abel et.al.|[2606.03764v1](http://arxiv.org/abs/2606.03764v1)|null|
-|**2026-06-02 10:45:14**|**Predicting Lakehouse Performance in Clouds: An Empirical Exploration of Query Runtime Variance**|James Nurdin et.al.|[2606.03464v1](http://arxiv.org/abs/2606.03464v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-06 07:57:39**|**Strain- and potential-controlled tunneling in monolayer MoS$_2$**|Hasna Chnafa et.al.|[2607.04766v1](http://arxiv.org/abs/2607.04766v1)|null|
+|**2026-07-05 20:25:54**|**Eiger: An Efficient Library for GPU-based Data Analytics**|Bowen Wu et.al.|[2607.04489v1](http://arxiv.org/abs/2607.04489v1)|null|
+|**2026-07-04 05:48:49**|**Nonlinear Hall effect in Floquet-driven monolayer 1T$'$-MoS$_2$**|Muhammad Faisal et.al.|[2607.03717v1](http://arxiv.org/abs/2607.03717v1)|null|
 |**2026-07-01 18:57:09**|**Computer Vision for Wildlife Monitoring: Detecting Brown Howler Monkeys using YOLO**|Gabriel Ferri Schneider et.al.|[2607.01396v1](http://arxiv.org/abs/2607.01396v1)|null|
 |**2026-06-30 07:42:44**|**Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2**|Jiao Xie et.al.|[2606.31267v1](http://arxiv.org/abs/2606.31267v1)|null|
 |**2026-06-29 12:54:30**|**Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**|Carlos Magno O. Pereira et.al.|[2606.30245v1](http://arxiv.org/abs/2606.30245v1)|null|
@@ -69,15 +72,14 @@
 |**2026-06-03 11:50:24**|**Tunable supramolecular polymerization from protein charge heterogeneity and architecture**|Nynke Marije Hettema et.al.|[2606.04766v1](http://arxiv.org/abs/2606.04766v1)|null|
 |**2026-06-01 11:26:24**|**Anisotropic Moiré Fractional Chern Insulators and Their Phase Transitions**|Bo Peng et.al.|[2606.02094v1](http://arxiv.org/abs/2606.02094v1)|null|
 |**2026-05-31 06:08:05**|**Robust Integrated Planning and Control for Quadrotors in Dynamic Environments via NMPC with CBF Penalties**|Zeinab Shayan et.al.|[2606.01038v1](http://arxiv.org/abs/2606.01038v1)|null|
-|**2026-05-28 13:20:33**|**Field-induced multipolar character in the dipolar ground state of the honeycomb rare-earth chalcohalide NdOF**|Tiantian Liu et.al.|[2605.29896v1](http://arxiv.org/abs/2605.29896v1)|null|
-|**2026-05-27 10:29:52**|**PrunePath: Towards Highly Structured Sparse Language Models**|Zhexuan Gu et.al.|[2605.28283v1](http://arxiv.org/abs/2605.28283v1)|null|
-|**2026-05-26 06:38:48**|**Designing Quantum Matter in Pyrochlore Iridates: A Perspective on Recent Thin-Film Advances**|Xiaoran Liu et.al.|[2605.26603v1](http://arxiv.org/abs/2605.26603v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-06 03:30:53**|**Exploiting Structural Properties for Efficient Constraint-Aware HNSW Hyperparameter Tuning**|Geon Choi et.al.|[2607.04630v1](http://arxiv.org/abs/2607.04630v1)|null|
+|**2026-07-04 11:42:56**|**Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL**|Hanqing Wang et.al.|[2607.03833v1](http://arxiv.org/abs/2607.03833v1)|null|
 |**2026-07-02 10:18:45**|**Episodic-to-Semantic Consolidation Without Identity Drift**|Xue Qin et.al.|[2607.01988v1](http://arxiv.org/abs/2607.01988v1)|null|
 |**2026-07-01 21:00:40**|**CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**|Jaehyun Ha et.al.|[2607.01468v1](http://arxiv.org/abs/2607.01468v1)|null|
 |**2026-07-01 11:04:28**|**Evaluating Pretrained Music Embeddings for Cross-Performance Jazz Standard Recognition**|Çağrı Eser et.al.|[2607.00777v1](http://arxiv.org/abs/2607.00777v1)|[link](https://github.com/cagries/tipofmyear)|
@@ -106,5 +108,3 @@
 |**2026-06-03 22:28:34**|**LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval**|Shahrzad Esmat et.al.|[2606.05489v1](http://arxiv.org/abs/2606.05489v1)|null|
 |**2026-06-03 12:39:16**|**Real-Time Industrial Defect Detection on Edge Hardware Using Fine-Tuned YOLOv8: A Systematic Benchmark on the NEU Surface Defect Database and MVTec AD with Automotive & Battery Manufacturing Extensions**|Emmanuel Ezeji Somtochukwu et.al.|[2606.07659v1](http://arxiv.org/abs/2606.07659v1)|null|
 |**2026-06-03 06:31:28**|**SANE Schema-aware Natural-language Evaluation of Biological Data**|Rolf Gattung et.al.|[2606.04500v1](http://arxiv.org/abs/2606.04500v1)|null|
-|**2026-06-02 15:18:39**|**RamanGPT: Bidirectional Mapping Between Crystal Structures and Raman Spectra with Graph Neural Networks and Generative Transformers**|Frank M. Abel et.al.|[2606.03764v1](http://arxiv.org/abs/2606.03764v1)|null|
-|**2026-05-31 18:20:25**|**GuidaPA: Privacy-Preserving Chatbot for Public Administration via Federated Learning**|Daniel M. Jimenez-Gutierrez et.al.|[2606.01386v1](http://arxiv.org/abs/2606.01386v1)|null|

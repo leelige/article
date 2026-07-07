@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-06 13:26:57**|**A Body-of-Revolution Human Model for RF Sensing with Measurement-Driven Calibration for Indoor Environments**|Haoqing Wen et.al.|[2607.05053v1](http://arxiv.org/abs/2607.05053v1)|null|
 |**2026-07-01 21:00:40**|**CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**|Jaehyun Ha et.al.|[2607.01468v1](http://arxiv.org/abs/2607.01468v1)|null|
 |**2026-07-01 06:43:55**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508v2](http://arxiv.org/abs/2607.00508v2)|null|
 |**2026-06-30 20:51:40**|**A Scoping Review of Physics Informed Machine Learning for Wave Propagation Modeling in Seismology**|Óscar Rincón-Cardeño et.al.|[2607.00178v1](http://arxiv.org/abs/2607.00178v1)|null|
@@ -10,6 +11,7 @@
 |**2026-06-26 12:46:12**|**On the Relationship Between Plasma and Tritium Fuel Cycle Through Matter Injection and Particle Exhaust**|Samuele Meschini et.al.|[2606.28043v1](http://arxiv.org/abs/2606.28043v1)|null|
 |**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v1](http://arxiv.org/abs/2606.26613v1)|null|
 |**2026-06-24 21:11:17**|**Query Cost Model Calibration in Confidential Virtual Machines**|Qihan Zhang et.al.|[2606.26385v1](http://arxiv.org/abs/2606.26385v1)|null|
+|**2026-06-24 20:50:58**|**Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model**|Sergey Kurilenko et.al.|[2606.26373v3](http://arxiv.org/abs/2606.26373v3)|null|
 |**2026-06-22 09:30:24**|**SemCEB: A Cardinality Estimation Benchmark for Semantic Operators**|Andreas Zimmerer et.al.|[2606.23081v1](http://arxiv.org/abs/2606.23081v1)|null|
 |**2026-06-21 22:09:12**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692v1](http://arxiv.org/abs/2606.22692v1)|null|
 |**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
@@ -30,5 +32,3 @@
 |**2026-06-03 09:13:05**|**CYGNET: Cypher Gate for Neural Execution Triage and Cost Containment**|Nikodem Tomczak et.al.|[2606.04645v1](http://arxiv.org/abs/2606.04645v1)|null|
 |**2026-06-03 03:29:57**|**Not All Errors Are Equal: Consequence-Aware Reasoning Compute Allocation**|Jingbo Wen et.al.|[2606.04402v1](http://arxiv.org/abs/2606.04402v1)|null|
 |**2026-06-02 15:27:17**|**Workload acceleration by optimizing materialized view selection using local search**|Kaina Anderson et.al.|[2606.03772v1](http://arxiv.org/abs/2606.03772v1)|null|
-|**2026-06-02 15:18:39**|**RamanGPT: Bidirectional Mapping Between Crystal Structures and Raman Spectra with Graph Neural Networks and Generative Transformers**|Frank M. Abel et.al.|[2606.03764v1](http://arxiv.org/abs/2606.03764v1)|null|
-|**2026-06-02 10:45:14**|**Predicting Lakehouse Performance in Clouds: An Empirical Exploration of Query Runtime Variance**|James Nurdin et.al.|[2606.03464v1](http://arxiv.org/abs/2606.03464v1)|null|
