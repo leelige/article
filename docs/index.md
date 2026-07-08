@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-07-07 18:42:23 Asia/Shanghai
+ 自动更新 @ 2026-07-08 18:03:37 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-06 20:02:25**|**Patch Knowledge Transfer for Efficient AI-Generated Image Quality Assessment**|Jiquan Yuan et.al.|[2607.05605v1](http://arxiv.org/abs/2607.05605v1)|null|
 |**2026-07-06 13:26:57**|**A Body-of-Revolution Human Model for RF Sensing with Measurement-Driven Calibration for Indoor Environments**|Haoqing Wen et.al.|[2607.05053v1](http://arxiv.org/abs/2607.05053v1)|null|
 |**2026-07-01 21:00:40**|**CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**|Jaehyun Ha et.al.|[2607.01468v1](http://arxiv.org/abs/2607.01468v1)|null|
 |**2026-07-01 06:43:55**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508v2](http://arxiv.org/abs/2607.00508v2)|null|
@@ -35,7 +36,6 @@
 |**2026-06-06 01:16:58**|**Larch: Learned Query Optimization for Semantic Predicates**|Fuheng Zhao et.al.|[2606.07923v1](http://arxiv.org/abs/2606.07923v1)|null|
 |**2026-06-03 09:13:05**|**CYGNET: Cypher Gate for Neural Execution Triage and Cost Containment**|Nikodem Tomczak et.al.|[2606.04645v1](http://arxiv.org/abs/2606.04645v1)|null|
 |**2026-06-03 03:29:57**|**Not All Errors Are Equal: Consequence-Aware Reasoning Compute Allocation**|Jingbo Wen et.al.|[2606.04402v1](http://arxiv.org/abs/2606.04402v1)|null|
-|**2026-06-02 15:27:17**|**Workload acceleration by optimizing materialized view selection using local search**|Kaina Anderson et.al.|[2606.03772v1](http://arxiv.org/abs/2606.03772v1)|null|
 
 ## Knob Tuning
 
