@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-07-08 18:03:37 Asia/Shanghai
+ 自动更新 @ 2026-07-09 18:42:57 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-08 09:11:00**|**Benchmark Engineering as a Design Instrument for Heterogeneous Information Systems**|Jáchym Bártík et.al.|[2607.07175v1](http://arxiv.org/abs/2607.07175v1)|null|
 |**2026-07-06 20:02:25**|**Patch Knowledge Transfer for Efficient AI-Generated Image Quality Assessment**|Jiquan Yuan et.al.|[2607.05605v1](http://arxiv.org/abs/2607.05605v1)|null|
 |**2026-07-06 13:26:57**|**A Body-of-Revolution Human Model for RF Sensing with Measurement-Driven Calibration for Indoor Environments**|Haoqing Wen et.al.|[2607.05053v1](http://arxiv.org/abs/2607.05053v1)|null|
 |**2026-07-01 21:00:40**|**CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**|Jaehyun Ha et.al.|[2607.01468v1](http://arxiv.org/abs/2607.01468v1)|null|
@@ -35,7 +36,6 @@
 |**2026-06-08 12:07:13**|**From Coarse to Fine: Managing Temporal Granularity in Spatio-Temporal Data for Fine-Grained Traffic Prediction**|Shuhao Li et.al.|[2606.09392v1](http://arxiv.org/abs/2606.09392v1)|null|
 |**2026-06-06 01:16:58**|**Larch: Learned Query Optimization for Semantic Predicates**|Fuheng Zhao et.al.|[2606.07923v1](http://arxiv.org/abs/2606.07923v1)|null|
 |**2026-06-03 09:13:05**|**CYGNET: Cypher Gate for Neural Execution Triage and Cost Containment**|Nikodem Tomczak et.al.|[2606.04645v1](http://arxiv.org/abs/2606.04645v1)|null|
-|**2026-06-03 03:29:57**|**Not All Errors Are Equal: Consequence-Aware Reasoning Compute Allocation**|Jingbo Wen et.al.|[2606.04402v1](http://arxiv.org/abs/2606.04402v1)|null|
 
 ## Knob Tuning
 
@@ -78,6 +78,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-08 16:47:31**|**From Custom-Fit to Portable: Bridging the Gap Between Synthesized and Engineered GPU Query Execution**|Ivan Donchev Kabadzhov et.al.|[2607.07632v1](http://arxiv.org/abs/2607.07632v1)|null|
 |**2026-07-06 03:30:53**|**Exploiting Structural Properties for Efficient Constraint-Aware HNSW Hyperparameter Tuning**|Geon Choi et.al.|[2607.04630v1](http://arxiv.org/abs/2607.04630v1)|null|
 |**2026-07-04 11:42:56**|**Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL**|Hanqing Wang et.al.|[2607.03833v1](http://arxiv.org/abs/2607.03833v1)|null|
 |**2026-07-02 10:18:45**|**Episodic-to-Semantic Consolidation Without Identity Drift**|Xue Qin et.al.|[2607.01988v1](http://arxiv.org/abs/2607.01988v1)|null|
@@ -107,4 +108,3 @@
 |**2026-06-09 12:11:11**|**Massive Open-Vocabulary Keyword Spotting**|Leonor Barreiros et.al.|[2606.11279v1](http://arxiv.org/abs/2606.11279v1)|null|
 |**2026-06-03 22:28:34**|**LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval**|Shahrzad Esmat et.al.|[2606.05489v1](http://arxiv.org/abs/2606.05489v1)|null|
 |**2026-06-03 12:39:16**|**Real-Time Industrial Defect Detection on Edge Hardware Using Fine-Tuned YOLOv8: A Systematic Benchmark on the NEU Surface Defect Database and MVTec AD with Automotive & Battery Manufacturing Extensions**|Emmanuel Ezeji Somtochukwu et.al.|[2606.07659v1](http://arxiv.org/abs/2606.07659v1)|null|
-|**2026-06-03 06:31:28**|**SANE Schema-aware Natural-language Evaluation of Biological Data**|Rolf Gattung et.al.|[2606.04500v1](http://arxiv.org/abs/2606.04500v1)|null|

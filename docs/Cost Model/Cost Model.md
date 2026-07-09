@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-08 09:11:00**|**Benchmark Engineering as a Design Instrument for Heterogeneous Information Systems**|Jáchym Bártík et.al.|[2607.07175v1](http://arxiv.org/abs/2607.07175v1)|null|
 |**2026-07-06 20:02:25**|**Patch Knowledge Transfer for Efficient AI-Generated Image Quality Assessment**|Jiquan Yuan et.al.|[2607.05605v1](http://arxiv.org/abs/2607.05605v1)|null|
 |**2026-07-06 13:26:57**|**A Body-of-Revolution Human Model for RF Sensing with Measurement-Driven Calibration for Indoor Environments**|Haoqing Wen et.al.|[2607.05053v1](http://arxiv.org/abs/2607.05053v1)|null|
 |**2026-07-01 21:00:40**|**CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**|Jaehyun Ha et.al.|[2607.01468v1](http://arxiv.org/abs/2607.01468v1)|null|
@@ -31,4 +32,3 @@
 |**2026-06-08 12:07:13**|**From Coarse to Fine: Managing Temporal Granularity in Spatio-Temporal Data for Fine-Grained Traffic Prediction**|Shuhao Li et.al.|[2606.09392v1](http://arxiv.org/abs/2606.09392v1)|null|
 |**2026-06-06 01:16:58**|**Larch: Learned Query Optimization for Semantic Predicates**|Fuheng Zhao et.al.|[2606.07923v1](http://arxiv.org/abs/2606.07923v1)|null|
 |**2026-06-03 09:13:05**|**CYGNET: Cypher Gate for Neural Execution Triage and Cost Containment**|Nikodem Tomczak et.al.|[2606.04645v1](http://arxiv.org/abs/2606.04645v1)|null|
-|**2026-06-03 03:29:57**|**Not All Errors Are Equal: Consequence-Aware Reasoning Compute Allocation**|Jingbo Wen et.al.|[2606.04402v1](http://arxiv.org/abs/2606.04402v1)|null|
