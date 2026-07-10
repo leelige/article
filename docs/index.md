@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-07-09 18:42:57 Asia/Shanghai
+ 自动更新 @ 2026-07-10 18:41:52 Asia/Shanghai
 
 ## Cost Model
 
@@ -42,6 +42,9 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-09 15:15:24**|**Curvature-Controlled Topological Magnon Phases in a Folded Kagome Lattice**|Seif Alwan et.al.|[2607.08580v1](http://arxiv.org/abs/2607.08580v1)|null|
+|**2026-07-09 09:55:19**|**Adaptive Row Selection Meets Asynchrony in Randomized Kaczmarz**|Evan Coleman et.al.|[2607.08313v1](http://arxiv.org/abs/2607.08313v1)|null|
+|**2026-07-08 12:20:19**|**A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents**|Hari Prasad et.al.|[2607.07753v1](http://arxiv.org/abs/2607.07753v1)|null|
 |**2026-07-06 07:57:39**|**Strain- and potential-controlled tunneling in monolayer MoS$_2$**|Hasna Chnafa et.al.|[2607.04766v1](http://arxiv.org/abs/2607.04766v1)|null|
 |**2026-07-05 20:25:54**|**Eiger: An Efficient Library for GPU-based Data Analytics**|Bowen Wu et.al.|[2607.04489v1](http://arxiv.org/abs/2607.04489v1)|null|
 |**2026-07-04 05:48:49**|**Nonlinear Hall effect in Floquet-driven monolayer 1T$'$-MoS$_2$**|Muhammad Faisal et.al.|[2607.03717v1](http://arxiv.org/abs/2607.03717v1)|null|
@@ -69,15 +72,13 @@
 |**2026-06-04 17:54:03**|**Superconducting triode effect in a quantum-dot Josephson junction with a biased top gate**|Yu-Hang Li et.al.|[2606.06465v1](http://arxiv.org/abs/2606.06465v1)|null|
 |**2026-06-04 14:43:38**|**PIVOT: Bridging Black-Scholes Implied-Volatility and Price Objectives via Differentiable Jäckel Operator**|Raeid Saqur et.al.|[2606.17065v1](http://arxiv.org/abs/2606.17065v1)|null|
 |**2026-06-03 13:29:50**|**Coulomb-mediated interactions of charge-transfer excitons in TMD lateral heterostructures**|Kabyashree Sonowal et.al.|[2606.04865v1](http://arxiv.org/abs/2606.04865v1)|null|
-|**2026-06-03 11:50:24**|**Tunable supramolecular polymerization from protein charge heterogeneity and architecture**|Nynke Marije Hettema et.al.|[2606.04766v1](http://arxiv.org/abs/2606.04766v1)|null|
-|**2026-06-01 11:26:24**|**Anisotropic Moiré Fractional Chern Insulators and Their Phase Transitions**|Bo Peng et.al.|[2606.02094v1](http://arxiv.org/abs/2606.02094v1)|null|
-|**2026-05-31 06:08:05**|**Robust Integrated Planning and Control for Quadrotors in Dynamic Environments via NMPC with CBF Penalties**|Zeinab Shayan et.al.|[2606.01038v1](http://arxiv.org/abs/2606.01038v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-09 06:56:20**|**SQuaD-SQL: Efficient Text-to-SQL with Small Language Models via LLM-Guided Knowledge Distillation**|Wangyu Wu et.al.|[2607.08161v1](http://arxiv.org/abs/2607.08161v1)|null|
 |**2026-07-08 16:47:31**|**From Custom-Fit to Portable: Bridging the Gap Between Synthesized and Engineered GPU Query Execution**|Ivan Donchev Kabadzhov et.al.|[2607.07632v1](http://arxiv.org/abs/2607.07632v1)|null|
 |**2026-07-06 03:30:53**|**Exploiting Structural Properties for Efficient Constraint-Aware HNSW Hyperparameter Tuning**|Geon Choi et.al.|[2607.04630v1](http://arxiv.org/abs/2607.04630v1)|null|
 |**2026-07-04 11:42:56**|**Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL**|Hanqing Wang et.al.|[2607.03833v1](http://arxiv.org/abs/2607.03833v1)|null|
@@ -96,7 +97,6 @@
 |**2026-06-16 21:15:49**|**Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases**|Chandranil Chakraborttii et.al.|[2606.18497v1](http://arxiv.org/abs/2606.18497v1)|null|
 |**2026-06-16 11:48:50**|**DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL**|Esteban Schafir et.al.|[2606.17821v1](http://arxiv.org/abs/2606.17821v1)|null|
 |**2026-06-15 13:55:37**|**The Edge-on Galaxies in the DESI survey (EGIDE): sample building and photometry**|Alexander A. Marchuk et.al.|[2606.16734v2](http://arxiv.org/abs/2606.16734v2)|null|
-|**2026-06-15 03:10:17**|**LiteOdyssey: A Lightweight Reasoning AI Agent for Interpretable Rare-Disease Diagnosis**|Minh-Ha Nguyen et.al.|[2606.16149v1](http://arxiv.org/abs/2606.16149v1)|null|
 |**2026-06-14 04:52:58**|**Integrating Reasoning and Generalization in Text-to-SQL via Self-Enhanced Fine-Tuning**|Feng Lyu et.al.|[2606.15598v1](http://arxiv.org/abs/2606.15598v1)|null|
 |**2026-06-13 12:41:31**|**Enhancing Precision Agriculture with a Hybrid Deep Learning Framework for Multi-Class Plant Disease Classification and Interpretability**|Hasibul Islam Sufi et.al.|[2606.15282v1](http://arxiv.org/abs/2606.15282v1)|null|
 |**2026-06-12 17:39:29**|**Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows**|Shikun Liu et.al.|[2606.14672v1](http://arxiv.org/abs/2606.14672v1)|null|

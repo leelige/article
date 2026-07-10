@@ -2,6 +2,9 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-09 15:15:24**|**Curvature-Controlled Topological Magnon Phases in a Folded Kagome Lattice**|Seif Alwan et.al.|[2607.08580v1](http://arxiv.org/abs/2607.08580v1)|null|
+|**2026-07-09 09:55:19**|**Adaptive Row Selection Meets Asynchrony in Randomized Kaczmarz**|Evan Coleman et.al.|[2607.08313v1](http://arxiv.org/abs/2607.08313v1)|null|
+|**2026-07-08 12:20:19**|**A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents**|Hari Prasad et.al.|[2607.07753v1](http://arxiv.org/abs/2607.07753v1)|null|
 |**2026-07-06 07:57:39**|**Strain- and potential-controlled tunneling in monolayer MoS$_2$**|Hasna Chnafa et.al.|[2607.04766v1](http://arxiv.org/abs/2607.04766v1)|null|
 |**2026-07-05 20:25:54**|**Eiger: An Efficient Library for GPU-based Data Analytics**|Bowen Wu et.al.|[2607.04489v1](http://arxiv.org/abs/2607.04489v1)|null|
 |**2026-07-04 05:48:49**|**Nonlinear Hall effect in Floquet-driven monolayer 1T$'$-MoS$_2$**|Muhammad Faisal et.al.|[2607.03717v1](http://arxiv.org/abs/2607.03717v1)|null|
@@ -29,6 +32,3 @@
 |**2026-06-04 17:54:03**|**Superconducting triode effect in a quantum-dot Josephson junction with a biased top gate**|Yu-Hang Li et.al.|[2606.06465v1](http://arxiv.org/abs/2606.06465v1)|null|
 |**2026-06-04 14:43:38**|**PIVOT: Bridging Black-Scholes Implied-Volatility and Price Objectives via Differentiable Jäckel Operator**|Raeid Saqur et.al.|[2606.17065v1](http://arxiv.org/abs/2606.17065v1)|null|
 |**2026-06-03 13:29:50**|**Coulomb-mediated interactions of charge-transfer excitons in TMD lateral heterostructures**|Kabyashree Sonowal et.al.|[2606.04865v1](http://arxiv.org/abs/2606.04865v1)|null|
-|**2026-06-03 11:50:24**|**Tunable supramolecular polymerization from protein charge heterogeneity and architecture**|Nynke Marije Hettema et.al.|[2606.04766v1](http://arxiv.org/abs/2606.04766v1)|null|
-|**2026-06-01 11:26:24**|**Anisotropic Moiré Fractional Chern Insulators and Their Phase Transitions**|Bo Peng et.al.|[2606.02094v1](http://arxiv.org/abs/2606.02094v1)|null|
-|**2026-05-31 06:08:05**|**Robust Integrated Planning and Control for Quadrotors in Dynamic Environments via NMPC with CBF Penalties**|Zeinab Shayan et.al.|[2606.01038v1](http://arxiv.org/abs/2606.01038v1)|null|

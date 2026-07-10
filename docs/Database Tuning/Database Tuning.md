@@ -2,6 +2,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-09 06:56:20**|**SQuaD-SQL: Efficient Text-to-SQL with Small Language Models via LLM-Guided Knowledge Distillation**|Wangyu Wu et.al.|[2607.08161v1](http://arxiv.org/abs/2607.08161v1)|null|
 |**2026-07-08 16:47:31**|**From Custom-Fit to Portable: Bridging the Gap Between Synthesized and Engineered GPU Query Execution**|Ivan Donchev Kabadzhov et.al.|[2607.07632v1](http://arxiv.org/abs/2607.07632v1)|null|
 |**2026-07-06 03:30:53**|**Exploiting Structural Properties for Efficient Constraint-Aware HNSW Hyperparameter Tuning**|Geon Choi et.al.|[2607.04630v1](http://arxiv.org/abs/2607.04630v1)|null|
 |**2026-07-04 11:42:56**|**Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL**|Hanqing Wang et.al.|[2607.03833v1](http://arxiv.org/abs/2607.03833v1)|null|
@@ -20,7 +21,6 @@
 |**2026-06-16 21:15:49**|**Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases**|Chandranil Chakraborttii et.al.|[2606.18497v1](http://arxiv.org/abs/2606.18497v1)|null|
 |**2026-06-16 11:48:50**|**DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL**|Esteban Schafir et.al.|[2606.17821v1](http://arxiv.org/abs/2606.17821v1)|null|
 |**2026-06-15 13:55:37**|**The Edge-on Galaxies in the DESI survey (EGIDE): sample building and photometry**|Alexander A. Marchuk et.al.|[2606.16734v2](http://arxiv.org/abs/2606.16734v2)|null|
-|**2026-06-15 03:10:17**|**LiteOdyssey: A Lightweight Reasoning AI Agent for Interpretable Rare-Disease Diagnosis**|Minh-Ha Nguyen et.al.|[2606.16149v1](http://arxiv.org/abs/2606.16149v1)|null|
 |**2026-06-14 04:52:58**|**Integrating Reasoning and Generalization in Text-to-SQL via Self-Enhanced Fine-Tuning**|Feng Lyu et.al.|[2606.15598v1](http://arxiv.org/abs/2606.15598v1)|null|
 |**2026-06-13 12:41:31**|**Enhancing Precision Agriculture with a Hybrid Deep Learning Framework for Multi-Class Plant Disease Classification and Interpretability**|Hasibul Islam Sufi et.al.|[2606.15282v1](http://arxiv.org/abs/2606.15282v1)|null|
 |**2026-06-12 17:39:29**|**Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows**|Shikun Liu et.al.|[2606.14672v1](http://arxiv.org/abs/2606.14672v1)|null|
