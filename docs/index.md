@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-07-13 18:46:57 Asia/Shanghai
+ 自动更新 @ 2026-07-14 17:43:10 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-13 06:44:33**|**The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation**|Chenglin Yu et.al.|[2607.11149v1](http://arxiv.org/abs/2607.11149v1)|null|
 |**2026-07-08 09:11:00**|**Benchmark Engineering as a Design Instrument for Heterogeneous Information Systems**|Jáchym Bártík et.al.|[2607.07175v1](http://arxiv.org/abs/2607.07175v1)|null|
 |**2026-07-06 20:02:25**|**Patch Knowledge Transfer for Efficient AI-Generated Image Quality Assessment**|Jiquan Yuan et.al.|[2607.05605v1](http://arxiv.org/abs/2607.05605v1)|null|
 |**2026-07-06 13:26:57**|**A Body-of-Revolution Human Model for RF Sensing with Measurement-Driven Calibration for Indoor Environments**|Haoqing Wen et.al.|[2607.05053v1](http://arxiv.org/abs/2607.05053v1)|null|
@@ -21,7 +22,7 @@
 |**2026-06-22 09:30:24**|**SemCEB: A Cardinality Estimation Benchmark for Semantic Operators**|Andreas Zimmerer et.al.|[2606.23081v1](http://arxiv.org/abs/2606.23081v1)|null|
 |**2026-06-21 22:09:12**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692v1](http://arxiv.org/abs/2606.22692v1)|null|
 |**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
-|**2026-06-18 18:37:05**|**ReSequel: Robust LLM-assisted Query Rewriting and Optimization using Templatization and Sampling**|Saeed Fathollahzadeh et.al.|[2606.20853v1](http://arxiv.org/abs/2606.20853v1)|null|
+|**2026-06-18 18:37:05**|**ReSequel: Robust LLM-assisted Query Rewriting and Optimization using Templatization and Sampling**|Saeed Fathollahzadeh et.al.|[2606.20853v2](http://arxiv.org/abs/2606.20853v2)|null|
 |**2026-06-18 02:42:14**|**Library-Aware Doubles and Iterative Repair for Large Language Model-Generated Unit Tests in OpenSIL Firmware**|Ma Toan Bach et.al.|[2606.19725v2](http://arxiv.org/abs/2606.19725v2)|null|
 |**2026-06-17 22:06:41**|**Toten: A Knowledge-Based System For Structure-Preserving Representation Of Physical Quantities And Technical Notation In Brazilian Portuguese**|Antonio de Sousa Leitão Filho et.al.|[2606.19626v2](http://arxiv.org/abs/2606.19626v2)|null|
 |**2026-06-17 20:28:47**|**REMOP: REmote-Memory-aware OPerator Optimization**|Shiquan Zhang et.al.|[2606.19576v1](http://arxiv.org/abs/2606.19576v1)|null|
@@ -35,7 +36,6 @@
 |**2026-06-09 16:57:20**|**The Fuel Optimizer: A Data-Driven Numerical Framework for Formulation of Aviation Turbine Fuel**|Ana Larrañaga et.al.|[2606.11099v1](http://arxiv.org/abs/2606.11099v1)|null|
 |**2026-06-08 12:07:13**|**From Coarse to Fine: Managing Temporal Granularity in Spatio-Temporal Data for Fine-Grained Traffic Prediction**|Shuhao Li et.al.|[2606.09392v1](http://arxiv.org/abs/2606.09392v1)|null|
 |**2026-06-06 01:16:58**|**Larch: Learned Query Optimization for Semantic Predicates**|Fuheng Zhao et.al.|[2606.07923v1](http://arxiv.org/abs/2606.07923v1)|null|
-|**2026-06-03 09:13:05**|**CYGNET: Cypher Gate for Neural Execution Triage and Cost Containment**|Nikodem Tomczak et.al.|[2606.04645v1](http://arxiv.org/abs/2606.04645v1)|null|
 
 ## Knob Tuning
 
