@@ -16,7 +16,7 @@
 |**2026-06-22 12:44:50**|**Tuning Quantum MPS**|Anna Leonteva et.al.|[2606.23262v1](http://arxiv.org/abs/2606.23262v1)|null|
 |**2026-06-22 07:02:33**|**MythraGen: Two-Stage Retrieval Augmented Art Generation Framework**|Quang-Khai Le et.al.|[2606.22924v1](http://arxiv.org/abs/2606.22924v1)|null|
 |**2026-06-20 02:08:52**|**AgentDSE: Reasoning-Augmented Architectural Design Space Exploration**|Chenyu Wang et.al.|[2606.21836v1](http://arxiv.org/abs/2606.21836v1)|null|
-|**2026-06-18 14:57:10**|**AgenticDB: Agentic Performance Reconfiguration for Database Workloads**|Xinyue Yang et.al.|[2606.20318v2](http://arxiv.org/abs/2606.20318v2)|null|
+|**2026-06-18 14:57:10**|**AgenticDB: Self-Evolving Reconfiguration Framework for Database Workloads**|Xinyue Yang et.al.|[2606.20318v3](http://arxiv.org/abs/2606.20318v3)|null|
 |**2026-06-18 04:56:00**|**Cross-Dataset, Age, and Gender Generalization: A Comprehensive Analysis of Fine-Tuning Strategies for Low-Resource Children's ASR**|Abhijit Sinha et.al.|[2606.19791v2](http://arxiv.org/abs/2606.19791v2)|null|
 |**2026-06-16 21:15:49**|**Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases**|Chandranil Chakraborttii et.al.|[2606.18497v1](http://arxiv.org/abs/2606.18497v1)|null|
 |**2026-06-16 11:48:50**|**DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL**|Esteban Schafir et.al.|[2606.17821v1](http://arxiv.org/abs/2606.17821v1)|null|

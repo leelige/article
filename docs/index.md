@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-07-14 17:43:10 Asia/Shanghai
+ 自动更新 @ 2026-07-15 17:46:39 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-13 22:16:58**|**Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems**|Navnit Shukla et.al.|[2607.12188v1](http://arxiv.org/abs/2607.12188v1)|null|
 |**2026-07-13 06:44:33**|**The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation**|Chenglin Yu et.al.|[2607.11149v1](http://arxiv.org/abs/2607.11149v1)|null|
 |**2026-07-08 09:11:00**|**Benchmark Engineering as a Design Instrument for Heterogeneous Information Systems**|Jáchym Bártík et.al.|[2607.07175v1](http://arxiv.org/abs/2607.07175v1)|null|
 |**2026-07-06 20:02:25**|**Patch Knowledge Transfer for Efficient AI-Generated Image Quality Assessment**|Jiquan Yuan et.al.|[2607.05605v1](http://arxiv.org/abs/2607.05605v1)|null|
@@ -18,7 +19,6 @@
 |**2026-06-26 12:46:12**|**On the Relationship Between Plasma and Tritium Fuel Cycle Through Matter Injection and Particle Exhaust**|Samuele Meschini et.al.|[2606.28043v1](http://arxiv.org/abs/2606.28043v1)|null|
 |**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v1](http://arxiv.org/abs/2606.26613v1)|null|
 |**2026-06-24 21:11:17**|**Query Cost Model Calibration in Confidential Virtual Machines**|Qihan Zhang et.al.|[2606.26385v1](http://arxiv.org/abs/2606.26385v1)|null|
-|**2026-06-24 20:50:58**|**Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model**|Sergey Kurilenko et.al.|[2606.26373v3](http://arxiv.org/abs/2606.26373v3)|null|
 |**2026-06-22 09:30:24**|**SemCEB: A Cardinality Estimation Benchmark for Semantic Operators**|Andreas Zimmerer et.al.|[2606.23081v1](http://arxiv.org/abs/2606.23081v1)|null|
 |**2026-06-21 22:09:12**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692v1](http://arxiv.org/abs/2606.22692v1)|null|
 |**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
@@ -58,7 +58,6 @@
 |**2026-06-20 20:08:15**|**Deterministic control of the probabilistic phase dynamics in injection-locked spin-torque nano-oscillators**|Abderrazak Hakam et.al.|[2606.22208v1](http://arxiv.org/abs/2606.22208v1)|null|
 |**2026-06-20 11:32:38**|**Magneto-ionic control of topological transport in SrRuO3 via band topology engineering**|Xuanchi Zhou et.al.|[2606.21999v1](http://arxiv.org/abs/2606.21999v1)|null|
 |**2026-06-20 07:44:50**|**Cache-Aware I/O Cost Modeling for Disk-Based Learned Indexes**|Zhanwei Shi et.al.|[2606.21924v1](http://arxiv.org/abs/2606.21924v1)|null|
-|**2026-06-18 14:57:10**|**AgenticDB: Agentic Performance Reconfiguration for Database Workloads**|Xinyue Yang et.al.|[2606.20318v2](http://arxiv.org/abs/2606.20318v2)|null|
 |**2026-06-18 05:25:43**|**Think Again or Think Longer? Selective Verification for Budget-Aware Reasoning**|Sajib Acharjee Dip et.al.|[2606.19808v1](http://arxiv.org/abs/2606.19808v1)|null|
 |**2026-06-18 05:15:43**|**Flow Map Denoisers: Traversing the Distortion-Perception Plane for Inverse Problems**|Nicolas Zilberstein et.al.|[2606.19802v1](http://arxiv.org/abs/2606.19802v1)|null|
 |**2026-06-17 18:36:08**|**Collective phases in overdamped magnetic self-propelled spherocylinders**|Francisca Guzmán-Lastra et.al.|[2606.19498v1](http://arxiv.org/abs/2606.19498v1)|null|
@@ -72,6 +71,7 @@
 |**2026-06-04 17:54:03**|**Superconducting triode effect in a quantum-dot Josephson junction with a biased top gate**|Yu-Hang Li et.al.|[2606.06465v1](http://arxiv.org/abs/2606.06465v1)|null|
 |**2026-06-04 14:43:38**|**PIVOT: Bridging Black-Scholes Implied-Volatility and Price Objectives via Differentiable Jäckel Operator**|Raeid Saqur et.al.|[2606.17065v1](http://arxiv.org/abs/2606.17065v1)|null|
 |**2026-06-03 13:29:50**|**Coulomb-mediated interactions of charge-transfer excitons in TMD lateral heterostructures**|Kabyashree Sonowal et.al.|[2606.04865v1](http://arxiv.org/abs/2606.04865v1)|null|
+|**2026-06-03 11:50:24**|**Tunable supramolecular polymerization from protein charge heterogeneity and architecture**|Nynke Marije Hettema et.al.|[2606.04766v1](http://arxiv.org/abs/2606.04766v1)|null|
 
 ## Database Tuning
 
@@ -92,7 +92,7 @@
 |**2026-06-22 12:44:50**|**Tuning Quantum MPS**|Anna Leonteva et.al.|[2606.23262v1](http://arxiv.org/abs/2606.23262v1)|null|
 |**2026-06-22 07:02:33**|**MythraGen: Two-Stage Retrieval Augmented Art Generation Framework**|Quang-Khai Le et.al.|[2606.22924v1](http://arxiv.org/abs/2606.22924v1)|null|
 |**2026-06-20 02:08:52**|**AgentDSE: Reasoning-Augmented Architectural Design Space Exploration**|Chenyu Wang et.al.|[2606.21836v1](http://arxiv.org/abs/2606.21836v1)|null|
-|**2026-06-18 14:57:10**|**AgenticDB: Agentic Performance Reconfiguration for Database Workloads**|Xinyue Yang et.al.|[2606.20318v2](http://arxiv.org/abs/2606.20318v2)|null|
+|**2026-06-18 14:57:10**|**AgenticDB: Self-Evolving Reconfiguration Framework for Database Workloads**|Xinyue Yang et.al.|[2606.20318v3](http://arxiv.org/abs/2606.20318v3)|null|
 |**2026-06-18 04:56:00**|**Cross-Dataset, Age, and Gender Generalization: A Comprehensive Analysis of Fine-Tuning Strategies for Low-Resource Children's ASR**|Abhijit Sinha et.al.|[2606.19791v2](http://arxiv.org/abs/2606.19791v2)|null|
 |**2026-06-16 21:15:49**|**Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases**|Chandranil Chakraborttii et.al.|[2606.18497v1](http://arxiv.org/abs/2606.18497v1)|null|
 |**2026-06-16 11:48:50**|**DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL**|Esteban Schafir et.al.|[2606.17821v1](http://arxiv.org/abs/2606.17821v1)|null|

@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-13 22:16:58**|**Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems**|Navnit Shukla et.al.|[2607.12188v1](http://arxiv.org/abs/2607.12188v1)|null|
 |**2026-07-13 06:44:33**|**The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation**|Chenglin Yu et.al.|[2607.11149v1](http://arxiv.org/abs/2607.11149v1)|null|
 |**2026-07-08 09:11:00**|**Benchmark Engineering as a Design Instrument for Heterogeneous Information Systems**|Jáchym Bártík et.al.|[2607.07175v1](http://arxiv.org/abs/2607.07175v1)|null|
 |**2026-07-06 20:02:25**|**Patch Knowledge Transfer for Efficient AI-Generated Image Quality Assessment**|Jiquan Yuan et.al.|[2607.05605v1](http://arxiv.org/abs/2607.05605v1)|null|
@@ -14,7 +15,6 @@
 |**2026-06-26 12:46:12**|**On the Relationship Between Plasma and Tritium Fuel Cycle Through Matter Injection and Particle Exhaust**|Samuele Meschini et.al.|[2606.28043v1](http://arxiv.org/abs/2606.28043v1)|null|
 |**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v1](http://arxiv.org/abs/2606.26613v1)|null|
 |**2026-06-24 21:11:17**|**Query Cost Model Calibration in Confidential Virtual Machines**|Qihan Zhang et.al.|[2606.26385v1](http://arxiv.org/abs/2606.26385v1)|null|
-|**2026-06-24 20:50:58**|**Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model**|Sergey Kurilenko et.al.|[2606.26373v3](http://arxiv.org/abs/2606.26373v3)|null|
 |**2026-06-22 09:30:24**|**SemCEB: A Cardinality Estimation Benchmark for Semantic Operators**|Andreas Zimmerer et.al.|[2606.23081v1](http://arxiv.org/abs/2606.23081v1)|null|
 |**2026-06-21 22:09:12**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692v1](http://arxiv.org/abs/2606.22692v1)|null|
 |**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
