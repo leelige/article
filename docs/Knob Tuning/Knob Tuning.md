@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-15 13:12:11**|**Fractional Chern insulators in alternating twisted multilayer MoTe$_{2}$**|Xi-Hang Feng et.al.|[2607.13807v1](http://arxiv.org/abs/2607.13807v1)|null|
 |**2026-07-09 15:15:24**|**Curvature-Controlled Topological Magnon Phases in a Folded Kagome Lattice**|Seif Alwan et.al.|[2607.08580v1](http://arxiv.org/abs/2607.08580v1)|null|
 |**2026-07-09 09:55:19**|**Adaptive Row Selection Meets Asynchrony in Randomized Kaczmarz**|Evan Coleman et.al.|[2607.08313v1](http://arxiv.org/abs/2607.08313v1)|null|
 |**2026-07-08 12:20:19**|**A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents**|Hari Prasad et.al.|[2607.07753v1](http://arxiv.org/abs/2607.07753v1)|null|
@@ -11,7 +12,6 @@
 |**2026-07-01 18:57:09**|**Computer Vision for Wildlife Monitoring: Detecting Brown Howler Monkeys using YOLO**|Gabriel Ferri Schneider et.al.|[2607.01396v1](http://arxiv.org/abs/2607.01396v1)|null|
 |**2026-06-30 07:42:44**|**Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2**|Jiao Xie et.al.|[2606.31267v1](http://arxiv.org/abs/2606.31267v1)|null|
 |**2026-06-29 12:54:30**|**Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**|Carlos Magno O. Pereira et.al.|[2606.30245v1](http://arxiv.org/abs/2606.30245v1)|null|
-|**2026-06-28 19:52:25**|**The Joint Effect of Quantization and Sampling Temperature on LLM Safety Alignment: A Factorial Analysis**|Hari Prasad et.al.|[2606.29581v1](http://arxiv.org/abs/2606.29581v1)|null|
 |**2026-06-25 10:58:00**|**Rashba Spin Demons in Two-Dimensional d-Wave Altermagnets and their Electrostatic Contro**|Muhammad Irfan Sarwar et.al.|[2606.26871v2](http://arxiv.org/abs/2606.26871v2)|null|
 |**2026-06-24 08:34:41**|**A topology-tuned pressure valve across the isoreticular RHO zeolite family**|Salvador R. G. Balestra et.al.|[2606.25557v1](http://arxiv.org/abs/2606.25557v1)|null|
 |**2026-06-23 18:28:21**|**Layer-tunable Hubbard bands probed via moiré excitons in MoSe$_2$/WS$_2$ heterostructures**|Hongyu Yao et.al.|[2606.25071v1](http://arxiv.org/abs/2606.25071v1)|null|
