@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-17 04:39:04**|**AEGIS: Assay-Aware Protocol Validation and Runtime Monitoring for Open-Source Liquid Handling Robots**|Priyanka V. Setty et.al.|[2607.15620v1](http://arxiv.org/abs/2607.15620v1)|null|
 |**2026-07-13 22:16:58**|**Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems**|Navnit Shukla et.al.|[2607.12188v1](http://arxiv.org/abs/2607.12188v1)|null|
 |**2026-07-13 06:44:33**|**The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation**|Chenglin Yu et.al.|[2607.11149v2](http://arxiv.org/abs/2607.11149v2)|null|
 |**2026-07-08 09:11:00**|**Benchmark Engineering as a Design Instrument for Heterogeneous Information Systems**|Jáchym Bártík et.al.|[2607.07175v1](http://arxiv.org/abs/2607.07175v1)|null|
@@ -31,4 +32,3 @@
 |**2026-06-10 00:40:14**|**VIPIR: A Versatile GPU Framework for Integrating Private Information Retrieval Protocols**|Jongmin Kim et.al.|[2606.11536v1](http://arxiv.org/abs/2606.11536v1)|null|
 |**2026-06-09 16:57:20**|**The Fuel Optimizer: A Data-Driven Numerical Framework for Formulation of Aviation Turbine Fuel**|Ana Larrañaga et.al.|[2606.11099v1](http://arxiv.org/abs/2606.11099v1)|null|
 |**2026-06-08 12:07:13**|**From Coarse to Fine: Managing Temporal Granularity in Spatio-Temporal Data for Fine-Grained Traffic Prediction**|Shuhao Li et.al.|[2606.09392v1](http://arxiv.org/abs/2606.09392v1)|null|
-|**2026-06-06 01:16:58**|**Larch: Learned Query Optimization for Semantic Predicates**|Fuheng Zhao et.al.|[2606.07923v1](http://arxiv.org/abs/2606.07923v1)|null|

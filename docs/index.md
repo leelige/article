@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-07-19 17:41:38 Asia/Shanghai
+ 自动更新 @ 2026-07-20 18:37:29 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-17 04:39:04**|**AEGIS: Assay-Aware Protocol Validation and Runtime Monitoring for Open-Source Liquid Handling Robots**|Priyanka V. Setty et.al.|[2607.15620v1](http://arxiv.org/abs/2607.15620v1)|null|
 |**2026-07-13 22:16:58**|**Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems**|Navnit Shukla et.al.|[2607.12188v1](http://arxiv.org/abs/2607.12188v1)|null|
 |**2026-07-13 06:44:33**|**The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation**|Chenglin Yu et.al.|[2607.11149v2](http://arxiv.org/abs/2607.11149v2)|null|
 |**2026-07-08 09:11:00**|**Benchmark Engineering as a Design Instrument for Heterogeneous Information Systems**|Jáchym Bártík et.al.|[2607.07175v1](http://arxiv.org/abs/2607.07175v1)|null|
@@ -35,7 +36,6 @@
 |**2026-06-10 00:40:14**|**VIPIR: A Versatile GPU Framework for Integrating Private Information Retrieval Protocols**|Jongmin Kim et.al.|[2606.11536v1](http://arxiv.org/abs/2606.11536v1)|null|
 |**2026-06-09 16:57:20**|**The Fuel Optimizer: A Data-Driven Numerical Framework for Formulation of Aviation Turbine Fuel**|Ana Larrañaga et.al.|[2606.11099v1](http://arxiv.org/abs/2606.11099v1)|null|
 |**2026-06-08 12:07:13**|**From Coarse to Fine: Managing Temporal Granularity in Spatio-Temporal Data for Fine-Grained Traffic Prediction**|Shuhao Li et.al.|[2606.09392v1](http://arxiv.org/abs/2606.09392v1)|null|
-|**2026-06-06 01:16:58**|**Larch: Learned Query Optimization for Semantic Predicates**|Fuheng Zhao et.al.|[2606.07923v1](http://arxiv.org/abs/2606.07923v1)|null|
 
 ## Knob Tuning
 
@@ -78,6 +78,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-17 15:06:11**|**Revisiting data-driven dynamic security assessment with a tabular foundation model**|Olayiwola Arowolo et.al.|[2607.16031v1](http://arxiv.org/abs/2607.16031v1)|null|
 |**2026-07-14 22:31:55**|**Finding the Right Tables and Columns: A Benchmark and Corpus-Adaptive Embeddings for SQL Schema Retrieval**|Qingcheng Zeng et.al.|[2607.13311v1](http://arxiv.org/abs/2607.13311v1)|null|
 |**2026-07-09 06:56:20**|**SQuaD-SQL: Efficient Text-to-SQL with Small Language Models via LLM-Guided Knowledge Distillation**|Wangyu Wu et.al.|[2607.08161v1](http://arxiv.org/abs/2607.08161v1)|null|
 |**2026-07-08 16:47:31**|**From Custom-Fit to Portable: Bridging the Gap Between Synthesized and Engineered GPU Query Execution**|Ivan Donchev Kabadzhov et.al.|[2607.07632v1](http://arxiv.org/abs/2607.07632v1)|null|
@@ -97,7 +98,7 @@
 |**2026-06-18 04:56:00**|**Cross-Dataset, Age, and Gender Generalization: A Comprehensive Analysis of Fine-Tuning Strategies for Low-Resource Children's ASR**|Abhijit Sinha et.al.|[2606.19791v2](http://arxiv.org/abs/2606.19791v2)|null|
 |**2026-06-16 21:15:49**|**Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases**|Chandranil Chakraborttii et.al.|[2606.18497v1](http://arxiv.org/abs/2606.18497v1)|null|
 |**2026-06-16 11:48:50**|**DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL**|Esteban Schafir et.al.|[2606.17821v1](http://arxiv.org/abs/2606.17821v1)|null|
-|**2026-06-15 13:55:37**|**The Edge-on Galaxies in the DESI survey (EGIDE): sample building and photometry**|Alexander A. Marchuk et.al.|[2606.16734v2](http://arxiv.org/abs/2606.16734v2)|null|
+|**2026-06-15 13:55:37**|**The Edge-on Galaxies in the DESI survey (EGIDE): sample building and photometry**|Alexander A. Marchuk et.al.|[2606.16734v3](http://arxiv.org/abs/2606.16734v3)|null|
 |**2026-06-14 04:52:58**|**Integrating Reasoning and Generalization in Text-to-SQL via Self-Enhanced Fine-Tuning**|Feng Lyu et.al.|[2606.15598v1](http://arxiv.org/abs/2606.15598v1)|null|
 |**2026-06-13 12:41:31**|**Enhancing Precision Agriculture with a Hybrid Deep Learning Framework for Multi-Class Plant Disease Classification and Interpretability**|Hasibul Islam Sufi et.al.|[2606.15282v1](http://arxiv.org/abs/2606.15282v1)|null|
 |**2026-06-12 17:39:29**|**Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows**|Shikun Liu et.al.|[2606.14672v1](http://arxiv.org/abs/2606.14672v1)|null|
@@ -107,4 +108,3 @@
 |**2026-06-10 19:16:31**|**PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation**|Mahmoud Srewa et.al.|[2606.12616v1](http://arxiv.org/abs/2606.12616v1)|null|
 |**2026-06-10 17:52:15**|**TAHOE: Text-to-SQL with Automated Hint Optimization from Experience**|Zhiyi Chen et.al.|[2606.12387v1](http://arxiv.org/abs/2606.12387v1)|null|
 |**2026-06-09 12:11:11**|**Massive Open-Vocabulary Keyword Spotting**|Leonor Barreiros et.al.|[2606.11279v1](http://arxiv.org/abs/2606.11279v1)|null|
-|**2026-06-03 22:28:34**|**LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval**|Shahrzad Esmat et.al.|[2606.05489v1](http://arxiv.org/abs/2606.05489v1)|null|
