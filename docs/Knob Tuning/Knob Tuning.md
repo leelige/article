@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-20 11:32:23**|**From Blind Search to Memory-Aware Evolution: Efficient DBMS Tuning via Collaborative Diagnosis and Utility-Aware Retrieval**|Zhaoyan Hong et.al.|[2607.17841v1](http://arxiv.org/abs/2607.17841v1)|null|
 |**2026-07-16 03:12:58**|**Adaptive Runge-Kutta Step Control Buys Training Loss, Not Generalization: An Honest Compute-Matched Study of RK-Adam Optimizers**|Akhilesh Gogikar et.al.|[2607.14516v1](http://arxiv.org/abs/2607.14516v1)|null|
 |**2026-07-15 13:12:11**|**Fractional Chern insulators in alternating twisted multilayer MoTe$_{2}$**|Xi-Hang Feng et.al.|[2607.13807v1](http://arxiv.org/abs/2607.13807v1)|null|
 |**2026-07-09 15:15:24**|**Curvature-Controlled Topological Magnon Phases in a Folded Kagome Lattice**|Seif Alwan et.al.|[2607.08580v1](http://arxiv.org/abs/2607.08580v1)|null|
@@ -31,4 +32,3 @@
 |**2026-06-08 15:54:28**|**Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery**|Suraj Biswas et.al.|[2606.09672v1](http://arxiv.org/abs/2606.09672v1)|null|
 |**2026-06-04 17:54:03**|**Superconducting triode effect in a quantum-dot Josephson junction with a biased top gate**|Yu-Hang Li et.al.|[2606.06465v1](http://arxiv.org/abs/2606.06465v1)|null|
 |**2026-06-04 14:43:38**|**PIVOT: Bridging Black-Scholes Implied-Volatility and Price Objectives via Differentiable Jäckel Operator**|Raeid Saqur et.al.|[2606.17065v1](http://arxiv.org/abs/2606.17065v1)|null|
-|**2026-06-03 13:29:50**|**Coulomb-mediated interactions of charge-transfer excitons in TMD lateral heterostructures**|Kabyashree Sonowal et.al.|[2606.04865v1](http://arxiv.org/abs/2606.04865v1)|null|
