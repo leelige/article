@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-07-21 18:11:31 Asia/Shanghai
+ 自动更新 @ 2026-07-22 18:11:07 Asia/Shanghai
 
 ## Cost Model
 
@@ -42,12 +42,14 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-21 13:35:23**|**Doping tunable charge density waves in misfit layer compounds**|Hugo Le Du et.al.|[2607.19095v1](http://arxiv.org/abs/2607.19095v1)|null|
+|**2026-07-21 10:52:04**|**SFGA: A Statistics-First Gating Architecture with Adjudicative Escalation for Trustworthy SFT Data Procurement**|Arther Tian et.al.|[2607.18960v1](http://arxiv.org/abs/2607.18960v1)|null|
 |**2026-07-20 11:32:23**|**From Blind Search to Memory-Aware Evolution: Efficient DBMS Tuning via Collaborative Diagnosis and Utility-Aware Retrieval**|Zhaoyan Hong et.al.|[2607.17841v1](http://arxiv.org/abs/2607.17841v1)|null|
 |**2026-07-16 03:12:58**|**Adaptive Runge-Kutta Step Control Buys Training Loss, Not Generalization: An Honest Compute-Matched Study of RK-Adam Optimizers**|Akhilesh Gogikar et.al.|[2607.14516v1](http://arxiv.org/abs/2607.14516v1)|null|
 |**2026-07-15 13:12:11**|**Fractional Chern insulators in alternating twisted multilayer MoTe$_{2}$**|Xi-Hang Feng et.al.|[2607.13807v1](http://arxiv.org/abs/2607.13807v1)|null|
 |**2026-07-09 15:15:24**|**Curvature-Controlled Topological Magnon Phases in a Folded Kagome Lattice**|Seif Alwan et.al.|[2607.08580v1](http://arxiv.org/abs/2607.08580v1)|null|
 |**2026-07-09 09:55:19**|**Adaptive Row Selection Meets Asynchrony in Randomized Kaczmarz**|Evan Coleman et.al.|[2607.08313v1](http://arxiv.org/abs/2607.08313v1)|null|
-|**2026-07-08 12:20:19**|**A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents**|Hari Prasad et.al.|[2607.07753v1](http://arxiv.org/abs/2607.07753v1)|null|
+|**2026-07-08 12:20:19**|**A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents**|Hari Prasad et.al.|[2607.07753v2](http://arxiv.org/abs/2607.07753v2)|null|
 |**2026-07-06 07:57:39**|**Strain- and potential-controlled tunneling in monolayer MoS$_2$**|Hasna Chnafa et.al.|[2607.04766v1](http://arxiv.org/abs/2607.04766v1)|null|
 |**2026-07-05 20:25:54**|**Eiger: An Efficient Library for GPU-based Data Analytics**|Bowen Wu et.al.|[2607.04489v1](http://arxiv.org/abs/2607.04489v1)|null|
 |**2026-07-04 05:48:49**|**Nonlinear Hall effect in Floquet-driven monolayer 1T$'$-MoS$_2$**|Muhammad Faisal et.al.|[2607.03717v1](http://arxiv.org/abs/2607.03717v1)|null|
@@ -70,14 +72,13 @@
 |**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
 |**2026-06-11 05:16:14**|**Quantum charge pumping in helical systems: A comparative study of short- and long-range hopping**|Leila Eslami et.al.|[2606.12914v1](http://arxiv.org/abs/2606.12914v1)|null|
 |**2026-06-08 15:54:28**|**Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery**|Suraj Biswas et.al.|[2606.09672v1](http://arxiv.org/abs/2606.09672v1)|null|
-|**2026-06-04 17:54:03**|**Superconducting triode effect in a quantum-dot Josephson junction with a biased top gate**|Yu-Hang Li et.al.|[2606.06465v1](http://arxiv.org/abs/2606.06465v1)|null|
-|**2026-06-04 14:43:38**|**PIVOT: Bridging Black-Scholes Implied-Volatility and Price Objectives via Differentiable Jäckel Operator**|Raeid Saqur et.al.|[2606.17065v1](http://arxiv.org/abs/2606.17065v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-21 00:02:56**|**Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion**|Prathami Divakar Kamath et.al.|[2607.18594v1](http://arxiv.org/abs/2607.18594v1)|null|
 |**2026-07-20 15:55:37**|**Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning**|Timo Reents et.al.|[2607.18092v1](http://arxiv.org/abs/2607.18092v1)|null|
 |**2026-07-20 14:59:33**|**Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation**|Blake G. Fitch et.al.|[2607.18029v1](http://arxiv.org/abs/2607.18029v1)|null|
 |**2026-07-18 17:36:44**|**Environment-free Synthetic Data Generation for API-Calling Agents**|Seanie Lee et.al.|[2607.16900v1](http://arxiv.org/abs/2607.16900v1)|null|
@@ -107,4 +108,3 @@
 |**2026-06-12 17:39:29**|**Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows**|Shikun Liu et.al.|[2606.14672v1](http://arxiv.org/abs/2606.14672v1)|null|
 |**2026-06-12 10:08:20**|**Achieving Precise Text-To-Cypher Via Grounded Knowledge Graph Data Generation**|Francesco Cazzaro et.al.|[2606.14325v1](http://arxiv.org/abs/2606.14325v1)|null|
 |**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
-|**2026-06-11 10:08:43**|**Decoding Crystallographic Surface Chirality with Machine Learning: From Atomic Geometry to Fermi Surface Projections**|Chetana Badala Viswanatha et.al.|[2606.13144v1](http://arxiv.org/abs/2606.13144v1)|null|
