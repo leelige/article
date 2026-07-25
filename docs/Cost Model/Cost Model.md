@@ -2,15 +2,18 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-23 09:23:16**|**Design and Optimization of Metasurfaces for Silicon Photonics: PhD Thesis**|Mathys Le Grand et.al.|[2607.21091v1](http://arxiv.org/abs/2607.21091v1)|null|
+|**2026-07-23 08:05:21**|**HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices**|Wei Liu et.al.|[2607.21019v1](http://arxiv.org/abs/2607.21019v1)|null|
 |**2026-07-19 21:44:47**|**Grounded verification of chemical and materials reasoning: detection is the bottleneck**|Can Polat et.al.|[2607.17417v1](http://arxiv.org/abs/2607.17417v1)|null|
 |**2026-07-18 01:31:03**|**Hardware-Transparent I/O Governance in Disaggregated Heterogeneous Storage**|Rajarshi Chowdhury et.al.|[2607.16578v1](http://arxiv.org/abs/2607.16578v1)|null|
 |**2026-07-17 18:47:31**|**Retrieval is Enough: Training-Free Interpretability with a Tool-Using Agent**|Sriram Balasubramanian et.al.|[2607.16448v1](http://arxiv.org/abs/2607.16448v1)|[link](https://github.com/SriramB-98/HARP)|
 |**2026-07-17 04:39:04**|**AEGIS: Assay-Aware Protocol Validation and Runtime Monitoring for Open-Source Liquid Handling Robots**|Priyanka V. Setty et.al.|[2607.15620v1](http://arxiv.org/abs/2607.15620v1)|null|
 |**2026-07-13 22:16:58**|**Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems**|Navnit Shukla et.al.|[2607.12188v1](http://arxiv.org/abs/2607.12188v1)|null|
-|**2026-07-13 06:44:33**|**The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation**|Chenglin Yu et.al.|[2607.11149v2](http://arxiv.org/abs/2607.11149v2)|null|
+|**2026-07-13 06:44:33**|**The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation**|Chenglin Yu et.al.|[2607.11149v3](http://arxiv.org/abs/2607.11149v3)|null|
 |**2026-07-08 09:11:00**|**Benchmark Engineering as a Design Instrument for Heterogeneous Information Systems**|Jáchym Bártík et.al.|[2607.07175v1](http://arxiv.org/abs/2607.07175v1)|null|
 |**2026-07-06 20:02:25**|**Patch Knowledge Transfer for Efficient AI-Generated Image Quality Assessment**|Jiquan Yuan et.al.|[2607.05605v1](http://arxiv.org/abs/2607.05605v1)|null|
 |**2026-07-06 13:26:57**|**A Body-of-Revolution Human Model for RF Sensing with Measurement-Driven Calibration for Indoor Environments**|Haoqing Wen et.al.|[2607.05053v1](http://arxiv.org/abs/2607.05053v1)|null|
+|**2026-07-04 04:34:38**|**Telco-GAIA: Bilingual Benchmark for Agents in Telecom Domain**|Dmitrii Khizbullin et.al.|[2607.20510v1](http://arxiv.org/abs/2607.20510v1)|null|
 |**2026-07-01 21:00:40**|**CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**|Jaehyun Ha et.al.|[2607.01468v1](http://arxiv.org/abs/2607.01468v1)|null|
 |**2026-07-01 06:43:55**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508v2](http://arxiv.org/abs/2607.00508v2)|null|
 |**2026-06-30 20:51:40**|**A Scoping Review of Physics Informed Machine Learning for Wave Propagation Modeling in Seismology**|Óscar Rincón-Cardeño et.al.|[2607.00178v1](http://arxiv.org/abs/2607.00178v1)|null|
@@ -29,6 +32,3 @@
 |**2026-06-16 16:53:18**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153v1](http://arxiv.org/abs/2606.18153v1)|null|
 |**2026-06-14 18:52:26**|**SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges**|Yuchao Wu et.al.|[2606.15971v1](http://arxiv.org/abs/2606.15971v1)|[link](https://github.com/Zleap-AI/SAG-Benchmark)|
 |**2026-06-12 14:47:37**|**Every Eval Ever: A Unifying Schema and Community Repository for AI Evaluation Results**|Jan Batzner et.al.|[2606.14516v1](http://arxiv.org/abs/2606.14516v1)|null|
-|**2026-06-12 14:02:37**|**GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge**|Pavan C Shekar et.al.|[2606.14470v2](http://arxiv.org/abs/2606.14470v2)|null|
-|**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
-|**2026-06-10 10:43:35**|**From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations**|Yuchen Guan et.al.|[2606.11913v1](http://arxiv.org/abs/2606.11913v1)|null|

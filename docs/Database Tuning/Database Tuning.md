@@ -2,7 +2,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-07-22 10:26:22**|**Toward Seasonal Guidelines for Robust Deep-Learning Sentinel-2 Building Detection in Different Area Types**|Michał Romaszewski et.al.|[2607.19994v1](http://arxiv.org/abs/2607.19994v1)|null|
+|**2026-07-22 10:26:22**|**Toward Seasonal Guidelines for Robust Deep-Learning Sentinel-2 Building Detection in Different Area Types**|Michał Romaszewski et.al.|[2607.19994v2](http://arxiv.org/abs/2607.19994v2)|null|
 |**2026-07-21 00:02:56**|**Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion**|Prathami Divakar Kamath et.al.|[2607.18594v1](http://arxiv.org/abs/2607.18594v1)|null|
 |**2026-07-20 15:55:37**|**Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning**|Timo Reents et.al.|[2607.18092v1](http://arxiv.org/abs/2607.18092v1)|null|
 |**2026-07-20 14:59:33**|**Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation**|Blake G. Fitch et.al.|[2607.18029v1](http://arxiv.org/abs/2607.18029v1)|null|
