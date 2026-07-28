@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-07-27 18:59:19 Asia/Shanghai
+ 自动更新 @ 2026-07-28 18:19:49 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-25 16:19:02**|**Statistically Supported LLM Ingredient and Recipe Data Collection in Computational Nutrition**|James Izzard et.al.|[2607.23273v1](http://arxiv.org/abs/2607.23273v1)|null|
 |**2026-07-24 17:53:20**|**Gridnberg: A Topography-Aware Pedestrian Routing Dataset for New York City**|Ariel Noyman et.al.|[2607.22523v1](http://arxiv.org/abs/2607.22523v1)|null|
 |**2026-07-23 19:18:18**|**Prompt as a Data Type: In-Database LLM Prompt Management and Rewriting**|Denis Mayr Lima Martins et.al.|[2607.21756v1](http://arxiv.org/abs/2607.21756v1)|null|
 |**2026-07-23 09:23:16**|**Design and Optimization of Metasurfaces for Silicon Photonics: PhD Thesis**|Mathys Le Grand et.al.|[2607.21091v1](http://arxiv.org/abs/2607.21091v1)|null|
@@ -35,7 +36,6 @@
 |**2026-06-18 02:42:14**|**Library-Aware Doubles and Iterative Repair for Large Language Model-Generated Unit Tests in OpenSIL Firmware**|Ma Toan Bach et.al.|[2606.19725v2](http://arxiv.org/abs/2606.19725v2)|null|
 |**2026-06-17 22:06:41**|**Toten: A Knowledge-Based System For Structure-Preserving Representation Of Physical Quantities And Technical Notation In Brazilian Portuguese**|Antonio de Sousa Leitão Filho et.al.|[2606.19626v2](http://arxiv.org/abs/2606.19626v2)|null|
 |**2026-06-17 20:28:47**|**REMOP: REmote-Memory-aware OPerator Optimization**|Shiquan Zhang et.al.|[2606.19576v1](http://arxiv.org/abs/2606.19576v1)|null|
-|**2026-06-16 16:53:18**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153v1](http://arxiv.org/abs/2606.18153v1)|null|
 
 ## Knob Tuning
 
@@ -79,6 +79,7 @@
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2026-07-24 06:56:51**|**IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System Tuning**|Yiyan Li et.al.|[2607.22031v1](http://arxiv.org/abs/2607.22031v1)|null|
+|**2026-07-23 23:23:00**|**An Integrated Deep Learning and Statistical Framework for Whole-Network Gene--Environment Association with Leaf Vascular Architecture**|Geran Zhao et.al.|[2607.22763v1](http://arxiv.org/abs/2607.22763v1)|null|
 |**2026-07-22 10:26:22**|**Toward Seasonal Guidelines for Robust Deep-Learning Sentinel-2 Building Detection in Different Area Types**|Michał Romaszewski et.al.|[2607.19994v2](http://arxiv.org/abs/2607.19994v2)|null|
 |**2026-07-21 00:02:56**|**Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion**|Prathami Divakar Kamath et.al.|[2607.18594v1](http://arxiv.org/abs/2607.18594v1)|null|
 |**2026-07-20 15:55:37**|**Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning**|Timo Reents et.al.|[2607.18092v1](http://arxiv.org/abs/2607.18092v1)|null|
@@ -107,4 +108,3 @@
 |**2026-06-15 13:55:37**|**The Edge-on Galaxies in the DESI survey (EGIDE): sample building and photometry**|Alexander A. Marchuk et.al.|[2606.16734v3](http://arxiv.org/abs/2606.16734v3)|null|
 |**2026-06-14 04:52:58**|**Integrating Reasoning and Generalization in Text-to-SQL via Self-Enhanced Fine-Tuning**|Feng Lyu et.al.|[2606.15598v1](http://arxiv.org/abs/2606.15598v1)|null|
 |**2026-06-13 12:41:31**|**Enhancing Precision Agriculture with a Hybrid Deep Learning Framework for Multi-Class Plant Disease Classification and Interpretability**|Hasibul Islam Sufi et.al.|[2606.15282v1](http://arxiv.org/abs/2606.15282v1)|null|
-|**2026-06-12 17:39:29**|**Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows**|Shikun Liu et.al.|[2606.14672v1](http://arxiv.org/abs/2606.14672v1)|null|
