@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-07-28 18:19:49 Asia/Shanghai
+ 自动更新 @ 2026-07-29 18:25:48 Asia/Shanghai
 
 ## Cost Model
 
@@ -42,6 +42,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-28 11:12:03**|**How Small Can You Go? A Controlled Study of LoRA Rank, Target Modules, and Quantization Trade-offs for Text-to-SQL on a 60M-Parameter Model**|Mahendra Singh Rathor et.al.|[2607.25583v1](http://arxiv.org/abs/2607.25583v1)|null|
+|**2026-07-27 18:00:04**|**Controlling Turbulent Flows in Compressible Active Nematics**|Dimitrios Krommydas et.al.|[2607.24927v1](http://arxiv.org/abs/2607.24927v1)|null|
 |**2026-07-24 10:51:58**|**From Amorphous to Amorphous-Crystalline Mixed-Phase Boron Nitride: Evolution of the Thermal and Elastic Properties**|Jiaqi Yang et.al.|[2607.22185v1](http://arxiv.org/abs/2607.22185v1)|null|
 |**2026-07-24 06:56:51**|**IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System Tuning**|Yiyan Li et.al.|[2607.22031v1](http://arxiv.org/abs/2607.22031v1)|null|
 |**2026-07-21 13:35:23**|**Doping tunable charge density waves in misfit layer compounds**|Hugo Le Du et.al.|[2607.19095v1](http://arxiv.org/abs/2607.19095v1)|null|
@@ -70,8 +72,6 @@
 |**2026-06-16 17:19:06**|**Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold**|Madhulatha Mandarapu et.al.|[2606.18187v1](http://arxiv.org/abs/2606.18187v1)|null|
 |**2026-06-16 08:50:54**|**Coherent Control of an Embedded Bound State Without a Spectral Gap**|Yue Chang et.al.|[2606.17685v1](http://arxiv.org/abs/2606.17685v1)|null|
 |**2026-06-15 16:30:34**|**Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions**|Yu-Xuan Li et.al.|[2606.16931v1](http://arxiv.org/abs/2606.16931v1)|null|
-|**2026-06-14 18:26:43**|**Green SARC: Predictive Cost and Carbon Governance for Agentic AI Systems**|Gaston Besanson et.al.|[2606.15954v1](http://arxiv.org/abs/2606.15954v1)|null|
-|**2026-06-12 09:50:40**|**PLRTune: Importance Pre-Sampling and LLM-Guided Reinforcement Learning for Automatic Database Tuning**|Xinyue Yang et.al.|[2606.14312v1](http://arxiv.org/abs/2606.14312v1)|null|
 
 ## Database Tuning
 
