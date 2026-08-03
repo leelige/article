@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-30 19:12:51**|**Mode-Selective and Anharmonicity-Controlled Energy Transport in Cavity-Coupled Water**|Sachith Wickramasinghe et.al.|[2607.28782v1](http://arxiv.org/abs/2607.28782v1)|null|
 |**2026-07-28 11:12:03**|**How Small Can You Go? A Controlled Study of LoRA Rank, Target Modules, and Quantization Trade-offs for Text-to-SQL on a 60M-Parameter Model**|Mahendra Singh Rathor et.al.|[2607.25583v1](http://arxiv.org/abs/2607.25583v1)|null|
 |**2026-07-27 18:00:04**|**Controlling Turbulent Flows in Compressible Active Nematics**|Dimitrios Krommydas et.al.|[2607.24927v1](http://arxiv.org/abs/2607.24927v1)|null|
 |**2026-07-24 10:51:58**|**From Amorphous to Amorphous-Crystalline Mixed-Phase Boron Nitride: Evolution of the Thermal and Elastic Properties**|Jiaqi Yang et.al.|[2607.22185v1](http://arxiv.org/abs/2607.22185v1)|null|
@@ -31,4 +32,3 @@
 |**2026-06-17 18:36:08**|**Collective phases in overdamped magnetic self-propelled spherocylinders**|Francisca Guzmán-Lastra et.al.|[2606.19498v1](http://arxiv.org/abs/2606.19498v1)|null|
 |**2026-06-16 17:19:06**|**Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold**|Madhulatha Mandarapu et.al.|[2606.18187v1](http://arxiv.org/abs/2606.18187v1)|null|
 |**2026-06-16 08:50:54**|**Coherent Control of an Embedded Bound State Without a Spectral Gap**|Yue Chang et.al.|[2606.17685v1](http://arxiv.org/abs/2606.17685v1)|null|
-|**2026-06-15 16:30:34**|**Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions**|Yu-Xuan Li et.al.|[2606.16931v1](http://arxiv.org/abs/2606.16931v1)|null|

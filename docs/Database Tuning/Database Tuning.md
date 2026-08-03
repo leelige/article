@@ -2,11 +2,13 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-07-31 08:52:26**|**Execution-First Synthetic Tool-Use Trace Generation for LLM Agents**|Hafsa Ouajdi et.al.|[2607.29175v1](http://arxiv.org/abs/2607.29175v1)|null|
 |**2026-07-30 15:50:23**|**Large scale cross-regional remote sensing flood monitoring framework for operative mapping and impact analysis**|Ilya Novikov et.al.|[2607.28401v1](http://arxiv.org/abs/2607.28401v1)|null|
 |**2026-07-29 16:07:37**|**Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents**|Yicheng Feng et.al.|[2607.27083v1](http://arxiv.org/abs/2607.27083v1)|null|
 |**2026-07-24 06:56:51**|**IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System Tuning**|Yiyan Li et.al.|[2607.22031v1](http://arxiv.org/abs/2607.22031v1)|null|
 |**2026-07-23 23:23:00**|**An Integrated Deep Learning and Statistical Framework for Whole-Network Gene--Environment Association with Leaf Vascular Architecture**|Geran Zhao et.al.|[2607.22763v1](http://arxiv.org/abs/2607.22763v1)|null|
 |**2026-07-22 10:26:22**|**Toward Seasonal Guidelines for Robust Deep-Learning Sentinel-2 Building Detection in Different Area Types**|Michał Romaszewski et.al.|[2607.19994v2](http://arxiv.org/abs/2607.19994v2)|null|
+|**2026-07-22 09:45:26**|**An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents**|Vaibhav Dangaich et.al.|[2607.28662v1](http://arxiv.org/abs/2607.28662v1)|null|
 |**2026-07-21 00:02:56**|**Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion**|Prathami Divakar Kamath et.al.|[2607.18594v1](http://arxiv.org/abs/2607.18594v1)|null|
 |**2026-07-20 15:55:37**|**Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning**|Timo Reents et.al.|[2607.18092v1](http://arxiv.org/abs/2607.18092v1)|null|
 |**2026-07-20 14:59:33**|**Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation**|Blake G. Fitch et.al.|[2607.18029v1](http://arxiv.org/abs/2607.18029v1)|null|
@@ -30,5 +32,3 @@
 |**2026-06-18 14:57:10**|**AgenticDB: Self-Evolving Reconfiguration Framework for Database Workloads**|Xinyue Yang et.al.|[2606.20318v3](http://arxiv.org/abs/2606.20318v3)|null|
 |**2026-06-18 04:56:00**|**Cross-Dataset, Age, and Gender Generalization: A Comprehensive Analysis of Fine-Tuning Strategies for Low-Resource Children's ASR**|Abhijit Sinha et.al.|[2606.19791v2](http://arxiv.org/abs/2606.19791v2)|null|
 |**2026-06-16 21:15:49**|**Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases**|Chandranil Chakraborttii et.al.|[2606.18497v1](http://arxiv.org/abs/2606.18497v1)|null|
-|**2026-06-16 11:48:50**|**DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL**|Esteban Schafir et.al.|[2606.17821v1](http://arxiv.org/abs/2606.17821v1)|null|
-|**2026-06-15 13:55:37**|**The Edge-on Galaxies in the DESI survey (EGIDE): sample building and photometry**|Alexander A. Marchuk et.al.|[2606.16734v3](http://arxiv.org/abs/2606.16734v3)|null|
