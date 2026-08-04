@@ -1,11 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2026-08-03 19:09:58 Asia/Shanghai
+ 自动更新 @ 2026-08-04 18:24:41 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-01 19:15:17**|**Anticipatory Digital Twins for Online Head-and-Neck Adaptive Proton Therapy via Foundation-Model Registration**|Yizhou Wu et.al.|[2608.00831v1](http://arxiv.org/abs/2608.00831v1)|null|
+|**2026-08-01 13:09:51**|**TEngineDB-V: An OLAP-Native Vector Search System for Large-$k$ Workloads at Tencent**|Xufei Wu et.al.|[2608.00650v1](http://arxiv.org/abs/2608.00650v1)|null|
 |**2026-07-29 14:55:00**|**Estimating Size of the Union of Sets in Streaming Model**|Kuldeep S. Meel et.al.|[2607.26997v1](http://arxiv.org/abs/2607.26997v1)|null|
 |**2026-07-25 16:19:02**|**Statistically Supported LLM Ingredient and Recipe Data Collection in Computational Nutrition**|James Izzard et.al.|[2607.23273v1](http://arxiv.org/abs/2607.23273v1)|null|
 |**2026-07-24 17:53:20**|**Gridnberg: A Topography-Aware Pedestrian Routing Dataset for New York City**|Ariel Noyman et.al.|[2607.22523v1](http://arxiv.org/abs/2607.22523v1)|null|
@@ -28,20 +30,19 @@
 |**2026-06-30 15:25:10**|**Large Databases Need Small, Open-Weight Language Models**|Parker Glenn et.al.|[2606.31808v1](http://arxiv.org/abs/2606.31808v1)|[link](https://github.com/CapitalOne-Research/play-by-the-type-rules/tree/main/sembench)|
 |**2026-06-28 17:57:10**|**SemJoin: Semantic Join Optimization**|Christopher Gou et.al.|[2606.29532v1](http://arxiv.org/abs/2606.29532v1)|null|
 |**2026-06-26 12:46:12**|**On the Relationship Between Plasma and Tritium Fuel Cycle Through Matter Injection and Particle Exhaust**|Samuele Meschini et.al.|[2606.28043v1](http://arxiv.org/abs/2606.28043v1)|null|
-|**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v1](http://arxiv.org/abs/2606.26613v1)|null|
+|**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v2](http://arxiv.org/abs/2606.26613v2)|null|
 |**2026-06-24 21:11:17**|**Query Cost Model Calibration in Confidential Virtual Machines**|Qihan Zhang et.al.|[2606.26385v1](http://arxiv.org/abs/2606.26385v1)|null|
 |**2026-06-22 09:30:24**|**SemCEB: A Cardinality Estimation Benchmark for Semantic Operators**|Andreas Zimmerer et.al.|[2606.23081v1](http://arxiv.org/abs/2606.23081v1)|null|
 |**2026-06-21 22:09:12**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692v1](http://arxiv.org/abs/2606.22692v1)|null|
 |**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
 |**2026-06-18 18:37:05**|**ReSequel: Robust LLM-assisted Query Rewriting and Optimization using Templatization and Sampling**|Saeed Fathollahzadeh et.al.|[2606.20853v2](http://arxiv.org/abs/2606.20853v2)|null|
-|**2026-06-18 02:42:14**|**Library-Aware Doubles and Iterative Repair for Large Language Model-Generated Unit Tests in OpenSIL Firmware**|Ma Toan Bach et.al.|[2606.19725v2](http://arxiv.org/abs/2606.19725v2)|null|
-|**2026-06-17 22:06:41**|**Toten: A Knowledge-Based System For Structure-Preserving Representation Of Physical Quantities And Technical Notation In Brazilian Portuguese**|Antonio de Sousa Leitão Filho et.al.|[2606.19626v2](http://arxiv.org/abs/2606.19626v2)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-03 06:09:29**|**Robust Nonclassical magnon pair generation and Cauchy-Schwarz inequality violation in a hybrid electromagnonic system**|Sabur A Barbhuiya et.al.|[2608.01741v1](http://arxiv.org/abs/2608.01741v1)|null|
 |**2026-07-30 19:12:51**|**Mode-Selective and Anharmonicity-Controlled Energy Transport in Cavity-Coupled Water**|Sachith Wickramasinghe et.al.|[2607.28782v1](http://arxiv.org/abs/2607.28782v1)|null|
 |**2026-07-28 11:12:03**|**How Small Can You Go? A Controlled Study of LoRA Rank, Target Modules, and Quantization Trade-offs for Text-to-SQL on a 60M-Parameter Model**|Mahendra Singh Rathor et.al.|[2607.25583v1](http://arxiv.org/abs/2607.25583v1)|null|
 |**2026-07-27 18:00:04**|**Controlling Turbulent Flows in Compressible Active Nematics**|Dimitrios Krommydas et.al.|[2607.24927v1](http://arxiv.org/abs/2607.24927v1)|null|
@@ -71,13 +72,13 @@
 |**2026-06-18 05:15:43**|**Flow Map Denoisers: Traversing the Distortion-Perception Plane for Inverse Problems**|Nicolas Zilberstein et.al.|[2606.19802v1](http://arxiv.org/abs/2606.19802v1)|null|
 |**2026-06-17 18:36:08**|**Collective phases in overdamped magnetic self-propelled spherocylinders**|Francisca Guzmán-Lastra et.al.|[2606.19498v1](http://arxiv.org/abs/2606.19498v1)|null|
 |**2026-06-16 17:19:06**|**Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold**|Madhulatha Mandarapu et.al.|[2606.18187v1](http://arxiv.org/abs/2606.18187v1)|null|
-|**2026-06-16 08:50:54**|**Coherent Control of an Embedded Bound State Without a Spectral Gap**|Yue Chang et.al.|[2606.17685v1](http://arxiv.org/abs/2606.17685v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-03 16:37:28**|**Calibrated Similarity and Graph Clustering for Open-Set Animal Re-Identification**|Mohamed ElBassat et.al.|[2608.02469v1](http://arxiv.org/abs/2608.02469v1)|null|
 |**2026-07-31 08:52:26**|**Execution-First Synthetic Tool-Use Trace Generation for LLM Agents**|Hafsa Ouajdi et.al.|[2607.29175v1](http://arxiv.org/abs/2607.29175v1)|null|
 |**2026-07-30 15:50:23**|**Large scale cross-regional remote sensing flood monitoring framework for operative mapping and impact analysis**|Ilya Novikov et.al.|[2607.28401v1](http://arxiv.org/abs/2607.28401v1)|null|
 |**2026-07-29 16:07:37**|**Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents**|Yicheng Feng et.al.|[2607.27083v1](http://arxiv.org/abs/2607.27083v1)|null|
@@ -100,11 +101,10 @@
 |**2026-07-01 11:04:28**|**Evaluating Pretrained Music Embeddings for Cross-Performance Jazz Standard Recognition**|Çağrı Eser et.al.|[2607.00777v1](http://arxiv.org/abs/2607.00777v1)|[link](https://github.com/cagries/tipofmyear)|
 |**2026-06-27 01:08:21**|**MACROCAST: A Vintage-Consistent Time Series Foundation Model for Real-Time Macroeconomic Forecasting**|Andrea Carriero et.al.|[2606.28670v1](http://arxiv.org/abs/2606.28670v1)|null|
 |**2026-06-25 22:36:36**|**PtyRANNOSAUR: Ptychography with Robust Artificial Neural Networks Optimized for Sub-Angstrom Accuracy and Ultrafast Reconstruction**|Kieran Loehr et.al.|[2606.27587v1](http://arxiv.org/abs/2606.27587v1)|null|
+|**2026-06-24 23:55:35**|**Optimization and Constraint Modeling using LLMs with a Retrieval Augmented Generation Process**|Prateek Roy et.al.|[2608.00015v1](http://arxiv.org/abs/2608.00015v1)|null|
 |**2026-06-22 17:52:14**|**The Table Says Otherwise: Testing LLMs with Counterfactual Relational Data**|Xinzhi Wang et.al.|[2606.23667v1](http://arxiv.org/abs/2606.23667v1)|null|
 |**2026-06-22 16:13:39**|**SQLConductor: Search-to-Policy Learning for Step-wise Text-to-SQL Orchestration**|Yizhang Zhu et.al.|[2606.23537v1](http://arxiv.org/abs/2606.23537v1)|null|
 |**2026-06-22 12:44:50**|**Tuning Quantum MPS**|Anna Leonteva et.al.|[2606.23262v1](http://arxiv.org/abs/2606.23262v1)|null|
 |**2026-06-22 07:02:33**|**MythraGen: Two-Stage Retrieval Augmented Art Generation Framework**|Quang-Khai Le et.al.|[2606.22924v1](http://arxiv.org/abs/2606.22924v1)|null|
 |**2026-06-20 02:08:52**|**AgentDSE: Reasoning-Augmented Architectural Design Space Exploration**|Chenyu Wang et.al.|[2606.21836v1](http://arxiv.org/abs/2606.21836v1)|null|
 |**2026-06-18 14:57:10**|**AgenticDB: Self-Evolving Reconfiguration Framework for Database Workloads**|Xinyue Yang et.al.|[2606.20318v3](http://arxiv.org/abs/2606.20318v3)|null|
-|**2026-06-18 04:56:00**|**Cross-Dataset, Age, and Gender Generalization: A Comprehensive Analysis of Fine-Tuning Strategies for Low-Resource Children's ASR**|Abhijit Sinha et.al.|[2606.19791v2](http://arxiv.org/abs/2606.19791v2)|null|
-|**2026-06-16 21:15:49**|**Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases**|Chandranil Chakraborttii et.al.|[2606.18497v1](http://arxiv.org/abs/2606.18497v1)|null|

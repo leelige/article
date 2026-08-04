@@ -2,6 +2,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-03 16:37:28**|**Calibrated Similarity and Graph Clustering for Open-Set Animal Re-Identification**|Mohamed ElBassat et.al.|[2608.02469v1](http://arxiv.org/abs/2608.02469v1)|null|
 |**2026-07-31 08:52:26**|**Execution-First Synthetic Tool-Use Trace Generation for LLM Agents**|Hafsa Ouajdi et.al.|[2607.29175v1](http://arxiv.org/abs/2607.29175v1)|null|
 |**2026-07-30 15:50:23**|**Large scale cross-regional remote sensing flood monitoring framework for operative mapping and impact analysis**|Ilya Novikov et.al.|[2607.28401v1](http://arxiv.org/abs/2607.28401v1)|null|
 |**2026-07-29 16:07:37**|**Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents**|Yicheng Feng et.al.|[2607.27083v1](http://arxiv.org/abs/2607.27083v1)|null|
@@ -24,11 +25,10 @@
 |**2026-07-01 11:04:28**|**Evaluating Pretrained Music Embeddings for Cross-Performance Jazz Standard Recognition**|Çağrı Eser et.al.|[2607.00777v1](http://arxiv.org/abs/2607.00777v1)|[link](https://github.com/cagries/tipofmyear)|
 |**2026-06-27 01:08:21**|**MACROCAST: A Vintage-Consistent Time Series Foundation Model for Real-Time Macroeconomic Forecasting**|Andrea Carriero et.al.|[2606.28670v1](http://arxiv.org/abs/2606.28670v1)|null|
 |**2026-06-25 22:36:36**|**PtyRANNOSAUR: Ptychography with Robust Artificial Neural Networks Optimized for Sub-Angstrom Accuracy and Ultrafast Reconstruction**|Kieran Loehr et.al.|[2606.27587v1](http://arxiv.org/abs/2606.27587v1)|null|
+|**2026-06-24 23:55:35**|**Optimization and Constraint Modeling using LLMs with a Retrieval Augmented Generation Process**|Prateek Roy et.al.|[2608.00015v1](http://arxiv.org/abs/2608.00015v1)|null|
 |**2026-06-22 17:52:14**|**The Table Says Otherwise: Testing LLMs with Counterfactual Relational Data**|Xinzhi Wang et.al.|[2606.23667v1](http://arxiv.org/abs/2606.23667v1)|null|
 |**2026-06-22 16:13:39**|**SQLConductor: Search-to-Policy Learning for Step-wise Text-to-SQL Orchestration**|Yizhang Zhu et.al.|[2606.23537v1](http://arxiv.org/abs/2606.23537v1)|null|
 |**2026-06-22 12:44:50**|**Tuning Quantum MPS**|Anna Leonteva et.al.|[2606.23262v1](http://arxiv.org/abs/2606.23262v1)|null|
 |**2026-06-22 07:02:33**|**MythraGen: Two-Stage Retrieval Augmented Art Generation Framework**|Quang-Khai Le et.al.|[2606.22924v1](http://arxiv.org/abs/2606.22924v1)|null|
 |**2026-06-20 02:08:52**|**AgentDSE: Reasoning-Augmented Architectural Design Space Exploration**|Chenyu Wang et.al.|[2606.21836v1](http://arxiv.org/abs/2606.21836v1)|null|
 |**2026-06-18 14:57:10**|**AgenticDB: Self-Evolving Reconfiguration Framework for Database Workloads**|Xinyue Yang et.al.|[2606.20318v3](http://arxiv.org/abs/2606.20318v3)|null|
-|**2026-06-18 04:56:00**|**Cross-Dataset, Age, and Gender Generalization: A Comprehensive Analysis of Fine-Tuning Strategies for Low-Resource Children's ASR**|Abhijit Sinha et.al.|[2606.19791v2](http://arxiv.org/abs/2606.19791v2)|null|
-|**2026-06-16 21:15:49**|**Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases**|Chandranil Chakraborttii et.al.|[2606.18497v1](http://arxiv.org/abs/2606.18497v1)|null|
