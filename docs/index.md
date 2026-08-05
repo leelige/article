@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-08-04 18:24:41 Asia/Shanghai
+ 自动更新 @ 2026-08-05 18:21:26 Asia/Shanghai
 
 ## Cost Model
 
@@ -53,7 +53,7 @@
 |**2026-07-20 11:32:23**|**From Blind Search to Memory-Aware Evolution: Efficient DBMS Tuning via Collaborative Diagnosis and Utility-Aware Retrieval**|Zhaoyan Hong et.al.|[2607.17841v1](http://arxiv.org/abs/2607.17841v1)|null|
 |**2026-07-16 03:12:58**|**Adaptive Runge-Kutta Step Control Buys Training Loss, Not Generalization: An Honest Compute-Matched Study of RK-Adam Optimizers**|Akhilesh Gogikar et.al.|[2607.14516v1](http://arxiv.org/abs/2607.14516v1)|null|
 |**2026-07-15 13:12:11**|**Fractional Chern insulators in alternating twisted multilayer MoTe$_{2}$**|Xi-Hang Feng et.al.|[2607.13807v1](http://arxiv.org/abs/2607.13807v1)|null|
-|**2026-07-09 15:15:24**|**Curvature-Controlled Topological Magnon Phases in a Folded Kagome Lattice**|Seif Alwan et.al.|[2607.08580v2](http://arxiv.org/abs/2607.08580v2)|null|
+|**2026-07-09 15:15:24**|**Curvature-Controlled Topological Magnon Phases in a Folded Kagome Lattice**|Seif Alwan et.al.|[2607.08580v3](http://arxiv.org/abs/2607.08580v3)|null|
 |**2026-07-09 09:55:19**|**Adaptive Row Selection Meets Asynchrony in Randomized Kaczmarz**|Evan Coleman et.al.|[2607.08313v1](http://arxiv.org/abs/2607.08313v1)|null|
 |**2026-07-08 12:20:19**|**A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents**|Hari Prasad et.al.|[2607.07753v2](http://arxiv.org/abs/2607.07753v2)|null|
 |**2026-07-06 07:57:39**|**Strain- and potential-controlled tunneling in monolayer MoS$_2$**|Hasna Chnafa et.al.|[2607.04766v1](http://arxiv.org/abs/2607.04766v1)|null|
