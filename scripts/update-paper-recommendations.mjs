@@ -11,9 +11,7 @@ const OUTPUT = process.env.PAPER_RECOMMENDATIONS_OUTPUT
 
 const OPENAI_MODEL = process.env.OPENAI_MODEL || "gpt-5.6-luna";
 const OPENAI_RESPONSES_URL = "https://api.openai.com/v1/responses";
-const GITHUB_MODEL = process.env.GITHUB_MODEL || "openai/gpt-4.1";
-const GITHUB_MODELS_URL = "https://models.github.ai/inference/chat/completions";
-const API_MAX_ATTEMPTS = 3;
+const OPENAI_MAX_ATTEMPTS = 3;
 const BANNED_GENERATED_PHRASES = [
   "跟踪最新进展",
   "适合作为候选阅读",
@@ -461,7 +459,7 @@ function isValidGeneratedText(value, minLength) {
   );
 }
 
-function validatedRecommendations(value, expectedRecords, source, model) {
+function validatedRecommendations(value, expectedRecords) {
   if (!Array.isArray(value?.papers)) return new Map();
 
   const expectedIds = new Set(expectedRecords.map(({ id }) => id));
@@ -499,54 +497,50 @@ function validatedRecommendations(value, expectedRecords, source, model) {
       (field) => duplicateCounts.get(field).get(normalizeDescription(item[field])) === 1,
     );
     if (!fieldsAreValid || !fieldsAreUnique) continue;
-    valid.set(item.id, { ...item, source, model });
+    valid.set(item.id, { ...item, source: "openai", model: OPENAI_MODEL });
   }
   return valid;
 }
 
-function parseJsonOutput(value) {
-  const text = String(value).trim();
-  const withoutFence = text.replace(/^```(?:json)?\s*/i, "").replace(/\s*```$/, "");
-  return JSON.parse(withoutFence);
-}
-
-async function apiHttpError(response, provider) {
+async function openAiHttpError(response) {
   let code = "";
   let message = "";
   try {
     const body = await response.json();
-    const apiError = body?.error ?? body;
-    code = String(apiError?.code ?? apiError?.type ?? "");
-    message = String(apiError?.message ?? "");
+    code = String(body?.error?.code ?? body?.error?.type ?? "");
+    message = String(body?.error?.message ?? "");
   } catch {
     // The status code still identifies the failure when the body is not JSON.
   }
 
   const details = [code, message].filter(Boolean).join(": ");
-  const error = new Error(`${provider} returned HTTP ${response.status}${details ? ` (${details})` : ""}`);
+  const error = new Error(`OpenAI API returned HTTP ${response.status}${details ? ` (${details})` : ""}`);
   error.status = response.status;
   error.code = code;
   return error;
 }
 
-async function requestJson(provider, url, headers, body) {
-  for (let attempt = 1; attempt <= API_MAX_ATTEMPTS; attempt += 1) {
+async function requestOpenAi(apiKey, body) {
+  for (let attempt = 1; attempt <= OPENAI_MAX_ATTEMPTS; attempt += 1) {
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 90000);
     try {
-      const response = await fetch(url, {
+      const response = await fetch(OPENAI_RESPONSES_URL, {
         method: "POST",
-        headers,
+        headers: {
+          authorization: `Bearer ${apiKey}`,
+          "content-type": "application/json",
+        },
         body: JSON.stringify(body),
         signal: controller.signal,
       });
       if (response.ok) return await response.json();
 
-      const error = await apiHttpError(response, provider);
+      const error = await openAiHttpError(response);
       const canRetry =
         error.status === 429 &&
         !["insufficient_quota", "billing_hard_limit_reached", "credit_balance_exhausted"].includes(error.code) &&
-        attempt < API_MAX_ATTEMPTS;
+        attempt < OPENAI_MAX_ATTEMPTS;
       if (!canRetry) throw error;
 
       const delayMs = attempt * 5000;
@@ -556,10 +550,15 @@ async function requestJson(provider, url, headers, body) {
       clearTimeout(timeout);
     }
   }
-  throw new Error(`${provider} exhausted all retry attempts.`);
+  throw new Error("OpenAI API request exhausted all retry attempts.");
 }
 
-function recommendationRequest(records) {
+async function generateOpenAiRecommendations(records) {
+  const apiKey = process.env.OPENAI_API_KEY?.trim();
+  if (!apiKey) {
+    throw new Error("OPENAI_API_KEY is not configured; refusing to publish English fallback text.");
+  }
+
   const recordsWithAbstracts = records.filter(({ paper }) => paper.abstract);
   if (recordsWithAbstracts.length !== records.length) {
     throw new Error(
@@ -605,112 +604,44 @@ function recommendationRequest(records) {
 
 同一批次各论文的三个字段都不能出现完全相同的表述。不要使用“跟踪最新进展”“适合作为候选阅读”“适合快速判断”“一个具体问题”等泛化句式。输出必须以中文为主，技术名词可以保留英文。不要添加字段标签。`;
 
-  return { recordsWithAbstracts, schema, input, instructions };
-}
-
-function checkedRecommendations(outputText, records, source, model) {
-  if (!outputText) throw new Error(`${source} returned no text output.`);
-  const generated = validatedRecommendations(parseJsonOutput(outputText), records, source, model);
-  if (generated.size !== records.length) {
-    throw new Error(
-      `Only ${generated.size}/${records.length} ${source} summaries passed Chinese and uniqueness checks.`,
-    );
-  }
-  console.log(`[info] ${source} summaries accepted: ${generated.size}/${records.length}`);
-  return generated;
-}
-
-async function generateOpenAiRecommendations(request, apiKey) {
-  const responseBody = await requestJson("OpenAI API", OPENAI_RESPONSES_URL, {
-    authorization: `Bearer ${apiKey}`,
-    "content-type": "application/json",
-  }, {
+  const responseBody = await requestOpenAi(apiKey, {
     model: OPENAI_MODEL,
-    instructions: request.instructions,
-    input: JSON.stringify(request.input),
+    instructions,
+    input: JSON.stringify(input),
     text: {
       format: {
         type: "json_schema",
         name: "paper_recommendations",
         strict: true,
-        schema: request.schema,
+        schema,
       },
     },
     max_output_tokens: 7000,
     store: false,
   });
-  return checkedRecommendations(
-    outputTextFromResponse(responseBody),
-    request.recordsWithAbstracts,
-    "OpenAI",
-    OPENAI_MODEL,
-  );
-}
+  const outputText = outputTextFromResponse(responseBody);
+  if (!outputText) throw new Error("OpenAI API returned no text output.");
 
-async function generateGitHubRecommendations(request, token) {
-  const responseBody = await requestJson("GitHub Models", GITHUB_MODELS_URL, {
-    accept: "application/vnd.github+json",
-    authorization: `Bearer ${token}`,
-    "content-type": "application/json",
-    "x-github-api-version": "2026-03-10",
-  }, {
-    model: GITHUB_MODEL,
-    messages: [
-      {
-        role: "system",
-        content: `${request.instructions}\n只返回符合给定字段要求的 JSON 对象，不要使用 Markdown 代码块。`,
-      },
-      { role: "user", content: JSON.stringify(request.input) },
-    ],
-    max_tokens: 4000,
-    temperature: 0.2,
-  });
-  return checkedRecommendations(
-    responseBody?.choices?.[0]?.message?.content,
-    request.recordsWithAbstracts,
-    "GitHub Models",
-    GITHUB_MODEL,
-  );
-}
-
-async function generateRecommendations(records) {
-  const request = recommendationRequest(records);
-  const failures = [];
-  const apiKey = process.env.OPENAI_API_KEY?.trim();
-  if (apiKey) {
-    try {
-      return await generateOpenAiRecommendations(request, apiKey);
-    } catch (error) {
-      failures.push(error.message);
-      console.warn(`[warn] ${error.message}; trying GitHub Models.`);
-    }
+  const generated = validatedRecommendations(JSON.parse(outputText), recordsWithAbstracts);
+  if (generated.size !== records.length) {
+    throw new Error(
+      `Only ${generated.size}/${records.length} OpenAI summaries passed Chinese and uniqueness checks; refusing to deploy.`,
+    );
   }
-
-  const githubToken = process.env.GITHUB_MODELS_TOKEN?.trim();
-  if (githubToken) {
-    try {
-      return await generateGitHubRecommendations(request, githubToken);
-    } catch (error) {
-      failures.push(error.message);
-    }
-  }
-
-  if (!apiKey) failures.push("OPENAI_API_KEY is not configured");
-  if (!githubToken) failures.push("GITHUB_MODELS_TOKEN is not configured");
-  throw new Error(`No Chinese model provider succeeded: ${failures.join(" | ")}. Refusing to deploy English text.`);
+  console.log(`[info] OpenAI summaries accepted: ${generated.size}/${records.length}`);
+  return generated;
 }
 
 async function enrichRecommendations(selection) {
   const papers = Array.from(new Set(Array.from(selection.bySection.values()).flat()));
   const records = papers.map((paper, index) => ({ id: `paper-${index + 1}`, paper }));
   await attachArxivAbstracts(papers);
-  const generated = await generateRecommendations(records);
+  const generated = await generateOpenAiRecommendations(records);
 
   for (const { id, paper } of records) {
     paper.recommendation = generated.get(id);
   }
-  const source = records[0]?.paper.recommendation?.source ?? "unknown";
-  console.log(`[info] Recommendation sources: ${source} ${papers.length}, English fallback 0`);
+  console.log(`[info] Recommendation sources: OpenAI ${papers.length}, English fallback 0`);
 }
 
 function renderPriority(papers) {
@@ -742,7 +673,7 @@ function renderPaperCard(paper) {
                   <span class="tag db">研究方向：${escapeHtml(direction)}</span>
                 </div>
               </div>
-              <div class="tag-row"><span class="tag sys">${escapeHtml(paper.source)}</span><span class="tag llm">${escapeHtml(recommendation.source)} 中文介绍</span></div>
+              <div class="tag-row"><span class="tag sys">${escapeHtml(paper.source)}</span><span class="tag llm">AI 中文介绍</span></div>
             </div>
             <p>${escapeHtml(recommendation.intro)}</p>
             <div class="reason"><strong>为什么值得读：</strong>${escapeHtml(recommendation.why)}<br><strong>数据库相关性：</strong>${escapeHtml(recommendation.relevance)}</div>
@@ -779,11 +710,7 @@ function todayShanghai() {
 function renderHtml({ bySection, top }) {
   const sectionsHtml = SECTIONS.map((section) => renderSection(section, bySection.get(section.id) ?? [])).join("\n");
   const updated = todayShanghai();
-  const papers = Array.from(new Set(Array.from(bySection.values()).flat()));
-  const providers = Array.from(
-    new Set(papers.map((paper) => `${paper.recommendation.source} (${paper.recommendation.model})`)),
-  );
-  const contentMode = `中文介绍：${providers.join(" + ")}`;
+  const contentMode = `中文介绍：${OPENAI_MODEL}`;
 
   return `<!doctype html>
 <html lang="zh-CN">
@@ -1066,7 +993,7 @@ ${renderPriority(top)}
 ${sectionsHtml}
 
     <section class="footer-card" id="sources">
-      <p><strong>来源：</strong><a href="https://github.com/leelige/article">leelige/article</a> 与论文 arXiv 摘要。本页由 <code>scripts/update-paper-recommendations.mjs</code> 自动生成；不会创建 Codex App 对话。中文介绍优先使用 OpenAI，失败时使用 GitHub Models；仅在全部内容通过中文与去重检查后发布，不展示英文摘要回退。每个方向最多保留 5 篇，方向内部按发布时间倒序排列。</p>
+      <p><strong>来源：</strong><a href="https://github.com/leelige/article">leelige/article</a> 与论文 arXiv 摘要。本页由 <code>scripts/update-paper-recommendations.mjs</code> 自动生成；不会创建 Codex App 对话。仅在全部逐篇中文介绍生成并通过去重检查后发布，不展示英文摘要回退。每个方向最多保留 5 篇，方向内部按发布时间倒序排列。</p>
     </section>
   </main>
 </body>

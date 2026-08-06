@@ -15,7 +15,6 @@ on:
 
 permissions:
   contents: read
-  models: read
   pages: write
   id-token: write
 
@@ -42,8 +41,6 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-5.6-luna
-          GITHUB_MODELS_TOKEN: ${{ github.token }}
-          GITHUB_MODEL: openai/gpt-4.1
         run: node scripts/update-paper-recommendations.mjs
 
       - name: Configure Pages
