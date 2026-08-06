@@ -1,0 +1,53 @@
+name: Update paper recommendation site
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 09:00 Asia/Shanghai
+    - cron: "0 1 * * *"
+  push:
+    branches: [master]
+    paths:
+      - "README.md"
+      - "docs/**/*.md"
+      - "scripts/update-paper-recommendations.mjs"
+      - ".github/workflows/update-paper-site.yml"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: paper-recommendation-site
+  cancel-in-progress: true
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate site
+        run: node scripts/update-paper-recommendations.mjs
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: paper-recommendations
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
