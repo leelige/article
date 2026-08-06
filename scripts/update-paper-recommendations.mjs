@@ -9,9 +9,7 @@ const OUTPUT = process.env.PAPER_RECOMMENDATIONS_OUTPUT
   ? pathToFileURL(resolve(process.cwd(), process.env.PAPER_RECOMMENDATIONS_OUTPUT))
   : new URL("../paper-recommendations/index.html", import.meta.url);
 
-const OPENAI_MODEL = process.env.OPENAI_MODEL || "gpt-5.6-luna";
-const OPENAI_RESPONSES_URL = "https://api.openai.com/v1/responses";
-const OPENAI_MAX_ATTEMPTS = 3;
+const RULE_SUMMARIZER_MODEL = "database-rules-v1";
 const BANNED_GENERATED_PHRASES = [
   "跟踪最新进展",
   "适合作为候选阅读",
@@ -64,6 +62,12 @@ const SECTIONS = [
       "semantic predicate",
       "semantic operator",
       "plan-level repair",
+      "semantic query",
+      "semantic queries",
+      "semantic join",
+      "query execution",
+      "in-database",
+      "prompt management",
     ],
   },
   {
@@ -80,6 +84,8 @@ const SECTIONS = [
       "cypher",
       "sql agent",
       "sql generation",
+      "query generation",
+      "schema retrieval",
       "schema",
       "natural language",
     ],
@@ -110,6 +116,14 @@ const SECTIONS = [
       "lakehouse",
       "vector database",
       "vector databases",
+      "vector search",
+      "olap",
+      "graph database",
+      "knowledge graph",
+      "data analytics",
+      "disaggregated storage",
+      "heterogeneous storage",
+      "data lake",
       "data allocation",
       "data placement",
       "database migration",
@@ -124,42 +138,94 @@ const SECTIONS = [
   },
 ];
 
-const DB_KEYWORDS = [
-  "database",
-  "dbms",
-  "sql",
-  "query",
-  "cardinality",
-  "optimizer",
-  "optimization",
-  "cost model",
-  "materialized view",
-  "lakehouse",
-  "data allocation",
-  "data placement",
-  "transaction",
-  "index",
-  "indexes",
-  "indexing",
-  "learned index",
-  "vector database",
-  "hnsw",
-  "postgresql",
-  "oracle",
-  "tuning",
-  "knob",
-  "configuration",
-  "reconfiguration",
-  "text-to-sql",
-  "text2sql",
-  "cypher",
-  "schema",
-  "relational",
-  "storage",
-  "workload",
-  "operator",
-  "semantic predicate",
-  "semantic operator",
+const DB_TITLE_SIGNALS = [
+  { needles: ["database", "dbms", "sql"], weight: 4 },
+  { needles: ["cardinality", "materialized view", "semantic join", "semantic operator"], weight: 4 },
+  { needles: ["query optimization", "query optimizer", "query rewriting", "query execution", "query cost"], weight: 4 },
+  { needles: ["text-to-cypher", "text2cypher", "cypher", "schema retrieval"], weight: 4 },
+  { needles: ["learned index", "vector database", "vector search", "hnsw", "olap", "lakehouse"], weight: 4 },
+  { needles: ["postgresql", "group commit", "data allocation", "data placement", "data lake"], weight: 3 },
+  { needles: ["relational data", "semantic query", "semantic queries", "virtual knowledge graph", "disaggregated storage", "heterogeneous storage"], weight: 3 },
+  { needles: ["query generation", "data analytics"], weight: 2 },
+];
+
+const TOPIC_RULES = [
+  { needles: ["text-to-sql", "text2sql", "nl-to-sql", "sql generation"], label: "Text-to-SQL", impact: "自然语言意图、数据库模式与可执行 SQL 之间的对齐" },
+  { needles: ["text-to-cypher", "text2cypher", "cypher"], label: "Text-to-Cypher", impact: "自然语言到图查询语言的结构映射与可执行性" },
+  { needles: ["cardinality"], label: "基数估计", impact: "估计误差、代价计算与执行计划选择" },
+  { needles: ["query rewrite", "query rewriting"], label: "查询重写", impact: "等价变换、搜索空间控制与计划质量" },
+  { needles: ["query execution"], label: "查询执行引擎", impact: "执行代码生成、跨引擎可移植性与运行时开销" },
+  { needles: ["semantic join"], label: "语义连接优化", impact: "语义连接算子组织、模型调用开销与执行计划质量" },
+  { needles: ["semantic query", "semantic queries"], label: "语义查询优化", impact: "语义算子计划空间、模型调用成本与端到端延迟" },
+  { needles: ["materialized view"], label: "物化视图", impact: "查询复用收益、视图覆盖范围与维护代价" },
+  { needles: ["vector database", "vector search", "ann index", "nearest neighbor", "hnsw"], label: "向量检索", impact: "召回质量、索引参数与查询延迟之间的权衡" },
+  { needles: ["learned index"], label: "学习型索引", impact: "数据分布建模、查找路径与索引维护开销" },
+  { needles: ["index optimization", "indexing", "indexes", "index"], label: "索引优化", impact: "访问路径选择、索引结构与读写开销" },
+  { needles: ["knob", "database tuning", "configuration", "reconfiguration"], label: "数据库调优", impact: "配置搜索、性能反馈与工作负载适配" },
+  { needles: ["in-database", "prompt management"], label: "数据库内模型管理", impact: "提示词对象的存储、版本管理、重写与查询内调用" },
+  { needles: ["cost model"], label: "成本模型", impact: "算子代价建模与候选计划比较" },
+  { needles: ["query optimization", "query optimizer", "query plan", "plan search"], label: "查询优化", impact: "候选计划生成、代价比较与执行策略选择" },
+  { needles: ["lakehouse"], label: "Lakehouse", impact: "分析型数据管理中的存储组织与执行效率" },
+  { needles: ["data layout", "data placement", "data allocation"], label: "数据布局", impact: "数据放置、访问局部性与资源开销" },
+  { needles: ["database migration", "postgresql", "oracle"], label: "数据库迁移", impact: "跨系统语义保持、兼容性与迁移验证" },
+  { needles: ["transaction", "concurrency control"], label: "事务处理", impact: "事务正确性、并发调度与执行效率" },
+  { needles: ["storage", "distributed database"], label: "存储系统", impact: "数据组织、访问路径与系统资源消耗" },
+  { needles: ["operator optimization", "semantic operator", "operator"], label: "数据库算子", impact: "算子实现、执行策略与端到端性能" },
+  { needles: ["schema", "semantic predicate"], label: "模式与语义约束", impact: "模式匹配、结构约束与查询正确性" },
+];
+
+const METHOD_RULES = [
+  { needles: ["lora", "low-rank adaptation"], label: "低秩适配" },
+  { needles: ["quantization"], label: "模型量化" },
+  { needles: ["knowledge distillation", "distillation"], label: "知识蒸馏" },
+  { needles: ["embedding"], label: "向量表示学习" },
+  { needles: ["calibration"], label: "代价校准" },
+  { needles: ["gpu"], label: "GPU并行执行" },
+  { needles: ["hnsw"], label: "图索引与参数搜索" },
+  { needles: ["olap-native"], label: "分析查询与向量检索融合" },
+  { needles: ["graph database", "knowledge graph"], label: "图数据建模" },
+  { needles: ["self-clock"], label: "负载自适应控制" },
+  { needles: ["large language model", "language model", " llm", "llm-"], label: "语言模型" },
+  { needles: ["reinforcement learning"], label: "强化学习" },
+  { needles: ["graph neural", "graph network"], label: "图神经网络" },
+  { needles: ["transformer"], label: "Transformer 表示学习" },
+  { needles: ["bayesian optimization"], label: "贝叶斯优化" },
+  { needles: ["machine learning", "learned", "neural"], label: "学习模型" },
+  { needles: ["workload-aware", "workload aware"], label: "工作负载感知建模" },
+  { needles: ["adaptive", "dynamic"], label: "自适应策略" },
+  { needles: ["sampling", "sample-based", "sketch"], label: "采样与数据摘要" },
+  { needles: ["histogram"], label: "统计直方图" },
+  { needles: ["semantic"], label: "语义表示与约束" },
+  { needles: ["agent"], label: "智能体式推理" },
+  { needles: ["search", "pruning"], label: "搜索与剪枝" },
+  { needles: ["rule-based", "rules"], label: "规则推理" },
+];
+
+const CHALLENGE_RULES = [
+  { needles: ["vulnerabil", "adversarial", "attack", "security"], label: "查询生成中的脆弱性与失效边界" },
+  { needles: ["confidential", "trusted execution"], label: "机密执行环境带来的性能不确定性" },
+  { needles: ["portable", "portability"], label: "跨执行引擎的可移植性" },
+  { needles: ["constraint-aware", "constraint aware"], label: "约束条件下的质量与效率平衡" },
+  { needles: ["correlation", "correlated", "data skew", "skewed"], label: "数据相关性与分布偏斜" },
+  { needles: ["drift", "evolving", "changing workload", "dynamic workload"], label: "数据分布和工作负载变化" },
+  { needles: ["scalability", "large-scale", "large scale", "billion"], label: "大规模场景下的计算与搜索开销" },
+  { needles: ["schema linking", "schema grounding"], label: "自然语言意图与数据库模式对齐" },
+  { needles: ["search space"], label: "计划或配置搜索空间过大" },
+  { needles: ["migration", "compatibility", "compatible"], label: "跨数据库迁移中的兼容性和语义保持" },
+  { needles: ["latency", "slow", "performance", "efficient"], label: "查询延迟与执行效率" },
+  { needles: ["accuracy", "error", "robust", "reliability"], label: "结果准确性与鲁棒性" },
+  { needles: ["memory", "storage overhead", "resource"], label: "存储和资源开销" },
+];
+
+const EVALUATION_RULES = [
+  { needles: ["q-error", "q error"], label: "q-error" },
+  { needles: ["latency"], label: "查询延迟" },
+  { needles: ["throughput"], label: "系统吞吐量" },
+  { needles: ["accuracy"], label: "准确率" },
+  { needles: ["recall"], label: "召回率" },
+  { needles: ["execution time", "runtime", "speedup", "faster"], label: "运行时间" },
+  { needles: ["memory"], label: "内存开销" },
+  { needles: ["benchmark", "datasets", "workloads"], label: "多数据集或工作负载" },
 ];
 
 function escapeHtml(value) {
@@ -222,17 +288,16 @@ function displayTime(value) {
 }
 
 function scorePaper(paper) {
-  const text = `${paper.title} ${paper.source}`.toLowerCase();
+  const text = paper.title.toLowerCase();
   let score = 0;
-  for (const keyword of DB_KEYWORDS) {
-    if (text.includes(keyword)) score += keyword.includes("database") || keyword.includes("sql") ? 3 : 1;
+  for (const signal of DB_TITLE_SIGNALS) {
+    if (signal.needles.some((needle) => text.includes(needle))) score += signal.weight;
   }
-  if (/cs\.db/i.test(paper.title)) score += 2;
   return score;
 }
 
 function classifyPaper(paper) {
-  const text = `${paper.title} ${paper.source}`.toLowerCase();
+  const text = paper.title.toLowerCase();
   const best = SECTIONS
     .map((section) => ({
       section,
@@ -251,6 +316,10 @@ function directionLabel(paper) {
   if (text.includes("cypher")) return "Text-to-Cypher";
   if (text.includes("cardinality")) return "Cardinality Estimation";
   if (text.includes("query rewriting") || text.includes("query rewrite")) return "Query Rewriting";
+  if (text.includes("in-database") || text.includes("prompt management")) return "In-Database LLM";
+  if (text.includes("query execution")) return "Query Execution";
+  if (text.includes("semantic join") || text.includes("semantic quer")) return "Semantic Query Optimization";
+  if (text.includes("schema retrieval")) return "Schema Retrieval";
   if (text.includes("materialized view")) return "Materialized Views";
   if (text.includes("learned index")) return "Learned Index";
   if (text.includes("ann index") || text.includes("vector")) return "Vector DB / ANN";
@@ -438,23 +507,15 @@ async function attachArxivAbstracts(papers) {
   }
 }
 
-function outputTextFromResponse(response) {
-  if (typeof response.output_text === "string") return response.output_text;
-  for (const item of response.output ?? []) {
-    if (item.type !== "message") continue;
-    for (const content of item.content ?? []) {
-      if (content.type === "output_text" && typeof content.text === "string") return content.text;
-    }
-  }
-  return "";
-}
-
 function isValidGeneratedText(value, minLength) {
   const text = String(value ?? "").trim();
+  const hanCount = text.match(/\p{Script=Han}/gu)?.length ?? 0;
+  const latinCount = text.match(/[A-Za-z]/g)?.length ?? 0;
   return (
     text.length >= minLength &&
     text.length <= 500 &&
-    /\p{Script=Han}/u.test(text) &&
+    hanCount >= 8 &&
+    hanCount / Math.max(hanCount + latinCount, 1) >= 0.35 &&
     !BANNED_GENERATED_PHRASES.some((phrase) => text.includes(phrase))
   );
 }
@@ -463,6 +524,7 @@ function validatedRecommendations(value, expectedRecords) {
   if (!Array.isArray(value?.papers)) return new Map();
 
   const expectedIds = new Set(expectedRecords.map(({ id }) => id));
+  const expectedTitles = new Map(expectedRecords.map(({ id, paper }) => [id, paper.title]));
   const candidates = [];
   const seenIds = new Set();
   for (const item of value.papers) {
@@ -489,76 +551,116 @@ function validatedRecommendations(value, expectedRecords) {
 
   const valid = new Map();
   for (const item of candidates) {
-    const fieldsAreValid =
-      isValidGeneratedText(item.intro, 24) &&
-      isValidGeneratedText(item.why, 16) &&
-      isValidGeneratedText(item.relevance, 16);
-    const fieldsAreUnique = ["intro", "why", "relevance"].every(
-      (field) => duplicateCounts.get(field).get(normalizeDescription(item[field])) === 1,
+    const invalidFields = [
+      ["intro", 24],
+      ["why", 16],
+      ["relevance", 16],
+    ].filter(([field, minLength]) => !isValidGeneratedText(item[field], minLength)).map(([field]) => field);
+    const duplicateFields = ["intro", "why", "relevance"].filter(
+      (field) => duplicateCounts.get(field).get(normalizeDescription(item[field])) !== 1,
     );
-    if (!fieldsAreValid || !fieldsAreUnique) continue;
-    valid.set(item.id, { ...item, source: "openai", model: OPENAI_MODEL });
+    if (invalidFields.length > 0 || duplicateFields.length > 0) {
+      console.warn(
+        `[warn] Rejected summary for ${expectedTitles.get(item.id) ?? item.id}: ` +
+        `invalid=${invalidFields.join(",") || "none"}; duplicate=${duplicateFields.join(",") || "none"}`,
+      );
+      continue;
+    }
+    valid.set(item.id, { ...item, source: "rules", model: RULE_SUMMARIZER_MODEL });
   }
   return valid;
 }
 
-async function openAiHttpError(response) {
-  let code = "";
-  let message = "";
-  try {
-    const body = await response.json();
-    code = String(body?.error?.code ?? body?.error?.type ?? "");
-    message = String(body?.error?.message ?? "");
-  } catch {
-    // The status code still identifies the failure when the body is not JSON.
-  }
-
-  const details = [code, message].filter(Boolean).join(": ");
-  const error = new Error(`OpenAI API returned HTTP ${response.status}${details ? ` (${details})` : ""}`);
-  error.status = response.status;
-  error.code = code;
-  return error;
+function matchingRules(text, rules, limit = 2) {
+  const lower = text.toLowerCase();
+  return rules.filter((rule) => rule.needles.some((needle) => lower.includes(needle))).slice(0, limit);
 }
 
-async function requestOpenAi(apiKey, body) {
-  for (let attempt = 1; attempt <= OPENAI_MAX_ATTEMPTS; attempt += 1) {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 90000);
-    try {
-      const response = await fetch(OPENAI_RESPONSES_URL, {
-        method: "POST",
-        headers: {
-          authorization: `Bearer ${apiKey}`,
-          "content-type": "application/json",
-        },
-        body: JSON.stringify(body),
-        signal: controller.signal,
-      });
-      if (response.ok) return await response.json();
-
-      const error = await openAiHttpError(response);
-      const canRetry =
-        error.status === 429 &&
-        !["insufficient_quota", "billing_hard_limit_reached", "credit_balance_exhausted"].includes(error.code) &&
-        attempt < OPENAI_MAX_ATTEMPTS;
-      if (!canRetry) throw error;
-
-      const delayMs = attempt * 5000;
-      console.warn(`[warn] ${error.message}; retrying in ${delayMs / 1000}s.`);
-      await new Promise((resolveDelay) => setTimeout(resolveDelay, delayMs));
-    } finally {
-      clearTimeout(timeout);
-    }
-  }
-  throw new Error("OpenAI API request exhausted all retry attempts.");
+function uniqueRules(rules, limit = rules.length) {
+  const seen = new Set();
+  return rules.filter((rule) => {
+    if (seen.has(rule.label)) return false;
+    seen.add(rule.label);
+    return true;
+  }).slice(0, limit);
 }
 
-async function generateOpenAiRecommendations(records) {
-  const apiKey = process.env.OPENAI_API_KEY?.trim();
-  if (!apiKey) {
-    throw new Error("OPENAI_API_KEY is not configured; refusing to publish English fallback text.");
-  }
+function stableVariant(value, count) {
+  let hash = 0;
+  for (const character of value) hash = (hash * 31 + character.codePointAt(0)) >>> 0;
+  return hash % count;
+}
 
+function extractNamedArtifact(title) {
+  const prefix = title.split(":", 1)[0].trim();
+  const generic = /^(a|an|the|towards?|rethinking|efficient|adaptive|scalable|learning|optimizing)$/i;
+  const prefixWords = prefix.split(/\s+/);
+  if (prefixWords.length <= 3 && prefix.length <= 42 && /[A-Z]/.test(prefix) && !generic.test(prefix)) return prefix;
+
+  const candidates = title.match(/\b(?:[A-Z]{2,}[A-Za-z0-9-]*|[A-Z][a-z0-9]+[A-Z][A-Za-z0-9-]*)\b/g) ?? [];
+  const excluded = new Set(["SQL", "DB", "DBMS", "LLM", "AI", "ANN", "HNSW", "NLP", "GPU"]);
+  return candidates.find((candidate) => !excluded.has(candidate)) ?? "";
+}
+
+function extractEvidence(abstract) {
+  const sentences = abstract.split(/(?<=[.!?])\s+(?=[A-Z0-9(])/);
+  const evidenceCues = /\b(experiment|evaluation|result|outperform|improv|reduc|achiev|faster|speedup|latency|accuracy|recall|throughput)\w*/i;
+  const sentence = sentences.find((candidate) => evidenceCues.test(candidate)) ?? abstract;
+  const numbers = Array.from(sentence.matchAll(/\b\d+(?:\.\d+)?\s*(?:%|x|×|times?)\b/gi), (match) => match[0]).slice(0, 2);
+  const evaluations = matchingRules(`${sentence} ${abstract}`, EVALUATION_RULES, 3).map((rule) => rule.label);
+  const hasExperiment = /\b(experiment|evaluation|benchmark|empirical|results?)\w*/i.test(abstract);
+  if (evaluations.length === 0 && hasExperiment) evaluations.push("对比实验");
+  return { numbers, evaluations };
+}
+
+function fallbackTopic(paper) {
+  return {
+    optimizer: { label: "查询优化", impact: "代价估计、计划选择与查询执行效率" },
+    text2sql: { label: "自然语言数据库接口", impact: "用户意图、数据库模式与可执行查询之间的映射" },
+    tuning: { label: "数据库调优", impact: "配置搜索、性能反馈与工作负载适配" },
+    storage: { label: "数据系统基础设施", impact: "数据组织、访问路径与资源开销" },
+  }[paper.section.id];
+}
+
+function buildRuleRecommendation(paper) {
+  const topics = matchingRules(paper.title, TOPIC_RULES, 3);
+  if (topics.length === 0) topics.push(fallbackTopic(paper));
+  const methods = matchingRules(paper.title, METHOD_RULES, 2).map((rule) => rule.label);
+  const challenges = uniqueRules([
+    ...matchingRules(paper.title, CHALLENGE_RULES, 2),
+    ...matchingRules(paper.abstract, CHALLENGE_RULES, 3),
+  ], 2).map((rule) => rule.label);
+  const artifact = extractNamedArtifact(paper.title);
+  const evidence = extractEvidence(paper.abstract);
+  const variant = stableVariant(paper.title, 4);
+
+  const topicText = topics.map((topic) => topic.label).join("、");
+  const methodText = methods.length > 0 ? methods.join("、") : "结构化任务建模与系统实验";
+  const challengeText = challenges[0] ?? `${topics[0].label}中的结果质量与系统效率平衡`;
+  const introLeads = ["这项研究聚焦", "论文面向", "作者围绕", "该工作研究"];
+  const contribution = artifact
+    ? `作者提出“${artifact}”，以${methodText}改进${topics[0].impact}`
+    : `作者采用${methodText}构建解决路径，直接作用于${topics[0].impact}`;
+  const intro = `${introLeads[variant]}${topicText}，围绕${challengeText}展开。${contribution}。`;
+
+  const evaluationText = evidence.evaluations.length > 0 ? evidence.evaluations.join("、") : "实验结果";
+  const evaluatedObject = artifact ? `“${artifact}”` : (methods[0] ?? topics[0].label);
+  const whyLeads = ["值得关注的是", "摘要中的关键证据是", "论文的实证重点是", "其具体价值体现在"];
+  const why = evidence.numbers.length > 0
+    ? `${whyLeads[variant]}，摘要通过${evaluationText}评估${evaluatedObject}，并给出${evidence.numbers.join("、")}等量化结果；这些结果可用于判断其在${topics[0].label}上的实际收益。`
+    : `${whyLeads[variant]}，摘要通过${evaluationText}考察${evaluatedObject}面对${challengeText}时的表现；验证目标对应${topics[0].impact}。`;
+
+  const relevanceLeads = ["从数据库研究角度看", "在数据系统中", "就数据库技术而言", "面向数据库工作负载"];
+  const secondary = topics.slice(1).map((topic) => topic.label);
+  const secondaryText = secondary.length > 0 ? `，并延伸到${secondary.join("、")}` : "";
+  const impacts = uniqueRules(topics).map((topic) => topic.impact);
+  const relevanceSubject = artifact ? `“${artifact}”` : "论文方案";
+  const relevance = `${relevanceLeads[variant]}，该论文直接对应${topics[0].label}${secondaryText}；${relevanceSubject}采用${methodText}，关注${impacts.join("；")}。`;
+
+  return { intro, why, relevance };
+}
+
+function generateRuleRecommendations(records) {
   const recordsWithAbstracts = records.filter(({ paper }) => paper.abstract);
   if (recordsWithAbstracts.length !== records.length) {
     throw new Error(
@@ -566,69 +668,20 @@ async function generateOpenAiRecommendations(records) {
     );
   }
 
-  const schema = {
-    type: "object",
-    properties: {
-      papers: {
-        type: "array",
-        items: {
-          type: "object",
-          properties: {
-            id: { type: "string" },
-            intro: { type: "string" },
-            why: { type: "string" },
-            relevance: { type: "string" },
-          },
-          required: ["id", "intro", "why", "relevance"],
-          additionalProperties: false,
-        },
-      },
-    },
-    required: ["papers"],
-    additionalProperties: false,
-  };
-  const input = {
+  const value = {
     papers: recordsWithAbstracts.map(({ id, paper }) => ({
       id,
-      title: paper.title,
-      abstract: paper.abstract,
-      direction: directionLabel(paper),
+      ...buildRuleRecommendation(paper),
     })),
   };
-  const instructions = `你是数据库研究论文编辑。根据每篇论文的标题和 arXiv 摘要，生成简洁、具体、忠于原文的中文介绍。
 
-对输入中的每篇论文都返回一项，并原样保留 id：
-- intro：用 1 至 2 句说明研究问题和核心方法。
-- why：用 1 句指出具体创新、实验发现或系统价值；摘要没有的信息不要补写。
-- relevance：用 1 句明确说明它与数据库研究的联系，具体到查询优化、成本模型、索引、调优、存储、事务或 NL-to-DB 等对象。
-
-同一批次各论文的三个字段都不能出现完全相同的表述。不要使用“跟踪最新进展”“适合作为候选阅读”“适合快速判断”“一个具体问题”等泛化句式。输出必须以中文为主，技术名词可以保留英文。不要添加字段标签。`;
-
-  const responseBody = await requestOpenAi(apiKey, {
-    model: OPENAI_MODEL,
-    instructions,
-    input: JSON.stringify(input),
-    text: {
-      format: {
-        type: "json_schema",
-        name: "paper_recommendations",
-        strict: true,
-        schema,
-      },
-    },
-    max_output_tokens: 7000,
-    store: false,
-  });
-  const outputText = outputTextFromResponse(responseBody);
-  if (!outputText) throw new Error("OpenAI API returned no text output.");
-
-  const generated = validatedRecommendations(JSON.parse(outputText), recordsWithAbstracts);
+  const generated = validatedRecommendations(value, recordsWithAbstracts);
   if (generated.size !== records.length) {
     throw new Error(
-      `Only ${generated.size}/${records.length} OpenAI summaries passed Chinese and uniqueness checks; refusing to deploy.`,
+      `Only ${generated.size}/${records.length} rule summaries passed Chinese and uniqueness checks; refusing to deploy.`,
     );
   }
-  console.log(`[info] OpenAI summaries accepted: ${generated.size}/${records.length}`);
+  console.log(`[info] Zero-dependency Chinese summaries accepted: ${generated.size}/${records.length}`);
   return generated;
 }
 
@@ -636,12 +689,12 @@ async function enrichRecommendations(selection) {
   const papers = Array.from(new Set(Array.from(selection.bySection.values()).flat()));
   const records = papers.map((paper, index) => ({ id: `paper-${index + 1}`, paper }));
   await attachArxivAbstracts(papers);
-  const generated = await generateOpenAiRecommendations(records);
+  const generated = generateRuleRecommendations(records);
 
   for (const { id, paper } of records) {
     paper.recommendation = generated.get(id);
   }
-  console.log(`[info] Recommendation sources: OpenAI ${papers.length}, English fallback 0`);
+  console.log(`[info] Recommendation sources: zero-dependency rules ${papers.length}, English fallback 0`);
 }
 
 function renderPriority(papers) {
@@ -673,7 +726,7 @@ function renderPaperCard(paper) {
                   <span class="tag db">研究方向：${escapeHtml(direction)}</span>
                 </div>
               </div>
-              <div class="tag-row"><span class="tag sys">${escapeHtml(paper.source)}</span><span class="tag llm">AI 中文介绍</span></div>
+              <div class="tag-row"><span class="tag sys">${escapeHtml(paper.source)}</span><span class="tag llm">规则生成中文介绍</span></div>
             </div>
             <p>${escapeHtml(recommendation.intro)}</p>
             <div class="reason"><strong>为什么值得读：</strong>${escapeHtml(recommendation.why)}<br><strong>数据库相关性：</strong>${escapeHtml(recommendation.relevance)}</div>
@@ -710,7 +763,7 @@ function todayShanghai() {
 function renderHtml({ bySection, top }) {
   const sectionsHtml = SECTIONS.map((section) => renderSection(section, bySection.get(section.id) ?? [])).join("\n");
   const updated = todayShanghai();
-  const contentMode = `中文介绍：${OPENAI_MODEL}`;
+  const contentMode = "中文介绍：零依赖规则";
 
   return `<!doctype html>
 <html lang="zh-CN">
@@ -993,7 +1046,7 @@ ${renderPriority(top)}
 ${sectionsHtml}
 
     <section class="footer-card" id="sources">
-      <p><strong>来源：</strong><a href="https://github.com/leelige/article">leelige/article</a> 与论文 arXiv 摘要。本页由 <code>scripts/update-paper-recommendations.mjs</code> 自动生成；不会创建 Codex App 对话。仅在全部逐篇中文介绍生成并通过去重检查后发布，不展示英文摘要回退。每个方向最多保留 5 篇，方向内部按发布时间倒序排列。</p>
+      <p><strong>来源：</strong><a href="https://github.com/leelige/article">leelige/article</a> 与论文 arXiv 摘要。本页由 <code>scripts/update-paper-recommendations.mjs</code> 自动生成；不会创建 Codex App 对话。中文介绍通过数据库术语、方法线索和实验指标规则生成，不调用模型 API，也不安装额外依赖；仅在全部内容通过中文与去重检查后发布。每个方向最多保留 5 篇，方向内部按发布时间倒序排列。</p>
     </section>
   </main>
 </body>
