@@ -9,6 +9,15 @@ const OUTPUT = process.env.PAPER_RECOMMENDATIONS_OUTPUT
   ? pathToFileURL(resolve(process.cwd(), process.env.PAPER_RECOMMENDATIONS_OUTPUT))
   : new URL("../paper-recommendations/index.html", import.meta.url);
 
+const OPENAI_MODEL = process.env.OPENAI_MODEL || "gpt-5.6-luna";
+const OPENAI_RESPONSES_URL = "https://api.openai.com/v1/responses";
+const BANNED_GENERATED_PHRASES = [
+  "跟踪最新进展",
+  "适合作为候选阅读",
+  "适合快速判断",
+  "一个具体问题",
+];
+
 const SOURCES = [
   {
     name: "README",
@@ -253,49 +262,75 @@ function directionLabel(paper) {
   return "Database Systems";
 }
 
-function introFor(paper) {
-  const text = paper.title.toLowerCase();
-  if (text.includes("text-to-sql") || text.includes("text2sql")) {
-    return "围绕自然语言到 SQL 的生成、编排或修复展开，关注如何让模型更稳定地理解 schema、规划步骤并生成可执行查询。";
+function arxivIdFor(paper) {
+  try {
+    const path = decodeURIComponent(new URL(paper.pdf).pathname);
+    const match = path.match(/^\/(?:abs|pdf)\/(.+?)(?:\.pdf)?\/?$/i);
+    return match?.[1] ?? "";
+  } catch {
+    return "";
   }
-  if (text.includes("cypher")) {
-    return "面向图数据库查询生成，讨论如何把自然语言问题可靠地转换成 Cypher，并减少 schema 与语法不一致。";
-  }
-  if (text.includes("cardinality")) {
-    return "聚焦基数估计问题，试图为优化器提供更可靠的行数估计或评测基准。";
-  }
-  if (text.includes("query rewriting") || text.includes("query rewrite")) {
-    return "研究查询重写与优化流程，强调在复杂 SQL 场景中提升改写收益与鲁棒性。";
-  }
-  if (text.includes("materialized view")) {
-    return "研究物化视图选择与 workload 加速，重点在收益、维护成本和搜索策略之间做权衡。";
-  }
-  if (text.includes("learned index") || text.includes("index")) {
-    return "围绕索引结构或索引调优展开，关注真实存储、缓存或检索性能下的成本收益。";
-  }
-  if (text.includes("tuning") || text.includes("configuration") || text.includes("reconfiguration")) {
-    return "研究数据库或系统配置的自动调优，把 workload、历史反馈和模型建议转成可执行的配置动作。";
-  }
-  if (text.includes("lakehouse")) {
-    return "研究云上 lakehouse 查询性能波动，分析影响查询运行时间预测的系统因素。";
-  }
-  if (text.includes("migration") || text.includes("postgresql") || text.includes("oracle")) {
-    return "面向数据库迁移与 SQL 方言转换，关注语义保持、上下文组织和迁移成本。";
-  }
-  if (text.includes("data allocation") || text.includes("data placement")) {
-    return "研究分布式数据库中的数据放置问题，平衡数据均衡、通信开销和迁移成本。";
-  }
-  return "这篇论文与数据库系统或数据管理任务相关，适合作为近期方向扫描中的候选阅读。";
 }
 
-function whyFor(paper) {
-  const label = directionLabel(paper);
-  return `它切中 ${label} 的一个具体问题，适合快速判断近期数据库相关研究在方法和系统落点上的变化。`;
+function baseArxivId(id) {
+  return String(id).replace(/v\d+$/i, "");
 }
 
-function relevanceFor(paper) {
-  const label = directionLabel(paper);
-  return `数据库相关性：${label}，可用于跟踪数据库系统、查询处理、数据管理或 LLM-for-DB 的最新进展。`;
+function decodeXml(value) {
+  return String(value)
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCodePoint(Number.parseInt(code, 16)))
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number.parseInt(code, 10)))
+    .replaceAll("&lt;", "<")
+    .replaceAll("&gt;", ">")
+    .replaceAll("&quot;", '"')
+    .replaceAll("&apos;", "'")
+    .replaceAll("&amp;", "&")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function xmlTag(block, name) {
+  const match = block.match(new RegExp(`<${name}(?:\\s[^>]*)?>([\\s\\S]*?)</${name}>`, "i"));
+  return match ? decodeXml(match[1]) : "";
+}
+
+function parseArxivFeed(xml) {
+  const abstracts = new Map();
+  for (const match of xml.matchAll(/<entry(?:\s[^>]*)?>([\s\S]*?)<\/entry>/gi)) {
+    const entry = match[1];
+    const id = xmlTag(entry, "id").split("/abs/")[1] ?? "";
+    const summary = xmlTag(entry, "summary");
+    if (!id || !summary) continue;
+    abstracts.set(id, summary);
+    abstracts.set(baseArxivId(id), summary);
+  }
+  return abstracts;
+}
+
+function firstSentences(value, count = 2, maxLength = 720) {
+  const text = String(value).replace(/\s+/g, " ").trim();
+  if (!text) return "";
+  const sentences = text.match(/[^.!?。！？]+[.!?。！？]+|[^.!?。！？]+$/g) ?? [text];
+  const excerpt = sentences
+    .slice(0, count)
+    .map((sentence) => sentence.trim())
+    .join(" ");
+  if (excerpt.length <= maxLength) return excerpt;
+  return `${excerpt.slice(0, maxLength - 1).trimEnd()}…`;
+}
+
+function normalizeDescription(value) {
+  return String(value)
+    .normalize("NFKC")
+    .toLowerCase()
+    .replace(/[\p{P}\p{S}\s]+/gu, "");
+}
+
+function truncateText(value, maxLength = 220) {
+  const text = String(value).trim();
+  if (text.length <= maxLength) return text;
+  return `${text.slice(0, maxLength - 1).trimEnd()}…`;
 }
 
 async function fetchText(url) {
@@ -388,6 +423,233 @@ function selectPapers(papers) {
   return { bySection, top };
 }
 
+async function attachArxivAbstracts(papers) {
+  const ids = Array.from(new Set(papers.map(arxivIdFor).filter(Boolean)));
+  if (ids.length === 0) {
+    console.warn("[warn] No arXiv IDs found; paper descriptions will use metadata fallback.");
+    return;
+  }
+
+  try {
+    const endpoint = new URL("https://export.arxiv.org/api/query");
+    endpoint.searchParams.set("id_list", ids.join(","));
+    endpoint.searchParams.set("max_results", String(ids.length));
+    const abstracts = parseArxivFeed(await fetchText(endpoint.toString()));
+    let attached = 0;
+
+    for (const paper of papers) {
+      const id = arxivIdFor(paper);
+      const abstract = abstracts.get(id) ?? abstracts.get(baseArxivId(id)) ?? "";
+      if (!abstract) continue;
+      paper.abstract = abstract;
+      attached += 1;
+    }
+    console.log(`[info] arXiv abstracts: ${attached}/${papers.length}`);
+  } catch (error) {
+    console.warn(`[warn] ${error.message}; continuing without arXiv abstracts.`);
+  }
+}
+
+function fallbackRecommendation(paper) {
+  const excerpt = firstSentences(paper.abstract, 2);
+  if (excerpt) {
+    return {
+      intro: excerpt,
+      why: "",
+      relevance: "",
+      source: "arxiv",
+    };
+  }
+  return {
+    intro: `Abstract unavailable for “${paper.title}”.`,
+    why: "",
+    relevance: "",
+    source: "metadata",
+  };
+}
+
+function outputTextFromResponse(response) {
+  if (typeof response.output_text === "string") return response.output_text;
+  for (const item of response.output ?? []) {
+    if (item.type !== "message") continue;
+    for (const content of item.content ?? []) {
+      if (content.type === "output_text" && typeof content.text === "string") return content.text;
+    }
+  }
+  return "";
+}
+
+function isValidGeneratedText(value, minLength) {
+  const text = String(value ?? "").trim();
+  return (
+    text.length >= minLength &&
+    text.length <= 500 &&
+    /\p{Script=Han}/u.test(text) &&
+    !BANNED_GENERATED_PHRASES.some((phrase) => text.includes(phrase))
+  );
+}
+
+function validatedRecommendations(value, expectedRecords) {
+  if (!Array.isArray(value?.papers)) return new Map();
+
+  const expectedIds = new Set(expectedRecords.map(({ id }) => id));
+  const candidates = [];
+  const seenIds = new Set();
+  for (const item of value.papers) {
+    const id = String(item?.id ?? "");
+    if (!expectedIds.has(id) || seenIds.has(id)) continue;
+    seenIds.add(id);
+    candidates.push({
+      id,
+      intro: String(item.intro ?? "").trim(),
+      why: String(item.why ?? "").trim(),
+      relevance: String(item.relevance ?? "").trim(),
+    });
+  }
+
+  const duplicateCounts = new Map();
+  for (const field of ["intro", "why", "relevance"]) {
+    const counts = new Map();
+    for (const item of candidates) {
+      const normalized = normalizeDescription(item[field]);
+      counts.set(normalized, (counts.get(normalized) ?? 0) + 1);
+    }
+    duplicateCounts.set(field, counts);
+  }
+
+  const valid = new Map();
+  for (const item of candidates) {
+    const fieldsAreValid =
+      isValidGeneratedText(item.intro, 24) &&
+      isValidGeneratedText(item.why, 16) &&
+      isValidGeneratedText(item.relevance, 16);
+    const fieldsAreUnique = ["intro", "why", "relevance"].every(
+      (field) => duplicateCounts.get(field).get(normalizeDescription(item[field])) === 1,
+    );
+    if (!fieldsAreValid || !fieldsAreUnique) continue;
+    valid.set(item.id, { ...item, source: "openai", model: OPENAI_MODEL });
+  }
+  return valid;
+}
+
+async function generateOpenAiRecommendations(records) {
+  const apiKey = process.env.OPENAI_API_KEY?.trim();
+  if (!apiKey) {
+    console.warn("[warn] OPENAI_API_KEY is not configured; using arXiv excerpts.");
+    return new Map();
+  }
+
+  const recordsWithAbstracts = records.filter(({ paper }) => paper.abstract);
+  if (recordsWithAbstracts.length === 0) {
+    console.warn("[warn] No arXiv abstracts available; skipping OpenAI generation.");
+    return new Map();
+  }
+
+  const schema = {
+    type: "object",
+    properties: {
+      papers: {
+        type: "array",
+        items: {
+          type: "object",
+          properties: {
+            id: { type: "string" },
+            intro: { type: "string" },
+            why: { type: "string" },
+            relevance: { type: "string" },
+          },
+          required: ["id", "intro", "why", "relevance"],
+          additionalProperties: false,
+        },
+      },
+    },
+    required: ["papers"],
+    additionalProperties: false,
+  };
+  const input = {
+    papers: recordsWithAbstracts.map(({ id, paper }) => ({
+      id,
+      title: paper.title,
+      abstract: paper.abstract,
+      direction: directionLabel(paper),
+    })),
+  };
+  const instructions = `你是数据库研究论文编辑。根据每篇论文的标题和 arXiv 摘要，生成简洁、具体、忠于原文的中文介绍。
+
+对输入中的每篇论文都返回一项，并原样保留 id：
+- intro：用 1 至 2 句说明研究问题和核心方法。
+- why：用 1 句指出具体创新、实验发现或系统价值；摘要没有的信息不要补写。
+- relevance：用 1 句明确说明它与数据库研究的联系，具体到查询优化、成本模型、索引、调优、存储、事务或 NL-to-DB 等对象。
+
+同一批次各论文的三个字段都不能出现完全相同的表述。不要使用“跟踪最新进展”“适合作为候选阅读”“适合快速判断”“一个具体问题”等泛化句式。输出必须以中文为主，技术名词可以保留英文。不要添加字段标签。`;
+
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 90000);
+  try {
+    const response = await fetch(OPENAI_RESPONSES_URL, {
+      method: "POST",
+      headers: {
+        authorization: `Bearer ${apiKey}`,
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({
+        model: OPENAI_MODEL,
+        instructions,
+        input: JSON.stringify(input),
+        text: {
+          format: {
+            type: "json_schema",
+            name: "paper_recommendations",
+            strict: true,
+            schema,
+          },
+        },
+        max_output_tokens: 7000,
+        store: false,
+      }),
+      signal: controller.signal,
+    });
+    if (!response.ok) throw new Error(`OpenAI API returned HTTP ${response.status}`);
+
+    const responseBody = await response.json();
+    const outputText = outputTextFromResponse(responseBody);
+    if (!outputText) throw new Error("OpenAI API returned no text output");
+    const generated = validatedRecommendations(JSON.parse(outputText), recordsWithAbstracts);
+    console.log(`[info] OpenAI summaries accepted: ${generated.size}/${records.length}`);
+    return generated;
+  } catch (error) {
+    console.warn(`[warn] ${error.message}; using arXiv excerpts.`);
+    return new Map();
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+async function enrichRecommendations(selection) {
+  const papers = Array.from(new Set(Array.from(selection.bySection.values()).flat()));
+  const records = papers.map((paper, index) => ({ id: `paper-${index + 1}`, paper }));
+  await attachArxivAbstracts(papers);
+  const generated = await generateOpenAiRecommendations(records);
+  const seenIntros = new Set();
+  let fallbackCount = 0;
+
+  for (const { id, paper } of records) {
+    let recommendation = generated.get(id) ?? fallbackRecommendation(paper);
+    let normalizedIntro = normalizeDescription(recommendation.intro);
+    if (seenIntros.has(normalizedIntro)) {
+      recommendation = {
+        ...fallbackRecommendation(paper),
+        intro: `${paper.title}: ${fallbackRecommendation(paper).intro}`,
+      };
+      normalizedIntro = normalizeDescription(recommendation.intro);
+    }
+    if (recommendation.source !== "openai") fallbackCount += 1;
+    seenIntros.add(normalizedIntro);
+    paper.recommendation = recommendation;
+  }
+  console.log(`[info] Recommendation sources: OpenAI ${papers.length - fallbackCount}, fallback ${fallbackCount}`);
+}
+
 function renderPriority(papers) {
   return papers
     .map(
@@ -397,7 +659,13 @@ function renderPriority(papers) {
             <span class="priority-content">
               <time class="priority-date" datetime="${escapeHtml(paper.published)}">${escapeHtml(displayTime(paper.published))}</time>
               <a href="${escapeHtml(paper.pdf)}">${escapeHtml(paper.title)}</a>
-              <span class="priority-note">${escapeHtml(whyFor(paper))}</span>
+              <span class="priority-note">${escapeHtml(
+                truncateText(
+                  paper.recommendation?.source === "openai"
+                    ? paper.recommendation.why
+                    : paper.recommendation?.intro,
+                ),
+              )}</span>
             </span>
           </div>`,
     )
@@ -406,6 +674,18 @@ function renderPriority(papers) {
 
 function renderPaperCard(paper) {
   const direction = directionLabel(paper);
+  const recommendation = paper.recommendation ?? fallbackRecommendation(paper);
+  const sourceLabel =
+    recommendation.source === "openai"
+      ? "AI 中文介绍"
+      : recommendation.source === "arxiv"
+        ? "arXiv 摘要"
+        : "论文元数据";
+  const details =
+    recommendation.source === "openai"
+      ? `
+            <div class="reason"><strong>为什么值得读：</strong>${escapeHtml(recommendation.why)}<br><strong>数据库相关性：</strong>${escapeHtml(recommendation.relevance)}</div>`
+      : "";
   return `
           <article class="paper-card">
             <div class="paper-top">
@@ -416,10 +696,9 @@ function renderPaperCard(paper) {
                   <span class="tag db">研究方向：${escapeHtml(direction)}</span>
                 </div>
               </div>
-              <div class="tag-row"><span class="tag sys">${escapeHtml(paper.source)}</span><span class="tag llm">推荐阅读</span></div>
+              <div class="tag-row"><span class="tag sys">${escapeHtml(paper.source)}</span><span class="tag llm">${escapeHtml(sourceLabel)}</span></div>
             </div>
-            <p>${escapeHtml(introFor(paper))}</p>
-            <div class="reason"><strong>为什么值得读：</strong>${escapeHtml(whyFor(paper))}<br><strong>${escapeHtml(relevanceFor(paper))}</strong></div>
+            <p>${escapeHtml(recommendation.intro)}</p>${details}
           </article>`;
 }
 
@@ -453,6 +732,14 @@ function todayShanghai() {
 function renderHtml({ bySection, top }) {
   const sectionsHtml = SECTIONS.map((section) => renderSection(section, bySection.get(section.id) ?? [])).join("\n");
   const updated = todayShanghai();
+  const papers = Array.from(new Set(Array.from(bySection.values()).flat()));
+  const openAiCount = papers.filter((paper) => paper.recommendation?.source === "openai").length;
+  const contentMode =
+    openAiCount === papers.length
+      ? `中文介绍：${OPENAI_MODEL}`
+      : openAiCount > 0
+        ? "中文介绍 + arXiv 摘要回退"
+        : "介绍：arXiv 摘要回退";
 
   return `<!doctype html>
 <html lang="zh-CN">
@@ -707,6 +994,7 @@ function renderHtml({ bySection, top }) {
       <div class="meta-row">
         <span class="pill">更新日期：${escapeHtml(updated)}</span>
         <span class="pill">来源：GitHub + arXiv 链接</span>
+        <span class="pill">${escapeHtml(contentMode)}</span>
         <span class="pill">重点：数据库相关</span>
       </div>
     </div>
@@ -734,7 +1022,7 @@ ${renderPriority(top)}
 ${sectionsHtml}
 
     <section class="footer-card" id="sources">
-      <p><strong>来源：</strong><a href="https://github.com/leelige/article">leelige/article</a>。本页由 <code>scripts/update-paper-recommendations.mjs</code> 自动生成；不会创建 Codex App 对话。每个方向最多保留 5 篇，方向内部按发布时间倒序排列。</p>
+      <p><strong>来源：</strong><a href="https://github.com/leelige/article">leelige/article</a> 与论文 arXiv 摘要。本页由 <code>scripts/update-paper-recommendations.mjs</code> 自动生成；不会创建 Codex App 对话。配置 OpenAI API 时生成逐篇中文介绍，调用不可用时自动展示摘要前两句。每个方向最多保留 5 篇，方向内部按发布时间倒序排列。</p>
     </section>
   </main>
 </body>
@@ -748,6 +1036,7 @@ async function main() {
     throw new Error("No database-related papers found. Refusing to overwrite the site.");
   }
   const selected = selectPapers(papers);
+  await enrichRecommendations(selected);
   const html = renderHtml(selected);
   const outputPath = fileURLToPath(OUTPUT);
   await mkdir(dirname(outputPath), { recursive: true });
