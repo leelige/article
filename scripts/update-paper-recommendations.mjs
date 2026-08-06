@@ -11,6 +11,7 @@ const OUTPUT = process.env.PAPER_RECOMMENDATIONS_OUTPUT
 
 const OPENAI_MODEL = process.env.OPENAI_MODEL || "gpt-5.6-luna";
 const OPENAI_RESPONSES_URL = "https://api.openai.com/v1/responses";
+const OPENAI_MAX_ATTEMPTS = 3;
 const BANNED_GENERATED_PHRASES = [
   "跟踪最新进展",
   "适合作为候选阅读",
@@ -308,18 +309,6 @@ function parseArxivFeed(xml) {
   return abstracts;
 }
 
-function firstSentences(value, count = 2, maxLength = 720) {
-  const text = String(value).replace(/\s+/g, " ").trim();
-  if (!text) return "";
-  const sentences = text.match(/[^.!?。！？]+[.!?。！？]+|[^.!?。！？]+$/g) ?? [text];
-  const excerpt = sentences
-    .slice(0, count)
-    .map((sentence) => sentence.trim())
-    .join(" ");
-  if (excerpt.length <= maxLength) return excerpt;
-  return `${excerpt.slice(0, maxLength - 1).trimEnd()}…`;
-}
-
 function normalizeDescription(value) {
   return String(value)
     .normalize("NFKC")
@@ -426,8 +415,7 @@ function selectPapers(papers) {
 async function attachArxivAbstracts(papers) {
   const ids = Array.from(new Set(papers.map(arxivIdFor).filter(Boolean)));
   if (ids.length === 0) {
-    console.warn("[warn] No arXiv IDs found; paper descriptions will use metadata fallback.");
-    return;
+    throw new Error("No arXiv IDs found; Chinese recommendations cannot be generated.");
   }
 
   try {
@@ -446,26 +434,8 @@ async function attachArxivAbstracts(papers) {
     }
     console.log(`[info] arXiv abstracts: ${attached}/${papers.length}`);
   } catch (error) {
-    console.warn(`[warn] ${error.message}; continuing without arXiv abstracts.`);
+    throw new Error(`Unable to load arXiv abstracts: ${error.message}`);
   }
-}
-
-function fallbackRecommendation(paper) {
-  const excerpt = firstSentences(paper.abstract, 2);
-  if (excerpt) {
-    return {
-      intro: excerpt,
-      why: "",
-      relevance: "",
-      source: "arxiv",
-    };
-  }
-  return {
-    intro: `Abstract unavailable for “${paper.title}”.`,
-    why: "",
-    relevance: "",
-    source: "metadata",
-  };
 }
 
 function outputTextFromResponse(response) {
@@ -532,17 +502,68 @@ function validatedRecommendations(value, expectedRecords) {
   return valid;
 }
 
+async function openAiHttpError(response) {
+  let code = "";
+  let message = "";
+  try {
+    const body = await response.json();
+    code = String(body?.error?.code ?? body?.error?.type ?? "");
+    message = String(body?.error?.message ?? "");
+  } catch {
+    // The status code still identifies the failure when the body is not JSON.
+  }
+
+  const details = [code, message].filter(Boolean).join(": ");
+  const error = new Error(`OpenAI API returned HTTP ${response.status}${details ? ` (${details})` : ""}`);
+  error.status = response.status;
+  error.code = code;
+  return error;
+}
+
+async function requestOpenAi(apiKey, body) {
+  for (let attempt = 1; attempt <= OPENAI_MAX_ATTEMPTS; attempt += 1) {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 90000);
+    try {
+      const response = await fetch(OPENAI_RESPONSES_URL, {
+        method: "POST",
+        headers: {
+          authorization: `Bearer ${apiKey}`,
+          "content-type": "application/json",
+        },
+        body: JSON.stringify(body),
+        signal: controller.signal,
+      });
+      if (response.ok) return await response.json();
+
+      const error = await openAiHttpError(response);
+      const canRetry =
+        error.status === 429 &&
+        !["insufficient_quota", "billing_hard_limit_reached"].includes(error.code) &&
+        attempt < OPENAI_MAX_ATTEMPTS;
+      if (!canRetry) throw error;
+
+      const delayMs = attempt * 5000;
+      console.warn(`[warn] ${error.message}; retrying in ${delayMs / 1000}s.`);
+      await new Promise((resolveDelay) => setTimeout(resolveDelay, delayMs));
+    } finally {
+      clearTimeout(timeout);
+    }
+  }
+  throw new Error("OpenAI API request exhausted all retry attempts.");
+}
+
 async function generateOpenAiRecommendations(records) {
   const apiKey = process.env.OPENAI_API_KEY?.trim();
   if (!apiKey) {
-    console.warn("[warn] OPENAI_API_KEY is not configured; using arXiv excerpts.");
-    return new Map();
+    throw new Error("OPENAI_API_KEY is not configured; refusing to publish English fallback text.");
   }
 
   const recordsWithAbstracts = records.filter(({ paper }) => paper.abstract);
-  if (recordsWithAbstracts.length === 0) {
-    console.warn("[warn] No arXiv abstracts available; skipping OpenAI generation.");
-    return new Map();
+  if (recordsWithAbstracts.length !== records.length) {
+    throw new Error(
+      `Only ${recordsWithAbstracts.length}/${records.length} arXiv abstracts are available; refusing to publish incomplete Chinese recommendations.`,
+    );
   }
 
   const schema = {
@@ -583,46 +604,32 @@ async function generateOpenAiRecommendations(records) {
 
 同一批次各论文的三个字段都不能出现完全相同的表述。不要使用“跟踪最新进展”“适合作为候选阅读”“适合快速判断”“一个具体问题”等泛化句式。输出必须以中文为主，技术名词可以保留英文。不要添加字段标签。`;
 
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 90000);
-  try {
-    const response = await fetch(OPENAI_RESPONSES_URL, {
-      method: "POST",
-      headers: {
-        authorization: `Bearer ${apiKey}`,
-        "content-type": "application/json",
+  const responseBody = await requestOpenAi(apiKey, {
+    model: OPENAI_MODEL,
+    instructions,
+    input: JSON.stringify(input),
+    text: {
+      format: {
+        type: "json_schema",
+        name: "paper_recommendations",
+        strict: true,
+        schema,
       },
-      body: JSON.stringify({
-        model: OPENAI_MODEL,
-        instructions,
-        input: JSON.stringify(input),
-        text: {
-          format: {
-            type: "json_schema",
-            name: "paper_recommendations",
-            strict: true,
-            schema,
-          },
-        },
-        max_output_tokens: 7000,
-        store: false,
-      }),
-      signal: controller.signal,
-    });
-    if (!response.ok) throw new Error(`OpenAI API returned HTTP ${response.status}`);
+    },
+    max_output_tokens: 7000,
+    store: false,
+  });
+  const outputText = outputTextFromResponse(responseBody);
+  if (!outputText) throw new Error("OpenAI API returned no text output.");
 
-    const responseBody = await response.json();
-    const outputText = outputTextFromResponse(responseBody);
-    if (!outputText) throw new Error("OpenAI API returned no text output");
-    const generated = validatedRecommendations(JSON.parse(outputText), recordsWithAbstracts);
-    console.log(`[info] OpenAI summaries accepted: ${generated.size}/${records.length}`);
-    return generated;
-  } catch (error) {
-    console.warn(`[warn] ${error.message}; using arXiv excerpts.`);
-    return new Map();
-  } finally {
-    clearTimeout(timeout);
+  const generated = validatedRecommendations(JSON.parse(outputText), recordsWithAbstracts);
+  if (generated.size !== records.length) {
+    throw new Error(
+      `Only ${generated.size}/${records.length} OpenAI summaries passed Chinese and uniqueness checks; refusing to deploy.`,
+    );
   }
+  console.log(`[info] OpenAI summaries accepted: ${generated.size}/${records.length}`);
+  return generated;
 }
 
 async function enrichRecommendations(selection) {
@@ -630,24 +637,11 @@ async function enrichRecommendations(selection) {
   const records = papers.map((paper, index) => ({ id: `paper-${index + 1}`, paper }));
   await attachArxivAbstracts(papers);
   const generated = await generateOpenAiRecommendations(records);
-  const seenIntros = new Set();
-  let fallbackCount = 0;
 
   for (const { id, paper } of records) {
-    let recommendation = generated.get(id) ?? fallbackRecommendation(paper);
-    let normalizedIntro = normalizeDescription(recommendation.intro);
-    if (seenIntros.has(normalizedIntro)) {
-      recommendation = {
-        ...fallbackRecommendation(paper),
-        intro: `${paper.title}: ${fallbackRecommendation(paper).intro}`,
-      };
-      normalizedIntro = normalizeDescription(recommendation.intro);
-    }
-    if (recommendation.source !== "openai") fallbackCount += 1;
-    seenIntros.add(normalizedIntro);
-    paper.recommendation = recommendation;
+    paper.recommendation = generated.get(id);
   }
-  console.log(`[info] Recommendation sources: OpenAI ${papers.length - fallbackCount}, fallback ${fallbackCount}`);
+  console.log(`[info] Recommendation sources: OpenAI ${papers.length}, English fallback 0`);
 }
 
 function renderPriority(papers) {
@@ -659,13 +653,7 @@ function renderPriority(papers) {
             <span class="priority-content">
               <time class="priority-date" datetime="${escapeHtml(paper.published)}">${escapeHtml(displayTime(paper.published))}</time>
               <a href="${escapeHtml(paper.pdf)}">${escapeHtml(paper.title)}</a>
-              <span class="priority-note">${escapeHtml(
-                truncateText(
-                  paper.recommendation?.source === "openai"
-                    ? paper.recommendation.why
-                    : paper.recommendation?.intro,
-                ),
-              )}</span>
+              <span class="priority-note">${escapeHtml(truncateText(paper.recommendation.why))}</span>
             </span>
           </div>`,
     )
@@ -674,18 +662,7 @@ function renderPriority(papers) {
 
 function renderPaperCard(paper) {
   const direction = directionLabel(paper);
-  const recommendation = paper.recommendation ?? fallbackRecommendation(paper);
-  const sourceLabel =
-    recommendation.source === "openai"
-      ? "AI 中文介绍"
-      : recommendation.source === "arxiv"
-        ? "arXiv 摘要"
-        : "论文元数据";
-  const details =
-    recommendation.source === "openai"
-      ? `
-            <div class="reason"><strong>为什么值得读：</strong>${escapeHtml(recommendation.why)}<br><strong>数据库相关性：</strong>${escapeHtml(recommendation.relevance)}</div>`
-      : "";
+  const recommendation = paper.recommendation;
   return `
           <article class="paper-card">
             <div class="paper-top">
@@ -696,9 +673,10 @@ function renderPaperCard(paper) {
                   <span class="tag db">研究方向：${escapeHtml(direction)}</span>
                 </div>
               </div>
-              <div class="tag-row"><span class="tag sys">${escapeHtml(paper.source)}</span><span class="tag llm">${escapeHtml(sourceLabel)}</span></div>
+              <div class="tag-row"><span class="tag sys">${escapeHtml(paper.source)}</span><span class="tag llm">AI 中文介绍</span></div>
             </div>
-            <p>${escapeHtml(recommendation.intro)}</p>${details}
+            <p>${escapeHtml(recommendation.intro)}</p>
+            <div class="reason"><strong>为什么值得读：</strong>${escapeHtml(recommendation.why)}<br><strong>数据库相关性：</strong>${escapeHtml(recommendation.relevance)}</div>
           </article>`;
 }
 
@@ -732,14 +710,7 @@ function todayShanghai() {
 function renderHtml({ bySection, top }) {
   const sectionsHtml = SECTIONS.map((section) => renderSection(section, bySection.get(section.id) ?? [])).join("\n");
   const updated = todayShanghai();
-  const papers = Array.from(new Set(Array.from(bySection.values()).flat()));
-  const openAiCount = papers.filter((paper) => paper.recommendation?.source === "openai").length;
-  const contentMode =
-    openAiCount === papers.length
-      ? `中文介绍：${OPENAI_MODEL}`
-      : openAiCount > 0
-        ? "中文介绍 + arXiv 摘要回退"
-        : "介绍：arXiv 摘要回退";
+  const contentMode = `中文介绍：${OPENAI_MODEL}`;
 
   return `<!doctype html>
 <html lang="zh-CN">
@@ -1022,7 +993,7 @@ ${renderPriority(top)}
 ${sectionsHtml}
 
     <section class="footer-card" id="sources">
-      <p><strong>来源：</strong><a href="https://github.com/leelige/article">leelige/article</a> 与论文 arXiv 摘要。本页由 <code>scripts/update-paper-recommendations.mjs</code> 自动生成；不会创建 Codex App 对话。配置 OpenAI API 时生成逐篇中文介绍，调用不可用时自动展示摘要前两句。每个方向最多保留 5 篇，方向内部按发布时间倒序排列。</p>
+      <p><strong>来源：</strong><a href="https://github.com/leelige/article">leelige/article</a> 与论文 arXiv 摘要。本页由 <code>scripts/update-paper-recommendations.mjs</code> 自动生成；不会创建 Codex App 对话。仅在全部逐篇中文介绍生成并通过去重检查后发布，不展示英文摘要回退。每个方向最多保留 5 篇，方向内部按发布时间倒序排列。</p>
     </section>
   </main>
 </body>
