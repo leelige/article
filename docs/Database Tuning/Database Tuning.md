@@ -2,6 +2,9 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-05 17:03:56**|**Kerckhoffs-Compliant Watermarking for Physical Design IP Protection: From Placement to Routing**|Andrew B. Kahng et.al.|[2608.05055v1](http://arxiv.org/abs/2608.05055v1)|null|
+|**2026-08-05 17:03:13**|**MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**|M. L. Carroll et.al.|[2608.05054v1](http://arxiv.org/abs/2608.05054v1)|null|
+|**2026-08-04 18:00:07**|**Language-Guided Hypotheses Generation for Sparse SMEFT Analyses**|Ahmed Hammad et.al.|[2608.04100v1](http://arxiv.org/abs/2608.04100v1)|null|
 |**2026-08-03 16:37:28**|**Calibrated Similarity and Graph Clustering for Open-Set Animal Re-Identification**|Mohamed ElBassat et.al.|[2608.02469v1](http://arxiv.org/abs/2608.02469v1)|null|
 |**2026-07-31 08:52:26**|**Execution-First Synthetic Tool-Use Trace Generation for LLM Agents**|Hafsa Ouajdi et.al.|[2607.29175v1](http://arxiv.org/abs/2607.29175v1)|null|
 |**2026-07-30 15:50:23**|**Large scale cross-regional remote sensing flood monitoring framework for operative mapping and impact analysis**|Ilya Novikov et.al.|[2607.28401v1](http://arxiv.org/abs/2607.28401v1)|null|
@@ -29,6 +32,3 @@
 |**2026-06-22 17:52:14**|**The Table Says Otherwise: Testing LLMs with Counterfactual Relational Data**|Xinzhi Wang et.al.|[2606.23667v1](http://arxiv.org/abs/2606.23667v1)|null|
 |**2026-06-22 16:13:39**|**SQLConductor: Search-to-Policy Learning for Step-wise Text-to-SQL Orchestration**|Yizhang Zhu et.al.|[2606.23537v1](http://arxiv.org/abs/2606.23537v1)|null|
 |**2026-06-22 12:44:50**|**Tuning Quantum MPS**|Anna Leonteva et.al.|[2606.23262v1](http://arxiv.org/abs/2606.23262v1)|null|
-|**2026-06-22 07:02:33**|**MythraGen: Two-Stage Retrieval Augmented Art Generation Framework**|Quang-Khai Le et.al.|[2606.22924v1](http://arxiv.org/abs/2606.22924v1)|null|
-|**2026-06-20 02:08:52**|**AgentDSE: Reasoning-Augmented Architectural Design Space Exploration**|Chenyu Wang et.al.|[2606.21836v1](http://arxiv.org/abs/2606.21836v1)|null|
-|**2026-06-18 14:57:10**|**AgenticDB: Self-Evolving Reconfiguration Framework for Database Workloads**|Xinyue Yang et.al.|[2606.20318v3](http://arxiv.org/abs/2606.20318v3)|null|
