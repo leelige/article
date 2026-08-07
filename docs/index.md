@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-08-06 18:23:18 Asia/Shanghai
+ 自动更新 @ 2026-08-07 16:43:27 Asia/Shanghai
 
 ## Cost Model
 
@@ -42,6 +42,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-06 15:02:37**|**Pulse-Duration Control of Subcycle Multiband Electron Dynamics Extends the High-Harmonic Cutoff in a Light-Driven Insulator**|Hortense Allegre et.al.|[2608.06129v1](http://arxiv.org/abs/2608.06129v1)|null|
+|**2026-08-06 13:57:23**|**ML-for-ML**|Yutong Zhao et.al.|[2608.06046v1](http://arxiv.org/abs/2608.06046v1)|null|
 |**2026-08-03 06:09:29**|**Robust Nonclassical magnon pair generation and Cauchy-Schwarz inequality violation in a hybrid electromagnonic system**|Sabur A Barbhuiya et.al.|[2608.01741v1](http://arxiv.org/abs/2608.01741v1)|null|
 |**2026-07-30 19:12:51**|**Mode-Selective and Anharmonicity-Controlled Energy Transport in Cavity-Coupled Water**|Sachith Wickramasinghe et.al.|[2607.28782v1](http://arxiv.org/abs/2607.28782v1)|null|
 |**2026-07-28 11:12:03**|**How Small Can You Go? A Controlled Study of LoRA Rank, Target Modules, and Quantization Trade-offs for Text-to-SQL on a 60M-Parameter Model**|Mahendra Singh Rathor et.al.|[2607.25583v1](http://arxiv.org/abs/2607.25583v1)|null|
@@ -70,8 +72,6 @@
 |**2026-06-20 07:44:50**|**Cache-Aware I/O Cost Modeling for Disk-Based Learned Indexes**|Zhanwei Shi et.al.|[2606.21924v1](http://arxiv.org/abs/2606.21924v1)|null|
 |**2026-06-18 05:25:43**|**Think Again or Think Longer? Selective Verification for Budget-Aware Reasoning**|Sajib Acharjee Dip et.al.|[2606.19808v1](http://arxiv.org/abs/2606.19808v1)|null|
 |**2026-06-18 05:15:43**|**Flow Map Denoisers: Traversing the Distortion-Perception Plane for Inverse Problems**|Nicolas Zilberstein et.al.|[2606.19802v1](http://arxiv.org/abs/2606.19802v1)|null|
-|**2026-06-17 18:36:08**|**Collective phases in overdamped magnetic self-propelled spherocylinders**|Francisca Guzmán-Lastra et.al.|[2606.19498v1](http://arxiv.org/abs/2606.19498v1)|null|
-|**2026-06-16 17:19:06**|**Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold**|Madhulatha Mandarapu et.al.|[2606.18187v1](http://arxiv.org/abs/2606.18187v1)|null|
 
 ## Database Tuning
 
