@@ -346,6 +346,11 @@ function baseArxivId(id) {
   return String(id).replace(/v\d+$/i, "");
 }
 
+function paperPageUrl(paper) {
+  const id = baseArxivId(arxivIdFor(paper));
+  return id ? `https://arxiv.org/abs/${id}` : paper.pdf;
+}
+
 function decodeXml(value) {
   return String(value)
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
@@ -705,7 +710,7 @@ function renderPriority(papers) {
             <span class="priority-rank">${index + 1}</span>
             <span class="priority-content">
               <time class="priority-date" datetime="${escapeHtml(paper.published)}">${escapeHtml(displayTime(paper.published))}</time>
-              <a href="${escapeHtml(paper.pdf)}">${escapeHtml(paper.title)}</a>
+              <a href="${escapeHtml(paperPageUrl(paper))}">${escapeHtml(paper.title)}</a>
               <span class="priority-note">${escapeHtml(truncateText(paper.recommendation.why))}</span>
             </span>
           </div>`,
@@ -720,7 +725,7 @@ function renderPaperCard(paper) {
           <article class="paper-card">
             <div class="paper-top">
               <div>
-                <h3><a href="${escapeHtml(paper.pdf)}">${escapeHtml(paper.title)}</a></h3>
+                <h3><a href="${escapeHtml(paperPageUrl(paper))}">${escapeHtml(paper.title)}</a></h3>
                 <div class="paper-meta">
                   <time class="paper-date" datetime="${escapeHtml(paper.published)}">时间：${escapeHtml(displayTime(paper.published))}</time>
                   <span class="tag db">研究方向：${escapeHtml(direction)}</span>
