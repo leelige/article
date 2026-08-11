@@ -2,6 +2,8 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-10 08:16:17**|**SafeQL: Search-based Refinement for Safe and Efficient LLM-based Text-to-SQL**|Geonho Lee et.al.|[2608.09260v1](http://arxiv.org/abs/2608.09260v1)|null|
+|**2026-08-10 02:55:07**|**GeoAI-based post-segmentation quality validation of building footprints via spatial feature engineering**|Shah Imran Ahsan Chowdhury et.al.|[2608.09048v1](http://arxiv.org/abs/2608.09048v1)|null|
 |**2026-08-05 17:03:56**|**Kerckhoffs-Compliant Watermarking for Physical Design IP Protection: From Placement to Routing**|Andrew B. Kahng et.al.|[2608.05055v1](http://arxiv.org/abs/2608.05055v1)|null|
 |**2026-08-05 17:03:13**|**MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**|M. L. Carroll et.al.|[2608.05054v1](http://arxiv.org/abs/2608.05054v1)|null|
 |**2026-08-04 18:00:07**|**Language-Guided Hypotheses Generation for Sparse SMEFT Analyses**|Ahmed Hammad et.al.|[2608.04100v1](http://arxiv.org/abs/2608.04100v1)|null|
@@ -30,5 +32,3 @@
 |**2026-06-25 22:36:36**|**PtyRANNOSAUR: Ptychography with Robust Artificial Neural Networks Optimized for Sub-Angstrom Accuracy and Ultrafast Reconstruction**|Kieran Loehr et.al.|[2606.27587v1](http://arxiv.org/abs/2606.27587v1)|null|
 |**2026-06-24 23:55:35**|**Optimization and Constraint Modeling using LLMs with a Retrieval Augmented Generation Process**|Prateek Roy et.al.|[2608.00015v1](http://arxiv.org/abs/2608.00015v1)|null|
 |**2026-06-22 17:52:14**|**The Table Says Otherwise: Testing LLMs with Counterfactual Relational Data**|Xinzhi Wang et.al.|[2606.23667v1](http://arxiv.org/abs/2606.23667v1)|null|
-|**2026-06-22 16:13:39**|**SQLConductor: Search-to-Policy Learning for Step-wise Text-to-SQL Orchestration**|Yizhang Zhu et.al.|[2606.23537v1](http://arxiv.org/abs/2606.23537v1)|null|
-|**2026-06-22 12:44:50**|**Tuning Quantum MPS**|Anna Leonteva et.al.|[2606.23262v1](http://arxiv.org/abs/2606.23262v1)|null|

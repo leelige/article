@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-10 15:18:11**|**Sampling Free Energy Landscapes of Ionic Colloidal Crystal Systems using Machine-Learned Proxy Collective Variables**|Michael S. Chen et.al.|[2608.09714v1](http://arxiv.org/abs/2608.09714v1)|null|
 |**2026-08-07 15:18:40**|**Entwined lattice of atoms and anionic electrons in layered electride LaCl**|Songyuan Geng et.al.|[2608.07322v1](http://arxiv.org/abs/2608.07322v1)|null|
 |**2026-08-07 14:33:08**|**Grid-Compatible Flexibility from Multi-Energy Systems via Cyclic-Terminal Economic MPC with Hybrid Thermal-Electrical Dynamics**|Azzam Abdul et.al.|[2608.07273v1](http://arxiv.org/abs/2608.07273v1)|null|
 |**2026-08-07 01:44:31**|**Geometric Control of Visible Emitter Creation in Hexagonal Boron Nitride by Oblique Ion Irradiation**|Sagar Chowdhury et.al.|[2608.06693v1](http://arxiv.org/abs/2608.06693v1)|null|
@@ -31,4 +32,3 @@
 |**2026-06-24 08:34:41**|**A topology-tuned pressure valve across the isoreticular RHO zeolite family**|Salvador R. G. Balestra et.al.|[2606.25557v1](http://arxiv.org/abs/2606.25557v1)|null|
 |**2026-06-23 18:28:21**|**Layer-tunable Hubbard bands probed via moiré excitons in MoSe$_2$/WS$_2$ heterostructures**|Hongyu Yao et.al.|[2606.25071v1](http://arxiv.org/abs/2606.25071v1)|null|
 |**2026-06-20 20:08:15**|**Deterministic control of the probabilistic phase dynamics in injection-locked spin-torque nano-oscillators**|Abderrazak Hakam et.al.|[2606.22208v1](http://arxiv.org/abs/2606.22208v1)|null|
-|**2026-06-20 11:32:38**|**Magneto-ionic control of topological transport in SrRuO3 via band topology engineering**|Xuanchi Zhou et.al.|[2606.21999v1](http://arxiv.org/abs/2606.21999v1)|null|

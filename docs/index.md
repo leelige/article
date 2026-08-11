@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-08-10 17:03:51 Asia/Shanghai
+ 自动更新 @ 2026-08-11 14:45:46 Asia/Shanghai
 
 ## Cost Model
 
@@ -42,6 +42,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-10 15:18:11**|**Sampling Free Energy Landscapes of Ionic Colloidal Crystal Systems using Machine-Learned Proxy Collective Variables**|Michael S. Chen et.al.|[2608.09714v1](http://arxiv.org/abs/2608.09714v1)|null|
 |**2026-08-07 15:18:40**|**Entwined lattice of atoms and anionic electrons in layered electride LaCl**|Songyuan Geng et.al.|[2608.07322v1](http://arxiv.org/abs/2608.07322v1)|null|
 |**2026-08-07 14:33:08**|**Grid-Compatible Flexibility from Multi-Energy Systems via Cyclic-Terminal Economic MPC with Hybrid Thermal-Electrical Dynamics**|Azzam Abdul et.al.|[2608.07273v1](http://arxiv.org/abs/2608.07273v1)|null|
 |**2026-08-07 01:44:31**|**Geometric Control of Visible Emitter Creation in Hexagonal Boron Nitride by Oblique Ion Irradiation**|Sagar Chowdhury et.al.|[2608.06693v1](http://arxiv.org/abs/2608.06693v1)|null|
@@ -71,13 +72,14 @@
 |**2026-06-24 08:34:41**|**A topology-tuned pressure valve across the isoreticular RHO zeolite family**|Salvador R. G. Balestra et.al.|[2606.25557v1](http://arxiv.org/abs/2606.25557v1)|null|
 |**2026-06-23 18:28:21**|**Layer-tunable Hubbard bands probed via moiré excitons in MoSe$_2$/WS$_2$ heterostructures**|Hongyu Yao et.al.|[2606.25071v1](http://arxiv.org/abs/2606.25071v1)|null|
 |**2026-06-20 20:08:15**|**Deterministic control of the probabilistic phase dynamics in injection-locked spin-torque nano-oscillators**|Abderrazak Hakam et.al.|[2606.22208v1](http://arxiv.org/abs/2606.22208v1)|null|
-|**2026-06-20 11:32:38**|**Magneto-ionic control of topological transport in SrRuO3 via band topology engineering**|Xuanchi Zhou et.al.|[2606.21999v1](http://arxiv.org/abs/2606.21999v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-10 08:16:17**|**SafeQL: Search-based Refinement for Safe and Efficient LLM-based Text-to-SQL**|Geonho Lee et.al.|[2608.09260v1](http://arxiv.org/abs/2608.09260v1)|null|
+|**2026-08-10 02:55:07**|**GeoAI-based post-segmentation quality validation of building footprints via spatial feature engineering**|Shah Imran Ahsan Chowdhury et.al.|[2608.09048v1](http://arxiv.org/abs/2608.09048v1)|null|
 |**2026-08-05 17:03:56**|**Kerckhoffs-Compliant Watermarking for Physical Design IP Protection: From Placement to Routing**|Andrew B. Kahng et.al.|[2608.05055v1](http://arxiv.org/abs/2608.05055v1)|null|
 |**2026-08-05 17:03:13**|**MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**|M. L. Carroll et.al.|[2608.05054v1](http://arxiv.org/abs/2608.05054v1)|null|
 |**2026-08-04 18:00:07**|**Language-Guided Hypotheses Generation for Sparse SMEFT Analyses**|Ahmed Hammad et.al.|[2608.04100v1](http://arxiv.org/abs/2608.04100v1)|null|
@@ -106,5 +108,3 @@
 |**2026-06-25 22:36:36**|**PtyRANNOSAUR: Ptychography with Robust Artificial Neural Networks Optimized for Sub-Angstrom Accuracy and Ultrafast Reconstruction**|Kieran Loehr et.al.|[2606.27587v1](http://arxiv.org/abs/2606.27587v1)|null|
 |**2026-06-24 23:55:35**|**Optimization and Constraint Modeling using LLMs with a Retrieval Augmented Generation Process**|Prateek Roy et.al.|[2608.00015v1](http://arxiv.org/abs/2608.00015v1)|null|
 |**2026-06-22 17:52:14**|**The Table Says Otherwise: Testing LLMs with Counterfactual Relational Data**|Xinzhi Wang et.al.|[2606.23667v1](http://arxiv.org/abs/2606.23667v1)|null|
-|**2026-06-22 16:13:39**|**SQLConductor: Search-to-Policy Learning for Step-wise Text-to-SQL Orchestration**|Yizhang Zhu et.al.|[2606.23537v1](http://arxiv.org/abs/2606.23537v1)|null|
-|**2026-06-22 12:44:50**|**Tuning Quantum MPS**|Anna Leonteva et.al.|[2606.23262v1](http://arxiv.org/abs/2606.23262v1)|null|
