@@ -1,17 +1,12 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-import urllib.request as libreq
-from xml.dom.minidom import parseString
+from defusedxml.minidom import parseString
 import datetime
 import requests
 import json
 import os
 import shutil
 import yaml
-try:
-    from yaml import CLoader as Loader
-except ImportError:
-    from yaml import Loader
 
 # paperWithCode API
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
@@ -37,7 +32,7 @@ def sort_papers(papers):
 
 def get_yaml_data(yaml_file: str):
     fs = open(yaml_file)
-    data = yaml.load(fs, Loader=Loader)
+    data = yaml.safe_load(fs)
     print(data)
     return data
 
@@ -46,8 +41,7 @@ def getResult(search_query='all:fake+news+OR+all:rumour', start=0, max_results=5
         search_query, start, max_results, sortBy, sortOrder
     )
     print(url)
-    data = libreq.urlopen(url)
-    xml_data = data.read()
+    xml_data = requests.get(url, timeout=30).content
     DOMTree = parseString(xml_data)
 
     collection = DOMTree.documentElement
@@ -131,7 +125,7 @@ def get_daily_papers(topic: str, query: str = "fake news", max_results=2):
             paper_key = paper_id[0: ver_pos]
 
         try:
-            r = requests.get(code_url).json()
+            r = requests.get(code_url, timeout=30).json()
             # source code link
             if "official" in r and r["official"]:
                 cnt += 1
