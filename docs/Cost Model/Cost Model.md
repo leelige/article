@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-11 08:55:28**|**Real-Time Requirements and Transferability in Compton Imaging: From the Detector Chain to the Application**|F. Albiol et.al.|[2608.10673v1](http://arxiv.org/abs/2608.10673v1)|null|
 |**2026-08-01 19:15:17**|**Anticipatory Digital Twins for Online Head-and-Neck Adaptive Proton Therapy via Foundation-Model Registration**|Yizhou Wu et.al.|[2608.00831v1](http://arxiv.org/abs/2608.00831v1)|null|
 |**2026-08-01 13:09:51**|**TEngineDB-V: An OLAP-Native Vector Search System for Large-$k$ Workloads at Tencent**|Xufei Wu et.al.|[2608.00650v1](http://arxiv.org/abs/2608.00650v1)|null|
 |**2026-07-29 14:55:00**|**Estimating Size of the Union of Sets in Streaming Model**|Kuldeep S. Meel et.al.|[2607.26997v1](http://arxiv.org/abs/2607.26997v1)|null|
@@ -31,4 +32,3 @@
 |**2026-06-22 09:30:24**|**SemCEB: A Cardinality Estimation Benchmark for Semantic Operators**|Andreas Zimmerer et.al.|[2606.23081v1](http://arxiv.org/abs/2606.23081v1)|null|
 |**2026-06-21 22:09:12**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692v1](http://arxiv.org/abs/2606.22692v1)|null|
 |**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
-|**2026-06-18 18:37:05**|**ReSequel: Robust LLM-assisted Query Rewriting and Optimization using Templatization and Sampling**|Saeed Fathollahzadeh et.al.|[2606.20853v2](http://arxiv.org/abs/2606.20853v2)|null|
