@@ -2,6 +2,8 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-13 09:46:29**|**Incremental Evaluation and Training in Relational Deep Learning**|Jakub Peleška et.al.|[2608.13023v1](http://arxiv.org/abs/2608.13023v1)|null|
+|**2026-08-12 19:39:17**|**StrAD: A Streaming Method and Benchmark for Audio Description Generation for Long-form Videos**|Julian Spravil et.al.|[2608.12549v1](http://arxiv.org/abs/2608.12549v1)|null|
 |**2026-08-12 10:17:08**|**DexterSQL: Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation**|Anik Pramanik et.al.|[2608.11889v1](http://arxiv.org/abs/2608.11889v1)|null|
 |**2026-08-11 12:48:44**|**Chemically Meaningful Textualization Enables Explainable Validation of Metal-Organic Frameworks by Large Language Models**|Guobin Zhao et.al.|[2608.11283v1](http://arxiv.org/abs/2608.11283v1)|null|
 |**2026-08-11 07:25:41**|**DegradeQuery: Counterfactual Tuple Pretraining for Context-Aware PROTAC Degradation Prediction**|Dong Xu et.al.|[2608.10595v1](http://arxiv.org/abs/2608.10595v1)|null|
@@ -30,5 +32,3 @@
 |**2026-07-06 03:30:53**|**Exploiting Structural Properties for Efficient Constraint-Aware HNSW Hyperparameter Tuning**|Geon Choi et.al.|[2607.04630v1](http://arxiv.org/abs/2607.04630v1)|null|
 |**2026-07-04 11:42:56**|**Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL**|Hanqing Wang et.al.|[2607.03833v1](http://arxiv.org/abs/2607.03833v1)|null|
 |**2026-07-02 10:18:45**|**Episodic-to-Semantic Consolidation Without Identity Drift**|Xue Qin et.al.|[2607.01988v1](http://arxiv.org/abs/2607.01988v1)|null|
-|**2026-07-01 21:00:40**|**CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**|Jaehyun Ha et.al.|[2607.01468v1](http://arxiv.org/abs/2607.01468v1)|null|
-|**2026-07-01 11:04:28**|**Evaluating Pretrained Music Embeddings for Cross-Performance Jazz Standard Recognition**|Çağrı Eser et.al.|[2607.00777v1](http://arxiv.org/abs/2607.00777v1)|[link](https://github.com/cagries/tipofmyear)|

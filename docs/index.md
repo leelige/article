@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-08-13 16:59:29 Asia/Shanghai
+ 自动更新 @ 2026-08-14 16:55:00 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-13 15:46:20**|**Structure then Query: Enabling Precise Analytical Queries over Unstructured Documents**|Teng Lin et.al.|[2608.13384v1](http://arxiv.org/abs/2608.13384v1)|null|
 |**2026-08-11 08:55:28**|**Real-Time Requirements and Transferability in Compton Imaging: From the Detector Chain to the Application**|F. Albiol et.al.|[2608.10673v1](http://arxiv.org/abs/2608.10673v1)|null|
 |**2026-08-01 19:15:17**|**Anticipatory Digital Twins for Online Head-and-Neck Adaptive Proton Therapy via Foundation-Model Registration**|Yizhou Wu et.al.|[2608.00831v1](http://arxiv.org/abs/2608.00831v1)|null|
 |**2026-08-01 13:09:51**|**TEngineDB-V: An OLAP-Native Vector Search System for Large-$k$ Workloads at Tencent**|Xufei Wu et.al.|[2608.00650v1](http://arxiv.org/abs/2608.00650v1)|null|
@@ -35,13 +36,13 @@
 |**2026-06-24 21:11:17**|**Query Cost Model Calibration in Confidential Virtual Machines**|Qihan Zhang et.al.|[2606.26385v1](http://arxiv.org/abs/2606.26385v1)|null|
 |**2026-06-22 09:30:24**|**SemCEB: A Cardinality Estimation Benchmark for Semantic Operators**|Andreas Zimmerer et.al.|[2606.23081v1](http://arxiv.org/abs/2606.23081v1)|null|
 |**2026-06-21 22:09:12**|**VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards**|Tuomo Kiiskinen et.al.|[2606.22692v1](http://arxiv.org/abs/2606.22692v1)|null|
-|**2026-06-21 10:10:51**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417v1](http://arxiv.org/abs/2606.22417v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-13 14:04:23**|**Topological Superconductors in Doubly-Coupled Nanowires with Altermagnetism**|Hongfa Pan et.al.|[2608.13265v1](http://arxiv.org/abs/2608.13265v1)|null|
 |**2026-08-12 10:22:52**|**Strain-controlled sign reversal of the anomalous Hall effect in Ru/[Co/Ni]$_N$ multilayers**|Jingying Zhang et.al.|[2608.11897v1](http://arxiv.org/abs/2608.11897v1)|null|
 |**2026-08-11 21:26:05**|**Layer-Number-Controlled Symmetry Breaking and Surface-State Transport in Rhombohedral Graphene Multilayers**|Bosai Lyu et.al.|[2608.11450v1](http://arxiv.org/abs/2608.11450v1)|null|
 |**2026-08-11 19:57:05**|**Large bias-tunable magnetoresistance from spin-dependent interlayer hybridization in van der Waals antiferromagnet CrSBr-based heterostructures**|Sadeed Hameed et.al.|[2608.11389v1](http://arxiv.org/abs/2608.11389v1)|null|
@@ -71,13 +72,14 @@
 |**2026-07-01 18:57:09**|**Computer Vision for Wildlife Monitoring: Detecting Brown Howler Monkeys using YOLO**|Gabriel Ferri Schneider et.al.|[2607.01396v1](http://arxiv.org/abs/2607.01396v1)|null|
 |**2026-06-30 07:42:44**|**Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2**|Jiao Xie et.al.|[2606.31267v1](http://arxiv.org/abs/2606.31267v1)|null|
 |**2026-06-29 12:54:30**|**Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**|Carlos Magno O. Pereira et.al.|[2606.30245v1](http://arxiv.org/abs/2606.30245v1)|null|
-|**2026-06-25 10:58:00**|**Rashba Spin Demons in Two-Dimensional d-Wave Altermagnets and their Electrostatic Contro**|Muhammad Irfan Sarwar et.al.|[2606.26871v2](http://arxiv.org/abs/2606.26871v2)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-13 09:46:29**|**Incremental Evaluation and Training in Relational Deep Learning**|Jakub Peleška et.al.|[2608.13023v1](http://arxiv.org/abs/2608.13023v1)|null|
+|**2026-08-12 19:39:17**|**StrAD: A Streaming Method and Benchmark for Audio Description Generation for Long-form Videos**|Julian Spravil et.al.|[2608.12549v1](http://arxiv.org/abs/2608.12549v1)|null|
 |**2026-08-12 10:17:08**|**DexterSQL: Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation**|Anik Pramanik et.al.|[2608.11889v1](http://arxiv.org/abs/2608.11889v1)|null|
 |**2026-08-11 12:48:44**|**Chemically Meaningful Textualization Enables Explainable Validation of Metal-Organic Frameworks by Large Language Models**|Guobin Zhao et.al.|[2608.11283v1](http://arxiv.org/abs/2608.11283v1)|null|
 |**2026-08-11 07:25:41**|**DegradeQuery: Counterfactual Tuple Pretraining for Context-Aware PROTAC Degradation Prediction**|Dong Xu et.al.|[2608.10595v1](http://arxiv.org/abs/2608.10595v1)|null|
@@ -106,5 +108,3 @@
 |**2026-07-06 03:30:53**|**Exploiting Structural Properties for Efficient Constraint-Aware HNSW Hyperparameter Tuning**|Geon Choi et.al.|[2607.04630v1](http://arxiv.org/abs/2607.04630v1)|null|
 |**2026-07-04 11:42:56**|**Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL**|Hanqing Wang et.al.|[2607.03833v1](http://arxiv.org/abs/2607.03833v1)|null|
 |**2026-07-02 10:18:45**|**Episodic-to-Semantic Consolidation Without Identity Drift**|Xue Qin et.al.|[2607.01988v1](http://arxiv.org/abs/2607.01988v1)|null|
-|**2026-07-01 21:00:40**|**CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**|Jaehyun Ha et.al.|[2607.01468v1](http://arxiv.org/abs/2607.01468v1)|null|
-|**2026-07-01 11:04:28**|**Evaluating Pretrained Music Embeddings for Cross-Performance Jazz Standard Recognition**|Çağrı Eser et.al.|[2607.00777v1](http://arxiv.org/abs/2607.00777v1)|[link](https://github.com/cagries/tipofmyear)|

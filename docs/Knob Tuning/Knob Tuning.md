@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-13 14:04:23**|**Topological Superconductors in Doubly-Coupled Nanowires with Altermagnetism**|Hongfa Pan et.al.|[2608.13265v1](http://arxiv.org/abs/2608.13265v1)|null|
 |**2026-08-12 10:22:52**|**Strain-controlled sign reversal of the anomalous Hall effect in Ru/[Co/Ni]$_N$ multilayers**|Jingying Zhang et.al.|[2608.11897v1](http://arxiv.org/abs/2608.11897v1)|null|
 |**2026-08-11 21:26:05**|**Layer-Number-Controlled Symmetry Breaking and Surface-State Transport in Rhombohedral Graphene Multilayers**|Bosai Lyu et.al.|[2608.11450v1](http://arxiv.org/abs/2608.11450v1)|null|
 |**2026-08-11 19:57:05**|**Large bias-tunable magnetoresistance from spin-dependent interlayer hybridization in van der Waals antiferromagnet CrSBr-based heterostructures**|Sadeed Hameed et.al.|[2608.11389v1](http://arxiv.org/abs/2608.11389v1)|null|
@@ -31,4 +32,3 @@
 |**2026-07-01 18:57:09**|**Computer Vision for Wildlife Monitoring: Detecting Brown Howler Monkeys using YOLO**|Gabriel Ferri Schneider et.al.|[2607.01396v1](http://arxiv.org/abs/2607.01396v1)|null|
 |**2026-06-30 07:42:44**|**Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2**|Jiao Xie et.al.|[2606.31267v1](http://arxiv.org/abs/2606.31267v1)|null|
 |**2026-06-29 12:54:30**|**Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**|Carlos Magno O. Pereira et.al.|[2606.30245v1](http://arxiv.org/abs/2606.30245v1)|null|
-|**2026-06-25 10:58:00**|**Rashba Spin Demons in Two-Dimensional d-Wave Altermagnets and their Electrostatic Contro**|Muhammad Irfan Sarwar et.al.|[2606.26871v2](http://arxiv.org/abs/2606.26871v2)|null|
