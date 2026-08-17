@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-08-16 16:14:07 Asia/Shanghai
+ 自动更新 @ 2026-08-17 16:28:17 Asia/Shanghai
 
 ## Cost Model
 
@@ -78,6 +78,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-14 03:53:21**|**Never the Number: Structural Abstention for AI Systems Whose Answers Are Consumed as Fact**| Zhelun et.al.|[2608.13926v1](http://arxiv.org/abs/2608.13926v1)|null|
 |**2026-08-13 09:46:29**|**Incremental Evaluation and Training in Relational Deep Learning**|Jakub Peleška et.al.|[2608.13023v1](http://arxiv.org/abs/2608.13023v1)|null|
 |**2026-08-12 19:39:17**|**StrAD: A Streaming Method and Benchmark for Audio Description Generation for Long-form Videos**|Julian Spravil et.al.|[2608.12549v1](http://arxiv.org/abs/2608.12549v1)|null|
 |**2026-08-12 10:17:08**|**DexterSQL: Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation**|Anik Pramanik et.al.|[2608.11889v1](http://arxiv.org/abs/2608.11889v1)|null|
@@ -107,4 +108,3 @@
 |**2026-07-08 16:47:31**|**From Custom-Fit to Portable: Bridging the Gap Between Synthesized and Engineered GPU Query Execution**|Ivan Donchev Kabadzhov et.al.|[2607.07632v1](http://arxiv.org/abs/2607.07632v1)|null|
 |**2026-07-06 03:30:53**|**Exploiting Structural Properties for Efficient Constraint-Aware HNSW Hyperparameter Tuning**|Geon Choi et.al.|[2607.04630v1](http://arxiv.org/abs/2607.04630v1)|null|
 |**2026-07-04 11:42:56**|**Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL**|Hanqing Wang et.al.|[2607.03833v1](http://arxiv.org/abs/2607.03833v1)|null|
-|**2026-07-02 10:18:45**|**Episodic-to-Semantic Consolidation Without Identity Drift**|Xue Qin et.al.|[2607.01988v1](http://arxiv.org/abs/2607.01988v1)|null|
