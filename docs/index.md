@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-08-17 16:28:17 Asia/Shanghai
+ 自动更新 @ 2026-08-18 16:20:30 Asia/Shanghai
 
 ## Cost Model
 
@@ -42,6 +42,9 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-17 17:33:42**|**Topology-Aware Differentiable Triangle-Soup Reconstruction via Persistent Homology**|Viritphon Chongpermwattanapol et.al.|[2608.16848v1](http://arxiv.org/abs/2608.16848v1)|null|
+|**2026-08-17 08:25:56**|**Quantum Mpemba Speedups in the Thermodynamics of Landauer Erasure**|Pritam Chattopadhyay et.al.|[2608.16254v1](http://arxiv.org/abs/2608.16254v1)|null|
+|**2026-08-16 22:01:16**|**KV-Pipe: On the Relation Between KV Sharing and Pipeline Parallel Efficiency in LLMs**|Maryam Dialameh et.al.|[2608.15943v1](http://arxiv.org/abs/2608.15943v1)|null|
 |**2026-08-13 14:04:23**|**Topological Superconductors in Doubly-Coupled Nanowires with Altermagnetism**|Hongfa Pan et.al.|[2608.13265v1](http://arxiv.org/abs/2608.13265v1)|null|
 |**2026-08-12 10:22:52**|**Strain-controlled sign reversal of the anomalous Hall effect in Ru/[Co/Ni]$_N$ multilayers**|Jingying Zhang et.al.|[2608.11897v1](http://arxiv.org/abs/2608.11897v1)|null|
 |**2026-08-11 21:26:05**|**Layer-Number-Controlled Symmetry Breaking and Surface-State Transport in Rhombohedral Graphene Multilayers**|Bosai Lyu et.al.|[2608.11450v1](http://arxiv.org/abs/2608.11450v1)|null|
@@ -69,15 +72,13 @@
 |**2026-07-06 07:57:39**|**Strain- and potential-controlled tunneling in monolayer MoS$_2$**|Hasna Chnafa et.al.|[2607.04766v1](http://arxiv.org/abs/2607.04766v1)|null|
 |**2026-07-05 20:25:54**|**Eiger: An Efficient Library for GPU-based Data Analytics**|Bowen Wu et.al.|[2607.04489v1](http://arxiv.org/abs/2607.04489v1)|null|
 |**2026-07-04 05:48:49**|**Nonlinear Hall effect in Floquet-driven monolayer 1T$'$-MoS$_2$**|Muhammad Faisal et.al.|[2607.03717v1](http://arxiv.org/abs/2607.03717v1)|null|
-|**2026-07-01 18:57:09**|**Computer Vision for Wildlife Monitoring: Detecting Brown Howler Monkeys using YOLO**|Gabriel Ferri Schneider et.al.|[2607.01396v1](http://arxiv.org/abs/2607.01396v1)|null|
-|**2026-06-30 07:42:44**|**Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2**|Jiao Xie et.al.|[2606.31267v1](http://arxiv.org/abs/2606.31267v1)|null|
-|**2026-06-29 12:54:30**|**Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**|Carlos Magno O. Pereira et.al.|[2606.30245v1](http://arxiv.org/abs/2606.30245v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-17 09:25:05**|**Advancing Open and Reproducible Relational Learning: RelArena-$α$, TabPFN-Rel and RPI**|Adrian Hayler et.al.|[2608.16319v1](http://arxiv.org/abs/2608.16319v1)|null|
 |**2026-08-14 03:53:21**|**Never the Number: Structural Abstention for AI Systems Whose Answers Are Consumed as Fact**| Zhelun et.al.|[2608.13926v1](http://arxiv.org/abs/2608.13926v1)|null|
 |**2026-08-13 09:46:29**|**Incremental Evaluation and Training in Relational Deep Learning**|Jakub Peleška et.al.|[2608.13023v1](http://arxiv.org/abs/2608.13023v1)|null|
 |**2026-08-12 19:39:17**|**StrAD: A Streaming Method and Benchmark for Audio Description Generation for Long-form Videos**|Julian Spravil et.al.|[2608.12549v1](http://arxiv.org/abs/2608.12549v1)|null|
@@ -107,4 +108,3 @@
 |**2026-07-09 06:56:20**|**SQuaD-SQL: Efficient Text-to-SQL with Small Language Models via LLM-Guided Knowledge Distillation**|Wangyu Wu et.al.|[2607.08161v1](http://arxiv.org/abs/2607.08161v1)|null|
 |**2026-07-08 16:47:31**|**From Custom-Fit to Portable: Bridging the Gap Between Synthesized and Engineered GPU Query Execution**|Ivan Donchev Kabadzhov et.al.|[2607.07632v1](http://arxiv.org/abs/2607.07632v1)|null|
 |**2026-07-06 03:30:53**|**Exploiting Structural Properties for Efficient Constraint-Aware HNSW Hyperparameter Tuning**|Geon Choi et.al.|[2607.04630v1](http://arxiv.org/abs/2607.04630v1)|null|
-|**2026-07-04 11:42:56**|**Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL**|Hanqing Wang et.al.|[2607.03833v1](http://arxiv.org/abs/2607.03833v1)|null|
