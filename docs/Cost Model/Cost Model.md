@@ -2,7 +2,9 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-21 08:08:48**|**RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation**|Kyle Wild et.al.|[2608.20845v1](http://arxiv.org/abs/2608.20845v1)|null|
 |**2026-08-20 15:59:50**|**The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents**|Wei Lin et.al.|[2608.20201v1](http://arxiv.org/abs/2608.20201v1)|null|
+|**2026-08-20 06:23:09**|**An LLM agent for end-to-end computational materials discovery**|Chen Yuntong et.al.|[2608.20434v1](http://arxiv.org/abs/2608.20434v1)|null|
 |**2026-08-19 14:40:05**|**Towards a Deductive Verification Infrastructure for Weighted Programming**|Emma Ahrens et.al.|[2608.18971v1](http://arxiv.org/abs/2608.18971v1)|null|
 |**2026-08-13 15:46:20**|**Structure then Query: Enabling Precise Analytical Queries over Unstructured Documents**|Teng Lin et.al.|[2608.13384v1](http://arxiv.org/abs/2608.13384v1)|null|
 |**2026-08-11 08:55:28**|**Real-Time Requirements and Transferability in Compton Imaging: From the Detector Chain to the Application**|F. Albiol et.al.|[2608.10673v1](http://arxiv.org/abs/2608.10673v1)|null|
@@ -30,5 +32,3 @@
 |**2026-06-30 15:25:10**|**Large Databases Need Small, Open-Weight Language Models**|Parker Glenn et.al.|[2606.31808v1](http://arxiv.org/abs/2606.31808v1)|[link](https://github.com/CapitalOne-Research/play-by-the-type-rules/tree/main/sembench)|
 |**2026-06-28 17:57:10**|**SemJoin: Semantic Join Optimization**|Christopher Gou et.al.|[2606.29532v1](http://arxiv.org/abs/2606.29532v1)|null|
 |**2026-06-26 12:46:12**|**On the Relationship Between Plasma and Tritium Fuel Cycle Through Matter Injection and Particle Exhaust**|Samuele Meschini et.al.|[2606.28043v1](http://arxiv.org/abs/2606.28043v1)|null|
-|**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v2](http://arxiv.org/abs/2606.26613v2)|null|
-|**2026-06-24 21:11:17**|**Query Cost Model Calibration in Confidential Virtual Machines**|Qihan Zhang et.al.|[2606.26385v1](http://arxiv.org/abs/2606.26385v1)|null|

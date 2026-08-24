@@ -1,12 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2026-08-23 16:15:25 Asia/Shanghai
+ 自动更新 @ 2026-08-24 16:33:38 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-21 08:08:48**|**RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation**|Kyle Wild et.al.|[2608.20845v1](http://arxiv.org/abs/2608.20845v1)|null|
 |**2026-08-20 15:59:50**|**The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents**|Wei Lin et.al.|[2608.20201v1](http://arxiv.org/abs/2608.20201v1)|null|
+|**2026-08-20 06:23:09**|**An LLM agent for end-to-end computational materials discovery**|Chen Yuntong et.al.|[2608.20434v1](http://arxiv.org/abs/2608.20434v1)|null|
 |**2026-08-19 14:40:05**|**Towards a Deductive Verification Infrastructure for Weighted Programming**|Emma Ahrens et.al.|[2608.18971v1](http://arxiv.org/abs/2608.18971v1)|null|
 |**2026-08-13 15:46:20**|**Structure then Query: Enabling Precise Analytical Queries over Unstructured Documents**|Teng Lin et.al.|[2608.13384v1](http://arxiv.org/abs/2608.13384v1)|null|
 |**2026-08-11 08:55:28**|**Real-Time Requirements and Transferability in Compton Imaging: From the Detector Chain to the Application**|F. Albiol et.al.|[2608.10673v1](http://arxiv.org/abs/2608.10673v1)|null|
@@ -34,8 +36,6 @@
 |**2026-06-30 15:25:10**|**Large Databases Need Small, Open-Weight Language Models**|Parker Glenn et.al.|[2606.31808v1](http://arxiv.org/abs/2606.31808v1)|[link](https://github.com/CapitalOne-Research/play-by-the-type-rules/tree/main/sembench)|
 |**2026-06-28 17:57:10**|**SemJoin: Semantic Join Optimization**|Christopher Gou et.al.|[2606.29532v1](http://arxiv.org/abs/2606.29532v1)|null|
 |**2026-06-26 12:46:12**|**On the Relationship Between Plasma and Tritium Fuel Cycle Through Matter Injection and Particle Exhaust**|Samuele Meschini et.al.|[2606.28043v1](http://arxiv.org/abs/2606.28043v1)|null|
-|**2026-06-25 05:18:20**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613v2](http://arxiv.org/abs/2606.26613v2)|null|
-|**2026-06-24 21:11:17**|**Query Cost Model Calibration in Confidential Virtual Machines**|Qihan Zhang et.al.|[2606.26385v1](http://arxiv.org/abs/2606.26385v1)|null|
 
 ## Knob Tuning
 
@@ -78,6 +78,8 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-21 17:01:10**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300v1](http://arxiv.org/abs/2608.21300v1)|[link](https://github.com/ImSounic/medsam-vpt)|
+|**2026-08-21 01:34:17**|**Predicting Resource Efficient Hamiltonian Decomposition for Continuous-Time Quantum Walk Simulations**|Mostafa Atallah et.al.|[2608.20660v1](http://arxiv.org/abs/2608.20660v1)|null|
 |**2026-08-19 19:56:04**|**Hepatitis C Virus Genotyping with a Transformer Neural Network**|Ariella Aro et.al.|[2608.19415v1](http://arxiv.org/abs/2608.19415v1)|null|
 |**2026-08-17 09:25:05**|**Advancing Open and Reproducible Relational Learning: RelArena-$α$, TabPFN-Rel and RPI**|Adrian Hayler et.al.|[2608.16319v1](http://arxiv.org/abs/2608.16319v1)|null|
 |**2026-08-14 03:53:21**|**Never the Number: Structural Abstention for AI Systems Whose Answers Are Consumed as Fact**| Zhelun et.al.|[2608.13926v1](http://arxiv.org/abs/2608.13926v1)|null|
@@ -106,5 +108,3 @@
 |**2026-07-18 17:36:44**|**Environment-free Synthetic Data Generation for API-Calling Agents**|Seanie Lee et.al.|[2607.16900v2](http://arxiv.org/abs/2607.16900v2)|null|
 |**2026-07-17 15:06:11**|**Revisiting data-driven dynamic security assessment with a tabular foundation model**|Olayiwola Arowolo et.al.|[2607.16031v1](http://arxiv.org/abs/2607.16031v1)|null|
 |**2026-07-14 22:31:55**|**Finding the Right Tables and Columns: A Benchmark and Corpus-Adaptive Embeddings for SQL Schema Retrieval**|Qingcheng Zeng et.al.|[2607.13311v1](http://arxiv.org/abs/2607.13311v1)|null|
-|**2026-07-09 06:56:20**|**SQuaD-SQL: Efficient Text-to-SQL with Small Language Models via LLM-Guided Knowledge Distillation**|Wangyu Wu et.al.|[2607.08161v1](http://arxiv.org/abs/2607.08161v1)|null|
-|**2026-07-08 16:47:31**|**From Custom-Fit to Portable: Bridging the Gap Between Synthesized and Engineered GPU Query Execution**|Ivan Donchev Kabadzhov et.al.|[2607.07632v1](http://arxiv.org/abs/2607.07632v1)|null|

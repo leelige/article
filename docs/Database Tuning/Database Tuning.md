@@ -2,6 +2,8 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-21 17:01:10**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300v1](http://arxiv.org/abs/2608.21300v1)|[link](https://github.com/ImSounic/medsam-vpt)|
+|**2026-08-21 01:34:17**|**Predicting Resource Efficient Hamiltonian Decomposition for Continuous-Time Quantum Walk Simulations**|Mostafa Atallah et.al.|[2608.20660v1](http://arxiv.org/abs/2608.20660v1)|null|
 |**2026-08-19 19:56:04**|**Hepatitis C Virus Genotyping with a Transformer Neural Network**|Ariella Aro et.al.|[2608.19415v1](http://arxiv.org/abs/2608.19415v1)|null|
 |**2026-08-17 09:25:05**|**Advancing Open and Reproducible Relational Learning: RelArena-$α$, TabPFN-Rel and RPI**|Adrian Hayler et.al.|[2608.16319v1](http://arxiv.org/abs/2608.16319v1)|null|
 |**2026-08-14 03:53:21**|**Never the Number: Structural Abstention for AI Systems Whose Answers Are Consumed as Fact**| Zhelun et.al.|[2608.13926v1](http://arxiv.org/abs/2608.13926v1)|null|
@@ -30,5 +32,3 @@
 |**2026-07-18 17:36:44**|**Environment-free Synthetic Data Generation for API-Calling Agents**|Seanie Lee et.al.|[2607.16900v2](http://arxiv.org/abs/2607.16900v2)|null|
 |**2026-07-17 15:06:11**|**Revisiting data-driven dynamic security assessment with a tabular foundation model**|Olayiwola Arowolo et.al.|[2607.16031v1](http://arxiv.org/abs/2607.16031v1)|null|
 |**2026-07-14 22:31:55**|**Finding the Right Tables and Columns: A Benchmark and Corpus-Adaptive Embeddings for SQL Schema Retrieval**|Qingcheng Zeng et.al.|[2607.13311v1](http://arxiv.org/abs/2607.13311v1)|null|
-|**2026-07-09 06:56:20**|**SQuaD-SQL: Efficient Text-to-SQL with Small Language Models via LLM-Guided Knowledge Distillation**|Wangyu Wu et.al.|[2607.08161v1](http://arxiv.org/abs/2607.08161v1)|null|
-|**2026-07-08 16:47:31**|**From Custom-Fit to Portable: Bridging the Gap Between Synthesized and Engineered GPU Query Execution**|Ivan Donchev Kabadzhov et.al.|[2607.07632v1](http://arxiv.org/abs/2607.07632v1)|null|
