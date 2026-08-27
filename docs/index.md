@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-08-26 16:27:42 Asia/Shanghai
+ 自动更新 @ 2026-08-28 02:27:56 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-26 15:22:52**|**MetaSieve: Faster Relational Deep Learning through SQL-Based Metapath Selection**|Fahim Shahriar Khan et.al.|[2608.25903v1](http://arxiv.org/abs/2608.25903v1)|null|
 |**2026-08-24 03:46:20**|**DelistBench: Evaluating Search-Enabled LLMs for Auditable Corporate-Event Database Completion**|Xuan Yao et.al.|[2608.22770v1](http://arxiv.org/abs/2608.22770v1)|null|
 |**2026-08-23 18:07:23**|**Multispectral Household Plastic Classification for Recycling Using a Camera Array**|Katja Kossira et.al.|[2608.22531v1](http://arxiv.org/abs/2608.22531v1)|[link](https://github.com/FAU-LMS/MHPM)andtrainedfourdifferentclassifiersGradientBoosting,ExtremeGradientBoosting,LightGradientBoostingMachine,andCatBoost.Thebest-performingmodelachievesaclassificationaccuracyof86.7%.Thecomputationalruntimeis2.603μsperpixel,enablingefficientprocessingofhigh-resolutionimages.Theentiresetupisbuiltfromoff-the-shelfhardwarecomponents,whichmakesreplicationstraightforwardandallowsdirectintegrationintoindustrialsortingpipelines)|
 |**2026-08-22 18:08:59**|**From SQL Generation to Tool Selection: A Domain-Oriented Pattern for MCP Servers**|Bartolomeo Bogliolo et.al.|[2608.22063v1](http://arxiv.org/abs/2608.22063v1)|null|
@@ -35,7 +36,6 @@
 |**2026-07-04 04:34:38**|**Telco-GAIA: Bilingual Benchmark for Agents in Telecom Domain**|Dmitrii Khizbullin et.al.|[2607.20510v2](http://arxiv.org/abs/2607.20510v2)|null|
 |**2026-07-01 21:00:40**|**CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**|Jaehyun Ha et.al.|[2607.01468v1](http://arxiv.org/abs/2607.01468v1)|null|
 |**2026-07-01 06:43:55**|**When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems**|Ganlin Xu et.al.|[2607.00508v2](http://arxiv.org/abs/2607.00508v2)|null|
-|**2026-06-30 20:51:40**|**A Scoping Review of Physics Informed Machine Learning for Wave Propagation Modeling in Seismology**|Óscar Rincón-Cardeño et.al.|[2607.00178v1](http://arxiv.org/abs/2607.00178v1)|null|
 
 ## Knob Tuning
 
@@ -78,6 +78,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-25 21:58:33**|**Analyzing and Reducing Search Quality Differences in Vector Similarity Search**|Sara Mahdizadeh Shahri et.al.|[2608.25185v1](http://arxiv.org/abs/2608.25185v1)|null|
 |**2026-08-24 13:57:30**|**AI-Assisted Extraction of Follow-up Observations from GCN Circulars in Astro-COLIBRI**|Fabian Schüssler et.al.|[2608.23270v1](http://arxiv.org/abs/2608.23270v1)|null|
 |**2026-08-23 02:41:06**|**VERDICT: Agreement Beats Pixel-Space Verification in Real-Document OCSR**|Yani Guan et.al.|[2608.22183v1](http://arxiv.org/abs/2608.22183v1)|null|
 |**2026-08-21 17:01:10**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300v1](http://arxiv.org/abs/2608.21300v1)|[link](https://github.com/ImSounic/medsam-vpt)|
@@ -107,4 +108,3 @@
 |**2026-07-21 00:02:56**|**Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion**|Prathami Divakar Kamath et.al.|[2607.18594v1](http://arxiv.org/abs/2607.18594v1)|null|
 |**2026-07-20 15:55:37**|**Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning**|Timo Reents et.al.|[2607.18092v1](http://arxiv.org/abs/2607.18092v1)|null|
 |**2026-07-20 14:59:33**|**Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation**|Blake G. Fitch et.al.|[2607.18029v1](http://arxiv.org/abs/2607.18029v1)|null|
-|**2026-07-18 17:36:44**|**Environment-free Synthetic Data Generation for API-Calling Agents**|Seanie Lee et.al.|[2607.16900v2](http://arxiv.org/abs/2607.16900v2)|null|

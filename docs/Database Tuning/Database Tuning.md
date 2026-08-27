@@ -2,6 +2,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-25 21:58:33**|**Analyzing and Reducing Search Quality Differences in Vector Similarity Search**|Sara Mahdizadeh Shahri et.al.|[2608.25185v1](http://arxiv.org/abs/2608.25185v1)|null|
 |**2026-08-24 13:57:30**|**AI-Assisted Extraction of Follow-up Observations from GCN Circulars in Astro-COLIBRI**|Fabian Schüssler et.al.|[2608.23270v1](http://arxiv.org/abs/2608.23270v1)|null|
 |**2026-08-23 02:41:06**|**VERDICT: Agreement Beats Pixel-Space Verification in Real-Document OCSR**|Yani Guan et.al.|[2608.22183v1](http://arxiv.org/abs/2608.22183v1)|null|
 |**2026-08-21 17:01:10**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300v1](http://arxiv.org/abs/2608.21300v1)|[link](https://github.com/ImSounic/medsam-vpt)|
@@ -31,4 +32,3 @@
 |**2026-07-21 00:02:56**|**Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion**|Prathami Divakar Kamath et.al.|[2607.18594v1](http://arxiv.org/abs/2607.18594v1)|null|
 |**2026-07-20 15:55:37**|**Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning**|Timo Reents et.al.|[2607.18092v1](http://arxiv.org/abs/2607.18092v1)|null|
 |**2026-07-20 14:59:33**|**Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation**|Blake G. Fitch et.al.|[2607.18029v1](http://arxiv.org/abs/2607.18029v1)|null|
-|**2026-07-18 17:36:44**|**Environment-free Synthetic Data Generation for API-Calling Agents**|Seanie Lee et.al.|[2607.16900v2](http://arxiv.org/abs/2607.16900v2)|null|
