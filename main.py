@@ -3,6 +3,7 @@
 from xml.dom.minidom import parseString
 import json.decoder
 import os.path
+import re
 import shutil
 from time import sleep
 
@@ -43,6 +44,21 @@ ARXIV_HEADERS = {
 DIRECT_REQUEST_KWARGS = {
     "proxies": {"http": None, "https": None}
 }
+GITHUB_REPOSITORY_URL = re.compile(
+    r"https?://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+",
+    re.IGNORECASE,
+)
+HTTP_URL = re.compile(r"https?://[^\s|()]+", re.IGNORECASE)
+
+
+def clean_repository_url(value):
+    raw = str(value or "").strip()
+    github_url = GITHUB_REPOSITORY_URL.search(raw)
+    if github_url:
+        return github_url.group(0).rstrip(".,;:")
+    if HTTP_URL.fullmatch(raw):
+        return raw.rstrip(".,;:")
+    return "null"
 
 
 def _build_arxiv_query_url(
@@ -322,7 +338,7 @@ class CoroutineSpeedup:
                 # }
                 response = ToolBox.handle_html(code_url) or {}
                 official_ = response.get("official")
-                repo_url = official_.get("url", "null") if official_ else "null"
+                repo_url = clean_repository_url(official_.get("url")) if official_ else "null"
                 # ----------------------------------------------------------------------------------
                 # 编排模型
                 # ----------------------------------------------------------------------------------
@@ -330,11 +346,8 @@ class CoroutineSpeedup:
                 #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`[link](url)`
                 # ELSE
                 #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`null`
-                if 'https://github.com' in paper_summary and repo_url == 'null':
-                    code = paper_summary.split('https://github.com')[-1].replace('\n', '').replace(' ', '')
-                    if code.endswith("."):
-                        code = code[:-1]
-                    repo_url = 'https://github.com' + code
+                if repo_url == "null":
+                    repo_url = clean_repository_url(paper_summary)
                 _paper.update({
                     paper_key: {
                         "publish_time": publish_time,
@@ -450,7 +463,7 @@ class _OverloadTasks:
         _pdf = self._set_markdown_hyperlink(
             text=paper['id'], link=paper['paper_url'])
         _repo = self._set_markdown_hyperlink(
-            text="link", link=paper['repo']) if "http" in paper['repo'] else "null"
+            text="link", link=paper['repo']) if paper['repo'] != "null" else "null"
 
         line = f"|{paper['publish_time']}" \
                f"|{paper['title']}" \
