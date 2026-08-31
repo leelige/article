@@ -1,11 +1,15 @@
 # arxiv-daily
- 自动更新 @ 2026-08-30 21:22:47 Asia/Shanghai
+ 自动更新 @ 2026-08-31 23:35:19 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-28 14:04:04**|**No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload**|Tim Zeyl et.al.|[2608.28352v1](http://arxiv.org/abs/2608.28352v1)|null|
+|**2026-08-28 09:08:23**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et.al.|[2608.28100v1](http://arxiv.org/abs/2608.28100v1)|null|
+|**2026-08-28 00:06:36**|**Credo: Reusable Declarative Primitives for Agentic Workflows**|Duo Lu et.al.|[2608.27790v1](http://arxiv.org/abs/2608.27790v1)|null|
+|**2026-08-27 20:28:45**|**Application of the latent twins approach for clear sky retrieval from IASI observations**|Michele Martinazzo et.al.|[2608.27692v1](http://arxiv.org/abs/2608.27692v1)|null|
 |**2026-08-27 17:48:22**|**misi: a Metric Inverted Sample Index**|Edgar Chavez et.al.|[2608.27422v1](http://arxiv.org/abs/2608.27422v1)|null|
 |**2026-08-27 09:30:08**|**BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click**|Mesut Toruk et.al.|[2608.26867v1](http://arxiv.org/abs/2608.26867v1)|null|
 |**2026-08-27 05:36:48**|**Bifrost spectral inversions, Fast non-LTE solar chromospheric diagnostics from 3D simulations**|Elias R. Udnæs et.al.|[2608.26629v1](http://arxiv.org/abs/2608.26629v1)|null|
@@ -32,16 +36,14 @@
 |**2026-07-18 01:31:03**|**Hardware-Transparent I/O Governance in Disaggregated Heterogeneous Storage**|Rajarshi Chowdhury et.al.|[2607.16578v1](http://arxiv.org/abs/2607.16578v1)|null|
 |**2026-07-17 18:47:31**|**Retrieval is Enough: Training-Free Interpretability with a Tool-Using Agent**|Sriram Balasubramanian et.al.|[2607.16448v1](http://arxiv.org/abs/2607.16448v1)|[link](https://github.com/SriramB-98/HARP)|
 |**2026-07-17 04:39:04**|**AEGIS: Assay-Aware Protocol Validation and Runtime Monitoring for Open-Source Liquid Handling Robots**|Priyanka V. Setty et.al.|[2607.15620v1](http://arxiv.org/abs/2607.15620v1)|null|
-|**2026-07-13 22:16:58**|**Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems**|Navnit Shukla et.al.|[2607.12188v1](http://arxiv.org/abs/2607.12188v1)|null|
-|**2026-07-13 06:44:33**|**The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation**|Chenglin Yu et.al.|[2607.11149v3](http://arxiv.org/abs/2607.11149v3)|null|
-|**2026-07-08 09:11:00**|**Benchmark Engineering as a Design Instrument for Heterogeneous Information Systems**|Jáchym Bártík et.al.|[2607.07175v1](http://arxiv.org/abs/2607.07175v1)|null|
-|**2026-07-06 20:04:32**|**GROUND: Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions**|Aravind Sasidharan Pillai et.al.|[2608.26157v1](http://arxiv.org/abs/2608.26157v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-28 17:56:52**|**Layer-Controlled Intermolecular Coupling and Many-Body Effects in C$_{60}$ Films**|Hai-Lan Luo et.al.|[2608.28583v1](http://arxiv.org/abs/2608.28583v1)|null|
+|**2026-08-28 16:57:09**|**Modifying van der Waals Materials via Cavity Vacuum Fluctuations**|Mohammad Hassan et.al.|[2608.28521v1](http://arxiv.org/abs/2608.28521v1)|null|
 |**2026-08-25 07:11:12**|**Phase-controlled perfect nonlocal spin and charge diode effects in a four-terminal Josephson junction with $p$-wave magnets**|Lovy Sharma et.al.|[2608.24147v1](http://arxiv.org/abs/2608.24147v1)|null|
 |**2026-08-25 03:06:03**|**Quantum-geometry stabilization of dilute fractional Chern insulators**|Ying-Xing Ding et.al.|[2608.24013v1](http://arxiv.org/abs/2608.24013v1)|null|
 |**2026-08-25 02:24:08**|**Sensorless damage-safe grasping**|Yusei Shuto et.al.|[2608.23983v1](http://arxiv.org/abs/2608.23983v1)|null|
@@ -70,14 +72,13 @@
 |**2026-07-24 06:56:51**|**IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System Tuning**|Yiyan Li et.al.|[2607.22031v1](http://arxiv.org/abs/2607.22031v1)|null|
 |**2026-07-21 13:35:23**|**Doping tunable charge density waves in misfit layer compounds**|Hugo Le Du et.al.|[2607.19095v1](http://arxiv.org/abs/2607.19095v1)|null|
 |**2026-07-21 10:52:04**|**SFGA: A Statistics-First Gating Architecture with Adjudicative Escalation for Trustworthy SFT Data Procurement**|Arther Tian et.al.|[2607.18960v1](http://arxiv.org/abs/2607.18960v1)|null|
-|**2026-07-20 11:32:23**|**From Blind Search to Memory-Aware Evolution: Efficient DBMS Tuning via Collaborative Diagnosis and Utility-Aware Retrieval**|Zhaoyan Hong et.al.|[2607.17841v1](http://arxiv.org/abs/2607.17841v1)|null|
-|**2026-07-16 03:12:58**|**Adaptive Runge-Kutta Step Control Buys Training Loss, Not Generalization: An Honest Compute-Matched Study of RK-Adam Optimizers**|Akhilesh Gogikar et.al.|[2607.14516v1](http://arxiv.org/abs/2607.14516v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-28 09:08:23**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et.al.|[2608.28100v1](http://arxiv.org/abs/2608.28100v1)|null|
 |**2026-08-26 22:16:05**|**SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning**|Jiajun Fan et.al.|[2608.26432v1](http://arxiv.org/abs/2608.26432v1)|null|
 |**2026-08-25 21:58:33**|**Analyzing and Reducing Search Quality Differences in Vector Similarity Search**|Sara Mahdizadeh Shahri et.al.|[2608.25185v1](http://arxiv.org/abs/2608.25185v1)|null|
 |**2026-08-24 13:57:30**|**AI-Assisted Extraction of Follow-up Observations from GCN Circulars in Astro-COLIBRI**|Fabian Schüssler et.al.|[2608.23270v1](http://arxiv.org/abs/2608.23270v1)|null|
@@ -107,4 +108,3 @@
 |**2026-07-22 10:26:22**|**Toward Seasonal Guidelines for Robust Deep-Learning Sentinel-2 Building Detection in Different Area Types**|Michał Romaszewski et.al.|[2607.19994v2](http://arxiv.org/abs/2607.19994v2)|null|
 |**2026-07-22 09:45:26**|**An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents**|Vaibhav Dangaich et.al.|[2607.28662v1](http://arxiv.org/abs/2607.28662v1)|null|
 |**2026-07-21 00:02:56**|**Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion**|Prathami Divakar Kamath et.al.|[2607.18594v1](http://arxiv.org/abs/2607.18594v1)|null|
-|**2026-07-20 15:55:37**|**Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning**|Timo Reents et.al.|[2607.18092v1](http://arxiv.org/abs/2607.18092v1)|null|

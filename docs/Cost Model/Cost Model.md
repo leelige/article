@@ -2,6 +2,10 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-28 14:04:04**|**No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload**|Tim Zeyl et.al.|[2608.28352v1](http://arxiv.org/abs/2608.28352v1)|null|
+|**2026-08-28 09:08:23**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et.al.|[2608.28100v1](http://arxiv.org/abs/2608.28100v1)|null|
+|**2026-08-28 00:06:36**|**Credo: Reusable Declarative Primitives for Agentic Workflows**|Duo Lu et.al.|[2608.27790v1](http://arxiv.org/abs/2608.27790v1)|null|
+|**2026-08-27 20:28:45**|**Application of the latent twins approach for clear sky retrieval from IASI observations**|Michele Martinazzo et.al.|[2608.27692v1](http://arxiv.org/abs/2608.27692v1)|null|
 |**2026-08-27 17:48:22**|**misi: a Metric Inverted Sample Index**|Edgar Chavez et.al.|[2608.27422v1](http://arxiv.org/abs/2608.27422v1)|null|
 |**2026-08-27 09:30:08**|**BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click**|Mesut Toruk et.al.|[2608.26867v1](http://arxiv.org/abs/2608.26867v1)|null|
 |**2026-08-27 05:36:48**|**Bifrost spectral inversions, Fast non-LTE solar chromospheric diagnostics from 3D simulations**|Elias R. Udnæs et.al.|[2608.26629v1](http://arxiv.org/abs/2608.26629v1)|null|
@@ -28,7 +32,3 @@
 |**2026-07-18 01:31:03**|**Hardware-Transparent I/O Governance in Disaggregated Heterogeneous Storage**|Rajarshi Chowdhury et.al.|[2607.16578v1](http://arxiv.org/abs/2607.16578v1)|null|
 |**2026-07-17 18:47:31**|**Retrieval is Enough: Training-Free Interpretability with a Tool-Using Agent**|Sriram Balasubramanian et.al.|[2607.16448v1](http://arxiv.org/abs/2607.16448v1)|[link](https://github.com/SriramB-98/HARP)|
 |**2026-07-17 04:39:04**|**AEGIS: Assay-Aware Protocol Validation and Runtime Monitoring for Open-Source Liquid Handling Robots**|Priyanka V. Setty et.al.|[2607.15620v1](http://arxiv.org/abs/2607.15620v1)|null|
-|**2026-07-13 22:16:58**|**Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems**|Navnit Shukla et.al.|[2607.12188v1](http://arxiv.org/abs/2607.12188v1)|null|
-|**2026-07-13 06:44:33**|**The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation**|Chenglin Yu et.al.|[2607.11149v3](http://arxiv.org/abs/2607.11149v3)|null|
-|**2026-07-08 09:11:00**|**Benchmark Engineering as a Design Instrument for Heterogeneous Information Systems**|Jáchym Bártík et.al.|[2607.07175v1](http://arxiv.org/abs/2607.07175v1)|null|
-|**2026-07-06 20:04:32**|**GROUND: Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions**|Aravind Sasidharan Pillai et.al.|[2608.26157v1](http://arxiv.org/abs/2608.26157v1)|null|
