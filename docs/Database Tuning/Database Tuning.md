@@ -2,12 +2,14 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-31 11:26:31**|**OCR-Based Field Extraction for Archaeological Pottery Metadata: The CENTURIA Dataset**|Gissu Valentina Naghavi et.al.|[2608.30616v1](http://arxiv.org/abs/2608.30616v1)|null|
 |**2026-08-28 09:08:23**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et.al.|[2608.28100v1](http://arxiv.org/abs/2608.28100v1)|null|
+|**2026-08-27 22:30:32**|**Enhancing MRI Brain Tumor Edge Detection: A Hybrid Preprocessing Approach Utilizing CLAHE**|Shahid-E-Kaiser Md. Tashrif et.al.|[2608.28709v1](http://arxiv.org/abs/2608.28709v1)|null|
 |**2026-08-26 22:16:05**|**SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning**|Jiajun Fan et.al.|[2608.26432v1](http://arxiv.org/abs/2608.26432v1)|null|
 |**2026-08-25 21:58:33**|**Analyzing and Reducing Search Quality Differences in Vector Similarity Search**|Sara Mahdizadeh Shahri et.al.|[2608.25185v1](http://arxiv.org/abs/2608.25185v1)|null|
 |**2026-08-24 13:57:30**|**AI-Assisted Extraction of Follow-up Observations from GCN Circulars in Astro-COLIBRI**|Fabian Schüssler et.al.|[2608.23270v1](http://arxiv.org/abs/2608.23270v1)|null|
 |**2026-08-23 02:41:06**|**VERDICT: Agreement Beats Pixel-Space Verification in Real-Document OCSR**|Yani Guan et.al.|[2608.22183v1](http://arxiv.org/abs/2608.22183v1)|null|
-|**2026-08-21 17:01:10**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300v1](http://arxiv.org/abs/2608.21300v1)|[link](https://github.com/ImSounic/medsam-vpt)|
+|**2026-08-21 17:01:10**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300v2](http://arxiv.org/abs/2608.21300v2)|[link](https://github.com/ImSounic/medsam-vpt)|
 |**2026-08-21 01:34:17**|**Predicting Resource Efficient Hamiltonian Decomposition for Continuous-Time Quantum Walk Simulations**|Mostafa Atallah et.al.|[2608.20660v1](http://arxiv.org/abs/2608.20660v1)|null|
 |**2026-08-19 19:56:04**|**Hepatitis C Virus Genotyping with a Transformer Neural Network**|Ariella Aro et.al.|[2608.19415v1](http://arxiv.org/abs/2608.19415v1)|null|
 |**2026-08-17 09:25:05**|**Advancing Open and Reproducible Relational Learning: RelArena-$α$, TabPFN-Rel and RPI**|Adrian Hayler et.al.|[2608.16319v1](http://arxiv.org/abs/2608.16319v1)|null|
@@ -30,5 +32,3 @@
 |**2026-07-24 06:56:51**|**IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System Tuning**|Yiyan Li et.al.|[2607.22031v1](http://arxiv.org/abs/2607.22031v1)|null|
 |**2026-07-23 23:23:00**|**An Integrated Deep Learning and Statistical Framework for Whole-Network Gene--Environment Association with Leaf Vascular Architecture**|Geran Zhao et.al.|[2607.22763v1](http://arxiv.org/abs/2607.22763v1)|null|
 |**2026-07-22 10:26:22**|**Toward Seasonal Guidelines for Robust Deep-Learning Sentinel-2 Building Detection in Different Area Types**|Michał Romaszewski et.al.|[2607.19994v2](http://arxiv.org/abs/2607.19994v2)|null|
-|**2026-07-22 09:45:26**|**An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents**|Vaibhav Dangaich et.al.|[2607.28662v1](http://arxiv.org/abs/2607.28662v1)|null|
-|**2026-07-21 00:02:56**|**Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion**|Prathami Divakar Kamath et.al.|[2607.18594v1](http://arxiv.org/abs/2607.18594v1)|null|

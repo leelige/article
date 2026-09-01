@@ -1,11 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2026-08-31 23:35:19 Asia/Shanghai
+ 自动更新 @ 2026-09-01 20:50:31 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-31 16:53:45**|**Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data**|Milad Rezaei Hajidehi et.al.|[2608.31082v1](http://arxiv.org/abs/2608.31082v1)|null|
+|**2026-08-31 15:22:19**|**One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning**|Armin Dariani et.al.|[2608.30952v1](http://arxiv.org/abs/2608.30952v1)|null|
 |**2026-08-28 14:04:04**|**No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload**|Tim Zeyl et.al.|[2608.28352v1](http://arxiv.org/abs/2608.28352v1)|null|
 |**2026-08-28 09:08:23**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et.al.|[2608.28100v1](http://arxiv.org/abs/2608.28100v1)|null|
 |**2026-08-28 00:06:36**|**Credo: Reusable Declarative Primitives for Agentic Workflows**|Duo Lu et.al.|[2608.27790v1](http://arxiv.org/abs/2608.27790v1)|null|
@@ -34,8 +36,6 @@
 |**2026-07-23 08:05:21**|**HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices**|Wei Liu et.al.|[2607.21019v1](http://arxiv.org/abs/2607.21019v1)|null|
 |**2026-07-19 21:44:47**|**Grounded verification of chemical and materials reasoning: detection is the bottleneck**|Can Polat et.al.|[2607.17417v2](http://arxiv.org/abs/2607.17417v2)|null|
 |**2026-07-18 01:31:03**|**Hardware-Transparent I/O Governance in Disaggregated Heterogeneous Storage**|Rajarshi Chowdhury et.al.|[2607.16578v1](http://arxiv.org/abs/2607.16578v1)|null|
-|**2026-07-17 18:47:31**|**Retrieval is Enough: Training-Free Interpretability with a Tool-Using Agent**|Sriram Balasubramanian et.al.|[2607.16448v1](http://arxiv.org/abs/2607.16448v1)|[link](https://github.com/SriramB-98/HARP)|
-|**2026-07-17 04:39:04**|**AEGIS: Assay-Aware Protocol Validation and Runtime Monitoring for Open-Source Liquid Handling Robots**|Priyanka V. Setty et.al.|[2607.15620v1](http://arxiv.org/abs/2607.15620v1)|null|
 
 ## Knob Tuning
 
@@ -78,12 +78,14 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-08-31 11:26:31**|**OCR-Based Field Extraction for Archaeological Pottery Metadata: The CENTURIA Dataset**|Gissu Valentina Naghavi et.al.|[2608.30616v1](http://arxiv.org/abs/2608.30616v1)|null|
 |**2026-08-28 09:08:23**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et.al.|[2608.28100v1](http://arxiv.org/abs/2608.28100v1)|null|
+|**2026-08-27 22:30:32**|**Enhancing MRI Brain Tumor Edge Detection: A Hybrid Preprocessing Approach Utilizing CLAHE**|Shahid-E-Kaiser Md. Tashrif et.al.|[2608.28709v1](http://arxiv.org/abs/2608.28709v1)|null|
 |**2026-08-26 22:16:05**|**SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning**|Jiajun Fan et.al.|[2608.26432v1](http://arxiv.org/abs/2608.26432v1)|null|
 |**2026-08-25 21:58:33**|**Analyzing and Reducing Search Quality Differences in Vector Similarity Search**|Sara Mahdizadeh Shahri et.al.|[2608.25185v1](http://arxiv.org/abs/2608.25185v1)|null|
 |**2026-08-24 13:57:30**|**AI-Assisted Extraction of Follow-up Observations from GCN Circulars in Astro-COLIBRI**|Fabian Schüssler et.al.|[2608.23270v1](http://arxiv.org/abs/2608.23270v1)|null|
 |**2026-08-23 02:41:06**|**VERDICT: Agreement Beats Pixel-Space Verification in Real-Document OCSR**|Yani Guan et.al.|[2608.22183v1](http://arxiv.org/abs/2608.22183v1)|null|
-|**2026-08-21 17:01:10**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300v1](http://arxiv.org/abs/2608.21300v1)|[link](https://github.com/ImSounic/medsam-vpt)|
+|**2026-08-21 17:01:10**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300v2](http://arxiv.org/abs/2608.21300v2)|[link](https://github.com/ImSounic/medsam-vpt)|
 |**2026-08-21 01:34:17**|**Predicting Resource Efficient Hamiltonian Decomposition for Continuous-Time Quantum Walk Simulations**|Mostafa Atallah et.al.|[2608.20660v1](http://arxiv.org/abs/2608.20660v1)|null|
 |**2026-08-19 19:56:04**|**Hepatitis C Virus Genotyping with a Transformer Neural Network**|Ariella Aro et.al.|[2608.19415v1](http://arxiv.org/abs/2608.19415v1)|null|
 |**2026-08-17 09:25:05**|**Advancing Open and Reproducible Relational Learning: RelArena-$α$, TabPFN-Rel and RPI**|Adrian Hayler et.al.|[2608.16319v1](http://arxiv.org/abs/2608.16319v1)|null|
@@ -106,5 +108,3 @@
 |**2026-07-24 06:56:51**|**IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System Tuning**|Yiyan Li et.al.|[2607.22031v1](http://arxiv.org/abs/2607.22031v1)|null|
 |**2026-07-23 23:23:00**|**An Integrated Deep Learning and Statistical Framework for Whole-Network Gene--Environment Association with Leaf Vascular Architecture**|Geran Zhao et.al.|[2607.22763v1](http://arxiv.org/abs/2607.22763v1)|null|
 |**2026-07-22 10:26:22**|**Toward Seasonal Guidelines for Robust Deep-Learning Sentinel-2 Building Detection in Different Area Types**|Michał Romaszewski et.al.|[2607.19994v2](http://arxiv.org/abs/2607.19994v2)|null|
-|**2026-07-22 09:45:26**|**An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents**|Vaibhav Dangaich et.al.|[2607.28662v1](http://arxiv.org/abs/2607.28662v1)|null|
-|**2026-07-21 00:02:56**|**Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion**|Prathami Divakar Kamath et.al.|[2607.18594v1](http://arxiv.org/abs/2607.18594v1)|null|
