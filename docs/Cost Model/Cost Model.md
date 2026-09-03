@@ -2,6 +2,9 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-02 05:56:14**|**A Power Law in Logarithm's Clothing: On the Scalability of Graph-Based Vector Search**|Sajad Faghfoor Maghrebi et.al.|[2609.02143v1](http://arxiv.org/abs/2609.02143v1)|null|
+|**2026-09-02 05:09:51**|**text2ql: Multi-Target Natural Language Querying via a Language-Agnostic Intermediate Representation**|Ritesh Kumar et.al.|[2609.02115v1](http://arxiv.org/abs/2609.02115v1)|null|
+|**2026-09-02 04:50:09**|**Git4Data: Database-Native Version Control for AI Agents**|Hongshen Gou et.al.|[2609.02106v1](http://arxiv.org/abs/2609.02106v1)|null|
 |**2026-09-01 05:27:38**|**ContextPipe: Database-Inspired Context Assembly for Long-Horizon Agents**|Peng Xu et.al.|[2609.00749v1](http://arxiv.org/abs/2609.00749v1)|null|
 |**2026-08-31 16:53:45**|**Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data**|Milad Rezaei Hajidehi et.al.|[2608.31082v1](http://arxiv.org/abs/2608.31082v1)|null|
 |**2026-08-31 15:22:19**|**One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning**|Armin Dariani et.al.|[2608.30952v1](http://arxiv.org/abs/2608.30952v1)|null|
@@ -29,6 +32,3 @@
 |**2026-07-25 16:19:02**|**Statistically Supported LLM Ingredient and Recipe Data Collection in Computational Nutrition**|James Izzard et.al.|[2607.23273v1](http://arxiv.org/abs/2607.23273v1)|null|
 |**2026-07-24 17:53:20**|**Gridnberg: A Topography-Aware Pedestrian Routing Dataset for New York City**|Ariel Noyman et.al.|[2607.22523v1](http://arxiv.org/abs/2607.22523v1)|null|
 |**2026-07-23 19:18:18**|**Prompt as a Data Type: In-Database LLM Prompt Management and Rewriting**|Denis Mayr Lima Martins et.al.|[2607.21756v1](http://arxiv.org/abs/2607.21756v1)|null|
-|**2026-07-23 09:23:16**|**Design and Optimization of Metasurfaces for Silicon Photonics: PhD Thesis**|Mathys Le Grand et.al.|[2607.21091v1](http://arxiv.org/abs/2607.21091v1)|null|
-|**2026-07-23 08:05:21**|**HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices**|Wei Liu et.al.|[2607.21019v1](http://arxiv.org/abs/2607.21019v1)|null|
-|**2026-07-19 21:44:47**|**Grounded verification of chemical and materials reasoning: detection is the bottleneck**|Can Polat et.al.|[2607.17417v2](http://arxiv.org/abs/2607.17417v2)|null|

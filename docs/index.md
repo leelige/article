@@ -1,11 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2026-09-02 20:20:18 Asia/Shanghai
+ 自动更新 @ 2026-09-03 20:18:07 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-02 05:56:14**|**A Power Law in Logarithm's Clothing: On the Scalability of Graph-Based Vector Search**|Sajad Faghfoor Maghrebi et.al.|[2609.02143v1](http://arxiv.org/abs/2609.02143v1)|null|
+|**2026-09-02 05:09:51**|**text2ql: Multi-Target Natural Language Querying via a Language-Agnostic Intermediate Representation**|Ritesh Kumar et.al.|[2609.02115v1](http://arxiv.org/abs/2609.02115v1)|null|
+|**2026-09-02 04:50:09**|**Git4Data: Database-Native Version Control for AI Agents**|Hongshen Gou et.al.|[2609.02106v1](http://arxiv.org/abs/2609.02106v1)|null|
 |**2026-09-01 05:27:38**|**ContextPipe: Database-Inspired Context Assembly for Long-Horizon Agents**|Peng Xu et.al.|[2609.00749v1](http://arxiv.org/abs/2609.00749v1)|null|
 |**2026-08-31 16:53:45**|**Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data**|Milad Rezaei Hajidehi et.al.|[2608.31082v1](http://arxiv.org/abs/2608.31082v1)|null|
 |**2026-08-31 15:22:19**|**One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning**|Armin Dariani et.al.|[2608.30952v1](http://arxiv.org/abs/2608.30952v1)|null|
@@ -33,15 +36,13 @@
 |**2026-07-25 16:19:02**|**Statistically Supported LLM Ingredient and Recipe Data Collection in Computational Nutrition**|James Izzard et.al.|[2607.23273v1](http://arxiv.org/abs/2607.23273v1)|null|
 |**2026-07-24 17:53:20**|**Gridnberg: A Topography-Aware Pedestrian Routing Dataset for New York City**|Ariel Noyman et.al.|[2607.22523v1](http://arxiv.org/abs/2607.22523v1)|null|
 |**2026-07-23 19:18:18**|**Prompt as a Data Type: In-Database LLM Prompt Management and Rewriting**|Denis Mayr Lima Martins et.al.|[2607.21756v1](http://arxiv.org/abs/2607.21756v1)|null|
-|**2026-07-23 09:23:16**|**Design and Optimization of Metasurfaces for Silicon Photonics: PhD Thesis**|Mathys Le Grand et.al.|[2607.21091v1](http://arxiv.org/abs/2607.21091v1)|null|
-|**2026-07-23 08:05:21**|**HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices**|Wei Liu et.al.|[2607.21019v1](http://arxiv.org/abs/2607.21019v1)|null|
-|**2026-07-19 21:44:47**|**Grounded verification of chemical and materials reasoning: detection is the bottleneck**|Can Polat et.al.|[2607.17417v2](http://arxiv.org/abs/2607.17417v2)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-02 08:03:08**|**Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO$_2$ Reduction in MOF-5**|Julia Santana-Andreo et.al.|[2609.02256v1](http://arxiv.org/abs/2609.02256v1)|null|
 |**2026-08-31 19:23:24**|**Engineering tunable $p$-wave magnetism in antiferromagnetic bilayers**|Yu-Han Lin et.al.|[2609.00277v1](http://arxiv.org/abs/2609.00277v1)|null|
 |**2026-08-28 17:56:52**|**Layer-Controlled Intermolecular Coupling and Many-Body Effects in C$_{60}$ Films**|Hai-Lan Luo et.al.|[2608.28583v1](http://arxiv.org/abs/2608.28583v1)|null|
 |**2026-08-28 16:57:09**|**Modifying van der Waals Materials via Cavity Vacuum Fluctuations**|Mohammad Hassan et.al.|[2608.28521v1](http://arxiv.org/abs/2608.28521v1)|null|
@@ -71,7 +72,6 @@
 |**2026-07-27 18:00:04**|**Controlling Turbulent Flows in Compressible Active Nematics**|Dimitrios Krommydas et.al.|[2607.24927v1](http://arxiv.org/abs/2607.24927v1)|null|
 |**2026-07-24 10:51:58**|**From Amorphous to Amorphous-Crystalline Mixed-Phase Boron Nitride: Evolution of the Thermal and Elastic Properties**|Jiaqi Yang et.al.|[2607.22185v1](http://arxiv.org/abs/2607.22185v1)|null|
 |**2026-07-24 06:56:51**|**IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System Tuning**|Yiyan Li et.al.|[2607.22031v1](http://arxiv.org/abs/2607.22031v1)|null|
-|**2026-07-21 13:35:23**|**Doping tunable charge density waves in misfit layer compounds**|Hugo Le Du et.al.|[2607.19095v1](http://arxiv.org/abs/2607.19095v1)|null|
 
 ## Database Tuning
 
