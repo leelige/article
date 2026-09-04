@@ -25,7 +25,7 @@
 |**2026-08-10 02:55:07**|**GeoAI-based post-segmentation quality validation of building footprints via spatial feature engineering**|Shah Imran Ahsan Chowdhury et.al.|[2608.09048v1](http://arxiv.org/abs/2608.09048v1)|null|
 |**2026-08-05 17:03:56**|**Kerckhoffs-Compliant Watermarking for Physical Design IP Protection: From Placement to Routing**|Andrew B. Kahng et.al.|[2608.05055v1](http://arxiv.org/abs/2608.05055v1)|null|
 |**2026-08-05 17:03:13**|**MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**|M. L. Carroll et.al.|[2608.05054v1](http://arxiv.org/abs/2608.05054v1)|null|
-|**2026-08-04 18:00:07**|**Language-Guided Hypotheses Generation for Sparse SMEFT Analyses**|Ahmed Hammad et.al.|[2608.04100v1](http://arxiv.org/abs/2608.04100v1)|null|
+|**2026-08-04 18:00:07**|**Language-Guided Hypotheses Generation for Sparse SMEFT Analyses**|Ahmed Hammad et.al.|[2608.04100v2](http://arxiv.org/abs/2608.04100v2)|null|
 |**2026-08-03 16:37:28**|**Calibrated Similarity and Graph Clustering for Open-Set Animal Re-Identification**|Mohamed ElBassat et.al.|[2608.02469v1](http://arxiv.org/abs/2608.02469v1)|null|
 |**2026-07-31 09:40:32**|**Reinforcement Learning based DBMS Buffer Pool Auto-Tuning for Optimal Memory Utilization**|Yifan Wang et.al.|[2608.11239v1](http://arxiv.org/abs/2608.11239v1)|null|
 |**2026-07-31 08:52:26**|**Execution-First Synthetic Tool-Use Trace Generation for LLM Agents**|Hafsa Ouajdi et.al.|[2607.29175v1](http://arxiv.org/abs/2607.29175v1)|null|

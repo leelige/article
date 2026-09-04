@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-09-03 20:18:07 Asia/Shanghai
+ 自动更新 @ 2026-09-04 20:18:53 Asia/Shanghai
 
 ## Cost Model
 
@@ -42,6 +42,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-02 18:00:12**|**Tuning Andreev reflection and conductance in proximitized nanowires through the spin-orbit field direction**|Leonardo Musca et.al.|[2609.03020v1](http://arxiv.org/abs/2609.03020v1)|null|
 |**2026-09-02 08:03:08**|**Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO$_2$ Reduction in MOF-5**|Julia Santana-Andreo et.al.|[2609.02256v1](http://arxiv.org/abs/2609.02256v1)|null|
 |**2026-08-31 19:23:24**|**Engineering tunable $p$-wave magnetism in antiferromagnetic bilayers**|Yu-Han Lin et.al.|[2609.00277v1](http://arxiv.org/abs/2609.00277v1)|null|
 |**2026-08-28 17:56:52**|**Layer-Controlled Intermolecular Coupling and Many-Body Effects in C$_{60}$ Films**|Hai-Lan Luo et.al.|[2608.28583v1](http://arxiv.org/abs/2608.28583v1)|null|
@@ -71,7 +72,6 @@
 |**2026-07-28 11:12:03**|**How Small Can You Go? A Controlled Study of LoRA Rank, Target Modules, and Quantization Trade-offs for Text-to-SQL on a 60M-Parameter Model**|Mahendra Singh Rathor et.al.|[2607.25583v1](http://arxiv.org/abs/2607.25583v1)|null|
 |**2026-07-27 18:00:04**|**Controlling Turbulent Flows in Compressible Active Nematics**|Dimitrios Krommydas et.al.|[2607.24927v1](http://arxiv.org/abs/2607.24927v1)|null|
 |**2026-07-24 10:51:58**|**From Amorphous to Amorphous-Crystalline Mixed-Phase Boron Nitride: Evolution of the Thermal and Elastic Properties**|Jiaqi Yang et.al.|[2607.22185v1](http://arxiv.org/abs/2607.22185v1)|null|
-|**2026-07-24 06:56:51**|**IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System Tuning**|Yiyan Li et.al.|[2607.22031v1](http://arxiv.org/abs/2607.22031v1)|null|
 
 ## Database Tuning
 
@@ -101,7 +101,7 @@
 |**2026-08-10 02:55:07**|**GeoAI-based post-segmentation quality validation of building footprints via spatial feature engineering**|Shah Imran Ahsan Chowdhury et.al.|[2608.09048v1](http://arxiv.org/abs/2608.09048v1)|null|
 |**2026-08-05 17:03:56**|**Kerckhoffs-Compliant Watermarking for Physical Design IP Protection: From Placement to Routing**|Andrew B. Kahng et.al.|[2608.05055v1](http://arxiv.org/abs/2608.05055v1)|null|
 |**2026-08-05 17:03:13**|**MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**|M. L. Carroll et.al.|[2608.05054v1](http://arxiv.org/abs/2608.05054v1)|null|
-|**2026-08-04 18:00:07**|**Language-Guided Hypotheses Generation for Sparse SMEFT Analyses**|Ahmed Hammad et.al.|[2608.04100v1](http://arxiv.org/abs/2608.04100v1)|null|
+|**2026-08-04 18:00:07**|**Language-Guided Hypotheses Generation for Sparse SMEFT Analyses**|Ahmed Hammad et.al.|[2608.04100v2](http://arxiv.org/abs/2608.04100v2)|null|
 |**2026-08-03 16:37:28**|**Calibrated Similarity and Graph Clustering for Open-Set Animal Re-Identification**|Mohamed ElBassat et.al.|[2608.02469v1](http://arxiv.org/abs/2608.02469v1)|null|
 |**2026-07-31 09:40:32**|**Reinforcement Learning based DBMS Buffer Pool Auto-Tuning for Optimal Memory Utilization**|Yifan Wang et.al.|[2608.11239v1](http://arxiv.org/abs/2608.11239v1)|null|
 |**2026-07-31 08:52:26**|**Execution-First Synthetic Tool-Use Trace Generation for LLM Agents**|Hafsa Ouajdi et.al.|[2607.29175v1](http://arxiv.org/abs/2607.29175v1)|null|
