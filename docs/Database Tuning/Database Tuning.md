@@ -2,6 +2,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-04 11:44:11**|**Leveraging Low-Level Symbolic Competences for Unsupervised Grounding in Hallucination Detection**|Renato Vukovic et.al.|[2609.05025v1](http://arxiv.org/abs/2609.05025v1)|null|
 |**2026-09-01 13:01:45**|**Athena: Vulnerability-Affected Library Identification via Knowledge Graph Completion**|Phong Trinh Duy et.al.|[2609.01187v1](http://arxiv.org/abs/2609.01187v1)|null|
 |**2026-08-31 22:51:21**|**Can LLMs Use Relational Transformer Embeddings?**|Francisco Galuppo Azevedo et.al.|[2609.00457v1](http://arxiv.org/abs/2609.00457v1)|null|
 |**2026-08-31 11:26:31**|**OCR-Based Field Extraction for Archaeological Pottery Metadata: The CENTURIA Dataset**|Gissu Valentina Naghavi et.al.|[2608.30616v1](http://arxiv.org/abs/2608.30616v1)|null|
@@ -31,4 +32,3 @@
 |**2026-07-31 08:52:26**|**Execution-First Synthetic Tool-Use Trace Generation for LLM Agents**|Hafsa Ouajdi et.al.|[2607.29175v1](http://arxiv.org/abs/2607.29175v1)|null|
 |**2026-07-30 15:50:23**|**Large scale cross-regional remote sensing flood monitoring framework for operative mapping and impact analysis**|Ilya Novikov et.al.|[2607.28401v1](http://arxiv.org/abs/2607.28401v1)|null|
 |**2026-07-29 16:07:37**|**Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents**|Yicheng Feng et.al.|[2607.27083v1](http://arxiv.org/abs/2607.27083v1)|null|
-|**2026-07-24 06:56:51**|**IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System Tuning**|Yiyan Li et.al.|[2607.22031v1](http://arxiv.org/abs/2607.22031v1)|null|

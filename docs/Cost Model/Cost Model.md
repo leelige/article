@@ -6,7 +6,7 @@
 |**2026-09-02 05:09:51**|**text2ql: Multi-Target Natural Language Querying via a Language-Agnostic Intermediate Representation**|Ritesh Kumar et.al.|[2609.02115v1](http://arxiv.org/abs/2609.02115v1)|null|
 |**2026-09-02 04:50:09**|**Git4Data: Database-Native Version Control for AI Agents**|Hongshen Gou et.al.|[2609.02106v1](http://arxiv.org/abs/2609.02106v1)|null|
 |**2026-09-01 05:27:38**|**ContextPipe: Database-Inspired Context Assembly for Long-Horizon Agents**|Peng Xu et.al.|[2609.00749v1](http://arxiv.org/abs/2609.00749v1)|null|
-|**2026-08-31 16:53:45**|**Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data**|Milad Rezaei Hajidehi et.al.|[2608.31082v1](http://arxiv.org/abs/2608.31082v1)|null|
+|**2026-08-31 16:53:45**|**Agentic Context Cracking: Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data**|Milad Rezaei Hajidehi et.al.|[2608.31082v2](http://arxiv.org/abs/2608.31082v2)|null|
 |**2026-08-31 15:22:19**|**One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning**|Armin Dariani et.al.|[2608.30952v1](http://arxiv.org/abs/2608.30952v1)|null|
 |**2026-08-28 14:04:04**|**No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload**|Tim Zeyl et.al.|[2608.28352v1](http://arxiv.org/abs/2608.28352v1)|null|
 |**2026-08-28 09:08:23**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et.al.|[2608.28100v1](http://arxiv.org/abs/2608.28100v1)|null|
