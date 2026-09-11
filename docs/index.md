@@ -1,11 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2026-09-10 20:25:23 Asia/Shanghai
+ 自动更新 @ 2026-09-11 20:24:01 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-10 17:30:39**|**Atlas: Efficient Verifiable Semantic Search**|Nikolay Avramov et.al.|[2609.11841v1](http://arxiv.org/abs/2609.11841v1)|null|
+|**2026-09-10 04:06:16**|**Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents**|Susheel Suresh et.al.|[2609.11060v1](http://arxiv.org/abs/2609.11060v1)|null|
 |**2026-09-09 16:31:20**|**Towards Scalable and Cost-Efficient Vulnerability Detection: A Study on Automatic Query Generation**|Ivana Clairine Irsan et.al.|[2609.10412v1](http://arxiv.org/abs/2609.10412v1)|null|
 |**2026-09-08 06:13:30**|**Knots, black holes, databases, and birthdays: Collision entropy of knot invariants**|Pedro Olivares-Sánchez et.al.|[2609.08298v1](http://arxiv.org/abs/2609.08298v1)|null|
 |**2026-09-08 03:16:20**|**Cassette: Case-to-Case Structural Distillation for Efficient Legal Case Retrieval**|Yanran Tang et.al.|[2609.08185v1](http://arxiv.org/abs/2609.08185v1)|[link](https://github.com/yanran-tang/Cassette)|
@@ -27,15 +29,13 @@
 |**2026-08-27 05:36:48**|**Bifrost spectral inversions, Fast non-LTE solar chromospheric diagnostics from 3D simulations**|Elias R. Udnæs et.al.|[2608.26629v1](http://arxiv.org/abs/2608.26629v1)|null|
 |**2026-08-26 22:16:05**|**SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning**|Jiajun Fan et.al.|[2608.26432v1](http://arxiv.org/abs/2608.26432v1)|null|
 |**2026-08-26 15:22:52**|**MetaSieve: Faster Relational Deep Learning through SQL-Based Metapath Selection**|Fahim Shahriar Khan et.al.|[2608.25903v1](http://arxiv.org/abs/2608.25903v1)|null|
-|**2026-08-24 03:46:20**|**DelistBench: Evaluating Search-Enabled LLMs for Auditable Corporate-Event Database Completion**|Xuan Yao et.al.|[2608.22770v1](http://arxiv.org/abs/2608.22770v1)|null|
+|**2026-08-24 03:46:20**|**DelistBench: Evaluating Search-Enabled LLMs for Auditable Corporate-Event Database Completion**|Xuan Yao et.al.|[2608.22770v2](http://arxiv.org/abs/2608.22770v2)|null|
 |**2026-08-23 18:07:23**|**Multispectral Household Plastic Classification for Recycling Using a Camera Array**|Katja Kossira et.al.|[2608.22531v1](http://arxiv.org/abs/2608.22531v1)|[link](https://github.com/FAU-LMS/MHPM)|
 |**2026-08-22 18:08:59**|**From SQL Generation to Tool Selection: A Domain-Oriented Pattern for MCP Servers**|Bartolomeo Bogliolo et.al.|[2608.22063v1](http://arxiv.org/abs/2608.22063v1)|null|
 |**2026-08-21 08:08:48**|**RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation**|Kyle Wild et.al.|[2608.20845v1](http://arxiv.org/abs/2608.20845v1)|null|
 |**2026-08-20 15:59:50**|**The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents**|Wei Lin et.al.|[2608.20201v1](http://arxiv.org/abs/2608.20201v1)|null|
 |**2026-08-20 06:23:09**|**An LLM agent for end-to-end computational materials discovery**|Chen Yuntong et.al.|[2608.20434v1](http://arxiv.org/abs/2608.20434v1)|null|
 |**2026-08-19 14:40:05**|**Towards a Deductive Verification Infrastructure for Weighted Programming**|Emma Ahrens et.al.|[2608.18971v1](http://arxiv.org/abs/2608.18971v1)|null|
-|**2026-08-13 15:46:20**|**Structure then Query: Enabling Precise Analytical Queries over Unstructured Documents**|Teng Lin et.al.|[2608.13384v1](http://arxiv.org/abs/2608.13384v1)|null|
-|**2026-08-11 08:55:28**|**Real-Time Requirements and Transferability in Compton Imaging: From the Detector Chain to the Application**|F. Albiol et.al.|[2608.10673v2](http://arxiv.org/abs/2608.10673v2)|null|
 
 ## Knob Tuning
 
@@ -78,6 +78,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-10 09:17:21**|**Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data**|Benjamin Gruenbaum et.al.|[2609.11286v1](http://arxiv.org/abs/2609.11286v1)|null|
 |**2026-09-09 16:43:26**|**Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs**|Kostia Kudriavtsev et.al.|[2609.10430v1](http://arxiv.org/abs/2609.10430v1)|null|
 |**2026-09-07 23:51:12**|**MI-PEFT: Mixture-of-Experts Integrated Parameter-Efficient Fine-Tuning Protein Language Models Improves Acidophilic Proteins Classification**|Honghan Shen et.al.|[2609.08059v1](http://arxiv.org/abs/2609.08059v1)|null|
 |**2026-09-07 17:29:17**|**TrajectoryDB: A New Database for Agent Trajectories**|Yunjia Zheng et.al.|[2609.07782v1](http://arxiv.org/abs/2609.07782v1)|null|
@@ -107,4 +108,3 @@
 |**2026-08-05 17:03:56**|**Kerckhoffs-Compliant Watermarking for Physical Design IP Protection: From Placement to Routing**|Andrew B. Kahng et.al.|[2608.05055v1](http://arxiv.org/abs/2608.05055v1)|null|
 |**2026-08-05 17:03:13**|**MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**|M. L. Carroll et.al.|[2608.05054v1](http://arxiv.org/abs/2608.05054v1)|null|
 |**2026-08-04 18:00:07**|**Language-Guided Hypotheses Generation for Sparse SMEFT Analyses**|Ahmed Hammad et.al.|[2608.04100v2](http://arxiv.org/abs/2608.04100v2)|null|
-|**2026-08-03 16:37:28**|**Calibrated Similarity and Graph Clustering for Open-Set Animal Re-Identification**|Mohamed ElBassat et.al.|[2608.02469v1](http://arxiv.org/abs/2608.02469v1)|null|
