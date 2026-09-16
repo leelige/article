@@ -1,11 +1,17 @@
 # arxiv-daily
- 自动更新 @ 2026-09-15 20:59:39 Asia/Shanghai
+ 自动更新 @ 2026-09-16 20:54:08 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-15 12:38:43**|**Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics**|Baibek Davletiyarov et.al.|[2609.17107v1](http://arxiv.org/abs/2609.17107v1)|null|
+|**2026-09-15 09:06:00**|**Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility**|Jaeseok Byun et.al.|[2609.16875v1](http://arxiv.org/abs/2609.16875v1)|null|
+|**2026-09-15 04:43:23**|**Quantifying Organizational Environmental Action from Web Data and Large Language Models**|Quinn Reynolds et.al.|[2609.16627v1](http://arxiv.org/abs/2609.16627v1)|null|
+|**2026-09-13 12:56:32**|**MIRAGE: Measuring Interpolation and Redundancy in Affinity GEneralization**|Mehdi Yazdani-Jahromi et.al.|[2609.14491v1](http://arxiv.org/abs/2609.14491v1)|null|
+|**2026-09-13 03:12:43**|**Towards Anticipatory Databases Through Shared Data and Workload Semantics**|Farzaneh Zirak et.al.|[2609.14255v1](http://arxiv.org/abs/2609.14255v1)|null|
+|**2026-09-12 21:00:29**|**RAGCell: Retrieval-Augmented Generation as Supervision for Versatile Single-cell Analysis**|Tianyu Liu et.al.|[2609.14147v1](http://arxiv.org/abs/2609.14147v1)|null|
 |**2026-09-10 17:30:39**|**Atlas: Efficient Verifiable Semantic Search**|Nikolay Avramov et.al.|[2609.11841v1](http://arxiv.org/abs/2609.11841v1)|null|
 |**2026-09-10 04:06:16**|**Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents**|Susheel Suresh et.al.|[2609.11060v1](http://arxiv.org/abs/2609.11060v1)|null|
 |**2026-09-09 16:31:20**|**Towards Scalable and Cost-Efficient Vulnerability Detection: A Study on Automatic Query Generation**|Ivana Clairine Irsan et.al.|[2609.10412v1](http://arxiv.org/abs/2609.10412v1)|null|
@@ -30,18 +36,13 @@
 |**2026-08-26 22:16:05**|**SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning**|Jiajun Fan et.al.|[2608.26432v1](http://arxiv.org/abs/2608.26432v1)|null|
 |**2026-08-26 15:22:52**|**MetaSieve: Faster Relational Deep Learning through SQL-Based Metapath Selection**|Fahim Shahriar Khan et.al.|[2608.25903v1](http://arxiv.org/abs/2608.25903v1)|null|
 |**2026-08-24 03:46:20**|**DelistBench: Evaluating Search-Enabled LLMs for Auditable Corporate-Event Database Completion**|Xuan Yao et.al.|[2608.22770v2](http://arxiv.org/abs/2608.22770v2)|null|
-|**2026-08-23 18:07:23**|**Multispectral Household Plastic Classification for Recycling Using a Camera Array**|Katja Kossira et.al.|[2608.22531v1](http://arxiv.org/abs/2608.22531v1)|[link](https://github.com/FAU-LMS/MHPM)|
-|**2026-08-22 18:08:59**|**From SQL Generation to Tool Selection: A Domain-Oriented Pattern for MCP Servers**|Bartolomeo Bogliolo et.al.|[2608.22063v1](http://arxiv.org/abs/2608.22063v1)|null|
-|**2026-08-21 08:08:48**|**RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation**|Kyle Wild et.al.|[2608.20845v1](http://arxiv.org/abs/2608.20845v1)|null|
-|**2026-08-20 15:59:50**|**The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents**|Wei Lin et.al.|[2608.20201v1](http://arxiv.org/abs/2608.20201v1)|null|
-|**2026-08-20 06:23:09**|**An LLM agent for end-to-end computational materials discovery**|Chen Yuntong et.al.|[2608.20434v1](http://arxiv.org/abs/2608.20434v1)|null|
-|**2026-08-19 14:40:05**|**Towards a Deductive Verification Infrastructure for Weighted Programming**|Emma Ahrens et.al.|[2608.18971v1](http://arxiv.org/abs/2608.18971v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-13 14:00:06**|**Preparation of Multimode NOON States via Floquet-Engineered Conditional Chiral Excitation**|Mengxue Li et.al.|[2609.14524v1](http://arxiv.org/abs/2609.14524v1)|null|
 |**2026-09-09 03:27:51**|**PELM: Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling**|Weisi Yang et.al.|[2609.09662v1](http://arxiv.org/abs/2609.09662v1)|[link](https://github.com/imec-nu/PELM)|
 |**2026-09-08 20:21:23**|**Quantum Phase Transitions and Fractional Quantized Anomalous Hall Insulators in Rhombohedral Graphene**|Zach Hadjri et.al.|[2609.09422v1](http://arxiv.org/abs/2609.09422v1)|null|
 |**2026-09-08 01:27:19**|**Tunable topological narrow bands in twisted bilayer-trilayer graphene**|Dong Wang et.al.|[2609.08104v1](http://arxiv.org/abs/2609.08104v1)|null|
@@ -57,7 +58,7 @@
 |**2026-08-24 21:21:04**|**Spectrally Programmable Spin-Polarized Photocurrents in WSe$_2$-NiPS$_3$ Magnetic van der Waals Heterostructures**|Rajesh Kumar Yadav et.al.|[2608.23832v1](http://arxiv.org/abs/2608.23832v1)|null|
 |**2026-08-23 07:54:01**|**Engineering exact mobility edges in quasiperiodic Aharonov-Bohm chains**|Hai-Ying Cui et.al.|[2608.22264v1](http://arxiv.org/abs/2608.22264v1)|null|
 |**2026-08-23 02:53:20**|**Unveiling the Depth-Performance Dilemma in Split-Federated Fine-tuning of LLMs**|Hariharan Ramesh et.al.|[2608.22188v1](http://arxiv.org/abs/2608.22188v1)|null|
-|**2026-08-21 13:26:40**|**All-Optical Control of Interfacial Polarization in MoS$_2$/WSe$_2$ Heterobilayers**|Muhammad Sufyan Ramzan et.al.|[2608.21493v1](http://arxiv.org/abs/2608.21493v1)|null|
+|**2026-08-21 13:26:40**|**All-Optical Control of Interfacial Polarization in MoS$_2$/WSe$_2$ Heterobilayers**|Muhammad Sufyan Ramzan et.al.|[2608.21493v2](http://arxiv.org/abs/2608.21493v2)|null|
 |**2026-08-17 17:33:42**|**Topology-Aware Differentiable Triangle-Soup Reconstruction via Persistent Homology**|Viritphon Chongpermwattanapol et.al.|[2608.16848v1](http://arxiv.org/abs/2608.16848v1)|null|
 |**2026-08-17 08:25:56**|**Quantum Mpemba Speedups in the Thermodynamics of Landauer Erasure**|Pritam Chattopadhyay et.al.|[2608.16254v1](http://arxiv.org/abs/2608.16254v1)|null|
 |**2026-08-16 22:01:16**|**KV-Pipe: On the Relation Between KV Sharing and Pipeline Parallel Efficiency in LLMs**|Maryam Dialameh et.al.|[2608.15943v1](http://arxiv.org/abs/2608.15943v1)|null|
@@ -71,13 +72,13 @@
 |**2026-08-07 01:44:31**|**Geometric Control of Visible Emitter Creation in Hexagonal Boron Nitride by Oblique Ion Irradiation**|Sagar Chowdhury et.al.|[2608.06693v1](http://arxiv.org/abs/2608.06693v1)|null|
 |**2026-08-06 15:02:37**|**Pulse-Duration Control of Subcycle Multiband Electron Dynamics Extends the High-Harmonic Cutoff in a Light-Driven Insulator**|Hortense Allegre et.al.|[2608.06129v1](http://arxiv.org/abs/2608.06129v1)|null|
 |**2026-08-06 13:57:23**|**ML-for-ML**|Yutong Zhao et.al.|[2608.06046v1](http://arxiv.org/abs/2608.06046v1)|null|
-|**2026-08-03 06:09:29**|**Robust Nonclassical magnon pair generation and Cauchy-Schwarz inequality violation in a hybrid electromagnonic system**|Sabur A Barbhuiya et.al.|[2608.01741v1](http://arxiv.org/abs/2608.01741v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-15 12:47:16**|**Enhancing Procedural Writing Through Personalized Example Retrieval: A Case Study on Cooking Recipes**|Paola Mejia-Domenzain et.al.|[2609.17118v1](http://arxiv.org/abs/2609.17118v1)|null|
 |**2026-09-10 09:17:21**|**Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data**|Benjamin Gruenbaum et.al.|[2609.11286v1](http://arxiv.org/abs/2609.11286v1)|null|
 |**2026-09-09 16:43:26**|**Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs**|Kostia Kudriavtsev et.al.|[2609.10430v1](http://arxiv.org/abs/2609.10430v1)|null|
 |**2026-09-07 23:51:12**|**MI-PEFT: Mixture-of-Experts Integrated Parameter-Efficient Fine-Tuning Protein Language Models Improves Acidophilic Proteins Classification**|Honghan Shen et.al.|[2609.08059v1](http://arxiv.org/abs/2609.08059v1)|null|
@@ -107,4 +108,3 @@
 |**2026-08-10 02:55:07**|**GeoAI-based post-segmentation quality validation of building footprints via spatial feature engineering**|Shah Imran Ahsan Chowdhury et.al.|[2608.09048v1](http://arxiv.org/abs/2608.09048v1)|null|
 |**2026-08-05 17:03:56**|**Kerckhoffs-Compliant Watermarking for Physical Design IP Protection: From Placement to Routing**|Andrew B. Kahng et.al.|[2608.05055v1](http://arxiv.org/abs/2608.05055v1)|null|
 |**2026-08-05 17:03:13**|**MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**|M. L. Carroll et.al.|[2608.05054v1](http://arxiv.org/abs/2608.05054v1)|null|
-|**2026-08-04 18:00:07**|**Language-Guided Hypotheses Generation for Sparse SMEFT Analyses**|Ahmed Hammad et.al.|[2608.04100v2](http://arxiv.org/abs/2608.04100v2)|null|

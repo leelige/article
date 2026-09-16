@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-13 14:00:06**|**Preparation of Multimode NOON States via Floquet-Engineered Conditional Chiral Excitation**|Mengxue Li et.al.|[2609.14524v1](http://arxiv.org/abs/2609.14524v1)|null|
 |**2026-09-09 03:27:51**|**PELM: Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling**|Weisi Yang et.al.|[2609.09662v1](http://arxiv.org/abs/2609.09662v1)|[link](https://github.com/imec-nu/PELM)|
 |**2026-09-08 20:21:23**|**Quantum Phase Transitions and Fractional Quantized Anomalous Hall Insulators in Rhombohedral Graphene**|Zach Hadjri et.al.|[2609.09422v1](http://arxiv.org/abs/2609.09422v1)|null|
 |**2026-09-08 01:27:19**|**Tunable topological narrow bands in twisted bilayer-trilayer graphene**|Dong Wang et.al.|[2609.08104v1](http://arxiv.org/abs/2609.08104v1)|null|
@@ -17,7 +18,7 @@
 |**2026-08-24 21:21:04**|**Spectrally Programmable Spin-Polarized Photocurrents in WSe$_2$-NiPS$_3$ Magnetic van der Waals Heterostructures**|Rajesh Kumar Yadav et.al.|[2608.23832v1](http://arxiv.org/abs/2608.23832v1)|null|
 |**2026-08-23 07:54:01**|**Engineering exact mobility edges in quasiperiodic Aharonov-Bohm chains**|Hai-Ying Cui et.al.|[2608.22264v1](http://arxiv.org/abs/2608.22264v1)|null|
 |**2026-08-23 02:53:20**|**Unveiling the Depth-Performance Dilemma in Split-Federated Fine-tuning of LLMs**|Hariharan Ramesh et.al.|[2608.22188v1](http://arxiv.org/abs/2608.22188v1)|null|
-|**2026-08-21 13:26:40**|**All-Optical Control of Interfacial Polarization in MoS$_2$/WSe$_2$ Heterobilayers**|Muhammad Sufyan Ramzan et.al.|[2608.21493v1](http://arxiv.org/abs/2608.21493v1)|null|
+|**2026-08-21 13:26:40**|**All-Optical Control of Interfacial Polarization in MoS$_2$/WSe$_2$ Heterobilayers**|Muhammad Sufyan Ramzan et.al.|[2608.21493v2](http://arxiv.org/abs/2608.21493v2)|null|
 |**2026-08-17 17:33:42**|**Topology-Aware Differentiable Triangle-Soup Reconstruction via Persistent Homology**|Viritphon Chongpermwattanapol et.al.|[2608.16848v1](http://arxiv.org/abs/2608.16848v1)|null|
 |**2026-08-17 08:25:56**|**Quantum Mpemba Speedups in the Thermodynamics of Landauer Erasure**|Pritam Chattopadhyay et.al.|[2608.16254v1](http://arxiv.org/abs/2608.16254v1)|null|
 |**2026-08-16 22:01:16**|**KV-Pipe: On the Relation Between KV Sharing and Pipeline Parallel Efficiency in LLMs**|Maryam Dialameh et.al.|[2608.15943v1](http://arxiv.org/abs/2608.15943v1)|null|
@@ -31,4 +32,3 @@
 |**2026-08-07 01:44:31**|**Geometric Control of Visible Emitter Creation in Hexagonal Boron Nitride by Oblique Ion Irradiation**|Sagar Chowdhury et.al.|[2608.06693v1](http://arxiv.org/abs/2608.06693v1)|null|
 |**2026-08-06 15:02:37**|**Pulse-Duration Control of Subcycle Multiband Electron Dynamics Extends the High-Harmonic Cutoff in a Light-Driven Insulator**|Hortense Allegre et.al.|[2608.06129v1](http://arxiv.org/abs/2608.06129v1)|null|
 |**2026-08-06 13:57:23**|**ML-for-ML**|Yutong Zhao et.al.|[2608.06046v1](http://arxiv.org/abs/2608.06046v1)|null|
-|**2026-08-03 06:09:29**|**Robust Nonclassical magnon pair generation and Cauchy-Schwarz inequality violation in a hybrid electromagnonic system**|Sabur A Barbhuiya et.al.|[2608.01741v1](http://arxiv.org/abs/2608.01741v1)|null|

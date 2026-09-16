@@ -2,6 +2,12 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-15 12:38:43**|**Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics**|Baibek Davletiyarov et.al.|[2609.17107v1](http://arxiv.org/abs/2609.17107v1)|null|
+|**2026-09-15 09:06:00**|**Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility**|Jaeseok Byun et.al.|[2609.16875v1](http://arxiv.org/abs/2609.16875v1)|null|
+|**2026-09-15 04:43:23**|**Quantifying Organizational Environmental Action from Web Data and Large Language Models**|Quinn Reynolds et.al.|[2609.16627v1](http://arxiv.org/abs/2609.16627v1)|null|
+|**2026-09-13 12:56:32**|**MIRAGE: Measuring Interpolation and Redundancy in Affinity GEneralization**|Mehdi Yazdani-Jahromi et.al.|[2609.14491v1](http://arxiv.org/abs/2609.14491v1)|null|
+|**2026-09-13 03:12:43**|**Towards Anticipatory Databases Through Shared Data and Workload Semantics**|Farzaneh Zirak et.al.|[2609.14255v1](http://arxiv.org/abs/2609.14255v1)|null|
+|**2026-09-12 21:00:29**|**RAGCell: Retrieval-Augmented Generation as Supervision for Versatile Single-cell Analysis**|Tianyu Liu et.al.|[2609.14147v1](http://arxiv.org/abs/2609.14147v1)|null|
 |**2026-09-10 17:30:39**|**Atlas: Efficient Verifiable Semantic Search**|Nikolay Avramov et.al.|[2609.11841v1](http://arxiv.org/abs/2609.11841v1)|null|
 |**2026-09-10 04:06:16**|**Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents**|Susheel Suresh et.al.|[2609.11060v1](http://arxiv.org/abs/2609.11060v1)|null|
 |**2026-09-09 16:31:20**|**Towards Scalable and Cost-Efficient Vulnerability Detection: A Study on Automatic Query Generation**|Ivana Clairine Irsan et.al.|[2609.10412v1](http://arxiv.org/abs/2609.10412v1)|null|
@@ -26,9 +32,3 @@
 |**2026-08-26 22:16:05**|**SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning**|Jiajun Fan et.al.|[2608.26432v1](http://arxiv.org/abs/2608.26432v1)|null|
 |**2026-08-26 15:22:52**|**MetaSieve: Faster Relational Deep Learning through SQL-Based Metapath Selection**|Fahim Shahriar Khan et.al.|[2608.25903v1](http://arxiv.org/abs/2608.25903v1)|null|
 |**2026-08-24 03:46:20**|**DelistBench: Evaluating Search-Enabled LLMs for Auditable Corporate-Event Database Completion**|Xuan Yao et.al.|[2608.22770v2](http://arxiv.org/abs/2608.22770v2)|null|
-|**2026-08-23 18:07:23**|**Multispectral Household Plastic Classification for Recycling Using a Camera Array**|Katja Kossira et.al.|[2608.22531v1](http://arxiv.org/abs/2608.22531v1)|[link](https://github.com/FAU-LMS/MHPM)|
-|**2026-08-22 18:08:59**|**From SQL Generation to Tool Selection: A Domain-Oriented Pattern for MCP Servers**|Bartolomeo Bogliolo et.al.|[2608.22063v1](http://arxiv.org/abs/2608.22063v1)|null|
-|**2026-08-21 08:08:48**|**RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation**|Kyle Wild et.al.|[2608.20845v1](http://arxiv.org/abs/2608.20845v1)|null|
-|**2026-08-20 15:59:50**|**The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents**|Wei Lin et.al.|[2608.20201v1](http://arxiv.org/abs/2608.20201v1)|null|
-|**2026-08-20 06:23:09**|**An LLM agent for end-to-end computational materials discovery**|Chen Yuntong et.al.|[2608.20434v1](http://arxiv.org/abs/2608.20434v1)|null|
-|**2026-08-19 14:40:05**|**Towards a Deductive Verification Infrastructure for Weighted Programming**|Emma Ahrens et.al.|[2608.18971v1](http://arxiv.org/abs/2608.18971v1)|null|
