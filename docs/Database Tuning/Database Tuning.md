@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2026-09-16 04:58:25**|**AutoTuneBench: Trustworthy Measurement for Agent Auto-Tuning of LLM Serving Engines**|Li Chen et.al.|[2609.18123v1](http://arxiv.org/abs/2609.18123v1)|null|
 |**2026-09-15 12:47:16**|**Enhancing Procedural Writing Through Personalized Example Retrieval: A Case Study on Cooking Recipes**|Paola Mejia-Domenzain et.al.|[2609.17118v1](http://arxiv.org/abs/2609.17118v1)|null|
-|**2026-09-10 09:17:21**|**Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data**|Benjamin Gruenbaum et.al.|[2609.11286v1](http://arxiv.org/abs/2609.11286v1)|null|
+|**2026-09-10 09:17:21**|**Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data**|Benjamin Gruenbaum et.al.|[2609.11286v2](http://arxiv.org/abs/2609.11286v2)|null|
 |**2026-09-09 16:43:26**|**Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs**|Kostia Kudriavtsev et.al.|[2609.10430v1](http://arxiv.org/abs/2609.10430v1)|null|
 |**2026-09-07 23:51:12**|**MI-PEFT: Mixture-of-Experts Integrated Parameter-Efficient Fine-Tuning Protein Language Models Improves Acidophilic Proteins Classification**|Honghan Shen et.al.|[2609.08059v1](http://arxiv.org/abs/2609.08059v1)|null|
 |**2026-09-07 17:29:17**|**TrajectoryDB: A New Database for Agent Trajectories**|Yunjia Zheng et.al.|[2609.07782v1](http://arxiv.org/abs/2609.07782v1)|null|

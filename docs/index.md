@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-09-17 20:50:25 Asia/Shanghai
+ 自动更新 @ 2026-09-18 20:25:18 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-16 23:16:45**|**Efficiently Linking Unstructured Data for Multi-step Reasoning**|Jiaming Liang et.al.|[2609.19491v1](http://arxiv.org/abs/2609.19491v1)|null|
 |**2026-09-15 12:38:43**|**Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics**|Baibek Davletiyarov et.al.|[2609.17107v1](http://arxiv.org/abs/2609.17107v1)|null|
 |**2026-09-15 09:06:00**|**Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility**|Jaeseok Byun et.al.|[2609.16875v1](http://arxiv.org/abs/2609.16875v1)|null|
 |**2026-09-15 04:43:23**|**Quantifying Organizational Environmental Action from Web Data and Large Language Models**|Quinn Reynolds et.al.|[2609.16627v1](http://arxiv.org/abs/2609.16627v1)|null|
@@ -35,7 +36,6 @@
 |**2026-08-27 05:36:48**|**Bifrost spectral inversions, Fast non-LTE solar chromospheric diagnostics from 3D simulations**|Elias R. Udnæs et.al.|[2608.26629v1](http://arxiv.org/abs/2608.26629v1)|null|
 |**2026-08-26 22:16:05**|**SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning**|Jiajun Fan et.al.|[2608.26432v1](http://arxiv.org/abs/2608.26432v1)|null|
 |**2026-08-26 15:22:52**|**MetaSieve: Faster Relational Deep Learning through SQL-Based Metapath Selection**|Fahim Shahriar Khan et.al.|[2608.25903v1](http://arxiv.org/abs/2608.25903v1)|null|
-|**2026-08-24 03:46:20**|**DelistBench: Evaluating Search-Enabled LLMs for Auditable Corporate-Event Database Completion**|Xuan Yao et.al.|[2608.22770v2](http://arxiv.org/abs/2608.22770v2)|null|
 
 ## Knob Tuning
 
@@ -80,7 +80,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2026-09-16 04:58:25**|**AutoTuneBench: Trustworthy Measurement for Agent Auto-Tuning of LLM Serving Engines**|Li Chen et.al.|[2609.18123v1](http://arxiv.org/abs/2609.18123v1)|null|
 |**2026-09-15 12:47:16**|**Enhancing Procedural Writing Through Personalized Example Retrieval: A Case Study on Cooking Recipes**|Paola Mejia-Domenzain et.al.|[2609.17118v1](http://arxiv.org/abs/2609.17118v1)|null|
-|**2026-09-10 09:17:21**|**Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data**|Benjamin Gruenbaum et.al.|[2609.11286v1](http://arxiv.org/abs/2609.11286v1)|null|
+|**2026-09-10 09:17:21**|**Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data**|Benjamin Gruenbaum et.al.|[2609.11286v2](http://arxiv.org/abs/2609.11286v2)|null|
 |**2026-09-09 16:43:26**|**Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs**|Kostia Kudriavtsev et.al.|[2609.10430v1](http://arxiv.org/abs/2609.10430v1)|null|
 |**2026-09-07 23:51:12**|**MI-PEFT: Mixture-of-Experts Integrated Parameter-Efficient Fine-Tuning Protein Language Models Improves Acidophilic Proteins Classification**|Honghan Shen et.al.|[2609.08059v1](http://arxiv.org/abs/2609.08059v1)|null|
 |**2026-09-07 17:29:17**|**TrajectoryDB: A New Database for Agent Trajectories**|Yunjia Zheng et.al.|[2609.07782v1](http://arxiv.org/abs/2609.07782v1)|null|
