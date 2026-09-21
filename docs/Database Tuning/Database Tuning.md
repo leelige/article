@@ -11,6 +11,7 @@
 |**2026-09-04 11:44:11**|**Leveraging Low-Level Symbolic Competences for Unsupervised Grounding in Hallucination Detection**|Renato Vukovic et.al.|[2609.05025v1](http://arxiv.org/abs/2609.05025v1)|null|
 |**2026-09-01 13:01:45**|**Athena: Vulnerability-Affected Library Identification via Knowledge Graph Completion**|Phong Trinh Duy et.al.|[2609.01187v1](http://arxiv.org/abs/2609.01187v1)|null|
 |**2026-08-31 22:51:21**|**Can LLMs Use Relational Transformer Embeddings?**|Francisco Galuppo Azevedo et.al.|[2609.00457v1](http://arxiv.org/abs/2609.00457v1)|null|
+|**2026-08-31 20:51:38**|**Reconstruction of 4D Mitral Regurgitation Hemodynamics from Sparse Planar Data using Deep Operator Networks with Test-Time Adaptation**|Jakob Marcel Hoffmann et.al.|[2609.20857v1](http://arxiv.org/abs/2609.20857v1)|null|
 |**2026-08-31 11:26:31**|**OCR-Based Field Extraction for Archaeological Pottery Metadata: The CENTURIA Dataset**|Gissu Valentina Naghavi et.al.|[2608.30616v1](http://arxiv.org/abs/2608.30616v1)|null|
 |**2026-08-28 09:08:23**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et.al.|[2608.28100v2](http://arxiv.org/abs/2608.28100v2)|null|
 |**2026-08-27 22:30:32**|**Enhancing MRI Brain Tumor Edge Detection: A Hybrid Preprocessing Approach Utilizing CLAHE**|Shahid-E-Kaiser Md. Tashrif et.al.|[2608.28709v1](http://arxiv.org/abs/2608.28709v1)|null|
@@ -31,4 +32,3 @@
 |**2026-08-11 07:25:41**|**DegradeQuery: Counterfactual Tuple Pretraining for Context-Aware PROTAC Degradation Prediction**|Dong Xu et.al.|[2608.10595v1](http://arxiv.org/abs/2608.10595v1)|null|
 |**2026-08-10 08:16:17**|**SafeQL: Search-based Refinement for Safe and Efficient LLM-based Text-to-SQL**|Geonho Lee et.al.|[2608.09260v1](http://arxiv.org/abs/2608.09260v1)|null|
 |**2026-08-10 02:55:07**|**GeoAI-based post-segmentation quality validation of building footprints via spatial feature engineering**|Shah Imran Ahsan Chowdhury et.al.|[2608.09048v1](http://arxiv.org/abs/2608.09048v1)|null|
-|**2026-08-05 17:03:56**|**Kerckhoffs-Compliant Watermarking for Physical Design IP Protection: From Placement to Routing**|Andrew B. Kahng et.al.|[2608.05055v1](http://arxiv.org/abs/2608.05055v1)|null|
