@@ -1,11 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2026-09-21 22:38:05 Asia/Shanghai
+ 自动更新 @ 2026-09-22 20:53:54 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-20 03:04:30**|**Graph Memory for LLM Agents: At What Cost? A Comparative Evaluation of Query, Ingest, and Update Performance Across Graph Database Engines**|Donald Nguyen et.al.|[2609.23315v1](http://arxiv.org/abs/2609.23315v1)|null|
+|**2026-09-19 02:05:56**|**Toward Auditable and Calibrated AI for Dementia-Related Crash Severity Prediction: A Selective Deferral Framework to Support Human Review**|Gaurab Chhetri et.al.|[2609.22694v1](http://arxiv.org/abs/2609.22694v1)|null|
 |**2026-09-18 12:28:56**|**Bayesian classification of astronomical spectra with class uncertainties**|Simon Barton et.al.|[2609.21694v1](http://arxiv.org/abs/2609.21694v1)|null|
 |**2026-09-16 23:16:45**|**Efficiently Linking Unstructured Data for Multi-step Reasoning**|Jiaming Liang et.al.|[2609.19491v1](http://arxiv.org/abs/2609.19491v1)|null|
 |**2026-09-15 12:38:43**|**Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics**|Baibek Davletiyarov et.al.|[2609.17107v1](http://arxiv.org/abs/2609.17107v1)|null|
@@ -34,14 +36,13 @@
 |**2026-08-27 20:28:45**|**Application of the latent twins approach for clear sky retrieval from IASI observations**|Michele Martinazzo et.al.|[2608.27692v1](http://arxiv.org/abs/2608.27692v1)|null|
 |**2026-08-27 17:48:22**|**misi: a Metric Inverted Sample Index**|Edgar Chavez et.al.|[2608.27422v1](http://arxiv.org/abs/2608.27422v1)|null|
 |**2026-08-27 09:30:08**|**BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click**|Mesut Toruk et.al.|[2608.26867v1](http://arxiv.org/abs/2608.26867v1)|null|
-|**2026-08-27 05:36:48**|**Bifrost spectral inversions, Fast non-LTE solar chromospheric diagnostics from 3D simulations**|Elias R. Udnæs et.al.|[2608.26629v1](http://arxiv.org/abs/2608.26629v1)|null|
-|**2026-08-26 22:16:05**|**SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning**|Jiajun Fan et.al.|[2608.26432v1](http://arxiv.org/abs/2608.26432v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-21 11:26:46**|**Spin-Orbit Induced Confinement of Correlated Bound States in the Continuum**|Kai Chen et.al.|[2609.24429v1](http://arxiv.org/abs/2609.24429v1)|null|
 |**2026-09-13 14:00:06**|**Preparation of Multimode NOON States via Floquet-Engineered Conditional Chiral Excitation**|Mengxue Li et.al.|[2609.14524v1](http://arxiv.org/abs/2609.14524v1)|null|
 |**2026-09-09 03:27:51**|**PELM: Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling**|Weisi Yang et.al.|[2609.09662v1](http://arxiv.org/abs/2609.09662v1)|[link](https://github.com/imec-nu/PELM)|
 |**2026-09-08 20:21:23**|**Quantum Phase Transitions and Fractional Quantized Anomalous Hall Insulators in Rhombohedral Graphene**|Zach Hadjri et.al.|[2609.09422v1](http://arxiv.org/abs/2609.09422v1)|null|
@@ -71,13 +72,14 @@
 |**2026-08-07 14:33:08**|**Grid-Compatible Flexibility from Multi-Energy Systems via Cyclic-Terminal Economic MPC with Hybrid Thermal-Electrical Dynamics**|Azzam Abdul et.al.|[2608.07273v1](http://arxiv.org/abs/2608.07273v1)|null|
 |**2026-08-07 01:44:31**|**Geometric Control of Visible Emitter Creation in Hexagonal Boron Nitride by Oblique Ion Irradiation**|Sagar Chowdhury et.al.|[2608.06693v1](http://arxiv.org/abs/2608.06693v1)|null|
 |**2026-08-06 15:02:37**|**Pulse-Duration Control of Subcycle Multiband Electron Dynamics Extends the High-Harmonic Cutoff in a Light-Driven Insulator**|Hortense Allegre et.al.|[2608.06129v1](http://arxiv.org/abs/2608.06129v1)|null|
-|**2026-08-06 13:57:23**|**ML-for-ML**|Yutong Zhao et.al.|[2608.06046v1](http://arxiv.org/abs/2608.06046v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-21 06:58:26**|**LIMIT: Less Is More for Instruction Tuning in Text-to-SQL**|Haoyuan Ma et.al.|[2609.24186v1](http://arxiv.org/abs/2609.24186v1)|null|
+|**2026-09-19 09:54:16**|**An Iterative LangGraph Agent for Text-to-SQL: Natural Language Access to the Chicago Crime Database**|Vigneshwar Ravi Rao et.al.|[2609.22917v1](http://arxiv.org/abs/2609.22917v1)|null|
 |**2026-09-16 04:58:25**|**AutoTuneBench: Trustworthy Measurement for Agent Auto-Tuning of LLM Serving Engines**|Li Chen et.al.|[2609.18123v1](http://arxiv.org/abs/2609.18123v1)|null|
 |**2026-09-15 12:47:16**|**Enhancing Procedural Writing Through Personalized Example Retrieval: A Case Study on Cooking Recipes**|Paola Mejia-Domenzain et.al.|[2609.17118v1](http://arxiv.org/abs/2609.17118v1)|null|
 |**2026-09-10 09:17:21**|**Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data**|Benjamin Gruenbaum et.al.|[2609.11286v2](http://arxiv.org/abs/2609.11286v2)|null|
@@ -106,5 +108,3 @@
 |**2026-08-12 10:17:08**|**DexterSQL: Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation**|Anik Pramanik et.al.|[2608.11889v2](http://arxiv.org/abs/2608.11889v2)|null|
 |**2026-08-11 12:48:44**|**Chemically Meaningful Textualization Enables Explainable Validation of Metal-Organic Frameworks by Large Language Models**|Guobin Zhao et.al.|[2608.11283v1](http://arxiv.org/abs/2608.11283v1)|null|
 |**2026-08-11 07:25:41**|**DegradeQuery: Counterfactual Tuple Pretraining for Context-Aware PROTAC Degradation Prediction**|Dong Xu et.al.|[2608.10595v1](http://arxiv.org/abs/2608.10595v1)|null|
-|**2026-08-10 08:16:17**|**SafeQL: Search-based Refinement for Safe and Efficient LLM-based Text-to-SQL**|Geonho Lee et.al.|[2608.09260v1](http://arxiv.org/abs/2608.09260v1)|null|
-|**2026-08-10 02:55:07**|**GeoAI-based post-segmentation quality validation of building footprints via spatial feature engineering**|Shah Imran Ahsan Chowdhury et.al.|[2608.09048v1](http://arxiv.org/abs/2608.09048v1)|null|

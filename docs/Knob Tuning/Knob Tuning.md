@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-21 11:26:46**|**Spin-Orbit Induced Confinement of Correlated Bound States in the Continuum**|Kai Chen et.al.|[2609.24429v1](http://arxiv.org/abs/2609.24429v1)|null|
 |**2026-09-13 14:00:06**|**Preparation of Multimode NOON States via Floquet-Engineered Conditional Chiral Excitation**|Mengxue Li et.al.|[2609.14524v1](http://arxiv.org/abs/2609.14524v1)|null|
 |**2026-09-09 03:27:51**|**PELM: Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling**|Weisi Yang et.al.|[2609.09662v1](http://arxiv.org/abs/2609.09662v1)|[link](https://github.com/imec-nu/PELM)|
 |**2026-09-08 20:21:23**|**Quantum Phase Transitions and Fractional Quantized Anomalous Hall Insulators in Rhombohedral Graphene**|Zach Hadjri et.al.|[2609.09422v1](http://arxiv.org/abs/2609.09422v1)|null|
@@ -31,4 +32,3 @@
 |**2026-08-07 14:33:08**|**Grid-Compatible Flexibility from Multi-Energy Systems via Cyclic-Terminal Economic MPC with Hybrid Thermal-Electrical Dynamics**|Azzam Abdul et.al.|[2608.07273v1](http://arxiv.org/abs/2608.07273v1)|null|
 |**2026-08-07 01:44:31**|**Geometric Control of Visible Emitter Creation in Hexagonal Boron Nitride by Oblique Ion Irradiation**|Sagar Chowdhury et.al.|[2608.06693v1](http://arxiv.org/abs/2608.06693v1)|null|
 |**2026-08-06 15:02:37**|**Pulse-Duration Control of Subcycle Multiband Electron Dynamics Extends the High-Harmonic Cutoff in a Light-Driven Insulator**|Hortense Allegre et.al.|[2608.06129v1](http://arxiv.org/abs/2608.06129v1)|null|
-|**2026-08-06 13:57:23**|**ML-for-ML**|Yutong Zhao et.al.|[2608.06046v1](http://arxiv.org/abs/2608.06046v1)|null|

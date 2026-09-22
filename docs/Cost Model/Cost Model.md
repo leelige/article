@@ -2,6 +2,8 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-20 03:04:30**|**Graph Memory for LLM Agents: At What Cost? A Comparative Evaluation of Query, Ingest, and Update Performance Across Graph Database Engines**|Donald Nguyen et.al.|[2609.23315v1](http://arxiv.org/abs/2609.23315v1)|null|
+|**2026-09-19 02:05:56**|**Toward Auditable and Calibrated AI for Dementia-Related Crash Severity Prediction: A Selective Deferral Framework to Support Human Review**|Gaurab Chhetri et.al.|[2609.22694v1](http://arxiv.org/abs/2609.22694v1)|null|
 |**2026-09-18 12:28:56**|**Bayesian classification of astronomical spectra with class uncertainties**|Simon Barton et.al.|[2609.21694v1](http://arxiv.org/abs/2609.21694v1)|null|
 |**2026-09-16 23:16:45**|**Efficiently Linking Unstructured Data for Multi-step Reasoning**|Jiaming Liang et.al.|[2609.19491v1](http://arxiv.org/abs/2609.19491v1)|null|
 |**2026-09-15 12:38:43**|**Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics**|Baibek Davletiyarov et.al.|[2609.17107v1](http://arxiv.org/abs/2609.17107v1)|null|
@@ -30,5 +32,3 @@
 |**2026-08-27 20:28:45**|**Application of the latent twins approach for clear sky retrieval from IASI observations**|Michele Martinazzo et.al.|[2608.27692v1](http://arxiv.org/abs/2608.27692v1)|null|
 |**2026-08-27 17:48:22**|**misi: a Metric Inverted Sample Index**|Edgar Chavez et.al.|[2608.27422v1](http://arxiv.org/abs/2608.27422v1)|null|
 |**2026-08-27 09:30:08**|**BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click**|Mesut Toruk et.al.|[2608.26867v1](http://arxiv.org/abs/2608.26867v1)|null|
-|**2026-08-27 05:36:48**|**Bifrost spectral inversions, Fast non-LTE solar chromospheric diagnostics from 3D simulations**|Elias R. Udnæs et.al.|[2608.26629v1](http://arxiv.org/abs/2608.26629v1)|null|
-|**2026-08-26 22:16:05**|**SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning**|Jiajun Fan et.al.|[2608.26432v1](http://arxiv.org/abs/2608.26432v1)|null|

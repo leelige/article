@@ -2,6 +2,8 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-21 06:58:26**|**LIMIT: Less Is More for Instruction Tuning in Text-to-SQL**|Haoyuan Ma et.al.|[2609.24186v1](http://arxiv.org/abs/2609.24186v1)|null|
+|**2026-09-19 09:54:16**|**An Iterative LangGraph Agent for Text-to-SQL: Natural Language Access to the Chicago Crime Database**|Vigneshwar Ravi Rao et.al.|[2609.22917v1](http://arxiv.org/abs/2609.22917v1)|null|
 |**2026-09-16 04:58:25**|**AutoTuneBench: Trustworthy Measurement for Agent Auto-Tuning of LLM Serving Engines**|Li Chen et.al.|[2609.18123v1](http://arxiv.org/abs/2609.18123v1)|null|
 |**2026-09-15 12:47:16**|**Enhancing Procedural Writing Through Personalized Example Retrieval: A Case Study on Cooking Recipes**|Paola Mejia-Domenzain et.al.|[2609.17118v1](http://arxiv.org/abs/2609.17118v1)|null|
 |**2026-09-10 09:17:21**|**Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data**|Benjamin Gruenbaum et.al.|[2609.11286v2](http://arxiv.org/abs/2609.11286v2)|null|
@@ -30,5 +32,3 @@
 |**2026-08-12 10:17:08**|**DexterSQL: Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation**|Anik Pramanik et.al.|[2608.11889v2](http://arxiv.org/abs/2608.11889v2)|null|
 |**2026-08-11 12:48:44**|**Chemically Meaningful Textualization Enables Explainable Validation of Metal-Organic Frameworks by Large Language Models**|Guobin Zhao et.al.|[2608.11283v1](http://arxiv.org/abs/2608.11283v1)|null|
 |**2026-08-11 07:25:41**|**DegradeQuery: Counterfactual Tuple Pretraining for Context-Aware PROTAC Degradation Prediction**|Dong Xu et.al.|[2608.10595v1](http://arxiv.org/abs/2608.10595v1)|null|
-|**2026-08-10 08:16:17**|**SafeQL: Search-based Refinement for Safe and Efficient LLM-based Text-to-SQL**|Geonho Lee et.al.|[2608.09260v1](http://arxiv.org/abs/2608.09260v1)|null|
-|**2026-08-10 02:55:07**|**GeoAI-based post-segmentation quality validation of building footprints via spatial feature engineering**|Shah Imran Ahsan Chowdhury et.al.|[2608.09048v1](http://arxiv.org/abs/2608.09048v1)|null|
