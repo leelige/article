@@ -2,6 +2,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-22 16:20:37**|**Proof-of-Retention: A Framework for Auditable Cross-Organization Data Sharing**|Kyle MacMillan et.al.|[2609.26654v1](http://arxiv.org/abs/2609.26654v1)|null|
 |**2026-09-21 06:58:26**|**LIMIT: Less Is More for Instruction Tuning in Text-to-SQL**|Haoyuan Ma et.al.|[2609.24186v1](http://arxiv.org/abs/2609.24186v1)|null|
 |**2026-09-19 09:54:16**|**An Iterative LangGraph Agent for Text-to-SQL: Natural Language Access to the Chicago Crime Database**|Vigneshwar Ravi Rao et.al.|[2609.22917v1](http://arxiv.org/abs/2609.22917v1)|null|
 |**2026-09-16 04:58:25**|**AutoTuneBench: Trustworthy Measurement for Agent Auto-Tuning of LLM Serving Engines**|Li Chen et.al.|[2609.18123v1](http://arxiv.org/abs/2609.18123v1)|null|
@@ -31,4 +32,3 @@
 |**2026-08-12 13:19:42**|**Mechanist: AI as a Scientific Instrument for Discovering the Mechanisms of Intelligence**|Mengru Wang et.al.|[2608.12036v3](http://arxiv.org/abs/2608.12036v3)|null|
 |**2026-08-12 10:17:08**|**DexterSQL: Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation**|Anik Pramanik et.al.|[2608.11889v2](http://arxiv.org/abs/2608.11889v2)|null|
 |**2026-08-11 12:48:44**|**Chemically Meaningful Textualization Enables Explainable Validation of Metal-Organic Frameworks by Large Language Models**|Guobin Zhao et.al.|[2608.11283v1](http://arxiv.org/abs/2608.11283v1)|null|
-|**2026-08-11 07:25:41**|**DegradeQuery: Counterfactual Tuple Pretraining for Context-Aware PROTAC Degradation Prediction**|Dong Xu et.al.|[2608.10595v1](http://arxiv.org/abs/2608.10595v1)|null|
