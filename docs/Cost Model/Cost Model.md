@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-29 19:31:43**|**Automated Prefetching for Object Spatial Programming Using Temporal Trace Graphs**|Baichuan Li et.al.|[2609.38439v1](http://arxiv.org/abs/2609.38439v1)|null|
 |**2026-09-27 03:36:22**|**Uncertainty Quantification for the Fission Matrix Method: A Rigorous Mathematical Framework and Computationally Efficient Alternatives**|Valerio Mascolino et.al.|[2609.33161v1](http://arxiv.org/abs/2609.33161v1)|null|
 |**2026-09-26 20:10:29**|**Planner-as-Router: Joint Plan-Time Model Routing for Cost-Efficient Multi-Agent Workflows**|Vivek Kumar Singh et.al.|[2609.32917v1](http://arxiv.org/abs/2609.32917v1)|null|
 |**2026-09-24 07:55:44**|**HistoRAG: A Citation-Grounded Question Answering Assistant for Teaching with Scanned Local History and Heritage Archives**|Hongzhou Duan et.al.|[2609.29184v1](http://arxiv.org/abs/2609.29184v1)|null|
@@ -31,4 +32,3 @@
 |**2026-08-31 15:22:19**|**One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning**|Armin Dariani et.al.|[2608.30952v1](http://arxiv.org/abs/2608.30952v1)|null|
 |**2026-08-29 23:04:37**|**Ingest-Time Fact Compilation for Cost-Efficient and Reliable Question Answering over Revised Corpora**|Kyle Wild et.al.|[2609.29661v1](http://arxiv.org/abs/2609.29661v1)|null|
 |**2026-08-28 14:04:04**|**No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload**|Tim Zeyl et.al.|[2608.28352v1](http://arxiv.org/abs/2608.28352v1)|null|
-|**2026-08-28 09:08:23**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et.al.|[2608.28100v2](http://arxiv.org/abs/2608.28100v2)|null|

@@ -2,6 +2,10 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-09-30 14:00:39**|**Riemannian Flow Models with Reinforcement Learning for Molecular Crystal Structure Prediction**|Thomas Egg et.al.|[2609.39773v1](http://arxiv.org/abs/2609.39773v1)|null|
+|**2026-09-30 09:23:10**|**EHR-RobustGym: Benchmarking and Training Agents for Robust Clinical Reasoning**|Yitong Qiao et.al.|[2609.39371v1](http://arxiv.org/abs/2609.39371v1)|null|
+|**2026-09-30 02:38:22**|**PatchHolmes: Agentic Patch Retrieval via Listwise Selection**|Guanqun Yang et.al.|[2609.38807v1](http://arxiv.org/abs/2609.38807v1)|null|
+|**2026-09-29 18:57:59**|**From Codebase to Culprit (C2C): Reducing the Search Space for Bugs with Semantic Retrieval and Hierarchical Reinforcement Learning**|Ankur Garg et.al.|[2609.38402v1](http://arxiv.org/abs/2609.38402v1)|null|
 |**2026-09-29 08:21:18**|**CypherTurn: A Multi-Turn Benchmark for Conversational Text-to-Cypher Evaluation and the Autonomy Divergence**|Yuzhe Zhang et.al.|[2609.36987v1](http://arxiv.org/abs/2609.36987v1)|[link](https://github.com/BarryQ/CypherTurn)|
 |**2026-09-28 18:00:07**|**Making Cross-Continental Federated Learning Repeatable with FLIP: a Multi-Application Study**|Rafael Garcia-Dias et.al.|[2609.36001v1](http://arxiv.org/abs/2609.36001v1)|null|
 |**2026-09-28 12:32:42**|**THEIA: A Multimodal Dataset and Benchmark for Vision-Language Analysis of Layout**|Giuseppe Chiari et.al.|[2609.35035v2](http://arxiv.org/abs/2609.35035v2)|null|
@@ -28,7 +32,3 @@
 |**2026-08-24 13:57:30**|**AI-Assisted Extraction of Follow-up Observations from GCN Circulars in Astro-COLIBRI**|Fabian Schüssler et.al.|[2608.23270v1](http://arxiv.org/abs/2608.23270v1)|null|
 |**2026-08-23 02:41:06**|**VERDICT: Agreement Beats Pixel-Space Verification in Real-Document OCSR**|Yani Guan et.al.|[2608.22183v1](http://arxiv.org/abs/2608.22183v1)|null|
 |**2026-08-21 17:01:10**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300v2](http://arxiv.org/abs/2608.21300v2)|[link](https://github.com/ImSounic/medsam-vpt)|
-|**2026-08-21 01:34:17**|**Predicting Resource Efficient Hamiltonian Decomposition for Continuous-Time Quantum Walk Simulations**|Mostafa Atallah et.al.|[2608.20660v1](http://arxiv.org/abs/2608.20660v1)|null|
-|**2026-08-19 19:56:04**|**Hepatitis C Virus Genotyping with a Transformer Neural Network**|Ariella Aro et.al.|[2608.19415v1](http://arxiv.org/abs/2608.19415v1)|null|
-|**2026-08-17 09:25:05**|**Advancing Open and Reproducible Relational Learning: RelArena-$α$, TabPFN-Rel and RPI**|Adrian Hayler et.al.|[2608.16319v2](http://arxiv.org/abs/2608.16319v2)|null|
-|**2026-08-14 03:53:21**|**Never the Number: Structural Abstention for AI Systems Whose Answers Are Consumed as Fact**| Zhelun et.al.|[2608.13926v1](http://arxiv.org/abs/2608.13926v1)|null|
