@@ -1,11 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2026-10-01 22:53:03 Asia/Shanghai
+ 自动更新 @ 2026-10-02 22:14:40 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-01 16:55:48**|**Prune First, Decide Fast: Scalable Semantic Query Processing with JEVDB**|Zhengle Wang et.al.|[2610.02046v1](http://arxiv.org/abs/2610.02046v1)|null|
+|**2026-10-01 01:36:43**|**STEER: Reducing Inference Cost in Relational Foundation Models through Semantically Informed Sampling**|Abdalla Mohamed et.al.|[2610.00907v1](http://arxiv.org/abs/2610.00907v1)|null|
 |**2026-09-29 19:31:43**|**Automated Prefetching for Object Spatial Programming Using Temporal Trace Graphs**|Baichuan Li et.al.|[2609.38439v1](http://arxiv.org/abs/2609.38439v1)|null|
 |**2026-09-27 03:36:22**|**Uncertainty Quantification for the Fission Matrix Method: A Rigorous Mathematical Framework and Computationally Efficient Alternatives**|Valerio Mascolino et.al.|[2609.33161v1](http://arxiv.org/abs/2609.33161v1)|null|
 |**2026-09-26 20:10:29**|**Planner-as-Router: Joint Plan-Time Model Routing for Cost-Efficient Multi-Agent Workflows**|Vivek Kumar Singh et.al.|[2609.32917v1](http://arxiv.org/abs/2609.32917v1)|null|
@@ -24,6 +26,7 @@
 |**2026-09-10 04:06:16**|**Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents**|Susheel Suresh et.al.|[2609.11060v1](http://arxiv.org/abs/2609.11060v1)|null|
 |**2026-09-09 16:31:20**|**Towards Scalable and Cost-Efficient Vulnerability Detection: A Study on Automatic Query Generation**|Ivana Clairine Irsan et.al.|[2609.10412v1](http://arxiv.org/abs/2609.10412v1)|null|
 |**2026-09-08 06:13:30**|**Knots, black holes, databases, and birthdays: Collision entropy of knot invariants**|Pedro Olivares-Sánchez et.al.|[2609.08298v1](http://arxiv.org/abs/2609.08298v1)|null|
+|**2026-09-08 03:38:47**|**BudgetSchemaBench: A Budget-Swept Diagnostic for Schema Context in Text-to-SQL**|Chen Shen et.al.|[2610.00092v1](http://arxiv.org/abs/2610.00092v1)|null|
 |**2026-09-08 03:16:20**|**Cassette: Case-to-Case Structural Distillation for Efficient Legal Case Retrieval**|Yanran Tang et.al.|[2609.08185v1](http://arxiv.org/abs/2609.08185v1)|[link](https://github.com/yanran-tang/Cassette)|
 |**2026-09-07 17:29:17**|**TrajectoryDB: A New Database for Agent Trajectories**|Yunjia Zheng et.al.|[2609.07782v1](http://arxiv.org/abs/2609.07782v1)|null|
 |**2026-09-07 13:34:05**|**Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems**|Musiha Mahfuza Mukta et.al.|[2609.07477v1](http://arxiv.org/abs/2609.07477v1)|null|
@@ -33,9 +36,6 @@
 |**2026-09-02 04:50:09**|**Git4Data: Database-Native Version Control for AI Agents**|Hongshen Gou et.al.|[2609.02106v1](http://arxiv.org/abs/2609.02106v1)|null|
 |**2026-09-01 05:27:38**|**ContextPipe: Database-Inspired Context Assembly for Long-Horizon Agents**|Peng Xu et.al.|[2609.00749v1](http://arxiv.org/abs/2609.00749v1)|null|
 |**2026-08-31 16:53:45**|**Agentic Context Cracking: Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data**|Milad Rezaei Hajidehi et.al.|[2608.31082v2](http://arxiv.org/abs/2608.31082v2)|null|
-|**2026-08-31 15:22:19**|**One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning**|Armin Dariani et.al.|[2608.30952v1](http://arxiv.org/abs/2608.30952v1)|null|
-|**2026-08-29 23:04:37**|**Ingest-Time Fact Compilation for Cost-Efficient and Reliable Question Answering over Revised Corpora**|Kyle Wild et.al.|[2609.29661v1](http://arxiv.org/abs/2609.29661v1)|null|
-|**2026-08-28 14:04:04**|**No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload**|Tim Zeyl et.al.|[2608.28352v1](http://arxiv.org/abs/2608.28352v1)|null|
 
 ## Knob Tuning
 
@@ -78,6 +78,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-01 17:59:20**|**Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features**|Jason X. Liu et.al.|[2610.02189v1](http://arxiv.org/abs/2610.02189v1)|[link](https://github.com/rotskoff-group/idiom)|
 |**2026-09-30 14:00:39**|**Riemannian Flow Models with Reinforcement Learning for Molecular Crystal Structure Prediction**|Thomas Egg et.al.|[2609.39773v1](http://arxiv.org/abs/2609.39773v1)|null|
 |**2026-09-30 09:23:10**|**EHR-RobustGym: Benchmarking and Training Agents for Robust Clinical Reasoning**|Yitong Qiao et.al.|[2609.39371v1](http://arxiv.org/abs/2609.39371v1)|null|
 |**2026-09-30 02:38:22**|**PatchHolmes: Agentic Patch Retrieval via Listwise Selection**|Guanqun Yang et.al.|[2609.38807v1](http://arxiv.org/abs/2609.38807v1)|null|
@@ -107,4 +108,3 @@
 |**2026-08-25 21:58:33**|**Analyzing and Reducing Search Quality Differences in Vector Similarity Search**|Sara Mahdizadeh Shahri et.al.|[2608.25185v1](http://arxiv.org/abs/2608.25185v1)|null|
 |**2026-08-24 13:57:30**|**AI-Assisted Extraction of Follow-up Observations from GCN Circulars in Astro-COLIBRI**|Fabian Schüssler et.al.|[2608.23270v1](http://arxiv.org/abs/2608.23270v1)|null|
 |**2026-08-23 02:41:06**|**VERDICT: Agreement Beats Pixel-Space Verification in Real-Document OCSR**|Yani Guan et.al.|[2608.22183v1](http://arxiv.org/abs/2608.22183v1)|null|
-|**2026-08-21 17:01:10**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300v2](http://arxiv.org/abs/2608.21300v2)|[link](https://github.com/ImSounic/medsam-vpt)|

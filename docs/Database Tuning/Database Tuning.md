@@ -2,6 +2,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-01 17:59:20**|**Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features**|Jason X. Liu et.al.|[2610.02189v1](http://arxiv.org/abs/2610.02189v1)|[link](https://github.com/rotskoff-group/idiom)|
 |**2026-09-30 14:00:39**|**Riemannian Flow Models with Reinforcement Learning for Molecular Crystal Structure Prediction**|Thomas Egg et.al.|[2609.39773v1](http://arxiv.org/abs/2609.39773v1)|null|
 |**2026-09-30 09:23:10**|**EHR-RobustGym: Benchmarking and Training Agents for Robust Clinical Reasoning**|Yitong Qiao et.al.|[2609.39371v1](http://arxiv.org/abs/2609.39371v1)|null|
 |**2026-09-30 02:38:22**|**PatchHolmes: Agentic Patch Retrieval via Listwise Selection**|Guanqun Yang et.al.|[2609.38807v1](http://arxiv.org/abs/2609.38807v1)|null|
@@ -31,4 +32,3 @@
 |**2026-08-25 21:58:33**|**Analyzing and Reducing Search Quality Differences in Vector Similarity Search**|Sara Mahdizadeh Shahri et.al.|[2608.25185v1](http://arxiv.org/abs/2608.25185v1)|null|
 |**2026-08-24 13:57:30**|**AI-Assisted Extraction of Follow-up Observations from GCN Circulars in Astro-COLIBRI**|Fabian Schüssler et.al.|[2608.23270v1](http://arxiv.org/abs/2608.23270v1)|null|
 |**2026-08-23 02:41:06**|**VERDICT: Agreement Beats Pixel-Space Verification in Real-Document OCSR**|Yani Guan et.al.|[2608.22183v1](http://arxiv.org/abs/2608.22183v1)|null|
-|**2026-08-21 17:01:10**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300v2](http://arxiv.org/abs/2608.21300v2)|[link](https://github.com/ImSounic/medsam-vpt)|

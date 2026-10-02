@@ -2,6 +2,8 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-01 16:55:48**|**Prune First, Decide Fast: Scalable Semantic Query Processing with JEVDB**|Zhengle Wang et.al.|[2610.02046v1](http://arxiv.org/abs/2610.02046v1)|null|
+|**2026-10-01 01:36:43**|**STEER: Reducing Inference Cost in Relational Foundation Models through Semantically Informed Sampling**|Abdalla Mohamed et.al.|[2610.00907v1](http://arxiv.org/abs/2610.00907v1)|null|
 |**2026-09-29 19:31:43**|**Automated Prefetching for Object Spatial Programming Using Temporal Trace Graphs**|Baichuan Li et.al.|[2609.38439v1](http://arxiv.org/abs/2609.38439v1)|null|
 |**2026-09-27 03:36:22**|**Uncertainty Quantification for the Fission Matrix Method: A Rigorous Mathematical Framework and Computationally Efficient Alternatives**|Valerio Mascolino et.al.|[2609.33161v1](http://arxiv.org/abs/2609.33161v1)|null|
 |**2026-09-26 20:10:29**|**Planner-as-Router: Joint Plan-Time Model Routing for Cost-Efficient Multi-Agent Workflows**|Vivek Kumar Singh et.al.|[2609.32917v1](http://arxiv.org/abs/2609.32917v1)|null|
@@ -20,6 +22,7 @@
 |**2026-09-10 04:06:16**|**Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents**|Susheel Suresh et.al.|[2609.11060v1](http://arxiv.org/abs/2609.11060v1)|null|
 |**2026-09-09 16:31:20**|**Towards Scalable and Cost-Efficient Vulnerability Detection: A Study on Automatic Query Generation**|Ivana Clairine Irsan et.al.|[2609.10412v1](http://arxiv.org/abs/2609.10412v1)|null|
 |**2026-09-08 06:13:30**|**Knots, black holes, databases, and birthdays: Collision entropy of knot invariants**|Pedro Olivares-Sánchez et.al.|[2609.08298v1](http://arxiv.org/abs/2609.08298v1)|null|
+|**2026-09-08 03:38:47**|**BudgetSchemaBench: A Budget-Swept Diagnostic for Schema Context in Text-to-SQL**|Chen Shen et.al.|[2610.00092v1](http://arxiv.org/abs/2610.00092v1)|null|
 |**2026-09-08 03:16:20**|**Cassette: Case-to-Case Structural Distillation for Efficient Legal Case Retrieval**|Yanran Tang et.al.|[2609.08185v1](http://arxiv.org/abs/2609.08185v1)|[link](https://github.com/yanran-tang/Cassette)|
 |**2026-09-07 17:29:17**|**TrajectoryDB: A New Database for Agent Trajectories**|Yunjia Zheng et.al.|[2609.07782v1](http://arxiv.org/abs/2609.07782v1)|null|
 |**2026-09-07 13:34:05**|**Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems**|Musiha Mahfuza Mukta et.al.|[2609.07477v1](http://arxiv.org/abs/2609.07477v1)|null|
@@ -29,6 +32,3 @@
 |**2026-09-02 04:50:09**|**Git4Data: Database-Native Version Control for AI Agents**|Hongshen Gou et.al.|[2609.02106v1](http://arxiv.org/abs/2609.02106v1)|null|
 |**2026-09-01 05:27:38**|**ContextPipe: Database-Inspired Context Assembly for Long-Horizon Agents**|Peng Xu et.al.|[2609.00749v1](http://arxiv.org/abs/2609.00749v1)|null|
 |**2026-08-31 16:53:45**|**Agentic Context Cracking: Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data**|Milad Rezaei Hajidehi et.al.|[2608.31082v2](http://arxiv.org/abs/2608.31082v2)|null|
-|**2026-08-31 15:22:19**|**One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning**|Armin Dariani et.al.|[2608.30952v1](http://arxiv.org/abs/2608.30952v1)|null|
-|**2026-08-29 23:04:37**|**Ingest-Time Fact Compilation for Cost-Efficient and Reliable Question Answering over Revised Corpora**|Kyle Wild et.al.|[2609.29661v1](http://arxiv.org/abs/2609.29661v1)|null|
-|**2026-08-28 14:04:04**|**No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload**|Tim Zeyl et.al.|[2608.28352v1](http://arxiv.org/abs/2608.28352v1)|null|
