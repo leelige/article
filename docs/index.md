@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-10-06 22:33:00 Asia/Shanghai
+ 自动更新 @ 2026-10-07 22:49:54 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v1](http://arxiv.org/abs/2610.08089v1)|null|
 |**2026-10-04 15:55:47**|**AgentDiscover: Autonomous Discovery with Minimal Search Scaffolding**|Mahdi Farahbakhsh et.al.|[2610.05334v1](http://arxiv.org/abs/2610.05334v1)|[link](https://github.com/mhdfb/AgentDiscover)|
 |**2026-10-02 19:32:31**|**Equivariant generative diffusion learns and generalizes the structural ensemble of amorphous oxides**|Jun Jiang et.al.|[2610.03973v1](http://arxiv.org/abs/2610.03973v1)|null|
 |**2026-10-02 17:19:50**|**FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs**|Darian Lee et.al.|[2610.03625v1](http://arxiv.org/abs/2610.03625v1)|null|
@@ -35,13 +36,13 @@
 |**2026-09-08 03:16:20**|**Cassette: Case-to-Case Structural Distillation for Efficient Legal Case Retrieval**|Yanran Tang et.al.|[2609.08185v1](http://arxiv.org/abs/2609.08185v1)|[link](https://github.com/yanran-tang/Cassette)|
 |**2026-09-07 17:29:17**|**TrajectoryDB: A New Database for Agent Trajectories**|Yunjia Zheng et.al.|[2609.07782v1](http://arxiv.org/abs/2609.07782v1)|null|
 |**2026-09-07 13:34:05**|**Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems**|Musiha Mahfuza Mukta et.al.|[2609.07477v1](http://arxiv.org/abs/2609.07477v1)|null|
-|**2026-09-04 22:44:05**|**RAGMark: A Comprehensive Framework for Benchmarking Retrieval-Augmented Generation Systems**|Zlatan Feric et.al.|[2609.05760v1](http://arxiv.org/abs/2609.05760v1)|[link](https://github.com/zferic/RAGMark)|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-05 23:53:31**|**Targeted search shows that random-device testing underestimates worst-case error in a simulated wave-based neural operator**|Samrendra Roy et.al.|[2610.07529v1](http://arxiv.org/abs/2610.07529v1)|null|
 |**2026-09-29 12:43:03**|**Topological Hall Effect Induced by Chiral Spin Textures at the Ferroelectric/Ferromagnetic Interface**|Jingkuan Xiao et.al.|[2609.37406v1](http://arxiv.org/abs/2609.37406v1)|null|
 |**2026-09-29 02:41:29**|**Multicomponent anyons in one-dimensional optical lattices**|Sagarika Basak et.al.|[2609.36554v1](http://arxiv.org/abs/2609.36554v1)|null|
 |**2026-09-24 08:27:35**|**Schedules Are Solvable Symbols: Tuning-Free Compilation of Tile Programs on Dataflow Architectures**|Heru Wang et.al.|[2609.29219v1](http://arxiv.org/abs/2609.29219v1)|null|
@@ -71,16 +72,17 @@
 |**2026-08-11 21:26:05**|**Layer-Number-Controlled Symmetry Breaking and Surface-State Transport in Rhombohedral Graphene Multilayers**|Bosai Lyu et.al.|[2608.11450v1](http://arxiv.org/abs/2608.11450v1)|null|
 |**2026-08-11 19:57:05**|**Large bias-tunable magnetoresistance from spin-dependent interlayer hybridization in van der Waals antiferromagnet CrSBr-based heterostructures**|Sadeed Hameed et.al.|[2608.11389v1](http://arxiv.org/abs/2608.11389v1)|null|
 |**2026-08-10 15:18:11**|**Sampling Free Energy Landscapes of Ionic Colloidal Crystal Systems using Machine-Learned Proxy Collective Variables**|Michael S. Chen et.al.|[2608.09714v1](http://arxiv.org/abs/2608.09714v1)|null|
-|**2026-08-07 15:18:40**|**Entwined lattice of atoms and anionic electrons in layered electride LaCl**|Songyuan Geng et.al.|[2608.07322v1](http://arxiv.org/abs/2608.07322v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v1](http://arxiv.org/abs/2610.08089v1)|null|
+|**2026-10-05 21:20:40**|**Simplified Swarm Optimization for Surrogate-Assisted Reliability Design of Insulated-Gate Bipolar Transistor Power Modules Using an Open-Source Process Finite-Element Model**|Wei-Chang Yeh et.al.|[2610.07412v1](http://arxiv.org/abs/2610.07412v1)|null|
 |**2026-10-05 12:42:52**|**Few-Shot Prototype Head Adaptation for On-Device ECG Personalization on PSoC~6**|Guilherme Silva et.al.|[2610.06241v1](http://arxiv.org/abs/2610.06241v1)|null|
 |**2026-10-02 00:00:42**|**Query Performance Tuning with Optimal Exploration of Optimizer Cost Model Parameter Space**|Wentao Wu et.al.|[2610.02607v1](http://arxiv.org/abs/2610.02607v1)|null|
-|**2026-10-01 19:09:03**|**SOLO: Certified-Recall Metric Similarity Search with Scan-Only Sampled Inverted Lists**|Édgar Chávez et.al.|[2610.02387v1](http://arxiv.org/abs/2610.02387v1)|null|
+|**2026-10-01 19:09:03**|**SOLO: Certified-Recall Metric Similarity Search with Scan-Only Sampled Inverted Lists**|Édgar Chávez et.al.|[2610.02387v2](http://arxiv.org/abs/2610.02387v2)|null|
 |**2026-10-01 17:59:20**|**Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features**|Jason X. Liu et.al.|[2610.02189v1](http://arxiv.org/abs/2610.02189v1)|[link](https://github.com/rotskoff-group/idiom)|
 |**2026-09-30 14:00:39**|**Riemannian Flow Models with Reinforcement Learning for Molecular Crystal Structure Prediction**|Thomas Egg et.al.|[2609.39773v1](http://arxiv.org/abs/2609.39773v1)|null|
 |**2026-09-30 09:23:10**|**EHR-RobustGym: Benchmarking and Training Agents for Robust Clinical Reasoning**|Yitong Qiao et.al.|[2609.39371v1](http://arxiv.org/abs/2609.39371v1)|null|
@@ -106,5 +108,3 @@
 |**2026-08-31 20:51:38**|**Reconstruction of 4D Mitral Regurgitation Hemodynamics from Sparse Planar Data using Deep Operator Networks with Test-Time Adaptation**|Jakob Marcel Hoffmann et.al.|[2609.20857v1](http://arxiv.org/abs/2609.20857v1)|null|
 |**2026-08-31 11:26:31**|**OCR-Based Field Extraction for Archaeological Pottery Metadata: The CENTURIA Dataset**|Gissu Valentina Naghavi et.al.|[2608.30616v1](http://arxiv.org/abs/2608.30616v1)|null|
 |**2026-08-28 09:08:23**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et.al.|[2608.28100v2](http://arxiv.org/abs/2608.28100v2)|null|
-|**2026-08-27 22:30:32**|**Enhancing MRI Brain Tumor Edge Detection: A Hybrid Preprocessing Approach Utilizing CLAHE**|Shahid-E-Kaiser Md. Tashrif et.al.|[2608.28709v1](http://arxiv.org/abs/2608.28709v1)|null|
-|**2026-08-26 22:16:05**|**SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning**|Jiajun Fan et.al.|[2608.26432v1](http://arxiv.org/abs/2608.26432v1)|null|

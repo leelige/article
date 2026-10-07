@@ -2,9 +2,11 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v1](http://arxiv.org/abs/2610.08089v1)|null|
+|**2026-10-05 21:20:40**|**Simplified Swarm Optimization for Surrogate-Assisted Reliability Design of Insulated-Gate Bipolar Transistor Power Modules Using an Open-Source Process Finite-Element Model**|Wei-Chang Yeh et.al.|[2610.07412v1](http://arxiv.org/abs/2610.07412v1)|null|
 |**2026-10-05 12:42:52**|**Few-Shot Prototype Head Adaptation for On-Device ECG Personalization on PSoC~6**|Guilherme Silva et.al.|[2610.06241v1](http://arxiv.org/abs/2610.06241v1)|null|
 |**2026-10-02 00:00:42**|**Query Performance Tuning with Optimal Exploration of Optimizer Cost Model Parameter Space**|Wentao Wu et.al.|[2610.02607v1](http://arxiv.org/abs/2610.02607v1)|null|
-|**2026-10-01 19:09:03**|**SOLO: Certified-Recall Metric Similarity Search with Scan-Only Sampled Inverted Lists**|Édgar Chávez et.al.|[2610.02387v1](http://arxiv.org/abs/2610.02387v1)|null|
+|**2026-10-01 19:09:03**|**SOLO: Certified-Recall Metric Similarity Search with Scan-Only Sampled Inverted Lists**|Édgar Chávez et.al.|[2610.02387v2](http://arxiv.org/abs/2610.02387v2)|null|
 |**2026-10-01 17:59:20**|**Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features**|Jason X. Liu et.al.|[2610.02189v1](http://arxiv.org/abs/2610.02189v1)|[link](https://github.com/rotskoff-group/idiom)|
 |**2026-09-30 14:00:39**|**Riemannian Flow Models with Reinforcement Learning for Molecular Crystal Structure Prediction**|Thomas Egg et.al.|[2609.39773v1](http://arxiv.org/abs/2609.39773v1)|null|
 |**2026-09-30 09:23:10**|**EHR-RobustGym: Benchmarking and Training Agents for Robust Clinical Reasoning**|Yitong Qiao et.al.|[2609.39371v1](http://arxiv.org/abs/2609.39371v1)|null|
@@ -30,5 +32,3 @@
 |**2026-08-31 20:51:38**|**Reconstruction of 4D Mitral Regurgitation Hemodynamics from Sparse Planar Data using Deep Operator Networks with Test-Time Adaptation**|Jakob Marcel Hoffmann et.al.|[2609.20857v1](http://arxiv.org/abs/2609.20857v1)|null|
 |**2026-08-31 11:26:31**|**OCR-Based Field Extraction for Archaeological Pottery Metadata: The CENTURIA Dataset**|Gissu Valentina Naghavi et.al.|[2608.30616v1](http://arxiv.org/abs/2608.30616v1)|null|
 |**2026-08-28 09:08:23**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et.al.|[2608.28100v2](http://arxiv.org/abs/2608.28100v2)|null|
-|**2026-08-27 22:30:32**|**Enhancing MRI Brain Tumor Edge Detection: A Hybrid Preprocessing Approach Utilizing CLAHE**|Shahid-E-Kaiser Md. Tashrif et.al.|[2608.28709v1](http://arxiv.org/abs/2608.28709v1)|null|
-|**2026-08-26 22:16:05**|**SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning**|Jiajun Fan et.al.|[2608.26432v1](http://arxiv.org/abs/2608.26432v1)|null|

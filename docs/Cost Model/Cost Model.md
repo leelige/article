@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v1](http://arxiv.org/abs/2610.08089v1)|null|
 |**2026-10-04 15:55:47**|**AgentDiscover: Autonomous Discovery with Minimal Search Scaffolding**|Mahdi Farahbakhsh et.al.|[2610.05334v1](http://arxiv.org/abs/2610.05334v1)|[link](https://github.com/mhdfb/AgentDiscover)|
 |**2026-10-02 19:32:31**|**Equivariant generative diffusion learns and generalizes the structural ensemble of amorphous oxides**|Jun Jiang et.al.|[2610.03973v1](http://arxiv.org/abs/2610.03973v1)|null|
 |**2026-10-02 17:19:50**|**FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs**|Darian Lee et.al.|[2610.03625v1](http://arxiv.org/abs/2610.03625v1)|null|
@@ -31,4 +32,3 @@
 |**2026-09-08 03:16:20**|**Cassette: Case-to-Case Structural Distillation for Efficient Legal Case Retrieval**|Yanran Tang et.al.|[2609.08185v1](http://arxiv.org/abs/2609.08185v1)|[link](https://github.com/yanran-tang/Cassette)|
 |**2026-09-07 17:29:17**|**TrajectoryDB: A New Database for Agent Trajectories**|Yunjia Zheng et.al.|[2609.07782v1](http://arxiv.org/abs/2609.07782v1)|null|
 |**2026-09-07 13:34:05**|**Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems**|Musiha Mahfuza Mukta et.al.|[2609.07477v1](http://arxiv.org/abs/2609.07477v1)|null|
-|**2026-09-04 22:44:05**|**RAGMark: A Comprehensive Framework for Benchmarking Retrieval-Augmented Generation Systems**|Zlatan Feric et.al.|[2609.05760v1](http://arxiv.org/abs/2609.05760v1)|[link](https://github.com/zferic/RAGMark)|

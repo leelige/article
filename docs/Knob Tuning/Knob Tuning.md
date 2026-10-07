@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-05 23:53:31**|**Targeted search shows that random-device testing underestimates worst-case error in a simulated wave-based neural operator**|Samrendra Roy et.al.|[2610.07529v1](http://arxiv.org/abs/2610.07529v1)|null|
 |**2026-09-29 12:43:03**|**Topological Hall Effect Induced by Chiral Spin Textures at the Ferroelectric/Ferromagnetic Interface**|Jingkuan Xiao et.al.|[2609.37406v1](http://arxiv.org/abs/2609.37406v1)|null|
 |**2026-09-29 02:41:29**|**Multicomponent anyons in one-dimensional optical lattices**|Sagarika Basak et.al.|[2609.36554v1](http://arxiv.org/abs/2609.36554v1)|null|
 |**2026-09-24 08:27:35**|**Schedules Are Solvable Symbols: Tuning-Free Compilation of Tile Programs on Dataflow Architectures**|Heru Wang et.al.|[2609.29219v1](http://arxiv.org/abs/2609.29219v1)|null|
@@ -31,4 +32,3 @@
 |**2026-08-11 21:26:05**|**Layer-Number-Controlled Symmetry Breaking and Surface-State Transport in Rhombohedral Graphene Multilayers**|Bosai Lyu et.al.|[2608.11450v1](http://arxiv.org/abs/2608.11450v1)|null|
 |**2026-08-11 19:57:05**|**Large bias-tunable magnetoresistance from spin-dependent interlayer hybridization in van der Waals antiferromagnet CrSBr-based heterostructures**|Sadeed Hameed et.al.|[2608.11389v1](http://arxiv.org/abs/2608.11389v1)|null|
 |**2026-08-10 15:18:11**|**Sampling Free Energy Landscapes of Ionic Colloidal Crystal Systems using Machine-Learned Proxy Collective Variables**|Michael S. Chen et.al.|[2608.09714v1](http://arxiv.org/abs/2608.09714v1)|null|
-|**2026-08-07 15:18:40**|**Entwined lattice of atoms and anionic electrons in layered electride LaCl**|Songyuan Geng et.al.|[2608.07322v1](http://arxiv.org/abs/2608.07322v1)|null|
