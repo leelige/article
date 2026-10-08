@@ -1,11 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2026-10-07 22:49:54 Asia/Shanghai
+ 自动更新 @ 2026-10-08 23:00:45 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-07 17:49:27**|**Taxonomic Classification with Complete Tag Arrays**|Travis Gagie et.al.|[2610.10500v1](http://arxiv.org/abs/2610.10500v1)|[link](https://github.com/TravisGagie/KATKA)|
+|**2026-10-07 01:42:39**|**No Trace, No Claim: Two Contracts for Database Agents**|Xiaofei Zhang et.al.|[2610.09286v1](http://arxiv.org/abs/2610.09286v1)|null|
 |**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v1](http://arxiv.org/abs/2610.08089v1)|null|
 |**2026-10-04 15:55:47**|**AgentDiscover: Autonomous Discovery with Minimal Search Scaffolding**|Mahdi Farahbakhsh et.al.|[2610.05334v1](http://arxiv.org/abs/2610.05334v1)|[link](https://github.com/mhdfb/AgentDiscover)|
 |**2026-10-02 19:32:31**|**Equivariant generative diffusion learns and generalizes the structural ensemble of amorphous oxides**|Jun Jiang et.al.|[2610.03973v1](http://arxiv.org/abs/2610.03973v1)|null|
@@ -34,14 +36,13 @@
 |**2026-09-08 06:13:30**|**Knots, black holes, databases, and birthdays: Collision entropy of knot invariants**|Pedro Olivares-Sánchez et.al.|[2609.08298v1](http://arxiv.org/abs/2609.08298v1)|null|
 |**2026-09-08 03:38:47**|**BudgetSchemaBench: A Budget-Swept Diagnostic for Schema Context in Text-to-SQL**|Chen Shen et.al.|[2610.00092v1](http://arxiv.org/abs/2610.00092v1)|null|
 |**2026-09-08 03:16:20**|**Cassette: Case-to-Case Structural Distillation for Efficient Legal Case Retrieval**|Yanran Tang et.al.|[2609.08185v1](http://arxiv.org/abs/2609.08185v1)|[link](https://github.com/yanran-tang/Cassette)|
-|**2026-09-07 17:29:17**|**TrajectoryDB: A New Database for Agent Trajectories**|Yunjia Zheng et.al.|[2609.07782v1](http://arxiv.org/abs/2609.07782v1)|null|
-|**2026-09-07 13:34:05**|**Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems**|Musiha Mahfuza Mukta et.al.|[2609.07477v1](http://arxiv.org/abs/2609.07477v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-07 01:14:40**|**CATune: Structural Constraint-Aware Bayesian Optimization for DBMS Configuration Tuning**|Fangping Lan et.al.|[2610.09276v1](http://arxiv.org/abs/2610.09276v1)|null|
 |**2026-10-05 23:53:31**|**Targeted search shows that random-device testing underestimates worst-case error in a simulated wave-based neural operator**|Samrendra Roy et.al.|[2610.07529v1](http://arxiv.org/abs/2610.07529v1)|null|
 |**2026-09-29 12:43:03**|**Topological Hall Effect Induced by Chiral Spin Textures at the Ferroelectric/Ferromagnetic Interface**|Jingkuan Xiao et.al.|[2609.37406v1](http://arxiv.org/abs/2609.37406v1)|null|
 |**2026-09-29 02:41:29**|**Multicomponent anyons in one-dimensional optical lattices**|Sagarika Basak et.al.|[2609.36554v1](http://arxiv.org/abs/2609.36554v1)|null|
@@ -71,7 +72,6 @@
 |**2026-08-12 10:22:52**|**Strain-controlled sign reversal of the anomalous Hall effect in Ru/[Co/Ni]$_N$ multilayers**|Jingying Zhang et.al.|[2608.11897v1](http://arxiv.org/abs/2608.11897v1)|null|
 |**2026-08-11 21:26:05**|**Layer-Number-Controlled Symmetry Breaking and Surface-State Transport in Rhombohedral Graphene Multilayers**|Bosai Lyu et.al.|[2608.11450v1](http://arxiv.org/abs/2608.11450v1)|null|
 |**2026-08-11 19:57:05**|**Large bias-tunable magnetoresistance from spin-dependent interlayer hybridization in van der Waals antiferromagnet CrSBr-based heterostructures**|Sadeed Hameed et.al.|[2608.11389v1](http://arxiv.org/abs/2608.11389v1)|null|
-|**2026-08-10 15:18:11**|**Sampling Free Energy Landscapes of Ionic Colloidal Crystal Systems using Machine-Learned Proxy Collective Variables**|Michael S. Chen et.al.|[2608.09714v1](http://arxiv.org/abs/2608.09714v1)|null|
 
 ## Database Tuning
 
