@@ -2,7 +2,10 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v1](http://arxiv.org/abs/2610.08089v1)|null|
+|**2026-10-08 16:36:39**|**HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments**|Haolin Yang et.al.|[2610.12274v1](http://arxiv.org/abs/2610.12274v1)|null|
+|**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|
+|**2026-10-08 04:30:54**|**SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting**|Van Dai Do et.al.|[2610.11229v1](http://arxiv.org/abs/2610.11229v1)|null|
+|**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v2](http://arxiv.org/abs/2610.08089v2)|null|
 |**2026-10-05 21:20:40**|**Simplified Swarm Optimization for Surrogate-Assisted Reliability Design of Insulated-Gate Bipolar Transistor Power Modules Using an Open-Source Process Finite-Element Model**|Wei-Chang Yeh et.al.|[2610.07412v1](http://arxiv.org/abs/2610.07412v1)|null|
 |**2026-10-05 12:42:52**|**Few-Shot Prototype Head Adaptation for On-Device ECG Personalization on PSoC~6**|Guilherme Silva et.al.|[2610.06241v1](http://arxiv.org/abs/2610.06241v1)|null|
 |**2026-10-02 00:00:42**|**Query Performance Tuning with Optimal Exploration of Optimizer Cost Model Parameter Space**|Wentao Wu et.al.|[2610.02607v1](http://arxiv.org/abs/2610.02607v1)|null|
@@ -29,6 +32,3 @@
 |**2026-09-04 11:44:11**|**Leveraging Low-Level Symbolic Competences for Unsupervised Grounding in Hallucination Detection**|Renato Vukovic et.al.|[2609.05025v1](http://arxiv.org/abs/2609.05025v1)|null|
 |**2026-09-01 13:01:45**|**Athena: Vulnerability-Affected Library Identification via Knowledge Graph Completion**|Phong Trinh Duy et.al.|[2609.01187v1](http://arxiv.org/abs/2609.01187v1)|null|
 |**2026-08-31 22:51:21**|**Can LLMs Use Relational Transformer Embeddings?**|Francisco Galuppo Azevedo et.al.|[2609.00457v1](http://arxiv.org/abs/2609.00457v1)|null|
-|**2026-08-31 20:51:38**|**Reconstruction of 4D Mitral Regurgitation Hemodynamics from Sparse Planar Data using Deep Operator Networks with Test-Time Adaptation**|Jakob Marcel Hoffmann et.al.|[2609.20857v1](http://arxiv.org/abs/2609.20857v1)|null|
-|**2026-08-31 11:26:31**|**OCR-Based Field Extraction for Archaeological Pottery Metadata: The CENTURIA Dataset**|Gissu Valentina Naghavi et.al.|[2608.30616v1](http://arxiv.org/abs/2608.30616v1)|null|
-|**2026-08-28 09:08:23**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et.al.|[2608.28100v2](http://arxiv.org/abs/2608.28100v2)|null|

@@ -2,9 +2,11 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|
+|**2026-10-07 21:52:18**|**AI4Fire: Evaluating Large Language Models on Wildfire Tasks**|Yue Zhao et.al.|[2610.10946v1](http://arxiv.org/abs/2610.10946v1)|null|
 |**2026-10-07 17:49:27**|**Taxonomic Classification with Complete Tag Arrays**|Travis Gagie et.al.|[2610.10500v1](http://arxiv.org/abs/2610.10500v1)|[link](https://github.com/TravisGagie/KATKA)|
 |**2026-10-07 01:42:39**|**No Trace, No Claim: Two Contracts for Database Agents**|Xiaofei Zhang et.al.|[2610.09286v1](http://arxiv.org/abs/2610.09286v1)|null|
-|**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v1](http://arxiv.org/abs/2610.08089v1)|null|
+|**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v2](http://arxiv.org/abs/2610.08089v2)|null|
 |**2026-10-04 15:55:47**|**AgentDiscover: Autonomous Discovery with Minimal Search Scaffolding**|Mahdi Farahbakhsh et.al.|[2610.05334v1](http://arxiv.org/abs/2610.05334v1)|[link](https://github.com/mhdfb/AgentDiscover)|
 |**2026-10-02 19:32:31**|**Equivariant generative diffusion learns and generalizes the structural ensemble of amorphous oxides**|Jun Jiang et.al.|[2610.03973v1](http://arxiv.org/abs/2610.03973v1)|null|
 |**2026-10-02 17:19:50**|**FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs**|Darian Lee et.al.|[2610.03625v1](http://arxiv.org/abs/2610.03625v1)|null|
@@ -30,5 +32,3 @@
 |**2026-09-10 04:06:16**|**Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents**|Susheel Suresh et.al.|[2609.11060v1](http://arxiv.org/abs/2609.11060v1)|null|
 |**2026-09-09 16:31:20**|**Towards Scalable and Cost-Efficient Vulnerability Detection: A Study on Automatic Query Generation**|Ivana Clairine Irsan et.al.|[2609.10412v1](http://arxiv.org/abs/2609.10412v1)|null|
 |**2026-09-08 06:13:30**|**Knots, black holes, databases, and birthdays: Collision entropy of knot invariants**|Pedro Olivares-Sánchez et.al.|[2609.08298v1](http://arxiv.org/abs/2609.08298v1)|null|
-|**2026-09-08 03:38:47**|**BudgetSchemaBench: A Budget-Swept Diagnostic for Schema Context in Text-to-SQL**|Chen Shen et.al.|[2610.00092v1](http://arxiv.org/abs/2610.00092v1)|null|
-|**2026-09-08 03:16:20**|**Cassette: Case-to-Case Structural Distillation for Efficient Legal Case Retrieval**|Yanran Tang et.al.|[2609.08185v1](http://arxiv.org/abs/2609.08185v1)|[link](https://github.com/yanran-tang/Cassette)|
