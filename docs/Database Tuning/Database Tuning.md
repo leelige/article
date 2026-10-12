@@ -2,6 +2,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-09 08:35:28**|**Complexity-Calibrated Reconstruction Discrepancy for No-Reference Point Cloud Quality Assessment**|Haocheng Wu et.al.|[2610.13219v1](http://arxiv.org/abs/2610.13219v1)|[link](https://github.com/HC-W-whc/CCRD-NR-PCQA.git)|
 |**2026-10-08 16:36:39**|**HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments**|Haolin Yang et.al.|[2610.12274v1](http://arxiv.org/abs/2610.12274v1)|null|
 |**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|
 |**2026-10-08 04:30:54**|**SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting**|Van Dai Do et.al.|[2610.11229v1](http://arxiv.org/abs/2610.11229v1)|null|
@@ -31,4 +32,3 @@
 |**2026-09-07 17:29:17**|**TrajectoryDB: A New Database for Agent Trajectories**|Yunjia Zheng et.al.|[2609.07782v1](http://arxiv.org/abs/2609.07782v1)|null|
 |**2026-09-04 11:44:11**|**Leveraging Low-Level Symbolic Competences for Unsupervised Grounding in Hallucination Detection**|Renato Vukovic et.al.|[2609.05025v1](http://arxiv.org/abs/2609.05025v1)|null|
 |**2026-09-01 13:01:45**|**Athena: Vulnerability-Affected Library Identification via Knowledge Graph Completion**|Phong Trinh Duy et.al.|[2609.01187v1](http://arxiv.org/abs/2609.01187v1)|null|
-|**2026-08-31 22:51:21**|**Can LLMs Use Relational Transformer Embeddings?**|Francisco Galuppo Azevedo et.al.|[2609.00457v1](http://arxiv.org/abs/2609.00457v1)|null|

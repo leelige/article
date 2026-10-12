@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-09 13:27:20**|**MatQuery: Execution-Grounded Natural-Language Querying over Heterogeneous Materials Databases**|Chen Jason Zhang et.al.|[2610.13573v1](http://arxiv.org/abs/2610.13573v1)|null|
 |**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|
 |**2026-10-07 21:52:18**|**AI4Fire: Evaluating Large Language Models on Wildfire Tasks**|Yue Zhao et.al.|[2610.10946v1](http://arxiv.org/abs/2610.10946v1)|null|
 |**2026-10-07 17:49:27**|**Taxonomic Classification with Complete Tag Arrays**|Travis Gagie et.al.|[2610.10500v1](http://arxiv.org/abs/2610.10500v1)|[link](https://github.com/TravisGagie/KATKA)|
@@ -31,4 +32,3 @@
 |**2026-09-10 17:30:39**|**Atlas: Efficient Verifiable Semantic Search**|Nikolay Avramov et.al.|[2609.11841v1](http://arxiv.org/abs/2609.11841v1)|null|
 |**2026-09-10 04:06:16**|**Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents**|Susheel Suresh et.al.|[2609.11060v1](http://arxiv.org/abs/2609.11060v1)|null|
 |**2026-09-09 16:31:20**|**Towards Scalable and Cost-Efficient Vulnerability Detection: A Study on Automatic Query Generation**|Ivana Clairine Irsan et.al.|[2609.10412v1](http://arxiv.org/abs/2609.10412v1)|null|
-|**2026-09-08 06:13:30**|**Knots, black holes, databases, and birthdays: Collision entropy of knot invariants**|Pedro Olivares-Sánchez et.al.|[2609.08298v1](http://arxiv.org/abs/2609.08298v1)|null|
