@@ -2,10 +2,12 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-12 18:14:43**|**Does a Governed Confidence Score Know When a Text-to-SQL Answer Is Right? An Exploratory Study on BIRD and a Pre-registered Confirmation on Spider**|Raghu Venkat et.al.|[2610.17256v1](http://arxiv.org/abs/2610.17256v1)|null|
+|**2026-10-09 20:21:46**|**ARMOR: Adversary Cost Amplification via a Schema-Preserving Password-Hardening Retrofit for Resource-Constrained Systems**|Avinash Srinivasan et.al.|[2610.14300v1](http://arxiv.org/abs/2610.14300v1)|null|
+|**2026-10-09 17:42:26**|**Agentic Evolution of SQL Test Generators**|Suyang Zhong et.al.|[2610.14161v1](http://arxiv.org/abs/2610.14161v1)|null|
 |**2026-10-09 13:27:20**|**MatQuery: Execution-Grounded Natural-Language Querying over Heterogeneous Materials Databases**|Chen Jason Zhang et.al.|[2610.13573v1](http://arxiv.org/abs/2610.13573v1)|null|
 |**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|
-|**2026-10-07 21:52:18**|**AI4Fire: Evaluating Large Language Models on Wildfire Tasks**|Yue Zhao et.al.|[2610.10946v1](http://arxiv.org/abs/2610.10946v1)|null|
-|**2026-10-07 17:49:27**|**Taxonomic Classification with Complete Tag Arrays**|Travis Gagie et.al.|[2610.10500v1](http://arxiv.org/abs/2610.10500v1)|[link](https://github.com/TravisGagie/KATKA)|
+|**2026-10-07 21:52:18**|**AI4Fire: Evaluating Large Language Models on Wildfire Tasks**|Yue Zhao et.al.|[2610.10946v2](http://arxiv.org/abs/2610.10946v2)|null|
 |**2026-10-07 01:42:39**|**No Trace, No Claim: Two Contracts for Database Agents**|Xiaofei Zhang et.al.|[2610.09286v1](http://arxiv.org/abs/2610.09286v1)|null|
 |**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v2](http://arxiv.org/abs/2610.08089v2)|null|
 |**2026-10-04 15:55:47**|**AgentDiscover: Autonomous Discovery with Minimal Search Scaffolding**|Mahdi Farahbakhsh et.al.|[2610.05334v1](http://arxiv.org/abs/2610.05334v1)|[link](https://github.com/mhdfb/AgentDiscover)|
@@ -30,5 +32,3 @@
 |**2026-09-13 03:12:43**|**Towards Anticipatory Databases Through Shared Data and Workload Semantics**|Farzaneh Zirak et.al.|[2609.14255v1](http://arxiv.org/abs/2609.14255v1)|null|
 |**2026-09-12 21:00:29**|**RAGCell: Retrieval-Augmented Generation as Supervision for Versatile Single-cell Analysis**|Tianyu Liu et.al.|[2609.14147v1](http://arxiv.org/abs/2609.14147v1)|null|
 |**2026-09-10 17:30:39**|**Atlas: Efficient Verifiable Semantic Search**|Nikolay Avramov et.al.|[2609.11841v1](http://arxiv.org/abs/2609.11841v1)|null|
-|**2026-09-10 04:06:16**|**Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents**|Susheel Suresh et.al.|[2609.11060v1](http://arxiv.org/abs/2609.11060v1)|null|
-|**2026-09-09 16:31:20**|**Towards Scalable and Cost-Efficient Vulnerability Detection: A Study on Automatic Query Generation**|Ivana Clairine Irsan et.al.|[2609.10412v1](http://arxiv.org/abs/2609.10412v1)|null|

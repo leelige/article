@@ -2,8 +2,12 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-13 07:27:44**|**RT-J: Large-Scale Pretraining of Relational Transformers for Context-Efficient Predictions**|Rishabh Ranjan et.al.|[2610.17867v1](http://arxiv.org/abs/2610.17867v1)|null|
+|**2026-10-12 19:22:19**|**GPU Goldmines: Tunable WebGPU Kernels for Edge LLM Inference**|Rithik Sharma et.al.|[2610.17321v1](http://arxiv.org/abs/2610.17321v1)|null|
+|**2026-10-12 16:41:59**|**Nearest Neighbor Functional Curve Completion for Intraday Probabilistic Revisions of Renewable Generation Forecasts**|Guillermo Terrén-Serrano et.al.|[2610.17075v1](http://arxiv.org/abs/2610.17075v1)|null|
+|**2026-10-12 14:56:21**|**Mining Cross-Modal Perception Gaps in Autonomous Driving: When Camera and LiDAR Disagree**|Hongsen Cao et.al.|[2610.16906v1](http://arxiv.org/abs/2610.16906v1)|null|
 |**2026-10-09 08:35:28**|**Complexity-Calibrated Reconstruction Discrepancy for No-Reference Point Cloud Quality Assessment**|Haocheng Wu et.al.|[2610.13219v1](http://arxiv.org/abs/2610.13219v1)|[link](https://github.com/HC-W-whc/CCRD-NR-PCQA.git)|
-|**2026-10-08 16:36:39**|**HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments**|Haolin Yang et.al.|[2610.12274v1](http://arxiv.org/abs/2610.12274v1)|null|
+|**2026-10-08 16:36:39**|**HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments**|Haolin Yang et.al.|[2610.12274v2](http://arxiv.org/abs/2610.12274v2)|null|
 |**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|
 |**2026-10-08 04:30:54**|**SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting**|Van Dai Do et.al.|[2610.11229v1](http://arxiv.org/abs/2610.11229v1)|null|
 |**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v2](http://arxiv.org/abs/2610.08089v2)|null|
@@ -28,7 +32,3 @@
 |**2026-09-15 12:47:16**|**Enhancing Procedural Writing Through Personalized Example Retrieval: A Case Study on Cooking Recipes**|Paola Mejia-Domenzain et.al.|[2609.17118v1](http://arxiv.org/abs/2609.17118v1)|null|
 |**2026-09-10 09:17:21**|**Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data**|Benjamin Gruenbaum et.al.|[2609.11286v2](http://arxiv.org/abs/2609.11286v2)|null|
 |**2026-09-09 16:43:26**|**Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs**|Kostia Kudriavtsev et.al.|[2609.10430v1](http://arxiv.org/abs/2609.10430v1)|null|
-|**2026-09-07 23:51:12**|**MI-PEFT: Mixture-of-Experts Integrated Parameter-Efficient Fine-Tuning Protein Language Models Improves Acidophilic Proteins Classification**|Honghan Shen et.al.|[2609.08059v1](http://arxiv.org/abs/2609.08059v1)|null|
-|**2026-09-07 17:29:17**|**TrajectoryDB: A New Database for Agent Trajectories**|Yunjia Zheng et.al.|[2609.07782v1](http://arxiv.org/abs/2609.07782v1)|null|
-|**2026-09-04 11:44:11**|**Leveraging Low-Level Symbolic Competences for Unsupervised Grounding in Hallucination Detection**|Renato Vukovic et.al.|[2609.05025v1](http://arxiv.org/abs/2609.05025v1)|null|
-|**2026-09-01 13:01:45**|**Athena: Vulnerability-Affected Library Identification via Knowledge Graph Completion**|Phong Trinh Duy et.al.|[2609.01187v1](http://arxiv.org/abs/2609.01187v1)|null|

@@ -2,6 +2,9 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-13 00:49:11**|**ATTUNE: Agentic Throughput Tuning for LLM Training**|Leo Fan et.al.|[2610.17528v1](http://arxiv.org/abs/2610.17528v1)|[link](https://github.com/amazon-science/attune)|
+|**2026-10-12 09:38:05**|**Molecule-intercalated van der Waals Josephson junctions uncover complex multiband superconductivity**|Daniel Margineda et.al.|[2610.16483v1](http://arxiv.org/abs/2610.16483v1)|null|
+|**2026-10-11 16:04:50**|**Reversible intrinsic-extrinsic crossover of the anomalous Hall effect in PrAlSi via Al/Si ratio tuning**|Huiyang Yang et.al.|[2610.15726v1](http://arxiv.org/abs/2610.15726v1)|null|
 |**2026-10-07 01:14:40**|**CATune: Structural Constraint-Aware Bayesian Optimization for DBMS Configuration Tuning**|Fangping Lan et.al.|[2610.09276v1](http://arxiv.org/abs/2610.09276v1)|null|
 |**2026-10-05 23:53:31**|**Targeted search shows that random-device testing underestimates worst-case error in a simulated wave-based neural operator**|Samrendra Roy et.al.|[2610.07529v1](http://arxiv.org/abs/2610.07529v1)|null|
 |**2026-09-29 12:43:03**|**Topological Hall Effect Induced by Chiral Spin Textures at the Ferroelectric/Ferromagnetic Interface**|Jingkuan Xiao et.al.|[2609.37406v1](http://arxiv.org/abs/2609.37406v1)|null|
@@ -29,6 +32,3 @@
 |**2026-08-17 08:25:56**|**Quantum Mpemba Speedups in the Thermodynamics of Landauer Erasure**|Pritam Chattopadhyay et.al.|[2608.16254v1](http://arxiv.org/abs/2608.16254v1)|null|
 |**2026-08-16 22:01:16**|**KV-Pipe: On the Relation Between KV Sharing and Pipeline Parallel Efficiency in LLMs**|Maryam Dialameh et.al.|[2608.15943v2](http://arxiv.org/abs/2608.15943v2)|null|
 |**2026-08-13 14:04:23**|**Topological Superconductors in Doubly-Coupled Nanowires with Altermagnetism**|Hongfa Pan et.al.|[2608.13265v1](http://arxiv.org/abs/2608.13265v1)|null|
-|**2026-08-12 10:22:52**|**Strain-controlled sign reversal of the anomalous Hall effect in Ru/[Co/Ni]$_N$ multilayers**|Jingying Zhang et.al.|[2608.11897v1](http://arxiv.org/abs/2608.11897v1)|null|
-|**2026-08-11 21:26:05**|**Layer-Number-Controlled Symmetry Breaking and Surface-State Transport in Rhombohedral Graphene Multilayers**|Bosai Lyu et.al.|[2608.11450v1](http://arxiv.org/abs/2608.11450v1)|null|
-|**2026-08-11 19:57:05**|**Large bias-tunable magnetoresistance from spin-dependent interlayer hybridization in van der Waals antiferromagnet CrSBr-based heterostructures**|Sadeed Hameed et.al.|[2608.11389v1](http://arxiv.org/abs/2608.11389v1)|null|
