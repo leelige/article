@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-10-14 21:08:26 Asia/Shanghai
+ 自动更新 @ 2026-10-15 20:54:46 Asia/Shanghai
 
 ## Cost Model
 
@@ -42,6 +42,8 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-14 03:59:51**|**Pressure engineering of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré superlattices**|Wenbing Li et.al.|[2610.19542v1](http://arxiv.org/abs/2610.19542v1)|null|
+|**2026-10-13 19:49:23**|**Engineering Correlated Transparent Conductors via Metal-Insulator Transition Proximity**|Amit Cohen et.al.|[2610.19112v1](http://arxiv.org/abs/2610.19112v1)|null|
 |**2026-10-13 00:49:11**|**ATTUNE: Agentic Throughput Tuning for LLM Training**|Leo Fan et.al.|[2610.17528v1](http://arxiv.org/abs/2610.17528v1)|[link](https://github.com/amazon-science/attune)|
 |**2026-10-12 09:38:05**|**Molecule-intercalated van der Waals Josephson junctions uncover complex multiband superconductivity**|Daniel Margineda et.al.|[2610.16483v1](http://arxiv.org/abs/2610.16483v1)|null|
 |**2026-10-11 16:04:50**|**Reversible intrinsic-extrinsic crossover of the anomalous Hall effect in PrAlSi via Al/Si ratio tuning**|Huiyang Yang et.al.|[2610.15726v1](http://arxiv.org/abs/2610.15726v1)|null|
@@ -70,20 +72,20 @@
 |**2026-08-21 13:26:40**|**All-Optical Control of Interfacial Polarization in MoS$_2$/WSe$_2$ Heterobilayers**|Muhammad Sufyan Ramzan et.al.|[2608.21493v2](http://arxiv.org/abs/2608.21493v2)|null|
 |**2026-08-17 17:33:42**|**Topology-Aware Differentiable Triangle-Soup Reconstruction via Persistent Homology**|Viritphon Chongpermwattanapol et.al.|[2608.16848v1](http://arxiv.org/abs/2608.16848v1)|null|
 |**2026-08-17 08:25:56**|**Quantum Mpemba Speedups in the Thermodynamics of Landauer Erasure**|Pritam Chattopadhyay et.al.|[2608.16254v1](http://arxiv.org/abs/2608.16254v1)|null|
-|**2026-08-16 22:01:16**|**KV-Pipe: On the Relation Between KV Sharing and Pipeline Parallel Efficiency in LLMs**|Maryam Dialameh et.al.|[2608.15943v2](http://arxiv.org/abs/2608.15943v2)|null|
-|**2026-08-13 14:04:23**|**Topological Superconductors in Doubly-Coupled Nanowires with Altermagnetism**|Hongfa Pan et.al.|[2608.13265v1](http://arxiv.org/abs/2608.13265v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-10-13 07:27:44**|**RT-J: Large-Scale Pretraining of Relational Transformers for Context-Efficient Predictions**|Rishabh Ranjan et.al.|[2610.17867v1](http://arxiv.org/abs/2610.17867v1)|null|
+|**2026-10-14 12:04:11**|**Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential**|Nils-Ruben Skogemyr et.al.|[2610.20063v1](http://arxiv.org/abs/2610.20063v1)|null|
+|**2026-10-14 06:10:29**|**Synthetic reaction data from transformation rules for graph-to-sequence pretraining in biodegradation pathway prediction**|Irsyaad Rijwan et.al.|[2610.19640v1](http://arxiv.org/abs/2610.19640v1)|null|
+|**2026-10-13 07:27:44**|**RT-J: Large-Scale Pretraining of Relational Transformers for Context-Efficient Predictions**|Rishabh Ranjan et.al.|[2610.17867v2](http://arxiv.org/abs/2610.17867v2)|null|
 |**2026-10-12 19:22:19**|**GPU Goldmines: Tunable WebGPU Kernels for Edge LLM Inference**|Rithik Sharma et.al.|[2610.17321v1](http://arxiv.org/abs/2610.17321v1)|null|
 |**2026-10-12 16:41:59**|**Nearest Neighbor Functional Curve Completion for Intraday Probabilistic Revisions of Renewable Generation Forecasts**|Guillermo Terrén-Serrano et.al.|[2610.17075v1](http://arxiv.org/abs/2610.17075v1)|null|
 |**2026-10-12 14:56:21**|**Mining Cross-Modal Perception Gaps in Autonomous Driving: When Camera and LiDAR Disagree**|Hongsen Cao et.al.|[2610.16906v1](http://arxiv.org/abs/2610.16906v1)|null|
 |**2026-10-09 08:35:28**|**Complexity-Calibrated Reconstruction Discrepancy for No-Reference Point Cloud Quality Assessment**|Haocheng Wu et.al.|[2610.13219v1](http://arxiv.org/abs/2610.13219v1)|[link](https://github.com/HC-W-whc/CCRD-NR-PCQA.git)|
-|**2026-10-08 16:36:39**|**HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments**|Haolin Yang et.al.|[2610.12274v2](http://arxiv.org/abs/2610.12274v2)|null|
+|**2026-10-08 16:36:39**|**HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments**|Haolin Yang et.al.|[2610.12274v3](http://arxiv.org/abs/2610.12274v3)|null|
 |**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|
 |**2026-10-08 04:30:54**|**SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting**|Van Dai Do et.al.|[2610.11229v1](http://arxiv.org/abs/2610.11229v1)|null|
 |**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v2](http://arxiv.org/abs/2610.08089v2)|null|
@@ -103,8 +105,6 @@
 |**2026-09-24 13:30:04**|**Adapting a Large Language Model Crash-Severity Pipeline to Tennessee: Performance Across Sampling Strategies**|Abhilasha Saroj et.al.|[2609.29793v1](http://arxiv.org/abs/2609.29793v1)|null|
 |**2026-09-22 16:20:37**|**Proof-of-Retention: A Framework for Auditable Cross-Organization Data Sharing**|Kyle MacMillan et.al.|[2609.26654v1](http://arxiv.org/abs/2609.26654v1)|null|
 |**2026-09-21 06:58:26**|**LIMIT: Less Is More for Instruction Tuning in Text-to-SQL**|Haoyuan Ma et.al.|[2609.24186v1](http://arxiv.org/abs/2609.24186v1)|null|
-|**2026-09-19 09:54:16**|**An Iterative LangGraph Agent for Text-to-SQL: Natural Language Access to the Chicago Crime Database**|Vigneshwar Ravi Rao et.al.|[2609.22917v1](http://arxiv.org/abs/2609.22917v1)|null|
+|**2026-09-19 09:54:16**|**An Iterative LangGraph Agent for Text-to-SQL: Natural Language Access to the Chicago Crime Database**|Vigneshwar Ravi Rao et.al.|[2609.22917v2](http://arxiv.org/abs/2609.22917v2)|null|
 |**2026-09-16 04:58:25**|**AutoTuneBench: Trustworthy Measurement for Agent Auto-Tuning of LLM Serving Engines**|Li Chen et.al.|[2609.18123v1](http://arxiv.org/abs/2609.18123v1)|null|
 |**2026-09-15 12:47:16**|**Enhancing Procedural Writing Through Personalized Example Retrieval: A Case Study on Cooking Recipes**|Paola Mejia-Domenzain et.al.|[2609.17118v1](http://arxiv.org/abs/2609.17118v1)|null|
-|**2026-09-10 09:17:21**|**Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data**|Benjamin Gruenbaum et.al.|[2609.11286v2](http://arxiv.org/abs/2609.11286v2)|null|
-|**2026-09-09 16:43:26**|**Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs**|Kostia Kudriavtsev et.al.|[2609.10430v1](http://arxiv.org/abs/2609.10430v1)|null|
