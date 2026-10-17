@@ -4,3 +4,4 @@ pyyaml
 loguru
 pytz
 fire
+defusedxml
