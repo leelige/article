@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-15 18:03:29**|**TCDA: Tunable Coded Distributed Arrays for Data Availability Sampling**|Duc A. Tran et.al.|[2610.22508v1](http://arxiv.org/abs/2610.22508v1)|null|
 |**2026-10-14 03:59:51**|**Pressure engineering of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré superlattices**|Wenbing Li et.al.|[2610.19542v1](http://arxiv.org/abs/2610.19542v1)|null|
 |**2026-10-13 19:49:23**|**Engineering Correlated Transparent Conductors via Metal-Insulator Transition Proximity**|Amit Cohen et.al.|[2610.19112v1](http://arxiv.org/abs/2610.19112v1)|null|
 |**2026-10-13 00:49:11**|**ATTUNE: Agentic Throughput Tuning for LLM Training**|Leo Fan et.al.|[2610.17528v1](http://arxiv.org/abs/2610.17528v1)|[link](https://github.com/amazon-science/attune)|
@@ -31,4 +32,3 @@
 |**2026-08-23 02:53:20**|**Unveiling the Depth-Performance Dilemma in Split-Federated Fine-tuning of LLMs**|Hariharan Ramesh et.al.|[2608.22188v1](http://arxiv.org/abs/2608.22188v1)|null|
 |**2026-08-21 13:26:40**|**All-Optical Control of Interfacial Polarization in MoS$_2$/WSe$_2$ Heterobilayers**|Muhammad Sufyan Ramzan et.al.|[2608.21493v2](http://arxiv.org/abs/2608.21493v2)|null|
 |**2026-08-17 17:33:42**|**Topology-Aware Differentiable Triangle-Soup Reconstruction via Persistent Homology**|Viritphon Chongpermwattanapol et.al.|[2608.16848v1](http://arxiv.org/abs/2608.16848v1)|null|
-|**2026-08-17 08:25:56**|**Quantum Mpemba Speedups in the Thermodynamics of Landauer Erasure**|Pritam Chattopadhyay et.al.|[2608.16254v1](http://arxiv.org/abs/2608.16254v1)|null|

@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-10-18 20:13:40 Asia/Shanghai
+ 自动更新 @ 2026-10-19 23:04:13 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-15 21:41:13**|**The Case for TPU-Accelerated Analytical Query Processing**|Yeounoh Chung et.al.|[2610.22673v1](http://arxiv.org/abs/2610.22673v1)|null|
 |**2026-10-15 04:02:26**|**A machine-learning-driven dataset of 144,111 polycyclic aromatic hydrocarbon infrared spectra for interpreting aromatic infrared bands**|Xinghong Mai et.al.|[2610.21205v1](http://arxiv.org/abs/2610.21205v1)|null|
 |**2026-10-15 03:30:36**|**Amora: Communication-Efficient Private Approximate Nearest Neighbors Search**|Qiuhao Wang et.al.|[2610.21174v1](http://arxiv.org/abs/2610.21174v1)|null|
 |**2026-10-14 21:29:59**|**Same Context, Different Agents: A Behavioral Study of Semantic Layers, Orchestration and Compaction in Data Agents**|Zhivar Sourati et.al.|[2610.20959v1](http://arxiv.org/abs/2610.20959v1)|null|
@@ -35,13 +36,13 @@
 |**2026-09-15 12:38:43**|**Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics**|Baibek Davletiyarov et.al.|[2609.17107v1](http://arxiv.org/abs/2609.17107v1)|null|
 |**2026-09-15 09:06:00**|**Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility**|Jaeseok Byun et.al.|[2609.16875v1](http://arxiv.org/abs/2609.16875v1)|null|
 |**2026-09-15 04:43:23**|**Quantifying Organizational Environmental Action from Web Data and Large Language Models**|Quinn Reynolds et.al.|[2609.16627v1](http://arxiv.org/abs/2609.16627v1)|null|
-|**2026-09-13 12:56:32**|**MIRAGE: Measuring Interpolation and Redundancy in Affinity GEneralization**|Mehdi Yazdani-Jahromi et.al.|[2609.14491v1](http://arxiv.org/abs/2609.14491v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-15 18:03:29**|**TCDA: Tunable Coded Distributed Arrays for Data Availability Sampling**|Duc A. Tran et.al.|[2610.22508v1](http://arxiv.org/abs/2610.22508v1)|null|
 |**2026-10-14 03:59:51**|**Pressure engineering of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré superlattices**|Wenbing Li et.al.|[2610.19542v1](http://arxiv.org/abs/2610.19542v1)|null|
 |**2026-10-13 19:49:23**|**Engineering Correlated Transparent Conductors via Metal-Insulator Transition Proximity**|Amit Cohen et.al.|[2610.19112v1](http://arxiv.org/abs/2610.19112v1)|null|
 |**2026-10-13 00:49:11**|**ATTUNE: Agentic Throughput Tuning for LLM Training**|Leo Fan et.al.|[2610.17528v1](http://arxiv.org/abs/2610.17528v1)|[link](https://github.com/amazon-science/attune)|
@@ -71,13 +72,14 @@
 |**2026-08-23 02:53:20**|**Unveiling the Depth-Performance Dilemma in Split-Federated Fine-tuning of LLMs**|Hariharan Ramesh et.al.|[2608.22188v1](http://arxiv.org/abs/2608.22188v1)|null|
 |**2026-08-21 13:26:40**|**All-Optical Control of Interfacial Polarization in MoS$_2$/WSe$_2$ Heterobilayers**|Muhammad Sufyan Ramzan et.al.|[2608.21493v2](http://arxiv.org/abs/2608.21493v2)|null|
 |**2026-08-17 17:33:42**|**Topology-Aware Differentiable Triangle-Soup Reconstruction via Persistent Homology**|Viritphon Chongpermwattanapol et.al.|[2608.16848v1](http://arxiv.org/abs/2608.16848v1)|null|
-|**2026-08-17 08:25:56**|**Quantum Mpemba Speedups in the Thermodynamics of Landauer Erasure**|Pritam Chattopadhyay et.al.|[2608.16254v1](http://arxiv.org/abs/2608.16254v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-16 15:28:34**|**GEMS: Molecular Structure Elucidation as Learned Search over Isomer Graphs**|Utku Umur Acikalin et.al.|[2610.23617v1](http://arxiv.org/abs/2610.23617v1)|null|
+|**2026-10-16 07:43:20**|**Path to Prior-Data Fitted Relational Models via Learned Latent Multi-table Representations**|Mohammad Sadeq Abolhasani et.al.|[2610.23073v1](http://arxiv.org/abs/2610.23073v1)|null|
 |**2026-10-15 06:02:39**|**Money-Mule Detection as a Relational Learning Problem: A Study on the RBIH NFPC Dataset**|Owais Ahmad et.al.|[2610.21314v1](http://arxiv.org/abs/2610.21314v1)|null|
 |**2026-10-14 12:04:11**|**Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential**|Nils-Ruben Skogemyr et.al.|[2610.20063v1](http://arxiv.org/abs/2610.20063v1)|null|
 |**2026-10-14 06:10:29**|**Synthetic reaction data from transformation rules for graph-to-sequence pretraining in biodegradation pathway prediction**|Irsyaad Rijwan et.al.|[2610.19640v1](http://arxiv.org/abs/2610.19640v1)|null|
@@ -106,5 +108,3 @@
 |**2026-09-28 11:54:13**|**Inspector: Conversational and Lightweight Analyzer of Analog Circuit Layouts Using LLM and CNNs**|Abril Cano Castro et.al.|[2609.34976v1](http://arxiv.org/abs/2609.34976v1)|null|
 |**2026-09-24 13:30:04**|**Adapting a Large Language Model Crash-Severity Pipeline to Tennessee: Performance Across Sampling Strategies**|Abhilasha Saroj et.al.|[2609.29793v1](http://arxiv.org/abs/2609.29793v1)|null|
 |**2026-09-22 16:20:37**|**Proof-of-Retention: A Framework for Auditable Cross-Organization Data Sharing**|Kyle MacMillan et.al.|[2609.26654v1](http://arxiv.org/abs/2609.26654v1)|null|
-|**2026-09-21 06:58:26**|**LIMIT: Less Is More for Instruction Tuning in Text-to-SQL**|Haoyuan Ma et.al.|[2609.24186v1](http://arxiv.org/abs/2609.24186v1)|null|
-|**2026-09-19 09:54:16**|**An Iterative LangGraph Agent for Text-to-SQL: Natural Language Access to the Chicago Crime Database**|Vigneshwar Ravi Rao et.al.|[2609.22917v2](http://arxiv.org/abs/2609.22917v2)|null|

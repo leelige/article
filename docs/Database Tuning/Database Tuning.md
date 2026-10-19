@@ -2,6 +2,8 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-16 15:28:34**|**GEMS: Molecular Structure Elucidation as Learned Search over Isomer Graphs**|Utku Umur Acikalin et.al.|[2610.23617v1](http://arxiv.org/abs/2610.23617v1)|null|
+|**2026-10-16 07:43:20**|**Path to Prior-Data Fitted Relational Models via Learned Latent Multi-table Representations**|Mohammad Sadeq Abolhasani et.al.|[2610.23073v1](http://arxiv.org/abs/2610.23073v1)|null|
 |**2026-10-15 06:02:39**|**Money-Mule Detection as a Relational Learning Problem: A Study on the RBIH NFPC Dataset**|Owais Ahmad et.al.|[2610.21314v1](http://arxiv.org/abs/2610.21314v1)|null|
 |**2026-10-14 12:04:11**|**Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential**|Nils-Ruben Skogemyr et.al.|[2610.20063v1](http://arxiv.org/abs/2610.20063v1)|null|
 |**2026-10-14 06:10:29**|**Synthetic reaction data from transformation rules for graph-to-sequence pretraining in biodegradation pathway prediction**|Irsyaad Rijwan et.al.|[2610.19640v1](http://arxiv.org/abs/2610.19640v1)|null|
@@ -30,5 +32,3 @@
 |**2026-09-28 11:54:13**|**Inspector: Conversational and Lightweight Analyzer of Analog Circuit Layouts Using LLM and CNNs**|Abril Cano Castro et.al.|[2609.34976v1](http://arxiv.org/abs/2609.34976v1)|null|
 |**2026-09-24 13:30:04**|**Adapting a Large Language Model Crash-Severity Pipeline to Tennessee: Performance Across Sampling Strategies**|Abhilasha Saroj et.al.|[2609.29793v1](http://arxiv.org/abs/2609.29793v1)|null|
 |**2026-09-22 16:20:37**|**Proof-of-Retention: A Framework for Auditable Cross-Organization Data Sharing**|Kyle MacMillan et.al.|[2609.26654v1](http://arxiv.org/abs/2609.26654v1)|null|
-|**2026-09-21 06:58:26**|**LIMIT: Less Is More for Instruction Tuning in Text-to-SQL**|Haoyuan Ma et.al.|[2609.24186v1](http://arxiv.org/abs/2609.24186v1)|null|
-|**2026-09-19 09:54:16**|**An Iterative LangGraph Agent for Text-to-SQL: Natural Language Access to the Chicago Crime Database**|Vigneshwar Ravi Rao et.al.|[2609.22917v2](http://arxiv.org/abs/2609.22917v2)|null|

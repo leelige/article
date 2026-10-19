@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-15 21:41:13**|**The Case for TPU-Accelerated Analytical Query Processing**|Yeounoh Chung et.al.|[2610.22673v1](http://arxiv.org/abs/2610.22673v1)|null|
 |**2026-10-15 04:02:26**|**A machine-learning-driven dataset of 144,111 polycyclic aromatic hydrocarbon infrared spectra for interpreting aromatic infrared bands**|Xinghong Mai et.al.|[2610.21205v1](http://arxiv.org/abs/2610.21205v1)|null|
 |**2026-10-15 03:30:36**|**Amora: Communication-Efficient Private Approximate Nearest Neighbors Search**|Qiuhao Wang et.al.|[2610.21174v1](http://arxiv.org/abs/2610.21174v1)|null|
 |**2026-10-14 21:29:59**|**Same Context, Different Agents: A Behavioral Study of Semantic Layers, Orchestration and Compaction in Data Agents**|Zhivar Sourati et.al.|[2610.20959v1](http://arxiv.org/abs/2610.20959v1)|null|
@@ -31,4 +32,3 @@
 |**2026-09-15 12:38:43**|**Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics**|Baibek Davletiyarov et.al.|[2609.17107v1](http://arxiv.org/abs/2609.17107v1)|null|
 |**2026-09-15 09:06:00**|**Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility**|Jaeseok Byun et.al.|[2609.16875v1](http://arxiv.org/abs/2609.16875v1)|null|
 |**2026-09-15 04:43:23**|**Quantifying Organizational Environmental Action from Web Data and Large Language Models**|Quinn Reynolds et.al.|[2609.16627v1](http://arxiv.org/abs/2609.16627v1)|null|
-|**2026-09-13 12:56:32**|**MIRAGE: Measuring Interpolation and Redundancy in Affinity GEneralization**|Mehdi Yazdani-Jahromi et.al.|[2609.14491v1](http://arxiv.org/abs/2609.14491v1)|null|
