@@ -2,6 +2,9 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-19 02:05:58**|**Beyond Leaderboards: A Method for Application-Specific Capability Profiling of Large Language Models**|Oleg Grynets et.al.|[2610.25659v1](http://arxiv.org/abs/2610.25659v1)|null|
+|**2026-10-17 22:46:56**|**HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents**|Soyoung Yoon et.al.|[2610.24899v1](http://arxiv.org/abs/2610.24899v1)|null|
+|**2026-10-16 22:46:52**|**Predicting CVSS and CWE from CVE Descriptions with Fine-Tuned Small Language Models**|Tara Dixit et.al.|[2610.24297v1](http://arxiv.org/abs/2610.24297v1)|null|
 |**2026-10-16 15:28:34**|**GEMS: Molecular Structure Elucidation as Learned Search over Isomer Graphs**|Utku Umur Acikalin et.al.|[2610.23617v1](http://arxiv.org/abs/2610.23617v1)|null|
 |**2026-10-16 07:43:20**|**Path to Prior-Data Fitted Relational Models via Learned Latent Multi-table Representations**|Mohammad Sadeq Abolhasani et.al.|[2610.23073v1](http://arxiv.org/abs/2610.23073v1)|null|
 |**2026-10-15 06:02:39**|**Money-Mule Detection as a Relational Learning Problem: A Study on the RBIH NFPC Dataset**|Owais Ahmad et.al.|[2610.21314v1](http://arxiv.org/abs/2610.21314v1)|null|
@@ -29,6 +32,3 @@
 |**2026-09-29 08:21:18**|**CypherTurn: A Multi-Turn Benchmark for Conversational Text-to-Cypher Evaluation and the Autonomy Divergence**|Yuzhe Zhang et.al.|[2609.36987v1](http://arxiv.org/abs/2609.36987v1)|[link](https://github.com/BarryQ/CypherTurn)|
 |**2026-09-28 18:00:07**|**Making Cross-Continental Federated Learning Repeatable with FLIP: a Multi-Application Study**|Rafael Garcia-Dias et.al.|[2609.36001v1](http://arxiv.org/abs/2609.36001v1)|null|
 |**2026-09-28 12:32:42**|**THEIA: A Multimodal Dataset and Benchmark for Vision-Language Analysis of Layout**|Giuseppe Chiari et.al.|[2609.35035v3](http://arxiv.org/abs/2609.35035v3)|null|
-|**2026-09-28 11:54:13**|**Inspector: Conversational and Lightweight Analyzer of Analog Circuit Layouts Using LLM and CNNs**|Abril Cano Castro et.al.|[2609.34976v1](http://arxiv.org/abs/2609.34976v1)|null|
-|**2026-09-24 13:30:04**|**Adapting a Large Language Model Crash-Severity Pipeline to Tennessee: Performance Across Sampling Strategies**|Abhilasha Saroj et.al.|[2609.29793v1](http://arxiv.org/abs/2609.29793v1)|null|
-|**2026-09-22 16:20:37**|**Proof-of-Retention: A Framework for Auditable Cross-Organization Data Sharing**|Kyle MacMillan et.al.|[2609.26654v1](http://arxiv.org/abs/2609.26654v1)|null|

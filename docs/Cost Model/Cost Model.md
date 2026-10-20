@@ -2,6 +2,9 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-19 02:05:58**|**Beyond Leaderboards: A Method for Application-Specific Capability Profiling of Large Language Models**|Oleg Grynets et.al.|[2610.25659v1](http://arxiv.org/abs/2610.25659v1)|null|
+|**2026-10-18 21:00:51**|**From Clinical Risk Prediction to Operational Decisions: An Uncertainty-Aware Framework for ICU Staffing**|Jiayan Yang et.al.|[2610.25530v1](http://arxiv.org/abs/2610.25530v1)|null|
+|**2026-10-16 22:46:52**|**Predicting CVSS and CWE from CVE Descriptions with Fine-Tuned Small Language Models**|Tara Dixit et.al.|[2610.24297v1](http://arxiv.org/abs/2610.24297v1)|null|
 |**2026-10-15 21:41:13**|**The Case for TPU-Accelerated Analytical Query Processing**|Yeounoh Chung et.al.|[2610.22673v1](http://arxiv.org/abs/2610.22673v1)|null|
 |**2026-10-15 04:02:26**|**A machine-learning-driven dataset of 144,111 polycyclic aromatic hydrocarbon infrared spectra for interpreting aromatic infrared bands**|Xinghong Mai et.al.|[2610.21205v1](http://arxiv.org/abs/2610.21205v1)|null|
 |**2026-10-15 03:30:36**|**Amora: Communication-Efficient Private Approximate Nearest Neighbors Search**|Qiuhao Wang et.al.|[2610.21174v1](http://arxiv.org/abs/2610.21174v1)|null|
@@ -29,6 +32,3 @@
 |**2026-09-19 02:05:56**|**Toward Auditable and Calibrated AI for Dementia-Related Crash Severity Prediction: A Selective Deferral Framework to Support Human Review**|Gaurab Chhetri et.al.|[2609.22694v1](http://arxiv.org/abs/2609.22694v1)|null|
 |**2026-09-18 12:28:56**|**Bayesian classification of astronomical spectra with class uncertainties**|Simon Barton et.al.|[2609.21694v1](http://arxiv.org/abs/2609.21694v1)|null|
 |**2026-09-16 23:16:45**|**Efficiently Linking Unstructured Data for Multi-step Reasoning**|Jiaming Liang et.al.|[2609.19491v1](http://arxiv.org/abs/2609.19491v1)|null|
-|**2026-09-15 12:38:43**|**Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics**|Baibek Davletiyarov et.al.|[2609.17107v1](http://arxiv.org/abs/2609.17107v1)|null|
-|**2026-09-15 09:06:00**|**Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility**|Jaeseok Byun et.al.|[2609.16875v1](http://arxiv.org/abs/2609.16875v1)|null|
-|**2026-09-15 04:43:23**|**Quantifying Organizational Environmental Action from Web Data and Large Language Models**|Quinn Reynolds et.al.|[2609.16627v1](http://arxiv.org/abs/2609.16627v1)|null|
