@@ -21,7 +21,7 @@
 |**2026-09-04 17:51:48**|**Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction**|Sihwa Park et.al.|[2609.05404v1](http://arxiv.org/abs/2609.05404v1)|null|
 |**2026-09-02 18:00:12**|**Tuning Andreev reflection and conductance in proximitized nanowires through the spin-orbit field direction**|Leonardo Musca et.al.|[2609.03020v1](http://arxiv.org/abs/2609.03020v1)|null|
 |**2026-09-02 08:03:08**|**Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO$_2$ Reduction in MOF-5**|Julia Santana-Andreo et.al.|[2609.02256v1](http://arxiv.org/abs/2609.02256v1)|null|
-|**2026-08-31 19:23:24**|**Engineering tunable $p$-wave magnetism in antiferromagnetic bilayers**|Yu-Han Lin et.al.|[2609.00277v1](http://arxiv.org/abs/2609.00277v1)|null|
+|**2026-08-31 19:23:24**|**Engineering tunable $p$-wave magnetism in antiferromagnetic bilayers**|Yu-Han Lin et.al.|[2609.00277v2](http://arxiv.org/abs/2609.00277v2)|null|
 |**2026-08-28 17:56:52**|**Layer-Controlled Intermolecular Coupling and Many-Body Effects in C$_{60}$ Films**|Hai-Lan Luo et.al.|[2608.28583v1](http://arxiv.org/abs/2608.28583v1)|null|
 |**2026-08-28 16:57:09**|**Modifying van der Waals Materials via Cavity Vacuum Fluctuations**|Mohammad Hassan et.al.|[2608.28521v2](http://arxiv.org/abs/2608.28521v2)|null|
 |**2026-08-25 07:11:12**|**Phase-controlled perfect nonlocal spin and charge diode effects in a four-terminal Josephson junction with $p$-wave magnets**|Lovy Sharma et.al.|[2608.24147v1](http://arxiv.org/abs/2608.24147v1)|null|

@@ -1,11 +1,13 @@
 # arxiv-daily
- 自动更新 @ 2026-10-20 21:06:10 Asia/Shanghai
+ 自动更新 @ 2026-10-21 21:16:46 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-20 14:25:41**|**SWatcher+: A Holistic Approach to Deploying Learned Cardinality Estimators in a Dynamic Setting**|Yuxi Liu et.al.|[2610.28270v1](http://arxiv.org/abs/2610.28270v1)|null|
+|**2026-10-20 08:18:57**|**Raise or Check? Predicting the Necessity of Additional Fuzzing for Continuous Fuzzing**|Riku Kato et.al.|[2610.27828v1](http://arxiv.org/abs/2610.27828v1)|null|
 |**2026-10-19 02:05:58**|**Beyond Leaderboards: A Method for Application-Specific Capability Profiling of Large Language Models**|Oleg Grynets et.al.|[2610.25659v1](http://arxiv.org/abs/2610.25659v1)|null|
 |**2026-10-18 21:00:51**|**From Clinical Risk Prediction to Operational Decisions: An Uncertainty-Aware Framework for ICU Staffing**|Jiayan Yang et.al.|[2610.25530v1](http://arxiv.org/abs/2610.25530v1)|null|
 |**2026-10-16 22:46:52**|**Predicting CVSS and CWE from CVE Descriptions with Fine-Tuned Small Language Models**|Tara Dixit et.al.|[2610.24297v1](http://arxiv.org/abs/2610.24297v1)|null|
@@ -34,8 +36,6 @@
 |**2026-09-24 07:55:44**|**HistoRAG: A Citation-Grounded Question Answering Assistant for Teaching with Scanned Local History and Heritage Archives**|Hongzhou Duan et.al.|[2609.29184v1](http://arxiv.org/abs/2609.29184v1)|null|
 |**2026-09-20 03:04:30**|**Graph Memory for LLM Agents: At What Cost? A Comparative Evaluation of Query, Ingest, and Update Performance Across Graph Database Engines**|Donald Nguyen et.al.|[2609.23315v1](http://arxiv.org/abs/2609.23315v1)|null|
 |**2026-09-19 02:05:56**|**Toward Auditable and Calibrated AI for Dementia-Related Crash Severity Prediction: A Selective Deferral Framework to Support Human Review**|Gaurab Chhetri et.al.|[2609.22694v1](http://arxiv.org/abs/2609.22694v1)|null|
-|**2026-09-18 12:28:56**|**Bayesian classification of astronomical spectra with class uncertainties**|Simon Barton et.al.|[2609.21694v1](http://arxiv.org/abs/2609.21694v1)|null|
-|**2026-09-16 23:16:45**|**Efficiently Linking Unstructured Data for Multi-step Reasoning**|Jiaming Liang et.al.|[2609.19491v1](http://arxiv.org/abs/2609.19491v1)|null|
 
 ## Knob Tuning
 
@@ -61,7 +61,7 @@
 |**2026-09-04 17:51:48**|**Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction**|Sihwa Park et.al.|[2609.05404v1](http://arxiv.org/abs/2609.05404v1)|null|
 |**2026-09-02 18:00:12**|**Tuning Andreev reflection and conductance in proximitized nanowires through the spin-orbit field direction**|Leonardo Musca et.al.|[2609.03020v1](http://arxiv.org/abs/2609.03020v1)|null|
 |**2026-09-02 08:03:08**|**Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO$_2$ Reduction in MOF-5**|Julia Santana-Andreo et.al.|[2609.02256v1](http://arxiv.org/abs/2609.02256v1)|null|
-|**2026-08-31 19:23:24**|**Engineering tunable $p$-wave magnetism in antiferromagnetic bilayers**|Yu-Han Lin et.al.|[2609.00277v1](http://arxiv.org/abs/2609.00277v1)|null|
+|**2026-08-31 19:23:24**|**Engineering tunable $p$-wave magnetism in antiferromagnetic bilayers**|Yu-Han Lin et.al.|[2609.00277v2](http://arxiv.org/abs/2609.00277v2)|null|
 |**2026-08-28 17:56:52**|**Layer-Controlled Intermolecular Coupling and Many-Body Effects in C$_{60}$ Films**|Hai-Lan Luo et.al.|[2608.28583v1](http://arxiv.org/abs/2608.28583v1)|null|
 |**2026-08-28 16:57:09**|**Modifying van der Waals Materials via Cavity Vacuum Fluctuations**|Mohammad Hassan et.al.|[2608.28521v2](http://arxiv.org/abs/2608.28521v2)|null|
 |**2026-08-25 07:11:12**|**Phase-controlled perfect nonlocal spin and charge diode effects in a four-terminal Josephson junction with $p$-wave magnets**|Lovy Sharma et.al.|[2608.24147v1](http://arxiv.org/abs/2608.24147v1)|null|
@@ -78,6 +78,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-19 16:08:46**|**From Outcomes to Components: A Counterfactual Evaluation Framework for LLM-Proposed Repairs**|Hengyu Ye et.al.|[2610.26650v2](http://arxiv.org/abs/2610.26650v2)|null|
 |**2026-10-19 02:05:58**|**Beyond Leaderboards: A Method for Application-Specific Capability Profiling of Large Language Models**|Oleg Grynets et.al.|[2610.25659v1](http://arxiv.org/abs/2610.25659v1)|null|
 |**2026-10-17 22:46:56**|**HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents**|Soyoung Yoon et.al.|[2610.24899v1](http://arxiv.org/abs/2610.24899v1)|null|
 |**2026-10-16 22:46:52**|**Predicting CVSS and CWE from CVE Descriptions with Fine-Tuned Small Language Models**|Tara Dixit et.al.|[2610.24297v1](http://arxiv.org/abs/2610.24297v1)|null|
@@ -107,4 +108,3 @@
 |**2026-09-29 18:57:59**|**From Codebase to Culprit (C2C): Reducing the Search Space for Bugs with Semantic Retrieval and Hierarchical Reinforcement Learning**|Ankur Garg et.al.|[2609.38402v1](http://arxiv.org/abs/2609.38402v1)|null|
 |**2026-09-29 08:21:18**|**CypherTurn: A Multi-Turn Benchmark for Conversational Text-to-Cypher Evaluation and the Autonomy Divergence**|Yuzhe Zhang et.al.|[2609.36987v1](http://arxiv.org/abs/2609.36987v1)|[link](https://github.com/BarryQ/CypherTurn)|
 |**2026-09-28 18:00:07**|**Making Cross-Continental Federated Learning Repeatable with FLIP: a Multi-Application Study**|Rafael Garcia-Dias et.al.|[2609.36001v1](http://arxiv.org/abs/2609.36001v1)|null|
-|**2026-09-28 12:32:42**|**THEIA: A Multimodal Dataset and Benchmark for Vision-Language Analysis of Layout**|Giuseppe Chiari et.al.|[2609.35035v3](http://arxiv.org/abs/2609.35035v3)|null|

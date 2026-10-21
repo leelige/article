@@ -2,6 +2,8 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-20 14:25:41**|**SWatcher+: A Holistic Approach to Deploying Learned Cardinality Estimators in a Dynamic Setting**|Yuxi Liu et.al.|[2610.28270v1](http://arxiv.org/abs/2610.28270v1)|null|
+|**2026-10-20 08:18:57**|**Raise or Check? Predicting the Necessity of Additional Fuzzing for Continuous Fuzzing**|Riku Kato et.al.|[2610.27828v1](http://arxiv.org/abs/2610.27828v1)|null|
 |**2026-10-19 02:05:58**|**Beyond Leaderboards: A Method for Application-Specific Capability Profiling of Large Language Models**|Oleg Grynets et.al.|[2610.25659v1](http://arxiv.org/abs/2610.25659v1)|null|
 |**2026-10-18 21:00:51**|**From Clinical Risk Prediction to Operational Decisions: An Uncertainty-Aware Framework for ICU Staffing**|Jiayan Yang et.al.|[2610.25530v1](http://arxiv.org/abs/2610.25530v1)|null|
 |**2026-10-16 22:46:52**|**Predicting CVSS and CWE from CVE Descriptions with Fine-Tuned Small Language Models**|Tara Dixit et.al.|[2610.24297v1](http://arxiv.org/abs/2610.24297v1)|null|
@@ -30,5 +32,3 @@
 |**2026-09-24 07:55:44**|**HistoRAG: A Citation-Grounded Question Answering Assistant for Teaching with Scanned Local History and Heritage Archives**|Hongzhou Duan et.al.|[2609.29184v1](http://arxiv.org/abs/2609.29184v1)|null|
 |**2026-09-20 03:04:30**|**Graph Memory for LLM Agents: At What Cost? A Comparative Evaluation of Query, Ingest, and Update Performance Across Graph Database Engines**|Donald Nguyen et.al.|[2609.23315v1](http://arxiv.org/abs/2609.23315v1)|null|
 |**2026-09-19 02:05:56**|**Toward Auditable and Calibrated AI for Dementia-Related Crash Severity Prediction: A Selective Deferral Framework to Support Human Review**|Gaurab Chhetri et.al.|[2609.22694v1](http://arxiv.org/abs/2609.22694v1)|null|
-|**2026-09-18 12:28:56**|**Bayesian classification of astronomical spectra with class uncertainties**|Simon Barton et.al.|[2609.21694v1](http://arxiv.org/abs/2609.21694v1)|null|
-|**2026-09-16 23:16:45**|**Efficiently Linking Unstructured Data for Multi-step Reasoning**|Jiaming Liang et.al.|[2609.19491v1](http://arxiv.org/abs/2609.19491v1)|null|
