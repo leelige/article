@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-21 15:38:05**|**Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models**|Aravindan Kamatchi Sundaram et.al.|[2610.29895v1](http://arxiv.org/abs/2610.29895v1)|null|
 |**2026-10-20 14:25:41**|**SWatcher+: A Holistic Approach to Deploying Learned Cardinality Estimators in a Dynamic Setting**|Yuxi Liu et.al.|[2610.28270v1](http://arxiv.org/abs/2610.28270v1)|null|
 |**2026-10-20 08:18:57**|**Raise or Check? Predicting the Necessity of Additional Fuzzing for Continuous Fuzzing**|Riku Kato et.al.|[2610.27828v1](http://arxiv.org/abs/2610.27828v1)|null|
 |**2026-10-19 02:05:58**|**Beyond Leaderboards: A Method for Application-Specific Capability Profiling of Large Language Models**|Oleg Grynets et.al.|[2610.25659v1](http://arxiv.org/abs/2610.25659v1)|null|
@@ -31,4 +32,3 @@
 |**2026-09-26 20:10:29**|**Planner-as-Router: Joint Plan-Time Model Routing for Cost-Efficient Multi-Agent Workflows**|Vivek Kumar Singh et.al.|[2609.32917v1](http://arxiv.org/abs/2609.32917v1)|null|
 |**2026-09-24 07:55:44**|**HistoRAG: A Citation-Grounded Question Answering Assistant for Teaching with Scanned Local History and Heritage Archives**|Hongzhou Duan et.al.|[2609.29184v1](http://arxiv.org/abs/2609.29184v1)|null|
 |**2026-09-20 03:04:30**|**Graph Memory for LLM Agents: At What Cost? A Comparative Evaluation of Query, Ingest, and Update Performance Across Graph Database Engines**|Donald Nguyen et.al.|[2609.23315v1](http://arxiv.org/abs/2609.23315v1)|null|
-|**2026-09-19 02:05:56**|**Toward Auditable and Calibrated AI for Dementia-Related Crash Severity Prediction: A Selective Deferral Framework to Support Human Review**|Gaurab Chhetri et.al.|[2609.22694v1](http://arxiv.org/abs/2609.22694v1)|null|

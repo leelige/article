@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-10-21 21:16:46 Asia/Shanghai
+ 自动更新 @ 2026-10-22 21:15:16 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-21 15:38:05**|**Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models**|Aravindan Kamatchi Sundaram et.al.|[2610.29895v1](http://arxiv.org/abs/2610.29895v1)|null|
 |**2026-10-20 14:25:41**|**SWatcher+: A Holistic Approach to Deploying Learned Cardinality Estimators in a Dynamic Setting**|Yuxi Liu et.al.|[2610.28270v1](http://arxiv.org/abs/2610.28270v1)|null|
 |**2026-10-20 08:18:57**|**Raise or Check? Predicting the Necessity of Additional Fuzzing for Continuous Fuzzing**|Riku Kato et.al.|[2610.27828v1](http://arxiv.org/abs/2610.27828v1)|null|
 |**2026-10-19 02:05:58**|**Beyond Leaderboards: A Method for Application-Specific Capability Profiling of Large Language Models**|Oleg Grynets et.al.|[2610.25659v1](http://arxiv.org/abs/2610.25659v1)|null|
@@ -35,7 +36,6 @@
 |**2026-09-26 20:10:29**|**Planner-as-Router: Joint Plan-Time Model Routing for Cost-Efficient Multi-Agent Workflows**|Vivek Kumar Singh et.al.|[2609.32917v1](http://arxiv.org/abs/2609.32917v1)|null|
 |**2026-09-24 07:55:44**|**HistoRAG: A Citation-Grounded Question Answering Assistant for Teaching with Scanned Local History and Heritage Archives**|Hongzhou Duan et.al.|[2609.29184v1](http://arxiv.org/abs/2609.29184v1)|null|
 |**2026-09-20 03:04:30**|**Graph Memory for LLM Agents: At What Cost? A Comparative Evaluation of Query, Ingest, and Update Performance Across Graph Database Engines**|Donald Nguyen et.al.|[2609.23315v1](http://arxiv.org/abs/2609.23315v1)|null|
-|**2026-09-19 02:05:56**|**Toward Auditable and Calibrated AI for Dementia-Related Crash Severity Prediction: A Selective Deferral Framework to Support Human Review**|Gaurab Chhetri et.al.|[2609.22694v1](http://arxiv.org/abs/2609.22694v1)|null|
 
 ## Knob Tuning
 
@@ -80,7 +80,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2026-10-19 16:08:46**|**From Outcomes to Components: A Counterfactual Evaluation Framework for LLM-Proposed Repairs**|Hengyu Ye et.al.|[2610.26650v2](http://arxiv.org/abs/2610.26650v2)|null|
 |**2026-10-19 02:05:58**|**Beyond Leaderboards: A Method for Application-Specific Capability Profiling of Large Language Models**|Oleg Grynets et.al.|[2610.25659v1](http://arxiv.org/abs/2610.25659v1)|null|
-|**2026-10-17 22:46:56**|**HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents**|Soyoung Yoon et.al.|[2610.24899v1](http://arxiv.org/abs/2610.24899v1)|null|
+|**2026-10-17 22:46:56**|**HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents**|Soyoung Yoon et.al.|[2610.24899v2](http://arxiv.org/abs/2610.24899v2)|null|
 |**2026-10-16 22:46:52**|**Predicting CVSS and CWE from CVE Descriptions with Fine-Tuned Small Language Models**|Tara Dixit et.al.|[2610.24297v1](http://arxiv.org/abs/2610.24297v1)|null|
 |**2026-10-16 15:28:34**|**GEMS: Molecular Structure Elucidation as Learned Search over Isomer Graphs**|Utku Umur Acikalin et.al.|[2610.23617v1](http://arxiv.org/abs/2610.23617v1)|null|
 |**2026-10-16 07:43:20**|**Path to Prior-Data Fitted Relational Models via Learned Latent Multi-table Representations**|Mohammad Sadeq Abolhasani et.al.|[2610.23073v1](http://arxiv.org/abs/2610.23073v1)|null|

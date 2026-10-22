@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2026-10-19 16:08:46**|**From Outcomes to Components: A Counterfactual Evaluation Framework for LLM-Proposed Repairs**|Hengyu Ye et.al.|[2610.26650v2](http://arxiv.org/abs/2610.26650v2)|null|
 |**2026-10-19 02:05:58**|**Beyond Leaderboards: A Method for Application-Specific Capability Profiling of Large Language Models**|Oleg Grynets et.al.|[2610.25659v1](http://arxiv.org/abs/2610.25659v1)|null|
-|**2026-10-17 22:46:56**|**HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents**|Soyoung Yoon et.al.|[2610.24899v1](http://arxiv.org/abs/2610.24899v1)|null|
+|**2026-10-17 22:46:56**|**HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents**|Soyoung Yoon et.al.|[2610.24899v2](http://arxiv.org/abs/2610.24899v2)|null|
 |**2026-10-16 22:46:52**|**Predicting CVSS and CWE from CVE Descriptions with Fine-Tuned Small Language Models**|Tara Dixit et.al.|[2610.24297v1](http://arxiv.org/abs/2610.24297v1)|null|
 |**2026-10-16 15:28:34**|**GEMS: Molecular Structure Elucidation as Learned Search over Isomer Graphs**|Utku Umur Acikalin et.al.|[2610.23617v1](http://arxiv.org/abs/2610.23617v1)|null|
 |**2026-10-16 07:43:20**|**Path to Prior-Data Fitted Relational Models via Learned Latent Multi-table Representations**|Mohammad Sadeq Abolhasani et.al.|[2610.23073v1](http://arxiv.org/abs/2610.23073v1)|null|
