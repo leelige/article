@@ -5,7 +5,7 @@
 |**2026-10-15 18:03:29**|**TCDA: Tunable Coded Distributed Arrays for Data Availability Sampling**|Duc A. Tran et.al.|[2610.22508v1](http://arxiv.org/abs/2610.22508v1)|null|
 |**2026-10-14 03:59:51**|**Pressure engineering of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré superlattices**|Wenbing Li et.al.|[2610.19542v1](http://arxiv.org/abs/2610.19542v1)|null|
 |**2026-10-13 19:49:23**|**Engineering Correlated Transparent Conductors via Metal-Insulator Transition Proximity**|Amit Cohen et.al.|[2610.19112v1](http://arxiv.org/abs/2610.19112v1)|null|
-|**2026-10-13 00:49:11**|**ATTUNE: Agentic Throughput Tuning for LLM Training**|Leo Fan et.al.|[2610.17528v1](http://arxiv.org/abs/2610.17528v1)|[link](https://github.com/amazon-science/attune)|
+|**2026-10-13 00:49:11**|**ATTUNE: Agentic Throughput Tuning for LLM Training**|Leo Fan et.al.|[2610.17528v2](http://arxiv.org/abs/2610.17528v2)|[link](https://github.com/amazon-science/attune)|
 |**2026-10-12 09:38:05**|**Molecule-intercalated van der Waals Josephson junctions uncover complex multiband superconductivity**|Daniel Margineda et.al.|[2610.16483v1](http://arxiv.org/abs/2610.16483v1)|null|
 |**2026-10-11 16:04:50**|**Reversible intrinsic-extrinsic crossover of the anomalous Hall effect in PrAlSi via Al/Si ratio tuning**|Huiyang Yang et.al.|[2610.15726v1](http://arxiv.org/abs/2610.15726v1)|null|
 |**2026-10-07 01:14:40**|**CATune: Structural Constraint-Aware Bayesian Optimization for DBMS Configuration Tuning**|Fangping Lan et.al.|[2610.09276v1](http://arxiv.org/abs/2610.09276v1)|null|

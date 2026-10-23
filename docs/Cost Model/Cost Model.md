@@ -13,7 +13,6 @@
 |**2026-10-15 03:30:36**|**Amora: Communication-Efficient Private Approximate Nearest Neighbors Search**|Qiuhao Wang et.al.|[2610.21174v1](http://arxiv.org/abs/2610.21174v1)|null|
 |**2026-10-14 21:29:59**|**Same Context, Different Agents: A Behavioral Study of Semantic Layers, Orchestration and Compaction in Data Agents**|Zhivar Sourati et.al.|[2610.20959v1](http://arxiv.org/abs/2610.20959v1)|null|
 |**2026-10-12 18:14:43**|**Does a Governed Confidence Score Know When a Text-to-SQL Answer Is Right? An Exploratory Study on BIRD and a Pre-registered Confirmation on Spider**|Raghu Venkat et.al.|[2610.17256v1](http://arxiv.org/abs/2610.17256v1)|null|
-|**2026-10-09 20:21:46**|**ARMOR: Adversary Cost Amplification via a Schema-Preserving Password-Hardening Retrofit for Resource-Constrained Systems**|Avinash Srinivasan et.al.|[2610.14300v1](http://arxiv.org/abs/2610.14300v1)|null|
 |**2026-10-09 17:42:26**|**Agentic Evolution of SQL Test Generators**|Suyang Zhong et.al.|[2610.14161v1](http://arxiv.org/abs/2610.14161v1)|null|
 |**2026-10-09 13:27:20**|**MatQuery: Execution-Grounded Natural-Language Querying over Heterogeneous Materials Databases**|Chen Jason Zhang et.al.|[2610.13573v1](http://arxiv.org/abs/2610.13573v1)|null|
 |**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|
@@ -32,3 +31,4 @@
 |**2026-09-26 20:10:29**|**Planner-as-Router: Joint Plan-Time Model Routing for Cost-Efficient Multi-Agent Workflows**|Vivek Kumar Singh et.al.|[2609.32917v1](http://arxiv.org/abs/2609.32917v1)|null|
 |**2026-09-24 07:55:44**|**HistoRAG: A Citation-Grounded Question Answering Assistant for Teaching with Scanned Local History and Heritage Archives**|Hongzhou Duan et.al.|[2609.29184v1](http://arxiv.org/abs/2609.29184v1)|null|
 |**2026-09-20 03:04:30**|**Graph Memory for LLM Agents: At What Cost? A Comparative Evaluation of Query, Ingest, and Update Performance Across Graph Database Engines**|Donald Nguyen et.al.|[2609.23315v1](http://arxiv.org/abs/2609.23315v1)|null|
+|**2026-09-19 02:05:56**|**Toward Auditable and Calibrated AI for Dementia-Related Crash Severity Prediction: A Selective Deferral Framework to Support Human Review**|Gaurab Chhetri et.al.|[2609.22694v1](http://arxiv.org/abs/2609.22694v1)|null|
