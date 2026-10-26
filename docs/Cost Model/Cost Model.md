@@ -11,7 +11,7 @@
 |**2026-10-15 21:41:13**|**The Case for TPU-Accelerated Analytical Query Processing**|Yeounoh Chung et.al.|[2610.22673v1](http://arxiv.org/abs/2610.22673v1)|null|
 |**2026-10-15 04:02:26**|**A machine-learning-driven dataset of 144,111 polycyclic aromatic hydrocarbon infrared spectra for interpreting aromatic infrared bands**|Xinghong Mai et.al.|[2610.21205v1](http://arxiv.org/abs/2610.21205v1)|null|
 |**2026-10-15 03:30:36**|**Amora: Communication-Efficient Private Approximate Nearest Neighbors Search**|Qiuhao Wang et.al.|[2610.21174v1](http://arxiv.org/abs/2610.21174v1)|null|
-|**2026-10-14 21:29:59**|**Same Context, Different Agents: A Behavioral Study of Semantic Layers, Orchestration and Compaction in Data Agents**|Zhivar Sourati et.al.|[2610.20959v1](http://arxiv.org/abs/2610.20959v1)|null|
+|**2026-10-14 21:29:59**|**Same Context, Different Agents: A Behavioral Study of Semantic Layers, Multi-Agent Orchestration and Memory Compaction in Data Agents**|Zhivar Sourati et.al.|[2610.20959v2](http://arxiv.org/abs/2610.20959v2)|null|
 |**2026-10-12 18:14:43**|**Does a Governed Confidence Score Know When a Text-to-SQL Answer Is Right? An Exploratory Study on BIRD and a Pre-registered Confirmation on Spider**|Raghu Venkat et.al.|[2610.17256v1](http://arxiv.org/abs/2610.17256v1)|null|
 |**2026-10-09 17:42:26**|**Agentic Evolution of SQL Test Generators**|Suyang Zhong et.al.|[2610.14161v1](http://arxiv.org/abs/2610.14161v1)|null|
 |**2026-10-09 13:27:20**|**MatQuery: Execution-Grounded Natural-Language Querying over Heterogeneous Materials Databases**|Chen Jason Zhang et.al.|[2610.13573v1](http://arxiv.org/abs/2610.13573v1)|null|
