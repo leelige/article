@@ -1,11 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2026-10-26 22:37:49 Asia/Shanghai
+ 自动更新 @ 2026-10-27 21:41:32 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-25 07:44:21**|**Enhancing Type 2 Diabetes Diagnosis with Evolutionary Algorithms and Machine Learning**|Parisa Rezaei et.al.|[2610.34123v1](http://arxiv.org/abs/2610.34123v1)|null|
+|**2026-10-25 00:23:22**|**Benchmarking miRNA Target Prediction Methods**|Congliang Jin et.al.|[2610.33960v1](http://arxiv.org/abs/2610.33960v1)|null|
+|**2026-10-24 06:06:40**|**Energy Efficient Lung Tumor Segmentation with a modified CBAM ENet Skip Model**|Sharan Thummagunti et.al.|[2610.33479v1](http://arxiv.org/abs/2610.33479v1)|null|
 |**2026-10-21 15:38:05**|**Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models**|Aravindan Kamatchi Sundaram et.al.|[2610.29895v1](http://arxiv.org/abs/2610.29895v1)|null|
 |**2026-10-20 14:25:41**|**SWatcher+: A Holistic Approach to Deploying Learned Cardinality Estimators in a Dynamic Setting**|Yuxi Liu et.al.|[2610.28270v1](http://arxiv.org/abs/2610.28270v1)|null|
 |**2026-10-20 08:18:57**|**Raise or Check? Predicting the Necessity of Additional Fuzzing for Continuous Fuzzing**|Riku Kato et.al.|[2610.27828v1](http://arxiv.org/abs/2610.27828v1)|null|
@@ -33,9 +36,6 @@
 |**2026-09-28 13:41:08**|**Edge-Assisted Multi-View Localization for Low-Altitude Economy under GPS-Challenged Environments**|Zhengru Fang et.al.|[2609.35173v2](http://arxiv.org/abs/2609.35173v2)|null|
 |**2026-09-27 03:36:22**|**Uncertainty Quantification for the Fission Matrix Method: A Rigorous Mathematical Framework and Computationally Efficient Alternatives**|Valerio Mascolino et.al.|[2609.33161v1](http://arxiv.org/abs/2609.33161v1)|null|
 |**2026-09-26 20:10:29**|**Planner-as-Router: Joint Plan-Time Model Routing for Cost-Efficient Multi-Agent Workflows**|Vivek Kumar Singh et.al.|[2609.32917v1](http://arxiv.org/abs/2609.32917v1)|null|
-|**2026-09-24 07:55:44**|**HistoRAG: A Citation-Grounded Question Answering Assistant for Teaching with Scanned Local History and Heritage Archives**|Hongzhou Duan et.al.|[2609.29184v1](http://arxiv.org/abs/2609.29184v1)|null|
-|**2026-09-20 03:04:30**|**Graph Memory for LLM Agents: At What Cost? A Comparative Evaluation of Query, Ingest, and Update Performance Across Graph Database Engines**|Donald Nguyen et.al.|[2609.23315v1](http://arxiv.org/abs/2609.23315v1)|null|
-|**2026-09-19 02:05:56**|**Toward Auditable and Calibrated AI for Dementia-Related Crash Severity Prediction: A Selective Deferral Framework to Support Human Review**|Gaurab Chhetri et.al.|[2609.22694v1](http://arxiv.org/abs/2609.22694v1)|null|
 
 ## Knob Tuning
 
@@ -78,6 +78,9 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-25 07:44:21**|**Enhancing Type 2 Diabetes Diagnosis with Evolutionary Algorithms and Machine Learning**|Parisa Rezaei et.al.|[2610.34123v1](http://arxiv.org/abs/2610.34123v1)|null|
+|**2026-10-24 17:29:24**|**EnvLunch: The Environment as a Free Lunch for Learning to Interact**|Wei Liu et.al.|[2610.33817v1](http://arxiv.org/abs/2610.33817v1)|null|
+|**2026-10-24 05:02:28**|**Secure and Functional Code Generation with Self-Evaluation**|Md Afif Al Mamun et.al.|[2610.33450v1](http://arxiv.org/abs/2610.33450v1)|null|
 |**2026-10-19 16:08:46**|**From Outcomes to Components: A Counterfactual Evaluation Framework for LLM-Proposed Repairs**|Hengyu Ye et.al.|[2610.26650v2](http://arxiv.org/abs/2610.26650v2)|null|
 |**2026-10-19 02:05:58**|**Beyond Leaderboards: A Method for Application-Specific Capability Profiling of Large Language Models**|Oleg Grynets et.al.|[2610.25659v1](http://arxiv.org/abs/2610.25659v1)|null|
 |**2026-10-17 22:46:56**|**HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents**|Soyoung Yoon et.al.|[2610.24899v2](http://arxiv.org/abs/2610.24899v2)|null|
@@ -105,6 +108,3 @@
 |**2026-09-30 14:00:39**|**Riemannian Flow Models with Reinforcement Learning for Molecular Crystal Structure Prediction**|Thomas Egg et.al.|[2609.39773v1](http://arxiv.org/abs/2609.39773v1)|null|
 |**2026-09-30 09:23:10**|**EHR-RobustGym: Benchmarking and Training Agents for Robust Clinical Reasoning**|Yitong Qiao et.al.|[2609.39371v1](http://arxiv.org/abs/2609.39371v1)|null|
 |**2026-09-30 02:38:22**|**PatchHolmes: Agentic Patch Retrieval via Listwise Selection**|Guanqun Yang et.al.|[2609.38807v1](http://arxiv.org/abs/2609.38807v1)|null|
-|**2026-09-29 18:57:59**|**From Codebase to Culprit (C2C): Reducing the Search Space for Bugs with Semantic Retrieval and Hierarchical Reinforcement Learning**|Ankur Garg et.al.|[2609.38402v1](http://arxiv.org/abs/2609.38402v1)|null|
-|**2026-09-29 08:21:18**|**CypherTurn: A Multi-Turn Benchmark for Conversational Text-to-Cypher Evaluation and the Autonomy Divergence**|Yuzhe Zhang et.al.|[2609.36987v1](http://arxiv.org/abs/2609.36987v1)|[link](https://github.com/BarryQ/CypherTurn)|
-|**2026-09-28 18:00:07**|**Making Cross-Continental Federated Learning Repeatable with FLIP: a Multi-Application Study**|Rafael Garcia-Dias et.al.|[2609.36001v1](http://arxiv.org/abs/2609.36001v1)|null|
