@@ -2,6 +2,7 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-29 12:21:38**|**The Verification Wall in Microbial Metabolomics**|Takahiko Koyama et.al.|[2610.39914v1](http://arxiv.org/abs/2610.39914v1)|null|
 |**2026-10-25 07:44:21**|**Enhancing Type 2 Diabetes Diagnosis with Evolutionary Algorithms and Machine Learning**|Parisa Rezaei et.al.|[2610.34123v1](http://arxiv.org/abs/2610.34123v1)|null|
 |**2026-10-25 00:23:22**|**Benchmarking miRNA Target Prediction Methods**|Congliang Jin et.al.|[2610.33960v1](http://arxiv.org/abs/2610.33960v1)|null|
 |**2026-10-24 06:06:40**|**Energy Efficient Lung Tumor Segmentation with a modified CBAM ENet Skip Model**|Sharan Thummagunti et.al.|[2610.33479v1](http://arxiv.org/abs/2610.33479v1)|null|
@@ -31,4 +32,3 @@
 |**2026-09-29 19:31:43**|**Automated Prefetching for Object Spatial Programming Using Temporal Trace Graphs**|Baichuan Li et.al.|[2609.38439v1](http://arxiv.org/abs/2609.38439v1)|null|
 |**2026-09-28 13:41:08**|**Edge-Assisted Multi-View Localization for Low-Altitude Economy under GPS-Challenged Environments**|Zhengru Fang et.al.|[2609.35173v2](http://arxiv.org/abs/2609.35173v2)|null|
 |**2026-09-27 03:36:22**|**Uncertainty Quantification for the Fission Matrix Method: A Rigorous Mathematical Framework and Computationally Efficient Alternatives**|Valerio Mascolino et.al.|[2609.33161v1](http://arxiv.org/abs/2609.33161v1)|null|
-|**2026-09-26 20:10:29**|**Planner-as-Router: Joint Plan-Time Model Routing for Cost-Efficient Multi-Agent Workflows**|Vivek Kumar Singh et.al.|[2609.32917v1](http://arxiv.org/abs/2609.32917v1)|null|
