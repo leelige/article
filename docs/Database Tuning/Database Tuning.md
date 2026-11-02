@@ -2,6 +2,8 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-30 15:56:54**|**Generative Design and Graph Neural Network Screening of Novel Bimetallic Alloy Catalysts for the Hydrogen Evolution Reaction**|Vipin Kurian Elavunkel et.al.|[2610.41932v1](http://arxiv.org/abs/2610.41932v1)|null|
+|**2026-10-30 13:58:22**|**CypherGuard: Database-Grounded Correction for Reliable Text-to-Cypher**|Zebin Chen et.al.|[2610.41755v1](http://arxiv.org/abs/2610.41755v1)|null|
 |**2026-10-25 07:44:21**|**Enhancing Type 2 Diabetes Diagnosis with Evolutionary Algorithms and Machine Learning**|Parisa Rezaei et.al.|[2610.34123v1](http://arxiv.org/abs/2610.34123v1)|null|
 |**2026-10-24 17:29:24**|**EnvLunch: The Environment as a Free Lunch for Learning to Interact**|Wei Liu et.al.|[2610.33817v1](http://arxiv.org/abs/2610.33817v1)|null|
 |**2026-10-24 05:02:28**|**Secure and Functional Code Generation with Self-Evaluation**|Md Afif Al Mamun et.al.|[2610.33450v1](http://arxiv.org/abs/2610.33450v1)|null|
@@ -30,5 +32,3 @@
 |**2026-10-01 17:59:20**|**Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features**|Jason X. Liu et.al.|[2610.02189v1](http://arxiv.org/abs/2610.02189v1)|[link](https://github.com/rotskoff-group/idiom)|
 |**2026-10-01 07:54:44**|**Autonomous OSS Threat Detection via Taxonomy-Aligned LLMs**|Md. Robiul Islam Niloy et.al.|[2610.01263v2](http://arxiv.org/abs/2610.01263v2)|null|
 |**2026-09-30 14:00:39**|**Riemannian Flow Models with Reinforcement Learning for Molecular Crystal Structure Prediction**|Thomas Egg et.al.|[2609.39773v1](http://arxiv.org/abs/2609.39773v1)|null|
-|**2026-09-30 09:23:10**|**EHR-RobustGym: Benchmarking and Training Agents for Robust Clinical Reasoning**|Yitong Qiao et.al.|[2609.39371v1](http://arxiv.org/abs/2609.39371v1)|null|
-|**2026-09-30 02:38:22**|**PatchHolmes: Agentic Patch Retrieval via Listwise Selection**|Guanqun Yang et.al.|[2609.38807v1](http://arxiv.org/abs/2609.38807v1)|null|

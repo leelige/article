@@ -2,6 +2,9 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-30 13:58:55**|**Machine learning surrogates for multi-geometry EDGE2D-EIRENE studies of MAST Upgrade**|George K. Holt et.al.|[2610.41756v1](http://arxiv.org/abs/2610.41756v1)|null|
+|**2026-10-30 08:19:23**|**Fidelity Synopses: Pre-Execution Plan Selection for Approximate Vector Search**|Adithya Ramanatha et.al.|[2610.41407v1](http://arxiv.org/abs/2610.41407v1)|null|
+|**2026-10-30 02:48:37**|**Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses**|Zhichang Yu et.al.|[2610.41172v1](http://arxiv.org/abs/2610.41172v1)|[link](https://github.com/infiniflow/ragflow)|
 |**2026-10-29 12:21:38**|**The Verification Wall in Microbial Metabolomics**|Takahiko Koyama et.al.|[2610.39914v1](http://arxiv.org/abs/2610.39914v1)|null|
 |**2026-10-25 07:44:21**|**Enhancing Type 2 Diabetes Diagnosis with Evolutionary Algorithms and Machine Learning**|Parisa Rezaei et.al.|[2610.34123v1](http://arxiv.org/abs/2610.34123v1)|null|
 |**2026-10-25 00:23:22**|**Benchmarking miRNA Target Prediction Methods**|Congliang Jin et.al.|[2610.33960v1](http://arxiv.org/abs/2610.33960v1)|null|
@@ -16,7 +19,6 @@
 |**2026-10-15 04:02:26**|**A machine-learning-driven dataset of 144,111 polycyclic aromatic hydrocarbon infrared spectra for interpreting aromatic infrared bands**|Xinghong Mai et.al.|[2610.21205v1](http://arxiv.org/abs/2610.21205v1)|null|
 |**2026-10-15 03:30:36**|**Amora: Communication-Efficient Private Approximate Nearest Neighbors Search**|Qiuhao Wang et.al.|[2610.21174v1](http://arxiv.org/abs/2610.21174v1)|null|
 |**2026-10-14 21:29:59**|**Same Context, Different Agents: A Behavioral Study of Semantic Layers, Multi-Agent Orchestration and Memory Compaction in Data Agents**|Zhivar Sourati et.al.|[2610.20959v2](http://arxiv.org/abs/2610.20959v2)|null|
-|**2026-10-12 18:14:43**|**Does a Governed Confidence Score Know When a Text-to-SQL Answer Is Right? An Exploratory Study on BIRD and a Pre-registered Confirmation on Spider**|Raghu Venkat et.al.|[2610.17256v1](http://arxiv.org/abs/2610.17256v1)|null|
 |**2026-10-09 17:42:26**|**Agentic Evolution of SQL Test Generators**|Suyang Zhong et.al.|[2610.14161v1](http://arxiv.org/abs/2610.14161v1)|null|
 |**2026-10-09 13:27:20**|**MatQuery: Execution-Grounded Natural-Language Querying over Heterogeneous Materials Databases**|Chen Jason Zhang et.al.|[2610.13573v1](http://arxiv.org/abs/2610.13573v1)|null|
 |**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|
@@ -30,5 +32,3 @@
 |**2026-10-01 16:55:48**|**Prune First, Decide Fast: Scalable Semantic Query Processing with JEVDB**|Zhengle Wang et.al.|[2610.02046v1](http://arxiv.org/abs/2610.02046v1)|null|
 |**2026-10-01 01:36:43**|**STEER: Reducing Inference Cost in Relational Foundation Models through Semantically Informed Sampling**|Abdalla Mohamed et.al.|[2610.00907v1](http://arxiv.org/abs/2610.00907v1)|null|
 |**2026-09-29 19:31:43**|**Automated Prefetching for Object Spatial Programming Using Temporal Trace Graphs**|Baichuan Li et.al.|[2609.38439v1](http://arxiv.org/abs/2609.38439v1)|null|
-|**2026-09-28 13:41:08**|**Edge-Assisted Multi-View Localization for Low-Altitude Economy under GPS-Challenged Environments**|Zhengru Fang et.al.|[2609.35173v2](http://arxiv.org/abs/2609.35173v2)|null|
-|**2026-09-27 03:36:22**|**Uncertainty Quantification for the Fission Matrix Method: A Rigorous Mathematical Framework and Computationally Efficient Alternatives**|Valerio Mascolino et.al.|[2609.33161v1](http://arxiv.org/abs/2609.33161v1)|null|
