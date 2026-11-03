@@ -2,6 +2,12 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-02 16:35:19**|**On inverse aggregate network assignment games**|Joseph Y. J. Chow et.al.|[2611.03409v1](http://arxiv.org/abs/2611.03409v1)|null|
+|**2026-11-02 15:33:40**|**SQLoom: Set-Contrastive Learning of Syntactic, Semantic, and Logical Dependencies for Text-to-SQL**|Hao Fu et.al.|[2611.03298v1](http://arxiv.org/abs/2611.03298v1)|null|
+|**2026-11-02 05:56:19**|**Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off**|Kinston Ackölf et.al.|[2611.02571v1](http://arxiv.org/abs/2611.02571v1)|null|
+|**2026-11-01 23:29:55**|**Toward Agentic AI-Ready Workflows in Built Environment Organizations: Knowledge Structures and Interoperability Challenges**|Ahmet Bahaddin Ersoz et.al.|[2611.02286v1](http://arxiv.org/abs/2611.02286v1)|null|
+|**2026-11-01 03:47:55**|**Federated Vector Retrieval across Heterogeneous VectorDBs**|Mintaek Lim et.al.|[2611.01514v1](http://arxiv.org/abs/2611.01514v1)|null|
+|**2026-10-31 17:00:57**|**CompSkill: Compiling Execution Experience for Skill Retrieval**|Qi Shen et.al.|[2611.01115v1](http://arxiv.org/abs/2611.01115v1)|[link](https://github.com/satoshinji2992/CompSkill)|
 |**2026-10-30 13:58:55**|**Machine learning surrogates for multi-geometry EDGE2D-EIRENE studies of MAST Upgrade**|George K. Holt et.al.|[2610.41756v1](http://arxiv.org/abs/2610.41756v1)|null|
 |**2026-10-30 08:19:23**|**Fidelity Synopses: Pre-Execution Plan Selection for Approximate Vector Search**|Adithya Ramanatha et.al.|[2610.41407v1](http://arxiv.org/abs/2610.41407v1)|null|
 |**2026-10-30 02:48:37**|**Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses**|Zhichang Yu et.al.|[2610.41172v1](http://arxiv.org/abs/2610.41172v1)|[link](https://github.com/infiniflow/ragflow)|
@@ -26,9 +32,3 @@
 |**2026-10-07 01:42:39**|**No Trace, No Claim: Two Contracts for Database Agents**|Xiaofei Zhang et.al.|[2610.09286v1](http://arxiv.org/abs/2610.09286v1)|null|
 |**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v2](http://arxiv.org/abs/2610.08089v2)|null|
 |**2026-10-04 15:55:47**|**AgentDiscover: Autonomous Discovery with Minimal Search Scaffolding**|Mahdi Farahbakhsh et.al.|[2610.05334v1](http://arxiv.org/abs/2610.05334v1)|[link](https://github.com/mhdfb/AgentDiscover)|
-|**2026-10-02 19:32:31**|**Equivariant generative diffusion learns and generalizes the structural ensemble of amorphous oxides**|Jun Jiang et.al.|[2610.03973v1](http://arxiv.org/abs/2610.03973v1)|null|
-|**2026-10-02 17:19:50**|**FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs**|Darian Lee et.al.|[2610.03625v1](http://arxiv.org/abs/2610.03625v1)|null|
-|**2026-10-02 00:00:42**|**Query Performance Tuning with Optimal Exploration of Optimizer Cost Model Parameter Space**|Wentao Wu et.al.|[2610.02607v1](http://arxiv.org/abs/2610.02607v1)|null|
-|**2026-10-01 16:55:48**|**Prune First, Decide Fast: Scalable Semantic Query Processing with JEVDB**|Zhengle Wang et.al.|[2610.02046v1](http://arxiv.org/abs/2610.02046v1)|null|
-|**2026-10-01 01:36:43**|**STEER: Reducing Inference Cost in Relational Foundation Models through Semantically Informed Sampling**|Abdalla Mohamed et.al.|[2610.00907v1](http://arxiv.org/abs/2610.00907v1)|null|
-|**2026-09-29 19:31:43**|**Automated Prefetching for Object Spatial Programming Using Temporal Trace Graphs**|Baichuan Li et.al.|[2609.38439v1](http://arxiv.org/abs/2609.38439v1)|null|

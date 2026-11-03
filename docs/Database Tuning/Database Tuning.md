@@ -2,8 +2,11 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-02 15:33:40**|**SQLoom: Set-Contrastive Learning of Syntactic, Semantic, and Logical Dependencies for Text-to-SQL**|Hao Fu et.al.|[2611.03298v1](http://arxiv.org/abs/2611.03298v1)|null|
+|**2026-11-02 01:37:47**|**Mixed-Type Relational Database Synthesis with Graph-Prompted Language Model**|Yuxiang Sun et.al.|[2611.02373v1](http://arxiv.org/abs/2611.02373v1)|null|
 |**2026-10-30 15:56:54**|**Generative Design and Graph Neural Network Screening of Novel Bimetallic Alloy Catalysts for the Hydrogen Evolution Reaction**|Vipin Kurian Elavunkel et.al.|[2610.41932v1](http://arxiv.org/abs/2610.41932v1)|null|
 |**2026-10-30 13:58:22**|**CypherGuard: Database-Grounded Correction for Reliable Text-to-Cypher**|Zebin Chen et.al.|[2610.41755v1](http://arxiv.org/abs/2610.41755v1)|null|
+|**2026-10-30 13:45:49**|**Reimagining Text-to-SQL: A Survey of Large Language Model Architectures and Strategies**|Shikhar Dave et.al.|[2611.00171v1](http://arxiv.org/abs/2611.00171v1)|null|
 |**2026-10-25 07:44:21**|**Enhancing Type 2 Diabetes Diagnosis with Evolutionary Algorithms and Machine Learning**|Parisa Rezaei et.al.|[2610.34123v1](http://arxiv.org/abs/2610.34123v1)|null|
 |**2026-10-24 17:29:24**|**EnvLunch: The Environment as a Free Lunch for Learning to Interact**|Wei Liu et.al.|[2610.33817v1](http://arxiv.org/abs/2610.33817v1)|null|
 |**2026-10-24 05:02:28**|**Secure and Functional Code Generation with Self-Evaluation**|Md Afif Al Mamun et.al.|[2610.33450v1](http://arxiv.org/abs/2610.33450v1)|null|
@@ -29,6 +32,3 @@
 |**2026-10-05 12:42:52**|**Few-Shot Prototype Head Adaptation for On-Device ECG Personalization on PSoC~6**|Guilherme Silva et.al.|[2610.06241v1](http://arxiv.org/abs/2610.06241v1)|null|
 |**2026-10-02 00:00:42**|**Query Performance Tuning with Optimal Exploration of Optimizer Cost Model Parameter Space**|Wentao Wu et.al.|[2610.02607v1](http://arxiv.org/abs/2610.02607v1)|null|
 |**2026-10-01 19:09:03**|**SOLO: Certified-Recall Metric Similarity Search with Scan-Only Sampled Inverted Lists**|Édgar Chávez et.al.|[2610.02387v2](http://arxiv.org/abs/2610.02387v2)|null|
-|**2026-10-01 17:59:20**|**Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features**|Jason X. Liu et.al.|[2610.02189v1](http://arxiv.org/abs/2610.02189v1)|[link](https://github.com/rotskoff-group/idiom)|
-|**2026-10-01 07:54:44**|**Autonomous OSS Threat Detection via Taxonomy-Aligned LLMs**|Md. Robiul Islam Niloy et.al.|[2610.01263v2](http://arxiv.org/abs/2610.01263v2)|null|
-|**2026-09-30 14:00:39**|**Riemannian Flow Models with Reinforcement Learning for Molecular Crystal Structure Prediction**|Thomas Egg et.al.|[2609.39773v1](http://arxiv.org/abs/2609.39773v1)|null|

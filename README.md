@@ -1,11 +1,17 @@
 # arxiv-daily
- 自动更新 @ 2026-11-03 01:30:19 Asia/Shanghai
+ 自动更新 @ 2026-11-03 23:32:22 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-02 16:35:19**|**On inverse aggregate network assignment games**|Joseph Y. J. Chow et.al.|[2611.03409v1](http://arxiv.org/abs/2611.03409v1)|null|
+|**2026-11-02 15:33:40**|**SQLoom: Set-Contrastive Learning of Syntactic, Semantic, and Logical Dependencies for Text-to-SQL**|Hao Fu et.al.|[2611.03298v1](http://arxiv.org/abs/2611.03298v1)|null|
+|**2026-11-02 05:56:19**|**Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off**|Kinston Ackölf et.al.|[2611.02571v1](http://arxiv.org/abs/2611.02571v1)|null|
+|**2026-11-01 23:29:55**|**Toward Agentic AI-Ready Workflows in Built Environment Organizations: Knowledge Structures and Interoperability Challenges**|Ahmet Bahaddin Ersoz et.al.|[2611.02286v1](http://arxiv.org/abs/2611.02286v1)|null|
+|**2026-11-01 03:47:55**|**Federated Vector Retrieval across Heterogeneous VectorDBs**|Mintaek Lim et.al.|[2611.01514v1](http://arxiv.org/abs/2611.01514v1)|null|
+|**2026-10-31 17:00:57**|**CompSkill: Compiling Execution Experience for Skill Retrieval**|Qi Shen et.al.|[2611.01115v1](http://arxiv.org/abs/2611.01115v1)|[link](https://github.com/satoshinji2992/CompSkill)|
 |**2026-10-30 13:58:55**|**Machine learning surrogates for multi-geometry EDGE2D-EIRENE studies of MAST Upgrade**|George K. Holt et.al.|[2610.41756v1](http://arxiv.org/abs/2610.41756v1)|null|
 |**2026-10-30 08:19:23**|**Fidelity Synopses: Pre-Execution Plan Selection for Approximate Vector Search**|Adithya Ramanatha et.al.|[2610.41407v1](http://arxiv.org/abs/2610.41407v1)|null|
 |**2026-10-30 02:48:37**|**Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses**|Zhichang Yu et.al.|[2610.41172v1](http://arxiv.org/abs/2610.41172v1)|[link](https://github.com/infiniflow/ragflow)|
@@ -30,23 +36,20 @@
 |**2026-10-07 01:42:39**|**No Trace, No Claim: Two Contracts for Database Agents**|Xiaofei Zhang et.al.|[2610.09286v1](http://arxiv.org/abs/2610.09286v1)|null|
 |**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v2](http://arxiv.org/abs/2610.08089v2)|null|
 |**2026-10-04 15:55:47**|**AgentDiscover: Autonomous Discovery with Minimal Search Scaffolding**|Mahdi Farahbakhsh et.al.|[2610.05334v1](http://arxiv.org/abs/2610.05334v1)|[link](https://github.com/mhdfb/AgentDiscover)|
-|**2026-10-02 19:32:31**|**Equivariant generative diffusion learns and generalizes the structural ensemble of amorphous oxides**|Jun Jiang et.al.|[2610.03973v1](http://arxiv.org/abs/2610.03973v1)|null|
-|**2026-10-02 17:19:50**|**FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs**|Darian Lee et.al.|[2610.03625v1](http://arxiv.org/abs/2610.03625v1)|null|
-|**2026-10-02 00:00:42**|**Query Performance Tuning with Optimal Exploration of Optimizer Cost Model Parameter Space**|Wentao Wu et.al.|[2610.02607v1](http://arxiv.org/abs/2610.02607v1)|null|
-|**2026-10-01 16:55:48**|**Prune First, Decide Fast: Scalable Semantic Query Processing with JEVDB**|Zhengle Wang et.al.|[2610.02046v1](http://arxiv.org/abs/2610.02046v1)|null|
-|**2026-10-01 01:36:43**|**STEER: Reducing Inference Cost in Relational Foundation Models through Semantically Informed Sampling**|Abdalla Mohamed et.al.|[2610.00907v1](http://arxiv.org/abs/2610.00907v1)|null|
-|**2026-09-29 19:31:43**|**Automated Prefetching for Object Spatial Programming Using Temporal Trace Graphs**|Baichuan Li et.al.|[2609.38439v1](http://arxiv.org/abs/2609.38439v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-02 15:25:17**|**Magnetic field as a tuning knob for edge mode interaction in integer quantum Hall interferometers**|Ning Ma et.al.|[2611.03284v1](http://arxiv.org/abs/2611.03284v1)|null|
+|**2026-11-02 11:41:38**|**Inducing cooperative dynamics in an inhomogeneous many-emitter ensemble with a pulse sequence**|Vincent P. Iglesias-Cardinale et.al.|[2611.02973v1](http://arxiv.org/abs/2611.02973v1)|null|
+|**2026-10-31 18:28:29**|**Optical Magnetic-Field Gating of Photon Avalanching Quantum Processes**|Benoît Reynier et.al.|[2611.01179v1](http://arxiv.org/abs/2611.01179v1)|null|
 |**2026-10-23 08:51:46**|**Strain-tunable van Hove singularity and superconducting dome in monolayer kagome metal CsTi$_3$Bi$_5$**|Run Lv et.al.|[2610.32359v1](http://arxiv.org/abs/2610.32359v1)|null|
 |**2026-10-15 18:03:29**|**TCDA: Tunable Coded Distributed Arrays for Data Availability Sampling**|Duc A. Tran et.al.|[2610.22508v1](http://arxiv.org/abs/2610.22508v1)|null|
 |**2026-10-14 03:59:51**|**Pressure engineering of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré superlattices**|Wenbing Li et.al.|[2610.19542v1](http://arxiv.org/abs/2610.19542v1)|null|
 |**2026-10-13 19:49:23**|**Engineering Correlated Transparent Conductors via Metal-Insulator Transition Proximity**|Amit Cohen et.al.|[2610.19112v1](http://arxiv.org/abs/2610.19112v1)|null|
-|**2026-10-13 00:49:11**|**ATTUNE: Agentic Throughput Tuning for LLM Training**|Leo Fan et.al.|[2610.17528v2](http://arxiv.org/abs/2610.17528v2)|[link](https://github.com/amazon-science/attune)|
+|**2026-10-13 00:49:11**|**ATTUNE: Agentic Throughput Tuning for LLM Training**|Leo Fan et.al.|[2610.17528v3](http://arxiv.org/abs/2610.17528v3)|null|
 |**2026-10-12 09:38:05**|**Molecule-intercalated van der Waals Josephson junctions uncover complex multiband superconductivity**|Daniel Margineda et.al.|[2610.16483v1](http://arxiv.org/abs/2610.16483v1)|null|
 |**2026-10-11 16:04:50**|**Reversible intrinsic-extrinsic crossover of the anomalous Hall effect in PrAlSi via Al/Si ratio tuning**|Huiyang Yang et.al.|[2610.15726v1](http://arxiv.org/abs/2610.15726v1)|null|
 |**2026-10-07 01:14:40**|**CATune: Structural Constraint-Aware Bayesian Optimization for DBMS Configuration Tuning**|Fangping Lan et.al.|[2610.09276v1](http://arxiv.org/abs/2610.09276v1)|null|
@@ -69,17 +72,17 @@
 |**2026-08-25 03:06:03**|**Quantum-geometry stabilization of dilute fractional Chern insulators**|Ying-Xing Ding et.al.|[2608.24013v1](http://arxiv.org/abs/2608.24013v1)|null|
 |**2026-08-25 02:24:08**|**Sensorless damage-safe grasping**|Yusei Shuto et.al.|[2608.23983v1](http://arxiv.org/abs/2608.23983v1)|null|
 |**2026-08-24 21:21:04**|**Spectrally Programmable Spin-Polarized Photocurrents in WSe$_2$-NiPS$_3$ Magnetic van der Waals Heterostructures**|Rajesh Kumar Yadav et.al.|[2608.23832v1](http://arxiv.org/abs/2608.23832v1)|null|
-|**2026-08-23 07:54:01**|**Engineering exact mobility edges in quasiperiodic Aharonov-Bohm chains**|Hai-Ying Cui et.al.|[2608.22264v1](http://arxiv.org/abs/2608.22264v1)|null|
-|**2026-08-23 02:53:20**|**Unveiling the Depth-Performance Dilemma in Split-Federated Fine-tuning of LLMs**|Hariharan Ramesh et.al.|[2608.22188v1](http://arxiv.org/abs/2608.22188v1)|null|
-|**2026-08-21 13:26:40**|**All-Optical Control of Interfacial Polarization in MoS$_2$/WSe$_2$ Heterobilayers**|Muhammad Sufyan Ramzan et.al.|[2608.21493v2](http://arxiv.org/abs/2608.21493v2)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-02 15:33:40**|**SQLoom: Set-Contrastive Learning of Syntactic, Semantic, and Logical Dependencies for Text-to-SQL**|Hao Fu et.al.|[2611.03298v1](http://arxiv.org/abs/2611.03298v1)|null|
+|**2026-11-02 01:37:47**|**Mixed-Type Relational Database Synthesis with Graph-Prompted Language Model**|Yuxiang Sun et.al.|[2611.02373v1](http://arxiv.org/abs/2611.02373v1)|null|
 |**2026-10-30 15:56:54**|**Generative Design and Graph Neural Network Screening of Novel Bimetallic Alloy Catalysts for the Hydrogen Evolution Reaction**|Vipin Kurian Elavunkel et.al.|[2610.41932v1](http://arxiv.org/abs/2610.41932v1)|null|
 |**2026-10-30 13:58:22**|**CypherGuard: Database-Grounded Correction for Reliable Text-to-Cypher**|Zebin Chen et.al.|[2610.41755v1](http://arxiv.org/abs/2610.41755v1)|null|
+|**2026-10-30 13:45:49**|**Reimagining Text-to-SQL: A Survey of Large Language Model Architectures and Strategies**|Shikhar Dave et.al.|[2611.00171v1](http://arxiv.org/abs/2611.00171v1)|null|
 |**2026-10-25 07:44:21**|**Enhancing Type 2 Diabetes Diagnosis with Evolutionary Algorithms and Machine Learning**|Parisa Rezaei et.al.|[2610.34123v1](http://arxiv.org/abs/2610.34123v1)|null|
 |**2026-10-24 17:29:24**|**EnvLunch: The Environment as a Free Lunch for Learning to Interact**|Wei Liu et.al.|[2610.33817v1](http://arxiv.org/abs/2610.33817v1)|null|
 |**2026-10-24 05:02:28**|**Secure and Functional Code Generation with Self-Evaluation**|Md Afif Al Mamun et.al.|[2610.33450v1](http://arxiv.org/abs/2610.33450v1)|null|
@@ -105,6 +108,3 @@
 |**2026-10-05 12:42:52**|**Few-Shot Prototype Head Adaptation for On-Device ECG Personalization on PSoC~6**|Guilherme Silva et.al.|[2610.06241v1](http://arxiv.org/abs/2610.06241v1)|null|
 |**2026-10-02 00:00:42**|**Query Performance Tuning with Optimal Exploration of Optimizer Cost Model Parameter Space**|Wentao Wu et.al.|[2610.02607v1](http://arxiv.org/abs/2610.02607v1)|null|
 |**2026-10-01 19:09:03**|**SOLO: Certified-Recall Metric Similarity Search with Scan-Only Sampled Inverted Lists**|Édgar Chávez et.al.|[2610.02387v2](http://arxiv.org/abs/2610.02387v2)|null|
-|**2026-10-01 17:59:20**|**Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features**|Jason X. Liu et.al.|[2610.02189v1](http://arxiv.org/abs/2610.02189v1)|[link](https://github.com/rotskoff-group/idiom)|
-|**2026-10-01 07:54:44**|**Autonomous OSS Threat Detection via Taxonomy-Aligned LLMs**|Md. Robiul Islam Niloy et.al.|[2610.01263v2](http://arxiv.org/abs/2610.01263v2)|null|
-|**2026-09-30 14:00:39**|**Riemannian Flow Models with Reinforcement Learning for Molecular Crystal Structure Prediction**|Thomas Egg et.al.|[2609.39773v1](http://arxiv.org/abs/2609.39773v1)|null|

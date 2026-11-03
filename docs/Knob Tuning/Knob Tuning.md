@@ -2,11 +2,14 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-02 15:25:17**|**Magnetic field as a tuning knob for edge mode interaction in integer quantum Hall interferometers**|Ning Ma et.al.|[2611.03284v1](http://arxiv.org/abs/2611.03284v1)|null|
+|**2026-11-02 11:41:38**|**Inducing cooperative dynamics in an inhomogeneous many-emitter ensemble with a pulse sequence**|Vincent P. Iglesias-Cardinale et.al.|[2611.02973v1](http://arxiv.org/abs/2611.02973v1)|null|
+|**2026-10-31 18:28:29**|**Optical Magnetic-Field Gating of Photon Avalanching Quantum Processes**|Benoît Reynier et.al.|[2611.01179v1](http://arxiv.org/abs/2611.01179v1)|null|
 |**2026-10-23 08:51:46**|**Strain-tunable van Hove singularity and superconducting dome in monolayer kagome metal CsTi$_3$Bi$_5$**|Run Lv et.al.|[2610.32359v1](http://arxiv.org/abs/2610.32359v1)|null|
 |**2026-10-15 18:03:29**|**TCDA: Tunable Coded Distributed Arrays for Data Availability Sampling**|Duc A. Tran et.al.|[2610.22508v1](http://arxiv.org/abs/2610.22508v1)|null|
 |**2026-10-14 03:59:51**|**Pressure engineering of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré superlattices**|Wenbing Li et.al.|[2610.19542v1](http://arxiv.org/abs/2610.19542v1)|null|
 |**2026-10-13 19:49:23**|**Engineering Correlated Transparent Conductors via Metal-Insulator Transition Proximity**|Amit Cohen et.al.|[2610.19112v1](http://arxiv.org/abs/2610.19112v1)|null|
-|**2026-10-13 00:49:11**|**ATTUNE: Agentic Throughput Tuning for LLM Training**|Leo Fan et.al.|[2610.17528v2](http://arxiv.org/abs/2610.17528v2)|[link](https://github.com/amazon-science/attune)|
+|**2026-10-13 00:49:11**|**ATTUNE: Agentic Throughput Tuning for LLM Training**|Leo Fan et.al.|[2610.17528v3](http://arxiv.org/abs/2610.17528v3)|null|
 |**2026-10-12 09:38:05**|**Molecule-intercalated van der Waals Josephson junctions uncover complex multiband superconductivity**|Daniel Margineda et.al.|[2610.16483v1](http://arxiv.org/abs/2610.16483v1)|null|
 |**2026-10-11 16:04:50**|**Reversible intrinsic-extrinsic crossover of the anomalous Hall effect in PrAlSi via Al/Si ratio tuning**|Huiyang Yang et.al.|[2610.15726v1](http://arxiv.org/abs/2610.15726v1)|null|
 |**2026-10-07 01:14:40**|**CATune: Structural Constraint-Aware Bayesian Optimization for DBMS Configuration Tuning**|Fangping Lan et.al.|[2610.09276v1](http://arxiv.org/abs/2610.09276v1)|null|
@@ -29,6 +32,3 @@
 |**2026-08-25 03:06:03**|**Quantum-geometry stabilization of dilute fractional Chern insulators**|Ying-Xing Ding et.al.|[2608.24013v1](http://arxiv.org/abs/2608.24013v1)|null|
 |**2026-08-25 02:24:08**|**Sensorless damage-safe grasping**|Yusei Shuto et.al.|[2608.23983v1](http://arxiv.org/abs/2608.23983v1)|null|
 |**2026-08-24 21:21:04**|**Spectrally Programmable Spin-Polarized Photocurrents in WSe$_2$-NiPS$_3$ Magnetic van der Waals Heterostructures**|Rajesh Kumar Yadav et.al.|[2608.23832v1](http://arxiv.org/abs/2608.23832v1)|null|
-|**2026-08-23 07:54:01**|**Engineering exact mobility edges in quasiperiodic Aharonov-Bohm chains**|Hai-Ying Cui et.al.|[2608.22264v1](http://arxiv.org/abs/2608.22264v1)|null|
-|**2026-08-23 02:53:20**|**Unveiling the Depth-Performance Dilemma in Split-Federated Fine-tuning of LLMs**|Hariharan Ramesh et.al.|[2608.22188v1](http://arxiv.org/abs/2608.22188v1)|null|
-|**2026-08-21 13:26:40**|**All-Optical Control of Interfacial Polarization in MoS$_2$/WSe$_2$ Heterobilayers**|Muhammad Sufyan Ramzan et.al.|[2608.21493v2](http://arxiv.org/abs/2608.21493v2)|null|
