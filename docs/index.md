@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-11-03 23:32:22 Asia/Shanghai
+ 自动更新 @ 2026-11-04 23:49:26 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-03 06:34:45**|**Silent Instrument Errors Reorder Agent Leaderboards**|Yangze Liu et.al.|[2611.04399v1](http://arxiv.org/abs/2611.04399v1)|null|
 |**2026-11-02 16:35:19**|**On inverse aggregate network assignment games**|Joseph Y. J. Chow et.al.|[2611.03409v1](http://arxiv.org/abs/2611.03409v1)|null|
 |**2026-11-02 15:33:40**|**SQLoom: Set-Contrastive Learning of Syntactic, Semantic, and Logical Dependencies for Text-to-SQL**|Hao Fu et.al.|[2611.03298v1](http://arxiv.org/abs/2611.03298v1)|null|
 |**2026-11-02 05:56:19**|**Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off**|Kinston Ackölf et.al.|[2611.02571v1](http://arxiv.org/abs/2611.02571v1)|null|
@@ -35,7 +36,6 @@
 |**2026-10-07 21:52:18**|**AI4Fire: Evaluating Large Language Models on Wildfire Tasks**|Yue Zhao et.al.|[2610.10946v2](http://arxiv.org/abs/2610.10946v2)|null|
 |**2026-10-07 01:42:39**|**No Trace, No Claim: Two Contracts for Database Agents**|Xiaofei Zhang et.al.|[2610.09286v1](http://arxiv.org/abs/2610.09286v1)|null|
 |**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v2](http://arxiv.org/abs/2610.08089v2)|null|
-|**2026-10-04 15:55:47**|**AgentDiscover: Autonomous Discovery with Minimal Search Scaffolding**|Mahdi Farahbakhsh et.al.|[2610.05334v1](http://arxiv.org/abs/2610.05334v1)|[link](https://github.com/mhdfb/AgentDiscover)|
 
 ## Knob Tuning
 
