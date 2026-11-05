@@ -2,6 +2,9 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-04 05:33:09**|**A Comparative Study of Importance Attribution to Columns in Deep Learning over Relational Databases**|Hila Levi-Yosefi et.al.|[2611.05986v1](http://arxiv.org/abs/2611.05986v1)|null|
+|**2026-11-04 03:30:47**|**When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware**|Krish Patel et.al.|[2611.05892v1](http://arxiv.org/abs/2611.05892v1)|null|
+|**2026-11-04 03:18:21**|**Optimizing Geo-replicated Deterministic Databases**|Yunhao Mao et.al.|[2611.05882v1](http://arxiv.org/abs/2611.05882v1)|null|
 |**2026-11-03 06:34:45**|**Silent Instrument Errors Reorder Agent Leaderboards**|Yangze Liu et.al.|[2611.04399v1](http://arxiv.org/abs/2611.04399v1)|null|
 |**2026-11-02 16:35:19**|**On inverse aggregate network assignment games**|Joseph Y. J. Chow et.al.|[2611.03409v1](http://arxiv.org/abs/2611.03409v1)|null|
 |**2026-11-02 15:33:40**|**SQLoom: Set-Contrastive Learning of Syntactic, Semantic, and Logical Dependencies for Text-to-SQL**|Hao Fu et.al.|[2611.03298v1](http://arxiv.org/abs/2611.03298v1)|null|
@@ -29,6 +32,3 @@
 |**2026-10-09 17:42:26**|**Agentic Evolution of SQL Test Generators**|Suyang Zhong et.al.|[2610.14161v1](http://arxiv.org/abs/2610.14161v1)|null|
 |**2026-10-09 13:27:20**|**MatQuery: Execution-Grounded Natural-Language Querying over Heterogeneous Materials Databases**|Chen Jason Zhang et.al.|[2610.13573v1](http://arxiv.org/abs/2610.13573v1)|null|
 |**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|
-|**2026-10-07 21:52:18**|**AI4Fire: Evaluating Large Language Models on Wildfire Tasks**|Yue Zhao et.al.|[2610.10946v2](http://arxiv.org/abs/2610.10946v2)|null|
-|**2026-10-07 01:42:39**|**No Trace, No Claim: Two Contracts for Database Agents**|Xiaofei Zhang et.al.|[2610.09286v1](http://arxiv.org/abs/2610.09286v1)|null|
-|**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v2](http://arxiv.org/abs/2610.08089v2)|null|
