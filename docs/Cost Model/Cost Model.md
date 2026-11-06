@@ -2,6 +2,8 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-05 13:04:20**|**ArcadeDB in Python: An In-Process Multi-Model Database**|Taewoon Kim et.al.|[2611.07971v1](http://arxiv.org/abs/2611.07971v1)|null|
+|**2026-11-04 23:35:57**|**Efficient Projection-Based Reduced-Order Modeling for Computational Fluid Dynamics via Multifidelity Basis Construction**|Ashok Viswanathan et.al.|[2611.07231v1](http://arxiv.org/abs/2611.07231v1)|null|
 |**2026-11-04 05:33:09**|**A Comparative Study of Importance Attribution to Columns in Deep Learning over Relational Databases**|Hila Levi-Yosefi et.al.|[2611.05986v1](http://arxiv.org/abs/2611.05986v1)|null|
 |**2026-11-04 03:30:47**|**When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware**|Krish Patel et.al.|[2611.05892v1](http://arxiv.org/abs/2611.05892v1)|null|
 |**2026-11-04 03:18:21**|**Optimizing Geo-replicated Deterministic Databases**|Yunhao Mao et.al.|[2611.05882v1](http://arxiv.org/abs/2611.05882v1)|null|
@@ -30,5 +32,3 @@
 |**2026-10-15 03:30:36**|**Amora: Communication-Efficient Private Approximate Nearest Neighbors Search**|Qiuhao Wang et.al.|[2610.21174v1](http://arxiv.org/abs/2610.21174v1)|null|
 |**2026-10-14 21:29:59**|**Same Context, Different Agents: A Behavioral Study of Semantic Layers, Multi-Agent Orchestration and Memory Compaction in Data Agents**|Zhivar Sourati et.al.|[2610.20959v2](http://arxiv.org/abs/2610.20959v2)|null|
 |**2026-10-09 17:42:26**|**Agentic Evolution of SQL Test Generators**|Suyang Zhong et.al.|[2610.14161v1](http://arxiv.org/abs/2610.14161v1)|null|
-|**2026-10-09 13:27:20**|**MatQuery: Execution-Grounded Natural-Language Querying over Heterogeneous Materials Databases**|Chen Jason Zhang et.al.|[2610.13573v1](http://arxiv.org/abs/2610.13573v1)|null|
-|**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|

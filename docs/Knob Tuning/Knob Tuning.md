@@ -16,7 +16,7 @@
 |**2026-10-07 01:14:40**|**CATune: Structural Constraint-Aware Bayesian Optimization for DBMS Configuration Tuning**|Fangping Lan et.al.|[2610.09276v1](http://arxiv.org/abs/2610.09276v1)|null|
 |**2026-10-05 23:53:31**|**Targeted search shows that random-device testing underestimates worst-case error in a simulated wave-based neural operator**|Samrendra Roy et.al.|[2610.07529v1](http://arxiv.org/abs/2610.07529v1)|null|
 |**2026-09-29 12:43:03**|**Topological Hall Effect Induced by Chiral Spin Textures at the Ferroelectric/Ferromagnetic Interface**|Jingkuan Xiao et.al.|[2609.37406v1](http://arxiv.org/abs/2609.37406v1)|null|
-|**2026-09-29 02:41:29**|**Multicomponent anyons in one-dimensional optical lattices**|Sagarika Basak et.al.|[2609.36554v1](http://arxiv.org/abs/2609.36554v1)|null|
+|**2026-09-29 02:41:29**|**Multicomponent anyons in one-dimensional optical lattices**|Sagarika Basak et.al.|[2609.36554v2](http://arxiv.org/abs/2609.36554v2)|null|
 |**2026-09-24 08:27:35**|**Schedules Are Solvable Symbols: Tuning-Free Compilation of Tile Programs on Dataflow Architectures**|Heru Wang et.al.|[2609.29219v1](http://arxiv.org/abs/2609.29219v1)|null|
 |**2026-09-21 11:26:46**|**Spin-Orbit Induced Confinement of Correlated Bound States in the Continuum**|Kai Chen et.al.|[2609.24429v1](http://arxiv.org/abs/2609.24429v1)|null|
 |**2026-09-13 14:00:06**|**Preparation of Multimode NOON States via Floquet-Engineered Conditional Chiral Excitation**|Mengxue Li et.al.|[2609.14524v1](http://arxiv.org/abs/2609.14524v1)|null|
