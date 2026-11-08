@@ -1,5 +1,5 @@
 # arxiv-daily
- 自动更新 @ 2026-11-07 22:28:08 Asia/Shanghai
+ 自动更新 @ 2026-11-08 22:36:36 Asia/Shanghai
 
 ## Cost Model
 
