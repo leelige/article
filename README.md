@@ -1,11 +1,12 @@
 # arxiv-daily
- 自动更新 @ 2026-11-08 22:36:36 Asia/Shanghai
+ 自动更新 @ 2026-11-10 01:54:14 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-06 12:11:34**|**Enabling Privacy-Preserving Natural Language Access to Industrial Smart Meter Data**|Carlos Martín-Abellán et.al.|[2611.09372v1](http://arxiv.org/abs/2611.09372v1)|null|
 |**2026-11-05 13:04:20**|**ArcadeDB in Python: An In-Process Multi-Model Database**|Taewoon Kim et.al.|[2611.07971v1](http://arxiv.org/abs/2611.07971v1)|null|
 |**2026-11-04 23:35:57**|**Efficient Projection-Based Reduced-Order Modeling for Computational Fluid Dynamics via Multifidelity Basis Construction**|Ashok Viswanathan et.al.|[2611.07231v1](http://arxiv.org/abs/2611.07231v1)|null|
 |**2026-11-04 05:33:09**|**A Comparative Study of Importance Attribution to Columns in Deep Learning over Relational Databases**|Hila Levi-Yosefi et.al.|[2611.05986v1](http://arxiv.org/abs/2611.05986v1)|null|
@@ -35,7 +36,6 @@
 |**2026-10-15 04:02:26**|**A machine-learning-driven dataset of 144,111 polycyclic aromatic hydrocarbon infrared spectra for interpreting aromatic infrared bands**|Xinghong Mai et.al.|[2610.21205v1](http://arxiv.org/abs/2610.21205v1)|null|
 |**2026-10-15 03:30:36**|**Amora: Communication-Efficient Private Approximate Nearest Neighbors Search**|Qiuhao Wang et.al.|[2610.21174v1](http://arxiv.org/abs/2610.21174v1)|null|
 |**2026-10-14 21:29:59**|**Same Context, Different Agents: A Behavioral Study of Semantic Layers, Multi-Agent Orchestration and Memory Compaction in Data Agents**|Zhivar Sourati et.al.|[2610.20959v2](http://arxiv.org/abs/2610.20959v2)|null|
-|**2026-10-09 17:42:26**|**Agentic Evolution of SQL Test Generators**|Suyang Zhong et.al.|[2610.14161v1](http://arxiv.org/abs/2610.14161v1)|null|
 
 ## Knob Tuning
 
@@ -78,6 +78,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-06 16:55:37**|**ICare-DT: a digital twin for continuous forecasting of intensive care patients**|Yanke Li et.al.|[2611.09712v1](http://arxiv.org/abs/2611.09712v1)|null|
 |**2026-11-05 07:30:55**|**Per-Query Recall Guarantees for Approximate Nearest Neighbor Search in Dynamic Vector Databases**|Woong-Kee Loh et.al.|[2611.07579v1](http://arxiv.org/abs/2611.07579v1)|null|
 |**2026-11-04 03:30:47**|**When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware**|Krish Patel et.al.|[2611.05892v1](http://arxiv.org/abs/2611.05892v1)|null|
 |**2026-11-02 15:33:40**|**SQLoom: Set-Contrastive Learning of Syntactic, Semantic, and Logical Dependencies for Text-to-SQL**|Hao Fu et.al.|[2611.03298v1](http://arxiv.org/abs/2611.03298v1)|null|
@@ -107,4 +108,3 @@
 |**2026-10-08 04:30:54**|**SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting**|Van Dai Do et.al.|[2610.11229v1](http://arxiv.org/abs/2610.11229v1)|null|
 |**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v2](http://arxiv.org/abs/2610.08089v2)|null|
 |**2026-10-05 21:20:40**|**Simplified Swarm Optimization for Surrogate-Assisted Reliability Design of Insulated-Gate Bipolar Transistor Power Modules Using an Open-Source Process Finite-Element Model**|Wei-Chang Yeh et.al.|[2610.07412v1](http://arxiv.org/abs/2610.07412v1)|null|
-|**2026-10-05 12:42:52**|**Few-Shot Prototype Head Adaptation for On-Device ECG Personalization on PSoC~6**|Guilherme Silva et.al.|[2610.06241v1](http://arxiv.org/abs/2610.06241v1)|null|
