@@ -1,13 +1,18 @@
 # arxiv-daily
- 自动更新 @ 2026-11-10 01:54:14 Asia/Shanghai
+ 自动更新 @ 2026-11-10 23:53:19 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-09 13:59:54**|**KPG193-ext: A Synthetic Korean Power Grid Test System for Stability Analysis**|Sungyoon Song et.al.|[2611.12439v1](http://arxiv.org/abs/2611.12439v1)|null|
+|**2026-11-09 11:30:44**|**SNAPRAG: Cost-Efficient Knowledge Extraction Attack on RAG Systems via Adversarial Perturbations**|Melih Coşğun et.al.|[2611.12241v1](http://arxiv.org/abs/2611.12241v1)|null|
+|**2026-11-08 01:59:34**|**Learning Electronic Band Structures Across the s, p, d Blocks with an Empirical Pseudopotential Network**|Qiang Zhu et.al.|[2611.11070v1](http://arxiv.org/abs/2611.11070v1)|null|
+|**2026-11-07 23:15:23**|**Lightfoot: Graph Retrieval-Augmented Generation with Exact, Model-Free Document Deletion**|Uday Allu et.al.|[2611.11010v1](http://arxiv.org/abs/2611.11010v1)|[link](https://github.com/udayallu-ml/Lightfoot-GraphRAG)|
 |**2026-11-06 12:11:34**|**Enabling Privacy-Preserving Natural Language Access to Industrial Smart Meter Data**|Carlos Martín-Abellán et.al.|[2611.09372v1](http://arxiv.org/abs/2611.09372v1)|null|
 |**2026-11-05 13:04:20**|**ArcadeDB in Python: An In-Process Multi-Model Database**|Taewoon Kim et.al.|[2611.07971v1](http://arxiv.org/abs/2611.07971v1)|null|
+|**2026-11-05 11:42:06**|**State and spatial completion of 1D premixed flames for hydrogen and methane combustion**|Federico Rios Tascon et.al.|[2611.10029v1](http://arxiv.org/abs/2611.10029v1)|null|
 |**2026-11-04 23:35:57**|**Efficient Projection-Based Reduced-Order Modeling for Computational Fluid Dynamics via Multifidelity Basis Construction**|Ashok Viswanathan et.al.|[2611.07231v1](http://arxiv.org/abs/2611.07231v1)|null|
 |**2026-11-04 05:33:09**|**A Comparative Study of Importance Attribution to Columns in Deep Learning over Relational Databases**|Hila Levi-Yosefi et.al.|[2611.05986v1](http://arxiv.org/abs/2611.05986v1)|null|
 |**2026-11-04 03:30:47**|**When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware**|Krish Patel et.al.|[2611.05892v1](http://arxiv.org/abs/2611.05892v1)|null|
@@ -31,17 +36,13 @@
 |**2026-10-20 08:18:57**|**Raise or Check? Predicting the Necessity of Additional Fuzzing for Continuous Fuzzing**|Riku Kato et.al.|[2610.27828v1](http://arxiv.org/abs/2610.27828v1)|null|
 |**2026-10-19 02:05:58**|**Beyond Leaderboards: A Method for Application-Specific Capability Profiling of Large Language Models**|Oleg Grynets et.al.|[2610.25659v1](http://arxiv.org/abs/2610.25659v1)|null|
 |**2026-10-18 21:00:51**|**From Clinical Risk Prediction to Operational Decisions: An Uncertainty-Aware Framework for ICU Staffing**|Jiayan Yang et.al.|[2610.25530v1](http://arxiv.org/abs/2610.25530v1)|null|
-|**2026-10-16 22:46:52**|**Predicting CVSS and CWE from CVE Descriptions with Fine-Tuned Small Language Models**|Tara Dixit et.al.|[2610.24297v1](http://arxiv.org/abs/2610.24297v1)|null|
-|**2026-10-15 21:41:13**|**The Case for TPU-Accelerated Analytical Query Processing**|Yeounoh Chung et.al.|[2610.22673v1](http://arxiv.org/abs/2610.22673v1)|null|
-|**2026-10-15 04:02:26**|**A machine-learning-driven dataset of 144,111 polycyclic aromatic hydrocarbon infrared spectra for interpreting aromatic infrared bands**|Xinghong Mai et.al.|[2610.21205v1](http://arxiv.org/abs/2610.21205v1)|null|
-|**2026-10-15 03:30:36**|**Amora: Communication-Efficient Private Approximate Nearest Neighbors Search**|Qiuhao Wang et.al.|[2610.21174v1](http://arxiv.org/abs/2610.21174v1)|null|
-|**2026-10-14 21:29:59**|**Same Context, Different Agents: A Behavioral Study of Semantic Layers, Multi-Agent Orchestration and Memory Compaction in Data Agents**|Zhivar Sourati et.al.|[2610.20959v2](http://arxiv.org/abs/2610.20959v2)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-08 09:19:09**|**Engineering ferroelectric nanocapacitors through interfacial phonon bias**|Iñigo Robredo-Magro et.al.|[2611.11256v1](http://arxiv.org/abs/2611.11256v1)|null|
 |**2026-11-04 05:48:15**|**How Far Can You Steer? Behavior-Capability Frontiers in Contrastive Activation Addition**|Deepanshu Raj et.al.|[2611.06001v1](http://arxiv.org/abs/2611.06001v1)|null|
 |**2026-11-02 15:25:17**|**Magnetic field as a tuning knob for edge mode interaction in integer quantum Hall interferometers**|Ning Ma et.al.|[2611.03284v1](http://arxiv.org/abs/2611.03284v1)|null|
 |**2026-11-02 11:41:38**|**Inducing cooperative dynamics in an inhomogeneous many-emitter ensemble with a pulse sequence**|Vincent P. Iglesias-Cardinale et.al.|[2611.02973v1](http://arxiv.org/abs/2611.02973v1)|null|
@@ -65,19 +66,19 @@
 |**2026-09-08 01:27:19**|**Tunable topological narrow bands in twisted bilayer-trilayer graphene**|Dong Wang et.al.|[2609.08104v1](http://arxiv.org/abs/2609.08104v1)|null|
 |**2026-09-04 17:51:48**|**Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction**|Sihwa Park et.al.|[2609.05404v1](http://arxiv.org/abs/2609.05404v1)|null|
 |**2026-09-02 18:00:12**|**Tuning Andreev reflection and conductance in proximitized nanowires through the spin-orbit field direction**|Leonardo Musca et.al.|[2609.03020v1](http://arxiv.org/abs/2609.03020v1)|null|
-|**2026-09-02 08:03:08**|**Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO$_2$ Reduction in MOF-5**|Julia Santana-Andreo et.al.|[2609.02256v1](http://arxiv.org/abs/2609.02256v1)|null|
+|**2026-09-02 08:03:08**|**Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO$_2$ Reduction in MOF-5**|Julia Santana-Andreo et.al.|[2609.02256v2](http://arxiv.org/abs/2609.02256v2)|null|
 |**2026-08-31 19:23:24**|**Engineering tunable $p$-wave magnetism in antiferromagnetic bilayers**|Yu-Han Lin et.al.|[2609.00277v2](http://arxiv.org/abs/2609.00277v2)|null|
 |**2026-08-28 17:56:52**|**Layer-Controlled Intermolecular Coupling and Many-Body Effects in C$_{60}$ Films**|Hai-Lan Luo et.al.|[2608.28583v1](http://arxiv.org/abs/2608.28583v1)|null|
 |**2026-08-28 16:57:09**|**Modifying van der Waals Materials via Cavity Vacuum Fluctuations**|Mohammad Hassan et.al.|[2608.28521v2](http://arxiv.org/abs/2608.28521v2)|null|
 |**2026-08-25 07:11:12**|**Phase-controlled perfect nonlocal spin and charge diode effects in a four-terminal Josephson junction with $p$-wave magnets**|Lovy Sharma et.al.|[2608.24147v1](http://arxiv.org/abs/2608.24147v1)|null|
 |**2026-08-25 03:06:03**|**Quantum-geometry stabilization of dilute fractional Chern insulators**|Ying-Xing Ding et.al.|[2608.24013v1](http://arxiv.org/abs/2608.24013v1)|null|
-|**2026-08-25 02:24:08**|**Sensorless damage-safe grasping**|Yusei Shuto et.al.|[2608.23983v1](http://arxiv.org/abs/2608.23983v1)|null|
 
 ## Database Tuning
 
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-09 17:18:21**|**NIFT-SQL: Customer-Supervised Table Scoring for Enterprise Text-to-SQL Retrieval**|Arjun Rao et.al.|[2611.12731v1](http://arxiv.org/abs/2611.12731v1)|null|
 |**2026-11-06 16:55:37**|**ICare-DT: a digital twin for continuous forecasting of intensive care patients**|Yanke Li et.al.|[2611.09712v1](http://arxiv.org/abs/2611.09712v1)|null|
 |**2026-11-05 07:30:55**|**Per-Query Recall Guarantees for Approximate Nearest Neighbor Search in Dynamic Vector Databases**|Woong-Kee Loh et.al.|[2611.07579v1](http://arxiv.org/abs/2611.07579v1)|null|
 |**2026-11-04 03:30:47**|**When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware**|Krish Patel et.al.|[2611.05892v1](http://arxiv.org/abs/2611.05892v1)|null|
@@ -107,4 +108,3 @@
 |**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|
 |**2026-10-08 04:30:54**|**SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting**|Van Dai Do et.al.|[2610.11229v1](http://arxiv.org/abs/2610.11229v1)|null|
 |**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v2](http://arxiv.org/abs/2610.08089v2)|null|
-|**2026-10-05 21:20:40**|**Simplified Swarm Optimization for Surrogate-Assisted Reliability Design of Insulated-Gate Bipolar Transistor Power Modules Using an Open-Source Process Finite-Element Model**|Wei-Chang Yeh et.al.|[2610.07412v1](http://arxiv.org/abs/2610.07412v1)|null|

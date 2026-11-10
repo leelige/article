@@ -2,6 +2,7 @@
 ### Database Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-09 17:18:21**|**NIFT-SQL: Customer-Supervised Table Scoring for Enterprise Text-to-SQL Retrieval**|Arjun Rao et.al.|[2611.12731v1](http://arxiv.org/abs/2611.12731v1)|null|
 |**2026-11-06 16:55:37**|**ICare-DT: a digital twin for continuous forecasting of intensive care patients**|Yanke Li et.al.|[2611.09712v1](http://arxiv.org/abs/2611.09712v1)|null|
 |**2026-11-05 07:30:55**|**Per-Query Recall Guarantees for Approximate Nearest Neighbor Search in Dynamic Vector Databases**|Woong-Kee Loh et.al.|[2611.07579v1](http://arxiv.org/abs/2611.07579v1)|null|
 |**2026-11-04 03:30:47**|**When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware**|Krish Patel et.al.|[2611.05892v1](http://arxiv.org/abs/2611.05892v1)|null|
@@ -31,4 +32,3 @@
 |**2026-10-08 15:48:07**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183v1](http://arxiv.org/abs/2610.12183v1)|[link](https://github.com/lamda-bbo/agentic-bbo)|
 |**2026-10-08 04:30:54**|**SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting**|Van Dai Do et.al.|[2610.11229v1](http://arxiv.org/abs/2610.11229v1)|null|
 |**2026-10-06 10:19:43**|**When Plans Change Answers: Formalizing Cost-Accuracy Optimization for Semantic Queries**|Kyoungmin Kim et.al.|[2610.08089v2](http://arxiv.org/abs/2610.08089v2)|null|
-|**2026-10-05 21:20:40**|**Simplified Swarm Optimization for Surrogate-Assisted Reliability Design of Insulated-Gate Bipolar Transistor Power Modules Using an Open-Source Process Finite-Element Model**|Wei-Chang Yeh et.al.|[2610.07412v1](http://arxiv.org/abs/2610.07412v1)|null|

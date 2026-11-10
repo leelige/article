@@ -2,6 +2,7 @@
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-08 09:19:09**|**Engineering ferroelectric nanocapacitors through interfacial phonon bias**|Iñigo Robredo-Magro et.al.|[2611.11256v1](http://arxiv.org/abs/2611.11256v1)|null|
 |**2026-11-04 05:48:15**|**How Far Can You Steer? Behavior-Capability Frontiers in Contrastive Activation Addition**|Deepanshu Raj et.al.|[2611.06001v1](http://arxiv.org/abs/2611.06001v1)|null|
 |**2026-11-02 15:25:17**|**Magnetic field as a tuning knob for edge mode interaction in integer quantum Hall interferometers**|Ning Ma et.al.|[2611.03284v1](http://arxiv.org/abs/2611.03284v1)|null|
 |**2026-11-02 11:41:38**|**Inducing cooperative dynamics in an inhomogeneous many-emitter ensemble with a pulse sequence**|Vincent P. Iglesias-Cardinale et.al.|[2611.02973v1](http://arxiv.org/abs/2611.02973v1)|null|
@@ -25,10 +26,9 @@
 |**2026-09-08 01:27:19**|**Tunable topological narrow bands in twisted bilayer-trilayer graphene**|Dong Wang et.al.|[2609.08104v1](http://arxiv.org/abs/2609.08104v1)|null|
 |**2026-09-04 17:51:48**|**Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction**|Sihwa Park et.al.|[2609.05404v1](http://arxiv.org/abs/2609.05404v1)|null|
 |**2026-09-02 18:00:12**|**Tuning Andreev reflection and conductance in proximitized nanowires through the spin-orbit field direction**|Leonardo Musca et.al.|[2609.03020v1](http://arxiv.org/abs/2609.03020v1)|null|
-|**2026-09-02 08:03:08**|**Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO$_2$ Reduction in MOF-5**|Julia Santana-Andreo et.al.|[2609.02256v1](http://arxiv.org/abs/2609.02256v1)|null|
+|**2026-09-02 08:03:08**|**Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO$_2$ Reduction in MOF-5**|Julia Santana-Andreo et.al.|[2609.02256v2](http://arxiv.org/abs/2609.02256v2)|null|
 |**2026-08-31 19:23:24**|**Engineering tunable $p$-wave magnetism in antiferromagnetic bilayers**|Yu-Han Lin et.al.|[2609.00277v2](http://arxiv.org/abs/2609.00277v2)|null|
 |**2026-08-28 17:56:52**|**Layer-Controlled Intermolecular Coupling and Many-Body Effects in C$_{60}$ Films**|Hai-Lan Luo et.al.|[2608.28583v1](http://arxiv.org/abs/2608.28583v1)|null|
 |**2026-08-28 16:57:09**|**Modifying van der Waals Materials via Cavity Vacuum Fluctuations**|Mohammad Hassan et.al.|[2608.28521v2](http://arxiv.org/abs/2608.28521v2)|null|
 |**2026-08-25 07:11:12**|**Phase-controlled perfect nonlocal spin and charge diode effects in a four-terminal Josephson junction with $p$-wave magnets**|Lovy Sharma et.al.|[2608.24147v1](http://arxiv.org/abs/2608.24147v1)|null|
 |**2026-08-25 03:06:03**|**Quantum-geometry stabilization of dilute fractional Chern insulators**|Ying-Xing Ding et.al.|[2608.24013v1](http://arxiv.org/abs/2608.24013v1)|null|
-|**2026-08-25 02:24:08**|**Sensorless damage-safe grasping**|Yusei Shuto et.al.|[2608.23983v1](http://arxiv.org/abs/2608.23983v1)|null|
