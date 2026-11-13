@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2026-11-09 17:18:21**|**NIFT-SQL: Customer-Supervised Table Scoring for Enterprise Text-to-SQL Retrieval**|Arjun Rao et.al.|[2611.12731v1](http://arxiv.org/abs/2611.12731v1)|null|
 |**2026-11-06 16:55:37**|**ICare-DT: a digital twin for continuous forecasting of intensive care patients**|Yanke Li et.al.|[2611.09712v1](http://arxiv.org/abs/2611.09712v1)|null|
-|**2026-11-05 07:30:55**|**Per-Query Recall Guarantees for Approximate Nearest Neighbor Search in Dynamic Vector Databases**|Woong-Kee Loh et.al.|[2611.07579v1](http://arxiv.org/abs/2611.07579v1)|null|
+|**2026-11-05 07:30:55**|**Per-Query Recall Guarantees for Approximate Nearest Neighbor Search in Dynamic Vector Databases**|Woong-Kee Loh et.al.|[2611.07579v2](http://arxiv.org/abs/2611.07579v2)|null|
 |**2026-11-04 03:30:47**|**When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware**|Krish Patel et.al.|[2611.05892v1](http://arxiv.org/abs/2611.05892v1)|null|
 |**2026-11-02 15:33:40**|**SQLoom: Set-Contrastive Learning of Syntactic, Semantic, and Logical Dependencies for Text-to-SQL**|Hao Fu et.al.|[2611.03298v1](http://arxiv.org/abs/2611.03298v1)|null|
 |**2026-11-02 01:37:47**|**Mixed-Type Relational Database Synthesis with Graph-Prompted Language Model**|Yuxiang Sun et.al.|[2611.02373v1](http://arxiv.org/abs/2611.02373v1)|null|

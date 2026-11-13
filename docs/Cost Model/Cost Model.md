@@ -2,6 +2,10 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-12 18:56:22**|**Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning**|Gustavo Pinto et.al.|[2611.17304v1](http://arxiv.org/abs/2611.17304v1)|null|
+|**2026-11-12 16:42:35**|**Evaluation of Music Version Retrieval Methods for Setlist Identification in Live Concerts**|Andres Ferraro et.al.|[2611.17070v1](http://arxiv.org/abs/2611.17070v1)|null|
+|**2026-11-12 07:09:05**|**Loss of the quadratic speedup in Grover search under local and coherent noise**|Imama Tul Birrah Khan et.al.|[2611.16398v1](http://arxiv.org/abs/2611.16398v1)|null|
+|**2026-11-11 06:32:23**|**VecDBLens: An Evaluatology-Based Framework for Vector Database Diagnosis**|Yutong Zhou et.al.|[2611.15105v1](http://arxiv.org/abs/2611.15105v1)|null|
 |**2026-11-09 13:59:54**|**KPG193-ext: A Synthetic Korean Power Grid Test System for Stability Analysis**|Sungyoon Song et.al.|[2611.12439v1](http://arxiv.org/abs/2611.12439v1)|null|
 |**2026-11-09 11:30:44**|**SNAPRAG: Cost-Efficient Knowledge Extraction Attack on RAG Systems via Adversarial Perturbations**|Melih Coşğun et.al.|[2611.12241v1](http://arxiv.org/abs/2611.12241v1)|null|
 |**2026-11-08 01:59:34**|**Learning Electronic Band Structures Across the s, p, d Blocks with an Empirical Pseudopotential Network**|Qiang Zhu et.al.|[2611.11070v1](http://arxiv.org/abs/2611.11070v1)|null|
@@ -28,7 +32,3 @@
 |**2026-10-25 00:23:22**|**Benchmarking miRNA Target Prediction Methods**|Congliang Jin et.al.|[2610.33960v1](http://arxiv.org/abs/2610.33960v1)|null|
 |**2026-10-24 06:06:40**|**Energy Efficient Lung Tumor Segmentation with a modified CBAM ENet Skip Model**|Sharan Thummagunti et.al.|[2610.33479v1](http://arxiv.org/abs/2610.33479v1)|null|
 |**2026-10-21 15:38:05**|**Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models**|Aravindan Kamatchi Sundaram et.al.|[2610.29895v1](http://arxiv.org/abs/2610.29895v1)|null|
-|**2026-10-20 14:25:41**|**SWatcher+: A Holistic Approach to Deploying Learned Cardinality Estimators in a Dynamic Setting**|Yuxi Liu et.al.|[2610.28270v1](http://arxiv.org/abs/2610.28270v1)|null|
-|**2026-10-20 08:18:57**|**Raise or Check? Predicting the Necessity of Additional Fuzzing for Continuous Fuzzing**|Riku Kato et.al.|[2610.27828v1](http://arxiv.org/abs/2610.27828v1)|null|
-|**2026-10-19 02:05:58**|**Beyond Leaderboards: A Method for Application-Specific Capability Profiling of Large Language Models**|Oleg Grynets et.al.|[2610.25659v1](http://arxiv.org/abs/2610.25659v1)|null|
-|**2026-10-18 21:00:51**|**From Clinical Risk Prediction to Operational Decisions: An Uncertainty-Aware Framework for ICU Staffing**|Jiayan Yang et.al.|[2610.25530v1](http://arxiv.org/abs/2610.25530v1)|null|
