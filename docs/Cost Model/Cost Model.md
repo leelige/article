@@ -2,6 +2,8 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-13 15:49:41**|**MEM-SQL: Memory-Empowered Text-to-SQL**|Xiaoqi Wang et.al.|[2611.18338v1](http://arxiv.org/abs/2611.18338v1)|null|
+|**2026-11-13 05:44:08**|**LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent**|Ibrahim Memon et.al.|[2611.17780v1](http://arxiv.org/abs/2611.17780v1)|[link](https://github.com/IAMIbrahimmemon/luthorsql)|
 |**2026-11-12 18:56:22**|**Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning**|Gustavo Pinto et.al.|[2611.17304v1](http://arxiv.org/abs/2611.17304v1)|null|
 |**2026-11-12 16:42:35**|**Evaluation of Music Version Retrieval Methods for Setlist Identification in Live Concerts**|Andres Ferraro et.al.|[2611.17070v1](http://arxiv.org/abs/2611.17070v1)|null|
 |**2026-11-12 07:09:05**|**Loss of the quadratic speedup in Grover search under local and coherent noise**|Imama Tul Birrah Khan et.al.|[2611.16398v1](http://arxiv.org/abs/2611.16398v1)|null|
@@ -22,7 +24,7 @@
 |**2026-11-02 15:33:40**|**SQLoom: Set-Contrastive Learning of Syntactic, Semantic, and Logical Dependencies for Text-to-SQL**|Hao Fu et.al.|[2611.03298v1](http://arxiv.org/abs/2611.03298v1)|null|
 |**2026-11-02 05:56:19**|**Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off**|Kinston Ackölf et.al.|[2611.02571v1](http://arxiv.org/abs/2611.02571v1)|null|
 |**2026-11-01 23:29:55**|**Toward Agentic AI-Ready Workflows in Built Environment Organizations: Knowledge Structures and Interoperability Challenges**|Ahmet Bahaddin Ersoz et.al.|[2611.02286v1](http://arxiv.org/abs/2611.02286v1)|null|
-|**2026-11-01 03:47:55**|**Federated Vector Retrieval across Heterogeneous VectorDBs**|Mintaek Lim et.al.|[2611.01514v1](http://arxiv.org/abs/2611.01514v1)|null|
+|**2026-11-01 03:47:55**|**Federated Vector Retrieval across Heterogeneous VectorDBs**|Mintaek Lim et.al.|[2611.01514v2](http://arxiv.org/abs/2611.01514v2)|null|
 |**2026-10-31 17:00:57**|**CompSkill: Compiling Execution Experience for Skill Retrieval**|Qi Shen et.al.|[2611.01115v1](http://arxiv.org/abs/2611.01115v1)|[link](https://github.com/satoshinji2992/CompSkill)|
 |**2026-10-30 13:58:55**|**Machine learning surrogates for multi-geometry EDGE2D-EIRENE studies of MAST Upgrade**|George K. Holt et.al.|[2610.41756v1](http://arxiv.org/abs/2610.41756v1)|null|
 |**2026-10-30 08:19:23**|**Fidelity Synopses: Pre-Execution Plan Selection for Approximate Vector Search**|Adithya Ramanatha et.al.|[2610.41407v1](http://arxiv.org/abs/2610.41407v1)|null|
@@ -30,5 +32,3 @@
 |**2026-10-29 12:21:38**|**The Verification Wall in Microbial Metabolomics**|Takahiko Koyama et.al.|[2610.39914v1](http://arxiv.org/abs/2610.39914v1)|null|
 |**2026-10-25 07:44:21**|**Enhancing Type 2 Diabetes Diagnosis with Evolutionary Algorithms and Machine Learning**|Parisa Rezaei et.al.|[2610.34123v1](http://arxiv.org/abs/2610.34123v1)|null|
 |**2026-10-25 00:23:22**|**Benchmarking miRNA Target Prediction Methods**|Congliang Jin et.al.|[2610.33960v1](http://arxiv.org/abs/2610.33960v1)|null|
-|**2026-10-24 06:06:40**|**Energy Efficient Lung Tumor Segmentation with a modified CBAM ENet Skip Model**|Sharan Thummagunti et.al.|[2610.33479v1](http://arxiv.org/abs/2610.33479v1)|null|
-|**2026-10-21 15:38:05**|**Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models**|Aravindan Kamatchi Sundaram et.al.|[2610.29895v1](http://arxiv.org/abs/2610.29895v1)|null|
