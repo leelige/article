@@ -2,6 +2,9 @@
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-16 12:14:15**|**Adaptive-Elbow Graph Traversal for Schema Retrieval in Text-to-SQL**|Fabio Picariello et.al.|[2611.20979v1](http://arxiv.org/abs/2611.20979v1)|null|
+|**2026-11-16 09:51:56**|**QuarkDB: A Hybrid Database System for Quantum Data Management**|Wenrui Zhang et.al.|[2611.20807v1](http://arxiv.org/abs/2611.20807v1)|null|
+|**2026-11-16 04:36:07**|**Optimizing Query Decomposition for Reliable Validation**|Shuo Zhang et.al.|[2611.20511v1](http://arxiv.org/abs/2611.20511v1)|null|
 |**2026-11-13 15:49:41**|**MEM-SQL: Memory-Empowered Text-to-SQL**|Xiaoqi Wang et.al.|[2611.18338v1](http://arxiv.org/abs/2611.18338v1)|null|
 |**2026-11-13 05:44:08**|**LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent**|Ibrahim Memon et.al.|[2611.17780v1](http://arxiv.org/abs/2611.17780v1)|[link](https://github.com/IAMIbrahimmemon/luthorsql)|
 |**2026-11-12 18:56:22**|**Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning**|Gustavo Pinto et.al.|[2611.17304v1](http://arxiv.org/abs/2611.17304v1)|null|
@@ -29,6 +32,3 @@
 |**2026-10-30 13:58:55**|**Machine learning surrogates for multi-geometry EDGE2D-EIRENE studies of MAST Upgrade**|George K. Holt et.al.|[2610.41756v1](http://arxiv.org/abs/2610.41756v1)|null|
 |**2026-10-30 08:19:23**|**Fidelity Synopses: Pre-Execution Plan Selection for Approximate Vector Search**|Adithya Ramanatha et.al.|[2610.41407v1](http://arxiv.org/abs/2610.41407v1)|null|
 |**2026-10-30 02:48:37**|**Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses**|Zhichang Yu et.al.|[2610.41172v1](http://arxiv.org/abs/2610.41172v1)|[link](https://github.com/infiniflow/ragflow)|
-|**2026-10-29 12:21:38**|**The Verification Wall in Microbial Metabolomics**|Takahiko Koyama et.al.|[2610.39914v1](http://arxiv.org/abs/2610.39914v1)|null|
-|**2026-10-25 07:44:21**|**Enhancing Type 2 Diabetes Diagnosis with Evolutionary Algorithms and Machine Learning**|Parisa Rezaei et.al.|[2610.34123v1](http://arxiv.org/abs/2610.34123v1)|null|
-|**2026-10-25 00:23:22**|**Benchmarking miRNA Target Prediction Methods**|Congliang Jin et.al.|[2610.33960v1](http://arxiv.org/abs/2610.33960v1)|null|

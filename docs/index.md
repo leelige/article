@@ -1,11 +1,14 @@
 # arxiv-daily
- 自动更新 @ 2026-11-17 01:36:29 Asia/Shanghai
+ 自动更新 @ 2026-11-18 01:09:25 Asia/Shanghai
 
 ## Cost Model
 
 ### Cost Model
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-16 12:14:15**|**Adaptive-Elbow Graph Traversal for Schema Retrieval in Text-to-SQL**|Fabio Picariello et.al.|[2611.20979v1](http://arxiv.org/abs/2611.20979v1)|null|
+|**2026-11-16 09:51:56**|**QuarkDB: A Hybrid Database System for Quantum Data Management**|Wenrui Zhang et.al.|[2611.20807v1](http://arxiv.org/abs/2611.20807v1)|null|
+|**2026-11-16 04:36:07**|**Optimizing Query Decomposition for Reliable Validation**|Shuo Zhang et.al.|[2611.20511v1](http://arxiv.org/abs/2611.20511v1)|null|
 |**2026-11-13 15:49:41**|**MEM-SQL: Memory-Empowered Text-to-SQL**|Xiaoqi Wang et.al.|[2611.18338v1](http://arxiv.org/abs/2611.18338v1)|null|
 |**2026-11-13 05:44:08**|**LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent**|Ibrahim Memon et.al.|[2611.17780v1](http://arxiv.org/abs/2611.17780v1)|[link](https://github.com/IAMIbrahimmemon/luthorsql)|
 |**2026-11-12 18:56:22**|**Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning**|Gustavo Pinto et.al.|[2611.17304v1](http://arxiv.org/abs/2611.17304v1)|null|
@@ -33,15 +36,13 @@
 |**2026-10-30 13:58:55**|**Machine learning surrogates for multi-geometry EDGE2D-EIRENE studies of MAST Upgrade**|George K. Holt et.al.|[2610.41756v1](http://arxiv.org/abs/2610.41756v1)|null|
 |**2026-10-30 08:19:23**|**Fidelity Synopses: Pre-Execution Plan Selection for Approximate Vector Search**|Adithya Ramanatha et.al.|[2610.41407v1](http://arxiv.org/abs/2610.41407v1)|null|
 |**2026-10-30 02:48:37**|**Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses**|Zhichang Yu et.al.|[2610.41172v1](http://arxiv.org/abs/2610.41172v1)|[link](https://github.com/infiniflow/ragflow)|
-|**2026-10-29 12:21:38**|**The Verification Wall in Microbial Metabolomics**|Takahiko Koyama et.al.|[2610.39914v1](http://arxiv.org/abs/2610.39914v1)|null|
-|**2026-10-25 07:44:21**|**Enhancing Type 2 Diabetes Diagnosis with Evolutionary Algorithms and Machine Learning**|Parisa Rezaei et.al.|[2610.34123v1](http://arxiv.org/abs/2610.34123v1)|null|
-|**2026-10-25 00:23:22**|**Benchmarking miRNA Target Prediction Methods**|Congliang Jin et.al.|[2610.33960v1](http://arxiv.org/abs/2610.33960v1)|null|
 
 ## Knob Tuning
 
 ### Knob Tuning
 |Publish Date|Title|Author|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-15 06:42:48**|**Grounding Language Models in Speech Does Not Fix "AI Flavor": Calibrated LLM Judges, Goodhart Traps, and a Preference-Tuning Fix**|Dongwu Qian et.al.|[2611.19840v1](http://arxiv.org/abs/2611.19840v1)|null|
 |**2026-11-08 09:19:09**|**Engineering ferroelectric nanocapacitors through interfacial phonon bias**|Iñigo Robredo-Magro et.al.|[2611.11256v1](http://arxiv.org/abs/2611.11256v1)|null|
 |**2026-11-04 05:48:15**|**How Far Can You Steer? Behavior-Capability Frontiers in Contrastive Activation Addition**|Deepanshu Raj et.al.|[2611.06001v1](http://arxiv.org/abs/2611.06001v1)|null|
 |**2026-11-02 15:25:17**|**Magnetic field as a tuning knob for edge mode interaction in integer quantum Hall interferometers**|Ning Ma et.al.|[2611.03284v1](http://arxiv.org/abs/2611.03284v1)|null|
@@ -59,7 +60,7 @@
 |**2026-09-29 12:43:03**|**Topological Hall Effect Induced by Chiral Spin Textures at the Ferroelectric/Ferromagnetic Interface**|Jingkuan Xiao et.al.|[2609.37406v1](http://arxiv.org/abs/2609.37406v1)|null|
 |**2026-09-29 02:41:29**|**Multicomponent anyons in one-dimensional optical lattices**|Sagarika Basak et.al.|[2609.36554v2](http://arxiv.org/abs/2609.36554v2)|null|
 |**2026-09-24 08:27:35**|**Schedules Are Solvable Symbols: Tuning-Free Compilation of Tile Programs on Dataflow Architectures**|Heru Wang et.al.|[2609.29219v1](http://arxiv.org/abs/2609.29219v1)|null|
-|**2026-09-21 11:26:46**|**Spin-Orbit Induced Confinement of Correlated Bound States in the Continuum**|Kai Chen et.al.|[2609.24429v1](http://arxiv.org/abs/2609.24429v1)|null|
+|**2026-09-21 11:26:46**|**Spin-Exchange Induced Confinement of Correlated Bound States in the Continuum**|Kai Chen et.al.|[2609.24429v2](http://arxiv.org/abs/2609.24429v2)|null|
 |**2026-09-13 14:00:06**|**Preparation of Multimode NOON States via Floquet-Engineered Conditional Chiral Excitation**|Mengxue Li et.al.|[2609.14524v1](http://arxiv.org/abs/2609.14524v1)|null|
 |**2026-09-09 03:27:51**|**PELM: Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling**|Weisi Yang et.al.|[2609.09662v1](http://arxiv.org/abs/2609.09662v1)|[link](https://github.com/imec-nu/PELM)|
 |**2026-09-08 20:21:23**|**Quantum Phase Transitions and Fractional Quantized Anomalous Hall Insulators in Rhombohedral Graphene**|Zach Hadjri et.al.|[2609.09422v1](http://arxiv.org/abs/2609.09422v1)|null|
@@ -71,7 +72,6 @@
 |**2026-08-28 17:56:52**|**Layer-Controlled Intermolecular Coupling and Many-Body Effects in C$_{60}$ Films**|Hai-Lan Luo et.al.|[2608.28583v1](http://arxiv.org/abs/2608.28583v1)|null|
 |**2026-08-28 16:57:09**|**Modifying van der Waals Materials via Cavity Vacuum Fluctuations**|Mohammad Hassan et.al.|[2608.28521v2](http://arxiv.org/abs/2608.28521v2)|null|
 |**2026-08-25 07:11:12**|**Phase-controlled perfect nonlocal spin and charge diode effects in a four-terminal Josephson junction with $p$-wave magnets**|Lovy Sharma et.al.|[2608.24147v1](http://arxiv.org/abs/2608.24147v1)|null|
-|**2026-08-25 03:06:03**|**Quantum-geometry stabilization of dilute fractional Chern insulators**|Ying-Xing Ding et.al.|[2608.24013v1](http://arxiv.org/abs/2608.24013v1)|null|
 
 ## Database Tuning
 
